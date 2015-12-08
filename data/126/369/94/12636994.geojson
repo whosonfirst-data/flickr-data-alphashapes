@@ -1,0 +1,15 @@
+{
+  "id": 12636994,
+  "type": "Feature",
+  "properties": {
+    "name":"Ambleville, France",
+    "placetype":"locality",
+    "woe:id":12636994,
+    "woe:name":"Ambleville, France",
+    "woe:place_id":"wi2jxG6YA5oyaTrt9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.694812,49.148533,1.696701,49.152744],
+  "geometry": {"alpha":1e-05,"bbox":[1.6948120594025,49.148532867432,1.6967010498047,49.152744293213],"coordinates":[[[[1.696486,49.150696],[1.696701,49.150524],[1.696572,49.149292],[1.694812,49.148533],[1.694834,49.14949],[1.694984,49.152744],[1.696486,49.150696]]]],"created":1292518612,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12636994_20101216_2c564f4120.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

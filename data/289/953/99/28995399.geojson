@@ -1,0 +1,15 @@
+{
+  "id": 28995399,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmstad, Utrecht, Netherlands",
+    "placetype":"locality",
+    "woe:id":28995399,
+    "woe:name":"Palmstad, Utrecht, Netherlands",
+    "woe:place_id":"VE8NWembCZVLlwk3Xg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.318412,52.032879,5.332832,52.042591],
+  "geometry": {"alpha":0.00015,"bbox":[5.3184118270874,52.032878875732,5.3328318595886,52.042591094971],"coordinates":[[[[5.325944,52.042591],[5.329442,52.042091],[5.332832,52.033379],[5.318412,52.032879],[5.319764,52.036842],[5.325944,52.042591]]]],"created":1292537682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/28995399_20101216_a2a387b3db.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745194,
+  "type": "Feature",
+  "properties": {
+    "name":"Elk, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745194,
+    "woe:name":"Elk, Pennsylvania, United States",
+    "woe:place_id":"M.6EuXmbCZsFg44p4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.907906,39.725044,-75.907578,39.727459],
+  "geometry": {"alpha":0.00015,"bbox":[-75.907905578613,39.725044250488,-75.907577514648,39.727458953857],"coordinates":[[[[-75.907585,39.727287],[-75.907906,39.725044],[-75.907623,39.727436],[-75.907578,39.727459],[-75.907585,39.727287]]]],"created":1292531922,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/28745194_20101216_fa241f84ed.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

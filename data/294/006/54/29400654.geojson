@@ -1,0 +1,15 @@
+{
+  "id": 29400654,
+  "type": "Feature",
+  "properties": {
+    "name":"Visnove, Slovakia",
+    "placetype":"locality",
+    "woe:id":29400654,
+    "woe:name":"Visnove, Slovakia",
+    "woe:place_id":"1d7.Ys2bCJjkyH4JIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.757065,48.721321,17.761459,48.725479],
+  "geometry": {"alpha":1e-05,"bbox":[17.757064819336,48.721321105957,17.761459350586,48.725479125977],"coordinates":[[[[17.761459,48.724491],[17.760773,48.72364],[17.758026,48.721321],[17.757065,48.724998],[17.760128,48.725479],[17.761326,48.724941],[17.761459,48.724491]]]],"created":1292522620,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/29400654_20101216_70b740ac0e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

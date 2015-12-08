@@ -1,0 +1,15 @@
+{
+  "id": 9854,
+  "type": "Feature",
+  "properties": {
+    "name":"Burton, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9854,
+    "woe:name":"Burton, British Columbia, Canada",
+    "woe:place_id":"PBn1mhSQCZmm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.899094,49.976727,-117.875427,50.005257],
+  "geometry": {"alpha":0.00015,"bbox":[-117.89909362793,49.976726531982,-117.87542724609,50.005256652832],"coordinates":[[[[-117.875427,49.9888],[-117.877579,49.987339],[-117.890251,49.980259],[-117.899094,49.976727],[-117.889282,49.990746],[-117.885529,50.005257],[-117.875427,49.9888]]]],"created":1292437348,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/9854_20101215_683a548af8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

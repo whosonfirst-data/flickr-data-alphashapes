@@ -1,0 +1,15 @@
+{
+  "id": 2407182,
+  "type": "Feature",
+  "properties": {
+    "name":"Fredericktown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2407182,
+    "woe:name":"Fredericktown, Pennsylvania, United States",
+    "woe:place_id":"tJUqV92bBZymmQ5m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.997635,39.993851,-79.996155,40.002598],
+  "geometry": {"alpha":0.00015,"bbox":[-79.997634887695,39.993850708008,-79.996154785156,40.002597808838],"coordinates":[[[[-79.997635,40.000225],[-79.997063,40.002598],[-79.996735,39.99828],[-79.996155,39.994965],[-79.996414,39.993851],[-79.997635,40.000225]]]],"created":1292440685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2407182_20101215_47a23e0a8c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

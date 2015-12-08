@@ -1,0 +1,15 @@
+{
+  "id": 23405139,
+  "type": "Feature",
+  "properties": {
+    "name":"Ta Ta Creek, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":23405139,
+    "woe:name":"Ta Ta Creek, British Columbia, Canada",
+    "woe:place_id":"DuPHMsWbAphAfE9NQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.768646,49.805264,-115.759247,49.810375],
+  "geometry": {"alpha":0.00015,"bbox":[-115.76864624023,49.805263519287,-115.75924682617,49.810375213623],"coordinates":[[[[-115.759247,49.808884],[-115.759911,49.805264],[-115.762093,49.806515],[-115.766785,49.80933],[-115.768646,49.810375],[-115.759247,49.808884]]]],"created":1247917203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3510/shapefiles/23405139_20090718_3daaae6f10.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

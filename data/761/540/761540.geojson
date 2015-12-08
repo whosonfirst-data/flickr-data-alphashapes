@@ -1,0 +1,15 @@
+{
+  "id": 761540,
+  "type": "Feature",
+  "properties": {
+    "name":"Gerp, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":761540,
+    "woe:name":"Gerp, Catalonia, Spain",
+    "woe:place_id":"IXAtsEueB53KJcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.803332,41.811436,0.816335,41.823559],
+  "geometry": {"alpha":0.00015,"bbox":[0.80333197116852,41.811435699463,0.81633502244949,41.823558807373],"coordinates":[[[[0.803332,41.82296],[0.803418,41.823189],[0.803804,41.823559],[0.816335,41.820393],[0.807323,41.811436],[0.803954,41.822262],[0.803332,41.82296]]]],"created":1292516765,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/761540_20101216_4e8f43d571.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

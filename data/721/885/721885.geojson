@@ -1,0 +1,15 @@
+{
+  "id": 721885,
+  "type": "Feature",
+  "properties": {
+    "name":"Roccaspromonte, Molise, Italy",
+    "placetype":"locality",
+    "woe:id":721885,
+    "woe:name":"Roccaspromonte, Molise, Italy",
+    "woe:place_id":"2.Hd6imeA50SDfs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.559888,41.596317,14.573535,41.604332],
+  "geometry": {"alpha":0.00015,"bbox":[14.559887886047,41.59631729126,14.573534965515,41.604331970215],"coordinates":[[[[14.56,41.600891],[14.559888,41.60397],[14.560167,41.604332],[14.568833,41.603168],[14.573535,41.596317],[14.56079,41.600281],[14.56,41.600891]]]],"created":1292443809,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/721885_20101215_3f70b22635.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

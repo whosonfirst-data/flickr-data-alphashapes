@@ -1,0 +1,15 @@
+{
+  "id": 3529,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawkesbury, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3529,
+    "woe:name":"Hawkesbury, Ontario, Canada",
+    "woe:place_id":"016OUS2aBJ5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.629684,45.586964,-74.594818,45.626244],
+  "geometry": {"alpha":0.00015,"bbox":[-74.629684448242,45.586963653564,-74.594818115234,45.626243591309],"coordinates":[[[[-74.609161,45.613564],[-74.597336,45.623882],[-74.594818,45.613262],[-74.604042,45.604763],[-74.612625,45.586964],[-74.629684,45.590511],[-74.626175,45.601486],[-74.626839,45.61367],[-74.625656,45.626244],[-74.615318,45.613579],[-74.610039,45.613567],[-74.609161,45.613564]]]],"created":1292537610,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/3529_20101216_865e1c39c2.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

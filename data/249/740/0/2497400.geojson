@@ -1,0 +1,15 @@
+{
+  "id": 2497400,
+  "type": "Feature",
+  "properties": {
+    "name":"Speakers Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2497400,
+    "woe:name":"Speakers Corner, New York, United States",
+    "woe:place_id":"WOgjqlGbBZVWoiev",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.462425,42.883541,-77.460342,42.885777],
+  "geometry": {"alpha":0.00015,"bbox":[-77.462425231934,42.883541107178,-77.460342407227,42.885776519775],"coordinates":[[[[-77.460831,42.883541],[-77.461494,42.883549],[-77.462425,42.884415],[-77.460785,42.885777],[-77.460342,42.88414],[-77.460449,42.883785],[-77.460831,42.883541]]]],"created":1292538096,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2497400_20101216_102d379bbc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

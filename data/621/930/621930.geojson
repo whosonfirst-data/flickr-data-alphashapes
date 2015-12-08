@@ -1,0 +1,15 @@
+{
+  "id": 621930,
+  "type": "Feature",
+  "properties": {
+    "name":"Serra, Corsica, France",
+    "placetype":"locality",
+    "woe:id":621930,
+    "woe:name":"Serra, Corsica, France",
+    "woe:place_id":"Ra4CEdufA50jFK0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.088954,41.742245,9.103546,41.764332],
+  "geometry": {"alpha":0.00015,"bbox":[9.0889539718628,41.742244720459,9.1035461425781,41.764331817627],"coordinates":[[[[9.103546,41.756203],[9.101657,41.753128],[9.098396,41.74519],[9.088954,41.742245],[9.093933,41.746853],[9.098138,41.753994],[9.099769,41.764332],[9.103546,41.756203]]]],"created":1292523832,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/621930_20101216_544722268b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2517166,
+  "type": "Feature",
+  "properties": {
+    "name":"West Hebron, New York, United States",
+    "placetype":"locality",
+    "woe:id":2517166,
+    "woe:name":"West Hebron, New York, United States",
+    "woe:place_id":"ih4.79ybBJ1GXmgu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.396233,43.216976,-73.356033,43.234821],
+  "geometry": {"alpha":0.00015,"bbox":[-73.39623260498,43.216976165771,-73.356033325195,43.23482131958],"coordinates":[[[[-73.37674,43.234821],[-73.356033,43.229866],[-73.375069,43.219845],[-73.396233,43.216976],[-73.378113,43.230133],[-73.37674,43.234821]]]],"created":1292549482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2517166_20101217_0c39f5fb48.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

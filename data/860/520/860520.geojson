@@ -1,0 +1,15 @@
+{
+  "id": 860520,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirkehamn, Vest-Agder Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":860520,
+    "woe:name":"Kirkehamn, Vest-Agder Fylke, Norway",
+    "woe:place_id":"6V2CrlGRB5wIfvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.52928,58.221725,6.542358,58.236389],
+  "geometry": {"alpha":0.00015,"bbox":[6.5292801856995,58.221725463867,6.5423579216003,58.236389160156],"coordinates":[[[[6.538925,58.231487],[6.542358,58.221725],[6.53329,58.226379],[6.52928,58.229],[6.536388,58.236389],[6.538925,58.231487]]]],"created":1292467741,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/860520_20101216_23072103b2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

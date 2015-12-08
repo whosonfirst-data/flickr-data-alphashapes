@@ -1,0 +1,15 @@
+{
+  "id": 20110755,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbischio, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20110755,
+    "woe:name":"Barbischio, Tuscany, Italy",
+    "woe:place_id":"Swn2puibAZ28OcVlOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.453247,43.455814,11.471443,43.463509],
+  "geometry": {"alpha":0.00015,"bbox":[11.453247070312,43.455814361572,11.47144317627,43.463508605957],"coordinates":[[[[11.453504,43.462139],[11.453247,43.463509],[11.454749,43.462948],[11.471443,43.460644],[11.456594,43.455814],[11.453504,43.462139]]]],"created":1292523549,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/20110755_20101216_8856aebd21.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

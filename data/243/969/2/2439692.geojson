@@ -1,0 +1,15 @@
+{
+  "id": 2439692,
+  "type": "Feature",
+  "properties": {
+    "name":"Linden, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2439692,
+    "woe:name":"Linden, Tennessee, United States",
+    "woe:place_id":"a2e8NpGbBZ9jKBWl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.84169,35.616802,-87.823631,35.62355],
+  "geometry": {"alpha":0.00015,"bbox":[-87.841690063477,35.616802215576,-87.823631286621,35.623550415039],"coordinates":[[[[-87.837715,35.617027],[-87.823631,35.62355],[-87.837318,35.616802],[-87.838348,35.616943],[-87.84169,35.617352],[-87.837715,35.617027]]]],"created":1292454380,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2439692_20101215_d019d0bdca.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

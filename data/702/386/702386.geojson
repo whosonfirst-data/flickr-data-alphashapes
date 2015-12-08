@@ -1,0 +1,15 @@
+{
+  "id": 702386,
+  "type": "Feature",
+  "properties": {
+    "name":"Villmar, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":702386,
+    "woe:name":"Villmar, Hesse, Germany",
+    "woe:place_id":"zb4PbXCeAZ6uYGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.175759,50.387482,8.197345,50.397289],
+  "geometry": {"alpha":0.00015,"bbox":[8.1757593154907,50.387481689453,8.1973447799683,50.397289276123],"coordinates":[[[[8.178012,50.39127],[8.177239,50.391941],[8.175759,50.397289],[8.192946,50.39566],[8.197345,50.396374],[8.186702,50.387482],[8.178012,50.39127]]]],"created":1292505486,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/702386_20101216_050cf88455.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

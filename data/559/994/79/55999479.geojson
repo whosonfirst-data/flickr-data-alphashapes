@@ -1,0 +1,15 @@
+{
+  "id": 55999479,
+  "type": "Feature",
+  "properties": {
+    "name":"Mono Road, Shelburne, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999479,
+    "woe:name":"Mono Road, Shelburne, ON, CA, Canada",
+    "woe:place_id":"GDAMM_ycBJX8nsj2Pg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.841339,43.867001,-79.839943,43.867542],
+  "geometry": {"alpha":1e-05,"bbox":[-79.841339111328,43.867000579834,-79.839942932129,43.867542266846],"coordinates":[[[[-79.841339,43.867115],[-79.841331,43.867165],[-79.839943,43.867542],[-79.840836,43.867001],[-79.841339,43.867115]]]],"created":1292496856,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/55999479_20101216_f76233bfca.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 678541,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuhof, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":678541,
+    "woe:name":"Neuhof, Hesse, Germany",
+    "woe:place_id":"hG5gGNefBpRBo44",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.204781,50.168015,8.226833,50.181831],
+  "geometry": {"alpha":0.00015,"bbox":[8.2047805786133,50.168014526367,8.2268333435059,50.181831359863],"coordinates":[[[[8.20713,50.172279],[8.218319,50.176414],[8.226833,50.181831],[8.217333,50.168331],[8.209662,50.168079],[8.204781,50.168015],[8.20713,50.172279]]]],"created":1292531335,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/678541_20101216_563aca25fe.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

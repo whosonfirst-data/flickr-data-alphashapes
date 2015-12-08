@@ -1,0 +1,15 @@
+{
+  "id": 20107969,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20107969,
+    "woe:name":"Rocca, Piedmont, Italy",
+    "woe:place_id":"cbj85YObAZ3aNjRx6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.093981,45.171494,8.101601,45.17886],
+  "geometry": {"alpha":0.00015,"bbox":[8.0939807891846,45.171493530273,8.1016006469727,45.178859710693],"coordinates":[[[[8.101601,45.173626],[8.101301,45.172901],[8.099069,45.171494],[8.093981,45.173302],[8.099477,45.17886],[8.101601,45.173626]]]],"created":1292524626,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/20107969_20101216_e02b5a861d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

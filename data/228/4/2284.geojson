@@ -1,0 +1,15 @@
+{
+  "id": 2284,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbey, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2284,
+    "woe:name":"Abbey, Saskatchewan, Canada",
+    "woe:place_id":"yNZ_2t6bA5QB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.760483,50.733402,-108.754471,50.73925],
+  "geometry": {"alpha":0.00015,"bbox":[-108.76048278809,50.733402252197,-108.7544708252,50.739250183105],"coordinates":[[[[-108.760483,50.73925],[-108.758057,50.737499],[-108.755836,50.735558],[-108.754471,50.734077],[-108.75705,50.733402],[-108.759109,50.733837],[-108.760483,50.73925]]]],"created":1292465227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2284_20101216_db36a07103.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

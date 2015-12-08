@@ -1,0 +1,15 @@
+{
+  "id": 3482,
+  "type": "Feature",
+  "properties": {
+    "name":"La Minerve, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3482,
+    "woe:name":"La Minerve, Quebec, Canada",
+    "woe:place_id":"_3vbykCaBZQt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.004562,46.273144,-74.979767,46.293045],
+  "geometry": {"alpha":0.00015,"bbox":[-75.00456237793,46.273143768311,-74.979766845703,46.293045043945],"coordinates":[[[[-74.982803,46.274002],[-74.987206,46.273144],[-74.998726,46.286816],[-75.004562,46.293045],[-75.003487,46.29266],[-74.988708,46.291073],[-74.984962,46.290836],[-74.979767,46.275623],[-74.982803,46.274002]]]],"created":1292534840,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/3482_20101216_9f96a40407.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

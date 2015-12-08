@@ -1,0 +1,15 @@
+{
+  "id": 12580350,
+  "type": "Feature",
+  "properties": {
+    "name":"Pombal, Paraiba, Brazil",
+    "placetype":"county",
+    "woe:id":12580350,
+    "woe:name":"Pombal, Paraiba, Brazil",
+    "woe:place_id":"D9uGTF.YA5lGDpT0bA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-37.809448,-6.767494,-37.76413,-6.714391],
+  "geometry": {"alpha":0.0015,"bbox":[-37.809448242188,-6.7674942016602,-37.764129638672,-6.7143912315369],"coordinates":[[[[-37.796917,-6.767281],[-37.809448,-6.75326],[-37.803955,-6.748487],[-37.76413,-6.714391],[-37.796059,-6.767494],[-37.796917,-6.767281]]]],"created":1292526636,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12580350_20101216_35308be366.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

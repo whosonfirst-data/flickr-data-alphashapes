@@ -1,0 +1,15 @@
+{
+  "id": 716296,
+  "type": "Feature",
+  "properties": {
+    "name":"Gouthier, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":716296,
+    "woe:name":"Gouthier, Piedmont, Italy",
+    "woe:place_id":"AYadtCaeAJrm_j8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.776894,45.064335,6.793508,45.082005],
+  "geometry": {"alpha":0.00015,"bbox":[6.7768940925598,45.064334869385,6.7935080528259,45.082004547119],"coordinates":[[[[6.786833,45.064335],[6.776894,45.075306],[6.790065,45.082005],[6.7935,45.073666],[6.793508,45.07365],[6.787525,45.064339],[6.786833,45.064335]]]],"created":1292453652,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/716296_20101215_91feba4b69.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

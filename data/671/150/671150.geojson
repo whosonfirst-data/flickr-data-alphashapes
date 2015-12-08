@@ -1,0 +1,15 @@
+{
+  "id": 671150,
+  "type": "Feature",
+  "properties": {
+    "name":"Lembeck, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":671150,
+    "woe:name":"Lembeck, North Rhine-Westphalia, Germany",
+    "woe:place_id":"ollj42afBp3hXOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.998548,51.74345,7.004728,51.763306],
+  "geometry": {"alpha":0.00015,"bbox":[6.9985480308533,51.743450164795,7.0047278404236,51.763305664062],"coordinates":[[[[7.004041,51.762527],[7.004728,51.760456],[6.998634,51.74345],[6.998548,51.761997],[7.001724,51.763306],[7.004041,51.762527]]]],"created":1292498889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/671150_20101216_e990443b9c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

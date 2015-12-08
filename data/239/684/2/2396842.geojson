@@ -1,0 +1,15 @@
+{
+  "id": 2396842,
+  "type": "Feature",
+  "properties": {
+    "name":"Echo Hill, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2396842,
+    "woe:name":"Echo Hill, Maryland, United States",
+    "woe:place_id":"bs8HqGWbApX2CDuF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.121391,39.354691,-76.111565,39.371777],
+  "geometry": {"alpha":0.00015,"bbox":[-76.121391296387,39.354690551758,-76.11156463623,39.371776580811],"coordinates":[[[[-76.113029,39.36248],[-76.114014,39.360889],[-76.121391,39.354691],[-76.114494,39.362221],[-76.111565,39.371777],[-76.113029,39.36248]]]],"created":1292517736,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2396842_20101216_0ea126f40c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

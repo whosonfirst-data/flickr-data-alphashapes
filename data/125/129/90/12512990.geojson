@@ -1,0 +1,15 @@
+{
+  "id": 12512990,
+  "type": "Feature",
+  "properties": {
+    "name":"Yundum International Airport, The Gambia",
+    "placetype":"locality",
+    "woe:id":12512990,
+    "woe:name":"Yundum International Airport, The Gambia",
+    "woe:place_id":"MPPTJ_qYA5nxpsXvEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.653728,13.340434,-16.652355,13.342689],
+  "geometry": {"alpha":1e-05,"bbox":[-16.653728485107,13.340434074402,-16.652355194092,13.342688560486],"coordinates":[[[[-16.653214,13.342689],[-16.652355,13.342605],[-16.652414,13.342105],[-16.652784,13.34152],[-16.653728,13.340434],[-16.653214,13.342689]]]],"created":1292526546,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12512990_20101216_6320dd7ca9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

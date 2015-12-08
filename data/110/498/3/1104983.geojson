@@ -1,0 +1,15 @@
+{
+  "id": 1104983,
+  "type": "Feature",
+  "properties": {
+    "name":"Perth, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1104983,
+    "woe:name":"Perth, Tasmania, Australia",
+    "woe:place_id":"OFila32YAJz_mwsk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.166031,-41.582668,147.1875,-41.551723],
+  "geometry": {"alpha":0.00015,"bbox":[147.16603088379,-41.582668304443,147.1875,-41.551723480225],"coordinates":[[[[147.180099,-41.582668],[147.177811,-41.579151],[147.168304,-41.573784],[147.166031,-41.562675],[147.184311,-41.551723],[147.182297,-41.565628],[147.1875,-41.574833],[147.180099,-41.582668]]]],"created":1292546628,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/1104983_20101217_2804fb4a03.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678846,
+  "type": "Feature",
+  "properties": {
+    "name":"Compiano, Italy",
+    "placetype":"locality",
+    "woe:id":12678846,
+    "woe:name":"Compiano, Italy",
+    "woe:place_id":"m70SpwqYA5r7QUYtIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.660243,44.49522,9.662604,44.498158],
+  "geometry": {"alpha":1e-05,"bbox":[9.6602430343628,44.495220184326,9.6626043319702,44.498157501221],"coordinates":[[[[9.662604,44.49522],[9.662325,44.495861],[9.660243,44.497482],[9.660415,44.49773],[9.66093,44.498158],[9.662593,44.496536],[9.662604,44.49522]]]],"created":1292547910,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12678846_20101217_91805246f0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

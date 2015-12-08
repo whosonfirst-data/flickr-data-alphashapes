@@ -1,0 +1,15 @@
+{
+  "id": 2397399,
+  "type": "Feature",
+  "properties": {
+    "name":"Edison Station, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2397399,
+    "woe:name":"Edison Station, Washington, United States",
+    "woe:place_id":"uNhdNdqbApXrk6qJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.428032,48.565132,-122.420105,48.568314],
+  "geometry": {"alpha":0.00015,"bbox":[-122.42803192139,48.565132141113,-122.42010498047,48.568313598633],"coordinates":[[[[-122.420998,48.565132],[-122.424255,48.56559],[-122.428032,48.565163],[-122.421509,48.568314],[-122.420105,48.565189],[-122.420998,48.565132]]]],"created":1292532488,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2397399_20101216_07c6d1e1a9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

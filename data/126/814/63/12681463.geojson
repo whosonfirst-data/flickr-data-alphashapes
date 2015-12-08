@@ -1,0 +1,15 @@
+{
+  "id": 12681463,
+  "type": "Feature",
+  "properties": {
+    "name":"Rolo, Italy",
+    "placetype":"locality",
+    "woe:id":12681463,
+    "woe:name":"Rolo, Italy",
+    "woe:place_id":"T2VkEoyYA5pgzV9yog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.854728,44.886402,10.859663,44.890076],
+  "geometry": {"alpha":1e-05,"bbox":[10.854727745056,44.886402130127,10.859663009644,44.890075683594],"coordinates":[[[[10.858397,44.88657],[10.857839,44.886402],[10.854728,44.887249],[10.859663,44.890076],[10.858397,44.88657]]]],"created":1292532368,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12681463_20101216_6fbf623be4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

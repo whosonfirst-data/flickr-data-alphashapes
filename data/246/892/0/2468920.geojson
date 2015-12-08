@@ -1,0 +1,15 @@
+{
+  "id": 2468920,
+  "type": "Feature",
+  "properties": {
+    "name":"Parsons, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2468920,
+    "woe:name":"Parsons, Pennsylvania, United States",
+    "woe:place_id":"9Ua5XLybBZrBlyO4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.852013,41.251095,-75.833847,41.258499],
+  "geometry": {"alpha":0.00015,"bbox":[-75.852012634277,41.251094818115,-75.833847045898,41.258499145508],"coordinates":[[[[-75.837334,41.258499],[-75.83448,41.253571],[-75.833847,41.251492],[-75.852013,41.251095],[-75.838837,41.257168],[-75.837334,41.258499]]]],"created":1292440921,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2468920_20101215_7a8f6f7ed6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

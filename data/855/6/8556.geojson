@@ -1,0 +1,15 @@
+{
+  "id": 8556,
+  "type": "Feature",
+  "properties": {
+    "name":"Provost, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8556,
+    "woe:name":"Provost, Alberta, Canada",
+    "woe:place_id":"99gmYO6RBJkq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.276085,52.346771,-110.247047,52.362919],
+  "geometry": {"alpha":0.00015,"bbox":[-110.2760848999,52.346771240234,-110.24704742432,52.36291885376],"coordinates":[[[[-110.263657,52.355488],[-110.276085,52.346771],[-110.268288,52.36113],[-110.26857,52.362919],[-110.247047,52.360729],[-110.251495,52.349865],[-110.263657,52.355488]]]],"created":1292545813,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/8556_20101217_b47a654f24.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

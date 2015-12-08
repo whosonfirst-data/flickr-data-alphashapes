@@ -1,0 +1,15 @@
+{
+  "id": 12660542,
+  "type": "Feature",
+  "properties": {
+    "name":"Domessin, France",
+    "placetype":"locality",
+    "woe:id":12660542,
+    "woe:name":"Domessin, France",
+    "woe:place_id":"qkBAS3SYA5ogbqjzog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.707333,45.537285,5.714221,45.539661],
+  "geometry": {"alpha":1e-05,"bbox":[5.7073330879211,45.537284851074,5.7142210006714,45.539661407471],"coordinates":[[[[5.708684,45.539661],[5.714221,45.537685],[5.708599,45.537285],[5.707333,45.539459],[5.708684,45.539661]]]],"created":1234638363,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3506/shapefiles/12660542_20090214_25d46d6628.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

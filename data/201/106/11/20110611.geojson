@@ -1,0 +1,15 @@
+{
+  "id": 20110611,
+  "type": "Feature",
+  "properties": {
+    "name":"Banchette, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20110611,
+    "woe:name":"Banchette, Piedmont, Italy",
+    "woe:place_id":"SdShtdGbAZ0vqGMMVA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.860374,45.452633,7.868549,45.463863],
+  "geometry": {"alpha":0.00015,"bbox":[7.8603739738464,45.452632904053,7.8685488700867,45.463863372803],"coordinates":[[[[7.860374,45.452633],[7.861511,45.456173],[7.861919,45.463863],[7.868549,45.458805],[7.862808,45.4529],[7.860374,45.452633]]]],"created":1292441617,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20110611_20101215_66d717d2bc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

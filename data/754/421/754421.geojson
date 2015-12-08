@@ -1,0 +1,15 @@
+{
+  "id": 754421,
+  "type": "Feature",
+  "properties": {
+    "name":"Berodia, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":754421,
+    "woe:name":"Berodia, Asturias, Spain",
+    "woe:place_id":"8v90vBKeBJh6m48",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.881792,43.307724,-4.870204,43.316284],
+  "geometry": {"alpha":0.00015,"bbox":[-4.8817920684814,43.307723999023,-4.8702039718628,43.316284179688],"coordinates":[[[[-4.881792,43.316284],[-4.877071,43.314484],[-4.870204,43.315231],[-4.878401,43.307724],[-4.881491,43.310627],[-4.881792,43.316284]]]],"created":1292544130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/754421_20101217_7457cff0a5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

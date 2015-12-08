@@ -1,0 +1,15 @@
+{
+  "id": 2445637,
+  "type": "Feature",
+  "properties": {
+    "name":"Marianna, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2445637,
+    "woe:name":"Marianna, Arkansas, United States",
+    "woe:place_id":"dJFpJMCbBZgbYOfz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.759537,34.767586,-90.752274,34.774635],
+  "geometry": {"alpha":0.00015,"bbox":[-90.759536743164,34.767585754395,-90.75227355957,34.774635314941],"coordinates":[[[[-90.756241,34.774635],[-90.752274,34.767586],[-90.757973,34.772251],[-90.759537,34.773712],[-90.75695,34.774521],[-90.756241,34.774635]]]],"created":1292545285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2445637_20101217_e64fb3c7e5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

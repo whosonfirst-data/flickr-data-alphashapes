@@ -1,0 +1,15 @@
+{
+  "id": 20092610,
+  "type": "Feature",
+  "properties": {
+    "name":"Wapley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092610,
+    "woe:name":"Wapley, England, United Kingdom",
+    "woe:place_id":"ssbYg7ybAZyNVuCUGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.41785,51.5163,-2.408215,51.524338],
+  "geometry": {"alpha":0.00015,"bbox":[-2.4178500175476,51.516300201416,-2.408215045929,51.524337768555],"coordinates":[[[[-2.41785,51.522175],[-2.41564,51.522202],[-2.408215,51.524338],[-2.41366,51.5163],[-2.415146,51.518517],[-2.41785,51.522175]]]],"created":1292449203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/20092610_20101215_39d7c8ce85.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

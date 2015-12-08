@@ -1,0 +1,15 @@
+{
+  "id": 12638615,
+  "type": "Feature",
+  "properties": {
+    "name":"Belvoir, France",
+    "placetype":"locality",
+    "woe:id":12638615,
+    "woe:name":"Belvoir, France",
+    "woe:place_id":"QwZMpgmYA5r7npaR5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.601753,47.314713,6.605443,47.320206],
+  "geometry": {"alpha":1e-05,"bbox":[6.6017532348633,47.314712524414,6.6054430007935,47.320205688477],"coordinates":[[[[6.603596,47.319336],[6.605443,47.320206],[6.605324,47.318127],[6.601924,47.314713],[6.601753,47.317356],[6.603596,47.319336]]]],"created":1292487123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12638615_20101216_508874c564.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

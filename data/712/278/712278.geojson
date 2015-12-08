@@ -1,0 +1,15 @@
+{
+  "id": 712278,
+  "type": "Feature",
+  "properties": {
+    "name":"Carisio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":712278,
+    "woe:name":"Carisio, Piedmont, Italy",
+    "woe:place_id":"ab.9VGSeAJ6AuxY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.239108,45.391697,8.244187,45.404053],
+  "geometry": {"alpha":0.00015,"bbox":[8.2391080856323,45.391696929932,8.2441873550415,45.404052734375],"coordinates":[[[[8.244187,45.402992],[8.241103,45.39238],[8.239108,45.391697],[8.241291,45.403934],[8.241977,45.404053],[8.244187,45.402992]]]],"created":1292443783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/712278_20101215_572269d610.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

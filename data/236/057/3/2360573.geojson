@@ -1,0 +1,15 @@
+{
+  "id": 2360573,
+  "type": "Feature",
+  "properties": {
+    "name":"Beacon Hill, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2360573,
+    "woe:name":"Beacon Hill, Maryland, United States",
+    "woe:place_id":"bmCz5fabApqnpByz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.63224,39.474903,-76.630302,39.477074],
+  "geometry": {"alpha":0.00015,"bbox":[-76.63224029541,39.474903106689,-76.630302429199,39.477073669434],"coordinates":[[[[-76.630302,39.475563],[-76.630325,39.474903],[-76.63224,39.475632],[-76.630859,39.477074],[-76.630302,39.475563]]]],"created":1292529962,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2360573_20101216_76a5e16560.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

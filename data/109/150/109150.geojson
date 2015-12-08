@@ -1,0 +1,15 @@
+{
+  "id": 109150,
+  "type": "Feature",
+  "properties": {
+    "name":"Hopewell, Saint Ann, Jamaica",
+    "placetype":"locality",
+    "woe:id":109150,
+    "woe:name":"Hopewell, Saint Ann, Jamaica",
+    "woe:place_id":"Pv6H8m.YAZWHRkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.102051,18.325848,-77.085571,18.347683],
+  "geometry": {"alpha":0.00015,"bbox":[-77.10205078125,18.325847625732,-77.085571289062,18.347682952881],"coordinates":[[[[-77.086945,18.347683],[-77.085571,18.338882],[-77.092438,18.336275],[-77.102051,18.325848],[-77.093727,18.335951],[-77.086945,18.347683]]]],"created":1292443239,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/109150_20101215_cbd45ea26d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

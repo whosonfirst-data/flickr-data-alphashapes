@@ -1,0 +1,15 @@
+{
+  "id": 728570,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilp, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":728570,
+    "woe:name":"Wilp, Groningen, Netherlands",
+    "woe:place_id":"wtXDHW6eA5RhLB0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.240166,53.113811,6.258087,53.11845],
+  "geometry": {"alpha":0.00015,"bbox":[6.2401661872864,53.11381149292,6.2580871582031,53.118450164795],"coordinates":[[[[6.2524,53.117802],[6.258087,53.114223],[6.252593,53.113811],[6.2494,53.116219],[6.240166,53.118],[6.24966,53.11845],[6.2524,53.117802]]]],"created":1292535795,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/728570_20101216_eb60ec3b2e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

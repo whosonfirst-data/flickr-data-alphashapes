@@ -1,0 +1,15 @@
+{
+  "id": 2507391,
+  "type": "Feature",
+  "properties": {
+    "name":"Town and Country, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2507391,
+    "woe:name":"Town and Country, Louisiana, United States",
+    "woe:place_id":"E9lj7D.bBJwsnJXy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.066498,32.558678,-92.055389,32.559818],
+  "geometry": {"alpha":0.00015,"bbox":[-92.066497802734,32.55867767334,-92.055389404297,32.559818267822],"coordinates":[[[[-92.066208,32.559818],[-92.065216,32.559765],[-92.055389,32.559547],[-92.065086,32.558678],[-92.066498,32.559818],[-92.066208,32.559818]]]],"created":1292550252,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2507391_20101217_92e123fcf8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

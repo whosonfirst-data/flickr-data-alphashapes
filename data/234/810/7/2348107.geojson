@@ -1,0 +1,15 @@
+{
+  "id": 2348107,
+  "type": "Feature",
+  "properties": {
+    "name":"Awaroa, Auckland, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348107,
+    "woe:name":"Awaroa, Auckland, New Zealand",
+    "woe:place_id":"iCRw5h2bApg8kicp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [175.102325,-36.830723,175.123276,-36.794437],
+  "geometry": {"alpha":0.0001875,"bbox":[175.10232543945,-36.830722808838,175.12327575684,-36.794437408447],"coordinates":[[[[175.112457,-36.798428],[175.118637,-36.794437],[175.121902,-36.80901],[175.123276,-36.829075],[175.117096,-36.830723],[175.102325,-36.809628],[175.112457,-36.798428]]]],"created":1292517247,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2348107_20101216_28e0d6be6c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

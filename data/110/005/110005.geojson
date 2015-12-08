@@ -1,0 +1,15 @@
+{
+  "id": 110005,
+  "type": "Feature",
+  "properties": {
+    "name":"Spot Valley, Saint James, Jamaica",
+    "placetype":"locality",
+    "woe:id":110005,
+    "woe:name":"Spot Valley, Saint James, Jamaica",
+    "woe:place_id":"KmKh99SYAJz0Sck",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.793846,18.490028,-77.754364,18.521935],
+  "geometry": {"alpha":0.00015,"bbox":[-77.793846130371,18.490028381348,-77.754364013672,18.521934509277],"coordinates":[[[[-77.764847,18.514811],[-77.766342,18.514238],[-77.770157,18.513796],[-77.785263,18.511599],[-77.783546,18.490028],[-77.793846,18.499634],[-77.793327,18.519737],[-77.78904,18.518679],[-77.769638,18.517376],[-77.754364,18.521935],[-77.764847,18.514811]]]],"created":1292457582,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/110005_20101215_e9387cd4da.tar.gz"},"points":82,"type":"MultiPolygon"}
+}

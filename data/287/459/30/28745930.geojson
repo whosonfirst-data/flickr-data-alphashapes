@@ -1,0 +1,15 @@
+{
+  "id": 28745930,
+  "type": "Feature",
+  "properties": {
+    "name":"Orange, Dallas, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":28745930,
+    "woe:name":"Orange, Dallas, PA, US, United States",
+    "woe:place_id":"F4sAreibCZuBbwp8aw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.898827,41.39819,-75.89846,41.400642],
+  "geometry": {"alpha":1e-05,"bbox":[-75.898826599121,41.398189544678,-75.898460388184,41.40064239502],"coordinates":[[[[-75.898643,41.399216],[-75.898827,41.400642],[-75.898766,41.400505],[-75.89856,41.399586],[-75.89846,41.39819],[-75.898643,41.399216]]]],"created":1292548079,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/28745930_20101217_7e9b64cf71.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

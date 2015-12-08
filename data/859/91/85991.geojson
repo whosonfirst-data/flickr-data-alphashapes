@@ -1,0 +1,15 @@
+{
+  "id": 85991,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Eulalia, Huehuetenango, Guatemala",
+    "placetype":"locality",
+    "woe:id":85991,
+    "woe:name":"Santa Eulalia, Huehuetenango, Guatemala",
+    "woe:place_id":"b9CSYV6RBJXSTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.470108,15.716916,-91.450195,15.734101],
+  "geometry": {"alpha":0.00015,"bbox":[-91.470108032227,15.71691608429,-91.4501953125,15.734101295471],"coordinates":[[[[-91.461868,15.732614],[-91.450195,15.721543],[-91.455688,15.716916],[-91.458778,15.724352],[-91.470108,15.734101],[-91.461868,15.732614]]]],"created":1292531286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/85991_20101216_8077d5616d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

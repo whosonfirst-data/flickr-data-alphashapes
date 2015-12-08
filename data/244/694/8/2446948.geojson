@@ -1,0 +1,15 @@
+{
+  "id": 2446948,
+  "type": "Feature",
+  "properties": {
+    "name":"Mauckport, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2446948,
+    "woe:name":"Mauckport, Indiana, United States",
+    "woe:place_id":"6rA0TX6bBZi2LIr2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.20285,38.016857,-86.194611,38.024567],
+  "geometry": {"alpha":0.00015,"bbox":[-86.202850341797,38.016857147217,-86.194610595703,38.024566650391],"coordinates":[[[[-86.197357,38.017262],[-86.20285,38.024567],[-86.195168,38.0215],[-86.194611,38.020237],[-86.197014,38.016857],[-86.197357,38.017262]]]],"created":1292375764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2446948_20101215_e2e0755904.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

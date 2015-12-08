@@ -1,0 +1,15 @@
+{
+  "id": 2507187,
+  "type": "Feature",
+  "properties": {
+    "name":"Tophill, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2507187,
+    "woe:name":"Tophill, Oregon, United States",
+    "woe:place_id":"I3ynGZmbBJw.1_Pf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.204803,45.738354,-123.191238,45.764229],
+  "geometry": {"alpha":0.00015,"bbox":[-123.2048034668,45.738353729248,-123.19123840332,45.764228820801],"coordinates":[[[[-123.199654,45.75267],[-123.204803,45.764229],[-123.198494,45.758144],[-123.191238,45.750996],[-123.199921,45.738354],[-123.199654,45.75267]]]],"created":1292548356,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2507187_20101217_1a6149f102.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

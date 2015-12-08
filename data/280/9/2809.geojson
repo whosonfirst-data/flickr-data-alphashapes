@@ -1,0 +1,15 @@
+{
+  "id": 2809,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Valley, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2809,
+    "woe:name":"Spring Valley, Saskatchewan, Canada",
+    "woe:place_id":"_HgYYjKbCZyd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.403725,49.943462,-105.402306,49.944813],
+  "geometry": {"alpha":0.00015,"bbox":[-105.40372467041,49.943462371826,-105.40230560303,49.944812774658],"coordinates":[[[[-105.403297,49.943462],[-105.403725,49.944031],[-105.402351,49.944813],[-105.402306,49.944729],[-105.402527,49.943707],[-105.403297,49.943462]]]],"created":1292446754,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2809_20101215_4f600c7837.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 551011,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberlienz, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":551011,
+    "woe:name":"Oberlienz, Tyrol, Austria",
+    "woe:place_id":"YPv61aKcBJ30buE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.727661,46.836006,12.737789,46.846111],
+  "geometry": {"alpha":0.00015,"bbox":[12.727661132812,46.836006164551,12.737789154053,46.846111297607],"coordinates":[[[[12.730493,46.844635],[12.733594,46.846008],[12.733835,46.846111],[12.737789,46.836006],[12.727661,46.841408],[12.729485,46.844166],[12.730493,46.844635]]]],"created":1292545479,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/551011_20101217_c41a6d5b1e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

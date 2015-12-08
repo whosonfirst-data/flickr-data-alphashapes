@@ -1,0 +1,15 @@
+{
+  "id": 711773,
+  "type": "Feature",
+  "properties": {
+    "name":"Calzolaro, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":711773,
+    "woe:name":"Calzolaro, Umbria, Italy",
+    "woe:place_id":"l4Dx5KKeAJ2rsSM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.209243,43.334557,12.224392,43.349396],
+  "geometry": {"alpha":0.00015,"bbox":[12.20924282074,43.33455657959,12.224391937256,43.349395751953],"coordinates":[[[[12.217949,43.349396],[12.224392,43.349163],[12.22229,43.34528],[12.213492,43.334557],[12.209243,43.336666],[12.21529,43.348732],[12.217949,43.349396]]]],"created":1292539531,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/711773_20101216_663043f4c4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

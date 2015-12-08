@@ -1,0 +1,15 @@
+{
+  "id": 24529,
+  "type": "Feature",
+  "properties": {
+    "name":"Ireland, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":24529,
+    "woe:name":"Ireland, England, United Kingdom",
+    "woe:place_id":"pEM4oEybBZkMzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.3483,52.058479,-0.34667,52.061462],
+  "geometry": {"alpha":0.00015,"bbox":[-0.3483000099659,52.058479309082,-0.34667000174522,52.061462402344],"coordinates":[[[[-0.347957,52.060669],[-0.3483,52.061462],[-0.34745,52.060711],[-0.34698,52.059978],[-0.346927,52.059879],[-0.34667,52.058479],[-0.347957,52.060669]]]],"created":1292455685,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/24529_20101215_d994986bd1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

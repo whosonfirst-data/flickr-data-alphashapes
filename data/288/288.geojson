@@ -1,0 +1,15 @@
+{
+  "id": 288,
+  "type": "Feature",
+  "properties": {
+    "name":"Churchill, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":288,
+    "woe:name":"Churchill, Ontario, Canada",
+    "woe:place_id":"ACvexgKbCZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.607101,44.214508,-79.589684,44.266037],
+  "geometry": {"alpha":0.00015,"bbox":[-79.60710144043,44.214508056641,-79.589683532715,44.266036987305],"coordinates":[[[[-79.600067,44.250793],[-79.601196,44.251869],[-79.607101,44.264378],[-79.591911,44.266037],[-79.589684,44.242214],[-79.593369,44.225704],[-79.60067,44.214508],[-79.599548,44.227364],[-79.595261,44.237206],[-79.600067,44.250793]]]],"created":1292548502,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/288_20101217_f4e46ca929.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

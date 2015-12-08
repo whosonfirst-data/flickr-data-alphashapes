@@ -1,0 +1,15 @@
+{
+  "id": 12521658,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosecrans Memorial Airport, United States",
+    "placetype":"locality",
+    "woe:id":12521658,
+    "woe:name":"Rosecrans Memorial Airport, United States",
+    "woe:place_id":"kP4Ut4OYA5lge0DNRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.905586,39.76675,-94.902222,39.773167],
+  "geometry": {"alpha":1e-05,"bbox":[-94.905586242676,39.766750335693,-94.902221679688,39.773166656494],"coordinates":[[[[-94.903336,39.770515],[-94.902222,39.769848],[-94.903908,39.76675],[-94.905586,39.770515],[-94.904503,39.773167],[-94.903336,39.770515]]]],"created":1292454162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12521658_20101215_3b32e4485a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

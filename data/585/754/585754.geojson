@@ -1,0 +1,15 @@
+{
+  "id": 585754,
+  "type": "Feature",
+  "properties": {
+    "name":"Cheylade, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":585754,
+    "woe:name":"Cheylade, Auvergne, France",
+    "woe:place_id":"Q8_xCnqcCZmdaow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.712163,45.208469,2.717056,45.211475],
+  "geometry": {"alpha":0.00015,"bbox":[2.7121629714966,45.208469390869,2.7170560359955,45.211475372314],"coordinates":[[[[2.715682,45.211189],[2.717056,45.210827],[2.717056,45.208469],[2.715897,45.209373],[2.712163,45.211475],[2.715682,45.211189]]]],"created":1292528004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/585754_20101216_78cf6a4ff7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

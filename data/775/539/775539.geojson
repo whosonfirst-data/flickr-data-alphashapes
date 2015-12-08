@@ -1,0 +1,15 @@
+{
+  "id": 775539,
+  "type": "Feature",
+  "properties": {
+    "name":"Tolva, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":775539,
+    "woe:name":"Tolva, Aragon, Spain",
+    "woe:place_id":"iAPINRWeBpmVMD4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.56159,42.103699,0.56425,42.116688],
+  "geometry": {"alpha":0.00015,"bbox":[0.56159001588821,42.103698730469,0.56424999237061,42.116687774658],"coordinates":[[[[0.562705,42.116688],[0.56425,42.11618],[0.564004,42.115524],[0.56387,42.115292],[0.562363,42.103699],[0.56159,42.114841],[0.562705,42.116688]]]],"created":1292447647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/775539_20101215_8a7d39b9de.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

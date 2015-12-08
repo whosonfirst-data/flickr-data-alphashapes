@@ -1,0 +1,15 @@
+{
+  "id": 3586,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-Louis, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3586,
+    "woe:name":"Mont-Louis, Quebec, Canada",
+    "woe:place_id":"astbBwOaBJTL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.758163,49.207897,-65.710831,49.239498],
+  "geometry": {"alpha":0.00015,"bbox":[-65.758163452148,49.207897186279,-65.710830688477,49.239498138428],"coordinates":[[[[-65.743385,49.233627],[-65.758163,49.239498],[-65.740814,49.235645],[-65.740295,49.235535],[-65.718842,49.237328],[-65.710831,49.238167],[-65.717918,49.236534],[-65.726479,49.229733],[-65.714546,49.211933],[-65.724335,49.207897],[-65.736694,49.216476],[-65.743385,49.233627]]]],"created":1292546922,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/3586_20101217_aee496a15b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

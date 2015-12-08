@@ -1,0 +1,15 @@
+{
+  "id": 600115,
+  "type": "Feature",
+  "properties": {
+    "name":"La Touche, Centre, France",
+    "placetype":"locality",
+    "woe:id":600115,
+    "woe:name":"La Touche, Centre, France",
+    "woe:place_id":"spbTIUmfAZxU_Ek",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.416238,48.143532,1.424027,48.147621],
+  "geometry": {"alpha":0.00015,"bbox":[1.416237950325,48.143531799316,1.424026966095,48.147621154785],"coordinates":[[[[1.421817,48.144382],[1.418995,48.143791],[1.418319,48.143578],[1.416581,48.143532],[1.416302,48.143547],[1.416238,48.143581],[1.417794,48.146091],[1.423459,48.147621],[1.424027,48.145805],[1.421817,48.144382]]]],"created":1292454245,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/600115_20101215_2abac12214.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

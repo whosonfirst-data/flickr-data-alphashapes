@@ -1,0 +1,15 @@
+{
+  "id": 20151206,
+  "type": "Feature",
+  "properties": {
+    "name":"Kippholmen, Vastra Gotaland, Sweden",
+    "placetype":"locality",
+    "woe:id":20151206,
+    "woe:name":"Kippholmen, Vastra Gotaland, Sweden",
+    "woe:place_id":"pKGvVvSbAZ1lB4ZMUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.832146,57.788155,11.846694,57.79377],
+  "geometry": {"alpha":0.00015,"bbox":[11.832145690918,57.788154602051,11.846693992615,57.793769836426],"coordinates":[[[[11.83485,57.79163],[11.837253,57.792271],[11.844763,57.79377],[11.846694,57.788155],[11.832146,57.789299],[11.83485,57.79163]]]],"created":1292549536,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20151206_20101217_670b9c84da.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

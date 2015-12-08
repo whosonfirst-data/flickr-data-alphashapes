@@ -1,0 +1,15 @@
+{
+  "id": 724033,
+  "type": "Feature",
+  "properties": {
+    "name":"Sennori, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":724033,
+    "woe:name":"Sennori, Sardinia, Italy",
+    "woe:place_id":"SlbNFJmeA5gRa7I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.586587,40.783955,8.605427,40.796364],
+  "geometry": {"alpha":0.00015,"bbox":[8.5865869522095,40.783954620361,8.6054267883301,40.796363830566],"coordinates":[[[[8.590965,40.791458],[8.586587,40.793327],[8.59281,40.796364],[8.599419,40.794376],[8.605427,40.783955],[8.595246,40.789066],[8.590965,40.791458]]]],"created":1292536506,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/724033_20101216_b95011ce28.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

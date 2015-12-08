@@ -1,0 +1,15 @@
+{
+  "id": 2358932,
+  "type": "Feature",
+  "properties": {
+    "name":"Bangor, California, United States",
+    "placetype":"locality",
+    "woe:id":2358932,
+    "woe:name":"Bangor, California, United States",
+    "woe:place_id":"8GaahXibApn8Ijwp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.406136,39.376591,-121.389191,39.39473],
+  "geometry": {"alpha":0.00015,"bbox":[-121.40613555908,39.37659072876,-121.38919067383,39.394729614258],"coordinates":[[[[-121.389191,39.379704],[-121.390129,39.376591],[-121.390343,39.376995],[-121.406136,39.389309],[-121.400162,39.39473],[-121.389191,39.379704]]]],"created":1292519780,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2358932_20101216_c7667514d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

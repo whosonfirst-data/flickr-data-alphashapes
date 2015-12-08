@@ -1,0 +1,15 @@
+{
+  "id": 552263,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellinge, Syddanmark, Denmark",
+    "placetype":"locality",
+    "woe:id":552263,
+    "woe:name":"Bellinge, Syddanmark, Denmark",
+    "woe:place_id":"2PCG1VucBJ6IzsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.292129,55.335545,10.31054,55.342831],
+  "geometry": {"alpha":0.00015,"bbox":[10.292128562927,55.335544586182,10.31054019928,55.342830657959],"coordinates":[[[[10.31054,55.335575],[10.310497,55.335545],[10.310432,55.335552],[10.292129,55.342831],[10.310218,55.338459],[10.31054,55.335575]]]],"created":1292540823,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/552263_20101216_a475b173ac.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2400912,
+  "type": "Feature",
+  "properties": {
+    "name":"Evergreen Beach, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2400912,
+    "woe:name":"Evergreen Beach, Michigan, United States",
+    "woe:place_id":"G8v0OZebBZxvQbmd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.984566,45.492252,-83.959641,45.496719],
+  "geometry": {"alpha":0.00015,"bbox":[-83.984565734863,45.492252349854,-83.95964050293,45.496719360352],"coordinates":[[[[-83.959663,45.493633],[-83.959641,45.493347],[-83.961136,45.492661],[-83.984566,45.492252],[-83.961639,45.496719],[-83.959663,45.493633]]]],"created":1292525233,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2400912_20101216_21088dbfd5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

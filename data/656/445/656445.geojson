@@ -1,0 +1,15 @@
+{
+  "id": 656445,
+  "type": "Feature",
+  "properties": {
+    "name":"Hagenwerder, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":656445,
+    "woe:name":"Hagenwerder, Saxony, Germany",
+    "woe:place_id":"4d0RBomfBJpoGqI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.946556,51.053829,14.966382,51.079964],
+  "geometry": {"alpha":0.00015,"bbox":[14.946556091309,51.053829193115,14.966382026672,51.079963684082],"coordinates":[[[[14.958121,51.055901],[14.957016,51.063885],[14.946556,51.079964],[14.96325,51.071827],[14.966382,51.060387],[14.958593,51.053829],[14.958121,51.055901]]]],"created":1292466722,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/656445_20101216_278671cf49.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12306,
+  "type": "Feature",
+  "properties": {
+    "name":"Belle Vue, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12306,
+    "woe:name":"Belle Vue, Wales, United Kingdom",
+    "woe:place_id":"IXNfYBOYA59V3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.946833,52.953033,-3.937225,52.961113],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9468328952789,52.953033447266,-3.9372251033783,52.961112976074],"coordinates":[[[[-3.937826,52.954842],[-3.941173,52.953033],[-3.946833,52.953835],[-3.945722,52.959263],[-3.937225,52.961113],[-3.937826,52.954842]]]],"created":1292482561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12306_20101216_20f84b488d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

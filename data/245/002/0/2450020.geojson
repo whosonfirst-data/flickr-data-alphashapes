@@ -1,0 +1,15 @@
+{
+  "id": 2450020,
+  "type": "Feature",
+  "properties": {
+    "name":"Miami, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2450020,
+    "woe:name":"Miami, Texas, United States",
+    "woe:place_id":"7NfCfLabBZnDrLJT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.640495,35.68367,-100.635582,35.693092],
+  "geometry": {"alpha":0.00015,"bbox":[-100.64049530029,35.683670043945,-100.63558197021,35.693092346191],"coordinates":[[[[-100.637794,35.692429],[-100.635712,35.693092],[-100.635643,35.693012],[-100.635582,35.692924],[-100.639259,35.68367],[-100.640495,35.68457],[-100.640099,35.691998],[-100.637794,35.692429]]]],"created":1292532548,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2450020_20101216_a13b117e10.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

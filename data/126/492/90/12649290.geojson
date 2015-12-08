@@ -1,0 +1,15 @@
+{
+  "id": 12649290,
+  "type": "Feature",
+  "properties": {
+    "name":"Montcaret, France",
+    "placetype":"locality",
+    "woe:id":12649290,
+    "woe:name":"Montcaret, France",
+    "woe:place_id":"E51P1ZOYA5pkJRbS4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.061283,44.855526,0.065832,44.859882],
+  "geometry": {"alpha":1e-05,"bbox":[0.061282999813557,44.855525970459,0.065831996500492,44.859882354736],"coordinates":[[[[0.064201,44.859882],[0.065832,44.856262],[0.061283,44.855526],[0.063428,44.858879],[0.064201,44.859882]]]],"created":1234860970,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3557/shapefiles/12649290_20090217_c3818828f3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2500086,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockton, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2500086,
+    "woe:name":"Stockton, Illinois, United States",
+    "woe:place_id":"iFNzIFGbBJxeFunU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.014587,42.342937,-89.99353,42.358543],
+  "geometry": {"alpha":0.00015,"bbox":[-90.014587402344,42.342937469482,-89.993530273438,42.358543395996],"coordinates":[[[[-90.005409,42.358543],[-90.001633,42.357162],[-89.99353,42.35783],[-90.006912,42.345177],[-90.014587,42.342937],[-90.009354,42.355659],[-90.005409,42.358543]]]],"created":1292532386,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2500086_20101216_225637c556.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

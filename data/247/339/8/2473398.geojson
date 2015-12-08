@@ -1,0 +1,15 @@
+{
+  "id": 2473398,
+  "type": "Feature",
+  "properties": {
+    "name":"Plainview, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2473398,
+    "woe:name":"Plainview, Louisiana, United States",
+    "woe:place_id":"PDVNKG.bBZu.ZxRu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.987823,30.52981,-90.954567,30.547995],
+  "geometry": {"alpha":0.00015,"bbox":[-90.987823486328,30.529809951782,-90.954566955566,30.547994613647],"coordinates":[[[[-90.954567,30.547995],[-90.957314,30.52981],[-90.966843,30.540321],[-90.987823,30.535133],[-90.976021,30.545815],[-90.954567,30.547995]]]],"created":1292526834,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2473398_20101216_5ef69c9e97.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 332508,
+  "type": "Feature",
+  "properties": {
+    "name":"San Cayetano, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":332508,
+    "woe:name":"San Cayetano, Buenos Aires, Argentina",
+    "woe:place_id":"m3d6yfKaAp4jF1o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.618683,-38.34576,-59.59156,-38.336876],
+  "geometry": {"alpha":0.00015,"bbox":[-59.618682861328,-38.345760345459,-59.59156036377,-38.336875915527],"coordinates":[[[[-59.6101,-38.342327],[-59.609413,-38.342396],[-59.59156,-38.336876],[-59.609585,-38.34576],[-59.618683,-38.339569],[-59.6101,-38.342327]]]],"created":1292550962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/332508_20101217_0164f48a31.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

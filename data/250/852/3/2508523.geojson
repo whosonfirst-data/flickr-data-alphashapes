@@ -1,0 +1,15 @@
+{
+  "id": 2508523,
+  "type": "Feature",
+  "properties": {
+    "name":"Tully, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2508523,
+    "woe:name":"Tully, Florida, United States",
+    "woe:place_id":"tXx_xi.bBJxdbhXz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.385796,30.096601,-84.37706,30.11768],
+  "geometry": {"alpha":0.00015,"bbox":[-84.385795593262,30.096601486206,-84.377059936523,30.117679595947],"coordinates":[[[[-84.378365,30.104156],[-84.385796,30.096601],[-84.378731,30.104555],[-84.37706,30.11768],[-84.37854,30.10463],[-84.378365,30.104156]]]],"created":1292538635,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2508523_20101216_9c309c363d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

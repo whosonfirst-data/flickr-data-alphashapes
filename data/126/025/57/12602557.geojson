@@ -1,0 +1,15 @@
+{
+  "id": 12602557,
+  "type": "Feature",
+  "properties": {
+    "name":"Herbeumont, Belgium",
+    "placetype":"locality",
+    "woe:id":12602557,
+    "woe:name":"Herbeumont, Belgium",
+    "woe:place_id":"dr6xtxuYA5pmcNFTFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.271377,49.810753,5.277042,49.814117],
+  "geometry": {"alpha":1e-05,"bbox":[5.2713770866394,49.810752868652,5.2770419120789,49.814117431641],"coordinates":[[[[5.271377,49.813786],[5.272321,49.813702],[5.277042,49.814117],[5.274381,49.810753],[5.27275,49.812569],[5.271377,49.813786]]]],"created":1292540031,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12602557_20101216_ff992060bb.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

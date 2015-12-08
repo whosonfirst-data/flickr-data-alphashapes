@@ -1,0 +1,15 @@
+{
+  "id": 624922,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Julien, Brittany, France",
+    "placetype":"locality",
+    "woe:id":624922,
+    "woe:name":"St.-Julien, Brittany, France",
+    "woe:place_id":"9w.hWi.fA5jiX10",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.084583,47.465527,-3.079261,47.470402],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0845830440521,47.465526580811,-3.0792610645294,47.470401763916],"coordinates":[[[[-3.08218,47.470112],[-3.079583,47.469398],[-3.079261,47.465527],[-3.081579,47.466801],[-3.084583,47.470402],[-3.08218,47.470112]]]],"created":1247808485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3529/shapefiles/624922_20090717_117db5c0a1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

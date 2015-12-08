@@ -1,0 +1,15 @@
+{
+  "id": 12845,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackbrook, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12845,
+    "woe:name":"Blackbrook, England, United Kingdom",
+    "woe:place_id":"ZOUWpGeYA5TejQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.347834,52.942608,-2.326011,52.950146],
+  "geometry": {"alpha":0.00015,"bbox":[-2.34783411026,52.942607879639,-2.3260109424591,52.950145721436],"coordinates":[[[[-2.338714,52.943981],[-2.347834,52.947964],[-2.342576,52.947601],[-2.326756,52.950146],[-2.326011,52.948586],[-2.336708,52.942608],[-2.338714,52.943981]]]],"created":1292528793,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12845_20101216_870c41899b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

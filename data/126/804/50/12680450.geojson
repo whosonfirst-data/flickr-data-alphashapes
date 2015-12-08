@@ -1,0 +1,15 @@
+{
+  "id": 12680450,
+  "type": "Feature",
+  "properties": {
+    "name":"Montauro, Italy",
+    "placetype":"locality",
+    "woe:id":12680450,
+    "woe:name":"Montauro, Italy",
+    "woe:place_id":"ifcb1xyYA5qZIDSMyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.557941,38.741264,16.559797,38.747055],
+  "geometry": {"alpha":1e-05,"bbox":[16.557941436768,38.741264343262,16.559797286987,38.747055053711],"coordinates":[[[[16.558285,38.741348],[16.557941,38.741264],[16.558113,38.7425],[16.558971,38.744778],[16.558542,38.747055],[16.559797,38.744328],[16.558285,38.741348]]]],"created":1292530117,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12680450_20101216_a43b6e415e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

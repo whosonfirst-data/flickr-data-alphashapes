@@ -1,0 +1,15 @@
+{
+  "id": 2432739,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingsley, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2432739,
+    "woe:name":"Kingsley, Kentucky, United States",
+    "woe:place_id":"qVEhDOqbBZ.qQZCW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.674133,38.222572,-85.661774,38.231438],
+  "geometry": {"alpha":0.00015,"bbox":[-85.674133300781,38.22257232666,-85.661773681641,38.231437683105],"coordinates":[[[[-85.66658,38.231438],[-85.662117,38.2309],[-85.661774,38.230629],[-85.667999,38.222572],[-85.674133,38.226852],[-85.66658,38.231438]]]],"created":1292547485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2432739_20101217_3c988b12db.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

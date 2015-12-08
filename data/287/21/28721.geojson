@@ -1,0 +1,15 @@
+{
+  "id": 28721,
+  "type": "Feature",
+  "properties": {
+    "name":"Meppershall, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28721,
+    "woe:name":"Meppershall, England, United Kingdom",
+    "woe:place_id":"nT6ZuASbCZsxOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.348987,52.00507,-0.334712,52.018063],
+  "geometry": {"alpha":0.00015,"bbox":[-0.34898701310158,52.005069732666,-0.3347119987011,52.018062591553],"coordinates":[[[[-0.341262,52.016796],[-0.339374,52.018063],[-0.336799,52.017746],[-0.334712,52.016979],[-0.348987,52.00507],[-0.341262,52.016796]]]],"created":1292455682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/28721_20101215_2a1105fd58.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2505991,
+  "type": "Feature",
+  "properties": {
+    "name":"Thrall, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2505991,
+    "woe:name":"Thrall, Texas, United States",
+    "woe:place_id":"DX6ijwKbBJwhJMwp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.298546,30.587288,-97.292412,30.596252],
+  "geometry": {"alpha":0.00015,"bbox":[-97.298545837402,30.587287902832,-97.292411804199,30.596252441406],"coordinates":[[[[-97.297867,30.587288],[-97.298546,30.588766],[-97.298439,30.589361],[-97.297668,30.596252],[-97.292412,30.588938],[-97.297867,30.587288]]]],"created":1292507588,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2505991_20101216_2c2d6be1f1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

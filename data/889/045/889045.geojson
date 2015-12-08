@@ -1,0 +1,15 @@
+{
+  "id": 889045,
+  "type": "Feature",
+  "properties": {
+    "name":"Ersmark, Vasterbotten, Sweden",
+    "placetype":"locality",
+    "woe:id":889045,
+    "woe:name":"Ersmark, Vasterbotten, Sweden",
+    "woe:place_id":"jwO7cGiRCZWPihk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.323505,63.88789,20.324184,63.888218],
+  "geometry": {"alpha":0.00015,"bbox":[20.323505401611,63.887889862061,20.324184417725,63.888217926025],"coordinates":[[[[20.323648,63.888046],[20.323925,63.888218],[20.324184,63.888042],[20.324118,63.88789],[20.323505,63.88789],[20.323565,63.88797],[20.323648,63.888046]]]],"created":1292523207,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/889045_20101216_fb1aa5e33b.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

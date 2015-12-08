@@ -1,0 +1,15 @@
+{
+  "id": 12513027,
+  "type": "Feature",
+  "properties": {
+    "name":"Gibraltar Airport, Gibraltar",
+    "placetype":"locality",
+    "woe:id":12513027,
+    "woe:name":"Gibraltar Airport, Gibraltar",
+    "woe:place_id":"OhWtfL.YA5k2nT7VoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.348281,36.145824,-5.343217,36.152966],
+  "geometry": {"alpha":1e-05,"bbox":[-5.3482809066772,36.145824432373,-5.3432168960571,36.152965545654],"coordinates":[[[[-5.346908,36.150524],[-5.348281,36.151703],[-5.347294,36.152966],[-5.346093,36.152657],[-5.343217,36.150764],[-5.346801,36.145824],[-5.346908,36.150524]]]],"created":1292486827,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12513027_20101216_bd971dcafe.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

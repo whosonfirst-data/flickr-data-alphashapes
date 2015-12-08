@@ -1,0 +1,15 @@
+{
+  "id": 736663,
+  "type": "Feature",
+  "properties": {
+    "name":"Avenal, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":736663,
+    "woe:name":"Avenal, Lisbon, Portugal",
+    "woe:place_id":"xGR4kHyeAprq2YI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.100477,39.16687,-9.091572,39.17186],
+  "geometry": {"alpha":0.00015,"bbox":[-9.1004772186279,39.166870117188,-9.0915718078613,39.171859741211],"coordinates":[[[[-9.100477,39.168823],[-9.100327,39.1689],[-9.092388,39.17186],[-9.091572,39.171295],[-9.096164,39.16687],[-9.100477,39.168823]]]],"created":1239344891,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3371/shapefiles/736663_20090410_b7d92562b9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

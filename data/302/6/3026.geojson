@@ -1,0 +1,15 @@
+{
+  "id": 3026,
+  "type": "Feature",
+  "properties": {
+    "name":"Miami, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3026,
+    "woe:name":"Miami, Manitoba, Canada",
+    "woe:place_id":"RFpkTf.aAZ4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.244469,49.369854,-98.243607,49.370525],
+  "geometry": {"alpha":0.00015,"bbox":[-98.244468688965,49.369853973389,-98.243606567383,49.370525360107],"coordinates":[[[[-98.24369,49.369854],[-98.244469,49.369995],[-98.244377,49.370525],[-98.243782,49.370148],[-98.243607,49.369854],[-98.24369,49.369854]]]],"created":1292546387,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/3026_20101217_83e1209bf1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

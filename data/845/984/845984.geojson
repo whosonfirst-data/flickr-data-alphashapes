@@ -1,0 +1,15 @@
+{
+  "id": 845984,
+  "type": "Feature",
+  "properties": {
+    "name":"Turi, Jarva County, Estonia",
+    "placetype":"locality",
+    "woe:id":845984,
+    "woe:name":"Turi, Jarva County, Estonia",
+    "woe:place_id":"9OPRQASRBZmb9ME",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.415224,58.806274,25.443993,58.82085],
+  "geometry": {"alpha":0.00015,"bbox":[25.415224075317,58.806274414062,25.443992614746,58.820850372314],"coordinates":[[[[25.429831,58.820339],[25.443993,58.82085],[25.437813,58.813118],[25.417557,58.806274],[25.415224,58.810467],[25.424166,58.819073],[25.429831,58.820339]]]],"created":1248223696,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3216/shapefiles/845984_20090722_14fcf12f0d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

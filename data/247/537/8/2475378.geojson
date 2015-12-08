@@ -1,0 +1,15 @@
+{
+  "id": 2475378,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Gibson, New York, United States",
+    "placetype":"locality",
+    "woe:id":2475378,
+    "woe:name":"Port Gibson, New York, United States",
+    "woe:place_id":"9mVTm8KbBZv.R7Lc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.166893,43.034569,-77.145653,43.047329],
+  "geometry": {"alpha":0.00015,"bbox":[-77.166893005371,43.034568786621,-77.145652770996,43.047328948975],"coordinates":[[[[-77.145653,43.045055],[-77.153397,43.034569],[-77.15741,43.035896],[-77.165955,43.045368],[-77.166893,43.047329],[-77.145653,43.045055]]]],"created":1292454854,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2475378_20101215_d5210d49f8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

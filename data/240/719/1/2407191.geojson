@@ -1,0 +1,15 @@
+{
+  "id": 2407191,
+  "type": "Feature",
+  "properties": {
+    "name":"Fredonia, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2407191,
+    "woe:name":"Fredonia, Indiana, United States",
+    "woe:place_id":"0VpRlACbBZyFPyeU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.385887,38.172352,-86.381638,38.177952],
+  "geometry": {"alpha":0.00015,"bbox":[-86.385887145996,38.172351837158,-86.381637573242,38.177951812744],"coordinates":[[[[-86.383179,38.177952],[-86.381638,38.17775],[-86.381676,38.172352],[-86.385529,38.175835],[-86.385887,38.17738],[-86.383179,38.177952]]]],"created":1292517425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2407191_20101216_328f99b8d2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2511139,
+  "type": "Feature",
+  "properties": {
+    "name":"Van Dorn Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511139,
+    "woe:name":"Van Dorn Corner, New York, United States",
+    "woe:place_id":"ws9iWWGbBJ0bPRPH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.593643,42.452644,-76.593414,42.452763],
+  "geometry": {"alpha":0.00015,"bbox":[-76.593643188477,42.452644348145,-76.593414306641,42.45276260376],"coordinates":[[[[-76.593483,42.452679],[-76.593643,42.452763],[-76.593468,42.452686],[-76.593414,42.452644],[-76.593483,42.452679]]]],"created":1292423281,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2511139_20101215_8641826e78.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

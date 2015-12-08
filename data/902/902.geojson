@@ -1,0 +1,15 @@
+{
+  "id": 902,
+  "type": "Feature",
+  "properties": {
+    "name":"Lotbini\u00e8re, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":902,
+    "woe:name":"Lotbini\u00e8re, Quebec, Canada",
+    "woe:place_id":"_iQNFKWQAZ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.947464,46.613312,-71.935303,46.616978],
+  "geometry": {"alpha":0.00015,"bbox":[-71.947463989258,46.613311767578,-71.935302734375,46.61697769165],"coordinates":[[[[-71.935646,46.616852],[-71.935303,46.616978],[-71.935341,46.616756],[-71.935684,46.616638],[-71.947464,46.613312],[-71.935646,46.616852]]]],"created":1292503987,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/902_20101216_1503bfc8f9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

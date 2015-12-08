@@ -1,0 +1,15 @@
+{
+  "id": 2404874,
+  "type": "Feature",
+  "properties": {
+    "name":"Footes, Boston, NY, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2404874,
+    "woe:name":"Footes, Boston, NY, US, United States",
+    "woe:place_id":"BrRx1VebBZx46qOM",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-78.631897,42.587482,-78.626228,42.591637],
+  "geometry": {"alpha":1e-05,"bbox":[-78.631896972656,42.587482452393,-78.62622833252,42.591636657715],"coordinates":[[[[-78.629173,42.587814],[-78.631897,42.591637],[-78.627602,42.591511],[-78.627434,42.591244],[-78.626228,42.589005],[-78.626228,42.587482],[-78.629173,42.587814]]]],"created":1292459296,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2404874_20101216_665a4736e9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

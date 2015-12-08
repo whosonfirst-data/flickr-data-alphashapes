@@ -1,0 +1,15 @@
+{
+  "id": 2434261,
+  "type": "Feature",
+  "properties": {
+    "name":"La Lande, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2434261,
+    "woe:name":"La Lande, New Mexico, United States",
+    "woe:place_id":"GGI76WabBZ9CwyMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.197937,34.403652,-104.193359,34.404396],
+  "geometry": {"alpha":0.00015,"bbox":[-104.19793701172,34.403652191162,-104.193359375,34.404396057129],"coordinates":[[[[-104.193359,34.403694],[-104.194336,34.403652],[-104.197937,34.403652],[-104.193993,34.404396],[-104.19342,34.403854],[-104.193359,34.403694]]]],"created":1292540404,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2434261_20101216_d2790196cf.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12643883,
+  "type": "Feature",
+  "properties": {
+    "name":"Fozzano, France",
+    "placetype":"locality",
+    "woe:id":12643883,
+    "woe:name":"Fozzano, France",
+    "woe:place_id":"TmOOPFiYA5oVgIykhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.983383,41.698551,8.992137,41.705769],
+  "geometry": {"alpha":1e-05,"bbox":[8.9833831787109,41.698551177979,8.9921369552612,41.705768585205],"coordinates":[[[[8.98643,41.705769],[8.989849,41.702198],[8.992137,41.698551],[8.988238,41.702099],[8.988194,41.702106],[8.983383,41.701305],[8.98643,41.705769]]]],"created":1292540076,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12643883_20101216_0c21e74312.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

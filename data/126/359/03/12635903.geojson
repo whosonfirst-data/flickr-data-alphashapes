@@ -1,0 +1,15 @@
+{
+  "id": 12635903,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Osterburg, Germany",
+    "placetype":"locality",
+    "woe:id":12635903,
+    "woe:name":"Gemeinde Osterburg, Germany",
+    "woe:place_id":"J97Xn1WYA5qWnhtJdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.717519,52.795082,11.722787,52.798286],
+  "geometry": {"alpha":1e-05,"bbox":[11.717518806458,52.795082092285,11.722786903381,52.798286437988],"coordinates":[[[[11.719064,52.795082],[11.717519,52.796574],[11.720051,52.798286],[11.720845,52.798077],[11.722787,52.79776],[11.719064,52.795082]]]],"created":1292507829,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12635903_20101216_c3d3b5c4c4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

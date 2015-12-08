@@ -1,0 +1,15 @@
+{
+  "id": 2500052,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockdale, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2500052,
+    "woe:name":"Stockdale, Indiana, United States",
+    "woe:place_id":"Vt007dCbBJzo2YgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.944412,40.913673,-85.935875,40.916496],
+  "geometry": {"alpha":0.00015,"bbox":[-85.944412231445,40.913673400879,-85.935874938965,40.916496276855],"coordinates":[[[[-85.944412,40.913673],[-85.942955,40.916496],[-85.935875,40.91391],[-85.941299,40.9137],[-85.944412,40.913673]]]],"created":1292539917,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2500052_20101216_f09f6798da.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

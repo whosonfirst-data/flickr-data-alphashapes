@@ -1,0 +1,15 @@
+{
+  "id": 33114,
+  "type": "Feature",
+  "properties": {
+    "name":"Rendham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33114,
+    "woe:name":"Rendham, England, United Kingdom",
+    "woe:place_id":"EEXAT4iaAp2Lgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.432342,52.222961,1.454229,52.231163],
+  "geometry": {"alpha":0.00015,"bbox":[1.4323420524597,52.222961425781,1.4542289972305,52.231163024902],"coordinates":[[[[1.440238,52.229061],[1.454229,52.222961],[1.439638,52.228271],[1.432342,52.229061],[1.432342,52.231163],[1.438694,52.229534],[1.440238,52.229061]]]],"created":1292550841,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/33114_20101217_efc23edb0a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

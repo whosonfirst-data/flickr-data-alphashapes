@@ -1,0 +1,15 @@
+{
+  "id": 28585904,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Plain, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28585904,
+    "woe:name":"Long Plain, New South Wales, Australia",
+    "woe:place_id":"C.yN0LSbCZmLvaUjzw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.540298,-35.712509,148.556778,-35.670128],
+  "geometry": {"alpha":0.00015,"bbox":[148.54029846191,-35.712509155273,148.5567779541,-35.670127868652],"coordinates":[[[[148.550262,-35.670128],[148.556778,-35.675217],[148.550262,-35.689999],[148.54631,-35.712509],[148.540298,-35.692089],[148.551971,-35.672916],[148.550262,-35.670128]]]],"created":1292489406,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/28585904_20101216_91bb1d000c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 730460,
+  "type": "Feature",
+  "properties": {
+    "name":"Hupsel, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730460,
+    "woe:name":"Hupsel, Gelderland, Netherlands",
+    "woe:place_id":"gXeoeKaeApyYAjk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.599564,52.080322,6.610722,52.085346],
+  "geometry": {"alpha":0.00015,"bbox":[6.59956407547,52.080322265625,6.6107220649719,52.085346221924],"coordinates":[[[[6.610722,52.085148],[6.608963,52.08466],[6.599564,52.080322],[6.604027,52.085335],[6.604199,52.085346],[6.608791,52.084991],[6.610722,52.085148]]]],"created":1292458616,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/730460_20101216_8686332012.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

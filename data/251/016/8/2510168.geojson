@@ -1,0 +1,15 @@
+{
+  "id": 2510168,
+  "type": "Feature",
+  "properties": {
+    "name":"University Place, Ogden, UT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2510168,
+    "woe:name":"University Place, Ogden, UT, US, United States",
+    "woe:place_id":"CcP940.bBJ1RG1.5",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-111.940552,41.206299,-111.937119,41.208038],
+  "geometry": {"alpha":1e-05,"bbox":[-111.94055175781,41.206298828125,-111.93711853027,41.208038330078],"coordinates":[[[[-111.940384,41.207493],[-111.939697,41.208038],[-111.937119,41.206299],[-111.940552,41.207058],[-111.940384,41.207493]]]],"created":1292523344,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2510168_20101216_a7a8db9d33.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23394374,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallichan, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394374,
+    "woe:name":"Gallichan, Quebec, Canada",
+    "woe:place_id":"GwATdKKbAp8W9mOGTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.289703,48.599091,-79.272797,48.605618],
+  "geometry": {"alpha":0.00015,"bbox":[-79.289703369141,48.599090576172,-79.272796630859,48.605617523193],"coordinates":[[[[-79.289528,48.602211],[-79.289703,48.605618],[-79.272797,48.601528],[-79.285927,48.599091],[-79.289528,48.602211]]]],"created":1229535853,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3105/shapefiles/23394374_20081217_e1c9a5ba8e.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2435450,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeside, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2435450,
+    "woe:name":"Lakeside, Ohio, United States",
+    "woe:place_id":"hmLBGSqbBZ.B5E.t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.51458,39.918839,-82.50901,39.920906],
+  "geometry": {"alpha":0.00015,"bbox":[-82.514579772949,39.918838500977,-82.509010314941,39.920906066895],"coordinates":[[[[-82.50901,39.920685],[-82.510803,39.918839],[-82.513145,39.919273],[-82.51458,39.920906],[-82.50901,39.920685]]]],"created":1248277104,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3503/shapefiles/2435450_20090722_92d3d5eac5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

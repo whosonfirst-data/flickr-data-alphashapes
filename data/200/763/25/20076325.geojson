@@ -1,0 +1,15 @@
+{
+  "id": 20076325,
+  "type": "Feature",
+  "properties": {
+    "name":"Spessa, Italy",
+    "placetype":"locality",
+    "woe:id":20076325,
+    "woe:name":"Spessa, Italy",
+    "woe:place_id":"ho8uCd6bAZzWFvAACg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.359339,45.127571,9.360538,45.1283],
+  "geometry": {"alpha":1e-05,"bbox":[9.359338760376,45.127571105957,9.3605375289917,45.128299713135],"coordinates":[[[[9.359404,45.127571],[9.359339,45.127895],[9.359339,45.127991],[9.359533,45.1283],[9.360538,45.127846],[9.359404,45.127571]]]],"created":1292454899,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20076325_20101215_236cafb3b1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

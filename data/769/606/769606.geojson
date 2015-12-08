@@ -1,0 +1,15 @@
+{
+  "id": 769606,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrio Pavones, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":769606,
+    "woe:name":"Barrio Pavones, Madrid, Spain",
+    "woe:place_id":"XzIYkh6eB5XX0GE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.637161,40.391533,-3.628921,40.408268],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6371610164642,40.391532897949,-3.6289210319519,40.408267974854],"coordinates":[[[[-3.637161,40.400818],[-3.633728,40.408268],[-3.635101,40.403561],[-3.628921,40.391533],[-3.637161,40.392056],[-3.637161,40.400818]]]],"created":1292458743,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/769606_20101216_a9885869ca.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

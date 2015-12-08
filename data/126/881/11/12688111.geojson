@@ -1,0 +1,15 @@
+{
+  "id": 12688111,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa del Prado, Spain",
+    "placetype":"locality",
+    "woe:id":12688111,
+    "woe:name":"Villa del Prado, Spain",
+    "woe:place_id":"QIE6ApyYA5pmy_rhUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.31282,40.283062,-4.3087,40.286987],
+  "geometry": {"alpha":1e-05,"bbox":[-4.3128199577332,40.283061981201,-4.3087000846863,40.286987304688],"coordinates":[[[[-4.3087,40.286858],[-4.3087,40.283062],[-4.311103,40.283978],[-4.31282,40.286987],[-4.3087,40.286858]]]],"created":1292471042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12688111_20101216_eaac3a8faf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

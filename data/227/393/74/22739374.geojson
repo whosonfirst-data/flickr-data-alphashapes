@@ -1,0 +1,15 @@
+{
+  "id": 22739374,
+  "type": "Feature",
+  "properties": {
+    "name":"Midway Point, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":22739374,
+    "woe:name":"Midway Point, Tasmania, Australia",
+    "woe:place_id":"npDjww6bA5v5bE_t5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.514801,-42.814102,147.534134,-42.794434],
+  "geometry": {"alpha":0.00015,"bbox":[147.51480102539,-42.814102172852,147.53413391113,-42.79443359375],"coordinates":[[[[147.533646,-42.80294],[147.530334,-42.814102],[147.518158,-42.809822],[147.514801,-42.803333],[147.531128,-42.794434],[147.534134,-42.801384],[147.533646,-42.80294]]]],"created":1292540889,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/22739374_20101216_fa758b665a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

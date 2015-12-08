@@ -1,0 +1,15 @@
+{
+  "id": 550470,
+  "type": "Feature",
+  "properties": {
+    "name":"Baumkirchen, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550470,
+    "woe:name":"Baumkirchen, Tyrol, Austria",
+    "woe:place_id":"3.PRwFqcBJyaB0E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.544914,47.292271,11.570234,47.300625],
+  "geometry": {"alpha":0.00015,"bbox":[11.544914245605,47.2922706604,11.570234298706,47.300624847412],"coordinates":[[[[11.570234,47.300625],[11.56929,47.294365],[11.567916,47.294598],[11.556415,47.292271],[11.544914,47.298325],[11.558389,47.297653],[11.570234,47.300625]]]],"created":1292548808,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/550470_20101217_280542c547.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

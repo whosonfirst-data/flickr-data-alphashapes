@@ -1,0 +1,15 @@
+{
+  "id": 12690292,
+  "type": "Feature",
+  "properties": {
+    "name":"Villarrobledo, Spain",
+    "placetype":"locality",
+    "woe:id":12690292,
+    "woe:name":"Villarrobledo, Spain",
+    "woe:place_id":"yKE5KPKYA5q8y1BjiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.609767,39.26429,-2.606506,39.273899],
+  "geometry": {"alpha":1e-05,"bbox":[-2.609766960144,39.264289855957,-2.6065061092377,39.273899078369],"coordinates":[[[[-2.606506,39.268944],[-2.607246,39.266731],[-2.609767,39.26429],[-2.608222,39.26841],[-2.608866,39.273899],[-2.606506,39.268944]]]],"created":1292534069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12690292_20101216_3ebe3df9d9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

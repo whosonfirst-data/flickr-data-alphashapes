@@ -1,0 +1,15 @@
+{
+  "id": 597751,
+  "type": "Feature",
+  "properties": {
+    "name":"La Clayette, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":597751,
+    "woe:name":"La Clayette, Burgundy, France",
+    "woe:place_id":"kC5bJvucCJvMXVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.299087,46.277294,4.313507,46.295712],
+  "geometry": {"alpha":0.00015,"bbox":[4.2990870475769,46.277294158936,4.3135070800781,46.295711517334],"coordinates":[[[[4.299087,46.287945],[4.299087,46.291531],[4.30458,46.295712],[4.313507,46.292984],[4.307885,46.286892],[4.299645,46.277294],[4.299087,46.287945]]]],"created":1292542922,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/597751_20101216_12190fbc94.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

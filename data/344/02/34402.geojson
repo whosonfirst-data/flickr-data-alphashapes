@@ -1,0 +1,15 @@
+{
+  "id": 34402,
+  "type": "Feature",
+  "properties": {
+    "name":"Sevington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34402,
+    "woe:name":"Sevington, England, United Kingdom",
+    "woe:place_id":"IDBVnJmaBZhIdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.896018,51.126259,0.908775,51.13483],
+  "geometry": {"alpha":0.00015,"bbox":[0.89601802825928,51.126258850098,0.90877497196198,51.134830474854],"coordinates":[[[[0.90414,51.126259],[0.896018,51.131134],[0.905095,51.13483],[0.907777,51.131943],[0.908055,51.131664],[0.908775,51.128387],[0.906372,51.126797],[0.90414,51.126259]]]],"created":1292538404,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/34402_20101216_64d63cc483.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

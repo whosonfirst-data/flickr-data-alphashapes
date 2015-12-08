@@ -1,0 +1,15 @@
+{
+  "id": 2360220,
+  "type": "Feature",
+  "properties": {
+    "name":"Bay Pines, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2360220,
+    "woe:name":"Bay Pines, South Carolina, United States",
+    "woe:place_id":"XNCak1mbAppsNXAT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.779617,32.168617,-80.770607,32.173622],
+  "geometry": {"alpha":0.00015,"bbox":[-80.77961730957,32.168617248535,-80.770606994629,32.173622131348],"coordinates":[[[[-80.776558,32.173622],[-80.770607,32.170273],[-80.779617,32.168617],[-80.778694,32.170616],[-80.778053,32.171371],[-80.776558,32.173622]]]],"created":1292529966,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2360220_20101216_133d1fb4a1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2353708,
+  "type": "Feature",
+  "properties": {
+    "name":"Alpine, California, United States",
+    "placetype":"locality",
+    "woe:id":2353708,
+    "woe:name":"Alpine, California, United States",
+    "woe:place_id":"WIkjVtObApk0rToE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.555435,39.406502,-123.551109,39.422485],
+  "geometry": {"alpha":0.00015,"bbox":[-123.55543518066,39.40650177002,-123.55110931396,39.422485351562],"coordinates":[[[[-123.554443,39.421047],[-123.555435,39.422367],[-123.551109,39.422485],[-123.552002,39.406502],[-123.554443,39.421047]]]],"created":1292527439,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2353708_20101216_4459a9ac19.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

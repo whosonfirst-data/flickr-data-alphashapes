@@ -1,0 +1,15 @@
+{
+  "id": 2511618,
+  "type": "Feature",
+  "properties": {
+    "name":"Venice Center, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511618,
+    "woe:name":"Venice Center, New York, United States",
+    "woe:place_id":"bASvt2KbBJ14QpK6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.474052,42.753159,-76.456604,42.765919],
+  "geometry": {"alpha":0.00015,"bbox":[-76.474052429199,42.753158569336,-76.456604003906,42.765918731689],"coordinates":[[[[-76.456604,42.765919],[-76.463043,42.753159],[-76.474052,42.755314],[-76.473427,42.755489],[-76.456604,42.765919]]]],"created":1292540600,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2511618_20101216_2287373f4c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

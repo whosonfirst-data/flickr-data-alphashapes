@@ -1,0 +1,15 @@
+{
+  "id": 2351557,
+  "type": "Feature",
+  "properties": {
+    "name":"Aberdeen, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2351557,
+    "woe:name":"Aberdeen, Pennsylvania, United States",
+    "woe:place_id":"Z0D7NAibApmz6eZj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.625732,40.159164,-76.612297,40.162376],
+  "geometry": {"alpha":0.00015,"bbox":[-76.625732421875,40.159164428711,-76.612297058105,40.162376403809],"coordinates":[[[[-76.61483,40.162376],[-76.612297,40.160557],[-76.616165,40.159332],[-76.617996,40.159164],[-76.625732,40.159393],[-76.61483,40.162376]]]],"created":1292550245,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2351557_20101217_837d2a8035.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

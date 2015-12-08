@@ -1,0 +1,15 @@
+{
+  "id": 1902,
+  "type": "Feature",
+  "properties": {
+    "name":"Watford, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1902,
+    "woe:name":"Watford, Ontario, Canada",
+    "woe:place_id":"tMjZW3uYCJya",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.892776,42.925385,-81.879646,42.945992],
+  "geometry": {"alpha":0.00015,"bbox":[-81.892776489258,42.925384521484,-81.87964630127,42.945991516113],"coordinates":[[[[-81.879646,42.93261],[-81.892776,42.925385],[-81.891228,42.930851],[-81.880074,42.945992],[-81.879646,42.93261]]]],"created":1292522660,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1902_20101216_9b0ecb5de6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

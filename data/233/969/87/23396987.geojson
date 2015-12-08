@@ -1,0 +1,15 @@
+{
+  "id": 23396987,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyn, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23396987,
+    "woe:name":"Lyn, Ontario, Canada",
+    "woe:place_id":"RBvHtSWbAp9pbnyiiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.784164,44.569515,-75.750435,44.586243],
+  "geometry": {"alpha":0.00015,"bbox":[-75.784164428711,44.569515228271,-75.750434875488,44.586242675781],"coordinates":[[[[-75.750435,44.57338],[-75.765724,44.569515],[-75.784164,44.576805],[-75.765724,44.569519],[-75.760345,44.586243],[-75.750435,44.57338]]]],"created":1292449410,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/23396987_20101215_0a230d10cc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

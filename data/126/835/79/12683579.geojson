@@ -1,0 +1,15 @@
+{
+  "id": 12683579,
+  "type": "Feature",
+  "properties": {
+    "name":"Gossau, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683579,
+    "woe:name":"Gossau, Switzerland",
+    "woe:place_id":"zCO60KeYA5oqNcMmJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.784298,47.315159,8.792763,47.318462],
+  "geometry": {"alpha":1e-05,"bbox":[8.7842979431152,47.315158843994,8.7927627563477,47.318462371826],"coordinates":[[[[8.790349,47.315495],[8.787581,47.315159],[8.784298,47.317356],[8.787732,47.317123],[8.792023,47.318462],[8.792763,47.317425],[8.790349,47.315495]]]],"created":1292546234,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12683579_20101217_7d17b828c3.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

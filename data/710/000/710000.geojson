@@ -1,0 +1,15 @@
+{
+  "id": 710000,
+  "type": "Feature",
+  "properties": {
+    "name":"Alpe Airale, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710000,
+    "woe:name":"Alpe Airale, Lombardy, Italy",
+    "woe:place_id":"SBHg1UaeAJwQ12s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.756546,46.22134,9.78444,46.24807],
+  "geometry": {"alpha":0.00015,"bbox":[9.7565460205078,46.221340179443,9.7844400405884,46.248069763184],"coordinates":[[[[9.78444,46.238544],[9.781863,46.22134],[9.775428,46.235191],[9.758777,46.23341],[9.756546,46.234951],[9.77148,46.24807],[9.78444,46.238544]]]],"created":1292534492,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/710000_20101216_2c7a2e609e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

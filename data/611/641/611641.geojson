@@ -1,0 +1,15 @@
+{
+  "id": 611641,
+  "type": "Feature",
+  "properties": {
+    "name":"Mirville, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":611641,
+    "woe:name":"Mirville, Haute-Normandie, France",
+    "woe:place_id":"zmQOaoSfAJ3lcyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.425634,49.604973,0.428531,49.605259],
+  "geometry": {"alpha":0.00015,"bbox":[0.42563399672508,49.604972839355,0.42853099107742,49.60525894165],"coordinates":[[[[0.428152,49.604973],[0.425634,49.605259],[0.428098,49.605003],[0.428531,49.604973],[0.428152,49.604973]]]],"created":1292360043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/611641_20101214_fd0ff2f138.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

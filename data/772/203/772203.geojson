@@ -1,0 +1,15 @@
+{
+  "id": 772203,
+  "type": "Feature",
+  "properties": {
+    "name":"Roscates, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":772203,
+    "woe:name":"Roscates, Castille and Leon, Spain",
+    "woe:place_id":"SOI7v0CeBp4ip0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.630415,42.764122,-4.621081,42.769241],
+  "geometry": {"alpha":0.00015,"bbox":[-4.6304149627686,42.764122009277,-4.6210808753967,42.769241333008],"coordinates":[[[[-4.625674,42.768253],[-4.621081,42.769241],[-4.621682,42.767651],[-4.626092,42.764122],[-4.630415,42.767117],[-4.625674,42.768253]]]],"created":1292534526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/772203_20101216_5602b4aa55.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681689,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marco la Catola, Italy",
+    "placetype":"locality",
+    "woe:id":12681689,
+    "woe:name":"San Marco la Catola, Italy",
+    "woe:place_id":"y90Y2NiYA5odHb88nw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.049891,41.527645,15.0499,41.527649],
+  "geometry": {"alpha":1e-05,"bbox":[15.049891471863,41.527645111084,15.049900054932,41.527648925781],"coordinates":[[[[15.049897,41.527649],[15.0499,41.527649],[15.049897,41.527645],[15.049894,41.527645],[15.049891,41.527645],[15.049897,41.527649]]]],"created":1292449121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12681689_20101215_886f1563a1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

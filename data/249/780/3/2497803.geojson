@@ -1,0 +1,15 @@
+{
+  "id": 2497803,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring City, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2497803,
+    "woe:name":"Spring City, Virginia, United States",
+    "woe:place_id":"4ISHYSKbBZUVUHbU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.13633,36.891033,-82.123146,36.899391],
+  "geometry": {"alpha":0.00015,"bbox":[-82.136329650879,36.891033172607,-82.123146057129,36.899391174316],"coordinates":[[[[-82.132927,36.892799],[-82.135078,36.891476],[-82.13633,36.891033],[-82.133629,36.893036],[-82.123146,36.899391],[-82.132927,36.892799]]]],"created":1292445068,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2497803_20101215_32ba57ba29.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

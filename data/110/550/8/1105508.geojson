@@ -1,0 +1,15 @@
+{
+  "id": 1105508,
+  "type": "Feature",
+  "properties": {
+    "name":"Scottsdale, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1105508,
+    "woe:name":"Scottsdale, Tasmania, Australia",
+    "woe:place_id":"y4YO1DWYAJxhqFx5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.500549,-41.166836,147.519226,-41.153584],
+  "geometry": {"alpha":0.00015,"bbox":[147.50054931641,-41.166835784912,147.51922607422,-41.153583526611],"coordinates":[[[[147.519226,-41.159901],[147.518753,-41.16069],[147.516388,-41.161106],[147.507141,-41.166836],[147.500549,-41.153584],[147.514969,-41.15683],[147.519226,-41.159901]]]],"created":1292535867,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/1105508_20101216_10890ec667.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

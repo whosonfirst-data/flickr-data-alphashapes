@@ -1,0 +1,15 @@
+{
+  "id": 125552,
+  "type": "Feature",
+  "properties": {
+    "name":"Ixtapan del Oro, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":125552,
+    "woe:name":"Ixtapan del Oro, Mexico, Mexico",
+    "woe:place_id":"e4Rmx4aYA5k_RIo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.265633,19.262493,-100.255051,19.282467],
+  "geometry": {"alpha":0.00015,"bbox":[-100.26563262939,19.262493133545,-100.25505065918,19.282466888428],"coordinates":[[[[-100.265518,19.262493],[-100.265633,19.263342],[-100.255051,19.282467],[-100.258781,19.264277],[-100.264862,19.26284],[-100.265518,19.262493]]]],"created":1292545805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/125552_20101217_cacbdfaf33.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 109843,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Fort, Saint Ann, Jamaica",
+    "placetype":"locality",
+    "woe:id":109843,
+    "woe:name":"Rock Fort, Saint Ann, Jamaica",
+    "woe:place_id":"PLlHHZ2YAZWPrG4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.405716,18.463978,-77.393616,18.470654],
+  "geometry": {"alpha":0.00015,"bbox":[-77.405715942383,18.463977813721,-77.393615722656,18.470653533936],"coordinates":[[[[-77.393616,18.467804],[-77.395416,18.464628],[-77.403488,18.463978],[-77.405716,18.467886],[-77.402542,18.469677],[-77.398338,18.470654],[-77.393616,18.467804]]]],"created":1248081726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2125/shapefiles/109843_20090720_c6fd4af573.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

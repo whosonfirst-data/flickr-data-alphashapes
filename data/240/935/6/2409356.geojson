@@ -1,0 +1,15 @@
+{
+  "id": 2409356,
+  "type": "Feature",
+  "properties": {
+    "name":"Gaylord, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2409356,
+    "woe:name":"Gaylord, Texas, United States",
+    "woe:place_id":"GpgZ7Y6bBZyPtzZu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.450356,36.443691,-100.431992,36.451252],
+  "geometry": {"alpha":0.00015,"bbox":[-100.45035552979,36.443691253662,-100.43199157715,36.451251983643],"coordinates":[[[[-100.435463,36.451252],[-100.431992,36.449005],[-100.43425,36.44862],[-100.441772,36.443691],[-100.450356,36.449039],[-100.435463,36.451252]]]],"created":1292548697,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2409356_20101217_eb5e150e2b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

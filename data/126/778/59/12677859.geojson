@@ -1,0 +1,15 @@
+{
+  "id": 12677859,
+  "type": "Feature",
+  "properties": {
+    "name":"Felonica, Italy",
+    "placetype":"locality",
+    "woe:id":12677859,
+    "woe:name":"Felonica, Italy",
+    "woe:place_id":"2Fk5sZ.YA5rKNLnmMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.379604,44.978611,11.380462,44.979008],
+  "geometry": {"alpha":1e-05,"bbox":[11.3796043396,44.978610992432,11.38046169281,44.979007720947],"coordinates":[[[[11.380119,44.978642],[11.379604,44.978916],[11.380119,44.979008],[11.380462,44.978947],[11.380376,44.978794],[11.380205,44.978611],[11.380119,44.978642]]]],"created":1292518865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12677859_20101216_dcdbac7cd9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

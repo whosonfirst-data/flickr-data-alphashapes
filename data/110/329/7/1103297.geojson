@@ -1,0 +1,15 @@
+{
+  "id": 1103297,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Cargelligo, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1103297,
+    "woe:name":"Lake Cargelligo, New South Wales, Australia",
+    "woe:place_id":"GZcm7HSYAJye0COQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.369308,-33.302753,146.37883,-33.29874],
+  "geometry": {"alpha":0.00015,"bbox":[146.36930847168,-33.302753448486,146.37882995605,-33.298740386963],"coordinates":[[[[146.375656,-33.301838],[146.369308,-33.302753],[146.371414,-33.29874],[146.378052,-33.298752],[146.37883,-33.299183],[146.375656,-33.301838]]]],"created":1292468043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/1103297_20101216_139a48f9b2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

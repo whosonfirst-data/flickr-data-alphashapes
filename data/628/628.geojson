@@ -1,0 +1,15 @@
+{
+  "id": 628,
+  "type": "Feature",
+  "properties": {
+    "name":"Hant's Harbour, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":628,
+    "woe:name":"Hant's Harbour, Newfoundland and Labrador, Canada",
+    "woe:place_id":"CmJ.LeGfA5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.277512,48.014328,-53.258286,48.026672],
+  "geometry": {"alpha":0.00015,"bbox":[-53.27751159668,48.01432800293,-53.258285522461,48.026672363281],"coordinates":[[[[-53.261032,48.026672],[-53.258286,48.014328],[-53.263863,48.017944],[-53.277512,48.016109],[-53.261032,48.026672]]]],"created":1234663212,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3439/shapefiles/628_20090215_9b65d5e3f4.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

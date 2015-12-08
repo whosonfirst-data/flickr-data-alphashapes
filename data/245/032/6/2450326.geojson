@@ -1,0 +1,15 @@
+{
+  "id": 2450326,
+  "type": "Feature",
+  "properties": {
+    "name":"Middleport, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2450326,
+    "woe:name":"Middleport, Ohio, United States",
+    "woe:place_id":"oNiRjumbBZmE8T_9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.060081,38.994583,-82.047318,39.006245],
+  "geometry": {"alpha":0.00015,"bbox":[-82.060081481934,38.994583129883,-82.047317504883,39.006244659424],"coordinates":[[[[-82.048599,39.001675],[-82.050018,39.000599],[-82.060081,38.994583],[-82.050362,39.006245],[-82.047318,39.004459],[-82.048599,39.001675]]]],"created":1292493962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2450326_20101216_7e69cf590d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

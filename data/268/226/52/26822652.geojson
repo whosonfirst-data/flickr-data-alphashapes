@@ -1,0 +1,15 @@
+{
+  "id": 26822652,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadtteil Marienrode, Germany",
+    "placetype":"locality",
+    "woe:id":26822652,
+    "woe:name":"Stadtteil Marienrode, Germany",
+    "woe:place_id":"5xXrAe6bB5T8SKdS9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.918122,52.092243,9.921941,52.094837],
+  "geometry": {"alpha":1e-05,"bbox":[9.9181222915649,52.09224319458,9.9219408035278,52.094837188721],"coordinates":[[[[9.919881,52.093639],[9.918122,52.093822],[9.919935,52.094837],[9.92074,52.093956],[9.921941,52.092243],[9.919881,52.093639]]]],"created":1292527886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/26822652_20101216_9c85a44c90.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

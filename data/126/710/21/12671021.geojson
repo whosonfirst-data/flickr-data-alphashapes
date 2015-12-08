@@ -1,0 +1,15 @@
+{
+  "id": 12671021,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Pancrace, France",
+    "placetype":"locality",
+    "woe:id":12671021,
+    "woe:name":"St.-Pancrace, France",
+    "woe:place_id":"sSY7aCeYA5qgun9crg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.292419,45.266216,6.298856,45.267277],
+  "geometry": {"alpha":1e-05,"bbox":[6.2924189567566,45.266216278076,6.2988557815552,45.267276763916],"coordinates":[[[[6.296828,45.266548],[6.297858,45.267147],[6.298856,45.267002],[6.296485,45.266216],[6.292419,45.267277],[6.296828,45.266548]]]],"created":1292533476,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12671021_20101216_a8a1b5a4b5.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

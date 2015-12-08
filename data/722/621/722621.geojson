@@ -1,0 +1,15 @@
+{
+  "id": 722621,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":722621,
+    "woe:name":"San Giovanni, Sardinia, Italy",
+    "woe:place_id":"MJ5p3rieA561Vfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.73114,40.617706,9.748649,40.640011],
+  "geometry": {"alpha":0.00015,"bbox":[9.7311401367188,40.617706298828,9.7486486434937,40.64001083374],"coordinates":[[[[9.746739,40.617714],[9.744486,40.617706],[9.739163,40.622456],[9.73114,40.640011],[9.742169,40.628544],[9.748649,40.620209],[9.746739,40.617714]]]],"created":1292538992,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/722621_20101216_13732ee8db.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

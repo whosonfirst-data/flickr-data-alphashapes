@@ -1,0 +1,15 @@
+{
+  "id": 12630878,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Alt Schwerin, Germany",
+    "placetype":"locality",
+    "woe:id":12630878,
+    "woe:name":"Gemeinde Alt Schwerin, Germany",
+    "woe:place_id":".kqKhqSYA5rhK86UMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.37112,53.519482,12.375755,53.52179],
+  "geometry": {"alpha":1e-05,"bbox":[12.371120452881,53.519481658936,12.375755310059,53.521789550781],"coordinates":[[[[12.373867,53.52179],[12.375755,53.521778],[12.373609,53.519482],[12.37112,53.519592],[12.37185,53.520206],[12.373867,53.52179]]]],"created":1292525692,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12630878_20101216_10cbc8304c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

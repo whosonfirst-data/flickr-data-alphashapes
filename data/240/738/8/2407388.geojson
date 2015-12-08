@@ -1,0 +1,15 @@
+{
+  "id": 2407388,
+  "type": "Feature",
+  "properties": {
+    "name":"Fremont, California, United States",
+    "placetype":"locality",
+    "woe:id":2407388,
+    "woe:name":"Fremont, California, United States",
+    "woe:place_id":"dhGoMAWbBZztPDhS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.607269,35.211403,-117.601776,35.227673],
+  "geometry": {"alpha":0.00015,"bbox":[-117.60726928711,35.211402893066,-117.60177612305,35.227672576904],"coordinates":[[[[-117.607269,35.218697],[-117.606735,35.22554],[-117.605896,35.227673],[-117.604034,35.219311],[-117.601776,35.211403],[-117.607269,35.218697]]]],"created":1292538616,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2407388_20101216_a2d7b71c85.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12672446,
+  "type": "Feature",
+  "properties": {
+    "name":"Villebernier, France",
+    "placetype":"locality",
+    "woe:id":12672446,
+    "woe:name":"Villebernier, France",
+    "woe:place_id":"XuTYUe.YA5pTm1ncHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.001586,47.247169,-0.000408,47.248123],
+  "geometry": {"alpha":1e-05,"bbox":[-0.001585999969393,47.247169494629,-0.00040799999260344,47.248123168945],"coordinates":[[[[-0.000422,47.24778],[-0.000428,47.247726],[-0.001586,47.247169],[-0.001308,47.248123],[-0.000408,47.247952],[-0.000422,47.24778]]]],"created":1292524515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12672446_20101216_0fb29934e1.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

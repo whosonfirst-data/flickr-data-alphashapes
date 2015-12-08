@@ -1,0 +1,15 @@
+{
+  "id": 2518550,
+  "type": "Feature",
+  "properties": {
+    "name":"Westview, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2518550,
+    "woe:name":"Westview, Indiana, United States",
+    "woe:place_id":"KfHB3oWbBJ3_jngR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.192795,41.579723,-85.186325,41.589001],
+  "geometry": {"alpha":0.00015,"bbox":[-85.192794799805,41.579723358154,-85.186325073242,41.589000701904],"coordinates":[[[[-85.188705,41.58046],[-85.192795,41.589001],[-85.188675,41.586689],[-85.187096,41.581425],[-85.186325,41.579723],[-85.188705,41.58046]]]],"created":1292441070,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2518550_20101215_540f3db2ff.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 760047,
+  "type": "Feature",
+  "properties": {
+    "name":"Escarabote, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":760047,
+    "woe:name":"Escarabote, Galicia, Spain",
+    "woe:place_id":"qIJKrFCeB5w8AHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.904709,42.635822,-8.90003,42.641071],
+  "geometry": {"alpha":0.00015,"bbox":[-8.9047088623047,42.635822296143,-8.9000301361084,42.64107131958],"coordinates":[[[[-8.903946,42.635822],[-8.904709,42.636429],[-8.90003,42.641071],[-8.900685,42.639034],[-8.902401,42.636135],[-8.903946,42.635822]]]],"created":1292531409,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/760047_20101216_18b25cdab2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

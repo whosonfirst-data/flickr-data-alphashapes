@@ -1,0 +1,15 @@
+{
+  "id": 2425563,
+  "type": "Feature",
+  "properties": {
+    "name":"Humptulips, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2425563,
+    "woe:name":"Humptulips, Washington, United States",
+    "woe:place_id":"GnxGUrWbBZ7QO2we",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.962517,47.229702,-123.948784,47.236004],
+  "geometry": {"alpha":0.00015,"bbox":[-123.96251678467,47.22970199585,-123.94878387451,47.236003875732],"coordinates":[[[[-123.961761,47.229702],[-123.96196,47.229847],[-123.962517,47.233791],[-123.949814,47.236004],[-123.948784,47.235332],[-123.961761,47.229702]]]],"created":1292454330,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2425563_20101215_507b1b5836.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

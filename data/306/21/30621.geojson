@@ -1,0 +1,15 @@
+{
+  "id": 30621,
+  "type": "Feature",
+  "properties": {
+    "name":"Northfields, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30621,
+    "woe:name":"Northfields, England, United Kingdom",
+    "woe:place_id":"3coz9oyaAZrH5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.974191,51.360741,-1.95842,51.369102],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9741909503937,51.360740661621,-1.9584200382233,51.369102478027],"coordinates":[[[[-1.963634,51.360741],[-1.972496,51.364632],[-1.974191,51.368778],[-1.966724,51.369102],[-1.95842,51.362484],[-1.959879,51.361504],[-1.963634,51.360741]]]],"created":1292545032,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/30621_20101217_cb14406391.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

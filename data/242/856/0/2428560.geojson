@@ -1,0 +1,15 @@
+{
+  "id": 2428560,
+  "type": "Feature",
+  "properties": {
+    "name":"Jamestown, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2428560,
+    "woe:name":"Jamestown, South Carolina, United States",
+    "woe:place_id":"ENoUUmObBZ4cXXe2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.677498,33.30241,-79.667656,33.305256],
+  "geometry": {"alpha":0.00015,"bbox":[-79.67749786377,33.302410125732,-79.667655944824,33.305255889893],"coordinates":[[[[-79.671776,33.30415],[-79.667656,33.30241],[-79.671478,33.302841],[-79.677498,33.305256],[-79.675079,33.305176],[-79.671776,33.30415]]]],"created":1292536890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2428560_20101216_fa0f050438.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

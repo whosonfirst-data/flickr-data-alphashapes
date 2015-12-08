@@ -1,0 +1,15 @@
+{
+  "id": 29382105,
+  "type": "Feature",
+  "properties": {
+    "name":"Penedo, Braga, Portugal",
+    "placetype":"locality",
+    "woe:id":29382105,
+    "woe:name":"Penedo, Braga, Portugal",
+    "woe:place_id":"lWsvLSybCJ.KA7pRaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.429539,41.549652,-8.426395,41.551964],
+  "geometry": {"alpha":0.00015,"bbox":[-8.4295387268066,41.549652099609,-8.4263954162598,41.551963806152],"coordinates":[[[[-8.428852,41.549698],[-8.429539,41.551613],[-8.426899,41.551964],[-8.426395,41.550598],[-8.428122,41.549652],[-8.428852,41.549698]]]],"created":1292446383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/29382105_20101215_7ecc823fbc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 44748,
+  "type": "Feature",
+  "properties": {
+    "name":"Dromore, Northern Ireland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":44748,
+    "woe:name":"Dromore, Northern Ireland, United Kingdom",
+    "woe:place_id":"gRfwmF.dBZuVrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.46242,54.511795,-7.454792,54.531006],
+  "geometry": {"alpha":0.00015,"bbox":[-7.4624199867249,54.511795043945,-7.4547920227051,54.531005859375],"coordinates":[[[[-7.454824,54.513756],[-7.454792,54.511795],[-7.461798,54.512009],[-7.462055,54.512012],[-7.46242,54.531006],[-7.454824,54.513756]]]],"created":1292482866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/44748_20101216_e60fb5d0a8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

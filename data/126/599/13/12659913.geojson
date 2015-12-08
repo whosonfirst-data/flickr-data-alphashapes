@@ -1,0 +1,15 @@
+{
+  "id": 12659913,
+  "type": "Feature",
+  "properties": {
+    "name":"Coublevie, France",
+    "placetype":"locality",
+    "woe:id":12659913,
+    "woe:name":"Coublevie, France",
+    "woe:place_id":"ERQ9fWOYA5qPhSJBlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.623833,45.348099,5.62545,45.348709],
+  "geometry": {"alpha":1e-05,"bbox":[5.6238331794739,45.348098754883,5.6254501342773,45.348709106445],"coordinates":[[[[5.624,45.348167],[5.623833,45.348331],[5.624378,45.348709],[5.62545,45.348286],[5.62427,45.348099],[5.624,45.348167]]]],"created":1292452446,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12659913_20101215_bcf1ec1e4a.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

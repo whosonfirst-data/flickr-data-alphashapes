@@ -1,0 +1,15 @@
+{
+  "id": 921398,
+  "type": "Feature",
+  "properties": {
+    "name":"Izmayil, Odessa Oblast, Ukraine",
+    "placetype":"locality",
+    "woe:id":921398,
+    "woe:name":"Izmayil, Odessa Oblast, Ukraine",
+    "woe:place_id":"3.Tb.XCQA538nvU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.829498,45.33284,28.857479,45.356972],
+  "geometry": {"alpha":0.00015,"bbox":[28.829498291016,45.33283996582,28.857479095459,45.356971740723],"coordinates":[[[[28.829626,45.350319],[28.829498,45.354557],[28.841858,45.356972],[28.848381,45.350216],[28.857479,45.34026],[28.84263,45.33284],[28.829626,45.350319]]]],"created":1292476625,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/921398_20101216_812a70bdf3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

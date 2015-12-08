@@ -1,0 +1,15 @@
+{
+  "id": 2353387,
+  "type": "Feature",
+  "properties": {
+    "name":"Allensville, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2353387,
+    "woe:name":"Allensville, Indiana, United States",
+    "woe:place_id":"w15Zj6KbApmiXlY_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.027054,38.87767,-85.02137,38.896145],
+  "geometry": {"alpha":0.00015,"bbox":[-85.027053833008,38.877670288086,-85.021369934082,38.896144866943],"coordinates":[[[[-85.023239,38.895641],[-85.02227,38.894173],[-85.02137,38.891014],[-85.026283,38.87767],[-85.027054,38.896145],[-85.023239,38.895641]]]],"created":1239456851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3378/shapefiles/2353387_20090411_f2be51d0ec.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

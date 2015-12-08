@@ -1,0 +1,15 @@
+{
+  "id": 28745296,
+  "type": "Feature",
+  "properties": {
+    "name":"Ryan, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745296,
+    "woe:name":"Ryan, Pennsylvania, United States",
+    "woe:place_id":"CNkDCdqbCZseu8g7wA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.141518,40.775471,-76.091606,40.803478],
+  "geometry": {"alpha":0.00015,"bbox":[-76.14151763916,40.775470733643,-76.091606140137,40.803478240967],"coordinates":[[[[-76.117447,40.779892],[-76.124268,40.778072],[-76.141518,40.775471],[-76.132164,40.791981],[-76.115166,40.803478],[-76.108002,40.792629],[-76.096161,40.787754],[-76.091606,40.780346],[-76.093842,40.781792],[-76.117447,40.779892]]]],"created":1292542378,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/28745296_20101216_ba7c5ffc5d.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

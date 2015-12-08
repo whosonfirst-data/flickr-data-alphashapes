@@ -1,0 +1,15 @@
+{
+  "id": 56023271,
+  "type": "Feature",
+  "properties": {
+    "name":"Arkadi, Kriti, Greece",
+    "placetype":"locality",
+    "woe:id":56023271,
+    "woe:name":"Arkadi, Kriti, Greece",
+    "woe:place_id":"LnoOxRScB5xubCvIjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.588631,35.377785,24.59753,35.386459],
+  "geometry": {"alpha":0.00015,"bbox":[24.58863067627,35.377784729004,24.59753036499,35.386459350586],"coordinates":[[[[24.593067,35.386425],[24.593666,35.386459],[24.59753,35.377785],[24.596157,35.378166],[24.591585,35.380215],[24.588631,35.384933],[24.593067,35.386425]]]],"created":1292504643,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/56023271_20101216_f742339275.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

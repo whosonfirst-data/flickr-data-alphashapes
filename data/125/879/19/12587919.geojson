@@ -1,0 +1,15 @@
+{
+  "id": 12587919,
+  "type": "Feature",
+  "properties": {
+    "name":"Echols County, Georgia, United States",
+    "placetype":"county",
+    "woe:id":12587919,
+    "woe:name":"Echols County, Georgia, United States",
+    "woe:place_id":"rkdsbp.YA5khbUmk2w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-83.028519,30.637913,-83.012695,30.722948],
+  "geometry": {"alpha":0.0015,"bbox":[-83.028518676758,30.637912750244,-83.0126953125,30.722948074341],"coordinates":[[[[-83.022392,30.722948],[-83.020592,30.722652],[-83.024666,30.703466],[-83.012695,30.637913],[-83.028519,30.703873],[-83.022392,30.722948]]]],"created":1247992569,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2429/shapefiles/12587919_20090719_58c0d20b31.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

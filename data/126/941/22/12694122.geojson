@@ -1,0 +1,15 @@
+{
+  "id": 12694122,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Valls de Valira, Spain",
+    "placetype":"locality",
+    "woe:id":12694122,
+    "woe:name":"Les Valls de Valira, Spain",
+    "woe:place_id":"CNT4LXGYA5oMbxbyEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.467522,42.432423,1.473047,42.436886],
+  "geometry": {"alpha":1e-05,"bbox":[1.4675220251083,42.432422637939,1.4730470180511,42.43688583374],"coordinates":[[[[1.47191,42.434765],[1.467522,42.432423],[1.469925,42.43589],[1.472253,42.436886],[1.473047,42.435787],[1.47191,42.434765]]]],"created":1292452196,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12694122_20101215_b0ab8c96e0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

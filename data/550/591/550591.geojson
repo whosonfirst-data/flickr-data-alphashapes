@@ -1,0 +1,15 @@
+{
+  "id": 550591,
+  "type": "Feature",
+  "properties": {
+    "name":"Fritzens, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550591,
+    "woe:name":"Fritzens, Tyrol, Austria",
+    "woe:place_id":"3tONF9icBJxYZYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.578688,47.296768,11.600189,47.308567],
+  "geometry": {"alpha":0.00015,"bbox":[11.578687667847,47.296768188477,11.600189208984,47.308567047119],"coordinates":[[[[11.589546,47.29879],[11.580963,47.297394],[11.578688,47.302444],[11.586456,47.308567],[11.600189,47.300072],[11.597013,47.296768],[11.589546,47.29879]]]],"created":1292534386,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/550591_20101216_ba4f46fd03.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

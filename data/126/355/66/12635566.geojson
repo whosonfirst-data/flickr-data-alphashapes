@@ -1,0 +1,15 @@
+{
+  "id": 12635566,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Buchbrunn, Germany",
+    "placetype":"locality",
+    "woe:id":12635566,
+    "woe:name":"Gemeinde Buchbrunn, Germany",
+    "woe:place_id":"OuKXtIGYA5pDC7KE0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.140333,49.760334,10.142166,49.762665],
+  "geometry": {"alpha":1e-05,"bbox":[10.140333175659,49.760334014893,10.142166137695,49.762664794922],"coordinates":[[[[10.140333,49.760666],[10.140333,49.760834],[10.142166,49.762665],[10.140333,49.760334],[10.140333,49.760666]]]],"created":1292547128,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12635566_20101217_5fd47d59f3.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

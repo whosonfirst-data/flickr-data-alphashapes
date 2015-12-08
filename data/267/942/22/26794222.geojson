@@ -1,0 +1,15 @@
+{
+  "id": 26794222,
+  "type": "Feature",
+  "properties": {
+    "name":"San Fernando, Chile",
+    "placetype":"locality",
+    "woe:id":26794222,
+    "woe:name":"San Fernando, Chile",
+    "woe:place_id":"eR_bytmbB5sio0QVhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.989532,-34.585667,-70.984039,-34.578388],
+  "geometry": {"alpha":1e-05,"bbox":[-70.989532470703,-34.585666656494,-70.984039306641,-34.578388214111],"coordinates":[[[[-70.984726,-34.585667],[-70.989532,-34.583122],[-70.987473,-34.578388],[-70.986267,-34.581497],[-70.984039,-34.584747],[-70.984726,-34.585667]]]],"created":1292549607,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/26794222_20101217_2c8500a9da.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

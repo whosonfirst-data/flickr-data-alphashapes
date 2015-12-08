@@ -1,0 +1,15 @@
+{
+  "id": 711663,
+  "type": "Feature",
+  "properties": {
+    "name":"Caggiano, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":711663,
+    "woe:name":"Caggiano, Campania, Italy",
+    "woe:place_id":"IAoG366eAJ3P6Hg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.492954,40.56575,15.516111,40.572239],
+  "geometry": {"alpha":0.00015,"bbox":[15.49295425415,40.56575012207,15.516111373901,40.572238922119],"coordinates":[[[[15.492954,40.566765],[15.494842,40.569893],[15.512695,40.572239],[15.516111,40.566944],[15.5125,40.569164],[15.49625,40.56575],[15.492954,40.566765]]]],"created":1292447373,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/711663_20101215_0228f01bfb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

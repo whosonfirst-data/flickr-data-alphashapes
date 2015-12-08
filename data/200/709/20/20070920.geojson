@@ -1,0 +1,15 @@
+{
+  "id": 20070920,
+  "type": "Feature",
+  "properties": {
+    "name":"Pocito, San Juan, Argentina",
+    "placetype":"county",
+    "woe:id":20070920,
+    "woe:name":"Pocito, San Juan, Argentina",
+    "woe:place_id":"JVIh.xWbAZxa0h7o3Q",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-68.62867,-31.653234,-68.510742,-31.604343],
+  "geometry": {"alpha":0.0015,"bbox":[-68.62866973877,-31.653234481812,-68.5107421875,-31.604343414307],"coordinates":[[[[-68.590904,-31.615673],[-68.546791,-31.604343],[-68.510742,-31.62649],[-68.573914,-31.641106],[-68.62867,-31.653234],[-68.590904,-31.615673]]]],"created":1292501828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20070920_20101216_25b2d6d8e2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

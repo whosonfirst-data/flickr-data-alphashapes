@@ -1,0 +1,15 @@
+{
+  "id": 12684731,
+  "type": "Feature",
+  "properties": {
+    "name":"Monnaz, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684731,
+    "woe:name":"Monnaz, Switzerland",
+    "woe:place_id":"YadLU_.YA5p2sg5bFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.473007,46.524929,6.477899,46.532059],
+  "geometry": {"alpha":1e-05,"bbox":[6.4730072021484,46.524929046631,6.4778990745544,46.53205871582],"coordinates":[[[[6.474552,46.526333],[6.477899,46.526627],[6.475839,46.524929],[6.474359,46.525829],[6.473007,46.526154],[6.473608,46.532059],[6.474552,46.526333]]]],"created":1292449081,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12684731_20101215_8271999f04.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

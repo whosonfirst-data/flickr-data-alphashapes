@@ -1,0 +1,15 @@
+{
+  "id": 708387,
+  "type": "Feature",
+  "properties": {
+    "name":"Wutscherogge, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":708387,
+    "woe:name":"Wutscherogge, Brandenburg, Germany",
+    "woe:place_id":"977Im.aeAZRb1Ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.941847,52.12756,13.944394,52.133698],
+  "geometry": {"alpha":0.00015,"bbox":[13.941846847534,52.127559661865,13.944394111633,52.133697509766],"coordinates":[[[[13.944394,52.128735],[13.942937,52.12764],[13.941847,52.12756],[13.942091,52.128693],[13.94268,52.133698],[13.94435,52.128857],[13.944394,52.128735]]]],"created":1292519402,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/708387_20101216_71e5a0ce86.tar.gz"},"points":77,"type":"MultiPolygon"}
+}

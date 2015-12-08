@@ -1,0 +1,15 @@
+{
+  "id": 20110665,
+  "type": "Feature",
+  "properties": {
+    "name":"Baracco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20110665,
+    "woe:name":"Baracco, Piedmont, Italy",
+    "woe:place_id":"BwZpwIObAZ3mQsCrDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.752056,44.252945,7.769908,44.274406],
+  "geometry": {"alpha":0.00015,"bbox":[7.7520561218262,44.252944946289,7.769907951355,44.274406433105],"coordinates":[[[[7.769908,44.262413],[7.769737,44.261307],[7.766604,44.257401],[7.758064,44.252945],[7.752056,44.274406],[7.766668,44.267021],[7.769908,44.262413]]]],"created":1248159123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3485/shapefiles/20110665_20090721_5cd15071c3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

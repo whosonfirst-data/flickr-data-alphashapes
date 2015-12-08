@@ -1,0 +1,15 @@
+{
+  "id": 12623,
+  "type": "Feature",
+  "properties": {
+    "name":"Billinghay, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12623,
+    "woe:name":"Billinghay, England, United Kingdom",
+    "woe:place_id":"uOhMONuYA5qTog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.296888,53.074226,-0.276589,53.087025],
+  "geometry": {"alpha":0.00015,"bbox":[-0.29688799381256,53.074226379395,-0.27658900618553,53.087024688721],"coordinates":[[[[-0.283842,53.087025],[-0.276589,53.078648],[-0.279346,53.079002],[-0.296888,53.074226],[-0.294742,53.08128],[-0.283842,53.087025]]]],"created":1292536390,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12623_20101216_7cf39e7d3a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

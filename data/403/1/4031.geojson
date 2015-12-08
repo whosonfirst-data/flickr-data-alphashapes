@@ -1,0 +1,15 @@
+{
+  "id": 4031,
+  "type": "Feature",
+  "properties": {
+    "name":"Markdale, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4031,
+    "woe:name":"Markdale, Ontario, Canada",
+    "woe:place_id":"c2UkDwedAZ8n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.649452,44.317276,-80.644501,44.321468],
+  "geometry": {"alpha":0.00015,"bbox":[-80.649452209473,44.317276000977,-80.644500732422,44.321468353271],"coordinates":[[[[-80.648888,44.31913],[-80.649452,44.319633],[-80.644951,44.321468],[-80.644501,44.317276],[-80.648178,44.318672],[-80.648888,44.31913]]]],"created":1292541139,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/4031_20101216_e8c50fa31b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

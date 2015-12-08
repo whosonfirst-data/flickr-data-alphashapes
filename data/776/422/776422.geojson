@@ -1,0 +1,15 @@
+{
+  "id": 776422,
+  "type": "Feature",
+  "properties": {
+    "name":"Val, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":776422,
+    "woe:name":"Val, Galicia, Spain",
+    "woe:place_id":"gYoJRuOeBpowKDY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.080229,42.816502,-8.078089,42.821091],
+  "geometry": {"alpha":0.00015,"bbox":[-8.080228805542,42.816501617432,-8.078088760376,42.821090698242],"coordinates":[[[[-8.07956,42.82029],[-8.078089,42.816547],[-8.078167,42.816502],[-8.07994,42.819431],[-8.08002,42.82003],[-8.080229,42.821091],[-8.07956,42.82029]]]],"created":1292544033,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/776422_20101217_1613ab21d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

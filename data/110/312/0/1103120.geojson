@@ -1,0 +1,15 @@
+{
+  "id": 1103120,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingsvale, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1103120,
+    "woe:name":"Kingsvale, New South Wales, Australia",
+    "woe:place_id":"MSZCD96YAJzBfbr1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.316635,-34.482674,148.320526,-34.467419],
+  "geometry": {"alpha":0.00015,"bbox":[148.31663513184,-34.48267364502,148.32052612305,-34.467418670654],"coordinates":[[[[148.316635,-34.470093],[148.319504,-34.467419],[148.320526,-34.482674],[148.32019,-34.482582],[148.316635,-34.470093]]]],"created":1292456463,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/1103120_20101215_d9f76f8308.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

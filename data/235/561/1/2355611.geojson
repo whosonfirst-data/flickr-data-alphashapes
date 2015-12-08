@@ -1,0 +1,15 @@
+{
+  "id": 2355611,
+  "type": "Feature",
+  "properties": {
+    "name":"Arcilla, California, United States",
+    "placetype":"locality",
+    "woe:id":2355611,
+    "woe:name":"Arcilla, California, United States",
+    "woe:place_id":"TMWE1a.bApkOX_YW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.499313,33.776863,-117.479126,33.788376],
+  "geometry": {"alpha":0.00015,"bbox":[-117.49931335449,33.776863098145,-117.47912597656,33.788375854492],"coordinates":[[[[-117.498779,33.776863],[-117.499001,33.781101],[-117.499313,33.788376],[-117.479126,33.779861],[-117.493286,33.778004],[-117.498779,33.776863]]]],"created":1292454123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2355611_20101215_4a949c2fc5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

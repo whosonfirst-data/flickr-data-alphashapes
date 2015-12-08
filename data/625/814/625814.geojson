@@ -1,0 +1,15 @@
+{
+  "id": 625814,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint-Maur, Centre, France",
+    "placetype":"locality",
+    "woe:id":625814,
+    "woe:name":"Saint-Maur, Centre, France",
+    "woe:place_id":"PJHzs36fA5n7qzE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.40994,48.144512,1.424231,48.151985],
+  "geometry": {"alpha":0.00015,"bbox":[1.4099400043488,48.144512176514,1.4242310523987,48.151985168457],"coordinates":[[[[1.418384,48.151985],[1.424231,48.145645],[1.417751,48.144512],[1.40994,48.148449],[1.410949,48.151814],[1.418384,48.151985]]]],"created":1292475665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/625814_20101216_fd30da5976.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

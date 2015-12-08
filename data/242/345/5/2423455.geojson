@@ -1,0 +1,15 @@
+{
+  "id": 2423455,
+  "type": "Feature",
+  "properties": {
+    "name":"Hollywood, Memphis, TN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2423455,
+    "woe:name":"Hollywood, Memphis, TN, US, United States",
+    "woe:place_id":"7CmrdP.bBZ6H9NDP",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-89.977188,35.174397,-89.972275,35.177906],
+  "geometry": {"alpha":1e-05,"bbox":[-89.977188110352,35.174396514893,-89.972274780273,35.177906036377],"coordinates":[[[[-89.975662,35.174458],[-89.977188,35.174397],[-89.975258,35.177906],[-89.972275,35.174526],[-89.973984,35.174591],[-89.975662,35.174458]]]],"created":1292530874,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2423455_20101216_6396507636.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

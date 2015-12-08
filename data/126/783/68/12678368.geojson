@@ -1,0 +1,15 @@
+{
+  "id": 12678368,
+  "type": "Feature",
+  "properties": {
+    "name":"Fidenza, Italy",
+    "placetype":"locality",
+    "woe:id":12678368,
+    "woe:name":"Fidenza, Italy",
+    "woe:place_id":"TKFMtJCYA5oywZmQ6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.056953,44.861221,10.060751,44.869678],
+  "geometry": {"alpha":1e-05,"bbox":[10.056953430176,44.861221313477,10.060750961304,44.869678497314],"coordinates":[[[[10.057361,44.866562],[10.059528,44.869678],[10.057779,44.866405],[10.060751,44.86253],[10.056953,44.861221],[10.057286,44.866325],[10.057361,44.866562]]]],"created":1292546129,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12678368_20101217_8929da08ff.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

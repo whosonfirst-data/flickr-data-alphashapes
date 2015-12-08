@@ -1,0 +1,15 @@
+{
+  "id": 23511427,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Creek, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23511427,
+    "woe:name":"Spring Creek, Texas, United States",
+    "woe:place_id":"EkJDOqibApl4a.3kQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.008102,30.192617,-99.002907,30.195808],
+  "geometry": {"alpha":0.00015,"bbox":[-99.008102416992,30.192617416382,-99.002906799316,30.195808410645],"coordinates":[[[[-99.002907,30.195288],[-99.005272,30.193064],[-99.008102,30.192617],[-99.004066,30.195808],[-99.002907,30.195288]]]],"created":1248292447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3461/shapefiles/23511427_20090722_cbe5441a5e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

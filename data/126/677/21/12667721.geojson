@@ -1,0 +1,15 @@
+{
+  "id": 12667721,
+  "type": "Feature",
+  "properties": {
+    "name":"Noyant, France",
+    "placetype":"locality",
+    "woe:id":12667721,
+    "woe:name":"Noyant, France",
+    "woe:place_id":"Tr38p7CYA5rRGjcOYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.137346,47.509235,0.145826,47.513519],
+  "geometry": {"alpha":1e-05,"bbox":[0.13734599947929,47.50923538208,0.14582599699497,47.513519287109],"coordinates":[[[[0.139989,47.511345],[0.142478,47.512737],[0.145826,47.513519],[0.143208,47.511395],[0.142135,47.509235],[0.141191,47.509636],[0.140773,47.509808],[0.137346,47.509258],[0.139989,47.511345]]]],"created":1292524516,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12667721_20101216_424e1d3bdf.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23418227,
+  "type": "Feature",
+  "properties": {
+    "name":"South Wenatchee, Washington, United States",
+    "placetype":"locality",
+    "woe:id":23418227,
+    "woe:name":"South Wenatchee, Washington, United States",
+    "woe:place_id":"pEMTUbSbAphnsy9KLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.335014,47.383938,-120.31385,47.406715],
+  "geometry": {"alpha":0.00015,"bbox":[-120.33501434326,47.383937835693,-120.31385040283,47.406715393066],"coordinates":[[[[-120.335014,47.397289],[-120.329048,47.399742],[-120.320465,47.406715],[-120.31385,47.383938],[-120.327583,47.38998],[-120.335014,47.397289]]]],"created":1292524729,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/23418227_20101216_24d3d90d0a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

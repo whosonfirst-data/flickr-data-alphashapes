@@ -1,0 +1,15 @@
+{
+  "id": 12637496,
+  "type": "Feature",
+  "properties": {
+    "name":"Asnelles, France",
+    "placetype":"locality",
+    "woe:id":12637496,
+    "woe:name":"Asnelles, France",
+    "woe:place_id":"mQYqCaaYA5rOwUiYDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.588159,49.339691,-0.583949,49.342907],
+  "geometry": {"alpha":1e-05,"bbox":[-0.58815902471542,49.339691162109,-0.58394902944565,49.342906951904],"coordinates":[[[[-0.583949,49.342041],[-0.583992,49.341511],[-0.588159,49.339691],[-0.586181,49.342236],[-0.585837,49.342907],[-0.583949,49.342041]]]],"created":1292461385,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12637496_20101216_bb5febd5c0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 971005,
+  "type": "Feature",
+  "properties": {
+    "name":"Heppen, Limburg, Belgium",
+    "placetype":"locality",
+    "woe:id":971005,
+    "woe:name":"Heppen, Limburg, Belgium",
+    "woe:place_id":"czlo4JGQBp2kiCo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.225168,51.108059,5.232099,51.122528],
+  "geometry": {"alpha":0.00015,"bbox":[5.2251682281494,51.108058929443,5.2320990562439,51.122528076172],"coordinates":[[[[5.227244,51.10862],[5.225168,51.122528],[5.225447,51.122494],[5.232099,51.1092],[5.227829,51.108059],[5.227244,51.10862]]]],"created":1292533854,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/971005_20101216_91566ba317.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

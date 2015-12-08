@@ -1,0 +1,15 @@
+{
+  "id": 12253,
+  "type": "Feature",
+  "properties": {
+    "name":"Beesby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12253,
+    "woe:name":"Beesby, England, United Kingdom",
+    "woe:place_id":"E3paUE6YA55HqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.187574,53.298164,0.189364,53.300663],
+  "geometry": {"alpha":0.00015,"bbox":[0.18757399916649,53.298164367676,0.1893640011549,53.300662994385],"coordinates":[[[[0.18766,53.298256],[0.187574,53.298889],[0.187659,53.300663],[0.189364,53.29985],[0.18922,53.29879],[0.188333,53.298164],[0.18766,53.298256]]]],"created":1292446793,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12253_20101215_4aecf32b7f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

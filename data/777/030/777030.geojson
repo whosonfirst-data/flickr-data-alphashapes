@@ -1,0 +1,15 @@
+{
+  "id": 777030,
+  "type": "Feature",
+  "properties": {
+    "name":"Vega del Rey, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":777030,
+    "woe:name":"Vega del Rey, Asturias, Spain",
+    "woe:place_id":"r2R4HKGeBpvQ21E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.822582,43.121387,-5.811864,43.129868],
+  "geometry": {"alpha":0.00015,"bbox":[-5.8225817680359,43.121387481689,-5.811863899231,43.129867553711],"coordinates":[[[[-5.81417,43.128113],[-5.811864,43.126564],[-5.816388,43.121387],[-5.822582,43.129868],[-5.818634,43.128551],[-5.81417,43.128113]]]],"created":1292547030,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/777030_20101217_05f1f20cd7.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

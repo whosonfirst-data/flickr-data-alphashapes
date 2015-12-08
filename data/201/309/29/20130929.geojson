@@ -1,0 +1,15 @@
+{
+  "id": 20130929,
+  "type": "Feature",
+  "properties": {
+    "name":"Masano, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20130929,
+    "woe:name":"Masano, Lombardy, Italy",
+    "woe:place_id":"nKXYZfibAZ2ZLZ7clg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.675521,45.511219,9.678268,45.515186],
+  "geometry": {"alpha":0.00015,"bbox":[9.6755208969116,45.511219024658,9.6782684326172,45.515186309814],"coordinates":[[[[9.677753,45.511311],[9.675865,45.511639],[9.675521,45.512119],[9.677581,45.515186],[9.678268,45.511219],[9.677753,45.511311]]]],"created":1292544365,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/20130929_20101217_7af1853ac4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

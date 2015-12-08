@@ -1,0 +1,15 @@
+{
+  "id": 232,
+  "type": "Feature",
+  "properties": {
+    "name":"Capreol, Capreol, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":232,
+    "woe:name":"Capreol, Capreol, ON, CA, Canada",
+    "woe:place_id":"9gaucE.bAp4",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.929756,46.70438,-80.924431,46.710205],
+  "geometry": {"alpha":1e-05,"bbox":[-80.929756164551,46.7043800354,-80.924430847168,46.710205078125],"coordinates":[[[[-80.927742,46.710205],[-80.924431,46.708469],[-80.925697,46.708477],[-80.929756,46.70438],[-80.927742,46.710205]]]],"created":1292548908,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/232_20101217_c93946fdae.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

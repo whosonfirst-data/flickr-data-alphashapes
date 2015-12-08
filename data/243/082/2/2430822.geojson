@@ -1,0 +1,15 @@
+{
+  "id": 2430822,
+  "type": "Feature",
+  "properties": {
+    "name":"Kathwood, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2430822,
+    "woe:name":"Kathwood, South Carolina, United States",
+    "woe:place_id":"ENcDtkqbBZ_U4Vob",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.844879,33.337833,-81.835014,33.345158],
+  "geometry": {"alpha":0.00015,"bbox":[-81.844879150391,33.337833404541,-81.835014343262,33.345157623291],"coordinates":[[[[-81.835014,33.340225],[-81.835838,33.339401],[-81.839607,33.33881],[-81.842041,33.337833],[-81.844879,33.345158],[-81.835014,33.340225]]]],"created":1292500684,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2430822_20101216_7be0ab3d55.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

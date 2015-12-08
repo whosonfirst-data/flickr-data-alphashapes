@@ -1,0 +1,15 @@
+{
+  "id": 775977,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mateo, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":775977,
+    "woe:name":"San Mateo, Valencia, Spain",
+    "woe:place_id":"jTVsBsieBpmCcOU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.174064,40.458672,0.2005,40.489258],
+  "geometry": {"alpha":0.00015,"bbox":[0.17406399548054,40.458671569824,0.20049999654293,40.4892578125],"coordinates":[[[[0.181274,40.462097],[0.178356,40.462212],[0.176124,40.464317],[0.174064,40.469933],[0.178527,40.475681],[0.190887,40.489258],[0.19638,40.488216],[0.2005,40.488735],[0.2005,40.486126],[0.19638,40.480381],[0.198097,40.458672],[0.18754,40.461983],[0.181274,40.462097]]]],"created":1292527388,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/775977_20101216_d8a56db932.tar.gz"},"points":56,"type":"MultiPolygon"}
+}

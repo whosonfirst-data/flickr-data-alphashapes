@@ -1,0 +1,15 @@
+{
+  "id": 2413090,
+  "type": "Feature",
+  "properties": {
+    "name":"Graniteville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2413090,
+    "woe:name":"Graniteville, South Carolina, United States",
+    "woe:place_id":"u32UgHObBZ0PVhQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.808273,33.562664,-81.798103,33.579029],
+  "geometry": {"alpha":0.00015,"bbox":[-81.80827331543,33.562664031982,-81.79810333252,33.579029083252],"coordinates":[[[[-81.806572,33.578823],[-81.798103,33.566536],[-81.806183,33.562916],[-81.808273,33.562664],[-81.808113,33.579029],[-81.806572,33.578823]]]],"created":1248042242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2525/shapefiles/2413090_20090719_78e858faa3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

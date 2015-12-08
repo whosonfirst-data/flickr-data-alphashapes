@@ -1,0 +1,15 @@
+{
+  "id": 39453,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39453,
+    "woe:name":"Wellington, England, United Kingdom",
+    "woe:place_id":"7uOLvkiaCJj9Jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.75465,52.128799,-2.734823,52.133278],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7546501159668,52.128799438477,-2.7348229885101,52.133277893066],"coordinates":[[[[-2.75465,52.129536],[-2.750358,52.133278],[-2.736625,52.130299],[-2.734823,52.130035],[-2.7426,52.128799],[-2.746367,52.128929],[-2.75465,52.129536]]]],"created":1292450405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/39453_20101215_9013229278.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

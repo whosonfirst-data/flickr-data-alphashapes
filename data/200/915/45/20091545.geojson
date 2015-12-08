@@ -1,0 +1,15 @@
+{
+  "id": 20091545,
+  "type": "Feature",
+  "properties": {
+    "name":"Willington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091545,
+    "woe:name":"Willington, England, United Kingdom",
+    "woe:place_id":"bdwY9KGbAZyJiD7qFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.487376,54.987465,-1.484527,54.989925],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4873759746552,54.987464904785,-1.4845269918442,54.989925384521],"coordinates":[[[[-1.487376,54.989014],[-1.486743,54.989902],[-1.486603,54.989925],[-1.484527,54.987465],[-1.485466,54.987911],[-1.487376,54.989014]]]],"created":1292445429,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/20091545_20101215_2f6d621939.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

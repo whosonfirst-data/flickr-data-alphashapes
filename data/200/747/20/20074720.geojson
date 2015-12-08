@@ -1,0 +1,15 @@
+{
+  "id": 20074720,
+  "type": "Feature",
+  "properties": {
+    "name":"Argol, France",
+    "placetype":"locality",
+    "woe:id":20074720,
+    "woe:name":"Argol, France",
+    "woe:place_id":"fy11oe2bAZze9OiaRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.317208,48.245838,-4.312133,48.247326],
+  "geometry": {"alpha":1e-05,"bbox":[-4.3172078132629,48.245838165283,-4.3121328353882,48.247325897217],"coordinates":[[[[-4.317208,48.246067],[-4.316811,48.247326],[-4.312133,48.246254],[-4.316318,48.245838],[-4.317208,48.246067]]]],"created":1248032773,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2525/shapefiles/20074720_20090719_c603886e2d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

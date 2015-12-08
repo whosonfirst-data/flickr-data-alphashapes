@@ -1,0 +1,15 @@
+{
+  "id": 773901,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Marta, Extremadura, Spain",
+    "placetype":"locality",
+    "woe:id":773901,
+    "woe:name":"Santa Marta, Extremadura, Spain",
+    "woe:place_id":"dY5bF_ueBp856QE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.636772,38.613113,-6.623382,38.621696],
+  "geometry": {"alpha":0.00015,"bbox":[-6.6367721557617,38.61311340332,-6.6233820915222,38.621696472168],"coordinates":[[[[-6.624948,38.617786],[-6.623382,38.613113],[-6.626472,38.613247],[-6.63321,38.616135],[-6.636772,38.621696],[-6.624948,38.617786]]]],"created":1292521868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/773901_20101216_8c17602c04.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

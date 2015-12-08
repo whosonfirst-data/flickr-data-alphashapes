@@ -1,0 +1,15 @@
+{
+  "id": 28745308,
+  "type": "Feature",
+  "properties": {
+    "name":"Berwick, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745308,
+    "woe:name":"Berwick, Pennsylvania, United States",
+    "woe:place_id":"z9wXmwebCZvjvVnQ9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.001076,39.878395,-77.000854,39.878887],
+  "geometry": {"alpha":0.00015,"bbox":[-77.001075744629,39.878395080566,-77.000854492188,39.878887176514],"coordinates":[[[[-77.001076,39.87883],[-77.000954,39.878887],[-77.000854,39.878536],[-77.000854,39.878532],[-77.0009,39.878395],[-77.001076,39.87883]]]],"created":1292455297,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/28745308_20101215_a1fe6524f2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

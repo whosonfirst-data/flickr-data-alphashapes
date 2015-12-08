@@ -1,0 +1,15 @@
+{
+  "id": 711960,
+  "type": "Feature",
+  "properties": {
+    "name":"Camucia, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":711960,
+    "woe:name":"Camucia, Tuscany, Italy",
+    "woe:place_id":"gkse9tieAJ0n8Gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.971406,43.259892,11.97853,43.263954],
+  "geometry": {"alpha":0.00015,"bbox":[11.971405982971,43.25989151001,11.978529930115,43.263954162598],"coordinates":[[[[11.97853,43.260956],[11.977307,43.260239],[11.974239,43.259892],[11.971406,43.261673],[11.973037,43.263454],[11.977586,43.263954],[11.97853,43.260956]]]],"created":1292542877,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/711960_20101216_15b4fb78d8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

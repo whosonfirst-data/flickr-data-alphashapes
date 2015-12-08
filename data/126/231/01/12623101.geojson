@@ -1,0 +1,15 @@
+{
+  "id": 12623101,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lohberg, Germany",
+    "placetype":"locality",
+    "woe:id":12623101,
+    "woe:name":"Gemeinde Lohberg, Germany",
+    "woe:place_id":"agFBl.mYA5pk786Faw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.116559,49.123096,13.120336,49.133095],
+  "geometry": {"alpha":1e-05,"bbox":[13.116559028625,49.123096466064,13.120335578918,49.133094787598],"coordinates":[[[[13.119564,49.128769],[13.120336,49.128544],[13.119649,49.123631],[13.118963,49.123096],[13.117804,49.124611],[13.118019,49.127365],[13.117761,49.128235],[13.116559,49.133095],[13.119564,49.128769]]]],"created":1292453008,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12623101_20101215_cab10fa603.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

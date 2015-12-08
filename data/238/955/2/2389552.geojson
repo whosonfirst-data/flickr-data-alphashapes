@@ -1,0 +1,15 @@
+{
+  "id": 2389552,
+  "type": "Feature",
+  "properties": {
+    "name":"Davenport, New York, United States",
+    "placetype":"locality",
+    "woe:id":2389552,
+    "woe:name":"Davenport, New York, United States",
+    "woe:place_id":"segMWVmbApSTJY06",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.930428,42.443726,-74.921135,42.449554],
+  "geometry": {"alpha":0.00015,"bbox":[-74.93042755127,42.443725585938,-74.92113494873,42.449554443359],"coordinates":[[[[-74.929977,42.448002],[-74.927269,42.449554],[-74.921135,42.443726],[-74.927834,42.445667],[-74.930428,42.447418],[-74.929977,42.448002]]]],"created":1292551480,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2389552_20101217_4d0e215ece.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55898111,
+  "type": "Feature",
+  "properties": {
+    "name":"Lomas de San Angel, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":55898111,
+    "woe:name":"Lomas de San Angel, Nuevo Leon, Mexico",
+    "woe:place_id":"5lv8CPScBJS1C.WGTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.364151,25.626572,-100.361221,25.62937],
+  "geometry": {"alpha":0.00015,"bbox":[-100.36415100098,25.626571655273,-100.36122131348,25.629369735718],"coordinates":[[[[-100.361221,25.62937],[-100.361397,25.629045],[-100.363571,25.626572],[-100.364151,25.629112],[-100.361221,25.62937]]]],"created":1292523782,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/55898111_20101216_f462f2e510.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

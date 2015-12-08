@@ -1,0 +1,15 @@
+{
+  "id": 895239,
+  "type": "Feature",
+  "properties": {
+    "name":"Kil, Orebro, Sweden",
+    "placetype":"locality",
+    "woe:id":895239,
+    "woe:name":"Kil, Orebro, Sweden",
+    "woe:place_id":"VR2OrTuRCJmj36g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.070881,59.358219,15.084872,59.383507],
+  "geometry": {"alpha":0.00015,"bbox":[15.070880889893,59.358219146729,15.084872245789,59.383506774902],"coordinates":[[[[15.083783,59.372028],[15.082855,59.358219],[15.080802,59.371677],[15.070881,59.380196],[15.083112,59.383507],[15.084872,59.373562],[15.083783,59.372028]]]],"created":1292540346,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/895239_20101216_0eb9fc9613.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

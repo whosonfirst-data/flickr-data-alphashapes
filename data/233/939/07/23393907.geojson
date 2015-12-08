@@ -1,0 +1,15 @@
+{
+  "id": 23393907,
+  "type": "Feature",
+  "properties": {
+    "name":"New Denmark, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393907,
+    "woe:name":"New Denmark, New Brunswick, Canada",
+    "woe:place_id":"48hxPaqbAp_P3UctYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.618706,46.990089,-67.597504,47.019119],
+  "geometry": {"alpha":0.00015,"bbox":[-67.618705749512,46.990089416504,-67.597503662109,47.019119262695],"coordinates":[[[[-67.608833,47.00367],[-67.597504,47.019119],[-67.599907,46.997406],[-67.618706,46.990089],[-67.612267,47.003437],[-67.608833,47.00367]]]],"created":1292463006,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/23393907_20101216_63a271fc31.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

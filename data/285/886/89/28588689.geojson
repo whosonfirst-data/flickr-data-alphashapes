@@ -1,0 +1,15 @@
+{
+  "id": 28588689,
+  "type": "Feature",
+  "properties": {
+    "name":"Highland Plains, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28588689,
+    "woe:name":"Highland Plains, Queensland, Australia",
+    "woe:place_id":"53lm9r.bCZl2fONHcg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.724167,-27.276834,151.731339,-27.265167],
+  "geometry": {"alpha":0.00015,"bbox":[151.72416687012,-27.276834487915,151.73133850098,-27.265167236328],"coordinates":[[[[151.726501,-27.266167],[151.731339,-27.273666],[151.731003,-27.275333],[151.730835,-27.276834],[151.724167,-27.265167],[151.724503,-27.265333],[151.726501,-27.266167]]]],"created":1292457751,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/28588689_20101216_4e373d1db9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

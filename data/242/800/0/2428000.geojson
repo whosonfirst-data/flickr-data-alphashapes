@@ -1,0 +1,15 @@
+{
+  "id": 2428000,
+  "type": "Feature",
+  "properties": {
+    "name":"Ives Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2428000,
+    "woe:name":"Ives Corner, New York, United States",
+    "woe:place_id":"14MaQIWbBZ71fast",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.530022,42.686092,-73.52626,42.692383],
+  "geometry": {"alpha":0.00015,"bbox":[-73.53002166748,42.686092376709,-73.526260375977,42.6923828125],"coordinates":[[[[-73.527916,42.692314],[-73.52787,42.692383],[-73.527802,42.692348],[-73.52626,42.686092],[-73.52948,42.688183],[-73.530022,42.688457],[-73.527916,42.692314]]]],"created":1247924763,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2567/shapefiles/2428000_20090718_3638897a7d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

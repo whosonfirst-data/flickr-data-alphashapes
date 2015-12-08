@@ -1,0 +1,15 @@
+{
+  "id": 2499320,
+  "type": "Feature",
+  "properties": {
+    "name":"Station Hills, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2499320,
+    "woe:name":"Station Hills, Virginia, United States",
+    "woe:place_id":"CS3pmL.bBZXt6WD_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.362457,38.789845,-77.344597,38.805798],
+  "geometry": {"alpha":0.00015,"bbox":[-77.362457275391,38.789844512939,-77.344596862793,38.805797576904],"coordinates":[[[[-77.36235,38.789845],[-77.362457,38.790051],[-77.358643,38.797543],[-77.352669,38.805798],[-77.344597,38.798725],[-77.36235,38.789845]]]],"created":1248203773,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3490/shapefiles/2499320_20090721_e930ab4e30.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2477782,
+  "type": "Feature",
+  "properties": {
+    "name":"Quemado, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2477782,
+    "woe:name":"Quemado, New Mexico, United States",
+    "woe:place_id":"PMi1ZtmbBZsX5dTm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.507713,34.336666,-108.49453,34.35318],
+  "geometry": {"alpha":0.00015,"bbox":[-108.50771331787,34.336666107178,-108.49452972412,34.353179931641],"coordinates":[[[[-108.49453,34.342426],[-108.507713,34.336666],[-108.496513,34.343578],[-108.495827,34.345135],[-108.494713,34.35318],[-108.49453,34.342426]]]],"created":1239385923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3544/shapefiles/2477782_20090410_09639bcb96.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

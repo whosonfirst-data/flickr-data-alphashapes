@@ -1,0 +1,15 @@
+{
+  "id": 23401780,
+  "type": "Feature",
+  "properties": {
+    "name":"Williamsburg, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23401780,
+    "woe:name":"Williamsburg, Ontario, Canada",
+    "woe:place_id":"RZX2.oSbApi5ASc1vQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.244591,44.973907,-75.237289,44.977306],
+  "geometry": {"alpha":0.00015,"bbox":[-75.244590759277,44.973907470703,-75.237289428711,44.977306365967],"coordinates":[[[[-75.243088,44.976364],[-75.237289,44.977306],[-75.243469,44.973907],[-75.244591,44.9744],[-75.243088,44.976364]]]],"created":1292441938,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/23401780_20101215_325ed759fe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

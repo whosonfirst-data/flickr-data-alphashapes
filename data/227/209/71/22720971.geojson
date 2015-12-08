@@ -1,0 +1,15 @@
+{
+  "id": 22720971,
+  "type": "Feature",
+  "properties": {
+    "name":"Swan Bay, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":22720971,
+    "woe:name":"Swan Bay, Victoria, Australia",
+    "woe:place_id":"cfxN1QSbA5tUZMGVtA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.614929,-38.309471,144.633636,-38.290543],
+  "geometry": {"alpha":0.00015,"bbox":[144.61492919922,-38.309471130371,144.63363647461,-38.290542602539],"coordinates":[[[[144.632599,-38.292564],[144.633636,-38.292629],[144.632858,-38.306103],[144.630371,-38.309471],[144.631226,-38.298019],[144.614929,-38.290543],[144.632599,-38.292564]]]],"created":1292539328,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/22720971_20101216_857dbd0d94.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

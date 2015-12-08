@@ -1,0 +1,15 @@
+{
+  "id": 2439196,
+  "type": "Feature",
+  "properties": {
+    "name":"Light Street, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2439196,
+    "woe:name":"Light Street, Pennsylvania, United States",
+    "woe:place_id":"4irJBVGbBZ.vbc77",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.409775,41.012932,-76.380669,41.037224],
+  "geometry": {"alpha":0.00015,"bbox":[-76.409774780273,41.01293182373,-76.380668640137,41.037223815918],"coordinates":[[[[-76.395836,41.037224],[-76.395554,41.037224],[-76.380669,41.022835],[-76.386284,41.019001],[-76.409775,41.012932],[-76.399742,41.029449],[-76.395836,41.037224]]]],"created":1292444883,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2439196_20101215_573d335008.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

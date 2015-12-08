@@ -1,0 +1,15 @@
+{
+  "id": 588745,
+  "type": "Feature",
+  "properties": {
+    "name":"Dieulouard, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":588745,
+    "woe:name":"Dieulouard, Lorraine, France",
+    "woe:place_id":"7byGoGOcCZQztxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.054668,48.837528,6.081705,48.853024],
+  "geometry": {"alpha":0.00015,"bbox":[6.0546679496765,48.83752822876,6.0817050933838,48.853023529053],"coordinates":[[[[6.067113,48.844101],[6.077928,48.853024],[6.081705,48.839188],[6.067135,48.839046],[6.062167,48.837528],[6.054668,48.839638],[6.067113,48.844101]]]],"created":1292538424,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/588745_20101216_4301e138de.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

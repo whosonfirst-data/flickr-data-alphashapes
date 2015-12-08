@@ -1,0 +1,15 @@
+{
+  "id": 12627815,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wassenach, Germany",
+    "placetype":"locality",
+    "woe:id":12627815,
+    "woe:name":"Gemeinde Wassenach, Germany",
+    "woe:place_id":"ln9188aYA5p9TZ8wjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.28033,50.416229,7.28548,50.421753],
+  "geometry": {"alpha":1e-05,"bbox":[7.2803301811218,50.416229248047,7.2854800224304,50.421752929688],"coordinates":[[[[7.28548,50.418255],[7.284622,50.416229],[7.28342,50.418472],[7.28033,50.421753],[7.283678,50.419949],[7.28548,50.418255]]]],"created":1292527681,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12627815_20101216_4f1bccb408.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

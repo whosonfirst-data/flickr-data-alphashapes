@@ -1,0 +1,15 @@
+{
+  "id": 12640452,
+  "type": "Feature",
+  "properties": {
+    "name":"Carrouges, France",
+    "placetype":"locality",
+    "woe:id":12640452,
+    "woe:name":"Carrouges, France",
+    "woe:place_id":"fS_VvS.YA5prZv.v9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.154666,48.560478,-0.153422,48.566158],
+  "geometry": {"alpha":1e-05,"bbox":[-0.15466600656509,48.560478210449,-0.15342199802399,48.566158294678],"coordinates":[[[[-0.154581,48.560478],[-0.154666,48.560818],[-0.154151,48.561199],[-0.153808,48.566158],[-0.153422,48.560802],[-0.154581,48.560478]]]],"created":1292549886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12640452_20101217_df5c6cf36f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

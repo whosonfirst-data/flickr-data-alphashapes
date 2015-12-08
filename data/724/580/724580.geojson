@@ -1,0 +1,15 @@
+{
+  "id": 724580,
+  "type": "Feature",
+  "properties": {
+    "name":"Strambino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":724580,
+    "woe:name":"Strambino, Piedmont, Italy",
+    "woe:place_id":"42LO5yKeA5gXn3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.875008,45.377262,7.895339,45.387077],
+  "geometry": {"alpha":0.00015,"bbox":[7.8750081062317,45.377262115479,7.895339012146,45.387077331543],"coordinates":[[[[7.885426,45.387077],[7.895339,45.380653],[7.887668,45.381573],[7.884079,45.381809],[7.875008,45.377262],[7.881853,45.382877],[7.885426,45.387077]]]],"created":1292458618,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/724580_20101216_d6af881cb3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

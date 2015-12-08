@@ -1,0 +1,15 @@
+{
+  "id": 23395611,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingsey, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395611,
+    "woe:name":"Kingsey, Quebec, Canada",
+    "woe:place_id":"3m4zohSbAp.xlaJ3ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.225838,45.774017,-72.195793,45.800083],
+  "geometry": {"alpha":0.00015,"bbox":[-72.22583770752,45.774017333984,-72.195793151855,45.8000831604],"coordinates":[[[[-72.210945,45.774017],[-72.225838,45.780453],[-72.208069,45.786438],[-72.196655,45.800083],[-72.195793,45.783657],[-72.210945,45.774017]]]],"created":1292524707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/23395611_20101216_09252a5038.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

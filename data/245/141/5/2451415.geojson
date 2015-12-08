@@ -1,0 +1,15 @@
+{
+  "id": 2451415,
+  "type": "Feature",
+  "properties": {
+    "name":"Millerstown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2451415,
+    "woe:name":"Millerstown, Pennsylvania, United States",
+    "woe:place_id":"HoCu64ebBZn3cebb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.159737,40.546326,-77.152992,40.552292],
+  "geometry": {"alpha":0.00015,"bbox":[-77.159736633301,40.546325683594,-77.152992248535,40.552291870117],"coordinates":[[[[-77.152992,40.546635],[-77.153366,40.546326],[-77.159149,40.547466],[-77.159439,40.54781],[-77.159737,40.548153],[-77.155159,40.552292],[-77.152992,40.546635]]]],"created":1292469664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2451415_20101216_9ac33373af.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

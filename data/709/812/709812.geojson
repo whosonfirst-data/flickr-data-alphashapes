@@ -1,0 +1,15 @@
+{
+  "id": 709812,
+  "type": "Feature",
+  "properties": {
+    "name":"Acuto, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":709812,
+    "woe:name":"Acuto, Lazio, Italy",
+    "woe:place_id":"AoWE42ieAZX3UGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.171811,41.769009,13.19149,41.792126],
+  "geometry": {"alpha":0.00015,"bbox":[13.171811103821,41.769008636475,13.19149017334,41.792125701904],"coordinates":[[[[13.17265,41.792126],[13.175354,41.791794],[13.18737,41.791664],[13.19149,41.776432],[13.172264,41.769009],[13.171811,41.791084],[13.17265,41.792126]]]],"created":1292548571,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/709812_20101217_d414c657e7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 419248,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mateo, Lima, Peru",
+    "placetype":"locality",
+    "woe:id":419248,
+    "woe:name":"San Mateo, Lima, Peru",
+    "woe:place_id":"V5C9VNedAJUz4CM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.354294,-11.801069,-76.33416,-11.776619],
+  "geometry": {"alpha":0.00015,"bbox":[-76.354293823242,-11.801069259644,-76.334159851074,-11.77661895752],"coordinates":[[[[-76.339531,-11.800537],[-76.343307,-11.801069],[-76.337807,-11.791881],[-76.354294,-11.776619],[-76.33416,-11.783378],[-76.334351,-11.783684],[-76.335983,-11.78665],[-76.336777,-11.790125],[-76.338326,-11.796616],[-76.339531,-11.800537]]]],"created":1292551600,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/419248_20101217_e35817a868.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

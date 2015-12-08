@@ -1,0 +1,15 @@
+{
+  "id": 12651825,
+  "type": "Feature",
+  "properties": {
+    "name":"Seine-Port, France",
+    "placetype":"locality",
+    "woe:id":12651825,
+    "woe:name":"Seine-Port, France",
+    "woe:place_id":"5PIzmpmYA5pp3l0mjA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.537155,48.556343,2.552046,48.563656],
+  "geometry": {"alpha":1e-05,"bbox":[2.5371549129486,48.556343078613,2.5520460605621,48.563655853271],"coordinates":[[[[2.543327,48.559875],[2.542939,48.559967],[2.537155,48.562065],[2.542336,48.563656],[2.548141,48.562294],[2.547359,48.559551],[2.552046,48.556343],[2.546593,48.558395],[2.543327,48.559875]]]],"created":1292522734,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12651825_20101216_87085066d3.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

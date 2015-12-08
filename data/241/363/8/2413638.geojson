@@ -1,0 +1,15 @@
+{
+  "id": 2413638,
+  "type": "Feature",
+  "properties": {
+    "name":"Greeley, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2413638,
+    "woe:name":"Greeley, Kansas, United States",
+    "woe:place_id":"QPFstmObBZ0uWLt6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.137482,38.363834,-95.116508,38.378536],
+  "geometry": {"alpha":0.00015,"bbox":[-95.137481689453,38.363834381104,-95.116508483887,38.378536224365],"coordinates":[[[[-95.130295,38.363834],[-95.137482,38.378536],[-95.133018,38.378136],[-95.116508,38.370834],[-95.126839,38.366493],[-95.130295,38.363834]]]],"created":1292546072,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2413638_20101217_a54438713e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

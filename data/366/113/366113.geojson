@@ -1,0 +1,15 @@
+{
+  "id": 366113,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vicente, Antioquia, Colombia",
+    "placetype":"locality",
+    "woe:id":366113,
+    "woe:name":"San Vicente, Antioquia, Colombia",
+    "woe:place_id":"P4lMBW.aB5rI.RU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.345612,6.231261,-75.330673,6.242268],
+  "geometry": {"alpha":0.00015,"bbox":[-75.345611572266,6.2312607765198,-75.330673217773,6.2422680854797],"coordinates":[[[[-75.345612,6.231261],[-75.344238,6.242268],[-75.330673,6.233394],[-75.335136,6.231346],[-75.345612,6.231261]]]],"created":1292474646,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/366113_20101216_41aacd0ec8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

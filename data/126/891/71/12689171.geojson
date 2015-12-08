@@ -1,0 +1,15 @@
+{
+  "id": 12689171,
+  "type": "Feature",
+  "properties": {
+    "name":"Segura de la Sierra, Spain",
+    "placetype":"locality",
+    "woe:id":12689171,
+    "woe:name":"Segura de la Sierra, Spain",
+    "woe:place_id":"reyj4XKYA5p9DLHlVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.652071,38.295795,-2.650022,38.300007],
+  "geometry": {"alpha":1e-05,"bbox":[-2.6520709991455,38.295795440674,-2.6500220298767,38.300006866455],"coordinates":[[[[-2.651567,38.300007],[-2.650065,38.29995],[-2.650108,38.299183],[-2.650022,38.295795],[-2.652071,38.298309],[-2.651567,38.300007]]]],"created":1292538246,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12689171_20101216_3ac62ba348.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

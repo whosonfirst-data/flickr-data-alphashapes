@@ -1,0 +1,15 @@
+{
+  "id": 2407450,
+  "type": "Feature",
+  "properties": {
+    "name":"French Town, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2407450,
+    "woe:name":"French Town, Montana, United States",
+    "woe:place_id":"SEBJ48abBZw1pmgh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.028923,45.956715,-113.024811,45.961964],
+  "geometry": {"alpha":0.00015,"bbox":[-113.02892303467,45.956714630127,-113.02481079102,45.961963653564],"coordinates":[[[[-113.024811,45.956715],[-113.025688,45.957207],[-113.026894,45.958351],[-113.028923,45.961964],[-113.024811,45.956715]]]],"created":1248244805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3469/shapefiles/2407450_20090722_03fa189ff3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

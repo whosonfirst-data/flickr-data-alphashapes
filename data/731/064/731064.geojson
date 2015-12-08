@@ -1,0 +1,15 @@
+{
+  "id": 731064,
+  "type": "Feature",
+  "properties": {
+    "name":"Laareind, Utrecht, Netherlands",
+    "placetype":"locality",
+    "woe:id":731064,
+    "woe:name":"Laareind, Utrecht, Netherlands",
+    "woe:place_id":"oLCD9ROeAp15OwU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.59071,51.947594,5.613286,51.958187],
+  "geometry": {"alpha":0.000457763671875,"bbox":[5.5907101631165,51.947593688965,5.6132860183716,51.958187103271],"coordinates":[[[[5.591654,51.955387],[5.59071,51.957134],[5.591847,51.958187],[5.607483,51.952938],[5.613286,51.947704],[5.613251,51.947594],[5.591654,51.955387]]]],"created":1292546507,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/731064_20101217_460e962280.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

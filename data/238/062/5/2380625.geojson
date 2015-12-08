@@ -1,0 +1,15 @@
+{
+  "id": 2380625,
+  "type": "Feature",
+  "properties": {
+    "name":"Claremont, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2380625,
+    "woe:name":"Claremont, South Carolina, United States",
+    "woe:place_id":"z1jKNyebApTnamsY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.558495,33.960651,-80.557274,33.963223],
+  "geometry": {"alpha":0.00015,"bbox":[-80.558494567871,33.960651397705,-80.557273864746,33.963222503662],"coordinates":[[[[-80.557365,33.963055],[-80.557274,33.960651],[-80.558495,33.96262],[-80.557419,33.963223],[-80.557365,33.963055]]]],"created":1292493426,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2380625_20101216_5490ff45b5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

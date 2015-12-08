@@ -1,0 +1,15 @@
+{
+  "id": 845043,
+  "type": "Feature",
+  "properties": {
+    "name":"Randvere, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":845043,
+    "woe:name":"Randvere, Harju County, Estonia",
+    "woe:place_id":".lGTmUuRBZkpNok",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.89502,59.495827,24.921112,59.517078],
+  "geometry": {"alpha":0.00015,"bbox":[24.89501953125,59.495826721191,24.921112060547,59.517078399658],"coordinates":[[[[24.896305,59.504406],[24.89502,59.50663],[24.912872,59.517078],[24.911209,59.511295],[24.921112,59.495827],[24.917679,59.496872],[24.896305,59.504406]]]],"created":1292477292,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/845043_20101216_3759181cd4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

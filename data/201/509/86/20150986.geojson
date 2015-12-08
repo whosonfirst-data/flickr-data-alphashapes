@@ -1,0 +1,15 @@
+{
+  "id": 20150986,
+  "type": "Feature",
+  "properties": {
+    "name":"Fornudden, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20150986,
+    "woe:name":"Fornudden, Stockholm, Sweden",
+    "woe:place_id":"dfLIDJqbAZ0LcfzKgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.181257,59.215027,18.19602,59.22493],
+  "geometry": {"alpha":0.00015,"bbox":[18.181257247925,59.215026855469,18.196020126343,59.22492980957],"coordinates":[[[[18.183231,59.215157],[18.181257,59.217838],[18.19602,59.22493],[18.194647,59.215027],[18.18572,59.215145],[18.183231,59.215157]]]],"created":1292541246,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20150986_20101216_602a11afe4.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

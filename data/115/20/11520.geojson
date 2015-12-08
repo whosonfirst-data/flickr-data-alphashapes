@@ -1,0 +1,15 @@
+{
+  "id": 11520,
+  "type": "Feature",
+  "properties": {
+    "name":"Babingley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11520,
+    "woe:name":"Babingley, England, United Kingdom",
+    "woe:place_id":"hXGaHNOYAJkgFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.48254,52.795235,0.499191,52.821022],
+  "geometry": {"alpha":0.00015,"bbox":[0.48254001140594,52.795234680176,0.49919098615646,52.821022033691],"coordinates":[[[[0.496111,52.815556],[0.494226,52.812534],[0.499191,52.795235],[0.491809,52.801826],[0.48254,52.803177],[0.483741,52.807587],[0.488891,52.821022],[0.490994,52.818817],[0.496111,52.815556]]]],"created":1292515329,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/11520_20101216_df574e03c7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

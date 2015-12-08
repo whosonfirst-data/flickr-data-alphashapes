@@ -1,0 +1,15 @@
+{
+  "id": 2380386,
+  "type": "Feature",
+  "properties": {
+    "name":"Cincinnatus, New York, United States",
+    "placetype":"locality",
+    "woe:id":2380386,
+    "woe:name":"Cincinnatus, New York, United States",
+    "woe:place_id":"cRB.f0CbApSV4HQl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.896812,42.530552,-75.873642,42.545998],
+  "geometry": {"alpha":0.00015,"bbox":[-75.896812438965,42.5305519104,-75.873641967773,42.545997619629],"coordinates":[[[[-75.874329,42.545998],[-75.873642,42.545238],[-75.885315,42.537903],[-75.896812,42.530552],[-75.885315,42.539547],[-75.874329,42.545998]]]],"created":1292531566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2380386_20101216_6c8a53872a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

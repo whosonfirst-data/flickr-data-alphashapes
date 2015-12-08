@@ -1,0 +1,15 @@
+{
+  "id": 764836,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Playas, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":764836,
+    "woe:name":"Las Playas, Andalusia, Spain",
+    "woe:place_id":"skc7dxqeB5g_SAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.025167,37.366833,-6.023758,37.370567],
+  "geometry": {"alpha":0.00015,"bbox":[-6.0251669883728,37.366832733154,-6.0237579345703,37.370567321777],"coordinates":[[[[-6.025167,37.366833],[-6.023941,37.370567],[-6.023758,37.368069],[-6.02465,37.367065],[-6.024734,37.367001],[-6.025167,37.366833]]]],"created":1292411644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/764836_20101215_1b3c14198c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

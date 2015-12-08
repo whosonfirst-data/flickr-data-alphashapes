@@ -1,0 +1,15 @@
+{
+  "id": 12686923,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinggu, China",
+    "placetype":"locality",
+    "woe:id":12686923,
+    "woe:name":"Pinggu, China",
+    "woe:place_id":"gZP4y2mYA5oRshpkIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [117.140472,40.07885,117.141724,40.080532],
+  "geometry": {"alpha":1e-05,"bbox":[117.14047241211,40.07884979248,117.14172363281,40.080532073975],"coordinates":[[[[117.140625,40.079243],[117.140755,40.079338],[117.141724,40.080532],[117.140968,40.079147],[117.140656,40.07885],[117.140648,40.078854],[117.140472,40.079052],[117.140472,40.079117],[117.140625,40.079243]]]],"created":1248195985,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2436/shapefiles/12686923_20090721_eb9a5f69a5.tar.gz"},"points":44,"type":"MultiPolygon"}
+}

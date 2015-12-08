@@ -1,0 +1,15 @@
+{
+  "id": 2459263,
+  "type": "Feature",
+  "properties": {
+    "name":"Newark, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2459263,
+    "woe:name":"Newark, Texas, United States",
+    "woe:place_id":"UQZA17GbBZmbGA8z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.467033,32.991676,-97.456169,32.992981],
+  "geometry": {"alpha":0.00015,"bbox":[-97.46703338623,32.991676330566,-97.456169128418,32.992980957031],"coordinates":[[[[-97.456375,32.99221],[-97.456329,32.992226],[-97.456306,32.992218],[-97.456169,32.992077],[-97.456551,32.991676],[-97.467033,32.992981],[-97.456375,32.99221]]]],"created":1292550552,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2459263_20101217_bdb25a2ee2.tar.gz"},"points":37,"type":"MultiPolygon"}
+}

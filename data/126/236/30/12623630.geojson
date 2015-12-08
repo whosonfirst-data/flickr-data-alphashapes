@@ -1,0 +1,15 @@
+{
+  "id": 12623630,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Zwiefalten, Germany",
+    "placetype":"locality",
+    "woe:id":12623630,
+    "woe:name":"Gemeinde Zwiefalten, Germany",
+    "woe:place_id":"Evm74GqYA5rC8tetaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.459013,48.232052,9.46206,48.234848],
+  "geometry": {"alpha":1e-05,"bbox":[9.4590129852295,48.232051849365,9.4620599746704,48.234848022461],"coordinates":[[[[9.46043,48.232677],[9.459013,48.234848],[9.46206,48.232246],[9.461261,48.232052],[9.460558,48.232407],[9.46043,48.232677]]]],"created":1292549442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12623630_20101217_537cbeaaa1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

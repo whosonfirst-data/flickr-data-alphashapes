@@ -1,0 +1,15 @@
+{
+  "id": 678678,
+  "type": "Feature",
+  "properties": {
+    "name":"Neukirchen, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":678678,
+    "woe:name":"Neukirchen, North Rhine-Westphalia, Germany",
+    "woe:place_id":"1_qLeKCfBpR8shU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.89883,50.701675,6.91658,50.713875],
+  "geometry": {"alpha":0.00015,"bbox":[6.8988299369812,50.701675415039,6.9165802001953,50.713874816895],"coordinates":[[[[6.899414,50.701675],[6.89883,50.713875],[6.916,50.713165],[6.91658,50.712929],[6.901932,50.704666],[6.899414,50.701675]]]],"created":1248035648,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3516/shapefiles/678678_20090719_be4e4c4aaf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

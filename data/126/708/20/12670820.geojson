@@ -1,0 +1,15 @@
+{
+  "id": 12670820,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Marcellin, France",
+    "placetype":"locality",
+    "woe:id":12670820,
+    "woe:name":"St.-Marcellin, France",
+    "woe:place_id":"pnKWhqWYA5orVfwbWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.317833,45.153526,5.318616,45.157665],
+  "geometry": {"alpha":1e-05,"bbox":[5.3178329467773,45.153526306152,5.3186159133911,45.157665252686],"coordinates":[[[[5.318,45.157501],[5.318616,45.153526],[5.317833,45.157333],[5.317833,45.157501],[5.317833,45.157665],[5.318,45.157501]]]],"created":1292520311,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12670820_20101216_b92c4960d6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10751,
+  "type": "Feature",
+  "properties": {
+    "name":"Alvingham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10751,
+    "woe:name":"Alvingham, England, United Kingdom",
+    "woe:place_id":"HhzvPU.YAZsXPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.048151,53.394794,0.055189,53.401653],
+  "geometry": {"alpha":0.00015,"bbox":[0.04815100133419,53.394794464111,0.055188998579979,53.401653289795],"coordinates":[[[[0.054813,53.401241],[0.050125,53.394794],[0.048408,53.397507],[0.048151,53.400681],[0.053869,53.401455],[0.055189,53.401653],[0.054813,53.401241]]]],"created":1292515446,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/10751_20101216_7de0d5300f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

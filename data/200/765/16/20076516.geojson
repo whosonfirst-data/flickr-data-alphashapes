@@ -1,0 +1,15 @@
+{
+  "id": 20076516,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giorio di Susa, Italy",
+    "placetype":"locality",
+    "woe:id":20076516,
+    "woe:name":"San Giorio di Susa, Italy",
+    "woe:place_id":"Sh.PpHabAZwqux9HJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.177013,45.061749,7.183911,45.066887],
+  "geometry": {"alpha":1e-05,"bbox":[7.1770129203796,45.061748504639,7.1839108467102,45.066886901855],"coordinates":[[[[7.177013,45.065853],[7.177505,45.066006],[7.181841,45.066887],[7.183911,45.064537],[7.180988,45.061749],[7.177677,45.063702],[7.177013,45.065853]]]],"created":1292551376,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/20076516_20101217_e9dfd27f30.tar.gz"},"points":42,"type":"MultiPolygon"}
+}

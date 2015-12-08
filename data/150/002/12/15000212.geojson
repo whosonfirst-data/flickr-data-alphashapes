@@ -1,0 +1,15 @@
+{
+  "id": 15000212,
+  "type": "Feature",
+  "properties": {
+    "name":"Furnari, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":15000212,
+    "woe:name":"Furnari, Sicily, Italy",
+    "woe:place_id":"iduDCKmYBJwH7auN_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.103797,38.0989,15.123817,38.117619],
+  "geometry": {"alpha":0.00015,"bbox":[15.103796958923,38.098899841309,15.123817443848,38.117618560791],"coordinates":[[[[15.120191,38.117619],[15.123817,38.104912],[15.123209,38.103779],[15.103797,38.0989],[15.105884,38.116241],[15.120191,38.117619]]]],"created":1292445401,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/15000212_20101215_ce36f5f415.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

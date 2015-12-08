@@ -1,0 +1,15 @@
+{
+  "id": 20152420,
+  "type": "Feature",
+  "properties": {
+    "name":"Wildberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20152420,
+    "woe:name":"Wildberg, Bavaria, Germany",
+    "woe:place_id":"5oq2rAubAZ2UadTYnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.77122,47.802719,12.773687,47.804523],
+  "geometry": {"alpha":0.00015,"bbox":[12.771220207214,47.802719116211,12.773687362671,47.804523468018],"coordinates":[[[[12.771284,47.803795],[12.77122,47.804523],[12.773687,47.802719],[12.772915,47.802921],[12.771284,47.803795]]]],"created":1292445581,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/20152420_20101215_4393e77705.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

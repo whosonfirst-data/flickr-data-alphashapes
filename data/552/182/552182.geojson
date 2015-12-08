@@ -1,0 +1,15 @@
+{
+  "id": 552182,
+  "type": "Feature",
+  "properties": {
+    "name":"Balke, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":552182,
+    "woe:name":"Balke, Hovedstaden, Denmark",
+    "woe:place_id":"gpbKoNGcBJ4fWys",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.097961,55.034267,15.114955,55.040726],
+  "geometry": {"alpha":0.00015,"bbox":[15.097961425781,55.034267425537,15.114954948425,55.040725708008],"coordinates":[[[[15.114955,55.034267],[15.103958,55.035419],[15.097961,55.035892],[15.111973,55.040726],[15.114955,55.034267]]]],"created":1239593539,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3333/shapefiles/552182_20090413_7a45449cda.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

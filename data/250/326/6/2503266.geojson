@@ -1,0 +1,15 @@
+{
+  "id": 2503266,
+  "type": "Feature",
+  "properties": {
+    "name":"Sycamore Creek, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2503266,
+    "woe:name":"Sycamore Creek, Maryland, United States",
+    "woe:place_id":"DqhQqdKbBJwxmQ2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.103317,39.091873,-77.091774,39.103474],
+  "geometry": {"alpha":0.00015,"bbox":[-77.103317260742,39.091873168945,-77.091773986816,39.10347366333],"coordinates":[[[[-77.103317,39.094269],[-77.102928,39.097095],[-77.096558,39.103474],[-77.091774,39.091873],[-77.094597,39.092747],[-77.103317,39.094269]]]],"created":1292529145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2503266_20101216_995ea08019.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

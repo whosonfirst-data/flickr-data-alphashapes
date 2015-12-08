@@ -1,0 +1,15 @@
+{
+  "id": 848843,
+  "type": "Feature",
+  "properties": {
+    "name":"Lisignano, Istarska, Croatia",
+    "placetype":"locality",
+    "woe:id":848843,
+    "woe:name":"Lisignano, Istarska, Croatia",
+    "woe:place_id":"EYexFXyRBZSTjGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.955554,44.828117,13.960447,44.832012],
+  "geometry": {"alpha":0.00015,"bbox":[13.955554008484,44.828117370605,13.960447311401,44.832012176514],"coordinates":[[[[13.960018,44.8311],[13.960447,44.83049],[13.960189,44.828362],[13.958129,44.828117],[13.955554,44.831161],[13.957958,44.832012],[13.960018,44.8311]]]],"created":1292519716,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/848843_20101216_f40a8bebcc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

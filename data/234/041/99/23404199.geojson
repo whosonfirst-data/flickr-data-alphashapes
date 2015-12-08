@@ -1,0 +1,15 @@
+{
+  "id": 23404199,
+  "type": "Feature",
+  "properties": {
+    "name":"Evansburg, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404199,
+    "woe:name":"Evansburg, Alberta, Canada",
+    "woe:place_id":"fmx4JVmbAphUe2EyVA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.021362,53.59391,-115.01162,53.602665],
+  "geometry": {"alpha":0.00015,"bbox":[-115.02136230469,53.593910217285,-115.01161956787,53.60266494751],"coordinates":[[[[-115.017754,53.602665],[-115.011703,53.600731],[-115.01162,53.59877],[-115.021172,53.59391],[-115.021362,53.59407],[-115.017754,53.602665]]]],"created":1292448661,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/23404199_20101215_a8ca87558a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

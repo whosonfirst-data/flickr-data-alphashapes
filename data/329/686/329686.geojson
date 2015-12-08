@@ -1,0 +1,15 @@
+{
+  "id": 329686,
+  "type": "Feature",
+  "properties": {
+    "name":"Diamond, Saint Croix Island, US Virgin Islands",
+    "placetype":"locality",
+    "woe:id":329686,
+    "woe:name":"Diamond, Saint Croix Island, US Virgin Islands",
+    "woe:place_id":"W8v0lzeaA5XjlEE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.828606,17.704145,-64.816956,17.72274],
+  "geometry": {"alpha":0.00015,"bbox":[-64.828605651855,17.704145431519,-64.816955566406,17.72274017334],"coordinates":[[[[-64.828087,17.714207],[-64.828217,17.714397],[-64.828606,17.715208],[-64.816956,17.72274],[-64.825104,17.704145],[-64.828087,17.714207]]]],"created":1292528450,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/329686_20101216_c58cf07966.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2457154,
+  "type": "Feature",
+  "properties": {
+    "name":"Nashville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2457154,
+    "woe:name":"Nashville, Missouri, United States",
+    "woe:place_id":"YV40QeObBZkAYRdd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.501892,37.373943,-94.489975,37.389698],
+  "geometry": {"alpha":0.00015,"bbox":[-94.501892089844,37.373943328857,-94.489974975586,37.389698028564],"coordinates":[[[[-94.492378,37.375492],[-94.493233,37.375237],[-94.497269,37.373943],[-94.501892,37.389698],[-94.489975,37.376297],[-94.492378,37.375492]]]],"created":1292547433,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2457154_20101217_32d942ccab.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

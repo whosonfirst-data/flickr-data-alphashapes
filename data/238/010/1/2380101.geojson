@@ -1,0 +1,15 @@
+{
+  "id": 2380101,
+  "type": "Feature",
+  "properties": {
+    "name":"Christiana, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2380101,
+    "woe:name":"Christiana, Pennsylvania, United States",
+    "woe:place_id":"RHDWEZebApTzEf_R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.01741,39.954754,-75.99157,39.96257],
+  "geometry": {"alpha":0.00015,"bbox":[-76.01741027832,39.954753875732,-75.991569519043,39.96257019043],"coordinates":[[[[-75.995522,39.954754],[-75.999123,39.955082],[-76.01741,39.961727],[-76.005722,39.96257],[-75.99157,39.959229],[-75.994301,39.955086],[-75.995522,39.954754]]]],"created":1292543813,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2380101_20101216_b8e7891559.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

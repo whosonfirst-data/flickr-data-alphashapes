@@ -1,0 +1,15 @@
+{
+  "id": 12686621,
+  "type": "Feature",
+  "properties": {
+    "name":"Liuzhou, China",
+    "placetype":"locality",
+    "woe:id":12686621,
+    "woe:name":"Liuzhou, China",
+    "woe:place_id":"qugp9ViYA5ocFT6YHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [109.404236,24.300951,109.410149,24.303377],
+  "geometry": {"alpha":1e-05,"bbox":[109.40423583984,24.300951004028,109.41014862061,24.303377151489],"coordinates":[[[[109.40786,24.300951],[109.404236,24.301939],[109.408531,24.302746],[109.410149,24.303377],[109.409035,24.302818],[109.40786,24.300951]]]],"created":1239681603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3364/shapefiles/12686621_20090414_cdf12a3cfd.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

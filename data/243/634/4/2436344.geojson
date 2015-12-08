@@ -1,0 +1,15 @@
+{
+  "id": 2436344,
+  "type": "Feature",
+  "properties": {
+    "name":"Langham, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2436344,
+    "woe:name":"Langham, Illinois, United States",
+    "woe:place_id":"WrCjk3SbBZ_AqFpg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.547768,41.28664,-88.540298,41.29277],
+  "geometry": {"alpha":0.00015,"bbox":[-88.54776763916,41.286640167236,-88.540298461914,41.292770385742],"coordinates":[[[[-88.541138,41.286819],[-88.542862,41.286987],[-88.547768,41.28664],[-88.540535,41.29277],[-88.540298,41.287842],[-88.541138,41.286819]]]],"created":1292454428,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2436344_20101215_4a28a55183.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

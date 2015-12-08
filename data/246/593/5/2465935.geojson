@@ -1,0 +1,15 @@
+{
+  "id": 2465935,
+  "type": "Feature",
+  "properties": {
+    "name":"Orange Springs, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2465935,
+    "woe:name":"Orange Springs, Florida, United States",
+    "woe:place_id":"anIp2aSbBZoXBJY1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.953545,29.502954,-81.943665,29.514317],
+  "geometry": {"alpha":0.00015,"bbox":[-81.953544616699,29.502954483032,-81.943664550781,29.514316558838],"coordinates":[[[[-81.943962,29.506157],[-81.943665,29.505789],[-81.946182,29.502954],[-81.953545,29.514317],[-81.947708,29.509537],[-81.943962,29.506157]]]],"created":1292456764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2465935_20101215_5f091bd239.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

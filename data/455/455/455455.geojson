@@ -1,0 +1,15 @@
+{
+  "id": 455455,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa Bella, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":455455,
+    "woe:name":"Villa Bella, Sao Paulo, Brazil",
+    "woe:place_id":"QCxXx4CdBJkUSVs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-45.356369,-23.785343,-45.348129,-23.777647],
+  "geometry": {"alpha":0.00015,"bbox":[-45.356369018555,-23.785343170166,-45.348129272461,-23.777647018433],"coordinates":[[[[-45.352936,-23.778275],[-45.348129,-23.785343],[-45.353966,-23.779219],[-45.356369,-23.778275],[-45.354652,-23.777647],[-45.352936,-23.778275]]]],"created":1292522820,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/455455_20101216_8c0c857f47.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

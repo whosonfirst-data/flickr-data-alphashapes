@@ -1,0 +1,15 @@
+{
+  "id": 2467762,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer Park, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2467762,
+    "woe:name":"Palmer Park, Maryland, United States",
+    "woe:place_id":"LvtnWlObBZrQ4nnW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.865417,38.907848,-76.864319,38.908207],
+  "geometry": {"alpha":0.00015,"bbox":[-76.865417480469,38.907848358154,-76.864318847656,38.908206939697],"coordinates":[[[[-76.864899,38.907898],[-76.865417,38.908131],[-76.864655,38.908207],[-76.864319,38.908165],[-76.864578,38.907848],[-76.864899,38.907898]]]],"created":1292538182,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2467762_20101216_cd783775d9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2367598,
+  "type": "Feature",
+  "properties": {
+    "name":"Boyce, Pittsburgh, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2367598,
+    "woe:name":"Boyce, Pittsburgh, PA, US, United States",
+    "woe:place_id":"VVebqqebAprfGrjk",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.125565,40.313633,-80.105247,40.337875],
+  "geometry": {"alpha":0.00015,"bbox":[-80.125564575195,40.313632965088,-80.105247497559,40.337875366211],"coordinates":[[[[-80.105247,40.324688],[-80.111961,40.313633],[-80.125565,40.319263],[-80.116379,40.331005],[-80.111618,40.337875],[-80.105247,40.324688]]]],"created":1248006369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2667/shapefiles/2367598_20090719_c4921890d2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 540046,
+  "type": "Feature",
+  "properties": {
+    "name":"Niederdorf, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":540046,
+    "woe:name":"Niederdorf, Carinthia, Austria",
+    "woe:place_id":"Vx66geGcBZzLymQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.418525,46.623978,14.446334,46.645428],
+  "geometry": {"alpha":0.00015,"bbox":[14.418524742126,46.623977661133,14.446333885193,46.645427703857],"coordinates":[[[[14.437065,46.640949],[14.446334,46.645428],[14.440321,46.639267],[14.4375,46.624722],[14.43758,46.623978],[14.418525,46.626335],[14.437065,46.640949]]]],"created":1292446953,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/540046_20101215_723071f569.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

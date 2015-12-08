@@ -1,0 +1,15 @@
+{
+  "id": 28645352,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandy Beach, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28645352,
+    "woe:name":"Sandy Beach, New South Wales, Australia",
+    "woe:place_id":"C74dRJKbCZr.AT5ThQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.192215,-30.15856,153.206924,-30.134371],
+  "geometry": {"alpha":0.00015,"bbox":[153.19221496582,-30.158559799194,153.20692443848,-30.134370803833],"coordinates":[[[[153.205811,-30.155592],[153.206924,-30.15856],[153.193695,-30.15819],[153.192215,-30.14757],[153.194534,-30.134371],[153.200317,-30.14661],[153.205811,-30.155592]]]],"created":1292481786,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/28645352_20101216_d758ab5382.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

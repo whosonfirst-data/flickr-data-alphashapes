@@ -1,0 +1,15 @@
+{
+  "id": 2369495,
+  "type": "Feature",
+  "properties": {
+    "name":"Broaddus, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2369495,
+    "woe:name":"Broaddus, Virginia, United States",
+    "woe:place_id":"Knp7CsebAprIP5uL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.334221,38.054115,-77.313293,38.068604],
+  "geometry": {"alpha":0.00015,"bbox":[-77.33422088623,38.05411529541,-77.313293457031,38.068603515625],"coordinates":[[[[-77.328499,38.068604],[-77.313293,38.054115],[-77.331139,38.067429],[-77.334221,38.065865],[-77.330788,38.067776],[-77.328499,38.068604]]]],"created":1292459465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2369495_20101216_4b4b79e604.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

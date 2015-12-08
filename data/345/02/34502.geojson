@@ -1,0 +1,15 @@
+{
+  "id": 34502,
+  "type": "Feature",
+  "properties": {
+    "name":"Sheet, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34502,
+    "woe:name":"Sheet, England, United Kingdom",
+    "woe:place_id":"vxgxR1iaBZnrxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.926756,51.005608,-0.918002,51.016857],
+  "geometry": {"alpha":0.00015,"bbox":[-0.92675602436066,51.00560760498,-0.91800200939178,51.016857147217],"coordinates":[[[[-0.922937,51.016323],[-0.92181,51.016857],[-0.919032,51.015186],[-0.918002,51.013943],[-0.920534,51.005608],[-0.926756,51.007786],[-0.922937,51.016323]]]],"created":1292545078,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/34502_20101217_a5ff9608ea.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

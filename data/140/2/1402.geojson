@@ -1,0 +1,15 @@
+{
+  "id": 1402,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Antonin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1402,
+    "woe:name":"St.-Antonin, Quebec, Canada",
+    "woe:place_id":"YHkizGiYBZxW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.425499,47.758598,-69.419174,47.786747],
+  "geometry": {"alpha":0.00015,"bbox":[-69.425498962402,47.758598327637,-69.419174194336,47.78674697876],"coordinates":[[[[-69.420547,47.786747],[-69.419174,47.774349],[-69.425499,47.758598],[-69.420547,47.774059],[-69.420547,47.786747]]]],"created":1292535127,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/1402_20101216_a8ba7ca0ae.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105840,
+  "type": "Feature",
+  "properties": {
+    "name":"Tantanoola, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105840,
+    "woe:name":"Tantanoola, South Australia, Australia",
+    "woe:place_id":"Ns8x3iGYAJye._PD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [140.501968,-37.743572,140.526978,-37.715382],
+  "geometry": {"alpha":0.00015,"bbox":[140.50196838379,-37.743572235107,140.52697753906,-37.715381622314],"coordinates":[[[[140.515823,-37.715466],[140.520279,-37.728741],[140.51239,-37.743572],[140.526978,-37.732983],[140.520279,-37.728741],[140.501968,-37.715382],[140.515823,-37.715466]]]],"created":1292539749,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/1105840_20101216_1411fd551f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8756,
+  "type": "Feature",
+  "properties": {
+    "name":"Linden, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8756,
+    "woe:name":"Linden, Alberta, Canada",
+    "woe:place_id":"KlwIbL6RBplA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.498383,51.591095,-113.48259,51.594879],
+  "geometry": {"alpha":0.00015,"bbox":[-113.49838256836,51.591094970703,-113.48258972168,51.594879150391],"coordinates":[[[[-113.485161,51.591095],[-113.498383,51.594879],[-113.483749,51.593933],[-113.48259,51.592377],[-113.485161,51.591095]]]],"created":1292455636,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/8756_20101215_e0016b1593.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

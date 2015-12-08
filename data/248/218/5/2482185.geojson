@@ -1,0 +1,15 @@
+{
+  "id": 2482185,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverside, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2482185,
+    "woe:name":"Riverside, New Mexico, United States",
+    "woe:place_id":"gv1DGTObBZRF4wAy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.062599,33.334686,-105.060623,33.33569],
+  "geometry": {"alpha":0.00015,"bbox":[-105.06259918213,33.334686279297,-105.06062316895,33.335689544678],"coordinates":[[[[-105.062256,33.334686],[-105.062599,33.335548],[-105.060623,33.33569],[-105.061569,33.334831],[-105.062256,33.334686]]]],"created":1292460422,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2482185_20101216_2a6cd1eae5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

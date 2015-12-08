@@ -1,0 +1,15 @@
+{
+  "id": 1102431,
+  "type": "Feature",
+  "properties": {
+    "name":"Greendale, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102431,
+    "woe:name":"Greendale, Victoria, Australia",
+    "woe:place_id":"9joSWh2YAJxsR7nh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.298553,-37.560349,144.308334,-37.538723],
+  "geometry": {"alpha":0.00015,"bbox":[144.2985534668,-37.560348510742,144.30833435059,-37.538722991943],"coordinates":[[[[144.298721,-37.538723],[144.308334,-37.538998],[144.299194,-37.560349],[144.298553,-37.539337],[144.298721,-37.538723]]]],"created":1292499786,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/1102431_20101216_72282735e0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

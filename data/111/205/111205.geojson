@@ -1,0 +1,15 @@
+{
+  "id": 111205,
+  "type": "Feature",
+  "properties": {
+    "name":"Agua Buena, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":111205,
+    "woe:name":"Agua Buena, San Luis Potosi, Mexico",
+    "woe:place_id":"PjyZtwWYAJ26QhY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.393997,21.944956,-99.377686,21.960718],
+  "geometry": {"alpha":0.00015,"bbox":[-99.393997192383,21.944955825806,-99.377685546875,21.960718154907],"coordinates":[[[[-99.383698,21.9561],[-99.386955,21.944956],[-99.391937,21.956608],[-99.393997,21.959524],[-99.377686,21.960718],[-99.383698,21.9561]]]],"created":1292542840,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/111205_20101216_7ac9a8ec57.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

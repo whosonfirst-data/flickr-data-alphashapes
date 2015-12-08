@@ -1,0 +1,15 @@
+{
+  "id": 29374967,
+  "type": "Feature",
+  "properties": {
+    "name":"Mijlstraat, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":29374967,
+    "woe:name":"Mijlstraat, Antwerp, Belgium",
+    "woe:place_id":"1kWHTjebCJ9WyNmwSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.574861,51.082634,4.577929,51.095409],
+  "geometry": {"alpha":0.00015,"bbox":[4.5748610496521,51.082633972168,4.577929019928,51.095409393311],"coordinates":[[[[4.577093,51.085922],[4.576578,51.082634],[4.574861,51.08551],[4.577168,51.094776],[4.577929,51.095409],[4.577093,51.085922]]]],"created":1292539381,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/29374967_20101216_edb2475467.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

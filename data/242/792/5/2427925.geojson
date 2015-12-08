@@ -1,0 +1,15 @@
+{
+  "id": 2427925,
+  "type": "Feature",
+  "properties": {
+    "name":"Italy, New York, United States",
+    "placetype":"locality",
+    "woe:id":2427925,
+    "woe:name":"Italy, New York, United States",
+    "woe:place_id":"XmQpbdSbBZ7yZLXO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.323837,42.644489,-77.296883,42.659969],
+  "geometry": {"alpha":0.00015,"bbox":[-77.323837280273,42.64448928833,-77.296882629395,42.659969329834],"coordinates":[[[[-77.297226,42.653847],[-77.300407,42.644741],[-77.323837,42.644489],[-77.309929,42.657467],[-77.305344,42.659275],[-77.302719,42.659969],[-77.300789,42.659149],[-77.296883,42.654438],[-77.297226,42.653847]]]],"created":1292549079,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2427925_20101217_b1434ec415.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 121541,
+  "type": "Feature",
+  "properties": {
+    "name":"El Platanito, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":121541,
+    "woe:name":"El Platanito, San Luis Potosi, Mexico",
+    "woe:place_id":"jrBlQSWYA53w91o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.126549,22.087788,-99.114357,22.090729],
+  "geometry": {"alpha":0.00015,"bbox":[-99.12654876709,22.087787628174,-99.114356994629,22.090728759766],"coordinates":[[[[-99.114532,22.08906],[-99.114357,22.088503],[-99.1147,22.088024],[-99.126549,22.087788],[-99.116074,22.090729],[-99.114532,22.08906]]]],"created":1292450406,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/121541_20101215_2e9ac12216.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

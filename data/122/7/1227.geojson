@@ -1,0 +1,15 @@
+{
+  "id": 1227,
+  "type": "Feature",
+  "properties": {
+    "name":"Point May, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":1227,
+    "woe:name":"Point May, Newfoundland and Labrador, Canada",
+    "woe:place_id":"jAAbwKSYA54E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.990448,46.935261,-55.983582,46.941826],
+  "geometry": {"alpha":0.00015,"bbox":[-55.990447998047,46.935260772705,-55.983581542969,46.941825866699],"coordinates":[[[[-55.989075,46.939011],[-55.987701,46.941826],[-55.983582,46.938541],[-55.986328,46.935261],[-55.990448,46.936668],[-55.989075,46.939011]]]],"created":1292542871,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/1227_20101216_047b011161.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

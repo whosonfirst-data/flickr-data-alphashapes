@@ -1,0 +1,15 @@
+{
+  "id": 1615,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Simon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1615,
+    "woe:name":"St.-Simon, Quebec, Canada",
+    "woe:place_id":"OSCLwjWYB51R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.044594,48.186462,-69.00856,48.209686],
+  "geometry": {"alpha":0.00015,"bbox":[-69.044593811035,48.186462402344,-69.008560180664,48.209686279297],"coordinates":[[[[-69.02079,48.199921],[-69.01886,48.199505],[-69.00856,48.197903],[-69.011131,48.186462],[-69.017487,48.190353],[-69.02092,48.199806],[-69.038956,48.20211],[-69.044594,48.203274],[-69.036194,48.209686],[-69.02079,48.199921]]]],"created":1292538835,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/1615_20101216_f4f0e1dde5.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

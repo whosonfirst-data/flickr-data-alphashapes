@@ -1,0 +1,15 @@
+{
+  "id": 617830,
+  "type": "Feature",
+  "properties": {
+    "name":"Prades, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":617830,
+    "woe:name":"Prades, Auvergne, France",
+    "woe:place_id":"qfHJD7KfAJuqzz8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.591499,45.027313,3.595925,45.032429],
+  "geometry": {"alpha":0.00015,"bbox":[3.5914990901947,45.027313232422,3.5959250926971,45.032428741455],"coordinates":[[[[3.595925,45.028908],[3.59519,45.027313],[3.591499,45.028587],[3.592271,45.029606],[3.594816,45.032429],[3.595925,45.028908]]]],"created":1292532189,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/617830_20101216_b59a79ac9e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28340058,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenfield, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340058,
+    "woe:name":"Greenfield, Pennsylvania, United States",
+    "woe:place_id":"LMwtYeSbCZ9BDBWi7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.569115,41.60466,-75.550919,41.621922],
+  "geometry": {"alpha":0.00015,"bbox":[-75.569114685059,41.60466003418,-75.550918579102,41.621921539307],"coordinates":[[[[-75.564392,41.604855],[-75.569115,41.621922],[-75.557465,41.618668],[-75.550919,41.60466],[-75.564392,41.604855]]]],"created":1292522524,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/28340058_20101216_3531eabf4d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

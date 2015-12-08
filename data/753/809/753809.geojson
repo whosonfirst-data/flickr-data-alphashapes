@@ -1,0 +1,15 @@
+{
+  "id": 753809,
+  "type": "Feature",
+  "properties": {
+    "name":"Barranda, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":753809,
+    "woe:name":"Barranda, Murcia, Spain",
+    "woe:place_id":"uXu9cCieBJ8w_Cs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.967216,38.046532,-1.95696,38.050053],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9672160148621,38.046531677246,-1.9569599628448,38.050052642822],"coordinates":[[[[-1.961574,38.050053],[-1.95696,38.048443],[-1.96499,38.047421],[-1.967216,38.046532],[-1.966381,38.046944],[-1.961574,38.050053]]]],"created":1292525215,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/753809_20101216_9a29b155ca.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

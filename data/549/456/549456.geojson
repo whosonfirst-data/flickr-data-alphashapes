@@ -1,0 +1,15 @@
+{
+  "id": 549456,
+  "type": "Feature",
+  "properties": {
+    "name":"Palfau, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":549456,
+    "woe:name":"Palfau, Styria, Austria",
+    "woe:place_id":"mYSEeKScBZXyHT4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.798927,47.703651,14.830856,47.720387],
+  "geometry": {"alpha":0.00015,"bbox":[14.798927307129,47.703651428223,14.830856323242,47.720386505127],"coordinates":[[[[14.813346,47.713573],[14.830856,47.720387],[14.818496,47.7108],[14.8143,47.703781],[14.811741,47.703651],[14.798927,47.706699],[14.813346,47.713573]]]],"created":1292530311,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/549456_20101216_438e48920c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

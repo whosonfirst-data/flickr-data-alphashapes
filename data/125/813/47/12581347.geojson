@@ -1,0 +1,15 @@
+{
+  "id": 12581347,
+  "type": "Feature",
+  "properties": {
+    "name":"Feliz, Rio Grande do Sul, Brazil",
+    "placetype":"county",
+    "woe:id":12581347,
+    "woe:name":"Feliz, Rio Grande do Sul, Brazil",
+    "woe:place_id":"6lSH4iSYA5lvGCLxPg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-51.330872,-29.455143,-51.288986,-29.419563],
+  "geometry": {"alpha":0.0015,"bbox":[-51.330871582031,-29.455142974854,-51.288986206055,-29.419563293457],"coordinates":[[[[-51.329498,-29.455143],[-51.330872,-29.45335],[-51.288986,-29.419563],[-51.288986,-29.436907],[-51.306229,-29.455086],[-51.329498,-29.455143]]]],"created":1292543026,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12581347_20101216_dfbb017ece.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722155,
+  "type": "Feature",
+  "properties": {
+    "name":"Rutigliano, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":722155,
+    "woe:name":"Rutigliano, Puglia, Italy",
+    "woe:place_id":"_vWT2RSeA57_cFU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.993103,41.003738,17.017393,41.016125],
+  "geometry": {"alpha":0.00015,"bbox":[16.993103027344,41.00373840332,17.017393112183,41.016124725342],"coordinates":[[[[17.003906,41.01107],[17.007307,41.011414],[17.017393,41.016125],[17.006836,41.003738],[17.000999,41.008999],[16.993103,41.011513],[17.003906,41.01107]]]],"created":1292543598,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/722155_20101216_6ba0bc1453.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

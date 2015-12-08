@@ -1,0 +1,15 @@
+{
+  "id": 1097573,
+  "type": "Feature",
+  "properties": {
+    "name":"Muddy Creek, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1097573,
+    "woe:name":"Muddy Creek, Victoria, Australia",
+    "woe:place_id":"JRqEEpaYAZXF6bDx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.328812,-38.033894,145.351181,-38.018272],
+  "geometry": {"alpha":0.00015,"bbox":[145.32881164551,-38.033893585205,145.35118103027,-38.018272399902],"coordinates":[[[[145.335327,-38.018272],[145.351181,-38.021591],[145.348434,-38.033894],[145.347321,-38.030628],[145.328812,-38.022434],[145.33522,-38.018337],[145.335327,-38.018272]]]],"created":1292550301,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/1097573_20101217_1c5206d2dc.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2421904,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillcrest, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2421904,
+    "woe:name":"Hillcrest, Texas, United States",
+    "woe:place_id":"35y6ah2bBZ79y9gX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.605103,29.738968,-96.578064,29.757345],
+  "geometry": {"alpha":0.00015,"bbox":[-96.605102539062,29.738967895508,-96.578063964844,29.757345199585],"coordinates":[[[[-96.5821,29.757345],[-96.578064,29.745897],[-96.59034,29.738968],[-96.605103,29.751711],[-96.591064,29.749922],[-96.5821,29.757345]]]],"created":1292550157,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2421904_20101217_46787ba70a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

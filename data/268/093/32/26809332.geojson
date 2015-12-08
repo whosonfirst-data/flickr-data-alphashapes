@@ -1,0 +1,15 @@
+{
+  "id": 26809332,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaragoza, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809332,
+    "woe:name":"Zaragoza, Costa Rica",
+    "woe:place_id":"9RJI5MCbB5S38jTqyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.447098,10.039175,-84.441277,10.041373],
+  "geometry": {"alpha":1e-05,"bbox":[-84.44709777832,10.039175033569,-84.441276550293,10.041373252869],"coordinates":[[[[-84.446579,10.039175],[-84.447098,10.039345],[-84.444862,10.041373],[-84.441277,10.039226],[-84.445724,10.03926],[-84.446579,10.039175]]]],"created":1292521443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/26809332_20101216_53ae0b82aa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

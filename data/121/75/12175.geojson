@@ -1,0 +1,15 @@
+{
+  "id": 12175,
+  "type": "Feature",
+  "properties": {
+    "name":"Beausale, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12175,
+    "woe:name":"Beausale, England, United Kingdom",
+    "woe:place_id":"NnF5o0GYA52A1w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.592448,52.346313,-1.589584,52.348572],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5924479961395,52.346313476562,-1.5895839929581,52.348571777344],"coordinates":[[[[-1.592191,52.348572],[-1.589584,52.34787],[-1.591225,52.346313],[-1.592448,52.348267],[-1.592427,52.348545],[-1.592191,52.348572]]]],"created":1292540816,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12175_20101216_61fc0dbe02.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

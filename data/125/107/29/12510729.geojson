@@ -1,0 +1,15 @@
+{
+  "id": 12510729,
+  "type": "Feature",
+  "properties": {
+    "name":"Maroochydore Aerodrome, Australia",
+    "placetype":"locality",
+    "woe:id":12510729,
+    "woe:name":"Maroochydore Aerodrome, Australia",
+    "woe:place_id":"eONxqtyYA5nYzCkG7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.085159,-26.611168,153.088837,-26.605667],
+  "geometry": {"alpha":1e-05,"bbox":[153.08515930176,-26.611167907715,153.08883666992,-26.605667114258],"coordinates":[[[[153.088577,-26.60619],[153.088715,-26.611044],[153.085159,-26.611168],[153.085556,-26.606333],[153.088837,-26.605667],[153.088577,-26.60619]]]],"created":1292530060,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12510729_20101216_1722b59903.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

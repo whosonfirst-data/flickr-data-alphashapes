@@ -1,0 +1,15 @@
+{
+  "id": 20228035,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Angeles, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":20228035,
+    "woe:name":"Los Angeles, Andalusia, Spain",
+    "woe:place_id":"hi7KPXubAZ5ob9P9sA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.455484,36.431683,-5.441322,36.446419],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4554839134216,36.43168258667,-5.441321849823,36.446418762207],"coordinates":[[[[-5.455484,36.433849],[-5.451965,36.445587],[-5.441322,36.446419],[-5.447545,36.43235],[-5.451128,36.431683],[-5.455484,36.433849]]]],"created":1292495587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20228035_20101216_174735f966.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20131603,
+  "type": "Feature",
+  "properties": {
+    "name":"Merlino, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20131603,
+    "woe:name":"Merlino, Lombardy, Italy",
+    "woe:place_id":"mEL_9YebAZ3EHuuXVw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.43011,45.434116,9.431891,45.435444],
+  "geometry": {"alpha":0.00015,"bbox":[9.4301099777222,45.434116363525,9.4318914413452,45.435443878174],"coordinates":[[[[9.431419,45.434116],[9.43011,45.43428],[9.430153,45.434441],[9.431891,45.435444],[9.431419,45.434116]]]],"created":1234844404,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/20131603_20090217_30107c13ed.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

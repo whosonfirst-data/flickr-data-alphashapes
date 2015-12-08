@@ -1,0 +1,15 @@
+{
+  "id": 2372186,
+  "type": "Feature",
+  "properties": {
+    "name":"Burns, New York, United States",
+    "placetype":"locality",
+    "woe:id":2372186,
+    "woe:name":"Burns, New York, United States",
+    "woe:place_id":"ShW0682bAptA19x8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.740242,42.431252,-77.719704,42.439243],
+  "geometry": {"alpha":0.00015,"bbox":[-77.740242004395,42.431251525879,-77.719703674316,42.43924331665],"coordinates":[[[[-77.719704,42.435627],[-77.720825,42.431252],[-77.740242,42.439243],[-77.721298,42.436626],[-77.719704,42.435627]]]],"created":1248204617,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2639/shapefiles/2372186_20090721_57ba6d41ea.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

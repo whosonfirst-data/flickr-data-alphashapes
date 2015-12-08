@@ -1,0 +1,15 @@
+{
+  "id": 703081,
+  "type": "Feature",
+  "properties": {
+    "name":"Wachendorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":703081,
+    "woe:name":"Wachendorf, Bavaria, Germany",
+    "woe:place_id":"X416BcSeAZ.Bmms",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.886943,49.457481,10.893456,49.461449],
+  "geometry": {"alpha":0.00015,"bbox":[10.886942863464,49.457481384277,10.893456459045,49.461448669434],"coordinates":[[[[10.893456,49.461449],[10.893352,49.461178],[10.892333,49.459667],[10.887209,49.457481],[10.886943,49.457703],[10.890026,49.461205],[10.892771,49.461433],[10.892773,49.461433],[10.893456,49.461449]]]],"created":1292546532,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/703081_20101217_5d34a82f6d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

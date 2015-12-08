@@ -1,0 +1,15 @@
+{
+  "id": 756343,
+  "type": "Feature",
+  "properties": {
+    "name":"Casa Blanca, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":756343,
+    "woe:name":"Casa Blanca, Basque Country, Spain",
+    "woe:place_id":"ErF.886eBJoIdXo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.41682,43.032322,-2.415618,43.033295],
+  "geometry": {"alpha":0.00015,"bbox":[-2.4168200492859,43.032321929932,-2.4156179428101,43.033294677734],"coordinates":[[[[-2.41682,43.032322],[-2.416745,43.03315],[-2.416509,43.033222],[-2.416144,43.033295],[-2.415618,43.033138],[-2.41682,43.032322]]]],"created":1239588611,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3559/shapefiles/756343_20090413_54c617ef1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

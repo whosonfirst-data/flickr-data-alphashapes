@@ -1,0 +1,15 @@
+{
+  "id": 659710,
+  "type": "Feature",
+  "properties": {
+    "name":"Hetzelsdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":659710,
+    "woe:name":"Hetzelsdorf, Bavaria, Germany",
+    "woe:place_id":"DTto0zKfBJUSnyU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.200604,49.712021,11.208618,49.728317],
+  "geometry": {"alpha":0.00015,"bbox":[11.200604438782,49.712020874023,11.208618164062,49.728317260742],"coordinates":[[[[11.202042,49.728287],[11.204816,49.728317],[11.208618,49.72628],[11.203633,49.712021],[11.203574,49.712025],[11.200604,49.716904],[11.202042,49.728287]]]],"created":1292455983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/659710_20101215_1c8094d23a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

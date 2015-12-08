@@ -1,0 +1,15 @@
+{
+  "id": 12680091,
+  "type": "Feature",
+  "properties": {
+    "name":"Magliano Romano, Italy",
+    "placetype":"locality",
+    "woe:id":12680091,
+    "woe:name":"Magliano Romano, Italy",
+    "woe:place_id":"K.r6q2.YA5rNFpoBhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.46125,42.127216,12.46485,42.127762],
+  "geometry": {"alpha":1e-05,"bbox":[12.461250305176,42.127216339111,12.46485042572,42.12776184082],"coordinates":[[[[12.46485,42.127621],[12.46375,42.127682],[12.461731,42.127216],[12.46125,42.127628],[12.46387,42.127762],[12.46485,42.127621]]]],"created":1248033365,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2662/shapefiles/12680091_20090719_47b79e8c16.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

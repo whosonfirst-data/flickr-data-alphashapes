@@ -1,0 +1,15 @@
+{
+  "id": 12683639,
+  "type": "Feature",
+  "properties": {
+    "name":"Hallau, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683639,
+    "woe:name":"Hallau, Switzerland",
+    "woe:place_id":"ju.sm8qYA5pmFQzGgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.444924,47.701618,8.451747,47.704765],
+  "geometry": {"alpha":1e-05,"bbox":[8.4449243545532,47.70161819458,8.4517469406128,47.704765319824],"coordinates":[[[[8.451747,47.70433],[8.447628,47.701618],[8.444924,47.701618],[8.449344,47.704765],[8.451747,47.70433]]]],"created":1292536834,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12683639_20101216_198e37ba19.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

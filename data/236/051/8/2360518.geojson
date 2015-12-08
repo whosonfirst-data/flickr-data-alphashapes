@@ -1,0 +1,15 @@
+{
+  "id": 2360518,
+  "type": "Feature",
+  "properties": {
+    "name":"Beach Haven West, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2360518,
+    "woe:name":"Beach Haven West, New Jersey, United States",
+    "woe:place_id":"iyIi31KbAprInGZO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.245705,39.670589,-74.237915,39.675022],
+  "geometry": {"alpha":0.00015,"bbox":[-74.245704650879,39.670589447021,-74.237915039062,39.675022125244],"coordinates":[[[[-74.240456,39.675022],[-74.237915,39.674988],[-74.237991,39.672752],[-74.245705,39.670589],[-74.240456,39.675022]]]],"created":1248083295,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2637/shapefiles/2360518_20090720_f19b80066b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

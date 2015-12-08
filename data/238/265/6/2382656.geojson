@@ -1,0 +1,15 @@
+{
+  "id": 2382656,
+  "type": "Feature",
+  "properties": {
+    "name":"Cokesbury, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2382656,
+    "woe:name":"Cokesbury, South Carolina, United States",
+    "woe:place_id":"8NJCG4.bApSD85NC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.20134,34.271954,-82.194344,34.279346],
+  "geometry": {"alpha":0.00015,"bbox":[-82.20133972168,34.271953582764,-82.194343566895,34.279346466064],"coordinates":[[[[-82.195755,34.272209],[-82.197678,34.271954],[-82.20134,34.279346],[-82.195641,34.274117],[-82.194344,34.272804],[-82.195755,34.272209]]]],"created":1241463732,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3362/shapefiles/2382656_20090504_9008a9b0a1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

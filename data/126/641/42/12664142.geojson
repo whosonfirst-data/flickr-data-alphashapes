@@ -1,0 +1,15 @@
+{
+  "id": 12664142,
+  "type": "Feature",
+  "properties": {
+    "name":"Labastide-St.-Georges, France",
+    "placetype":"locality",
+    "woe:id":12664142,
+    "woe:name":"Labastide-St.-Georges, France",
+    "woe:place_id":"Pqx.Y7WYA5pC48gqzw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.855015,43.710197,1.857376,43.711872],
+  "geometry": {"alpha":1e-05,"bbox":[1.855015039444,43.71019744873,1.8573759794235,43.71187210083],"coordinates":[[[[1.857182,43.711246],[1.857376,43.710995],[1.857376,43.710197],[1.855015,43.711872],[1.856689,43.711872],[1.857182,43.711246]]]],"created":1292445364,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12664142_20101215_6e156a8503.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

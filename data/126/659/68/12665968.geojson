@@ -1,0 +1,15 @@
+{
+  "id": 12665968,
+  "type": "Feature",
+  "properties": {
+    "name":"Sallanches, France",
+    "placetype":"locality",
+    "woe:id":12665968,
+    "woe:name":"Sallanches, France",
+    "woe:place_id":"YT0GLAaYA5p0Q7dY5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.626111,45.936707,6.629734,45.942974],
+  "geometry": {"alpha":1e-05,"bbox":[6.6261110305786,45.936706542969,6.6297340393066,45.942974090576],"coordinates":[[[[6.626666,45.941666],[6.626111,45.941944],[6.626666,45.941944],[6.629304,45.942974],[6.629734,45.936707],[6.626666,45.941666]]]],"created":1248161297,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2444/shapefiles/12665968_20090721_f193d89c91.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

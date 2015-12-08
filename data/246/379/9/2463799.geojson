@@ -1,0 +1,15 @@
+{
+  "id": 2463799,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakshade, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2463799,
+    "woe:name":"Oakshade, Virginia, United States",
+    "woe:place_id":"EhDvVyubBZqoXywG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.95507,38.599762,-77.954506,38.600254],
+  "geometry": {"alpha":0.00015,"bbox":[-77.955070495605,38.599761962891,-77.95450592041,38.600254058838],"coordinates":[[[[-77.954506,38.599926],[-77.954651,38.599762],[-77.95507,38.599918],[-77.954994,38.60009],[-77.954842,38.600254],[-77.954506,38.599926]]]],"created":1292532537,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2463799_20101216_bfe4a37e9d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

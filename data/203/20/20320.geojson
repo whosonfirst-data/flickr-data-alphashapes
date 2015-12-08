@@ -1,0 +1,15 @@
+{
+  "id": 20320,
+  "type": "Feature",
+  "properties": {
+    "name":"Flitcham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20320,
+    "woe:name":"Flitcham, England, United Kingdom",
+    "woe:place_id":"ECeWikqbAZ.zjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.55438,52.802242,0.574465,52.816769],
+  "geometry": {"alpha":0.00015,"bbox":[0.5543799996376,52.802242279053,0.57446497678757,52.81676864624],"coordinates":[[[[0.573348,52.808781],[0.574465,52.802334],[0.561332,52.802242],[0.55949,52.81142],[0.55438,52.816769],[0.562191,52.810337],[0.573348,52.808781]]]],"created":1292523874,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/20320_20101216_bf00e583e4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

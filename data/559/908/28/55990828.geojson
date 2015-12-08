@@ -1,0 +1,15 @@
+{
+  "id": 55990828,
+  "type": "Feature",
+  "properties": {
+    "name":"Wayneridge, Raleigh, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55990828,
+    "woe:name":"Wayneridge, Raleigh, NC, US, United States",
+    "woe:place_id":"MPEMVHacBJWAfgwpmg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-78.724808,35.762493,-78.724426,35.763123],
+  "geometry": {"alpha":1e-05,"bbox":[-78.724807739258,35.762493133545,-78.724426269531,35.763122558594],"coordinates":[[[[-78.724602,35.762608],[-78.724808,35.763123],[-78.724426,35.762512],[-78.724556,35.762493],[-78.724602,35.762608]]]],"created":1292442892,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/55990828_20101215_a5479b0fec.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

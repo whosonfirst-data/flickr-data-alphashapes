@@ -1,0 +1,15 @@
+{
+  "id": 648640,
+  "type": "Feature",
+  "properties": {
+    "name":"Eschachberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":648640,
+    "woe:name":"Eschachberg, Bavaria, Germany",
+    "woe:place_id":"DC6chvOfBZRFAxU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.221104,47.724239,10.225546,47.727341],
+  "geometry": {"alpha":0.00015,"bbox":[10.221103668213,47.724239349365,10.225545883179,47.727340698242],"coordinates":[[[[10.224924,47.726494],[10.225546,47.726055],[10.224494,47.724239],[10.221104,47.72551],[10.22272,47.727341],[10.224924,47.726494]]]],"created":1292511189,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/648640_20101216_a9d0ae99a8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

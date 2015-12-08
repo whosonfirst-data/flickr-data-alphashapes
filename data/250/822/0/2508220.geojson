@@ -1,0 +1,15 @@
+{
+  "id": 2508220,
+  "type": "Feature",
+  "properties": {
+    "name":"Troy, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2508220,
+    "woe:name":"Troy, Arizona, United States",
+    "woe:place_id":"se.PpaWbBJwbHFrd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.829269,33.143661,-110.826897,33.144493],
+  "geometry": {"alpha":0.00015,"bbox":[-110.82926940918,33.143661499023,-110.82689666748,33.144493103027],"coordinates":[[[[-110.828949,33.143661],[-110.829269,33.143875],[-110.829033,33.144493],[-110.826897,33.144287],[-110.828438,33.143822],[-110.828949,33.143661]]]],"created":1292518862,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2508220_20101216_2f4c55f2f9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

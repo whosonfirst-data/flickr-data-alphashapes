@@ -1,0 +1,15 @@
+{
+  "id": 2409640,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, New York, United States",
+    "placetype":"locality",
+    "woe:id":2409640,
+    "woe:name":"Georgetown, New York, United States",
+    "woe:place_id":"xUpgAribBZwuZvwz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.74279,42.754135,-75.735359,42.768219],
+  "geometry": {"alpha":0.00015,"bbox":[-75.742790222168,42.754135131836,-75.735359191895,42.768218994141],"coordinates":[[[[-75.737083,42.767479],[-75.735359,42.768219],[-75.74279,42.754135],[-75.7379,42.767208],[-75.737083,42.767479]]]],"created":1292493603,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2409640_20101216_5c2222f221.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

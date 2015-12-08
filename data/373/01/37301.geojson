@@ -1,0 +1,15 @@
+{
+  "id": 37301,
+  "type": "Feature",
+  "properties": {
+    "name":"Thorlby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37301,
+    "woe:name":"Thorlby, England, United Kingdom",
+    "woe:place_id":"stoY2lyaBp.5PA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.069849,53.961098,-2.054572,53.98587],
+  "geometry": {"alpha":0.00015,"bbox":[-2.0698490142822,53.961097717285,-2.0545721054077,53.985870361328],"coordinates":[[[[-2.054572,53.971485],[-2.059496,53.961098],[-2.059362,53.97163],[-2.060365,53.973656],[-2.069849,53.981419],[-2.060451,53.98587],[-2.054572,53.971485]]]],"created":1292523901,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/37301_20101216_144f824727.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12674192,
+  "type": "Feature",
+  "properties": {
+    "name":"Perchtoldsdorf, Austria",
+    "placetype":"locality",
+    "woe:id":12674192,
+    "woe:name":"Perchtoldsdorf, Austria",
+    "woe:place_id":"99cFJh2YA5onjA7nTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.264572,48.118721,16.265141,48.120926],
+  "geometry": {"alpha":1e-05,"bbox":[16.264572143555,48.118721008301,16.265140533447,48.12092590332],"coordinates":[[[[16.264572,48.120495],[16.2647,48.120926],[16.265141,48.120655],[16.264872,48.118721],[16.26483,48.119553],[16.264572,48.120495]]]],"created":1247783770,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3525/shapefiles/12674192_20090716_f4a63c4760.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

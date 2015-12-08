@@ -1,0 +1,15 @@
+{
+  "id": 2486594,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Andrews, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2486594,
+    "woe:name":"St. Andrews, Washington, United States",
+    "woe:place_id":"rbb6mVCbBZTa7JoS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.481758,47.699379,-119.481522,47.699512],
+  "geometry": {"alpha":0.00015,"bbox":[-119.48175811768,47.699378967285,-119.48152160645,47.699512481689],"coordinates":[[[[-119.48172,47.699512],[-119.481705,47.699512],[-119.481522,47.699379],[-119.481758,47.699463],[-119.481758,47.699493],[-119.48172,47.699512]]]],"created":1292545301,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2486594_20101217_5d225fa232.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

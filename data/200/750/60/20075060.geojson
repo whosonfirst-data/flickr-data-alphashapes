@@ -1,0 +1,15 @@
+{
+  "id": 20075060,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceyreste, France",
+    "placetype":"locality",
+    "woe:id":20075060,
+    "woe:name":"Ceyreste, France",
+    "woe:place_id":"0v4YNuObAZymiBCLCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.64017,43.188961,5.643885,43.190159],
+  "geometry": {"alpha":1e-05,"bbox":[5.6401700973511,43.188961029053,5.6438851356506,43.190158843994],"coordinates":[[[[5.643885,43.189709],[5.643882,43.188961],[5.643732,43.189072],[5.64017,43.189816],[5.643539,43.190159],[5.643885,43.189709]]]],"created":1292540585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20075060_20101216_e537188eb0.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

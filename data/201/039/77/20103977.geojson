@@ -1,0 +1,15 @@
+{
+  "id": 20103977,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-George, Canton of Vaud, Switzerland",
+    "placetype":"locality",
+    "woe:id":20103977,
+    "woe:name":"St.-George, Canton of Vaud, Switzerland",
+    "woe:place_id":"gvbuk2KbAZ35HNZmNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.251478,46.541225,6.25946,46.552841],
+  "geometry": {"alpha":0.00015,"bbox":[6.2514781951904,46.54122543335,6.2594599723816,46.552841186523],"coordinates":[[[[6.25946,46.545433],[6.255812,46.541225],[6.254825,46.541683],[6.251478,46.552841],[6.252937,46.552723],[6.25946,46.545433]]]],"created":1292523563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20103977_20101216_5a70c46fe1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

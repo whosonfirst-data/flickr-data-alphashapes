@@ -1,0 +1,15 @@
+{
+  "id": 12617546,
+  "type": "Feature",
+  "properties": {
+    "name":"Choczewo, Poland",
+    "placetype":"locality",
+    "woe:id":12617546,
+    "woe:name":"Choczewo, Poland",
+    "woe:place_id":"S1lu7NaYA5qVuBTMnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.948828,54.828728,17.955608,54.829666],
+  "geometry": {"alpha":1e-05,"bbox":[17.94882774353,54.828727722168,17.95560836792,54.829666137695],"coordinates":[[[[17.951317,54.829666],[17.953978,54.829517],[17.955608,54.829617],[17.954407,54.82933],[17.950974,54.828728],[17.948828,54.829121],[17.951317,54.829666]]]],"created":1292531731,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12617546_20101216_02e2fab51c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

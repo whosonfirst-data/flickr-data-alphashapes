@@ -1,0 +1,15 @@
+{
+  "id": 39333,
+  "type": "Feature",
+  "properties": {
+    "name":"Wattisham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39333,
+    "woe:name":"Wattisham, England, United Kingdom",
+    "woe:place_id":"FPMmUFmaCJ_KAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.920684,52.114941,0.951175,52.132645],
+  "geometry": {"alpha":0.00015,"bbox":[0.9206839799881,52.114940643311,0.95117497444153,52.13264465332],"coordinates":[[[[0.933301,52.124798],[0.945854,52.132645],[0.951175,52.125374],[0.942313,52.124035],[0.929718,52.114941],[0.920684,52.12011],[0.933301,52.124798]]]],"created":1292518169,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/39333_20101216_834b48bf70.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

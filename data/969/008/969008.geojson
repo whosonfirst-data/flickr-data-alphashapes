@@ -1,0 +1,15 @@
+{
+  "id": 969008,
+  "type": "Feature",
+  "properties": {
+    "name":"Donck, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":969008,
+    "woe:name":"Donck, Antwerp, Belgium",
+    "woe:place_id":"vw_5q0SQB5U_Vjo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.072507,51.226833,5.081713,51.229359],
+  "geometry": {"alpha":0.00015,"bbox":[5.0725069046021,51.226833343506,5.0817131996155,51.229358673096],"coordinates":[[[[5.074233,51.226845],[5.072507,51.229141],[5.081713,51.229359],[5.075667,51.226833],[5.074233,51.226845]]]],"created":1292527308,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/969008_20101216_758fb266fa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55871023,
+  "type": "Feature",
+  "properties": {
+    "name":"Fatih, Istanbul, Turkey",
+    "placetype":"locality",
+    "woe:id":55871023,
+    "woe:name":"Fatih, Istanbul, Turkey",
+    "woe:place_id":"ZJ817IOcBJR_zL8wTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.239326,41.070831,28.244755,41.073681],
+  "geometry": {"alpha":0.00015,"bbox":[28.239326477051,41.070831298828,28.24475479126,41.073680877686],"coordinates":[[[[28.244755,41.073681],[28.24379,41.072639],[28.241943,41.070831],[28.241388,41.07111],[28.239326,41.072201],[28.243519,41.073151],[28.244755,41.073681]]]],"created":1292446531,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/55871023_20101215_81e46e3632.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

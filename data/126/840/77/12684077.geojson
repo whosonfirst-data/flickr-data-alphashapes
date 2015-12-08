@@ -1,0 +1,15 @@
+{
+  "id": 12684077,
+  "type": "Feature",
+  "properties": {
+    "name":"Schongau, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684077,
+    "woe:name":"Schongau, Switzerland",
+    "woe:place_id":"jjeRqJSYA5rVBklcNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.275183,47.266628,8.275633,47.267319],
+  "geometry": {"alpha":1e-05,"bbox":[8.275182723999,47.266628265381,8.2756328582764,47.267318725586],"coordinates":[[[[8.275183,47.266632],[8.275183,47.26664],[8.275258,47.267319],[8.275633,47.266674],[8.275183,47.266628],[8.275183,47.266632]]]],"created":1248294735,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2558/shapefiles/12684077_20090722_b55ffafae4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

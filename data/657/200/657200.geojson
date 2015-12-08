@@ -1,0 +1,15 @@
+{
+  "id": 657200,
+  "type": "Feature",
+  "properties": {
+    "name":"Hanswarft, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":657200,
+    "woe:name":"Hanswarft, Schleswig-Holstein, Germany",
+    "woe:place_id":"kYoO9H.fBJvYRlc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.529853,54.563206,8.554658,54.570644],
+  "geometry": {"alpha":0.00015,"bbox":[8.5298528671265,54.563205718994,8.5546579360962,54.570644378662],"coordinates":[[[[8.54968,54.568928],[8.550968,54.568577],[8.554658,54.563206],[8.547019,54.56609],[8.529853,54.570644],[8.54968,54.568928]]]],"created":1292466728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/657200_20101216_34bdf3b2df.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

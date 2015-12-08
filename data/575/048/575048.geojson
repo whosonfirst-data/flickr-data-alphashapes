@@ -1,0 +1,15 @@
+{
+  "id": 575048,
+  "type": "Feature",
+  "properties": {
+    "name":"Virkkala, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":575048,
+    "woe:name":"Virkkala, Southern Finland, Finland",
+    "woe:place_id":"2OQhUa2cBpkQ0TE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.984261,60.186916,24.009558,60.20097],
+  "geometry": {"alpha":0.00015,"bbox":[23.984260559082,60.186916351318,24.009557723999,60.200969696045],"coordinates":[[[[23.984261,60.198761],[23.989677,60.20097],[24.007187,60.200294],[24.009558,60.18885],[24.000235,60.186916],[23.985558,60.188217],[23.984261,60.198761]]]],"created":1248035167,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3534/shapefiles/575048_20090719_0273daa50f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

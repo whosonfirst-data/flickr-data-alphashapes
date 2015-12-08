@@ -1,0 +1,15 @@
+{
+  "id": 754102,
+  "type": "Feature",
+  "properties": {
+    "name":"Belauntza, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":754102,
+    "woe:name":"Belauntza, Basque Country, Spain",
+    "woe:place_id":"sQB.5pWeBJiBpHo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.060166,43.130184,-2.047587,43.137383],
+  "geometry": {"alpha":0.00015,"bbox":[-2.0601658821106,43.130184173584,-2.0475869178772,43.137382507324],"coordinates":[[[[-2.060166,43.130184],[-2.05791,43.134846],[-2.052125,43.137383],[-2.047587,43.132309],[-2.058037,43.131153],[-2.060166,43.130184]]]],"created":1292443843,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/754102_20101215_97c867233b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

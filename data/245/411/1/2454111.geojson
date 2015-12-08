@@ -1,0 +1,15 @@
+{
+  "id": 2454111,
+  "type": "Feature",
+  "properties": {
+    "name":"Morgantown, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2454111,
+    "woe:name":"Morgantown, Virginia, United States",
+    "woe:place_id":"xTPI1WWbBZkLvCrZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.881561,38.848801,-77.875214,38.864101],
+  "geometry": {"alpha":0.00015,"bbox":[-77.881561279297,38.84880065918,-77.875213623047,38.864101409912],"coordinates":[[[[-77.878647,38.86377],[-77.877747,38.863117],[-77.877792,38.862835],[-77.875214,38.848801],[-77.881561,38.864101],[-77.878647,38.86377]]]],"created":1292421122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2454111_20101215_f617cd7f7e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

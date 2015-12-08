@@ -1,0 +1,15 @@
+{
+  "id": 2418899,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawley, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2418899,
+    "woe:name":"Hawley, Texas, United States",
+    "woe:place_id":"vU8MJrebBZ3e_mTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.82933,32.600986,-99.810425,32.622894],
+  "geometry": {"alpha":0.00015,"bbox":[-99.829330444336,32.600986480713,-99.810424804688,32.622894287109],"coordinates":[[[[-99.816368,32.615067],[-99.810425,32.615284],[-99.811646,32.600986],[-99.820808,32.612736],[-99.82933,32.622894],[-99.816368,32.615067]]]],"created":1292539873,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2418899_20101216_ef9728f65e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

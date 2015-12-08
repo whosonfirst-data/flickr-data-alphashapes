@@ -1,0 +1,15 @@
+{
+  "id": 29346600,
+  "type": "Feature",
+  "properties": {
+    "name":"Dirnberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29346600,
+    "woe:name":"Dirnberg, Bavaria, Germany",
+    "woe:place_id":"mLIfx5ybCJ8rosQSIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.324825,48.006046,12.325947,48.006523],
+  "geometry": {"alpha":0.00015,"bbox":[12.324825286865,48.006046295166,12.325946807861,48.006523132324],"coordinates":[[[[12.324961,48.006298],[12.324922,48.006332],[12.324825,48.006523],[12.325438,48.006512],[12.325947,48.006046],[12.324991,48.006275],[12.324961,48.006298]]]],"created":1292464023,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/29346600_20101216_875cdf01d1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

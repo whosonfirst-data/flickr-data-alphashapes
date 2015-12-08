@@ -1,0 +1,15 @@
+{
+  "id": 720935,
+  "type": "Feature",
+  "properties": {
+    "name":"Ponte Felcino, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":720935,
+    "woe:name":"Ponte Felcino, Umbria, Italy",
+    "woe:place_id":"GY3ut3meA5wrYbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.436394,43.128174,12.465362,43.156357],
+  "geometry": {"alpha":0.00015,"bbox":[12.436393737793,43.128173828125,12.465361595154,43.156356811523],"coordinates":[[[[12.444419,43.138199],[12.455406,43.156357],[12.455234,43.138447],[12.465362,43.129051],[12.448196,43.128174],[12.436394,43.131119],[12.444419,43.138199]]]],"created":1292518279,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/720935_20101216_a846459cf9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

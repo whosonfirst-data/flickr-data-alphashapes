@@ -1,0 +1,15 @@
+{
+  "id": 28745482,
+  "type": "Feature",
+  "properties": {
+    "name":"Logan, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745482,
+    "woe:name":"Logan, Pennsylvania, United States",
+    "woe:place_id":".bvN98ibCZt2YNUY6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.386009,41.003807,-77.38102,41.006241],
+  "geometry": {"alpha":0.00015,"bbox":[-77.386009216309,41.003807067871,-77.381019592285,41.006240844727],"coordinates":[[[[-77.386009,41.005772],[-77.385788,41.006241],[-77.38102,41.003815],[-77.381058,41.003807],[-77.385567,41.005371],[-77.385956,41.005486],[-77.386009,41.005772]]]],"created":1292519170,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/28745482_20101216_3b868c12f5.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

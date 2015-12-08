@@ -1,0 +1,15 @@
+{
+  "id": 2373018,
+  "type": "Feature",
+  "properties": {
+    "name":"Caernarvon, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2373018,
+    "woe:name":"Caernarvon, Louisiana, United States",
+    "woe:place_id":"snwcfcGbApvJgNEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.909531,29.858212,-89.899231,29.864838],
+  "geometry": {"alpha":0.00015,"bbox":[-89.909530639648,29.858211517334,-89.899230957031,29.864837646484],"coordinates":[[[[-89.901894,29.864279],[-89.899231,29.860445],[-89.901566,29.860073],[-89.908157,29.858212],[-89.909531,29.864838],[-89.901894,29.864279]]]],"created":1292454158,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2373018_20101215_bcbf06b5cf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

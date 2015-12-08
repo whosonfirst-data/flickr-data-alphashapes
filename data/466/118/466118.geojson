@@ -1,0 +1,15 @@
+{
+  "id": 466118,
+  "type": "Feature",
+  "properties": {
+    "name":"Piedras Moradas, Salta, Argentina",
+    "placetype":"locality",
+    "woe:id":466118,
+    "woe:name":"Piedras Moradas, Salta, Argentina",
+    "woe:place_id":"CUpT0I2dB5rXBvM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.411392,-25.284515,-65.392258,-25.268293],
+  "geometry": {"alpha":0.00015,"bbox":[-65.411392211914,-25.284515380859,-65.39225769043,-25.268293380737],"coordinates":[[[[-65.392258,-25.282187],[-65.394226,-25.282343],[-65.411392,-25.284515],[-65.400238,-25.276365],[-65.397491,-25.268293],[-65.392258,-25.282187]]]],"created":1292537152,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/466118_20101216_6a4fb28a44.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

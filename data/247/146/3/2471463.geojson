@@ -1,0 +1,15 @@
+{
+  "id": 2471463,
+  "type": "Feature",
+  "properties": {
+    "name":"Picardy, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2471463,
+    "woe:name":"Picardy, Maryland, United States",
+    "woe:place_id":"T9VtYQ6bBZuj9F6d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.521004,39.555599,-78.509201,39.580059],
+  "geometry": {"alpha":0.00015,"bbox":[-78.521003723145,39.555599212646,-78.509201049805,39.580059051514],"coordinates":[[[[-78.509201,39.575111],[-78.513145,39.555599],[-78.521004,39.571625],[-78.512161,39.580059],[-78.510361,39.576916],[-78.509201,39.575111]]]],"created":1292531664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2471463_20101216_61e3b4987a.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22755599,
+  "type": "Feature",
+  "properties": {
+    "name":"Beauv\u00e8ne, France",
+    "placetype":"locality",
+    "woe:id":22755599,
+    "woe:name":"Beauv\u00e8ne, France",
+    "woe:place_id":"ZIqn56GbA5vd1vRveA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.529806,44.861385,4.533512,44.863415],
+  "geometry": {"alpha":1e-05,"bbox":[4.529806137085,44.861385345459,4.5335121154785,44.863414764404],"coordinates":[[[[4.531879,44.863415],[4.533512,44.862934],[4.529806,44.861385],[4.529827,44.861526],[4.531575,44.86327],[4.531879,44.863415]]]],"created":1292432522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/22755599_20101215_9f1a3e90c1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

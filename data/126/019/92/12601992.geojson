@@ -1,0 +1,15 @@
+{
+  "id": 12601992,
+  "type": "Feature",
+  "properties": {
+    "name":"Seye, Yucatan, Mexico",
+    "placetype":"county",
+    "woe:id":12601992,
+    "woe:name":"Seye, Yucatan, Mexico",
+    "woe:place_id":"EJsmMMSYA5rld7gxSw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-89.374977,20.802336,-89.337387,20.861858],
+  "geometry": {"alpha":0.0015,"bbox":[-89.374977111816,20.802335739136,-89.337387084961,20.86185836792],"coordinates":[[[[-89.369659,20.802336],[-89.371376,20.832743],[-89.374977,20.861858],[-89.369659,20.831699],[-89.337387,20.804583],[-89.369659,20.802336]]]],"created":1292539835,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12601992_20101216_87381f6dcb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

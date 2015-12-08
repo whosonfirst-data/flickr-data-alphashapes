@@ -1,0 +1,15 @@
+{
+  "id": 1166028,
+  "type": "Feature",
+  "properties": {
+    "name":"Bustos, Central Luzon, Philippines",
+    "placetype":"locality",
+    "woe:id":1166028,
+    "woe:name":"Bustos, Central Luzon, Philippines",
+    "woe:place_id":"_uFXJleYAJorBC4K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.914497,14.95034,120.927025,14.967505],
+  "geometry": {"alpha":0.00015,"bbox":[120.91449737549,14.950340270996,120.92702484131,14.967505455017],"coordinates":[[[[120.918442,14.964852],[120.919128,14.967505],[120.927025,14.964603],[120.927025,14.961701],[120.919304,14.95034],[120.914497,14.953989],[120.918442,14.964852]]]],"created":1292536095,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/1166028_20101216_4faf443483.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12685191,
+  "type": "Feature",
+  "properties": {
+    "name":"Degen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685191,
+    "woe:name":"Degen, Switzerland",
+    "woe:place_id":"0Fh_i76YA5r5fJ842A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.1245,46.726002,9.125166,46.726501],
+  "geometry": {"alpha":1e-05,"bbox":[9.1245002746582,46.726001739502,9.1251659393311,46.726501464844],"coordinates":[[[[9.1245,46.726501],[9.124666,46.726501],[9.125166,46.726334],[9.125,46.726166],[9.124833,46.726002],[9.1245,46.726334],[9.1245,46.726501]]]],"created":1292504525,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12685191_20101216_db902e8980.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12675711,
+  "type": "Feature",
+  "properties": {
+    "name":"Codigoro, Italy",
+    "placetype":"locality",
+    "woe:id":12675711,
+    "woe:name":"Codigoro, Italy",
+    "woe:place_id":"5EMcx5mYA5qiaSiOtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.173881,44.833107,12.179889,44.835693],
+  "geometry": {"alpha":1e-05,"bbox":[12.173880577087,44.833106994629,12.179888725281,44.835693359375],"coordinates":[[[[12.176177,44.835644],[12.176907,44.835693],[12.178344,44.833717],[12.179889,44.833107],[12.176542,44.833107],[12.173881,44.834206],[12.176177,44.835644]]]],"created":1292548353,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12675711_20101217_d98b6b4138.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

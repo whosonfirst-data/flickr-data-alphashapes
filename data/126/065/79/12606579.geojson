@@ -1,0 +1,15 @@
+{
+  "id": 12606579,
+  "type": "Feature",
+  "properties": {
+    "name":"Krupka, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12606579,
+    "woe:name":"Krupka, Czech Republic",
+    "woe:place_id":"pxZgr5iYA5pdXgID1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.855658,50.706814,13.857643,50.707546],
+  "geometry": {"alpha":1e-05,"bbox":[13.855657577515,50.706813812256,13.857643127441,50.707546234131],"coordinates":[[[[13.857643,50.707302],[13.856666,50.706833],[13.855658,50.706814],[13.857192,50.707546],[13.857643,50.707302]]]],"created":1292551085,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12606579_20101217_c121714a3b.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23689678,
+  "type": "Feature",
+  "properties": {
+    "name":"Salisbury, New York, United States",
+    "placetype":"locality",
+    "woe:id":23689678,
+    "woe:name":"Salisbury, New York, United States",
+    "woe:place_id":"wDolc9SbAprsr3ErFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.754318,43.171703,-74.750572,43.180576],
+  "geometry": {"alpha":0.0001875,"bbox":[-74.754318237305,43.171703338623,-74.75057220459,43.180576324463],"coordinates":[[[[-74.753975,43.173294],[-74.750771,43.180576],[-74.750572,43.179176],[-74.752045,43.173843],[-74.75267,43.173153],[-74.753967,43.171703],[-74.754318,43.172768],[-74.753975,43.173294]]]],"created":1292535599,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/23689678_20101216_4554146f58.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

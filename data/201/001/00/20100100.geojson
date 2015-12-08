@@ -1,0 +1,15 @@
+{
+  "id": 20100100,
+  "type": "Feature",
+  "properties": {
+    "name":"Helset, Akershus Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":20100100,
+    "woe:name":"Helset, Akershus Fylke, Norway",
+    "woe:place_id":"flZFtqibAZ2_sMeqwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.498595,59.939018,10.52011,59.953278],
+  "geometry": {"alpha":0.00015,"bbox":[10.498595237732,59.939018249512,10.52011013031,59.953277587891],"coordinates":[[[[10.507661,59.953278],[10.514087,59.948132],[10.52011,59.942169],[10.501298,59.939018],[10.50063,59.940273],[10.500472,59.941395],[10.498595,59.949425],[10.507611,59.953262],[10.50763,59.953274],[10.507661,59.953278]]]],"created":1292524033,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/20100100_20101216_4904a590f4.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

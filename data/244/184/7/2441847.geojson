@@ -1,0 +1,15 @@
+{
+  "id": 2441847,
+  "type": "Feature",
+  "properties": {
+    "name":"Lookout, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2441847,
+    "woe:name":"Lookout, Indiana, United States",
+    "woe:place_id":"BaYAhZubBZhYXN5X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.206322,39.221897,-85.200279,39.223568],
+  "geometry": {"alpha":0.00015,"bbox":[-85.206321716309,39.221897125244,-85.20027923584,39.223567962646],"coordinates":[[[[-85.205574,39.223385],[-85.200279,39.223568],[-85.203545,39.222183],[-85.204002,39.221897],[-85.206322,39.222244],[-85.205574,39.223385]]]],"created":1292440802,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2441847_20101215_b6ed8a5b63.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

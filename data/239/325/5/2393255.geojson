@@ -1,0 +1,15 @@
+{
+  "id": 2393255,
+  "type": "Feature",
+  "properties": {
+    "name":"Douglas, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2393255,
+    "woe:name":"Douglas, Washington, United States",
+    "woe:place_id":"SG7FiO.bApXMxT66",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.005226,47.612789,-119.983795,47.622307],
+  "geometry": {"alpha":0.0001875,"bbox":[-120.00522613525,47.612789154053,-119.98379516602,47.62230682373],"coordinates":[[[[-119.983795,47.612789],[-120.004135,47.620872],[-120.005226,47.621349],[-120.004608,47.622135],[-120.003944,47.622307],[-120.003601,47.621399],[-119.983795,47.612789]]]],"created":1292538633,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2393255_20101216_a5bdab9ed8.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

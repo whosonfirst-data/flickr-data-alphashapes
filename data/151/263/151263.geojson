@@ -1,0 +1,15 @@
+{
+  "id": 151263,
+  "type": "Feature",
+  "properties": {
+    "name":"Yahualica, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":151263,
+    "woe:name":"Yahualica, Jalisco, Mexico",
+    "woe:place_id":"IldtiqGYBJ36PEk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.912537,21.105841,-102.911385,21.109083],
+  "geometry": {"alpha":0.00015,"bbox":[-102.91253662109,21.105840682983,-102.91138458252,21.109083175659],"coordinates":[[[[-102.911385,21.108183],[-102.911552,21.105841],[-102.912537,21.108044],[-102.912071,21.108503],[-102.911507,21.109083],[-102.911385,21.108183]]]],"created":1292486418,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/151263_20101216_966d9e2782.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

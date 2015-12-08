@@ -1,0 +1,15 @@
+{
+  "id": 2491698,
+  "type": "Feature",
+  "properties": {
+    "name":"Shanty Town, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2491698,
+    "woe:name":"Shanty Town, Nevada, United States",
+    "woe:place_id":"DN2M1UWbBZUFZyBW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.409523,40.251976,-115.407974,40.252888],
+  "geometry": {"alpha":0.00015,"bbox":[-115.40952301025,40.251976013184,-115.40797424316,40.25288772583],"coordinates":[[[[-115.407974,40.252583],[-115.408028,40.252331],[-115.40815,40.251976],[-115.409523,40.252888],[-115.407974,40.252583]]]],"created":1292539804,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2491698_20101216_99d718d9a6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

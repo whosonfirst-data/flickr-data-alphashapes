@@ -1,0 +1,15 @@
+{
+  "id": 23403037,
+  "type": "Feature",
+  "properties": {
+    "name":"Lacadena, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":23403037,
+    "woe:name":"Lacadena, Saskatchewan, Canada",
+    "woe:place_id":"f0YjJFSbApip.aV6uA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.338715,50.95208,-108.329445,50.968056],
+  "geometry": {"alpha":0.00015,"bbox":[-108.33871459961,50.952079772949,-108.32944488525,50.968055725098],"coordinates":[[[[-108.336197,50.95554],[-108.329445,50.968056],[-108.329445,50.960556],[-108.334824,50.95208],[-108.338715,50.954479],[-108.336197,50.95554]]]],"created":1292457403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/23403037_20101215_58e6a50c60.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

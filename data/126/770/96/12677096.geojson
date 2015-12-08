@@ -1,0 +1,15 @@
+{
+  "id": 12677096,
+  "type": "Feature",
+  "properties": {
+    "name":"Brescello, Italy",
+    "placetype":"locality",
+    "woe:id":12677096,
+    "woe:name":"Brescello, Italy",
+    "woe:place_id":"bbBi4vOYA5pRScYYwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.515203,44.900269,10.518229,44.906712],
+  "geometry": {"alpha":1e-05,"bbox":[10.515203475952,44.900268554688,10.518228530884,44.906711578369],"coordinates":[[[[10.516437,44.901112],[10.515439,44.900269],[10.515611,44.901718],[10.515203,44.906712],[10.518229,44.902729],[10.516437,44.901112]]]],"created":1292527683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12677096_20101216_7e57f48645.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

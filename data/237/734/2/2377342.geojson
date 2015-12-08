@@ -1,0 +1,15 @@
+{
+  "id": 2377342,
+  "type": "Feature",
+  "properties": {
+    "name":"Center Valley, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2377342,
+    "woe:name":"Center Valley, Indiana, United States",
+    "woe:place_id":"DCcPeU2bApsgvSWR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.441284,39.632618,-86.427727,39.649055],
+  "geometry": {"alpha":0.00015,"bbox":[-86.441284179688,39.632617950439,-86.427726745605,39.649055480957],"coordinates":[[[[-86.427727,39.642975],[-86.430153,39.639271],[-86.441284,39.632618],[-86.43219,39.649055],[-86.427727,39.642975]]]],"created":1248248524,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2522/shapefiles/2377342_20090722_3690e56435.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

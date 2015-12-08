@@ -1,0 +1,15 @@
+{
+  "id": 752172,
+  "type": "Feature",
+  "properties": {
+    "name":"Almanzora, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":752172,
+    "woe:name":"Almanzora, Andalusia, Spain",
+    "woe:place_id":"h_y9pfaeBJ6XU6M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.137699,37.347778,-2.13457,37.351192],
+  "geometry": {"alpha":0.00015,"bbox":[-2.1376988887787,37.347778320312,-2.1345698833466,37.351192474365],"coordinates":[[[[-2.135295,37.351192],[-2.13457,37.350834],[-2.13536,37.347813],[-2.136154,37.347778],[-2.137699,37.34853],[-2.135295,37.351192]]]],"created":1292446280,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/752172_20101215_9b7cb7b367.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 520180,
+  "type": "Feature",
+  "properties": {
+    "name":"Stepnica, West Pomeranian, Poland",
+    "placetype":"locality",
+    "woe:id":520180,
+    "woe:name":"Stepnica, West Pomeranian, Poland",
+    "woe:place_id":"mL.MDSacA5yLWoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.603576,53.647945,14.618253,53.651619],
+  "geometry": {"alpha":0.00015,"bbox":[14.603575706482,53.647945404053,14.618252754211,53.65161895752],"coordinates":[[[[14.613189,53.647945],[14.603576,53.649521],[14.614455,53.651619],[14.615206,53.651123],[14.618253,53.64957],[14.613189,53.647945]]]],"created":1292545936,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/520180_20101217_e98be33dff.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

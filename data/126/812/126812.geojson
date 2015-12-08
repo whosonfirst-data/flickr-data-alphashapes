@@ -1,0 +1,15 @@
+{
+  "id": 126812,
+  "type": "Feature",
+  "properties": {
+    "name":"La Central, Colima, Mexico",
+    "placetype":"locality",
+    "woe:id":126812,
+    "woe:name":"La Central, Colima, Mexico",
+    "woe:place_id":"h3HRCB2YA5r1LiE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.454231,19.093266,-104.427277,19.106001],
+  "geometry": {"alpha":0.00015,"bbox":[-104.45423126221,19.093265533447,-104.42727661133,19.106000900269],"coordinates":[[[[-104.435989,19.095699],[-104.454231,19.093266],[-104.438782,19.100464],[-104.427277,19.106001],[-104.435989,19.095699]]]],"created":1292520069,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/126812_20101216_82ff3e3a6a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

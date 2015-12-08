@@ -1,0 +1,15 @@
+{
+  "id": 2455808,
+  "type": "Feature",
+  "properties": {
+    "name":"Mountain Meadows, Boulder, CO, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2455808,
+    "woe:name":"Mountain Meadows, Boulder, CO, US, United States",
+    "woe:place_id":"1C3KvtCbBZlIzakA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-105.386177,40.017887,-105.367813,40.031033],
+  "geometry": {"alpha":0.00015,"bbox":[-105.38617706299,40.017887115479,-105.36781311035,40.031032562256],"coordinates":[[[[-105.386177,40.030636],[-105.370041,40.031033],[-105.367813,40.017887],[-105.384407,40.025146],[-105.386177,40.030636]]]],"created":1234622771,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3369/shapefiles/2455808_20090214_b1b2719769.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

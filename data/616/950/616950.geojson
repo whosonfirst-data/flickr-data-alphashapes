@@ -1,0 +1,15 @@
+{
+  "id": 616950,
+  "type": "Feature",
+  "properties": {
+    "name":"Plogonnec, Brittany, France",
+    "placetype":"locality",
+    "woe:id":616950,
+    "woe:name":"Plogonnec, Brittany, France",
+    "woe:place_id":"kniK1_2fAJpgqxc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.20845,48.078194,-4.193773,48.098503],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2084498405457,48.078193664551,-4.1937727928162,48.098503112793],"coordinates":[[[[-4.20845,48.08083],[-4.207237,48.098503],[-4.197678,48.096855],[-4.193773,48.08215],[-4.195833,48.078194],[-4.20845,48.08083]]]],"created":1292525168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/616950_20101216_1015e68d93.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

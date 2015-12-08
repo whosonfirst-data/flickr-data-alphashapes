@@ -1,0 +1,15 @@
+{
+  "id": 2518368,
+  "type": "Feature",
+  "properties": {
+    "name":"Westmoreland, New York, United States",
+    "placetype":"locality",
+    "woe:id":2518368,
+    "woe:name":"Westmoreland, New York, United States",
+    "woe:place_id":"U0VOpuqbBJ1uSigY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.413536,43.107468,-75.400467,43.121826],
+  "geometry": {"alpha":0.00015,"bbox":[-75.413536071777,43.107467651367,-75.400466918945,43.121826171875],"coordinates":[[[[-75.400467,43.117058],[-75.401619,43.107468],[-75.402557,43.107891],[-75.413536,43.112476],[-75.405869,43.121826],[-75.400467,43.117058]]]],"created":1292546291,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2518368_20101217_f5eba8db32.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

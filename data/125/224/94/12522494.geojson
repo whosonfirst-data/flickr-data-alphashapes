@@ -1,0 +1,15 @@
+{
+  "id": 12522494,
+  "type": "Feature",
+  "properties": {
+    "name":"Winslow Municipal Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522494,
+    "woe:name":"Winslow Municipal Airport, United States",
+    "woe:place_id":"RfqJlimYA5lYBTVnHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.70665,35.027676,-110.7015,35.032948],
+  "geometry": {"alpha":1e-05,"bbox":[-110.70664978027,35.027675628662,-110.70149993896,35.032947540283],"coordinates":[[[[-110.704666,35.032001],[-110.7015,35.032948],[-110.703888,35.031792],[-110.704636,35.02837],[-110.70665,35.027676],[-110.704666,35.032001]]]],"created":1292532785,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12522494_20101216_3b6dc31e05.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

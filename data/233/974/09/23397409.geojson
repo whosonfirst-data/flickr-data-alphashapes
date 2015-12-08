@@ -1,0 +1,15 @@
+{
+  "id": 23397409,
+  "type": "Feature",
+  "properties": {
+    "name":"York, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397409,
+    "woe:name":"York, Ontario, Canada",
+    "woe:place_id":"o2H8TOWbAp9jXf57ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.891991,43.015461,-79.889305,43.024353],
+  "geometry": {"alpha":0.00015,"bbox":[-79.891990661621,43.015460968018,-79.889305114746,43.024353027344],"coordinates":[[[[-79.890846,43.024086],[-79.890518,43.024227],[-79.889488,43.024353],[-79.889305,43.015461],[-79.890457,43.019032],[-79.891991,43.022099],[-79.890846,43.024086]]]],"created":1292540011,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/23397409_20101216_6047fbf263.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

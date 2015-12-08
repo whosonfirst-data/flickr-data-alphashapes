@@ -1,0 +1,15 @@
+{
+  "id": 560629,
+  "type": "Feature",
+  "properties": {
+    "name":"Derryrush, Galway, Ireland",
+    "placetype":"locality",
+    "woe:id":560629,
+    "woe:name":"Derryrush, Galway, Ireland",
+    "woe:place_id":"3NWdcPacB5zeNUk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.640974,53.382832,-9.6125,53.392338],
+  "geometry": {"alpha":0.00015,"bbox":[-9.6409740447998,53.382831573486,-9.6125001907349,53.392337799072],"coordinates":[[[[-9.62677,53.392338],[-9.6125,53.382832],[-9.632349,53.384045],[-9.640974,53.39167],[-9.636125,53.391415],[-9.62677,53.392338]]]],"created":1292520660,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/560629_20101216_a1086c4415.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

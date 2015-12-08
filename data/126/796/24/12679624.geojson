@@ -1,0 +1,15 @@
+{
+  "id": 12679624,
+  "type": "Feature",
+  "properties": {
+    "name":"Goni, Italy",
+    "placetype":"locality",
+    "woe:id":12679624,
+    "woe:name":"Goni, Italy",
+    "woe:place_id":"Dp9VcECYA5pwpIZ8hA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.261131,39.563023,9.267396,39.569706],
+  "geometry": {"alpha":1e-05,"bbox":[9.2611312866211,39.563022613525,9.2673959732056,39.569705963135],"coordinates":[[[[9.265766,39.563023],[9.261131,39.565536],[9.263448,39.567322],[9.264907,39.567719],[9.267139,39.569706],[9.267396,39.564411],[9.265766,39.563023]]]],"created":1292548079,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12679624_20101217_03987d46c5.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23418287,
+  "type": "Feature",
+  "properties": {
+    "name":"Esperance, Washington, United States",
+    "placetype":"locality",
+    "woe:id":23418287,
+    "woe:name":"Esperance, Washington, United States",
+    "woe:place_id":"DOfTTGibAphTvqgU7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.358215,47.784706,-122.328644,47.807362],
+  "geometry": {"alpha":0.00015,"bbox":[-122.35821533203,47.784706115723,-122.32864379883,47.807361602783],"coordinates":[[[[-122.355949,47.798138],[-122.340057,47.807362],[-122.328644,47.798859],[-122.344437,47.784706],[-122.358215,47.785839],[-122.355949,47.798138]]]],"created":1239625336,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3321/shapefiles/23418287_20090413_586078018a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

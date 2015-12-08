@@ -1,0 +1,15 @@
+{
+  "id": 1192193,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Ana, National Capital Region, Philippines",
+    "placetype":"locality",
+    "woe:id":1192193,
+    "woe:name":"Santa Ana, National Capital Region, Philippines",
+    "woe:place_id":"afzAIHiYAJVmz3Ib",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.010628,14.570624,121.018524,14.589564],
+  "geometry": {"alpha":0.00015,"bbox":[121.01062774658,14.570624351501,121.01852416992,14.589564323425],"coordinates":[[[[121.016777,14.582264],[121.010628,14.570624],[121.010628,14.57727],[121.016701,14.583299],[121.018524,14.589564],[121.016777,14.582264]]]],"created":1292522015,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1192193_20101216_86d8a7ced1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2521041,
+  "type": "Feature",
+  "properties": {
+    "name":"Willow, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2521041,
+    "woe:name":"Willow, Maryland, United States",
+    "woe:place_id":"i9HdZpqbBJ5wMm1a",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.619133,39.200996,-76.615166,39.210129],
+  "geometry": {"alpha":0.00015,"bbox":[-76.619132995605,39.200996398926,-76.615165710449,39.21012878418],"coordinates":[[[[-76.619133,39.201408],[-76.618523,39.210129],[-76.618073,39.209743],[-76.615166,39.201],[-76.616875,39.200996],[-76.619133,39.201408]]]],"created":1292540449,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2521041_20101216_823fe5d95a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

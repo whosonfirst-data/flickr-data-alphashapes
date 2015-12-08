@@ -1,0 +1,15 @@
+{
+  "id": 759267,
+  "type": "Feature",
+  "properties": {
+    "name":"El Enc\u00edn, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":759267,
+    "woe:name":"El Enc\u00edn, Madrid, Spain",
+    "woe:place_id":"DMZZ31SeBJVtyPI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.2977,40.517029,-3.284504,40.541656],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2976999282837,40.517028808594,-3.2845039367676,40.541656494141],"coordinates":[[[[-3.295898,40.539894],[-3.284504,40.541656],[-3.289504,40.531448],[-3.292336,40.517029],[-3.2977,40.534805],[-3.295898,40.539894]]]],"created":1292511482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/759267_20101216_992de511d4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

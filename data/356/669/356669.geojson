@@ -1,0 +1,15 @@
+{
+  "id": 356669,
+  "type": "Feature",
+  "properties": {
+    "name":"Ginebra, Valle del Cauca, Colombia",
+    "placetype":"locality",
+    "woe:id":356669,
+    "woe:name":"Ginebra, Valle del Cauca, Colombia",
+    "woe:place_id":"IF1XgUmaBJqJqu0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.27533,3.730481,-76.256958,3.738703],
+  "geometry": {"alpha":0.00015,"bbox":[-76.275329589844,3.7304809093475,-76.256958007812,3.7387030124664],"coordinates":[[[[-76.270866,3.73168],[-76.27533,3.732708],[-76.270348,3.736819],[-76.268463,3.738703],[-76.256958,3.730481],[-76.270866,3.73168]]]],"created":1292538907,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/356669_20101216_cc931dfd2c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

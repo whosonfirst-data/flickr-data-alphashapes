@@ -1,0 +1,15 @@
+{
+  "id": 109333,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Bay, Portland, Jamaica",
+    "placetype":"locality",
+    "woe:id":109333,
+    "woe:name":"Long Bay, Portland, Jamaica",
+    "woe:place_id":"hZydFmeYAZXdsrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.321503,18.102129,-76.320648,18.117302],
+  "geometry": {"alpha":0.00015,"bbox":[-76.321502685547,18.102128982544,-76.320648193359,18.117301940918],"coordinates":[[[[-76.321159,18.11714],[-76.321159,18.117058],[-76.320648,18.102129],[-76.321503,18.116976],[-76.321335,18.117302],[-76.321159,18.11714]]]],"created":1292530481,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/109333_20101216_e86f3fd7dd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

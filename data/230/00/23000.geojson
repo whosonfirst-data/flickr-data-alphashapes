@@ -1,0 +1,15 @@
+{
+  "id": 23000,
+  "type": "Feature",
+  "properties": {
+    "name":"Henbury, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23000,
+    "woe:name":"Henbury, England, United Kingdom",
+    "woe:place_id":"Gg62U62bApwW6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.188178,53.257332,-2.179219,53.262043],
+  "geometry": {"alpha":0.00015,"bbox":[-2.188178062439,53.257331848145,-2.1792190074921,53.262042999268],"coordinates":[[[[-2.183747,53.262043],[-2.179219,53.261734],[-2.181667,53.257332],[-2.188178,53.258766],[-2.183747,53.262043]]]],"created":1292542728,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/23000_20101216_ef48e7b08c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

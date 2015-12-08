@@ -1,0 +1,15 @@
+{
+  "id": 2378315,
+  "type": "Feature",
+  "properties": {
+    "name":"Charleston, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2378315,
+    "woe:name":"Charleston, Mississippi, United States",
+    "woe:place_id":"MxCY2wqbAptdBqf.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.058311,33.998882,-90.052696,34.010052],
+  "geometry": {"alpha":0.00015,"bbox":[-90.058311462402,33.998882293701,-90.052696228027,34.010051727295],"coordinates":[[[[-90.058311,34.007252],[-90.058105,34.007954],[-90.057419,34.008556],[-90.054329,34.010052],[-90.052696,33.998882],[-90.058311,34.007252]]]],"created":1292500207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2378315_20101216_246c3dbd89.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

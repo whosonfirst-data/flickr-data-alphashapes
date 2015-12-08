@@ -1,0 +1,15 @@
+{
+  "id": 12643020,
+  "type": "Feature",
+  "properties": {
+    "name":"La Roche-Blanche, France",
+    "placetype":"locality",
+    "woe:id":12643020,
+    "woe:name":"La Roche-Blanche, France",
+    "woe:place_id":"pNJncQqYA5rVUBqQMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.122649,45.717926,3.132133,45.722164],
+  "geometry": {"alpha":1e-05,"bbox":[3.1226489543915,45.717926025391,3.1321330070496,45.722164154053],"coordinates":[[[[3.122649,45.720863],[3.122735,45.722164],[3.125953,45.721882],[3.129386,45.721821],[3.130931,45.722],[3.132133,45.718525],[3.128142,45.718681],[3.126468,45.717926],[3.124451,45.718914],[3.123035,45.719242],[3.122649,45.720863]]]],"created":1292529500,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12643020_20101216_52c1d0327d.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

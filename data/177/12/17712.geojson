@@ -1,0 +1,15 @@
+{
+  "id": 17712,
+  "type": "Feature",
+  "properties": {
+    "name":"Cwm Teigl, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":17712,
+    "woe:name":"Cwm Teigl, Wales, United Kingdom",
+    "woe:place_id":"tlxz6uWYBpsobw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.927665,52.965618,-3.911245,52.972282],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9276649951935,52.965618133545,-3.9112451076508,52.972282409668],"coordinates":[[[[-3.911245,52.966934],[-3.913021,52.965752],[-3.920204,52.965618],[-3.927665,52.972282],[-3.914207,52.969276],[-3.911245,52.966934]]]],"created":1292438062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/17712_20101215_fe02c0c669.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

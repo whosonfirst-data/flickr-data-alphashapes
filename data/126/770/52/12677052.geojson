@@ -1,0 +1,15 @@
+{
+  "id": 12677052,
+  "type": "Feature",
+  "properties": {
+    "name":"Bovino, Italy",
+    "placetype":"locality",
+    "woe:id":12677052,
+    "woe:name":"Bovino, Italy",
+    "woe:place_id":"tg3T8puYA5oPVTE3RA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.338276,41.248959,15.344102,41.252663],
+  "geometry": {"alpha":1e-05,"bbox":[15.338275909424,41.248958587646,15.344101905823,41.252662658691],"coordinates":[[[[15.339038,41.251457],[15.338276,41.252663],[15.341033,41.25145],[15.344102,41.250038],[15.34167,41.248959],[15.339038,41.251457]]]],"created":1292461564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12677052_20101216_56f04afbfc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

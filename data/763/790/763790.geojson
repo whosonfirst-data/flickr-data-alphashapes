@@ -1,0 +1,15 @@
+{
+  "id": 763790,
+  "type": "Feature",
+  "properties": {
+    "name":"La Palma de Ebro, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":763790,
+    "woe:name":"La Palma de Ebro, Catalonia, Spain",
+    "woe:place_id":"mY1tpWieB5.RlFo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.660896,41.282967,0.673255,41.291546],
+  "geometry": {"alpha":0.00015,"bbox":[0.66089600324631,41.28296661377,0.67325502634048,41.29154586792],"coordinates":[[[[0.665874,41.282967],[0.660896,41.28503],[0.666904,41.287289],[0.673255,41.291546],[0.669786,41.286972],[0.665874,41.282967]]]],"created":1292518416,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/763790_20101216_ab7a49905b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

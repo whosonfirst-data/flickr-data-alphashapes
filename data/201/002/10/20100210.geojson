@@ -1,0 +1,15 @@
+{
+  "id": 20100210,
+  "type": "Feature",
+  "properties": {
+    "name":"Lerdalen, Ostfold, Norway",
+    "placetype":"locality",
+    "woe:id":20100210,
+    "woe:name":"Lerdalen, Ostfold, Norway",
+    "woe:place_id":"b21JlymbAZ1fMpxwdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.347503,59.173794,11.363811,59.189999],
+  "geometry": {"alpha":0.00015,"bbox":[11.347502708435,59.173793792725,11.363810539246,59.189998626709],"coordinates":[[[[11.363468,59.177795],[11.363811,59.177467],[11.363725,59.173794],[11.355485,59.17672],[11.347503,59.189999],[11.363468,59.177795]]]],"created":1292449142,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20100210_20101215_fd5772cf8a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

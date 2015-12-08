@@ -1,0 +1,15 @@
+{
+  "id": 28836001,
+  "type": "Feature",
+  "properties": {
+    "name":"Loth, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28836001,
+    "woe:name":"Loth, Scotland, United Kingdom",
+    "woe:place_id":"WPb5h_abCZS0zflq5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.765993,58.062897,-3.757581,58.069775],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7659931182861,58.062896728516,-3.7575809955597,58.069774627686],"coordinates":[[[[-3.758182,58.066936],[-3.757581,58.066891],[-3.761615,58.062897],[-3.764877,58.065891],[-3.765993,58.069775],[-3.758182,58.066936]]]],"created":1292514665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/28836001_20101216_a5af81e87f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

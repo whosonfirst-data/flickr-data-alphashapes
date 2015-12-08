@@ -1,0 +1,15 @@
+{
+  "id": 2412552,
+  "type": "Feature",
+  "properties": {
+    "name":"Grace, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2412552,
+    "woe:name":"Grace, Michigan, United States",
+    "woe:place_id":"zp2CMDSbBZ0wUaJU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.137077,45.542786,-84.125061,45.559738],
+  "geometry": {"alpha":0.00015,"bbox":[-84.137077331543,45.542785644531,-84.125061035156,45.55973815918],"coordinates":[[[[-84.125061,45.559738],[-84.127289,45.553391],[-84.137077,45.542786],[-84.128319,45.553322],[-84.125061,45.559738]]]],"created":1292470091,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2412552_20101216_cd97975189.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2445526,
+  "type": "Feature",
+  "properties": {
+    "name":"Marchand, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2445526,
+    "woe:name":"Marchand, Pennsylvania, United States",
+    "woe:place_id":"0_AKeL2bBZhrLRYR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.009529,40.854923,-79.006958,40.861374],
+  "geometry": {"alpha":0.00015,"bbox":[-79.00952911377,40.854923248291,-79.006958007812,40.861373901367],"coordinates":[[[[-79.007339,40.857586],[-79.006958,40.855923],[-79.008224,40.854923],[-79.009529,40.858398],[-79.009254,40.861374],[-79.007339,40.857586]]]],"created":1292500744,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2445526_20101216_fa32b9ede7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

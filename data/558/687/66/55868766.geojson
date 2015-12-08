@@ -1,0 +1,15 @@
+{
+  "id": 55868766,
+  "type": "Feature",
+  "properties": {
+    "name":"Germel, Braga, Portugal",
+    "placetype":"locality",
+    "woe:id":55868766,
+    "woe:name":"Germel, Braga, Portugal",
+    "woe:place_id":"adbhmhecBJS5Q4GxcQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.360896,41.657684,-8.353385,41.667332],
+  "geometry": {"alpha":0.00015,"bbox":[-8.3608961105347,41.657684326172,-8.3533849716187,41.667331695557],"coordinates":[[[[-8.360681,41.657684],[-8.360896,41.661629],[-8.359136,41.667332],[-8.353385,41.662189],[-8.358278,41.658852],[-8.360681,41.657684]]]],"created":1292534310,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/55868766_20101216_550ee4cb71.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

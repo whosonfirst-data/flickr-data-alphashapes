@@ -1,0 +1,15 @@
+{
+  "id": 9367,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmington, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9367,
+    "woe:name":"Farmington, British Columbia, Canada",
+    "woe:place_id":"AjssSWeQAprI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.568428,55.948624,-120.547485,55.966305],
+  "geometry": {"alpha":0.00015,"bbox":[-120.56842803955,55.948623657227,-120.54748535156,55.966304779053],"coordinates":[[[[-120.565338,55.957466],[-120.568428,55.958233],[-120.567764,55.959866],[-120.566711,55.966305],[-120.559845,55.960346],[-120.547485,55.948624],[-120.565338,55.957466]]]],"created":1292520530,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/9367_20101216_5b21dbc0a3.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 770165,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinedo, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":770165,
+    "woe:name":"Pinedo, Valencia, Spain",
+    "woe:place_id":"wR3dhraeBpzdetE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.352935,39.396629,-0.322637,39.430107],
+  "geometry": {"alpha":0.00015,"bbox":[-0.35293498635292,39.396629333496,-0.32263699173927,39.430107116699],"coordinates":[[[[-0.331649,39.417362],[-0.327873,39.405029],[-0.325926,39.396629],[-0.330576,39.404705],[-0.350189,39.39727],[-0.352935,39.421207],[-0.341144,39.424904],[-0.338655,39.428211],[-0.322637,39.430107],[-0.331649,39.417362]]]],"created":1292514075,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/770165_20101216_93db1ae058.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 39904,
+  "type": "Feature",
+  "properties": {
+    "name":"Wester Moy, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39904,
+    "woe:name":"Wester Moy, Scotland, United Kingdom",
+    "woe:place_id":"76Ey4TuaCJVFQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.568252,57.560371,-4.545249,57.572937],
+  "geometry": {"alpha":0.00015,"bbox":[-4.5682520866394,57.560371398926,-4.5452489852905,57.572937011719],"coordinates":[[[[-4.556236,57.568382],[-4.568252,57.572937],[-4.551193,57.571384],[-4.545249,57.563824],[-4.550828,57.560371],[-4.556236,57.568382]]]],"created":1292548807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/39904_20101217_37bcbb92eb.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12682163,
+  "type": "Feature",
+  "properties": {
+    "name":"Ternate, Italy",
+    "placetype":"locality",
+    "woe:id":12682163,
+    "woe:name":"Ternate, Italy",
+    "woe:place_id":"JECSV06YA5qoTue8Rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.693747,45.779434,8.69776,45.785892],
+  "geometry": {"alpha":1e-05,"bbox":[8.6937465667725,45.779434204102,8.6977596282959,45.785892486572],"coordinates":[[[[8.696279,45.779976],[8.69776,45.779541],[8.696537,45.779434],[8.69497,45.779945],[8.693747,45.780148],[8.695946,45.785892],[8.696279,45.779976]]]],"created":1292541187,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12682163_20101216_da239d093b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

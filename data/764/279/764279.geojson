@@ -1,0 +1,15 @@
+{
+  "id": 764279,
+  "type": "Feature",
+  "properties": {
+    "name":"Lada, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":764279,
+    "woe:name":"Lada, Asturias, Spain",
+    "woe:place_id":"myHKLgeeB5jk0.c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.71892,43.302998,-5.696411,43.306801],
+  "geometry": {"alpha":0.00015,"bbox":[-5.7189202308655,43.302997589111,-5.6964111328125,43.306800842285],"coordinates":[[[[-5.696411,43.306801],[-5.697355,43.304241],[-5.701829,43.302998],[-5.71892,43.303318],[-5.701925,43.304764],[-5.696411,43.306801]]]],"created":1292451117,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/764279_20101215_3ccb63591b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

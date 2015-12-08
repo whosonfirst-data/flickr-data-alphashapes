@@ -1,0 +1,15 @@
+{
+  "id": 118371,
+  "type": "Feature",
+  "properties": {
+    "name":"Duarte, Guanajuato, Mexico",
+    "placetype":"locality",
+    "woe:id":118371,
+    "woe:name":"Duarte, Guanajuato, Mexico",
+    "woe:place_id":"IKq1oLeYAJRKkwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.529701,21.086382,-101.521896,21.08869],
+  "geometry": {"alpha":0.00015,"bbox":[-101.52970123291,21.086381912231,-101.5218963623,21.088689804077],"coordinates":[[[[-101.524872,21.087383],[-101.529701,21.088634],[-101.523918,21.08869],[-101.521896,21.086382],[-101.52285,21.086571],[-101.524872,21.087383]]]],"created":1292515623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/118371_20101216_f5d1df12de.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

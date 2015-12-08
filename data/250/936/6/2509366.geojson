@@ -1,0 +1,15 @@
+{
+  "id": 2509366,
+  "type": "Feature",
+  "properties": {
+    "name":"Tylers Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2509366,
+    "woe:name":"Tylers Corner, New York, United States",
+    "woe:place_id":"ULjiWF.bBJzCqtqi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.166779,43.510345,-76.166473,43.510639],
+  "geometry": {"alpha":0.00015,"bbox":[-76.166778564453,43.510345458984,-76.166473388672,43.510639190674],"coordinates":[[[[-76.166473,43.510609],[-76.166473,43.510563],[-76.166779,43.510345],[-76.166573,43.510639],[-76.166473,43.510639],[-76.166473,43.510609]]]],"created":1292445068,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2509366_20101215_63a51d9961.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

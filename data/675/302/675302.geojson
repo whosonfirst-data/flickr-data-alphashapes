@@ -1,0 +1,15 @@
+{
+  "id": 675302,
+  "type": "Feature",
+  "properties": {
+    "name":"Milmersdorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":675302,
+    "woe:name":"Milmersdorf, Brandenburg, Germany",
+    "woe:place_id":"tPiavJafBploOiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.638016,53.105698,13.638616,53.105999],
+  "geometry": {"alpha":0.00015,"bbox":[13.63801574707,53.105697631836,13.638615608215,53.10599899292],"coordinates":[[[[13.638153,53.105698],[13.638016,53.105797],[13.638228,53.105999],[13.638533,53.105919],[13.638616,53.105782],[13.638153,53.105698]]]],"created":1292447336,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/675302_20101215_fd7b05ceb0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4032,
+  "type": "Feature",
+  "properties": {
+    "name":"Elmwood, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4032,
+    "woe:name":"Elmwood, Ontario, Canada",
+    "woe:place_id":"dEB9vgWdAZ.P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.058586,44.241909,-81.040649,44.24855],
+  "geometry": {"alpha":0.00015,"bbox":[-81.058586120605,44.2419090271,-81.040649414062,44.248550415039],"coordinates":[[[[-81.057983,44.243233],[-81.058586,44.24855],[-81.040649,44.245197],[-81.056488,44.241909],[-81.057983,44.243233]]]],"created":1248194930,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2490/shapefiles/4032_20090721_74acd247d8.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

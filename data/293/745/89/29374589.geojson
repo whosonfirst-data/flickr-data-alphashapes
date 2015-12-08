@@ -1,0 +1,15 @@
+{
+  "id": 29374589,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlow/mayo, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374589,
+    "woe:name":"Carlow/mayo, Ontario, Canada",
+    "woe:place_id":"cjPf5kGbCJ9RjF1ijQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.651367,45.225033,-77.632187,45.23785],
+  "geometry": {"alpha":0.00015,"bbox":[-77.6513671875,45.225032806396,-77.632186889648,45.237850189209],"coordinates":[[[[-77.642441,45.225033],[-77.651367,45.23785],[-77.642525,45.232681],[-77.632187,45.235191],[-77.642441,45.225033]]]],"created":1247995447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3503/shapefiles/29374589_20090719_c735d77e35.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

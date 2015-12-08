@@ -1,0 +1,15 @@
+{
+  "id": 20150329,
+  "type": "Feature",
+  "properties": {
+    "name":"Ronchettone, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20150329,
+    "woe:name":"Ronchettone, Lombardy, Italy",
+    "woe:place_id":"f2hge9ybAZ2swEvryA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.164829,45.392605,9.182518,45.397568],
+  "geometry": {"alpha":0.00015,"bbox":[9.1648292541504,45.392604827881,9.1825180053711,45.397567749023],"coordinates":[[[[9.176201,45.392616],[9.176073,45.392605],[9.164829,45.393852],[9.175333,45.393333],[9.182518,45.397568],[9.176201,45.392616]]]],"created":1292531032,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/20150329_20101216_c30b84a252.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

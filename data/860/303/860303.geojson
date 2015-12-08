@@ -1,0 +1,15 @@
+{
+  "id": 860303,
+  "type": "Feature",
+  "properties": {
+    "name":"Ise, Ostfold, Norway",
+    "placetype":"locality",
+    "woe:id":860303,
+    "woe:name":"Ise, Ostfold, Norway",
+    "woe:place_id":"dmlCIGKRB5wBt3c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.25,59.277985,11.270084,59.299725],
+  "geometry": {"alpha":0.00015,"bbox":[11.25,59.277984619141,11.270084381104,59.299724578857],"coordinates":[[[[11.259269,59.299725],[11.270084,59.287872],[11.25,59.277985],[11.259956,59.29184],[11.259269,59.299725]]]],"created":1292485088,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/860303_20101216_2ff827edd5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

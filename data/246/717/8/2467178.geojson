@@ -1,0 +1,15 @@
+{
+  "id": 2467178,
+  "type": "Feature",
+  "properties": {
+    "name":"Oxford, New York, United States",
+    "placetype":"locality",
+    "woe:id":2467178,
+    "woe:name":"Oxford, New York, United States",
+    "woe:place_id":"DvqOKKmbBZrziQHp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.599884,42.419907,-75.554626,42.449554],
+  "geometry": {"alpha":0.00015,"bbox":[-75.599884033203,42.419906616211,-75.554626464844,42.449554443359],"coordinates":[[[[-75.595345,42.441372],[-75.577011,42.430538],[-75.555893,42.4314],[-75.554626,42.431637],[-75.556412,42.449554],[-75.555893,42.4314],[-75.569283,42.419907],[-75.574341,42.426189],[-75.576767,42.430054],[-75.577011,42.430538],[-75.595978,42.438168],[-75.599014,42.441422],[-75.599884,42.44371],[-75.597313,42.444157],[-75.595345,42.441372]]]],"created":1292536699,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2467178_20101216_d4e081ac0b.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

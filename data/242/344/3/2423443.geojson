@@ -1,0 +1,15 @@
+{
+  "id": 2423443,
+  "type": "Feature",
+  "properties": {
+    "name":"Hollywood, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2423443,
+    "woe:name":"Hollywood, Michigan, United States",
+    "woe:place_id":"akyyW_qbBZ7am_WD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.247398,42.480316,-86.234261,42.484505],
+  "geometry": {"alpha":0.00015,"bbox":[-86.247398376465,42.480316162109,-86.234260559082,42.484504699707],"coordinates":[[[[-86.247398,42.480389],[-86.247131,42.48111],[-86.234261,42.484505],[-86.247261,42.480316],[-86.247398,42.480389]]]],"created":1292525629,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2423443_20101216_db80ff8e22.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

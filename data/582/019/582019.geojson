@@ -1,0 +1,15 @@
+{
+  "id": 582019,
+  "type": "Feature",
+  "properties": {
+    "name":"Brionne, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":582019,
+    "woe:name":"Brionne, Haute-Normandie, France",
+    "woe:place_id":"qcd.5ZGcCZ58RSo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.713499,49.19532,0.723552,49.197521],
+  "geometry": {"alpha":0.00015,"bbox":[0.71349900960922,49.195320129395,0.72355198860168,49.197521209717],"coordinates":[[[[0.719218,49.19532],[0.713499,49.196335],[0.713666,49.196499],[0.718402,49.197521],[0.723552,49.195419],[0.719218,49.19532]]]],"created":1292483465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/582019_20101216_849f48e3bf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

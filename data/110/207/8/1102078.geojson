@@ -1,0 +1,15 @@
+{
+  "id": 1102078,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Grove, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1102078,
+    "woe:name":"Forest Grove, Western Australia, Australia",
+    "woe:place_id":"BgMaWl2YAJzruJkM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.082298,-34.124096,115.105133,-34.114574],
+  "geometry": {"alpha":0.00015,"bbox":[115.08229827881,-34.124095916748,115.10513305664,-34.114574432373],"coordinates":[[[[115.086075,-34.124027],[115.084358,-34.124096],[115.08316,-34.11692],[115.082298,-34.114574],[115.084877,-34.11557],[115.105133,-34.118626],[115.086075,-34.124027]]]],"created":1292531489,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/1102078_20101216_81b50ccfd6.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

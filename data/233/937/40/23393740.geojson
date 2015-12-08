@@ -1,0 +1,15 @@
+{
+  "id": 23393740,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeville Corner, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393740,
+    "woe:name":"Lakeville Corner, New Brunswick, Canada",
+    "woe:place_id":"eE4O_8GbAp_b1ceFag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.264893,45.897892,-66.249275,45.906612],
+  "geometry": {"alpha":0.00015,"bbox":[-66.264892578125,45.897891998291,-66.24927520752,45.90661239624],"coordinates":[[[[-66.250648,45.906612],[-66.249275,45.904583],[-66.249619,45.904285],[-66.264893,45.897892],[-66.250648,45.906612]]]],"created":1292523671,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/23393740_20101216_af6c24bdf1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

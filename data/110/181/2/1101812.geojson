@@ -1,0 +1,15 @@
+{
+  "id": 1101812,
+  "type": "Feature",
+  "properties": {
+    "name":"Eagle Point, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101812,
+    "woe:name":"Eagle Point, Victoria, Australia",
+    "woe:place_id":"wWtC9MOYAJzpgdTG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.669296,-37.905743,147.691284,-37.880611],
+  "geometry": {"alpha":0.00015,"bbox":[147.66929626465,-37.905742645264,147.69128417969,-37.880611419678],"coordinates":[[[[147.677948,-37.880611],[147.686981,-37.881771],[147.691284,-37.896038],[147.690536,-37.89785],[147.677536,-37.905743],[147.669296,-37.887318],[147.677948,-37.880611]]]],"created":1292538551,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/1101812_20101216_5b0fae7040.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

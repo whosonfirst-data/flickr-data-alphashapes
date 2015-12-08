@@ -1,0 +1,15 @@
+{
+  "id": 12685484,
+  "type": "Feature",
+  "properties": {
+    "name":"Huichang, China",
+    "placetype":"locality",
+    "woe:id":12685484,
+    "woe:name":"Huichang, China",
+    "woe:place_id":"p.7tboiYA5p9YWACCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.792122,25.532373,115.796585,25.537331],
+  "geometry": {"alpha":1e-05,"bbox":[115.79212188721,25.532373428345,115.79658508301,25.537330627441],"coordinates":[[[[115.796585,25.533998],[115.792122,25.532373],[115.793152,25.537331],[115.795212,25.536554],[115.796585,25.533998]]]],"created":1292449082,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12685484_20101215_9beab60070.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

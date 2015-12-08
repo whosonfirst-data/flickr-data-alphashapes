@@ -1,0 +1,15 @@
+{
+  "id": 623697,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Denis, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":623697,
+    "woe:name":"St-Denis, Auvergne, France",
+    "woe:place_id":"7ibUWmqfA5_vcCc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.335708,45.943329,3.356924,45.964218],
+  "geometry": {"alpha":0.00015,"bbox":[3.3357079029083,45.943328857422,3.3569240570068,45.964218139648],"coordinates":[[[[3.345122,45.943329],[3.335708,45.964218],[3.350692,45.949364],[3.354606,45.94772],[3.356924,45.946152],[3.345122,45.943329]]]],"created":1292360522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/623697_20101214_33db207424.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

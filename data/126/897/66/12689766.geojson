@@ -1,0 +1,15 @@
+{
+  "id": 12689766,
+  "type": "Feature",
+  "properties": {
+    "name":"La Puebla de Valverde, Spain",
+    "placetype":"locality",
+    "woe:id":12689766,
+    "woe:name":"La Puebla de Valverde, Spain",
+    "woe:place_id":"qw21v_mYA5qmI4Xk5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.988297,40.273991,-0.98325,40.276741],
+  "geometry": {"alpha":1e-05,"bbox":[-0.98829698562622,40.273990631104,-0.98325002193451,40.276741027832],"coordinates":[[[[-0.985722,40.274265],[-0.988297,40.276741],[-0.98325,40.27541],[-0.985561,40.273991],[-0.985722,40.274265]]]],"created":1292520134,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/12689766_20101216_ae661d73d5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

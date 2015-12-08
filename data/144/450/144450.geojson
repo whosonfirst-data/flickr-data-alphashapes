@@ -1,0 +1,15 @@
+{
+  "id": 144450,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mateo Tepopula, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":144450,
+    "woe:name":"San Mateo Tepopula, Mexico, Mexico",
+    "woe:place_id":"5RRoa7mYBZg1cCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.860664,19.148001,-98.850998,19.157499],
+  "geometry": {"alpha":0.00015,"bbox":[-98.860664367676,19.148000717163,-98.850997924805,19.157499313354],"coordinates":[[[[-98.860001,19.156834],[-98.860497,19.157166],[-98.860664,19.157499],[-98.859497,19.156834],[-98.850998,19.148001],[-98.860001,19.156834]]]],"created":1292534367,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/144450_20101216_e028bbcb6c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

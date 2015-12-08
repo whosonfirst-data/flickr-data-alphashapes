@@ -1,0 +1,15 @@
+{
+  "id": 12679224,
+  "type": "Feature",
+  "properties": {
+    "name":"Favria, Italy",
+    "placetype":"locality",
+    "woe:id":12679224,
+    "woe:name":"Favria, Italy",
+    "woe:place_id":"ZJVrvfOYA5oONLPSsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.686417,45.327606,7.68831,45.332619],
+  "geometry": {"alpha":1e-05,"bbox":[7.6864171028137,45.327606201172,7.6883101463318,45.332618713379],"coordinates":[[[[7.686545,45.327652],[7.686524,45.327606],[7.686417,45.327606],[7.686524,45.327816],[7.68831,45.332619],[7.686599,45.327785],[7.686545,45.327652]]]],"created":1292487543,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12679224_20101216_cbc81a3f32.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

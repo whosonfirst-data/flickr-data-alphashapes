@@ -1,0 +1,15 @@
+{
+  "id": 12678425,
+  "type": "Feature",
+  "properties": {
+    "name":"Cavour, Italy",
+    "placetype":"locality",
+    "woe:id":12678425,
+    "woe:name":"Cavour, Italy",
+    "woe:place_id":"btEOQ6iYA5pP4295Qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.373027,44.780312,7.377576,44.78471],
+  "geometry": {"alpha":1e-05,"bbox":[7.3730268478394,44.780311584473,7.3775758743286,44.78470993042],"coordinates":[[[[7.374175,44.784515],[7.375613,44.784409],[7.377169,44.78471],[7.377576,44.780312],[7.374111,44.782978],[7.373027,44.783539],[7.374175,44.784515]]]],"created":1292534743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12678425_20101216_8b2dbbe159.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

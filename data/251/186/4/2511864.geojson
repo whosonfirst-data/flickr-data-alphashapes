@@ -1,0 +1,15 @@
+{
+  "id": 2511864,
+  "type": "Feature",
+  "properties": {
+    "name":"Verona, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2511864,
+    "woe:name":"Verona, Illinois, United States",
+    "woe:place_id":"2BdPjLubBJ1QMk1m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.505432,41.214497,-88.49942,41.216759],
+  "geometry": {"alpha":0.00015,"bbox":[-88.505432128906,41.214496612549,-88.499420166016,41.216758728027],"coordinates":[[[[-88.50177,41.21619],[-88.49942,41.216759],[-88.50045,41.216354],[-88.501709,41.215893],[-88.505432,41.214497],[-88.50177,41.21619]]]],"created":1292478546,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2511864_20101216_6ebd45312b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

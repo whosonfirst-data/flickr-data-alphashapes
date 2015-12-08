@@ -1,0 +1,15 @@
+{
+  "id": 23394593,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Mathieu, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394593,
+    "woe:name":"St.-Mathieu, Quebec, Canada",
+    "woe:place_id":"XNXVc8CbAp8cX0_ohA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.500328,45.29213,-73.483803,45.31525],
+  "geometry": {"alpha":0.00015,"bbox":[-73.500328063965,45.292129516602,-73.48380279541,45.315250396729],"coordinates":[[[[-73.486,45.300732],[-73.483803,45.29213],[-73.489609,45.297955],[-73.500328,45.31525],[-73.486,45.300732]]]],"created":1292521432,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/23394593_20101216_a227474ab3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

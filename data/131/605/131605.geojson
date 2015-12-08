@@ -1,0 +1,15 @@
+{
+  "id": 131605,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Barriles, Baja California Sur, Mexico",
+    "placetype":"locality",
+    "woe:id":131605,
+    "woe:name":"Los Barriles, Baja California Sur, Mexico",
+    "woe:place_id":"kUhuVCGYAp2UIJE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.658661,23.623766,-109.632996,23.636974],
+  "geometry": {"alpha":0.00015,"bbox":[-109.65866088867,23.623765945435,-109.63299560547,23.636974334717],"coordinates":[[[[-109.646988,23.636974],[-109.643555,23.635717],[-109.632996,23.627934],[-109.644409,23.623766],[-109.658661,23.635717],[-109.646988,23.636974]]]],"created":1292538540,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/131605_20101216_119d2a707c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

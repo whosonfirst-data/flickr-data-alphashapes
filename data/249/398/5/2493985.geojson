@@ -1,0 +1,15 @@
+{
+  "id": 2493985,
+  "type": "Feature",
+  "properties": {
+    "name":"Simpson, Decatur, AL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2493985,
+    "woe:name":"Simpson, Decatur, AL, US, United States",
+    "woe:place_id":"5vNXsQybBZVko785",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-87.022446,34.573227,-87.015663,34.581127],
+  "geometry": {"alpha":1e-05,"bbox":[-87.022445678711,34.573226928711,-87.015663146973,34.581127166748],"coordinates":[[[[-87.020508,34.577469],[-87.015663,34.576408],[-87.021034,34.573227],[-87.021286,34.577019],[-87.022446,34.581127],[-87.020508,34.577469]]]],"created":1292545223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2493985_20101217_21fdc65d69.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

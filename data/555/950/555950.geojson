@@ -1,0 +1,15 @@
+{
+  "id": 555950,
+  "type": "Feature",
+  "properties": {
+    "name":"Nostrup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555950,
+    "woe:name":"Nostrup, Sjaelland, Denmark",
+    "woe:place_id":"6A0m5mScBJnjM.8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.000061,55.712765,11.005811,55.717491],
+  "geometry": {"alpha":0.00015,"bbox":[11.000061035156,55.71276473999,11.00581073761,55.717491149902],"coordinates":[[[[11.000576,55.717491],[11.001605,55.716282],[11.005811,55.712765],[11.004781,55.712849],[11.000061,55.714928],[11.000576,55.717491]]]],"created":1292443481,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/555950_20101215_aa427242cd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

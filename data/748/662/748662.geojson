@@ -1,0 +1,15 @@
+{
+  "id": 748662,
+  "type": "Feature",
+  "properties": {
+    "name":"Sentinela, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":748662,
+    "woe:name":"Sentinela, Faro, Portugal",
+    "woe:place_id":"5L7fdEieBZTO6iY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.506923,37.28392,-7.496795,37.295975],
+  "geometry": {"alpha":0.00015,"bbox":[-7.5069231987,37.283920288086,-7.4967951774597,37.295974731445],"coordinates":[[[[-7.499542,37.295975],[-7.496795,37.295563],[-7.499198,37.288803],[-7.502331,37.28392],[-7.506923,37.290306],[-7.499542,37.295975]]]],"created":1239622922,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3398/shapefiles/748662_20090413_afc56db71e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

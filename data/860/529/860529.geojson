@@ -1,0 +1,15 @@
+{
+  "id": 860529,
+  "type": "Feature",
+  "properties": {
+    "name":"Kistrand, Finnmark Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":860529,
+    "woe:name":"Kistrand, Finnmark Fylke, Norway",
+    "woe:place_id":"3kxKkGORB5xR454",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.211906,70.441513,25.227785,70.467789],
+  "geometry": {"alpha":0.00015,"bbox":[25.211906433105,70.441513061523,25.227785110474,70.467788696289],"coordinates":[[[[25.22418,70.467789],[25.227785,70.456963],[25.211906,70.441513],[25.219116,70.459549],[25.22418,70.467789]]]],"created":1248109561,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2509/shapefiles/860529_20090720_359633de00.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

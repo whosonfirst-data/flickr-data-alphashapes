@@ -1,0 +1,15 @@
+{
+  "id": 736852,
+  "type": "Feature",
+  "properties": {
+    "name":"Balazar, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":736852,
+    "woe:name":"Balazar, Porto, Portugal",
+    "woe:place_id":"MY9geiCeApp2BTk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.625319,41.401718,-8.621113,41.406322],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6253185272217,41.401718139648,-8.6211128234863,41.406322479248],"coordinates":[[[[-8.624879,41.404709],[-8.625319,41.406322],[-8.621188,41.405247],[-8.621113,41.405182],[-8.622969,41.401718],[-8.624879,41.404709]]]],"created":1292484544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/736852_20101216_c9540bdc36.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

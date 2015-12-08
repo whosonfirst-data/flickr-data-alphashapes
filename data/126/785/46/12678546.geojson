@@ -1,0 +1,15 @@
+{
+  "id": 12678546,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervere, Italy",
+    "placetype":"locality",
+    "woe:id":12678546,
+    "woe:name":"Cervere, Italy",
+    "woe:place_id":"TYjAHNyYA5oN3G_iFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.788909,44.633205,7.795051,44.636063],
+  "geometry": {"alpha":1e-05,"bbox":[7.7889089584351,44.633205413818,7.7950510978699,44.63606262207],"coordinates":[[[[7.791227,44.636063],[7.795051,44.634399],[7.790604,44.634514],[7.788909,44.633205],[7.789403,44.634064],[7.789961,44.635864],[7.791227,44.636063]]]],"created":1292538168,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12678546_20101216_48f9e86af3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

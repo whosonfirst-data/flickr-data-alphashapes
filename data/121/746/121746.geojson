@@ -1,0 +1,15 @@
+{
+  "id": 121746,
+  "type": "Feature",
+  "properties": {
+    "name":"El Puente, Nayarit, Mexico",
+    "placetype":"locality",
+    "woe:id":121746,
+    "woe:name":"El Puente, Nayarit, Mexico",
+    "woe:place_id":"jJggO3qYA50KEuY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.86055,21.466169,-104.837036,21.479906],
+  "geometry": {"alpha":0.00015,"bbox":[-104.86054992676,21.4661693573,-104.83703613281,21.479906082153],"coordinates":[[[[-104.86055,21.466169],[-104.856949,21.474155],[-104.839951,21.479906],[-104.837036,21.466967],[-104.849564,21.468725],[-104.86055,21.466169]]]],"created":1292356564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/121746_20101214_d66241abe1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

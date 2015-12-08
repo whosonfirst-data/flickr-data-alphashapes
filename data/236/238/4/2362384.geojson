@@ -1,0 +1,15 @@
+{
+  "id": 2362384,
+  "type": "Feature",
+  "properties": {
+    "name":"Belvidere, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2362384,
+    "woe:name":"Belvidere, Pennsylvania, United States",
+    "woe:place_id":"Q.GVK1ybAppewuvJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.664902,40.023407,-75.648056,40.035828],
+  "geometry": {"alpha":0.00015,"bbox":[-75.664901733398,40.023406982422,-75.648056030273,40.035827636719],"coordinates":[[[[-75.648079,40.027138],[-75.648056,40.023407],[-75.6605,40.026077],[-75.664902,40.035828],[-75.649536,40.026791],[-75.648079,40.027138]]]],"created":1292547800,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2362384_20101217_63a4220a03.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

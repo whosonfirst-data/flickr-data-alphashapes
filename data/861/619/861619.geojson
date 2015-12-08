@@ -1,0 +1,15 @@
+{
+  "id": 861619,
+  "type": "Feature",
+  "properties": {
+    "name":"Magnor, Hedmark Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":861619,
+    "woe:name":"Magnor, Hedmark Fylke, Norway",
+    "woe:place_id":"i50.fQ2RB51UGMI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.163925,59.964291,12.176284,59.968414],
+  "geometry": {"alpha":0.00015,"bbox":[12.163925170898,59.964290618896,12.176283836365,59.968414306641],"coordinates":[[[[12.163925,59.968414],[12.165298,59.968071],[12.172164,59.968414],[12.176284,59.964291],[12.169418,59.966007],[12.1661,59.967056],[12.163925,59.968414]]]],"created":1292531433,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/861619_20101216_41104467e1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

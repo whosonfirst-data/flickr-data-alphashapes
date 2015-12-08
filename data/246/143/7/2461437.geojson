@@ -1,0 +1,15 @@
+{
+  "id": 2461437,
+  "type": "Feature",
+  "properties": {
+    "name":"North Peachtree Woods, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2461437,
+    "woe:name":"North Peachtree Woods, Georgia, United States",
+    "woe:place_id":"V_.OpCWbBZqpOxND",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.300926,33.934555,-84.293205,33.941666],
+  "geometry": {"alpha":0.00015,"bbox":[-84.300926208496,33.934555053711,-84.29320526123,33.941665649414],"coordinates":[[[[-84.294777,33.934628],[-84.294899,33.934555],[-84.300842,33.939941],[-84.300926,33.941666],[-84.293205,33.937946],[-84.294777,33.934628]]]],"created":1292493903,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2461437_20101216_bb0b59a75e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

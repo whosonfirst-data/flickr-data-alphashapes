@@ -1,0 +1,15 @@
+{
+  "id": 2450699,
+  "type": "Feature",
+  "properties": {
+    "name":"Midway, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2450699,
+    "woe:name":"Midway, South Carolina, United States",
+    "woe:place_id":"nzyuUwqbBZkrM1uu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.658699,33.527477,-80.639732,33.539104],
+  "geometry": {"alpha":0.00015,"bbox":[-80.658699035645,33.527477264404,-80.63973236084,33.53910446167],"coordinates":[[[[-80.647285,33.537067],[-80.639732,33.539104],[-80.645119,33.535252],[-80.652351,33.527477],[-80.658699,33.538246],[-80.647285,33.537067]]]],"created":1292545224,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2450699_20101217_dc18e3601a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

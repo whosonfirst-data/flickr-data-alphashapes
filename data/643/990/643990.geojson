@@ -1,0 +1,15 @@
+{
+  "id": 643990,
+  "type": "Feature",
+  "properties": {
+    "name":"Deggingen, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":643990,
+    "woe:name":"Deggingen, Baden-Wurttemberg, Germany",
+    "woe:place_id":"7KA6VmefBZ_BVNs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.708395,48.598209,9.714832,48.617134],
+  "geometry": {"alpha":0.00015,"bbox":[9.7083950042725,48.598209381104,9.7148323059082,48.617134094238],"coordinates":[[[[9.708395,48.614216],[9.708931,48.616997],[9.713115,48.617134],[9.714832,48.608055],[9.713265,48.598209],[9.708395,48.614216]]]],"created":1292455967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/643990_20101215_305a4e2e1e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

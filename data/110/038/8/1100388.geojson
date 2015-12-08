@@ -1,0 +1,15 @@
+{
+  "id": 1100388,
+  "type": "Feature",
+  "properties": {
+    "name":"Birdsville, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100388,
+    "woe:name":"Birdsville, Queensland, Australia",
+    "woe:place_id":"B0dU.c2YAJxVr.Sf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [139.348694,-25.9032,139.364319,-25.893356],
+  "geometry": {"alpha":0.00015,"bbox":[139.34869384766,-25.903200149536,139.36431884766,-25.893356323242],"coordinates":[[[[139.34906,-25.897469],[139.348694,-25.893356],[139.352127,-25.895983],[139.364319,-25.898453],[139.350006,-25.9032],[139.350006,-25.903099],[139.34906,-25.897469]]]],"created":1292550286,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/1100388_20101217_8149bf41d2.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

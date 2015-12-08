@@ -1,0 +1,15 @@
+{
+  "id": 2359871,
+  "type": "Feature",
+  "properties": {
+    "name":"Bassett Forks, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2359871,
+    "woe:name":"Bassett Forks, Virginia, United States",
+    "woe:place_id":"umNOwASbAplgbtmz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.946671,36.730553,-79.922653,36.739651],
+  "geometry": {"alpha":0.00015,"bbox":[-79.946670532227,36.73055267334,-79.922653198242,36.739650726318],"coordinates":[[[[-79.931374,36.739651],[-79.922653,36.730553],[-79.939209,36.731552],[-79.946671,36.734833],[-79.946503,36.734833],[-79.931374,36.739651]]]],"created":1292444523,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2359871_20101215_dd001c12a7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

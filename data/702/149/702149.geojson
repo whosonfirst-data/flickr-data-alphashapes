@@ -1,0 +1,15 @@
+{
+  "id": 702149,
+  "type": "Feature",
+  "properties": {
+    "name":"Velpe, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":702149,
+    "woe:name":"Velpe, North Rhine-Westphalia, Germany",
+    "woe:place_id":"12kBYDCeAZ4UztY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.885141,52.244446,7.885252,52.245007],
+  "geometry": {"alpha":0.00015,"bbox":[7.8851408958435,52.244445800781,7.8852519989014,52.245006561279],"coordinates":[[[[7.885141,52.244461],[7.885141,52.245007],[7.885205,52.244713],[7.885252,52.244461],[7.885202,52.244446],[7.885141,52.244461]]]],"created":1292409724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/702149_20101215_4b3c818093.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

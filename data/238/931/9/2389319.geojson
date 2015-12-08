@@ -1,0 +1,15 @@
+{
+  "id": 2389319,
+  "type": "Feature",
+  "properties": {
+    "name":"Danville, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2389319,
+    "woe:name":"Danville, Maine, United States",
+    "woe:place_id":"O6vzejubApRaDgRD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.272484,44.012665,-70.247581,44.03513],
+  "geometry": {"alpha":0.00015,"bbox":[-70.272483825684,44.012664794922,-70.247581481934,44.035129547119],"coordinates":[[[[-70.267784,44.03513],[-70.247581,44.030838],[-70.265907,44.021973],[-70.266792,44.012665],[-70.272484,44.02692],[-70.267906,44.035095],[-70.267784,44.03513]]]],"created":1292542207,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2389319_20101216_5894653330.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

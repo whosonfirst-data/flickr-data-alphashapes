@@ -1,0 +1,15 @@
+{
+  "id": 2498299,
+  "type": "Feature",
+  "properties": {
+    "name":"Springfield, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2498299,
+    "woe:name":"Springfield, Virginia, United States",
+    "woe:place_id":"LraeNKqbBZXc6u60",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.644821,37.259914,-76.627235,37.28252],
+  "geometry": {"alpha":0.00015,"bbox":[-76.644821166992,37.259914398193,-76.627235412598,37.282520294189],"coordinates":[[[[-76.644173,37.259914],[-76.644661,37.260033],[-76.644821,37.260342],[-76.642944,37.261551],[-76.641228,37.28252],[-76.627235,37.281906],[-76.627693,37.281483],[-76.63118,37.265652],[-76.634186,37.262779],[-76.635742,37.26123],[-76.644173,37.259914]]]],"created":1248255125,"edges":11,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2607/shapefiles/2498299_20090722_41667ebb1b.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

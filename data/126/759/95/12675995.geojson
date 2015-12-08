@@ -1,0 +1,15 @@
+{
+  "id": 12675995,
+  "type": "Feature",
+  "properties": {
+    "name":"Casargo, Italy",
+    "placetype":"locality",
+    "woe:id":12675995,
+    "woe:name":"Casargo, Italy",
+    "woe:place_id":"r2HzGzOYA5o9oda89w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.400305,46.027885,9.409618,46.03511],
+  "geometry": {"alpha":1.5625e-05,"bbox":[9.4003047943115,46.027885437012,9.4096183776855,46.035110473633],"coordinates":[[[[9.405283,46.031818],[9.409618,46.03511],[9.409532,46.031921],[9.403738,46.027885],[9.400455,46.029716],[9.400305,46.030075],[9.405283,46.031818]]]],"created":1292534119,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12675995_20101216_06a1494bdc.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20110835,
+  "type": "Feature",
+  "properties": {
+    "name":"Barengo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20110835,
+    "woe:name":"Barengo, Piedmont, Italy",
+    "woe:place_id":"FXDrLZKbAZ159VbeSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.502988,45.567307,8.517109,45.579445],
+  "geometry": {"alpha":0.00015,"bbox":[8.5029878616333,45.567306518555,8.5171089172363,45.579444885254],"coordinates":[[[[8.517105,45.57497],[8.517109,45.574848],[8.516901,45.571327],[8.516292,45.570313],[8.502988,45.567307],[8.509254,45.574158],[8.512344,45.579445],[8.517105,45.57497]]]],"created":1292462282,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/20110835_20101216_ec7ddd168b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

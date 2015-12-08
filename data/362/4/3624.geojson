@@ -1,0 +1,15 @@
+{
+  "id": 3624,
+  "type": "Feature",
+  "properties": {
+    "name":"New Carlisle, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3624,
+    "woe:name":"New Carlisle, Quebec, Canada",
+    "woe:place_id":"FmUCQsKaB54E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.348709,48.002499,-65.323975,48.015648],
+  "geometry": {"alpha":0.00015,"bbox":[-65.348709106445,48.002498626709,-65.323974609375,48.015647888184],"coordinates":[[[[-65.348709,48.004452],[-65.34462,48.006924],[-65.3405,48.008759],[-65.332947,48.015648],[-65.323975,48.010086],[-65.330368,48.002773],[-65.331917,48.002499],[-65.338249,48.003822],[-65.347366,48.002789],[-65.348709,48.004452]]]],"created":1292545072,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/3624_20101217_bf1b96460d.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

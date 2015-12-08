@@ -1,0 +1,15 @@
+{
+  "id": 2505940,
+  "type": "Feature",
+  "properties": {
+    "name":"Thornton, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2505940,
+    "woe:name":"Thornton, Washington, United States",
+    "woe:place_id":"XByB11WbBJyXNNyW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.379517,47.128548,-117.374237,47.138798],
+  "geometry": {"alpha":0.00015,"bbox":[-117.37951660156,47.128547668457,-117.37423706055,47.13879776001],"coordinates":[[[[-117.374237,47.138798],[-117.379303,47.128548],[-117.379517,47.12952],[-117.379326,47.133064],[-117.379387,47.133717],[-117.374237,47.138798]]]],"created":1292544644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2505940_20101217_360be01d3b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

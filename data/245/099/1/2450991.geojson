@@ -1,0 +1,15 @@
+{
+  "id": 2450991,
+  "type": "Feature",
+  "properties": {
+    "name":"Milford Junction, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2450991,
+    "woe:name":"Milford Junction, Indiana, United States",
+    "woe:place_id":"px1YXTGbBZkmzVxb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.845749,41.428925,-85.845238,41.42923],
+  "geometry": {"alpha":0.00015,"bbox":[-85.845748901367,41.428924560547,-85.845237731934,41.429229736328],"coordinates":[[[[-85.845238,41.42902],[-85.845276,41.428989],[-85.845749,41.428925],[-85.845512,41.429115],[-85.845276,41.42923],[-85.845238,41.42902]]]],"created":1292454423,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2450991_20101215_569c61c115.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

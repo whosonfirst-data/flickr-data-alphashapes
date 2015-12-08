@@ -1,0 +1,15 @@
+{
+  "id": 686,
+  "type": "Feature",
+  "properties": {
+    "name":"Homeville, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":686,
+    "woe:name":"Homeville, Nova Scotia, Canada",
+    "woe:place_id":"WB8J7T6fCZo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.886475,46.107159,-59.877892,46.116322],
+  "geometry": {"alpha":0.00015,"bbox":[-59.886474609375,46.107158660889,-59.877891540527,46.116321563721],"coordinates":[[[[-59.877892,46.107754],[-59.879349,46.107159],[-59.886475,46.114479],[-59.885273,46.116322],[-59.878384,46.108105],[-59.877892,46.107754]]]],"created":1292401441,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/686_20101215_3c42961dc4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

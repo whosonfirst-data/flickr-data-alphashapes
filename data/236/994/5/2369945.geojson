@@ -1,0 +1,15 @@
+{
+  "id": 2369945,
+  "type": "Feature",
+  "properties": {
+    "name":"Brooklyn, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2369945,
+    "woe:name":"Brooklyn, Mississippi, United States",
+    "woe:place_id":"MHWBe6ebApov4n5j",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.202286,31.050728,-89.185081,31.058521],
+  "geometry": {"alpha":0.00015,"bbox":[-89.202285766602,31.050727844238,-89.185081481934,31.058521270752],"coordinates":[[[[-89.187523,31.058521],[-89.185081,31.057161],[-89.191689,31.052822],[-89.202286,31.050728],[-89.199028,31.052786],[-89.190819,31.055645],[-89.187523,31.058521]]]],"created":1292528431,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2369945_20101216_40e264a7dd.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

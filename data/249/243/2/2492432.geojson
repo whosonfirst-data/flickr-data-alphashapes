@@ -1,0 +1,15 @@
+{
+  "id": 2492432,
+  "type": "Feature",
+  "properties": {
+    "name":"Sheridan Square, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2492432,
+    "woe:name":"Sheridan Square, Delaware, United States",
+    "woe:place_id":"IIiq9bibBZXUqwY3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.660568,39.722702,-75.65477,39.725441],
+  "geometry": {"alpha":0.00015,"bbox":[-75.660568237305,39.722702026367,-75.654769897461,39.725440979004],"coordinates":[[[[-75.660568,39.722702],[-75.659187,39.72438],[-75.65477,39.725441],[-75.659752,39.7229],[-75.660568,39.722702]]]],"created":1234550883,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3334/shapefiles/2492432_20090213_3c3087bb37.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

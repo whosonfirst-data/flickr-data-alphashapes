@@ -1,0 +1,15 @@
+{
+  "id": 23392529,
+  "type": "Feature",
+  "properties": {
+    "name":"Ammon, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23392529,
+    "woe:name":"Ammon, New Brunswick, Canada",
+    "woe:place_id":"E5u1wZabAp.5y5CO3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.848015,46.15416,-64.83474,46.173115],
+  "geometry": {"alpha":0.00015,"bbox":[-64.848014831543,46.154159545898,-64.834739685059,46.173114776611],"coordinates":[[[[-64.847954,46.165436],[-64.847931,46.165443],[-64.83474,46.173115],[-64.83902,46.15416],[-64.848015,46.165379],[-64.847954,46.165436]]]],"created":1292540017,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/23392529_20101216_d14856deae.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

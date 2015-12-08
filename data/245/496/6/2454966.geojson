@@ -1,0 +1,15 @@
+{
+  "id": 2454966,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Hebron, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2454966,
+    "woe:name":"Mount Hebron, Maryland, United States",
+    "woe:place_id":"PZN3dUObBZnk13Db",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.834,39.304417,-76.825165,39.310333],
+  "geometry": {"alpha":0.00015,"bbox":[-76.833999633789,39.304416656494,-76.825164794922,39.310333251953],"coordinates":[[[[-76.832024,39.304417],[-76.834,39.305531],[-76.825165,39.310333],[-76.826126,39.307175],[-76.82933,39.305668],[-76.832024,39.304417]]]],"created":1292444946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2454966_20101215_dfc231b1c3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

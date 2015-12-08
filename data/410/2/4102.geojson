@@ -1,0 +1,15 @@
+{
+  "id": 4102,
+  "type": "Feature",
+  "properties": {
+    "name":"Baldwin, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4102,
+    "woe:name":"Baldwin, Ontario, Canada",
+    "woe:place_id":"1C3M_hudAJxe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.344681,44.221889,-79.332939,44.268188],
+  "geometry": {"alpha":0.00015,"bbox":[-79.344680786133,44.22188949585,-79.332939147949,44.268188476562],"coordinates":[[[[-79.339226,44.244644],[-79.332939,44.22213],[-79.337593,44.221889],[-79.342232,44.244953],[-79.344681,44.262089],[-79.343605,44.268188],[-79.337921,44.262535],[-79.338882,44.246914],[-79.339226,44.244644]]]],"created":1292544066,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/4102_20101217_b63e915cb0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

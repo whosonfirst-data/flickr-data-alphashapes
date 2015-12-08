@@ -1,0 +1,15 @@
+{
+  "id": 658723,
+  "type": "Feature",
+  "properties": {
+    "name":"Heinsburg, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":658723,
+    "woe:name":"Heinsburg, North Rhine-Westphalia, Germany",
+    "woe:place_id":"hgJ2pI6fBJS2mTU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.08488,51.061195,6.095931,51.069706],
+  "geometry": {"alpha":0.00015,"bbox":[6.0848798751831,51.061195373535,6.0959310531616,51.069705963135],"coordinates":[[[[6.095931,51.065739],[6.093978,51.061195],[6.09209,51.061195],[6.08488,51.061951],[6.086758,51.069706],[6.095931,51.065739]]]],"created":1292537462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/658723_20101216_3c5c2e6160.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

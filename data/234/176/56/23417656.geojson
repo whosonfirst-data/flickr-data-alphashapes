@@ -1,0 +1,15 @@
+{
+  "id": 23417656,
+  "type": "Feature",
+  "properties": {
+    "name":"West Havre, Montana, United States",
+    "placetype":"locality",
+    "woe:id":23417656,
+    "woe:name":"West Havre, Montana, United States",
+    "woe:place_id":"zEHNtkibApgiDNtv_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.721191,48.540848,-109.707367,48.560646],
+  "geometry": {"alpha":0.00015,"bbox":[-109.72119140625,48.54084777832,-109.70736694336,48.560646057129],"coordinates":[[[[-109.714966,48.560646],[-109.708092,48.555668],[-109.707367,48.54454],[-109.721191,48.540848],[-109.715302,48.559155],[-109.714966,48.560646]]]],"created":1292527794,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/23417656_20101216_e0b1609b9a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

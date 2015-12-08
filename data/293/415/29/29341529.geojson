@@ -1,0 +1,15 @@
+{
+  "id": 29341529,
+  "type": "Feature",
+  "properties": {
+    "name":"Fornare, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":29341529,
+    "woe:name":"Fornare, Veneto, Italy",
+    "woe:place_id":"z5ukcPqbCJ.9KwNN4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.69416,45.617638,10.698752,45.624481],
+  "geometry": {"alpha":0.00015,"bbox":[10.694160461426,45.617637634277,10.698752403259,45.624481201172],"coordinates":[[[[10.69416,45.624481],[10.697003,45.623501],[10.698752,45.620701],[10.696177,45.617638],[10.694546,45.619499],[10.694503,45.622681],[10.69416,45.624481]]]],"created":1292514965,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/29341529_20101216_55ce456418.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

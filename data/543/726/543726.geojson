@@ -1,0 +1,15 @@
+{
+  "id": 543726,
+  "type": "Feature",
+  "properties": {
+    "name":"Schleinbach, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543726,
+    "woe:name":"Schleinbach, Lower Austria, Austria",
+    "woe:place_id":"8P08qqqcBZ9EUn4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.461554,48.414307,16.487303,48.431278],
+  "geometry": {"alpha":0.00015,"bbox":[16.461553573608,48.414306640625,16.487302780151,48.43127822876],"coordinates":[[[[16.474686,48.420002],[16.487303,48.427719],[16.47975,48.41946],[16.476015,48.414307],[16.466703,48.414902],[16.461554,48.431278],[16.474686,48.420002]]]],"created":1292529709,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/543726_20101216_da4cccbfd7.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

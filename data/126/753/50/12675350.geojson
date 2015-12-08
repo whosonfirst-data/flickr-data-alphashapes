@@ -1,0 +1,15 @@
+{
+  "id": 12675350,
+  "type": "Feature",
+  "properties": {
+    "name":"Aschau im Zillertal, Austria",
+    "placetype":"locality",
+    "woe:id":12675350,
+    "woe:name":"Aschau im Zillertal, Austria",
+    "woe:place_id":"weiw51iYA5r5NbvaYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.861593,47.258724,11.86409,47.267586],
+  "geometry": {"alpha":1e-05,"bbox":[11.86159324646,47.258724212646,11.86408996582,47.267585754395],"coordinates":[[[[11.863466,47.264511],[11.86409,47.258724],[11.86345,47.264511],[11.861593,47.267586],[11.862812,47.26733],[11.863466,47.264511]]]],"created":1292461562,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12675350_20101216_df244dffca.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

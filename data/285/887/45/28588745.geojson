@@ -1,0 +1,15 @@
+{
+  "id": 28588745,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirton Point, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":28588745,
+    "woe:name":"Kirton Point, South Australia, Australia",
+    "woe:place_id":"AQNLpYybCZk8sfJpIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [135.871002,-34.747326,135.882324,-34.730328],
+  "geometry": {"alpha":0.00015,"bbox":[135.87100219727,-34.747325897217,135.88232421875,-34.730327606201],"coordinates":[[[[135.871002,-34.747326],[135.871002,-34.745705],[135.873215,-34.740574],[135.87616,-34.730328],[135.882324,-34.731766],[135.876846,-34.745846],[135.871002,-34.747326]]]],"created":1292514544,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/28588745_20101216_80994e026b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

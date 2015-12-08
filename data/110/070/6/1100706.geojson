@@ -1,0 +1,15 @@
+{
+  "id": 1100706,
+  "type": "Feature",
+  "properties": {
+    "name":"Bruce Rock, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1100706,
+    "woe:name":"Bruce Rock, Western Australia, Australia",
+    "woe:place_id":"Z.GcdeKYAJxh65Fv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [118.138046,-31.883001,118.155396,-31.87406],
+  "geometry": {"alpha":0.00015,"bbox":[118.13804626465,-31.883001327515,118.15539550781,-31.874059677124],"coordinates":[[[[118.143883,-31.880529],[118.138092,-31.881411],[118.138046,-31.87406],[118.148827,-31.875587],[118.155396,-31.883001],[118.148827,-31.881945],[118.143883,-31.880529]]]],"created":1292451401,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/1100706_20101215_30f5aa4a2c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

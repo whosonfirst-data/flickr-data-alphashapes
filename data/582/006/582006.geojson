@@ -1,0 +1,15 @@
+{
+  "id": 582006,
+  "type": "Feature",
+  "properties": {
+    "name":"Briollay, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":582006,
+    "woe:name":"Briollay, Pays de la Loire, France",
+    "woe:place_id":"1N61gAGcCZ74miA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.512237,47.557762,-0.501122,47.571285],
+  "geometry": {"alpha":0.00015,"bbox":[-0.51223701238632,47.557762145996,-0.50112199783325,47.571285247803],"coordinates":[[[[-0.50683,47.571285],[-0.503654,47.570271],[-0.501122,47.557762],[-0.506486,47.567131],[-0.512237,47.569607],[-0.50683,47.571285]]]],"created":1292453513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/582006_20101215_7c73606c82.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

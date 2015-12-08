@@ -1,0 +1,15 @@
+{
+  "id": 2366201,
+  "type": "Feature",
+  "properties": {
+    "name":"Bobtown, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2366201,
+    "woe:name":"Bobtown, Virginia, United States",
+    "woe:place_id":"aUQKLeKbAprdhTm0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.796455,37.662792,-75.783951,37.668568],
+  "geometry": {"alpha":0.00015,"bbox":[-75.796455383301,37.662792205811,-75.783950805664,37.668567657471],"coordinates":[[[[-75.78923,37.663353],[-75.794655,37.662792],[-75.794975,37.663048],[-75.796455,37.668568],[-75.783951,37.663528],[-75.78923,37.663353]]]],"created":1292454152,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2366201_20101215_d389e9f81f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

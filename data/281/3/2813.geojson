@@ -1,0 +1,15 @@
+{
+  "id": 2813,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Creek, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2813,
+    "woe:name":"Maple Creek, Saskatchewan, Canada",
+    "woe:place_id":"cVZX_rubCZ0G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.488976,49.899609,-109.470177,49.911659],
+  "geometry": {"alpha":0.00015,"bbox":[-109.4889755249,49.899608612061,-109.47017669678,49.911659240723],"coordinates":[[[[-109.478584,49.910141],[-109.470177,49.911659],[-109.471893,49.904751],[-109.486656,49.899609],[-109.488976,49.911442],[-109.487686,49.911549],[-109.478584,49.910141]]]],"created":1292541765,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2813_20101216_c1704380c4.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

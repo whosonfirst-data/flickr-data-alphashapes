@@ -1,0 +1,15 @@
+{
+  "id": 702020,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":702020,
+    "woe:name":"Valley, Bavaria, Germany",
+    "woe:place_id":"lWveE1aeAZ5FVy0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.769436,47.884834,11.781291,47.897469],
+  "geometry": {"alpha":0.00015,"bbox":[11.769435882568,47.884834289551,11.781291007996,47.897468566895],"coordinates":[[[[11.772966,47.891342],[11.781291,47.897469],[11.775166,47.884834],[11.774166,47.886002],[11.769436,47.8895],[11.772966,47.891342]]]],"created":1292458483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/702020_20101216_1a83063837.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

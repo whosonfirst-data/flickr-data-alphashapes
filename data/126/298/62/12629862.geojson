@@ -1,0 +1,15 @@
+{
+  "id": 12629862,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Cloppenburg, Germany",
+    "placetype":"locality",
+    "woe:id":12629862,
+    "woe:name":"Gemeinde Cloppenburg, Germany",
+    "woe:place_id":"qTesh36YA5rvqp0R6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.005599,52.838745,8.005772,52.838791],
+  "geometry": {"alpha":1e-05,"bbox":[8.0055990219116,52.838745117188,8.0057716369629,52.838790893555],"coordinates":[[[[8.005727,52.838745],[8.005599,52.838772],[8.005727,52.838791],[8.005772,52.838745],[8.00575,52.838745],[8.005727,52.838745]]]],"created":1292535020,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12629862_20101216_0de64605cf.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

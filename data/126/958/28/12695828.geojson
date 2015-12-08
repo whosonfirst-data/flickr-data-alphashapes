@@ -1,0 +1,15 @@
+{
+  "id": 12695828,
+  "type": "Feature",
+  "properties": {
+    "name":"London Borough of Greenwich, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12695828,
+    "woe:name":"London Borough of Greenwich, United Kingdom",
+    "woe:place_id":"H5FlMtyYA5p0aMaSCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.002585,51.499962,0.006608,51.501831],
+  "geometry": {"alpha":1e-05,"bbox":[0.0025849998928607,51.499961853027,0.0066080000251532,51.501831054688],"coordinates":[[[[0.003465,51.501831],[0.006608,51.500568],[0.004463,51.50071],[0.003486,51.500271],[0.002585,51.499962],[0.003465,51.501831]]]],"created":1239500171,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3340/shapefiles/12695828_20090412_811d8d8801.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

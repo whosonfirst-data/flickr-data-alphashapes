@@ -1,0 +1,15 @@
+{
+  "id": 2499702,
+  "type": "Feature",
+  "properties": {
+    "name":"Steuben, New York, United States",
+    "placetype":"locality",
+    "woe:id":2499702,
+    "woe:name":"Steuben, New York, United States",
+    "woe:place_id":"9bLgx9mbBZVUsvKR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.273354,43.323944,-75.270988,43.334385],
+  "geometry": {"alpha":0.00015,"bbox":[-75.27335357666,43.323944091797,-75.270988464355,43.334384918213],"coordinates":[[[[-75.273354,43.323944],[-75.273323,43.334385],[-75.272255,43.331383],[-75.271667,43.329773],[-75.270988,43.328411],[-75.273354,43.323944]]]],"created":1292454680,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2499702_20101215_3d0398af27.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

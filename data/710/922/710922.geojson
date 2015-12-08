@@ -1,0 +1,15 @@
+{
+  "id": 710922,
+  "type": "Feature",
+  "properties": {
+    "name":"Bertonico, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710922,
+    "woe:name":"Bertonico, Lombardy, Italy",
+    "woe:place_id":"FD71m8OeAJyDs2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.645652,45.229267,9.672775,45.241657],
+  "geometry": {"alpha":0.00015,"bbox":[9.6456518173218,45.229267120361,9.6727752685547,45.24165725708],"coordinates":[[[[9.661445,45.241657],[9.672775,45.235973],[9.666788,45.233227],[9.647026,45.229267],[9.645652,45.235493],[9.661445,45.241657]]]],"created":1292439754,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/710922_20101215_86937843b4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

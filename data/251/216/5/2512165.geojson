@@ -1,0 +1,15 @@
+{
+  "id": 2512165,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2512165,
+    "woe:name":"Vienna, New Jersey, United States",
+    "woe:place_id":"xPaCqQCbBJ2EesT2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.904251,40.85574,-74.883652,40.872684],
+  "geometry": {"alpha":0.00015,"bbox":[-74.904251098633,40.855739593506,-74.883651733398,40.87268447876],"coordinates":[[[[-74.896805,40.872684],[-74.895775,40.871727],[-74.883652,40.85574],[-74.904251,40.865616],[-74.902168,40.871166],[-74.899529,40.872017],[-74.896805,40.872684]]]],"created":1292528772,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2512165_20101216_ba8dbbdb65.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

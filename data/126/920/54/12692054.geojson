@@ -1,0 +1,15 @@
+{
+  "id": 12692054,
+  "type": "Feature",
+  "properties": {
+    "name":"Paredes de Nava, Spain",
+    "placetype":"locality",
+    "woe:id":12692054,
+    "woe:name":"Paredes de Nava, Spain",
+    "woe:place_id":"MNy083SYA5o2NjMcdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.693973,42.152744,-4.691462,42.155682],
+  "geometry": {"alpha":1e-05,"bbox":[-4.6939730644226,42.152744293213,-4.6914620399475,42.155681610107],"coordinates":[[[[-4.692846,42.155682],[-4.691462,42.155308],[-4.691601,42.154209],[-4.69349,42.152744],[-4.693973,42.153812],[-4.692846,42.155682]]]],"created":1292471222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12692054_20101216_03fc471ddd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

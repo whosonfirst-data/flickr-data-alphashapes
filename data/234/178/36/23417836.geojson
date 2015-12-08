@@ -1,0 +1,15 @@
+{
+  "id": 23417836,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemby Bridge, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":23417836,
+    "woe:name":"Hemby Bridge, North Carolina, United States",
+    "woe:place_id":"5JPSet6bApjMQJcO5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.637398,35.096851,-80.620277,35.122883],
+  "geometry": {"alpha":0.00015,"bbox":[-80.637397766113,35.096851348877,-80.620277404785,35.122882843018],"coordinates":[[[[-80.620277,35.105511],[-80.620689,35.099369],[-80.632309,35.096851],[-80.620483,35.105289],[-80.637398,35.122883],[-80.620277,35.105511]]]],"created":1248244221,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3445/shapefiles/23417836_20090722_f3673c1c90.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

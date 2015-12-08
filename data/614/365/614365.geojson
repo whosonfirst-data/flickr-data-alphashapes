@@ -1,0 +1,15 @@
+{
+  "id": 614365,
+  "type": "Feature",
+  "properties": {
+    "name":"Noailles, Picardie, France",
+    "placetype":"locality",
+    "woe:id":614365,
+    "woe:name":"Noailles, Picardie, France",
+    "woe:place_id":"jEyY8hefAJjjaUk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.19557,49.326767,2.200355,49.331276],
+  "geometry": {"alpha":0.00015,"bbox":[2.1955699920654,49.326766967773,2.200355052948,49.331275939941],"coordinates":[[[[2.199153,49.331276],[2.199497,49.331276],[2.200012,49.330322],[2.200355,49.327641],[2.197974,49.326767],[2.19557,49.327877],[2.199153,49.331276]]]],"created":1292523919,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/614365_20101216_b33f00792e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

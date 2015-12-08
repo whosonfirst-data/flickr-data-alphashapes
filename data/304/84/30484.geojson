@@ -1,0 +1,15 @@
+{
+  "id": 30484,
+  "type": "Feature",
+  "properties": {
+    "name":"North Hinksey, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30484,
+    "woe:name":"North Hinksey, England, United Kingdom",
+    "woe:place_id":"0ZuoiiKaAZgytQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.297416,51.727333,-1.284552,51.753124],
+  "geometry": {"alpha":0.00015,"bbox":[-1.297415971756,51.727333068848,-1.2845519781113,51.753124237061],"coordinates":[[[[-1.2882,51.753124],[-1.284552,51.74535],[-1.295192,51.727333],[-1.297416,51.74659],[-1.290893,51.749989],[-1.2882,51.753124]]]],"created":1292446822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/30484_20101215_fb3d1ddb53.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

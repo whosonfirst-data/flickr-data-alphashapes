@@ -1,0 +1,15 @@
+{
+  "id": 2431070,
+  "type": "Feature",
+  "properties": {
+    "name":"Keeney Corner, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2431070,
+    "woe:name":"Keeney Corner, Missouri, United States",
+    "woe:place_id":"0dowF5qbBZ9prtPz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.909119,37.052162,-90.902939,37.056412],
+  "geometry": {"alpha":0.00015,"bbox":[-90.909118652344,37.05216217041,-90.902938842773,37.056411743164],"coordinates":[[[[-90.90345,37.056412],[-90.903198,37.056374],[-90.902939,37.056206],[-90.906143,37.052925],[-90.909119,37.052162],[-90.90345,37.056412]]]],"created":1292444822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2431070_20101215_6a51d6d4ed.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

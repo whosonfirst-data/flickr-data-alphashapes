@@ -1,0 +1,15 @@
+{
+  "id": 12634720,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wildsteig, Germany",
+    "placetype":"locality",
+    "woe:id":12634720,
+    "woe:name":"Gemeinde Wildsteig, Germany",
+    "woe:place_id":"Z5TnJQCYA5pmttSkVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.984198,47.661781,10.988388,47.666489],
+  "geometry": {"alpha":1e-05,"bbox":[10.984197616577,47.661781311035,10.988388061523,47.666488647461],"coordinates":[[[[10.988169,47.666489],[10.988388,47.66209],[10.986313,47.661781],[10.984198,47.66325],[10.988169,47.666489]]]],"created":1248124332,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2492/shapefiles/12634720_20090720_314cb9f87b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

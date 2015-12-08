@@ -1,0 +1,15 @@
+{
+  "id": 2373603,
+  "type": "Feature",
+  "properties": {
+    "name":"Camden, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2373603,
+    "woe:name":"Camden, Indiana, United States",
+    "woe:place_id":"CONUB6.bApvlhFOT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.5448,40.596294,-86.523857,40.611004],
+  "geometry": {"alpha":0.00015,"bbox":[-86.544799804688,40.596294403076,-86.523857116699,40.611003875732],"coordinates":[[[[-86.537506,40.611004],[-86.535461,40.608479],[-86.523857,40.596294],[-86.543648,40.598057],[-86.5448,40.598965],[-86.540993,40.608715],[-86.539131,40.610367],[-86.537506,40.611004]]]],"created":1292535906,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2373603_20101216_145fa84faa.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

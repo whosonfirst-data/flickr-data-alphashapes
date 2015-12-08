@@ -1,0 +1,15 @@
+{
+  "id": 672467,
+  "type": "Feature",
+  "properties": {
+    "name":"Lohen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":672467,
+    "woe:name":"Lohen, Bavaria, Germany",
+    "woe:place_id":"wIPlKhafBp7LQdc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.123902,47.918362,12.1241,47.918556],
+  "geometry": {"alpha":0.00015,"bbox":[12.123902320862,47.918361663818,12.124099731445,47.918556213379],"coordinates":[[[[12.124088,47.918362],[12.123902,47.918537],[12.1241,47.918556],[12.1241,47.918365],[12.124091,47.918362],[12.124088,47.918362]]]],"created":1292532866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/672467_20101216_058cf6b971.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

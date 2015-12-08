@@ -1,0 +1,15 @@
+{
+  "id": 12623285,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ilsfeld, Germany",
+    "placetype":"locality",
+    "woe:id":12623285,
+    "woe:name":"Gemeinde Ilsfeld, Germany",
+    "woe:place_id":"3yyYxBmYA5riYAoADA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.260333,49.042168,9.263805,49.045296],
+  "geometry": {"alpha":1e-05,"bbox":[9.2603330612183,49.042167663574,9.2638053894043,49.045295715332],"coordinates":[[[[9.263362,49.045296],[9.263805,49.04398],[9.260333,49.042168],[9.262978,49.045181],[9.263362,49.045296]]]],"created":1292527032,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12623285_20101216_fa70b91064.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

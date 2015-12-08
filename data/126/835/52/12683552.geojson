@@ -1,0 +1,15 @@
+{
+  "id": 12683552,
+  "type": "Feature",
+  "properties": {
+    "name":"Givrins, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683552,
+    "woe:name":"Givrins, Switzerland",
+    "woe:place_id":"GohqQOuYA5qfqwF54g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.195902,46.426971,6.203327,46.433983],
+  "geometry": {"alpha":1e-05,"bbox":[6.1959018707275,46.426971435547,6.2033271789551,46.433982849121],"coordinates":[[[[6.202039,46.429367],[6.203327,46.426971],[6.200838,46.428261],[6.195902,46.430698],[6.196632,46.433983],[6.19749,46.433537],[6.202039,46.429367]]]],"created":1292534168,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12683552_20101216_cd7063d211.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

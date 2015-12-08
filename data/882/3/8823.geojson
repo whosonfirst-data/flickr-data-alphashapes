@@ -1,0 +1,15 @@
+{
+  "id": 8823,
+  "type": "Feature",
+  "properties": {
+    "name":"Skiff, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8823,
+    "woe:name":"Skiff, Alberta, Canada",
+    "woe:place_id":"JPAppTGRCZ52",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.798416,49.494194,-111.773529,49.524193],
+  "geometry": {"alpha":0.00015,"bbox":[-111.7984161377,49.494194030762,-111.77352905273,49.524192810059],"coordinates":[[[[-111.785629,49.504673],[-111.773529,49.501801],[-111.789711,49.494194],[-111.791382,49.495865],[-111.791985,49.504059],[-111.798416,49.522644],[-111.7855,49.524193],[-111.785629,49.504673]]]],"created":1292548821,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/8823_20101217_a5c3063267.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

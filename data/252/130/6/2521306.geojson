@@ -1,0 +1,15 @@
+{
+  "id": 2521306,
+  "type": "Feature",
+  "properties": {
+    "name":"Willowville, California, United States",
+    "placetype":"locality",
+    "woe:id":2521306,
+    "woe:name":"Willowville, California, United States",
+    "woe:place_id":"35hAQ.abBJ5FAFYb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.189278,33.802666,-118.186607,33.808285],
+  "geometry": {"alpha":0.00015,"bbox":[-118.18927764893,33.802665710449,-118.18660736084,33.808284759521],"coordinates":[[[[-118.187805,33.808285],[-118.186607,33.808163],[-118.188828,33.803982],[-118.189278,33.802666],[-118.188515,33.805965],[-118.187805,33.808285]]]],"created":1292536282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2521306_20101216_23c9ef382f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

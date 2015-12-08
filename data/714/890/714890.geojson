@@ -1,0 +1,15 @@
+{
+  "id": 714890,
+  "type": "Feature",
+  "properties": {
+    "name":"Croveo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":714890,
+    "woe:name":"Croveo, Piedmont, Italy",
+    "woe:place_id":"z68MtHqeAJj_ptE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.298454,46.266911,8.32489,46.277683],
+  "geometry": {"alpha":0.00015,"bbox":[8.298454284668,46.266910552979,8.3248901367188,46.277683258057],"coordinates":[[[[8.305705,46.266911],[8.298454,46.269493],[8.301833,46.27179],[8.305664,46.277683],[8.32489,46.274834],[8.309612,46.268604],[8.305705,46.266911]]]],"created":1292516403,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/714890_20101216_d5f5708cbc.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

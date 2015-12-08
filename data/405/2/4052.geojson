@@ -1,0 +1,15 @@
+{
+  "id": 4052,
+  "type": "Feature",
+  "properties": {
+    "name":"Hensall, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4052,
+    "woe:name":"Hensall, Ontario, Canada",
+    "woe:place_id":"2NdbPjWdAZld",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.523621,43.411842,-81.502083,43.435284],
+  "geometry": {"alpha":0.00015,"bbox":[-81.523620605469,43.411842346191,-81.502082824707,43.435283660889],"coordinates":[[[[-81.502083,43.43417],[-81.508598,43.429298],[-81.518211,43.411842],[-81.523544,43.432072],[-81.523621,43.435284],[-81.508682,43.433537],[-81.502083,43.43417]]]],"created":1292551654,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/4052_20101217_470899c5c9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

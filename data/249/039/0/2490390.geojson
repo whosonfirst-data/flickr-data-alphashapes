@@ -1,0 +1,15 @@
+{
+  "id": 2490390,
+  "type": "Feature",
+  "properties": {
+    "name":"Seaview, New York, United States",
+    "placetype":"locality",
+    "woe:id":2490390,
+    "woe:name":"Seaview, New York, United States",
+    "woe:place_id":"0LspnCibBZWs1Bpm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.153061,40.644402,-73.147247,40.649597],
+  "geometry": {"alpha":0.00015,"bbox":[-73.153060913086,40.644401550293,-73.147247314453,40.649597167969],"coordinates":[[[[-73.150795,40.649231],[-73.148697,40.649166],[-73.147247,40.645828],[-73.14975,40.644402],[-73.153061,40.649597],[-73.150795,40.649231]]]],"created":1292501108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2490390_20101216_f58fd5b27a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2367088,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2367088,
+    "woe:name":"Boston, Kentucky, United States",
+    "woe:place_id":"k6KIM.GbApqOqKlI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.683556,37.784908,-85.662651,37.802814],
+  "geometry": {"alpha":0.00015,"bbox":[-85.683555603027,37.784908294678,-85.662651062012,37.802814483643],"coordinates":[[[[-85.67424,37.78791],[-85.674988,37.790516],[-85.683556,37.802814],[-85.66555,37.792828],[-85.662651,37.791672],[-85.670738,37.784908],[-85.67424,37.78791]]]],"created":1292534624,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2367088_20101216_03b5386db9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

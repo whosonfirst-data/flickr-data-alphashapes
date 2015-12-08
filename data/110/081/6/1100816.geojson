@@ -1,0 +1,15 @@
+{
+  "id": 1100816,
+  "type": "Feature",
+  "properties": {
+    "name":"Bunyip, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1100816,
+    "woe:name":"Bunyip, Victoria, Australia",
+    "woe:place_id":"JD.3VsWYAJwiaCfG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.718369,-38.102142,145.726608,-38.090324],
+  "geometry": {"alpha":0.00015,"bbox":[145.71836853027,-38.102142333984,145.72660827637,-38.090324401855],"coordinates":[[[[145.719498,-38.09853],[145.719009,-38.098083],[145.718948,-38.097298],[145.718369,-38.090324],[145.726608,-38.094307],[145.722488,-38.102142],[145.719498,-38.09853]]]],"created":1292529074,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/1100816_20101216_4f5bc9ae5a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

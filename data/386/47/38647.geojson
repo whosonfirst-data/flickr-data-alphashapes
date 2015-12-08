@@ -1,0 +1,15 @@
+{
+  "id": 38647,
+  "type": "Feature",
+  "properties": {
+    "name":"Upper Dicker, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":38647,
+    "woe:name":"Upper Dicker, England, United Kingdom",
+    "woe:place_id":"Ey_MFd6aCZp2xA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.208847,50.861309,0.218353,50.876122],
+  "geometry": {"alpha":0.00015,"bbox":[0.20884700119495,50.861309051514,0.21835300326347,50.876121520996],"coordinates":[[[[0.21183,50.86174],[0.208847,50.869389],[0.213375,50.876122],[0.218353,50.870979],[0.213289,50.861309],[0.212173,50.86158],[0.21183,50.86174]]]],"created":1292541854,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/38647_20101216_2211785091.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

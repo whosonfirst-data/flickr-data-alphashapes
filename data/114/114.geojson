@@ -1,0 +1,15 @@
+{
+  "id": 114,
+  "type": "Feature",
+  "properties": {
+    "name":"Bethany, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":114,
+    "woe:name":"Bethany, Ontario, Canada",
+    "woe:place_id":"F1W2MlWYAJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.592026,44.179356,-78.55883,44.223553],
+  "geometry": {"alpha":0.00015,"bbox":[-78.592025756836,44.179355621338,-78.55883026123,44.223552703857],"coordinates":[[[[-78.566109,44.182594],[-78.57795,44.203083],[-78.592026,44.218884],[-78.584343,44.220352],[-78.573936,44.223553],[-78.57795,44.203083],[-78.56057,44.19968],[-78.55883,44.195332],[-78.560829,44.186142],[-78.562759,44.181202],[-78.567513,44.179569],[-78.567955,44.179356],[-78.566109,44.182594]]]],"created":1292549352,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/114_20101217_83ca2470d7.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

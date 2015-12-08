@@ -1,0 +1,15 @@
+{
+  "id": 550230,
+  "type": "Feature",
+  "properties": {
+    "name":"Vorau, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550230,
+    "woe:name":"Vorau, Styria, Austria",
+    "woe:place_id":"X6OtRTicBJwequ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.884878,47.387005,15.888805,47.402161],
+  "geometry": {"alpha":0.00015,"bbox":[15.884878158569,47.387004852295,15.888805389404,47.402160644531],"coordinates":[[[[15.885565,47.401299],[15.884878,47.402161],[15.886659,47.402065],[15.888118,47.401543],[15.888805,47.4011],[15.887228,47.387005],[15.885565,47.401299]]]],"created":1292549567,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/550230_20101217_1c1883826b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

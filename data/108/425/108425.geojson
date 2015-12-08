@@ -1,0 +1,15 @@
+{
+  "id": 108425,
+  "type": "Feature",
+  "properties": {
+    "name":"Braco, Trelawny, Jamaica",
+    "placetype":"locality",
+    "woe:id":108425,
+    "woe:name":"Braco, Trelawny, Jamaica",
+    "woe:place_id":"htnv06GYAZTbHdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.507172,18.464628,-77.494896,18.478956],
+  "geometry": {"alpha":0.00015,"bbox":[-77.507171630859,18.464628219604,-77.494895935059,18.478956222534],"coordinates":[[[[-77.497902,18.478956],[-77.495239,18.477411],[-77.494896,18.473829],[-77.507172,18.464628],[-77.501678,18.477655],[-77.497902,18.478956]]]],"created":1234908497,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3582/shapefiles/108425_20090217_78fac17ef1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

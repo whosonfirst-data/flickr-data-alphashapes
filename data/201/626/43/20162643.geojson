@@ -1,0 +1,15 @@
+{
+  "id": 20162643,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwalbertal, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":20162643,
+    "woe:name":"Schwalbertal, Hesse, Germany",
+    "woe:place_id":"xNUQ81KbAZ3UD1HNig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.851818,51.207565,9.872962,51.215431],
+  "geometry": {"alpha":0.00015,"bbox":[9.8518180847168,51.207565307617,9.8729619979858,51.215431213379],"coordinates":[[[[9.871559,51.210217],[9.872962,51.209778],[9.87216,51.207565],[9.852514,51.209541],[9.851818,51.215431],[9.871559,51.210217]]]],"created":1292441672,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/20162643_20101215_abc9c08697.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

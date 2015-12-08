@@ -1,0 +1,15 @@
+{
+  "id": 1098254,
+  "type": "Feature",
+  "properties": {
+    "name":"Ravensbourne, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1098254,
+    "woe:name":"Ravensbourne, Queensland, Australia",
+    "woe:place_id":"0sou.NiYAZXaaO8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.18399,-27.378778,152.197205,-27.355417],
+  "geometry": {"alpha":0.00015,"bbox":[152.18399047852,-27.378778457642,152.19720458984,-27.355417251587],"coordinates":[[[[152.197205,-27.361095],[152.190857,-27.378778],[152.186569,-27.375502],[152.18399,-27.35713],[152.184082,-27.355417],[152.196823,-27.361151],[152.197205,-27.361095]]]],"created":1292541144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/1098254_20101216_8657151c1d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

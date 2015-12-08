@@ -1,0 +1,15 @@
+{
+  "id": 12678029,
+  "type": "Feature",
+  "properties": {
+    "name":"Montelupone, Italy",
+    "placetype":"locality",
+    "woe:id":12678029,
+    "woe:name":"Montelupone, Italy",
+    "woe:place_id":"RpJRmUaYA5qZuugWng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.567256,43.343384,13.569145,43.347527],
+  "geometry": {"alpha":1e-05,"bbox":[13.567255973816,43.343383789062,13.569145202637,43.347526550293],"coordinates":[[[[13.567256,43.343719],[13.567696,43.34531],[13.567943,43.347527],[13.569145,43.344906],[13.568458,43.343384],[13.567256,43.343719]]]],"created":1292543882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12678029_20101216_eb42f00172.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12623561,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Fischingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623561,
+    "woe:name":"Gemeinde Fischingen, Germany",
+    "woe:place_id":"W4UPNb6YA5rtMD753g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.601037,47.644833,7.602667,47.647579],
+  "geometry": {"alpha":1e-05,"bbox":[7.6010370254517,47.644832611084,7.6026668548584,47.647579193115],"coordinates":[[[[7.601037,47.647579],[7.601775,47.647072],[7.602667,47.644833],[7.601475,47.647167],[7.601037,47.647579]]]],"created":1292542633,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12623561_20101216_ec0f02c7a1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

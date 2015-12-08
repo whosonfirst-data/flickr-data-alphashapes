@@ -1,0 +1,15 @@
+{
+  "id": 15183,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":15183,
+    "woe:name":"Carlton, England, United Kingdom",
+    "woe:place_id":"hZHSpEKYBJ0g5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.40228,54.590031,-1.383976,54.596203],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4022799730301,54.590030670166,-1.383975982666,54.596202850342],"coordinates":[[[[-1.391315,54.596004],[-1.3905,54.595947],[-1.383976,54.596203],[-1.38782,54.590031],[-1.391487,54.591064],[-1.40228,54.591244],[-1.391315,54.596004]]]],"created":1292455569,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/15183_20101215_c0442411c6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

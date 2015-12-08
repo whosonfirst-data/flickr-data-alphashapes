@@ -1,0 +1,15 @@
+{
+  "id": 12666238,
+  "type": "Feature",
+  "properties": {
+    "name":"Margencel, France",
+    "placetype":"locality",
+    "woe:id":12666238,
+    "woe:name":"Margencel, France",
+    "woe:place_id":"R2QsrMKYA5pmYuUWHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.436652,46.334423,6.444082,46.338741],
+  "geometry": {"alpha":1e-05,"bbox":[6.4366521835327,46.334423065186,6.4440817832947,46.33874130249],"coordinates":[[[[6.444001,46.338741],[6.444066,46.33683],[6.444082,46.334484],[6.441507,46.334423],[6.436652,46.338104],[6.442371,46.336857],[6.444001,46.338741]]]],"created":1292451035,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12666238_20101215_93363738d2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

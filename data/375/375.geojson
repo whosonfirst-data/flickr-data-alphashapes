@@ -1,0 +1,15 @@
+{
+  "id": 375,
+  "type": "Feature",
+  "properties": {
+    "name":"Debec, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":375,
+    "woe:name":"Debec, New Brunswick, Canada",
+    "woe:place_id":"vphsCcSaBpk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.693558,46.057449,-67.688484,46.082977],
+  "geometry": {"alpha":0.00015,"bbox":[-67.693557739258,46.05744934082,-67.688484191895,46.082977294922],"coordinates":[[[[-67.688484,46.072128],[-67.690544,46.057449],[-67.689262,46.072739],[-67.693558,46.082977],[-67.692184,46.081844],[-67.688484,46.072128]]]],"created":1292542442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/375_20101216_ede12fa912.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

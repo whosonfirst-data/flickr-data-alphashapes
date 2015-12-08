@@ -1,0 +1,15 @@
+{
+  "id": 12632733,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schwalmtal, Germany",
+    "placetype":"locality",
+    "woe:id":12632733,
+    "woe:name":"Gemeinde Schwalmtal, Germany",
+    "woe:place_id":"UgRsjL6YA5p0nRGwEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.300013,50.684036,9.300841,50.684658],
+  "geometry": {"alpha":1e-05,"bbox":[9.300012588501,50.684036254883,9.3008413314819,50.684658050537],"coordinates":[[[[9.300052,50.684395],[9.300013,50.684479],[9.300152,50.684658],[9.300841,50.684036],[9.300113,50.684353],[9.300052,50.684395]]]],"created":1292441354,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12632733_20101215_7b876db46c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

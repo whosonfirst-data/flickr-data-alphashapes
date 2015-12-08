@@ -1,0 +1,15 @@
+{
+  "id": 2389524,
+  "type": "Feature",
+  "properties": {
+    "name":"Date City, California, United States",
+    "placetype":"locality",
+    "woe:id":2389524,
+    "woe:name":"Date City, California, United States",
+    "woe:place_id":"5WABjqObApRwJXUi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.289795,32.768456,-115.276604,32.774429],
+  "geometry": {"alpha":0.00015,"bbox":[-115.28979492188,32.768455505371,-115.27660369873,32.774429321289],"coordinates":[[[[-115.283142,32.774212],[-115.281769,32.774429],[-115.276604,32.768456],[-115.289795,32.773136],[-115.283142,32.774212]]]],"created":1292539241,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2389524_20101216_057285253e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

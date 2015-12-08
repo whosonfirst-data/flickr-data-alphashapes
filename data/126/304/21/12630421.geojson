@@ -1,0 +1,15 @@
+{
+  "id": 12630421,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ilsede, Germany",
+    "placetype":"locality",
+    "woe:id":12630421,
+    "woe:name":"Gemeinde Ilsede, Germany",
+    "woe:place_id":"8_Fjfn2YA5r3yI70HQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.213495,52.260769,10.216898,52.264481],
+  "geometry": {"alpha":1e-05,"bbox":[10.213495254517,52.260768890381,10.216897964478,52.26448059082],"coordinates":[[[[10.214762,52.260769],[10.213495,52.261452],[10.213894,52.264481],[10.216898,52.260906],[10.215783,52.260933],[10.214762,52.260769]]]],"created":1234552682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3312/shapefiles/12630421_20090213_c651690949.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

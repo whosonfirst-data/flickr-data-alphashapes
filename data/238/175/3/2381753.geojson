@@ -1,0 +1,15 @@
+{
+  "id": 2381753,
+  "type": "Feature",
+  "properties": {
+    "name":"Clinton, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2381753,
+    "woe:name":"Clinton, North Carolina, United States",
+    "woe:place_id":"pRUAZxSbApTYPNrR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.468719,35.79258,-80.463005,35.799229],
+  "geometry": {"alpha":0.00015,"bbox":[-80.468719482422,35.792579650879,-80.463005065918,35.799228668213],"coordinates":[[[[-80.468719,35.799122],[-80.468719,35.799229],[-80.465584,35.798882],[-80.463005,35.79258],[-80.467728,35.798286],[-80.468719,35.799122]]]],"created":1292539141,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2381753_20101216_11793ea0e1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

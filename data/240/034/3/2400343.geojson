@@ -1,0 +1,15 @@
+{
+  "id": 2400343,
+  "type": "Feature",
+  "properties": {
+    "name":"Estes, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2400343,
+    "woe:name":"Estes, Texas, United States",
+    "woe:place_id":"ftWLh.ybBZxtje3K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.101715,27.949926,-97.095779,27.970411],
+  "geometry": {"alpha":0.00015,"bbox":[-97.101715087891,27.949926376343,-97.095779418945,27.970411300659],"coordinates":[[[[-97.095779,27.949926],[-97.101387,27.950533],[-97.101715,27.970411],[-97.096481,27.964081],[-97.095779,27.949926]]]],"created":1239517931,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3369/shapefiles/2400343_20090412_58f6718ba1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

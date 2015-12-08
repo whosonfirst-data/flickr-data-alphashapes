@@ -1,0 +1,15 @@
+{
+  "id": 11573,
+  "type": "Feature",
+  "properties": {
+    "name":"Badluarach, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11573,
+    "woe:name":"Badluarach, Scotland, United Kingdom",
+    "woe:place_id":"ZeYB7IWYAJmhaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.39566,57.883648,-5.373687,57.896744],
+  "geometry": {"alpha":0.00015,"bbox":[-5.3956599235535,57.883647918701,-5.3736867904663,57.896743774414],"coordinates":[[[[-5.39566,57.883648],[-5.392742,57.896744],[-5.388793,57.895145],[-5.373687,57.891953],[-5.38227,57.885201],[-5.39566,57.883648]]]],"created":1292530405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/11573_20101216_f4931c1f14.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

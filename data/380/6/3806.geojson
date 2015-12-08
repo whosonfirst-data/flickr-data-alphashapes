@@ -1,0 +1,15 @@
+{
+  "id": 3806,
+  "type": "Feature",
+  "properties": {
+    "name":"Wentworth Centre, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":3806,
+    "woe:name":"Wentworth Centre, Nova Scotia, Canada",
+    "woe:place_id":"FvdhCf6aCZyB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.556423,45.671165,-63.554512,45.676292],
+  "geometry": {"alpha":0.00015,"bbox":[-63.556423187256,45.671165466309,-63.554512023926,45.676292419434],"coordinates":[[[[-63.554512,45.676029],[-63.554535,45.675961],[-63.556423,45.671165],[-63.554588,45.676292],[-63.554512,45.676029]]]],"created":1234506242,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3505/shapefiles/3806_20090213_808f7400e8.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

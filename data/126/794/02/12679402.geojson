@@ -1,0 +1,15 @@
+{
+  "id": 12679402,
+  "type": "Feature",
+  "properties": {
+    "name":"Perinaldo, Italy",
+    "placetype":"locality",
+    "woe:id":12679402,
+    "woe:name":"Perinaldo, Italy",
+    "woe:place_id":"1DJsB7CYA5rPIqW.AA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.648624,43.857304,7.6507,43.857841],
+  "geometry": {"alpha":1e-05,"bbox":[7.6486239433289,43.857303619385,7.6507000923157,43.857841491699],"coordinates":[[[[7.650577,43.857841],[7.6507,43.857475],[7.649885,43.857304],[7.648658,43.85754],[7.648624,43.857571],[7.649586,43.857719],[7.650577,43.857841]]]],"created":1292524914,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12679402_20101216_3c032f06d1.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

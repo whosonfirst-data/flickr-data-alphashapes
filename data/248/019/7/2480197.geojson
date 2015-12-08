@@ -1,0 +1,15 @@
+{
+  "id": 2480197,
+  "type": "Feature",
+  "properties": {
+    "name":"Reno, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2480197,
+    "woe:name":"Reno, Pennsylvania, United States",
+    "woe:place_id":"x8oT0nSbBZS.eqS_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.779671,41.416302,-79.771896,41.41737],
+  "geometry": {"alpha":0.00015,"bbox":[-79.779670715332,41.416301727295,-79.771896362305,41.417369842529],"coordinates":[[[[-79.778183,41.416988],[-79.774689,41.41737],[-79.771896,41.41692],[-79.775101,41.417046],[-79.779671,41.416302],[-79.778183,41.416988]]]],"created":1292543784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2480197_20101216_86a961baa7.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

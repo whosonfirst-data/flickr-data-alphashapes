@@ -1,0 +1,15 @@
+{
+  "id": 20108788,
+  "type": "Feature",
+  "properties": {
+    "name":"Serra, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20108788,
+    "woe:name":"Serra, Marche, Italy",
+    "woe:place_id":"gzGH0dWbAZ22aM5Tfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.746908,43.940327,12.747348,43.940605],
+  "geometry": {"alpha":0.00015,"bbox":[12.746908187866,43.940326690674,12.747347831726,43.940605163574],"coordinates":[[[[12.747026,43.940388],[12.746908,43.940563],[12.747048,43.940605],[12.747187,43.940502],[12.747348,43.940327],[12.747026,43.940388]]]],"created":1292449170,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/20108788_20101215_7e0a238d48.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

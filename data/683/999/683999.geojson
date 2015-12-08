@@ -1,0 +1,15 @@
+{
+  "id": 683999,
+  "type": "Feature",
+  "properties": {
+    "name":"Ottwangen, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":683999,
+    "woe:name":"Ottwangen, Baden-Wurttemberg, Germany",
+    "woe:place_id":"Oxbf_iufCZ.emm8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.711029,47.609512,7.747035,47.621902],
+  "geometry": {"alpha":0.00015,"bbox":[7.7110290527344,47.609512329102,7.7470350265503,47.62190246582],"coordinates":[[[[7.720639,47.612457],[7.711029,47.621902],[7.733001,47.620975],[7.747035,47.609512],[7.735233,47.613976],[7.720639,47.612457]]]],"created":1292447345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/683999_20101215_a52fb0b1ae.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

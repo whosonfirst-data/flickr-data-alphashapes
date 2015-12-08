@@ -1,0 +1,15 @@
+{
+  "id": 2422623,
+  "type": "Feature",
+  "properties": {
+    "name":"Hobart, New York, United States",
+    "placetype":"locality",
+    "woe:id":2422623,
+    "woe:name":"Hobart, New York, United States",
+    "woe:place_id":"ObyksqWbBZ7V5jup",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.675507,42.360828,-74.654503,42.37492],
+  "geometry": {"alpha":0.00015,"bbox":[-74.675506591797,42.360828399658,-74.654502868652,42.374919891357],"coordinates":[[[[-74.668968,42.371704],[-74.675507,42.37215],[-74.670982,42.373257],[-74.66745,42.37492],[-74.654503,42.360828],[-74.668968,42.371704]]]],"created":1292536976,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2422623_20101216_a39f484baa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

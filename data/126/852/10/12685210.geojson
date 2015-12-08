@@ -1,0 +1,15 @@
+{
+  "id": 12685210,
+  "type": "Feature",
+  "properties": {
+    "name":"Lampenberg, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685210,
+    "woe:name":"Lampenberg, Switzerland",
+    "woe:place_id":"SbcBqOGYA5pd80KFRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.743644,47.430729,7.747528,47.434605],
+  "geometry": {"alpha":1e-05,"bbox":[7.7436442375183,47.430728912354,7.7475280761719,47.434604644775],"coordinates":[[[[7.747163,47.430729],[7.743644,47.432644],[7.745339,47.434261],[7.747528,47.434605],[7.747163,47.430729]]]],"created":1292530943,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12685210_20101216_ec79405a26.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

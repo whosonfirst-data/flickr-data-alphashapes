@@ -1,0 +1,15 @@
+{
+  "id": 2483434,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockledge, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2483434,
+    "woe:name":"Rockledge, Georgia, United States",
+    "woe:place_id":"L3Iy1X.bBZQtyP7J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.700836,32.433334,-82.684822,32.450809],
+  "geometry": {"alpha":0.00015,"bbox":[-82.700836181641,32.433334350586,-82.68482208252,32.45080947876],"coordinates":[[[[-82.700836,32.433834],[-82.700653,32.450809],[-82.684822,32.437061],[-82.697998,32.433334],[-82.698669,32.433498],[-82.700836,32.433834]]]],"created":1292456815,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2483434_20101215_de2f611597.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

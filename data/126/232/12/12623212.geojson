@@ -1,0 +1,15 @@
+{
+  "id": 12623212,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Benningen am Neckar, Germany",
+    "placetype":"locality",
+    "woe:id":12623212,
+    "woe:name":"Gemeinde Benningen am Neckar, Germany",
+    "woe:place_id":"LG5zboOYA5pvF62ADw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.237286,48.926144,9.2383,48.929153],
+  "geometry": {"alpha":1e-05,"bbox":[9.2372856140137,48.92614364624,9.2383003234863,48.929153442383],"coordinates":[[[[9.237742,48.928024],[9.2383,48.929153],[9.238278,48.928349],[9.237286,48.926144],[9.237742,48.928024]]]],"created":1292542355,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12623212_20101216_27a20bb921.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

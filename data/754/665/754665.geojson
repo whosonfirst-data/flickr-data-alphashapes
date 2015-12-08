@@ -1,0 +1,15 @@
+{
+  "id": 754665,
+  "type": "Feature",
+  "properties": {
+    "name":"Boimorto, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":754665,
+    "woe:name":"Boimorto, Galicia, Spain",
+    "woe:place_id":"3iU7vNeeBJjaUc0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.129196,42.959877,-8.118209,42.977463],
+  "geometry": {"alpha":0.00015,"bbox":[-8.1291961669922,42.95987701416,-8.1182088851929,42.977462768555],"coordinates":[[[[-8.123359,42.960819],[-8.129196,42.959877],[-8.124561,42.971558],[-8.118209,42.977463],[-8.119583,42.9622],[-8.123359,42.960819]]]],"created":1239512172,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3587/shapefiles/754665_20090412_804d148024.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

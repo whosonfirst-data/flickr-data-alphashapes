@@ -1,0 +1,15 @@
+{
+  "id": 675243,
+  "type": "Feature",
+  "properties": {
+    "name":"Miesbach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":675243,
+    "woe:name":"Miesbach, Bavaria, Germany",
+    "woe:place_id":"XLNyrEyfBpmqObg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.83073,47.782166,11.835263,47.798611],
+  "geometry": {"alpha":0.00015,"bbox":[11.830730438232,47.782165527344,11.835263252258,47.798610687256],"coordinates":[[[[11.83073,47.789978],[11.831944,47.798611],[11.832777,47.798332],[11.835263,47.791996],[11.83426,47.785561],[11.832,47.782166],[11.83073,47.789978]]]],"created":1292545947,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/675243_20101217_f3870c6485.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

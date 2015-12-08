@@ -1,0 +1,15 @@
+{
+  "id": 2406975,
+  "type": "Feature",
+  "properties": {
+    "name":"Franklin, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2406975,
+    "woe:name":"Franklin, Alabama, United States",
+    "woe:place_id":"8b3VHtKbBZzXNeVa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.800476,32.434162,-85.784599,32.444885],
+  "geometry": {"alpha":0.00015,"bbox":[-85.800476074219,32.434162139893,-85.784599304199,32.444885253906],"coordinates":[[[[-85.793663,32.443409],[-85.788116,32.44025],[-85.784599,32.434162],[-85.792442,32.442051],[-85.800476,32.444885],[-85.793663,32.443409]]]],"created":1292444688,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2406975_20101215_90506d699e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

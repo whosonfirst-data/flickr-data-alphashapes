@@ -1,0 +1,15 @@
+{
+  "id": 2492677,
+  "type": "Feature",
+  "properties": {
+    "name":"Shetland Square, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2492677,
+    "woe:name":"Shetland Square, Maryland, United States",
+    "woe:place_id":"6mdLBMSbBZWs1kO7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.623398,39.128529,-76.618073,39.133793],
+  "geometry": {"alpha":0.00015,"bbox":[-76.623397827148,39.128528594971,-76.618072509766,39.133792877197],"coordinates":[[[[-76.619339,39.128746],[-76.623398,39.131302],[-76.623283,39.132389],[-76.62088,39.133793],[-76.618073,39.128529],[-76.619339,39.128746]]]],"created":1292546432,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2492677_20101217_274a57defb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

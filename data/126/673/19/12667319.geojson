@@ -1,0 +1,15 @@
+{
+  "id": 12667319,
+  "type": "Feature",
+  "properties": {
+    "name":"Mosset, France",
+    "placetype":"locality",
+    "woe:id":12667319,
+    "woe:name":"Mosset, France",
+    "woe:place_id":"Wg3RmKyYA5rmYFxbMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.347297,42.662003,2.35071,42.669056],
+  "geometry": {"alpha":1e-05,"bbox":[2.3472969532013,42.662002563477,2.3507099151611,42.669055938721],"coordinates":[[[[2.348327,42.667709],[2.347297,42.669056],[2.349765,42.667606],[2.350709,42.667645],[2.35071,42.667645],[2.349228,42.662003],[2.348327,42.667709]]]],"created":1292513525,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12667319_20101216_f5bd23f23e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

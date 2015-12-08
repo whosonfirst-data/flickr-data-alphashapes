@@ -1,0 +1,15 @@
+{
+  "id": 2362245,
+  "type": "Feature",
+  "properties": {
+    "name":"Belmont, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2362245,
+    "woe:name":"Belmont, Tennessee, United States",
+    "woe:place_id":"W63OSjibApoBdMep",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.407852,35.393166,-89.392273,35.404793],
+  "geometry": {"alpha":0.00015,"bbox":[-89.407852172852,35.393165588379,-89.392272949219,35.404792785645],"coordinates":[[[[-89.400169,35.393166],[-89.407852,35.394943],[-89.407768,35.396885],[-89.393517,35.404793],[-89.392273,35.404442],[-89.400169,35.393166]]]],"created":1292527556,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2362245_20101216_785b46c064.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15003649,
+  "type": "Feature",
+  "properties": {
+    "name":"Llanos de Brujas, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":15003649,
+    "woe:name":"Llanos de Brujas, Murcia, Spain",
+    "woe:place_id":"3CMcODqYBJxSiUsraw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.074836,38.0,-1.068549,38.006275],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0748360157013,38,-1.0685490369797,38.006275177002],"coordinates":[[[[-1.072797,38.006275],[-1.07078,38.006069],[-1.068935,38.003197],[-1.068549,38.0],[-1.074836,38.001484],[-1.072797,38.006275]]]],"created":1292537249,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/15003649_20101216_88a529cd65.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

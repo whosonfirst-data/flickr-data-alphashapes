@@ -1,0 +1,15 @@
+{
+  "id": 1105292,
+  "type": "Feature",
+  "properties": {
+    "name":"Redesdale, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105292,
+    "woe:name":"Redesdale, Victoria, Australia",
+    "woe:place_id":"vA9utGWYAJziru0P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.516922,-37.019619,144.541733,-37.014751],
+  "geometry": {"alpha":0.000234375,"bbox":[144.51692199707,-37.019618988037,144.54173278809,-37.014751434326],"coordinates":[[[[144.541733,-37.015713],[144.541458,-37.01585],[144.534927,-37.019619],[144.516937,-37.019539],[144.516922,-37.015408],[144.540588,-37.014751],[144.541733,-37.015713]]]],"created":1292522003,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/1105292_20101216_170435e02b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

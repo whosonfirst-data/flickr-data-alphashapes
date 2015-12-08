@@ -1,0 +1,15 @@
+{
+  "id": 55999343,
+  "type": "Feature",
+  "properties": {
+    "name":"Old Milton, Milton, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999343,
+    "woe:name":"Old Milton, Milton, ON, CA, Canada",
+    "woe:place_id":"NtleuzCcBJURaXKwQA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.903664,43.524025,-79.900505,43.530132],
+  "geometry": {"alpha":1e-05,"bbox":[-79.903663635254,43.524024963379,-79.900505065918,43.530132293701],"coordinates":[[[[-79.903564,43.524296],[-79.903664,43.527164],[-79.903664,43.527332],[-79.900558,43.530132],[-79.900505,43.524025],[-79.903564,43.524296]]]],"created":1292465104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/55999343_20101216_c9416b65af.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

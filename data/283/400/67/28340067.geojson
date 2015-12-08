@@ -1,0 +1,15 @@
+{
+  "id": 28340067,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Knolls, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340067,
+    "woe:name":"Forest Knolls, Pennsylvania, United States",
+    "woe:place_id":"ok1G_MqbCZ9BMTrDUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.341797,40.005684,-76.326843,40.01062],
+  "geometry": {"alpha":0.00015,"bbox":[-76.341796875,40.005683898926,-76.326843261719,40.010620117188],"coordinates":[[[[-76.341797,40.00618],[-76.338326,40.010319],[-76.337471,40.01062],[-76.326843,40.005684],[-76.341797,40.00618]]]],"created":1292522539,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/28340067_20101216_b9e8844a08.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 144679,
+  "type": "Feature",
+  "properties": {
+    "name":"San Miguel Tatepozco, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":144679,
+    "woe:name":"San Miguel Tatepozco, Jalisco, Mexico",
+    "woe:place_id":"Y974bkWYBZjXD6E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.396843,20.789497,-103.395592,20.79343],
+  "geometry": {"alpha":0.00015,"bbox":[-103.39684295654,20.789497375488,-103.39559173584,20.793430328369],"coordinates":[[[[-103.396614,20.791344],[-103.396843,20.79343],[-103.39595,20.792517],[-103.395592,20.790461],[-103.396538,20.789497],[-103.396614,20.791344]]]],"created":1292539951,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/144679_20101216_015f03448c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

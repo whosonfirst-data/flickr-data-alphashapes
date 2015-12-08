@@ -1,0 +1,15 @@
+{
+  "id": 2500435,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoney Point, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2500435,
+    "woe:name":"Stoney Point, Alabama, United States",
+    "woe:place_id":"wtSgty.bBJwg_KbN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.477249,32.587746,-86.464394,32.601467],
+  "geometry": {"alpha":0.00015,"bbox":[-86.477249145508,32.587745666504,-86.464393615723,32.601467132568],"coordinates":[[[[-86.474556,32.589462],[-86.477249,32.596577],[-86.464394,32.601467],[-86.473579,32.587746],[-86.474556,32.589462]]]],"created":1247976490,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2599/shapefiles/2500435_20090719_7dc289f3d6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

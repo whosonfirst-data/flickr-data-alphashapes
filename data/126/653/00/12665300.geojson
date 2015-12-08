@@ -1,0 +1,15 @@
+{
+  "id": 12665300,
+  "type": "Feature",
+  "properties": {
+    "name":"Puycelci, France",
+    "placetype":"locality",
+    "woe:id":12665300,
+    "woe:name":"Puycelci, France",
+    "woe:place_id":"vh2q6heYA5pdziRtuQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.705627,43.989727,1.71024,43.993492],
+  "geometry": {"alpha":1e-05,"bbox":[1.7056269645691,43.989727020264,1.7102400064468,43.993492126465],"coordinates":[[[[1.71009,43.993492],[1.71024,43.993446],[1.710122,43.993233],[1.707687,43.989727],[1.705627,43.991825],[1.708781,43.993271],[1.71009,43.993492]]]],"created":1292544335,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12665300_20101217_53d94af044.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

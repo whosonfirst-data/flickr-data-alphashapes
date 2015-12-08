@@ -1,0 +1,15 @@
+{
+  "id": 12601556,
+  "type": "Feature",
+  "properties": {
+    "name":"Bacum, Sonora, Mexico",
+    "placetype":"county",
+    "woe:id":12601556,
+    "woe:name":"Bacum, Sonora, Mexico",
+    "woe:place_id":"4xjSHyqYA5pwXIho9w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-110.088844,27.544197,-110.084892,27.552834],
+  "geometry": {"alpha":0.0015,"bbox":[-110.08884429932,27.54419708252,-110.08489227295,27.552833557129],"coordinates":[[[[-110.085411,27.550133],[-110.088844,27.544197],[-110.086525,27.552834],[-110.086098,27.552416],[-110.084892,27.551123],[-110.085411,27.550133]]]],"created":1292536131,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12601556_20101216_ff0d351f0a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

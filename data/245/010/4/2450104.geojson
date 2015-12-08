@@ -1,0 +1,15 @@
+{
+  "id": 2450104,
+  "type": "Feature",
+  "properties": {
+    "name":"Mica, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2450104,
+    "woe:name":"Mica, Georgia, United States",
+    "woe:place_id":"wSyTI1ObBZk0ZLa9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.273506,34.356262,-84.255348,34.358883],
+  "geometry": {"alpha":0.00015,"bbox":[-84.273506164551,34.356262207031,-84.255348205566,34.358882904053],"coordinates":[[[[-84.273506,34.358299],[-84.273491,34.358494],[-84.27269,34.358883],[-84.255348,34.356262],[-84.272987,34.358448],[-84.273506,34.358299]]]],"created":1292451851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2450104_20101215_5c53422a5f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

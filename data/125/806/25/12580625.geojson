@@ -1,0 +1,15 @@
+{
+  "id": 12580625,
+  "type": "Feature",
+  "properties": {
+    "name":"Porecatu, Parana, Brazil",
+    "placetype":"county",
+    "woe:id":12580625,
+    "woe:name":"Porecatu, Parana, Brazil",
+    "woe:place_id":"vsle4ZuYA5mnHLojig",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-51.391983,-22.760986,-51.376534,-22.753902],
+  "geometry": {"alpha":0.0015,"bbox":[-51.391983032227,-22.760986328125,-51.376533508301,-22.753902435303],"coordinates":[[[[-51.38031,-22.760986],[-51.386276,-22.760769],[-51.390781,-22.75877],[-51.391983,-22.756079],[-51.376534,-22.753902],[-51.38031,-22.760986]]]],"created":1292524008,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12580625_20101216_6309bd3340.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 330001,
+  "type": "Feature",
+  "properties": {
+    "name":"Rivadavia, San Juan, Argentina",
+    "placetype":"locality",
+    "woe:id":330001,
+    "woe:name":"Rivadavia, San Juan, Argentina",
+    "woe:place_id":"86qFyqKaApzeXf0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.560692,-31.553963,-68.558464,-31.538603],
+  "geometry": {"alpha":0.00015,"bbox":[-68.560691833496,-31.55396270752,-68.558464050293,-31.538602828979],"coordinates":[[[[-68.558464,-31.538603],[-68.558975,-31.544163],[-68.560692,-31.553963],[-68.560608,-31.545626],[-68.558464,-31.538603]]]],"created":1292490963,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/330001_20101216_ae5ca9dc9b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 626665,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Quentin, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":626665,
+    "woe:name":"St-Quentin, Rhone-Alpes, France",
+    "woe:place_id":"lUwnfoifA5rWVK0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.525436,45.276745,5.548825,45.285999],
+  "geometry": {"alpha":0.00015,"bbox":[5.52543592453,45.276744842529,5.5488247871399,45.285999298096],"coordinates":[[[[5.540542,45.280685],[5.547666,45.281109],[5.548825,45.279507],[5.538311,45.276745],[5.525436,45.285999],[5.540542,45.280685]]]],"created":1292549639,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/626665_20101217_8766000613.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

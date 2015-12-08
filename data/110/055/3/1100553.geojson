@@ -1,0 +1,15 @@
+{
+  "id": 1100553,
+  "type": "Feature",
+  "properties": {
+    "name":"Boort, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1100553,
+    "woe:name":"Boort, Victoria, Australia",
+    "woe:place_id":"x2tLlSeYAJyOWpyW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.71637,-36.118187,143.729324,-36.108963],
+  "geometry": {"alpha":0.00015,"bbox":[143.71636962891,-36.118186950684,143.72932434082,-36.108963012695],"coordinates":[[[[143.726959,-36.117214],[143.723312,-36.117561],[143.71637,-36.118187],[143.718506,-36.114651],[143.721603,-36.113331],[143.729324,-36.108963],[143.726959,-36.117214]]]],"created":1292528189,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/1100553_20101216_890f120652.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

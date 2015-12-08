@@ -1,0 +1,15 @@
+{
+  "id": 12658529,
+  "type": "Feature",
+  "properties": {
+    "name":"Caujac, France",
+    "placetype":"locality",
+    "woe:id":12658529,
+    "woe:name":"Caujac, France",
+    "woe:place_id":"lFS1WV2YA5peLd2SQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.466159,43.297947,1.469421,43.301758],
+  "geometry": {"alpha":1e-05,"bbox":[1.4661589860916,43.297946929932,1.4694210290909,43.3017578125],"coordinates":[[[[1.466674,43.299198],[1.466159,43.301758],[1.467189,43.299854],[1.469421,43.297947],[1.466674,43.299198]]]],"created":1292382001,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12658529_20101215_45ec543211.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

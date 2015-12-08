@@ -1,0 +1,15 @@
+{
+  "id": 20158678,
+  "type": "Feature",
+  "properties": {
+    "name":"Hesselberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20158678,
+    "woe:name":"Hesselberg, Bavaria, Germany",
+    "woe:place_id":"sinUFlSbAZ0xSAF7Tg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.528622,49.067562,10.528902,49.067677],
+  "geometry": {"alpha":0.00015,"bbox":[10.528621673584,49.067562103271,10.528902053833,49.067676544189],"coordinates":[[[[10.528902,49.067669],[10.528641,49.067562],[10.528622,49.067589],[10.528725,49.067627],[10.5289,49.067677],[10.528902,49.067669]]]],"created":1292441703,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20158678_20101215_16f63b3cf0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

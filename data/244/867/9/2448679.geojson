@@ -1,0 +1,15 @@
+{
+  "id": 2448679,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadowdale, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2448679,
+    "woe:name":"Meadowdale, West Virginia, United States",
+    "woe:place_id":"D_in6mKbBZj377q_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.090973,39.491505,-80.077431,39.498001],
+  "geometry": {"alpha":0.00015,"bbox":[-80.090972900391,39.491504669189,-80.077430725098,39.498001098633],"coordinates":[[[[-80.085999,39.498001],[-80.077431,39.494751],[-80.090591,39.491772],[-80.090973,39.491505],[-80.087166,39.496666],[-80.085999,39.498001]]]],"created":1292460247,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2448679_20101216_1795e44f10.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55959915,
+  "type": "Feature",
+  "properties": {
+    "name":"Park City, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":55959915,
+    "woe:name":"Park City, Colorado, United States",
+    "woe:place_id":"KJx9AUucBJWqZGCYjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.121704,39.277447,-106.096344,39.321053],
+  "geometry": {"alpha":0.00015,"bbox":[-106.12170410156,39.277446746826,-106.09634399414,39.32105255127],"coordinates":[[[[-106.10675,39.296082],[-106.109901,39.297939],[-106.118164,39.308018],[-106.121704,39.315342],[-106.120079,39.318348],[-106.111191,39.321053],[-106.117973,39.308662],[-106.109901,39.297939],[-106.106667,39.296112],[-106.096344,39.292061],[-106.097717,39.277447],[-106.100975,39.290733],[-106.10675,39.296082]]]],"created":1292538362,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/55959915_20101216_17eb2a9853.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

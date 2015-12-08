@@ -1,0 +1,15 @@
+{
+  "id": 12629625,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hanstedt, Germany",
+    "placetype":"locality",
+    "woe:id":12629625,
+    "woe:name":"Gemeinde Hanstedt, Germany",
+    "woe:place_id":"dBNzdGOYA5r9E50MAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.040602,53.235847,10.045194,53.23951],
+  "geometry": {"alpha":1e-05,"bbox":[10.040601730347,53.235847473145,10.04519367218,53.23950958252],"coordinates":[[[[10.043896,53.235847],[10.040602,53.235916],[10.043478,53.238277],[10.045194,53.23951],[10.044057,53.237225],[10.044078,53.236507],[10.043896,53.235847]]]],"created":1292454786,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12629625_20101215_5ed307749b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

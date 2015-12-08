@@ -1,0 +1,15 @@
+{
+  "id": 158290,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Tablas, Los Santos, Panama",
+    "placetype":"locality",
+    "woe:id":158290,
+    "woe:name":"Las Tablas, Los Santos, Panama",
+    "woe:place_id":"_0nw6KyYBJSIpaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.281387,7.760745,-80.274323,7.771],
+  "geometry": {"alpha":0.00015,"bbox":[-80.281387329102,7.7607450485229,-80.274322509766,7.7709999084473],"coordinates":[[[[-80.280533,7.760745],[-80.281387,7.765848],[-80.276253,7.771],[-80.274323,7.765522],[-80.279846,7.76134],[-80.280533,7.760745]]]],"created":1248269651,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2560/shapefiles/158290_20090722_531cc5cbc7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

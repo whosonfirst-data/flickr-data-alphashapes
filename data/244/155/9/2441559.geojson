@@ -1,0 +1,15 @@
+{
+  "id": 2441559,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Island, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2441559,
+    "woe:name":"Long Island, Virginia, United States",
+    "woe:place_id":"4wcVSAqbBZiIfDRv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.139069,37.082569,-79.123268,37.099464],
+  "geometry": {"alpha":0.00015,"bbox":[-79.139068603516,37.082569122314,-79.123268127441,37.099464416504],"coordinates":[[[[-79.131096,37.099442],[-79.130821,37.099464],[-79.124245,37.098858],[-79.123268,37.090351],[-79.139069,37.082569],[-79.131096,37.099442]]]],"created":1292493848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2441559_20101216_b68cfd6e6e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

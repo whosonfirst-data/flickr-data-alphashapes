@@ -1,0 +1,15 @@
+{
+  "id": 624939,
+  "type": "Feature",
+  "properties": {
+    "name":"St Julien, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":624939,
+    "woe:name":"St Julien, Auvergne, France",
+    "woe:place_id":"Bxy6CY.fA5hGmpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.057302,45.036625,4.071979,45.049816],
+  "geometry": {"alpha":0.00015,"bbox":[4.0573019981384,45.036624908447,4.0719790458679,45.049816131592],"coordinates":[[[[4.058761,45.049271],[4.071979,45.043205],[4.058632,45.036625],[4.057302,45.049816],[4.058761,45.049271]]]],"created":1234941495,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3616/shapefiles/624939_20090218_eb511fd54d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

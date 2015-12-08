@@ -1,0 +1,15 @@
+{
+  "id": 2482457,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverwood, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2482457,
+    "woe:name":"Riverwood, Kentucky, United States",
+    "woe:place_id":"9IkjsISbBZR3vp7W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.66494,38.286076,-85.660759,38.288643],
+  "geometry": {"alpha":0.00015,"bbox":[-85.664939880371,38.286075592041,-85.660758972168,38.288642883301],"coordinates":[[[[-85.662743,38.287014],[-85.66494,38.28783],[-85.66227,38.288643],[-85.661018,38.288074],[-85.660759,38.286076],[-85.662743,38.287014]]]],"created":1292442472,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2482457_20101215_723158e78a.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

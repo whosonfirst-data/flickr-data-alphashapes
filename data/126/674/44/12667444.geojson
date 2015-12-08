@@ -1,0 +1,15 @@
+{
+  "id": 12667444,
+  "type": "Feature",
+  "properties": {
+    "name":"Nailloux, France",
+    "placetype":"locality",
+    "woe:id":12667444,
+    "woe:name":"Nailloux, France",
+    "woe:place_id":"j27uoVaYA5oCP6siTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.611814,43.382751,1.614089,43.384434],
+  "geometry": {"alpha":1e-05,"bbox":[1.6118140220642,43.382751464844,1.614089012146,43.384433746338],"coordinates":[[[[1.613707,43.382969],[1.611814,43.384434],[1.613488,43.384029],[1.614089,43.382813],[1.614046,43.382782],[1.613874,43.382751],[1.613707,43.382969]]]],"created":1292521374,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12667444_20101216_4f16d0c5e1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

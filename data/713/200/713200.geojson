@@ -1,0 +1,15 @@
+{
+  "id": 713200,
+  "type": "Feature",
+  "properties": {
+    "name":"Castegnato, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":713200,
+    "woe:name":"Castegnato, Lombardy, Italy",
+    "woe:place_id":"fYzROjeeAJ.ntP4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.107475,45.561596,10.121905,45.578159],
+  "geometry": {"alpha":0.00015,"bbox":[10.107475280762,45.561595916748,10.121905326843,45.578159332275],"coordinates":[[[[10.115,45.563999],[10.114374,45.566196],[10.107475,45.574398],[10.121905,45.578159],[10.119781,45.565086],[10.116144,45.561596],[10.115,45.563999]]]],"created":1292541963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/713200_20101216_95980ece00.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

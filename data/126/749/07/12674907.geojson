@@ -1,0 +1,15 @@
+{
+  "id": 12674907,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Blumau, Austria",
+    "placetype":"locality",
+    "woe:id":12674907,
+    "woe:name":"Bad Blumau, Austria",
+    "woe:place_id":"t66.RWeYA5pmI2TBIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.048279,47.113598,16.052399,47.1161],
+  "geometry": {"alpha":1e-05,"bbox":[16.048278808594,47.113597869873,16.052398681641,47.116100311279],"coordinates":[[[[16.0516,47.1161],[16.052399,47.114532],[16.05154,47.113712],[16.048279,47.113598],[16.048279,47.114063],[16.048706,47.115932],[16.0516,47.1161]]]],"created":1292531772,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12674907_20101216_8415463d0e.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

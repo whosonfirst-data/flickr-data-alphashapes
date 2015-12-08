@@ -1,0 +1,15 @@
+{
+  "id": 12645012,
+  "type": "Feature",
+  "properties": {
+    "name":"Hanches, France",
+    "placetype":"locality",
+    "woe:id":12645012,
+    "woe:name":"Hanches, France",
+    "woe:place_id":"p1Xsu.uYA5oEBiGBLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.642959,48.600555,1.646377,48.603996],
+  "geometry": {"alpha":1e-05,"bbox":[1.6429589986801,48.600555419922,1.6463769674301,48.603996276855],"coordinates":[[[[1.645975,48.603401],[1.642959,48.600555],[1.643142,48.602779],[1.645846,48.603996],[1.646377,48.603779],[1.645975,48.603401]]]],"created":1292542282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12645012_20101216_c8161741a1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

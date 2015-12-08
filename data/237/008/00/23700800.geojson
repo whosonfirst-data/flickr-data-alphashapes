@@ -1,0 +1,15 @@
+{
+  "id": 23700800,
+  "type": "Feature",
+  "properties": {
+    "name":"Termon, Donegal, Ireland",
+    "placetype":"locality",
+    "woe:id":23700800,
+    "woe:name":"Termon, Donegal, Ireland",
+    "woe:place_id":"LmASGPKbApuxdat5Vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.455352,54.91935,-8.435697,54.935921],
+  "geometry": {"alpha":0.00015,"bbox":[-8.4553518295288,54.91934967041,-8.4356966018677,54.935920715332],"coordinates":[[[[-8.448121,54.933899],[-8.455352,54.91935],[-8.454751,54.935921],[-8.445224,54.935722],[-8.435697,54.935921],[-8.448121,54.933899]]]],"created":1292519049,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23700800_20101216_1a7c4d28cc.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

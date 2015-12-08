@@ -1,0 +1,15 @@
+{
+  "id": 2512172,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2512172,
+    "woe:name":"Vienna, Georgia, United States",
+    "woe:place_id":"7GwdNXObBJ3E9jk9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.799561,32.07151,-83.752724,32.110352],
+  "geometry": {"alpha":0.000234375,"bbox":[-83.799560546875,32.071510314941,-83.752723693848,32.1103515625],"coordinates":[[[[-83.763168,32.07151],[-83.763336,32.082664],[-83.765236,32.086834],[-83.793701,32.092556],[-83.795685,32.099316],[-83.799561,32.091908],[-83.796326,32.088612],[-83.793701,32.092556],[-83.766075,32.091881],[-83.761482,32.101044],[-83.763115,32.110352],[-83.752724,32.094101],[-83.761665,32.073666],[-83.763168,32.07151]]]],"created":1292538467,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2512172_20101216_317b62342e.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

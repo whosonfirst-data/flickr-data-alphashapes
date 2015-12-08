@@ -1,0 +1,15 @@
+{
+  "id": 8739,
+  "type": "Feature",
+  "properties": {
+    "name":"Caroline, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8739,
+    "woe:name":"Caroline, Alberta, Canada",
+    "woe:place_id":"0AqUHS6RBp9s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.760323,52.09359,-114.739494,52.10368],
+  "geometry": {"alpha":0.00015,"bbox":[-114.7603225708,52.093589782715,-114.73949432373,52.103679656982],"coordinates":[[[[-114.739494,52.096382],[-114.740005,52.094326],[-114.7407,52.09359],[-114.747734,52.096382],[-114.760323,52.10368],[-114.750259,52.102222],[-114.739494,52.096382]]]],"created":1292551330,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/8739_20101217_7a600b91d4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20141641,
+  "type": "Feature",
+  "properties": {
+    "name":"San Michele, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20141641,
+    "woe:name":"San Michele, Veneto, Italy",
+    "woe:place_id":"fAnf2KibAZ10PEVieg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.680183,45.774895,11.694216,45.782551],
+  "geometry": {"alpha":0.00015,"bbox":[11.680183410645,45.774894714355,11.694215774536,45.782550811768],"coordinates":[[[[11.689174,45.774895],[11.680183,45.775784],[11.682929,45.780453],[11.689367,45.781052],[11.691942,45.781658],[11.694216,45.782551],[11.689174,45.774895]]]],"created":1292452263,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/20141641_20101215_71bdab62f8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

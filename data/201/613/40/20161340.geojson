@@ -1,0 +1,15 @@
+{
+  "id": 20161340,
+  "type": "Feature",
+  "properties": {
+    "name":"Scharfenberg, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":20161340,
+    "woe:name":"Scharfenberg, Brandenburg, Germany",
+    "woe:place_id":"4R8t12CbAZ0Y8kDVxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.46272,53.117725,12.487249,53.130844],
+  "geometry": {"alpha":0.00015,"bbox":[12.462719917297,53.117725372314,12.48724937439,53.130844116211],"coordinates":[[[[12.46272,53.125645],[12.465913,53.130844],[12.487249,53.125244],[12.48618,53.121395],[12.46519,53.117725],[12.46272,53.125645]]]],"created":1292462642,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20161340_20101216_060df0c719.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

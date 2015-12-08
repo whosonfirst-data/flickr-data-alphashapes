@@ -1,0 +1,15 @@
+{
+  "id": 1102432,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenhill, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1102432,
+    "woe:name":"Greenhill, Queensland, Australia",
+    "woe:place_id":"uSTWk_aYAJz.Nd6a",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.441528,-21.68391,149.455597,-21.672441],
+  "geometry": {"alpha":0.00015,"bbox":[149.44152832031,-21.683910369873,149.45559692383,-21.672441482544],"coordinates":[[[[149.453201,-21.68391],[149.44603,-21.683407],[149.441528,-21.679283],[149.45314,-21.672441],[149.455597,-21.678101],[149.455566,-21.682972],[149.453201,-21.68391]]]],"created":1292517307,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/1102432_20101216_3dcb7d2f09.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

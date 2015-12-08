@@ -1,0 +1,15 @@
+{
+  "id": 12624560,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Borchen, Germany",
+    "placetype":"locality",
+    "woe:id":12624560,
+    "woe:name":"Gemeinde Borchen, Germany",
+    "woe:place_id":"hMjWmnWYA5raeyDPzw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.769063,51.679367,8.774042,51.684742],
+  "geometry": {"alpha":1e-05,"bbox":[8.7690629959106,51.67936706543,8.7740421295166,51.684741973877],"coordinates":[[[[8.769493,51.684742],[8.774042,51.68272],[8.773097,51.679367],[8.769063,51.682293],[8.769493,51.684742]]]],"created":1239527773,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3653/shapefiles/12624560_20090412_86297f0073.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

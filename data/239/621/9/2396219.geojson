@@ -1,0 +1,15 @@
+{
+  "id": 2396219,
+  "type": "Feature",
+  "properties": {
+    "name":"East Swanzey, New Hampshire, United States",
+    "placetype":"locality",
+    "woe:id":2396219,
+    "woe:name":"East Swanzey, New Hampshire, United States",
+    "woe:place_id":"OnmgrcubApUaGnNY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.274498,42.828411,-72.256378,42.854691],
+  "geometry": {"alpha":0.00015,"bbox":[-72.27449798584,42.828411102295,-72.256378173828,42.854690551758],"coordinates":[[[[-72.256378,42.841068],[-72.261528,42.828411],[-72.272629,42.831226],[-72.274498,42.854691],[-72.263901,42.844788],[-72.256378,42.841068]]]],"created":1292477469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2396219_20101216_784e3f87d6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2446506,
+  "type": "Feature",
+  "properties": {
+    "name":"Marydale, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2446506,
+    "woe:name":"Marydale, Illinois, United States",
+    "woe:place_id":"Z0cVB.CbBZi5M_6i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.333092,38.66404,-89.312408,38.669292],
+  "geometry": {"alpha":0.00015,"bbox":[-89.33309173584,38.664039611816,-89.312408447266,38.669292449951],"coordinates":[[[[-89.327942,38.66404],[-89.333092,38.6689],[-89.328117,38.665607],[-89.312408,38.669292],[-89.316269,38.664604],[-89.327942,38.66404]]]],"created":1292460361,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2446506_20101216_4fa0cef5c5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

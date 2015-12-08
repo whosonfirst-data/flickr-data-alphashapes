@@ -1,0 +1,15 @@
+{
+  "id": 22756887,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Vernet, France",
+    "placetype":"locality",
+    "woe:id":22756887,
+    "woe:name":"Le Vernet, France",
+    "woe:place_id":"6irLONmbA5sBZD2WtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.403226,44.276516,6.41211,44.279221],
+  "geometry": {"alpha":1e-05,"bbox":[6.4032258987427,44.276515960693,6.4121098518372,44.279220581055],"coordinates":[[[[6.406917,44.277901],[6.405372,44.276516],[6.403226,44.277714],[6.404449,44.277794],[6.407089,44.278362],[6.41211,44.279221],[6.406917,44.277901]]]],"created":1292522515,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/22756887_20101216_6d1dd987ab.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

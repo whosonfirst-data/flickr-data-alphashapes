@@ -1,0 +1,15 @@
+{
+  "id": 724600,
+  "type": "Feature",
+  "properties": {
+    "name":"Strona, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":724600,
+    "woe:name":"Strona, Piedmont, Italy",
+    "woe:place_id":"E2NHBiKeA5hqSVo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.167583,45.61644,8.17106,45.621483],
+  "geometry": {"alpha":0.00015,"bbox":[8.1675834655762,45.616439819336,8.1710596084595,45.621482849121],"coordinates":[[[[8.168334,45.61644],[8.167583,45.618862],[8.167583,45.618866],[8.168764,45.621483],[8.17106,45.617241],[8.168334,45.61644]]]],"created":1292523129,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/724600_20101216_ee3a11f27e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

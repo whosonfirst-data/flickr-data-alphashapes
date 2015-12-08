@@ -1,0 +1,15 @@
+{
+  "id": 2402569,
+  "type": "Feature",
+  "properties": {
+    "name":"Farrington, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2402569,
+    "woe:name":"Farrington, Virginia, United States",
+    "woe:place_id":"4tlWpGGbBZzUvFUi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.608963,37.725311,-77.572876,37.74435],
+  "geometry": {"alpha":0.00015,"bbox":[-77.608963012695,37.725311279297,-77.572875976562,37.74435043335],"coordinates":[[[[-77.585793,37.743572],[-77.572876,37.737701],[-77.589272,37.731998],[-77.604721,37.725311],[-77.608963,37.74435],[-77.585793,37.743572]]]],"created":1292451798,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2402569_20101215_9341496337.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

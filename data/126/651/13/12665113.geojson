@@ -1,0 +1,15 @@
+{
+  "id": 12665113,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Sappey, France",
+    "placetype":"locality",
+    "woe:id":12665113,
+    "woe:name":"Le Sappey, France",
+    "woe:place_id":"5Gk979eYA5pcJRri1w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.144735,46.094761,6.153298,46.105312],
+  "geometry": {"alpha":1e-05,"bbox":[6.1447348594666,46.094760894775,6.1532979011536,46.105312347412],"coordinates":[[[[6.150455,46.102966],[6.148036,46.098873],[6.149082,46.09478],[6.144735,46.094761],[6.146332,46.097878],[6.147708,46.102757],[6.150112,46.103588],[6.153298,46.105312],[6.152515,46.104183],[6.150455,46.102966]]]],"created":1292520063,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12665113_20101216_65a2426c29.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

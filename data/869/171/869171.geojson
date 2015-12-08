@@ -1,0 +1,15 @@
+{
+  "id": 869171,
+  "type": "Feature",
+  "properties": {
+    "name":"Centatea, Dolj, Romania",
+    "placetype":"locality",
+    "woe:id":869171,
+    "woe:name":"Centatea, Dolj, Romania",
+    "woe:place_id":"FRerJOKRB5XTMbk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.040154,44.10762,23.045588,44.114368],
+  "geometry": {"alpha":0.00015,"bbox":[23.040153503418,44.107620239258,23.045587539673,44.114368438721],"coordinates":[[[[23.042007,44.109241],[23.040154,44.109989],[23.04516,44.114368],[23.045588,44.10762],[23.044836,44.107967],[23.043077,44.108753],[23.042007,44.109241]]]],"created":1292440046,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/869171_20101215_80af2eeffe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

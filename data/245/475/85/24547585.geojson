@@ -1,0 +1,15 @@
+{
+  "id": 24547585,
+  "type": "Feature",
+  "properties": {
+    "name":"Barczewo, Poland",
+    "placetype":"locality",
+    "woe:id":24547585,
+    "woe:name":"Barczewo, Poland",
+    "woe:place_id":"UGAiarSbBZkat0wzdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.690645,53.830963,20.698328,53.835819],
+  "geometry": {"alpha":1e-05,"bbox":[20.690645217896,53.830963134766,20.698328018188,53.835819244385],"coordinates":[[[[20.696096,53.830963],[20.691633,53.832623],[20.690645,53.835819],[20.695581,53.834408],[20.696268,53.834003],[20.698328,53.832684],[20.696096,53.830963]]]],"created":1292458431,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/24547585_20101216_118eacb60b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

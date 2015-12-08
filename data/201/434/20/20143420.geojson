@@ -1,0 +1,15 @@
+{
+  "id": 20143420,
+  "type": "Feature",
+  "properties": {
+    "name":"Secastello, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20143420,
+    "woe:name":"Secastello, Lombardy, Italy",
+    "woe:place_id":"MAD1l16bAZ2IStmLjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.7435,45.773499,10.745166,45.781334],
+  "geometry": {"alpha":0.00015,"bbox":[10.743499755859,45.773498535156,10.74516582489,45.78133392334],"coordinates":[[[[10.744666,45.781166],[10.745166,45.780998],[10.743833,45.773499],[10.7435,45.781334],[10.744666,45.781166]]]],"created":1292520176,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20143420_20101216_53fd065645.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

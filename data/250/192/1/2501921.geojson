@@ -1,0 +1,15 @@
+{
+  "id": 2501921,
+  "type": "Feature",
+  "properties": {
+    "name":"Sun Valley, Springfield, OH, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2501921,
+    "woe:name":"Sun Valley, Springfield, OH, US, United States",
+    "woe:place_id":"fRf5dGabBJzJcU8O",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-83.768623,39.905655,-83.763092,39.908829],
+  "geometry": {"alpha":1e-05,"bbox":[-83.768623352051,39.905654907227,-83.763092041016,39.908828735352],"coordinates":[[[[-83.767273,39.905655],[-83.768623,39.908337],[-83.76339,39.908829],[-83.763092,39.908615],[-83.767273,39.905655]]]],"created":1234523761,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3331/shapefiles/2501921_20090213_d2432a1160.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

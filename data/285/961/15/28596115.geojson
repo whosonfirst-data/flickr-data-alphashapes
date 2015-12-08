@@ -1,0 +1,15 @@
+{
+  "id": 28596115,
+  "type": "Feature",
+  "properties": {
+    "name":"Sundown, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28596115,
+    "woe:name":"Sundown, Queensland, Australia",
+    "woe:place_id":"fWUH3pmbCZljn_WZ8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.689697,-28.783155,151.69458,-28.779997],
+  "geometry": {"alpha":0.00015,"bbox":[151.68969726562,-28.783155441284,151.69458007812,-28.779996871948],"coordinates":[[[[151.69072,-28.782215],[151.690552,-28.782103],[151.689697,-28.781427],[151.69046,-28.779997],[151.692612,-28.781652],[151.69458,-28.783155],[151.69072,-28.782215]]]],"created":1292530265,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/28596115_20101216_6d61e9ffc5.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

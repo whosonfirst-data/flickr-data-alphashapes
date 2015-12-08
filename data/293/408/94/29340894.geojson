@@ -1,0 +1,15 @@
+{
+  "id": 29340894,
+  "type": "Feature",
+  "properties": {
+    "name":"San Gregorio, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":29340894,
+    "woe:name":"San Gregorio, Veneto, Italy",
+    "woe:place_id":"pEz2AQibCJ8nnPdGFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.917451,45.401592,11.926002,45.404594],
+  "geometry": {"alpha":0.00015,"bbox":[11.917450904846,45.401592254639,11.926001548767,45.404594421387],"coordinates":[[[[11.920273,45.404099],[11.921625,45.404594],[11.926002,45.402359],[11.921265,45.402206],[11.917451,45.401592],[11.920273,45.404099]]]],"created":1292449805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/29340894_20101215_406818c78d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

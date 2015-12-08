@@ -1,0 +1,15 @@
+{
+  "id": 2489592,
+  "type": "Feature",
+  "properties": {
+    "name":"Schaeferville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2489592,
+    "woe:name":"Schaeferville, Illinois, United States",
+    "woe:place_id":"__VQME2bBZQhtKiD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.631081,40.562752,-89.628891,40.564335],
+  "geometry": {"alpha":0.00015,"bbox":[-89.631080627441,40.56275177002,-89.628890991211,40.564334869385],"coordinates":[[[[-89.629295,40.564335],[-89.628891,40.56432],[-89.629082,40.563957],[-89.631081,40.562752],[-89.63018,40.564121],[-89.629295,40.564335]]]],"created":1292517542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2489592_20101216_7a5fbc65de.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

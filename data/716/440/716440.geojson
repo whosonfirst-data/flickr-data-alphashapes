@@ -1,0 +1,15 @@
+{
+  "id": 716440,
+  "type": "Feature",
+  "properties": {
+    "name":"Grotte di Castro, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":716440,
+    "woe:name":"Grotte di Castro, Lazio, Italy",
+    "woe:place_id":"Q.ZiQ62eAJroNNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.864118,42.669437,11.890983,42.67767],
+  "geometry": {"alpha":0.00015,"bbox":[11.864117622375,42.669437408447,11.890982627869,42.677669525146],"coordinates":[[[[11.875233,42.675468],[11.890983,42.670822],[11.880598,42.669437],[11.864118,42.671131],[11.867165,42.674168],[11.871736,42.67767],[11.875233,42.675468]]]],"created":1292547731,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/716440_20101217_bb3fe1467c.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

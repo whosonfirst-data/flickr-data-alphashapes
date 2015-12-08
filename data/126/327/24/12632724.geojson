@@ -1,0 +1,15 @@
+{
+  "id": 12632724,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Grebenhain, Germany",
+    "placetype":"locality",
+    "woe:id":12632724,
+    "woe:name":"Gemeinde Grebenhain, Germany",
+    "woe:place_id":"MTDVQ1qYA5pMc5wDFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.28888,50.496986,9.292895,50.50169],
+  "geometry": {"alpha":1e-05,"bbox":[9.2888803482056,50.49698638916,9.2928953170776,50.501689910889],"coordinates":[[[[9.28888,50.50148],[9.291687,50.50169],[9.292895,50.497665],[9.291396,50.497528],[9.288994,50.496986],[9.28888,50.50148]]]],"created":1292525695,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12632724_20101216_86d8ea72d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

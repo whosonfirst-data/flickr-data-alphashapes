@@ -1,0 +1,15 @@
+{
+  "id": 12510621,
+  "type": "Feature",
+  "properties": {
+    "name":"Bundaberg Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510621,
+    "woe:name":"Bundaberg Airport, Australia",
+    "woe:place_id":"qX0i16SYA5kbpz4aqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.319595,-24.90267,152.322021,-24.898476],
+  "geometry": {"alpha":1e-05,"bbox":[152.31959533691,-24.902669906616,152.32202148438,-24.898475646973],"coordinates":[[[[152.320358,-24.901735],[152.319595,-24.900333],[152.319946,-24.898476],[152.32196,-24.900742],[152.322021,-24.90267],[152.320358,-24.901735]]]],"created":1292494383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12510621_20101216_be4955bdc6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

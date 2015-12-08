@@ -1,0 +1,15 @@
+{
+  "id": 12685242,
+  "type": "Feature",
+  "properties": {
+    "name":"Hausen bei Brugg, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685242,
+    "woe:name":"Hausen bei Brugg, Switzerland",
+    "woe:place_id":"ABIwHxeYA5pYbKGgTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.206787,47.455841,8.217086,47.464073],
+  "geometry": {"alpha":5.4253472222222e-05,"bbox":[8.206787109375,47.455841064453,8.2170858383179,47.464073181152],"coordinates":[[[[8.216303,47.456009],[8.217086,47.455853],[8.216314,47.455841],[8.216228,47.455906],[8.206787,47.464073],[8.216303,47.456009]]]],"created":1292522359,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12685242_20101216_6496876ffd.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

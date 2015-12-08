@@ -1,0 +1,15 @@
+{
+  "id": 23396651,
+  "type": "Feature",
+  "properties": {
+    "name":"Ogden, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396651,
+    "woe:name":"Ogden, Quebec, Canada",
+    "woe:place_id":"Ub1wi.2bAp8.rUgD7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.191246,45.085957,-72.18927,45.086369],
+  "geometry": {"alpha":0.00015,"bbox":[-72.191246032715,45.085956573486,-72.189270019531,45.086368560791],"coordinates":[[[[-72.189919,45.086369],[-72.18927,45.086124],[-72.190521,45.085957],[-72.191246,45.086067],[-72.189919,45.086369]]]],"created":1239642981,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3416/shapefiles/23396651_20090413_e2358be162.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

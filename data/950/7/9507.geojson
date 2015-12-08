@@ -1,0 +1,15 @@
+{
+  "id": 9507,
+  "type": "Feature",
+  "properties": {
+    "name":"Woss, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9507,
+    "woe:name":"Woss, British Columbia, Canada",
+    "woe:place_id":"IYtoqmGQBJwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-126.605675,50.201408,-126.57074,50.223377],
+  "geometry": {"alpha":0.00015,"bbox":[-126.60567474365,50.20140838623,-126.57073974609,50.223377227783],"coordinates":[[[[-126.589622,50.213711],[-126.587044,50.201408],[-126.605675,50.206543],[-126.604126,50.214123],[-126.594086,50.219975],[-126.57074,50.223377],[-126.589622,50.213711]]]],"created":1292539444,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/9507_20101216_514e34f52d.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

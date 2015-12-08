@@ -1,0 +1,15 @@
+{
+  "id": 1104,
+  "type": "Feature",
+  "properties": {
+    "name":"North Sydney, North Sydney, NS, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":1104,
+    "woe:name":"North Sydney, North Sydney, NS, CA, Canada",
+    "woe:place_id":"BSVFByKYAJzx",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-60.257565,46.203152,-60.24044,46.218632],
+  "geometry": {"alpha":1e-05,"bbox":[-60.257564544678,46.203151702881,-60.240440368652,46.218631744385],"coordinates":[[[[-60.250118,46.205837],[-60.251083,46.205437],[-60.254688,46.205379],[-60.257565,46.203152],[-60.256577,46.207397],[-60.256489,46.212921],[-60.254429,46.211792],[-60.248337,46.2131],[-60.248466,46.218632],[-60.244003,46.217182],[-60.240612,46.213455],[-60.24044,46.210011],[-60.242027,46.207977],[-60.246105,46.205914],[-60.24823,46.206024],[-60.250118,46.205837]]]],"created":1248290417,"edges":16,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2480/shapefiles/1104_20090722_6c727c71a9.tar.gz"},"points":53,"type":"MultiPolygon"}
+}

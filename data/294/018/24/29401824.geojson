@@ -1,0 +1,15 @@
+{
+  "id": 29401824,
+  "type": "Feature",
+  "properties": {
+    "name":"Velicna, Slovakia",
+    "placetype":"locality",
+    "woe:id":29401824,
+    "woe:name":"Velicna, Slovakia",
+    "woe:place_id":"08xfn1KbCJhSLolazg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.256029,49.267563,19.258724,49.27195],
+  "geometry": {"alpha":1e-05,"bbox":[19.256029129028,49.267562866211,19.258724212646,49.271949768066],"coordinates":[[[[19.257343,49.267563],[19.256716,49.26762],[19.256519,49.267693],[19.256029,49.27195],[19.258724,49.267982],[19.257343,49.267563]]]],"created":1292514845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/29401824_20101216_2a190eeda1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

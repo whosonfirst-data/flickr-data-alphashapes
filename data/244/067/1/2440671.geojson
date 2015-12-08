@@ -1,0 +1,15 @@
+{
+  "id": 2440671,
+  "type": "Feature",
+  "properties": {
+    "name":"Loachapoka, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2440671,
+    "woe:name":"Loachapoka, Alabama, United States",
+    "woe:place_id":"9SBANvubBZhucbAD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.622742,32.594933,-85.59787,32.607117],
+  "geometry": {"alpha":0.00015,"bbox":[-85.622741699219,32.594932556152,-85.597869873047,32.607116699219],"coordinates":[[[[-85.59787,32.604233],[-85.606773,32.602722],[-85.622742,32.594933],[-85.607208,32.607117],[-85.600037,32.604675],[-85.59787,32.604233]]]],"created":1292454383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2440671_20101215_79c8ce93a6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

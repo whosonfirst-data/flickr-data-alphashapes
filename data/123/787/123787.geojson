@@ -1,0 +1,15 @@
+{
+  "id": 123787,
+  "type": "Feature",
+  "properties": {
+    "name":"Frontera, Tabasco, Mexico",
+    "placetype":"locality",
+    "woe:id":123787,
+    "woe:name":"Frontera, Tabasco, Mexico",
+    "woe:place_id":"Op3sSP.YA58f5BA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.656631,18.49654,-92.644615,18.53886],
+  "geometry": {"alpha":0.00015,"bbox":[-92.656631469727,18.49654006958,-92.64461517334,18.538860321045],"coordinates":[[[[-92.652451,18.530712],[-92.655922,18.51296],[-92.651306,18.49654],[-92.644615,18.502563],[-92.655922,18.51296],[-92.655258,18.528444],[-92.655602,18.53056],[-92.656631,18.535851],[-92.647362,18.53886],[-92.64682,18.534389],[-92.652451,18.530712]]]],"created":1292504767,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/123787_20101216_5e5b1478ed.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 595142,
+  "type": "Feature",
+  "properties": {
+    "name":"Iguerande, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":595142,
+    "woe:name":"Iguerande, Burgundy, France",
+    "woe:place_id":"Cbpp.LycCJmqkbE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.073391,46.200615,4.086098,46.209286],
+  "geometry": {"alpha":0.00015,"bbox":[4.0733909606934,46.200614929199,4.0860981941223,46.209285736084],"coordinates":[[[[4.077129,46.208881],[4.086098,46.209286],[4.082266,46.200615],[4.078766,46.205227],[4.077821,46.206177],[4.073391,46.20882],[4.077129,46.208881]]]],"created":1292466307,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/595142_20101216_2502049ccd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12682323,
+  "type": "Feature",
+  "properties": {
+    "name":"Vailate, Italy",
+    "placetype":"locality",
+    "woe:id":12682323,
+    "woe:name":"Vailate, Italy",
+    "woe:place_id":"W61MK1KYA5py3YLjAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.607887,45.464645,9.608917,45.465668],
+  "geometry": {"alpha":1e-05,"bbox":[9.6078872680664,45.464645385742,9.6089172363281,45.465667724609],"coordinates":[[[[9.608745,45.465668],[9.608917,45.465427],[9.607887,45.464645],[9.60823,45.465187],[9.608402,45.465488],[9.608745,45.465668]]]],"created":1292427721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12682323_20101215_7577bfdedf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12666053,
+  "type": "Feature",
+  "properties": {
+    "name":"Maisons, France",
+    "placetype":"locality",
+    "woe:id":12666053,
+    "woe:name":"Maisons, France",
+    "woe:place_id":"bgT_QvGYA5oZQkKCqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.675101,42.91869,2.67575,42.920731],
+  "geometry": {"alpha":1e-05,"bbox":[2.6751010417938,42.918689727783,2.6757500171661,42.92073059082],"coordinates":[[[[2.675192,42.91869],[2.675101,42.918884],[2.675192,42.919537],[2.67575,42.920731],[2.675192,42.91869]]]],"created":1292527687,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/12666053_20101216_1c7eda7fc0.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

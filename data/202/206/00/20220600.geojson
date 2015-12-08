@@ -1,0 +1,15 @@
+{
+  "id": 20220600,
+  "type": "Feature",
+  "properties": {
+    "name":"Arenales del Sol, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20220600,
+    "woe:name":"Arenales del Sol, Valencia, Spain",
+    "woe:place_id":"Cl0SBaCbAZ4OQ9vgcg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.534467,38.238785,-0.515584,38.267838],
+  "geometry": {"alpha":0.00015,"bbox":[-0.53446698188782,38.238784790039,-0.51558399200439,38.267837524414],"coordinates":[[[[-0.517559,38.261341],[-0.516014,38.257793],[-0.515584,38.238785],[-0.534467,38.246506],[-0.534038,38.249573],[-0.525927,38.256733],[-0.524597,38.263523],[-0.51979,38.267838],[-0.518417,38.266285],[-0.517559,38.261341]]]],"created":1292549536,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/20220600_20101217_5092f3ff2a.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

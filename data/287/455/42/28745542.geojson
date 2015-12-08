@@ -1,0 +1,15 @@
+{
+  "id": 28745542,
+  "type": "Feature",
+  "properties": {
+    "name":"Manchester, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745542,
+    "woe:name":"Manchester, Pennsylvania, United States",
+    "woe:place_id":"Jmr.TxibCZsZfj5vhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.196022,41.794159,-75.182037,41.810062],
+  "geometry": {"alpha":0.00015,"bbox":[-75.196022033691,41.794158935547,-75.182037353516,41.810062408447],"coordinates":[[[[-75.182037,41.796097],[-75.183731,41.794361],[-75.187279,41.794159],[-75.196022,41.810062],[-75.182037,41.796097]]]],"created":1292548247,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/28745542_20101217_3d571ff30b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

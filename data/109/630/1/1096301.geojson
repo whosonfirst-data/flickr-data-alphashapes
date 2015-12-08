@@ -1,0 +1,15 @@
+{
+  "id": 1096301,
+  "type": "Feature",
+  "properties": {
+    "name":"Holgate, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1096301,
+    "woe:name":"Holgate, New South Wales, Australia",
+    "woe:place_id":"NTWbkdGYAZX5jQIY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.406525,-33.405098,151.409805,-33.401901],
+  "geometry": {"alpha":0.00015,"bbox":[151.4065246582,-33.405097961426,151.40980529785,-33.401901245117],"coordinates":[[[[151.409775,-33.405037],[151.409805,-33.405098],[151.40947,-33.404877],[151.406525,-33.401901],[151.409775,-33.405037]]]],"created":1292415484,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/1096301_20101215_c04730675a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

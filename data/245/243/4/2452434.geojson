@@ -1,0 +1,15 @@
+{
+  "id": 2452434,
+  "type": "Feature",
+  "properties": {
+    "name":"Mitchell Acres, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2452434,
+    "woe:name":"Mitchell Acres, Georgia, United States",
+    "woe:place_id":"9gSiNjabBZn3oYJV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.233498,34.938965,-85.217682,34.947834],
+  "geometry": {"alpha":0.00015,"bbox":[-85.233497619629,34.93896484375,-85.217681884766,34.947834014893],"coordinates":[[[[-85.222298,34.943367],[-85.217682,34.938965],[-85.221497,34.941833],[-85.222336,34.942333],[-85.233498,34.947834],[-85.222298,34.943367]]]],"created":1292376845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2452434_20101215_4547bafc0a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12624140,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Waldenburg, Germany",
+    "placetype":"locality",
+    "woe:id":12624140,
+    "woe:name":"Gemeinde Waldenburg, Germany",
+    "woe:place_id":"lzkimmiYA5quAFI3Pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.643577,49.16256,9.645138,49.165066],
+  "geometry": {"alpha":1e-05,"bbox":[9.6435766220093,49.162559509277,9.6451377868652,49.165065765381],"coordinates":[[[[9.643577,49.16256],[9.643592,49.162849],[9.64365,49.165066],[9.645138,49.16391],[9.644044,49.162884],[9.643577,49.16256]]]],"created":1292380444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12624140_20101215_4726722ca9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

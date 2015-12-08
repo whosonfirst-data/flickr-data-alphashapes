@@ -1,0 +1,15 @@
+{
+  "id": 2358472,
+  "type": "Feature",
+  "properties": {
+    "name":"Bakers, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2358472,
+    "woe:name":"Bakers, Pennsylvania, United States",
+    "woe:place_id":"wUSLzT2bApmg9J3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.156006,40.046722,-80.154739,40.048603],
+  "geometry": {"alpha":0.00015,"bbox":[-80.156005859375,40.046722412109,-80.154739379883,40.048603057861],"coordinates":[[[[-80.154755,40.048603],[-80.154739,40.048592],[-80.154816,40.048481],[-80.155807,40.046909],[-80.156006,40.046722],[-80.154755,40.048603]]]],"created":1292417763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2358472_20101215_16acd7ffbf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

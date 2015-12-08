@@ -1,0 +1,15 @@
+{
+  "id": 23401765,
+  "type": "Feature",
+  "properties": {
+    "name":"Scotland, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23401765,
+    "woe:name":"Scotland, Ontario, Canada",
+    "woe:place_id":"bhsQTjCbApjzfqv5_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.376144,43.008148,-80.352539,43.026939],
+  "geometry": {"alpha":0.00015,"bbox":[-80.37614440918,43.008148193359,-80.3525390625,43.02693939209],"coordinates":[[[[-80.376144,43.026108],[-80.367371,43.026939],[-80.352539,43.008148],[-80.370796,43.013073],[-80.375244,43.024509],[-80.376144,43.026108]]]],"created":1292538245,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/23401765_20101216_5286469a35.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

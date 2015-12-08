@@ -1,0 +1,15 @@
+{
+  "id": 2357017,
+  "type": "Feature",
+  "properties": {
+    "name":"Atlanta, New York, United States",
+    "placetype":"locality",
+    "woe:id":2357017,
+    "woe:name":"Atlanta, New York, United States",
+    "woe:place_id":"rwOEYZCbApnbvSMo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.483856,42.552757,-77.461472,42.586246],
+  "geometry": {"alpha":0.00015,"bbox":[-77.483856201172,42.552757263184,-77.461471557617,42.586246490479],"coordinates":[[[[-77.47699,42.55304],[-77.478088,42.552757],[-77.479591,42.553291],[-77.479912,42.553417],[-77.479462,42.562515],[-77.483856,42.57621],[-77.470604,42.586246],[-77.461472,42.567715],[-77.468719,42.558029],[-77.468834,42.557621],[-77.470947,42.554066],[-77.473671,42.553425],[-77.47699,42.55304]]]],"created":1292542196,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2357017_20101216_c516e6908c.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

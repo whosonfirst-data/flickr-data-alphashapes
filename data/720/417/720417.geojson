@@ -1,0 +1,15 @@
+{
+  "id": 720417,
+  "type": "Feature",
+  "properties": {
+    "name":"Piazze, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":720417,
+    "woe:name":"Piazze, Tuscany, Italy",
+    "woe:place_id":"NgGmhsaeA5y2i54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.911169,42.907192,11.934036,42.916149],
+  "geometry": {"alpha":0.00015,"bbox":[11.911169052124,42.907192230225,11.934036254883,42.916149139404],"coordinates":[[[[11.920198,42.916149],[11.934036,42.909416],[11.917591,42.908096],[11.914924,42.907581],[11.911169,42.907192],[11.920187,42.916145],[11.920198,42.916149]]]],"created":1292544587,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/720417_20101217_d940bb41d4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

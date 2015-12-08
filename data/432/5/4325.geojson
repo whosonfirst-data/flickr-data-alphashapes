@@ -1,0 +1,15 @@
+{
+  "id": 4325,
+  "type": "Feature",
+  "properties": {
+    "name":"Ivujivik, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":4325,
+    "woe:name":"Ivujivik, Quebec, Canada",
+    "woe:place_id":"m235zTGdAp6m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.91761,62.411285,-77.907776,62.41785],
+  "geometry": {"alpha":0.00015,"bbox":[-77.917610168457,62.411285400391,-77.907775878906,62.417850494385],"coordinates":[[[[-77.91761,62.41375],[-77.910477,62.417805],[-77.907776,62.41785],[-77.91571,62.411285],[-77.91761,62.41375]]]],"created":1292518111,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/4325_20101216_b8984c9482.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

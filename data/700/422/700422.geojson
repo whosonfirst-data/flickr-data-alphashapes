@@ -1,0 +1,15 @@
+{
+  "id": 700422,
+  "type": "Feature",
+  "properties": {
+    "name":"Uesen, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":700422,
+    "woe:name":"Uesen, Lower Saxony, Germany",
+    "woe:place_id":"noDy.jSeAZyGN9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.04428,52.99189,9.051876,53.001472],
+  "geometry": {"alpha":0.00015,"bbox":[9.0442800521851,52.991889953613,9.0518760681152,53.001472473145],"coordinates":[[[[9.048743,53.001472],[9.049919,53.001373],[9.050536,52.997223],[9.051876,52.99189],[9.04428,52.99202],[9.047584,52.998772],[9.048743,53.001472]]]],"created":1292447496,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/700422_20101215_051da139ee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12630188,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Stubben, Germany",
+    "placetype":"locality",
+    "woe:id":12630188,
+    "woe:name":"Gemeinde Stubben, Germany",
+    "woe:place_id":"20f6BemYA5o8Bn2_PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.83526,53.409096,8.836687,53.410892],
+  "geometry": {"alpha":1e-05,"bbox":[8.8352603912354,53.40909576416,8.8366870880127,53.410892486572],"coordinates":[[[[8.835388,53.410892],[8.836215,53.410797],[8.836687,53.409096],[8.83555,53.409515],[8.83526,53.409843],[8.835388,53.410892]]]],"created":1292543830,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12630188_20101216_603960bd0d.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3599,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Ulric, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3599,
+    "woe:name":"St.-Ulric, Quebec, Canada",
+    "woe:place_id":"r2OZkaqaBJU5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.710114,48.771915,-67.680244,48.787415],
+  "geometry": {"alpha":0.00015,"bbox":[-67.710113525391,48.771915435791,-67.680244445801,48.787414550781],"coordinates":[[[[-67.695694,48.786961],[-67.686424,48.773613],[-67.685051,48.771915],[-67.680244,48.772072],[-67.686424,48.773613],[-67.696381,48.77972],[-67.710114,48.787415],[-67.70166,48.787132],[-67.697754,48.787415],[-67.695694,48.786961]]]],"created":1292504343,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/3599_20101216_880fe6d481.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

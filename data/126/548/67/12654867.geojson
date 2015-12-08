@@ -1,0 +1,15 @@
+{
+  "id": 12654867,
+  "type": "Feature",
+  "properties": {
+    "name":"Achicourt, France",
+    "placetype":"locality",
+    "woe:id":12654867,
+    "woe:name":"Achicourt, France",
+    "woe:place_id":"t4T8TlmYA5oBhD8plQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.751967,50.278999,2.757997,50.281895],
+  "geometry": {"alpha":1e-05,"bbox":[2.7519669532776,50.278999328613,2.7579970359802,50.281894683838],"coordinates":[[[[2.751967,50.281616],[2.754178,50.281895],[2.756903,50.281689],[2.757997,50.278999],[2.754392,50.281429],[2.751967,50.281616]]]],"created":1247839561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2655/shapefiles/12654867_20090717_0b8c954b40.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

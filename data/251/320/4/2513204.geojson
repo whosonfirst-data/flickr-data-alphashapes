@@ -1,0 +1,15 @@
+{
+  "id": 2513204,
+  "type": "Feature",
+  "properties": {
+    "name":"Waites, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2513204,
+    "woe:name":"Waites, Mississippi, United States",
+    "woe:place_id":"WKdcL0KbBJ32jRrF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.343224,34.724895,-89.327858,34.735477],
+  "geometry": {"alpha":0.00015,"bbox":[-89.343223571777,34.724895477295,-89.327857971191,34.73547744751],"coordinates":[[[[-89.340218,34.735477],[-89.338333,34.735264],[-89.327858,34.724895],[-89.336525,34.726093],[-89.343224,34.731735],[-89.340218,34.735477]]]],"created":1292538128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2513204_20101216_5108192a0e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 892693,
+  "type": "Feature",
+  "properties": {
+    "name":"Heby, Vastmanland, Sweden",
+    "placetype":"locality",
+    "woe:id":892693,
+    "woe:name":"Heby, Vastmanland, Sweden",
+    "woe:place_id":"MjT6qkWRCJ6suBo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.845345,59.888252,16.846207,59.889393],
+  "geometry": {"alpha":0.00015,"bbox":[16.845344543457,59.888252258301,16.846206665039,59.889392852783],"coordinates":[[[[16.845676,59.888252],[16.84548,59.88863],[16.845345,59.889374],[16.845533,59.889393],[16.846207,59.888599],[16.845972,59.888329],[16.845676,59.888252]]]],"created":1292545624,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/892693_20101217_a74ee6972c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2452245,
+  "type": "Feature",
+  "properties": {
+    "name":"Miquon, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2452245,
+    "woe:name":"Miquon, Pennsylvania, United States",
+    "woe:place_id":"TH3p2tCbBZkEkAvB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.269348,40.052643,-75.26136,40.063881],
+  "geometry": {"alpha":0.00015,"bbox":[-75.269348144531,40.052642822266,-75.261360168457,40.06388092041],"coordinates":[[[[-75.26696,40.059658],[-75.269348,40.062241],[-75.262238,40.063881],[-75.262955,40.058327],[-75.26136,40.052643],[-75.26696,40.059658]]]],"created":1292522107,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2452245_20101216_4838e6900e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

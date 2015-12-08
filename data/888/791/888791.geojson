@@ -1,0 +1,15 @@
+{
+  "id": 888791,
+  "type": "Feature",
+  "properties": {
+    "name":"Ekeby, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":888791,
+    "woe:name":"Ekeby, Stockholm, Sweden",
+    "woe:place_id":"egFHu4ORCZSJ.9s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.530537,59.333275,17.545832,59.340076],
+  "geometry": {"alpha":0.00015,"bbox":[17.530536651611,59.333274841309,17.545831680298,59.340076446533],"coordinates":[[[[17.544586,59.333431],[17.544144,59.333275],[17.542976,59.333431],[17.533833,59.339237],[17.530537,59.340076],[17.534952,59.33918],[17.544693,59.336933],[17.544994,59.336777],[17.545832,59.334148],[17.544586,59.333431]]]],"created":1292530684,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/888791_20101216_7e9d0fdae0.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

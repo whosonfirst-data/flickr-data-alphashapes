@@ -1,0 +1,15 @@
+{
+  "id": 2468272,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2468272,
+    "woe:name":"Paris, Ohio, United States",
+    "woe:place_id":"wJxspISbBZrtF4QV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.050888,41.133896,-81.033501,41.153259],
+  "geometry": {"alpha":0.00015,"bbox":[-81.050888061523,41.133895874023,-81.033500671387,41.153259277344],"coordinates":[[[[-81.048203,41.133945],[-81.050888,41.134022],[-81.049744,41.151459],[-81.033524,41.153259],[-81.033501,41.13409],[-81.038002,41.133896],[-81.043465,41.133999],[-81.048203,41.133945]]]],"created":1292440921,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2468272_20101215_ea6fd87c67.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

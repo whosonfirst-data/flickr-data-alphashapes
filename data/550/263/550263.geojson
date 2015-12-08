@@ -1,0 +1,15 @@
+{
+  "id": 550263,
+  "type": "Feature",
+  "properties": {
+    "name":"Waltersdorf, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550263,
+    "woe:name":"Waltersdorf, Styria, Austria",
+    "woe:place_id":"PsIKlaKcBJySb4U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.012705,47.160717,16.025526,47.17215],
+  "geometry": {"alpha":0.00015,"bbox":[16.012704849243,47.160717010498,16.025526046753,47.172149658203],"coordinates":[[[[16.025526,47.162457],[16.024673,47.160717],[16.012705,47.171673],[16.022491,47.17215],[16.024023,47.171909],[16.025526,47.162457]]]],"created":1292438540,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/550263_20101215_d315b368f2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

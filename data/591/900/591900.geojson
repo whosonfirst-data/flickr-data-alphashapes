@@ -1,0 +1,15 @@
+{
+  "id": 591900,
+  "type": "Feature",
+  "properties": {
+    "name":"Francueil, Centre, France",
+    "placetype":"locality",
+    "woe:id":591900,
+    "woe:name":"Francueil, Centre, France",
+    "woe:place_id":"jHGLOaicCJ0pQPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.071103,47.315987,1.08535,47.32655],
+  "geometry": {"alpha":0.00015,"bbox":[1.071102976799,47.315986633301,1.0853500366211,47.326549530029],"coordinates":[[[[1.071252,47.325325],[1.071103,47.325603],[1.071338,47.326023],[1.072025,47.32655],[1.078376,47.31974],[1.08535,47.316769],[1.085114,47.315987],[1.078376,47.31974],[1.071252,47.325325]]]],"created":1292443526,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/591900_20101215_47debd3fc3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

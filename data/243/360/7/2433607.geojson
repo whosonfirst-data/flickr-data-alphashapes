@@ -1,0 +1,15 @@
+{
+  "id": 2433607,
+  "type": "Feature",
+  "properties": {
+    "name":"Knowlton, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2433607,
+    "woe:name":"Knowlton, Wisconsin, United States",
+    "woe:place_id":"Nk15lAabBZ.wY5Fh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.70182,44.710876,-89.681313,44.717663],
+  "geometry": {"alpha":0.00015,"bbox":[-89.701820373535,44.710876464844,-89.681312561035,44.717662811279],"coordinates":[[[[-89.700279,44.710876],[-89.70182,44.714661],[-89.698906,44.715755],[-89.681313,44.717663],[-89.698906,44.710907],[-89.700279,44.710876]]]],"created":1292469242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2433607_20101216_2e01367133.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

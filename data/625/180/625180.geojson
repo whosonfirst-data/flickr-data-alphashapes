@@ -1,0 +1,15 @@
+{
+  "id": 625180,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Laurent, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":625180,
+    "woe:name":"St-Laurent, Rhone-Alpes, France",
+    "woe:place_id":"_4RZk5KfA5nJn2I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.470491,44.631195,4.480361,44.645084],
+  "geometry": {"alpha":0.00015,"bbox":[4.4704909324646,44.631195068359,4.4803609848022,44.645084381104],"coordinates":[[[[4.470491,44.631195],[4.47916,44.645084],[4.480361,44.639488],[4.48019,44.637878],[4.470491,44.631195]]]],"created":1226453047,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3283/shapefiles/625180_20081112_6b0aa6b6b9.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

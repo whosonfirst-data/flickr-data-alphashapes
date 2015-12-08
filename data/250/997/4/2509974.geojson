@@ -1,0 +1,15 @@
+{
+  "id": 2509974,
+  "type": "Feature",
+  "properties": {
+    "name":"Unionville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2509974,
+    "woe:name":"Unionville, Georgia, United States",
+    "woe:place_id":"u_LghyWbBJy3NZMX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.047211,33.157455,-84.035751,33.177933],
+  "geometry": {"alpha":0.00015,"bbox":[-84.047210693359,33.157455444336,-84.035751342773,33.177932739258],"coordinates":[[[[-84.045708,33.176048],[-84.042084,33.169697],[-84.035751,33.157455],[-84.045151,33.164536],[-84.047211,33.177933],[-84.045708,33.176048]]]],"created":1292445067,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2509974_20101215_1db2f73072.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

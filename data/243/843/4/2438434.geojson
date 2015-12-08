@@ -1,0 +1,15 @@
+{
+  "id": 2438434,
+  "type": "Feature",
+  "properties": {
+    "name":"Leonardville, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2438434,
+    "woe:name":"Leonardville, Kansas, United States",
+    "woe:place_id":"Hg.LLUWbBZ_wAGeN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.865898,39.354809,-96.847786,39.379997],
+  "geometry": {"alpha":0.00015,"bbox":[-96.865898132324,39.354808807373,-96.847785949707,39.379997253418],"coordinates":[[[[-96.862061,39.360317],[-96.865898,39.364429],[-96.859467,39.379997],[-96.847786,39.364464],[-96.849846,39.354809],[-96.862061,39.360317]]]],"created":1292476568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2438434_20101216_3c12eb37a6.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55859755,
+  "type": "Feature",
+  "properties": {
+    "name":"Hospital District, Irving, TX, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55859755,
+    "woe:name":"Hospital District, Irving, TX, US, United States",
+    "woe:place_id":"IU.iZaqcBJSthAwtsw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-96.955727,32.829971,-96.945953,32.837509],
+  "geometry": {"alpha":1e-05,"bbox":[-96.955726623535,32.829971313477,-96.945953369141,32.837509155273],"coordinates":[[[[-96.946106,32.83149],[-96.950195,32.833694],[-96.954666,32.833668],[-96.955002,32.833332],[-96.955338,32.833668],[-96.955727,32.835072],[-96.954262,32.83746],[-96.952446,32.837509],[-96.951836,32.836861],[-96.951103,32.83604],[-96.951027,32.835777],[-96.950195,32.833694],[-96.947105,32.831215],[-96.94651,32.829971],[-96.94619,32.830875],[-96.945953,32.831329],[-96.946106,32.83149]]]],"created":1292530380,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/55859755_20101216_0a9840e860.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

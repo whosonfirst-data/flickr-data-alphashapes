@@ -1,0 +1,15 @@
+{
+  "id": 12693708,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolvir, Spain",
+    "placetype":"locality",
+    "woe:id":12693708,
+    "woe:name":"Bolvir, Spain",
+    "woe:place_id":"t4rZc_yYA5qU0OWRyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.872954,42.416107,1.878919,42.420002],
+  "geometry": {"alpha":1e-05,"bbox":[1.8729540109634,42.416107177734,1.878919005394,42.420001983643],"coordinates":[[[[1.87891,42.41946],[1.878619,42.417751],[1.876602,42.418766],[1.872954,42.416107],[1.87643,42.419781],[1.878919,42.420002],[1.87891,42.41946]]]],"created":1292551164,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12693708_20101217_7195c6578c.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

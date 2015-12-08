@@ -1,0 +1,15 @@
+{
+  "id": 885081,
+  "type": "Feature",
+  "properties": {
+    "name":"Arontorp, Kalmar, Sweden",
+    "placetype":"locality",
+    "woe:id":885081,
+    "woe:name":"Arontorp, Kalmar, Sweden",
+    "woe:place_id":"orp2hsORCZnGFqs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.588326,56.660519,16.605513,56.668339],
+  "geometry": {"alpha":0.00015,"bbox":[16.588325500488,56.66051864624,16.605512619019,56.668338775635],"coordinates":[[[[16.60133,56.667789],[16.605513,56.668339],[16.604824,56.665501],[16.588326,56.660519],[16.598907,56.667431],[16.60133,56.667789]]]],"created":1292523070,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/885081_20101216_8169615fcd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

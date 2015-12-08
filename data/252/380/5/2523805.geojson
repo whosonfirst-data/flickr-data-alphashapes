@@ -1,0 +1,15 @@
+{
+  "id": 2523805,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodville, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2523805,
+    "woe:name":"Woodville, Montana, United States",
+    "woe:place_id":"7llAaOCbBJ4dBybG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.465752,46.036636,-112.442963,46.05592],
+  "geometry": {"alpha":0.00015,"bbox":[-112.46575164795,46.036636352539,-112.44296264648,46.055919647217],"coordinates":[[[[-112.465752,46.051731],[-112.462402,46.054173],[-112.442963,46.05592],[-112.450775,46.045311],[-112.459572,46.036636],[-112.465752,46.051731]]]],"created":1292423881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2523805_20101215_c526ab07f3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

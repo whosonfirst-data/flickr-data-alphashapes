@@ -1,0 +1,15 @@
+{
+  "id": 9439,
+  "type": "Feature",
+  "properties": {
+    "name":"Burns Lake, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9439,
+    "woe:name":"Burns Lake, British Columbia, Canada",
+    "woe:place_id":"XkdBrReQBZ9e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-125.771652,54.223934,-125.758507,54.232208],
+  "geometry": {"alpha":0.00015,"bbox":[-125.77165222168,54.223934173584,-125.7585067749,54.232208251953],"coordinates":[[[[-125.762901,54.232124],[-125.762367,54.232208],[-125.759125,54.227509],[-125.758507,54.226711],[-125.758522,54.225601],[-125.771652,54.223934],[-125.762901,54.232124]]]],"created":1292549008,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/9439_20101217_bf0507d5ba.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

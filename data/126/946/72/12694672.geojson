@@ -1,0 +1,15 @@
+{
+  "id": 12694672,
+  "type": "Feature",
+  "properties": {
+    "name":"Torrejoncillo, Spain",
+    "placetype":"locality",
+    "woe:id":12694672,
+    "woe:name":"Torrejoncillo, Spain",
+    "woe:place_id":"1ADrgD.YA5q9b.PRgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.4682,39.896633,-6.46511,39.901211],
+  "geometry": {"alpha":1e-05,"bbox":[-6.4682002067566,39.896633148193,-6.4651098251343,39.901210784912],"coordinates":[[[[-6.46511,39.898087],[-6.467304,39.896633],[-6.467331,39.896748],[-6.4682,39.899071],[-6.465346,39.901211],[-6.46511,39.898087]]]],"created":1292538192,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12694672_20101216_c093b3c5a8.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

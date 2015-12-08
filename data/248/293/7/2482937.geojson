@@ -1,0 +1,15 @@
+{
+  "id": 2482937,
+  "type": "Feature",
+  "properties": {
+    "name":"Rochester, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2482937,
+    "woe:name":"Rochester, Iowa, United States",
+    "woe:place_id":"MVNNTCGbBZRLa1Y0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.147598,41.644695,-91.126892,41.663837],
+  "geometry": {"alpha":0.00015,"bbox":[-91.147598266602,41.644695281982,-91.126892089844,41.663837432861],"coordinates":[[[[-91.136398,41.644695],[-91.147598,41.646107],[-91.142517,41.648941],[-91.136063,41.663837],[-91.126892,41.645542],[-91.136398,41.644695]]]],"created":1292525600,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2482937_20101216_124c2c445c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

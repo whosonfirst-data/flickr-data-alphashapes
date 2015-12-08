@@ -1,0 +1,15 @@
+{
+  "id": 24548001,
+  "type": "Feature",
+  "properties": {
+    "name":"Gniezno, Poland",
+    "placetype":"locality",
+    "woe:id":24548001,
+    "woe:name":"Gniezno, Poland",
+    "woe:place_id":"h.8NaAObBZncy_MziQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.591515,52.529369,17.600033,52.536568],
+  "geometry": {"alpha":1e-05,"bbox":[17.591514587402,52.529369354248,17.600032806396,52.536567687988],"coordinates":[[[[17.594282,52.536568],[17.59984,52.533817],[17.600033,52.529369],[17.595333,52.532017],[17.591515,52.536037],[17.594282,52.536568]]]],"created":1229601485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3295/shapefiles/24548001_20081218_8fa2e472be.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

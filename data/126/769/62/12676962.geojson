@@ -1,0 +1,15 @@
+{
+  "id": 12676962,
+  "type": "Feature",
+  "properties": {
+    "name":"Borgo San Dalmazzo, Italy",
+    "placetype":"locality",
+    "woe:id":12676962,
+    "woe:name":"Borgo San Dalmazzo, Italy",
+    "woe:place_id":"ZARQ3qGYA5r4sd8j8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.477827,44.325813,7.481088,44.331463],
+  "geometry": {"alpha":1e-05,"bbox":[7.4778270721436,44.325813293457,7.4810881614685,44.331462860107],"coordinates":[[[[7.478771,44.325813],[7.477827,44.327042],[7.478256,44.331463],[7.479822,44.326195],[7.481088,44.325981],[7.478771,44.325813]]]],"created":1292538194,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12676962_20101216_872e9ac382.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

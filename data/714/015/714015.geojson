@@ -1,0 +1,15 @@
+{
+  "id": 714015,
+  "type": "Feature",
+  "properties": {
+    "name":"Chiocchio, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":714015,
+    "woe:name":"Chiocchio, Tuscany, Italy",
+    "woe:place_id":"Ufai.mmeAJiPUb4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.309309,43.636448,11.327644,43.646511],
+  "geometry": {"alpha":0.00015,"bbox":[11.309309005737,43.636447906494,11.327644348145,43.646511077881],"coordinates":[[[[11.310768,43.637814],[11.309309,43.646511],[11.323192,43.643204],[11.327644,43.643299],[11.318321,43.636448],[11.315012,43.636654],[11.310768,43.637814]]]],"created":1292535131,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/714015_20101216_7b0158b687.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

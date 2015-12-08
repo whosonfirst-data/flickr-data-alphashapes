@@ -1,0 +1,15 @@
+{
+  "id": 12675799,
+  "type": "Feature",
+  "properties": {
+    "name":"Affi, Italy",
+    "placetype":"locality",
+    "woe:id":12675799,
+    "woe:name":"Affi, Italy",
+    "woe:place_id":"ty00DAuYA5olxfTJZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.762138,45.560459,10.764141,45.563564],
+  "geometry": {"alpha":1e-05,"bbox":[10.762138366699,45.560459136963,10.764141082764,45.563564300537],"coordinates":[[[[10.762739,45.562801],[10.764044,45.563564],[10.764141,45.563438],[10.762138,45.560459],[10.762739,45.562801]]]],"created":1292521407,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12675799_20101216_b939433836.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 467835,
+  "type": "Feature",
+  "properties": {
+    "name":"Peyrano, Santa Fe, Argentina",
+    "placetype":"locality",
+    "woe:id":467835,
+    "woe:name":"Peyrano, Santa Fe, Argentina",
+    "woe:place_id":"98F5biedB5tLKlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.739803,-33.551411,-60.72916,-33.533382],
+  "geometry": {"alpha":0.00015,"bbox":[-60.739803314209,-33.551410675049,-60.729160308838,-33.533382415771],"coordinates":[[[[-60.739803,-33.548691],[-60.73534,-33.54311],[-60.73534,-33.533382],[-60.72916,-33.545544],[-60.734997,-33.551411],[-60.739803,-33.548691]]]],"created":1292357043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/467835_20101214_fb870e7b13.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

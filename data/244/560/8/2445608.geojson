@@ -1,0 +1,15 @@
+{
+  "id": 2445608,
+  "type": "Feature",
+  "properties": {
+    "name":"Margerum, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2445608,
+    "woe:name":"Margerum, Alabama, United States",
+    "woe:place_id":"s_epjSObBZgUjZql",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.094772,34.766178,-88.084473,34.77137],
+  "geometry": {"alpha":0.00015,"bbox":[-88.094772338867,34.766178131104,-88.08447265625,34.771369934082],"coordinates":[[[[-88.087959,34.767296],[-88.092049,34.76651],[-88.094772,34.766178],[-88.089066,34.77137],[-88.084473,34.767986],[-88.087959,34.767296]]]],"created":1292526425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2445608_20101216_33ed5e38a0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

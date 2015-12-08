@@ -1,0 +1,15 @@
+{
+  "id": 12658659,
+  "type": "Feature",
+  "properties": {
+    "name":"C\u00e9ret, France",
+    "placetype":"locality",
+    "woe:id":12658659,
+    "woe:name":"C\u00e9ret, France",
+    "woe:place_id":"kolLpdWYA5rbJsXBSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.746238,42.484638,2.750358,42.489693],
+  "geometry": {"alpha":1e-05,"bbox":[2.7462379932404,42.484638214111,2.7503581047058,42.489692687988],"coordinates":[[[[2.746635,42.485634],[2.746238,42.489693],[2.750144,42.489307],[2.750358,42.488239],[2.749929,42.4855],[2.747665,42.484638],[2.746635,42.485634]]]],"created":1292535157,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12658659_20101216_93079da733.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

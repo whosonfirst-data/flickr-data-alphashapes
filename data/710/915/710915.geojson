@@ -1,0 +1,15 @@
+{
+  "id": 710915,
+  "type": "Feature",
+  "properties": {
+    "name":"Bertesina, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":710915,
+    "woe:name":"Bertesina, Veneto, Italy",
+    "woe:place_id":"vL59mTaeAJwUFxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.600832,45.549332,11.615123,45.559227],
+  "geometry": {"alpha":0.00015,"bbox":[11.600831985474,45.549331665039,11.615122795105,45.559226989746],"coordinates":[[[[11.601477,45.5578],[11.600832,45.559227],[11.602678,45.55825],[11.615123,45.553307],[11.613954,45.549332],[11.602732,45.557625],[11.601477,45.5578]]]],"created":1292450889,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/710915_20101215_41a1de199a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

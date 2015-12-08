@@ -1,0 +1,15 @@
+{
+  "id": 2445196,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Grove, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445196,
+    "woe:name":"Maple Grove, Virginia, United States",
+    "woe:place_id":"S4J86mSbBZimJNH7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.047241,38.252438,-77.03038,38.260796],
+  "geometry": {"alpha":0.00015,"bbox":[-77.047241210938,38.252437591553,-77.030380249023,38.260795593262],"coordinates":[[[[-77.047241,38.255142],[-77.044289,38.260796],[-77.030983,38.253708],[-77.03038,38.252438],[-77.040253,38.255295],[-77.047241,38.255142]]]],"created":1292440857,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2445196_20101215_031b585e4b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

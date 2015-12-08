@@ -1,0 +1,15 @@
+{
+  "id": 3532,
+  "type": "Feature",
+  "properties": {
+    "name":"Alfred, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3532,
+    "woe:name":"Alfred, Ontario, Canada",
+    "woe:place_id":"5y472YWaBJ8W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.894653,45.55595,-74.878029,45.587494],
+  "geometry": {"alpha":0.00015,"bbox":[-74.894653320312,45.555950164795,-74.878028869629,45.587493896484],"coordinates":[[[[-74.878029,45.560307],[-74.879379,45.558025],[-74.884033,45.557522],[-74.894653,45.55595],[-74.894516,45.576077],[-74.886414,45.587494],[-74.88195,45.581871],[-74.878029,45.560307]]]],"created":1292522307,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/3532_20101216_3b0becd2ed.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

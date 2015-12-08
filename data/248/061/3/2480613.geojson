@@ -1,0 +1,15 @@
+{
+  "id": 2480613,
+  "type": "Feature",
+  "properties": {
+    "name":"Rice, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2480613,
+    "woe:name":"Rice, Maryland, United States",
+    "woe:place_id":"MCEo_PybBZTeKJTB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.640808,39.33691,-77.639107,39.341019],
+  "geometry": {"alpha":0.00015,"bbox":[-77.640808105469,39.336910247803,-77.639106750488,39.341018676758],"coordinates":[[[[-77.639519,39.33828],[-77.639793,39.33691],[-77.640808,39.337948],[-77.639107,39.341019],[-77.639519,39.33828]]]],"created":1234708926,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3629/shapefiles/2480613_20090215_45570b7531.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

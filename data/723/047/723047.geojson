@@ -1,0 +1,15 @@
+{
+  "id": 723047,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro Mosezzo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":723047,
+    "woe:name":"San Pietro Mosezzo, Piedmont, Italy",
+    "woe:place_id":"eKddtCGeA59tctI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.538093,45.430565,8.546247,45.459408],
+  "geometry": {"alpha":0.00015,"bbox":[8.5380926132202,45.430564880371,8.5462465286255,45.459407806396],"coordinates":[[[[8.54084,45.459408],[8.542556,45.454109],[8.546247,45.43779],[8.538093,45.430565],[8.538758,45.453583],[8.54084,45.459408]]]],"created":1292522947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/723047_20101216_c5a6a77ef4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

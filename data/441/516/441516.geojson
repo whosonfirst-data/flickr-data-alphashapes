@@ -1,0 +1,15 @@
+{
+  "id": 441516,
+  "type": "Feature",
+  "properties": {
+    "name":"Nova Vila, Porto Alegre, RS, BR, Brazil",
+    "placetype":"neighbourhood",
+    "woe:id":441516,
+    "woe:name":"Nova Vila, Porto Alegre, RS, BR, Brazil",
+    "woe:place_id":"I8VE5ledBZ2TNnw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-51.229828,-30.111168,-51.225128,-30.104082],
+  "geometry": {"alpha":1e-05,"bbox":[-51.229827880859,-30.111167907715,-51.225128173828,-30.104082107544],"coordinates":[[[[-51.228004,-30.109837],[-51.228668,-30.111168],[-51.228519,-30.109982],[-51.229828,-30.104082],[-51.225128,-30.107563],[-51.228004,-30.109837]]]],"created":1292548517,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/441516_20101217_43d9fab147.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

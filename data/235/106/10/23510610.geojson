@@ -1,0 +1,15 @@
+{
+  "id": 23510610,
+  "type": "Feature",
+  "properties": {
+    "name":"Eight Mile House, California, United States",
+    "placetype":"locality",
+    "woe:id":23510610,
+    "woe:name":"Eight Mile House, California, United States",
+    "woe:place_id":"s1CAHBSbAplJSR6eRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.669365,38.734703,-120.656235,38.751923],
+  "geometry": {"alpha":0.00015,"bbox":[-120.6693649292,38.734703063965,-120.65623474121,38.751922607422],"coordinates":[[[[-120.665977,38.748123],[-120.669365,38.751572],[-120.661255,38.751923],[-120.656235,38.734703],[-120.663918,38.743107],[-120.665977,38.748123]]]],"created":1239614295,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3635/shapefiles/23510610_20090413_b65a145193.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

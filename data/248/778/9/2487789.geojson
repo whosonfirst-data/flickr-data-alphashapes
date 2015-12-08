@@ -1,0 +1,15 @@
+{
+  "id": 2487789,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2487789,
+    "woe:name":"San Antonio, Colorado, United States",
+    "woe:place_id":"h8RpQLubBZR9gxP_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.0,36.983906,-105.989227,37.019001],
+  "geometry": {"alpha":0.00015,"bbox":[-106,36.983905792236,-105.98922729492,37.01900100708],"coordinates":[[[[-105.997978,36.994465],[-106.0,37.0],[-105.989227,37.019001],[-105.998924,36.998684],[-105.995575,36.994328],[-105.996094,36.983906],[-105.997978,36.994465]]]],"created":1292549776,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2487789_20101217_0aca4b5047.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

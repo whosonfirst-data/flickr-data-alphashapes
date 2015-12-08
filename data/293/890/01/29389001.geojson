@@ -1,0 +1,15 @@
+{
+  "id": 29389001,
+  "type": "Feature",
+  "properties": {
+    "name":"El Cerrito, San Diego, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":29389001,
+    "woe:name":"El Cerrito, San Diego, CA, US, United States",
+    "woe:place_id":"lGe72BCbCJ8sOjBMWQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-117.079643,32.747093,-117.06842,32.760658],
+  "geometry": {"alpha":1.25e-05,"bbox":[-117.07964324951,32.747093200684,-117.06842041016,32.76065826416],"coordinates":[[[[-117.070396,32.760391],[-117.069656,32.759773],[-117.069511,32.759071],[-117.068726,32.757107],[-117.06842,32.754986],[-117.070343,32.75037],[-117.072029,32.74884],[-117.073311,32.747093],[-117.077606,32.750359],[-117.078018,32.753971],[-117.079262,32.755215],[-117.079643,32.757774],[-117.078033,32.759346],[-117.076111,32.759445],[-117.072502,32.760658],[-117.070396,32.760391]]]],"created":1292500629,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/29389001_20101216_73f885f141.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

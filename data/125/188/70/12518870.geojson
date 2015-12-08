@@ -1,0 +1,15 @@
+{
+  "id": 12518870,
+  "type": "Feature",
+  "properties": {
+    "name":"Blythe Airport, United States",
+    "placetype":"locality",
+    "woe:id":12518870,
+    "woe:name":"Blythe Airport, United States",
+    "woe:place_id":"AKfHLoaYA5mstmvOyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.728004,33.609241,-114.722481,33.611668],
+  "geometry": {"alpha":1e-05,"bbox":[-114.72800445557,33.609241485596,-114.72248077393,33.611667633057],"coordinates":[[[[-114.728004,33.611427],[-114.727966,33.611668],[-114.726532,33.611008],[-114.722481,33.609241],[-114.726768,33.610474],[-114.728004,33.611427]]]],"created":1292521270,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12518870_20101216_3d83a39d3d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

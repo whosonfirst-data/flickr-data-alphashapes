@@ -1,0 +1,15 @@
+{
+  "id": 150310,
+  "type": "Feature",
+  "properties": {
+    "name":"Tzimol, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":150310,
+    "woe:name":"Tzimol, Chiapas, Mexico",
+    "woe:place_id":"ZCXK9HuYBJym.JU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.254768,16.255878,-92.239319,16.268896],
+  "geometry": {"alpha":0.00015,"bbox":[-92.254768371582,16.255878448486,-92.239318847656,16.268896102905],"coordinates":[[[[-92.244301,16.266094],[-92.239319,16.256124],[-92.243958,16.255878],[-92.254768,16.268896],[-92.244301,16.266094]]]],"created":1292534466,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/150310_20101216_d978145b6a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

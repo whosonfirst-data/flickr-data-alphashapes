@@ -1,0 +1,15 @@
+{
+  "id": 12652468,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Fraimbault, France",
+    "placetype":"locality",
+    "woe:id":12652468,
+    "woe:name":"St.-Fraimbault, France",
+    "woe:place_id":"J7wTkh6YA5pjBWFQWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.721836,48.502445,-0.713596,48.506481],
+  "geometry": {"alpha":1e-05,"bbox":[-0.7218359708786,48.502445220947,-0.71359598636627,48.506481170654],"coordinates":[[[[-0.719003,48.504749],[-0.721836,48.506481],[-0.718917,48.50563],[-0.717158,48.505146],[-0.713596,48.502445],[-0.718059,48.504776],[-0.719003,48.504749]]]],"created":1292452083,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12652468_20101215_19b34ac68d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8782,
+  "type": "Feature",
+  "properties": {
+    "name":"Carseland, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8782,
+    "woe:name":"Carseland, Alberta, Canada",
+    "woe:place_id":"X5_k9TqRBpQM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.444992,50.824532,-113.438301,50.848724],
+  "geometry": {"alpha":0.00015,"bbox":[-113.44499206543,50.824531555176,-113.43830108643,50.848724365234],"coordinates":[[[[-113.442154,50.824532],[-113.444992,50.825241],[-113.441803,50.829037],[-113.444695,50.848724],[-113.438301,50.829632],[-113.442154,50.824532]]]],"created":1239524644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3357/shapefiles/8782_20090412_61b8f469a9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

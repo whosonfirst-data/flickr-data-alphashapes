@@ -1,0 +1,15 @@
+{
+  "id": 2503562,
+  "type": "Feature",
+  "properties": {
+    "name":"Taffeltown, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2503562,
+    "woe:name":"Taffeltown, Michigan, United States",
+    "woe:place_id":"CI2FVVubBJzLcR8O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.122658,44.558647,-85.121284,44.559406],
+  "geometry": {"alpha":0.00015,"bbox":[-85.122657775879,44.558647155762,-85.121284484863,44.559406280518],"coordinates":[[[[-85.122353,44.558708],[-85.122658,44.558647],[-85.122116,44.558949],[-85.121284,44.559406],[-85.121437,44.559139],[-85.121758,44.558979],[-85.122353,44.558708]]]],"created":1292507466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2503562_20101216_34de276135.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

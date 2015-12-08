@@ -1,0 +1,15 @@
+{
+  "id": 12687813,
+  "type": "Feature",
+  "properties": {
+    "name":"Casalarreina, Spain",
+    "placetype":"locality",
+    "woe:id":12687813,
+    "woe:name":"Casalarreina, Spain",
+    "woe:place_id":"u_ck2.aYA5qJejt.5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.917342,42.547546,-2.912986,42.55154],
+  "geometry": {"alpha":1e-05,"bbox":[-2.9173419475555,42.547546386719,-2.9129860401154,42.551540374756],"coordinates":[[[[-2.917342,42.550804],[-2.915711,42.55154],[-2.9132,42.547863],[-2.912986,42.547546],[-2.914938,42.547611],[-2.917342,42.550804]]]],"created":1292494982,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12687813_20101216_381b6f6b1f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

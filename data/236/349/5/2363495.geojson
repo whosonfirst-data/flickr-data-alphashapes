@@ -1,0 +1,15 @@
+{
+  "id": 2363495,
+  "type": "Feature",
+  "properties": {
+    "name":"Bethel Heights, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2363495,
+    "woe:name":"Bethel Heights, Oregon, United States",
+    "woe:place_id":"BcIZPHWbAprd1LzL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.163521,45.028999,-123.146011,45.05212],
+  "geometry": {"alpha":0.00015,"bbox":[-123.16352081299,45.028999328613,-123.14601135254,45.05212020874],"coordinates":[[[[-123.152,45.028999],[-123.163521,45.031467],[-123.156219,45.048058],[-123.156311,45.05212],[-123.146011,45.041218],[-123.152,45.028999]]]],"created":1292540433,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2363495_20101216_4605f684a7.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

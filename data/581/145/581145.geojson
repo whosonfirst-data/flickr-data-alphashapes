@@ -1,0 +1,15 @@
+{
+  "id": 581145,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourbon, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":581145,
+    "woe:name":"Bourbon, Auvergne, France",
+    "woe:place_id":"Gm.FLGmcCZ3TKzM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.055229,46.581402,3.060899,46.59013],
+  "geometry": {"alpha":0.00015,"bbox":[3.0552289485931,46.581401824951,3.0608990192413,46.590129852295],"coordinates":[[[[3.059928,46.583561],[3.0554,46.581402],[3.055229,46.584763],[3.056645,46.59013],[3.060899,46.588058],[3.059928,46.583561]]]],"created":1292526726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/581145_20101216_53d3bfa992.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

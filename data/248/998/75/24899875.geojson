@@ -1,0 +1,15 @@
+{
+  "id": 24899875,
+  "type": "Feature",
+  "properties": {
+    "name":"Lagoa, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":24899875,
+    "woe:name":"Lagoa, Lisbon, Portugal",
+    "woe:place_id":"klzo0JWbBZQrdQuIQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.389895,39.005276,-9.389444,39.005714],
+  "geometry": {"alpha":0.00015,"bbox":[-9.3898954391479,39.005275726318,-9.3894443511963,39.005714416504],"coordinates":[[[[-9.38988,39.005711],[-9.389722,39.005554],[-9.389444,39.005276],[-9.389759,39.005394],[-9.389895,39.005714],[-9.38988,39.005711]]]],"created":1292514492,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/24899875_20101216_078d1cbc62.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

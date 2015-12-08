@@ -1,0 +1,15 @@
+{
+  "id": 2441463,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Beach, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2441463,
+    "woe:name":"Long Beach, Minnesota, United States",
+    "woe:place_id":"zr2TP6KbBZhtowXo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.480118,45.615284,-95.466881,45.634205],
+  "geometry": {"alpha":0.00015,"bbox":[-95.480117797852,45.615283966064,-95.46688079834,45.634204864502],"coordinates":[[[[-95.470886,45.615459],[-95.477158,45.616379],[-95.480118,45.634205],[-95.467178,45.616745],[-95.466881,45.615284],[-95.470886,45.615459]]]],"created":1292456707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2441463_20101215_ea4891343f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

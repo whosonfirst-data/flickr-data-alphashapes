@@ -1,0 +1,15 @@
+{
+  "id": 2367102,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2367102,
+    "woe:name":"Boston, Virginia, United States",
+    "woe:place_id":"_Tu7KMubApq97LD2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.143234,38.543793,-78.123093,38.566792],
+  "geometry": {"alpha":0.00015,"bbox":[-78.14323425293,38.543792724609,-78.123092651367,38.566791534424],"coordinates":[[[[-78.123093,38.553467],[-78.129517,38.543793],[-78.143234,38.552361],[-78.133003,38.566792],[-78.123093,38.553467]]]],"created":1292448261,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2367102_20101215_7b78d3dbf0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

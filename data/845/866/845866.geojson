@@ -1,0 +1,15 @@
+{
+  "id": 845866,
+  "type": "Feature",
+  "properties": {
+    "name":"Todva, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":845866,
+    "woe:name":"Todva, Harju County, Estonia",
+    "woe:place_id":"YlunGeKRBZmVbFo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.698982,59.269501,24.71826,59.270962],
+  "geometry": {"alpha":0.00015,"bbox":[24.69898223877,59.269500732422,24.718259811401,59.270961761475],"coordinates":[[[[24.715191,59.269501],[24.698982,59.270443],[24.71508,59.269829],[24.716999,59.270962],[24.71739,59.270779],[24.71826,59.270199],[24.715191,59.269501]]]],"created":1292492589,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/845866_20101216_8aae79c4ab.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

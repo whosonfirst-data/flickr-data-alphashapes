@@ -1,0 +1,15 @@
+{
+  "id": 12625241,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Umpferstedt, Germany",
+    "placetype":"locality",
+    "woe:id":12625241,
+    "woe:name":"Gemeinde Umpferstedt, Germany",
+    "woe:place_id":"MtedLKWYA5r0kFLbTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.398705,50.965279,11.401252,50.965576],
+  "geometry": {"alpha":1e-05,"bbox":[11.398704528809,50.965278625488,11.401251792908,50.965576171875],"coordinates":[[[[11.401183,50.965565],[11.401252,50.965523],[11.401111,50.965279],[11.398705,50.965527],[11.401063,50.965576],[11.401183,50.965565]]]],"created":1292513226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12625241_20101216_db647f2c0e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

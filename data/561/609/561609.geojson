@@ -1,0 +1,15 @@
+{
+  "id": 561609,
+  "type": "Feature",
+  "properties": {
+    "name":"Lowertown, Cork, Ireland",
+    "placetype":"locality",
+    "woe:id":561609,
+    "woe:name":"Lowertown, Cork, Ireland",
+    "woe:place_id":"2sG434icB53KmqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.603481,51.500408,-9.596214,51.523697],
+  "geometry": {"alpha":0.00015,"bbox":[-9.6034812927246,51.500408172607,-9.5962142944336,51.523696899414],"coordinates":[[[[-9.597501,51.523697],[-9.598016,51.523003],[-9.600345,51.509167],[-9.596214,51.500408],[-9.603481,51.507286],[-9.599733,51.52343],[-9.597501,51.523697]]]],"created":1292550662,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/561609_20101217_c2036ec3d3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

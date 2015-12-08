@@ -1,0 +1,15 @@
+{
+  "id": 113303,
+  "type": "Feature",
+  "properties": {
+    "name":"Becal, Campeche, Mexico",
+    "placetype":"locality",
+    "woe:id":113303,
+    "woe:name":"Becal, Campeche, Mexico",
+    "woe:place_id":"Fv4H1HaYAJ9FnWU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.034332,20.440525,-90.021454,20.454679],
+  "geometry": {"alpha":0.00015,"bbox":[-90.034332275391,20.440525054932,-90.021453857422,20.454679489136],"coordinates":[[[[-90.024376,20.440525],[-90.029526,20.44142],[-90.029694,20.442898],[-90.034332,20.454679],[-90.021454,20.454679],[-90.024376,20.440525]]]],"created":1292549621,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/113303_20101217_0cfff69282.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

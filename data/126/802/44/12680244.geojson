@@ -1,0 +1,15 @@
+{
+  "id": 12680244,
+  "type": "Feature",
+  "properties": {
+    "name":"Matino, Italy",
+    "placetype":"locality",
+    "woe:id":12680244,
+    "woe:name":"Matino, Italy",
+    "woe:place_id":"cN_sSaOYA5oTLttMQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.120037,40.04884,18.126755,40.054554],
+  "geometry": {"alpha":1e-05,"bbox":[18.120037078857,40.048839569092,18.126754760742,40.054553985596],"coordinates":[[[[18.120037,40.049374],[18.122667,40.049667],[18.125896,40.054554],[18.126755,40.050385],[18.123236,40.04884],[18.120037,40.049374]]]],"created":1292531771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12680244_20101216_80ffb5be66.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

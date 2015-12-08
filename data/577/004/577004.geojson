@@ -1,0 +1,15 @@
+{
+  "id": 577004,
+  "type": "Feature",
+  "properties": {
+    "name":"Aubas, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":577004,
+    "woe:name":"Aubas, Aquitaine, France",
+    "woe:place_id":"PmKi0_mcBpvrYns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.18824,45.068703,1.190471,45.084232],
+  "geometry": {"alpha":0.00015,"bbox":[1.1882400512695,45.068702697754,1.1904710531235,45.084232330322],"coordinates":[[[[1.189742,45.084064],[1.189913,45.084202],[1.190257,45.084232],[1.190471,45.083672],[1.18824,45.068703],[1.189935,45.083641],[1.189742,45.084064]]]],"created":1292532177,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/577004_20101216_4fa79d6dc5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

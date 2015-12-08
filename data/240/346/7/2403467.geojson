@@ -1,0 +1,15 @@
+{
+  "id": 2403467,
+  "type": "Feature",
+  "properties": {
+    "name":"Finleyville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2403467,
+    "woe:name":"Finleyville, Pennsylvania, United States",
+    "woe:place_id":"wKn.ipCbBZxHMmm0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.004974,40.230202,-79.996132,40.256245],
+  "geometry": {"alpha":0.00015,"bbox":[-80.004974365234,40.230201721191,-79.996131896973,40.256244659424],"coordinates":[[[[-80.003105,40.255741],[-80.002548,40.252789],[-79.996132,40.230202],[-80.003815,40.252274],[-80.004974,40.256245],[-80.003105,40.255741]]]],"created":1292530778,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2403467_20101216_538857efc1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

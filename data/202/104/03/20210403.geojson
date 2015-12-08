@@ -1,0 +1,15 @@
+{
+  "id": 20210403,
+  "type": "Feature",
+  "properties": {
+    "name":"Karellis, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210403,
+    "woe:name":"Karellis, Rhone-Alpes, France",
+    "woe:place_id":"o0UVE5ubAZ7diKuy6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.405801,45.22641,6.409095,45.228119],
+  "geometry": {"alpha":0.00015,"bbox":[6.405800819397,45.226409912109,6.4090948104858,45.228118896484],"coordinates":[[[[6.408977,45.227875],[6.409095,45.227604],[6.407561,45.22641],[6.406402,45.226425],[6.405801,45.228119],[6.408977,45.227875]]]],"created":1292527083,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/20210403_20101216_522f8130b2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

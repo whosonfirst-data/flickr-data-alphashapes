@@ -1,0 +1,15 @@
+{
+  "id": 20071230,
+  "type": "Feature",
+  "properties": {
+    "name":"Rathanna, Ireland",
+    "placetype":"locality",
+    "woe:id":20071230,
+    "woe:name":"Rathanna, Ireland",
+    "woe:place_id":"yTbZud6bAZyDv77UUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.780109,52.618359,-6.775828,52.622227],
+  "geometry": {"alpha":1e-05,"bbox":[-6.7801089286804,52.618358612061,-6.7758278846741,52.622226715088],"coordinates":[[[[-6.778049,52.619205],[-6.780109,52.619541],[-6.779766,52.619827],[-6.777191,52.622227],[-6.775828,52.618359],[-6.778049,52.619205]]]],"created":1292549829,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/20071230_20101217_f650e1c663.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

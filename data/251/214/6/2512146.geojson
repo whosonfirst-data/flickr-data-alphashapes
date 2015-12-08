@@ -1,0 +1,15 @@
+{
+  "id": 2512146,
+  "type": "Feature",
+  "properties": {
+    "name":"Vidal, California, United States",
+    "placetype":"locality",
+    "woe:id":2512146,
+    "woe:name":"Vidal, California, United States",
+    "woe:place_id":"pzVwGEabBJ3cNGAh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.521828,34.118893,-114.510033,34.132851],
+  "geometry": {"alpha":0.00015,"bbox":[-114.52182769775,34.118892669678,-114.51003265381,34.132850646973],"coordinates":[[[[-114.510033,34.119968],[-114.510048,34.118893],[-114.510498,34.119583],[-114.521828,34.132851],[-114.510109,34.120224],[-114.510033,34.119968]]]],"created":1292513045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2512146_20101216_a6b55bfa54.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

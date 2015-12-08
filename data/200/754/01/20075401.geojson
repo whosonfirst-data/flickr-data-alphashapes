@@ -1,0 +1,15 @@
+{
+  "id": 20075401,
+  "type": "Feature",
+  "properties": {
+    "name":"Champoz, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075401,
+    "woe:name":"Champoz, Switzerland",
+    "woe:place_id":"1KvEgnqbAZyZO6FDIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.329168,47.255756,7.331228,47.258671],
+  "geometry": {"alpha":1e-05,"bbox":[7.329167842865,47.255756378174,7.3312277793884,47.258670806885],"coordinates":[[[[7.329168,47.25634],[7.329254,47.257183],[7.32994,47.258671],[7.331228,47.258671],[7.330112,47.257008],[7.329425,47.255756],[7.329168,47.25634]]]],"created":1292495044,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20075401_20101216_7e0451b9b8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

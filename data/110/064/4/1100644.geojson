@@ -1,0 +1,15 @@
+{
+  "id": 1100644,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridgewater, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1100644,
+    "woe:name":"Bridgewater, Tasmania, Australia",
+    "woe:place_id":"9uprrPWYAJywRNWi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.235214,-42.730118,147.253876,-42.719776],
+  "geometry": {"alpha":0.00015,"bbox":[147.2352142334,-42.730117797852,147.25387573242,-42.719776153564],"coordinates":[[[[147.235214,-42.721603],[147.239624,-42.719776],[147.253876,-42.730118],[147.235382,-42.725185],[147.235214,-42.721603]]]],"created":1292533210,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1100644_20101216_5c4af53f1a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

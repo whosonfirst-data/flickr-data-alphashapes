@@ -1,0 +1,15 @@
+{
+  "id": 23395521,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilson's Corner, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395521,
+    "woe:name":"Wilson's Corner, Quebec, Canada",
+    "woe:place_id":"Ru1k.pObAp_oTKa_rw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.848061,45.579475,-75.832573,45.608753],
+  "geometry": {"alpha":0.00015,"bbox":[-75.84806060791,45.579475402832,-75.832572937012,45.608753204346],"coordinates":[[[[-75.840797,45.585255],[-75.843513,45.588142],[-75.848061,45.598244],[-75.839355,45.608753],[-75.836761,45.605263],[-75.835449,45.603897],[-75.837074,45.587975],[-75.832573,45.579475],[-75.840797,45.585255]]]],"created":1292548931,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23395521_20101217_f450a970b1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

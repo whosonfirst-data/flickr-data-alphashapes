@@ -1,0 +1,15 @@
+{
+  "id": 2402224,
+  "type": "Feature",
+  "properties": {
+    "name":"Fancy Bluff, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2402224,
+    "woe:name":"Fancy Bluff, Georgia, United States",
+    "woe:place_id":"znEzKEqbBZzqyN8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.57283,31.133665,-81.55529,31.147739],
+  "geometry": {"alpha":0.00015,"bbox":[-81.572830200195,31.133665084839,-81.555290222168,31.1477394104],"coordinates":[[[[-81.570564,31.138985],[-81.55529,31.147739],[-81.567589,31.133665],[-81.57283,31.134167],[-81.571899,31.13764],[-81.570564,31.138985]]]],"created":1292528260,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2402224_20101216_a1af098e7b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

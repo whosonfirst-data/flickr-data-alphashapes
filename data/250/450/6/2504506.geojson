@@ -1,0 +1,15 @@
+{
+  "id": 2504506,
+  "type": "Feature",
+  "properties": {
+    "name":"Teasleys Mill, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2504506,
+    "woe:name":"Teasleys Mill, Alabama, United States",
+    "woe:place_id":"b0SOTmKbBJx130c4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.117706,32.154541,-86.112213,32.170834],
+  "geometry": {"alpha":0.00015,"bbox":[-86.117706298828,32.154541015625,-86.112213134766,32.170833587646],"coordinates":[[[[-86.112213,32.154541],[-86.113998,32.160168],[-86.117706,32.16573],[-86.116997,32.170834],[-86.1129,32.159775],[-86.112213,32.154541]]]],"created":1292494268,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2504506_20101216_33f01e5462.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

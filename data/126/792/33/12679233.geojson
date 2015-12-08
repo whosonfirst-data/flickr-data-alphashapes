@@ -1,0 +1,15 @@
+{
+  "id": 12679233,
+  "type": "Feature",
+  "properties": {
+    "name":"Fenis, Italy",
+    "placetype":"locality",
+    "woe:id":12679233,
+    "woe:name":"Fenis, Italy",
+    "woe:place_id":"DqYJ5hWYA5redRyofg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.492675,45.735893,7.49525,45.739136],
+  "geometry": {"alpha":1e-05,"bbox":[7.4926748275757,45.735893249512,7.4952502250671,45.739135742188],"coordinates":[[[[7.493276,45.736366],[7.492761,45.736919],[7.492675,45.738537],[7.49525,45.739136],[7.493813,45.735893],[7.493276,45.736366]]]],"created":1292532738,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12679233_20101216_864bafea9a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

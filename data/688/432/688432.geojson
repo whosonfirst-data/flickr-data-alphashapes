@@ -1,0 +1,15 @@
+{
+  "id": 688432,
+  "type": "Feature",
+  "properties": {
+    "name":"Riechheim, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":688432,
+    "woe:name":"Riechheim, Thuringia, Germany",
+    "woe:place_id":"zre3fGafCZQjtEs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.119022,50.879047,11.129375,50.88755],
+  "geometry": {"alpha":0.00015,"bbox":[11.119022369385,50.879047393799,11.129375457764,50.887550354004],"coordinates":[[[[11.128978,50.881973],[11.129375,50.880768],[11.119022,50.879047],[11.119623,50.880306],[11.12267,50.886494],[11.125888,50.88755],[11.128978,50.881973]]]],"created":1292530621,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/688432_20101216_55d45d21a3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

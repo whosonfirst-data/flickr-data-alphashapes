@@ -1,0 +1,15 @@
+{
+  "id": 2524545,
+  "type": "Feature",
+  "properties": {
+    "name":"Yantis, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2524545,
+    "woe:name":"Yantis, Texas, United States",
+    "woe:place_id":"kGrhOKebBJ6fBPo7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.578522,32.931866,-95.567505,32.950199],
+  "geometry": {"alpha":0.00015,"bbox":[-95.578521728516,32.931865692139,-95.567504882812,32.950199127197],"coordinates":[[[[-95.577667,32.931866],[-95.578522,32.94429],[-95.573845,32.950199],[-95.568718,32.936508],[-95.567505,32.933865],[-95.577667,32.931866]]]],"created":1226546886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3221/shapefiles/2524545_20081113_899a7002a6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

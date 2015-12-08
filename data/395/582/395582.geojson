@@ -1,0 +1,15 @@
+{
+  "id": 395582,
+  "type": "Feature",
+  "properties": {
+    "name":"La Laja, Bolivar, Venezuela",
+    "placetype":"locality",
+    "woe:id":395582,
+    "woe:name":"La Laja, Bolivar, Venezuela",
+    "woe:place_id":"_yt9ZCmaCJngTK4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.096298,5.164535,-61.094536,5.167719],
+  "geometry": {"alpha":0.00015,"bbox":[-61.096298217773,5.1645350456238,-61.094535827637,5.1677188873291],"coordinates":[[[[-61.096252,5.165502],[-61.096298,5.165633],[-61.09573,5.167719],[-61.094864,5.165969],[-61.094536,5.164535],[-61.096252,5.165502]]]],"created":1292450491,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/395582_20101215_ae647808c8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

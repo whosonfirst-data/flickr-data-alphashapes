@@ -1,0 +1,15 @@
+{
+  "id": 145163,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro Zacatenco, Distrito Federal, Mexico",
+    "placetype":"locality",
+    "woe:id":145163,
+    "woe:name":"San Pedro Zacatenco, Distrito Federal, Mexico",
+    "woe:place_id":"ElwXrbmYBZmSdeI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.130882,19.497017,-99.113159,19.515785],
+  "geometry": {"alpha":0.00015,"bbox":[-99.130882263184,19.497016906738,-99.113159179688,19.515785217285],"coordinates":[[[[-99.115829,19.502987],[-99.117393,19.501108],[-99.127579,19.497017],[-99.130882,19.502901],[-99.113159,19.515785],[-99.115829,19.502987]]]],"created":1292453346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/145163_20101215_be795bb046.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

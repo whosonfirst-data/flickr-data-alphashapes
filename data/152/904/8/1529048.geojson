@@ -1,0 +1,15 @@
+{
+  "id": 1529048,
+  "type": "Feature",
+  "properties": {
+    "name":"Yala, Nyanza, Kenya",
+    "placetype":"locality",
+    "woe:id":1529048,
+    "woe:name":"Yala, Nyanza, Kenya",
+    "woe:place_id":"WE4Kr5iYBJ5xHbhx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [34.494835,0.056167,34.499001,0.057167],
+  "geometry": {"alpha":0.00015,"bbox":[34.494834899902,0.056166999042034,34.499000549316,0.057167001068592],"coordinates":[[[[34.494835,0.056167],[34.495499,0.056333],[34.498165,0.057],[34.499001,0.057167],[34.496334,0.056333],[34.494835,0.056167]]]],"created":1292468286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/1529048_20101216_5ce9c3f2ed.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

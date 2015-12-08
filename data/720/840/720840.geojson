@@ -1,0 +1,15 @@
+{
+  "id": 720840,
+  "type": "Feature",
+  "properties": {
+    "name":"Polino, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":720840,
+    "woe:name":"Polino, Umbria, Italy",
+    "woe:place_id":"n.xhx3SeA5wqpXk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.84027,42.579281,12.849197,42.587467],
+  "geometry": {"alpha":0.00015,"bbox":[12.840270042419,42.579280853271,12.849197387695,42.587467193604],"coordinates":[[[[12.844605,42.580608],[12.843704,42.579472],[12.842073,42.579281],[12.84027,42.587467],[12.848167,42.586327],[12.849197,42.585064],[12.844605,42.580608]]]],"created":1292523990,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/720840_20101216_afa685a0a4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

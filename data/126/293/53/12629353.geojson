@@ -1,0 +1,15 @@
+{
+  "id": 12629353,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Konz, Germany",
+    "placetype":"locality",
+    "woe:id":12629353,
+    "woe:name":"Gemeinde Konz, Germany",
+    "woe:place_id":"bgXkJzSYA5oNV.YzLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.599747,49.714031,6.605503,49.715965],
+  "geometry": {"alpha":1e-05,"bbox":[6.5997471809387,49.714031219482,6.6055030822754,49.715965270996],"coordinates":[[[[6.602039,49.714886],[6.605503,49.715965],[6.602525,49.714031],[6.599747,49.714169],[6.601165,49.714611],[6.602039,49.714886]]]],"created":1292534209,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12629353_20101216_e9a4346835.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

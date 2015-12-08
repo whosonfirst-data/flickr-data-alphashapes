@@ -1,0 +1,15 @@
+{
+  "id": 2500784,
+  "type": "Feature",
+  "properties": {
+    "name":"Strattanville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2500784,
+    "woe:name":"Strattanville, Pennsylvania, United States",
+    "woe:place_id":"U2bq_12bBJwqNLxt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.327446,41.199444,-79.313057,41.202488],
+  "geometry": {"alpha":0.00015,"bbox":[-79.327445983887,41.199443817139,-79.313056945801,41.202487945557],"coordinates":[[[[-79.320427,41.201],[-79.327446,41.202488],[-79.319504,41.2015],[-79.313057,41.199444],[-79.320427,41.201]]]],"created":1292445031,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2500784_20101215_ccc6a00eb6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

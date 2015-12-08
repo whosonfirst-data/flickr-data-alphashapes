@@ -1,0 +1,15 @@
+{
+  "id": 2402393,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmerstown, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2402393,
+    "woe:name":"Farmerstown, Ohio, United States",
+    "woe:place_id":"sNnNRKybBZzMMBJL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.737968,40.476921,-81.725861,40.485218],
+  "geometry": {"alpha":0.00015,"bbox":[-81.737968444824,40.476921081543,-81.725860595703,40.485218048096],"coordinates":[[[[-81.731415,40.476921],[-81.737968,40.484146],[-81.725929,40.485218],[-81.725883,40.485218],[-81.725861,40.485218],[-81.731415,40.476921]]]],"created":1247727621,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3041/shapefiles/2402393_20090716_479e47fe66.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

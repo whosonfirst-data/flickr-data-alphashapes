@@ -1,0 +1,15 @@
+{
+  "id": 784267,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Jean, Canton of Valais, Switzerland",
+    "placetype":"locality",
+    "woe:id":784267,
+    "woe:name":"St.-Jean, Canton of Valais, Switzerland",
+    "woe:place_id":"4bdqx36eCZgpWPw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.58261,46.196808,7.586059,46.198879],
+  "geometry": {"alpha":0.00015,"bbox":[7.5826101303101,46.196807861328,7.5860590934753,46.198879241943],"coordinates":[[[[7.583265,46.196808],[7.58261,46.198231],[7.585823,46.198879],[7.586059,46.197063],[7.585407,46.196934],[7.583265,46.196808]]]],"created":1292539585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/784267_20101216_21e6347b40.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2403158,
+  "type": "Feature",
+  "properties": {
+    "name":"Ferris, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2403158,
+    "woe:name":"Ferris, Illinois, United States",
+    "woe:place_id":"bm3mWE2bBZxMTj2K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.172508,40.462097,-91.168327,40.469036],
+  "geometry": {"alpha":0.00015,"bbox":[-91.172508239746,40.462097167969,-91.168327331543,40.469036102295],"coordinates":[[[[-91.172508,40.468719],[-91.170364,40.469036],[-91.169853,40.468777],[-91.168327,40.462097],[-91.172508,40.468719]]]],"created":1292512564,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2403158_20101216_3d380e4a43.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

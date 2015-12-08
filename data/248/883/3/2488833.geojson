@@ -1,0 +1,15 @@
+{
+  "id": 2488833,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Clara, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2488833,
+    "woe:name":"Santa Clara, Oregon, United States",
+    "woe:place_id":"WPZ6WSGbBZSwDKAO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.147812,44.092121,-123.117424,44.108841],
+  "geometry": {"alpha":0.00015,"bbox":[-123.14781188965,44.092121124268,-123.11742401123,44.108840942383],"coordinates":[[[[-123.135834,44.108055],[-123.132362,44.105091],[-123.12249,44.101135],[-123.117424,44.101887],[-123.120079,44.092121],[-123.133926,44.094658],[-123.142448,44.095119],[-123.147812,44.104843],[-123.137299,44.108841],[-123.135834,44.108055]]]],"created":1292526186,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2488833_20101216_9e9e52dd70.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

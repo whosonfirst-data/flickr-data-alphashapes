@@ -1,0 +1,15 @@
+{
+  "id": 2520911,
+  "type": "Feature",
+  "properties": {
+    "name":"Williamstown, New York, United States",
+    "placetype":"locality",
+    "woe:id":2520911,
+    "woe:name":"Williamstown, New York, United States",
+    "woe:place_id":"M1au4vabBJ7c2cVs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.911232,43.413372,-75.884949,43.432167],
+  "geometry": {"alpha":0.00015,"bbox":[-75.911231994629,43.413372039795,-75.884948730469,43.432167053223],"coordinates":[[[[-75.889259,43.42355],[-75.89196,43.422729],[-75.911232,43.413372],[-75.908661,43.432167],[-75.89196,43.422729],[-75.884949,43.421539],[-75.889259,43.42355]]]],"created":1292460963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2520911_20101216_977ca697cd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

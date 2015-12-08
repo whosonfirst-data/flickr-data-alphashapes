@@ -1,0 +1,15 @@
+{
+  "id": 2392623,
+  "type": "Feature",
+  "properties": {
+    "name":"Dogtown Landing, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2392623,
+    "woe:name":"Dogtown Landing, Illinois, United States",
+    "woe:place_id":"SBKkgzibApXR6m1X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.691238,38.995174,-90.679779,39.00462],
+  "geometry": {"alpha":0.00015,"bbox":[-90.69123840332,38.995174407959,-90.679779052734,39.004619598389],"coordinates":[[[[-90.683212,39.002377],[-90.679779,38.995174],[-90.684509,38.996407],[-90.691238,39.004368],[-90.691154,39.00462],[-90.683212,39.002377]]]],"created":1292444692,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2392623_20101215_1862e372e0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

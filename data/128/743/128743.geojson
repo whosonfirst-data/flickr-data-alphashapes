@@ -1,0 +1,15 @@
+{
+  "id": 128743,
+  "type": "Feature",
+  "properties": {
+    "name":"La Pesca, Tamaulipas, Mexico",
+    "placetype":"locality",
+    "woe:id":128743,
+    "woe:name":"La Pesca, Tamaulipas, Mexico",
+    "woe:place_id":"eC8.hBSYA5QiPCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.743988,23.775526,-97.7342,23.789822],
+  "geometry": {"alpha":0.00015,"bbox":[-97.743988037109,23.775526046753,-97.734199523926,23.789821624756],"coordinates":[[[[-97.7342,23.777491],[-97.736023,23.775526],[-97.736603,23.776705],[-97.743988,23.787308],[-97.736946,23.789822],[-97.7342,23.777491]]]],"created":1292550413,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/128743_20101217_53e633c74c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

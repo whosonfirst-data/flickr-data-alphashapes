@@ -1,0 +1,15 @@
+{
+  "id": 12624093,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wiesensteig, Germany",
+    "placetype":"locality",
+    "woe:id":12624093,
+    "woe:name":"Gemeinde Wiesensteig, Germany",
+    "woe:place_id":"Wo22tU6YA5oQKyGa0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.59115,48.571835,9.594326,48.577347],
+  "geometry": {"alpha":1e-05,"bbox":[9.5911502838135,48.571834564209,9.5943260192871,48.577346801758],"coordinates":[[[[9.592952,48.574333],[9.593006,48.575714],[9.593124,48.577347],[9.594326,48.574421],[9.59115,48.571835],[9.592952,48.574333]]]],"created":1292546407,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12624093_20101217_2f7e707a74.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

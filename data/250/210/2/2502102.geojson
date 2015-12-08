@@ -1,0 +1,15 @@
+{
+  "id": 2502102,
+  "type": "Feature",
+  "properties": {
+    "name":"Sunny Point, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2502102,
+    "woe:name":"Sunny Point, Georgia, United States",
+    "woe:place_id":"PIId1v6bBJzA.2qp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.065758,33.091721,-85.062012,33.097916],
+  "geometry": {"alpha":0.00015,"bbox":[-85.065757751465,33.091720581055,-85.06201171875,33.097915649414],"coordinates":[[[[-85.065758,33.09679],[-85.065208,33.097916],[-85.062012,33.091721],[-85.06498,33.093788],[-85.065758,33.09679]]]],"created":1292378042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2502102_20101215_ed2d0b737a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

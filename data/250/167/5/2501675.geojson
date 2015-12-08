@@ -1,0 +1,15 @@
+{
+  "id": 2501675,
+  "type": "Feature",
+  "properties": {
+    "name":"Summertown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2501675,
+    "woe:name":"Summertown, Tennessee, United States",
+    "woe:place_id":"TVLCLjmbBJzVQ2gv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.319832,35.428837,-87.292381,35.438644],
+  "geometry": {"alpha":0.00015,"bbox":[-87.319831848145,35.42883682251,-87.292381286621,35.43864440918],"coordinates":[[[[-87.296593,35.436565],[-87.292381,35.438644],[-87.300964,35.428837],[-87.319832,35.430672],[-87.314529,35.43438],[-87.296593,35.436565]]]],"created":1292533344,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2501675_20101216_b783539c0d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

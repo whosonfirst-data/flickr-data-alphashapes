@@ -1,0 +1,15 @@
+{
+  "id": 22755110,
+  "type": "Feature",
+  "properties": {
+    "name":"Lavaudieu, France",
+    "placetype":"locality",
+    "woe:id":22755110,
+    "woe:name":"Lavaudieu, France",
+    "woe:place_id":"VuBXMMObA5sD1jsOeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.453311,45.262123,3.454685,45.266068],
+  "geometry": {"alpha":1e-05,"bbox":[3.4533109664917,45.26212310791,3.4546849727631,45.266067504883],"coordinates":[[[[3.453311,45.263168],[3.453483,45.266068],[3.454685,45.264496],[3.454577,45.262123],[3.453311,45.263168]]]],"created":1292462887,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/22755110_20101216_ba58718bba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

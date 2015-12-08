@@ -1,0 +1,15 @@
+{
+  "id": 23394508,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Denis-sur-Richelieu, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394508,
+    "woe:name":"St.-Denis-sur-Richelieu, Quebec, Canada",
+    "woe:place_id":"V_UM9yubAp_SzSdeMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.165321,45.783138,-73.159142,45.787636],
+  "geometry": {"alpha":0.00015,"bbox":[-73.165321350098,45.783138275146,-73.159141540527,45.787635803223],"coordinates":[[[[-73.160889,45.783566],[-73.165321,45.787186],[-73.164398,45.787636],[-73.159233,45.786243],[-73.159142,45.786221],[-73.159683,45.783138],[-73.160889,45.783566]]]],"created":1292522516,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23394508_20101216_a953cf10cd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

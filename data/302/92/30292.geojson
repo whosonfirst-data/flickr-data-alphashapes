@@ -1,0 +1,15 @@
+{
+  "id": 30292,
+  "type": "Feature",
+  "properties": {
+    "name":"Newtown, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30292,
+    "woe:name":"Newtown, Scotland, United Kingdom",
+    "woe:place_id":"648iwHaaAZ5l1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.084266,56.224834,-5.076026,56.228657],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0842661857605,56.224834442139,-5.0760259628296,56.228656768799],"coordinates":[[[[-5.077,56.224998],[-5.077167,56.224834],[-5.07946,56.225891],[-5.084266,56.228657],[-5.0774,56.226559],[-5.076026,56.226379],[-5.077,56.224998]]]],"created":1292526179,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/30292_20101216_750a7171ef.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

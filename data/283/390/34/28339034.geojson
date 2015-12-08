@@ -1,0 +1,15 @@
+{
+  "id": 28339034,
+  "type": "Feature",
+  "properties": {
+    "name":"Sumpter, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28339034,
+    "woe:name":"Sumpter, Michigan, United States",
+    "woe:place_id":"m89WPX2bCZ8MeBacZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.454201,42.092838,-83.442963,42.105145],
+  "geometry": {"alpha":0.00015,"bbox":[-83.454200744629,42.092838287354,-83.442962646484,42.105144500732],"coordinates":[[[[-83.452782,42.104076],[-83.44603,42.095406],[-83.442963,42.092838],[-83.453865,42.094528],[-83.454201,42.105145],[-83.452782,42.104076]]]],"created":1292521338,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/28339034_20101216_49e99ffc81.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

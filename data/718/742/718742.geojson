@@ -1,0 +1,15 @@
+{
+  "id": 718742,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte San Martino, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":718742,
+    "woe:name":"Monte San Martino, Marche, Italy",
+    "woe:place_id":"H3Z8PrqeAJSrzkk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.432765,43.031139,13.440055,43.034706],
+  "geometry": {"alpha":0.00015,"bbox":[13.432765007019,43.031139373779,13.440054893494,43.034706115723],"coordinates":[[[[13.439589,43.031448],[13.439267,43.031139],[13.432765,43.031559],[13.436102,43.03299],[13.439712,43.034706],[13.440055,43.033073],[13.439589,43.031448]]]],"created":1292531381,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/718742_20101216_d427de261c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

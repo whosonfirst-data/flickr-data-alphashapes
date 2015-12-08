@@ -1,0 +1,15 @@
+{
+  "id": 12678700,
+  "type": "Feature",
+  "properties": {
+    "name":"Cittanova, Italy",
+    "placetype":"locality",
+    "woe:id":12678700,
+    "woe:name":"Cittanova, Italy",
+    "woe:place_id":"Usy.c36YA5pHazOgGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.079468,38.350559,16.083941,38.353958],
+  "geometry": {"alpha":1e-05,"bbox":[16.079467773438,38.350559234619,16.083940505981,38.353958129883],"coordinates":[[[[16.081709,38.352932],[16.083941,38.351776],[16.083426,38.351196],[16.082653,38.350559],[16.079468,38.352383],[16.080776,38.353958],[16.081709,38.352932]]]],"created":1292523517,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12678700_20101216_9553a386fd.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

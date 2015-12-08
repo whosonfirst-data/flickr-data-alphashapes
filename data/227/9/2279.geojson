@@ -1,0 +1,15 @@
+{
+  "id": 2279,
+  "type": "Feature",
+  "properties": {
+    "name":"Lancer, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2279,
+    "woe:name":"Lancer, Saskatchewan, Canada",
+    "woe:place_id":"3uIQT9CbA5vA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.888802,50.801258,-108.884079,50.804768],
+  "geometry": {"alpha":0.00015,"bbox":[-108.88880157471,50.801258087158,-108.88407897949,50.804767608643],"coordinates":[[[[-108.888199,50.801258],[-108.888802,50.802624],[-108.887299,50.803982],[-108.886055,50.804768],[-108.884811,50.802925],[-108.884079,50.80154],[-108.888199,50.801258]]]],"created":1292455551,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2279_20101215_2ef8503239.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

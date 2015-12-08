@@ -1,0 +1,15 @@
+{
+  "id": 633985,
+  "type": "Feature",
+  "properties": {
+    "name":"Allersberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":633985,
+    "woe:name":"Allersberg, Bavaria, Germany",
+    "woe:place_id":"5RH6YUCfAp_eSQc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.21438,49.235142,11.23793,49.258553],
+  "geometry": {"alpha":0.00015,"bbox":[11.214380264282,49.23514175415,11.237930297852,49.25855255127],"coordinates":[[[[11.233091,49.252735],[11.23793,49.250515],[11.232872,49.251652],[11.219615,49.235142],[11.21438,49.258553],[11.229786,49.251881],[11.233091,49.252735]]]],"created":1292539519,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/633985_20101216_9967e1531e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

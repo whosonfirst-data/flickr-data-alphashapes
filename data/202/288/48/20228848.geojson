@@ -1,0 +1,15 @@
+{
+  "id": 20228848,
+  "type": "Feature",
+  "properties": {
+    "name":"Atsavares, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20228848,
+    "woe:name":"Atsavares, Valencia, Spain",
+    "woe:place_id":"MzzAg7KbAZ5Mq6xcVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.698013,38.23159,-0.682525,38.241196],
+  "geometry": {"alpha":0.00015,"bbox":[-0.69801300764084,38.231590270996,-0.68252497911453,38.241195678711],"coordinates":[[[[-0.694617,38.241196],[-0.682525,38.239124],[-0.691795,38.235348],[-0.698013,38.23159],[-0.696172,38.237507],[-0.694617,38.241196]]]],"created":1292452630,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/20228848_20101215_ef47bda536.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

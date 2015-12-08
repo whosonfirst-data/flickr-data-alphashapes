@@ -1,0 +1,15 @@
+{
+  "id": 8214,
+  "type": "Feature",
+  "properties": {
+    "name":"Irvine, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8214,
+    "woe:name":"Irvine, Alberta, Canada",
+    "woe:place_id":"w4GLsEmRA53n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.272499,49.954067,-110.249176,49.967121],
+  "geometry": {"alpha":0.00015,"bbox":[-110.27249908447,49.954067230225,-110.24917602539,49.967121124268],"coordinates":[[[[-110.256729,49.967121],[-110.249176,49.955639],[-110.26268,49.954067],[-110.268143,49.955086],[-110.272499,49.95639],[-110.256729,49.967121]]]],"created":1292524957,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/8214_20101216_6807256301.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

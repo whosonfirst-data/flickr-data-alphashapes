@@ -1,0 +1,15 @@
+{
+  "id": 722474,
+  "type": "Feature",
+  "properties": {
+    "name":"San Donato, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":722474,
+    "woe:name":"San Donato, Puglia, Italy",
+    "woe:place_id":"jrT3WhOeA54bAQo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.302908,40.40134,17.33222,40.415504],
+  "geometry": {"alpha":0.00015,"bbox":[17.302907943726,40.401340484619,17.332220077515,40.415504455566],"coordinates":[[[[17.313251,40.40807],[17.311363,40.40134],[17.302908,40.415504],[17.311609,40.409557],[17.33222,40.414017],[17.313251,40.40807]]]],"created":1292484486,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/722474_20101216_b9e388ac16.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2345452,
+  "type": "Feature",
+  "properties": {
+    "name":"Ngounie, GA, Gabon",
+    "placetype":"region",
+    "woe:id":2345452,
+    "woe:name":"Ngounie, GA, Gabon",
+    "woe:place_id":"NZqHtC2bApg40HKe",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [11.019287,-2.368681,11.389732,-1.929012],
+  "geometry": {"alpha":0.03,"bbox":[11.019287109375,-2.3686809539795,11.38973236084,-1.9290119409561],"coordinates":[[[[11.268788,-2.266242],[11.389732,-2.368681],[11.269319,-2.267834],[11.019287,-2.218683],[11.041938,-1.929012],[11.107177,-1.979891],[11.268788,-2.266242]]]],"created":1292538970,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2345452_20101216_be542e7e94.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

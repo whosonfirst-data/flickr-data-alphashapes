@@ -1,0 +1,15 @@
+{
+  "id": 2467756,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer Junction, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2467756,
+    "woe:name":"Palmer Junction, Washington, United States",
+    "woe:place_id":"TPsjuJabBZqx5M7b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.889084,47.300419,-121.869843,47.318054],
+  "geometry": {"alpha":0.00015,"bbox":[-121.8890838623,47.30041885376,-121.8698425293,47.318054199219],"coordinates":[[[[-121.880905,47.300419],[-121.885757,47.300827],[-121.889084,47.315407],[-121.879982,47.318054],[-121.869843,47.313309],[-121.880905,47.300419]]]],"created":1292522116,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2467756_20101216_9f232139de.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

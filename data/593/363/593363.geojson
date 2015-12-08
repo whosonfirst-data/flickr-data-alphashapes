@@ -1,0 +1,15 @@
+{
+  "id": 593363,
+  "type": "Feature",
+  "properties": {
+    "name":"Grainville, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":593363,
+    "woe:name":"Grainville, Haute-Normandie, France",
+    "woe:place_id":"Q3aoreOcCJ8ptiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.640929,49.741234,0.651283,49.749218],
+  "geometry": {"alpha":0.00015,"bbox":[0.64092898368835,49.741233825684,0.65128302574158,49.749217987061],"coordinates":[[[[0.640929,49.748421],[0.640983,49.749218],[0.641879,49.748985],[0.651283,49.741455],[0.650596,49.741234],[0.640929,49.748421]]]],"created":1292447046,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/593363_20101215_012a07b158.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

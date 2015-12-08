@@ -1,0 +1,15 @@
+{
+  "id": 2364442,
+  "type": "Feature",
+  "properties": {
+    "name":"Birchwood, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2364442,
+    "woe:name":"Birchwood, Tennessee, United States",
+    "woe:place_id":"K.jClR6bApqE.qRD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.991974,35.387909,-84.986168,35.403305],
+  "geometry": {"alpha":0.00015,"bbox":[-84.991973876953,35.387908935547,-84.986167907715,35.403305053711],"coordinates":[[[[-84.988518,35.402554],[-84.986168,35.387909],[-84.990257,35.39045],[-84.991974,35.40152],[-84.988144,35.403305],[-84.988518,35.402554]]]],"created":1292550284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2364442_20101217_d0f72bab0d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

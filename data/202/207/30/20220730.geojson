@@ -1,0 +1,15 @@
+{
+  "id": 20220730,
+  "type": "Feature",
+  "properties": {
+    "name":"Balmori, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":20220730,
+    "woe:name":"Balmori, Asturias, Spain",
+    "woe:place_id":"DPylm6qbAZ7jD2bZUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.838275,43.418049,-4.830441,43.427742],
+  "geometry": {"alpha":0.00015,"bbox":[-4.8382749557495,43.418048858643,-4.8304409980774,43.427742004395],"coordinates":[[[[-4.834887,43.421051],[-4.838275,43.427742],[-4.830441,43.424286],[-4.833056,43.418049],[-4.834887,43.421051]]]],"created":1292471706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/20220730_20101216_bc8540a7f2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20071000,
+  "type": "Feature",
+  "properties": {
+    "name":"Hucal, La Pampa, Argentina",
+    "placetype":"county",
+    "woe:id":20071000,
+    "woe:name":"Hucal, La Pampa, Argentina",
+    "woe:place_id":"KA1gjT6bAZxtFCje4A",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-63.432312,-38.090389,-63.427677,-38.084446],
+  "geometry": {"alpha":0.0015,"bbox":[-63.432312011719,-38.090389251709,-63.427677154541,-38.084445953369],"coordinates":[[[[-63.429565,-38.085934],[-63.427677,-38.090389],[-63.431549,-38.085949],[-63.432312,-38.084446],[-63.429565,-38.085934]]]],"created":1292519351,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20071000_20101216_909887d56d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

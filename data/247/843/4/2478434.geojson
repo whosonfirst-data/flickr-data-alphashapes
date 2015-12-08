@@ -1,0 +1,15 @@
+{
+  "id": 2478434,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramona, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2478434,
+    "woe:name":"Ramona, Michigan, United States",
+    "woe:place_id":"rmU33EGbBZu.rG4p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.830826,43.604511,-85.815582,43.625725],
+  "geometry": {"alpha":0.00015,"bbox":[-85.830825805664,43.604511260986,-85.815582275391,43.62572479248],"coordinates":[[[[-85.816399,43.613762],[-85.815582,43.604511],[-85.816437,43.604694],[-85.819153,43.612823],[-85.830826,43.625725],[-85.816399,43.613762]]]],"created":1292538811,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2478434_20101216_566fc9bdc8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

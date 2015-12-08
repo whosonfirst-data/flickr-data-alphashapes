@@ -1,0 +1,15 @@
+{
+  "id": 2398985,
+  "type": "Feature",
+  "properties": {
+    "name":"Elmira, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2398985,
+    "woe:name":"Elmira, Illinois, United States",
+    "woe:place_id":"MLU3bWqbApW.xCrc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.832947,41.179169,-89.830605,41.180447],
+  "geometry": {"alpha":0.00015,"bbox":[-89.832946777344,41.179168701172,-89.830604553223,41.180446624756],"coordinates":[[[[-89.830872,41.180447],[-89.830605,41.180286],[-89.830872,41.179913],[-89.831429,41.179169],[-89.832947,41.179611],[-89.830872,41.180447]]]],"created":1292469008,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2398985_20101216_e0652429c0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

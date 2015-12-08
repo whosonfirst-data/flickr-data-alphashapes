@@ -1,0 +1,15 @@
+{
+  "id": 2471923,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Acres, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2471923,
+    "woe:name":"Pine Acres, Pennsylvania, United States",
+    "woe:place_id":"PYDnrMObBZvcG1Yd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.737221,40.333145,-76.730049,40.336109],
+  "geometry": {"alpha":0.00015,"bbox":[-76.73722076416,40.333145141602,-76.730049133301,40.336109161377],"coordinates":[[[[-76.735596,40.333145],[-76.735985,40.333706],[-76.737221,40.336109],[-76.730049,40.335022],[-76.735596,40.333145]]]],"created":1292512985,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2471923_20101216_cba4796377.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

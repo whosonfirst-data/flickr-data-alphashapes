@@ -1,0 +1,15 @@
+{
+  "id": 764564,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Cabezadas, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":764564,
+    "woe:name":"Las Cabezadas, Canary Islands, Spain",
+    "woe:place_id":"Z36FJPSeB5h548E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.296158,28.518854,-16.293926,28.523153],
+  "geometry": {"alpha":0.00015,"bbox":[-16.296157836914,28.518854141235,-16.293926239014,28.523153305054],"coordinates":[[[[-16.296158,28.518854],[-16.296158,28.520287],[-16.295193,28.522135],[-16.293926,28.523153],[-16.295471,28.519985],[-16.296158,28.518854]]]],"created":1292484543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/764564_20101216_f4fc17a6b4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

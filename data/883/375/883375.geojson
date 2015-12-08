@@ -1,0 +1,15 @@
+{
+  "id": 883375,
+  "type": "Feature",
+  "properties": {
+    "name":"Vasluiul, Vaslui, Romania",
+    "placetype":"locality",
+    "woe:id":883375,
+    "woe:name":"Vasluiul, Vaslui, Romania",
+    "woe:place_id":"74hzm1aRCZ95xT4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.720608,46.631756,27.73756,46.6525],
+  "geometry": {"alpha":0.00015,"bbox":[27.720607757568,46.631755828857,27.737560272217,46.652500152588],"coordinates":[[[[27.731766,46.635284],[27.725542,46.631756],[27.720608,46.642231],[27.73756,46.6525],[27.734299,46.644192],[27.736359,46.636471],[27.731766,46.635284]]]],"created":1292537623,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/883375_20101216_706ac5e62f.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29397367,
+  "type": "Feature",
+  "properties": {
+    "name":"Lowicz, Lodz, Poland",
+    "placetype":"locality",
+    "woe:id":29397367,
+    "woe:name":"Lowicz, Lodz, Poland",
+    "woe:place_id":"MGTcphibCJ8B6qjQyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.006018,52.078503,20.013657,52.086258],
+  "geometry": {"alpha":0.00015,"bbox":[20.006017684937,52.078502655029,20.013656616211,52.08625793457],"coordinates":[[[[20.012884,52.085861],[20.013313,52.084675],[20.013657,52.078503],[20.006018,52.081272],[20.006447,52.083092],[20.01091,52.086258],[20.012884,52.085861]]]],"created":1292518128,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/29397367_20101216_b126507ee9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

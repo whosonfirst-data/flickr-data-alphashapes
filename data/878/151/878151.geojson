@@ -1,0 +1,15 @@
+{
+  "id": 878151,
+  "type": "Feature",
+  "properties": {
+    "name":"Poiana, Valcea, Romania",
+    "placetype":"locality",
+    "woe:id":878151,
+    "woe:name":"Poiana, Valcea, Romania",
+    "woe:place_id":"8RVos4aRBpRYoaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.460217,45.331921,24.470812,45.337185],
+  "geometry": {"alpha":0.00015,"bbox":[24.460216522217,45.331920623779,24.470811843872,45.337184906006],"coordinates":[[[[24.460417,45.337078],[24.470156,45.334274],[24.470812,45.331921],[24.469563,45.333195],[24.460463,45.336926],[24.460217,45.337185],[24.460417,45.337078]]]],"created":1292444155,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/878151_20101215_2f9161c36a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

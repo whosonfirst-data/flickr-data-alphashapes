@@ -1,0 +1,15 @@
+{
+  "id": 755319,
+  "type": "Feature",
+  "properties": {
+    "name":"Cabo Blanco, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":755319,
+    "woe:name":"Cabo Blanco, Canary Islands, Spain",
+    "woe:place_id":"3j5x1M.eBJnL39Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.674929,28.066677,-16.67038,28.074781],
+  "geometry": {"alpha":0.00015,"bbox":[-16.674928665161,28.066677093506,-16.670379638672,28.074781417847],"coordinates":[[[[-16.671709,28.074781],[-16.670528,28.074551],[-16.67038,28.073154],[-16.67141,28.070654],[-16.674929,28.066677],[-16.671709,28.074781]]]],"created":1292456144,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/755319_20101215_833ea6074b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

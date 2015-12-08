@@ -1,0 +1,15 @@
+{
+  "id": 12649766,
+  "type": "Feature",
+  "properties": {
+    "name":"Mozac, France",
+    "placetype":"locality",
+    "woe:id":12649766,
+    "woe:name":"Mozac, France",
+    "woe:place_id":"URBH1SqYA5pDCOHW4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.091535,45.890488,3.095655,45.893475],
+  "geometry": {"alpha":1e-05,"bbox":[3.0915350914001,45.890487670898,3.095654964447,45.893474578857],"coordinates":[[[[3.094539,45.893272],[3.095655,45.893475],[3.094282,45.890888],[3.094174,45.890488],[3.091535,45.893475],[3.094539,45.893272]]]],"created":1292539243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12649766_20101216_4bcc0e9747.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

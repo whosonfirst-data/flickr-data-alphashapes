@@ -1,0 +1,15 @@
+{
+  "id": 2474665,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Terrace, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2474665,
+    "woe:name":"Point Terrace, Oregon, United States",
+    "woe:place_id":"miA0lgqbBZsFm6WB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.903481,43.943287,-123.893066,43.960999],
+  "geometry": {"alpha":0.00015,"bbox":[-123.90348052979,43.943286895752,-123.89306640625,43.960998535156],"coordinates":[[[[-123.903168,43.946835],[-123.903481,43.953979],[-123.902351,43.960999],[-123.902046,43.955528],[-123.893066,43.944958],[-123.902046,43.943287],[-123.903,43.946167],[-123.903168,43.946835]]]],"created":1292543434,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2474665_20101216_9fd2153ce6.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

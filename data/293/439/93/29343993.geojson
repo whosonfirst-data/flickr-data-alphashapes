@@ -1,0 +1,15 @@
+{
+  "id": 29343993,
+  "type": "Feature",
+  "properties": {
+    "name":"Desusino, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":29343993,
+    "woe:name":"Desusino, Sicily, Italy",
+    "woe:place_id":"EhXTN2KbCJ8dlHw5qg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.077263,37.109135,14.083786,37.110554],
+  "geometry": {"alpha":0.00015,"bbox":[14.077262878418,37.109134674072,14.083786010742,37.110553741455],"coordinates":[[[[14.083786,37.109547],[14.083443,37.109135],[14.081554,37.109596],[14.078465,37.109955],[14.077263,37.110554],[14.080997,37.109791],[14.083786,37.109547]]]],"created":1292520349,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/29343993_20101216_4890cfc229.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

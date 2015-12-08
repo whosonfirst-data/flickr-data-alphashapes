@@ -1,0 +1,15 @@
+{
+  "id": 23391032,
+  "type": "Feature",
+  "properties": {
+    "name":"Jordan Falls, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391032,
+    "woe:name":"Jordan Falls, Nova Scotia, Canada",
+    "woe:place_id":"FPMKtJ6bAp_nQt5_qg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.237328,43.801083,-65.232178,43.816444],
+  "geometry": {"alpha":0.00015,"bbox":[-65.237327575684,43.801082611084,-65.232177734375,43.816444396973],"coordinates":[[[[-65.236862,43.815586],[-65.236847,43.81562],[-65.232178,43.816444],[-65.232269,43.815948],[-65.237328,43.801083],[-65.236862,43.815586]]]],"created":1292480646,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/23391032_20101216_4f1c0f7f97.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

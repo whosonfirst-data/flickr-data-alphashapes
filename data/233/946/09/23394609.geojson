@@ -1,0 +1,15 @@
+{
+  "id": 23394609,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Polycarpe, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394609,
+    "woe:name":"St.-Polycarpe, Quebec, Canada",
+    "woe:place_id":"c.TFZ9.bAp_fKV_.GA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.304184,45.302029,-74.294357,45.317543],
+  "geometry": {"alpha":0.00015,"bbox":[-74.304183959961,45.302028656006,-74.294357299805,45.317543029785],"coordinates":[[[[-74.304184,45.302029],[-74.301521,45.317543],[-74.294357,45.304596],[-74.299553,45.3027],[-74.304184,45.302029]]]],"created":1247799970,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2449/shapefiles/23394609_20090717_1bc5ecdb22.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

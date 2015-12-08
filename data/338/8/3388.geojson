@@ -1,0 +1,15 @@
+{
+  "id": 3388,
+  "type": "Feature",
+  "properties": {
+    "name":"Mistassini, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3388,
+    "woe:name":"Mistassini, Quebec, Canada",
+    "woe:place_id":"Kpq4WViaApSj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.228882,48.733521,-72.220345,48.735291],
+  "geometry": {"alpha":0.00015,"bbox":[-72.228881835938,48.733520507812,-72.220344543457,48.735290527344],"coordinates":[[[[-72.227898,48.734314],[-72.228882,48.734951],[-72.225708,48.735291],[-72.220345,48.733944],[-72.225235,48.733521],[-72.227898,48.734314]]]],"created":1292520506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/3388_20101216_3f2e33d06b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

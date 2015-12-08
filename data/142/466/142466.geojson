@@ -1,0 +1,15 @@
+{
+  "id": 142466,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":142466,
+    "woe:name":"San Francisco, Nuevo Leon, Mexico",
+    "woe:place_id":"HdJfVXiYBZ7jLiY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.174713,25.398932,-100.140381,25.42033],
+  "geometry": {"alpha":0.00015,"bbox":[-100.17471313477,25.398931503296,-100.14038085938,25.420330047607],"coordinates":[[[[-100.140381,25.406376],[-100.154457,25.398932],[-100.15686,25.415058],[-100.160294,25.42033],[-100.174713,25.41971],[-100.15686,25.415058],[-100.140381,25.406376]]]],"created":1292533722,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/142466_20101216_bcc4595779.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

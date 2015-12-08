@@ -1,0 +1,15 @@
+{
+  "id": 26806713,
+  "type": "Feature",
+  "properties": {
+    "name":"Hato, San Lorenzo, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806713,
+    "woe:name":"Hato, San Lorenzo, Puerto Rico",
+    "woe:place_id":"dIcPrJebB5RU5bVKRw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-65.999786,18.173824,-65.962814,18.211271],
+  "geometry": {"alpha":0.0015,"bbox":[-65.999786376953,18.173824310303,-65.962814331055,18.211271286011],"coordinates":[[[[-65.962814,18.211271],[-65.963974,18.193314],[-65.966782,18.192886],[-65.999786,18.173824],[-65.996536,18.203293],[-65.962814,18.211271]]]],"created":1248081130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2643/shapefiles/26806713_20090720_9043a01c91.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

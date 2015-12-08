@@ -1,0 +1,15 @@
+{
+  "id": 480084,
+  "type": "Feature",
+  "properties": {
+    "name":"Tigina, Tighina, Moldova",
+    "placetype":"locality",
+    "woe:id":480084,
+    "woe:name":"Tigina, Tighina, Moldova",
+    "woe:place_id":"dFqMyTCdCZzWDro",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.465332,46.827904,29.491081,46.851505],
+  "geometry": {"alpha":0.00015,"bbox":[29.46533203125,46.827903747559,29.491081237793,46.851505279541],"coordinates":[[[[29.481812,46.83614],[29.491081,46.834831],[29.480095,46.831543],[29.465332,46.827904],[29.473915,46.841171],[29.476318,46.851505],[29.481812,46.83614]]]],"created":1292548775,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/480084_20101217_19b16e9f9e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

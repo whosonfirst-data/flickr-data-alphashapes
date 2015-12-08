@@ -1,0 +1,15 @@
+{
+  "id": 599759,
+  "type": "Feature",
+  "properties": {
+    "name":"La Roche, Brittany, France",
+    "placetype":"locality",
+    "woe:id":599759,
+    "woe:name":"La Roche, Brittany, France",
+    "woe:place_id":"0AV2SGmcCJVUKco",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.218492,48.470245,-4.20308,48.473633],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2184920310974,48.470245361328,-4.2030801773071,48.4736328125],"coordinates":[[[[-4.20308,48.472927],[-4.203359,48.472801],[-4.218492,48.470245],[-4.205145,48.473633],[-4.203472,48.473232],[-4.20308,48.472927]]]],"created":1292537882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/599759_20101216_2e594c1819.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

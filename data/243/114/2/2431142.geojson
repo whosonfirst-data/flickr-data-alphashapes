@@ -1,0 +1,15 @@
+{
+  "id": 2431142,
+  "type": "Feature",
+  "properties": {
+    "name":"Keithsburg, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2431142,
+    "woe:name":"Keithsburg, Illinois, United States",
+    "woe:place_id":"vqI.dK6bBZ87mp4e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.944695,41.079067,-90.936272,41.10778],
+  "geometry": {"alpha":0.00015,"bbox":[-90.944694519043,41.079067230225,-90.93627166748,41.107780456543],"coordinates":[[[[-90.944077,41.079147],[-90.944473,41.079067],[-90.944695,41.100925],[-90.94268,41.10778],[-90.936272,41.099449],[-90.944077,41.079147]]]],"created":1292524263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2431142_20101216_56b51b6c73.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

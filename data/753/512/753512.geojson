@@ -1,0 +1,15 @@
+{
+  "id": 753512,
+  "type": "Feature",
+  "properties": {
+    "name":"Balerma, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":753512,
+    "woe:name":"Balerma, Andalusia, Spain",
+    "woe:place_id":"tM0m9A2eBJ_BaSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.896742,36.72179,-2.879405,36.738678],
+  "geometry": {"alpha":0.00015,"bbox":[-2.896742105484,36.721790313721,-2.8794050216675,36.738677978516],"coordinates":[[[[-2.887258,36.728909],[-2.890777,36.73008],[-2.896742,36.738678],[-2.887001,36.73159],[-2.879405,36.72179],[-2.887258,36.728909]]]],"created":1292544434,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/753512_20101217_ae67463992.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

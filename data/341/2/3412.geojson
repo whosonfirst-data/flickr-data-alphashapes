@@ -1,0 +1,15 @@
+{
+  "id": 3412,
+  "type": "Feature",
+  "properties": {
+    "name":"Lac-Bouchette, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3412,
+    "woe:name":"Lac-Bouchette, Quebec, Canada",
+    "woe:place_id":"2HTx2a.aBZ1.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.230385,48.168892,-72.226738,48.170094],
+  "geometry": {"alpha":0.00015,"bbox":[-72.23038482666,48.168891906738,-72.226737976074,48.170093536377],"coordinates":[[[[-72.227814,48.169003],[-72.230385,48.169922],[-72.229439,48.170094],[-72.226738,48.168892],[-72.227814,48.169003]]]],"created":1248171602,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2639/shapefiles/3412_20090721_86a6892ef2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

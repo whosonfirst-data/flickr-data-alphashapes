@@ -1,0 +1,15 @@
+{
+  "id": 2424981,
+  "type": "Feature",
+  "properties": {
+    "name":"Howards Corner, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2424981,
+    "woe:name":"Howards Corner, Virginia, United States",
+    "woe:place_id":"iHNNLMibBZ4WTLy_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.292206,38.094666,-77.287003,38.109066],
+  "geometry": {"alpha":0.00015,"bbox":[-77.292205810547,38.094665527344,-77.287002563477,38.109066009521],"coordinates":[[[[-77.28994,38.10392],[-77.287003,38.095413],[-77.290665,38.094666],[-77.291092,38.101028],[-77.292206,38.109066],[-77.28994,38.10392]]]],"created":1292549463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2424981_20101217_3bf0a63cdd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

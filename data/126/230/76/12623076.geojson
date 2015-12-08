@@ -1,0 +1,15 @@
+{
+  "id": 12623076,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lam, Germany",
+    "placetype":"locality",
+    "woe:id":12623076,
+    "woe:name":"Gemeinde Lam, Germany",
+    "woe:place_id":"LdrFHyCYA5pbEw5qGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.046103,49.197227,13.047573,49.199955],
+  "geometry": {"alpha":1e-05,"bbox":[13.046102523804,49.197227478027,13.0475730896,49.199954986572],"coordinates":[[[[13.046994,49.199883],[13.047573,49.197838],[13.046779,49.197227],[13.046296,49.199272],[13.046103,49.199768],[13.046607,49.199955],[13.046994,49.199883]]]],"created":1292548956,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12623076_20101217_5dd92eb3df.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 846519,
+  "type": "Feature",
+  "properties": {
+    "name":"Viti, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":846519,
+    "woe:name":"Viti, Harju County, Estonia",
+    "woe:place_id":"JLOFhMCRBZrmcgU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.376547,59.444138,24.382273,59.446781],
+  "geometry": {"alpha":0.00015,"bbox":[24.376546859741,59.444137573242,24.382272720337,59.446781158447],"coordinates":[[[[24.380943,59.446239],[24.380587,59.446114],[24.376547,59.444138],[24.380581,59.446114],[24.381216,59.446381],[24.382273,59.446781],[24.380943,59.446239]]]],"created":1292467682,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/846519_20101216_518e0e4eba.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

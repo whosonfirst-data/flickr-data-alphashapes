@@ -1,0 +1,15 @@
+{
+  "id": 570225,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuvoton, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":570225,
+    "woe:name":"Neuvoton, Southern Finland, Finland",
+    "woe:place_id":"nWDxuDucBpzZxWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.043962,60.551487,27.055506,60.562973],
+  "geometry": {"alpha":0.00015,"bbox":[27.043962478638,60.551486968994,27.055505752563,60.562973022461],"coordinates":[[[[27.044605,60.551498],[27.044477,60.551487],[27.043962,60.551601],[27.051945,60.562973],[27.055506,60.554688],[27.050764,60.553883],[27.044605,60.551498]]]],"created":1292536506,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/570225_20101216_2b9f7bf781.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

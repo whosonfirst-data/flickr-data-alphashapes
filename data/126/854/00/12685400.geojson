@@ -1,0 +1,15 @@
+{
+  "id": 12685400,
+  "type": "Feature",
+  "properties": {
+    "name":"Haining, China",
+    "placetype":"locality",
+    "woe:id":12685400,
+    "woe:name":"Haining, China",
+    "woe:place_id":"us081UyYA5rWmdTnGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.546463,30.402037,120.547241,30.40365],
+  "geometry": {"alpha":1e-05,"bbox":[120.5464630127,30.40203666687,120.54724121094,30.403650283813],"coordinates":[[[[120.546936,30.402037],[120.546463,30.402185],[120.547241,30.40365],[120.547157,30.402691],[120.546997,30.402098],[120.546936,30.402037]]]],"created":1292542725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12685400_20101216_f17b985229.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

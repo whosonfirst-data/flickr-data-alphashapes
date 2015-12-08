@@ -1,0 +1,15 @@
+{
+  "id": 12655246,
+  "type": "Feature",
+  "properties": {
+    "name":"Andilly, France",
+    "placetype":"locality",
+    "woe:id":12655246,
+    "woe:name":"Andilly, France",
+    "woe:place_id":"g4DcqYKYA5qP3IP8vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.067705,46.063492,6.074538,46.065964],
+  "geometry": {"alpha":1e-05,"bbox":[6.0677051544189,46.063491821289,6.074538230896,46.065963745117],"coordinates":[[[[6.068152,46.063492],[6.067705,46.064323],[6.070117,46.064308],[6.074538,46.065964],[6.070533,46.063801],[6.068152,46.063492]]]],"created":1292518345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12655246_20101216_e8b03f0d0c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

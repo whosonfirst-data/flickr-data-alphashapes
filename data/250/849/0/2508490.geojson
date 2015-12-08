@@ -1,0 +1,15 @@
+{
+  "id": 2508490,
+  "type": "Feature",
+  "properties": {
+    "name":"Tule, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2508490,
+    "woe:name":"Tule, Nevada, United States",
+    "woe:place_id":"N8xYK6CbBJz7qCAL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.732666,41.004883,-117.721077,41.024666],
+  "geometry": {"alpha":0.00015,"bbox":[-117.73266601562,41.0048828125,-117.72107696533,41.02466583252],"coordinates":[[[[-117.731499,41.00502],[-117.732033,41.005188],[-117.732666,41.024666],[-117.721077,41.015007],[-117.730759,41.004883],[-117.731499,41.00502]]]],"created":1292445067,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2508490_20101215_59d8a37711.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 703293,
+  "type": "Feature",
+  "properties": {
+    "name":"Waischenfeld, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":703293,
+    "woe:name":"Waischenfeld, Bavaria, Germany",
+    "woe:place_id":"OULQvB6eAZ8fO2c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.341172,49.841713,11.347766,49.850155],
+  "geometry": {"alpha":0.00015,"bbox":[11.341172218323,49.84171295166,11.347765922546,49.850154876709],"coordinates":[[[[11.345958,49.84977],[11.346817,49.849331],[11.347766,49.841713],[11.341409,49.843544],[11.341172,49.850155],[11.345958,49.84977]]]],"created":1292546079,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/703293_20101217_df7eec3931.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

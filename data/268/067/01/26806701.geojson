@@ -1,0 +1,15 @@
+{
+  "id": 26806701,
+  "type": "Feature",
+  "properties": {
+    "name":"Pueblo, San Juan, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806701,
+    "woe:name":"Pueblo, San Juan, Puerto Rico",
+    "woe:place_id":"zTU2TCybB5S4jxMthw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-66.051971,18.396231,-66.044312,18.404104],
+  "geometry": {"alpha":0.0015,"bbox":[-66.051971435547,18.396230697632,-66.044311523438,18.404104232788],"coordinates":[[[[-66.050835,18.399324],[-66.051971,18.404104],[-66.044312,18.397533],[-66.046608,18.39677],[-66.049805,18.396231],[-66.050835,18.399324]]]],"created":1292449477,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/26806701_20101215_e3359cdc02.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

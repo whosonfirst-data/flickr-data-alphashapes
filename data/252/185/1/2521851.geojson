@@ -1,0 +1,15 @@
+{
+  "id": 2521851,
+  "type": "Feature",
+  "properties": {
+    "name":"Windsor, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2521851,
+    "woe:name":"Windsor, Texas, United States",
+    "woe:place_id":"vajLZO6bBJ6wzIIU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.324875,31.509167,-97.307831,31.522617],
+  "geometry": {"alpha":0.00015,"bbox":[-97.32487487793,31.509166717529,-97.307830810547,31.522617340088],"coordinates":[[[[-97.317741,31.513866],[-97.318085,31.514227],[-97.324875,31.522617],[-97.316978,31.520239],[-97.307831,31.509167],[-97.317497,31.51366],[-97.317741,31.513866]]]],"created":1292536111,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2521851_20101216_980dd432f4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

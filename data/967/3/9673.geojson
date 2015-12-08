@@ -1,0 +1,15 @@
+{
+  "id": 9673,
+  "type": "Feature",
+  "properties": {
+    "name":"Parson, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9673,
+    "woe:name":"Parson, British Columbia, Canada",
+    "woe:place_id":"CXPt.wuQB5tW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.650085,51.06686,-116.639359,51.078724],
+  "geometry": {"alpha":0.00015,"bbox":[-116.65008544922,51.066860198975,-116.63935852051,51.078723907471],"coordinates":[[[[-116.639359,51.075054],[-116.644379,51.06686],[-116.64476,51.067722],[-116.650085,51.078724],[-116.639359,51.075054]]]],"created":1234731614,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3595/shapefiles/9673_20090215_084f46c64a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2365048,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackshear, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2365048,
+    "woe:name":"Blackshear, Georgia, United States",
+    "woe:place_id":"dZqVMCSbApouEGzf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.243301,31.298538,-82.239723,31.306274],
+  "geometry": {"alpha":0.00015,"bbox":[-82.243301391602,31.298538208008,-82.239723205566,31.306274414062],"coordinates":[[[[-82.243301,31.30533],[-82.242447,31.306274],[-82.239723,31.303642],[-82.240845,31.298538],[-82.241653,31.301626],[-82.243301,31.30533]]]],"created":1248277105,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3470/shapefiles/2365048_20090722_6bba6acfb4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

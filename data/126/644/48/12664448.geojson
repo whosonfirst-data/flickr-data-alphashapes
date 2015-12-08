@@ -1,0 +1,15 @@
+{
+  "id": 12664448,
+  "type": "Feature",
+  "properties": {
+    "name":"Lansac, France",
+    "placetype":"locality",
+    "woe:id":12664448,
+    "woe:name":"Lansac, France",
+    "woe:place_id":"r.WVfPqYA5qW63Xpbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.562376,42.76572,2.56244,42.765755],
+  "geometry": {"alpha":1e-05,"bbox":[2.5623760223389,42.765720367432,2.5624399185181,42.765754699707],"coordinates":[[[[2.56244,42.765755],[2.562419,42.765732],[2.562376,42.76572],[2.562397,42.765755],[2.56244,42.765755]]]],"created":1292426763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12664448_20101215_e818fe976a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

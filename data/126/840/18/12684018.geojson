@@ -1,0 +1,15 @@
+{
+  "id": 12684018,
+  "type": "Feature",
+  "properties": {
+    "name":"Morbio Superiore, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684018,
+    "woe:name":"Morbio Superiore, Switzerland",
+    "woe:place_id":"f9zXQ2CYA5oRi0M3BQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.013273,45.857365,9.016942,45.860905],
+  "geometry": {"alpha":1e-05,"bbox":[9.0132732391357,45.857364654541,9.016942024231,45.860904693604],"coordinates":[[[[9.013681,45.857365],[9.013273,45.85862],[9.013456,45.858688],[9.016942,45.860905],[9.015698,45.858128],[9.013681,45.857365]]]],"created":1292523561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12684018_20101216_9bf1662258.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

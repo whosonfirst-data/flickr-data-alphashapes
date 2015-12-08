@@ -1,0 +1,15 @@
+{
+  "id": 2451685,
+  "type": "Feature",
+  "properties": {
+    "name":"Millwood, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2451685,
+    "woe:name":"Millwood, Oregon, United States",
+    "woe:place_id":"nRRCqcCbBZmFiZRe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.517563,43.412773,-123.51664,43.414265],
+  "geometry": {"alpha":0.00015,"bbox":[-123.51756286621,43.412773132324,-123.51663970947,43.414264678955],"coordinates":[[[[-123.51664,43.414265],[-123.516739,43.413567],[-123.517265,43.412773],[-123.517563,43.414028],[-123.51664,43.414265]]]],"created":1292500746,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2451685_20101216_2ae8c3d150.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

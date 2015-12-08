@@ -1,0 +1,15 @@
+{
+  "id": 30667,
+  "type": "Feature",
+  "properties": {
+    "name":"Norton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30667,
+    "woe:name":"Norton, England, United Kingdom",
+    "woe:place_id":"03Akms2aAZrubQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.677574,53.325439,-2.670278,53.341122],
+  "geometry": {"alpha":0.00015,"bbox":[-2.6775739192963,53.325439453125,-2.6702780723572,53.341121673584],"coordinates":[[[[-2.671394,53.333076],[-2.670278,53.326729],[-2.677574,53.325439],[-2.677574,53.340149],[-2.677574,53.341122],[-2.673153,53.33437],[-2.671394,53.333076]]]],"created":1292523862,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/30667_20101216_9004ce3803.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

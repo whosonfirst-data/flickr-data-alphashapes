@@ -1,0 +1,15 @@
+{
+  "id": 709915,
+  "type": "Feature",
+  "properties": {
+    "name":"Albaredo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":709915,
+    "woe:name":"Albaredo, Lombardy, Italy",
+    "woe:place_id":"uhHv7oWeAZWSw2E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.585571,46.102219,9.599833,46.116165],
+  "geometry": {"alpha":0.00015,"bbox":[9.5855712890625,46.10221862793,9.59983253479,46.116165161133],"coordinates":[[[[9.588661,46.102219],[9.585571,46.107635],[9.587459,46.108944],[9.599833,46.116165],[9.599826,46.116116],[9.590034,46.10228],[9.588661,46.102219]]]],"created":1292522204,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/709915_20101216_eefb8a7f24.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

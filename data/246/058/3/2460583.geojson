@@ -1,0 +1,15 @@
+{
+  "id": 2460583,
+  "type": "Feature",
+  "properties": {
+    "name":"North Anna, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2460583,
+    "woe:name":"North Anna, Virginia, United States",
+    "woe:place_id":"4mNzn1.bBZoIh0Yq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.539665,37.878834,-77.519875,37.893211],
+  "geometry": {"alpha":0.00015,"bbox":[-77.539665222168,37.878833770752,-77.519874572754,37.893211364746],"coordinates":[[[[-77.538002,37.881001],[-77.53817,37.878834],[-77.539665,37.881668],[-77.538498,37.882168],[-77.519875,37.893211],[-77.538002,37.881001]]]],"created":1292454642,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2460583_20101215_2b3ce8d716.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

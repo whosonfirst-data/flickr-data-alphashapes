@@ -1,0 +1,15 @@
+{
+  "id": 29374561,
+  "type": "Feature",
+  "properties": {
+    "name":"Southwest Middlesex, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374561,
+    "woe:name":"Southwest Middlesex, Ontario, Canada",
+    "woe:place_id":"Uci7PSSbCJ.lShu.Sw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.717682,42.740669,-81.707451,42.74802],
+  "geometry": {"alpha":0.00015,"bbox":[-81.717681884766,42.740669250488,-81.707450866699,42.748020172119],"coordinates":[[[[-81.711555,42.74794],[-81.709999,42.746887],[-81.708694,42.743034],[-81.707451,42.740669],[-81.717682,42.74802],[-81.711555,42.74794]]]],"created":1292540050,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/29374561_20101216_25353c4c04.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

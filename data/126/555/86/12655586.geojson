@@ -1,0 +1,15 @@
+{
+  "id": 12655586,
+  "type": "Feature",
+  "properties": {
+    "name":"Arthenac, France",
+    "placetype":"locality",
+    "woe:id":12655586,
+    "woe:name":"Arthenac, France",
+    "woe:place_id":"NnLXYiOYA5pDJctplQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.313003,45.51582,-0.302789,45.521835],
+  "geometry": {"alpha":1.25e-05,"bbox":[-0.31300300359726,45.515819549561,-0.30278900265694,45.521835327148],"coordinates":[[[[-0.307252,45.518646],[-0.307552,45.517052],[-0.313003,45.51582],[-0.308024,45.51976],[-0.306608,45.519684],[-0.302789,45.521835],[-0.303046,45.52063],[-0.307252,45.518646]]]],"created":1292517628,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12655586_20101216_5e6f7d96ff.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

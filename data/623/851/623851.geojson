@@ -1,0 +1,15 @@
+{
+  "id": 623851,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint-\u00c9pain, Centre, France",
+    "placetype":"locality",
+    "woe:id":623851,
+    "woe:name":"Saint-\u00c9pain, Centre, France",
+    "woe:place_id":"r0qOR7ufA5_t4OQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.533523,47.141056,0.540304,47.151901],
+  "geometry": {"alpha":0.00015,"bbox":[0.53352302312851,47.141056060791,0.54030400514603,47.151901245117],"coordinates":[[[[0.540304,47.143452],[0.540218,47.143089],[0.536098,47.141056],[0.534499,47.144508],[0.533523,47.151901],[0.540304,47.143452]]]],"created":1292541369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/623851_20101216_64f99b6e34.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

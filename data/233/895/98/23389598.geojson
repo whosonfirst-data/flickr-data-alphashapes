@@ -1,0 +1,15 @@
+{
+  "id": 23389598,
+  "type": "Feature",
+  "properties": {
+    "name":"Breadalbane, Prince Edward Island, Canada",
+    "placetype":"locality",
+    "woe:id":23389598,
+    "woe:name":"Breadalbane, Prince Edward Island, Canada",
+    "woe:place_id":"WLN8m8abAp8TwQLzHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.510933,46.344082,-63.489433,46.37915],
+  "geometry": {"alpha":0.00015,"bbox":[-63.510932922363,46.344081878662,-63.489433288574,46.379150390625],"coordinates":[[[[-63.501404,46.358612],[-63.489433,46.353123],[-63.499344,46.344082],[-63.510933,46.358776],[-63.50029,46.37915],[-63.501404,46.358612]]]],"created":1292547202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/23389598_20101217_7e31d22744.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

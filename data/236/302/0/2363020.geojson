@@ -1,0 +1,15 @@
+{
+  "id": 2363020,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2363020,
+    "woe:name":"Berlin, Oregon, United States",
+    "woe:place_id":"umJMAVybApq2jqYx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.680504,44.463589,-122.67308,44.468765],
+  "geometry": {"alpha":0.00015,"bbox":[-122.68050384521,44.4635887146,-122.67308044434,44.468765258789],"coordinates":[[[[-122.67308,44.468567],[-122.676346,44.46545],[-122.67849,44.463589],[-122.680504,44.464108],[-122.67952,44.465004],[-122.675697,44.46711],[-122.674583,44.467876],[-122.67334,44.468765],[-122.67308,44.468567]]]],"created":1292524177,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2363020_20101216_f20546237f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

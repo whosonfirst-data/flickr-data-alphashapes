@@ -1,0 +1,15 @@
+{
+  "id": 12618870,
+  "type": "Feature",
+  "properties": {
+    "name":"Siedlce, Poland",
+    "placetype":"locality",
+    "woe:id":12618870,
+    "woe:name":"Siedlce, Poland",
+    "woe:place_id":".eCkDLSYA5q9kAqxug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.268944,52.160389,22.274179,52.168957],
+  "geometry": {"alpha":1e-05,"bbox":[22.268943786621,52.160388946533,22.274179458618,52.168956756592],"coordinates":[[[[22.271046,52.162243],[22.270575,52.160389],[22.268944,52.163403],[22.270187,52.164375],[22.274179,52.168957],[22.272741,52.164284],[22.271046,52.162243]]]],"created":1292525681,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12618870_20101216_b7dd828bef.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

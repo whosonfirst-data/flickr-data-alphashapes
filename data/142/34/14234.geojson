@@ -1,0 +1,15 @@
+{
+  "id": 14234,
+  "type": "Feature",
+  "properties": {
+    "name":"Broughton Beck, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":14234,
+    "woe:name":"Broughton Beck, England, United Kingdom",
+    "woe:place_id":"oFkQfOKYBZ48Yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.123378,54.226807,-3.095859,54.235195],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1233780384064,54.226806640625,-3.0958590507507,54.235195159912],"coordinates":[[[[-3.107191,54.234173],[-3.095859,54.235195],[-3.103739,54.23225],[-3.108431,54.229561],[-3.123378,54.226807],[-3.107191,54.234173]]]],"created":1292504102,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/14234_20101216_8f4b69a33e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

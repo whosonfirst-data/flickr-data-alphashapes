@@ -1,0 +1,15 @@
+{
+  "id": 2503759,
+  "type": "Feature",
+  "properties": {
+    "name":"Tallman, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2503759,
+    "woe:name":"Tallman, Michigan, United States",
+    "woe:place_id":"1_u9B7GbBJwAUTRZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.13163,43.966667,-86.11689,43.975952],
+  "geometry": {"alpha":0.00015,"bbox":[-86.131629943848,43.966667175293,-86.116889953613,43.975952148438],"coordinates":[[[[-86.11689,43.97583],[-86.12233,43.966667],[-86.122498,43.966667],[-86.13163,43.975891],[-86.131157,43.975952],[-86.11689,43.97583]]]],"created":1292501403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2503759_20101216_b3af7d0195.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

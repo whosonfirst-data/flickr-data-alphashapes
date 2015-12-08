@@ -1,0 +1,15 @@
+{
+  "id": 717613,
+  "type": "Feature",
+  "properties": {
+    "name":"Quercia, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":717613,
+    "woe:name":"Quercia, Lazio, Italy",
+    "woe:place_id":"AXYAm5KeAJtMYfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.099552,42.413818,12.117576,42.425865],
+  "geometry": {"alpha":0.00015,"bbox":[12.099552154541,42.413818359375,12.117575645447,42.42586517334],"coordinates":[[[[12.100678,42.415447],[12.099552,42.41674],[12.100882,42.417263],[12.104873,42.418388],[12.117576,42.425865],[12.105506,42.413818],[12.100678,42.415447]]]],"created":1292529766,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/717613_20101216_3de32be1d7.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

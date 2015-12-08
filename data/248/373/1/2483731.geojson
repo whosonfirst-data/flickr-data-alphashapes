@@ -1,0 +1,15 @@
+{
+  "id": 2483731,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocky Point, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2483731,
+    "woe:name":"Rocky Point, Tennessee, United States",
+    "woe:place_id":"ONFHfGObBZQ_Fwbz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.402863,36.124626,-85.382996,36.144527],
+  "geometry": {"alpha":0.00015,"bbox":[-85.402862548828,36.124626159668,-85.382995605469,36.144527435303],"coordinates":[[[[-85.382996,36.144527],[-85.388359,36.124626],[-85.402863,36.130264],[-85.384651,36.144272],[-85.382996,36.144527]]]],"created":1292448699,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2483731_20101215_df1c6db604.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

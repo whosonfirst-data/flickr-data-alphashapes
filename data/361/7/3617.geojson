@@ -1,0 +1,15 @@
+{
+  "id": 3617,
+  "type": "Feature",
+  "properties": {
+    "name":"Caplan, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3617,
+    "woe:name":"Caplan, Quebec, Canada",
+    "woe:place_id":"k.1UZhSaB53N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.690346,48.100437,-65.676437,48.104794],
+  "geometry": {"alpha":0.00015,"bbox":[-65.69034576416,48.100437164307,-65.67643737793,48.104793548584],"coordinates":[[[[-65.680389,48.102272],[-65.676437,48.100437],[-65.680305,48.100868],[-65.684937,48.101814],[-65.690346,48.103649],[-65.68914,48.104794],[-65.680389,48.102272]]]],"created":1292490601,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/3617_20101216_be9eed4f4b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

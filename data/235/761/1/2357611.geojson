@@ -1,0 +1,15 @@
+{
+  "id": 2357611,
+  "type": "Feature",
+  "properties": {
+    "name":"Austinville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2357611,
+    "woe:name":"Austinville, Virginia, United States",
+    "woe:place_id":"q5jd23ObApkpMU.k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.872444,36.871807,-80.861511,36.882301],
+  "geometry": {"alpha":0.00015,"bbox":[-80.872444152832,36.871807098389,-80.861511230469,36.882301330566],"coordinates":[[[[-80.861534,36.882301],[-80.861511,36.880753],[-80.872444,36.871807],[-80.872139,36.873329],[-80.861534,36.882301]]]],"created":1234483803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3486/shapefiles/2357611_20090213_189e49d63b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

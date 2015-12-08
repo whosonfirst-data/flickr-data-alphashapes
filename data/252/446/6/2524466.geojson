@@ -1,0 +1,15 @@
+{
+  "id": 2524466,
+  "type": "Feature",
+  "properties": {
+    "name":"Yale, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2524466,
+    "woe:name":"Yale, Kansas, United States",
+    "woe:place_id":"ZtRaIumbBJ674MVJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.650696,37.468998,-94.632408,37.489841],
+  "geometry": {"alpha":0.00015,"bbox":[-94.650695800781,37.468997955322,-94.63240814209,37.489841461182],"coordinates":[[[[-94.634514,37.489841],[-94.632408,37.469273],[-94.641594,37.469086],[-94.642067,37.468998],[-94.650696,37.469307],[-94.641342,37.483665],[-94.634514,37.489841]]]],"created":1292454620,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2524466_20101215_dea399595b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

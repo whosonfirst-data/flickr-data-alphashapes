@@ -1,0 +1,15 @@
+{
+  "id": 12651362,
+  "type": "Feature",
+  "properties": {
+    "name":"Roinville, France",
+    "placetype":"locality",
+    "woe:id":12651362,
+    "woe:name":"Roinville, France",
+    "woe:place_id":"CAbs51mYA5rTkWwkpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.743221,48.442539,1.748422,48.446239],
+  "geometry": {"alpha":1e-05,"bbox":[1.7432210445404,48.442539215088,1.7484220266342,48.446239471436],"coordinates":[[[[1.746912,48.446239],[1.747877,48.446114],[1.748156,48.444897],[1.748422,48.444366],[1.743822,48.442539],[1.743221,48.445095],[1.746912,48.446239]]]],"created":1292449003,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12651362_20101215_6e2041e43c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

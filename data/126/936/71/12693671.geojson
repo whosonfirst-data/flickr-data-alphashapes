@@ -1,0 +1,15 @@
+{
+  "id": 12693671,
+  "type": "Feature",
+  "properties": {
+    "name":"Veciana, Spain",
+    "placetype":"locality",
+    "woe:id":12693671,
+    "woe:name":"Veciana, Spain",
+    "woe:place_id":"s2Lf5zCYA5rvz7FxDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.486157,41.686714,1.486539,41.687435],
+  "geometry": {"alpha":1e-05,"bbox":[1.4861569404602,41.686714172363,1.4865390062332,41.687435150146],"coordinates":[[[[1.486362,41.686714],[1.486157,41.686783],[1.486202,41.687145],[1.486254,41.687435],[1.486539,41.686733],[1.486362,41.686714]]]],"created":1292428323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12693671_20101215_11b69a2e02.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

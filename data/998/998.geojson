@@ -1,0 +1,15 @@
+{
+  "id": 998,
+  "type": "Feature",
+  "properties": {
+    "name":"Milverton, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":998,
+    "woe:name":"Milverton, Ontario, Canada",
+    "woe:place_id":"0jXdyrOQCJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.936966,43.564781,-80.916023,43.573364],
+  "geometry": {"alpha":0.00015,"bbox":[-80.936965942383,43.564781188965,-80.916023254395,43.573364257812],"coordinates":[[[[-80.920074,43.569229],[-80.916023,43.564968],[-80.922287,43.565403],[-80.925636,43.564781],[-80.936966,43.57243],[-80.929924,43.573364],[-80.920074,43.569229]]]],"created":1292490544,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/998_20101216_eb0cfcd170.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 587260,
+  "type": "Feature",
+  "properties": {
+    "name":"Coulandon, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":587260,
+    "woe:name":"Coulandon, Auvergne, France",
+    "woe:place_id":"4FZ11OKcCZvBt3I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.254013,46.546864,3.265106,46.555672],
+  "geometry": {"alpha":0.00015,"bbox":[3.2540130615234,46.546863555908,3.2651059627533,46.555671691895],"coordinates":[[[[3.256201,46.550442],[3.255085,46.550537],[3.254013,46.555672],[3.257703,46.554962],[3.265106,46.546864],[3.256201,46.550442]]]],"created":1292498702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/587260_20101216_2220a06803.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

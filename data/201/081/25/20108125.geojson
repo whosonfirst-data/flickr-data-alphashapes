@@ -1,0 +1,15 @@
+{
+  "id": 20108125,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20108125,
+    "woe:name":"San Carlo, Lombardy, Italy",
+    "woe:place_id":"2ygWtlebAZ3zAlRtYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.26226,46.473808,10.265951,46.474369],
+  "geometry": {"alpha":0.00015,"bbox":[10.262260437012,46.473808288574,10.265951156616,46.474369049072],"coordinates":[[[[10.26226,46.473808],[10.262818,46.474014],[10.265951,46.474369],[10.264663,46.473866],[10.26226,46.473808]]]],"created":1292449168,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20108125_20101215_0674549f1a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

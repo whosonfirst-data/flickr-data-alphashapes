@@ -1,0 +1,15 @@
+{
+  "id": 720722,
+  "type": "Feature",
+  "properties": {
+    "name":"Pofi, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":720722,
+    "woe:name":"Pofi, Lazio, Italy",
+    "woe:place_id":"BMgpoP.eA5y5zEI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.406982,41.564728,13.416023,41.570251],
+  "geometry": {"alpha":0.00015,"bbox":[13.406982421875,41.564727783203,13.416023254395,41.570251464844],"coordinates":[[[[13.413963,41.564728],[13.41156,41.566139],[13.406982,41.56871],[13.41156,41.570251],[13.416023,41.568005],[13.414306,41.565243],[13.413963,41.564728]]]],"created":1292505548,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/720722_20101216_cff3bdfd2a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

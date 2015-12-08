@@ -1,0 +1,15 @@
+{
+  "id": 23395606,
+  "type": "Feature",
+  "properties": {
+    "name":"Grand-Calumet, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395606,
+    "woe:name":"Grand-Calumet, Quebec, Canada",
+    "woe:place_id":"pr.gnRabAp9ZSGNrow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.69899,45.691612,-76.677872,45.714809],
+  "geometry": {"alpha":0.00015,"bbox":[-76.698989868164,45.691612243652,-76.677871704102,45.714809417725],"coordinates":[[[[-76.68586,45.702042],[-76.677872,45.700184],[-76.690575,45.691612],[-76.690918,45.700783],[-76.69899,45.714809],[-76.68586,45.702042]]]],"created":1292458730,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23395606_20101216_8fa2a05dca.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

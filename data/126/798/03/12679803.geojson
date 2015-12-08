@@ -1,0 +1,15 @@
+{
+  "id": 12679803,
+  "type": "Feature",
+  "properties": {
+    "name":"Izano, Italy",
+    "placetype":"locality",
+    "woe:id":12679803,
+    "woe:name":"Izano, Italy",
+    "woe:place_id":"x7kaw1iYA5ptLRtoyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.749615,45.358299,9.753112,45.360828],
+  "geometry": {"alpha":1e-05,"bbox":[9.7496147155762,45.358299255371,9.7531118392944,45.360828399658],"coordinates":[[[[9.749615,45.358299],[9.749658,45.358326],[9.753112,45.360828],[9.752769,45.358658],[9.749647,45.358307],[9.749615,45.358299]]]],"created":1292523097,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12679803_20101216_c22e070e30.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

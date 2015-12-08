@@ -1,0 +1,15 @@
+{
+  "id": 28339819,
+  "type": "Feature",
+  "properties": {
+    "name":"Burnet Woods, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":28339819,
+    "woe:name":"Burnet Woods, Ohio, United States",
+    "woe:place_id":"q.dRsLibCZ9JuSzRyg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.523315,39.143173,-84.510399,39.151363],
+  "geometry": {"alpha":0.00015,"bbox":[-84.523315429688,39.143173217773,-84.510398864746,39.151363372803],"coordinates":[[[[-84.518936,39.143173],[-84.521049,39.143864],[-84.523315,39.147636],[-84.522629,39.151363],[-84.510399,39.145405],[-84.518936,39.143173]]]],"created":1292538888,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/28339819_20101216_404cafba7a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

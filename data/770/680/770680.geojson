@@ -1,0 +1,15 @@
+{
+  "id": 770680,
+  "type": "Feature",
+  "properties": {
+    "name":"Pozos, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":770680,
+    "woe:name":"Pozos, Castille and Leon, Spain",
+    "woe:place_id":"og1wE1SeBpz84i0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.334047,42.279499,-6.325936,42.296864],
+  "geometry": {"alpha":0.00015,"bbox":[-6.3340468406677,42.279499053955,-6.3259358406067,42.296863555908],"coordinates":[[[[-6.325979,42.280704],[-6.325936,42.280117],[-6.327738,42.279499],[-6.334047,42.289055],[-6.330528,42.296864],[-6.325979,42.280704]]]],"created":1292547733,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/770680_20101217_d3d2362efe.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

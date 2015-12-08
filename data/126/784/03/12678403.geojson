@@ -1,0 +1,15 @@
+{
+  "id": 12678403,
+  "type": "Feature",
+  "properties": {
+    "name":"Pedace, Italy",
+    "placetype":"locality",
+    "woe:id":12678403,
+    "woe:name":"Pedace, Italy",
+    "woe:place_id":"p_wBZsKYA5qLiRZhBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.459236,39.279041,16.461124,39.281433],
+  "geometry": {"alpha":1e-05,"bbox":[16.45923614502,39.279041290283,16.461124420166,39.281433105469],"coordinates":[[[[16.459707,39.281399],[16.461124,39.281136],[16.459236,39.279041],[16.459236,39.281433],[16.459707,39.281399]]]],"created":1292542288,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12678403_20101216_22f7ee89b1.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2455516,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Vernon, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2455516,
+    "woe:name":"Mount Vernon, Alabama, United States",
+    "woe:place_id":"K6Z7qSWbBZliIQ4Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.019371,31.086067,-88.003593,31.090721],
+  "geometry": {"alpha":0.00015,"bbox":[-88.019371032715,31.086067199707,-88.003593444824,31.090721130371],"coordinates":[[[[-88.017639,31.086309],[-88.019371,31.090721],[-88.007034,31.089655],[-88.003593,31.090115],[-88.010017,31.08655],[-88.011269,31.086067],[-88.017639,31.086309]]]],"created":1292493843,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2455516_20101216_049f1bed0d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

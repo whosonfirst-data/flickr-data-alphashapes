@@ -1,0 +1,15 @@
+{
+  "id": 717034,
+  "type": "Feature",
+  "properties": {
+    "name":"Lardirago, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":717034,
+    "woe:name":"Lardirago, Lombardy, Italy",
+    "woe:place_id":"T427bl6eAJtcXlU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.220962,45.223145,9.233665,45.252716],
+  "geometry": {"alpha":0.00015,"bbox":[9.2209615707397,45.22314453125,9.2336654663086,45.252716064453],"coordinates":[[[[9.227828,45.237183],[9.220962,45.252716],[9.233665,45.238937],[9.231605,45.227634],[9.229567,45.223145],[9.225339,45.225639],[9.227828,45.237183]]]],"created":1292491865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/717034_20101216_b629814586.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

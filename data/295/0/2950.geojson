@@ -1,0 +1,15 @@
+{
+  "id": 2950,
+  "type": "Feature",
+  "properties": {
+    "name":"Deloraine, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2950,
+    "woe:name":"Deloraine, Manitoba, Canada",
+    "woe:place_id":"9MswIWybCJls",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.518379,49.18058,-100.50705,49.216251],
+  "geometry": {"alpha":0.00015,"bbox":[-100.51837921143,49.18058013916,-100.50704956055,49.216251373291],"coordinates":[[[[-100.50705,49.19696],[-100.518379,49.18058],[-100.511856,49.198532],[-100.513916,49.216251],[-100.50705,49.19696]]]],"created":1234779608,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3548/shapefiles/2950_20090216_bd643089d6.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

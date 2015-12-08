@@ -1,0 +1,15 @@
+{
+  "id": 28745707,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookwood, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":28745707,
+    "woe:name":"Brookwood, Georgia, United States",
+    "woe:place_id":"2snfOkabCZuEUBhkKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.338776,33.698952,-84.316345,33.712273],
+  "geometry": {"alpha":0.00015,"bbox":[-84.338775634766,33.698951721191,-84.316345214844,33.712272644043],"coordinates":[[[[-84.332428,33.712273],[-84.329185,33.710838],[-84.316345,33.698952],[-84.338776,33.701633],[-84.332428,33.712273]]]],"created":1234662604,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3302/shapefiles/28745707_20090215_d2c7d98602.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000223,
+  "type": "Feature",
+  "properties": {
+    "name":"Vinovo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000223,
+    "woe:name":"Vinovo, Piedmont, Italy",
+    "woe:place_id":"hfxBOyCYBJw548IxFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.614212,44.94907,7.63631,44.97242],
+  "geometry": {"alpha":0.000234375,"bbox":[7.6142120361328,44.949069976807,7.6363101005554,44.97241973877],"coordinates":[[[[7.614212,44.972389],[7.614898,44.971325],[7.617645,44.96674],[7.628481,44.951996],[7.63631,44.94907],[7.631571,44.949551],[7.625284,44.952831],[7.619522,44.958649],[7.619394,44.958786],[7.617645,44.96674],[7.614641,44.97242],[7.614212,44.972389]]]],"created":1292548803,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/15000223_20101217_39a62bff63.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

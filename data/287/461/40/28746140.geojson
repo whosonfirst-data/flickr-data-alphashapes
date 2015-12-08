@@ -1,0 +1,15 @@
+{
+  "id": 28746140,
+  "type": "Feature",
+  "properties": {
+    "name":"Brumley Gap, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":28746140,
+    "woe:name":"Brumley Gap, Virginia, United States",
+    "woe:place_id":"4mR_HGybCZtsXGhfJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.031136,36.793339,-82.016068,36.810966],
+  "geometry": {"alpha":0.00015,"bbox":[-82.031135559082,36.793338775635,-82.016067504883,36.810966491699],"coordinates":[[[[-82.028267,36.802212],[-82.031136,36.810966],[-82.016068,36.805935],[-82.017059,36.793339],[-82.025597,36.796234],[-82.028267,36.802212]]]],"created":1292435463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/28746140_20101215_f2ff513a58.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

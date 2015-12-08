@@ -1,0 +1,15 @@
+{
+  "id": 2473626,
+  "type": "Feature",
+  "properties": {
+    "name":"Plaza, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2473626,
+    "woe:name":"Plaza, Washington, United States",
+    "woe:place_id":"2ZReLrObBZvh_wl9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.393036,47.316483,-117.378662,47.337208],
+  "geometry": {"alpha":0.00015,"bbox":[-117.39303588867,47.316482543945,-117.37866210938,47.337207794189],"coordinates":[[[[-117.380608,47.337208],[-117.378662,47.324871],[-117.393036,47.316483],[-117.381851,47.327374],[-117.380608,47.337208]]]],"created":1292538108,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2473626_20101216_7fb0f57c33.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

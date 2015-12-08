@@ -1,0 +1,15 @@
+{
+  "id": 55971402,
+  "type": "Feature",
+  "properties": {
+    "name":"Davis, San Leandro, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971402,
+    "woe:name":"Davis, San Leandro, CA, US, United States",
+    "woe:place_id":"mICQDpicBJVqGbVlYQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-122.170212,37.720947,-122.16436,37.722706],
+  "geometry": {"alpha":1e-05,"bbox":[-122.17021179199,37.720947265625,-122.16436004639,37.722705841064],"coordinates":[[[[-122.16436,37.722706],[-122.16507,37.720947],[-122.170212,37.721226],[-122.165161,37.721176],[-122.16436,37.722706]]]],"created":1292529835,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/55971402_20101216_a49c30f060.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

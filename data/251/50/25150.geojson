@@ -1,0 +1,15 @@
+{
+  "id": 25150,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingsdown, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25150,
+    "woe:name":"Kingsdown, England, United Kingdom",
+    "woe:place_id":"euUGH_WbBJ2jCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.760374,51.293648,0.777969,51.302929],
+  "geometry": {"alpha":0.00015,"bbox":[0.76037400960922,51.293647766113,0.77796900272369,51.302928924561],"coordinates":[[[[0.760374,51.293648],[0.760459,51.294559],[0.767841,51.302929],[0.777969,51.298691],[0.760459,51.293728],[0.760374,51.293648]]]],"created":1292455659,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/25150_20101215_5574c9a177.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20120924,
+  "type": "Feature",
+  "properties": {
+    "name":"Cogorno, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20120924,
+    "woe:name":"Cogorno, Liguria, Italy",
+    "woe:place_id":"_9r.qgebAZ0teZGDHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.345631,44.327271,9.356532,44.340271],
+  "geometry": {"alpha":0.00015,"bbox":[9.345630645752,44.327270507812,9.3565320968628,44.340270996094],"coordinates":[[[[9.355072,44.340271],[9.355545,44.335636],[9.356532,44.330383],[9.345631,44.327271],[9.351167,44.338459],[9.355072,44.340271]]]],"created":1292539946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20120924_20101216_ef8ce84210.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

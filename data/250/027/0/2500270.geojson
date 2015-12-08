@@ -1,0 +1,15 @@
+{
+  "id": 2500270,
+  "type": "Feature",
+  "properties": {
+    "name":"Stonebrook, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2500270,
+    "woe:name":"Stonebrook, Tennessee, United States",
+    "woe:place_id":"tGkYAYSbBJwdRy4j",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.718002,35.981834,-86.71183,35.990665],
+  "geometry": {"alpha":0.00015,"bbox":[-86.718002319336,35.981834411621,-86.71183013916,35.990665435791],"coordinates":[[[[-86.718002,35.981998],[-86.716667,35.983665],[-86.71183,35.990665],[-86.71183,35.983166],[-86.717331,35.981834],[-86.718002,35.981998]]]],"created":1248169096,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2591/shapefiles/2500270_20090721_1392f7c5da.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

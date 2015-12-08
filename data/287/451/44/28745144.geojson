@@ -1,0 +1,15 @@
+{
+  "id": 28745144,
+  "type": "Feature",
+  "properties": {
+    "name":"Parlin Pond, Maine, United States",
+    "placetype":"locality",
+    "woe:id":28745144,
+    "woe:name":"Parlin Pond, Maine, United States",
+    "woe:place_id":"ZfM5V_.bCZtr5S7c5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.116463,45.516693,-70.093628,45.548962],
+  "geometry": {"alpha":0.00015,"bbox":[-70.11646270752,45.516693115234,-70.093627929688,45.548961639404],"coordinates":[[[[-70.101181,45.53434],[-70.116463,45.548962],[-70.100327,45.537018],[-70.098869,45.534191],[-70.093628,45.516693],[-70.101181,45.53434]]]],"created":1292534314,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/28745144_20101216_25467d4cc2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2423143,
+  "type": "Feature",
+  "properties": {
+    "name":"Holler, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2423143,
+    "woe:name":"Holler, Maryland, United States",
+    "woe:place_id":"gv3JS9qbBZ6vcv43",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.163139,39.459106,-77.14222,39.469597],
+  "geometry": {"alpha":0.00015,"bbox":[-77.163139343262,39.459106445312,-77.142219543457,39.469596862793],"coordinates":[[[[-77.149002,39.469597],[-77.14222,39.466415],[-77.147835,39.463833],[-77.160461,39.459106],[-77.163139,39.46143],[-77.149002,39.469597]]]],"created":1292451848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2423143_20101215_c7d6d145dc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

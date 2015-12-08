@@ -1,0 +1,15 @@
+{
+  "id": 672221,
+  "type": "Feature",
+  "properties": {
+    "name":"Litzendorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":672221,
+    "woe:name":"Litzendorf, Bavaria, Germany",
+    "woe:place_id":"gMPWAoKfBp6zc6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.000275,49.898724,11.010532,49.926445],
+  "geometry": {"alpha":0.00015,"bbox":[11.000274658203,49.898723602295,11.01053237915,49.926445007324],"coordinates":[[[[11.009164,49.91264],[11.010532,49.910728],[11.008172,49.898724],[11.00514,49.910526],[11.000275,49.926445],[11.009164,49.91264]]]],"created":1292447321,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/672221_20101215_20c8a7808d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

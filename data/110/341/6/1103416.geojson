@@ -1,0 +1,15 @@
+{
+  "id": 1103416,
+  "type": "Feature",
+  "properties": {
+    "name":"Leongatha, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103416,
+    "woe:name":"Leongatha, Victoria, Australia",
+    "woe:place_id":"G83iLHWYAJzqD5_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.941696,-38.483158,145.954742,-38.473213],
+  "geometry": {"alpha":0.00015,"bbox":[145.94169616699,-38.483158111572,145.95474243164,-38.473213195801],"coordinates":[[[[145.947037,-38.475861],[145.954742,-38.473213],[145.948563,-38.483158],[145.944443,-38.482754],[145.941696,-38.479462],[145.945511,-38.476761],[145.947037,-38.475861]]]],"created":1292526346,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/1103416_20101216_e2253786b2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2491383,
+  "type": "Feature",
+  "properties": {
+    "name":"Shady Grove, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2491383,
+    "woe:name":"Shady Grove, Texas, United States",
+    "woe:place_id":"tCmWQkObBZVYKSjZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.103767,29.966543,-99.087067,29.980755],
+  "geometry": {"alpha":0.00015,"bbox":[-99.10376739502,29.966543197632,-99.087066650391,29.980754852295],"coordinates":[[[[-99.08799,29.977131],[-99.09185,29.966543],[-99.103767,29.969318],[-99.090431,29.980755],[-99.087067,29.980141],[-99.08799,29.977131]]]],"created":1248124087,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2641/shapefiles/2491383_20090720_5a44b4b147.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

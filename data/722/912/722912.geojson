@@ -1,0 +1,15 @@
+{
+  "id": 722912,
+  "type": "Feature",
+  "properties": {
+    "name":"San Michele, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":722912,
+    "woe:name":"San Michele, Piedmont, Italy",
+    "woe:place_id":"EKSMVDeeA55Ax0M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.894363,44.370743,7.928695,44.386459],
+  "geometry": {"alpha":0.00015,"bbox":[7.8943629264832,44.370742797852,7.9286952018738,44.386459350586],"coordinates":[[[[7.912044,44.376385],[7.895908,44.370743],[7.894363,44.375156],[7.898826,44.381294],[7.911915,44.386459],[7.928695,44.381538],[7.912044,44.376385]]]],"created":1292525201,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/722912_20101216_3bbcd9bc6a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

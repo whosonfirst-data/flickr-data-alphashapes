@@ -1,0 +1,15 @@
+{
+  "id": 13111,
+  "type": "Feature",
+  "properties": {
+    "name":"Bobbing, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13111,
+    "woe:name":"Bobbing, England, United Kingdom",
+    "woe:place_id":"ZLCC3dyYAp33iQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.69806,51.345627,0.714358,51.365833],
+  "geometry": {"alpha":0.00015,"bbox":[0.69805997610092,51.345626831055,0.71435797214508,51.365833282471],"coordinates":[[[[0.710188,51.35376],[0.714358,51.349312],[0.713617,51.346275],[0.705581,51.345627],[0.69806,51.347179],[0.700666,51.365833],[0.710188,51.35376]]]],"created":1292534319,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/13111_20101216_1b1d935053.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

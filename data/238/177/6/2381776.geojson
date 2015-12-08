@@ -1,0 +1,15 @@
+{
+  "id": 2381776,
+  "type": "Feature",
+  "properties": {
+    "name":"Clinton, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2381776,
+    "woe:name":"Clinton, Kentucky, United States",
+    "woe:place_id":"untnnNqbApQno6ei",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.003975,36.658985,-88.992882,36.671173],
+  "geometry": {"alpha":0.00015,"bbox":[-89.003974914551,36.658985137939,-88.992881774902,36.671173095703],"coordinates":[[[[-88.993958,36.665218],[-88.995735,36.662773],[-89.003975,36.658985],[-89.001053,36.670612],[-88.996292,36.671173],[-88.992882,36.666611],[-88.993958,36.665218]]]],"created":1292521147,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2381776_20101216_16d1de5c5c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

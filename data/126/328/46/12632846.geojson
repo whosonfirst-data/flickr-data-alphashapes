@@ -1,0 +1,15 @@
+{
+  "id": 12632846,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Korbach, Germany",
+    "placetype":"locality",
+    "woe:id":12632846,
+    "woe:name":"Gemeinde Korbach, Germany",
+    "woe:place_id":"6pdxfSGYA5qGbQXi9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.865494,51.272575,8.873401,51.278721],
+  "geometry": {"alpha":1e-05,"bbox":[8.8654937744141,51.272575378418,8.8734006881714,51.278720855713],"coordinates":[[[[8.870601,51.273945],[8.873401,51.278721],[8.872725,51.274387],[8.869743,51.272575],[8.865494,51.27702],[8.870601,51.273945]]]],"created":1292547909,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12632846_20101217_b9c9c52983.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

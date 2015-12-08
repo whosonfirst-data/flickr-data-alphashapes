@@ -1,0 +1,15 @@
+{
+  "id": 2378112,
+  "type": "Feature",
+  "properties": {
+    "name":"Chapel Hill, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2378112,
+    "woe:name":"Chapel Hill, Georgia, United States",
+    "woe:place_id":"lF_j3JybAptC37_R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.723106,33.680908,-84.709221,33.689594],
+  "geometry": {"alpha":0.00015,"bbox":[-84.723106384277,33.680908203125,-84.70922088623,33.689594268799],"coordinates":[[[[-84.714607,33.688084],[-84.709221,33.684212],[-84.723106,33.680908],[-84.722404,33.686073],[-84.721497,33.689594],[-84.714607,33.688084]]]],"created":1292538236,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2378112_20101216_48d39a2c76.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 122346,
+  "type": "Feature",
+  "properties": {
+    "name":"El Salto, Durango, Mexico",
+    "placetype":"locality",
+    "woe:id":122346,
+    "woe:name":"El Salto, Durango, Mexico",
+    "woe:place_id":"uAIZmp6YA55ODMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.373306,23.766022,-105.367554,23.781534],
+  "geometry": {"alpha":0.00015,"bbox":[-105.37330627441,23.766021728516,-105.36755371094,23.781534194946],"coordinates":[[[[-105.367683,23.781515],[-105.367554,23.781534],[-105.372704,23.766022],[-105.373306,23.776861],[-105.367683,23.781515]]]],"created":1292510405,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/122346_20101216_b331023bb9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

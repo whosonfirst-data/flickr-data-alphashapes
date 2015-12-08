@@ -1,0 +1,15 @@
+{
+  "id": 12579791,
+  "type": "Feature",
+  "properties": {
+    "name":"Luz, Minas Gerais, Brazil",
+    "placetype":"county",
+    "woe:id":12579791,
+    "woe:name":"Luz, Minas Gerais, Brazil",
+    "woe:place_id":"8VMsMiqYA5nHHslllw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-45.780056,-19.783503,-45.704327,-19.74861],
+  "geometry": {"alpha":0.0015,"bbox":[-45.780055999756,-19.783502578735,-45.704326629639,-19.748609542847],"coordinates":[[[[-45.75531,-19.783503],[-45.780056,-19.772778],[-45.758057,-19.74861],[-45.704327,-19.763876],[-45.747723,-19.777056],[-45.75531,-19.783503]]]],"created":1292445226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12579791_20101215_77a786fa51.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

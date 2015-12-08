@@ -1,0 +1,15 @@
+{
+  "id": 2355936,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2355936,
+    "woe:name":"Arlington, Georgia, United States",
+    "woe:place_id":".BNFPfKbApkKuoPS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.733688,31.423647,-84.720963,31.442505],
+  "geometry": {"alpha":0.00015,"bbox":[-84.733688354492,31.42364692688,-84.720962524414,31.442504882812],"coordinates":[[[[-84.726013,31.442505],[-84.720963,31.441359],[-84.725372,31.437963],[-84.733688,31.423647],[-84.72921,31.441681],[-84.726013,31.442505]]]],"created":1292485504,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2355936_20101216_37f0e6dd19.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

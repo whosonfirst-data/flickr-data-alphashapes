@@ -1,0 +1,15 @@
+{
+  "id": 12682792,
+  "type": "Feature",
+  "properties": {
+    "name":"Alvaschein, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682792,
+    "woe:name":"Alvaschein, Switzerland",
+    "woe:place_id":"KT5QGliYA5oqVOYShA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.530296,46.678833,9.532941,46.679256],
+  "geometry": {"alpha":1e-05,"bbox":[9.5302963256836,46.678833007812,9.532940864563,46.679256439209],"coordinates":[[[[9.530666,46.678833],[9.530296,46.679241],[9.530618,46.679256],[9.532941,46.678886],[9.530666,46.678833]]]],"created":1292518874,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12682792_20101216_d484445b8f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

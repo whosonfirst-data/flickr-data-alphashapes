@@ -1,0 +1,15 @@
+{
+  "id": 2519134,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitaker, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2519134,
+    "woe:name":"Whitaker, Indiana, United States",
+    "woe:place_id":"0LlvN5.bBJ0uSCXR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.606483,39.379505,-86.599129,39.398273],
+  "geometry": {"alpha":0.00015,"bbox":[-86.606483459473,39.379505157471,-86.599128723145,39.398273468018],"coordinates":[[[[-86.599892,39.398273],[-86.599129,39.398273],[-86.601219,39.396084],[-86.606483,39.379505],[-86.601929,39.396267],[-86.599892,39.398273]]]],"created":1247793724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2458/shapefiles/2519134_20090717_49871e1261.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

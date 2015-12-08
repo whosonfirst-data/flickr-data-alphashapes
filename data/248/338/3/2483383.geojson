@@ -1,0 +1,15 @@
+{
+  "id": 2483383,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockholds, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2483383,
+    "woe:name":"Rockholds, Kentucky, United States",
+    "woe:place_id":"R6Hty9KbBZQcla7e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.096359,36.810368,-84.094696,36.812374],
+  "geometry": {"alpha":0.00015,"bbox":[-84.09635925293,36.810367584229,-84.094696044922,36.81237411499],"coordinates":[[[[-84.094696,36.811378],[-84.095276,36.810848],[-84.095818,36.810368],[-84.096359,36.811455],[-84.094795,36.812374],[-84.094696,36.811378]]]],"created":1292539852,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2483383_20101216_7ae8496bb6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12689491,
+  "type": "Feature",
+  "properties": {
+    "name":"Graus, Spain",
+    "placetype":"locality",
+    "woe:id":12689491,
+    "woe:name":"Graus, Spain",
+    "woe:place_id":"bFA7nwyYA5oPZOSYDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.333023,42.187462,0.339503,42.194443],
+  "geometry": {"alpha":1e-05,"bbox":[0.33302301168442,42.187461853027,0.33950299024582,42.194442749023],"coordinates":[[[[0.339503,42.192471],[0.338229,42.191471],[0.334825,42.187462],[0.333023,42.187572],[0.336241,42.192215],[0.339202,42.194443],[0.339503,42.192471]]]],"created":1292543223,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12689491_20101216_20861c407f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

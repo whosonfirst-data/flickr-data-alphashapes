@@ -1,0 +1,15 @@
+{
+  "id": 23394495,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Bonaventure, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394495,
+    "woe:name":"St.-Bonaventure, Quebec, Canada",
+    "woe:place_id":"c3W_d2ebAp.UOZlrBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.695847,45.96368,-72.679695,45.977638],
+  "geometry": {"alpha":0.00015,"bbox":[-72.695846557617,45.963680267334,-72.679695129395,45.977638244629],"coordinates":[[[[-72.683449,45.964203],[-72.695847,45.977638],[-72.679695,45.967163],[-72.682884,45.96368],[-72.683449,45.964203]]]],"created":1292488863,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/23394495_20101216_4b5fc93335.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

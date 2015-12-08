@@ -1,0 +1,15 @@
+{
+  "id": 2480880,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2480880,
+    "woe:name":"Richmond, Mississippi, United States",
+    "woe:place_id":"lYpiM9SbBZT4WzkW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.621826,34.229546,-88.619186,34.232582],
+  "geometry": {"alpha":0.00015,"bbox":[-88.621826171875,34.229545593262,-88.619186401367,34.232582092285],"coordinates":[[[[-88.621323,34.231468],[-88.621826,34.232582],[-88.620697,34.231098],[-88.619186,34.229546],[-88.621323,34.231468]]]],"created":1234592528,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3536/shapefiles/2480880_20090214_34471e03b2.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

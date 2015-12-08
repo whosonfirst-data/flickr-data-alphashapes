@@ -1,0 +1,15 @@
+{
+  "id": 12593725,
+  "type": "Feature",
+  "properties": {
+    "name":"Hort, Heves, Hungary",
+    "placetype":"county",
+    "woe:id":12593725,
+    "woe:name":"Hort, Heves, Hungary",
+    "woe:place_id":"8HtAAeKYA5moFK23hw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [19.73814,47.673119,19.824142,47.715305],
+  "geometry": {"alpha":0.0015,"bbox":[19.738140106201,47.673118591309,19.824142456055,47.715305328369],"coordinates":[[[[19.779318,47.688091],[19.73814,47.677753],[19.759855,47.695148],[19.790497,47.710224],[19.824142,47.715305],[19.804047,47.673119],[19.779318,47.688091]]]],"created":1292548382,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12593725_20101217_74e4b7a140.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20105172,
+  "type": "Feature",
+  "properties": {
+    "name":"Santiago, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":20105172,
+    "woe:name":"Santiago, Lisbon, Portugal",
+    "woe:place_id":"SYuelvSbAZ0SRPSBxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.132642,38.710762,-9.129638,38.713505],
+  "geometry": {"alpha":0.00015,"bbox":[-9.1326417922974,38.710762023926,-9.1296377182007,38.71350479126],"coordinates":[[[[-9.130614,38.710762],[-9.132567,38.711456],[-9.132642,38.712471],[-9.132419,38.713505],[-9.13106,38.71315],[-9.130582,38.712975],[-9.129638,38.71257],[-9.129638,38.712303],[-9.129681,38.711933],[-9.130614,38.710762]]]],"created":1292528567,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20105172_20101216_3cca105812.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

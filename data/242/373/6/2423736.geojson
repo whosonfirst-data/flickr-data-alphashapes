@@ -1,0 +1,15 @@
+{
+  "id": 2423736,
+  "type": "Feature",
+  "properties": {
+    "name":"Homer City, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2423736,
+    "woe:name":"Homer City, Pennsylvania, United States",
+    "woe:place_id":"oyfU7dWbBZ7rnfZh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.162331,40.519203,-79.148453,40.545376],
+  "geometry": {"alpha":0.00015,"bbox":[-79.162330627441,40.519203186035,-79.148452758789,40.545375823975],"coordinates":[[[[-79.149216,40.540733],[-79.148453,40.519203],[-79.159241,40.532066],[-79.161125,40.543091],[-79.162331,40.545376],[-79.149216,40.540733]]]],"created":1292530864,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2423736_20101216_5ef6eedf5f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

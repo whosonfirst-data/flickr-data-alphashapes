@@ -1,0 +1,15 @@
+{
+  "id": 122,
+  "type": "Feature",
+  "properties": {
+    "name":"Birtle, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":122,
+    "woe:name":"Birtle, Manitoba, Canada",
+    "woe:place_id":"6CWFuqyYA54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.0672,50.419041,-101.049927,50.423176],
+  "geometry": {"alpha":0.00015,"bbox":[-101.06719970703,50.419040679932,-101.04992675781,50.423175811768],"coordinates":[[[[-101.061905,50.421673],[-101.049927,50.423176],[-101.059158,50.420002],[-101.063637,50.420055],[-101.0672,50.419041],[-101.061905,50.421673]]]],"created":1292438014,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/122_20101215_b3bedd8bfe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

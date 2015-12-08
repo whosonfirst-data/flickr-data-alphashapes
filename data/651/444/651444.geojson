@@ -1,0 +1,15 @@
+{
+  "id": 651444,
+  "type": "Feature",
+  "properties": {
+    "name":"Gammelsdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":651444,
+    "woe:name":"Gammelsdorf, Bavaria, Germany",
+    "woe:place_id":"abSAf8GfBJ3PVKk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.934725,48.556351,11.968102,48.565815],
+  "geometry": {"alpha":0.00015,"bbox":[11.934724807739,48.556350708008,11.968102455139,48.565814971924],"coordinates":[[[[11.947031,48.565815],[11.958918,48.563801],[11.968102,48.560604],[11.951408,48.556953],[11.95115,48.556698],[11.934725,48.556351],[11.947031,48.565815]]]],"created":1292523926,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/651444_20101216_c565d6e6e3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

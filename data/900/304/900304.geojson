@@ -1,0 +1,15 @@
+{
+  "id": 900304,
+  "type": "Feature",
+  "properties": {
+    "name":"Nyland, Vasternorrland, Sweden",
+    "placetype":"locality",
+    "woe:id":900304,
+    "woe:name":"Nyland, Vasternorrland, Sweden",
+    "woe:place_id":"nvr4hWqQAZwxV18",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.761202,63.005665,17.764828,63.019768],
+  "geometry": {"alpha":0.00015,"bbox":[17.761201858521,63.005664825439,17.764827728271,63.01976776123],"coordinates":[[[[17.764441,63.015076],[17.761202,63.019768],[17.764828,63.015106],[17.7645,63.005665],[17.764441,63.015076]]]],"created":1292440055,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/900304_20101215_6f7bdd4034.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

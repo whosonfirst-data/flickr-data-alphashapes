@@ -1,0 +1,15 @@
+{
+  "id": 602400,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Cailac, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":602400,
+    "woe:name":"Le Cailac, Auvergne, France",
+    "woe:place_id":"561bWdmfAZ4.qWE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.552046,45.009151,2.56065,45.021851],
+  "geometry": {"alpha":0.00015,"bbox":[2.5520460605621,45.00915145874,2.5606501102448,45.021850585938],"coordinates":[[[[2.557886,45.01899],[2.56065,45.009151],[2.554566,45.014172],[2.552046,45.018055],[2.557827,45.021851],[2.557886,45.01899]]]],"created":1292528877,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/602400_20101216_74a71f87bd.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

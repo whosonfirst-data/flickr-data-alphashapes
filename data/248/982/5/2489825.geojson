@@ -1,0 +1,15 @@
+{
+  "id": 2489825,
+  "type": "Feature",
+  "properties": {
+    "name":"Scioto, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2489825,
+    "woe:name":"Scioto, Ohio, United States",
+    "woe:place_id":"OhCzkLCbBZRTBzo8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.177444,40.275295,-83.162788,40.305992],
+  "geometry": {"alpha":0.00015,"bbox":[-83.177444458008,40.275295257568,-83.162788391113,40.305992126465],"coordinates":[[[[-83.177444,40.284233],[-83.175537,40.304134],[-83.167984,40.305992],[-83.166458,40.287151],[-83.162788,40.275295],[-83.177444,40.284233]]]],"created":1247901973,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3024/shapefiles/2489825_20090718_81a4dfd7cd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

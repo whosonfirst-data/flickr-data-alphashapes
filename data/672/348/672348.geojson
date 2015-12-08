@@ -1,0 +1,15 @@
+{
+  "id": 672348,
+  "type": "Feature",
+  "properties": {
+    "name":"Lochwiesen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":672348,
+    "woe:name":"Lochwiesen, Bavaria, Germany",
+    "woe:place_id":"vHKfZfifBp6YFmU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.210504,47.389633,10.233464,47.407497],
+  "geometry": {"alpha":0.00015,"bbox":[10.210503578186,47.389633178711,10.233464241028,47.407497406006],"coordinates":[[[[10.229055,47.403645],[10.231275,47.40567],[10.233464,47.405003],[10.233078,47.404755],[10.226769,47.389633],[10.210504,47.407497],[10.229055,47.403645]]]],"created":1292526967,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/672348_20101216_3b0ca11d98.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722921,
+  "type": "Feature",
+  "properties": {
+    "name":"San Nazario, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722921,
+    "woe:name":"San Nazario, Veneto, Italy",
+    "woe:place_id":"r3EWFF.eA56w060",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.684848,45.835735,11.701011,45.849487],
+  "geometry": {"alpha":0.00015,"bbox":[11.684847831726,45.835735321045,11.701010704041,45.849487304688],"coordinates":[[[[11.684848,45.838696],[11.685333,45.84267],[11.699924,45.849487],[11.701011,45.835735],[11.690912,45.837814],[11.684848,45.838696]]]],"created":1292519568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/722921_20101216_b65bdd2fb6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678490,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerchio, Italy",
+    "placetype":"locality",
+    "woe:id":12678490,
+    "woe:name":"Cerchio, Italy",
+    "woe:place_id":"10EFrR6YA5oAzfUoFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.600065,42.064095,13.602747,42.06535],
+  "geometry": {"alpha":1e-05,"bbox":[13.600065231323,42.064094543457,13.602746963501,42.065349578857],"coordinates":[[[[13.602747,42.065128],[13.600065,42.064095],[13.60132,42.06535],[13.602619,42.065224],[13.602747,42.065128]]]],"created":1234710128,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3439/shapefiles/12678490_20090215_e5d1b7f0e0.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

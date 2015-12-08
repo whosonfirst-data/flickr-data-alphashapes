@@ -1,0 +1,15 @@
+{
+  "id": 1107021,
+  "type": "Feature",
+  "properties": {
+    "name":"Yarra Junction, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1107021,
+    "woe:name":"Yarra Junction, Victoria, Australia",
+    "woe:place_id":"grvUR4CYAJyXEQxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.585327,-37.798344,145.638535,-37.744862],
+  "geometry": {"alpha":0.0001875,"bbox":[145.58532714844,-37.798343658447,145.6385345459,-37.744861602783],"coordinates":[[[[145.603867,-37.771885],[145.608154,-37.769493],[145.614166,-37.76963],[145.620346,-37.744862],[145.630295,-37.763523],[145.63736,-37.778973],[145.638535,-37.790524],[145.638199,-37.790524],[145.619308,-37.787945],[145.606491,-37.798344],[145.603546,-37.781418],[145.585327,-37.772545],[145.603867,-37.771885]]]],"created":1292464686,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/1107021_20101216_0fb14866a1.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12628266,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Zell, Germany",
+    "placetype":"locality",
+    "woe:id":12628266,
+    "woe:name":"Gemeinde Zell, Germany",
+    "woe:place_id":"liN1gnWYA5qrhV1XXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.177677,50.028378,7.181775,50.031342],
+  "geometry": {"alpha":1e-05,"bbox":[7.177677154541,50.028377532959,7.1817750930786,50.031341552734],"coordinates":[[[[7.181335,50.031342],[7.181775,50.028378],[7.180284,50.029812],[7.177677,50.03101],[7.181335,50.031342]]]],"created":1292526535,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12628266_20101216_e828e6482b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

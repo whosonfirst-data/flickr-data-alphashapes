@@ -1,0 +1,15 @@
+{
+  "id": 877000,
+  "type": "Feature",
+  "properties": {
+    "name":"Ostrovul-Mare, Mehedinti, Romania",
+    "placetype":"locality",
+    "woe:id":877000,
+    "woe:name":"Ostrovul-Mare, Mehedinti, Romania",
+    "woe:place_id":"NSVIowmRBpunD24",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.499485,44.34914,22.514248,44.376633],
+  "geometry": {"alpha":0.00015,"bbox":[22.499485015869,44.349140167236,22.514247894287,44.37663269043],"coordinates":[[[[22.505836,44.361599],[22.499485,44.373562],[22.501028,44.376633],[22.510643,44.364113],[22.514248,44.34914],[22.505836,44.361599]]]],"created":1292456246,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/877000_20101215_5e4f8ff4cf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

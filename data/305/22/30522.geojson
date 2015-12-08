@@ -1,0 +1,15 @@
+{
+  "id": 30522,
+  "type": "Feature",
+  "properties": {
+    "name":"North Newnton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30522,
+    "woe:name":"North Newnton, England, United Kingdom",
+    "woe:place_id":"97Wz37uaAZkgKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.81564,51.31255,-1.811242,51.31456],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8156399726868,51.312549591064,-1.8112419843674,51.314559936523],"coordinates":[[[[-1.812314,51.31255],[-1.814653,51.312668],[-1.81564,51.313728],[-1.811735,51.31456],[-1.811242,51.312683],[-1.812314,51.31255]]]],"created":1292550379,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/30522_20101217_d20860d2c0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 632348,
+  "type": "Feature",
+  "properties": {
+    "name":"Vineuil, Centre, France",
+    "placetype":"locality",
+    "woe:id":632348,
+    "woe:name":"Vineuil, Centre, France",
+    "woe:place_id":"v0VFl2CfAp4PYLM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.356983,47.572762,1.387109,47.591396],
+  "geometry": {"alpha":0.00015,"bbox":[1.3569829463959,47.572761535645,1.387109041214,47.591396331787],"coordinates":[[[[1.377668,47.585007],[1.387109,47.573715],[1.373291,47.572762],[1.370069,47.57325],[1.356983,47.589493],[1.35824,47.591396],[1.377668,47.585007]]]],"created":1292548573,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/632348_20101217_eb4b0c9088.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

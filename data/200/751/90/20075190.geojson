@@ -1,0 +1,15 @@
+{
+  "id": 20075190,
+  "type": "Feature",
+  "properties": {
+    "name":"Ottrott, France",
+    "placetype":"locality",
+    "woe:id":20075190,
+    "woe:name":"Ottrott, France",
+    "woe:place_id":"5k8GLUibAZzxqqScbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.390623,48.435551,7.397403,48.440247],
+  "geometry": {"alpha":1e-05,"bbox":[7.3906230926514,48.435550689697,7.3974027633667,48.440246582031],"coordinates":[[[[7.393363,48.439945],[7.397403,48.439449],[7.397275,48.438694],[7.393141,48.436962],[7.392613,48.435551],[7.390623,48.440247],[7.393363,48.439945]]]],"created":1292549758,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/20075190_20101217_7be9e2533f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

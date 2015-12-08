@@ -1,0 +1,15 @@
+{
+  "id": 722645,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni in Croce, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":722645,
+    "woe:name":"San Giovanni in Croce, Lombardy, Italy",
+    "woe:place_id":"8A0x8UmeA57OLZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.371437,45.071415,10.378904,45.082005],
+  "geometry": {"alpha":0.00015,"bbox":[10.371437072754,45.07141494751,10.378904342651,45.082004547119],"coordinates":[[[[10.377273,45.075912],[10.378904,45.074883],[10.37296,45.071415],[10.372638,45.079399],[10.371437,45.082005],[10.377273,45.075912]]]],"created":1292534522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/722645_20101216_43dd275ef7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

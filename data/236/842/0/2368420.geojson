@@ -1,0 +1,15 @@
+{
+  "id": 2368420,
+  "type": "Feature",
+  "properties": {
+    "name":"Breedlove Hills, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2368420,
+    "woe:name":"Breedlove Hills, Louisiana, United States",
+    "woe:place_id":"n67mjR.bAppchWfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.170135,31.725288,-93.156555,31.737564],
+  "geometry": {"alpha":0.00015,"bbox":[-93.170135498047,31.725288391113,-93.156555175781,31.737564086914],"coordinates":[[[[-93.160027,31.726049],[-93.162262,31.725288],[-93.165604,31.727219],[-93.170135,31.737564],[-93.156555,31.728897],[-93.160027,31.726049]]]],"created":1292456587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2368420_20101215_7d2cb0a9d3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

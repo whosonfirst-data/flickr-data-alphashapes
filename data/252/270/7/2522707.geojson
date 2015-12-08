@@ -1,0 +1,15 @@
+{
+  "id": 2522707,
+  "type": "Feature",
+  "properties": {
+    "name":"Wolfsville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2522707,
+    "woe:name":"Wolfsville, Maryland, United States",
+    "woe:place_id":"J0VU7UmbBJ43Kky0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.551552,39.573044,-77.538818,39.577072],
+  "geometry": {"alpha":0.00015,"bbox":[-77.551551818848,39.573043823242,-77.538818359375,39.577072143555],"coordinates":[[[[-77.551552,39.574017],[-77.549881,39.574707],[-77.538818,39.577072],[-77.54567,39.573448],[-77.550713,39.573044],[-77.551552,39.574017]]]],"created":1292518783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2522707_20101216_e5bb767910.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

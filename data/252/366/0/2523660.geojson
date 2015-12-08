@@ -1,0 +1,15 @@
+{
+  "id": 2523660,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodsdale, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2523660,
+    "woe:name":"Woodsdale, Maryland, United States",
+    "woe:place_id":"tlSYaKebBJ5hSHNW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.304024,39.459999,-76.302788,39.462769],
+  "geometry": {"alpha":0.00015,"bbox":[-76.304023742676,39.459999084473,-76.302787780762,39.462768554688],"coordinates":[[[[-76.304024,39.462406],[-76.303993,39.462769],[-76.303612,39.461933],[-76.302788,39.460018],[-76.303337,39.459999],[-76.304024,39.462406]]]],"created":1292448729,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2523660_20101215_456b767032.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

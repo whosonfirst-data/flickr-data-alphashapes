@@ -1,0 +1,15 @@
+{
+  "id": 721231,
+  "type": "Feature",
+  "properties": {
+    "name":"Prarolo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":721231,
+    "woe:name":"Prarolo, Piedmont, Italy",
+    "woe:place_id":"bVjfpiGeA50I39w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.463592,45.278629,8.48711,45.298981],
+  "geometry": {"alpha":0.00015,"bbox":[8.4635915756226,45.278629302979,8.4871101379395,45.298980712891],"coordinates":[[[[8.477561,45.281937],[8.478355,45.282112],[8.48711,45.298981],[8.479728,45.281715],[8.477733,45.281235],[8.463592,45.278629],[8.477561,45.281937]]]],"created":1247882641,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3427/shapefiles/721231_20090718_252c2b5283.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 589326,
+  "type": "Feature",
+  "properties": {
+    "name":"Dury, Picardie, France",
+    "placetype":"locality",
+    "woe:id":589326,
+    "woe:name":"Dury, Picardie, France",
+    "woe:place_id":"lcSIXaycCZXMY1c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.265666,49.830502,2.286508,49.849957],
+  "geometry": {"alpha":0.00015,"bbox":[2.2656660079956,49.830501556396,2.2865080833435,49.849956512451],"coordinates":[[[[2.273097,49.84724],[2.265666,49.830502],[2.270565,49.849957],[2.273075,49.848083],[2.286508,49.846245],[2.273097,49.84724]]]],"created":1292515930,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/589326_20101216_e6f33767e0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

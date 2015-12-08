@@ -1,0 +1,15 @@
+{
+  "id": 12665174,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Versoud, France",
+    "placetype":"locality",
+    "woe:id":12665174,
+    "woe:name":"Le Versoud, France",
+    "woe:place_id":"62snAAiYA5prVfj9Wg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.843954,45.214455,5.847945,45.218956],
+  "geometry": {"alpha":1e-05,"bbox":[5.8439540863037,45.214454650879,5.8479452133179,45.218955993652],"coordinates":[[[[5.846295,45.214787],[5.846196,45.214828],[5.843954,45.216511],[5.845472,45.218956],[5.847945,45.216057],[5.847129,45.214455],[5.846295,45.214787]]]],"created":1292543832,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12665174_20101216_9dee6fda53.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

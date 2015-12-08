@@ -1,0 +1,15 @@
+{
+  "id": 1786,
+  "type": "Feature",
+  "properties": {
+    "name":"Teeswater, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1786,
+    "woe:name":"Teeswater, Ontario, Canada",
+    "woe:place_id":"LMzxBJKYBpT.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.290672,43.998371,-81.28093,44.001457],
+  "geometry": {"alpha":0.00015,"bbox":[-81.290672302246,43.998371124268,-81.28092956543,44.001457214355],"coordinates":[[[[-81.28698,44.000454],[-81.28093,44.001457],[-81.285095,43.998371],[-81.290672,44.000099],[-81.28698,44.000454]]]],"created":1292528796,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/1786_20101216_87db91be4d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2370391,
+  "type": "Feature",
+  "properties": {
+    "name":"Brownlee, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2370391,
+    "woe:name":"Brownlee, Colorado, United States",
+    "woe:place_id":"QqpjLKKbApuNjZpS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.294441,40.79068,-106.285477,40.806793],
+  "geometry": {"alpha":0.00015,"bbox":[-106.29444122314,40.790679931641,-106.28547668457,40.806793212891],"coordinates":[[[[-106.293755,40.797958],[-106.294441,40.799255],[-106.293411,40.806793],[-106.285477,40.797604],[-106.288261,40.79068],[-106.293755,40.797958]]]],"created":1292372403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2370391_20101215_40a1e91e5d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

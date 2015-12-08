@@ -1,0 +1,15 @@
+{
+  "id": 44548,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellaghy, Northern Ireland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":44548,
+    "woe:name":"Bellaghy, Northern Ireland, United Kingdom",
+    "woe:place_id":"GfLSP6.dBZmNBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.523132,54.807163,-6.507319,54.820484],
+  "geometry": {"alpha":0.00015,"bbox":[-6.5231318473816,54.807163238525,-6.5073189735413,54.820484161377],"coordinates":[[[[-6.517982,54.808205],[-6.520471,54.807163],[-6.523132,54.820469],[-6.507319,54.820484],[-6.517038,54.808697],[-6.517982,54.808205]]]],"created":1292530402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/44548_20101216_9be7a13d80.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

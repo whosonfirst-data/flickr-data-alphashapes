@@ -1,0 +1,15 @@
+{
+  "id": 2506980,
+  "type": "Feature",
+  "properties": {
+    "name":"Tolstoy, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2506980,
+    "woe:name":"Tolstoy, South Dakota, United States",
+    "woe:place_id":"Se1s0oGbBJyLv5tj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.615524,45.204296,-99.613121,45.209587],
+  "geometry": {"alpha":0.00015,"bbox":[-99.615524291992,45.204296112061,-99.613121032715,45.209587097168],"coordinates":[[[[-99.615524,45.207016],[-99.614151,45.209587],[-99.613121,45.20871],[-99.613144,45.2062],[-99.61441,45.204296],[-99.615524,45.207016]]]],"created":1292533384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2506980_20101216_92b23f87c0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

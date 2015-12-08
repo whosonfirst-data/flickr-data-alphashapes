@@ -1,0 +1,15 @@
+{
+  "id": 625433,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Marcel, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":625433,
+    "woe:name":"St.-Marcel, Haute-Normandie, France",
+    "woe:place_id":"GoMgAT.fA5mCozg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.448221,49.097328,1.470108,49.108936],
+  "geometry": {"alpha":0.00015,"bbox":[1.4482209682465,49.097328186035,1.4701080322266,49.108936309814],"coordinates":[[[[1.470108,49.108936],[1.464061,49.097328],[1.448478,49.098148],[1.448221,49.101013],[1.460834,49.102489],[1.470108,49.108936]]]],"created":1292547282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/625433_20101217_4b3065db96.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

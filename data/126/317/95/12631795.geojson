@@ -1,0 +1,15 @@
+{
+  "id": 12631795,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Krempe, Germany",
+    "placetype":"locality",
+    "woe:id":12631795,
+    "woe:name":"Gemeinde Krempe, Germany",
+    "woe:place_id":"4WlgoCiYA5rUpdi8Og",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.486179,53.835506,9.487863,53.835945],
+  "geometry": {"alpha":1e-05,"bbox":[9.4861793518066,53.835506439209,9.4878625869751,53.835945129395],"coordinates":[[[[9.486179,53.835506],[9.48678,53.835911],[9.487863,53.835945],[9.487048,53.835815],[9.486179,53.835506]]]],"created":1292425562,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12631795_20101215_95998e6fbc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

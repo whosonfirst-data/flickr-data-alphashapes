@@ -1,0 +1,15 @@
+{
+  "id": 20075883,
+  "type": "Feature",
+  "properties": {
+    "name":"Alice Bel Colle, Italy",
+    "placetype":"locality",
+    "woe:id":20075883,
+    "woe:name":"Alice Bel Colle, Italy",
+    "woe:place_id":".6T9zBSbAZzBOeFfnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.448829,44.725105,8.451889,44.727036],
+  "geometry": {"alpha":1e-05,"bbox":[8.4488286972046,44.725105285645,8.4518890380859,44.727035522461],"coordinates":[[[[8.450664,44.725304],[8.449784,44.725105],[8.448829,44.726124],[8.451889,44.727036],[8.450664,44.725304]]]],"created":1292523525,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/20075883_20101216_6c38e622d3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

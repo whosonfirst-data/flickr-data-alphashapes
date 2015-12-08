@@ -1,0 +1,15 @@
+{
+  "id": 543858,
+  "type": "Feature",
+  "properties": {
+    "name":"Sitzendorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543858,
+    "woe:name":"Sitzendorf, Lower Austria, Austria",
+    "woe:place_id":"paLP5sqcBZ_4nkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.940754,48.598274,15.944252,48.5993],
+  "geometry": {"alpha":0.00015,"bbox":[15.940753936768,48.598274230957,15.94425201416,48.599300384521],"coordinates":[[[[15.942138,48.598274],[15.941809,48.598282],[15.940754,48.598621],[15.942428,48.5993],[15.943397,48.599079],[15.944252,48.598862],[15.942138,48.598274]]]],"created":1292542876,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/543858_20101216_e973e0b0d9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

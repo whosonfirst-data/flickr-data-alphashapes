@@ -1,0 +1,15 @@
+{
+  "id": 682641,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberwinzer, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":682641,
+    "woe:name":"Oberwinzer, Bavaria, Germany",
+    "woe:place_id":"z1fX6wyfCZ4r2f0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.038058,49.025574,12.050607,49.030804],
+  "geometry": {"alpha":0.00015,"bbox":[12.038058280945,49.025573730469,12.0506067276,49.03080368042],"coordinates":[[[[12.038076,49.02919],[12.038086,49.029194],[12.050607,49.030804],[12.044942,49.025574],[12.038058,49.029015],[12.038063,49.029175],[12.038076,49.02919]]]],"created":1292541551,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/682641_20101216_a0cf7ba9fd.tar.gz"},"points":49,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11182,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11182,
+    "woe:name":"Ashley, England, United Kingdom",
+    "woe:place_id":"VwyNE9eYAJ2jDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.46571,52.226753,0.486059,52.233562],
+  "geometry": {"alpha":0.00015,"bbox":[0.46571001410484,52.226753234863,0.48605901002884,52.233562469482],"coordinates":[[[[0.486059,52.227036],[0.484629,52.226753],[0.46571,52.227646],[0.484022,52.233562],[0.486059,52.227036]]]],"created":1292450299,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/11182_20101215_aa1bf16288.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

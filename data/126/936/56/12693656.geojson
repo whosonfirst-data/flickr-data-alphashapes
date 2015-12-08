@@ -1,0 +1,15 @@
+{
+  "id": 12693656,
+  "type": "Feature",
+  "properties": {
+    "name":"Tiana, Spain",
+    "placetype":"locality",
+    "woe:id":12693656,
+    "woe:name":"Tiana, Spain",
+    "woe:place_id":"1rfv9eqYA5pRPQmwiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.263526,41.484921,2.268011,41.486462],
+  "geometry": {"alpha":1e-05,"bbox":[2.2635259628296,41.484920501709,2.2680110931396,41.486461639404],"coordinates":[[[[2.263526,41.484921],[2.264556,41.486462],[2.268011,41.485722],[2.266005,41.485096],[2.263526,41.484921]]]],"created":1248222606,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3457/shapefiles/12693656_20090722_95b2f95f5f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

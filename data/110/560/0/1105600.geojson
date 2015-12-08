@@ -1,0 +1,15 @@
+{
+  "id": 1105600,
+  "type": "Feature",
+  "properties": {
+    "name":"Snowtown, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105600,
+    "woe:name":"Snowtown, South Australia, Australia",
+    "woe:place_id":"h04h9ByYAJxiRqce",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.206696,-33.792328,138.222473,-33.773167],
+  "geometry": {"alpha":0.00015,"bbox":[138.20669555664,-33.792327880859,138.22247314453,-33.773166656494],"coordinates":[[[[138.206696,-33.78598],[138.212143,-33.773167],[138.214264,-33.78223],[138.222473,-33.792328],[138.206696,-33.78598]]]],"created":1292525462,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/1105600_20101216_b7e2d70f1a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2422352,
+  "type": "Feature",
+  "properties": {
+    "name":"Hilton, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2422352,
+    "woe:name":"Hilton, Georgia, United States",
+    "woe:place_id":".gV4CtmbBZ6nYYnk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.084648,31.286472,-85.069199,31.310087],
+  "geometry": {"alpha":0.00015,"bbox":[-85.084648132324,31.286472320557,-85.069198608398,31.310087203979],"coordinates":[[[[-85.078552,31.306311],[-85.079498,31.306715],[-85.084648,31.309208],[-85.081215,31.310087],[-85.069199,31.307888],[-85.071259,31.286472],[-85.078552,31.306311]]]],"created":1292469243,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2422352_20101216_ae277921f7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

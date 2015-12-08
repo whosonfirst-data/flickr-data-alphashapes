@@ -1,0 +1,15 @@
+{
+  "id": 4045,
+  "type": "Feature",
+  "properties": {
+    "name":"Brussels, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4045,
+    "woe:name":"Brussels, Ontario, Canada",
+    "woe:place_id":"pouQahCdAZjZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.253662,43.739445,-81.244408,43.751133],
+  "geometry": {"alpha":0.00015,"bbox":[-81.253662109375,43.739444732666,-81.244407653809,43.751132965088],"coordinates":[[[[-81.249779,43.744389],[-81.248154,43.746296],[-81.247116,43.747505],[-81.244408,43.751133],[-81.24514,43.744823],[-81.246727,43.74374],[-81.251106,43.740593],[-81.253662,43.739445],[-81.251106,43.742825],[-81.249779,43.744389]]]],"created":1292515323,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/4045_20101216_84afe97e76.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12650834,
+  "type": "Feature",
+  "properties": {
+    "name":"Pont-St.-Pierre, France",
+    "placetype":"locality",
+    "woe:id":12650834,
+    "woe:name":"Pont-St.-Pierre, France",
+    "woe:place_id":"70Ema5yYA5rdlKgdhw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.299991,49.345409,1.304283,49.347279],
+  "geometry": {"alpha":1e-05,"bbox":[1.2999910116196,49.345409393311,1.3042830228806,49.347278594971],"coordinates":[[[[1.304283,49.34618],[1.304111,49.345551],[1.303102,49.345409],[1.299991,49.347267],[1.300474,49.347279],[1.304283,49.34618]]]],"created":1292539402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12650834_20101216_cd97382845.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2389703,
+  "type": "Feature",
+  "properties": {
+    "name":"Davis Wharf, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2389703,
+    "woe:name":"Davis Wharf, Virginia, United States",
+    "woe:place_id":"brB1Gf6bApTcaDAD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.888145,37.544487,-75.867569,37.555031],
+  "geometry": {"alpha":0.00015,"bbox":[-75.888145446777,37.544486999512,-75.867568969727,37.555030822754],"coordinates":[[[[-75.873589,37.548294],[-75.881805,37.544487],[-75.888145,37.555031],[-75.87764,37.552547],[-75.867569,37.554462],[-75.873589,37.548294]]]],"created":1292518569,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2389703_20101216_f92e147ee2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

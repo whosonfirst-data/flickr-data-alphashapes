@@ -1,0 +1,15 @@
+{
+  "id": 12645306,
+  "type": "Feature",
+  "properties": {
+    "name":"Hunspach, France",
+    "placetype":"locality",
+    "woe:id":12645306,
+    "woe:name":"Hunspach, France",
+    "woe:place_id":"fEP3UKaYA5pqD3x4wg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.938995,48.953178,7.941055,48.957172],
+  "geometry": {"alpha":1e-05,"bbox":[7.938994884491,48.953178405762,7.9410548210144,48.957172393799],"coordinates":[[[[7.93951,48.955875],[7.940711,48.957172],[7.941055,48.954014],[7.93998,48.953178],[7.938995,48.954636],[7.93951,48.955875]]]],"created":1292541679,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12645306_20101216_7f1b31f6bd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

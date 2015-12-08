@@ -1,0 +1,15 @@
+{
+  "id": 58048,
+  "type": "Feature",
+  "properties": {
+    "name":"Chachagua, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":58048,
+    "woe:name":"Chachagua, Alajuela, Costa Rica",
+    "woe:place_id":"UHzCTBucCZzTwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.614296,10.387679,-84.58271,10.415759],
+  "geometry": {"alpha":0.00015,"bbox":[-84.614295959473,10.387679100037,-84.582710266113,10.415759086609],"coordinates":[[[[-84.614296,10.415759],[-84.597473,10.410157],[-84.58271,10.398338],[-84.597702,10.387679],[-84.599533,10.407118],[-84.614296,10.415759]]]],"created":1292527145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/58048_20101216_e6c246b695.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

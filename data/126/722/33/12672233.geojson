@@ -1,0 +1,15 @@
+{
+  "id": 12672233,
+  "type": "Feature",
+  "properties": {
+    "name":"Verfeil, France",
+    "placetype":"locality",
+    "woe:id":12672233,
+    "woe:name":"Verfeil, France",
+    "woe:place_id":"DI868umYA5rmWBqHtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.874198,44.185711,1.879134,44.189098],
+  "geometry": {"alpha":1e-05,"bbox":[1.8741979598999,44.185710906982,1.8791340589523,44.189098358154],"coordinates":[[[[1.876505,44.187496],[1.879134,44.185711],[1.876911,44.185722],[1.876355,44.186558],[1.874198,44.189098],[1.876173,44.187649],[1.876505,44.187496]]]],"created":1292547041,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12672233_20101217_f01f3361d0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

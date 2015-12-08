@@ -1,0 +1,15 @@
+{
+  "id": 2393625,
+  "type": "Feature",
+  "properties": {
+    "name":"Drayton, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2393625,
+    "woe:name":"Drayton, North Dakota, United States",
+    "woe:place_id":"x4ZvBSibApWwg4UX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.190468,48.562946,-97.177269,48.571949],
+  "geometry": {"alpha":0.00015,"bbox":[-97.190467834473,48.56294631958,-97.177268981934,48.571949005127],"coordinates":[[[[-97.177269,48.56395],[-97.179482,48.562946],[-97.183083,48.566299],[-97.190468,48.571949],[-97.177803,48.571098],[-97.177269,48.56395]]]],"created":1248083281,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3533/shapefiles/2393625_20090720_d0128755c2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

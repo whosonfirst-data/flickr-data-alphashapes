@@ -1,0 +1,15 @@
+{
+  "id": 726305,
+  "type": "Feature",
+  "properties": {
+    "name":"Vobarno, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":726305,
+    "woe:name":"Vobarno, Lombardy, Italy",
+    "woe:place_id":"S7NOv0KeA5pwOb0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.487694,45.634686,10.501492,45.665047],
+  "geometry": {"alpha":0.00015,"bbox":[10.487693786621,45.634685516357,10.501491546631,45.665046691895],"coordinates":[[[[10.501492,45.64822],[10.5,45.639999],[10.489196,45.634686],[10.487694,45.648705],[10.498294,45.665047],[10.499375,45.651497],[10.501492,45.64822]]]],"created":1292539586,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/726305_20101216_150f24b517.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

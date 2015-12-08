@@ -1,0 +1,15 @@
+{
+  "id": 744141,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Real, Leiria, Portugal",
+    "placetype":"locality",
+    "woe:id":744141,
+    "woe:name":"Monte Real, Leiria, Portugal",
+    "woe:place_id":"zU7VPM2eBZh.Ag0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.866943,39.849895,-8.854783,39.852215],
+  "geometry": {"alpha":0.00015,"bbox":[-8.866943359375,39.849895477295,-8.8547830581665,39.852214813232],"coordinates":[[[[-8.854783,39.851433],[-8.857343,39.849895],[-8.86075,39.8508],[-8.866943,39.851223],[-8.862994,39.852215],[-8.854783,39.851433]]]],"created":1292411402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/744141_20101215_a4a508d01d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

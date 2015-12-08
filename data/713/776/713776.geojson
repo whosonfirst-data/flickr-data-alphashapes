@@ -1,0 +1,15 @@
+{
+  "id": 713776,
+  "type": "Feature",
+  "properties": {
+    "name":"Cereseto, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":713776,
+    "woe:name":"Cereseto, Piedmont, Italy",
+    "woe:place_id":"xsmMXDeeAJ_CoQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.316135,45.085999,8.318581,45.089592],
+  "geometry": {"alpha":0.00015,"bbox":[8.3161354064941,45.085998535156,8.3185806274414,45.08959197998],"coordinates":[[[[8.318,45.085999],[8.316135,45.086292],[8.31709,45.089592],[8.318538,45.089397],[8.318581,45.086792],[8.318519,45.086021],[8.318,45.085999]]]],"created":1292450992,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/713776_20101215_fcccff3468.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2386256,
+  "type": "Feature",
+  "properties": {
+    "name":"Covington, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2386256,
+    "woe:name":"Covington, Michigan, United States",
+    "woe:place_id":"5MmLMOSbApQPHQDi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.538895,46.542213,-88.531265,46.547054],
+  "geometry": {"alpha":0.00015,"bbox":[-88.53889465332,46.542213439941,-88.531265258789,46.547054290771],"coordinates":[[[[-88.536415,46.542213],[-88.538895,46.544544],[-88.537529,46.547054],[-88.531265,46.542568],[-88.536415,46.542213]]]],"created":1292528284,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2386256_20101216_9a243129f8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12688738,
+  "type": "Feature",
+  "properties": {
+    "name":"El Bosque, Spain",
+    "placetype":"locality",
+    "woe:id":12688738,
+    "woe:name":"El Bosque, Spain",
+    "woe:place_id":"9XopD3eYA5ou6Va2Nw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.513763,36.750526,-5.505523,36.76199],
+  "geometry": {"alpha":1e-05,"bbox":[-5.5137629508972,36.750526428223,-5.5055232048035,36.761989593506],"coordinates":[[[[-5.50621,36.757092],[-5.505523,36.756626],[-5.505996,36.750526],[-5.509772,36.753544],[-5.512132,36.757984],[-5.513763,36.76199],[-5.51136,36.76199],[-5.508012,36.758553],[-5.50621,36.757092]]]],"created":1292547164,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12688738_20101217_5cd5aa281b.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

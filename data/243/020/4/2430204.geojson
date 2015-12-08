@@ -1,0 +1,15 @@
+{
+  "id": 2430204,
+  "type": "Feature",
+  "properties": {
+    "name":"Julia, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2430204,
+    "woe:name":"Julia, Georgia, United States",
+    "woe:place_id":"6DH24sibBZ8azu5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.083649,33.493305,-84.06601,33.501663],
+  "geometry": {"alpha":0.00015,"bbox":[-84.083648681641,33.493305206299,-84.066009521484,33.501663208008],"coordinates":[[[[-84.081955,33.501663],[-84.06601,33.493305],[-84.081352,33.499767],[-84.083649,33.501106],[-84.081955,33.501663]]]],"created":1292541045,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2430204_20101216_96dbdedc36.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

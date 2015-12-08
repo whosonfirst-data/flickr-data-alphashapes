@@ -1,0 +1,15 @@
+{
+  "id": 2467748,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2467748,
+    "woe:name":"Palmer, Michigan, United States",
+    "woe:place_id":"mfI1ow2bBZqQeCHe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.599548,46.432281,-87.583961,46.455612],
+  "geometry": {"alpha":0.00015,"bbox":[-87.599548339844,46.432281494141,-87.583961486816,46.455612182617],"coordinates":[[[[-87.599548,46.432281],[-87.599136,46.433273],[-87.597595,46.438744],[-87.595535,46.447556],[-87.583961,46.455612],[-87.593102,46.438721],[-87.599022,46.433353],[-87.599548,46.432281]]]],"created":1292456762,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2467748_20101215_b44e51e6a1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

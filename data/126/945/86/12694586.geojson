@@ -1,0 +1,15 @@
+{
+  "id": 12694586,
+  "type": "Feature",
+  "properties": {
+    "name":"Jarandilla de la Vera, Spain",
+    "placetype":"locality",
+    "woe:id":12694586,
+    "woe:name":"Jarandilla de la Vera, Spain",
+    "woe:place_id":"u.FsTTSYA5pselt1OA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.660845,40.12521,-5.658302,40.130722],
+  "geometry": {"alpha":1e-05,"bbox":[-5.6608448028564,40.12520980835,-5.6583018302917,40.130722045898],"coordinates":[[[[-5.660845,40.128933],[-5.660362,40.130722],[-5.659418,40.129345],[-5.658302,40.12521],[-5.660512,40.125381],[-5.660845,40.128933]]]],"created":1292517771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12694586_20101216_171a25d70c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

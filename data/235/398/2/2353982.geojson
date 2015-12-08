@@ -1,0 +1,15 @@
+{
+  "id": 2353982,
+  "type": "Feature",
+  "properties": {
+    "name":"Altonah, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2353982,
+    "woe:name":"Altonah, Pennsylvania, United States",
+    "woe:place_id":"1ULKECqbApmeR8SZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.36882,40.650299,-75.355698,40.669357],
+  "geometry": {"alpha":0.00015,"bbox":[-75.36882019043,40.650299072266,-75.355697631836,40.669357299805],"coordinates":[[[[-75.356384,40.656876],[-75.359688,40.650299],[-75.36882,40.660095],[-75.363396,40.669357],[-75.355698,40.658356],[-75.356384,40.656876]]]],"created":1292550249,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2353982_20101217_9a453b3247.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

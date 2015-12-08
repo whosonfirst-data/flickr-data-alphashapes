@@ -1,0 +1,15 @@
+{
+  "id": 12601090,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Maria Sola, Oaxaca, Mexico",
+    "placetype":"county",
+    "woe:id":12601090,
+    "woe:name":"Santa Maria Sola, Oaxaca, Mexico",
+    "woe:place_id":"Z49EUuSYA5otBgqL3A",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-96.974602,16.609915,-96.969025,16.621635],
+  "geometry": {"alpha":0.0015,"bbox":[-96.974601745605,16.609914779663,-96.969024658203,16.621635437012],"coordinates":[[[[-96.974602,16.609915],[-96.970825,16.618179],[-96.969025,16.621635],[-96.970139,16.613739],[-96.974602,16.609915]]]],"created":1292425081,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12601090_20101215_fbcf67a9e3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

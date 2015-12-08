@@ -1,0 +1,15 @@
+{
+  "id": 755629,
+  "type": "Feature",
+  "properties": {
+    "name":"Camoca, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":755629,
+    "woe:name":"Camoca, Asturias, Spain",
+    "woe:place_id":"LVOYUWeeBJnwn7U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.473594,43.453758,-5.460548,43.465153],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4735941886902,43.453758239746,-5.4605479240417,43.465152740479],"coordinates":[[[[-5.464024,43.465153],[-5.460548,43.463387],[-5.462329,43.46273],[-5.473444,43.453758],[-5.473594,43.45591],[-5.464024,43.465153]]]],"created":1292451112,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/755629_20101215_53f7614afb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28339219,
+  "type": "Feature",
+  "properties": {
+    "name":"Grand Falls, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":28339219,
+    "woe:name":"Grand Falls, Missouri, United States",
+    "woe:place_id":"CfUMxLWbCZ8JczBcGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.511772,37.091816,-94.493065,37.103893],
+  "geometry": {"alpha":0.00015,"bbox":[-94.511772155762,37.091815948486,-94.493064880371,37.103893280029],"coordinates":[[[[-94.511772,37.103416],[-94.509239,37.101826],[-94.493065,37.103893],[-94.498924,37.091816],[-94.509972,37.094452],[-94.511772,37.103416]]]],"created":1292496250,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/28339219_20101216_87993ba9a2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

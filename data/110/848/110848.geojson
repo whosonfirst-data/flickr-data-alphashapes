@@ -1,0 +1,15 @@
+{
+  "id": 110848,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox's Bay, Saint Anthony, Montserrat",
+    "placetype":"locality",
+    "woe:id":110848,
+    "woe:name":"Fox's Bay, Saint Anthony, Montserrat",
+    "woe:place_id":"NrHF5kaYAJwXVfo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.242355,16.715124,-62.225189,16.726713],
+  "geometry": {"alpha":0.00015,"bbox":[-62.24235534668,16.715124130249,-62.225189208984,16.726713180542],"coordinates":[[[[-62.237206,16.723509],[-62.227848,16.726713],[-62.225189,16.719234],[-62.225361,16.715124],[-62.242355,16.719891],[-62.237206,16.723509]]]],"created":1292446855,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/110848_20101215_62b53da6d6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

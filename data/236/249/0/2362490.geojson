@@ -1,0 +1,15 @@
+{
+  "id": 2362490,
+  "type": "Feature",
+  "properties": {
+    "name":"Bend, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2362490,
+    "woe:name":"Bend, Missouri, United States",
+    "woe:place_id":"b5Q48_CbAppuzycL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.861107,38.197147,-91.843994,38.211391],
+  "geometry": {"alpha":0.00015,"bbox":[-91.861106872559,38.197147369385,-91.843994140625,38.211391448975],"coordinates":[[[[-91.843994,38.211391],[-91.848923,38.197754],[-91.861107,38.197147],[-91.844376,38.211277],[-91.843994,38.211391]]]],"created":1234547283,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3298/shapefiles/2362490_20090213_600668b7e4.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

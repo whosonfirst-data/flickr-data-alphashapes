@@ -1,0 +1,15 @@
+{
+  "id": 656151,
+  "type": "Feature",
+  "properties": {
+    "name":"Haarkirchen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":656151,
+    "woe:name":"Haarkirchen, Bavaria, Germany",
+    "woe:place_id":"RVLGS.OfBJpSuHY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.355657,47.977348,11.361751,47.982395],
+  "geometry": {"alpha":0.00015,"bbox":[11.35565662384,47.977348327637,11.361750602722,47.982395172119],"coordinates":[[[[11.355786,47.977348],[11.355657,47.977741],[11.359863,47.982395],[11.361751,47.978203],[11.356773,47.977627],[11.355937,47.97739],[11.355786,47.977348]]]],"created":1292483762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/656151_20101216_eff6d72643.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

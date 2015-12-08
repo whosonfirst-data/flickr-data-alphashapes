@@ -1,0 +1,15 @@
+{
+  "id": 2507393,
+  "type": "Feature",
+  "properties": {
+    "name":"Town and Country, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2507393,
+    "woe:name":"Town and Country, South Carolina, United States",
+    "woe:place_id":"VAi_9N.bBJwe33nL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.234329,34.023605,-81.225014,34.035305],
+  "geometry": {"alpha":0.00015,"bbox":[-81.234329223633,34.02360534668,-81.22501373291,34.035305023193],"coordinates":[[[[-81.225014,34.027554],[-81.225143,34.027382],[-81.234329,34.023605],[-81.23214,34.030239],[-81.231194,34.035305],[-81.225014,34.027554]]]],"created":1247837881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2568/shapefiles/2507393_20090717_382edfb157.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

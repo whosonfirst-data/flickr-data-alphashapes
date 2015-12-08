@@ -1,0 +1,15 @@
+{
+  "id": 601605,
+  "type": "Feature",
+  "properties": {
+    "name":"Lassay, Centre, France",
+    "placetype":"locality",
+    "woe:id":601605,
+    "woe:name":"Lassay, Centre, France",
+    "woe:place_id":"ObZ3lFufAZ3EPMs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.61,47.369167,1.625736,47.379288],
+  "geometry": {"alpha":0.00015,"bbox":[1.6100000143051,47.369167327881,1.6257359981537,47.379287719727],"coordinates":[[[[1.61,47.369167],[1.610166,47.369499],[1.619796,47.379288],[1.625736,47.375477],[1.62353,47.373127],[1.610166,47.369331],[1.61,47.369167]]]],"created":1292528046,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/601605_20101216_a15c122840.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2480865,
+  "type": "Feature",
+  "properties": {
+    "name":"Richlands, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2480865,
+    "woe:name":"Richlands, North Carolina, United States",
+    "woe:place_id":"TYW7VwqbBZSaKch7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.550102,34.8853,-77.544464,34.903629],
+  "geometry": {"alpha":0.00015,"bbox":[-77.550102233887,34.885299682617,-77.544464111328,34.903629302979],"coordinates":[[[[-77.547188,34.896851],[-77.549057,34.901138],[-77.544731,34.903629],[-77.544464,34.892513],[-77.550102,34.8853],[-77.547188,34.896851]]]],"created":1292542310,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2480865_20101216_548664b9ae.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

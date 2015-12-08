@@ -1,0 +1,15 @@
+{
+  "id": 2351488,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbeville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2351488,
+    "woe:name":"Abbeville, Georgia, United States",
+    "woe:place_id":"pHGFv4abApkerfZO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.318001,31.976999,-83.295074,32.006668],
+  "geometry": {"alpha":0.00015,"bbox":[-83.318000793457,31.976999282837,-83.295074462891,32.00666809082],"coordinates":[[[[-83.313835,31.995832],[-83.308998,32.006668],[-83.295074,31.995703],[-83.30658,31.987549],[-83.318001,31.976999],[-83.314163,31.992666],[-83.313835,31.995832]]]],"created":1292534608,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2351488_20101216_9a63270c41.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

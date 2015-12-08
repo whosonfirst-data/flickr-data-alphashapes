@@ -1,0 +1,15 @@
+{
+  "id": 2398196,
+  "type": "Feature",
+  "properties": {
+    "name":"Electric City, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2398196,
+    "woe:name":"Electric City, Texas, United States",
+    "woe:place_id":"NO8DrGibApVQjsCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.422089,35.698605,-101.402458,35.721745],
+  "geometry": {"alpha":0.00015,"bbox":[-101.42208862305,35.69860458374,-101.40245819092,35.721744537354],"coordinates":[[[[-101.422089,35.713627],[-101.419128,35.721745],[-101.412842,35.710072],[-101.402458,35.698605],[-101.414925,35.707073],[-101.422089,35.713627]]]],"created":1292448376,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2398196_20101215_d19dcebd3f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

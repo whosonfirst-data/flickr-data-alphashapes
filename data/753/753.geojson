@@ -1,0 +1,15 @@
+{
+  "id": 753,
+  "type": "Feature",
+  "properties": {
+    "name":"Kemnay, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":753,
+    "woe:name":"Kemnay, Manitoba, Canada",
+    "woe:place_id":"J6dt85.eBJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.123039,49.84251,-100.107422,49.881916],
+  "geometry": {"alpha":0.0001875,"bbox":[-100.12303924561,49.842510223389,-100.107421875,49.881916046143],"coordinates":[[[[-100.113258,49.863827],[-100.107422,49.847725],[-100.118736,49.84251],[-100.123039,49.868088],[-100.115829,49.881916],[-100.108109,49.88081],[-100.113258,49.863827]]]],"created":1292518114,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/753_20101216_c3905b12fa.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

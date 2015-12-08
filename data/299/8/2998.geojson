@@ -1,0 +1,15 @@
+{
+  "id": 2998,
+  "type": "Feature",
+  "properties": {
+    "name":"Morris, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2998,
+    "woe:name":"Morris, Manitoba, Canada",
+    "woe:place_id":"OQ16LHKbCJXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.370964,49.318184,-97.349854,49.373432],
+  "geometry": {"alpha":0.00015,"bbox":[-97.370964050293,49.318183898926,-97.349853515625,49.373432159424],"coordinates":[[[[-97.37072,49.354717],[-97.370964,49.372314],[-97.370453,49.372257],[-97.349854,49.373432],[-97.351761,49.353271],[-97.35672,49.346191],[-97.36734,49.340057],[-97.362213,49.318184],[-97.36985,49.338043],[-97.37072,49.354717]]]],"created":1292537372,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2998_20101216_76fa989fea.tar.gz"},"points":46,"type":"MultiPolygon"}
+}

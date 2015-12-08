@@ -1,0 +1,15 @@
+{
+  "id": 20109020,
+  "type": "Feature",
+  "properties": {
+    "name":"Valle Delle Fontane, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20109020,
+    "woe:name":"Valle Delle Fontane, Lombardy, Italy",
+    "woe:place_id":"IP2LWnubAZ1K3An8rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.009896,45.793716,10.017278,45.798203],
+  "geometry": {"alpha":0.00015,"bbox":[10.009896278381,45.793716430664,10.01727771759,45.798202514648],"coordinates":[[[[10.010755,45.794254],[10.017278,45.798203],[10.016548,45.797188],[10.015776,45.795811],[10.009896,45.793716],[10.010755,45.794254]]]],"created":1292445505,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20109020_20101215_b87352071b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

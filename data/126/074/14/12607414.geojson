@@ -1,0 +1,15 @@
+{
+  "id": 12607414,
+  "type": "Feature",
+  "properties": {
+    "name":"Hodslavice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12607414,
+    "woe:name":"Hodslavice, Czech Republic",
+    "woe:place_id":"Ea9aaTOYA5qUjkcY8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.031033,49.5261,18.035097,49.529102],
+  "geometry": {"alpha":1e-05,"bbox":[18.031032562256,49.526100158691,18.035097122192,49.529102325439],"coordinates":[[[[18.033327,49.52816],[18.035097,49.526516],[18.031397,49.5261],[18.031033,49.527908],[18.03159,49.528286],[18.032984,49.529102],[18.033327,49.52816]]]],"created":1292470445,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12607414_20101216_146ed7257c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

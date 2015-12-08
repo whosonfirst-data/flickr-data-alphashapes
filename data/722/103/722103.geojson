@@ -1,0 +1,15 @@
+{
+  "id": 722103,
+  "type": "Feature",
+  "properties": {
+    "name":"Rovereto, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":722103,
+    "woe:name":"Rovereto, Emilia Romagna, Italy",
+    "woe:place_id":"GdR5fcqeA57X32c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.945687,44.828102,10.959184,44.840839],
+  "geometry": {"alpha":0.00015,"bbox":[10.945687294006,44.828102111816,10.959183692932,44.840839385986],"coordinates":[[[[10.958905,44.840839],[10.959184,44.84058],[10.958433,44.840137],[10.945687,44.828102],[10.956716,44.840809],[10.958905,44.840839]]]],"created":1292458585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/722103_20101216_e59435bfd1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

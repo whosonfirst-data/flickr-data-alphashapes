@@ -1,0 +1,15 @@
+{
+  "id": 2414834,
+  "type": "Feature",
+  "properties": {
+    "name":"Gregg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2414834,
+    "woe:name":"Gregg, Pennsylvania, United States",
+    "woe:place_id":"iJ7_1HWbBZ3oGD0t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.085739,41.058174,-77.060997,41.071716],
+  "geometry": {"alpha":0.00015,"bbox":[-77.085739135742,41.058174133301,-77.060997009277,41.071716308594],"coordinates":[[[[-77.082436,41.058174],[-77.085739,41.069839],[-77.070465,41.071716],[-77.060997,41.067333],[-77.073769,41.06382],[-77.082436,41.058174]]]],"created":1292485864,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2414834_20101216_274fdf4f30.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

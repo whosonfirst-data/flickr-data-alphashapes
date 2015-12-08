@@ -1,0 +1,15 @@
+{
+  "id": 368390,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlos, Antioquia, Colombia",
+    "placetype":"locality",
+    "woe:id":368390,
+    "woe:name":"San Carlos, Antioquia, Colombia",
+    "woe:place_id":"QXDPb_OaB5RTwZ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.994049,6.17843,-74.97963,6.197557],
+  "geometry": {"alpha":0.00015,"bbox":[-74.994049072266,6.1784300804138,-74.979629516602,6.1975569725037],"coordinates":[[[[-74.993706,6.192096],[-74.97963,6.197557],[-74.987396,6.17843],[-74.994049,6.182539],[-74.993874,6.19184],[-74.993706,6.192096]]]],"created":1292542845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/368390_20101216_51410efde6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

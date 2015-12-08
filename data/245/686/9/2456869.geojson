@@ -1,0 +1,15 @@
+{
+  "id": 2456869,
+  "type": "Feature",
+  "properties": {
+    "name":"Nahor, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2456869,
+    "woe:name":"Nahor, Virginia, United States",
+    "woe:place_id":"G3YfLPSbBZkm1W1B",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.358788,37.916813,-78.350655,37.92646],
+  "geometry": {"alpha":0.00015,"bbox":[-78.358787536621,37.916812896729,-78.350654602051,37.926460266113],"coordinates":[[[[-78.355583,37.925495],[-78.350655,37.92363],[-78.353287,37.916813],[-78.357063,37.918201],[-78.358788,37.92646],[-78.355583,37.925495]]]],"created":1292522273,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2456869_20101216_43fe7f4aff.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

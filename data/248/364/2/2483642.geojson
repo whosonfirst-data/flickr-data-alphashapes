@@ -1,0 +1,15 @@
+{
+  "id": 2483642,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocky Dale, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2483642,
+    "woe:name":"Rocky Dale, Vermont, United States",
+    "woe:place_id":"MdOWDWSbBZSeXhYo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.061058,44.126881,-73.046722,44.140701],
+  "geometry": {"alpha":0.00015,"bbox":[-73.061058044434,44.126880645752,-73.046722412109,44.140701293945],"coordinates":[[[[-73.04966,44.128166],[-73.061058,44.126881],[-73.059769,44.136208],[-73.059242,44.136452],[-73.046722,44.140701],[-73.047729,44.127766],[-73.04966,44.128166]]]],"created":1292544299,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2483642_20101217_42524aaa45.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

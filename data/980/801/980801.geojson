@@ -1,0 +1,15 @@
+{
+  "id": 980801,
+  "type": "Feature",
+  "properties": {
+    "name":"Taga, Palauli, Samoa",
+    "placetype":"locality",
+    "woe:id":980801,
+    "woe:name":"Taga, Palauli, Samoa",
+    "woe:place_id":"Mbh6NbKQCZyF9cI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-172.486893,-13.793572,-172.459259,-13.778401],
+  "geometry": {"alpha":0.00015,"bbox":[-172.4868927002,-13.793572425842,-172.4592590332,-13.778401374817],"coordinates":[[[[-172.461655,-13.778401],[-172.459259,-13.784736],[-172.468521,-13.785653],[-172.486893,-13.793572],[-172.475739,-13.780735],[-172.461655,-13.778401]]]],"created":1292485326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/980801_20101216_8f09c1b834.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

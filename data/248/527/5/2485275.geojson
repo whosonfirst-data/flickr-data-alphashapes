@@ -1,0 +1,15 @@
+{
+  "id": 2485275,
+  "type": "Feature",
+  "properties": {
+    "name":"Rowe, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2485275,
+    "woe:name":"Rowe, Illinois, United States",
+    "woe:place_id":"I_1Cr16bBZTZuuYB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.585915,40.943211,-88.580833,40.94521],
+  "geometry": {"alpha":0.00015,"bbox":[-88.585914611816,40.943210601807,-88.580833435059,40.945209503174],"coordinates":[[[[-88.580994,40.943794],[-88.581429,40.943306],[-88.583107,40.943211],[-88.585915,40.94521],[-88.580833,40.944057],[-88.580994,40.943794]]]],"created":1292517543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2485275_20101216_e4b4d5ab40.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

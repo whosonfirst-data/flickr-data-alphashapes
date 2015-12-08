@@ -1,0 +1,15 @@
+{
+  "id": 2372940,
+  "type": "Feature",
+  "properties": {
+    "name":"Cactus, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2372940,
+    "woe:name":"Cactus, Texas, United States",
+    "woe:place_id":"kR8esKybApvfPCqD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.395287,27.902451,-99.392494,27.9132],
+  "geometry": {"alpha":0.00015,"bbox":[-99.395286560059,27.902450561523,-99.39249420166,27.913200378418],"coordinates":[[[[-99.393997,27.904833],[-99.395287,27.902451],[-99.393913,27.907455],[-99.392494,27.9132],[-99.393784,27.907021],[-99.393997,27.904833]]]],"created":1292448263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2372940_20101215_65c8a2e2c5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

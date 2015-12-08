@@ -1,0 +1,15 @@
+{
+  "id": 12684205,
+  "type": "Feature",
+  "properties": {
+    "name":"Soglio, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684205,
+    "woe:name":"Soglio, Switzerland",
+    "woe:place_id":"9a.bEsyYA5q0tFWesA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.536476,46.340054,9.540596,46.342422],
+  "geometry": {"alpha":1e-05,"bbox":[9.5364761352539,46.34005355835,9.5405960083008,46.342422485352],"coordinates":[[[[9.538707,46.340054],[9.536476,46.342422],[9.537913,46.342201],[9.539566,46.342171],[9.540596,46.342422],[9.538707,46.340054]]]],"created":1292525287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12684205_20101216_43a1be2e7e.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

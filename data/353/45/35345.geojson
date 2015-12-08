@@ -1,0 +1,15 @@
+{
+  "id": 35345,
+  "type": "Feature",
+  "properties": {
+    "name":"South wirral, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35345,
+    "woe:name":"South wirral, England, United Kingdom",
+    "woe:place_id":"NKEVhjyaBJ9VGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.931389,53.256798,-2.926848,53.261547],
+  "geometry": {"alpha":0.00015,"bbox":[-2.931389093399,53.256797790527,-2.9268479347229,53.261547088623],"coordinates":[[[[-2.926848,53.259293],[-2.927083,53.258186],[-2.927416,53.256798],[-2.931389,53.260277],[-2.930055,53.261547],[-2.926955,53.259361],[-2.926848,53.259293]]]],"created":1292548809,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/35345_20101217_71d185552b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

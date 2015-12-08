@@ -1,0 +1,15 @@
+{
+  "id": 20070714,
+  "type": "Feature",
+  "properties": {
+    "name":"La Paz, Mendoza, Argentina",
+    "placetype":"county",
+    "woe:id":20070714,
+    "woe:name":"La Paz, Mendoza, Argentina",
+    "woe:place_id":"n.R_ZC6bAZz4q5DAvg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-67.208862,-33.403931,-67.152557,-33.378704],
+  "geometry": {"alpha":0.0015,"bbox":[-67.208862304688,-33.403930664062,-67.152557373047,-33.378704071045],"coordinates":[[[[-67.18689,-33.378704],[-67.152557,-33.402355],[-67.203369,-33.402782],[-67.208862,-33.403931],[-67.18689,-33.378704]]]],"created":1292530085,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/20070714_20101216_1f520f470c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

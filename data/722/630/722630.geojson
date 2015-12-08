@@ -1,0 +1,15 @@
+{
+  "id": 722630,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni Bianco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":722630,
+    "woe:name":"San Giovanni Bianco, Lombardy, Italy",
+    "woe:place_id":"So2PDseeA55.QF4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.651017,45.864311,9.661102,45.881287],
+  "geometry": {"alpha":0.0001875,"bbox":[9.6510171890259,45.864311218262,9.6611022949219,45.881286621094],"coordinates":[[[[9.651017,45.876862],[9.652175,45.881287],[9.652347,45.877312],[9.661102,45.86515],[9.657154,45.864311],[9.652449,45.875679],[9.651017,45.876862]]]],"created":1292518281,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/722630_20101216_3395049057.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705491,
+  "type": "Feature",
+  "properties": {
+    "name":"Wermsdorf, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":705491,
+    "woe:name":"Wermsdorf, Saxony, Germany",
+    "woe:place_id":"FCUef66eAZmZgmo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.937408,51.280949,12.952083,51.284653],
+  "geometry": {"alpha":0.00015,"bbox":[12.937408447266,51.280948638916,12.952082633972,51.284652709961],"coordinates":[[[[12.948847,51.284653],[12.949576,51.284611],[12.952083,51.284267],[12.951422,51.280949],[12.937408,51.28154],[12.939373,51.28334],[12.948847,51.284653]]]],"created":1292505547,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/705491_20101216_9825b4bfb0.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

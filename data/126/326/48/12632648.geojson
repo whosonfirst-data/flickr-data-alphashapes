@@ -1,0 +1,15 @@
+{
+  "id": 12632648,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lich, Germany",
+    "placetype":"locality",
+    "woe:id":12632648,
+    "woe:name":"Gemeinde Lich, Germany",
+    "woe:place_id":"5u9IjbiYA5oZSTnZgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.814125,50.516483,8.820487,50.520809],
+  "geometry": {"alpha":1e-05,"bbox":[8.8141250610352,50.516483306885,8.8204870223999,50.520809173584],"coordinates":[[[[8.816109,50.517612],[8.814125,50.516483],[8.814468,50.520683],[8.819199,50.520809],[8.820487,50.517361],[8.816109,50.517612]]]],"created":1292545715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12632648_20101217_6ed9f2c736.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

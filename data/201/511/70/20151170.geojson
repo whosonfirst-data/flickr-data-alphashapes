@@ -1,0 +1,15 @@
+{
+  "id": 20151170,
+  "type": "Feature",
+  "properties": {
+    "name":"Kagghamra, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151170,
+    "woe:name":"Kagghamra, Stockholm, Sweden",
+    "woe:place_id":"36VgUaSbAZ1aSbQFZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.770042,59.097202,17.789667,59.117207],
+  "geometry": {"alpha":0.00015,"bbox":[17.770042419434,59.097202301025,17.789667129517,59.117206573486],"coordinates":[[[[17.77536,59.106445],[17.770042,59.11095],[17.778454,59.117207],[17.789667,59.110168],[17.783945,59.097202],[17.77536,59.106445]]]],"created":1292529430,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20151170_20101216_fd13c794aa.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

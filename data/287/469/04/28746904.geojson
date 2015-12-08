@@ -1,0 +1,15 @@
+{
+  "id": 28746904,
+  "type": "Feature",
+  "properties": {
+    "name":"Creekwood, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":28746904,
+    "woe:name":"Creekwood, Illinois, United States",
+    "woe:place_id":"0hU_FFGbCZuS74YOxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.971527,41.646069,-87.961128,41.661819],
+  "geometry": {"alpha":0.00015,"bbox":[-87.971527099609,41.646068572998,-87.961128234863,41.661819458008],"coordinates":[[[[-87.96727,41.661819],[-87.961128,41.660172],[-87.963501,41.646069],[-87.964264,41.647198],[-87.971527,41.657776],[-87.96727,41.661819]]]],"created":1292546890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/28746904_20101217_a4b349575b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

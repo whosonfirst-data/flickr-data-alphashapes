@@ -1,0 +1,15 @@
+{
+  "id": 3504,
+  "type": "Feature",
+  "properties": {
+    "name":"Yamaska, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3504,
+    "woe:name":"Yamaska, Quebec, Canada",
+    "woe:place_id":"O6YbHWyaBJwG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.915123,46.004318,-72.914604,46.009094],
+  "geometry": {"alpha":0.00015,"bbox":[-72.91512298584,46.004318237305,-72.914604187012,46.009094238281],"coordinates":[[[[-72.914665,46.008331],[-72.914604,46.007866],[-72.915123,46.004318],[-72.915016,46.009094],[-72.914665,46.008331]]]],"created":1292558403,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/3504_20101217_b1ae5e7179.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1100800,
+  "type": "Feature",
+  "properties": {
+    "name":"Bungil, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1100800,
+    "woe:name":"Bungil, Victoria, Australia",
+    "woe:place_id":"vSf8BHOYAJwG1wEC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.330093,-36.064087,147.348984,-36.039684],
+  "geometry": {"alpha":0.00015,"bbox":[147.33009338379,-36.064086914062,147.34898376465,-36.039684295654],"coordinates":[[[[147.348984,-36.03994],[147.340164,-36.051857],[147.34314,-36.064087],[147.330093,-36.049099],[147.348755,-36.039684],[147.348984,-36.03994]]]],"created":1247787122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2474/shapefiles/1100800_20090716_60efa0bb0a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

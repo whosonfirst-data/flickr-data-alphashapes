@@ -1,0 +1,15 @@
+{
+  "id": 1112889,
+  "type": "Feature",
+  "properties": {
+    "name":"Nishitanabecho, Japan",
+    "placetype":"locality",
+    "woe:id":1112889,
+    "woe:name":"Nishitanabecho, Japan",
+    "woe:place_id":"tu6RMyqYAJ2G6mA5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [135.514236,34.609932,135.518585,34.616108],
+  "geometry": {"alpha":1e-05,"bbox":[135.5142364502,34.609931945801,135.51858520508,34.616107940674],"coordinates":[[[[135.516144,34.614975],[135.518585,34.614349],[135.518158,34.612865],[135.517624,34.609932],[135.514297,34.60994],[135.514236,34.616108],[135.516144,34.614975]]]],"created":1292525448,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/1112889_20101216_07f451444d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

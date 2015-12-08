@@ -1,0 +1,15 @@
+{
+  "id": 55806924,
+  "type": "Feature",
+  "properties": {
+    "name":"Russell, Louisville, KY, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55806924,
+    "woe:name":"Russell, Louisville, KY, US, United States",
+    "woe:place_id":"JEdfcGGcBJSdQ4pcnw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-85.778366,38.25288,-85.775589,38.258762],
+  "geometry": {"alpha":1e-05,"bbox":[-85.778366088867,38.252880096436,-85.775588989258,38.258762359619],"coordinates":[[[[-85.775589,38.25288],[-85.778366,38.256294],[-85.778244,38.256485],[-85.776077,38.258762],[-85.775589,38.25288]]]],"created":1239422535,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3351/shapefiles/55806924_20090411_06f7ff92ac.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

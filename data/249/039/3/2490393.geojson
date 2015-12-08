@@ -1,0 +1,15 @@
+{
+  "id": 2490393,
+  "type": "Feature",
+  "properties": {
+    "name":"Seaview, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2490393,
+    "woe:name":"Seaview, Virginia, United States",
+    "woe:place_id":"E2WTG9.bBZUEY9Bj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.946617,37.244011,-75.937889,37.263649],
+  "geometry": {"alpha":0.00015,"bbox":[-75.946617126465,37.244010925293,-75.937889099121,37.263648986816],"coordinates":[[[[-75.946617,37.261551],[-75.946075,37.263649],[-75.937889,37.254799],[-75.941147,37.244011],[-75.946617,37.261551]]]],"created":1234551007,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3369/shapefiles/2490393_20090213_d9f771d774.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

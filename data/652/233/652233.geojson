@@ -1,0 +1,15 @@
+{
+  "id": 652233,
+  "type": "Feature",
+  "properties": {
+    "name":"Gerhausen, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":652233,
+    "woe:name":"Gerhausen, Baden-Wurttemberg, Germany",
+    "woe:place_id":"IP8MPLefBJ4yI0M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.800063,48.400246,9.802894,48.404675],
+  "geometry": {"alpha":0.00015,"bbox":[9.8000631332397,48.400245666504,9.8028936386108,48.404674530029],"coordinates":[[[[9.800063,48.400455],[9.800161,48.400684],[9.802894,48.404675],[9.801075,48.400562],[9.800691,48.400246],[9.800063,48.400455]]]],"created":1292475066,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/652233_20101216_6fa97c7d77.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

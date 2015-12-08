@@ -1,0 +1,15 @@
+{
+  "id": 624800,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Jean, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":624800,
+    "woe:name":"St-Jean, Basse-Normandie, France",
+    "woe:place_id":"EbHYStOfA5iZnxw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.802259,48.713985,-0.773849,48.732388],
+  "geometry": {"alpha":0.00015,"bbox":[-0.80225902795792,48.713985443115,-0.77384901046753,48.732387542725],"coordinates":[[[[-0.790092,48.731892],[-0.788419,48.732388],[-0.785715,48.729446],[-0.773849,48.717358],[-0.778226,48.713985],[-0.788526,48.717949],[-0.802259,48.724773],[-0.798311,48.727207],[-0.791079,48.730946],[-0.790092,48.731892]]]],"created":1292453630,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/624800_20101215_6af056bff2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

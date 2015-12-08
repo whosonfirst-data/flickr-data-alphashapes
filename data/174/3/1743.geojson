@@ -1,0 +1,15 @@
+{
+  "id": 1743,
+  "type": "Feature",
+  "properties": {
+    "name":"Stanbridge Station, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1743,
+    "woe:name":"Stanbridge Station, Quebec, Canada",
+    "woe:place_id":"3d8Qyi2YBphD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.037498,45.109905,-73.009514,45.14518],
+  "geometry": {"alpha":0.00015,"bbox":[-73.037498474121,45.10990524292,-73.00951385498,45.145179748535],"coordinates":[[[[-73.009514,45.12426],[-73.01239,45.120052],[-73.012947,45.109905],[-73.032349,45.118446],[-73.037498,45.122868],[-73.028267,45.13731],[-73.031189,45.14518],[-73.017799,45.136341],[-73.014,45.127396],[-73.009514,45.12426]]]],"created":1292550340,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/1743_20101217_209220d309.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

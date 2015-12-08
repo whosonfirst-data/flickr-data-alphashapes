@@ -1,0 +1,15 @@
+{
+  "id": 740560,
+  "type": "Feature",
+  "properties": {
+    "name":"Ervedal, Portalegre, Portugal",
+    "placetype":"locality",
+    "woe:id":740560,
+    "woe:name":"Ervedal, Portalegre, Portugal",
+    "woe:place_id":"098.qaCeBZxG76g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.81403,39.042542,-7.803747,39.047955],
+  "geometry": {"alpha":0.00015,"bbox":[-7.8140301704407,39.042541503906,-7.803747177124,39.047954559326],"coordinates":[[[[-7.803747,39.047955],[-7.804638,39.046558],[-7.812405,39.043449],[-7.81403,39.042542],[-7.812714,39.043541],[-7.803747,39.047955]]]],"created":1292447592,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/740560_20101215_f14faa25b4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

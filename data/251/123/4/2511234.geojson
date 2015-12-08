@@ -1,0 +1,15 @@
+{
+  "id": 2511234,
+  "type": "Feature",
+  "properties": {
+    "name":"Vance, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2511234,
+    "woe:name":"Vance, South Carolina, United States",
+    "woe:place_id":"jnXW2oubBJ2fG8Ai",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.387939,33.439285,-80.387512,33.442009],
+  "geometry": {"alpha":0.00015,"bbox":[-80.387939453125,33.43928527832,-80.387512207031,33.442008972168],"coordinates":[[[[-80.387512,33.442009],[-80.387512,33.441093],[-80.387939,33.439285],[-80.387627,33.441818],[-80.387535,33.441982],[-80.387512,33.442009]]]],"created":1292525677,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2511234_20101216_d6b784328f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

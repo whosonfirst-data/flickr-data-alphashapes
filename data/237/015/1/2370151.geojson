@@ -1,0 +1,15 @@
+{
+  "id": 2370151,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookview, New York, United States",
+    "placetype":"locality",
+    "woe:id":2370151,
+    "woe:name":"Brookview, New York, United States",
+    "woe:place_id":"EW2JY1ibApurXTrI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.724182,42.537712,-73.702812,42.553238],
+  "geometry": {"alpha":0.00015,"bbox":[-73.724182128906,42.537712097168,-73.702812194824,42.553237915039],"coordinates":[[[[-73.71225,42.553238],[-73.702812,42.540623],[-73.709267,42.537712],[-73.724182,42.541267],[-73.71225,42.553238]]]],"created":1234848013,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3475/shapefiles/2370151_20090217_8f3d27a41f.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

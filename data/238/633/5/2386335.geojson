@@ -1,0 +1,15 @@
+{
+  "id": 2386335,
+  "type": "Feature",
+  "properties": {
+    "name":"Cowdens Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2386335,
+    "woe:name":"Cowdens Corner, New York, United States",
+    "woe:place_id":"Wf8Kk5CbApStlyVE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.295586,42.377598,-79.292946,42.378334],
+  "geometry": {"alpha":0.00015,"bbox":[-79.295585632324,42.377597808838,-79.292945861816,42.37833404541],"coordinates":[[[[-79.293297,42.377598],[-79.29364,42.377644],[-79.295586,42.377884],[-79.295509,42.378334],[-79.292946,42.377979],[-79.293297,42.377598]]]],"created":1292539778,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2386335_20101216_719f3dd778.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

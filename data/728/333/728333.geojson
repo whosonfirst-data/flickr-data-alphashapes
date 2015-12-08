@@ -1,0 +1,15 @@
+{
+  "id": 728333,
+  "type": "Feature",
+  "properties": {
+    "name":"De Glip, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":728333,
+    "woe:name":"De Glip, North Holland, Netherlands",
+    "woe:place_id":"N27HExCeA5SsZIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.592671,52.329803,4.613342,52.342499],
+  "geometry": {"alpha":0.00015,"bbox":[4.592670917511,52.329803466797,4.6133418083191,52.342498779297],"coordinates":[[[[4.611232,52.330685],[4.610567,52.330357],[4.60922,52.329803],[4.592671,52.342499],[4.611511,52.3367],[4.613342,52.331436],[4.611232,52.330685]]]],"created":1292491988,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/728333_20101216_de0ee138d5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

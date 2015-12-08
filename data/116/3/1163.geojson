@@ -1,0 +1,15 @@
+{
+  "id": 1163,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmarolle, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1163,
+    "woe:name":"Palmarolle, Quebec, Canada",
+    "woe:place_id":"Jvgo6FGYAJqo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.201767,48.660526,-79.186066,48.664211],
+  "geometry": {"alpha":0.00015,"bbox":[-79.201766967773,48.660526275635,-79.186065673828,48.664211273193],"coordinates":[[[[-79.200951,48.662735],[-79.201767,48.664211],[-79.199455,48.662766],[-79.186066,48.660526],[-79.199799,48.66151],[-79.200951,48.662735]]]],"created":1292473686,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/1163_20101216_3323d58952.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

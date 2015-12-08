@@ -1,0 +1,15 @@
+{
+  "id": 2401039,
+  "type": "Feature",
+  "properties": {
+    "name":"Excelsior, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2401039,
+    "woe:name":"Excelsior, Georgia, United States",
+    "woe:place_id":"4lTsJC6bBZxNlkvF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.927666,32.320332,-81.915169,32.326164],
+  "geometry": {"alpha":0.00015,"bbox":[-81.927665710449,32.320331573486,-81.915168762207,32.326164245605],"coordinates":[[[[-81.917831,32.324165],[-81.915169,32.320332],[-81.917999,32.321667],[-81.921501,32.323166],[-81.927666,32.326164],[-81.917831,32.324165]]]],"created":1292468824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2401039_20101216_f128d22aa3.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2490661,
+  "type": "Feature",
+  "properties": {
+    "name":"Seligman, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2490661,
+    "woe:name":"Seligman, Missouri, United States",
+    "woe:place_id":"ZOx.rvWbBZUQNOTe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.945465,36.523018,-93.938858,36.535019],
+  "geometry": {"alpha":0.00015,"bbox":[-93.945465087891,36.523017883301,-93.938858032227,36.535018920898],"coordinates":[[[[-93.938858,36.52364],[-93.939369,36.523018],[-93.941345,36.525085],[-93.945465,36.535019],[-93.939285,36.525433],[-93.938858,36.52364]]]],"created":1292456784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2490661_20101215_acb185cde6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

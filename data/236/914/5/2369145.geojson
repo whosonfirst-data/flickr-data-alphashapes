@@ -1,0 +1,15 @@
+{
+  "id": 2369145,
+  "type": "Feature",
+  "properties": {
+    "name":"Brighton, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2369145,
+    "woe:name":"Brighton, Ohio, United States",
+    "woe:place_id":"cF8DjQqbApoefsnC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.54718,39.939693,-83.53019,39.941162],
+  "geometry": {"alpha":0.00015,"bbox":[-83.547180175781,39.939693450928,-83.53018951416,39.941162109375],"coordinates":[[[[-83.53019,39.941162],[-83.532257,39.939693],[-83.54718,39.939732],[-83.532669,39.940845],[-83.53019,39.941162]]]],"created":1292418244,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2369145_20101215_fc1e43e0d3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

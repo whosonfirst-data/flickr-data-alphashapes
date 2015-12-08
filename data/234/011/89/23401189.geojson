@@ -1,0 +1,15 @@
+{
+  "id": 23401189,
+  "type": "Feature",
+  "properties": {
+    "name":"Ravenswood, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23401189,
+    "woe:name":"Ravenswood, Ontario, Canada",
+    "woe:place_id":"g5ewDhybApjbtAHZ5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.987106,43.170506,-81.963631,43.184402],
+  "geometry": {"alpha":0.00015,"bbox":[-81.987106323242,43.170505523682,-81.96363067627,43.18440246582],"coordinates":[[[[-81.97567,43.17749],[-81.979294,43.170506],[-81.987106,43.184402],[-81.972595,43.182213],[-81.963631,43.184151],[-81.97567,43.17749]]]],"created":1292537101,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/23401189_20101216_101a9bcb91.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

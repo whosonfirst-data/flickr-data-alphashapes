@@ -1,0 +1,15 @@
+{
+  "id": 2369488,
+  "type": "Feature",
+  "properties": {
+    "name":"Broadacres, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2369488,
+    "woe:name":"Broadacres, Oregon, United States",
+    "woe:place_id":"1na70xmbApqbstbq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.892761,45.190746,-122.891647,45.191715],
+  "geometry": {"alpha":0.00015,"bbox":[-122.89276123047,45.190746307373,-122.89164733887,45.191715240479],"coordinates":[[[[-122.891647,45.191551],[-122.891647,45.191456],[-122.892548,45.190746],[-122.892761,45.191593],[-122.891846,45.191715],[-122.891647,45.191551]]]],"created":1292451613,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2369488_20101215_e3514b4cf9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

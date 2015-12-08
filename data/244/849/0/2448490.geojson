@@ -1,0 +1,15 @@
+{
+  "id": 2448490,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadow, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2448490,
+    "woe:name":"Meadow, West Virginia, United States",
+    "woe:place_id":"CkGLPM6bBZgtbJod",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.958565,39.087437,-78.950714,39.104156],
+  "geometry": {"alpha":0.00015,"bbox":[-78.958564758301,39.087436676025,-78.950714111328,39.104156494141],"coordinates":[[[[-78.950714,39.093758],[-78.953247,39.090099],[-78.956978,39.087437],[-78.95565,39.095695],[-78.958565,39.104156],[-78.950714,39.093758]]]],"created":1292469668,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2448490_20101216_a420068595.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

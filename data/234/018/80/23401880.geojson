@@ -1,0 +1,15 @@
+{
+  "id": 23401880,
+  "type": "Feature",
+  "properties": {
+    "name":"Kleefeld, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":23401880,
+    "woe:name":"Kleefeld, Manitoba, Canada",
+    "woe:place_id":"ao6VUhWbApgvo1OTtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.899071,49.518299,-96.882591,49.525486],
+  "geometry": {"alpha":0.00015,"bbox":[-96.899070739746,49.518299102783,-96.882591247559,49.525485992432],"coordinates":[[[[-96.885338,49.525433],[-96.882591,49.518299],[-96.899071,49.523201],[-96.886024,49.525486],[-96.885338,49.525433]]]],"created":1234836482,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3156/shapefiles/23401880_20090217_406048e8b6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

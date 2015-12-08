@@ -1,0 +1,15 @@
+{
+  "id": 2361168,
+  "type": "Feature",
+  "properties": {
+    "name":"Bedford, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2361168,
+    "woe:name":"Bedford, Montana, United States",
+    "woe:place_id":"Zi4.3fWbApqnxa3C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.567108,46.361885,-111.549896,46.383827],
+  "geometry": {"alpha":0.00015,"bbox":[-111.5671081543,46.361885070801,-111.54989624023,46.383827209473],"coordinates":[[[[-111.550499,46.363899],[-111.549896,46.363159],[-111.552902,46.361885],[-111.557045,46.370605],[-111.567108,46.383827],[-111.556206,46.373257],[-111.550499,46.363899]]]],"created":1292521098,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2361168_20101216_f98837ab74.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

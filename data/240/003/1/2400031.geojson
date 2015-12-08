@@ -1,0 +1,15 @@
+{
+  "id": 2400031,
+  "type": "Feature",
+  "properties": {
+    "name":"Erickson Corner, Connecticut, United States",
+    "placetype":"locality",
+    "woe:id":2400031,
+    "woe:name":"Erickson Corner, Connecticut, United States",
+    "woe:place_id":"z5cbuQ.bBZwnMu3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.417877,41.667976,-73.411621,41.670403],
+  "geometry": {"alpha":0.00015,"bbox":[-73.417877197266,41.667976379395,-73.41162109375,41.670402526855],"coordinates":[[[[-73.417679,41.670265],[-73.417877,41.670403],[-73.417786,41.670387],[-73.411621,41.667976],[-73.417679,41.670265]]]],"created":1234722132,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3242/shapefiles/2400031_20090215_34f0165df2.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

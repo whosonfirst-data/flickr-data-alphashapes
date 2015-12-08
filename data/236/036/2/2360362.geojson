@@ -1,0 +1,15 @@
+{
+  "id": 2360362,
+  "type": "Feature",
+  "properties": {
+    "name":"Bayou Gauche, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2360362,
+    "woe:name":"Bayou Gauche, Louisiana, United States",
+    "woe:place_id":"wRvThDibAprJr6Co",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.420738,29.778387,-90.397255,29.803486],
+  "geometry": {"alpha":0.00015,"bbox":[-90.420738220215,29.778387069702,-90.397254943848,29.803485870361],"coordinates":[[[[-90.409286,29.789482],[-90.420738,29.803486],[-90.404007,29.795889],[-90.397255,29.778387],[-90.409882,29.786633],[-90.409286,29.789482]]]],"created":1292521506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2360362_20101216_d0809e9b8a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

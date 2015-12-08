@@ -1,0 +1,15 @@
+{
+  "id": 23418198,
+  "type": "Feature",
+  "properties": {
+    "name":"Ferdinand, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23418198,
+    "woe:name":"Ferdinand, Vermont, United States",
+    "woe:place_id":"WZ_K7D2bApgDlcEUxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.743614,44.756119,-71.730721,44.768265],
+  "geometry": {"alpha":0.00015,"bbox":[-71.743614196777,44.756118774414,-71.73072052002,44.768264770508],"coordinates":[[[[-71.735916,44.76255],[-71.730721,44.759823],[-71.736427,44.756119],[-71.740723,44.763981],[-71.743614,44.768265],[-71.735916,44.76255]]]],"created":1292519043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/23418198_20101216_11043bac88.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

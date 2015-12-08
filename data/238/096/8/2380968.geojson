@@ -1,0 +1,15 @@
+{
+  "id": 2380968,
+  "type": "Feature",
+  "properties": {
+    "name":"Claxton, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2380968,
+    "woe:name":"Claxton, Georgia, United States",
+    "woe:place_id":"qlWy28ObApROORTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.403908,34.86565,-83.396614,34.879719],
+  "geometry": {"alpha":0.00015,"bbox":[-83.403907775879,34.865650177002,-83.396614074707,34.879718780518],"coordinates":[[[[-83.403008,34.879154],[-83.400948,34.879719],[-83.396614,34.879028],[-83.396919,34.86565],[-83.402367,34.865791],[-83.403908,34.866356],[-83.403008,34.879154]]]],"created":1292524181,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2380968_20101216_3972617920.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

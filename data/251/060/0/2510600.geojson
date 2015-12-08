@@ -1,0 +1,15 @@
+{
+  "id": 2510600,
+  "type": "Feature",
+  "properties": {
+    "name":"Vae View, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2510600,
+    "woe:name":"Vae View, Utah, United States",
+    "woe:place_id":"v4NGyLibBJ2nRE0_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.009064,41.083019,-112.000107,41.090519],
+  "geometry": {"alpha":0.00015,"bbox":[-112.0090637207,41.083019256592,-112.00010681152,41.090518951416],"coordinates":[[[[-112.009064,41.083019],[-112.008705,41.089703],[-112.001953,41.090519],[-112.000107,41.088203],[-112.009041,41.083019],[-112.009064,41.083019]]]],"created":1292522225,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2510600_20101216_3a37b33661.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

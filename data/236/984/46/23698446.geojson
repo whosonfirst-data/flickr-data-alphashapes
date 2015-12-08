@@ -1,0 +1,15 @@
+{
+  "id": 23698446,
+  "type": "Feature",
+  "properties": {
+    "name":"Castleventry, Cork, Ireland",
+    "placetype":"locality",
+    "woe:id":23698446,
+    "woe:name":"Castleventry, Cork, Ireland",
+    "woe:place_id":"5TUfEH6bApqPhoUAqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.10861,51.550739,-9.08123,51.571415],
+  "geometry": {"alpha":0.00015,"bbox":[-9.1086101531982,51.55073928833,-9.0812301635742,51.57141494751],"coordinates":[[[[-9.091272,51.558289],[-9.10861,51.550739],[-9.092388,51.563625],[-9.084663,51.571415],[-9.08123,51.558662],[-9.091272,51.558289]]]],"created":1292535483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/23698446_20101216_104188c0e2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

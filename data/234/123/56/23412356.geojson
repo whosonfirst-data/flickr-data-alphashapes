@@ -1,0 +1,15 @@
+{
+  "id": 23412356,
+  "type": "Feature",
+  "properties": {
+    "name":"Calderara, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":23412356,
+    "woe:name":"Calderara, Lombardy, Italy",
+    "woe:place_id":"94e7puybApjmryGgew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.182134,45.564049,9.189698,45.569946],
+  "geometry": {"alpha":0.00015,"bbox":[9.1821336746216,45.56404876709,9.1896982192993,45.569946289062],"coordinates":[[[[9.189698,45.56419],[9.18928,45.564049],[9.182134,45.569946],[9.185299,45.568932],[9.189677,45.564224],[9.189698,45.56419]]]],"created":1292452383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/23412356_20101215_24baf03307.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20150045,
+  "type": "Feature",
+  "properties": {
+    "name":"Bettola, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20150045,
+    "woe:name":"Bettola, Lombardy, Italy",
+    "woe:place_id":"UOPdNVubAZ3mGeIoHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.47398,45.543999,9.498238,45.563343],
+  "geometry": {"alpha":0.00015,"bbox":[9.4739799499512,45.543998718262,9.4982376098633,45.563343048096],"coordinates":[[[[9.483786,45.543999],[9.47398,45.555523],[9.49253,45.563343],[9.498238,45.558926],[9.484741,45.547031],[9.483786,45.543999]]]],"created":1292441669,"edges":6,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1422/shapefiles/20150045_20101215_da82525b9e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

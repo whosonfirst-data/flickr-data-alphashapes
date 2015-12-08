@@ -1,0 +1,15 @@
+{
+  "id": 2424150,
+  "type": "Feature",
+  "properties": {
+    "name":"Hoovers, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2424150,
+    "woe:name":"Hoovers, Utah, United States",
+    "woe:place_id":"3pxD3rebBZ5VQUJE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.258537,38.492008,-112.247185,38.505573],
+  "geometry": {"alpha":0.00015,"bbox":[-112.25853729248,38.492008209229,-112.24718475342,38.505573272705],"coordinates":[[[[-112.258255,38.502983],[-112.258537,38.505573],[-112.258217,38.503345],[-112.247185,38.492008],[-112.256622,38.497913],[-112.258255,38.502983]]]],"created":1248042256,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2560/shapefiles/2424150_20090719_b0ff8c4c99.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

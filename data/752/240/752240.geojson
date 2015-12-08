@@ -1,0 +1,15 @@
+{
+  "id": 752240,
+  "type": "Feature",
+  "properties": {
+    "name":"Almoraima, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":752240,
+    "woe:name":"Almoraima, Andalusia, Spain",
+    "woe:place_id":"iwSSwGieBJ43yD0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.432395,36.277687,-5.428318,36.282269],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4323949813843,36.277687072754,-5.4283180236816,36.28226852417],"coordinates":[[[[-5.428979,36.277981],[-5.430335,36.279293],[-5.43231,36.28178],[-5.432395,36.282269],[-5.428318,36.277687],[-5.428979,36.277981]]]],"created":1292443835,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/752240_20101215_b86c058e78.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

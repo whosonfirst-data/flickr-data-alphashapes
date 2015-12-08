@@ -1,0 +1,15 @@
+{
+  "id": 12680411,
+  "type": "Feature",
+  "properties": {
+    "name":"Nizza Monferrato, Italy",
+    "placetype":"locality",
+    "woe:id":12680411,
+    "woe:name":"Nizza Monferrato, Italy",
+    "woe:place_id":"9XDmLWuYA5qbuqfZ6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.350671,44.772285,8.357023,44.775803],
+  "geometry": {"alpha":1e-05,"bbox":[8.3506708145142,44.772285461426,8.3570232391357,44.775802612305],"coordinates":[[[[8.355102,44.775497],[8.357023,44.774456],[8.356261,44.774509],[8.350671,44.772285],[8.354759,44.775803],[8.355102,44.775497]]]],"created":1248231966,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2460/shapefiles/12680411_20090722_d7cfa71bcf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

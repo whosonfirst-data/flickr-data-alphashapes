@@ -1,0 +1,15 @@
+{
+  "id": 2411231,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenn, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2411231,
+    "woe:name":"Glenn, Illinois, United States",
+    "woe:place_id":"3D0Q1SKbBZ0ZRIB7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.762093,41.780785,-87.749863,41.791344],
+  "geometry": {"alpha":0.00015,"bbox":[-87.762092590332,41.780784606934,-87.749862670898,41.791343688965],"coordinates":[[[[-87.751404,41.780785],[-87.753983,41.786674],[-87.762093,41.791344],[-87.749863,41.788338],[-87.751404,41.780785]]]],"created":1247913252,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2610/shapefiles/2411231_20090718_2978829fa7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

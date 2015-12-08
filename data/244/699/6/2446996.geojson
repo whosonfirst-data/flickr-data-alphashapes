@@ -1,0 +1,15 @@
+{
+  "id": 2446996,
+  "type": "Feature",
+  "properties": {
+    "name":"Mauricetown, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2446996,
+    "woe:name":"Mauricetown, New Jersey, United States",
+    "woe:place_id":"9tmjmlabBZjUfVkB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.000229,39.283848,-74.988899,39.302624],
+  "geometry": {"alpha":0.00015,"bbox":[-75.000228881836,39.283847808838,-74.988899230957,39.302623748779],"coordinates":[[[[-74.994789,39.283848],[-74.99675,39.285103],[-75.000229,39.302624],[-74.988899,39.28688],[-74.993256,39.283848],[-74.994789,39.283848]]]],"created":1292531651,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2446996_20101216_7f88bf524c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

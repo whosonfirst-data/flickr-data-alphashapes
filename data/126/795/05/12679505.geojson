@@ -1,0 +1,15 @@
+{
+  "id": 12679505,
+  "type": "Feature",
+  "properties": {
+    "name":"Garzeno, Italy",
+    "placetype":"locality",
+    "woe:id":12679505,
+    "woe:name":"Garzeno, Italy",
+    "woe:place_id":"_YFYBt.YA5osTUqhTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.244008,46.133545,9.249114,46.134735],
+  "geometry": {"alpha":1e-05,"bbox":[9.24400806427,46.133544921875,9.2491140365601,46.134735107422],"coordinates":[[[[9.247312,46.133545],[9.247055,46.133724],[9.244008,46.134735],[9.247741,46.134109],[9.248342,46.13414],[9.249114,46.133812],[9.247312,46.133545]]]],"created":1292517685,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12679505_20101216_f5b45b3e60.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

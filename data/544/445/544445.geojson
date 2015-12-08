@@ -1,0 +1,15 @@
+{
+  "id": 544445,
+  "type": "Feature",
+  "properties": {
+    "name":"Witzeldorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":544445,
+    "woe:name":"Witzeldorf, Lower Austria, Austria",
+    "woe:place_id":"FJSgNYCcBZitmGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.853609,48.136421,16.858498,48.137783],
+  "geometry": {"alpha":0.00015,"bbox":[16.853609085083,48.136421203613,16.858497619629,48.137783050537],"coordinates":[[[[16.858494,48.137783],[16.858498,48.137772],[16.85849,48.13776],[16.857319,48.136421],[16.853609,48.136909],[16.858467,48.137775],[16.858494,48.137783]]]],"created":1292539505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/544445_20101216_d5a42facea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

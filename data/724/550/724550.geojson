@@ -1,0 +1,15 @@
+{
+  "id": 724550,
+  "type": "Feature",
+  "properties": {
+    "name":"Stigliano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":724550,
+    "woe:name":"Stigliano, Tuscany, Italy",
+    "woe:place_id":"UhDAUl2eA5iS8bA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.227167,43.214184,11.2397,43.22757],
+  "geometry": {"alpha":0.00015,"bbox":[11.227167129517,43.214183807373,11.239700317383,43.227569580078],"coordinates":[[[[11.227167,43.223667],[11.227684,43.22757],[11.23043,43.227257],[11.238327,43.22419],[11.2397,43.216499],[11.228576,43.214184],[11.227167,43.223667]]]],"created":1292541272,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/724550_20101216_aa64125e27.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

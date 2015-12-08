@@ -1,0 +1,15 @@
+{
+  "id": 29341081,
+  "type": "Feature",
+  "properties": {
+    "name":"Marsan, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":29341081,
+    "woe:name":"Marsan, Veneto, Italy",
+    "woe:place_id":"_FQsgyKbCJ80s.WPow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.679829,45.743435,11.705245,45.766178],
+  "geometry": {"alpha":0.00015,"bbox":[11.679828643799,45.743434906006,11.705245018005,45.766178131104],"coordinates":[[[[11.679829,45.755268],[11.684828,45.766178],[11.705245,45.765427],[11.699827,45.759731],[11.700396,45.743435],[11.691169,45.748718],[11.679829,45.755268]]]],"created":1292545865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/29341081_20101217_cbd55cfac4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

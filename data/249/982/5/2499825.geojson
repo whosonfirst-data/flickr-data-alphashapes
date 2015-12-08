@@ -1,0 +1,15 @@
+{
+  "id": 2499825,
+  "type": "Feature",
+  "properties": {
+    "name":"Stewart Manor, New York, United States",
+    "placetype":"locality",
+    "woe:id":2499825,
+    "woe:name":"Stewart Manor, New York, United States",
+    "woe:place_id":"OmnOvGabBZX.gBha",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.705803,40.717991,-73.68335,40.725052],
+  "geometry": {"alpha":0.00015,"bbox":[-73.70580291748,40.717990875244,-73.683349609375,40.725051879883],"coordinates":[[[[-73.690453,40.720917],[-73.68335,40.717991],[-73.690376,40.718639],[-73.705803,40.724743],[-73.694122,40.725052],[-73.690453,40.720917]]]],"created":1292541252,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2499825_20101216_ec40c956f3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

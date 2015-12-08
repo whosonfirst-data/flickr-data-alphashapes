@@ -1,0 +1,15 @@
+{
+  "id": 8748,
+  "type": "Feature",
+  "properties": {
+    "name":"Torrington, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8748,
+    "woe:name":"Torrington, Alberta, Canada",
+    "woe:place_id":"YUWPBSyRBpiN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.60807,51.783611,-113.587219,51.79694],
+  "geometry": {"alpha":0.00015,"bbox":[-113.60807037354,51.783611297607,-113.58721923828,51.796939849854],"coordinates":[[[[-113.60807,51.794285],[-113.607903,51.795559],[-113.605324,51.795292],[-113.597603,51.79694],[-113.587219,51.783611],[-113.603912,51.790302],[-113.606117,51.789711],[-113.60807,51.794285]]]],"created":1292522798,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/8748_20101216_aa47e6c982.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

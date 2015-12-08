@@ -1,0 +1,15 @@
+{
+  "id": 2503230,
+  "type": "Feature",
+  "properties": {
+    "name":"Sycamore, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2503230,
+    "woe:name":"Sycamore, Florida, United States",
+    "woe:place_id":"3QqCvjebBJxqhq7h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.821037,30.608625,-84.79763,30.618376],
+  "geometry": {"alpha":0.00015,"bbox":[-84.82103729248,30.608625411987,-84.797630310059,30.618375778198],"coordinates":[[[[-84.814217,30.608681],[-84.814278,30.608625],[-84.821037,30.614429],[-84.81694,30.618376],[-84.79763,30.612947],[-84.814217,30.608681]]]],"created":1292540121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2503230_20101216_a5912a87ce.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55999064,
+  "type": "Feature",
+  "properties": {
+    "name":"Campbell's Cross, Shelburne, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999064,
+    "woe:name":"Campbell's Cross, Shelburne, ON, CA, Canada",
+    "woe:place_id":"WZskZ1acBJXqDBVvCg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.848785,43.785271,-79.84655,43.786247],
+  "geometry": {"alpha":1e-05,"bbox":[-79.848785400391,43.785270690918,-79.846549987793,43.786247253418],"coordinates":[[[[-79.848625,43.785271],[-79.848785,43.78558],[-79.848236,43.786247],[-79.84655,43.785473],[-79.848625,43.785271]]]],"created":1292538017,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/55999064_20101216_a4e5660ecd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

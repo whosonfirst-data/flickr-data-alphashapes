@@ -1,0 +1,15 @@
+{
+  "id": 2521766,
+  "type": "Feature",
+  "properties": {
+    "name":"Windham, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2521766,
+    "woe:name":"Windham, Pennsylvania, United States",
+    "woe:place_id":"1477FR2bBJ5fqCAP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.350044,41.995586,-76.344711,41.998306],
+  "geometry": {"alpha":0.00015,"bbox":[-76.350044250488,41.995586395264,-76.344711303711,41.998306274414],"coordinates":[[[[-76.349716,41.998295],[-76.347748,41.997662],[-76.344711,41.995586],[-76.350044,41.998295],[-76.349846,41.998306],[-76.349716,41.998295]]]],"created":1247938323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2455/shapefiles/2521766_20090718_d0a596c787.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

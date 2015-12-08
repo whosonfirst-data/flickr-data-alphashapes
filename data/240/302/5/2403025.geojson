@@ -1,0 +1,15 @@
+{
+  "id": 2403025,
+  "type": "Feature",
+  "properties": {
+    "name":"Fern Glen, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2403025,
+    "woe:name":"Fern Glen, Missouri, United States",
+    "woe:place_id":"s9uEWxabBZxvzqih",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.532883,38.548016,-90.512238,38.560986],
+  "geometry": {"alpha":0.00015,"bbox":[-90.53288269043,38.548015594482,-90.512237548828,38.560985565186],"coordinates":[[[[-90.519577,38.556187],[-90.512238,38.555412],[-90.5196,38.549961],[-90.532883,38.548016],[-90.52739,38.560986],[-90.519577,38.556187]]]],"created":1292453923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2403025_20101215_96022779a0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20160611,
+  "type": "Feature",
+  "properties": {
+    "name":"Neubotzheim, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":20160611,
+    "woe:name":"Neubotzheim, Baden-Wurttemberg, Germany",
+    "woe:place_id":"d2rQwQKbAZ0i_FIZCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.642336,49.439724,8.642892,49.441677],
+  "geometry": {"alpha":0.00015,"bbox":[8.6423358917236,49.439723968506,8.6428918838501,49.441677093506],"coordinates":[[[[8.642337,49.441677],[8.642892,49.440338],[8.642549,49.439724],[8.642336,49.441677],[8.642337,49.441677]]]],"created":1247771285,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2518/shapefiles/20160611_20090716_f0a7217378.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

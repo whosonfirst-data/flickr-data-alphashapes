@@ -1,0 +1,15 @@
+{
+  "id": 12694311,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilanova de Prades, Spain",
+    "placetype":"locality",
+    "woe:id":12694311,
+    "woe:name":"Vilanova de Prades, Spain",
+    "woe:place_id":"bje0FzOYA5o6yaBAwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.953965,41.347214,0.959093,41.349495],
+  "geometry": {"alpha":1e-05,"bbox":[0.95396500825882,41.347213745117,0.95909297466278,41.349494934082],"coordinates":[[[[0.959093,41.348625],[0.959082,41.348583],[0.956357,41.347214],[0.953965,41.34885],[0.958557,41.349495],[0.959093,41.348625]]]],"created":1292524535,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12694311_20101216_ecea9ab7c0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

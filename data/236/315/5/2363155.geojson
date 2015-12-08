@@ -1,0 +1,15 @@
+{
+  "id": 2363155,
+  "type": "Feature",
+  "properties": {
+    "name":"Berrys, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2363155,
+    "woe:name":"Berrys, Virginia, United States",
+    "woe:place_id":"8cFzmEObApr1KrWj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.004639,39.036919,-77.985588,39.056351],
+  "geometry": {"alpha":0.00015,"bbox":[-78.004638671875,39.036918640137,-77.98558807373,39.056350708008],"coordinates":[[[[-77.998123,39.037853],[-78.004639,39.042053],[-77.99958,39.041435],[-77.985588,39.056351],[-77.995117,39.036919],[-77.998123,39.037853]]]],"created":1292448367,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2363155_20101215_3ffaf46a58.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

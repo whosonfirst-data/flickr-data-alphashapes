@@ -1,0 +1,15 @@
+{
+  "id": 20225594,
+  "type": "Feature",
+  "properties": {
+    "name":"Refugio, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20225594,
+    "woe:name":"Refugio, Valencia, Spain",
+    "woe:place_id":"Vs.URqGbAZ765ub9hA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.007896,40.058662,0.031019,40.078465],
+  "geometry": {"alpha":0.00015,"bbox":[0.0078959995880723,40.058662414551,0.031019000336528,40.078464508057],"coordinates":[[[[0.024847,40.067741],[0.017123,40.059368],[0.0112,40.058662],[0.007896,40.071766],[0.024719,40.078465],[0.031019,40.077831],[0.024847,40.067741]]]],"created":1292532352,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20225594_20101216_e934805133.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

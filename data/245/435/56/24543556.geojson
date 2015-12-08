@@ -1,0 +1,15 @@
+{
+  "id": 24543556,
+  "type": "Feature",
+  "properties": {
+    "name":"Karlovassi, Greece",
+    "placetype":"locality",
+    "woe:id":24543556,
+    "woe:name":"Karlovassi, Greece",
+    "woe:place_id":"7bSOyBubBZlao2nexg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.664848,37.789574,26.669655,37.794117],
+  "geometry": {"alpha":1e-05,"bbox":[26.664848327637,37.789573669434,26.669654846191,37.794116973877],"coordinates":[[[[26.666393,37.791065],[26.667334,37.791954],[26.669655,37.794117],[26.667734,37.791962],[26.666565,37.790794],[26.664848,37.789574],[26.666393,37.791065]]]],"created":1248195969,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3508/shapefiles/24543556_20090721_c93056c549.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

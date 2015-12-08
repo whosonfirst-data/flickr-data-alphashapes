@@ -1,0 +1,15 @@
+{
+  "id": 23416961,
+  "type": "Feature",
+  "properties": {
+    "name":"Wanham, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23416961,
+    "woe:name":"Wanham, Alberta, Canada",
+    "woe:place_id":"7nkFL5WbApg4V5j_zg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.394852,55.727497,-118.383865,55.729816],
+  "geometry": {"alpha":0.00015,"bbox":[-118.39485168457,55.72749710083,-118.38386535645,55.729816436768],"coordinates":[[[[-118.394852,55.727497],[-118.392105,55.729816],[-118.386612,55.729431],[-118.383865,55.727497],[-118.390732,55.728657],[-118.394852,55.727497]]]],"created":1292449407,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/23416961_20101215_b2863bf198.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

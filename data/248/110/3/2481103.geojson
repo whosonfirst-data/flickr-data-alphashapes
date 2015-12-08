@@ -1,0 +1,15 @@
+{
+  "id": 2481103,
+  "type": "Feature",
+  "properties": {
+    "name":"Ridge Bay, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2481103,
+    "woe:name":"Ridge Bay, Tennessee, United States",
+    "woe:place_id":"KbsM_FSbBZSJECRr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.158463,35.178299,-85.155159,35.180428],
+  "geometry": {"alpha":0.00015,"bbox":[-85.158462524414,35.178298950195,-85.155158996582,35.18042755127],"coordinates":[[[[-85.156052,35.180428],[-85.155724,35.180393],[-85.155357,35.180096],[-85.155159,35.179859],[-85.158463,35.178299],[-85.156052,35.180428]]]],"created":1292507284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2481103_20101216_3c082ee4b6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

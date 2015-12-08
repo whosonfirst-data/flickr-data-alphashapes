@@ -1,0 +1,15 @@
+{
+  "id": 624089,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Gaultier, Centre, France",
+    "placetype":"locality",
+    "woe:id":624089,
+    "woe:name":"St.-Gaultier, Centre, France",
+    "woe:place_id":"wqr9Kp.fA5jRpSo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.42568,46.635265,1.442642,46.648495],
+  "geometry": {"alpha":0.00015,"bbox":[1.4256800413132,46.635265350342,1.4426419734955,46.648494720459],"coordinates":[[[[1.42657,46.635265],[1.42568,46.635658],[1.428222,46.648495],[1.442642,46.636944],[1.442642,46.636002],[1.42657,46.635265]]]],"created":1292498884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/624089_20101216_b79a28d8b7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 644456,
+  "type": "Feature",
+  "properties": {
+    "name":"Diedersdorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":644456,
+    "woe:name":"Diedersdorf, Brandenburg, Germany",
+    "woe:place_id":"2WOLEayfBZhfKcQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.352508,52.337776,13.374914,52.343975],
+  "geometry": {"alpha":0.00015,"bbox":[13.352507591248,52.337776184082,13.374914169312,52.343975067139],"coordinates":[[[[13.353753,52.341705],[13.36461,52.343807],[13.374914,52.343975],[13.363599,52.341679],[13.352508,52.337776],[13.353753,52.341705]]]],"created":1292443625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/644456_20101215_6f724938d4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

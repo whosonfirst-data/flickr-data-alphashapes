@@ -1,0 +1,15 @@
+{
+  "id": 2365828,
+  "type": "Feature",
+  "properties": {
+    "name":"Blue Lick, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2365828,
+    "woe:name":"Blue Lick, Indiana, United States",
+    "woe:place_id":"YzqGN2.bApr79bK2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.819244,38.552837,-85.801117,38.569252],
+  "geometry": {"alpha":0.00015,"bbox":[-85.819244384766,38.552837371826,-85.801116943359,38.56925201416],"coordinates":[[[[-85.819244,38.554203],[-85.816719,38.56435],[-85.818497,38.569252],[-85.801117,38.560146],[-85.817467,38.552837],[-85.819244,38.554203]]]],"created":1292550544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2365828_20101217_b6518b9f84.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

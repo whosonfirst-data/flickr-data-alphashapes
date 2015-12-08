@@ -1,0 +1,15 @@
+{
+  "id": 12683251,
+  "type": "Feature",
+  "properties": {
+    "name":"Courgenay, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683251,
+    "woe:name":"Courgenay, Switzerland",
+    "woe:place_id":"BOrkjcqYA5qoZtBXIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.124007,47.405029,7.124108,47.405148],
+  "geometry": {"alpha":1e-05,"bbox":[7.1240072250366,47.405029296875,7.124107837677,47.40514755249],"coordinates":[[[[7.124065,47.405148],[7.124098,47.405128],[7.124108,47.405106],[7.124099,47.405094],[7.124007,47.405029],[7.124043,47.405109],[7.124065,47.405148]]]],"created":1292457169,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12683251_20101215_e3f25883d2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

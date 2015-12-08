@@ -1,0 +1,15 @@
+{
+  "id": 2364359,
+  "type": "Feature",
+  "properties": {
+    "name":"Bingham Springs, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2364359,
+    "woe:name":"Bingham Springs, Oregon, United States",
+    "woe:place_id":"sZjSgc2bApoTNXsF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.180466,45.714481,-118.172379,45.747883],
+  "geometry": {"alpha":0.00015,"bbox":[-118.18046569824,45.71448135376,-118.17237854004,45.747882843018],"coordinates":[[[[-118.178604,45.727364],[-118.172379,45.747883],[-118.176369,45.727589],[-118.178322,45.714481],[-118.180466,45.71571],[-118.178604,45.727364]]]],"created":1292459225,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2364359_20101216_8b68bb3f12.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

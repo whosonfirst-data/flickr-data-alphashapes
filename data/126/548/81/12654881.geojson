@@ -1,0 +1,15 @@
+{
+  "id": 12654881,
+  "type": "Feature",
+  "properties": {
+    "name":"Adilly, France",
+    "placetype":"locality",
+    "woe:id":12654881,
+    "woe:name":"Adilly, France",
+    "woe:place_id":"LAwCtHiYA5orRPcjHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.321435,46.699879,-0.318281,46.701538],
+  "geometry": {"alpha":1e-05,"bbox":[-0.32143500447273,46.699878692627,-0.31828099489212,46.701538085938],"coordinates":[[[[-0.318861,46.700714],[-0.320105,46.699879],[-0.321049,46.70076],[-0.321435,46.701538],[-0.321038,46.701511],[-0.319461,46.701332],[-0.318678,46.701275],[-0.318281,46.700996],[-0.318861,46.700714]]]],"created":1292525799,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12654881_20101216_8ddfe3b2c5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

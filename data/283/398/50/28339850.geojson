@@ -1,0 +1,15 @@
+{
+  "id": 28339850,
+  "type": "Feature",
+  "properties": {
+    "name":"South Arlington, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":28339850,
+    "woe:name":"South Arlington, Ohio, United States",
+    "woe:place_id":"l88H9U2bCZ8xoSZLHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.505676,41.046268,-81.490715,41.057575],
+  "geometry": {"alpha":0.00015,"bbox":[-81.505676269531,41.046268463135,-81.490715026855,41.05757522583],"coordinates":[[[[-81.505623,41.050365],[-81.505592,41.052082],[-81.502319,41.055107],[-81.490715,41.057575],[-81.505676,41.046268],[-81.505638,41.047913],[-81.505623,41.050365]]]],"created":1292529489,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/28339850_20101216_98ecd10e69.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2446049,
+  "type": "Feature",
+  "properties": {
+    "name":"Mars Hill, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2446049,
+    "woe:name":"Mars Hill, Maine, United States",
+    "woe:place_id":"CMW0BbibBZhcrk.p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.828621,46.522758,-67.81105,46.537373],
+  "geometry": {"alpha":0.00015,"bbox":[-67.828620910645,46.522758483887,-67.811050415039,46.537372589111],"coordinates":[[[[-67.815704,46.526176],[-67.820816,46.524883],[-67.828621,46.522758],[-67.817917,46.53194],[-67.81105,46.537373],[-67.815704,46.526176]]]],"created":1292477827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2446049_20101216_2d230dec5f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 762528,
+  "type": "Feature",
+  "properties": {
+    "name":"Idiazabal, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":762528,
+    "woe:name":"Idiazabal, Basque Country, Spain",
+    "woe:place_id":"G11gX0SeB55kA6s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.252004,43.010639,-2.221641,43.024227],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2520039081573,43.010639190674,-2.2216410636902,43.024227142334],"coordinates":[[[[-2.221641,43.0172],[-2.23473,43.010639],[-2.252004,43.012478],[-2.251017,43.013466],[-2.238807,43.024227],[-2.221641,43.0172]]]],"created":1292456157,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/762528_20101215_5c7bc9fe36.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

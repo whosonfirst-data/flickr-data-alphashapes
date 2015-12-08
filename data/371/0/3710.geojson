@@ -1,0 +1,15 @@
+{
+  "id": 3710,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcadam, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":3710,
+    "woe:name":"Mcadam, New Brunswick, Canada",
+    "woe:place_id":"HYB0bKuaBp2y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.330101,45.589657,-67.317352,45.598679],
+  "geometry": {"alpha":0.00015,"bbox":[-67.330101013184,45.589656829834,-67.317352294922,45.598678588867],"coordinates":[[[[-67.328873,45.589958],[-67.329712,45.589657],[-67.330101,45.592548],[-67.329048,45.593544],[-67.325867,45.598679],[-67.317352,45.594822],[-67.324455,45.591473],[-67.328873,45.589958]]]],"created":1292549174,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/3710_20101217_1008383905.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

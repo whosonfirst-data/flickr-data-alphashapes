@@ -1,0 +1,15 @@
+{
+  "id": 1384,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Agapit, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1384,
+    "woe:name":"St.-Agapit, Quebec, Canada",
+    "woe:place_id":"FCbs_6CYApSU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.437309,46.561085,-71.426064,46.563641],
+  "geometry": {"alpha":0.00015,"bbox":[-71.437309265137,46.561084747314,-71.426063537598,46.563640594482],"coordinates":[[[[-71.434639,46.561871],[-71.434776,46.561829],[-71.437248,46.561085],[-71.437309,46.563641],[-71.426064,46.563461],[-71.434639,46.561871]]]],"created":1292458114,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/1384_20101216_3e064b0188.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

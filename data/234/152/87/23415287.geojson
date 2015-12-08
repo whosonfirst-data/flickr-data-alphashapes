@@ -1,0 +1,15 @@
+{
+  "id": 23415287,
+  "type": "Feature",
+  "properties": {
+    "name":"Valdelagua, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":23415287,
+    "woe:name":"Valdelagua, Madrid, Spain",
+    "woe:place_id":"54WdzHebApgZFlu8YQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.608922,40.642059,-3.596649,40.660358],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6089220046997,40.642059326172,-3.5966489315033,40.660358428955],"coordinates":[[[[-3.596649,40.650951],[-3.59991,40.644958],[-3.608922,40.642059],[-3.601455,40.65004],[-3.596992,40.660358],[-3.596649,40.650951]]]],"created":1292543947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/23415287_20101216_eb1501a7ae.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

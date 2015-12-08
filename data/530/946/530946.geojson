@@ -1,0 +1,15 @@
+{
+  "id": 530946,
+  "type": "Feature",
+  "properties": {
+    "name":"Odranci, Lendava, Slovenia",
+    "placetype":"locality",
+    "woe:id":530946,
+    "woe:name":"Odranci, Lendava, Slovenia",
+    "woe:place_id":"v8G6UKOcApzC_uQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.273468,46.583145,16.288712,46.588875],
+  "geometry": {"alpha":0.00015,"bbox":[16.273468017578,46.583145141602,16.288711547852,46.588874816895],"coordinates":[[[[16.288706,46.583286],[16.288712,46.583145],[16.28866,46.583206],[16.274246,46.588577],[16.273468,46.588875],[16.27433,46.58868],[16.288706,46.583286]]]],"created":1292443445,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/530946_20101215_d170855ecb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

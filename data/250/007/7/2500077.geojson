@@ -1,0 +1,15 @@
+{
+  "id": 2500077,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockport, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2500077,
+    "woe:name":"Stockport, Ohio, United States",
+    "woe:place_id":"FqnxIS.bBJzJAoTq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.789734,39.547733,-81.788918,39.548046],
+  "geometry": {"alpha":0.00015,"bbox":[-81.789733886719,39.547733306885,-81.788917541504,39.548046112061],"coordinates":[[[[-81.788918,39.547935],[-81.788918,39.547867],[-81.788918,39.547733],[-81.789734,39.548046],[-81.789177,39.548],[-81.788918,39.547935]]]],"created":1292448715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2500077_20101215_0f9075e907.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

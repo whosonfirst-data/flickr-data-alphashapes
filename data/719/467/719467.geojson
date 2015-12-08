@@ -1,0 +1,15 @@
+{
+  "id": 719467,
+  "type": "Feature",
+  "properties": {
+    "name":"Oglianico, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":719467,
+    "woe:name":"Oglianico, Piedmont, Italy",
+    "woe:place_id":"5tdLx0CeAJU4Ppg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.689163,45.337395,7.704,45.345501],
+  "geometry": {"alpha":0.00015,"bbox":[7.6891632080078,45.337394714355,7.7039999961853,45.345500946045],"coordinates":[[[[7.692768,45.341438],[7.689743,45.337395],[7.689163,45.337757],[7.692232,45.344769],[7.704,45.345501],[7.692768,45.341438]]]],"created":1292542858,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/719467_20101216_a856f0049b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

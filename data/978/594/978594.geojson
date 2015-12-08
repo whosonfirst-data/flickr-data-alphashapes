@@ -1,0 +1,15 @@
+{
+  "id": 978594,
+  "type": "Feature",
+  "properties": {
+    "name":"Walcourt, Namur, Belgium",
+    "placetype":"locality",
+    "woe:id":978594,
+    "woe:name":"Walcourt, Namur, Belgium",
+    "woe:place_id":"GLhlmVKQBpSUtqw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.426417,50.244915,4.451373,50.259499],
+  "geometry": {"alpha":0.00015,"bbox":[4.4264168739319,50.244915008545,4.4513731002808,50.259498596191],"coordinates":[[[[4.426417,50.247948],[4.428863,50.252472],[4.435644,50.259499],[4.440622,50.256424],[4.451373,50.244915],[4.432607,50.251595],[4.426417,50.247948]]]],"created":1292536561,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/978594_20101216_b0403f5503.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

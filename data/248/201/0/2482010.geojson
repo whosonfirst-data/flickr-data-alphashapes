@@ -1,0 +1,15 @@
+{
+  "id": 2482010,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverdale, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2482010,
+    "woe:name":"Riverdale, Illinois, United States",
+    "woe:place_id":"R7Z5g0GbBZREghEn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.047737,42.434544,-89.027191,42.461052],
+  "geometry": {"alpha":0.00015,"bbox":[-89.047737121582,42.434543609619,-89.027191162109,42.461051940918],"coordinates":[[[[-89.02816,42.440285],[-89.047737,42.449005],[-89.047554,42.449234],[-89.035736,42.461052],[-89.027756,42.440514],[-89.027191,42.434544],[-89.02816,42.440285]]]],"created":1292536028,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2482010_20101216_de31e399ea.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

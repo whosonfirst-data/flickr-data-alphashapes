@@ -1,0 +1,15 @@
+{
+  "id": 12682641,
+  "type": "Feature",
+  "properties": {
+    "name":"Segonzano, Italy",
+    "placetype":"locality",
+    "woe:id":12682641,
+    "woe:name":"Segonzano, Italy",
+    "woe:place_id":"05bSUumYA5qHpb09jg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.256265,46.187511,11.260986,46.192188],
+  "geometry": {"alpha":1e-05,"bbox":[11.256264686584,46.187511444092,11.260986328125,46.192188262939],"coordinates":[[[[11.256265,46.190022],[11.260986,46.192188],[11.259527,46.189636],[11.258668,46.187511],[11.256265,46.190022]]]],"created":1229500206,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3256/shapefiles/12682641_20081217_273c61115f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

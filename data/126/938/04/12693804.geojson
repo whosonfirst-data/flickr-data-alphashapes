@@ -1,0 +1,15 @@
+{
+  "id": 12693804,
+  "type": "Feature",
+  "properties": {
+    "name":"Pau, Spain",
+    "placetype":"locality",
+    "woe:id":12693804,
+    "woe:name":"Pau, Spain",
+    "woe:place_id":"N4IWVFyYA5oV12kqlw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.109667,42.285183,3.115053,42.291199],
+  "geometry": {"alpha":1e-05,"bbox":[3.1096670627594,42.285182952881,3.1150529384613,42.291198730469],"coordinates":[[[[3.113079,42.285183],[3.109667,42.288151],[3.112049,42.288818],[3.114345,42.291199],[3.115053,42.285976],[3.113079,42.285183]]]],"created":1292527712,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12693804_20101216_1eb7e9d963.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12663786,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Eustache, France",
+    "placetype":"locality",
+    "woe:id":12663786,
+    "woe:name":"St.-Eustache, France",
+    "woe:place_id":"GS6Cyp6YA5qECY6YHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.146163,45.789433,6.150197,45.794025],
+  "geometry": {"alpha":1e-05,"bbox":[6.1461629867554,45.789432525635,6.1501970291138,45.794025421143],"coordinates":[[[[6.150197,45.791256],[6.14758,45.789433],[6.146163,45.794025],[6.149854,45.791588],[6.150197,45.791256]]]],"created":1292456799,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12663786_20101215_cc449b71aa.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

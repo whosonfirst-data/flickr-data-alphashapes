@@ -1,0 +1,15 @@
+{
+  "id": 12680296,
+  "type": "Feature",
+  "properties": {
+    "name":"Mergo, Italy",
+    "placetype":"locality",
+    "woe:id":12680296,
+    "woe:name":"Mergo, Italy",
+    "woe:place_id":"bbMIxoaYA5pJ0FXoIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.037011,43.4716,13.039768,43.472084],
+  "geometry": {"alpha":1e-05,"bbox":[13.037011146545,43.471599578857,13.039768218994,43.47208404541],"coordinates":[[[[13.038019,43.47187],[13.037526,43.471786],[13.037161,43.471848],[13.037011,43.472012],[13.038051,43.472084],[13.039768,43.4716],[13.038019,43.47187]]]],"created":1234687927,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3200/shapefiles/12680296_20090215_6ca930f80d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

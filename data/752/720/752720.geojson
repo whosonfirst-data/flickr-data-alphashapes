@@ -1,0 +1,15 @@
+{
+  "id": 752720,
+  "type": "Feature",
+  "properties": {
+    "name":"Arceo, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":752720,
+    "woe:name":"Arceo, Castille and Leon, Spain",
+    "woe:place_id":"lGR4bC.eBJ73S9M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.375291,43.098194,-3.365228,43.105572],
+  "geometry": {"alpha":0.00015,"bbox":[-3.3752911090851,43.098194122314,-3.3652279376984,43.105571746826],"coordinates":[[[[-3.365314,43.105572],[-3.365228,43.104668],[-3.36585,43.102989],[-3.375291,43.098194],[-3.373575,43.100388],[-3.365314,43.105572]]]],"created":1292411167,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/752720_20101215_cb6c8025a6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

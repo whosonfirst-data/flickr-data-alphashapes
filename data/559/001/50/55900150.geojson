@@ -1,0 +1,15 @@
+{
+  "id": 55900150,
+  "type": "Feature",
+  "properties": {
+    "name":"La Mision, Baja California, Mexico",
+    "placetype":"locality",
+    "woe:id":55900150,
+    "woe:name":"La Mision, Baja California, Mexico",
+    "woe:place_id":"8uRMjTicBJVH230DFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.856934,32.082573,-116.842003,32.095428],
+  "geometry": {"alpha":0.00015,"bbox":[-116.85693359375,32.082572937012,-116.84200286865,32.095428466797],"coordinates":[[[[-116.856812,32.094273],[-116.856422,32.095428],[-116.849297,32.094501],[-116.848526,32.094353],[-116.842003,32.093334],[-116.853844,32.082573],[-116.856934,32.093884],[-116.856812,32.094273]]]],"created":1292523590,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/55900150_20101216_c059887c75.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

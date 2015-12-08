@@ -1,0 +1,15 @@
+{
+  "id": 12676550,
+  "type": "Feature",
+  "properties": {
+    "name":"Montaione, Italy",
+    "placetype":"locality",
+    "woe:id":12676550,
+    "woe:name":"Montaione, Italy",
+    "woe:place_id":"b8.js_eYA5pp4y6sDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.90451,43.592148,10.904906,43.592663],
+  "geometry": {"alpha":1e-05,"bbox":[10.904509544373,43.592147827148,10.904906272888,43.592662811279],"coordinates":[[[[10.904864,43.592506],[10.904906,43.592148],[10.904692,43.592258],[10.904574,43.592506],[10.90451,43.592663],[10.904864,43.592506]]]],"created":1292527044,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12676550_20101216_7f8e11ce7c.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

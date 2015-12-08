@@ -1,0 +1,15 @@
+{
+  "id": 55858180,
+  "type": "Feature",
+  "properties": {
+    "name":"Main Street, Bozeman, MT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55858180,
+    "woe:name":"Main Street, Bozeman, MT, US, United States",
+    "woe:place_id":"G80NtkycBJQNt5J.xA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-111.046967,45.677235,-111.034531,45.681274],
+  "geometry": {"alpha":1e-05,"bbox":[-111.04696655273,45.677234649658,-111.03453063965,45.681274414062],"coordinates":[[[[-111.034637,45.679386],[-111.034531,45.678421],[-111.037468,45.677235],[-111.041481,45.677353],[-111.043037,45.677311],[-111.046967,45.678684],[-111.044334,45.679665],[-111.041008,45.680847],[-111.038651,45.680073],[-111.035492,45.681274],[-111.034637,45.679386]]]],"created":1292462119,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/55858180_20101216_23b193eb25.tar.gz"},"points":102,"type":"MultiPolygon"}
+}

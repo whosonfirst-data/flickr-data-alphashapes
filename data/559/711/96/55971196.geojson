@@ -1,0 +1,15 @@
+{
+  "id": 55971196,
+  "type": "Feature",
+  "properties": {
+    "name":"La Colina, San Jose, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971196,
+    "woe:name":"La Colina, San Jose, CA, US, United States",
+    "woe:place_id":"3pTugOScBJWCfgRkPg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.818192,37.229744,-121.812805,37.233273],
+  "geometry": {"alpha":1e-05,"bbox":[-121.81819152832,37.22974395752,-121.81280517578,37.23327255249],"coordinates":[[[[-121.816109,37.23188],[-121.818192,37.231972],[-121.815361,37.233273],[-121.812805,37.229744],[-121.816109,37.23188]]]],"created":1292509805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/55971196_20101216_dd3e4958e4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

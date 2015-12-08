@@ -1,0 +1,15 @@
+{
+  "id": 12602505,
+  "type": "Feature",
+  "properties": {
+    "name":"Tellin, Belgium",
+    "placetype":"locality",
+    "woe:id":12602505,
+    "woe:name":"Tellin, Belgium",
+    "woe:place_id":"YVYojqiYA5pa7LF5GA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.244312,50.048744,5.245748,50.050171],
+  "geometry": {"alpha":1e-05,"bbox":[5.2443118095398,50.04874420166,5.2457480430603,50.050170898438],"coordinates":[[[[5.244312,50.048744],[5.244335,50.048824],[5.244739,50.049404],[5.245644,50.050144],[5.245748,50.050171],[5.24572,50.050156],[5.244312,50.048744]]]],"created":1292549243,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12602505_20101217_acb8a60db6.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

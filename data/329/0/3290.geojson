@@ -1,0 +1,15 @@
+{
+  "id": 3290,
+  "type": "Feature",
+  "properties": {
+    "name":"Haileybury, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3290,
+    "woe:name":"Haileybury, Ontario, Canada",
+    "woe:place_id":"crW73WmaA5WR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.646843,47.437855,-79.627831,47.461216],
+  "geometry": {"alpha":0.00015,"bbox":[-79.646842956543,47.437854766846,-79.627830505371,47.4612159729],"coordinates":[[[[-79.646843,47.449566],[-79.638092,47.461216],[-79.627831,47.448334],[-79.632294,47.437855],[-79.641609,47.449219],[-79.646843,47.449566]]]],"created":1292465168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/3290_20101216_5d2af1634b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

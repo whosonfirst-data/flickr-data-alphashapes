@@ -1,0 +1,15 @@
+{
+  "id": 2512931,
+  "type": "Feature",
+  "properties": {
+    "name":"Waco, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2512931,
+    "woe:name":"Waco, Kentucky, United States",
+    "woe:place_id":"6hGd.KqbBJ1bC_d0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.151901,37.742313,-84.142807,37.745235],
+  "geometry": {"alpha":0.00015,"bbox":[-84.151901245117,37.74231338501,-84.142807006836,37.745235443115],"coordinates":[[[[-84.145103,37.742588],[-84.151901,37.742313],[-84.14592,37.74379],[-84.144928,37.744164],[-84.142807,37.745235],[-84.145103,37.742588]]]],"created":1292423285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2512931_20101215_8b4af6392c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

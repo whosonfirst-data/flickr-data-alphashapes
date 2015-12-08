@@ -1,0 +1,15 @@
+{
+  "id": 711500,
+  "type": "Feature",
+  "properties": {
+    "name":"Buccino, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":711500,
+    "woe:name":"Buccino, Campania, Italy",
+    "woe:place_id":"SQQRbTieAJ2Tq1k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.372415,40.623985,15.383949,40.634865],
+  "geometry": {"alpha":0.00015,"bbox":[15.372414588928,40.623985290527,15.383949279785,40.634864807129],"coordinates":[[[[15.372415,40.632637],[15.373435,40.633568],[15.378456,40.634865],[15.379839,40.634739],[15.383949,40.623985],[15.372415,40.632637]]]],"created":1292453630,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/711500_20101215_8f181c5943.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

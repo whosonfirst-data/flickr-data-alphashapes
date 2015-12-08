@@ -1,0 +1,15 @@
+{
+  "id": 11869,
+  "type": "Feature",
+  "properties": {
+    "name":"Barley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11869,
+    "woe:name":"Barley, England, United Kingdom",
+    "woe:place_id":"H_eX7iiYAJTCQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.033731,52.015949,0.045233,52.049324],
+  "geometry": {"alpha":0.00015,"bbox":[0.033730998635292,52.015949249268,0.045233000069857,52.049324035645],"coordinates":[[[[0.040683,52.02639],[0.045233,52.020782],[0.036563,52.015949],[0.03401,52.025616],[0.033731,52.049324],[0.042486,52.042408],[0.040683,52.02639]]]],"created":1292490610,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/11869_20101216_f731816f72.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

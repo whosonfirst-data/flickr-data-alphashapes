@@ -1,0 +1,15 @@
+{
+  "id": 2503115,
+  "type": "Feature",
+  "properties": {
+    "name":"Sweetwater, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2503115,
+    "woe:name":"Sweetwater, New Jersey, United States",
+    "woe:place_id":"MZwTQkKbBJyKlzg7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.656433,39.622433,-74.64006,39.628563],
+  "geometry": {"alpha":0.00015,"bbox":[-74.656433105469,39.62243270874,-74.640060424805,39.628562927246],"coordinates":[[[[-74.65197,39.625458],[-74.656433,39.628563],[-74.649055,39.628036],[-74.64006,39.622433],[-74.651329,39.625076],[-74.65197,39.625458]]]],"created":1292550564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2503115_20101217_1c01a704b7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

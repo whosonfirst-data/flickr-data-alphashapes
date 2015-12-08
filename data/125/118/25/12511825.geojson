@@ -1,0 +1,15 @@
+{
+  "id": 12511825,
+  "type": "Feature",
+  "properties": {
+    "name":"Sarnia Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511825,
+    "woe:name":"Sarnia Airport, Canada",
+    "woe:place_id":"27gyP5qYA5m8p_ALvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.311714,42.993385,-82.299828,43.001366],
+  "geometry": {"alpha":1e-05,"bbox":[-82.311714172363,42.993385314941,-82.299827575684,43.001365661621],"coordinates":[[[[-82.309738,42.998886],[-82.304337,43.000816],[-82.303215,43.001366],[-82.302658,42.998512],[-82.299828,42.996391],[-82.30455,42.996834],[-82.307701,42.993385],[-82.309441,42.996456],[-82.311714,42.998337],[-82.310646,42.998856],[-82.309738,42.998886]]]],"created":1292538673,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12511825_20101216_3986307fdd.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

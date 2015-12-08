@@ -1,0 +1,15 @@
+{
+  "id": 29720,
+  "type": "Feature",
+  "properties": {
+    "name":"Navestock Side, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29720,
+    "woe:name":"Navestock Side, England, United Kingdom",
+    "woe:place_id":"I7HutEWbCJvK2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.251483,51.646931,0.26822,51.653667],
+  "geometry": {"alpha":0.00015,"bbox":[0.25148299336433,51.64693069458,0.26822000741959,51.653667449951],"coordinates":[[[[0.265388,51.652855],[0.26822,51.649288],[0.263044,51.646931],[0.251483,51.648384],[0.25247,51.650192],[0.263587,51.653667],[0.265388,51.652855]]]],"created":1292545910,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/29720_20101217_41afdbc684.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

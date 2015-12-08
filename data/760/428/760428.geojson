@@ -1,0 +1,15 @@
+{
+  "id": 760428,
+  "type": "Feature",
+  "properties": {
+    "name":"Farrera, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":760428,
+    "woe:name":"Farrera, Catalonia, Spain",
+    "woe:place_id":"NtBGbAGeB5zZB1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.2669,42.491547,1.286755,42.499695],
+  "geometry": {"alpha":0.00015,"bbox":[1.2668999433517,42.491546630859,1.2867549657822,42.499694824219],"coordinates":[[[[1.269435,42.499439],[1.273212,42.499695],[1.277161,42.499496],[1.286755,42.491547],[1.273984,42.49498],[1.2669,42.493584],[1.269435,42.499439]]]],"created":1292547812,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/760428_20101217_7f9009bafc.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

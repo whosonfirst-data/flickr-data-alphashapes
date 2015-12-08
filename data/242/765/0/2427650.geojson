@@ -1,0 +1,15 @@
+{
+  "id": 2427650,
+  "type": "Feature",
+  "properties": {
+    "name":"Ironwoods, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2427650,
+    "woe:name":"Ironwoods, North Carolina, United States",
+    "woe:place_id":"eac02zKbBZ50rTIu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.077667,35.922081,-79.07135,35.928406],
+  "geometry": {"alpha":0.00015,"bbox":[-79.077667236328,35.922080993652,-79.071350097656,35.928405761719],"coordinates":[[[[-79.074203,35.922081],[-79.077667,35.922352],[-79.077461,35.928406],[-79.07135,35.927979],[-79.071777,35.922592],[-79.074203,35.922081]]]],"created":1292549476,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2427650_20101217_bbcd7cd403.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

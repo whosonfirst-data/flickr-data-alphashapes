@@ -1,0 +1,15 @@
+{
+  "id": 369,
+  "type": "Feature",
+  "properties": {
+    "name":"Daniel's Harbour, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":369,
+    "woe:name":"Daniel's Harbour, Newfoundland and Labrador, Canada",
+    "woe:place_id":"RPGyuQaaB5U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-57.595909,50.230709,-57.570625,50.260925],
+  "geometry": {"alpha":0.00015,"bbox":[-57.595909118652,50.230709075928,-57.570625305176,50.260925292969],"coordinates":[[[[-57.589836,50.230953],[-57.595909,50.239685],[-57.588627,50.240391],[-57.581062,50.260925],[-57.573509,50.252361],[-57.570625,50.251377],[-57.584839,50.238422],[-57.589474,50.230709],[-57.589836,50.230953]]]],"created":1292518775,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/369_20101216_ac69c490b1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

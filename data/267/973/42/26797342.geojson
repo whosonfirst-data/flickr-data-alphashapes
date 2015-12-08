@@ -1,0 +1,15 @@
+{
+  "id": 26797342,
+  "type": "Feature",
+  "properties": {
+    "name":"Abrego, Norte de Santander, Colombia",
+    "placetype":"county",
+    "woe:id":26797342,
+    "woe:name":"Abrego, Norte de Santander, Colombia",
+    "woe:place_id":"2Cx_A6ebB5t47dxxug",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-73.239151,8.084553,-73.150749,8.12721],
+  "geometry": {"alpha":0.0015,"bbox":[-73.239151000977,8.0845527648926,-73.150749206543,8.1272096633911],"coordinates":[[[[-73.221474,8.084553],[-73.239151,8.100784],[-73.206711,8.12721],[-73.150749,8.105882],[-73.214951,8.090587],[-73.221474,8.084553]]]],"created":1292529548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/26797342_20101216_32493559bd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20227601,
+  "type": "Feature",
+  "properties": {
+    "name":"Els Molins, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20227601,
+    "woe:name":"Els Molins, Catalonia, Spain",
+    "woe:place_id":"dEFJVgKbAZ6gKnwCvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.706206,41.729225,1.712794,41.731674],
+  "geometry": {"alpha":0.00015,"bbox":[1.7062059640884,41.729225158691,1.7127939462662,41.731674194336],"coordinates":[[[[1.710262,41.731674],[1.712794,41.72924],[1.709747,41.729225],[1.706753,41.72937],[1.706206,41.72937],[1.710262,41.731674]]]],"created":1292534884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20227601_20101216_4d01b7b57d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

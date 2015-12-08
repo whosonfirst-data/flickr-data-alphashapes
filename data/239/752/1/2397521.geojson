@@ -1,0 +1,15 @@
+{
+  "id": 2397521,
+  "type": "Feature",
+  "properties": {
+    "name":"Edwards, New York, United States",
+    "placetype":"locality",
+    "woe:id":2397521,
+    "woe:name":"Edwards, New York, United States",
+    "woe:place_id":"FHCL4zGbApUS.g5f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.271332,44.350166,-75.248375,44.373333],
+  "geometry": {"alpha":0.00015,"bbox":[-75.271331787109,44.350166320801,-75.248374938965,44.373332977295],"coordinates":[[[[-75.262665,44.361668],[-75.264832,44.350166],[-75.271332,44.362999],[-75.263168,44.373333],[-75.248375,44.367229],[-75.262665,44.361668]]]],"created":1292542807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2397521_20101216_b744a6bc59.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2525383,
+  "type": "Feature",
+  "properties": {
+    "name":"Zionsville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2525383,
+    "woe:name":"Zionsville, Pennsylvania, United States",
+    "woe:place_id":"5Pv10vubBJ69XL1s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.505875,40.4739,-75.485237,40.494286],
+  "geometry": {"alpha":0.00015,"bbox":[-75.505874633789,40.473899841309,-75.485237121582,40.494285583496],"coordinates":[[[[-75.505875,40.480217],[-75.505302,40.482861],[-75.485237,40.494286],[-75.488174,40.4739],[-75.498215,40.479858],[-75.505875,40.480217]]]],"created":1292532467,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2525383_20101216_41fa54eb5f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

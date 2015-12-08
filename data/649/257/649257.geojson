@@ -1,0 +1,15 @@
+{
+  "id": 649257,
+  "type": "Feature",
+  "properties": {
+    "name":"Falkenberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":649257,
+    "woe:name":"Falkenberg, Bavaria, Germany",
+    "woe:place_id":"nIiHUyefBZXLRjE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.223706,49.858425,12.226576,49.862171],
+  "geometry": {"alpha":0.00015,"bbox":[12.223706245422,49.858425140381,12.22657585144,49.862171173096],"coordinates":[[[[12.224455,49.858829],[12.223706,49.859318],[12.226393,49.86211],[12.226576,49.862171],[12.226296,49.859303],[12.225186,49.858425],[12.224455,49.858829]]]],"created":1292475246,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/649257_20101216_a1182be2a7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

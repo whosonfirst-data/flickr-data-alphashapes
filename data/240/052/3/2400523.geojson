@@ -1,0 +1,15 @@
+{
+  "id": 2400523,
+  "type": "Feature",
+  "properties": {
+    "name":"Eudora, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2400523,
+    "woe:name":"Eudora, Arkansas, United States",
+    "woe:place_id":"Pwi8g7ybBZx7O_hL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.263428,33.103981,-91.256485,33.1199],
+  "geometry": {"alpha":0.00015,"bbox":[-91.263427734375,33.103981018066,-91.256484985352,33.119899749756],"coordinates":[[[[-91.256485,33.116135],[-91.260841,33.110153],[-91.261597,33.103981],[-91.261993,33.111153],[-91.263428,33.1199],[-91.256485,33.116135]]]],"created":1292451724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2400523_20101215_f72f7c9671.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

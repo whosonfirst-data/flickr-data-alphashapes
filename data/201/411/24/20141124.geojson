@@ -1,0 +1,15 @@
+{
+  "id": 20141124,
+  "type": "Feature",
+  "properties": {
+    "name":"San Feliciano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20141124,
+    "woe:name":"San Feliciano, Umbria, Italy",
+    "woe:place_id":"nu6rjYibAZ0zXR1v3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.10762,43.117386,12.168388,43.143581],
+  "geometry": {"alpha":0.00029296875,"bbox":[12.107620239258,43.117385864258,12.168388366699,43.143581390381],"coordinates":[[[[12.164525,43.117649],[12.144827,43.117386],[12.115859,43.135567],[12.107791,43.134815],[12.10762,43.132057],[12.10762,43.128174],[12.115859,43.135567],[12.133369,43.143581],[12.157745,43.136066],[12.165298,43.128677],[12.167358,43.126923],[12.168388,43.122223],[12.165641,43.118279],[12.164525,43.117649]]]],"created":1248160563,"edges":14,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2428/shapefiles/20141124_20090721_373a6d05d3.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

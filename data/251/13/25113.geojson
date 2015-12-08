@@ -1,0 +1,15 @@
+{
+  "id": 25113,
+  "type": "Feature",
+  "properties": {
+    "name":"Kings Coughton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25113,
+    "woe:name":"Kings Coughton, England, United Kingdom",
+    "woe:place_id":"G0NtAzSbBJ0wjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.881666,52.227997,-1.876087,52.241192],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8816659450531,52.227996826172,-1.8760869503021,52.241191864014],"coordinates":[[[[-1.881666,52.229969],[-1.881065,52.230534],[-1.876258,52.241192],[-1.876087,52.241096],[-1.878232,52.227997],[-1.881666,52.229969]]]],"created":1292542454,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/25113_20101216_1d462f6b0a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

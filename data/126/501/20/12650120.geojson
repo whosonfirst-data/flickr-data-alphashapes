@@ -1,0 +1,15 @@
+{
+  "id": 12650120,
+  "type": "Feature",
+  "properties": {
+    "name":"Obermorschwihr, France",
+    "placetype":"locality",
+    "woe:id":12650120,
+    "woe:name":"Obermorschwihr, France",
+    "woe:place_id":"iwgy.CSYA5oup8v97w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.278333,48.018951,7.284666,48.024166],
+  "geometry": {"alpha":1e-05,"bbox":[7.2783331871033,48.018951416016,7.2846660614014,48.024166107178],"coordinates":[[[[7.281,48.020332],[7.279333,48.021168],[7.278333,48.024166],[7.28106,48.020588],[7.284666,48.023167],[7.283892,48.018951],[7.281,48.020332]]]],"created":1292449020,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12650120_20101215_2c9846cd91.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

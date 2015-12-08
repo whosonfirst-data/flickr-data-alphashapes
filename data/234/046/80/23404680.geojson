@@ -1,0 +1,15 @@
+{
+  "id": 23404680,
+  "type": "Feature",
+  "properties": {
+    "name":"Wostok, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404680,
+    "woe:name":"Wostok, Alberta, Canada",
+    "woe:place_id":"qJlmvoObAphe2NJL6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.462517,53.840702,-112.454849,53.845539],
+  "geometry": {"alpha":0.00015,"bbox":[-112.46251678467,53.840702056885,-112.45484924316,53.845539093018],"coordinates":[[[[-112.459808,53.841869],[-112.462517,53.842209],[-112.462448,53.842274],[-112.454849,53.845539],[-112.455193,53.840702],[-112.459808,53.841869]]]],"created":1292530207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/23404680_20101216_d93541e82a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

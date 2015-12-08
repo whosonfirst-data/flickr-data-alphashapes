@@ -1,0 +1,15 @@
+{
+  "id": 40625,
+  "type": "Feature",
+  "properties": {
+    "name":"Windley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40625,
+    "woe:name":"Windley, England, United Kingdom",
+    "woe:place_id":"xy1VzW6dAZppxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.599884,52.958534,-1.585979,52.97184],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5998840332031,52.958534240723,-1.5859789848328,52.971839904785],"coordinates":[[[[-1.593349,52.958534],[-1.599884,52.963219],[-1.598854,52.97184],[-1.585979,52.960945],[-1.593349,52.958534]]]],"created":1292521705,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/40625_20101216_5e15b59edf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

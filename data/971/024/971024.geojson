@@ -1,0 +1,15 @@
+{
+  "id": 971024,
+  "type": "Feature",
+  "properties": {
+    "name":"Herderen, Limburg, Belgium",
+    "placetype":"locality",
+    "woe:id":971024,
+    "woe:name":"Herderen, Limburg, Belgium",
+    "woe:place_id":"dTpRs_WQBp2y2gY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.5681,50.804401,5.5735,50.8064],
+  "geometry": {"alpha":0.00015,"bbox":[5.5680999755859,50.804401397705,5.5735001564026,50.806400299072],"coordinates":[[[[5.5691,50.805199],[5.5681,50.805901],[5.5699,50.806099],[5.5705,50.806198],[5.5728,50.8064],[5.5735,50.804401],[5.5691,50.805199]]]],"created":1292458951,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/971024_20101216_1d96fa26ee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

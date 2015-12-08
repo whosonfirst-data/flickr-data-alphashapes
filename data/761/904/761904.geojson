@@ -1,0 +1,15 @@
+{
+  "id": 761904,
+  "type": "Feature",
+  "properties": {
+    "name":"Guamasa, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":761904,
+    "woe:name":"Guamasa, Canary Islands, Spain",
+    "woe:place_id":"n6GbdVGeB53wdkg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.379757,28.490541,-16.37289,28.496679],
+  "geometry": {"alpha":0.00015,"bbox":[-16.37975692749,28.49054145813,-16.372890472412,28.49667930603],"coordinates":[[[[-16.376537,28.496679],[-16.37289,28.493437],[-16.373737,28.490541],[-16.379757,28.490644],[-16.377815,28.495991],[-16.376537,28.496679]]]],"created":1292520356,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/761904_20101216_2d5b3d5691.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

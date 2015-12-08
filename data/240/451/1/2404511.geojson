@@ -1,0 +1,15 @@
+{
+  "id": 2404511,
+  "type": "Feature",
+  "properties": {
+    "name":"Florence, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2404511,
+    "woe:name":"Florence, Texas, United States",
+    "woe:place_id":"dpxu6e.bBZzEUgk.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.810249,30.83474,-97.789375,30.850805],
+  "geometry": {"alpha":0.00015,"bbox":[-97.810249328613,30.834739685059,-97.789375305176,30.850805282593],"coordinates":[[[[-97.79068,30.840782],[-97.789375,30.838158],[-97.791023,30.83474],[-97.794624,30.839457],[-97.810249,30.850805],[-97.793083,30.842913],[-97.79068,30.840782]]]],"created":1292551207,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2404511_20101217_1237bb3d3b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 709134,
+  "type": "Feature",
+  "properties": {
+    "name":"Zolling, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":709134,
+    "woe:name":"Zolling, Bavaria, Germany",
+    "woe:place_id":"ih6ZRZCeAZXbOQE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.766357,48.446281,11.776249,48.450768],
+  "geometry": {"alpha":0.00015,"bbox":[11.766357421875,48.446281433105,11.776248931885,48.45076751709],"coordinates":[[[[11.776185,48.450401],[11.776249,48.450348],[11.766357,48.446281],[11.768288,48.4491],[11.774768,48.450768],[11.776185,48.450401]]]],"created":1292523968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/709134_20101216_146df62220.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12676460,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelfiorentino, Italy",
+    "placetype":"locality",
+    "woe:id":12676460,
+    "woe:name":"Castelfiorentino, Italy",
+    "woe:place_id":"JF2b0CaYA5qDDKaH4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.965557,43.603951,10.968421,43.608238],
+  "geometry": {"alpha":1e-05,"bbox":[10.965557098389,43.603950500488,10.968420982361,43.608238220215],"coordinates":[[[[10.967702,43.603951],[10.965557,43.604259],[10.967445,43.608238],[10.968421,43.605309],[10.967702,43.603951]]]],"created":1292525708,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12676460_20101216_0f4ba96a56.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

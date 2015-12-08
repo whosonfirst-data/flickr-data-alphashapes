@@ -1,0 +1,15 @@
+{
+  "id": 2486849,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Jo, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2486849,
+    "woe:name":"St. Jo, Texas, United States",
+    "woe:place_id":"3t6VBUubBZQrJ49O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.524429,33.692352,-97.520485,33.697495],
+  "geometry": {"alpha":0.00015,"bbox":[-97.524429321289,33.692352294922,-97.520484924316,33.697494506836],"coordinates":[[[[-97.522202,33.69471],[-97.524429,33.697495],[-97.522026,33.696995],[-97.521233,33.696564],[-97.520485,33.692352],[-97.522202,33.69471]]]],"created":1292530461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2486849_20101216_5a9a87fdc4.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

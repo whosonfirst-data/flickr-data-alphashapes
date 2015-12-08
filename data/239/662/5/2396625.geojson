@@ -1,0 +1,15 @@
+{
+  "id": 2396625,
+  "type": "Feature",
+  "properties": {
+    "name":"Eastwood, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2396625,
+    "woe:name":"Eastwood, North Carolina, United States",
+    "woe:place_id":"LJe8NvWbApVc9Dix",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.444725,35.223186,-79.427032,35.226341],
+  "geometry": {"alpha":0.00015,"bbox":[-79.444725036621,35.22318649292,-79.427032470703,35.226341247559],"coordinates":[[[[-79.429459,35.2262],[-79.427032,35.223186],[-79.444725,35.224121],[-79.429565,35.226341],[-79.42952,35.226288],[-79.429459,35.2262]]]],"created":1292532558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2396625_20101216_f4dcb2126b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

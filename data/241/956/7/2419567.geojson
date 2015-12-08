@@ -1,0 +1,15 @@
+{
+  "id": 2419567,
+  "type": "Feature",
+  "properties": {
+    "name":"Hebron, New York, United States",
+    "placetype":"locality",
+    "woe:id":2419567,
+    "woe:name":"Hebron, New York, United States",
+    "woe:place_id":"Ia0mDlybBZ09iZGk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.396736,43.2407,-73.378799,43.248985],
+  "geometry": {"alpha":0.00015,"bbox":[-73.39673614502,43.240699768066,-73.378799438477,43.248985290527],"coordinates":[[[[-73.396736,43.247952],[-73.394508,43.248985],[-73.378799,43.247265],[-73.380692,43.2407],[-73.394081,43.241608],[-73.396736,43.247952]]]],"created":1292543109,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2419567_20101216_f9b9f8f445.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2413298,
+  "type": "Feature",
+  "properties": {
+    "name":"Grassy Creek, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2413298,
+    "woe:name":"Grassy Creek, Virginia, United States",
+    "woe:place_id":"NkneEWWbBZ2iiLJy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.318497,36.796227,-82.305107,36.809902],
+  "geometry": {"alpha":0.00015,"bbox":[-82.318496704102,36.796226501465,-82.305107116699,36.809902191162],"coordinates":[[[[-82.315231,36.796227],[-82.318497,36.796501],[-82.31678,36.797188],[-82.305107,36.809902],[-82.313049,36.796486],[-82.315231,36.796227]]]],"created":1292519086,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2413298_20101216_56bf02809f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

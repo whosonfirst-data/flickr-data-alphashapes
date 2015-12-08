@@ -1,0 +1,15 @@
+{
+  "id": 772911,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":772911,
+    "woe:name":"San Juan, Asturias, Spain",
+    "woe:place_id":"BSNjT.eeBp4Ym0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.443296,43.468594,-5.437545,43.474411],
+  "geometry": {"alpha":0.00015,"bbox":[-5.443295955658,43.468593597412,-5.4375448226929,43.474411010742],"coordinates":[[[[-5.443167,43.468594],[-5.443296,43.468616],[-5.443167,43.468697],[-5.437545,43.474411],[-5.441408,43.468967],[-5.443167,43.468594]]]],"created":1292511908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/772911_20101216_d0779c0871.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

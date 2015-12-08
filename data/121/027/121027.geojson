@@ -1,0 +1,15 @@
+{
+  "id": 121027,
+  "type": "Feature",
+  "properties": {
+    "name":"El Nacimiento, Tamaulipas, Mexico",
+    "placetype":"locality",
+    "woe:id":121027,
+    "woe:name":"El Nacimiento, Tamaulipas, Mexico",
+    "woe:place_id":"8cd5Wf2YA52ZB1I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.136246,23.0,-99.116699,23.016548],
+  "geometry": {"alpha":0.00015,"bbox":[-99.136245727539,23,-99.11669921875,23.016548156738],"coordinates":[[[[-99.132126,23.009518],[-99.124832,23.016548],[-99.116699,23.0],[-99.136246,23.001143],[-99.132126,23.009518]]]],"created":1292532121,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/121027_20101216_46302e496e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

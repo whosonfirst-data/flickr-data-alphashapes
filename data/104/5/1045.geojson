@@ -1,0 +1,15 @@
+{
+  "id": 1045,
+  "type": "Feature",
+  "properties": {
+    "name":"Mulgrave, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1045,
+    "woe:name":"Mulgrave, Nova Scotia, Canada",
+    "woe:place_id":"6Geni.GYAZho",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.394348,45.605152,-61.387138,45.615238],
+  "geometry": {"alpha":0.00015,"bbox":[-61.394348144531,45.605152130127,-61.387138366699,45.615238189697],"coordinates":[[[[-61.391258,45.614998],[-61.389542,45.609234],[-61.387138,45.60527],[-61.390915,45.605152],[-61.394348,45.615238],[-61.391258,45.614998]]]],"created":1292446838,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/1045_20101215_f1d901b0ef.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12650276,
+  "type": "Feature",
+  "properties": {
+    "name":"Orval, France",
+    "placetype":"locality",
+    "woe:id":12650276,
+    "woe:name":"Orval, France",
+    "woe:place_id":"gKXIKb6YA5omtpX50Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.479283,46.725655,2.485506,46.730164],
+  "geometry": {"alpha":1e-05,"bbox":[2.4792830944061,46.725654602051,2.4855060577393,46.730163574219],"coordinates":[[[[2.485485,46.726795],[2.485506,46.726765],[2.485463,46.726765],[2.482003,46.725655],[2.479283,46.730164],[2.48291,46.72739],[2.485485,46.726795]]]],"created":1292487242,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12650276_20101216_fac297dfc3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

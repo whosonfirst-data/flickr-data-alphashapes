@@ -1,0 +1,15 @@
+{
+  "id": 622382,
+  "type": "Feature",
+  "properties": {
+    "name":"Sonchamp, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":622382,
+    "woe:name":"Sonchamp, Ile-de-France, France",
+    "woe:place_id":"ut1pbhOfA57YxVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.872333,48.567066,1.881805,48.578667],
+  "geometry": {"alpha":0.00015,"bbox":[1.8723330497742,48.567066192627,1.8818049430847,48.578666687012],"coordinates":[[[[1.875915,48.567066],[1.872333,48.578667],[1.878554,48.575596],[1.879091,48.57547],[1.881805,48.574989],[1.875915,48.567066]]]],"created":1292458384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/622382_20101216_4aee0f29ac.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

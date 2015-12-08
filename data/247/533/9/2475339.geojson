@@ -1,0 +1,15 @@
+{
+  "id": 2475339,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Byron, New York, United States",
+    "placetype":"locality",
+    "woe:id":2475339,
+    "woe:name":"Port Byron, New York, United States",
+    "woe:place_id":"8g3LWiybBZv.l3Up",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.632301,43.034443,-76.616226,43.051159],
+  "geometry": {"alpha":0.00015,"bbox":[-76.632301330566,43.034442901611,-76.616226196289,43.051158905029],"coordinates":[[[[-76.631866,43.036774],[-76.632301,43.038094],[-76.624725,43.0429],[-76.616226,43.051159],[-76.624191,43.034443],[-76.631866,43.036774]]]],"created":1292422082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2475339_20101215_ef27241ac6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

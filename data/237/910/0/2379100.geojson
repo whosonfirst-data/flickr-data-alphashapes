@@ -1,0 +1,15 @@
+{
+  "id": 2379100,
+  "type": "Feature",
+  "properties": {
+    "name":"Cherry Mountain, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2379100,
+    "woe:name":"Cherry Mountain, Texas, United States",
+    "woe:place_id":"1QYMdRqbApvV0BfR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.944412,30.372801,-98.918152,30.38661],
+  "geometry": {"alpha":0.00015,"bbox":[-98.944412231445,30.372800827026,-98.918151855469,30.386610031128],"coordinates":[[[[-98.921539,30.382353],[-98.918152,30.372801],[-98.927002,30.382401],[-98.944412,30.374949],[-98.927055,30.382483],[-98.924332,30.38661],[-98.921539,30.382353]]]],"created":1292542568,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2379100_20101216_097c2e2746.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

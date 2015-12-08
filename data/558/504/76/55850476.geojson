@@ -1,0 +1,15 @@
+{
+  "id": 55850476,
+  "type": "Feature",
+  "properties": {
+    "name":"Hrastnik, Celje, Slovenia",
+    "placetype":"locality",
+    "woe:id":55850476,
+    "woe:name":"Hrastnik, Celje, Slovenia",
+    "woe:place_id":"5tnyE7mcBJTWgPuqWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.392019,46.310066,15.393227,46.311958],
+  "geometry": {"alpha":0.00015,"bbox":[15.392019271851,46.310066223145,15.393226623535,46.311958312988],"coordinates":[[[[15.392111,46.311054],[15.392019,46.311241],[15.392488,46.311958],[15.392616,46.311859],[15.393227,46.310066],[15.392111,46.311054]]]],"created":1292455373,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/55850476_20101215_a484f5f3cf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

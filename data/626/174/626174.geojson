@@ -1,0 +1,15 @@
+{
+  "id": 626174,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Ours, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":626174,
+    "woe:name":"St.-Ours, Auvergne, France",
+    "woe:place_id":"5rYXXVWfA5pnT7E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.89112,45.839802,2.899017,45.852718],
+  "geometry": {"alpha":0.00015,"bbox":[2.8911199569702,45.83980178833,2.8990170955658,45.852718353271],"coordinates":[[[[2.89112,45.851402],[2.891807,45.852718],[2.894382,45.852058],[2.897987,45.851761],[2.899017,45.839802],[2.89112,45.851402]]]],"created":1292458411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/626174_20101216_49f403c8e1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

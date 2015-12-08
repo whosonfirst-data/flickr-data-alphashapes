@@ -1,0 +1,15 @@
+{
+  "id": 12522462,
+  "type": "Feature",
+  "properties": {
+    "name":"Williamson County Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522462,
+    "woe:name":"Williamson County Regional Airport, United States",
+    "woe:place_id":"doeAL0iYA5muw4crOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.015488,37.74744,-89.011101,37.750916],
+  "geometry": {"alpha":1e-05,"bbox":[-89.015487670898,37.747440338135,-89.011100769043,37.750915527344],"coordinates":[[[[-89.015488,37.749081],[-89.014816,37.750916],[-89.01432,37.749889],[-89.011101,37.74744],[-89.013763,37.748287],[-89.015488,37.749081]]]],"created":1292501465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12522462_20101216_fdbf83dfb0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

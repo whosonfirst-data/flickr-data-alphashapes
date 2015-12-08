@@ -1,0 +1,15 @@
+{
+  "id": 12651100,
+  "type": "Feature",
+  "properties": {
+    "name":"Quingey, France",
+    "placetype":"locality",
+    "woe:id":12651100,
+    "woe:name":"Quingey, France",
+    "woe:place_id":"RTZpkv.YA5pZrLdjsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.882475,47.100979,5.88997,47.107468],
+  "geometry": {"alpha":1e-05,"bbox":[5.882474899292,47.100978851318,5.8899698257446,47.107467651367],"coordinates":[[[[5.888328,47.103901],[5.885839,47.103405],[5.884208,47.100979],[5.882663,47.101444],[5.882475,47.107468],[5.885839,47.103405],[5.888156,47.104485],[5.888843,47.104954],[5.88997,47.105652],[5.888328,47.103901]]]],"created":1292533410,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12651100_20101216_1eecdf426b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

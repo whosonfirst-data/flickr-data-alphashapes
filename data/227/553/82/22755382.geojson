@@ -1,0 +1,15 @@
+{
+  "id": 22755382,
+  "type": "Feature",
+  "properties": {
+    "name":"Ansouis, France",
+    "placetype":"locality",
+    "woe:id":22755382,
+    "woe:name":"Ansouis, France",
+    "woe:place_id":"DL7DPXObA5t9iXsMQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.459819,43.737854,5.468747,43.740726],
+  "geometry": {"alpha":1e-05,"bbox":[5.4598188400269,43.737854003906,5.4687471389771,43.740726470947],"coordinates":[[[[5.464616,43.737854],[5.463681,43.73811],[5.46353,43.738403],[5.459819,43.740726],[5.463809,43.740219],[5.468747,43.737949],[5.464616,43.737854]]]],"created":1292529451,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/22755382_20101216_102f9bf049.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

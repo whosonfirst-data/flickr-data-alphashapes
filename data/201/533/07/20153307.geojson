@@ -1,0 +1,15 @@
+{
+  "id": 20153307,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Endorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153307,
+    "woe:name":"Bad Endorf, Bavaria, Germany",
+    "woe:place_id":"XWckyV2bAZ3bq6B5Zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.292542,47.90731,12.30303,47.913113],
+  "geometry": {"alpha":0.00015,"bbox":[12.292542457581,47.90731048584,12.303030014038,47.913112640381],"coordinates":[[[[12.300095,47.91],[12.297627,47.908894],[12.292542,47.90731],[12.29722,47.90947],[12.30303,47.913113],[12.302966,47.912834],[12.300095,47.91]]]],"created":1292529484,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/20153307_20101216_e0831fe907.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

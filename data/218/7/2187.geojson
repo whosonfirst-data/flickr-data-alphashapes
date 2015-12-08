@@ -1,0 +1,15 @@
+{
+  "id": 2187,
+  "type": "Feature",
+  "properties": {
+    "name":"Perdue, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2187,
+    "woe:name":"Perdue, Saskatchewan, Canada",
+    "woe:place_id":"qihzvLCbAJT3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.561943,52.05162,-107.527313,52.060368],
+  "geometry": {"alpha":0.00015,"bbox":[-107.5619430542,52.051620483398,-107.52731323242,52.060367584229],"coordinates":[[[[-107.542267,52.055511],[-107.544563,52.054207],[-107.561943,52.060368],[-107.543106,52.056816],[-107.527313,52.060089],[-107.52755,52.05162],[-107.542267,52.055511]]]],"created":1292455563,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2187_20101215_ddd13f6618.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2413542,
+  "type": "Feature",
+  "properties": {
+    "name":"Graysville, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2413542,
+    "woe:name":"Graysville, Tennessee, United States",
+    "woe:place_id":"ojM49tabBZ25M4LL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.085075,35.440445,-85.070313,35.451347],
+  "geometry": {"alpha":0.00015,"bbox":[-85.085075378418,35.440444946289,-85.0703125,35.451347351074],"coordinates":[[[[-85.084496,35.451027],[-85.084457,35.450974],[-85.070313,35.440445],[-85.080872,35.442841],[-85.085075,35.451347],[-85.084496,35.451027]]]],"created":1234752722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3151/shapefiles/2413542_20090216_4c93a56f78.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

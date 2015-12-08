@@ -1,0 +1,15 @@
+{
+  "id": 56065249,
+  "type": "Feature",
+  "properties": {
+    "name":"Tierra Dorada, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":56065249,
+    "woe:name":"Tierra Dorada, Canary Islands, Spain",
+    "woe:place_id":"ExInDNycB5wfefTLnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-14.292526,28.08758,-14.283041,28.094091],
+  "geometry": {"alpha":0.00015,"bbox":[-14.292526245117,28.087579727173,-14.283041000366,28.094091415405],"coordinates":[[[[-14.288749,28.08758],[-14.292526,28.094091],[-14.283041,28.093903],[-14.283599,28.088034],[-14.288749,28.08758]]]],"created":1292526833,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/56065249_20101216_63c30b6ab3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

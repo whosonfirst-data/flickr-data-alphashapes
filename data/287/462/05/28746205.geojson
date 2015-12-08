@@ -1,0 +1,15 @@
+{
+  "id": 28746205,
+  "type": "Feature",
+  "properties": {
+    "name":"Nassau Point, New York, United States",
+    "placetype":"locality",
+    "woe:id":28746205,
+    "woe:name":"Nassau Point, New York, United States",
+    "woe:place_id":"jcac5R6bCZtocf9oQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.458969,41.005669,-72.453697,41.014],
+  "geometry": {"alpha":0.00015,"bbox":[-72.458969116211,41.005668640137,-72.45369720459,41.013999938965],"coordinates":[[[[-72.454834,41.006001],[-72.455002,41.006233],[-72.458969,41.014],[-72.453835,41.0065],[-72.453697,41.006226],[-72.45372,41.006161],[-72.454498,41.005669],[-72.454834,41.006001]]]],"created":1292538304,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/28746205_20101216_6d8f1b7e0a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

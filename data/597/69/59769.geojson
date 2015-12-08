@@ -1,0 +1,15 @@
+{
+  "id": 59769,
+  "type": "Feature",
+  "properties": {
+    "name":"Tambor, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59769,
+    "woe:name":"Tambor, Alajuela, Costa Rica",
+    "woe:place_id":"71ZDxD6cCJtipg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.25312,10.027005,-84.225311,10.04188],
+  "geometry": {"alpha":0.00015,"bbox":[-84.253120422363,10.027005195618,-84.225311279297,10.041879653931],"coordinates":[[[[-84.231491,10.04188],[-84.225311,10.027005],[-84.233551,10.029371],[-84.252434,10.038837],[-84.25312,10.041204],[-84.231491,10.04188]]]],"created":1248153967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2478/shapefiles/59769_20090721_4a9eb46581.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

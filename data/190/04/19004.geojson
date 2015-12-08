@@ -1,0 +1,15 @@
+{
+  "id": 19004,
+  "type": "Feature",
+  "properties": {
+    "name":"East Horndon, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19004,
+    "woe:name":"East Horndon, England, United Kingdom",
+    "woe:place_id":"RrNJuiOYCJxeOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.346279,51.562023,0.372226,51.581604],
+  "geometry": {"alpha":0.00015,"bbox":[0.3462789952755,51.562023162842,0.37222599983215,51.581604003906],"coordinates":[[[[0.351777,51.565655],[0.346279,51.568619],[0.346401,51.568672],[0.354309,51.577602],[0.355736,51.578964],[0.357913,51.581604],[0.372226,51.566326],[0.355939,51.562183],[0.355596,51.562023],[0.351777,51.565655]]]],"created":1292540809,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/19004_20101216_c8ff3140fd.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

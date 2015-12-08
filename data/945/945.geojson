@@ -1,0 +1,15 @@
+{
+  "id": 945,
+  "type": "Feature",
+  "properties": {
+    "name":"Mattawan, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":945,
+    "woe:name":"Mattawan, Ontario, Canada",
+    "woe:place_id":"A.A96siQBZk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.877541,46.287292,-78.86158,46.300102],
+  "geometry": {"alpha":0.00015,"bbox":[-78.877540588379,46.287292480469,-78.86157989502,46.300102233887],"coordinates":[[[[-78.874603,46.287292],[-78.874817,46.290123],[-78.877541,46.300102],[-78.874283,46.298084],[-78.8675,46.29245],[-78.86158,46.290314],[-78.874603,46.287292]]]],"created":1292520677,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/945_20101216_fd1c3ed73b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

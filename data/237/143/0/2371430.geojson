@@ -1,0 +1,15 @@
+{
+  "id": 2371430,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2371430,
+    "woe:name":"Buenos, Texas, United States",
+    "woe:place_id":"SVgE4QibApuMp1ch",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.529465,33.318516,-101.524452,33.32383],
+  "geometry": {"alpha":0.00015,"bbox":[-101.52946472168,33.318515777588,-101.52445220947,33.323829650879],"coordinates":[[[[-101.529465,33.319054],[-101.528648,33.32383],[-101.52639,33.320908],[-101.524452,33.318516],[-101.529465,33.319054]]]],"created":1292456591,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2371430_20101215_a92d913b4c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

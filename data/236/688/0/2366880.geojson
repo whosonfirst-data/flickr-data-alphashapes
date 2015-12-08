@@ -1,0 +1,15 @@
+{
+  "id": 2366880,
+  "type": "Feature",
+  "properties": {
+    "name":"Boonesborough, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2366880,
+    "woe:name":"Boonesborough, West Virginia, United States",
+    "woe:place_id":"pvxshjKbApoc5NsI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.215225,38.13702,-81.21151,38.144142],
+  "geometry": {"alpha":0.00015,"bbox":[-81.215225219727,38.137020111084,-81.21150970459,38.144142150879],"coordinates":[[[[-81.211891,38.137096],[-81.215225,38.141846],[-81.213509,38.144142],[-81.21151,38.137096],[-81.211815,38.13702],[-81.211891,38.137096]]]],"created":1292444543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2366880_20101215_a6d0f71b48.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 611907,
+  "type": "Feature",
+  "properties": {
+    "name":"Moncrabeau, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":611907,
+    "woe:name":"Moncrabeau, Aquitaine, France",
+    "woe:place_id":"T5SyE.WfAJ18OSE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.357527,44.034264,0.371131,44.047516],
+  "geometry": {"alpha":0.00015,"bbox":[0.35752698779106,44.03426361084,0.37113100290298,44.047515869141],"coordinates":[[[[0.371089,44.03545],[0.371131,44.035404],[0.370477,44.034264],[0.368986,44.03516],[0.357527,44.047516],[0.371089,44.03545]]]],"created":1292525159,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/611907_20101216_d9f038f8c9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

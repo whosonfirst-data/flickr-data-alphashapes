@@ -1,0 +1,15 @@
+{
+  "id": 8186,
+  "type": "Feature",
+  "properties": {
+    "name":"Empress, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8186,
+    "woe:name":"Empress, Alberta, Canada",
+    "woe:place_id":"aNS4Pn6RAJTs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.028931,50.951389,-110.00808,50.964912],
+  "geometry": {"alpha":0.00015,"bbox":[-110.02893066406,50.951389312744,-110.00807952881,50.964912414551],"coordinates":[[[[-110.008163,50.956871],[-110.00885,50.95483],[-110.012779,50.951389],[-110.028931,50.964912],[-110.012329,50.956966],[-110.00808,50.958858],[-110.008163,50.956871]]]],"created":1292465163,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/8186_20101216_32a02b1837.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

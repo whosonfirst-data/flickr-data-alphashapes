@@ -1,0 +1,15 @@
+{
+  "id": 120070,
+  "type": "Feature",
+  "properties": {
+    "name":"El Cuyo, Yucatan, Mexico",
+    "placetype":"locality",
+    "woe:id":120070,
+    "woe:name":"El Cuyo, Yucatan, Mexico",
+    "woe:place_id":"5Wyo12eYA5xy0T8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.684975,21.511427,-87.679031,21.518957],
+  "geometry": {"alpha":0.00015,"bbox":[-87.68497467041,21.511426925659,-87.67903137207,21.518957138062],"coordinates":[[[[-87.679138,21.511776],[-87.679428,21.511427],[-87.683296,21.516701],[-87.684975,21.518957],[-87.679482,21.51792],[-87.679031,21.51222],[-87.679138,21.511776]]]],"created":1292537119,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/120070_20101216_6ec6a6c7a8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

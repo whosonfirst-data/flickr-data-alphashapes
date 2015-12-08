@@ -1,0 +1,15 @@
+{
+  "id": 2408064,
+  "type": "Feature",
+  "properties": {
+    "name":"Fuller, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2408064,
+    "woe:name":"Fuller, Washington, United States",
+    "woe:place_id":"Pu.gnVybBZw2OPSI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.484612,46.959049,-123.467957,46.963619],
+  "geometry": {"alpha":0.00015,"bbox":[-123.48461151123,46.959049224854,-123.46795654297,46.963619232178],"coordinates":[[[[-123.472382,46.959724],[-123.475464,46.959114],[-123.476074,46.959049],[-123.484612,46.963619],[-123.473557,46.961025],[-123.467957,46.963032],[-123.472382,46.959724]]]],"created":1292544271,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2408064_20101217_cf345a997e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

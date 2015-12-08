@@ -1,0 +1,15 @@
+{
+  "id": 2356798,
+  "type": "Feature",
+  "properties": {
+    "name":"Aspel, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2356798,
+    "woe:name":"Aspel, Alabama, United States",
+    "woe:place_id":"vVYnMbWbApk26q4S",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.142448,34.614845,-86.126396,34.620602],
+  "geometry": {"alpha":0.00015,"bbox":[-86.142448425293,34.614845275879,-86.126396179199,34.620601654053],"coordinates":[[[[-86.137466,34.620071],[-86.126396,34.618111],[-86.126976,34.614845],[-86.136589,34.618729],[-86.142448,34.620602],[-86.137466,34.620071]]]],"created":1292539202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2356798_20101216_c6f9995ecf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

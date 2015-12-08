@@ -1,0 +1,15 @@
+{
+  "id": 29370352,
+  "type": "Feature",
+  "properties": {
+    "name":"El Moro, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":29370352,
+    "woe:name":"El Moro, Valencia, Spain",
+    "woe:place_id":"PCMCMzCbCJ9bmQMR9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.287189,39.678524,-0.278649,39.681759],
+  "geometry": {"alpha":0.00015,"bbox":[-0.28718900680542,39.678524017334,-0.27864900231361,39.681758880615],"coordinates":[[[[-0.278649,39.680389],[-0.278863,39.679199],[-0.287189,39.678524],[-0.282222,39.680584],[-0.279636,39.681759],[-0.278649,39.680389]]]],"created":1239695403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3415/shapefiles/29370352_20090414_6217947911.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

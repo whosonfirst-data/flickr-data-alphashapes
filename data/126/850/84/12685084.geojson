@@ -1,0 +1,15 @@
+{
+  "id": 12685084,
+  "type": "Feature",
+  "properties": {
+    "name":"Abtwil, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685084,
+    "woe:name":"Abtwil, Switzerland",
+    "woe:place_id":"nUFmIeqYA5qYXLX3nw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.353815,47.165382,8.355274,47.174969],
+  "geometry": {"alpha":1e-05,"bbox":[8.3538150787354,47.165382385254,8.3552742004395,47.174968719482],"coordinates":[[[[8.354501,47.170403],[8.353815,47.174747],[8.355274,47.174969],[8.355102,47.170403],[8.354759,47.165382],[8.354501,47.170403]]]],"created":1292551328,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12685084_20101217_68a022926c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

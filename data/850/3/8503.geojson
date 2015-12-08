@@ -1,0 +1,15 @@
+{
+  "id": 8503,
+  "type": "Feature",
+  "properties": {
+    "name":"Two Hills, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8503,
+    "woe:name":"Two Hills, Alberta, Canada",
+    "woe:place_id":"0IWvI1SRBJzT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.74688,53.695892,-111.730614,53.715149],
+  "geometry": {"alpha":0.00015,"bbox":[-111.74687957764,53.695892333984,-111.7306137085,53.715148925781],"coordinates":[[[[-111.746063,53.715149],[-111.730614,53.714996],[-111.745033,53.69762],[-111.74675,53.695892],[-111.74688,53.708622],[-111.746063,53.715149]]]],"created":1292523864,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/8503_20101216_87a13a5787.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

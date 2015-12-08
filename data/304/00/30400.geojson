@@ -1,0 +1,15 @@
+{
+  "id": 30400,
+  "type": "Feature",
+  "properties": {
+    "name":"North Aston, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30400,
+    "woe:name":"North Aston, England, United Kingdom",
+    "woe:place_id":"CabE3LOaAZiiAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.314067,51.955479,-1.290893,51.968067],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3140670061111,51.955478668213,-1.2908929586411,51.968067169189],"coordinates":[[[[-1.312351,51.955479],[-1.314067,51.968067],[-1.308574,51.96278],[-1.290893,51.96743],[-1.306021,51.960503],[-1.30803,51.957371],[-1.312351,51.955479]]]],"created":1292518144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/30400_20101216_060438490e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

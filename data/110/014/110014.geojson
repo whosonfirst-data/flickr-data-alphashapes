@@ -1,0 +1,15 @@
+{
+  "id": 110014,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Hill, Portland, Jamaica",
+    "placetype":"locality",
+    "woe:id":110014,
+    "woe:name":"Spring Hill, Portland, Jamaica",
+    "woe:place_id":"FffiPLqYAJwkhhk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.7201,18.109165,-76.707565,18.124235],
+  "geometry": {"alpha":0.00015,"bbox":[-76.720100402832,18.10916519165,-76.707565307617,18.124235153198],"coordinates":[[[[-76.71611,18.109165],[-76.7201,18.118036],[-76.718903,18.124235],[-76.707565,18.111326],[-76.715889,18.109165],[-76.71611,18.109165]]]],"created":1292550430,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/110014_20101217_c374afd1de.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

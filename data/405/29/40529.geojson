@@ -1,0 +1,15 @@
+{
+  "id": 40529,
+  "type": "Feature",
+  "properties": {
+    "name":"Willingale Doe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40529,
+    "woe:name":"Willingale Doe, England, United Kingdom",
+    "woe:place_id":"HqDG5EedAZmh6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.293937,51.741566,0.311822,51.750328],
+  "geometry": {"alpha":0.00015,"bbox":[0.29393699765205,51.741565704346,0.31182199716568,51.750328063965],"coordinates":[[[[0.310637,51.742016],[0.31046,51.741859],[0.309677,51.741566],[0.309333,51.742203],[0.293937,51.750328],[0.311822,51.743996],[0.310637,51.742016]]]],"created":1292548032,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/40529_20101217_04765f5099.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

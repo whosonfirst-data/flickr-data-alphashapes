@@ -1,0 +1,15 @@
+{
+  "id": 2414523,
+  "type": "Feature",
+  "properties": {
+    "name":"Greentree, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2414523,
+    "woe:name":"Greentree, Maryland, United States",
+    "woe:place_id":"Xvvn9pCbBZ24ALck",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.642166,39.125198,-76.637062,39.13076],
+  "geometry": {"alpha":0.00015,"bbox":[-76.642166137695,39.125198364258,-76.637062072754,39.130760192871],"coordinates":[[[[-76.640038,39.130352],[-76.639297,39.13076],[-76.637062,39.130127],[-76.637924,39.126297],[-76.642166,39.125198],[-76.640038,39.130352]]]],"created":1292537393,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2414523_20101216_2dc3f0ac3e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

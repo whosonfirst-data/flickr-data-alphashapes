@@ -1,0 +1,15 @@
+{
+  "id": 722780,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mango, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":722780,
+    "woe:name":"San Mango, Campania, Italy",
+    "woe:place_id":"D186gm.eA57jGus",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.058479,40.263783,15.060839,40.26585],
+  "geometry": {"alpha":0.00015,"bbox":[15.058479309082,40.263782501221,15.060838699341,40.265850067139],"coordinates":[[[[15.060539,40.263939],[15.058822,40.265381],[15.058479,40.26585],[15.060839,40.263783],[15.060539,40.263939]]]],"created":1234772539,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3364/shapefiles/722780_20090216_f94d251cec.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705977,
+  "type": "Feature",
+  "properties": {
+    "name":"Wetterburg, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":705977,
+    "woe:name":"Wetterburg, Hesse, Germany",
+    "woe:place_id":"awMphaaeAZlR4xo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.057884,51.370281,9.066123,51.385262],
+  "geometry": {"alpha":0.00015,"bbox":[9.0578842163086,51.370281219482,9.066123008728,51.385261535645],"coordinates":[[[[9.065141,51.385262],[9.066123,51.381264],[9.057884,51.370281],[9.059257,51.379368],[9.058892,51.384171],[9.065141,51.385262]]]],"created":1292533782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/705977_20101216_9442238aef.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

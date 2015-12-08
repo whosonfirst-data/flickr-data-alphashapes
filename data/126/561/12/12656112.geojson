@@ -1,0 +1,15 @@
+{
+  "id": 12656112,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Martin-d'Uriage, France",
+    "placetype":"locality",
+    "woe:id":12656112,
+    "woe:name":"St.-Martin-d'Uriage, France",
+    "woe:place_id":"txrY5PCYA5qRobtXIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.869075,45.149963,5.872621,45.154942],
+  "geometry": {"alpha":1e-05,"bbox":[5.8690748214722,45.149963378906,5.8726210594177,45.154941558838],"coordinates":[[[[5.871505,45.149963],[5.869075,45.154942],[5.870218,45.154835],[5.870733,45.15477],[5.872621,45.15028],[5.871505,45.149963]]]],"created":1292543167,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12656112_20101216_9b814966ae.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

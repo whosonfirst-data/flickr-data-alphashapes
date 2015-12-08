@@ -1,0 +1,15 @@
+{
+  "id": 20071064,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Jujuy, Argentina",
+    "placetype":"county",
+    "woe:id":20071064,
+    "woe:name":"San Antonio, Jujuy, Argentina",
+    "woe:place_id":"cMzJTqmbAZzEJL02ZQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-65.337578,-24.314562,-65.283852,-24.258547],
+  "geometry": {"alpha":0.0015,"bbox":[-65.337577819824,-24.314561843872,-65.283851623535,-24.258546829224],"coordinates":[[[[-65.283852,-24.258547],[-65.297241,-24.314562],[-65.337578,-24.262302],[-65.33226,-24.261206],[-65.283852,-24.258547]]]],"created":1292538246,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20071064_20101216_b8bf4d2aed.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 40202,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitchurch Hill, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40202,
+    "woe:name":"Whitchurch Hill, England, United Kingdom",
+    "woe:place_id":"9QpBSPWdAZ64XQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.087431,51.488811,-1.07151,51.50901],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0874309539795,51.48881149292,-1.0715099573135,51.509010314941],"coordinates":[[[[-1.084899,51.508045],[-1.074085,51.50901],[-1.07151,51.50845],[-1.077218,51.507622],[-1.087431,51.488811],[-1.084899,51.508045]]]],"created":1292443243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/40202_20101215_05bd400f0d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

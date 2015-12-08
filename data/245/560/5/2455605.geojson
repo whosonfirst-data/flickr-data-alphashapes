@@ -1,0 +1,15 @@
+{
+  "id": 2455605,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount View, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2455605,
+    "woe:name":"Mount View, Washington, United States",
+    "woe:place_id":"1WIf8O2bBZl7YHAG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.353363,47.490993,-122.338097,47.505142],
+  "geometry": {"alpha":0.00015,"bbox":[-122.35336303711,47.490993499756,-122.33809661865,47.505142211914],"coordinates":[[[[-122.338097,47.50486],[-122.34066,47.490993],[-122.353363,47.499805],[-122.345467,47.505142],[-122.34269,47.504562],[-122.338097,47.50486]]]],"created":1292525583,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2455605_20101216_3ae2aa4326.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

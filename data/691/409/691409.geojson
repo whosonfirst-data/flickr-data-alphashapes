@@ -1,0 +1,15 @@
+{
+  "id": 691409,
+  "type": "Feature",
+  "properties": {
+    "name":"Schallershof, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":691409,
+    "woe:name":"Schallershof, Bavaria, Germany",
+    "woe:place_id":"zMJ6hJWfCJ3cnrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.963865,49.567589,10.988216,49.594341],
+  "geometry": {"alpha":0.00015,"bbox":[10.963865280151,49.567588806152,10.988216400146,49.594341278076],"coordinates":[[[[10.984933,49.577209],[10.97208,49.567589],[10.97059,49.574539],[10.963865,49.5886],[10.9656,49.594341],[10.988216,49.593185],[10.984933,49.577209]]]],"created":1292491985,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/691409_20101216_0532cfbd26.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

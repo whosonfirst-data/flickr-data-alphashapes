@@ -1,0 +1,15 @@
+{
+  "id": 13819,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridge, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13819,
+    "woe:name":"Bridge, England, United Kingdom",
+    "woe:place_id":"YU4oxMGYApQg1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.940929,50.435806,-4.937357,50.438892],
+  "geometry": {"alpha":0.00015,"bbox":[-4.9409289360046,50.435806274414,-4.9373569488525,50.438892364502],"coordinates":[[[[-4.938569,50.438892],[-4.937582,50.438892],[-4.937357,50.438812],[-4.939116,50.436333],[-4.940929,50.435806],[-4.938923,50.438347],[-4.938569,50.438892]]]],"created":1292473742,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/13819_20101216_c87f1b6e52.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

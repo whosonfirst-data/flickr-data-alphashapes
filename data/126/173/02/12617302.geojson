@@ -1,0 +1,15 @@
+{
+  "id": 12617302,
+  "type": "Feature",
+  "properties": {
+    "name":"Mielno, Poland",
+    "placetype":"locality",
+    "woe:id":12617302,
+    "woe:name":"Mielno, Poland",
+    "woe:place_id":"3sqip4qYA5p36FsoPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.049309,54.260761,16.055832,54.267632],
+  "geometry": {"alpha":1e-05,"bbox":[16.049308776855,54.260761260986,16.05583190918,54.267631530762],"coordinates":[[[[16.053255,54.262917],[16.055832,54.26342],[16.0536,54.260761],[16.049995,54.262016],[16.049309,54.262417],[16.049652,54.267632],[16.053255,54.262917]]]],"created":1292538939,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12617302_20101216_e097e002ec.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

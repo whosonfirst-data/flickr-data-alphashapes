@@ -1,0 +1,15 @@
+{
+  "id": 2402178,
+  "type": "Feature",
+  "properties": {
+    "name":"Fallston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2402178,
+    "woe:name":"Fallston, Pennsylvania, United States",
+    "woe:place_id":"EXHhYZqbBZwh78Mn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.330589,40.711807,-80.309219,40.723015],
+  "geometry": {"alpha":0.00015,"bbox":[-80.330589294434,40.711807250977,-80.309219360352,40.723014831543],"coordinates":[[[[-80.321548,40.723015],[-80.309219,40.723],[-80.322342,40.711807],[-80.322731,40.711994],[-80.330589,40.715248],[-80.321548,40.723015]]]],"created":1292546288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2402178_20101217_8c8d49837b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

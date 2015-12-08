@@ -1,0 +1,15 @@
+{
+  "id": 12629591,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wathlingen, Germany",
+    "placetype":"locality",
+    "woe:id":12629591,
+    "woe:name":"Gemeinde Wathlingen, Germany",
+    "woe:place_id":"VfsruUSYA5pB4W7BTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.13648,52.526596,10.137069,52.527233],
+  "geometry": {"alpha":1e-05,"bbox":[10.136480331421,52.526596069336,10.137068748474,52.527233123779],"coordinates":[[[[10.136897,52.526634],[10.13648,52.527065],[10.136819,52.527233],[10.137052,52.526699],[10.137069,52.526596],[10.136936,52.526615],[10.136897,52.526634]]]],"created":1292539236,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12629591_20101216_41924d20a8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

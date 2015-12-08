@@ -1,0 +1,15 @@
+{
+  "id": 2464629,
+  "type": "Feature",
+  "properties": {
+    "name":"Olacin, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2464629,
+    "woe:name":"Olacin, Maryland, United States",
+    "woe:place_id":"pLRg0_ebBZoe6G6E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.368744,39.404163,-77.355682,39.417591],
+  "geometry": {"alpha":0.00015,"bbox":[-77.368743896484,39.404163360596,-77.355682373047,39.417591094971],"coordinates":[[[[-77.358223,39.417591],[-77.355682,39.411461],[-77.357185,39.410103],[-77.365517,39.404163],[-77.368744,39.404991],[-77.358223,39.417591]]]],"created":1292421964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2464629_20101215_d0d8088480.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

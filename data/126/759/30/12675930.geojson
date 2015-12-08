@@ -1,0 +1,15 @@
+{
+  "id": 12675930,
+  "type": "Feature",
+  "properties": {
+    "name":"Alcamo, Italy",
+    "placetype":"locality",
+    "woe:id":12675930,
+    "woe:name":"Alcamo, Italy",
+    "woe:place_id":"TWZDSCiYA5oExPpyVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.964081,37.979691,12.970025,37.983109],
+  "geometry": {"alpha":1e-05,"bbox":[12.964080810547,37.979690551758,12.970025062561,37.983108520508],"coordinates":[[[[12.96495,37.980583],[12.964081,37.9814],[12.965154,37.983109],[12.966785,37.981956],[12.970025,37.981407],[12.966656,37.979691],[12.96495,37.980583]]]],"created":1292525237,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12675930_20101216_2972a11014.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

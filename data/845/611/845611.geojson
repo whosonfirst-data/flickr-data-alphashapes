@@ -1,0 +1,15 @@
+{
+  "id": 845611,
+  "type": "Feature",
+  "properties": {
+    "name":"Soru, Hiiu County, Estonia",
+    "placetype":"locality",
+    "woe:id":845611,
+    "woe:name":"Soru, Hiiu County, Estonia",
+    "woe:place_id":"GGnzwwuRBZkRGTs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.510643,58.690102,22.529011,58.698975],
+  "geometry": {"alpha":0.00015,"bbox":[22.510643005371,58.690101623535,22.529010772705,58.698974609375],"coordinates":[[[[22.523388,58.692284],[22.521648,58.690102],[22.510643,58.698975],[22.51811,58.69603],[22.529011,58.698437],[22.524139,58.693253],[22.523388,58.692284]]]],"created":1292535827,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/845611_20101216_ceede3c72c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

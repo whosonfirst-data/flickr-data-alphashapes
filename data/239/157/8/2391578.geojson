@@ -1,0 +1,15 @@
+{
+  "id": 2391578,
+  "type": "Feature",
+  "properties": {
+    "name":"Detroit, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2391578,
+    "woe:name":"Detroit, Illinois, United States",
+    "woe:place_id":"ljoEgxqbApWu.2iy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.687233,39.600925,-90.674713,39.620724],
+  "geometry": {"alpha":0.00015,"bbox":[-90.687232971191,39.600925445557,-90.674713134766,39.620723724365],"coordinates":[[[[-90.675362,39.620724],[-90.674713,39.617592],[-90.679436,39.600925],[-90.687233,39.619774],[-90.68,39.619999],[-90.675774,39.620628],[-90.675362,39.620724]]]],"created":1292506923,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2391578_20101216_804d10f031.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

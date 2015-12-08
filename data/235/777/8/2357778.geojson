@@ -1,0 +1,15 @@
+{
+  "id": 2357778,
+  "type": "Feature",
+  "properties": {
+    "name":"Avilla, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2357778,
+    "woe:name":"Avilla, Indiana, United States",
+    "woe:place_id":"nzc0uwCbApnv5Uuf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.252792,41.356518,-85.224808,41.375347],
+  "geometry": {"alpha":0.00015,"bbox":[-85.252792358398,41.356517791748,-85.224807739258,41.375347137451],"coordinates":[[[[-85.238441,41.375347],[-85.224808,41.358257],[-85.243004,41.362316],[-85.252792,41.356518],[-85.241318,41.369244],[-85.238441,41.375347]]]],"created":1292527447,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2357778_20101216_9d92ea7cc3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

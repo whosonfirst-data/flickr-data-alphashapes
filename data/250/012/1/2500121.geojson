@@ -1,0 +1,15 @@
+{
+  "id": 2500121,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockton Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2500121,
+    "woe:name":"Stockton Woods, Maryland, United States",
+    "woe:place_id":"wpNROSWbBJy.XMTT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.610764,39.524227,-76.591606,39.535976],
+  "geometry": {"alpha":0.00015,"bbox":[-76.610763549805,39.524227142334,-76.591606140137,39.535976409912],"coordinates":[[[[-76.592079,39.52533],[-76.591606,39.524368],[-76.592247,39.524227],[-76.610764,39.531601],[-76.600746,39.535976],[-76.592079,39.52533]]]],"created":1292441099,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2500121_20101215_3343150860.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

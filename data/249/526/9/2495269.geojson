@@ -1,0 +1,15 @@
+{
+  "id": 2495269,
+  "type": "Feature",
+  "properties": {
+    "name":"Sneedville, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2495269,
+    "woe:name":"Sneedville, Tennessee, United States",
+    "woe:place_id":"hwkNJBWbBZUa58NI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.22641,36.514671,-83.20369,36.544258],
+  "geometry": {"alpha":0.00015,"bbox":[-83.226409912109,36.514671325684,-83.203689575195,36.544258117676],"coordinates":[[[[-83.219292,36.528862],[-83.22641,36.54364],[-83.20369,36.544258],[-83.212852,36.5285],[-83.21714,36.514671],[-83.219292,36.528862]]]],"created":1292534689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2495269_20101216_e7d26a5cb7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

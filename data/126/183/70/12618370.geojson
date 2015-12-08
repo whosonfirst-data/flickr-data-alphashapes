@@ -1,0 +1,15 @@
+{
+  "id": 12618370,
+  "type": "Feature",
+  "properties": {
+    "name":"Stalowa Wola, Poland",
+    "placetype":"locality",
+    "woe:id":12618370,
+    "woe:name":"Stalowa Wola, Poland",
+    "woe:place_id":"XMqVDICYA5pBfyZQfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.067499,50.565399,22.072735,50.572117],
+  "geometry": {"alpha":1e-05,"bbox":[22.067499160767,50.565399169922,22.072734832764,50.572116851807],"coordinates":[[[[22.069473,50.567402],[22.070675,50.572117],[22.072735,50.568626],[22.070589,50.5662],[22.069515,50.565399],[22.067499,50.565739],[22.069473,50.567402]]]],"created":1247977446,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2622/shapefiles/12618370_20090719_8925edfa81.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

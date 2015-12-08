@@ -1,0 +1,15 @@
+{
+  "id": 2522872,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodbine, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2522872,
+    "woe:name":"Woodbine, Iowa, United States",
+    "woe:place_id":"vCd2IpWbBJ6MC0Di",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.721046,41.725838,-95.701462,41.743893],
+  "geometry": {"alpha":0.00015,"bbox":[-95.721046447754,41.72583770752,-95.701461791992,41.743892669678],"coordinates":[[[[-95.701462,41.734188],[-95.704361,41.732761],[-95.712807,41.725838],[-95.721046,41.728508],[-95.712631,41.743893],[-95.701462,41.734188]]]],"created":1292507524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2522872_20101216_9a6c1d2e4a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

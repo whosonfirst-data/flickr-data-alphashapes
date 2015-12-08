@@ -1,0 +1,15 @@
+{
+  "id": 617074,
+  "type": "Feature",
+  "properties": {
+    "name":"Podensac, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":617074,
+    "woe:name":"Podensac, Aquitaine, France",
+    "woe:place_id":"R5OWDkOfAJsJQCI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.375251,44.655373,-0.347442,44.662167],
+  "geometry": {"alpha":0.00015,"bbox":[-0.37525099515915,44.655372619629,-0.34744200110435,44.662166595459],"coordinates":[[[[-0.360853,44.662167],[-0.347442,44.655708],[-0.356733,44.655373],[-0.3586,44.656445],[-0.375251,44.659008],[-0.360853,44.662167]]]],"created":1292438885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/617074_20101215_36358d9a88.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2345950,
+  "type": "Feature",
+  "properties": {
+    "name":"Chagang-do, KP, North Korea",
+    "placetype":"region",
+    "woe:id":2345950,
+    "woe:name":"Chagang-do, KP, North Korea",
+    "woe:place_id":"dsRC79GbAphtzMRg",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [126.264839,41.15229,126.314102,41.202423],
+  "geometry": {"alpha":0.03,"bbox":[126.26483917236,41.152290344238,126.31410217285,41.202423095703],"coordinates":[[[[126.278397,41.159397],[126.272392,41.155197],[126.264839,41.15229],[126.284576,41.193058],[126.309296,41.202423],[126.314102,41.197063],[126.278397,41.159397]]]],"created":1292536607,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2345950_20101216_02b2bc584e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

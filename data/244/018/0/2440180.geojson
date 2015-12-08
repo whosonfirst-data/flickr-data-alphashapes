@@ -1,0 +1,15 @@
+{
+  "id": 2440180,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Elkhorn, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2440180,
+    "woe:name":"Little Elkhorn, Washington, United States",
+    "woe:place_id":"WrGg35GbBZhbZ8d.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.42691,45.713448,-122.420982,45.724472],
+  "geometry": {"alpha":0.00015,"bbox":[-122.42691040039,45.713447570801,-122.42098236084,45.724472045898],"coordinates":[[[[-122.423904,45.719776],[-122.420982,45.724472],[-122.421715,45.713448],[-122.42691,45.714001],[-122.423904,45.719776]]]],"created":1292450235,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2440180_20101215_a6fce1fe2c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

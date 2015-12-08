@@ -1,0 +1,15 @@
+{
+  "id": 2380658,
+  "type": "Feature",
+  "properties": {
+    "name":"Clarendon, New York, United States",
+    "placetype":"locality",
+    "woe:id":2380658,
+    "woe:name":"Clarendon, New York, United States",
+    "woe:place_id":"EhKYt_qbApR6MuCq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.070221,43.188408,-78.064728,43.194538],
+  "geometry": {"alpha":0.00015,"bbox":[-78.070220947266,43.188407897949,-78.064727783203,43.194538116455],"coordinates":[[[[-78.065308,43.191971],[-78.066101,43.188408],[-78.070221,43.191158],[-78.069359,43.192661],[-78.064728,43.194538],[-78.065308,43.191971]]]],"created":1292538063,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2380658_20101216_1425b58358.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

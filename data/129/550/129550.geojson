@@ -1,0 +1,15 @@
+{
+  "id": 129550,
+  "type": "Feature",
+  "properties": {
+    "name":"La Venta, Distrito Federal, Mexico",
+    "placetype":"locality",
+    "woe:id":129550,
+    "woe:name":"La Venta, Distrito Federal, Mexico",
+    "woe:place_id":"NKeFhdGYA5XQVRo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.321487,19.311285,-99.30867,19.32799],
+  "geometry": {"alpha":0.00015,"bbox":[-99.321487426758,19.311285018921,-99.308670043945,19.327989578247],"coordinates":[[[[-99.310326,19.311583],[-99.314842,19.311285],[-99.321487,19.32799],[-99.311523,19.326731],[-99.30941,19.321045],[-99.309593,19.314606],[-99.30867,19.311863],[-99.308914,19.31172],[-99.310326,19.311583]]]],"created":1292517601,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/129550_20101216_e6d815b902.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

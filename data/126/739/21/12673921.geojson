@@ -1,0 +1,15 @@
+{
+  "id": 12673921,
+  "type": "Feature",
+  "properties": {
+    "name":"Thomasberg, Austria",
+    "placetype":"locality",
+    "woe:id":12673921,
+    "woe:name":"Thomasberg, Austria",
+    "woe:place_id":"PBB7CWiYA5pA5V2deg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.115959,47.542999,16.11655,47.543159],
+  "geometry": {"alpha":1e-05,"bbox":[16.11595916748,47.542999267578,16.116550445557,47.543159484863],"coordinates":[[[[16.11614,47.542999],[16.115959,47.543011],[16.11655,47.543159],[16.11628,47.543011],[16.11614,47.542999]]]],"created":1292470864,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12673921_20101216_62111d10d1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20070800,
+  "type": "Feature",
+  "properties": {
+    "name":"Almte Brown, Chaco, Argentina",
+    "placetype":"county",
+    "woe:id":20070800,
+    "woe:name":"Almte Brown, Chaco, Argentina",
+    "woe:place_id":"Ppopc6KbAZzzqGXEjQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-61.204834,-26.517277,-61.166382,-26.503145],
+  "geometry": {"alpha":0.0015,"bbox":[-61.204833984375,-26.517276763916,-61.166381835938,-26.503145217896],"coordinates":[[[[-61.174969,-26.51717],[-61.204834,-26.503145],[-61.179256,-26.50614],[-61.17342,-26.511595],[-61.166382,-26.517277],[-61.174969,-26.51717]]]],"created":1292495045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/20070800_20101216_fc7a804c11.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

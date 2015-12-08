@@ -1,0 +1,15 @@
+{
+  "id": 116553,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad Hidalgo, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":116553,
+    "woe:name":"Ciudad Hidalgo, Chiapas, Mexico",
+    "woe:place_id":"wYvqyq2YAJonv6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.15435,14.669165,-92.141304,14.687665],
+  "geometry": {"alpha":0.00015,"bbox":[-92.154350280762,14.669164657593,-92.141304016113,14.687664985657],"coordinates":[[[[-92.144539,14.676072],[-92.144737,14.669165],[-92.15435,14.676347],[-92.152031,14.687665],[-92.141304,14.684816],[-92.144539,14.676072]]]],"created":1292531233,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/116553_20101216_688f9a7059.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

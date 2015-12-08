@@ -1,0 +1,15 @@
+{
+  "id": 12680279,
+  "type": "Feature",
+  "properties": {
+    "name":"Melpignano, Italy",
+    "placetype":"locality",
+    "woe:id":12680279,
+    "woe:name":"Melpignano, Italy",
+    "woe:place_id":"ZiXtMxKYA5qoiVV0OQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.287119,40.154461,18.293524,40.157753],
+  "geometry": {"alpha":1e-05,"bbox":[18.287118911743,40.154460906982,18.293523788452,40.157752990723],"coordinates":[[[[18.293427,40.155704],[18.293524,40.155064],[18.29216,40.154461],[18.287119,40.15485],[18.28743,40.155785],[18.291035,40.157753],[18.293427,40.155704]]]],"created":1292534889,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12680279_20101216_673ff52611.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

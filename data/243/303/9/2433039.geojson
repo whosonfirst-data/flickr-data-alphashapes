@@ -1,0 +1,15 @@
+{
+  "id": 2433039,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirbyville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2433039,
+    "woe:name":"Kirbyville, Missouri, United States",
+    "woe:place_id":"FnEJ7LCbBZ9z_J8e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.187706,36.629845,-93.181252,36.638672],
+  "geometry": {"alpha":0.00015,"bbox":[-93.187705993652,36.629844665527,-93.181251525879,36.638671875],"coordinates":[[[[-93.182259,36.638672],[-93.181252,36.633762],[-93.184326,36.632336],[-93.187706,36.629845],[-93.187325,36.637707],[-93.182259,36.638672]]]],"created":1292546284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2433039_20101217_ebac6a3ef5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

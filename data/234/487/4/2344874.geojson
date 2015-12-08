@@ -1,0 +1,15 @@
+{
+  "id": 2344874,
+  "type": "Feature",
+  "properties": {
+    "name":"Chirang, BT, Bhutan",
+    "placetype":"region",
+    "woe:id":2344874,
+    "woe:name":"Chirang, BT, Bhutan",
+    "woe:place_id":"EMv2FkybApgmaNl5",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [89.870911,27.015091,90.153809,27.277822],
+  "geometry": {"alpha":0.03,"bbox":[89.870910644531,27.015090942383,90.15380859375,27.277822494507],"coordinates":[[[[90.115356,27.222883],[90.126343,27.137367],[90.153809,27.015091],[90.099998,27.016701],[89.870911,27.165474],[89.914856,27.277822],[90.115356,27.222883]]]],"created":1292529827,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2344874_20101216_5a5c818fc5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

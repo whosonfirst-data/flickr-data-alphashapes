@@ -1,0 +1,15 @@
+{
+  "id": 55855669,
+  "type": "Feature",
+  "properties": {
+    "name":"Downtown, St. John, NB, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55855669,
+    "woe:name":"Downtown, St. John, NB, CA, Canada",
+    "woe:place_id":"e1XTPV2cBJTRHcmNPw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-66.075897,45.260639,-66.070358,45.261749],
+  "geometry": {"alpha":1e-05,"bbox":[-66.075897216797,45.260639190674,-66.070358276367,45.261749267578],"coordinates":[[[[-66.075897,45.261597],[-66.073792,45.261749],[-66.070358,45.260639],[-66.073494,45.260956],[-66.075897,45.261597]]]],"created":1247919366,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2545/shapefiles/55855669_20090718_72c2ba7690.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

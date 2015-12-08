@@ -1,0 +1,15 @@
+{
+  "id": 26797515,
+  "type": "Feature",
+  "properties": {
+    "name":"Sucre, Sucre, Colombia",
+    "placetype":"county",
+    "woe:id":26797515,
+    "woe:name":"Sucre, Sucre, Colombia",
+    "woe:place_id":"QoBvftqbB5sBva2skQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-74.772949,8.819938,-74.696045,8.857934],
+  "geometry": {"alpha":0.0015,"bbox":[-74.77294921875,8.8199377059937,-74.696044921875,8.8579339981079],"coordinates":[[[[-74.696045,8.830795],[-74.703766,8.82367],[-74.718018,8.819938],[-74.772949,8.857934],[-74.701538,8.838937],[-74.696045,8.830795]]]],"created":1292531128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/26797515_20101216_6254be52ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23417874,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolindale, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":23417874,
+    "woe:name":"Bolindale, Ohio, United States",
+    "woe:place_id":"9rARFimbApj9POxy9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.770897,41.209606,-80.749855,41.215855],
+  "geometry": {"alpha":0.00015,"bbox":[-80.770896911621,41.209606170654,-80.749855041504,41.215854644775],"coordinates":[[[[-80.749855,41.215855],[-80.752281,41.211639],[-80.763008,41.209606],[-80.770897,41.215061],[-80.749855,41.215855]]]],"created":1292489047,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/23417874_20101216_7b48965406.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 639976,
+  "type": "Feature",
+  "properties": {
+    "name":"Bojendorf, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":639976,
+    "woe:name":"Bojendorf, Schleswig-Holstein, Germany",
+    "woe:place_id":"21v70NKfApUmsps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.01036,54.490433,11.032333,54.509323],
+  "geometry": {"alpha":0.00015,"bbox":[11.010359764099,54.490432739258,11.032333374023,54.509323120117],"coordinates":[[[[11.031174,54.491928],[11.026668,54.490433],[11.021862,54.497959],[11.01036,54.501148],[11.025509,54.506695],[11.032333,54.509323],[11.031174,54.491928]]]],"created":1292483702,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/639976_20101216_aca82d37be.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12695026,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrundia, Spain",
+    "placetype":"locality",
+    "woe:id":12695026,
+    "woe:name":"Barrundia, Spain",
+    "woe:place_id":"LxXjBhCYA5o4EUh4JA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.503595,42.898602,-2.499732,42.900238],
+  "geometry": {"alpha":1e-05,"bbox":[-2.5035951137543,42.898601531982,-2.4997320175171,42.900238037109],"coordinates":[[[[-2.503595,42.898602],[-2.503488,42.898994],[-2.502393,42.899673],[-2.499732,42.900238],[-2.502436,42.899021],[-2.503595,42.898602]]]],"created":1292532734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12695026_20101216_0a9c1e3680.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

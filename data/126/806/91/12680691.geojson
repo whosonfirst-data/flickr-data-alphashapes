@@ -1,0 +1,15 @@
+{
+  "id": 12680691,
+  "type": "Feature",
+  "properties": {
+    "name":"Noicattaro, Italy",
+    "placetype":"locality",
+    "woe:id":12680691,
+    "woe:name":"Noicattaro, Italy",
+    "woe:place_id":"rMvYteqYA5pVzsrz8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.98555,41.036896,16.990665,41.041832],
+  "geometry": {"alpha":1e-05,"bbox":[16.985549926758,41.036895751953,16.990665435791,41.041831970215],"coordinates":[[[[16.990345,41.040157],[16.990623,41.040131],[16.990665,41.037998],[16.990356,41.036896],[16.98555,41.039482],[16.986,41.041832],[16.990345,41.040157]]]],"created":1292540586,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12680691_20101216_d1e8c01b8f.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

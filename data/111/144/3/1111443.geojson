@@ -1,0 +1,15 @@
+{
+  "id": 1111443,
+  "type": "Feature",
+  "properties": {
+    "name":"Kyo-machi, Japan",
+    "placetype":"locality",
+    "woe:id":1111443,
+    "woe:name":"Kyo-machi, Japan",
+    "woe:place_id":"iMkfS1uYAJ1NULQJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [130.521027,33.312222,130.521973,33.313477],
+  "geometry": {"alpha":1e-05,"bbox":[130.52102661133,33.3122215271,130.52197265625,33.3134765625],"coordinates":[[[[130.521118,33.312305],[130.521973,33.313477],[130.521164,33.312222],[130.521027,33.312222],[130.521118,33.312305]]]],"created":1292447926,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/1111443_20101215_892af65ac0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

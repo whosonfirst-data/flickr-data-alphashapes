@@ -1,0 +1,15 @@
+{
+  "id": 1101419,
+  "type": "Feature",
+  "properties": {
+    "name":"Cowell, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1101419,
+    "woe:name":"Cowell, South Australia, Australia",
+    "woe:place_id":"u4TLVtmYAJzoYSnv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [136.919861,-33.685516,136.933594,-33.674068],
+  "geometry": {"alpha":0.00015,"bbox":[136.91986083984,-33.685516357422,136.93359375,-33.674068450928],"coordinates":[[[[136.928177,-33.685516],[136.922943,-33.684067],[136.919861,-33.680637],[136.933594,-33.674068],[136.932816,-33.678467],[136.933594,-33.683208],[136.928177,-33.685516]]]],"created":1292519747,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/1101419_20101216_5be099cec5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

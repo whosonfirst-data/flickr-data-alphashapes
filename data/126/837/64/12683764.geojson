@@ -1,0 +1,15 @@
+{
+  "id": 12683764,
+  "type": "Feature",
+  "properties": {
+    "name":"Kiesen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683764,
+    "woe:name":"Kiesen, Switzerland",
+    "woe:place_id":"7G20M2qYA5o2c6DW2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.571511,46.813011,7.577219,46.818386],
+  "geometry": {"alpha":1e-05,"bbox":[7.5715107917786,46.813011169434,7.5772190093994,46.818386077881],"coordinates":[[[[7.574707,46.816406],[7.571511,46.817505],[7.575073,46.818386],[7.575942,46.818024],[7.577219,46.813011],[7.574707,46.816406]]]],"created":1247889966,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3434/shapefiles/12683764_20090718_888b9d77a9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 685973,
+  "type": "Feature",
+  "properties": {
+    "name":"Prichsenstadt, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685973,
+    "woe:name":"Prichsenstadt, Bavaria, Germany",
+    "woe:place_id":"mGB4GFOfCZnCgxs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.336933,49.817146,10.357533,49.823975],
+  "geometry": {"alpha":0.00015,"bbox":[10.336933135986,49.81714630127,10.357533454895,49.823974609375],"coordinates":[[[[10.354506,49.817329],[10.350564,49.817146],[10.345344,49.817772],[10.336933,49.82378],[10.352554,49.820599],[10.357533,49.823975],[10.354506,49.817329]]]],"created":1292454682,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/685973_20101215_5e027a0a1d.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

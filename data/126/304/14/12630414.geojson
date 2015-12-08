@@ -1,0 +1,15 @@
+{
+  "id": 12630414,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Walkenried, Germany",
+    "placetype":"locality",
+    "woe:id":12630414,
+    "woe:name":"Gemeinde Walkenried, Germany",
+    "woe:place_id":"hFbBTkyYA5oE5nhXEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.617256,51.582684,10.620367,51.585815],
+  "geometry": {"alpha":1e-05,"bbox":[10.617256164551,51.582683563232,10.620367050171,51.585815429688],"coordinates":[[[[10.619047,51.582684],[10.617256,51.585815],[10.620367,51.584076],[10.620024,51.583416],[10.619745,51.583015],[10.619047,51.582684]]]],"created":1292529245,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12630414_20101216_e3d993df80.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

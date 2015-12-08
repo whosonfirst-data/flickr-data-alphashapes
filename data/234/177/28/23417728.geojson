@@ -1,0 +1,15 @@
+{
+  "id": 23417728,
+  "type": "Feature",
+  "properties": {
+    "name":"Vista Center, Jackson, NJ, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":23417728,
+    "woe:name":"Vista Center, Jackson, NJ, US, United States",
+    "woe:place_id":"RDihItybApjoaqdRlA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-74.320053,40.156265,-74.303314,40.175575],
+  "geometry": {"alpha":0.00015,"bbox":[-74.320053100586,40.156265258789,-74.303314208984,40.175575256348],"coordinates":[[[[-74.310234,40.175575],[-74.303314,40.169769],[-74.31337,40.157368],[-74.320053,40.156265],[-74.312378,40.172905],[-74.310234,40.175575]]]],"created":1248314166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3659/shapefiles/23417728_20090723_cb986d885d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

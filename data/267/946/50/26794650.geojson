@@ -1,0 +1,15 @@
+{
+  "id": 26794650,
+  "type": "Feature",
+  "properties": {
+    "name":"Canas, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":26794650,
+    "woe:name":"Canas, Sao Paulo, Brazil",
+    "woe:place_id":"ffFHCsmbB5sZyi9mVQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-45.080338,-22.731222,-45.050468,-22.666452],
+  "geometry": {"alpha":0.0015,"bbox":[-45.080337524414,-22.73122215271,-45.050468444824,-22.666452407837],"coordinates":[[[[-45.054932,-22.710321],[-45.060425,-22.72299],[-45.079994,-22.731222],[-45.080338,-22.666452],[-45.050468,-22.694645],[-45.054932,-22.710321]]]],"created":1292551643,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/26794650_20101217_9d722cc2d7.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

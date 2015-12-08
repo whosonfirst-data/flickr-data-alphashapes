@@ -1,0 +1,15 @@
+{
+  "id": 2418191,
+  "type": "Feature",
+  "properties": {
+    "name":"Harshasville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2418191,
+    "woe:name":"Harshasville, Ohio, United States",
+    "woe:place_id":"nn965eObBZ1U28mf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.564331,38.901932,-83.53582,38.906494],
+  "geometry": {"alpha":0.00015,"bbox":[-83.564331054688,38.901931762695,-83.535820007324,38.906494140625],"coordinates":[[[[-83.552765,38.905827],[-83.55188,38.906494],[-83.53582,38.901932],[-83.552666,38.905769],[-83.564331,38.904442],[-83.552765,38.905827]]]],"created":1292451728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2418191_20101215_3876ff625d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

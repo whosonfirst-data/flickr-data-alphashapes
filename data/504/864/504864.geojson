@@ -1,0 +1,15 @@
+{
+  "id": 504864,
+  "type": "Feature",
+  "properties": {
+    "name":"Lipnica Murowana, Lesser Poland, Poland",
+    "placetype":"locality",
+    "woe:id":504864,
+    "woe:name":"Lipnica Murowana, Lesser Poland, Poland",
+    "woe:place_id":"vInp75qcAZjlvoo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.511475,49.85619,20.531107,49.876053],
+  "geometry": {"alpha":0.00015,"bbox":[20.511474609375,49.856189727783,20.531106948853,49.876052856445],"coordinates":[[[[20.526924,49.85918],[20.525894,49.861225],[20.511475,49.876053],[20.529747,49.871815],[20.531107,49.862946],[20.528854,49.85619],[20.526924,49.85918]]]],"created":1292550132,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/504864_20101217_17bef9e574.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

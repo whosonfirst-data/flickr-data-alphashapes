@@ -1,0 +1,15 @@
+{
+  "id": 20151264,
+  "type": "Feature",
+  "properties": {
+    "name":"Kvarntorp, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151264,
+    "woe:name":"Kvarntorp, Stockholm, Sweden",
+    "woe:place_id":"qDd6GMSbAZ3ilwwx4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.14381,59.180931,18.146914,59.183544],
+  "geometry": {"alpha":0.00015,"bbox":[18.143810272217,59.180931091309,18.146913528442,59.183544158936],"coordinates":[[[[18.14686,59.18335],[18.146914,59.18325],[18.146912,59.18301],[18.14381,59.180931],[18.146002,59.183544],[18.146582,59.183517],[18.14686,59.18335]]]],"created":1292530147,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/20151264_20101216_2abdba971b.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

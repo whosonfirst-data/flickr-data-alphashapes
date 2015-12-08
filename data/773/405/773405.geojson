@@ -1,0 +1,15 @@
+{
+  "id": 773405,
+  "type": "Feature",
+  "properties": {
+    "name":"San Salvador, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":773405,
+    "woe:name":"San Salvador, Asturias, Spain",
+    "woe:place_id":"ff1DGo2eBp_124M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.078658,43.132523,-6.075742,43.138371],
+  "geometry": {"alpha":0.00015,"bbox":[-6.0786581039429,43.132522583008,-6.0757417678833,43.138370513916],"coordinates":[[[[-6.077585,43.138134],[-6.075742,43.137108],[-6.076937,43.132523],[-6.077156,43.133354],[-6.078658,43.138371],[-6.077585,43.138134]]]],"created":1292537243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/773405_20101216_e5968f1cf5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

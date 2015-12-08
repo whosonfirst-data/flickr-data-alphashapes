@@ -1,0 +1,15 @@
+{
+  "id": 20120872,
+  "type": "Feature",
+  "properties": {
+    "name":"Codeglia, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20120872,
+    "woe:name":"Codeglia, Liguria, Italy",
+    "woe:place_id":"ze7GekSbAZ1F0n5eIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.752597,44.117107,9.757232,44.118156],
+  "geometry": {"alpha":0.00015,"bbox":[9.7525968551636,44.117107391357,9.7572317123413,44.118156433105],"coordinates":[[[[9.752597,44.117107],[9.754657,44.118031],[9.756631,44.118095],[9.757232,44.118156],[9.753799,44.117168],[9.752597,44.117107]]]],"created":1292445581,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/20120872_20101215_a19eb4bd9a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

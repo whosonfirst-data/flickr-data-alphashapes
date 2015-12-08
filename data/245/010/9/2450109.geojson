@@ -1,0 +1,15 @@
+{
+  "id": 2450109,
+  "type": "Feature",
+  "properties": {
+    "name":"Micaville, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2450109,
+    "woe:name":"Micaville, North Carolina, United States",
+    "woe:place_id":"VOG1hm.bBZlRyZrU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.219788,35.907372,-82.213867,35.914078],
+  "geometry": {"alpha":0.00015,"bbox":[-82.219787597656,35.907371520996,-82.2138671875,35.914077758789],"coordinates":[[[[-82.215622,35.907372],[-82.215904,35.907578],[-82.219788,35.914078],[-82.214165,35.909546],[-82.213867,35.907959],[-82.215622,35.907372]]]],"created":1292469548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2450109_20101216_b69736a207.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

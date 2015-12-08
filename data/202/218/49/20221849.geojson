@@ -1,0 +1,15 @@
+{
+  "id": 20221849,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerro de Los Angeles, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":20221849,
+    "woe:name":"Cerro de Los Angeles, Madrid, Spain",
+    "woe:place_id":"6BU3wbWbAZ5SVJQqpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.688724,40.307415,-3.679046,40.311398],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6887240409851,40.307415008545,-3.6790459156036,40.31139755249],"coordinates":[[[[-3.684239,40.311241],[-3.681567,40.30999],[-3.679046,40.307415],[-3.685183,40.307415],[-3.688724,40.311398],[-3.684239,40.311241]]]],"created":1292529752,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20221849_20101216_5436ee5c4c.tar.gz"},"points":48,"type":"MultiPolygon"}
+}

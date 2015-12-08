@@ -1,0 +1,15 @@
+{
+  "id": 3204,
+  "type": "Feature",
+  "properties": {
+    "name":"Wanup, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3204,
+    "woe:name":"Wanup, Ontario, Canada",
+    "woe:place_id":"LIddF_6aA5ws",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.839462,46.345505,-80.818863,46.377964],
+  "geometry": {"alpha":0.00015,"bbox":[-80.839462280273,46.345504760742,-80.818862915039,46.377964019775],"coordinates":[[[[-80.827789,46.360195],[-80.818863,46.351963],[-80.838089,46.345505],[-80.830536,46.36393],[-80.839462,46.377964],[-80.829514,46.366474],[-80.827789,46.360195]]]],"created":1292534315,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/3204_20101216_08620038f2.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

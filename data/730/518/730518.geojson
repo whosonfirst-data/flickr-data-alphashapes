@@ -1,0 +1,15 @@
+{
+  "id": 730518,
+  "type": "Feature",
+  "properties": {
+    "name":"Itens, Friesland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730518,
+    "woe:name":"Itens, Friesland, Netherlands",
+    "woe:place_id":"vvCgThaeApymkl4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.633583,53.092659,5.642616,53.101727],
+  "geometry": {"alpha":0.00015,"bbox":[5.6335830688477,53.092658996582,5.6426157951355,53.101726531982],"coordinates":[[[[5.642509,53.101601],[5.642616,53.101341],[5.64238,53.100994],[5.633583,53.092659],[5.640749,53.101379],[5.641994,53.101727],[5.642509,53.101601]]]],"created":1292439791,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/730518_20101215_fa6bf36d78.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

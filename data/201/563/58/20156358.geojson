@@ -1,0 +1,15 @@
+{
+  "id": 20156358,
+  "type": "Feature",
+  "properties": {
+    "name":"Mauthaus, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20156358,
+    "woe:name":"Mauthaus, Bavaria, Germany",
+    "woe:place_id":"anjJRiybAZ29o9lbMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.480755,50.31226,11.502469,50.324589],
+  "geometry": {"alpha":0.0001875,"bbox":[11.480754852295,50.312259674072,11.502469062805,50.324588775635],"coordinates":[[[[11.487177,50.324032],[11.487713,50.323761],[11.502469,50.312901],[11.501333,50.31226],[11.48565,50.323502],[11.480755,50.324589],[11.487177,50.324032]]]],"created":1292452263,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20156358_20101215_2e20f050a6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

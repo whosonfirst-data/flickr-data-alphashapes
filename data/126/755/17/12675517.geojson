@@ -1,0 +1,15 @@
+{
+  "id": 12675517,
+  "type": "Feature",
+  "properties": {
+    "name":"Unterperfuss, Austria",
+    "placetype":"locality",
+    "woe:id":12675517,
+    "woe:name":"Unterperfuss, Austria",
+    "woe:place_id":"VjcwmEuYA5oGoCoXEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.264119,47.264858,11.266801,47.269165],
+  "geometry": {"alpha":1e-05,"bbox":[11.264119148254,47.26485824585,11.266800880432,47.269165039062],"coordinates":[[[[11.265492,47.269165],[11.266801,47.267303],[11.266801,47.264858],[11.265149,47.267696],[11.264247,47.26823],[11.264119,47.268658],[11.265492,47.269165]]]],"created":1292522467,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12675517_20101216_0ec268a8c5.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

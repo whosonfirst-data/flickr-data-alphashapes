@@ -1,0 +1,15 @@
+{
+  "id": 483465,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni, Malta Majjistral, Malta",
+    "placetype":"locality",
+    "woe:id":483465,
+    "woe:name":"San Giovanni, Malta Majjistral, Malta",
+    "woe:place_id":"6hnBUpqdCZ.24PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.475517,35.902706,14.486846,35.911854],
+  "geometry": {"alpha":0.00015,"bbox":[14.475517272949,35.90270614624,14.486845970154,35.911853790283],"coordinates":[[[[14.481353,35.905182],[14.480527,35.902706],[14.478263,35.907646],[14.475517,35.910744],[14.484701,35.91116],[14.486846,35.911854],[14.481353,35.905182]]]],"created":1292545095,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/483465_20101217_f3a107ecb1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

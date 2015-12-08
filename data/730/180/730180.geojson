@@ -1,0 +1,15 @@
+{
+  "id": 730180,
+  "type": "Feature",
+  "properties": {
+    "name":"Hoeve, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":730180,
+    "woe:name":"Hoeve, North Brabant, Netherlands",
+    "woe:place_id":"QWTmkwKeApzpRK0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.417461,51.295807,5.433769,51.298332],
+  "geometry": {"alpha":0.00015,"bbox":[5.4174609184265,51.295806884766,5.4337692260742,51.298332214355],"coordinates":[[[[5.429167,51.298332],[5.433769,51.296974],[5.429733,51.296165],[5.424291,51.295807],[5.417461,51.295898],[5.424799,51.296116],[5.429167,51.298332]]]],"created":1292546006,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/730180_20101217_f532dc3a17.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

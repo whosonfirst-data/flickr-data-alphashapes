@@ -1,0 +1,15 @@
+{
+  "id": 36202,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":36202,
+    "woe:name":"Stoford, England, United Kingdom",
+    "woe:place_id":"I_tYlmWaB549sg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.887974,51.115604,-1.872568,51.123753],
+  "geometry": {"alpha":0.00015,"bbox":[-1.887974023819,51.115604400635,-1.8725680112839,51.123752593994],"coordinates":[[[[-1.883726,51.119797],[-1.872568,51.123753],[-1.882781,51.115604],[-1.883168,51.115753],[-1.887974,51.117935],[-1.885442,51.119041],[-1.883726,51.119797]]]],"created":1292541706,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/36202_20101216_bb264e6a36.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

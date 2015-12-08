@@ -1,0 +1,15 @@
+{
+  "id": 12626721,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Irxleben, Germany",
+    "placetype":"locality",
+    "woe:id":12626721,
+    "woe:name":"Gemeinde Irxleben, Germany",
+    "woe:place_id":"KJaN.vSYA5rr.gvgfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.480283,52.149342,11.488695,52.152607],
+  "geometry": {"alpha":1e-05,"bbox":[11.480282783508,52.149341583252,11.488695144653,52.152606964111],"coordinates":[[[[11.483459,52.151134],[11.480283,52.151173],[11.483201,52.152607],[11.487579,52.151527],[11.488695,52.149342],[11.483459,52.151134]]]],"created":1292533422,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12626721_20101216_3a1eac9205.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

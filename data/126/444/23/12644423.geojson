@@ -1,0 +1,15 @@
+{
+  "id": 12644423,
+  "type": "Feature",
+  "properties": {
+    "name":"Gentilly, France",
+    "placetype":"locality",
+    "woe:id":12644423,
+    "woe:name":"Gentilly, France",
+    "woe:place_id":"yh_CfECYA5q4lA6nHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.333221,48.814213,2.34601,48.819515],
+  "geometry": {"alpha":1e-05,"bbox":[2.3332209587097,48.814212799072,2.3460099697113,48.819515228271],"coordinates":[[[[2.342104,48.819],[2.344872,48.819515],[2.34601,48.818478],[2.343338,48.817265],[2.34086,48.814213],[2.335281,48.815117],[2.333221,48.817265],[2.336268,48.816174],[2.341117,48.818111],[2.342104,48.819]]]],"created":1248111506,"edges":10,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2427/shapefiles/12644423_20090720_bc43a0491a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

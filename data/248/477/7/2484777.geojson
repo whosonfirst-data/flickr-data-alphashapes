@@ -1,0 +1,15 @@
+{
+  "id": 2484777,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosemont, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2484777,
+    "woe:name":"Rosemont, Maryland, United States",
+    "woe:place_id":"Q_iTiwWbBZSh.MgO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.193855,39.096165,-77.187027,39.101917],
+  "geometry": {"alpha":0.00015,"bbox":[-77.193855285645,39.096164703369,-77.187026977539,39.101917266846],"coordinates":[[[[-77.193779,39.097088],[-77.193855,39.101917],[-77.187027,39.101486],[-77.188004,39.100166],[-77.192337,39.096165],[-77.193779,39.097088]]]],"created":1292534014,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2484777_20101216_4999543abb.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

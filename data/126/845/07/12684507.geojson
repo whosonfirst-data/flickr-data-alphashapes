@@ -1,0 +1,15 @@
+{
+  "id": 12684507,
+  "type": "Feature",
+  "properties": {
+    "name":"Eglisau, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684507,
+    "woe:name":"Eglisau, Switzerland",
+    "woe:place_id":"ts7Ixo6YA5qnhiOW0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.504647,47.576389,8.511748,47.580029],
+  "geometry": {"alpha":1e-05,"bbox":[8.5046472549438,47.576389312744,8.5117483139038,47.580028533936],"coordinates":[[[[8.510119,47.576599],[8.509722,47.576389],[8.504647,47.577824],[8.50816,47.580029],[8.511748,47.578045],[8.510119,47.576599]]]],"created":1292530076,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12684507_20101216_24478d08fb.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

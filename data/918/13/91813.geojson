@@ -1,0 +1,15 @@
+{
+  "id": 91813,
+  "type": "Feature",
+  "properties": {
+    "name":"Grande Place, Ouest, Haiti",
+    "placetype":"locality",
+    "woe:id":91813,
+    "woe:name":"Grande Place, Ouest, Haiti",
+    "woe:place_id":"3QlEKtCQAJTQSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.585381,18.504337,-72.543755,18.532351],
+  "geometry": {"alpha":0.00015,"bbox":[-72.585380554199,18.504337310791,-72.543754577637,18.532350540161],"coordinates":[[[[-72.554718,18.531637],[-72.554398,18.532351],[-72.543755,18.522991],[-72.560837,18.512167],[-72.567101,18.504337],[-72.583237,18.521282],[-72.585381,18.530071],[-72.574959,18.528181],[-72.554718,18.531637]]]],"created":1292541871,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/91813_20101216_f562c47a9b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

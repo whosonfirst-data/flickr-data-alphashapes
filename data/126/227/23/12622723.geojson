@@ -1,0 +1,15 @@
+{
+  "id": 12622723,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Freilassing, Germany",
+    "placetype":"locality",
+    "woe:id":12622723,
+    "woe:name":"Gemeinde Freilassing, Germany",
+    "woe:place_id":".z2yeQKYA5oe1E96tQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.946325,47.843433,12.950488,47.846935],
+  "geometry": {"alpha":1e-05,"bbox":[12.946325302124,47.843433380127,12.950488090515,47.846935272217],"coordinates":[[[[12.946325,47.846565],[12.946368,47.846935],[12.946894,47.846752],[12.950488,47.843433],[12.946679,47.846222],[12.946368,47.846371],[12.946325,47.846565]]]],"created":1292513286,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12622723_20101216_575709b030.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2524509,
+  "type": "Feature",
+  "properties": {
+    "name":"Yancey Mills, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2524509,
+    "woe:name":"Yancey Mills, Virginia, United States",
+    "woe:place_id":"pCPjpZ2bBJ52fZNG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.738869,38.033379,-78.720642,38.049171],
+  "geometry": {"alpha":0.00015,"bbox":[-78.738868713379,38.033378601074,-78.720642089844,38.049171447754],"coordinates":[[[[-78.720642,38.049171],[-78.720863,38.046856],[-78.729698,38.033379],[-78.738869,38.037941],[-78.726311,38.046062],[-78.720642,38.049171]]]],"created":1292544788,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2524509_20101217_12e949ae0b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

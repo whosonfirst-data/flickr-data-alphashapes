@@ -1,0 +1,15 @@
+{
+  "id": 67414,
+  "type": "Feature",
+  "properties": {
+    "name":"San Luis, Pinar del Rio, Cuba",
+    "placetype":"locality",
+    "woe:id":67414,
+    "woe:name":"San Luis, Pinar del Rio, Cuba",
+    "woe:place_id":"jTKAlXyfBphULw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.778305,22.282982,-83.765259,22.291637],
+  "geometry": {"alpha":0.00015,"bbox":[-83.778305053711,22.282981872559,-83.765258789062,22.291637420654],"coordinates":[[[[-83.778305,22.28973],[-83.770752,22.291363],[-83.765259,22.291637],[-83.771095,22.282982],[-83.778305,22.28973]]]],"created":1292534345,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/67414_20101216_37902684ec.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

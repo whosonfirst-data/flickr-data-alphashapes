@@ -1,0 +1,15 @@
+{
+  "id": 30184,
+  "type": "Feature",
+  "properties": {
+    "name":"Newthorpe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30184,
+    "woe:name":"Newthorpe, England, United Kingdom",
+    "woe:place_id":"1IiGU0GaAZ11_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.2855,53.014008,-1.275143,53.018421],
+  "geometry": {"alpha":0.00015,"bbox":[-1.2855000495911,53.014007568359,-1.2751430273056,53.018421173096],"coordinates":[[[[-1.2855,53.017166],[-1.2854,53.018196],[-1.277847,53.018421],[-1.275143,53.014008],[-1.285333,53.017166],[-1.2855,53.017166]]]],"created":1292402883,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/30184_20101215_7786f21cf1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

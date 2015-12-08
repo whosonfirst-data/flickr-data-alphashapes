@@ -1,0 +1,15 @@
+{
+  "id": 704372,
+  "type": "Feature",
+  "properties": {
+    "name":"Wehnsdorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":704372,
+    "woe:name":"Wehnsdorf, Brandenburg, Germany",
+    "woe:place_id":"KdAIdCWeAZhYGbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.614892,51.737713,13.631616,51.75967],
+  "geometry": {"alpha":0.00015,"bbox":[13.61489200592,51.737712860107,13.631615638733,51.759670257568],"coordinates":[[[[13.614892,51.748821],[13.615322,51.758064],[13.631616,51.75967],[13.61824,51.749084],[13.622145,51.737713],[13.618111,51.740902],[13.614892,51.748821]]]],"created":1292491864,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/704372_20101216_eacd750e02.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

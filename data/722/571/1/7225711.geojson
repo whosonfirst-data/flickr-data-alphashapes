@@ -1,0 +1,15 @@
+{
+  "id": 7225711,
+  "type": "Feature",
+  "properties": {
+    "name":"Elvina Bay, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":7225711,
+    "woe:name":"Elvina Bay, New South Wales, Australia",
+    "woe:place_id":"WNwlMKWeA54LWJfy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.271774,-33.663494,151.297531,-33.644852],
+  "geometry": {"alpha":0.00015,"bbox":[151.27177429199,-33.663494110107,151.29753112793,-33.64485168457],"coordinates":[[[[151.272919,-33.65654],[151.271774,-33.65678],[151.272888,-33.656479],[151.284454,-33.644852],[151.297531,-33.652065],[151.286545,-33.663494],[151.272919,-33.65654]]]],"created":1292520064,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/7225711_20101216_e562feb4ec.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

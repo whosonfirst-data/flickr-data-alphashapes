@@ -1,0 +1,15 @@
+{
+  "id": 332495,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Flores, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":332495,
+    "woe:name":"Las Flores, Buenos Aires, Argentina",
+    "woe:place_id":"8isZL_maAp5b734",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.083614,-36.008144,-59.06147,-36.001617],
+  "geometry": {"alpha":0.00015,"bbox":[-59.083614349365,-36.008144378662,-59.061470031738,-36.001617431641],"coordinates":[[[[-59.07177,-36.005783],[-59.073486,-36.008144],[-59.081295,-36.005089],[-59.082241,-36.00481],[-59.083614,-36.004326],[-59.074001,-36.002033],[-59.06147,-36.001617],[-59.07177,-36.005783]]]],"created":1292548030,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/332495_20101217_cd2256e199.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

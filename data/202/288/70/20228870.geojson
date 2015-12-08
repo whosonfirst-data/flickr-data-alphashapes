@@ -1,0 +1,15 @@
+{
+  "id": 20228870,
+  "type": "Feature",
+  "properties": {
+    "name":"La Laguna, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20228870,
+    "woe:name":"La Laguna, Canary Islands, Spain",
+    "woe:place_id":"fybvGtubAZ7AkiODXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.923185,28.603512,-17.912951,28.611872],
+  "geometry": {"alpha":0.00015,"bbox":[-17.923185348511,28.603511810303,-17.912950515747,28.61187171936],"coordinates":[[[[-17.923141,28.607204],[-17.923185,28.607582],[-17.92312,28.607771],[-17.912951,28.611872],[-17.922134,28.603512],[-17.923141,28.607204]]]],"created":1292480467,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20228870_20101216_16e249dd7f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

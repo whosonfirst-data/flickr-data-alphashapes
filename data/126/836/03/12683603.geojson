@@ -1,0 +1,15 @@
+{
+  "id": 12683603,
+  "type": "Feature",
+  "properties": {
+    "name":"Grimisuat, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683603,
+    "woe:name":"Grimisuat, Switzerland",
+    "woe:place_id":"dxt4d42YA5poMFQKAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.382166,46.243294,7.385825,46.247334],
+  "geometry": {"alpha":1e-05,"bbox":[7.3821659088135,46.243293762207,7.3858251571655,46.247333526611],"coordinates":[[[[7.38367,46.243294],[7.383752,46.244068],[7.382333,46.247166],[7.382166,46.247334],[7.385825,46.246651],[7.384786,46.243767],[7.38367,46.243294]]]],"created":1292532723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12683603_20101216_bd15ea41c7.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

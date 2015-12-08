@@ -1,0 +1,15 @@
+{
+  "id": 759384,
+  "type": "Feature",
+  "properties": {
+    "name":"El Llano, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":759384,
+    "woe:name":"El Llano, Asturias, Spain",
+    "woe:place_id":"FAWKTLeeBJXVrlM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.462114,43.458309,-5.456943,43.466064],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4621138572693,43.458309173584,-5.4569430351257,43.466064453125],"coordinates":[[[[-5.456943,43.458309],[-5.462114,43.462215],[-5.461063,43.463509],[-5.459346,43.466064],[-5.456943,43.458309]]]],"created":1229504648,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3240/shapefiles/759384_20081217_b55385919f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

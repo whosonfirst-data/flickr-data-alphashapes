@@ -1,0 +1,15 @@
+{
+  "id": 2419289,
+  "type": "Feature",
+  "properties": {
+    "name":"Hazelwood, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2419289,
+    "woe:name":"Hazelwood, Delaware, United States",
+    "woe:place_id":"gCCf7aWbBZ1K8pqg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.521606,39.214226,-75.505661,39.221214],
+  "geometry": {"alpha":0.00015,"bbox":[-75.521606445312,39.214225769043,-75.505661010742,39.221214294434],"coordinates":[[[[-75.508347,39.220284],[-75.505661,39.214226],[-75.521606,39.219501],[-75.513664,39.221214],[-75.508347,39.220284]]]],"created":1292469002,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2419289_20101216_b8ec4c0606.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

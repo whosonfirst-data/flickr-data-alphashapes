@@ -1,0 +1,15 @@
+{
+  "id": 580705,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonneville, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":580705,
+    "woe:name":"Bonneville, Rhone-Alpes, France",
+    "woe:place_id":"fQucDBKcCZxDRSE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.406402,46.075611,6.411724,46.095272],
+  "geometry": {"alpha":0.00015,"bbox":[6.4064021110535,46.075611114502,6.4117240905762,46.095272064209],"coordinates":[[[[6.407775,46.078468],[6.411423,46.095272],[6.411724,46.077755],[6.406402,46.075611],[6.407069,46.077988],[6.407775,46.078468]]]],"created":1292546154,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/580705_20101217_1085bb3187.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

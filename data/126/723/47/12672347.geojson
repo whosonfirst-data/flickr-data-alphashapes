@@ -1,0 +1,15 @@
+{
+  "id": 12672347,
+  "type": "Feature",
+  "properties": {
+    "name":"Vieillevigne, France",
+    "placetype":"locality",
+    "woe:id":12672347,
+    "woe:name":"Vieillevigne, France",
+    "woe:place_id":"JQXzLYeYA5r0o_dNwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.643136,43.415524,1.64465,43.416519],
+  "geometry": {"alpha":1e-05,"bbox":[1.6431360244751,43.415523529053,1.6446499824524,43.416519165039],"coordinates":[[[[1.644172,43.415524],[1.643136,43.4165],[1.643829,43.416519],[1.644172,43.416145],[1.64465,43.415524],[1.644172,43.415524]]]],"created":1292522371,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12672347_20101216_3e72206fbc.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

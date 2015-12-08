@@ -1,0 +1,15 @@
+{
+  "id": 22527765,
+  "type": "Feature",
+  "properties": {
+    "name":"Wacht, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":22527765,
+    "woe:name":"Wacht, Tyrol, Austria",
+    "woe:place_id":"mac9.5ibA5nJSkD3oA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.705173,46.704967,12.720802,46.710384],
+  "geometry": {"alpha":0.00015,"bbox":[12.705172538757,46.704967498779,12.720802307129,46.710384368896],"coordinates":[[[[12.720108,46.705879],[12.720802,46.705479],[12.718477,46.704967],[12.706718,46.705204],[12.705173,46.710384],[12.706289,46.710205],[12.720108,46.705879]]]],"created":1292445672,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/22527765_20101215_aef126bce9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

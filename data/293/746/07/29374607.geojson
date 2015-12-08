@@ -1,0 +1,15 @@
+{
+  "id": 29374607,
+  "type": "Feature",
+  "properties": {
+    "name":"Perth South, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374607,
+    "woe:name":"Perth South, Ontario, Canada",
+    "woe:place_id":"iz7vjmWbCJ8aQR6aqg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.071297,43.2598,-81.057861,43.275082],
+  "geometry": {"alpha":0.00015,"bbox":[-81.071296691895,43.259799957275,-81.057861328125,43.275081634521],"coordinates":[[[[-81.070679,43.264545],[-81.071297,43.265068],[-81.063133,43.275082],[-81.062103,43.269707],[-81.057861,43.2598],[-81.070679,43.264545]]]],"created":1292529573,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/29374607_20101216_6b7c58de27.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3603,
+  "type": "Feature",
+  "properties": {
+    "name":"Sayabec, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3603,
+    "woe:name":"Sayabec, Quebec, Canada",
+    "woe:place_id":"IgUd_SKaB5w5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.664703,48.565529,-67.658783,48.568882],
+  "geometry": {"alpha":0.00015,"bbox":[-67.664703369141,48.565528869629,-67.658782958984,48.568881988525],"coordinates":[[[[-67.663147,48.566341],[-67.664703,48.565529],[-67.662094,48.568882],[-67.658783,48.56802],[-67.663147,48.566341]]]],"created":1292450277,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/3603_20101215_8ed013d304.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

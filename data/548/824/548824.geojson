@@ -1,0 +1,15 @@
+{
+  "id": 548824,
+  "type": "Feature",
+  "properties": {
+    "name":"Kapellen, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548824,
+    "woe:name":"Kapellen, Styria, Austria",
+    "woe:place_id":"rRVSV2WcBZSVUE4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.626506,47.645962,15.64069,47.670097],
+  "geometry": {"alpha":0.00015,"bbox":[15.626505851746,47.645961761475,15.640689849854,47.670097351074],"coordinates":[[[[15.628051,47.645962],[15.626506,47.648045],[15.63054,47.670097],[15.64069,47.656456],[15.632171,47.646885],[15.630905,47.646542],[15.628051,47.645962]]]],"created":1292528887,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/548824_20101216_f4e5ea0425.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

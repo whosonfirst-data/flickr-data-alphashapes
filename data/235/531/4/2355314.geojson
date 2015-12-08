@@ -1,0 +1,15 @@
+{
+  "id": 2355314,
+  "type": "Feature",
+  "properties": {
+    "name":"Appleton, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2355314,
+    "woe:name":"Appleton, Illinois, United States",
+    "woe:place_id":"achKhkqbApkAO4Qf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.206528,40.924343,-90.206383,40.924625],
+  "geometry": {"alpha":0.00015,"bbox":[-90.206527709961,40.924343109131,-90.206382751465,40.924625396729],"coordinates":[[[[-90.206505,40.924408],[-90.206528,40.924561],[-90.206467,40.924625],[-90.206383,40.924343],[-90.206505,40.924408]]]],"created":1292371803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2355314_20101215_9b86aeffa4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12641863,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Gelven, France",
+    "placetype":"locality",
+    "woe:id":12641863,
+    "woe:name":"St.-Gelven, France",
+    "woe:place_id":"VAybgtqYA5rjNt_lxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.128957,48.210957,-3.126575,48.212692],
+  "geometry": {"alpha":1e-05,"bbox":[-3.1289570331573,48.210956573486,-3.1265749931335,48.212692260742],"coordinates":[[[[-3.126937,48.210957],[-3.127264,48.210964],[-3.128271,48.211746],[-3.128957,48.212692],[-3.126575,48.211418],[-3.126937,48.210957]]]],"created":1292541464,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12641863_20101216_4fa04b1447.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

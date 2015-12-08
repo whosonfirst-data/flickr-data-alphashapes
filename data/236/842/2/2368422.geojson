@@ -1,0 +1,15 @@
+{
+  "id": 2368422,
+  "type": "Feature",
+  "properties": {
+    "name":"Breedsville, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2368422,
+    "woe:name":"Breedsville, Michigan, United States",
+    "woe:place_id":"jnc4rnWbApoJv4Or",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.072441,42.345325,-86.071381,42.346451],
+  "geometry": {"alpha":0.00015,"bbox":[-86.072441101074,42.345325469971,-86.071380615234,42.346450805664],"coordinates":[[[[-86.071381,42.345566],[-86.071922,42.345325],[-86.072441,42.345516],[-86.072098,42.346451],[-86.071457,42.345875],[-86.071381,42.345566]]]],"created":1292493243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2368422_20101216_e1632dd5d1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

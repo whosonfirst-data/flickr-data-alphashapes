@@ -1,0 +1,15 @@
+{
+  "id": 710731,
+  "type": "Feature",
+  "properties": {
+    "name":"Barni, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710731,
+    "woe:name":"Barni, Lombardy, Italy",
+    "woe:place_id":"BEkQ1U.eAJxEb7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.256668,45.906479,9.27658,45.912823],
+  "geometry": {"alpha":0.00015,"bbox":[9.2566680908203,45.906478881836,9.2765798568726,45.912822723389],"coordinates":[[[[9.264221,45.912823],[9.271087,45.912464],[9.27658,45.912823],[9.265787,45.906479],[9.256668,45.912228],[9.262161,45.912586],[9.264221,45.912823]]]],"created":1292546530,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/710731_20101217_a8cb7dd956.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

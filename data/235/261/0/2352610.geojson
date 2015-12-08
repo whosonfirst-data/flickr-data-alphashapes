@@ -1,0 +1,15 @@
+{
+  "id": 2352610,
+  "type": "Feature",
+  "properties": {
+    "name":"Alaska, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2352610,
+    "woe:name":"Alaska, Wisconsin, United States",
+    "woe:place_id":"sflAEBObAplXjahx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.475182,44.550797,-87.458122,44.565704],
+  "geometry": {"alpha":0.00015,"bbox":[-87.47518157959,44.550796508789,-87.458122253418,44.565704345703],"coordinates":[[[[-87.458122,44.565704],[-87.458382,44.565063],[-87.464172,44.560814],[-87.470741,44.551212],[-87.475182,44.550797],[-87.464172,44.560814],[-87.458282,44.565533],[-87.458122,44.565704]]]],"created":1292485805,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2352610_20101216_8964535b36.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

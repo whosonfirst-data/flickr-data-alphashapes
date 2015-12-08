@@ -1,0 +1,15 @@
+{
+  "id": 20070737,
+  "type": "Feature",
+  "properties": {
+    "name":"Ayacucho, San Luis, Argentina",
+    "placetype":"county",
+    "woe:id":20070737,
+    "woe:name":"Ayacucho, San Luis, Argentina",
+    "woe:place_id":"zIVcLLebAZwZlPctFg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-65.812737,-32.246418,-65.79248,-32.228485],
+  "geometry": {"alpha":0.001875,"bbox":[-65.81273651123,-32.246417999268,-65.79248046875,-32.228485107422],"coordinates":[[[[-65.798492,-32.230373],[-65.79248,-32.246418],[-65.80793,-32.240391],[-65.812737,-32.23473],[-65.812569,-32.228485],[-65.798492,-32.230373]]]],"created":1292532827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20070737_20101216_edf55549c0.tar.gz"},"points":61,"type":"MultiPolygon"}
+}

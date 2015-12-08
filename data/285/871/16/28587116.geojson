@@ -1,0 +1,15 @@
+{
+  "id": 28587116,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint Ronans, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":28587116,
+    "woe:name":"Saint Ronans, Western Australia, Australia",
+    "woe:place_id":"bsIIzUybCZm.znCYDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.672676,-31.856468,116.677429,-31.852846],
+  "geometry": {"alpha":0.00015,"bbox":[116.67267608643,-31.856468200684,116.67742919922,-31.85284614563],"coordinates":[[[[116.672676,-31.856419],[116.672806,-31.856321],[116.675163,-31.854256],[116.677429,-31.852846],[116.673698,-31.855808],[116.672836,-31.856468],[116.672676,-31.856419]]]],"created":1292452749,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/28587116_20101215_984fe29673.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

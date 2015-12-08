@@ -1,0 +1,15 @@
+{
+  "id": 1100035,
+  "type": "Feature",
+  "properties": {
+    "name":"Babinda, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100035,
+    "woe:name":"Babinda, Queensland, Australia",
+    "woe:place_id":"vepZrCGYAJwlw5aq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.918518,-17.362598,145.92865,-17.328737],
+  "geometry": {"alpha":0.00015,"bbox":[145.91851806641,-17.362598419189,145.92864990234,-17.328737258911],"coordinates":[[[[145.921616,-17.343592],[145.918518,-17.331549],[145.92865,-17.328737],[145.926682,-17.340685],[145.92482,-17.34494],[145.92453,-17.362598],[145.921616,-17.343592]]]],"created":1292544696,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/1100035_20101217_3c5957dd59.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2385272,
+  "type": "Feature",
+  "properties": {
+    "name":"Coronet, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2385272,
+    "woe:name":"Coronet, Florida, United States",
+    "woe:place_id":"jpXTSLWbApQPwOV4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.038345,27.980152,-82.031647,27.988045],
+  "geometry": {"alpha":0.00015,"bbox":[-82.038345336914,27.980152130127,-82.031646728516,27.98804473877],"coordinates":[[[[-82.031822,27.988045],[-82.031647,27.984472],[-82.038345,27.980152],[-82.035545,27.98793],[-82.03215,27.988035],[-82.031822,27.988045]]]],"created":1248275771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3501/shapefiles/2385272_20090722_5f8a9e6dcb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

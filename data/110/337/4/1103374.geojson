@@ -1,0 +1,15 @@
+{
+  "id": 1103374,
+  "type": "Feature",
+  "properties": {
+    "name":"Laurel Hill, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1103374,
+    "woe:name":"Laurel Hill, New South Wales, Australia",
+    "woe:place_id":"5odWKrCYAJznRc8n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.08226,-35.627163,148.089828,-35.614666],
+  "geometry": {"alpha":0.00015,"bbox":[148.08226013184,-35.62716293335,148.08982849121,-35.614665985107],"coordinates":[[[[148.089828,-35.614666],[148.08783,-35.618168],[148.084717,-35.627163],[148.08226,-35.623474],[148.08783,-35.618168],[148.089172,-35.616833],[148.089828,-35.614666]]]],"created":1292369162,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/1103374_20101214_3c5b207335.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

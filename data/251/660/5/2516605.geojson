@@ -1,0 +1,15 @@
+{
+  "id": 2516605,
+  "type": "Feature",
+  "properties": {
+    "name":"West Allenhurst, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2516605,
+    "woe:name":"West Allenhurst, New Jersey, United States",
+    "woe:place_id":"lYnbKcKbBJ23Vpiw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.013969,40.236252,-74.008873,40.24411],
+  "geometry": {"alpha":0.00015,"bbox":[-74.013969421387,40.236251831055,-74.00887298584,40.244110107422],"coordinates":[[[[-74.008873,40.237312],[-74.010063,40.23632],[-74.010727,40.236252],[-74.013611,40.242611],[-74.013969,40.24411],[-74.008873,40.237312]]]],"created":1292423523,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2516605_20101215_b238d82488.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

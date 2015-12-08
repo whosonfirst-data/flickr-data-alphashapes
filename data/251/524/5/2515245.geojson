@@ -1,0 +1,15 @@
+{
+  "id": 2515245,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterville, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2515245,
+    "woe:name":"Waterville, Kansas, United States",
+    "woe:place_id":"WE3TPmubBJ3BbZlc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.751442,39.685028,-96.747063,39.692902],
+  "geometry": {"alpha":0.00015,"bbox":[-96.751441955566,39.685028076172,-96.747062683105,39.692901611328],"coordinates":[[[[-96.747063,39.692467],[-96.747307,39.69194],[-96.751358,39.685028],[-96.751442,39.690941],[-96.749054,39.692902],[-96.747063,39.692467]]]],"created":1292549502,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2515245_20101217_d1aa7c0941.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20120909,
+  "type": "Feature",
+  "properties": {
+    "name":"Cogna, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":20120909,
+    "woe:name":"Cogna, Lazio, Italy",
+    "woe:place_id":"d016TAObAZ0pGQyW5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.566556,41.553501,12.589473,41.565308],
+  "geometry": {"alpha":0.00015,"bbox":[12.566555976868,41.55350112915,12.589472770691,41.565307617188],"coordinates":[[[[12.589473,41.565308],[12.589473,41.562],[12.575166,41.553501],[12.56793,41.562351],[12.566556,41.565083],[12.589473,41.565308]]]],"created":1292517809,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/20120909_20101216_b482a31c76.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

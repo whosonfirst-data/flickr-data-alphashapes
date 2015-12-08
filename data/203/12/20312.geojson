@@ -1,0 +1,15 @@
+{
+  "id": 20312,
+  "type": "Feature",
+  "properties": {
+    "name":"Flexford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20312,
+    "woe:name":"Flexford, England, United Kingdom",
+    "woe:place_id":"d1eqqPabAZ9zIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.678234,51.238277,-0.661926,51.253536],
+  "geometry": {"alpha":0.00015,"bbox":[-0.67823398113251,51.238277435303,-0.66192597150803,51.253536224365],"coordinates":[[[[-0.667848,51.238331],[-0.678234,51.240593],[-0.673084,51.253536],[-0.666732,51.250984],[-0.664765,51.241463],[-0.661926,51.238277],[-0.667848,51.238331]]]],"created":1248022930,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2593/shapefiles/20312_20090719_49693a1d91.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

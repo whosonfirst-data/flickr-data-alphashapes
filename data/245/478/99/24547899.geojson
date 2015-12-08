@@ -1,0 +1,15 @@
+{
+  "id": 24547899,
+  "type": "Feature",
+  "properties": {
+    "name":"Brodnica, Poland",
+    "placetype":"locality",
+    "woe:id":24547899,
+    "woe:name":"Brodnica, Poland",
+    "woe:place_id":"7Ac8foabBZnODwnUOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.40237,53.252831,19.40653,53.255329],
+  "geometry": {"alpha":1e-05,"bbox":[19.402370452881,53.252830505371,19.406530380249,53.25532913208],"coordinates":[[[[19.40296,53.254189],[19.40237,53.255329],[19.405064,53.254501],[19.40653,53.252831],[19.40296,53.254189]]]],"created":1292534166,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/24547899_20101216_cef1f4ea93.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

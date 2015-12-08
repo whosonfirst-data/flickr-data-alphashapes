@@ -1,0 +1,15 @@
+{
+  "id": 757365,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervatos, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":757365,
+    "woe:name":"Cervatos, Cantabria, Spain",
+    "woe:place_id":"Z.sfHkGeBJuZu6s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.162788,42.950268,-4.14545,42.958557],
+  "geometry": {"alpha":0.00015,"bbox":[-4.1627879142761,42.950267791748,-4.1454501152039,42.958557128906],"coordinates":[[[[-4.148626,42.958244],[-4.14545,42.958557],[-4.145965,42.953911],[-4.162788,42.950268],[-4.150428,42.95768],[-4.148626,42.958244]]]],"created":1292528578,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/757365_20101216_c8fe95f10e.tar.gz"},"points":58,"type":"MultiPolygon"}
+}

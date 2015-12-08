@@ -1,0 +1,15 @@
+{
+  "id": 2462171,
+  "type": "Feature",
+  "properties": {
+    "name":"Northwoods, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2462171,
+    "woe:name":"Northwoods, Mississippi, United States",
+    "woe:place_id":"e08ztAubBZrAzNXL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.022804,32.367157,-90.015335,32.373695],
+  "geometry": {"alpha":0.00015,"bbox":[-90.022804260254,32.367156982422,-90.015335083008,32.373695373535],"coordinates":[[[[-90.022804,32.373569],[-90.022774,32.373634],[-90.022736,32.373695],[-90.015335,32.369167],[-90.020012,32.367157],[-90.022804,32.373569]]]],"created":1292529957,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2462171_20101216_9661cca5c3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

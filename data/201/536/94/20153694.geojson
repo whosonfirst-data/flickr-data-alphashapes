@@ -1,0 +1,15 @@
+{
+  "id": 20153694,
+  "type": "Feature",
+  "properties": {
+    "name":"Maria-Eck, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153694,
+    "woe:name":"Maria-Eck, Bavaria, Germany",
+    "woe:place_id":"BJh.Hp2bAZ2LxhxUSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.61754,47.793526,12.619,47.794247],
+  "geometry": {"alpha":0.00015,"bbox":[12.617540359497,47.793525695801,12.619000434875,47.794246673584],"coordinates":[[[[12.618956,47.793983],[12.619,47.793941],[12.618999,47.793869],[12.618741,47.793526],[12.61754,47.793983],[12.617626,47.794247],[12.618956,47.793983]]]],"created":1292462583,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20153694_20101216_8ba96d599d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

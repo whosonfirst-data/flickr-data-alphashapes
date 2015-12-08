@@ -1,0 +1,15 @@
+{
+  "id": 2359291,
+  "type": "Feature",
+  "properties": {
+    "name":"Barksdale, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2359291,
+    "woe:name":"Barksdale, Maryland, United States",
+    "woe:place_id":"SqYdF3ybApnHexq0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.816093,39.668514,-75.811241,39.670746],
+  "geometry": {"alpha":0.00015,"bbox":[-75.816093444824,39.668514251709,-75.811241149902,39.670745849609],"coordinates":[[[[-75.816093,39.670345],[-75.815384,39.670399],[-75.813438,39.670746],[-75.811241,39.668514],[-75.81562,39.669853],[-75.816093,39.670345]]]],"created":1248300362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2439/shapefiles/2359291_20090722_c97f1c6793.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

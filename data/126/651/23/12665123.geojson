@@ -1,0 +1,15 @@
+{
+  "id": 12665123,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Soler, France",
+    "placetype":"locality",
+    "woe:id":12665123,
+    "woe:name":"Le Soler, France",
+    "woe:place_id":"Z8CO2j2YA5rxfEnq9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.789754,42.68343,2.793885,42.6842],
+  "geometry": {"alpha":1e-05,"bbox":[2.7897539138794,42.683429718018,2.7938849925995,42.684200286865],"coordinates":[[[[2.793595,42.6842],[2.793885,42.683449],[2.793408,42.683594],[2.789754,42.68343],[2.793595,42.6842]]]],"created":1292540578,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12665123_20101216_c0b18ca893.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

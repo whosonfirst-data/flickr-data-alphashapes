@@ -1,0 +1,15 @@
+{
+  "id": 2521583,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilsonville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2521583,
+    "woe:name":"Wilsonville, Missouri, United States",
+    "woe:place_id":"fOynU.SbBJ4M4mmM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.634888,37.597107,-90.626495,37.59996],
+  "geometry": {"alpha":0.00015,"bbox":[-90.634887695312,37.597106933594,-90.626495361328,37.599960327148],"coordinates":[[[[-90.627831,37.597839],[-90.628304,37.597717],[-90.634758,37.597107],[-90.634888,37.597919],[-90.626495,37.59996],[-90.627831,37.597839]]]],"created":1292478603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2521583_20101216_ddd21b2e2f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

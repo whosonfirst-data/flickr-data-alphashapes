@@ -1,0 +1,15 @@
+{
+  "id": 12694686,
+  "type": "Feature",
+  "properties": {
+    "name":"Valverde de la Vera, Spain",
+    "placetype":"locality",
+    "woe:id":12694686,
+    "woe:name":"Valverde de la Vera, Spain",
+    "woe:place_id":"9NPyZCqYA5rdd3zYog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.496082,40.121929,-5.492777,40.124306],
+  "geometry": {"alpha":1e-05,"bbox":[-5.496081829071,40.121929168701,-5.4927768707275,40.124305725098],"coordinates":[[[[-5.493357,40.123039],[-5.494794,40.121929],[-5.495771,40.122623],[-5.496082,40.123436],[-5.492777,40.124306],[-5.493357,40.123039]]]],"created":1292523543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12694686_20101216_6f4079e441.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

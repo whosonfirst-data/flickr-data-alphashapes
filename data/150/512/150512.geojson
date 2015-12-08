@@ -1,0 +1,15 @@
+{
+  "id": 150512,
+  "type": "Feature",
+  "properties": {
+    "name":"Valle Hermoso, Tamaulipas, Mexico",
+    "placetype":"locality",
+    "woe:id":150512,
+    "woe:name":"Valle Hermoso, Tamaulipas, Mexico",
+    "woe:place_id":"sNgrSe.YBJyvSus",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.835571,25.661951,-97.811409,25.670849],
+  "geometry": {"alpha":0.00015,"bbox":[-97.835571289062,25.661951065063,-97.811408996582,25.670848846436],"coordinates":[[[[-97.822266,25.66876],[-97.811409,25.666159],[-97.813683,25.661951],[-97.827972,25.66733],[-97.835571,25.670849],[-97.822266,25.66876]]]],"created":1292550547,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/150512_20101217_2e4a4eeb51.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

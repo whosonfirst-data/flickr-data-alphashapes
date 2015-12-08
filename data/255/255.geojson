@@ -1,0 +1,15 @@
+{
+  "id": 255,
+  "type": "Feature",
+  "properties": {
+    "name":"Centralia, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":255,
+    "woe:name":"Centralia, Ontario, Canada",
+    "woe:place_id":"tpYYMdibBJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.503578,43.286011,-81.487251,43.291248],
+  "geometry": {"alpha":0.00015,"bbox":[-81.503578186035,43.286010742188,-81.487251281738,43.291248321533],"coordinates":[[[[-81.495354,43.286945],[-81.503578,43.289249],[-81.501472,43.291248],[-81.489456,43.289982],[-81.487251,43.290211],[-81.489868,43.287476],[-81.490356,43.286938],[-81.49379,43.286011],[-81.495354,43.286945]]]],"created":1292536170,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/255_20101216_c3f088df73.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 715177,
+  "type": "Feature",
+  "properties": {
+    "name":"Eraclea, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":715177,
+    "woe:name":"Eraclea, Veneto, Italy",
+    "woe:place_id":"XX.F.fGeAJkUhMo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.662601,45.570614,12.689638,45.585388],
+  "geometry": {"alpha":0.00015,"bbox":[12.662601470947,45.570613861084,12.689638137817,45.585388183594],"coordinates":[[[[12.673031,45.574661],[12.668309,45.577221],[12.662601,45.580105],[12.665616,45.585388],[12.67348,45.576145],[12.689638,45.570614],[12.673031,45.574661]]]],"created":1292542590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/715177_20101216_7e248d93a3.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

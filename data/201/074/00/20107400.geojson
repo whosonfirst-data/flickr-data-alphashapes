@@ -1,0 +1,15 @@
+{
+  "id": 20107400,
+  "type": "Feature",
+  "properties": {
+    "name":"Molino, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20107400,
+    "woe:name":"Molino, Veneto, Italy",
+    "woe:place_id":"Y1d6mDObAZ3oHdhVSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.231718,45.610073,11.239056,45.613541],
+  "geometry": {"alpha":0.00015,"bbox":[11.231718063354,45.6100730896,11.239055633545,45.613540649414],"coordinates":[[[[11.235923,45.612625],[11.239056,45.611622],[11.238155,45.610073],[11.23352,45.612267],[11.231718,45.613541],[11.235923,45.612625]]]],"created":1292488023,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20107400_20101216_d69cccb0d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

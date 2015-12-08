@@ -1,0 +1,15 @@
+{
+  "id": 20150323,
+  "type": "Feature",
+  "properties": {
+    "name":"Milano Due, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20150323,
+    "woe:name":"Milano Due, Lombardy, Italy",
+    "woe:place_id":"FCsORqybAZ3XYGr6Aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.262992,45.495857,9.275207,45.507141],
+  "geometry": {"alpha":0.00015,"bbox":[9.2629919052124,45.49585723877,9.2752065658569,45.507141113281],"coordinates":[[[[9.263706,45.503307],[9.273061,45.507141],[9.275207,45.497204],[9.262992,45.495857],[9.263706,45.503307]]]],"created":1292540374,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/20150323_20101216_720d8b0480.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

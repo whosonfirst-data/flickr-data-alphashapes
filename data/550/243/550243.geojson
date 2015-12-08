@@ -1,0 +1,15 @@
+{
+  "id": 550243,
+  "type": "Feature",
+  "properties": {
+    "name":"Wagendorf, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550243,
+    "woe:name":"Wagendorf, Styria, Austria",
+    "woe:place_id":"vEYGUq2cBJxjfT4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.607967,46.75621,15.610628,46.759766],
+  "geometry": {"alpha":0.00015,"bbox":[15.607967376709,46.756210327148,15.610628128052,46.759765625],"coordinates":[[[[15.609769,46.756561],[15.609426,46.75621],[15.608568,46.756916],[15.607967,46.759766],[15.610392,46.758797],[15.610628,46.757942],[15.609769,46.756561]]]],"created":1292535013,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/550243_20101216_26c027d0db.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

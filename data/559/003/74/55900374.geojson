@@ -1,0 +1,15 @@
+{
+  "id": 55900374,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro Del Rosal, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":55900374,
+    "woe:name":"San Pedro Del Rosal, Mexico, Mexico",
+    "woe:place_id":"4iQ0T0qcBJVueic2Ew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.812592,19.777016,-99.811462,19.781555],
+  "geometry": {"alpha":0.00015,"bbox":[-99.812591552734,19.777015686035,-99.811462402344,19.781555175781],"coordinates":[[[[-99.811935,19.779142],[-99.811989,19.778959],[-99.812592,19.777016],[-99.812241,19.779345],[-99.811462,19.781555],[-99.811935,19.779142]]]],"created":1292446514,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/55900374_20101215_344f08657e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

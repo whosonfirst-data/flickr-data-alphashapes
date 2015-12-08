@@ -1,0 +1,15 @@
+{
+  "id": 2424278,
+  "type": "Feature",
+  "properties": {
+    "name":"Hopewell, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2424278,
+    "woe:name":"Hopewell, Mississippi, United States",
+    "woe:place_id":"1PsAPDqbBZ7rvuiW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.043449,34.943047,-89.032127,34.953678],
+  "geometry": {"alpha":0.00015,"bbox":[-89.043449401855,34.943046569824,-89.032127380371,34.953678131104],"coordinates":[[[[-89.032776,34.946018],[-89.032127,34.943485],[-89.033028,34.943363],[-89.037239,34.943047],[-89.043449,34.953678],[-89.032776,34.946018]]]],"created":1247871362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3429/shapefiles/2424278_20090717_c2b0c0df0e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

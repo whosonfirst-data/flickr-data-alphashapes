@@ -1,0 +1,15 @@
+{
+  "id": 2443595,
+  "type": "Feature",
+  "properties": {
+    "name":"Lytton, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2443595,
+    "woe:name":"Lytton, Iowa, United States",
+    "woe:place_id":"Mrrtd6qbBZgG8GhM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.859818,42.421501,-94.856384,42.424091],
+  "geometry": {"alpha":0.00015,"bbox":[-94.859817504883,42.421501159668,-94.856384277344,42.424091339111],"coordinates":[[[[-94.859474,42.422665],[-94.859818,42.423775],[-94.859474,42.424091],[-94.856384,42.423679],[-94.858002,42.421501],[-94.859474,42.422665]]]],"created":1247991603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2534/shapefiles/2443595_20090719_5e79798c3f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

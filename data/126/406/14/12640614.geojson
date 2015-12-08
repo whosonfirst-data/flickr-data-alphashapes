@@ -1,0 +1,15 @@
+{
+  "id": 12640614,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceilloux, France",
+    "placetype":"locality",
+    "woe:id":12640614,
+    "woe:name":"Ceilloux, France",
+    "woe:place_id":"HH1X6LuYA5ouKBR1Xw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.536277,45.661701,3.537761,45.664104],
+  "geometry": {"alpha":1e-05,"bbox":[3.5362770557404,45.661701202393,3.5377609729767,45.66410446167],"coordinates":[[[[3.537211,45.661701],[3.536655,45.662403],[3.536277,45.664104],[3.537761,45.662086],[3.537486,45.661743],[3.537211,45.661701]]]],"created":1292487485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12640614_20101216_95650600ca.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 617465,
+  "type": "Feature",
+  "properties": {
+    "name":"Pontlevoy, Centre, France",
+    "placetype":"locality",
+    "woe:id":617465,
+    "woe:name":"Pontlevoy, Centre, France",
+    "woe:place_id":"G3jD8TefAJsxLuE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.248702,47.38805,1.257805,47.39254],
+  "geometry": {"alpha":0.00015,"bbox":[1.2487020492554,47.388050079346,1.2578049898148,47.392539978027],"coordinates":[[[[1.25405,47.390736],[1.257805,47.389664],[1.25566,47.389053],[1.25301,47.38805],[1.248702,47.392075],[1.250038,47.39254],[1.25405,47.390736]]]],"created":1292533396,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/617465_20101216_82a30ca239.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

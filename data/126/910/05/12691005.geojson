@@ -1,0 +1,15 @@
+{
+  "id": 12691005,
+  "type": "Feature",
+  "properties": {
+    "name":"Lillo, Spain",
+    "placetype":"locality",
+    "woe:id":12691005,
+    "woe:name":"Lillo, Spain",
+    "woe:place_id":"496r78KYA5riiHSlnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.323192,39.712204,-3.316583,39.71788],
+  "geometry": {"alpha":1e-05,"bbox":[-3.3231918811798,39.712203979492,-3.3165829181671,39.717880249023],"coordinates":[[[[-3.321132,39.717617],[-3.316583,39.717552],[-3.318901,39.716297],[-3.320274,39.712204],[-3.322827,39.716],[-3.323192,39.71788],[-3.321132,39.717617]]]],"created":1292463619,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12691005_20101216_86f70d227a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

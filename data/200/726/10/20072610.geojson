@@ -1,0 +1,15 @@
+{
+  "id": 20072610,
+  "type": "Feature",
+  "properties": {
+    "name":"Castleisland, Ireland",
+    "placetype":"locality",
+    "woe:id":20072610,
+    "woe:name":"Castleisland, Ireland",
+    "woe:place_id":"RZm4GpWbAZxRBCb23Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.468841,52.229877,-9.46419,52.233265],
+  "geometry": {"alpha":1.5625e-05,"bbox":[-9.4688405990601,52.229877471924,-9.4641895294189,52.233264923096],"coordinates":[[[[-9.465612,52.229877],[-9.467124,52.231163],[-9.468669,52.232899],[-9.468841,52.233265],[-9.465751,52.231426],[-9.46419,52.230961],[-9.465612,52.229877]]]],"created":1248246736,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3499/shapefiles/20072610_20090722_d240e2a389.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

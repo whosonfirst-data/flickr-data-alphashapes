@@ -1,0 +1,15 @@
+{
+  "id": 2400267,
+  "type": "Feature",
+  "properties": {
+    "name":"Essex, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2400267,
+    "woe:name":"Essex, Illinois, United States",
+    "woe:place_id":"8bUWXNebBZx1erD_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.231331,41.174004,-88.193092,41.193768],
+  "geometry": {"alpha":0.00015,"bbox":[-88.231330871582,41.174003601074,-88.193092346191,41.193767547607],"coordinates":[[[[-88.231331,41.185017],[-88.213692,41.193768],[-88.193092,41.184338],[-88.211716,41.174004],[-88.231331,41.185017]]]],"created":1292535898,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2400267_20101216_d1cf6c9805.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

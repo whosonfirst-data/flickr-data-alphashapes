@@ -1,0 +1,15 @@
+{
+  "id": 722604,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni, Friuli-Venezia Giulia, Italy",
+    "placetype":"locality",
+    "woe:id":722604,
+    "woe:name":"San Giovanni, Friuli-Venezia Giulia, Italy",
+    "woe:place_id":"JKA3f62eA55ZW9E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.499179,46.021877,12.50963,46.025833],
+  "geometry": {"alpha":0.0001875,"bbox":[12.499178886414,46.021877288818,12.509630203247,46.025833129883],"coordinates":[[[[12.499179,46.021877],[12.499469,46.023167],[12.504444,46.025833],[12.50963,46.025391],[12.504007,46.023563],[12.499179,46.021877]]]],"created":1292540265,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/722604_20101216_15f95d2d21.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

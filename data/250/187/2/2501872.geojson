@@ -1,0 +1,15 @@
+{
+  "id": 2501872,
+  "type": "Feature",
+  "properties": {
+    "name":"Sun, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2501872,
+    "woe:name":"Sun, Louisiana, United States",
+    "woe:place_id":"wVuId9WbBJyowDNW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.908363,30.666136,-89.883781,30.66781],
+  "geometry": {"alpha":0.00015,"bbox":[-89.908363342285,30.666135787964,-89.883781433105,30.667810440063],"coordinates":[[[[-89.907692,30.666342],[-89.907661,30.666245],[-89.883781,30.666412],[-89.907677,30.666136],[-89.908363,30.66781],[-89.908257,30.667793],[-89.907692,30.666342]]]],"created":1292494326,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2501872_20101216_4ae65b5b85.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

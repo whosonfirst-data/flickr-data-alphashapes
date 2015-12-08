@@ -1,0 +1,15 @@
+{
+  "id": 1100930,
+  "type": "Feature",
+  "properties": {
+    "name":"Calliope, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100930,
+    "woe:name":"Calliope, Queensland, Australia",
+    "woe:place_id":"kL3CjGSYAJw8Yu7M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.176682,-24.000523,151.214783,-23.9825],
+  "geometry": {"alpha":0.00015,"bbox":[151.17668151855,-24.000522613525,151.21478271484,-23.982500076294],"coordinates":[[[[151.212555,-23.987116],[151.214783,-23.988605],[151.199677,-24.000523],[151.176682,-23.994408],[151.189163,-23.9825],[151.211533,-23.987036],[151.212555,-23.987116]]]],"created":1292550287,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/1100930_20101217_3a77a27f73.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

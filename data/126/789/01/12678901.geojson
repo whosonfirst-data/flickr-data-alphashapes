@@ -1,0 +1,15 @@
+{
+  "id": 12678901,
+  "type": "Feature",
+  "properties": {
+    "name":"Vergiate, Italy",
+    "placetype":"locality",
+    "woe:id":12678901,
+    "woe:name":"Vergiate, Italy",
+    "woe:place_id":"v.xE9feYA5oG2YWuwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.688168,45.751846,8.689574,45.752823],
+  "geometry": {"alpha":1e-05,"bbox":[8.6881675720215,45.751846313477,8.6895742416382,45.752822875977],"coordinates":[[[[8.68937,45.752823],[8.689574,45.752396],[8.688468,45.751846],[8.688211,45.7519],[8.688168,45.751907],[8.688898,45.752552],[8.68937,45.752823]]]],"created":1292528515,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12678901_20101216_36548c7e4c.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

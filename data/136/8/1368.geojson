@@ -1,0 +1,15 @@
+{
+  "id": 1368,
+  "type": "Feature",
+  "properties": {
+    "name":"Prince William, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":1368,
+    "woe:name":"Prince William, New Brunswick, Canada",
+    "woe:place_id":"JJityACYAppx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.056862,45.908047,-67.035995,45.92178],
+  "geometry": {"alpha":0.00015,"bbox":[-67.056861877441,45.908046722412,-67.035995483398,45.921779632568],"coordinates":[[[[-67.036858,45.908524],[-67.056862,45.91581],[-67.040459,45.92178],[-67.035995,45.908226],[-67.036514,45.908047],[-67.036858,45.908524]]]],"created":1292548043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/1368_20101217_5d1bc2cafb.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

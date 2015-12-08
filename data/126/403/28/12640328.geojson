@@ -1,0 +1,15 @@
+{
+  "id": 12640328,
+  "type": "Feature",
+  "properties": {
+    "name":"Campagne, France",
+    "placetype":"locality",
+    "woe:id":12640328,
+    "woe:name":"Campagne, France",
+    "woe:place_id":"L2qU7_OYA5r.sB2K2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.965595,44.906956,0.970573,44.914543],
+  "geometry": {"alpha":1e-05,"bbox":[0.96559500694275,44.906955718994,0.97057300806046,44.914543151855],"coordinates":[[[[0.970207,44.914543],[0.970573,44.911087],[0.970058,44.906956],[0.965595,44.907928],[0.970573,44.911087],[0.969706,44.914139],[0.970207,44.914543]]]],"created":1292522788,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12640328_20101216_93c674d557.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2433897,
+  "type": "Feature",
+  "properties": {
+    "name":"Kratzerville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2433897,
+    "woe:name":"Kratzerville, Pennsylvania, United States",
+    "woe:place_id":"D2dEUGibBZ_lZiLF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.906799,40.876076,-76.892548,40.883694],
+  "geometry": {"alpha":0.00015,"bbox":[-76.906799316406,40.876075744629,-76.892547607422,40.883693695068],"coordinates":[[[[-76.892548,40.883694],[-76.892776,40.88308],[-76.898285,40.876076],[-76.906799,40.876122],[-76.892654,40.883572],[-76.892548,40.883694]]]],"created":1247948650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3492/shapefiles/2433897_20090718_8b91fc0990.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

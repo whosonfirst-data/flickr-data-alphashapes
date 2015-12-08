@@ -1,0 +1,15 @@
+{
+  "id": 2505726,
+  "type": "Feature",
+  "properties": {
+    "name":"Thomaston, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2505726,
+    "woe:name":"Thomaston, Alabama, United States",
+    "woe:place_id":"6oc74CCbBJw4EeUm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.626762,32.26675,-87.624908,32.273403],
+  "geometry": {"alpha":0.00015,"bbox":[-87.626762390137,32.266750335693,-87.624908447266,32.273403167725],"coordinates":[[[[-87.625748,32.267467],[-87.626762,32.273403],[-87.62561,32.270706],[-87.624908,32.267586],[-87.625458,32.26675],[-87.625748,32.267467]]]],"created":1292536727,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2505726_20101216_ffe3c3bc37.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

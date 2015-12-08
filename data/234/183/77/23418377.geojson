@@ -1,0 +1,15 @@
+{
+  "id": 23418377,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox Farm, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":23418377,
+    "woe:name":"Fox Farm, Wyoming, United States",
+    "woe:place_id":"Ye3coGGbApgBKO80Uw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.802597,41.094852,-104.776909,41.112274],
+  "geometry": {"alpha":0.00015,"bbox":[-104.8025970459,41.09485244751,-104.77690887451,41.112274169922],"coordinates":[[[[-104.776909,41.102596],[-104.785965,41.097271],[-104.792267,41.094852],[-104.802597,41.112274],[-104.790131,41.100407],[-104.780685,41.102394],[-104.779274,41.103317],[-104.776909,41.102596]]]],"created":1292518725,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/23418377_20101216_b264eae8e3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12609484,
+  "type": "Feature",
+  "properties": {
+    "name":"Kacanovy, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12609484,
+    "woe:name":"Kacanovy, Czech Republic",
+    "woe:place_id":"l9kJ8E6YA5qKVGwLjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.162677,50.553741,15.169544,50.558952],
+  "geometry": {"alpha":1e-05,"bbox":[15.162676811218,50.553741455078,15.169544219971,50.558952331543],"coordinates":[[[[15.166797,50.556087],[15.162677,50.553741],[15.165596,50.556744],[15.168342,50.558952],[15.169544,50.554287],[15.166797,50.556087]]]],"created":1248243855,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2536/shapefiles/12609484_20090722_9c980a238a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

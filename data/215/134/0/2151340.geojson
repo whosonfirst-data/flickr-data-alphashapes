@@ -1,0 +1,15 @@
+{
+  "id": 2151340,
+  "type": "Feature",
+  "properties": {
+    "name":"Shimenying, Beijing, China",
+    "placetype":"locality",
+    "woe:id":2151340,
+    "woe:name":"Shimenying, Beijing, China",
+    "woe:place_id":"0B9nI.mbAJkgeUMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.079163,39.862843,116.08532,39.870682],
+  "geometry": {"alpha":0.00015,"bbox":[116.07916259766,39.862842559814,116.08531951904,39.870681762695],"coordinates":[[[[116.079163,39.86861],[116.079445,39.869167],[116.08017,39.870682],[116.081108,39.868332],[116.08532,39.862843],[116.079163,39.86861]]]],"created":1292485383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2151340_20101216_789c767cd2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

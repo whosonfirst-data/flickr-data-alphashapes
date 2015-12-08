@@ -1,0 +1,15 @@
+{
+  "id": 2434316,
+  "type": "Feature",
+  "properties": {
+    "name":"La Porte City, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2434316,
+    "woe:name":"La Porte City, Iowa, United States",
+    "woe:place_id":"1rWgvJmbBZ8DcEcE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.195419,42.307831,-92.167976,42.319901],
+  "geometry": {"alpha":0.00015,"bbox":[-92.195419311523,42.307830810547,-92.167976379395,42.319900512695],"coordinates":[[[[-92.19474,42.31282],[-92.195419,42.317066],[-92.183998,42.319901],[-92.167976,42.312687],[-92.189194,42.307831],[-92.19474,42.31282]]]],"created":1292536626,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2434316_20101216_947853ba35.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

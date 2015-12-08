@@ -1,0 +1,15 @@
+{
+  "id": 2409276,
+  "type": "Feature",
+  "properties": {
+    "name":"Gateway, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2409276,
+    "woe:name":"Gateway, Oregon, United States",
+    "woe:place_id":"B5SK3.ebBZx5_q_x",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.121399,44.796551,-121.100708,44.808609],
+  "geometry": {"alpha":0.00015,"bbox":[-121.12139892578,44.796550750732,-121.10070800781,44.808609008789],"coordinates":[[[[-121.108482,44.801971],[-121.121399,44.796551],[-121.112122,44.80685],[-121.100708,44.808609],[-121.108429,44.802052],[-121.108482,44.801971]]]],"created":1247900521,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2658/shapefiles/2409276_20090718_32d89feb7e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

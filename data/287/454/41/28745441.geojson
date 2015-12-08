@@ -1,0 +1,15 @@
+{
+  "id": 28745441,
+  "type": "Feature",
+  "properties": {
+    "name":"West Mahanoy, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745441,
+    "woe:name":"West Mahanoy, Pennsylvania, United States",
+    "woe:place_id":"zYxzz4qbCZuoDUqXbw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.20546,40.814327,-76.200447,40.821754],
+  "geometry": {"alpha":0.00015,"bbox":[-76.205459594727,40.81432723999,-76.20044708252,40.821754455566],"coordinates":[[[[-76.203293,40.821053],[-76.200447,40.821754],[-76.202332,40.8195],[-76.20546,40.814327],[-76.204498,40.819832],[-76.203293,40.821053]]]],"created":1292549346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/28745441_20101217_97dd0fb396.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

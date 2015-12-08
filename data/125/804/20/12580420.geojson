@@ -1,0 +1,15 @@
+{
+  "id": 12580420,
+  "type": "Feature",
+  "properties": {
+    "name":"Araruna, Parana, Brazil",
+    "placetype":"county",
+    "woe:id":12580420,
+    "woe:name":"Araruna, Parana, Brazil",
+    "woe:place_id":"R6nKVH6YA5mY579D9w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-52.505207,-23.939663,-52.494263,-23.925699],
+  "geometry": {"alpha":0.0015,"bbox":[-52.505207061768,-23.93966293335,-52.494262695312,-23.925699234009],"coordinates":[[[[-52.500629,-23.929556],[-52.494564,-23.937387],[-52.494263,-23.939663],[-52.505207,-23.925699],[-52.501236,-23.928995],[-52.500629,-23.929556]]]],"created":1292529829,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12580420_20101216_9046255ddd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

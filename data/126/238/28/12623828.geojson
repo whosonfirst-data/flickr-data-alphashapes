@@ -1,0 +1,15 @@
+{
+  "id": 12623828,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schlier, Germany",
+    "placetype":"locality",
+    "woe:id":12623828,
+    "woe:name":"Gemeinde Schlier, Germany",
+    "woe:place_id":"7kBqNvyYA5p2DU1lOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.65445,47.790455,9.65681,47.791561],
+  "geometry": {"alpha":1e-05,"bbox":[9.6544504165649,47.790454864502,9.6568098068237,47.791561126709],"coordinates":[[[[9.655544,47.791187],[9.65681,47.791561],[9.655094,47.790798],[9.65445,47.790455],[9.655544,47.791187]]]],"created":1292540527,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12623828_20101216_1126fcf0d7.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 731882,
+  "type": "Feature",
+  "properties": {
+    "name":"Neeritter, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":731882,
+    "woe:name":"Neeritter, Limburg, Netherlands",
+    "woe:place_id":"v7KdvTWeAp0MApc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.801682,51.142094,5.8145,51.167191],
+  "geometry": {"alpha":0.00015,"bbox":[5.8016819953918,51.142093658447,5.8144998550415,51.167190551758],"coordinates":[[[[5.802095,51.167191],[5.804128,51.163239],[5.8145,51.144833],[5.806102,51.142094],[5.804128,51.163239],[5.801682,51.166023],[5.802095,51.167191]]]],"created":1292456053,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/731882_20101215_426d405399.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

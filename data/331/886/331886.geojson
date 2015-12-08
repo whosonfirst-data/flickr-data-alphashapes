@@ -1,0 +1,15 @@
+{
+  "id": 331886,
+  "type": "Feature",
+  "properties": {
+    "name":"San Esteban, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":331886,
+    "woe:name":"San Esteban, Cordoba, Argentina",
+    "woe:place_id":"YQn7NR2aAp17SSc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.538666,-30.921076,-64.528023,-30.904949],
+  "geometry": {"alpha":0.00015,"bbox":[-64.538665771484,-30.921075820923,-64.528022766113,-30.904949188232],"coordinates":[[[[-64.535408,-30.904949],[-64.532318,-30.905024],[-64.528023,-30.921076],[-64.538666,-30.917395],[-64.535751,-30.906643],[-64.535408,-30.904949]]]],"created":1292443287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/331886_20101215_2de9034a11.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

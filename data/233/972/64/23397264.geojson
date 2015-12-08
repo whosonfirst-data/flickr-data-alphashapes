@@ -1,0 +1,15 @@
+{
+  "id": 23397264,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakland, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397264,
+    "woe:name":"Oakland, Ontario, Canada",
+    "woe:place_id":"kMolbZabAp8CyGRl1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.351219,43.014938,-80.329445,43.051067],
+  "geometry": {"alpha":0.00015,"bbox":[-80.351219177246,43.014938354492,-80.329444885254,43.051067352295],"coordinates":[[[[-80.329666,43.031521],[-80.334091,43.014938],[-80.343361,43.02084],[-80.343491,43.029968],[-80.351219,43.051067],[-80.335464,43.037025],[-80.329445,43.031952],[-80.329666,43.031521]]]],"created":1292532810,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/23397264_20101216_3c50fa4902.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

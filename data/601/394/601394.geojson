@@ -1,0 +1,15 @@
+{
+  "id": 601394,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanvallay, Brittany, France",
+    "placetype":"locality",
+    "woe:id":601394,
+    "woe:name":"Lanvallay, Brittany, France",
+    "woe:place_id":"Zv7X78afAZ0BGvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.038135,48.454617,-2.029266,48.465637],
+  "geometry": {"alpha":0.00015,"bbox":[-2.0381350517273,48.454616546631,-2.0292661190033,48.465637207031],"coordinates":[[[[-2.038103,48.45483],[-2.036075,48.459774],[-2.032384,48.465637],[-2.029266,48.457047],[-2.038135,48.454617],[-2.038103,48.45483]]]],"created":1247944570,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3656/shapefiles/601394_20090718_659e66d05a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

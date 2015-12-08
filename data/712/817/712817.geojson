@@ -1,0 +1,15 @@
+{
+  "id": 712817,
+  "type": "Feature",
+  "properties": {
+    "name":"Casale Sant'antonio, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":712817,
+    "woe:name":"Casale Sant'antonio, Lazio, Italy",
+    "woe:place_id":"wEDxZnaeAJ572no",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.606425,41.979294,12.620909,41.996059],
+  "geometry": {"alpha":0.00015,"bbox":[12.606425285339,41.979293823242,12.620908737183,41.996059417725],"coordinates":[[[[12.614498,41.996059],[12.618227,41.989479],[12.620909,41.980766],[12.618666,41.979294],[12.615866,41.979919],[12.606425,41.995342],[12.614498,41.996059]]]],"created":1292529143,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/712817_20101216_3cc5367789.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

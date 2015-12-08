@@ -1,0 +1,15 @@
+{
+  "id": 2147999,
+  "type": "Feature",
+  "properties": {
+    "name":"Jinzhou, Liaoning, China",
+    "placetype":"locality",
+    "woe:id":2147999,
+    "woe:name":"Jinzhou, Liaoning, China",
+    "woe:place_id":"nDU.frWbAJg5aK6f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.6856,39.087776,121.720276,39.109818],
+  "geometry": {"alpha":0.00015,"bbox":[121.68560028076,39.087776184082,121.72027587891,39.109817504883],"coordinates":[[[[121.716721,39.09301],[121.71286,39.087776],[121.697014,39.095928],[121.6856,39.108818],[121.70105,39.109818],[121.720276,39.102356],[121.716721,39.09301]]]],"created":1292448484,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2147999_20101215_01bb676a40.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12625264,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Arnsgereuth, Germany",
+    "placetype":"locality",
+    "woe:id":12625264,
+    "woe:name":"Gemeinde Arnsgereuth, Germany",
+    "woe:place_id":"WmPLBDOYA5rdM7Hz9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.3506,50.615002,11.3518,50.617298],
+  "geometry": {"alpha":1e-05,"bbox":[11.350600242615,50.615001678467,11.351799964905,50.617298126221],"coordinates":[[[[11.3506,50.615002],[11.3511,50.617298],[11.3518,50.616402],[11.3516,50.615299],[11.3506,50.615002]]]],"created":1292448842,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12625264_20101215_ff8f183f67.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

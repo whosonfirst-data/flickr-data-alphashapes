@@ -1,0 +1,15 @@
+{
+  "id": 687570,
+  "type": "Feature",
+  "properties": {
+    "name":"Reichertshofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":687570,
+    "woe:name":"Reichertshofen, Bavaria, Germany",
+    "woe:place_id":"RXL6EvyfCZsHwQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.464788,48.646168,11.476057,48.663261],
+  "geometry": {"alpha":0.00015,"bbox":[11.46478843689,48.646167755127,11.476057052612,48.663261413574],"coordinates":[[[[11.468181,48.66132],[11.47025,48.660458],[11.476057,48.659187],[11.475833,48.646168],[11.467108,48.661373],[11.464788,48.663261],[11.468181,48.66132]]]],"created":1292518262,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/687570_20101216_504bb0f0f7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

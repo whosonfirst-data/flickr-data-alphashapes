@@ -1,0 +1,15 @@
+{
+  "id": 591819,
+  "type": "Feature",
+  "properties": {
+    "name":"Fozzano, Corsica, France",
+    "placetype":"locality",
+    "woe:id":591819,
+    "woe:name":"Fozzano, Corsica, France",
+    "woe:place_id":"CGocoEecCJ0xjP0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.998661,41.693615,9.014625,41.705215],
+  "geometry": {"alpha":0.00015,"bbox":[8.9986610412598,41.693614959717,9.0146245956421,41.705215454102],"coordinates":[[[[8.999347,41.701115],[9.003982,41.705215],[9.014196,41.699192],[9.014625,41.693615],[9.01205,41.695347],[8.998661,41.694321],[8.999347,41.701115]]]],"created":1292529355,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/591819_20101216_25330847ec.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

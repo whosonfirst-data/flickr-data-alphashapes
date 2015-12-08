@@ -1,0 +1,15 @@
+{
+  "id": 544073,
+  "type": "Feature",
+  "properties": {
+    "name":"Trautmannsdorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":544073,
+    "woe:name":"Trautmannsdorf, Lower Austria, Austria",
+    "woe:place_id":"94rayFucBZi1d2M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.634544,48.020409,16.641476,48.022152],
+  "geometry": {"alpha":0.00015,"bbox":[16.634544372559,48.020408630371,16.64147567749,48.022151947021],"coordinates":[[[[16.640274,48.022152],[16.641476,48.022106],[16.640875,48.021599],[16.636971,48.020409],[16.634544,48.02195],[16.637569,48.022091],[16.640274,48.022152]]]],"created":1292443470,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/544073_20101215_811d341b9c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2361601,
+  "type": "Feature",
+  "properties": {
+    "name":"Belfast, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2361601,
+    "woe:name":"Belfast, North Carolina, United States",
+    "woe:place_id":"nMLC5iqbAppdN76w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.023232,35.442387,-77.99868,35.459866],
+  "geometry": {"alpha":0.00015,"bbox":[-78.023231506348,35.442386627197,-77.998680114746,35.459865570068],"coordinates":[[[[-78.013397,35.459866],[-77.99868,35.459129],[-78.006363,35.450043],[-78.006706,35.442387],[-78.023232,35.44693],[-78.013397,35.459866]]]],"created":1292540157,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2361601_20101216_63d5706dbe.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

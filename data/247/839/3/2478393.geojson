@@ -1,0 +1,15 @@
+{
+  "id": 2478393,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramapo, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2478393,
+    "woe:name":"Ramapo, Washington, United States",
+    "woe:place_id":"DA0ZqZ.bBZtMPJXc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.695068,48.121185,-123.679276,48.134537],
+  "geometry": {"alpha":0.00015,"bbox":[-123.69506835938,48.121185302734,-123.6792755127,48.134536743164],"coordinates":[[[[-123.680679,48.134537],[-123.679672,48.134434],[-123.679276,48.13224],[-123.686829,48.121185],[-123.695068,48.12508],[-123.680679,48.134537]]]],"created":1292451962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2478393_20101215_2fc071a88c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

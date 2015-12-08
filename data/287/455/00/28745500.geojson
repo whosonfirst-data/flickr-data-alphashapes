@@ -1,0 +1,15 @@
+{
+  "id": 28745500,
+  "type": "Feature",
+  "properties": {
+    "name":"Salisbury, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745500,
+    "woe:name":"Salisbury, Pennsylvania, United States",
+    "woe:place_id":"wRyANdSbCZutPA4hVA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.504379,40.526649,-75.409698,40.5965],
+  "geometry": {"alpha":0.0006103515625,"bbox":[-75.504379272461,40.526649475098,-75.409698486328,40.596500396729],"coordinates":[[[[-75.490837,40.534164],[-75.499466,40.526649],[-75.501823,40.55294],[-75.504379,40.578705],[-75.460602,40.56678],[-75.443336,40.590668],[-75.441208,40.5965],[-75.411789,40.594749],[-75.409698,40.595089],[-75.423973,40.58329],[-75.448997,40.563725],[-75.451355,40.560211],[-75.488808,40.538086],[-75.48922,40.53537],[-75.490837,40.534164]]]],"created":1292518881,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/28745500_20101216_8b83d6f0bc.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

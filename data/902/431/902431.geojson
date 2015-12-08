@@ -1,0 +1,15 @@
+{
+  "id": 902431,
+  "type": "Feature",
+  "properties": {
+    "name":"Ringarum, Ostergotland, Sweden",
+    "placetype":"locality",
+    "woe:id":902431,
+    "woe:name":"Ringarum, Ostergotland, Sweden",
+    "woe:place_id":"gjs9HnyQAZ7vDsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.449837,58.327209,16.474857,58.337433],
+  "geometry": {"alpha":0.00015,"bbox":[16.449836730957,58.327209472656,16.474857330322,58.337432861328],"coordinates":[[[[16.456575,58.335754],[16.474857,58.337433],[16.469364,58.332973],[16.455128,58.327209],[16.449837,58.33403],[16.453741,58.334728],[16.456575,58.335754]]]],"created":1292542103,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/902431_20101216_581028553b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

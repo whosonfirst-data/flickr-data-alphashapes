@@ -1,0 +1,15 @@
+{
+  "id": 12654784,
+  "type": "Feature",
+  "properties": {
+    "name":"Wuenheim, France",
+    "placetype":"locality",
+    "woe:id":12654784,
+    "woe:name":"Wuenheim, France",
+    "woe:place_id":"3npzR6eYA5oZAP52cQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.182612,47.872864,7.192697,47.878532],
+  "geometry": {"alpha":1e-05,"bbox":[7.1826119422913,47.872863769531,7.1926970481873,47.878532409668],"coordinates":[[[[7.186346,47.875195],[7.188663,47.878532],[7.190895,47.876865],[7.192697,47.875999],[7.190723,47.875713],[7.187976,47.874908],[7.186002,47.873783],[7.182612,47.872864],[7.186346,47.875195]]]],"created":1292551563,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12654784_20101217_b4ee8b1cde.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

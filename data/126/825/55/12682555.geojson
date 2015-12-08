@@ -1,0 +1,15 @@
+{
+  "id": 12682555,
+  "type": "Feature",
+  "properties": {
+    "name":"Monticello Brianza, Italy",
+    "placetype":"locality",
+    "woe:id":12682555,
+    "woe:name":"Monticello Brianza, Italy",
+    "woe:place_id":"1YIASImYA5oI8RhaDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.31014,45.707138,9.314174,45.709782],
+  "geometry": {"alpha":1e-05,"bbox":[9.3101396560669,45.707138061523,9.3141736984253,45.709781646729],"coordinates":[[[[9.314174,45.708912],[9.313917,45.708282],[9.311428,45.707138],[9.31014,45.709782],[9.312458,45.709656],[9.314174,45.708912]]]],"created":1292530186,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12682555_20101216_93e89de431.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

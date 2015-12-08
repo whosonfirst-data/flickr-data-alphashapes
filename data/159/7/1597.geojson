@@ -1,0 +1,15 @@
+{
+  "id": 1597,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Pie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1597,
+    "woe:name":"St.-Pie, Quebec, Canada",
+    "woe:place_id":"z2kqC5CYBJXD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.90731,45.492916,-72.884331,45.517204],
+  "geometry": {"alpha":0.00015,"bbox":[-72.90731048584,45.492916107178,-72.884330749512,45.517204284668],"coordinates":[[[[-72.906723,45.500404],[-72.900703,45.505581],[-72.884331,45.517204],[-72.89772,45.504662],[-72.900978,45.49379],[-72.906303,45.492916],[-72.90731,45.493652],[-72.906723,45.500404]]]],"created":1292520046,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/1597_20101216_edef1fa97c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

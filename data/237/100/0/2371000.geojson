@@ -1,0 +1,15 @@
+{
+  "id": 2371000,
+  "type": "Feature",
+  "properties": {
+    "name":"Buck, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2371000,
+    "woe:name":"Buck, Pennsylvania, United States",
+    "woe:place_id":"oXcmaI2bApufbi7n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.246773,39.862331,-76.225677,39.879707],
+  "geometry": {"alpha":0.00015,"bbox":[-76.246772766113,39.862331390381,-76.225677490234,39.879707336426],"coordinates":[[[[-76.225769,39.869305],[-76.225677,39.869003],[-76.226997,39.862331],[-76.246773,39.865364],[-76.232841,39.870289],[-76.230865,39.879707],[-76.225769,39.869305]]]],"created":1292443337,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2371000_20101215_344e82dc37.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55871255,
+  "type": "Feature",
+  "properties": {
+    "name":"Yenimahalle, Istanbul, Turkey",
+    "placetype":"locality",
+    "woe:id":55871255,
+    "woe:name":"Yenimahalle, Istanbul, Turkey",
+    "woe:place_id":"ZQdMHQmcBJReOj6Paw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.252501,41.075165,28.258333,41.078888],
+  "geometry": {"alpha":0.00015,"bbox":[28.252500534058,41.075164794922,28.258333206177,41.078887939453],"coordinates":[[[[28.253056,41.076111],[28.252501,41.078888],[28.255934,41.0788],[28.258333,41.076389],[28.2565,41.075165],[28.253056,41.076111]]]],"created":1292458069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/55871255_20101216_0c2d789a48.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

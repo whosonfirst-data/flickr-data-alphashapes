@@ -1,0 +1,15 @@
+{
+  "id": 2388369,
+  "type": "Feature",
+  "properties": {
+    "name":"Currinsville, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2388369,
+    "woe:name":"Currinsville, Oregon, United States",
+    "woe:place_id":"0_vT_RCbApT1LxaS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.353989,45.300438,-122.339752,45.315685],
+  "geometry": {"alpha":0.00015,"bbox":[-122.35398864746,45.300437927246,-122.33975219727,45.315685272217],"coordinates":[[[[-122.350693,45.300438],[-122.353989,45.300896],[-122.34359,45.315685],[-122.339752,45.30582],[-122.339752,45.301743],[-122.350693,45.300438]]]],"created":1292537362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2388369_20101216_4d2df2574d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

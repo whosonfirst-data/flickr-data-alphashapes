@@ -1,0 +1,15 @@
+{
+  "id": 2401125,
+  "type": "Feature",
+  "properties": {
+    "name":"Eyota, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2401125,
+    "woe:name":"Eyota, Minnesota, United States",
+    "woe:place_id":"PXBMGsabBZxtRvcI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.249817,43.978485,-92.221985,43.999237],
+  "geometry": {"alpha":0.00015,"bbox":[-92.249816894531,43.978485107422,-92.221984863281,43.999237060547],"coordinates":[[[[-92.230011,43.988647],[-92.249817,43.999237],[-92.229134,43.99028],[-92.228851,43.989479],[-92.221985,43.978485],[-92.229324,43.988174],[-92.230011,43.988647]]]],"created":1292534628,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2401125_20101216_3c646042db.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

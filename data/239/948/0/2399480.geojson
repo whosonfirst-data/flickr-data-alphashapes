@@ -1,0 +1,15 @@
+{
+  "id": 2399480,
+  "type": "Feature",
+  "properties": {
+    "name":"Emmons, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2399480,
+    "woe:name":"Emmons, Minnesota, United States",
+    "woe:place_id":"Lvb.6UibApXFz9Lf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.516785,43.480438,-93.506226,43.498917],
+  "geometry": {"alpha":0.00015,"bbox":[-93.516784667969,43.480438232422,-93.506225585938,43.498916625977],"coordinates":[[[[-93.515152,43.480564],[-93.516785,43.481995],[-93.509789,43.498917],[-93.506226,43.480438],[-93.509659,43.480499],[-93.515152,43.480564]]]],"created":1292517421,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2399480_20101216_b338e62b93.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

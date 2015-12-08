@@ -1,0 +1,15 @@
+{
+  "id": 28747637,
+  "type": "Feature",
+  "properties": {
+    "name":"Buena Vista, California, United States",
+    "placetype":"locality",
+    "woe:id":28747637,
+    "woe:name":"Buena Vista, California, United States",
+    "woe:place_id":"CPmxcXubCZthAfgX_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.957458,38.2505,-120.945053,38.260624],
+  "geometry": {"alpha":0.00015,"bbox":[-120.95745849609,38.250499725342,-120.94505310059,38.260623931885],"coordinates":[[[[-120.945999,38.2505],[-120.957458,38.259785],[-120.945221,38.260624],[-120.945053,38.259682],[-120.945831,38.2505],[-120.945999,38.2505]]]],"created":1292549693,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/28747637_20101217_2d19e7bbe3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

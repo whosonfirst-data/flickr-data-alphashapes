@@ -1,0 +1,15 @@
+{
+  "id": 144125,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lorenzo, Hidalgo, Mexico",
+    "placetype":"locality",
+    "woe:id":144125,
+    "woe:name":"San Lorenzo, Hidalgo, Mexico",
+    "woe:place_id":"lqGy.G6YBZgJXzE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.335632,20.058187,-99.331856,20.071571],
+  "geometry": {"alpha":0.00015,"bbox":[-99.335632324219,20.058187484741,-99.331855773926,20.071571350098],"coordinates":[[[[-99.335632,20.06496],[-99.334808,20.067286],[-99.331856,20.071571],[-99.334084,20.065605],[-99.335457,20.058187],[-99.335632,20.06496]]]],"created":1229486527,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3073/shapefiles/144125_20081217_95962fea8f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

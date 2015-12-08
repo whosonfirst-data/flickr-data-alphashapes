@@ -1,0 +1,15 @@
+{
+  "id": 26793562,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Llanitos, Panama",
+    "placetype":"locality",
+    "woe:id":26793562,
+    "woe:name":"Los Llanitos, Panama",
+    "woe:place_id":"rz.Uq8GbB5uBIm.VyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.072197,8.565313,-80.070023,8.565833],
+  "geometry": {"alpha":1e-05,"bbox":[-80.072196960449,8.5653133392334,-80.070022583008,8.5658330917358],"coordinates":[[[[-80.072105,8.565352],[-80.072197,8.565833],[-80.070023,8.565766],[-80.072098,8.565313],[-80.072105,8.565352]]]],"created":1292531826,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/26793562_20101216_da885c51a0.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

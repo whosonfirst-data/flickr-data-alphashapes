@@ -1,0 +1,15 @@
+{
+  "id": 12645365,
+  "type": "Feature",
+  "properties": {
+    "name":"Ingrannes, France",
+    "placetype":"locality",
+    "woe:id":12645365,
+    "woe:name":"Ingrannes, France",
+    "woe:place_id":"vCGV2FmYA5r8NWvLoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.211116,47.990841,2.214319,47.991615],
+  "geometry": {"alpha":1e-05,"bbox":[2.2111160755157,47.990840911865,2.2143189907074,47.99161529541],"coordinates":[[[[2.21183,47.990963],[2.211309,47.990841],[2.211116,47.990906],[2.212371,47.991615],[2.214319,47.991177],[2.212559,47.99099],[2.21183,47.990963]]]],"created":1292545731,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12645365_20101217_590fae283a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12635314,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Oberkotzau, Germany",
+    "placetype":"locality",
+    "woe:id":12635314,
+    "woe:name":"Gemeinde Oberkotzau, Germany",
+    "woe:place_id":"YIPjeLyYA5q1TBQxng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.931643,50.255039,11.935006,50.25769],
+  "geometry": {"alpha":1e-05,"bbox":[11.931642532349,50.255039215088,11.935006141663,50.257690429688],"coordinates":[[[[11.933147,50.255039],[11.931643,50.25631],[11.932845,50.25769],[11.934145,50.257629],[11.935006,50.25552],[11.933147,50.255039]]]],"created":1292521324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12635314_20101216_56009ed8a8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

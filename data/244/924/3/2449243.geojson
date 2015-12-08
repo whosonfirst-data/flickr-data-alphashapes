@@ -1,0 +1,15 @@
+{
+  "id": 2449243,
+  "type": "Feature",
+  "properties": {
+    "name":"Melrose Park, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2449243,
+    "woe:name":"Melrose Park, Illinois, United States",
+    "woe:place_id":"t81yhXqbBZiTz_u.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.855774,41.899403,-87.835876,41.909161],
+  "geometry": {"alpha":0.00015,"bbox":[-87.855773925781,41.899402618408,-87.835876464844,41.909160614014],"coordinates":[[[[-87.842155,41.905605],[-87.855774,41.899403],[-87.842407,41.907993],[-87.835876,41.909161],[-87.841896,41.905575],[-87.842155,41.905605]]]],"created":1292469427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2449243_20101216_0ca91d87be.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

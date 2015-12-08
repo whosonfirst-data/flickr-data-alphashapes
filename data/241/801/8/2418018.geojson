@@ -1,0 +1,15 @@
+{
+  "id": 2418018,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrisburg, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2418018,
+    "woe:name":"Harrisburg, Georgia, United States",
+    "woe:place_id":"uN01gUabBZ0Aku3t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.382263,34.636456,-85.375397,34.64325],
+  "geometry": {"alpha":0.00015,"bbox":[-85.382263183594,34.636455535889,-85.375396728516,34.643249511719],"coordinates":[[[[-85.375397,34.642414],[-85.376503,34.63876],[-85.382263,34.636456],[-85.378616,34.64325],[-85.376411,34.642864],[-85.375397,34.642414]]]],"created":1292460001,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2418018_20101216_7ce22190e1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

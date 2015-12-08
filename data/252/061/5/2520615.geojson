@@ -1,0 +1,15 @@
+{
+  "id": 2520615,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilkinsonville, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2520615,
+    "woe:name":"Wilkinsonville, Massachusetts, United States",
+    "woe:place_id":"2z6kTBabBJ6zMzWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.742523,42.160744,-71.721024,42.192184],
+  "geometry": {"alpha":0.00015,"bbox":[-71.742523193359,42.160743713379,-71.72102355957,42.192184448242],"coordinates":[[[[-71.725876,42.192184],[-71.721024,42.175179],[-71.738068,42.160744],[-71.742523,42.170975],[-71.729996,42.181278],[-71.725876,42.192184]]]],"created":1292448734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2520615_20101215_b9633bc812.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

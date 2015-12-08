@@ -1,0 +1,15 @@
+{
+  "id": 853,
+  "type": "Feature",
+  "properties": {
+    "name":"L'\u00e9piphanie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":853,
+    "woe:name":"L'\u00e9piphanie, Quebec, Canada",
+    "woe:place_id":"53RnXNaRBJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.502495,45.834885,-73.471954,45.870407],
+  "geometry": {"alpha":0.00015,"bbox":[-73.502494812012,45.834884643555,-73.471954345703,45.870407104492],"coordinates":[[[[-73.47905,45.853054],[-73.471954,45.834885],[-73.483055,45.846115],[-73.493202,45.846432],[-73.502495,45.86467],[-73.488922,45.870407],[-73.480919,45.855453],[-73.47905,45.853054]]]],"created":1292540686,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/853_20101216_11d61312de.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

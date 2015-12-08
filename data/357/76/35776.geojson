@@ -1,0 +1,15 @@
+{
+  "id": 35776,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Stephens, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35776,
+    "woe:name":"St. Stephens, England, United Kingdom",
+    "woe:place_id":"x0GLkSaaBJuZvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.233319,50.397522,-4.229236,50.404224],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2333188056946,50.397521972656,-4.229236125946,50.404224395752],"coordinates":[[[[-4.229236,50.404224],[-4.22935,50.403515],[-4.233319,50.397522],[-4.231753,50.4035],[-4.231624,50.404099],[-4.229236,50.404224]]]],"created":1292458326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/35776_20101216_1d5b49b960.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

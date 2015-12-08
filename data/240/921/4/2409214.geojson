@@ -1,0 +1,15 @@
+{
+  "id": 2409214,
+  "type": "Feature",
+  "properties": {
+    "name":"Gaston, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2409214,
+    "woe:name":"Gaston, South Carolina, United States",
+    "woe:place_id":"QTsWvpObBZzblZLn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.110001,33.813869,-81.100449,33.825935],
+  "geometry": {"alpha":0.00015,"bbox":[-81.110000610352,33.813869476318,-81.100448608398,33.82593536377],"coordinates":[[[[-81.102226,33.814255],[-81.110001,33.825363],[-81.107941,33.825935],[-81.100449,33.817139],[-81.101868,33.813869],[-81.102226,33.814255]]]],"created":1292536879,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2409214_20101216_efcc162d6e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 331913,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco del Monte De Oro, San Luis, Argentina",
+    "placetype":"locality",
+    "woe:id":331913,
+    "woe:name":"San Francisco del Monte De Oro, San Luis, Argentina",
+    "woe:place_id":"7eSLIMOaAp1V05Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.076927,-32.617619,-66.064735,-32.609158],
+  "geometry": {"alpha":0.00015,"bbox":[-66.076927185059,-32.617618560791,-66.064735412598,-32.609157562256],"coordinates":[[[[-66.065765,-32.610531],[-66.064735,-32.612629],[-66.065254,-32.617619],[-66.070229,-32.613422],[-66.076927,-32.609158],[-66.065765,-32.610531]]]],"created":1247895008,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3192/shapefiles/331913_20090718_a10f60181f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

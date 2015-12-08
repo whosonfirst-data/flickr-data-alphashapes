@@ -1,0 +1,15 @@
+{
+  "id": 2446893,
+  "type": "Feature",
+  "properties": {
+    "name":"Matteson, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2446893,
+    "woe:name":"Matteson, Michigan, United States",
+    "woe:place_id":"z3zS3MmbBZgCPVI5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.208672,41.936283,-85.193565,41.949116],
+  "geometry": {"alpha":0.00015,"bbox":[-85.208671569824,41.936283111572,-85.193565368652,41.949115753174],"coordinates":[[[[-85.208672,41.945892],[-85.208672,41.949116],[-85.193565,41.937786],[-85.197769,41.936283],[-85.207474,41.943661],[-85.208672,41.945892]]]],"created":1292500808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2446893_20101216_01394316bf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

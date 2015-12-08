@@ -1,0 +1,15 @@
+{
+  "id": 2492441,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherman, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2492441,
+    "woe:name":"Sherman, Florida, United States",
+    "woe:place_id":"qHP1PCybBZWBVO8L",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.764465,27.189297,-80.759811,27.192272],
+  "geometry": {"alpha":0.00015,"bbox":[-80.764465332031,27.189296722412,-80.759811401367,27.192272186279],"coordinates":[[[[-80.764465,27.191624],[-80.764191,27.192272],[-80.762909,27.191671],[-80.759811,27.189754],[-80.759811,27.189297],[-80.762474,27.19088],[-80.764465,27.191624]]]],"created":1292452049,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2492441_20101215_96e65da1a3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

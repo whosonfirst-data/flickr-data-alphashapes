@@ -1,0 +1,15 @@
+{
+  "id": 2518825,
+  "type": "Feature",
+  "properties": {
+    "name":"Whaleyville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2518825,
+    "woe:name":"Whaleyville, Maryland, United States",
+    "woe:place_id":"0q667ZObBJ3bTXMU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.312576,38.380859,-75.300308,38.392532],
+  "geometry": {"alpha":0.00015,"bbox":[-75.312576293945,38.380859375,-75.300308227539,38.392532348633],"coordinates":[[[[-75.31031,38.380859],[-75.312576,38.384094],[-75.304924,38.392532],[-75.300308,38.382668],[-75.31031,38.380859]]]],"created":1292445125,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2518825_20101215_3ff093f268.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

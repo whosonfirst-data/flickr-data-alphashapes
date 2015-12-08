@@ -1,0 +1,15 @@
+{
+  "id": 2381585,
+  "type": "Feature",
+  "properties": {
+    "name":"Clifftop, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2381585,
+    "woe:name":"Clifftop, West Virginia, United States",
+    "woe:place_id":"SoTFPTKbApRBxJYo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.15123,37.772999,-81.131111,37.787167],
+  "geometry": {"alpha":0.00015,"bbox":[-81.151229858398,37.772998809814,-81.13111114502,37.787166595459],"coordinates":[[[[-81.15123,37.77309],[-81.15036,37.787167],[-81.149078,37.78653],[-81.131111,37.783333],[-81.138,37.772999],[-81.15123,37.77309]]]],"created":1292447378,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2381585_20101215_270767002a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20108939,
+  "type": "Feature",
+  "properties": {
+    "name":"Torri, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20108939,
+    "woe:name":"Torri, Tuscany, Italy",
+    "woe:place_id":"yeXlOV6bAZ33stjKkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.218307,43.23254,11.22631,43.23645],
+  "geometry": {"alpha":0.00015,"bbox":[11.218306541443,43.232540130615,11.226309776306,43.236450195312],"coordinates":[[[[11.222233,43.23254],[11.218307,43.233337],[11.220002,43.234009],[11.223907,43.23645],[11.22631,43.235638],[11.223285,43.233196],[11.222233,43.23254]]]],"created":1292546162,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/20108939_20101217_163c95568f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

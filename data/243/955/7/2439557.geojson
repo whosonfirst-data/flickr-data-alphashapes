@@ -1,0 +1,15 @@
+{
+  "id": 2439557,
+  "type": "Feature",
+  "properties": {
+    "name":"Lincoln Park, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2439557,
+    "woe:name":"Lincoln Park, New Jersey, United States",
+    "woe:place_id":"bbz.RX2bBZ8g.lSv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.308601,40.924423,-74.287933,40.944672],
+  "geometry": {"alpha":0.00015,"bbox":[-74.308601379395,40.924423217773,-74.287933349609,40.944671630859],"coordinates":[[[[-74.294403,40.942581],[-74.287933,40.924931],[-74.303238,40.924423],[-74.308601,40.944672],[-74.294403,40.942581]]]],"created":1247855166,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3527/shapefiles/2439557_20090717_9204020a20.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 617824,
+  "type": "Feature",
+  "properties": {
+    "name":"Pradelles, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":617824,
+    "woe:name":"Pradelles, Auvergne, France",
+    "woe:place_id":"G49S44efAJugXEI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.877658,44.764835,3.892593,44.780128],
+  "geometry": {"alpha":0.00015,"bbox":[3.8776578903198,44.764835357666,3.8925929069519,44.780128479004],"coordinates":[[[[3.882894,44.772816],[3.892593,44.780128],[3.891906,44.776474],[3.883173,44.769463],[3.881092,44.764835],[3.877658,44.770321],[3.882894,44.772816]]]],"created":1292545021,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/617824_20101217_43ca75a341.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

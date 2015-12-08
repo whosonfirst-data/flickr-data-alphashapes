@@ -1,0 +1,15 @@
+{
+  "id": 12623426,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Seelbach, Germany",
+    "placetype":"locality",
+    "woe:id":12623426,
+    "woe:name":"Gemeinde Seelbach, Germany",
+    "woe:place_id":"u02UpgeYA5peLmElVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.942428,48.297832,7.944411,48.300667],
+  "geometry": {"alpha":1e-05,"bbox":[7.94242811203,48.297832489014,7.9444108009338,48.300666809082],"coordinates":[[[[7.944411,48.300484],[7.944361,48.300282],[7.942428,48.297832],[7.942943,48.299526],[7.944166,48.300667],[7.944411,48.300484]]]],"created":1292536102,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12623426_20101216_c05c0b7a31.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

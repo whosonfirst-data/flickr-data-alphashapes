@@ -1,0 +1,15 @@
+{
+  "id": 582294,
+  "type": "Feature",
+  "properties": {
+    "name":"Bugeat, Limousin, France",
+    "placetype":"locality",
+    "woe:id":582294,
+    "woe:name":"Bugeat, Limousin, France",
+    "woe:place_id":"G9Xx2hWcCZ7CenQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.917886,45.597427,1.934967,45.604252],
+  "geometry": {"alpha":0.00015,"bbox":[1.9178860187531,45.597427368164,1.9349670410156,45.604251861572],"coordinates":[[[[1.929988,45.602867],[1.934967,45.604252],[1.926727,45.598454],[1.925611,45.597427],[1.917886,45.598186],[1.926727,45.602989],[1.929988,45.602867]]]],"created":1292518241,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/582294_20101216_937481a468.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2410620,
+  "type": "Feature",
+  "properties": {
+    "name":"Glasgow, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2410620,
+    "woe:name":"Glasgow, Pennsylvania, United States",
+    "woe:place_id":".Z1vdbebBZ2SYAC9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.457489,40.69886,-78.435516,40.709614],
+  "geometry": {"alpha":0.00015,"bbox":[-78.457489013672,40.698860168457,-78.435516357422,40.709613800049],"coordinates":[[[[-78.439636,40.69886],[-78.457489,40.701462],[-78.456116,40.707188],[-78.448601,40.709614],[-78.439636,40.704067],[-78.435516,40.701984],[-78.439636,40.69886]]]],"created":1292456687,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2410620_20101215_d1f1a7ed00.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20131800,
+  "type": "Feature",
+  "properties": {
+    "name":"Mignagola, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20131800,
+    "woe:name":"Mignagola, Veneto, Italy",
+    "woe:place_id":"eEPdIUGbAZ0V4fuoQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.319021,45.679153,12.322797,45.690891],
+  "geometry": {"alpha":0.00015,"bbox":[12.319021224976,45.679153442383,12.322796821594,45.690891265869],"coordinates":[[[[12.319128,45.679153],[12.319021,45.67947],[12.319782,45.690788],[12.322797,45.690891],[12.319064,45.679493],[12.319128,45.679153]]]],"created":1292454904,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20131800_20101215_d4fafa012a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

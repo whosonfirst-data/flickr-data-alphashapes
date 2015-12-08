@@ -1,0 +1,15 @@
+{
+  "id": 28584505,
+  "type": "Feature",
+  "properties": {
+    "name":"Darwin, Northern Territory, Australia",
+    "placetype":"locality",
+    "woe:id":28584505,
+    "woe:name":"Darwin, Northern Territory, Australia",
+    "woe:place_id":"4zKg4HWbCZkoDHkXUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [130.877563,-12.425449,130.895691,-12.400919],
+  "geometry": {"alpha":0.00015,"bbox":[130.87756347656,-12.425449371338,130.89569091797,-12.400918960571],"coordinates":[[[[130.877563,-12.400919],[130.884583,-12.405059],[130.884186,-12.411445],[130.895691,-12.424936],[130.895233,-12.425449],[130.884186,-12.411445],[130.877563,-12.400919]]]],"created":1292534225,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/28584505_20101216_2259641de2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

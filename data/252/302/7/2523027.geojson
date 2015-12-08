@@ -1,0 +1,15 @@
+{
+  "id": 2523027,
+  "type": "Feature",
+  "properties": {
+    "name":"Wooded Acres, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2523027,
+    "woe:name":"Wooded Acres, Maryland, United States",
+    "woe:place_id":"r_YIQ4.bBJ5wvCGd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.494125,39.47493,-77.490517,39.485626],
+  "geometry": {"alpha":0.00015,"bbox":[-77.494125366211,39.47492980957,-77.490516662598,39.485626220703],"coordinates":[[[[-77.494125,39.47493],[-77.493439,39.478737],[-77.493782,39.485497],[-77.490517,39.485626],[-77.492409,39.475292],[-77.494125,39.47493]]]],"created":1292486764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2523027_20101216_6baea13afe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

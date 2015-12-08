@@ -1,0 +1,15 @@
+{
+  "id": 23394426,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayo, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394426,
+    "woe:name":"Mayo, Quebec, Canada",
+    "woe:place_id":"T1bB9KibAp8.WkA1jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.297028,45.703899,-75.281754,45.707977],
+  "geometry": {"alpha":0.00015,"bbox":[-75.297027587891,45.703899383545,-75.281753540039,45.707977294922],"coordinates":[[[[-75.286385,45.707977],[-75.281754,45.703899],[-75.286903,45.70462],[-75.297028,45.705818],[-75.291367,45.706837],[-75.286385,45.707977]]]],"created":1247917443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2451/shapefiles/23394426_20090718_6925f2bfae.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

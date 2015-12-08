@@ -1,0 +1,15 @@
+{
+  "id": 2452639,
+  "type": "Feature",
+  "properties": {
+    "name":"Modoc, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2452639,
+    "woe:name":"Modoc, Indiana, United States",
+    "woe:place_id":"UvPKlGubBZn8Nxqo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.140259,40.046211,-85.126358,40.048298],
+  "geometry": {"alpha":0.00015,"bbox":[-85.140258789062,40.046211242676,-85.126358032227,40.04829788208],"coordinates":[[[[-85.128906,40.048298],[-85.12677,40.048176],[-85.126358,40.046211],[-85.12925,40.047874],[-85.140259,40.048096],[-85.128906,40.048298]]]],"created":1292517501,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2452639_20101216_cc15050b18.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

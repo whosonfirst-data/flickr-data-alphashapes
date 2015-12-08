@@ -1,0 +1,15 @@
+{
+  "id": 769991,
+  "type": "Feature",
+  "properties": {
+    "name":"Perlavia, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":769991,
+    "woe:name":"Perlavia, Asturias, Spain",
+    "woe:place_id":"Rb8gqkeeB5XCUaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.003341,43.318184,-6.000058,43.323757],
+  "geometry": {"alpha":0.00015,"bbox":[-6.0033411979675,43.318183898926,-6.0000581741333,43.323757171631],"coordinates":[[[[-6.003127,43.322712],[-6.003341,43.323757],[-6.000251,43.322899],[-6.000058,43.322742],[-6.001281,43.318184],[-6.003127,43.322712]]]],"created":1292444063,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/769991_20101215_1ca854a80c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

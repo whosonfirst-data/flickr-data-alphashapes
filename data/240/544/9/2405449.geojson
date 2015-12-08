@@ -1,0 +1,15 @@
+{
+  "id": 2405449,
+  "type": "Feature",
+  "properties": {
+    "name":"Forestville, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2405449,
+    "woe:name":"Forestville, Michigan, United States",
+    "woe:place_id":"t0hPpLibBZwzk8w2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.607574,43.656788,-82.595215,43.660172],
+  "geometry": {"alpha":0.00015,"bbox":[-82.607574462891,43.656787872314,-82.59521484375,43.660171508789],"coordinates":[[[[-82.604568,43.656788],[-82.606285,43.657314],[-82.606369,43.657379],[-82.607574,43.660172],[-82.595215,43.659924],[-82.604568,43.656788]]]],"created":1292440683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2405449_20101215_e6123d91f0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

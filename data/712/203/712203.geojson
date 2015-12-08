@@ -1,0 +1,15 @@
+{
+  "id": 712203,
+  "type": "Feature",
+  "properties": {
+    "name":"Carasco, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":712203,
+    "woe:name":"Carasco, Liguria, Italy",
+    "woe:place_id":"aHTRXxeeAJ4D91A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.329731,44.331646,9.356961,44.36031],
+  "geometry": {"alpha":0.00015,"bbox":[9.3297309875488,44.331645965576,9.3569612503052,44.36030960083],"coordinates":[[[[9.342069,44.353069],[9.343872,44.36031],[9.356961,44.35276],[9.35666,44.331646],[9.332885,44.334656],[9.329731,44.34301],[9.342069,44.353069]]]],"created":1292546300,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/712203_20101217_9628c8b6f4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

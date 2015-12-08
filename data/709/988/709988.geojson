@@ -1,0 +1,15 @@
+{
+  "id": 709988,
+  "type": "Feature",
+  "properties": {
+    "name":"Allai, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":709988,
+    "woe:name":"Allai, Sardinia, Italy",
+    "woe:place_id":"hcbKL9aeAZVAeqs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.852405,39.955936,8.86572,39.960938],
+  "geometry": {"alpha":0.00015,"bbox":[8.8524045944214,39.955936431885,8.8657197952271,39.9609375],"coordinates":[[[[8.857383,39.960938],[8.862059,39.958191],[8.86572,39.956451],[8.862018,39.955936],[8.857212,39.958042],[8.852405,39.960808],[8.857383,39.960938]]]],"created":1292511069,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/709988_20101216_a7456c904e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

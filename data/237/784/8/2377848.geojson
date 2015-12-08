@@ -1,0 +1,15 @@
+{
+  "id": 2377848,
+  "type": "Feature",
+  "properties": {
+    "name":"Challenge, California, United States",
+    "placetype":"locality",
+    "woe:id":2377848,
+    "woe:name":"Challenge, California, United States",
+    "woe:place_id":"2f6OnjCbApvoiwgx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.237732,39.4795,-121.221909,39.486027],
+  "geometry": {"alpha":0.00015,"bbox":[-121.23773193359,39.479499816895,-121.22190856934,39.486026763916],"coordinates":[[[[-121.237732,39.480518],[-121.236191,39.4795],[-121.234344,39.480328],[-121.224686,39.486027],[-121.221909,39.485695],[-121.234344,39.480328],[-121.237732,39.480518]]]],"created":1292541029,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2377848_20101216_2ea26693a8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

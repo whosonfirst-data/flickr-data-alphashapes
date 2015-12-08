@@ -1,0 +1,15 @@
+{
+  "id": 2500095,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockton, New York, United States",
+    "placetype":"locality",
+    "woe:id":2500095,
+    "woe:name":"Stockton, New York, United States",
+    "woe:place_id":"9MW92Z.bBJyCl5w6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.374588,42.307087,-79.355003,42.324795],
+  "geometry": {"alpha":0.00015,"bbox":[-79.374588012695,42.30708694458,-79.355003356934,42.324794769287],"coordinates":[[[[-79.355003,42.316502],[-79.363945,42.307087],[-79.374588,42.310196],[-79.358879,42.324795],[-79.355003,42.316502]]]],"created":1292478122,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2500095_20101216_99dd1288dc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

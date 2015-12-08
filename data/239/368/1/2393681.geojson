@@ -1,0 +1,15 @@
+{
+  "id": 2393681,
+  "type": "Feature",
+  "properties": {
+    "name":"Drew Park, Tampa, FL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2393681,
+    "woe:name":"Drew Park, Tampa, FL, US, United States",
+    "woe:place_id":"52ijuzqbApVbMSNG",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-82.504288,27.974127,-82.502937,27.979773],
+  "geometry": {"alpha":1e-05,"bbox":[-82.504287719727,27.974126815796,-82.502937316895,27.979772567749],"coordinates":[[[[-82.504242,27.975918],[-82.504288,27.975973],[-82.503372,27.979773],[-82.502937,27.976391],[-82.503372,27.974127],[-82.504242,27.975918]]]],"created":1248249608,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2527/shapefiles/2393681_20090722_aac6d5d6b2.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2409673,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, Raleigh, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2409673,
+    "woe:name":"Georgetown, Raleigh, NC, US, United States",
+    "woe:place_id":"nr45JMubBZyQ5.ul",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-78.642883,35.798767,-78.626663,35.810017],
+  "geometry": {"alpha":1e-05,"bbox":[-78.642883300781,35.798767089844,-78.626663208008,35.81001663208],"coordinates":[[[[-78.627571,35.804718],[-78.628143,35.803562],[-78.630928,35.801064],[-78.63134,35.800274],[-78.635544,35.801945],[-78.637474,35.799438],[-78.63887,35.798767],[-78.640823,35.800411],[-78.640427,35.802265],[-78.640701,35.805092],[-78.642883,35.810017],[-78.639923,35.80687],[-78.639191,35.806545],[-78.634239,35.807106],[-78.630875,35.806778],[-78.626663,35.806431],[-78.627571,35.804718]]]],"created":1292456903,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2409673_20101215_a4c9eb0d1d.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

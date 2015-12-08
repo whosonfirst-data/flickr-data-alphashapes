@@ -1,0 +1,15 @@
+{
+  "id": 548862,
+  "type": "Feature",
+  "properties": {
+    "name":"Kitzeck, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548862,
+    "woe:name":"Kitzeck, Styria, Austria",
+    "woe:place_id":"oDAN7jKcBZRppU8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.443301,46.769585,15.464458,46.784252],
+  "geometry": {"alpha":0.00015,"bbox":[15.443301200867,46.769584655762,15.464458465576,46.784252166748],"coordinates":[[[[15.447506,46.778374],[15.451669,46.784252],[15.464458,46.78149],[15.451068,46.772556],[15.443301,46.769585],[15.446863,46.776199],[15.447506,46.778374]]]],"created":1292541291,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/548862_20101216_92c5396413.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

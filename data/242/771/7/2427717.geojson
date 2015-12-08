@@ -1,0 +1,15 @@
+{
+  "id": 2427717,
+  "type": "Feature",
+  "properties": {
+    "name":"Irvington, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2427717,
+    "woe:name":"Irvington, Wisconsin, United States",
+    "woe:place_id":"p1oJuQ6bBZ7ayIKO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.955482,44.833473,-91.950157,44.841202],
+  "geometry": {"alpha":0.00015,"bbox":[-91.95548248291,44.833473205566,-91.950157165527,44.841201782227],"coordinates":[[[[-91.953346,44.835724],[-91.954491,44.836449],[-91.955482,44.841202],[-91.953636,44.84026],[-91.950157,44.833473],[-91.953346,44.835724]]]],"created":1292539183,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2427717_20101216_67fd84e954.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

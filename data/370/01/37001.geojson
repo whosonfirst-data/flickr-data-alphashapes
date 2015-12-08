@@ -1,0 +1,15 @@
+{
+  "id": 37001,
+  "type": "Feature",
+  "properties": {
+    "name":"Tarset, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37001,
+    "woe:name":"Tarset, England, United Kingdom",
+    "woe:place_id":"Wtr.o.qaBpwoBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.361502,55.15617,-2.345666,55.171417],
+  "geometry": {"alpha":0.00015,"bbox":[-2.3615019321442,55.156169891357,-2.3456659317017,55.171417236328],"coordinates":[[[[-2.345666,55.165092],[-2.351031,55.15617],[-2.361502,55.165508],[-2.35073,55.171417],[-2.345666,55.165092]]]],"created":1292519480,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/37001_20101216_d2314f0b3c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

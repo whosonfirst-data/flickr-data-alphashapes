@@ -1,0 +1,15 @@
+{
+  "id": 23424849,
+  "type": "Feature",
+  "properties": {
+    "name":"British Indian Ocean Territory",
+    "placetype":"country",
+    "woe:id":23424849,
+    "woe:name":"British Indian Ocean Territory",
+    "woe:place_id":"hwmWntebApg7frl_pg",
+    "woe:placetype":"country",
+    "woe:placetype_id":12
+},
+  "bbox": [72.334671,-7.429538,72.470795,-7.227526],
+  "geometry": {"alpha":0.175,"bbox":[72.334671020508,-7.4295377731323,72.470794677734,-7.2275261878967],"coordinates":[[[[72.470795,-7.325947],[72.470627,-7.328075],[72.426849,-7.429538],[72.334671,-7.251452],[72.37072,-7.227526],[72.416382,-7.248727],[72.46376,-7.303557],[72.470795,-7.325947]]]],"created":1292456822,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/23424849_20101215_6b1192eeca.tar.gz"},"points":78,"type":"MultiPolygon"}
+}

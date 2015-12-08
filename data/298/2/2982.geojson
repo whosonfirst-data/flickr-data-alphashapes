@@ -1,0 +1,15 @@
+{
+  "id": 2982,
+  "type": "Feature",
+  "properties": {
+    "name":"La Salle, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2982,
+    "woe:name":"La Salle, Manitoba, Canada",
+    "woe:place_id":"6ZnlV2ubCJQt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.195869,49.704498,-97.18132,49.719276],
+  "geometry": {"alpha":0.00015,"bbox":[-97.195869445801,49.704498291016,-97.18132019043,49.719276428223],"coordinates":[[[[-97.18132,49.719276],[-97.185745,49.704498],[-97.194778,49.711113],[-97.195473,49.712479],[-97.195869,49.718403],[-97.18132,49.719276]]]],"created":1292473688,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2982_20101216_8c04fff6b1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

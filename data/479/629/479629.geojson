@@ -1,0 +1,15 @@
+{
+  "id": 479629,
+  "type": "Feature",
+  "properties": {
+    "name":"Vindziunai, Vilnius County, Lithuania",
+    "placetype":"locality",
+    "woe:id":479629,
+    "woe:name":"Vindziunai, Vilnius County, Lithuania",
+    "woe:place_id":"diIDwimdBpUgmUE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.690327,54.543793,25.704403,54.547176],
+  "geometry": {"alpha":0.00015,"bbox":[25.690326690674,54.543792724609,25.704402923584,54.547176361084],"coordinates":[[[[25.699081,54.545937],[25.69994,54.545383],[25.704403,54.543793],[25.699724,54.544239],[25.690327,54.546879],[25.692085,54.547176],[25.699081,54.545937]]]],"created":1292474524,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/479629_20101216_67c969eed3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

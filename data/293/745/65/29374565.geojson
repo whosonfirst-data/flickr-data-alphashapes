@@ -1,0 +1,15 @@
+{
+  "id": 29374565,
+  "type": "Feature",
+  "properties": {
+    "name":"Morris-Turnberry, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374565,
+    "woe:name":"Morris-Turnberry, Ontario, Canada",
+    "woe:place_id":"xAGsRlGbCJ8yuS47Bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.254539,43.874138,-81.231705,43.879398],
+  "geometry": {"alpha":0.00015,"bbox":[-81.254539489746,43.874137878418,-81.231704711914,43.879398345947],"coordinates":[[[[-81.233856,43.878716],[-81.231705,43.878159],[-81.233765,43.876675],[-81.254539,43.874138],[-81.235825,43.879398],[-81.233856,43.878716]]]],"created":1292472964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/29374565_20101216_201ab03db5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

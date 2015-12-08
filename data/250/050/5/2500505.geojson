@@ -1,0 +1,15 @@
+{
+  "id": 2500505,
+  "type": "Feature",
+  "properties": {
+    "name":"Stony Point, California, United States",
+    "placetype":"locality",
+    "woe:id":2500505,
+    "woe:name":"Stony Point, California, United States",
+    "woe:place_id":"VbLgHtibBJyTlGrh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.736984,38.309471,-122.727661,38.327904],
+  "geometry": {"alpha":0.00015,"bbox":[-122.73698425293,38.309471130371,-122.72766113281,38.327903747559],"coordinates":[[[[-122.727661,38.323372],[-122.732903,38.311287],[-122.733765,38.309471],[-122.736855,38.311489],[-122.7369,38.315247],[-122.736984,38.327904],[-122.727661,38.323372]]]],"created":1292486523,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2500505_20101216_c9c499557f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

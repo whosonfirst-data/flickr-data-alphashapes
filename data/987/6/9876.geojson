@@ -1,0 +1,15 @@
+{
+  "id": 9876,
+  "type": "Feature",
+  "properties": {
+    "name":"Winlaw, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9876,
+    "woe:name":"Winlaw, British Columbia, Canada",
+    "woe:place_id":"2at8g5GQCZv6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.520065,49.665073,-117.488647,49.72015],
+  "geometry": {"alpha":0.0003662109375,"bbox":[-117.52006530762,49.665073394775,-117.48864746094,49.720149993896],"coordinates":[[[[-117.492867,49.696487],[-117.498093,49.677402],[-117.502472,49.671356],[-117.509933,49.665073],[-117.515686,49.672958],[-117.515686,49.673042],[-117.493042,49.696529],[-117.520065,49.71471],[-117.488991,49.72015],[-117.488647,49.701889],[-117.492867,49.696487]]]],"created":1292544143,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/9876_20101217_f8f0e4cc3d.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

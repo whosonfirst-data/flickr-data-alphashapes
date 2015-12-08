@@ -1,0 +1,15 @@
+{
+  "id": 3450,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Henri, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3450,
+    "woe:name":"St.-Henri, Quebec, Canada",
+    "woe:place_id":"OLxS.F.aBZlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.068466,46.688072,-71.058365,46.69313],
+  "geometry": {"alpha":0.00015,"bbox":[-71.068466186523,46.68807220459,-71.058364868164,46.693130493164],"coordinates":[[[[-71.067039,46.692722],[-71.058365,46.688072],[-71.066757,46.692261],[-71.068466,46.69313],[-71.067039,46.692722]]]],"created":1292534352,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/3450_20101216_119f48fef7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

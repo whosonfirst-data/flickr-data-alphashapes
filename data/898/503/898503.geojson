@@ -1,0 +1,15 @@
+{
+  "id": 898503,
+  "type": "Feature",
+  "properties": {
+    "name":"Misterhult, Kalmar, Sweden",
+    "placetype":"locality",
+    "woe:id":898503,
+    "woe:name":"Misterhult, Kalmar, Sweden",
+    "woe:place_id":"viaqzP.RCJQQilc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.538029,57.426781,16.555538,57.430813],
+  "geometry": {"alpha":0.00015,"bbox":[16.538028717041,57.426780700684,16.55553817749,57.430812835693],"coordinates":[[[[16.538328,57.426838],[16.538029,57.427578],[16.540346,57.429104],[16.54438,57.430813],[16.555538,57.426956],[16.553263,57.426781],[16.538328,57.426838]]]],"created":1292541593,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/898503_20101216_cab5f4e1bc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

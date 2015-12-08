@@ -1,0 +1,15 @@
+{
+  "id": 1521,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Jacques, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1521,
+    "woe:name":"St.-Jacques, Quebec, Canada",
+    "woe:place_id":"bbp.ExCYBJ7b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.570793,45.949333,-73.564919,45.964333],
+  "geometry": {"alpha":0.00015,"bbox":[-73.570793151855,45.949333190918,-73.564918518066,45.964332580566],"coordinates":[[[[-73.566452,45.963566],[-73.565186,45.964333],[-73.564919,45.964325],[-73.570793,45.949333],[-73.566452,45.963566]]]],"created":1292518121,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1521_20101216_3d6d7c368b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

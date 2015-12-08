@@ -1,0 +1,15 @@
+{
+  "id": 2525421,
+  "type": "Feature",
+  "properties": {
+    "name":"Zooks Corner, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2525421,
+    "woe:name":"Zooks Corner, Pennsylvania, United States",
+    "woe:place_id":"A1nTzj2bBJ6JK7qo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.263481,40.07914,-76.247246,40.08815],
+  "geometry": {"alpha":0.00015,"bbox":[-76.263481140137,40.079139709473,-76.247245788574,40.088150024414],"coordinates":[[[[-76.247246,40.087399],[-76.248169,40.087166],[-76.258163,40.07914],[-76.263481,40.086739],[-76.247604,40.08815],[-76.247246,40.087399]]]],"created":1292529211,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2525421_20101216_187acbbb4c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

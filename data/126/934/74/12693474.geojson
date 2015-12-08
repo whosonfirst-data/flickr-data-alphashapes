@@ -1,0 +1,15 @@
+{
+  "id": 12693474,
+  "type": "Feature",
+  "properties": {
+    "name":"La Granada, Spain",
+    "placetype":"locality",
+    "woe:id":12693474,
+    "woe:name":"La Granada, Spain",
+    "woe:place_id":"MGHHMy2YA5rYVlkAfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.719955,41.375698,1.724472,41.379433],
+  "geometry": {"alpha":1e-05,"bbox":[1.7199549674988,41.3756980896,1.7244720458984,41.379432678223],"coordinates":[[[[1.722305,41.37907],[1.724288,41.378098],[1.724472,41.377998],[1.722804,41.375698],[1.719955,41.379013],[1.720529,41.379433],[1.722305,41.37907]]]],"created":1247940247,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2505/shapefiles/12693474_20090718_ec83204f87.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

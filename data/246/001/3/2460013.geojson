@@ -1,0 +1,15 @@
+{
+  "id": 2460013,
+  "type": "Feature",
+  "properties": {
+    "name":"Nimrod, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2460013,
+    "woe:name":"Nimrod, Minnesota, United States",
+    "woe:place_id":"Pm9qRKibBZqDlJCN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.887711,46.634174,-94.880089,46.640461],
+  "geometry": {"alpha":0.00015,"bbox":[-94.887710571289,46.634174346924,-94.880088806152,46.640460968018],"coordinates":[[[[-94.880814,46.640461],[-94.880089,46.63987],[-94.881622,46.636295],[-94.887711,46.634174],[-94.884277,46.638241],[-94.880814,46.640461]]]],"created":1292544933,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2460013_20101217_c3fb2dac3e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

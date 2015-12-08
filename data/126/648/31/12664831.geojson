@@ -1,0 +1,15 @@
+{
+  "id": 12664831,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Fenouiller, France",
+    "placetype":"locality",
+    "woe:id":12664831,
+    "woe:name":"Le Fenouiller, France",
+    "woe:place_id":"RZ9k0VWYA5pUWrAEBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.880314,46.731529,-1.877095,46.7328],
+  "geometry": {"alpha":1e-05,"bbox":[-1.8803139925003,46.73152923584,-1.8770949840546,46.732799530029],"coordinates":[[[[-1.880314,46.732742],[-1.87952,46.7328],[-1.877095,46.731663],[-1.878533,46.731529],[-1.879863,46.731625],[-1.880314,46.732742]]]],"created":1292457911,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12664831_20101216_457a0b25c0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

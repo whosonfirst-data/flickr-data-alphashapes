@@ -1,0 +1,15 @@
+{
+  "id": 1781,
+  "type": "Feature",
+  "properties": {
+    "name":"Tamworth, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1781,
+    "woe:name":"Tamworth, Ontario, Canada",
+    "woe:place_id":"w..FjU2YBpRO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.004837,44.482361,-76.988838,44.490063],
+  "geometry": {"alpha":0.00015,"bbox":[-77.004837036133,44.482360839844,-76.988838195801,44.490062713623],"coordinates":[[[[-76.992142,44.488056],[-76.991432,44.486847],[-76.988838,44.482361],[-77.004837,44.483166],[-76.996819,44.490063],[-76.992142,44.488056]]]],"created":1292510224,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/1781_20101216_8023ac8692.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

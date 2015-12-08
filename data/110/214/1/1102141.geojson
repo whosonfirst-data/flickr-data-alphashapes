@@ -1,0 +1,15 @@
+{
+  "id": 1102141,
+  "type": "Feature",
+  "properties": {
+    "name":"Galong, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1102141,
+    "woe:name":"Galong, New South Wales, Australia",
+    "woe:place_id":"wOyi6MaYAJzzb0gD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.552917,-34.569763,148.556091,-34.559624],
+  "geometry": {"alpha":0.00015,"bbox":[148.55291748047,-34.569763183594,148.55609130859,-34.559623718262],"coordinates":[[[[148.556091,-34.568279],[148.55455,-34.569763],[148.554718,-34.568848],[148.552917,-34.559624],[148.556091,-34.563049],[148.556091,-34.567291],[148.556091,-34.568279]]]],"created":1292533866,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/1102141_20101216_15298eec1c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

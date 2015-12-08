@@ -1,0 +1,15 @@
+{
+  "id": 1705,
+  "type": "Feature",
+  "properties": {
+    "name":"Smithville, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1705,
+    "woe:name":"Smithville, Ontario, Canada",
+    "woe:place_id":"YqK9WsiYBpy6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.566078,43.094967,-79.535042,43.120457],
+  "geometry": {"alpha":0.00015,"bbox":[-79.566078186035,43.094966888428,-79.535041809082,43.120456695557],"coordinates":[[[[-79.549988,43.102608],[-79.542511,43.1087],[-79.535042,43.120457],[-79.538246,43.100788],[-79.541016,43.094967],[-79.555069,43.097393],[-79.566078,43.115021],[-79.549988,43.102608]]]],"created":1292537620,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/1705_20101216_6a63beb37d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

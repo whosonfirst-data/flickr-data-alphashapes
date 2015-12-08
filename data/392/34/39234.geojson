@@ -1,0 +1,15 @@
+{
+  "id": 39234,
+  "type": "Feature",
+  "properties": {
+    "name":"Wasdale, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39234,
+    "woe:name":"Wasdale, England, United Kingdom",
+    "woe:place_id":"psJH_PqaCJ69eA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.526782,54.419331,-3.501205,54.427017],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5267820358276,54.419330596924,-3.5012049674988,54.427017211914],"coordinates":[[[[-3.50996,54.427017],[-3.501205,54.419331],[-3.51202,54.424122],[-3.517856,54.422325],[-3.526782,54.42672],[-3.511333,54.42622],[-3.50996,54.427017]]]],"created":1248028938,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2579/shapefiles/39234_20090719_88d1384112.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

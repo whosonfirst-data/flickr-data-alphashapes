@@ -1,0 +1,15 @@
+{
+  "id": 2453915,
+  "type": "Feature",
+  "properties": {
+    "name":"Moran Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2453915,
+    "woe:name":"Moran Corner, New York, United States",
+    "woe:place_id":"g52KXi.bBZlLSPXp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.635979,42.964249,-77.628304,42.972908],
+  "geometry": {"alpha":0.00015,"bbox":[-77.63597869873,42.964248657227,-77.628303527832,42.97290802002],"coordinates":[[[[-77.634132,42.972908],[-77.628304,42.97007],[-77.635979,42.964249],[-77.635658,42.96484],[-77.634155,42.971584],[-77.634132,42.972908]]]],"created":1292535566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2453915_20101216_7b9258cf90.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

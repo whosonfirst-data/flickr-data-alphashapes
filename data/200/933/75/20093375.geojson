@@ -1,0 +1,15 @@
+{
+  "id": 20093375,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoke, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20093375,
+    "woe:name":"Stoke, England, United Kingdom",
+    "woe:place_id":"iuo2X1mbAZx9AvbO.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.983319,50.805283,-0.970916,50.828709],
+  "geometry": {"alpha":0.00015,"bbox":[-0.98331898450851,50.805282592773,-0.97091597318649,50.828708648682],"coordinates":[[[[-0.970916,50.812878],[-0.976753,50.805283],[-0.980647,50.817017],[-0.983319,50.823002],[-0.976409,50.828709],[-0.970916,50.812878]]]],"created":1226554326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3039/shapefiles/20093375_20081113_58fd10232f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

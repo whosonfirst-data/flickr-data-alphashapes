@@ -1,0 +1,15 @@
+{
+  "id": 12635233,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gundelsheim, Germany",
+    "placetype":"locality",
+    "woe:id":12635233,
+    "woe:name":"Gemeinde Gundelsheim, Germany",
+    "woe:place_id":"jbadldmYA5o3MxcmsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.908104,49.941471,10.917663,49.942825],
+  "geometry": {"alpha":1e-05,"bbox":[10.908103942871,49.941471099854,10.917662620544,49.942825317383],"coordinates":[[[[10.908157,49.94268],[10.912384,49.94183],[10.917663,49.942825],[10.912406,49.941471],[10.908104,49.941845],[10.908157,49.94268]]]],"created":1292531762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12635233_20101216_3f2f84880c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

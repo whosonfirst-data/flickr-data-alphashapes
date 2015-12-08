@@ -1,0 +1,15 @@
+{
+  "id": 2492386,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherbrook Forest, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2492386,
+    "woe:name":"Sherbrook Forest, Georgia, United States",
+    "woe:place_id":"UqxwTLObBZVwbkS7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.580666,33.663212,-84.564003,33.674],
+  "geometry": {"alpha":0.00015,"bbox":[-84.580665588379,33.66321182251,-84.564002990723,33.673999786377],"coordinates":[[[[-84.564003,33.671333],[-84.564087,33.671284],[-84.570694,33.663212],[-84.580666,33.674],[-84.564331,33.671333],[-84.564003,33.671333]]]],"created":1292469847,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2492386_20101216_cda7ac8231.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

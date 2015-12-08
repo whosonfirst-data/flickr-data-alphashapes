@@ -1,0 +1,15 @@
+{
+  "id": 12684249,
+  "type": "Feature",
+  "properties": {
+    "name":"Reinach, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684249,
+    "woe:name":"Reinach, Switzerland",
+    "woe:place_id":"H3A0AGWYA5pXCMBBOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.589063,47.472157,7.594106,47.47908],
+  "geometry": {"alpha":1e-05,"bbox":[7.589063167572,47.472156524658,7.5941061973572,47.479080200195],"coordinates":[[[[7.589063,47.472157],[7.591037,47.474316],[7.593634,47.47908],[7.593719,47.473267],[7.594106,47.472706],[7.589063,47.472157]]]],"created":1248313804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2423/shapefiles/12684249_20090723_fa6c6eeab2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

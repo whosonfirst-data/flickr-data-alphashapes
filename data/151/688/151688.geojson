@@ -1,0 +1,15 @@
+{
+  "id": 151688,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaragoza, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":151688,
+    "woe:name":"Zaragoza, Nuevo Leon, Mexico",
+    "woe:place_id":"SNeDa7iYBJ2IgOk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.735085,23.944901,-99.726501,23.962959],
+  "geometry": {"alpha":0.00015,"bbox":[-99.735084533691,23.944900512695,-99.726501464844,23.962959289551],"coordinates":[[[[-99.72934,23.945704],[-99.735085,23.962959],[-99.727364,23.948292],[-99.726501,23.944998],[-99.728127,23.944901],[-99.72934,23.945704]]]],"created":1292551381,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/151688_20101217_ecb7ea11ae.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22529816,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlos, Santa Fe, Argentina",
+    "placetype":"locality",
+    "woe:id":22529816,
+    "woe:name":"San Carlos, Santa Fe, Argentina",
+    "woe:place_id":"W4.GmUCbA5mtvJ9rkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.792717,-31.536041,-60.78791,-31.527885],
+  "geometry": {"alpha":0.00015,"bbox":[-60.79271697998,-31.536041259766,-60.787910461426,-31.527885437012],"coordinates":[[[[-60.791042,-31.536041],[-60.791557,-31.53319],[-60.792717,-31.527885],[-60.78791,-31.536024],[-60.791042,-31.536041]]]],"created":1292452310,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/22529816_20101215_d5da41f7f4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

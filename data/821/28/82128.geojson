@@ -1,0 +1,15 @@
+{
+  "id": 82128,
+  "type": "Feature",
+  "properties": {
+    "name":"El Ahumado, Santa Rosa, Guatemala",
+    "placetype":"locality",
+    "woe:id":82128,
+    "woe:name":"El Ahumado, Santa Rosa, Guatemala",
+    "woe:place_id":"hdI5EPaRA52UaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.311996,13.812743,-90.287018,13.824911],
+  "geometry": {"alpha":0.00015,"bbox":[-90.311996459961,13.812743186951,-90.287017822266,13.824911117554],"coordinates":[[[[-90.287018,13.819411],[-90.292511,13.812743],[-90.311996,13.824911],[-90.291649,13.819411],[-90.287018,13.819411]]]],"created":1292541379,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/82128_20101216_956abf4a2e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12643027,
+  "type": "Feature",
+  "properties": {
+    "name":"Donzy, France",
+    "placetype":"locality",
+    "woe:id":12643027,
+    "woe:name":"Donzy, France",
+    "woe:place_id":"PKkl28SYA5oR9CagUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.120846,47.368614,3.125631,47.371044],
+  "geometry": {"alpha":1e-05,"bbox":[3.1208460330963,47.368614196777,3.1256310939789,47.371044158936],"coordinates":[[[[3.123131,47.369106],[3.120846,47.368614],[3.122166,47.370106],[3.123604,47.371044],[3.125631,47.370178],[3.123131,47.369106]]]],"created":1239436682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3568/shapefiles/12643027_20090411_7722edd468.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

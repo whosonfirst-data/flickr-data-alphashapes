@@ -1,0 +1,15 @@
+{
+  "id": 2505268,
+  "type": "Feature",
+  "properties": {
+    "name":"The Highlands, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2505268,
+    "woe:name":"The Highlands, Maryland, United States",
+    "woe:place_id":"O3RyMM6bBJyhC63Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.784805,39.684006,-75.774597,39.693478],
+  "geometry": {"alpha":0.00015,"bbox":[-75.784805297852,39.684005737305,-75.774597167969,39.693477630615],"coordinates":[[[[-75.7798,39.69128],[-75.774597,39.687283],[-75.776741,39.685177],[-75.777855,39.684006],[-75.784805,39.693478],[-75.7798,39.69128]]]],"created":1292501229,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2505268_20101216_7c9a555d64.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

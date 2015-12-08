@@ -1,0 +1,15 @@
+{
+  "id": 332150,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Rosa, Salta, Argentina",
+    "placetype":"locality",
+    "woe:id":332150,
+    "woe:name":"Santa Rosa, Salta, Argentina",
+    "woe:place_id":"4RvcoluaAp6Iw9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.120598,-25.707561,-66.114166,-25.701113],
+  "geometry": {"alpha":0.00015,"bbox":[-66.120597839355,-25.70756149292,-66.114166259766,-25.701112747192],"coordinates":[[[[-66.118118,-25.706245],[-66.118675,-25.706766],[-66.120598,-25.707561],[-66.119675,-25.707098],[-66.114166,-25.701113],[-66.118057,-25.706112],[-66.118118,-25.706245]]]],"created":1292510582,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/332150_20101216_c3db4e862d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

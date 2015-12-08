@@ -1,0 +1,15 @@
+{
+  "id": 2482004,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverdale, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2482004,
+    "woe:name":"Riverdale, Delaware, United States",
+    "woe:place_id":"P7ZAAMabBZTIz5Lr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.195244,38.575195,-75.178581,38.593662],
+  "geometry": {"alpha":0.00015,"bbox":[-75.195243835449,38.5751953125,-75.178581237793,38.593662261963],"coordinates":[[[[-75.189445,38.593376],[-75.178581,38.589931],[-75.195244,38.575195],[-75.189568,38.590309],[-75.190933,38.593662],[-75.189445,38.593376]]]],"created":1292470383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2482004_20101216_d9fc5b5548.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

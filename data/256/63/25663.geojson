@@ -1,0 +1,15 @@
+{
+  "id": 25663,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25663,
+    "woe:name":"Lake, England, United Kingdom",
+    "woe:place_id":"pwELNtubBJpEuQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.826798,51.146496,-1.805191,51.154396],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8267979621887,51.146495819092,-1.8051910400391,51.154396057129],"coordinates":[[[[-1.812034,51.152302],[-1.805191,51.1492],[-1.813023,51.146496],[-1.822121,51.150829],[-1.826798,51.154396],[-1.812034,51.152302]]]],"created":1292446802,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/25663_20101215_a14d96b2ec.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

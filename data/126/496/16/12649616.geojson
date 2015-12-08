@@ -1,0 +1,15 @@
+{
+  "id": 12649616,
+  "type": "Feature",
+  "properties": {
+    "name":"Montrichard, France",
+    "placetype":"locality",
+    "woe:id":12649616,
+    "woe:name":"Montrichard, France",
+    "woe:place_id":"O5qrVKeYA5pZerYhqw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.182897,47.341381,1.186652,47.343418],
+  "geometry": {"alpha":1e-05,"bbox":[1.1828969717026,47.341381072998,1.1866519451141,47.343418121338],"coordinates":[[[[1.184892,47.342865],[1.18648,47.34182],[1.186652,47.341412],[1.184935,47.341381],[1.182897,47.343388],[1.184184,47.343418],[1.184892,47.342865]]]],"created":1292533433,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12649616_20101216_de7a792000.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

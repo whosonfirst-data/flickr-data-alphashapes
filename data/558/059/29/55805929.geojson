@@ -1,0 +1,15 @@
+{
+  "id": 55805929,
+  "type": "Feature",
+  "properties": {
+    "name":"Chinatown, Cleveland, OH, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55805929,
+    "woe:name":"Chinatown, Cleveland, OH, US, United States",
+    "woe:place_id":"AHbSVS6cBJSYtWAfzg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.679794,41.506107,-81.666626,41.51392],
+  "geometry": {"alpha":1e-05,"bbox":[-81.679794311523,41.506107330322,-81.666625976562,41.513919830322],"coordinates":[[[[-81.669968,41.51049],[-81.673073,41.509518],[-81.675163,41.508476],[-81.676704,41.507877],[-81.67688,41.507767],[-81.677437,41.507622],[-81.678734,41.506893],[-81.679794,41.506107],[-81.678497,41.508541],[-81.678421,41.509701],[-81.675385,41.51228],[-81.673286,41.51392],[-81.672264,41.513409],[-81.670334,41.513462],[-81.668648,41.511219],[-81.666626,41.508945],[-81.669968,41.51049]]]],"created":1292536140,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/55805929_20101216_075cf02464.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

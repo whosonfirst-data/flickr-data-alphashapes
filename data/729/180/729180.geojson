@@ -1,0 +1,15 @@
+{
+  "id": 729180,
+  "type": "Feature",
+  "properties": {
+    "name":"Essen, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":729180,
+    "woe:name":"Essen, Groningen, Netherlands",
+    "woe:place_id":"eK2ajL6eA5V68mM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.553859,53.17968,6.576218,53.21978],
+  "geometry": {"alpha":0.000234375,"bbox":[6.5538592338562,53.179679870605,6.5762181282043,53.219779968262],"coordinates":[[[[6.568129,53.219311],[6.576218,53.214794],[6.575961,53.214565],[6.559331,53.213898],[6.563097,53.185383],[6.553859,53.179703],[6.554117,53.17968],[6.565672,53.181599],[6.564298,53.185684],[6.559331,53.213898],[6.557486,53.214718],[6.555361,53.21978],[6.564014,53.219273],[6.56579,53.219639],[6.568129,53.219311]]]],"created":1292546625,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/729180_20101217_201fbc3f5b.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

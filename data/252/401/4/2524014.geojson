@@ -1,0 +1,15 @@
+{
+  "id": 2524014,
+  "type": "Feature",
+  "properties": {
+    "name":"Worthington, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2524014,
+    "woe:name":"Worthington, Maryland, United States",
+    "woe:place_id":"GIHgrpWbBJ7gcBMf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.765892,39.456791,-76.749268,39.473652],
+  "geometry": {"alpha":0.00015,"bbox":[-76.765892028809,39.456790924072,-76.749267578125,39.473651885986],"coordinates":[[[[-76.756264,39.456791],[-76.765892,39.473652],[-76.752235,39.459976],[-76.749268,39.460049],[-76.754608,39.456871],[-76.756264,39.456791]]]],"created":1292533379,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2524014_20101216_775ac48f76.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

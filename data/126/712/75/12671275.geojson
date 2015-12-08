@@ -1,0 +1,15 @@
+{
+  "id": 12671275,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Sulpice, France",
+    "placetype":"locality",
+    "woe:id":12671275,
+    "woe:name":"St.-Sulpice, France",
+    "woe:place_id":"lQhU7QqYA5qNl1a2nA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.685403,43.77124,1.688761,43.775486],
+  "geometry": {"alpha":1e-05,"bbox":[1.6854029893875,43.771240234375,1.6887609958649,43.775485992432],"coordinates":[[[[1.688761,43.775486],[1.68756,43.773666],[1.685886,43.771481],[1.685403,43.77124],[1.686315,43.775089],[1.688761,43.775486]]]],"created":1247950445,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2447/shapefiles/12671275_20090718_dcc7ff405e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

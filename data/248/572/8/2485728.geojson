@@ -1,0 +1,15 @@
+{
+  "id": 2485728,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruma, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2485728,
+    "woe:name":"Ruma, Illinois, United States",
+    "woe:place_id":"LtNUApSbBZQKhqXF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.010345,38.127834,-89.998131,38.132954],
+  "geometry": {"alpha":0.00015,"bbox":[-90.010345458984,38.127834320068,-89.99813079834,38.132953643799],"coordinates":[[[[-90.010178,38.12925],[-90.009956,38.130978],[-89.998131,38.132954],[-90.009071,38.129303],[-90.010345,38.127834],[-90.010178,38.12925]]]],"created":1292377684,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2485728_20101215_3e382765f2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

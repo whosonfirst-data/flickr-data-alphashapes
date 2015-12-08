@@ -1,0 +1,15 @@
+{
+  "id": 12677028,
+  "type": "Feature",
+  "properties": {
+    "name":"Bosentino, Italy",
+    "placetype":"locality",
+    "woe:id":12677028,
+    "woe:name":"Bosentino, Italy",
+    "woe:place_id":"gFgU2PqYA5px2MSeSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.208833,45.99395,11.21762,46.001865],
+  "geometry": {"alpha":1e-05,"bbox":[11.208832740784,45.993949890137,11.217619895935,46.001865386963],"coordinates":[[[[11.212534,45.99699],[11.21762,45.994537],[11.213049,45.99395],[11.211998,45.996559],[11.208833,45.999664],[11.214165,46.001865],[11.212534,45.99699]]]],"created":1292549807,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12677028_20101217_7c27b2733a.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

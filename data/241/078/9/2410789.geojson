@@ -1,0 +1,15 @@
+{
+  "id": 2410789,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Errol, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2410789,
+    "woe:name":"Glen Errol, Georgia, United States",
+    "woe:place_id":"7hrmycCbBZ3RFY5V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.401863,33.911167,-84.392487,33.913502],
+  "geometry": {"alpha":0.00015,"bbox":[-84.401863098145,33.911167144775,-84.392486572266,33.913501739502],"coordinates":[[[[-84.394165,33.913502],[-84.392487,33.913376],[-84.396545,33.91246],[-84.401863,33.911167],[-84.395332,33.913334],[-84.394165,33.913502]]]],"created":1292536644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2410789_20101216_ba9e4803bb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

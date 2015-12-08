@@ -1,0 +1,15 @@
+{
+  "id": 2401771,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairview, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2401771,
+    "woe:name":"Fairview, North Carolina, United States",
+    "woe:place_id":"NLivM1ubBZyzLNio",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.57383,35.095776,-80.569923,35.099819],
+  "geometry": {"alpha":0.00015,"bbox":[-80.573829650879,35.095775604248,-80.569923400879,35.09981918335],"coordinates":[[[[-80.570007,35.096798],[-80.569923,35.09668],[-80.570457,35.095776],[-80.57383,35.098999],[-80.572548,35.099819],[-80.570007,35.096798]]]],"created":1292527500,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2401771_20101216_ccd450a604.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 720647,
+  "type": "Feature",
+  "properties": {
+    "name":"Piteglio, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":720647,
+    "woe:name":"Piteglio, Tuscany, Italy",
+    "woe:place_id":"JyaiU9CeA5zNsYM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.752868,44.026791,10.770013,44.046387],
+  "geometry": {"alpha":0.00015,"bbox":[10.752867698669,44.026790618896,10.77001285553,44.04638671875],"coordinates":[[[[10.764745,44.028175],[10.752868,44.046387],[10.766,44.02911],[10.770013,44.029705],[10.76673,44.026791],[10.764616,44.027576],[10.764745,44.028175]]]],"created":1292535937,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/720647_20101216_f44ab40fc8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2381442,
+  "type": "Feature",
+  "properties": {
+    "name":"Cleve, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2381442,
+    "woe:name":"Cleve, Virginia, United States",
+    "woe:place_id":"VhUXCBSbApQwn_y_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.239357,38.190483,-77.234444,38.193882],
+  "geometry": {"alpha":0.00015,"bbox":[-77.239356994629,38.190483093262,-77.234443664551,38.193881988525],"coordinates":[[[[-77.239357,38.190483],[-77.239334,38.190788],[-77.236763,38.19379],[-77.234444,38.193882],[-77.23912,38.190678],[-77.239357,38.190483]]]],"created":1292373366,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2381442_20101215_1a7f4d36f0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

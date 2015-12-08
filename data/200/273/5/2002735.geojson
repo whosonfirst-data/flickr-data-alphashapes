@@ -1,0 +1,15 @@
+{
+  "id": 2002735,
+  "type": "Feature",
+  "properties": {
+    "name":"Druzhinino, Sverdlovskaya Oblast, Russia",
+    "placetype":"locality",
+    "woe:id":2002735,
+    "woe:name":"Druzhinino, Sverdlovskaya Oblast, Russia",
+    "woe:place_id":"COG7u1abAZzmOCB.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [59.506672,56.783298,59.539547,56.799137],
+  "geometry": {"alpha":0.00015,"bbox":[59.506671905518,56.783298492432,59.539546966553,56.799137115479],"coordinates":[[[[59.510365,56.789692],[59.506672,56.799137],[59.516888,56.790257],[59.539547,56.785553],[59.516701,56.783298],[59.510365,56.789692]]]],"created":1292523184,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2002735_20101216_8ed3dd428f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

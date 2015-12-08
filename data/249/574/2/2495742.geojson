@@ -1,0 +1,15 @@
+{
+  "id": 2495742,
+  "type": "Feature",
+  "properties": {
+    "name":"Somerville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2495742,
+    "woe:name":"Somerville, Alabama, United States",
+    "woe:place_id":"6GFdaI6bBZVYo69J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.799889,34.469769,-86.797768,34.473866],
+  "geometry": {"alpha":0.00015,"bbox":[-86.79988861084,34.46976852417,-86.79776763916,34.473865509033],"coordinates":[[[[-86.797905,34.473286],[-86.797768,34.472008],[-86.799889,34.469769],[-86.799652,34.473293],[-86.798447,34.473866],[-86.797905,34.473286]]]],"created":1292538158,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2495742_20101216_49df8f9e98.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

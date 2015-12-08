@@ -1,0 +1,15 @@
+{
+  "id": 23397212,
+  "type": "Feature",
+  "properties": {
+    "name":"Lunenburg, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397212,
+    "woe:name":"Lunenburg, Ontario, Canada",
+    "woe:place_id":"AjvD2k2bAp8Vsxkoxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.975853,45.065277,-74.959885,45.079884],
+  "geometry": {"alpha":0.00015,"bbox":[-74.975852966309,45.065277099609,-74.959884643555,45.079883575439],"coordinates":[[[[-74.974823,45.077518],[-74.959885,45.065277],[-74.974991,45.077461],[-74.975334,45.077763],[-74.975853,45.079884],[-74.974823,45.077518]]]],"created":1292449394,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/23397212_20101215_b40fc0d85c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

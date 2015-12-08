@@ -1,0 +1,15 @@
+{
+  "id": 711986,
+  "type": "Feature",
+  "properties": {
+    "name":"Candelara, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":711986,
+    "woe:name":"Candelara, Marche, Italy",
+    "woe:place_id":"0UzeAhOeAJ2XOoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.886351,43.854885,12.894451,43.8699],
+  "geometry": {"alpha":0.00015,"bbox":[12.886350631714,43.854885101318,12.894451141357,43.869899749756],"coordinates":[[[[12.886447,43.85548],[12.886351,43.859371],[12.8881,43.8699],[12.894451,43.862446],[12.890396,43.858822],[12.886619,43.854885],[12.886447,43.85548]]]],"created":1292528997,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/711986_20101216_880fd35e64.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

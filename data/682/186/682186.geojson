@@ -1,0 +1,15 @@
+{
+  "id": 682186,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberscheld, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":682186,
+    "woe:name":"Oberscheld, Hesse, Germany",
+    "woe:place_id":"d0Y2NWOfCZ46EJc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.343086,50.734661,8.354147,50.736919],
+  "geometry": {"alpha":0.00015,"bbox":[8.3430862426758,50.734661102295,8.3541469573975,50.736919403076],"coordinates":[[[[8.34815,50.735424],[8.343086,50.734661],[8.348,50.736919],[8.348997,50.73674],[8.353632,50.736862],[8.354147,50.736847],[8.34815,50.735424]]]],"created":1292522900,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/682186_20101216_7740ee67c2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

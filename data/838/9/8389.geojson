@@ -1,0 +1,15 @@
+{
+  "id": 8389,
+  "type": "Feature",
+  "properties": {
+    "name":"Peace Point, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8389,
+    "woe:name":"Peace Point, Alberta, Canada",
+    "woe:place_id":"KCPBTq6RApQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.476479,59.118309,-112.441978,59.131832],
+  "geometry": {"alpha":0.00015,"bbox":[-112.47647857666,59.118309020996,-112.44197845459,59.131832122803],"coordinates":[[[[-112.441978,59.118309],[-112.457085,59.12038],[-112.458458,59.125225],[-112.476479,59.131832],[-112.458626,59.129807],[-112.447296,59.123817],[-112.441978,59.118309]]]],"created":1292543471,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/8389_20101216_44acc2f207.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

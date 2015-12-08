@@ -1,0 +1,15 @@
+{
+  "id": 2395693,
+  "type": "Feature",
+  "properties": {
+    "name":"East Heights, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2395693,
+    "woe:name":"East Heights, Washington, United States",
+    "woe:place_id":"xa34ocqbApVKwmr6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.956871,47.917778,-118.937988,47.935234],
+  "geometry": {"alpha":0.00015,"bbox":[-118.95687103271,47.917778015137,-118.93798828125,47.935234069824],"coordinates":[[[[-118.946915,47.935234],[-118.937988,47.934948],[-118.939186,47.93187],[-118.946495,47.917778],[-118.956871,47.926235],[-118.946915,47.935234]]]],"created":1248087498,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2594/shapefiles/2395693_20090720_cec4035edc.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

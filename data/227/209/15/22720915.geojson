@@ -1,0 +1,15 @@
+{
+  "id": 22720915,
+  "type": "Feature",
+  "properties": {
+    "name":"Houston, Melbourne, VIC, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":22720915,
+    "woe:name":"Houston, Melbourne, VIC, AU, Australia",
+    "woe:place_id":"gUqkCgmbA5vOOgK0GQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [145.134827,-37.835346,145.135574,-37.830803],
+  "geometry": {"alpha":1e-05,"bbox":[145.13482666016,-37.835346221924,145.13557434082,-37.83080291748],"coordinates":[[[[145.134827,-37.8312],[145.135056,-37.831039],[145.135574,-37.830803],[145.135193,-37.831448],[145.13501,-37.835346],[145.134827,-37.8312]]]],"created":1292550573,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/22720915_20101217_9f6a2cca2a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

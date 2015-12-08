@@ -1,0 +1,15 @@
+{
+  "id": 28644824,
+  "type": "Feature",
+  "properties": {
+    "name":"Haldon, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":28644824,
+    "woe:name":"Haldon, Canterbury, New Zealand",
+    "woe:place_id":"yytZo9GbCZrhYQih_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [170.188263,-44.361599,170.220276,-44.340794],
+  "geometry": {"alpha":0.00015,"bbox":[170.18826293945,-44.361598968506,170.22027587891,-44.340793609619],"coordinates":[[[[170.208084,-44.340794],[170.220276,-44.346561],[170.209808,-44.361599],[170.203629,-44.356567],[170.188522,-44.359695],[170.188263,-44.346405],[170.208084,-44.340794]]]],"created":1292538783,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/28644824_20101216_196d321f1a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

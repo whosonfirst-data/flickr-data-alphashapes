@@ -1,0 +1,15 @@
+{
+  "id": 2445205,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Grove Corners, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2445205,
+    "woe:name":"Maple Grove Corners, Michigan, United States",
+    "woe:place_id":"7OJnVeabBZgUFOZP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.242592,42.354485,-86.206993,42.375046],
+  "geometry": {"alpha":0.00015,"bbox":[-86.24259185791,42.354484558105,-86.206993103027,42.375045776367],"coordinates":[[[[-86.231689,42.354485],[-86.242592,42.371418],[-86.226196,42.374779],[-86.206993,42.375046],[-86.220703,42.358543],[-86.231689,42.354485]]]],"created":1292448597,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2445205_20101215_84714fa409.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23511460,
+  "type": "Feature",
+  "properties": {
+    "name":"Swan Creek, Utah, United States",
+    "placetype":"locality",
+    "woe:id":23511460,
+    "woe:name":"Swan Creek, Utah, United States",
+    "woe:place_id":"ra5eGTmbAplBE95L8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.413254,41.971214,-111.405571,41.988205],
+  "geometry": {"alpha":0.00015,"bbox":[-111.41325378418,41.971214294434,-111.40557098389,41.988204956055],"coordinates":[[[[-111.405571,41.985142],[-111.409088,41.982845],[-111.413254,41.971214],[-111.411667,41.988205],[-111.408234,41.986034],[-111.405571,41.985142]]]],"created":1292445781,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/23511460_20101215_00375af3d3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

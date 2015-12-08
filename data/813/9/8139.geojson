@@ -1,0 +1,15 @@
+{
+  "id": 8139,
+  "type": "Feature",
+  "properties": {
+    "name":"Acme, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8139,
+    "woe:name":"Acme, Alberta, Canada",
+    "woe:place_id":"qKCzaR6RAJ9i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.522163,51.496815,-113.504562,51.503933],
+  "geometry": {"alpha":0.00015,"bbox":[-113.52216339111,51.496814727783,-113.50456237793,51.503932952881],"coordinates":[[[[-113.512062,51.496815],[-113.522163,51.501331],[-113.518997,51.501999],[-113.504562,51.503933],[-113.507568,51.49704],[-113.50885,51.49704],[-113.512062,51.496815]]]],"created":1292531192,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/8139_20101216_e461964eeb.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

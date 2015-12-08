@@ -1,0 +1,15 @@
+{
+  "id": 39782,
+  "type": "Feature",
+  "properties": {
+    "name":"West Raynham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39782,
+    "woe:name":"West Raynham, England, United Kingdom",
+    "woe:place_id":"tB4PtQeaCJvsMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.768356,52.791759,0.782732,52.793602],
+  "geometry": {"alpha":0.00015,"bbox":[0.76835602521896,52.791759490967,0.7827320098877,52.793601989746],"coordinates":[[[[0.775222,52.793575],[0.782732,52.792953],[0.777111,52.791759],[0.774919,52.791889],[0.768356,52.793419],[0.775051,52.793602],[0.775222,52.793575]]]],"created":1292510344,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/39782_20101216_66245db03e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

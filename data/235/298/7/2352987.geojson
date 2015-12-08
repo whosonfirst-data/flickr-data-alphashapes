@@ -1,0 +1,15 @@
+{
+  "id": 2352987,
+  "type": "Feature",
+  "properties": {
+    "name":"Alexander, New York, United States",
+    "placetype":"locality",
+    "woe:id":2352987,
+    "woe:name":"Alexander, New York, United States",
+    "woe:place_id":"NxFsun6bApmTxuXp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.262589,42.898361,-78.257919,42.907154],
+  "geometry": {"alpha":0.00015,"bbox":[-78.262588500977,42.898361206055,-78.257919311523,42.907154083252],"coordinates":[[[[-78.258736,42.898819],[-78.260101,42.898579],[-78.262589,42.898361],[-78.261108,42.907154],[-78.258186,42.905834],[-78.257919,42.899265],[-78.258736,42.898819]]]],"created":1248143162,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2555/shapefiles/2352987_20090721_3cf7f1bccd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

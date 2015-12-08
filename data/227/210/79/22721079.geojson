@@ -1,0 +1,15 @@
+{
+  "id": 22721079,
+  "type": "Feature",
+  "properties": {
+    "name":"Narre Warren East, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":22721079,
+    "woe:name":"Narre Warren East, Victoria, Australia",
+    "woe:place_id":"8EDXznabA5sm6ZTmpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.298996,-37.973701,145.305008,-37.960747],
+  "geometry": {"alpha":0.00015,"bbox":[145.29899597168,-37.973701477051,145.30500793457,-37.960746765137],"coordinates":[[[[145.299683,-37.963417],[145.300369,-37.962605],[145.305008,-37.960747],[145.303802,-37.973701],[145.298996,-37.97208],[145.298996,-37.966934],[145.299683,-37.963417]]]],"created":1292549918,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/22721079_20101217_af25344fc4.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

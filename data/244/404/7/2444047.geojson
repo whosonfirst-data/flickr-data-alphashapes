@@ -1,0 +1,15 @@
+{
+  "id": 2444047,
+  "type": "Feature",
+  "properties": {
+    "name":"Madrid, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2444047,
+    "woe:name":"Madrid, Virginia, United States",
+    "woe:place_id":"csSETVabBZiWhJcC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.895912,38.123299,-78.8741,38.152512],
+  "geometry": {"alpha":0.00015,"bbox":[-78.89591217041,38.12329864502,-78.874099731445,38.15251159668],"coordinates":[[[[-78.895912,38.128181],[-78.893166,38.134666],[-78.892647,38.152512],[-78.8741,38.139912],[-78.875137,38.131889],[-78.881195,38.123299],[-78.895912,38.128181]]]],"created":1292529131,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2444047_20101216_a79cef3e80.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

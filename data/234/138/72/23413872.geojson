@@ -1,0 +1,15 @@
+{
+  "id": 23413872,
+  "type": "Feature",
+  "properties": {
+    "name":"Dornaku, Navarre, Spain",
+    "placetype":"locality",
+    "woe:id":23413872,
+    "woe:name":"Dornaku, Navarre, Spain",
+    "woe:place_id":"DCGLKKabAph9mpAzDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.620826,43.26107,-1.605548,43.274578],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6208260059357,43.261070251465,-1.6055480241776,43.274578094482],"coordinates":[[[[-1.61882,43.26107],[-1.620826,43.261395],[-1.618273,43.263832],[-1.614646,43.274578],[-1.605548,43.268208],[-1.61882,43.26107]]]],"created":1292452506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/23413872_20101215_638bfdc871.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

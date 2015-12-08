@@ -1,0 +1,15 @@
+{
+  "id": 129932,
+  "type": "Feature",
+  "properties": {
+    "name":"Lampazos, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":129932,
+    "woe:name":"Lampazos, Nuevo Leon, Mexico",
+    "woe:place_id":"sYlsZzGYA5Wigng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.549522,24.897024,-99.544884,24.900917],
+  "geometry": {"alpha":0.00015,"bbox":[-99.549522399902,24.897024154663,-99.544883728027,24.900917053223],"coordinates":[[[[-99.54892,24.898582],[-99.549522,24.900139],[-99.545914,24.900917],[-99.544884,24.900372],[-99.547119,24.897024],[-99.54892,24.898582]]]],"created":1292443263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/129932_20101215_f2d12475df.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

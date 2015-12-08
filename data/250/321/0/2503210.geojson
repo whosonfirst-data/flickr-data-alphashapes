@@ -1,0 +1,15 @@
+{
+  "id": 2503210,
+  "type": "Feature",
+  "properties": {
+    "name":"Switzerland, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2503210,
+    "woe:name":"Switzerland, Florida, United States",
+    "woe:place_id":"mGZt4.GbBJy150Fe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.668373,30.057346,-81.622215,30.090223],
+  "geometry": {"alpha":0.00015,"bbox":[-81.66837310791,30.057346343994,-81.622215270996,30.090223312378],"coordinates":[[[[-81.65818,30.081005],[-81.655884,30.084541],[-81.648697,30.090223],[-81.641205,30.089333],[-81.641205,30.088694],[-81.640259,30.081572],[-81.622215,30.074368],[-81.632195,30.072659],[-81.645668,30.064898],[-81.648499,30.063457],[-81.659088,30.061943],[-81.668373,30.057346],[-81.662918,30.070932],[-81.65818,30.081005]]]],"created":1292450219,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2503210_20101215_5814cc2279.tar.gz"},"points":55,"type":"MultiPolygon"}
+}

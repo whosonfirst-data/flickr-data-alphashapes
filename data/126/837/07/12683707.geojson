@@ -1,0 +1,15 @@
+{
+  "id": 12683707,
+  "type": "Feature",
+  "properties": {
+    "name":"Hornussen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683707,
+    "woe:name":"Hornussen, Switzerland",
+    "woe:place_id":"HcEk4fKYA5oPupA3Vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.062527,47.498188,8.069221,47.500313],
+  "geometry": {"alpha":1e-05,"bbox":[8.0625267028809,47.498188018799,8.0692205429077,47.500312805176],"coordinates":[[[[8.069221,47.50024],[8.066711,47.499756],[8.062527,47.498188],[8.064544,47.500313],[8.066711,47.499756],[8.068299,47.499546],[8.069221,47.50024]]]],"created":1292537558,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12683707_20101216_d3eb069e85.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

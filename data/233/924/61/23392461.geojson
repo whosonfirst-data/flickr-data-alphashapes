@@ -1,0 +1,15 @@
+{
+  "id": 23392461,
+  "type": "Feature",
+  "properties": {
+    "name":"Norton, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23392461,
+    "woe:name":"Norton, New Brunswick, Canada",
+    "woe:place_id":"uwk9SbybAp.b4hg.IA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.704765,45.625084,-65.688629,45.63966],
+  "geometry": {"alpha":0.00015,"bbox":[-65.704765319824,45.62508392334,-65.688629150391,45.639659881592],"coordinates":[[[[-65.697472,45.637775],[-65.697083,45.63966],[-65.692215,45.638363],[-65.688629,45.634205],[-65.704765,45.625084],[-65.697472,45.637775]]]],"created":1292523722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/23392461_20101216_8a2aee12d7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

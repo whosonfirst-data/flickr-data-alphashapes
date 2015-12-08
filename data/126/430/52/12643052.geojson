@@ -1,0 +1,15 @@
+{
+  "id": 12643052,
+  "type": "Feature",
+  "properties": {
+    "name":"Doue, France",
+    "placetype":"locality",
+    "woe:id":12643052,
+    "woe:name":"Doue, France",
+    "woe:place_id":"Fwz4ZH6YA5ppcDQJLQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.16389,48.868038,3.166508,48.870079],
+  "geometry": {"alpha":1e-05,"bbox":[3.1638898849487,48.86803817749,3.1665079593658,48.870079040527],"coordinates":[[[[3.16389,48.868038],[3.166122,48.870079],[3.166465,48.868919],[3.166508,48.868313],[3.16389,48.868038]]]],"created":1292448964,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12643052_20101215_5eeddeb907.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

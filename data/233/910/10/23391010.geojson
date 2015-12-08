@@ -1,0 +1,15 @@
+{
+  "id": 23391010,
+  "type": "Feature",
+  "properties": {
+    "name":"Huntington, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391010,
+    "woe:name":"Huntington, Nova Scotia, Canada",
+    "woe:place_id":"ap6_DqqbAp9C83v_Ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.298203,45.919312,-60.289394,45.94265],
+  "geometry": {"alpha":0.00015,"bbox":[-60.298202514648,45.919311523438,-60.289394378662,45.942649841309],"coordinates":[[[[-60.298203,45.936646],[-60.291122,45.941483],[-60.289963,45.94265],[-60.293053,45.935677],[-60.289394,45.919312],[-60.298203,45.936646]]]],"created":1292545577,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/23391010_20101217_ae7ca1caf7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

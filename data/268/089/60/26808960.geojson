@@ -1,0 +1,15 @@
+{
+  "id": 26808960,
+  "type": "Feature",
+  "properties": {
+    "name":"Cote, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26808960,
+    "woe:name":"Cote, Costa Rica",
+    "woe:place_id":"qdMlX5qbB5SMcC0YTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.896164,10.553043,-84.891182,10.556587],
+  "geometry": {"alpha":1e-05,"bbox":[-84.89616394043,10.553043365479,-84.891181945801,10.556587219238],"coordinates":[[[[-84.891182,10.555153],[-84.894791,10.553043],[-84.896164,10.553971],[-84.891357,10.556587],[-84.891182,10.555153]]]],"created":1292520478,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/26808960_20101216_2457fc84e7.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

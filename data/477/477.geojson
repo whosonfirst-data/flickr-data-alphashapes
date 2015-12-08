@@ -1,0 +1,15 @@
+{
+  "id": 477,
+  "type": "Feature",
+  "properties": {
+    "name":"Est\u00e9rel, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":477,
+    "woe:name":"Est\u00e9rel, Quebec, Canada",
+    "woe:place_id":"PIIfKbGdBps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.042358,46.029568,-74.018753,46.059505],
+  "geometry": {"alpha":0.000457763671875,"bbox":[-74.042358398438,46.029567718506,-74.018753051758,46.059505462646],"coordinates":[[[[-74.018753,46.03904],[-74.018929,46.029568],[-74.042358,46.036537],[-74.033218,46.059505],[-74.018959,46.042542],[-74.018753,46.03904]]]],"created":1292526830,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/477_20101216_391fc7bc31.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2403148,
+  "type": "Feature",
+  "properties": {
+    "name":"Ferrell, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2403148,
+    "woe:name":"Ferrell, West Virginia, United States",
+    "woe:place_id":"JOZJnOCbBZzvwOAE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.806396,38.335766,-81.800636,38.338863],
+  "geometry": {"alpha":0.00015,"bbox":[-81.806396484375,38.335765838623,-81.800636291504,38.338863372803],"coordinates":[[[[-81.802567,38.335766],[-81.806396,38.336285],[-81.801712,38.338322],[-81.800636,38.338863],[-81.801498,38.335865],[-81.802567,38.335766]]]],"created":1292506988,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2403148_20101216_503ace30d6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

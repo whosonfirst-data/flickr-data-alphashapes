@@ -1,0 +1,15 @@
+{
+  "id": 20120199,
+  "type": "Feature",
+  "properties": {
+    "name":"Chianocco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20120199,
+    "woe:name":"Chianocco, Piedmont, Italy",
+    "woe:place_id":"TOeIlgubAZ3O2b7D1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.167191,45.14465,7.177827,45.15057],
+  "geometry": {"alpha":0.00015,"bbox":[7.167191028595,45.144649505615,7.1778268814087,45.150569915771],"coordinates":[[[[7.177569,45.145725],[7.176249,45.145081],[7.167191,45.14465],[7.17184,45.15057],[7.177827,45.146011],[7.177569,45.145725]]]],"created":1292526753,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20120199_20101216_7dd104aff9.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2374613,
+  "type": "Feature",
+  "properties": {
+    "name":"Cap au Gris, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2374613,
+    "woe:name":"Cap au Gris, Missouri, United States",
+    "woe:place_id":"Yr9Am8GbApu1Efcv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.695618,39.000793,-90.688972,39.008381],
+  "geometry": {"alpha":0.00015,"bbox":[-90.695617675781,39.000793457031,-90.688972473145,39.008380889893],"coordinates":[[[[-90.690445,39.004959],[-90.688972,39.002403],[-90.695618,39.000793],[-90.695618,39.001442],[-90.694199,39.008381],[-90.690445,39.004959]]]],"created":1292493545,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2374613_20101216_2d600bfbf5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

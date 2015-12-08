@@ -1,0 +1,15 @@
+{
+  "id": 12646728,
+  "type": "Feature",
+  "properties": {
+    "name":"La Ville-aux-Dames, France",
+    "placetype":"locality",
+    "woe:id":12646728,
+    "woe:name":"La Ville-aux-Dames, France",
+    "woe:place_id":"PiPmVSGYA5q2gn7AFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.755052,47.404854,0.760631,47.409039],
+  "geometry": {"alpha":1e-05,"bbox":[0.75505197048187,47.404853820801,0.76063102483749,47.409038543701],"coordinates":[[[[0.755052,47.404854],[0.756468,47.406612],[0.757302,47.407799],[0.758979,47.408092],[0.759987,47.408234],[0.760631,47.409039],[0.758979,47.408092],[0.758121,47.407761],[0.756297,47.405029],[0.755052,47.404854]]]],"created":1292534287,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12646728_20101216_42377af869.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28588962,
+  "type": "Feature",
+  "properties": {
+    "name":"Portland North, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28588962,
+    "woe:name":"Portland North, Victoria, Australia",
+    "woe:place_id":"1ZW4LdCbCZkVC9rEOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [141.577713,-38.321255,141.598022,-38.298695],
+  "geometry": {"alpha":0.00015,"bbox":[141.5777130127,-38.321254730225,141.59802246094,-38.298694610596],"coordinates":[[[[141.598022,-38.315193],[141.597198,-38.321255],[141.588196,-38.315666],[141.577713,-38.298695],[141.591797,-38.299637],[141.59523,-38.304688],[141.598022,-38.315193]]]],"created":1292509387,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/28588962_20101216_c1d377d9cf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

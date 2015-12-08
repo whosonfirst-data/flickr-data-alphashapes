@@ -1,0 +1,15 @@
+{
+  "id": 12663324,
+  "type": "Feature",
+  "properties": {
+    "name":"La Baume, France",
+    "placetype":"locality",
+    "woe:id":12663324,
+    "woe:name":"La Baume, France",
+    "woe:place_id":"QZI8RoiYA5pGVNULKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.576368,46.278763,6.586401,46.287876],
+  "geometry": {"alpha":1e-05,"bbox":[6.576367855072,46.278762817383,6.5864009857178,46.28787612915],"coordinates":[[[[6.576368,46.278763],[6.577806,46.281952],[6.582527,46.286045],[6.586401,46.285767],[6.583192,46.287876],[6.582527,46.286045],[6.578578,46.28112],[6.576368,46.278763]]]],"created":1248158055,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2659/shapefiles/12663324_20090721_1a6ee09825.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

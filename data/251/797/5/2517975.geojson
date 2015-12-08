@@ -1,0 +1,15 @@
+{
+  "id": 2517975,
+  "type": "Feature",
+  "properties": {
+    "name":"Westboro, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2517975,
+    "woe:name":"Westboro, Ohio, United States",
+    "woe:place_id":"UlKxX_WbBJ15yvQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.889046,39.283249,-83.887718,39.284233],
+  "geometry": {"alpha":0.00015,"bbox":[-83.889045715332,39.283248901367,-83.887718200684,39.284233093262],"coordinates":[[[[-83.887718,39.283291],[-83.887962,39.283257],[-83.888733,39.283249],[-83.889046,39.283653],[-83.887856,39.284233],[-83.887718,39.283291]]]],"created":1248197298,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2556/shapefiles/2517975_20090721_1d756be7e0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

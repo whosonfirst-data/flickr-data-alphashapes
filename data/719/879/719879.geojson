@@ -1,0 +1,15 @@
+{
+  "id": 719879,
+  "type": "Feature",
+  "properties": {
+    "name":"Palo, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":719879,
+    "woe:name":"Palo, Liguria, Italy",
+    "woe:place_id":"yFkH9W6eAJVy3F0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.545303,44.48827,8.549981,44.495033],
+  "geometry": {"alpha":0.00015,"bbox":[8.5453033447266,44.488269805908,8.5499811172485,44.49503326416],"coordinates":[[[[8.548672,44.495033],[8.549981,44.48827],[8.547105,44.48967],[8.545303,44.490444],[8.546161,44.494087],[8.548586,44.495029],[8.548672,44.495033]]]],"created":1292450994,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/719879_20101215_40f81ef21c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

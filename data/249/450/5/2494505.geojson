@@ -1,0 +1,15 @@
+{
+  "id": 2494505,
+  "type": "Feature",
+  "properties": {
+    "name":"Slabtown, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2494505,
+    "woe:name":"Slabtown, Idaho, United States",
+    "woe:place_id":"EyNUsi.bBZU_wHPY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.39122,46.878265,-116.3871,46.88155],
+  "geometry": {"alpha":0.00015,"bbox":[-116.39122009277,46.878265380859,-116.38710021973,46.881549835205],"coordinates":[[[[-116.390533,46.878265],[-116.39122,46.878735],[-116.3871,46.88155],[-116.387787,46.880611],[-116.388474,46.879673],[-116.390533,46.878265]]]],"created":1292448705,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2494505_20101215_e844c1e34e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55989130,
+  "type": "Feature",
+  "properties": {
+    "name":"Providence Place, High Point, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55989130,
+    "woe:name":"Providence Place, High Point, NC, US, United States",
+    "woe:place_id":"nBAJ77KcBJWhrNF6Gw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.032387,35.94558,-80.027504,35.947544],
+  "geometry": {"alpha":1e-05,"bbox":[-80.032386779785,35.945579528809,-80.027503967285,35.9475440979],"coordinates":[[[[-80.032387,35.946949],[-80.031898,35.947544],[-80.027504,35.94558],[-80.03199,35.946602],[-80.032387,35.946949]]]],"created":1292535032,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/55989130_20101216_1f9f43de58.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

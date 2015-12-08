@@ -1,0 +1,15 @@
+{
+  "id": 464457,
+  "type": "Feature",
+  "properties": {
+    "name":"La Calera, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":464457,
+    "woe:name":"La Calera, Cordoba, Argentina",
+    "woe:place_id":"DzKj84adB5joCZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.349144,-31.366541,-64.278152,-31.33927],
+  "geometry": {"alpha":0.5,"bbox":[-64.349143981934,-31.366540908813,-64.27815246582,-31.339269638062],"coordinates":[[[[-64.278152,-31.366398],[-64.278763,-31.366541],[-64.349144,-31.362492],[-64.311218,-31.343374],[-64.297485,-31.33927],[-64.281105,-31.346087],[-64.278152,-31.366398]]]],"created":1248055810,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3443/shapefiles/464457_20090720_a1590a0a46.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

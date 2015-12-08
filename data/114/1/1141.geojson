@@ -1,0 +1,15 @@
+{
+  "id": 1141,
+  "type": "Feature",
+  "properties": {
+    "name":"Orangedale, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1141,
+    "woe:name":"Orangedale, Nova Scotia, Canada",
+    "woe:place_id":"v3CFr5.YAJgZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.103825,45.898712,-61.092918,45.906254],
+  "geometry": {"alpha":0.00015,"bbox":[-61.103824615479,45.898712158203,-61.092918395996,45.906253814697],"coordinates":[[[[-61.092922,45.900459],[-61.092934,45.900452],[-61.103825,45.898712],[-61.099434,45.906254],[-61.097202,45.903271],[-61.092918,45.900463],[-61.092922,45.900459]]]],"created":1292510169,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/1141_20101216_aacb7c31a2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

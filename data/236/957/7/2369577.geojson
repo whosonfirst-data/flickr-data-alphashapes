@@ -1,0 +1,15 @@
+{
+  "id": 2369577,
+  "type": "Feature",
+  "properties": {
+    "name":"Broadway, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2369577,
+    "woe:name":"Broadway, Missouri, United States",
+    "woe:place_id":"7.FSlR2bApquyvr2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.272255,38.539822,-90.258163,38.548164],
+  "geometry": {"alpha":0.00015,"bbox":[-90.272254943848,38.539821624756,-90.258163452148,38.548164367676],"coordinates":[[[[-90.266373,38.539822],[-90.268524,38.540947],[-90.272255,38.548107],[-90.259293,38.548164],[-90.258163,38.544792],[-90.262466,38.540382],[-90.266373,38.539822]]]],"created":1292523219,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2369577_20101216_51c4222a19.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

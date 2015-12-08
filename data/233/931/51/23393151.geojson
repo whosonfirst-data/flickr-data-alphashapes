@@ -1,0 +1,15 @@
+{
+  "id": 23393151,
+  "type": "Feature",
+  "properties": {
+    "name":"Belledune, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393151,
+    "woe:name":"Belledune, New Brunswick, Canada",
+    "woe:place_id":"iR_inUmbAp.MzI.fRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.890846,47.906677,-65.866638,47.913063],
+  "geometry": {"alpha":0.00015,"bbox":[-65.890846252441,47.906677246094,-65.866638183594,47.913063049316],"coordinates":[[[[-65.877563,47.910011],[-65.866638,47.906677],[-65.877678,47.909901],[-65.890846,47.913063],[-65.878304,47.910648],[-65.877563,47.910011]]]],"created":1292517822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/23393151_20101216_38d50bfc9d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

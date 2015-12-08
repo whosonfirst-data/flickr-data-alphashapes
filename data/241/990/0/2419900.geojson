@@ -1,0 +1,15 @@
+{
+  "id": 2419900,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemphill, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2419900,
+    "woe:name":"Hemphill, Texas, United States",
+    "woe:place_id":"vXPToZibBZ3TjVPI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.850105,31.341541,-93.838348,31.348652],
+  "geometry": {"alpha":0.00015,"bbox":[-93.850105285645,31.341541290283,-93.838348388672,31.348651885986],"coordinates":[[[[-93.849602,31.341881],[-93.849747,31.342382],[-93.850105,31.34376],[-93.838348,31.348652],[-93.848991,31.341541],[-93.849602,31.341881]]]],"created":1292536069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2419900_20101216_e6955129d9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

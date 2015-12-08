@@ -1,0 +1,15 @@
+{
+  "id": 843256,
+  "type": "Feature",
+  "properties": {
+    "name":"Kostivere, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":843256,
+    "woe:name":"Kostivere, Harju County, Estonia",
+    "woe:place_id":"UIK6EeORBZ9aD9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.095434,59.431065,25.117245,59.436264],
+  "geometry": {"alpha":0.00015,"bbox":[25.095434188843,59.431064605713,25.117244720459,59.436264038086],"coordinates":[[[[25.113062,59.436264],[25.114832,59.435081],[25.117245,59.433155],[25.113716,59.432068],[25.095434,59.431065],[25.111645,59.435287],[25.113062,59.436264]]]],"created":1292524089,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/843256_20101216_8913f41b41.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

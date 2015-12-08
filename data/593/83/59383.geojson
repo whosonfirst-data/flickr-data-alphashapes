@@ -1,0 +1,15 @@
+{
+  "id": 59383,
+  "type": "Feature",
+  "properties": {
+    "name":"San Ignacio, San Jose, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59383,
+    "woe:name":"San Ignacio, San Jose, Costa Rica",
+    "woe:place_id":"aHw90x.cCJ8BdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.17347,9.773263,-84.160767,9.804473],
+  "geometry": {"alpha":0.00015,"bbox":[-84.173469543457,9.7732629776001,-84.160766601562,9.8044729232788],"coordinates":[[[[-84.162483,9.7994],[-84.160767,9.792294],[-84.17347,9.773263],[-84.163681,9.793236],[-84.16832,9.804473],[-84.162483,9.7994]]]],"created":1292355842,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/59383_20101214_4162683d1f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

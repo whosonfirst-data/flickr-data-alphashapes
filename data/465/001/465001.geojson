@@ -1,0 +1,15 @@
+{
+  "id": 465001,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerro Colorado, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":465001,
+    "woe:name":"Cerro Colorado, Cordoba, Argentina",
+    "woe:place_id":"c8UJHBCdB5mmKgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.946522,-30.098577,-63.924294,-30.090187],
+  "geometry": {"alpha":0.00015,"bbox":[-63.946521759033,-30.09857749939,-63.924293518066,-30.090187072754],"coordinates":[[[[-63.935108,-30.090187],[-63.924294,-30.095161],[-63.93322,-30.098577],[-63.933563,-30.098577],[-63.941803,-30.097166],[-63.946522,-30.095181],[-63.935108,-30.090187]]]],"created":1292536462,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/465001_20101216_26df6432a8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

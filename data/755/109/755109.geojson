@@ -1,0 +1,15 @@
+{
+  "id": 755109,
+  "type": "Feature",
+  "properties": {
+    "name":"Bustad, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":755109,
+    "woe:name":"Bustad, Asturias, Spain",
+    "woe:place_id":"dvoYMhieBJmVIJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.392828,43.431107,-5.384758,43.4384],
+  "geometry": {"alpha":0.00015,"bbox":[-5.3928279876709,43.431106567383,-5.3847579956055,43.438400268555],"coordinates":[[[[-5.384758,43.436996],[-5.385532,43.431107],[-5.392828,43.434597],[-5.391712,43.438087],[-5.385704,43.4384],[-5.384758,43.436996]]]],"created":1292511303,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/755109_20101216_dbba062827.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

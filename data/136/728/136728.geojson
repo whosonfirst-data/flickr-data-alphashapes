@@ -1,0 +1,15 @@
+{
+  "id": 136728,
+  "type": "Feature",
+  "properties": {
+    "name":"Pihuamo, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":136728,
+    "woe:name":"Pihuamo, Jalisco, Mexico",
+    "woe:place_id":"0CLa4c6YApoB.qc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.390961,19.252974,-103.380661,19.259295],
+  "geometry": {"alpha":0.00015,"bbox":[-103.39096069336,19.252973556519,-103.38066101074,19.259294509888],"coordinates":[[[[-103.381607,19.255035],[-103.380913,19.254223],[-103.380661,19.252974],[-103.387527,19.254108],[-103.390961,19.259295],[-103.381607,19.255035]]]],"created":1292403602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/136728_20101215_34fc683aee.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

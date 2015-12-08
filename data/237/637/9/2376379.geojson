@@ -1,0 +1,15 @@
+{
+  "id": 2376379,
+  "type": "Feature",
+  "properties": {
+    "name":"Cattown, New York, United States",
+    "placetype":"locality",
+    "woe:id":2376379,
+    "woe:name":"Cattown, New York, United States",
+    "woe:place_id":"Y2zpmkubApvNB9Nk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.016876,42.724567,-75.001129,42.734333],
+  "geometry": {"alpha":0.00015,"bbox":[-75.016876220703,42.72456741333,-75.001129150391,42.73433303833],"coordinates":[[[[-75.010246,42.733673],[-75.016876,42.733521],[-75.010658,42.73428],[-75.01017,42.734333],[-75.010056,42.733887],[-75.001129,42.724567],[-75.010246,42.733673]]]],"created":1292535249,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2376379_20101216_9fa0ce07c3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

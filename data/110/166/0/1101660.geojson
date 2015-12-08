@@ -1,0 +1,15 @@
+{
+  "id": 1101660,
+  "type": "Feature",
+  "properties": {
+    "name":"Derrinallum, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101660,
+    "woe:name":"Derrinallum, Victoria, Australia",
+    "woe:place_id":"caS3p1.YAJw17P5q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.19545,-37.963669,143.22052,-37.944263],
+  "geometry": {"alpha":0.00015,"bbox":[143.1954498291,-37.963668823242,143.22052001953,-37.944263458252],"coordinates":[[[[143.198547,-37.961658],[143.19751,-37.957867],[143.19545,-37.950764],[143.215027,-37.944263],[143.22052,-37.945007],[143.213669,-37.963669],[143.198547,-37.961658]]]],"created":1292526345,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/1101660_20101216_395f02375d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

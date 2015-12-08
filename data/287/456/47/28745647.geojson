@@ -1,0 +1,15 @@
+{
+  "id": 28745647,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Stewart, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":28745647,
+    "woe:name":"Fort Stewart, Georgia, United States",
+    "woe:place_id":"xlcF_NSbCZun9J7uIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.685722,32.055809,-81.685585,32.056755],
+  "geometry": {"alpha":0.00015,"bbox":[-81.685722351074,32.055809020996,-81.685585021973,32.056755065918],"coordinates":[[[[-81.685646,32.05637],[-81.6856,32.056667],[-81.685585,32.056755],[-81.685631,32.056412],[-81.685722,32.055809],[-81.685646,32.05637]]]],"created":1292446331,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/28745647_20101215_02c50bfd59.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

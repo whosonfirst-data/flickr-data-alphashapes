@@ -1,0 +1,15 @@
+{
+  "id": 2368760,
+  "type": "Feature",
+  "properties": {
+    "name":"Briarwood, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2368760,
+    "woe:name":"Briarwood, Maryland, United States",
+    "woe:place_id":"7SkJHU2bApp3MSdU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.466385,39.031384,-76.455383,39.03775],
+  "geometry": {"alpha":0.00015,"bbox":[-76.466384887695,39.031383514404,-76.455383300781,39.037750244141],"coordinates":[[[[-76.456001,39.035],[-76.455383,39.032551],[-76.458618,39.031384],[-76.463043,39.032951],[-76.466385,39.03775],[-76.456001,39.035]]]],"created":1292529021,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2368760_20101216_fa94400997.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

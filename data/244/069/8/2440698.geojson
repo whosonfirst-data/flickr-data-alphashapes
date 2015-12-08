@@ -1,0 +1,15 @@
+{
+  "id": 2440698,
+  "type": "Feature",
+  "properties": {
+    "name":"Lobert Junction, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2440698,
+    "woe:name":"Lobert Junction, Oregon, United States",
+    "woe:place_id":"UsAkttKbBZg7Jwtf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.889687,42.523529,-121.878593,42.536812],
+  "geometry": {"alpha":0.00015,"bbox":[-121.88968658447,42.523529052734,-121.87859344482,42.536811828613],"coordinates":[[[[-121.888725,42.523529],[-121.889687,42.526482],[-121.888741,42.536812],[-121.878593,42.536133],[-121.885757,42.523926],[-121.888725,42.523529]]]],"created":1292540402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2440698_20101216_e5f4b23b4a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

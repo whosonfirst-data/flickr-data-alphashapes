@@ -1,0 +1,15 @@
+{
+  "id": 2462258,
+  "type": "Feature",
+  "properties": {
+    "name":"Norway, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2462258,
+    "woe:name":"Norway, Indiana, United States",
+    "woe:place_id":"6i9kV4mbBZpPKN7G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.760628,40.777561,-86.759033,40.781078],
+  "geometry": {"alpha":0.00015,"bbox":[-86.760627746582,40.777561187744,-86.759033203125,40.781078338623],"coordinates":[[[[-86.759033,40.780769],[-86.759453,40.778374],[-86.760628,40.777561],[-86.759872,40.780476],[-86.759163,40.781078],[-86.759033,40.780769]]]],"created":1292517524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2462258_20101216_a49c00b752.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

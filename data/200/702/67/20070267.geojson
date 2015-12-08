@@ -1,0 +1,15 @@
+{
+  "id": 20070267,
+  "type": "Feature",
+  "properties": {
+    "name":"Qazax, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070267,
+    "woe:name":"Qazax, AZ, Azerbaijan",
+    "woe:place_id":"nZtzBOubAZywF_kCeA",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [45.065918,41.093128,45.358944,41.277805],
+  "geometry": {"alpha":0.03,"bbox":[45.06591796875,41.093128204346,45.358943939209,41.277805328369],"coordinates":[[[[45.350018,41.093128],[45.345898,41.100117],[45.065918,41.277805],[45.318604,41.25045],[45.358944,41.258709],[45.347786,41.09837],[45.350018,41.093128]]]],"created":1292502002,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20070267_20101216_eb479ef928.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

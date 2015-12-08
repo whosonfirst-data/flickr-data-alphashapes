@@ -1,0 +1,15 @@
+{
+  "id": 2515627,
+  "type": "Feature",
+  "properties": {
+    "name":"Wayne, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2515627,
+    "woe:name":"Wayne, Ohio, United States",
+    "woe:place_id":"wDAK2vCbBJ2HO2Iq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.480125,41.270451,-83.467857,41.303345],
+  "geometry": {"alpha":0.00015,"bbox":[-83.480125427246,41.270450592041,-83.46785736084,41.303344726562],"coordinates":[[[[-83.472664,41.282867],[-83.480125,41.303345],[-83.472389,41.300892],[-83.472015,41.282951],[-83.467857,41.270451],[-83.472664,41.282867]]]],"created":1292452004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2515627_20101215_1793cf56a5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

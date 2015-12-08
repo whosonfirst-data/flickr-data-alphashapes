@@ -1,0 +1,15 @@
+{
+  "id": 710676,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbarano Romano, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":710676,
+    "woe:name":"Barbarano Romano, Lazio, Italy",
+    "woe:place_id":"4H3bxoWeAJwfcws",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.054748,42.236652,12.072343,42.263832],
+  "geometry": {"alpha":0.00015,"bbox":[12.054747581482,42.236652374268,12.07234287262,42.263832092285],"coordinates":[[[[12.067108,42.254189],[12.072343,42.249931],[12.067966,42.248314],[12.054748,42.236652],[12.060241,42.253933],[12.058333,42.263832],[12.067108,42.254189]]]],"created":1292528610,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/710676_20101216_f3e12bbd67.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

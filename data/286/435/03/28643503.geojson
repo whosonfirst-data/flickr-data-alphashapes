@@ -1,0 +1,15 @@
+{
+  "id": 28643503,
+  "type": "Feature",
+  "properties": {
+    "name":"Seaford, Tasman, New Zealand",
+    "placetype":"locality",
+    "woe:id":28643503,
+    "woe:name":"Seaford, Tasman, New Zealand",
+    "woe:place_id":"Oh90422bCZobXZBcqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [172.680954,-40.599358,172.691391,-40.576218],
+  "geometry": {"alpha":0.00015,"bbox":[172.68095397949,-40.59935760498,172.69139099121,-40.576217651367],"coordinates":[[[[172.688599,-40.584496],[172.687057,-40.594143],[172.683792,-40.599358],[172.680954,-40.5858],[172.685684,-40.576218],[172.691391,-40.578285],[172.688599,-40.584496]]]],"created":1292509453,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/28643503_20101216_f456025780.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

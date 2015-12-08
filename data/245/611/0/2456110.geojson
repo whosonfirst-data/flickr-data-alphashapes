@@ -1,0 +1,15 @@
+{
+  "id": 2456110,
+  "type": "Feature",
+  "properties": {
+    "name":"Mud Creek, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2456110,
+    "woe:name":"Mud Creek, Alabama, United States",
+    "woe:place_id":"qgaPo0ebBZm5p72f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.162048,33.421165,-87.159798,33.42194],
+  "geometry": {"alpha":0.00015,"bbox":[-87.162048339844,33.421165466309,-87.159797668457,33.421939849854],"coordinates":[[[[-87.159798,33.42194],[-87.160004,33.421719],[-87.162048,33.421165],[-87.160912,33.421535],[-87.159798,33.42194]]]],"created":1234522446,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3473/shapefiles/2456110_20090213_b5fe89812e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2405250,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Hills, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2405250,
+    "woe:name":"Forest Hills, Pennsylvania, United States",
+    "woe:place_id":"wX5Ob7ObBZx2phbK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.864876,40.410912,-79.838379,40.435108],
+  "geometry": {"alpha":0.00015,"bbox":[-79.864875793457,40.410911560059,-79.83837890625,40.435108184814],"coordinates":[[[[-79.843185,40.410912],[-79.858849,40.412212],[-79.857285,40.422367],[-79.864876,40.435108],[-79.855164,40.426998],[-79.838379,40.430878],[-79.838875,40.415962],[-79.843185,40.410912]]]],"created":1292519114,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2405250_20101216_667d84a761.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

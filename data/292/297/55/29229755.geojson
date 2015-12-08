@@ -1,0 +1,15 @@
+{
+  "id": 29229755,
+  "type": "Feature",
+  "properties": {
+    "name":"South Boulevard, Dallas, TX, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":29229755,
+    "woe:name":"South Boulevard, Dallas, TX, US, United States",
+    "woe:place_id":"nqCGMU2bCJ5mT_Myrg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-96.708557,32.704422,-96.704697,32.706787],
+  "geometry": {"alpha":1e-05,"bbox":[-96.708557128906,32.70442199707,-96.704696655273,32.706787109375],"coordinates":[[[[-96.705482,32.706787],[-96.704697,32.70536],[-96.706993,32.704422],[-96.708557,32.705414],[-96.705482,32.706787]]]],"created":1292457759,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/29229755_20101216_6e59530c8d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

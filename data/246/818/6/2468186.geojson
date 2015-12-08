@@ -1,0 +1,15 @@
+{
+  "id": 2468186,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise Port, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2468186,
+    "woe:name":"Paradise Port, Florida, United States",
+    "woe:place_id":"UQfoTLibBZp75H7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.063683,26.890535,-80.054108,26.909719],
+  "geometry": {"alpha":0.00015,"bbox":[-80.063682556152,26.890535354614,-80.054107666016,26.909719467163],"coordinates":[[[[-80.054459,26.89365],[-80.054108,26.891033],[-80.056,26.890535],[-80.063683,26.894859],[-80.062019,26.909719],[-80.06012,26.902782],[-80.054459,26.89365]]]],"created":1292530813,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2468186_20101216_13a1aa7427.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

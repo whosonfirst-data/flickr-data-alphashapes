@@ -1,0 +1,15 @@
+{
+  "id": 598477,
+  "type": "Feature",
+  "properties": {
+    "name":"La Glacerie, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":598477,
+    "woe:name":"La Glacerie, Basse-Normandie, France",
+    "woe:place_id":"HPngqQacCJTVruc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.614303,49.613949,-1.600141,49.621777],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6143029928207,49.613948822021,-1.6001410484314,49.621776580811],"coordinates":[[[[-1.600141,49.621777],[-1.600763,49.614086],[-1.60263,49.613949],[-1.606643,49.616737],[-1.614303,49.620941],[-1.600141,49.621777]]]],"created":1248138015,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3471/shapefiles/598477_20090721_56e9cdf8ab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

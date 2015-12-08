@@ -1,0 +1,15 @@
+{
+  "id": 766100,
+  "type": "Feature",
+  "properties": {
+    "name":"Lourdes, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":766100,
+    "woe:name":"Lourdes, Galicia, Spain",
+    "woe:place_id":"tiOfLayeB5rbWWI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.156318,43.112629,-8.1453,43.129379],
+  "geometry": {"alpha":0.00015,"bbox":[-8.1563177108765,43.112628936768,-8.145299911499,43.129379272461],"coordinates":[[[[-8.156318,43.114769],[-8.153014,43.129379],[-8.1453,43.126827],[-8.14613,43.112629],[-8.156318,43.114769]]]],"created":1234543685,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3400/shapefiles/766100_20090213_a3b3878d57.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

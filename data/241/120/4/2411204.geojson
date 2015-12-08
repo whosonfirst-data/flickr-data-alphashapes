@@ -1,0 +1,15 @@
+{
+  "id": 2411204,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenmont, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2411204,
+    "woe:name":"Glenmont, Maryland, United States",
+    "woe:place_id":"BQMBoLibBZ3cQEEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.828064,39.223743,-76.819237,39.231472],
+  "geometry": {"alpha":0.00015,"bbox":[-76.828063964844,39.223743438721,-76.819236755371,39.231472015381],"coordinates":[[[[-76.819237,39.227997],[-76.820419,39.227032],[-76.824646,39.223743],[-76.828064,39.231472],[-76.821922,39.230942],[-76.819237,39.227997]]]],"created":1292500568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2411204_20101216_29d8ae660c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

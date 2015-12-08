@@ -1,0 +1,15 @@
+{
+  "id": 753567,
+  "type": "Feature",
+  "properties": {
+    "name":"Bande, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":753567,
+    "woe:name":"Bande, Galicia, Spain",
+    "woe:place_id":"NlfEByaeBJ.AN_Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.980194,42.028385,-7.974014,42.053371],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9801940917969,42.028385162354,-7.9740138053894,42.053371429443],"coordinates":[[[[-7.974046,42.030441],[-7.97573,42.028385],[-7.980194,42.037052],[-7.974014,42.053371],[-7.975044,42.031666],[-7.974046,42.030441]]]],"created":1292529784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/753567_20101216_bcd079a86f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

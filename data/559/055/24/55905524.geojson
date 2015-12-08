@@ -1,0 +1,15 @@
+{
+  "id": 55905524,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Palmas de Arriba, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":55905524,
+    "woe:name":"Las Palmas de Arriba, Jalisco, Mexico",
+    "woe:place_id":"tdVDaZecBJUAZmKCqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.106544,20.822594,-105.096931,20.826838],
+  "geometry": {"alpha":0.00015,"bbox":[-105.10654449463,20.822593688965,-105.09693145752,20.826837539673],"coordinates":[[[[-105.103966,20.822594],[-105.106544,20.826838],[-105.100349,20.826132],[-105.096931,20.823357],[-105.103966,20.822594]]]],"created":1292503803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/55905524_20101216_ca676f99c7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

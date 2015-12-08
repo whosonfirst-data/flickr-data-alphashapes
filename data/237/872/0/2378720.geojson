@@ -1,0 +1,15 @@
+{
+  "id": 2378720,
+  "type": "Feature",
+  "properties": {
+    "name":"Chauga Heights, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2378720,
+    "woe:name":"Chauga Heights, South Carolina, United States",
+    "woe:place_id":"t0b.6tSbAptbw0qA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.146431,34.678677,-83.124878,34.699135],
+  "geometry": {"alpha":0.00015,"bbox":[-83.146430969238,34.678676605225,-83.124877929688,34.69913482666],"coordinates":[[[[-83.146431,34.682373],[-83.142441,34.688354],[-83.143906,34.699135],[-83.124878,34.688065],[-83.144875,34.678677],[-83.146431,34.682373]]]],"created":1292545800,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2378720_20101217_754c15e18f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

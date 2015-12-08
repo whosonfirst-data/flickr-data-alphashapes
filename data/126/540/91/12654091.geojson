@@ -1,0 +1,15 @@
+{
+  "id": 12654091,
+  "type": "Feature",
+  "properties": {
+    "name":"Vauhallan, France",
+    "placetype":"locality",
+    "woe:id":12654091,
+    "woe:name":"Vauhallan, France",
+    "woe:place_id":"AGHMGziYA5rlue_HvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.203617,48.71917,2.209014,48.722168],
+  "geometry": {"alpha":1e-05,"bbox":[2.2036170959473,48.719169616699,2.2090139389038,48.72216796875],"coordinates":[[[[2.209014,48.720657],[2.203617,48.71917],[2.203971,48.720661],[2.206106,48.722168],[2.209014,48.720657]]]],"created":1292551417,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12654091_20101217_a5c1883948.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

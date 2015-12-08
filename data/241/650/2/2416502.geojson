@@ -1,0 +1,15 @@
+{
+  "id": 2416502,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamburg, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2416502,
+    "woe:name":"Hamburg, Illinois, United States",
+    "woe:place_id":"pP1cpiebBZ1pAXRV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.729042,39.225254,-90.718369,39.234245],
+  "geometry": {"alpha":0.00015,"bbox":[-90.729042053223,39.225254058838,-90.718368530273,39.234245300293],"coordinates":[[[[-90.722862,39.234245],[-90.718369,39.233982],[-90.718445,39.231239],[-90.719925,39.225254],[-90.722267,39.226467],[-90.729042,39.231457],[-90.722862,39.234245]]]],"created":1292459947,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2416502_20101216_d4bb25aef6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

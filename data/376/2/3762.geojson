@@ -1,0 +1,15 @@
+{
+  "id": 3762,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Pond, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":3762,
+    "woe:name":"Big Pond, Nova Scotia, Canada",
+    "woe:place_id":"27fAXW2aBpoZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.552521,45.906612,-60.532761,45.91975],
+  "geometry": {"alpha":0.00015,"bbox":[-60.552520751953,45.90661239624,-60.532760620117,45.919750213623],"coordinates":[[[[-60.532761,45.912361],[-60.53278,45.911243],[-60.53569,45.910229],[-60.543766,45.906612],[-60.552521,45.917961],[-60.54282,45.91975],[-60.532761,45.912361]]]],"created":1292458146,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/3762_20101216_16f8ccf363.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 342,
+  "type": "Feature",
+  "properties": {
+    "name":"Coxheath, Sydney Forks, NS, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":342,
+    "woe:name":"Coxheath, Sydney Forks, NS, CA, Canada",
+    "woe:place_id":"EKaL1GCaBZ4",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-60.234409,46.115097,-60.231792,46.117855],
+  "geometry": {"alpha":1e-05,"bbox":[-60.234409332275,46.115097045898,-60.231792449951,46.117855072021],"coordinates":[[[[-60.232502,46.117855],[-60.231792,46.115543],[-60.232029,46.115551],[-60.234409,46.115097],[-60.232502,46.117855]]]],"created":1292526447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/342_20101216_12cffcd18b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

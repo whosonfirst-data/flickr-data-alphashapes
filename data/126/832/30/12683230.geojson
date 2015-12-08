@@ -1,0 +1,15 @@
+{
+  "id": 12683230,
+  "type": "Feature",
+  "properties": {
+    "name":"Contone, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683230,
+    "woe:name":"Contone, Switzerland",
+    "woe:place_id":"r3eY4jeYA5pjb0kIHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.917245,46.150997,8.922421,46.152485],
+  "geometry": {"alpha":1e-05,"bbox":[8.9172449111938,46.150997161865,8.9224214553833,46.152484893799],"coordinates":[[[[8.920147,46.151058],[8.919782,46.150997],[8.917245,46.151707],[8.919525,46.152485],[8.922421,46.151371],[8.920147,46.151058]]]],"created":1292545768,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12683230_20101217_3bced36461.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 619048,
+  "type": "Feature",
+  "properties": {
+    "name":"Reichstett, Alsace, France",
+    "placetype":"locality",
+    "woe:id":619048,
+    "woe:name":"Reichstett, Alsace, France",
+    "woe:place_id":"y.PzDbefAJXTucI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.741713,48.64085,7.76139,48.666252],
+  "geometry": {"alpha":0.00015,"bbox":[7.7417130470276,48.640850067139,7.761390209198,48.66625213623],"coordinates":[[[[7.752013,48.64798],[7.76139,48.666252],[7.756819,48.645245],[7.75845,48.64085],[7.752399,48.643173],[7.741713,48.645218],[7.752013,48.64798]]]],"created":1292545546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/619048_20101217_4ec710430c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

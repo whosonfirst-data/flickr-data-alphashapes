@@ -1,0 +1,15 @@
+{
+  "id": 721914,
+  "type": "Feature",
+  "properties": {
+    "name":"Rodano, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721914,
+    "woe:name":"Rodano, Lombardy, Italy",
+    "woe:place_id":"JBKGp.ueA53WZC4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.335975,45.470783,9.358506,45.488056],
+  "geometry": {"alpha":0.00015,"bbox":[9.3359746932983,45.470783233643,9.3585062026978,45.488056182861],"coordinates":[[[[9.355853,45.476086],[9.354764,45.474289],[9.345417,45.470783],[9.335975,45.480476],[9.352798,45.488056],[9.358506,45.484161],[9.355853,45.476086]]]],"created":1292531383,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/721914_20101216_415f18fcbf.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

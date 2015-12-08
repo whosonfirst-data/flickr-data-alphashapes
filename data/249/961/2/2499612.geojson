@@ -1,0 +1,15 @@
+{
+  "id": 2499612,
+  "type": "Feature",
+  "properties": {
+    "name":"Stephenville, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2499612,
+    "woe:name":"Stephenville, Louisiana, United States",
+    "woe:place_id":"zRjVlAibBZXDI35z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.162537,29.798868,-91.158508,29.808475],
+  "geometry": {"alpha":0.00015,"bbox":[-91.162536621094,29.798868179321,-91.158508300781,29.808475494385],"coordinates":[[[[-91.162537,29.804417],[-91.161682,29.805571],[-91.159706,29.807619],[-91.158508,29.808475],[-91.160973,29.798868],[-91.162537,29.804417]]]],"created":1292522275,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2499612_20101216_9f44d577ae.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

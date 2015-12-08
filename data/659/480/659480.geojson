@@ -1,0 +1,15 @@
+{
+  "id": 659480,
+  "type": "Feature",
+  "properties": {
+    "name":"Herrnsdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":659480,
+    "woe:name":"Herrnsdorf, Bavaria, Germany",
+    "woe:place_id":"s11FLs2fBJW4pYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.885756,49.792942,10.886324,49.79335],
+  "geometry": {"alpha":0.00015,"bbox":[10.88575553894,49.792942047119,10.886323928833,49.793350219727],"coordinates":[[[[10.886131,49.79335],[10.886324,49.793221],[10.88626,49.792984],[10.88582,49.792942],[10.885756,49.793343],[10.886131,49.79335]]]],"created":1292408162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/659480_20101215_d01885ab23.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

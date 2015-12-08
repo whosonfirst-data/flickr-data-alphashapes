@@ -1,0 +1,15 @@
+{
+  "id": 2500501,
+  "type": "Feature",
+  "properties": {
+    "name":"Stony Lonesome, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2500501,
+    "woe:name":"Stony Lonesome, Indiana, United States",
+    "woe:place_id":"n46t_jKbBJwhVrPP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.084747,39.194481,-86.065521,39.20406],
+  "geometry": {"alpha":0.00015,"bbox":[-86.084747314453,39.194480895996,-86.065521240234,39.20405960083],"coordinates":[[[[-86.082001,39.20406],[-86.065521,39.201931],[-86.066895,39.194481],[-86.084747,39.197674],[-86.084747,39.199268],[-86.082001,39.20406]]]],"created":1292478124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2500501_20101216_6e766b176b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

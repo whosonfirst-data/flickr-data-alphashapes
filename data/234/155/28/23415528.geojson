@@ -1,0 +1,15 @@
+{
+  "id": 23415528,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadan, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":23415528,
+    "woe:name":"Stadan, Stockholm, Sweden",
+    "woe:place_id":"IOZYMrSbApiRyHr1JA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.580866,59.154324,17.583029,59.154697],
+  "geometry": {"alpha":0.00015,"bbox":[17.580865859985,59.154323577881,17.583028793335,59.154697418213],"coordinates":[[[[17.581514,59.154556],[17.580866,59.154697],[17.581804,59.154556],[17.583029,59.154324],[17.581911,59.154507],[17.581514,59.154556]]]],"created":1292463244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23415528_20101216_335f57d94d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

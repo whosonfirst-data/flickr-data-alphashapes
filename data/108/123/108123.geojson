@@ -1,0 +1,15 @@
+{
+  "id": 108123,
+  "type": "Feature",
+  "properties": {
+    "name":"Yoro, Yoro, Honduras",
+    "placetype":"locality",
+    "woe:id":108123,
+    "woe:name":"Yoro, Yoro, Honduras",
+    "woe:place_id":"AGI5An2YAZQB_o4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.137375,15.131787,-87.113686,15.143883],
+  "geometry": {"alpha":0.00015,"bbox":[-87.13737487793,15.13178730011,-87.11368560791,15.143882751465],"coordinates":[[[[-87.113686,15.138001],[-87.121239,15.131787],[-87.12442,15.134659],[-87.137375,15.136427],[-87.129822,15.143883],[-87.113686,15.138001]]]],"created":1292438159,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/108123_20101215_cff68364d3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

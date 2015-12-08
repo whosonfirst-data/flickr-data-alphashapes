@@ -1,0 +1,15 @@
+{
+  "id": 3585,
+  "type": "Feature",
+  "properties": {
+    "name":"Madeleine-Centre, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3585,
+    "woe:name":"Madeleine-Centre, Quebec, Canada",
+    "woe:place_id":"bu2iXtuaBJTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.340843,49.248032,-65.326103,49.250816],
+  "geometry": {"alpha":0.00015,"bbox":[-65.340843200684,49.248031616211,-65.326103210449,49.250816345215],"coordinates":[[[[-65.330544,49.248032],[-65.340843,49.250103],[-65.330284,49.249992],[-65.326103,49.250816],[-65.326248,49.250549],[-65.330544,49.248032]]]],"created":1247963168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2448/shapefiles/3585_20090719_b76a053f6a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

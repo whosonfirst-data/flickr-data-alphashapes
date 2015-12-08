@@ -1,0 +1,15 @@
+{
+  "id": 975377,
+  "type": "Feature",
+  "properties": {
+    "name":"Ozo, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":975377,
+    "woe:name":"Ozo, Luxemburg, Belgium",
+    "woe:place_id":"IQeJasOQBpmH1kA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.540077,50.371086,5.560419,50.388084],
+  "geometry": {"alpha":0.00015,"bbox":[5.5400772094727,50.371086120605,5.5604190826416,50.388084411621],"coordinates":[[[[5.540258,50.374603],[5.540077,50.375267],[5.544727,50.388084],[5.560419,50.374615],[5.559897,50.371086],[5.558652,50.371387],[5.540258,50.374603]]]],"created":1247910373,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2635/shapefiles/975377_20090718_24fb9d53dd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

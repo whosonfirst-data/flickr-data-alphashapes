@@ -1,0 +1,15 @@
+{
+  "id": 4153,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterford, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":4153,
+    "woe:name":"Waterford, Nova Scotia, Canada",
+    "woe:place_id":"f92JK96dAJkh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.936852,44.573784,-65.919167,44.579903],
+  "geometry": {"alpha":0.00015,"bbox":[-65.936851501465,44.573783874512,-65.919166564941,44.579902648926],"coordinates":[[[[-65.919182,44.574326],[-65.919167,44.574203],[-65.919426,44.574139],[-65.920639,44.573784],[-65.925346,44.574696],[-65.930672,44.576775],[-65.936852,44.579903],[-65.92363,44.578484],[-65.919182,44.574326]]]],"created":1292546348,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/4153_20101217_c6f2c8d65d.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

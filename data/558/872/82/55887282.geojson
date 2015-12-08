@@ -1,0 +1,15 @@
+{
+  "id": 55887282,
+  "type": "Feature",
+  "properties": {
+    "name":"Zapote Del Valle, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":55887282,
+    "woe:name":"Zapote Del Valle, Jalisco, Mexico",
+    "woe:place_id":"BfjVawKcBJQoj3TiIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.303925,20.502802,-103.290283,20.520769],
+  "geometry": {"alpha":0.00015,"bbox":[-103.30392456055,20.502801895142,-103.29028320312,20.520769119263],"coordinates":[[[[-103.292656,20.502802],[-103.292778,20.503426],[-103.303925,20.520769],[-103.290283,20.505194],[-103.290833,20.503033],[-103.292656,20.502802]]]],"created":1292452964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/55887282_20101215_35aa802bca.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

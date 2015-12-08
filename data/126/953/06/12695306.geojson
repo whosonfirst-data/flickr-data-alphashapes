@@ -1,0 +1,15 @@
+{
+  "id": 12695306,
+  "type": "Feature",
+  "properties": {
+    "name":"Benissa, Spain",
+    "placetype":"locality",
+    "woe:id":12695306,
+    "woe:name":"Benissa, Spain",
+    "woe:place_id":"T0.Gw8uYA5pIFrdKyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.048065,38.686111,0.051219,38.686783],
+  "geometry": {"alpha":1e-05,"bbox":[0.04806499928236,38.686111450195,0.051219001412392,38.686782836914],"coordinates":[[[[0.050919,38.686432],[0.050532,38.686111],[0.048065,38.686581],[0.051219,38.686783],[0.050919,38.686432]]]],"created":1292549181,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12695306_20101217_2562b9b1dc.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12638204,
+  "type": "Feature",
+  "properties": {
+    "name":"Rouvres, France",
+    "placetype":"locality",
+    "woe:id":12638204,
+    "woe:name":"Rouvres, France",
+    "woe:place_id":"h9fIPROYA5oG96zfoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.481019,48.8405,1.487022,48.842152],
+  "geometry": {"alpha":1e-05,"bbox":[1.4810190200806,48.84049987793,1.4870220422745,48.842151641846],"coordinates":[[[[1.481019,48.841362],[1.482585,48.840549],[1.486786,48.842152],[1.487022,48.841862],[1.482564,48.8405],[1.481019,48.841362]]]],"created":1234809969,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3508/shapefiles/12638204_20090216_4bbcd0d5d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

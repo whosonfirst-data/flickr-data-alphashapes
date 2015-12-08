@@ -1,0 +1,15 @@
+{
+  "id": 12675009,
+  "type": "Feature",
+  "properties": {
+    "name":"Haus, Austria",
+    "placetype":"locality",
+    "woe:id":12675009,
+    "woe:name":"Haus, Austria",
+    "woe:place_id":"GB_cAlaYA5rICNILlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.713855,47.436214,13.718318,47.441612],
+  "geometry": {"alpha":1e-05,"bbox":[13.713854789734,47.436214447021,13.718317985535,47.441612243652],"coordinates":[[[[13.714708,47.438435],[13.713855,47.440048],[13.716602,47.441612],[13.716773,47.440365],[13.718318,47.436214],[13.716215,47.436371],[13.714708,47.438435]]]],"created":1292459051,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12675009_20101216_bbf529007f.tar.gz"},"points":42,"type":"MultiPolygon"}
+}

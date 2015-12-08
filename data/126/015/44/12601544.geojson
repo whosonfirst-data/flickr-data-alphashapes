@@ -1,0 +1,15 @@
+{
+  "id": 12601544,
+  "type": "Feature",
+  "properties": {
+    "name":"Sinaloa, SI, Mexico",
+    "placetype":"county",
+    "woe:id":12601544,
+    "woe:name":"Sinaloa, SI, Mexico",
+    "woe:place_id":"q6XsPH2YA5pboB1Mng",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-108.223312,25.814032,-108.199112,25.830564],
+  "geometry": {"alpha":0.0015,"bbox":[-108.22331237793,25.814031600952,-108.19911193848,25.830564498901],"coordinates":[[[[-108.223099,25.821835],[-108.220222,25.830564],[-108.199112,25.824577],[-108.214645,25.819363],[-108.223312,25.814032],[-108.223099,25.821835]]]],"created":1292547129,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12601544_20101217_a6e8cc7c79.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

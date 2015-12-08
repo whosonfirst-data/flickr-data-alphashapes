@@ -1,0 +1,15 @@
+{
+  "id": 2372838,
+  "type": "Feature",
+  "properties": {
+    "name":"Byron, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2372838,
+    "woe:name":"Byron, Michigan, United States",
+    "woe:place_id":"5biRaQubApst6ufP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.954727,42.822693,-83.929535,42.836262],
+  "geometry": {"alpha":0.00015,"bbox":[-83.954727172852,42.822692871094,-83.929534912109,42.836261749268],"coordinates":[[[[-83.954147,42.823936],[-83.948166,42.836262],[-83.929535,42.825119],[-83.94416,42.822693],[-83.954018,42.823208],[-83.954727,42.823421],[-83.954147,42.823936]]]],"created":1234792096,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3580/shapefiles/2372838_20090216_e772e13075.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

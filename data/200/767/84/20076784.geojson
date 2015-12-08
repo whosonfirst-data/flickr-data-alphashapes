@@ -1,0 +1,15 @@
+{
+  "id": 20076784,
+  "type": "Feature",
+  "properties": {
+    "name":"Tavullia, Italy",
+    "placetype":"locality",
+    "woe:id":20076784,
+    "woe:name":"Tavullia, Italy",
+    "woe:place_id":"skbkwHabAZzQnk881A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.689402,43.845997,12.690367,43.848022],
+  "geometry": {"alpha":1e-05,"bbox":[12.689401626587,43.845996856689,12.690366744995,43.848022460938],"coordinates":[[[[12.689852,43.845997],[12.689402,43.846073],[12.689681,43.848022],[12.689992,43.847961],[12.690367,43.846645],[12.69011,43.846249],[12.689852,43.845997]]]],"created":1292517693,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20076784_20101216_a215e9a07a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12671990,
+  "type": "Feature",
+  "properties": {
+    "name":"Valentine, France",
+    "placetype":"locality",
+    "woe:id":12671990,
+    "woe:name":"Valentine, France",
+    "woe:place_id":"99tPBzCYA5qTyD1fVw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.699434,43.096851,0.706729,43.101665],
+  "geometry": {"alpha":1e-05,"bbox":[0.69943398237228,43.096851348877,0.70672899484634,43.101665496826],"coordinates":[[[[0.706261,43.099068],[0.706729,43.098866],[0.706683,43.098686],[0.706417,43.097885],[0.706206,43.096851],[0.70527,43.097607],[0.699434,43.098351],[0.703881,43.101665],[0.706261,43.099068]]]],"created":1292527684,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12671990_20101216_890ac06777.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

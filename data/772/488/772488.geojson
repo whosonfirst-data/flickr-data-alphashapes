@@ -1,0 +1,15 @@
+{
+  "id": 772488,
+  "type": "Feature",
+  "properties": {
+    "name":"Salinas, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":772488,
+    "woe:name":"Salinas, Valencia, Spain",
+    "woe:place_id":"UMxnktSeBp4YHyg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.915727,38.514862,-0.908432,38.524128],
+  "geometry": {"alpha":0.00015,"bbox":[-0.91572701931,38.514862060547,-0.90843200683594,38.524127960205],"coordinates":[[[[-0.912551,38.520771],[-0.908432,38.514862],[-0.913581,38.51775],[-0.91444,38.520973],[-0.915384,38.522953],[-0.915727,38.524128],[-0.912551,38.520771]]]],"created":1292537989,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/772488_20101216_7cca219f75.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

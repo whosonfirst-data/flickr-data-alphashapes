@@ -1,0 +1,15 @@
+{
+  "id": 23404767,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Alison, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404767,
+    "woe:name":"Point Alison, Alberta, Canada",
+    "woe:place_id":"IfbXJWqbApiXM09CKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.49453,53.549793,-114.477707,53.558727],
+  "geometry": {"alpha":0.00015,"bbox":[-114.49452972412,53.549793243408,-114.47770690918,53.558727264404],"coordinates":[[[[-114.484985,53.558727],[-114.477707,53.549793],[-114.481483,53.551018],[-114.49453,53.555401],[-114.490852,53.557068],[-114.484985,53.558727]]]],"created":1292526799,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/23404767_20101216_5a93e645d1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

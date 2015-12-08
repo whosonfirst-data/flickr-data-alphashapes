@@ -1,0 +1,15 @@
+{
+  "id": 2412444,
+  "type": "Feature",
+  "properties": {
+    "name":"Gotham, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2412444,
+    "woe:name":"Gotham, Wisconsin, United States",
+    "woe:place_id":"R1BwaeabBZ20TDZG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.299164,43.222065,-90.288391,43.230831],
+  "geometry": {"alpha":0.00015,"bbox":[-90.299163818359,43.222064971924,-90.288391113281,43.23083114624],"coordinates":[[[[-90.2929,43.223957],[-90.288391,43.222065],[-90.295555,43.223331],[-90.296387,43.223331],[-90.299164,43.230831],[-90.2929,43.223957]]]],"created":1292525504,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2412444_20101216_3766390db9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

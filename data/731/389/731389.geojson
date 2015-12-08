@@ -1,0 +1,15 @@
+{
+  "id": 731389,
+  "type": "Feature",
+  "properties": {
+    "name":"Loo, Overyssel, Netherlands",
+    "placetype":"locality",
+    "woe:id":731389,
+    "woe:name":"Loo, Overyssel, Netherlands",
+    "woe:place_id":"R7R7A4meAp1c9PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.332845,52.242561,6.347281,52.255962],
+  "geometry": {"alpha":0.00015,"bbox":[6.3328452110291,52.242561340332,6.3472809791565,52.255962371826],"coordinates":[[[[6.339517,52.252762],[6.335806,52.253826],[6.332845,52.255962],[6.343252,52.253895],[6.346578,52.253777],[6.347281,52.242561],[6.339517,52.252762]]]],"created":1292531411,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/731389_20101216_023699bcbe.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2436180,
+  "type": "Feature",
+  "properties": {
+    "name":"Landisburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2436180,
+    "woe:name":"Landisburg, Pennsylvania, United States",
+    "woe:place_id":"MjjYjCGbBZ_WET4m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.309608,40.336044,-77.302307,40.343594],
+  "geometry": {"alpha":0.00015,"bbox":[-77.309608459473,40.336044311523,-77.302307128906,40.343593597412],"coordinates":[[[[-77.309425,40.336044],[-77.309608,40.336044],[-77.306648,40.343594],[-77.302315,40.338009],[-77.302307,40.337986],[-77.309425,40.336044]]]],"created":1292550315,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2436180_20101217_6dd829db5a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

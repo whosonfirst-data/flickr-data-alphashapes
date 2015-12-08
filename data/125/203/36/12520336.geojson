@@ -1,0 +1,15 @@
+{
+  "id": 12520336,
+  "type": "Feature",
+  "properties": {
+    "name":"Jackson International Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520336,
+    "woe:name":"Jackson International Airport, United States",
+    "woe:place_id":"lR47EbGYA5naF5MtVA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.081482,32.303333,-90.072502,32.315605],
+  "geometry": {"alpha":1e-05,"bbox":[-90.081481933594,32.303333282471,-90.07250213623,32.315605163574],"coordinates":[[[[-90.077621,32.309982],[-90.08033,32.311001],[-90.08078,32.313828],[-90.081482,32.315605],[-90.079285,32.314529],[-90.076256,32.311825],[-90.074501,32.310802],[-90.074326,32.309189],[-90.072502,32.304001],[-90.074333,32.303333],[-90.075531,32.306721],[-90.07724,32.309673],[-90.077621,32.309982]]]],"created":1292540532,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12520336_20101216_81ae62a9cf.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

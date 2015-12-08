@@ -1,0 +1,15 @@
+{
+  "id": 2465870,
+  "type": "Feature",
+  "properties": {
+    "name":"Orange, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2465870,
+    "woe:name":"Orange, Florida, United States",
+    "woe:place_id":"pwqsrHabBZobg_9F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.994156,30.272226,-84.98719,30.27747],
+  "geometry": {"alpha":0.00015,"bbox":[-84.994155883789,30.272226333618,-84.987190246582,30.27746963501],"coordinates":[[[[-84.994156,30.272226],[-84.990219,30.276747],[-84.987442,30.27747],[-84.98719,30.277376],[-84.990845,30.27523],[-84.994125,30.272236],[-84.994156,30.272226]]]],"created":1292448628,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2465870_20101215_cb152566a9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

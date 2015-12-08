@@ -1,0 +1,15 @@
+{
+  "id": 2516790,
+  "type": "Feature",
+  "properties": {
+    "name":"West Carteret, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2516790,
+    "woe:name":"West Carteret, New Jersey, United States",
+    "woe:place_id":"tIsQlxmbBJ1qjSu0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.262169,40.595772,-74.251755,40.611176],
+  "geometry": {"alpha":0.00015,"bbox":[-74.262168884277,40.595771789551,-74.251754760742,40.611175537109],"coordinates":[[[[-74.262169,40.605499],[-74.261658,40.606892],[-74.257576,40.611176],[-74.256958,40.605293],[-74.251755,40.595772],[-74.262169,40.605499]]]],"created":1292448725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2516790_20101215_115db5b8d9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

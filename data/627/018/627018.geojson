@@ -1,0 +1,15 @@
+{
+  "id": 627018,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Suliac, Brittany, France",
+    "placetype":"locality",
+    "woe:id":627018,
+    "woe:name":"St.-Suliac, Brittany, France",
+    "woe:place_id":"NtghrhefA5v0lJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.981143,48.557976,-1.964063,48.585266],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9811429977417,48.557975769043,-1.9640630483627,48.585266113281],"coordinates":[[[[-1.971445,48.570076],[-1.964063,48.569138],[-1.975822,48.557976],[-1.981143,48.572292],[-1.979942,48.585266],[-1.971445,48.570076]]]],"created":1292541392,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/627018_20101216_a935cb2a30.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

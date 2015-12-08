@@ -1,0 +1,15 @@
+{
+  "id": 20140206,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosso, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20140206,
+    "woe:name":"Rosso, Lombardy, Italy",
+    "woe:place_id":"ASvKsvmbAZ18252V6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.189,45.003166,9.195,45.004166],
+  "geometry": {"alpha":0.00015,"bbox":[9.1890001296997,45.00316619873,9.1949996948242,45.004165649414],"coordinates":[[[[9.191167,45.003166],[9.189,45.003666],[9.189167,45.003666],[9.190167,45.003666],[9.194167,45.004002],[9.195,45.004166],[9.1935,45.003502],[9.191667,45.003166],[9.191167,45.003166]]]],"created":1292457263,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20140206_20101215_1ce86e0237.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

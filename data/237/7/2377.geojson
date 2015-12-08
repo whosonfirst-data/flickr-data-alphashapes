@@ -1,0 +1,15 @@
+{
+  "id": 2377,
+  "type": "Feature",
+  "properties": {
+    "name":"Marean Lake, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2377,
+    "woe:name":"Marean Lake, Saskatchewan, Canada",
+    "woe:place_id":"bhiGNHibAptF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.518845,52.492527,-103.505241,52.50985],
+  "geometry": {"alpha":0.00015,"bbox":[-103.51884460449,52.492527008057,-103.50524139404,52.50984954834],"coordinates":[[[[-103.516441,52.494644],[-103.516701,52.496498],[-103.518845,52.50985],[-103.505241,52.508465],[-103.51078,52.498562],[-103.516037,52.493088],[-103.516487,52.492527],[-103.516441,52.494644]]]],"created":1292543640,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2377_20101216_9c5291467d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

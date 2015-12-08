@@ -1,0 +1,15 @@
+{
+  "id": 23397218,
+  "type": "Feature",
+  "properties": {
+    "name":"Manilla, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397218,
+    "woe:name":"Manilla, Ontario, Canada",
+    "woe:place_id":"loGo.0abAp9dDcvkmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.999298,44.311073,-78.988091,44.335144],
+  "geometry": {"alpha":0.00015,"bbox":[-78.999298095703,44.311073303223,-78.988090515137,44.335144042969],"coordinates":[[[[-78.997581,44.333519],[-78.998611,44.331799],[-78.988091,44.311073],[-78.998779,44.331768],[-78.999298,44.335144],[-78.997581,44.333519]]]],"created":1292495704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/23397218_20101216_b8b6135ccc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

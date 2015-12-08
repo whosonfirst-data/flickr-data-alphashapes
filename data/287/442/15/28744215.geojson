@@ -1,0 +1,15 @@
+{
+  "id": 28744215,
+  "type": "Feature",
+  "properties": {
+    "name":"Montmorency, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744215,
+    "woe:name":"Montmorency, Michigan, United States",
+    "woe:place_id":".2miWOibCZucGnMxmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.182739,45.116177,-84.176559,45.130741],
+  "geometry": {"alpha":0.00015,"bbox":[-84.182739257812,45.116176605225,-84.176559448242,45.130741119385],"coordinates":[[[[-84.176559,45.122505],[-84.182739,45.116177],[-84.18222,45.130558],[-84.181366,45.130741],[-84.176559,45.122505]]]],"created":1292551489,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/28744215_20101217_6d9ee7c041.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

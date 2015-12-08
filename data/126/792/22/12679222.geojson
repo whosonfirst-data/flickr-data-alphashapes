@@ -1,0 +1,15 @@
+{
+  "id": 12679222,
+  "type": "Feature",
+  "properties": {
+    "name":"Favara, Italy",
+    "placetype":"locality",
+    "woe:id":12679222,
+    "woe:name":"Favara, Italy",
+    "woe:place_id":"7hby8TGYA5pz2F3oQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.66355,37.319553,13.668418,37.321861],
+  "geometry": {"alpha":1e-05,"bbox":[13.663550376892,37.319553375244,13.668417930603,37.32186126709],"coordinates":[[[[13.66385,37.320354],[13.66403,37.32032],[13.668418,37.321861],[13.664385,37.319553],[13.66355,37.319981],[13.66385,37.320354]]]],"created":1292524565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12679222_20101216_24a55d9337.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

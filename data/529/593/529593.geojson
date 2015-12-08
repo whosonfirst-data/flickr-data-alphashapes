@@ -1,0 +1,15 @@
+{
+  "id": 529593,
+  "type": "Feature",
+  "properties": {
+    "name":"Borovnica, Vrhnika, Slovenia",
+    "placetype":"locality",
+    "woe:id":529593,
+    "woe:name":"Borovnica, Vrhnika, Slovenia",
+    "woe:place_id":"ak2ZgYecA5VkGqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.347457,45.904942,14.379386,45.926914],
+  "geometry": {"alpha":0.00015,"bbox":[14.347456932068,45.904941558838,14.379385948181,45.926914215088],"coordinates":[[[[14.363422,45.917004],[14.347457,45.914436],[14.356985,45.926529],[14.36325,45.926914],[14.368188,45.921249],[14.379386,45.904942],[14.363422,45.917004]]]],"created":1292523909,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/529593_20101216_7bb346a168.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

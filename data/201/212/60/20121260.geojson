@@ -1,0 +1,15 @@
+{
+  "id": 20121260,
+  "type": "Feature",
+  "properties": {
+    "name":"Colle San Marco, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20121260,
+    "woe:name":"Colle San Marco, Marche, Italy",
+    "woe:place_id":"Vn9qftebAZ0tsvYIBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.576011,42.822979,13.581848,42.833366],
+  "geometry": {"alpha":0.00015,"bbox":[13.576010704041,42.822978973389,13.581848144531,42.833366394043],"coordinates":[[[[13.578672,42.8311],[13.581848,42.833366],[13.581676,42.831062],[13.581504,42.826],[13.576011,42.822979],[13.577041,42.828014],[13.578672,42.8311]]]],"created":1292550514,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20121260_20101217_a92b7ea0ed.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

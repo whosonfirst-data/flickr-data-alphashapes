@@ -1,0 +1,15 @@
+{
+  "id": 490032,
+  "type": "Feature",
+  "properties": {
+    "name":"Cigacice, Lubusz, Poland",
+    "placetype":"locality",
+    "woe:id":490032,
+    "woe:name":"Cigacice, Lubusz, Poland",
+    "woe:place_id":"m36AvXSdCJy2ByQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.608139,52.031345,15.616507,52.040211],
+  "geometry": {"alpha":0.00015,"bbox":[15.608139038086,52.031345367432,15.616506576538,52.040210723877],"coordinates":[[[[15.609792,52.038696],[15.615832,52.040211],[15.616207,52.037926],[15.616507,52.0359],[15.611314,52.031345],[15.608139,52.034859],[15.609792,52.038696]]]],"created":1292515747,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/490032_20101216_07c49028e8.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

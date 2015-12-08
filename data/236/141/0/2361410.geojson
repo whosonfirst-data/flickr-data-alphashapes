@@ -1,0 +1,15 @@
+{
+  "id": 2361410,
+  "type": "Feature",
+  "properties": {
+    "name":"Beechwood Hills, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2361410,
+    "woe:name":"Beechwood Hills, Virginia, United States",
+    "woe:place_id":"K4oZlNWbApq7ucO2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.240456,37.342628,-79.232224,37.355404],
+  "geometry": {"alpha":0.00015,"bbox":[-79.240455627441,37.342628479004,-79.232223510742,37.355403900146],"coordinates":[[[[-79.232224,37.346664],[-79.233482,37.342628],[-79.235252,37.343674],[-79.240456,37.355404],[-79.232666,37.348167],[-79.232224,37.346664]]]],"created":1292527450,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2361410_20101216_7845c2348a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

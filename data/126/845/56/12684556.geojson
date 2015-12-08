@@ -1,0 +1,15 @@
+{
+  "id": 12684556,
+  "type": "Feature",
+  "properties": {
+    "name":"Val-d'Illiez, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684556,
+    "woe:name":"Val-d'Illiez, Switzerland",
+    "woe:place_id":"dREqpeCYA5rBctdNeg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.923166,46.173,6.923833,46.1735],
+  "geometry": {"alpha":1e-05,"bbox":[6.9231657981873,46.173000335693,6.9238328933716,46.173500061035],"coordinates":[[[[6.923833,46.1735],[6.923833,46.173332],[6.923166,46.173],[6.923166,46.173332],[6.923166,46.1735],[6.923833,46.1735]]]],"created":1292526682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12684556_20101216_ab54711e14.tar.gz"},"points":44,"type":"MultiPolygon"}
+}

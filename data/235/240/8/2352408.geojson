@@ -1,0 +1,15 @@
+{
+  "id": 2352408,
+  "type": "Feature",
+  "properties": {
+    "name":"Airport Drive, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2352408,
+    "woe:name":"Airport Drive, Missouri, United States",
+    "woe:place_id":"Zd2ycRubApkddwbx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.516754,37.131718,-94.497566,37.1479],
+  "geometry": {"alpha":0.00015,"bbox":[-94.516754150391,37.131717681885,-94.497566223145,37.147899627686],"coordinates":[[[[-94.509972,37.131718],[-94.516754,37.139244],[-94.512985,37.14212],[-94.498642,37.1479],[-94.497566,37.14246],[-94.509972,37.131718]]]],"created":1248157329,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2643/shapefiles/2352408_20090721_23a3e6b243.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

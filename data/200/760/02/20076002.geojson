@@ -1,0 +1,15 @@
+{
+  "id": 20076002,
+  "type": "Feature",
+  "properties": {
+    "name":"Hone, Italy",
+    "placetype":"locality",
+    "woe:id":20076002,
+    "woe:name":"Hone, Italy",
+    "woe:place_id":"ZL_gfbObAZycVy9jpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.702832,45.616047,7.707595,45.619919],
+  "geometry": {"alpha":1e-05,"bbox":[7.7028322219849,45.616046905518,7.707594871521,45.619918823242],"coordinates":[[[[7.707316,45.619919],[7.707595,45.619499],[7.707552,45.619438],[7.702832,45.616047],[7.707316,45.619919]]]],"created":1292545387,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20076002_20101217_c6135089ff.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

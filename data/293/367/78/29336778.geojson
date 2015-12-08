@@ -1,0 +1,15 @@
+{
+  "id": 29336778,
+  "type": "Feature",
+  "properties": {
+    "name":"Centro 37, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":29336778,
+    "woe:name":"Centro 37, Lazio, Italy",
+    "woe:place_id":"88bvmW6bCJ95otJZrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.174224,41.876751,12.181091,41.906876],
+  "geometry": {"alpha":0.00015,"bbox":[12.174223899841,41.876750946045,12.181091308594,41.906875610352],"coordinates":[[[[12.174825,41.87838],[12.174224,41.890266],[12.181091,41.906876],[12.181091,41.8918],[12.177057,41.876751],[12.174825,41.87838]]]],"created":1234614012,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3314/shapefiles/29336778_20090214_440dc6dbd8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

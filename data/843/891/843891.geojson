@@ -1,0 +1,15 @@
+{
+  "id": 843891,
+  "type": "Feature",
+  "properties": {
+    "name":"Mahtra, Rapla County, Estonia",
+    "placetype":"locality",
+    "woe:id":843891,
+    "woe:name":"Mahtra, Rapla County, Estonia",
+    "woe:place_id":"gXH.ZdqRBZ_IG.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.010981,59.081032,25.038099,59.089485],
+  "geometry": {"alpha":0.00015,"bbox":[25.010980606079,59.081031799316,25.03809928894,59.089485168457],"coordinates":[[[[25.010981,59.081032],[25.014324,59.083313],[25.037413,59.089485],[25.038099,59.086048],[25.014324,59.083313],[25.013809,59.081242],[25.010981,59.081032]]]],"created":1292456243,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/843891_20101215_b903eda7bf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 150991,
+  "type": "Feature",
+  "properties": {
+    "name":"Vista Hermosa, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":150991,
+    "woe:name":"Vista Hermosa, Mexico, Mexico",
+    "woe:place_id":"NcpUgmeYBJwPmkY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.224625,19.508181,-99.208519,19.521448],
+  "geometry": {"alpha":0.00015,"bbox":[-99.224624633789,19.508180618286,-99.208518981934,19.521448135376],"coordinates":[[[[-99.213066,19.515785],[-99.208519,19.508181],[-99.224625,19.51251],[-99.221817,19.521448],[-99.218842,19.518421],[-99.213066,19.515785]]]],"created":1292510525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/150991_20101216_9ef14a10d2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

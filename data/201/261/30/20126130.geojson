@@ -1,0 +1,15 @@
+{
+  "id": 20126130,
+  "type": "Feature",
+  "properties": {
+    "name":"Geo, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20126130,
+    "woe:name":"Geo, Liguria, Italy",
+    "woe:place_id":"tPBxivybAZ1jkztVXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.864078,44.472012,8.901,44.483524],
+  "geometry": {"alpha":0.000234375,"bbox":[8.8640775680542,44.472011566162,8.9010000228882,44.48352432251],"coordinates":[[[[8.872565,44.476879],[8.864078,44.480278],[8.86897,44.483524],[8.885262,44.480019],[8.901,44.477249],[8.894612,44.472012],[8.872565,44.476879]]]],"created":1247952246,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3458/shapefiles/20126130_20090718_b776524658.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

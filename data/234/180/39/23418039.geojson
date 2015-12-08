@@ -1,0 +1,15 @@
+{
+  "id": 23418039,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Kiowa, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23418039,
+    "woe:name":"Lake Kiowa, Texas, United States",
+    "woe:place_id":"njbtgNibApjhAhNKnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.036057,33.556759,-97.006317,33.566715],
+  "geometry": {"alpha":0.00015,"bbox":[-97.036056518555,33.556758880615,-97.006317138672,33.566715240479],"coordinates":[[[[-97.015114,33.566715],[-97.006317,33.564911],[-97.014771,33.557991],[-97.019341,33.556759],[-97.036057,33.563282],[-97.015114,33.566715]]]],"created":1292446409,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/23418039_20101215_b4670c0627.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

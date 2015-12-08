@@ -1,0 +1,15 @@
+{
+  "id": 625333,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Loup, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":625333,
+    "woe:name":"St-Loup, Burgundy, France",
+    "woe:place_id":"3ATF9GCfA5mR8nk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.855957,46.720562,4.861278,46.729019],
+  "geometry": {"alpha":0.00015,"bbox":[4.85595703125,46.720561981201,4.8612780570984,46.729019165039],"coordinates":[[[[4.857362,46.727108],[4.860291,46.729019],[4.861278,46.72327],[4.855957,46.720562],[4.857158,46.725506],[4.857362,46.727108]]]],"created":1292543543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/625333_20101216_71c5fdde1e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

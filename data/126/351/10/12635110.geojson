@@ -1,0 +1,15 @@
+{
+  "id": 12635110,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gauting, Germany",
+    "placetype":"locality",
+    "woe:id":12635110,
+    "woe:name":"Gemeinde Gauting, Germany",
+    "woe:place_id":"OLh4DQOYA5o363_rFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.36468,48.042801,11.372652,48.050831],
+  "geometry": {"alpha":1e-05,"bbox":[11.364680290222,48.04280090332,11.372652053833,48.050830841064],"coordinates":[[[[11.368135,48.047024],[11.36468,48.04401],[11.367845,48.047188],[11.370162,48.050831],[11.369218,48.047821],[11.372652,48.042801],[11.368135,48.047024]]]],"created":1292544236,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12635110_20101217_2414364149.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

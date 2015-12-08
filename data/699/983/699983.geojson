@@ -1,0 +1,15 @@
+{
+  "id": 699983,
+  "type": "Feature",
+  "properties": {
+    "name":"Treuenbrietzen, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":699983,
+    "woe:name":"Treuenbrietzen, Brandenburg, Germany",
+    "woe:place_id":"PSqNkAyfCJWel2U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.860097,52.092163,12.891297,52.110031],
+  "geometry": {"alpha":0.00015,"bbox":[12.860096931458,52.092163085938,12.891297340393,52.11003112793],"coordinates":[[[[12.860097,52.092163],[12.864303,52.094696],[12.872875,52.110031],[12.891297,52.094482],[12.870848,52.097218],[12.865333,52.094482],[12.860097,52.092163]]]],"created":1292539929,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/699983_20101216_87aa94628a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

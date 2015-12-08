@@ -1,0 +1,15 @@
+{
+  "id": 40592,
+  "type": "Feature",
+  "properties": {
+    "name":"Wimblington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40592,
+    "woe:name":"Wimblington, England, United Kingdom",
+    "woe:place_id":"OI0CcXSdAZkP0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.078277,52.496159,0.100593,52.516167],
+  "geometry": {"alpha":0.00015,"bbox":[0.078276999294758,52.496158599854,0.10059300065041,52.516166687012],"coordinates":[[[[0.082805,52.511135],[0.100421,52.516167],[0.100593,52.514236],[0.088233,52.496159],[0.078277,52.504101],[0.078449,52.510578],[0.082805,52.511135]]]],"created":1292530841,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/40592_20101216_7ff2c64493.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2457201,
+  "type": "Feature",
+  "properties": {
+    "name":"Nashville, California, United States",
+    "placetype":"locality",
+    "woe:id":2457201,
+    "woe:name":"Nashville, California, United States",
+    "woe:place_id":"LNQYEjubBZmMEmQn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.858887,38.602341,-120.840508,38.619629],
+  "geometry": {"alpha":0.00015,"bbox":[-120.85888671875,38.602340698242,-120.84050750732,38.61962890625],"coordinates":[[[[-120.85643,38.619518],[-120.840508,38.611118],[-120.857948,38.602432],[-120.858887,38.602341],[-120.858002,38.619629],[-120.856842,38.619549],[-120.85643,38.619518]]]],"created":1292539862,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2457201_20101216_8237d5117d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

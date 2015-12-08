@@ -1,0 +1,15 @@
+{
+  "id": 2433921,
+  "type": "Feature",
+  "properties": {
+    "name":"Kremlin, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2433921,
+    "woe:name":"Kremlin, Oklahoma, United States",
+    "woe:place_id":"s9Sv4bCbBZ9GR0oV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.837761,36.544437,-97.828957,36.550812],
+  "geometry": {"alpha":0.00015,"bbox":[-97.837760925293,36.544437408447,-97.828956604004,36.550811767578],"coordinates":[[[[-97.828957,36.545441],[-97.829498,36.544464],[-97.830399,36.544437],[-97.837761,36.550812],[-97.830292,36.549877],[-97.828957,36.545441]]]],"created":1292537387,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2433921_20101216_76ceb73943.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

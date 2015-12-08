@@ -1,0 +1,15 @@
+{
+  "id": 12654458,
+  "type": "Feature",
+  "properties": {
+    "name":"Villennes-sur-Seine, France",
+    "placetype":"locality",
+    "woe:id":12654458,
+    "woe:name":"Villennes-sur-Seine, France",
+    "woe:place_id":"NuK0KTOYA5qpSQ_j_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.995473,48.924217,2.00003,48.929138],
+  "geometry": {"alpha":1e-05,"bbox":[1.9954730272293,48.924217224121,2.000030040741,48.929138183594],"coordinates":[[[[1.996078,48.924217],[1.995473,48.924438],[1.997923,48.929138],[1.99895,48.925201],[2.00003,48.924599],[1.996078,48.924217]]]],"created":1247950446,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2474/shapefiles/12654458_20090718_72afb6981a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

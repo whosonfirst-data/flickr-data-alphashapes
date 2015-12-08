@@ -1,0 +1,15 @@
+{
+  "id": 20078321,
+  "type": "Feature",
+  "properties": {
+    "name":"Newtownabbey, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20078321,
+    "woe:name":"Newtownabbey, United Kingdom",
+    "woe:place_id":"pQJay12bAZw7pIDDZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.884895,54.680801,-5.88232,54.684151],
+  "geometry": {"alpha":1e-05,"bbox":[-5.8848948478699,54.680801391602,-5.8823199272156,54.684150695801],"coordinates":[[[[-5.884208,54.680801],[-5.884648,54.681213],[-5.884895,54.682316],[-5.88232,54.684151],[-5.884208,54.680801]]]],"created":1226798428,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3054/shapefiles/20078321_20081116_fa8e7f3212.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

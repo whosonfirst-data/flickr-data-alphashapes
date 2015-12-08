@@ -1,0 +1,15 @@
+{
+  "id": 23395166,
+  "type": "Feature",
+  "properties": {
+    "name":"Leslie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395166,
+    "woe:name":"Leslie, Quebec, Canada",
+    "woe:place_id":"_pPxWg6bAp9SYG9JmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.531677,47.612122,-61.514511,47.627308],
+  "geometry": {"alpha":0.00015,"bbox":[-61.531677246094,47.612121582031,-61.514511108398,47.627307891846],"coordinates":[[[[-61.518887,47.627308],[-61.514511,47.625603],[-61.522064,47.612122],[-61.531677,47.616344],[-61.524208,47.624157],[-61.518887,47.627308]]]],"created":1247800327,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2584/shapefiles/23395166_20090717_eff50f0f54.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

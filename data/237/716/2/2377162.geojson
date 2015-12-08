@@ -1,0 +1,15 @@
+{
+  "id": 2377162,
+  "type": "Feature",
+  "properties": {
+    "name":"Cementon, New York, United States",
+    "placetype":"locality",
+    "woe:id":2377162,
+    "woe:name":"Cementon, New York, United States",
+    "woe:place_id":"BhiKi1ObAptSFk5i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.92234,42.139996,-73.920456,42.151474],
+  "geometry": {"alpha":0.00015,"bbox":[-73.922340393066,42.139995574951,-73.920455932617,42.151473999023],"coordinates":[[[[-73.920479,42.142818],[-73.92234,42.139996],[-73.921402,42.142784],[-73.921249,42.151474],[-73.920456,42.146564],[-73.920479,42.142818]]]],"created":1292456589,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2377162_20101215_3c22243088.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

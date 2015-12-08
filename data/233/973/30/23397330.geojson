@@ -1,0 +1,15 @@
+{
+  "id": 23397330,
+  "type": "Feature",
+  "properties": {
+    "name":"Seeleys Bay, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397330,
+    "woe:name":"Seeleys Bay, Ontario, Canada",
+    "woe:place_id":"2RJY.cWbAp_64aOJeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.250954,44.470787,-76.222198,44.479607],
+  "geometry": {"alpha":0.00015,"bbox":[-76.250953674316,44.47078704834,-76.222198486328,44.479606628418],"coordinates":[[[[-76.233444,44.478626],[-76.222198,44.470787],[-76.235237,44.476974],[-76.250954,44.479607],[-76.233444,44.478626]]]],"created":1292543942,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23397330_20101216_ac7d558e11.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602337,
+  "type": "Feature",
+  "properties": {
+    "name":"Zwevegem, Belgium",
+    "placetype":"locality",
+    "woe:id":12602337,
+    "woe:name":"Zwevegem, Belgium",
+    "woe:place_id":"pkec5EaYA5pYXvzirA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.378731,50.776146,3.385298,50.783978],
+  "geometry": {"alpha":1e-05,"bbox":[3.3787310123444,50.776145935059,3.3852980136871,50.783977508545],"coordinates":[[[[3.382622,50.78204],[3.385298,50.781471],[3.382759,50.776146],[3.37941,50.778301],[3.3794,50.7785],[3.378731,50.783978],[3.382622,50.78204]]]],"created":1292458168,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12602337_20101216_03070529c8.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

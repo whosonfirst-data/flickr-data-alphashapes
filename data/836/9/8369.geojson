@@ -1,0 +1,15 @@
+{
+  "id": 8369,
+  "type": "Feature",
+  "properties": {
+    "name":"Hythe, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8369,
+    "woe:name":"Hythe, Alberta, Canada",
+    "woe:place_id":"dRqLr1mRAppf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.560516,55.328987,-119.557762,55.334808],
+  "geometry": {"alpha":0.00015,"bbox":[-119.56051635742,55.328987121582,-119.557762146,55.334808349609],"coordinates":[[[[-119.557762,55.329781],[-119.558258,55.328987],[-119.558922,55.330505],[-119.560516,55.334808],[-119.557762,55.329781]]]],"created":1234581848,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3339/shapefiles/8369_20090214_8b42792cf4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

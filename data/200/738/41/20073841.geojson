@@ -1,0 +1,15 @@
+{
+  "id": 20073841,
+  "type": "Feature",
+  "properties": {
+    "name":"Roscommon Rural, Ireland",
+    "placetype":"locality",
+    "woe:id":20073841,
+    "woe:name":"Roscommon Rural, Ireland",
+    "woe:place_id":"HbhpacqbAZwLcGUF8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.193612,53.634682,-8.192603,53.635307],
+  "geometry": {"alpha":1e-05,"bbox":[-8.1936120986938,53.63468170166,-8.1926031112671,53.635307312012],"coordinates":[[[[-8.193612,53.6353],[-8.193593,53.635307],[-8.193445,53.635296],[-8.192603,53.634682],[-8.193558,53.635223],[-8.193612,53.6353]]]],"created":1292550791,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/20073841_20101217_c5c8867d3b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

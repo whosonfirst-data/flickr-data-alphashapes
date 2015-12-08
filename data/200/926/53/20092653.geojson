@@ -1,0 +1,15 @@
+{
+  "id": 20092653,
+  "type": "Feature",
+  "properties": {
+    "name":"Upcott, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092653,
+    "woe:name":"Upcott, England, United Kingdom",
+    "woe:place_id":"EaGreM6bAZyTcEkicg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.000211,52.155556,-2.99313,52.159111],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0002110004425,52.155555725098,-2.9931299686432,52.159111022949],"coordinates":[[[[-2.99313,52.155964],[-2.993173,52.155556],[-2.994117,52.155571],[-2.996692,52.155888],[-3.000211,52.159111],[-2.99313,52.155964]]]],"created":1292449138,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20092653_20101215_d3da52b593.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12630553,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Breest, Germany",
+    "placetype":"locality",
+    "woe:id":12630553,
+    "woe:name":"Gemeinde Breest, Germany",
+    "woe:place_id":"rcSVcKaYA5qx452z8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.311224,53.789436,13.312372,53.791],
+  "geometry": {"alpha":1e-05,"bbox":[13.311223983765,53.789436340332,13.312372207642,53.791000366211],"coordinates":[[[[13.311224,53.790604],[13.311833,53.791],[13.312,53.791],[13.312372,53.789436],[13.311224,53.790604]]]],"created":1292425442,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12630553_20101215_3c91296d33.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2458005,
+  "type": "Feature",
+  "properties": {
+    "name":"New Baltimore, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2458005,
+    "woe:name":"New Baltimore, Ohio, United States",
+    "woe:place_id":"0Hw2Bx.bBZk2X9zP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.675751,39.244949,-84.662621,39.265488],
+  "geometry": {"alpha":0.00015,"bbox":[-84.675750732422,39.24494934082,-84.662620544434,39.265487670898],"coordinates":[[[[-84.6632,39.262245],[-84.662621,39.261497],[-84.675751,39.244949],[-84.669914,39.265488],[-84.665062,39.264027],[-84.6632,39.262245]]]],"created":1292541124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2458005_20101216_6520aba128.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

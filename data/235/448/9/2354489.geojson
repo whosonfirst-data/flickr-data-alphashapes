@@ -1,0 +1,15 @@
+{
+  "id": 2354489,
+  "type": "Feature",
+  "properties": {
+    "name":"Anchorage, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2354489,
+    "woe:name":"Anchorage, Utah, United States",
+    "woe:place_id":"68BreZ2bAplqrQ8J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.030762,41.079105,-112.015228,41.089798],
+  "geometry": {"alpha":0.00015,"bbox":[-112.03076171875,41.079105377197,-112.01522827148,41.089797973633],"coordinates":[[[[-112.025276,41.087776],[-112.030762,41.089798],[-112.025276,41.088612],[-112.018333,41.088612],[-112.015228,41.079105],[-112.025276,41.087776]]]],"created":1292521831,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2354489_20101216_fba8e6f7cb.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

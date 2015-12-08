@@ -1,0 +1,15 @@
+{
+  "id": 763940,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rambla, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":763940,
+    "woe:name":"La Rambla, Canary Islands, Spain",
+    "woe:place_id":"L6AZOAKeB589UlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.624514,28.391399,-16.608582,28.401064],
+  "geometry": {"alpha":0.00015,"bbox":[-16.624513626099,28.391399383545,-16.608581542969,28.401063919067],"coordinates":[[[[-16.624514,28.391745],[-16.621769,28.395206],[-16.608582,28.401064],[-16.616564,28.393515],[-16.617508,28.391399],[-16.624514,28.391745]]]],"created":1292519576,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/763940_20101216_66964030a5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

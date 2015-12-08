@@ -1,0 +1,15 @@
+{
+  "id": 12651150,
+  "type": "Feature",
+  "properties": {
+    "name":"Ranville, France",
+    "placetype":"locality",
+    "woe:id":12651150,
+    "woe:name":"Ranville, France",
+    "woe:place_id":"ck0cMliYA5raM8zNlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.274883,49.240101,-0.269336,49.245632],
+  "geometry": {"alpha":1e-05,"bbox":[-0.27488300204277,49.240100860596,-0.26933598518372,49.245632171631],"coordinates":[[[[-0.271961,49.241951],[-0.273971,49.240101],[-0.274883,49.242592],[-0.274829,49.242764],[-0.272083,49.244053],[-0.269336,49.245632],[-0.270237,49.243938],[-0.270881,49.242088],[-0.271961,49.241951]]]],"created":1292534473,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12651150_20101216_f21940c74b.tar.gz"},"points":60,"type":"MultiPolygon"}
+}

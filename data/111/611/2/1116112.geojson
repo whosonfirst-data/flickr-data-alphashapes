@@ -1,0 +1,15 @@
+{
+  "id": 1116112,
+  "type": "Feature",
+  "properties": {
+    "name":"Udono, Japan",
+    "placetype":"locality",
+    "woe:id":1116112,
+    "woe:name":"Udono, Japan",
+    "woe:place_id":"WWS6qzeYAJ1WeKS.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [136.02829,33.768501,136.028732,33.76989],
+  "geometry": {"alpha":1e-05,"bbox":[136.02828979492,33.768501281738,136.0287322998,33.769889831543],"coordinates":[[[[136.028732,33.76989],[136.028336,33.768688],[136.02829,33.768501],[136.028351,33.769573],[136.028732,33.76989]]]],"created":1234482003,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3525/shapefiles/1116112_20090212_d8f271ac2d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

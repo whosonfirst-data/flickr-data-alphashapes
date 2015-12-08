@@ -1,0 +1,15 @@
+{
+  "id": 564831,
+  "type": "Feature",
+  "properties": {
+    "name":"Haapasaari, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":564831,
+    "woe:name":"Haapasaari, Southern Finland, Finland",
+    "woe:place_id":"BfJW8J6cB5ggs0c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.183056,60.28389,27.209101,60.291065],
+  "geometry": {"alpha":0.00015,"bbox":[27.183055877686,60.283889770508,27.209100723267,60.291065216064],"coordinates":[[[[27.195883,60.287788],[27.192793,60.286068],[27.183056,60.28389],[27.192814,60.288254],[27.194595,60.291065],[27.209101,60.287895],[27.195883,60.287788]]]],"created":1292531293,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/564831_20101216_628475d393.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

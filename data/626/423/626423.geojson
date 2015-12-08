@@ -1,0 +1,15 @@
+{
+  "id": 626423,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Pierre, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":626423,
+    "woe:name":"St-Pierre, Aquitaine, France",
+    "woe:place_id":"9PDzu6WfA5qHDVI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.8432,45.11787,0.870323,45.127502],
+  "geometry": {"alpha":0.00015,"bbox":[0.84320002794266,45.117870330811,0.87032300233841,45.127502441406],"coordinates":[[[[0.860366,45.127502],[0.870323,45.123505],[0.860333,45.124664],[0.8432,45.11787],[0.860366,45.127502]]]],"created":1292525104,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/626423_20101216_54e465279d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

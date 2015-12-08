@@ -1,0 +1,15 @@
+{
+  "id": 28835581,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackhills, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28835581,
+    "woe:name":"Blackhills, Scotland, United Kingdom",
+    "woe:place_id":"41AfdzWbCZT9DGGc5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.804332,57.445641,-1.801048,57.454647],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8043320178986,57.445640563965,-1.80104804039,57.454647064209],"coordinates":[[[[-1.801048,57.447186],[-1.801757,57.446335],[-1.803474,57.445641],[-1.804332,57.454647],[-1.802959,57.450306],[-1.801048,57.447186]]]],"created":1292449721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/28835581_20101215_6064774d07.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

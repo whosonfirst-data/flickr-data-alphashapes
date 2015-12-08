@@ -1,0 +1,15 @@
+{
+  "id": 745308,
+  "type": "Feature",
+  "properties": {
+    "name":"Pavia, Evora, Portugal",
+    "placetype":"locality",
+    "woe:id":745308,
+    "woe:name":"Pavia, Evora, Portugal",
+    "woe:place_id":"cGqLbPaeBZkPcHM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.022766,38.894039,-8.017026,38.896645],
+  "geometry": {"alpha":0.00015,"bbox":[-8.0227661132812,38.894039154053,-8.0170259475708,38.896644592285],"coordinates":[[[[-8.017026,38.895477],[-8.017337,38.894039],[-8.022766,38.89571],[-8.022079,38.896042],[-8.021049,38.896645],[-8.017026,38.895477]]]],"created":1292539031,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/745308_20101216_3e6f184e59.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

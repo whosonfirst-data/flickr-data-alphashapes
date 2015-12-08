@@ -1,0 +1,15 @@
+{
+  "id": 12632717,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wetter, Germany",
+    "placetype":"locality",
+    "woe:id":12632717,
+    "woe:name":"Gemeinde Wetter, Germany",
+    "woe:place_id":"9mgdBweYA5p3K7hxhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.6851,50.909931,8.689692,50.913128],
+  "geometry": {"alpha":1e-05,"bbox":[8.6850996017456,50.909931182861,8.6896915435791,50.91312789917],"coordinates":[[[[8.685464,50.913128],[8.689692,50.911503],[8.687438,50.910488],[8.6851,50.909931],[8.685464,50.913128]]]],"created":1292541469,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12632717_20101216_2b970d31b1.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

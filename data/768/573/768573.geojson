@@ -1,0 +1,15 @@
+{
+  "id": 768573,
+  "type": "Feature",
+  "properties": {
+    "name":"Obona, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":768573,
+    "woe:name":"Obona, Asturias, Spain",
+    "woe:place_id":"u6zF7_2eB5ShVE8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.483135,43.340099,-6.476268,43.345032],
+  "geometry": {"alpha":0.00015,"bbox":[-6.4831352233887,43.340099334717,-6.4762678146362,43.345031738281],"coordinates":[[[[-6.480528,43.344608],[-6.476268,43.343719],[-6.4798,43.340099],[-6.479874,43.34013],[-6.483135,43.345032],[-6.480528,43.344608]]]],"created":1292544130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/768573_20101217_8d99671fd6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

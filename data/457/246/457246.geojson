@@ -1,0 +1,15 @@
+{
+  "id": 457246,
+  "type": "Feature",
+  "properties": {
+    "name":"Guararapes, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":457246,
+    "woe:name":"Guararapes, Sao Paulo, Brazil",
+    "woe:place_id":"D1K3DqqdBJvdTVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-50.649548,-21.261221,-50.63324,-21.249943],
+  "geometry": {"alpha":0.00015,"bbox":[-50.649547576904,-21.261220932007,-50.633239746094,-21.249942779541],"coordinates":[[[[-50.644226,-21.260422],[-50.649548,-21.249943],[-50.642166,-21.253061],[-50.63324,-21.261221],[-50.640106,-21.259621],[-50.644226,-21.260422]]]],"created":1292542542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/457246_20101216_16e9c91017.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

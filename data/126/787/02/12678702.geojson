@@ -1,0 +1,15 @@
+{
+  "id": 12678702,
+  "type": "Feature",
+  "properties": {
+    "name":"Cittiglio, Italy",
+    "placetype":"locality",
+    "woe:id":12678702,
+    "woe:name":"Cittiglio, Italy",
+    "woe:place_id":"TnS.xASYA5rRrr4BUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.655896,45.907001,8.660659,45.912586],
+  "geometry": {"alpha":1e-05,"bbox":[8.6558961868286,45.907001495361,8.6606588363647,45.912586212158],"coordinates":[[[[8.657226,45.910732],[8.660659,45.912586],[8.660284,45.911747],[8.659973,45.907001],[8.655896,45.908451],[8.657226,45.910732]]]],"created":1292520789,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12678702_20101216_e452b8fc63.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

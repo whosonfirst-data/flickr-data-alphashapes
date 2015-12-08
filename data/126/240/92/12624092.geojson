@@ -1,0 +1,15 @@
+{
+  "id": 12624092,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wangen, Germany",
+    "placetype":"locality",
+    "woe:id":12624092,
+    "woe:name":"Gemeinde Wangen, Germany",
+    "woe:place_id":"kFXmEW2YA5psGCViMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.578447,48.724987,9.582685,48.728504],
+  "geometry": {"alpha":1e-05,"bbox":[9.5784473419189,48.724987030029,9.5826854705811,48.728504180908],"coordinates":[[[[9.582685,48.724987],[9.578447,48.728256],[9.57982,48.72847],[9.580593,48.728428],[9.581408,48.728455],[9.581773,48.728504],[9.582685,48.724987]]]],"created":1292454749,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12624092_20101215_fdd11e8688.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

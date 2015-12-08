@@ -1,0 +1,15 @@
+{
+  "id": 2406346,
+  "type": "Feature",
+  "properties": {
+    "name":"Four Corners, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2406346,
+    "woe:name":"Four Corners, Montana, United States",
+    "woe:place_id":"TIT_E0qbBZwiOFyH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.214256,45.632286,-111.187988,45.658657],
+  "geometry": {"alpha":0.00015,"bbox":[-111.21425628662,45.632286071777,-111.18798828125,45.658657073975],"coordinates":[[[[-111.199661,45.632286],[-111.214256,45.641018],[-111.203697,45.642368],[-111.187988,45.658657],[-111.195717,45.640686],[-111.199661,45.632286]]]],"created":1292540528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2406346_20101216_b9dca801c1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

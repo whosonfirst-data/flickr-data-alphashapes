@@ -1,0 +1,15 @@
+{
+  "id": 2452590,
+  "type": "Feature",
+  "properties": {
+    "name":"Mock, California, United States",
+    "placetype":"locality",
+    "woe:id":2452590,
+    "woe:name":"Mock, California, United States",
+    "woe:place_id":"_QPwoiSbBZlQdz9n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.969002,36.536327,-117.938232,36.554325],
+  "geometry": {"alpha":0.00015,"bbox":[-117.96900177002,36.536327362061,-117.93823242188,36.55432510376],"coordinates":[[[[-117.938744,36.545502],[-117.938232,36.544605],[-117.942352,36.541637],[-117.949516,36.548809],[-117.969002,36.536327],[-117.953255,36.552326],[-117.952309,36.554325],[-117.944427,36.550369],[-117.938744,36.545502]]]],"created":1292524263,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2452590_20101216_cacd2bb26e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

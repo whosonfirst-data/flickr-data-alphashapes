@@ -1,0 +1,15 @@
+{
+  "id": 12689621,
+  "type": "Feature",
+  "properties": {
+    "name":"Andorra, Spain",
+    "placetype":"locality",
+    "woe:id":12689621,
+    "woe:name":"Andorra, Spain",
+    "woe:place_id":"xknPABeYA5oLu8Kl9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.450257,40.973076,-0.441963,40.979378],
+  "geometry": {"alpha":1e-05,"bbox":[-0.45025700330734,40.973075866699,-0.44196298718452,40.979377746582],"coordinates":[[[[-0.441963,40.97345],[-0.442092,40.97319],[-0.442188,40.973076],[-0.445311,40.975498],[-0.448379,40.978214],[-0.450257,40.978008],[-0.449237,40.979378],[-0.446491,40.978149],[-0.441985,40.975479],[-0.441963,40.97345]]]],"created":1248287888,"edges":10,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2652/shapefiles/12689621_20090722_b50ed8a24a.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

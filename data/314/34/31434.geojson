@@ -1,0 +1,15 @@
+{
+  "id": 31434,
+  "type": "Feature",
+  "properties": {
+    "name":"Park End, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31434,
+    "woe:name":"Park End, England, United Kingdom",
+    "woe:place_id":"V7RlIOCaAJg6GA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.217006,55.072372,-2.195205,55.075958],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2170059680939,55.072372436523,-2.1952049732208,55.075958251953],"coordinates":[[[[-2.196063,55.075958],[-2.195549,55.075172],[-2.195205,55.072372],[-2.208595,55.073357],[-2.217006,55.075909],[-2.202587,55.075909],[-2.196063,55.075958]]]],"created":1292482864,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/31434_20101216_7f69332cc1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

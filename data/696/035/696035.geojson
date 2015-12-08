@@ -1,0 +1,15 @@
+{
+  "id": 696035,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Helena, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":696035,
+    "woe:name":"St. Helena, Bavaria, Germany",
+    "woe:place_id":"kbg6xrOfCJr3xZE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.355829,49.630978,11.357363,49.632507],
+  "geometry": {"alpha":0.00015,"bbox":[11.355829238892,49.630977630615,11.357362747192,49.632507324219],"coordinates":[[[[11.356011,49.631737],[11.355829,49.632034],[11.356086,49.632507],[11.357363,49.630978],[11.356011,49.631737]]]],"created":1247897046,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2600/shapefiles/696035_20090718_5ac86997b1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

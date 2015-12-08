@@ -1,0 +1,15 @@
+{
+  "id": 12518763,
+  "type": "Feature",
+  "properties": {
+    "name":"Beale Air Force Base, United States",
+    "placetype":"locality",
+    "woe:id":12518763,
+    "woe:name":"Beale Air Force Base, United States",
+    "woe:place_id":"3Q4SxJyYA5koAuXKPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.390968,39.111713,-121.389465,39.116455],
+  "geometry": {"alpha":1e-05,"bbox":[-121.39096832275,39.111713409424,-121.38946533203,39.116455078125],"coordinates":[[[[-121.390282,39.113777],[-121.389465,39.111713],[-121.390549,39.113735],[-121.390968,39.116455],[-121.390343,39.116192],[-121.390282,39.113777]]]],"created":1292505250,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12518763_20101216_9dfc05cd59.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

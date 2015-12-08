@@ -1,0 +1,15 @@
+{
+  "id": 2417456,
+  "type": "Feature",
+  "properties": {
+    "name":"Hardinsburg, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2417456,
+    "woe:name":"Hardinsburg, Kentucky, United States",
+    "woe:place_id":"fvme7o.bBZ0IXutD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.462189,37.763523,-86.452789,37.78289],
+  "geometry": {"alpha":0.00015,"bbox":[-86.462188720703,37.763523101807,-86.452789306641,37.782890319824],"coordinates":[[[[-86.452789,37.782383],[-86.462189,37.763523],[-86.461113,37.780647],[-86.46125,37.780975],[-86.461632,37.78289],[-86.452789,37.782383]]]],"created":1292451726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2417456_20101215_6036b8706b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

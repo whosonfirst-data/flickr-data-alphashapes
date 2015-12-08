@@ -1,0 +1,15 @@
+{
+  "id": 2354285,
+  "type": "Feature",
+  "properties": {
+    "name":"Ames, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2354285,
+    "woe:name":"Ames, West Virginia, United States",
+    "woe:place_id":"FcYaT2WbAplZCIfz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.090385,38.085594,-81.079948,38.095627],
+  "geometry": {"alpha":0.00015,"bbox":[-81.090385437012,38.085594177246,-81.079948425293,38.095626831055],"coordinates":[[[[-81.086731,38.089821],[-81.090385,38.094055],[-81.086052,38.095627],[-81.079948,38.085594],[-81.083649,38.085762],[-81.086731,38.089821]]]],"created":1292532720,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2354285_20101216_023c4c69ef.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

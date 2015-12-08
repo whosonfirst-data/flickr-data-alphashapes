@@ -1,0 +1,15 @@
+{
+  "id": 55873529,
+  "type": "Feature",
+  "properties": {
+    "name":"Hagaviken, Norrbotten, Sweden",
+    "placetype":"locality",
+    "woe:id":55873529,
+    "woe:name":"Hagaviken, Norrbotten, Sweden",
+    "woe:place_id":"hjjmFIacBJTXrWm92w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.309456,65.578163,22.311773,65.579193],
+  "geometry": {"alpha":0.00015,"bbox":[22.309455871582,65.578163146973,22.311773300171,65.579193115234],"coordinates":[[[[22.309456,65.578163],[22.309628,65.579086],[22.309971,65.579193],[22.311773,65.578392],[22.309456,65.578163]]]],"created":1292442604,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/55873529_20101215_217c714793.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12636126,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Nordheim am Main, Germany",
+    "placetype":"locality",
+    "woe:id":12636126,
+    "woe:name":"Gemeinde Nordheim am Main, Germany",
+    "woe:place_id":"nz10gGWYA5pmLlxjPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.178376,49.866318,10.185051,49.867504],
+  "geometry": {"alpha":1e-05,"bbox":[10.178376197815,49.866317749023,10.185050964355,49.867504119873],"coordinates":[[[[10.182862,49.867504],[10.183104,49.867386],[10.185051,49.866978],[10.183296,49.866318],[10.178376,49.866398],[10.182862,49.867504]]]],"created":1292525705,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12636126_20101216_1ff85c7eee.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

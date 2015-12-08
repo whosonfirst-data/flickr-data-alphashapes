@@ -1,0 +1,15 @@
+{
+  "id": 33011,
+  "type": "Feature",
+  "properties": {
+    "name":"Red Lake, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33011,
+    "woe:name":"Red Lake, England, United Kingdom",
+    "woe:place_id":"1mt9GduaApxknA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.473862,52.692043,-2.467803,52.695007],
+  "geometry": {"alpha":0.00015,"bbox":[-2.4738619327545,52.692043304443,-2.4678030014038,52.695007324219],"coordinates":[[[[-2.473862,52.694378],[-2.473345,52.695007],[-2.470712,52.693321],[-2.467803,52.692043],[-2.473495,52.693596],[-2.473862,52.694378]]]],"created":1292455689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/33011_20101215_0a93bdbda3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

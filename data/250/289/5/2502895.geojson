@@ -1,0 +1,15 @@
+{
+  "id": 2502895,
+  "type": "Feature",
+  "properties": {
+    "name":"Swan Point, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2502895,
+    "woe:name":"Swan Point, Maryland, United States",
+    "woe:place_id":"Er8EGSCbBJwt_Wyf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.402702,39.232784,-76.386414,39.248695],
+  "geometry": {"alpha":0.00015,"bbox":[-76.402702331543,39.23278427124,-76.386413574219,39.248695373535],"coordinates":[[[[-76.402702,39.235577],[-76.402359,39.236641],[-76.402138,39.248695],[-76.386414,39.244602],[-76.395065,39.233582],[-76.40168,39.232784],[-76.402702,39.235577]]]],"created":1292454590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2502895_20101215_1503ab4712.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

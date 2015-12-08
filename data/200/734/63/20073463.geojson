@@ -1,0 +1,15 @@
+{
+  "id": 20073463,
+  "type": "Feature",
+  "properties": {
+    "name":"Killala, Ireland",
+    "placetype":"locality",
+    "woe:id":20073463,
+    "woe:name":"Killala, Ireland",
+    "woe:place_id":"OWn9GkibAZyRBjeU.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.245424,54.238346,-9.240789,54.239349],
+  "geometry": {"alpha":1e-05,"bbox":[-9.2454242706299,54.238346099854,-9.2407894134521,54.239349365234],"coordinates":[[[[-9.242763,54.239048],[-9.245424,54.238346],[-9.242935,54.239349],[-9.240789,54.238796],[-9.242763,54.239048]]]],"created":1292548369,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20073463_20101217_a903ac6115.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

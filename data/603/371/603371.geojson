@@ -1,0 +1,15 @@
+{
+  "id": 603371,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Lude, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":603371,
+    "woe:name":"Le Lude, Pays de la Loire, France",
+    "woe:place_id":"Nmpgln2fAZ9CQpI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.145568,47.643879,0.160782,47.648968],
+  "geometry": {"alpha":0.00015,"bbox":[0.14556799829006,47.643878936768,0.16078199446201,47.64896774292],"coordinates":[[[[0.151748,47.648968],[0.160084,47.648289],[0.160782,47.644958],[0.151062,47.643879],[0.145568,47.648739],[0.151748,47.648968]]]],"created":1292551381,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/603371_20101217_a099de4701.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

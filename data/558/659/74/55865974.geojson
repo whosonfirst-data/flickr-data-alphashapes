@@ -1,0 +1,15 @@
+{
+  "id": 55865974,
+  "type": "Feature",
+  "properties": {
+    "name":"Campuzano, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":55865974,
+    "woe:name":"Campuzano, Madrid, Spain",
+    "woe:place_id":"77GdIXqcBJROHWYogg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.896026,40.714333,-3.8871,40.723],
+  "geometry": {"alpha":0.00015,"bbox":[-3.8960258960724,40.714332580566,-3.887099981308,40.722999572754],"coordinates":[[[[-3.89195,40.714745],[-3.892003,40.714428],[-3.894395,40.714333],[-3.896026,40.720852],[-3.8871,40.723],[-3.89195,40.714745]]]],"created":1292537031,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/55865974_20101216_4dbc06b31f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

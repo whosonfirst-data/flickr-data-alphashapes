@@ -1,0 +1,15 @@
+{
+  "id": 20130501,
+  "type": "Feature",
+  "properties": {
+    "name":"Marano, Trentino-Alto Adige, Italy",
+    "placetype":"locality",
+    "woe:id":20130501,
+    "woe:name":"Marano, Trentino-Alto Adige, Italy",
+    "woe:place_id":"Tl3HcYSbAZ1DfVZaTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.014308,45.892159,11.023406,45.897655],
+  "geometry": {"alpha":0.00015,"bbox":[11.014307975769,45.892158508301,11.023406028748,45.897655487061],"coordinates":[[[[11.020391,45.896481],[11.023406,45.894787],[11.014308,45.892159],[11.015853,45.897655],[11.020391,45.896481]]]],"created":1292513885,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20130501_20101216_f5abc7631c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

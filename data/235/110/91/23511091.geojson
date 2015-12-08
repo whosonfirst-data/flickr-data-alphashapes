@@ -1,0 +1,15 @@
+{
+  "id": 23511091,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Forest, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":23511091,
+    "woe:name":"Lake Forest, Missouri, United States",
+    "woe:place_id":"aPUvAv2bApmLkGTdtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.208824,37.949306,-90.188072,37.979115],
+  "geometry": {"alpha":0.00015,"bbox":[-90.208824157715,37.949306488037,-90.18807220459,37.979114532471],"coordinates":[[[[-90.193718,37.979115],[-90.188072,37.972485],[-90.197456,37.971672],[-90.203522,37.949787],[-90.208824,37.949306],[-90.201118,37.971485],[-90.193718,37.979115]]]],"created":1292520233,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/23511091_20101216_15d7bbe74a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 123234,
+  "type": "Feature",
+  "properties": {
+    "name":"Enmedio, Chihuahua, Mexico",
+    "placetype":"locality",
+    "woe:id":123234,
+    "woe:name":"Enmedio, Chihuahua, Mexico",
+    "woe:place_id":"88z3aD2YA5.BuZM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.495331,29.069056,-103.450356,29.101477],
+  "geometry": {"alpha":0.00015,"bbox":[-103.49533081055,29.069055557251,-103.45035552979,29.101476669312],"coordinates":[[[[-103.483032,29.099035],[-103.474648,29.096331],[-103.474045,29.086475],[-103.460655,29.069056],[-103.450356,29.069822],[-103.454132,29.072973],[-103.474045,29.086475],[-103.495331,29.076275],[-103.485718,29.097576],[-103.486061,29.101477],[-103.483032,29.099035]]]],"created":1292522803,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/123234_20101216_7252935ac7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

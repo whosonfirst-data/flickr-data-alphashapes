@@ -1,0 +1,15 @@
+{
+  "id": 777416,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilanova, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":777416,
+    "woe:name":"Vilanova, Galicia, Spain",
+    "woe:place_id":"JKpJ.N6eBpv8WXU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.958672,42.164661,-7.953691,42.166489],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9586720466614,42.164661407471,-7.9536910057068,42.166488647461],"coordinates":[[[[-7.955131,42.166431],[-7.953691,42.164661],[-7.956504,42.16544],[-7.958672,42.1661],[-7.956118,42.166489],[-7.955131,42.166431]]]],"created":1292448765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/777416_20101215_75fc7930c9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

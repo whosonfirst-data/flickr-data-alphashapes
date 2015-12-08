@@ -1,0 +1,15 @@
+{
+  "id": 661345,
+  "type": "Feature",
+  "properties": {
+    "name":"Hohenstein, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":661345,
+    "woe:name":"Hohenstein, Bavaria, Germany",
+    "woe:place_id":"8jQzkJ2fB50IrxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.422026,49.586464,11.424379,49.5877],
+  "geometry": {"alpha":0.00015,"bbox":[11.422025680542,49.586463928223,11.424379348755,49.587699890137],"coordinates":[[[[11.422327,49.586464],[11.422305,49.586506],[11.422026,49.587009],[11.422873,49.5877],[11.424379,49.586769],[11.422327,49.586464]]]],"created":1292484243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/661345_20101216_79492931a8.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

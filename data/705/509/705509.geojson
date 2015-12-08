@@ -1,0 +1,15 @@
+{
+  "id": 705509,
+  "type": "Feature",
+  "properties": {
+    "name":"Werneuchen, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":705509,
+    "woe:name":"Werneuchen, Brandenburg, Germany",
+    "woe:place_id":"YZvqb6qeAZnbawQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.723983,52.629951,13.746557,52.637413],
+  "geometry": {"alpha":0.00015,"bbox":[13.723982810974,52.629951477051,13.746557235718,52.637413024902],"coordinates":[[[[13.737035,52.629951],[13.732094,52.630756],[13.723983,52.637074],[13.735931,52.63702],[13.738274,52.637413],[13.746557,52.635902],[13.737035,52.629951]]]],"created":1292520768,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/705509_20101216_63710f7ab1.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

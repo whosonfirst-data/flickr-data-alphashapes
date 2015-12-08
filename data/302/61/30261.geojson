@@ -1,0 +1,15 @@
+{
+  "id": 30261,
+  "type": "Feature",
+  "properties": {
+    "name":"Newton St. Cyres, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30261,
+    "woe:name":"Newton St. Cyres, England, United Kingdom",
+    "woe:place_id":"lHmkA62aAZ5o2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.598709,50.770664,-3.582916,50.780502],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5987091064453,50.770664215088,-3.582916021347,50.780502319336],"coordinates":[[[[-3.590083,50.77943],[-3.588924,50.778481],[-3.582916,50.773548],[-3.592872,50.770664],[-3.598709,50.780502],[-3.590083,50.77943]]]],"created":1292527927,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/30261_20101216_b4b1b78afc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

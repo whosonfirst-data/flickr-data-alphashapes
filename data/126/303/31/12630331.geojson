@@ -1,0 +1,15 @@
+{
+  "id": 12630331,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gleichen, Germany",
+    "placetype":"locality",
+    "woe:id":12630331,
+    "woe:name":"Gemeinde Gleichen, Germany",
+    "woe:place_id":"jFBfWF6YA5oYsPZtOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.093688,51.480312,10.104213,51.481861],
+  "geometry": {"alpha":1e-05,"bbox":[10.093688011169,51.480312347412,10.104212760925,51.481861114502],"coordinates":[[[[10.098109,51.481838],[10.104213,51.481644],[10.098109,51.481823],[10.093688,51.480312],[10.098066,51.481861],[10.098109,51.481838]]]],"created":1292525658,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12630331_20101216_e5ddcaa79d.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

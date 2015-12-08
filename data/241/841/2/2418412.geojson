@@ -1,0 +1,15 @@
+{
+  "id": 2418412,
+  "type": "Feature",
+  "properties": {
+    "name":"Harvard, New York, United States",
+    "placetype":"locality",
+    "woe:id":2418412,
+    "woe:name":"Harvard, New York, United States",
+    "woe:place_id":"8oDlT0.bBZ1Yr9oC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.116852,42.018692,-75.112686,42.024029],
+  "geometry": {"alpha":0.00015,"bbox":[-75.116851806641,42.018692016602,-75.112686157227,42.024028778076],"coordinates":[[[[-75.116852,42.02132],[-75.114532,42.022724],[-75.113525,42.023407],[-75.112686,42.024029],[-75.11335,42.018692],[-75.116852,42.02132]]]],"created":1292541672,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2418412_20101216_97c2461a1d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

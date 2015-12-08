@@ -1,0 +1,15 @@
+{
+  "id": 8834,
+  "type": "Feature",
+  "properties": {
+    "name":"Warner, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8834,
+    "woe:name":"Warner, Alberta, Canada",
+    "woe:place_id":"1QPdcRCRCZ9J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.213928,49.281467,-112.202164,49.28981],
+  "geometry": {"alpha":0.00015,"bbox":[-112.21392822266,49.281467437744,-112.20216369629,49.289810180664],"coordinates":[[[[-112.207138,49.288319],[-112.202164,49.284267],[-112.203026,49.282616],[-112.213928,49.281467],[-112.20903,49.28981],[-112.207138,49.288319]]]],"created":1292548825,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/8834_20101217_440bdc4bbb.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

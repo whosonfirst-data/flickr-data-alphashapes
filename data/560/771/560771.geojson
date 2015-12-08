@@ -1,0 +1,15 @@
+{
+  "id": 560771,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunkerrin, Offaly, Ireland",
+    "placetype":"locality",
+    "woe:id":560771,
+    "woe:name":"Dunkerrin, Offaly, Ireland",
+    "woe:place_id":"iU_gjLCcB5xcmDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.915649,52.908127,-7.911014,52.916096],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9156489372253,52.908126831055,-7.9110140800476,52.916095733643],"coordinates":[[[[-7.914104,52.915527],[-7.91213,52.914776],[-7.911014,52.913456],[-7.912988,52.908127],[-7.915649,52.916096],[-7.914104,52.915527]]]],"created":1292466121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/560771_20101216_c2224e7e81.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

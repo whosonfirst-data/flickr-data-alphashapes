@@ -1,0 +1,15 @@
+{
+  "id": 29370786,
+  "type": "Feature",
+  "properties": {
+    "name":"La Cereda, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":29370786,
+    "woe:name":"La Cereda, Madrid, Spain",
+    "woe:place_id":"UdPMI6ybCJ.deBgXRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.214973,40.555908,-4.198837,40.565849],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2149729728699,40.555908203125,-4.1988368034363,40.565849304199],"coordinates":[[[[-4.205017,40.565849],[-4.198837,40.562721],[-4.199439,40.561974],[-4.210939,40.555908],[-4.214973,40.564674],[-4.205017,40.565849]]]],"created":1292449984,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/29370786_20101215_4055892988.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

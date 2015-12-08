@@ -1,0 +1,15 @@
+{
+  "id": 706389,
+  "type": "Feature",
+  "properties": {
+    "name":"Wiesent, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":706389,
+    "woe:name":"Wiesent, Bavaria, Germany",
+    "woe:place_id":"DQIizUaeAZrqzP0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.363947,48.999908,12.386167,49.00761],
+  "geometry": {"alpha":0.00015,"bbox":[12.363946914673,48.999908447266,12.386166572571,49.007610321045],"coordinates":[[[[12.372952,48.999908],[12.363947,49.002033],[12.366572,49.007336],[12.377255,49.00716],[12.379491,49.00761],[12.386167,49.000999],[12.372952,48.999908]]]],"created":1292409485,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/706389_20101215_5993c7e19a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

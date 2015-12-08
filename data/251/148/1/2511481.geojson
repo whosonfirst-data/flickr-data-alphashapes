@@ -1,0 +1,15 @@
+{
+  "id": 2511481,
+  "type": "Feature",
+  "properties": {
+    "name":"Vaughn Station, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2511481,
+    "woe:name":"Vaughn Station, Oregon, United States",
+    "woe:place_id":"7VDT5X.bBJ2i06G0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.47242,44.028126,-123.460922,44.032856],
+  "geometry": {"alpha":0.00015,"bbox":[-123.47241973877,44.028125762939,-123.46092224121,44.032855987549],"coordinates":[[[[-123.472382,44.028126],[-123.47242,44.02837],[-123.464104,44.032856],[-123.46315,44.032444],[-123.460922,44.030285],[-123.472382,44.028126]]]],"created":1292452001,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2511481_20101215_3647ea672b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12658781,
+  "type": "Feature",
+  "properties": {
+    "name":"Chalmazel, France",
+    "placetype":"locality",
+    "woe:id":12658781,
+    "woe:name":"Chalmazel, France",
+    "woe:place_id":"jZnFGkaYA5rkgZQKiw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.816204,45.671581,3.824958,45.6768],
+  "geometry": {"alpha":1e-05,"bbox":[3.8162040710449,45.671581268311,3.8249580860138,45.67679977417],"coordinates":[[[[3.821697,45.671581],[3.816204,45.671944],[3.821525,45.672604],[3.824272,45.675961],[3.824958,45.6768],[3.824572,45.672901],[3.821697,45.671581]]]],"created":1292531713,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12658781_20101216_897b5de215.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12512976,
+  "type": "Feature",
+  "properties": {
+    "name":"St Symphorien Airport, France",
+    "placetype":"locality",
+    "woe:id":12512976,
+    "woe:name":"St Symphorien Airport, France",
+    "woe:place_id":"OtQwKWOYA5kRD9zrmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.709733,47.424988,0.710849,47.426067],
+  "geometry": {"alpha":1e-05,"bbox":[0.70973300933838,47.424987792969,0.71084898710251,47.426067352295],"coordinates":[[[[0.710849,47.426067],[0.71042,47.425648],[0.709733,47.424988],[0.709884,47.426033],[0.710849,47.426067]]]],"created":1292526551,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12512976_20101216_0da473f125.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

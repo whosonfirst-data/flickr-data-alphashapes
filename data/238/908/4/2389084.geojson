@@ -1,0 +1,15 @@
+{
+  "id": 2389084,
+  "type": "Feature",
+  "properties": {
+    "name":"Dalvue, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2389084,
+    "woe:name":"Dalvue, Pennsylvania, United States",
+    "woe:place_id":"cua86kSbApSY4k1K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.672226,39.897644,-76.666084,39.898335],
+  "geometry": {"alpha":0.00015,"bbox":[-76.672225952148,39.897644042969,-76.666084289551,39.898334503174],"coordinates":[[[[-76.666779,39.897644],[-76.672226,39.898335],[-76.666565,39.898006],[-76.666084,39.897827],[-76.666718,39.897659],[-76.666779,39.897644]]]],"created":1292444655,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2389084_20101215_1d52a1d043.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

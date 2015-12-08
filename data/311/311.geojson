@@ -1,0 +1,15 @@
+{
+  "id": 311,
+  "type": "Feature",
+  "properties": {
+    "name":"Collins Bay, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":311,
+    "woe:name":"Collins Bay, Ontario, Canada",
+    "woe:place_id":"1XnQq9qaAJ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.628006,44.223335,-76.596504,44.253838],
+  "geometry": {"alpha":0.00015,"bbox":[-76.628005981445,44.223335266113,-76.596504211426,44.253837585449],"coordinates":[[[[-76.609383,44.230808],[-76.616486,44.228073],[-76.627548,44.223335],[-76.628006,44.228634],[-76.627747,44.228718],[-76.619507,44.231792],[-76.620003,44.253132],[-76.616592,44.251057],[-76.601677,44.253838],[-76.602417,44.240513],[-76.601807,44.239052],[-76.596504,44.232422],[-76.609383,44.230808]]]],"created":1292535037,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/311_20101216_53064a4fc2.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

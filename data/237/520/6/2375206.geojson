@@ -1,0 +1,15 @@
+{
+  "id": 2375206,
+  "type": "Feature",
+  "properties": {
+    "name":"Carnegie, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2375206,
+    "woe:name":"Carnegie, Oklahoma, United States",
+    "woe:place_id":"SlMiyDibApvZb3Im",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.607079,35.087959,-98.586388,35.111965],
+  "geometry": {"alpha":0.00015,"bbox":[-98.607078552246,35.087959289551,-98.586387634277,35.111965179443],"coordinates":[[[[-98.605278,35.106709],[-98.604675,35.108246],[-98.596153,35.111965],[-98.586388,35.092262],[-98.59182,35.087959],[-98.607079,35.099766],[-98.605278,35.106709]]]],"created":1292533909,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2375206_20101216_94f5e77a38.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

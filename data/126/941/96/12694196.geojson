@@ -1,0 +1,15 @@
+{
+  "id": 12694196,
+  "type": "Feature",
+  "properties": {
+    "name":"La Figuera, Spain",
+    "placetype":"locality",
+    "woe:id":12694196,
+    "woe:name":"La Figuera, Spain",
+    "woe:place_id":"e_YzezuYA5pNfsCSKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.688362,41.223793,0.689134,41.227345],
+  "geometry": {"alpha":1e-05,"bbox":[0.68836200237274,41.223793029785,0.68913400173187,41.227344512939],"coordinates":[[[[0.688619,41.227345],[0.689134,41.22657],[0.688362,41.223793],[0.688447,41.22636],[0.688619,41.227345]]]],"created":1292538248,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12694196_20101216_44926c993e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

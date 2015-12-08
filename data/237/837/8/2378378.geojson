@@ -1,0 +1,15 @@
+{
+  "id": 2378378,
+  "type": "Feature",
+  "properties": {
+    "name":"Charlestown, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2378378,
+    "woe:name":"Charlestown, Maryland, United States",
+    "woe:place_id":"UYVU94GbAps9rSiD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.708168,39.257561,-76.701736,39.274525],
+  "geometry": {"alpha":0.00015,"bbox":[-76.708168029785,39.25756072998,-76.701736450195,39.274524688721],"coordinates":[[[[-76.70665,39.274525],[-76.701736,39.269871],[-76.704643,39.260452],[-76.706406,39.257561],[-76.708168,39.264999],[-76.70665,39.274525]]]],"created":1292506803,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2378378_20101216_4015a4f439.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

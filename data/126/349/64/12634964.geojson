@@ -1,0 +1,15 @@
+{
+  "id": 12634964,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ottobeuren, Germany",
+    "placetype":"locality",
+    "woe:id":12634964,
+    "woe:name":"Gemeinde Ottobeuren, Germany",
+    "woe:place_id":"AISY7lmYA5q80B329Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.297976,47.940411,10.302515,47.944637],
+  "geometry": {"alpha":1e-05,"bbox":[10.297975540161,47.940410614014,10.302515029907,47.944637298584],"coordinates":[[[[10.299425,47.940411],[10.297976,47.94146],[10.298523,47.94199],[10.302515,47.944637],[10.300219,47.941746],[10.299425,47.940411]]]],"created":1239499930,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3646/shapefiles/12634964_20090412_0ffe6dbc77.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

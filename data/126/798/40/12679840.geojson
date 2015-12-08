@@ -1,0 +1,15 @@
+{
+  "id": 12679840,
+  "type": "Feature",
+  "properties": {
+    "name":"Laconi, Italy",
+    "placetype":"locality",
+    "woe:id":12679840,
+    "woe:name":"Laconi, Italy",
+    "woe:place_id":"16PtniKYA5ohd7nlww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.090585,39.873055,9.094448,39.87569],
+  "geometry": {"alpha":1e-05,"bbox":[9.0905847549438,39.873054504395,9.0944480895996,39.875690460205],"coordinates":[[[[9.091808,39.875565],[9.094448,39.87569],[9.092731,39.873253],[9.092055,39.873055],[9.091186,39.873055],[9.090585,39.875065],[9.091808,39.875565]]]],"created":1292536865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12679840_20101216_f3fd878b76.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

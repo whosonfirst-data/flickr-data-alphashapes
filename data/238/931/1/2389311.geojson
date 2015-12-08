@@ -1,0 +1,15 @@
+{
+  "id": 2389311,
+  "type": "Feature",
+  "properties": {
+    "name":"Danville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2389311,
+    "woe:name":"Danville, Alabama, United States",
+    "woe:place_id":"BmXsj0ObApSic3ob",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.110886,34.36935,-87.109962,34.370327],
+  "geometry": {"alpha":0.00015,"bbox":[-87.110885620117,34.36935043335,-87.109962463379,34.37032699585],"coordinates":[[[[-87.109962,34.369362],[-87.110275,34.36935],[-87.110886,34.370083],[-87.110596,34.370327],[-87.109962,34.369362]]]],"created":1292529130,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2389311_20101216_5c736f49fc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

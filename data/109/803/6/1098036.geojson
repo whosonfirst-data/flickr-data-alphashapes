@@ -1,0 +1,15 @@
+{
+  "id": 1098036,
+  "type": "Feature",
+  "properties": {
+    "name":"Patho, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1098036,
+    "woe:name":"Patho, Victoria, Australia",
+    "woe:place_id":"QGIRz3SYAZVd4fb2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.477448,-35.952053,144.47789,-35.95166],
+  "geometry": {"alpha":0.00015,"bbox":[144.47744750977,-35.952053070068,144.47789001465,-35.95166015625],"coordinates":[[[[144.47789,-35.95166],[144.4776,-35.951939],[144.477478,-35.952053],[144.477448,-35.951824],[144.47757,-35.951679],[144.477692,-35.951668],[144.47789,-35.95166]]]],"created":1292518454,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/1098036_20101216_a21a20c2ed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

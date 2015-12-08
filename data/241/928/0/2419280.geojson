@@ -1,0 +1,15 @@
+{
+  "id": 2419280,
+  "type": "Feature",
+  "properties": {
+    "name":"Hazelwood, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2419280,
+    "woe:name":"Hazelwood, Minnesota, United States",
+    "woe:place_id":"KtmLBnmbBZ3djm5.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.297829,44.510891,-93.284996,44.528118],
+  "geometry": {"alpha":0.00015,"bbox":[-93.297828674316,44.510890960693,-93.284996032715,44.528118133545],"coordinates":[[[[-93.284996,44.525272],[-93.286102,44.522499],[-93.292892,44.510891],[-93.296829,44.526833],[-93.297829,44.528118],[-93.284996,44.525272]]]],"created":1292518628,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2419280_20101216_c41f24c6dd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

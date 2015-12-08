@@ -1,0 +1,15 @@
+{
+  "id": 2424764,
+  "type": "Feature",
+  "properties": {
+    "name":"Houston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2424764,
+    "woe:name":"Houston, Pennsylvania, United States",
+    "woe:place_id":"0U02By2bBZ7F9gvf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.21637,40.240002,-80.207062,40.255947],
+  "geometry": {"alpha":0.00015,"bbox":[-80.216369628906,40.240001678467,-80.207061767578,40.255947113037],"coordinates":[[[[-80.210152,40.249184],[-80.21637,40.240002],[-80.211266,40.249969],[-80.208984,40.2533],[-80.207062,40.255947],[-80.209435,40.250862],[-80.210152,40.249184]]]],"created":1292500808,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2424764_20101216_26e2932a28.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

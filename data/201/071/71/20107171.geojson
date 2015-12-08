@@ -1,0 +1,15 @@
+{
+  "id": 20107171,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Case, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20107171,
+    "woe:name":"Le Case, Umbria, Italy",
+    "woe:place_id":"PGmQGn.bAZ1_Xms99Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.0633,43.039963,12.063555,43.040169],
+  "geometry": {"alpha":0.00015,"bbox":[12.063300132751,43.039962768555,12.063554763794,43.040168762207],"coordinates":[[[[12.063386,43.039963],[12.0633,43.040096],[12.063352,43.040169],[12.063522,43.040028],[12.063555,43.039963],[12.063386,43.039963]]]],"created":1292449144,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20107171_20101215_5bfc738f7b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

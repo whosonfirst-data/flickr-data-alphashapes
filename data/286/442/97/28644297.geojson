@@ -1,0 +1,15 @@
+{
+  "id": 28644297,
+  "type": "Feature",
+  "properties": {
+    "name":"Camborne, Wellington, New Zealand",
+    "placetype":"locality",
+    "woe:id":28644297,
+    "woe:name":"Camborne, Wellington, New Zealand",
+    "woe:place_id":"DfhNqqCbCZo7uuKHQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [174.871445,-41.094231,174.897964,-41.086208],
+  "geometry": {"alpha":0.00015,"bbox":[174.87144470215,-41.094230651855,174.89796447754,-41.086208343506],"coordinates":[[[[174.873352,-41.088619],[174.871445,-41.086208],[174.877625,-41.086468],[174.881149,-41.089443],[174.897964,-41.092484],[174.878143,-41.094231],[174.873352,-41.088619]]]],"created":1292525983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/28644297_20101216_31608b197e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

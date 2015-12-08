@@ -1,0 +1,15 @@
+{
+  "id": 632029,
+  "type": "Feature",
+  "properties": {
+    "name":"Villers, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":632029,
+    "woe:name":"Villers, Lorraine, France",
+    "woe:place_id":"WhO_V2qfAp7uUhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.812797,49.474258,5.826187,49.480171],
+  "geometry": {"alpha":0.00015,"bbox":[5.8127970695496,49.474258422852,5.8261871337891,49.480171203613],"coordinates":[[[[5.826187,49.475262],[5.82241,49.474258],[5.818891,49.474285],[5.812797,49.474846],[5.81829,49.480171],[5.82344,49.476601],[5.826187,49.475262]]]],"created":1292538452,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/632029_20101216_839ea8f127.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

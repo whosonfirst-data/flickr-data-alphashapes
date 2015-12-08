@@ -1,0 +1,15 @@
+{
+  "id": 12680246,
+  "type": "Feature",
+  "properties": {
+    "name":"Mezzani, Italy",
+    "placetype":"locality",
+    "woe:id":12680246,
+    "woe:name":"Mezzani, Italy",
+    "woe:place_id":"QrVVfWGYA5oa7CpKYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.447782,44.915901,10.449754,44.917217],
+  "geometry": {"alpha":1e-05,"bbox":[10.447781562805,44.915901184082,10.449753761292,44.917217254639],"coordinates":[[[[10.449754,44.915901],[10.448666,44.916],[10.448632,44.916027],[10.447782,44.917217],[10.449754,44.915901]]]],"created":1292470862,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12680246_20101216_db07d8bc06.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

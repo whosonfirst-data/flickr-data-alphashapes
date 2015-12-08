@@ -1,0 +1,15 @@
+{
+  "id": 32572,
+  "type": "Feature",
+  "properties": {
+    "name":"Preston, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32572,
+    "woe:name":"Preston, England, United Kingdom",
+    "woe:place_id":"6dfvpbGaA5lVYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.618848,50.557289,-3.614333,50.560913],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6188480854034,50.557289123535,-3.6143329143524,50.560913085938],"coordinates":[[[[-3.615617,50.560913],[-3.614333,50.557335],[-3.617763,50.557289],[-3.618848,50.557495],[-3.615617,50.560913]]]],"created":1292458195,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/32572_20101216_34d7320e34.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

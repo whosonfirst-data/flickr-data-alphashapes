@@ -1,0 +1,15 @@
+{
+  "id": 2415179,
+  "type": "Feature",
+  "properties": {
+    "name":"Groomville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2415179,
+    "woe:name":"Groomville, South Carolina, United States",
+    "woe:place_id":"PR1.OrCbBZ0mSgXp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.073082,33.087658,-80.055656,33.091183],
+  "geometry": {"alpha":0.00015,"bbox":[-80.073081970215,33.087657928467,-80.055656433105,33.09118270874],"coordinates":[[[[-80.072716,33.089996],[-80.07299,33.090786],[-80.073082,33.091183],[-80.055656,33.087658],[-80.072304,33.089329],[-80.072716,33.089996]]]],"created":1292535014,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2415179_20101216_9f3af2efc5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

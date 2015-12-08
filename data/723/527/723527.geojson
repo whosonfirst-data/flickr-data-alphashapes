@@ -1,0 +1,15 @@
+{
+  "id": 723527,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Luce, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":723527,
+    "woe:name":"Santa Luce, Tuscany, Italy",
+    "woe:place_id":"fvZQ9HyeA5936Z8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.554063,43.449368,10.566787,43.497513],
+  "geometry": {"alpha":0.00015,"bbox":[10.554062843323,43.449367523193,10.566786766052,43.497512817383],"coordinates":[[[[10.565242,43.472324],[10.554063,43.482071],[10.559234,43.497513],[10.566787,43.477589],[10.565724,43.472301],[10.564255,43.449368],[10.565242,43.472324]]]],"created":1292456102,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/723527_20101215_66451bf5e4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

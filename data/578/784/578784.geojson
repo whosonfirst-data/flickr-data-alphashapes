@@ -1,0 +1,15 @@
+{
+  "id": 578784,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaune, Centre, France",
+    "placetype":"locality",
+    "woe:id":578784,
+    "woe:name":"Beaune, Centre, France",
+    "woe:place_id":"9zCFsnScBpQgDbU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.420425,48.06995,2.432795,48.076473],
+  "geometry": {"alpha":0.00015,"bbox":[2.4204249382019,48.06995010376,2.43279504776,48.076473236084],"coordinates":[[[[2.42771,48.070267],[2.420425,48.076473],[2.432795,48.072063],[2.430338,48.06995],[2.42771,48.070267]]]],"created":1292549366,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/578784_20101217_4dfbf39a9d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

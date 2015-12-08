@@ -1,0 +1,15 @@
+{
+  "id": 2490546,
+  "type": "Feature",
+  "properties": {
+    "name":"Sedillo, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2490546,
+    "woe:name":"Sedillo, New Mexico, United States",
+    "woe:place_id":"9tBnYFebBZXbYSar",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.306969,35.081707,-106.269379,35.105568],
+  "geometry": {"alpha":0.00015,"bbox":[-106.30696868896,35.081707000732,-106.26937866211,35.105567932129],"coordinates":[[[[-106.306969,35.092243],[-106.301498,35.105568],[-106.280556,35.099361],[-106.269379,35.081707],[-106.289978,35.087887],[-106.306969,35.092243]]]],"created":1292486463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2490546_20101216_d4c60a41de.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

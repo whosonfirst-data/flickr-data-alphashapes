@@ -1,0 +1,15 @@
+{
+  "id": 2160765,
+  "type": "Feature",
+  "properties": {
+    "name":"Shiping, Yunnan, China",
+    "placetype":"locality",
+    "woe:id":2160765,
+    "woe:name":"Shiping, Yunnan, China",
+    "woe:place_id":"PJf6_l2bAJphndA.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [102.482468,23.716293,102.490372,23.721476],
+  "geometry": {"alpha":0.00015,"bbox":[102.48246765137,23.716293334961,102.4903717041,23.721475601196],"coordinates":[[[[102.490372,23.716309],[102.490211,23.716293],[102.48806,23.71673],[102.482468,23.71863],[102.48716,23.721476],[102.488556,23.718601],[102.490372,23.716309]]]],"created":1292493246,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2160765_20101216_bfe3d83988.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

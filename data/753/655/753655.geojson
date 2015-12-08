@@ -1,0 +1,15 @@
+{
+  "id": 753655,
+  "type": "Feature",
+  "properties": {
+    "name":"Santiago, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":753655,
+    "woe:name":"Santiago, Galicia, Spain",
+    "woe:place_id":"trUikZqeBJ96vKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.01577,42.332977,-8.012981,42.341415],
+  "geometry": {"alpha":0.00015,"bbox":[-8.0157699584961,42.332977294922,-8.0129814147949,42.341415405273],"coordinates":[[[[-8.01577,42.333027],[-8.015642,42.333408],[-8.012981,42.341415],[-8.013153,42.337357],[-8.015427,42.333199],[-8.015642,42.332977],[-8.01577,42.333027]]]],"created":1292451114,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/753655_20101215_61b2d6432f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

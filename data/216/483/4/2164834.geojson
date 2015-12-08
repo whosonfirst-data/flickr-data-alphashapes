@@ -1,0 +1,15 @@
+{
+  "id": 2164834,
+  "type": "Feature",
+  "properties": {
+    "name":"Hong Kong, Hong Kong Island, Hong Kong",
+    "placetype":"locality",
+    "woe:id":2164834,
+    "woe:name":"Hong Kong, Hong Kong Island, Hong Kong",
+    "woe:place_id":"lf6fB4ubAJp9E3_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [114.140099,22.278931,114.148376,22.28957],
+  "geometry": {"alpha":0.00015,"bbox":[114.14009857178,22.278930664062,114.14837646484,22.289569854736],"coordinates":[[[[114.144516,22.285919],[114.148376,22.283218],[114.143143,22.279247],[114.141083,22.278931],[114.140396,22.286554],[114.140099,22.28957],[114.144516,22.285919]]]],"created":1292541006,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2164834_20101216_908dd2fafc.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

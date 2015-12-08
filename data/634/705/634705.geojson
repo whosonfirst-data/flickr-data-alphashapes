@@ -1,0 +1,15 @@
+{
+  "id": 634705,
+  "type": "Feature",
+  "properties": {
+    "name":"Altheim, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":634705,
+    "woe:name":"Altheim, Saarland, Germany",
+    "woe:place_id":"cilDlfyfApjI21o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.306852,49.165092,7.330799,49.172501],
+  "geometry": {"alpha":0.00015,"bbox":[7.3068518638611,49.165092468262,7.3307991027832,49.172500610352],"coordinates":[[[[7.327365,49.165993],[7.324361,49.165092],[7.306852,49.167675],[7.315649,49.171169],[7.318439,49.171043],[7.330799,49.172501],[7.327365,49.165993]]]],"created":1292455927,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/634705_20101215_1fc130b0e8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

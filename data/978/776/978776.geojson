@@ -1,0 +1,15 @@
+{
+  "id": 978776,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellin, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":978776,
+    "woe:name":"Wellin, Luxemburg, Belgium",
+    "woe:place_id":"1h6i5aOQBpREOQE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.111217,50.074726,5.125122,50.085453],
+  "geometry": {"alpha":0.00015,"bbox":[5.1112170219421,50.074726104736,5.1251220703125,50.085453033447],"coordinates":[[[[5.111389,50.083801],[5.113105,50.085453],[5.119875,50.082603],[5.125122,50.081379],[5.11627,50.074726],[5.111217,50.080498],[5.111389,50.083801]]]],"created":1292544432,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/978776_20101217_02c0bbf1cf.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

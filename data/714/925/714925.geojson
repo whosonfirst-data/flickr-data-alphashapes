@@ -1,0 +1,15 @@
+{
+  "id": 714925,
+  "type": "Feature",
+  "properties": {
+    "name":"Cupramontana, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":714925,
+    "woe:name":"Cupramontana, Marche, Italy",
+    "woe:place_id":"qdy6fKieAJiS4C8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.105316,43.440018,13.118405,43.449631],
+  "geometry": {"alpha":0.00015,"bbox":[13.105316162109,43.440017700195,13.118405342102,43.449630737305],"coordinates":[[[[13.116018,43.446003],[13.116323,43.444786],[13.117525,43.441578],[13.118405,43.440018],[13.105316,43.445442],[13.113008,43.449631],[13.116018,43.446003]]]],"created":1292534382,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/714925_20101216_cd4c2bf910.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

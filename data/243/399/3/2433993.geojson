@@ -1,0 +1,15 @@
+{
+  "id": 2433993,
+  "type": "Feature",
+  "properties": {
+    "name":"Kukaiau, Hawaii, United States",
+    "placetype":"locality",
+    "woe:id":2433993,
+    "woe:name":"Kukaiau, Hawaii, United States",
+    "woe:place_id":"l01kVfybBZ9aWtvX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-155.347565,20.017225,-155.312347,20.03916],
+  "geometry": {"alpha":0.00015,"bbox":[-155.34756469727,20.017225265503,-155.31234741211,20.03915977478],"coordinates":[[[[-155.329681,20.03916],[-155.312347,20.034643],[-155.324707,20.017225],[-155.336227,20.026379],[-155.347565,20.029856],[-155.329681,20.03916]]]],"created":1247763482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2452/shapefiles/2433993_20090716_99ab56a194.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

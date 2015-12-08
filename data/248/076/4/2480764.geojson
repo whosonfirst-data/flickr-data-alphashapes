@@ -1,0 +1,15 @@
+{
+  "id": 2480764,
+  "type": "Feature",
+  "properties": {
+    "name":"Richburg, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2480764,
+    "woe:name":"Richburg, South Carolina, United States",
+    "woe:place_id":"LAp8K.SbBZRE87xS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.033699,34.712162,-81.000908,34.722179],
+  "geometry": {"alpha":0.00015,"bbox":[-81.033699035645,34.712162017822,-81.000907897949,34.722179412842],"coordinates":[[[[-81.019615,34.713863],[-81.033699,34.722179],[-81.022881,34.721508],[-81.011383,34.7183],[-81.000908,34.712162],[-81.019615,34.713863]]]],"created":1292548639,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2480764_20101217_96cf2ee3d2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

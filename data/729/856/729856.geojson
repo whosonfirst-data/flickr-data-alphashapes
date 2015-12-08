@@ -1,0 +1,15 @@
+{
+  "id": 729856,
+  "type": "Feature",
+  "properties": {
+    "name":"Heeten, Overyssel, Netherlands",
+    "placetype":"locality",
+    "woe:id":729856,
+    "woe:name":"Heeten, Overyssel, Netherlands",
+    "woe:place_id":"V_ytprCeA5XJSEk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.263923,52.329346,6.291732,52.343681],
+  "geometry": {"alpha":0.00015,"bbox":[6.2639231681824,52.329345703125,6.2917318344116,52.343681335449],"coordinates":[[[[6.287999,52.33897],[6.282028,52.336304],[6.276669,52.329346],[6.263923,52.339115],[6.275414,52.343681],[6.291732,52.343311],[6.287999,52.33897]]]],"created":1292547008,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/729856_20101217_cc773d58ca.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

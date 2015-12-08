@@ -1,0 +1,15 @@
+{
+  "id": 2456572,
+  "type": "Feature",
+  "properties": {
+    "name":"Muscle Shoals, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2456572,
+    "woe:name":"Muscle Shoals, Alabama, United States",
+    "woe:place_id":"A4Joy8WbBZm16LAf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.631119,34.790474,-87.619484,34.794529],
+  "geometry": {"alpha":0.00015,"bbox":[-87.631118774414,34.790473937988,-87.619483947754,34.794528961182],"coordinates":[[[[-87.626396,34.794529],[-87.624466,34.79414],[-87.619484,34.792625],[-87.631119,34.790474],[-87.627724,34.79385],[-87.626396,34.794529]]]],"created":1292518215,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2456572_20101216_a9f4f37840.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

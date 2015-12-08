@@ -1,0 +1,15 @@
+{
+  "id": 881163,
+  "type": "Feature",
+  "properties": {
+    "name":"Strejnicul, Prahova, Romania",
+    "placetype":"locality",
+    "woe:id":881163,
+    "woe:name":"Strejnicul, Prahova, Romania",
+    "woe:place_id":"FB_PZIGRCZ2itno",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.961849,44.927261,25.976313,44.946896],
+  "geometry": {"alpha":0.00015,"bbox":[25.961849212646,44.927261352539,25.976312637329,44.946895599365],"coordinates":[[[[25.965157,44.935398],[25.961849,44.946754],[25.961872,44.946896],[25.96756,44.935638],[25.976313,44.927261],[25.970306,44.929806],[25.965157,44.935398]]]],"created":1292511851,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/881163_20101216_166a1b47a4.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

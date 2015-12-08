@@ -1,0 +1,15 @@
+{
+  "id": 2440111,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Bohemia, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2440111,
+    "woe:name":"Little Bohemia, Ohio, United States",
+    "woe:place_id":"jcB6Wy6bBZgSm4O1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.660004,41.466969,-81.649704,41.479385],
+  "geometry": {"alpha":0.00015,"bbox":[-81.660003662109,41.466968536377,-81.649703979492,41.479385375977],"coordinates":[[[[-81.660004,41.467426],[-81.656204,41.479385],[-81.649704,41.472572],[-81.649704,41.469486],[-81.651108,41.466969],[-81.660004,41.467426]]]],"created":1292469309,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2440111_20101216_bcffcf7209.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2485103,
+  "type": "Feature",
+  "properties": {
+    "name":"Rotterdam Junction, New York, United States",
+    "placetype":"locality",
+    "woe:id":2485103,
+    "woe:name":"Rotterdam Junction, New York, United States",
+    "woe:place_id":"nk00ArGbBZRS9qPB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.069824,42.869667,-74.031822,42.887707],
+  "geometry": {"alpha":0.00015,"bbox":[-74.06982421875,42.869667053223,-74.03182220459,42.887706756592],"coordinates":[[[[-74.042702,42.869667],[-74.048454,42.871056],[-74.060036,42.875427],[-74.069824,42.878983],[-74.054451,42.887707],[-74.052284,42.887119],[-74.052177,42.887096],[-74.050529,42.886684],[-74.032318,42.885399],[-74.031822,42.877003],[-74.035278,42.876167],[-74.042282,42.869797],[-74.042702,42.869667]]]],"created":1292523243,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2485103_20101216_54a5627bd9.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

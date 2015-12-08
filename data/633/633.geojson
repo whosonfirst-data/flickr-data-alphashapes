@@ -1,0 +1,15 @@
+{
+  "id": 633,
+  "type": "Feature",
+  "properties": {
+    "name":"Harbour Main, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":633,
+    "woe:name":"Harbour Main, Newfoundland and Labrador, Canada",
+    "woe:place_id":"blgI8uyfAp8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.16988,47.430649,-53.157478,47.443413],
+  "geometry": {"alpha":0.00015,"bbox":[-53.16987991333,47.430648803711,-53.15747833252,47.443412780762],"coordinates":[[[[-53.159065,47.431976],[-53.168869,47.430649],[-53.16988,47.430874],[-53.162842,47.443413],[-53.157478,47.436127],[-53.159065,47.431976]]]],"created":1292510042,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/633_20101216_9b4dfc1103.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

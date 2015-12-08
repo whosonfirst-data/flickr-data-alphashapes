@@ -1,0 +1,15 @@
+{
+  "id": 666125,
+  "type": "Feature",
+  "properties": {
+    "name":"Kitzeberg, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":666125,
+    "woe:name":"Kitzeberg, Schleswig-Holstein, Germany",
+    "woe:place_id":"WlfRxgqfB5q8pFk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.178318,54.361332,10.181879,54.362621],
+  "geometry": {"alpha":0.00015,"bbox":[10.178318023682,54.361331939697,10.181879043579,54.362621307373],"coordinates":[[[[10.179519,54.361908],[10.181879,54.362621],[10.180978,54.362175],[10.178318,54.361332],[10.179519,54.361908]]]],"created":1292361483,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/666125_20101214_befa0de7ff.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

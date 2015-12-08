@@ -1,0 +1,15 @@
+{
+  "id": 29374174,
+  "type": "Feature",
+  "properties": {
+    "name":"Tay, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374174,
+    "woe:name":"Tay, Ontario, Canada",
+    "woe:place_id":"YQFIr3SbCJ94S7rPRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.767868,44.729237,-79.740166,44.748928],
+  "geometry": {"alpha":0.00015,"bbox":[-79.767868041992,44.729236602783,-79.740165710449,44.748928070068],"coordinates":[[[[-79.759026,44.748928],[-79.746323,44.745148],[-79.740166,44.729237],[-79.748726,44.734661],[-79.767868,44.731674],[-79.759026,44.748928]]]],"created":1292514782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/29374174_20101216_3a9c19993c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

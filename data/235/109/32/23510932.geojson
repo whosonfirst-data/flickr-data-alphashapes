@@ -1,0 +1,15 @@
+{
+  "id": 23510932,
+  "type": "Feature",
+  "properties": {
+    "name":"South Lake, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":23510932,
+    "woe:name":"South Lake, Indiana, United States",
+    "woe:place_id":"Pu6sPT6bApmzSHr3Qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.422958,39.42041,-87.417915,39.420811],
+  "geometry": {"alpha":0.00015,"bbox":[-87.422958374023,39.42041015625,-87.417915344238,39.420810699463],"coordinates":[[[[-87.420807,39.42062],[-87.417915,39.420811],[-87.41922,39.42041],[-87.42276,39.420498],[-87.422958,39.420719],[-87.420807,39.42062]]]],"created":1292451789,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23510932_20101215_8fbc54da2f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

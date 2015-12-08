@@ -1,0 +1,15 @@
+{
+  "id": 2354281,
+  "type": "Feature",
+  "properties": {
+    "name":"Ames, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2354281,
+    "woe:name":"Ames, Oklahoma, United States",
+    "woe:place_id":"C14xlNWbApkM7lxZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.185158,36.24604,-98.176125,36.258167],
+  "geometry": {"alpha":0.00015,"bbox":[-98.185157775879,36.246040344238,-98.176124572754,36.258167266846],"coordinates":[[[[-98.176125,36.248547],[-98.185089,36.24604],[-98.185158,36.247284],[-98.177002,36.258167],[-98.176125,36.248547]]]],"created":1292454157,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2354281_20101215_b79d7ac373.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

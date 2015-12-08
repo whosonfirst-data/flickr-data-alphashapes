@@ -1,0 +1,15 @@
+{
+  "id": 2472578,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinehurst, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2472578,
+    "woe:name":"Pinehurst, Georgia, United States",
+    "woe:place_id":".YH0.1.bBZv9Qu2k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.761894,32.183384,-83.746498,32.205666],
+  "geometry": {"alpha":0.00015,"bbox":[-83.761894226074,32.18338394165,-83.74649810791,32.205665588379],"coordinates":[[[[-83.761894,32.195721],[-83.746498,32.205666],[-83.746849,32.20158],[-83.747536,32.194153],[-83.750069,32.183384],[-83.761894,32.195721]]]],"created":1292469663,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2472578_20101216_c9038eeb0c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

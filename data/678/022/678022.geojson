@@ -1,0 +1,15 @@
+{
+  "id": 678022,
+  "type": "Feature",
+  "properties": {
+    "name":"Neudorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":678022,
+    "woe:name":"Neudorf, Brandenburg, Germany",
+    "woe:place_id":"adCCwW.fBpSugI8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.70347,53.142857,13.703985,53.143372],
+  "geometry": {"alpha":0.00015,"bbox":[13.703470230103,53.1428565979,13.703985214233,53.143371582031],"coordinates":[[[[13.70347,53.143372],[13.703899,53.143322],[13.703985,53.143063],[13.703899,53.142857],[13.70347,53.143372]]]],"created":1234564803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3104/shapefiles/678022_20090213_29cc34563a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

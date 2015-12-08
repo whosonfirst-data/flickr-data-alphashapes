@@ -1,0 +1,15 @@
+{
+  "id": 710192,
+  "type": "Feature",
+  "properties": {
+    "name":"Anzano del Parco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710192,
+    "woe:name":"Anzano del Parco, Lombardy, Italy",
+    "woe:place_id":"us8GNmOeAJxTgzI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.19281,45.764469,9.205684,45.770973],
+  "geometry": {"alpha":0.00015,"bbox":[9.1928100585938,45.764469146729,9.2056837081909,45.770973205566],"coordinates":[[[[9.196414,45.770397],[9.197444,45.770275],[9.205684,45.770973],[9.199848,45.765785],[9.19281,45.764469],[9.196414,45.770397]]]],"created":1292447369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/710192_20101215_870d964459.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

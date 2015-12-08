@@ -1,0 +1,15 @@
+{
+  "id": 81494,
+  "type": "Feature",
+  "properties": {
+    "name":"Chahal, Alta Verapaz, Guatemala",
+    "placetype":"locality",
+    "woe:id":81494,
+    "woe:name":"Chahal, Alta Verapaz, Guatemala",
+    "woe:place_id":"vxqDbOiRAJhW1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.5784,15.750127,-89.56398,15.763922],
+  "geometry": {"alpha":0.00015,"bbox":[-89.578399658203,15.750126838684,-89.563980102539,15.763921737671],"coordinates":[[[[-89.571701,15.750127],[-89.5784,15.750623],[-89.572906,15.759131],[-89.570671,15.763922],[-89.56398,15.754919],[-89.571701,15.750127]]]],"created":1292530441,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/81494_20101216_00ff539c32.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

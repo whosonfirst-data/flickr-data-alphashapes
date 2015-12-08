@@ -1,0 +1,15 @@
+{
+  "id": 2414106,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenbackville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2414106,
+    "woe:name":"Greenbackville, Virginia, United States",
+    "woe:place_id":"gsBYT3qbBZ15o1Jh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.425606,37.994404,-75.408867,38.007999],
+  "geometry": {"alpha":0.00015,"bbox":[-75.425605773926,37.994403839111,-75.408866882324,38.007999420166],"coordinates":[[[[-75.422516,37.994404],[-75.425606,38.007999],[-75.416077,37.999409],[-75.413399,37.998066],[-75.408867,37.996231],[-75.422516,37.994404]]]],"created":1292530827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2414106_20101216_20b1653f76.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23393930,
+  "type": "Feature",
+  "properties": {
+    "name":"Oak Bay, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393930,
+    "woe:name":"Oak Bay, New Brunswick, Canada",
+    "woe:place_id":"SGAJw62bAp_crP8tFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.195816,45.222042,-67.177101,45.244041],
+  "geometry": {"alpha":0.00015,"bbox":[-67.195816040039,45.22204208374,-67.177101135254,45.244041442871],"coordinates":[[[[-67.186371,45.229446],[-67.177101,45.225761],[-67.195816,45.222042],[-67.192467,45.227814],[-67.190666,45.244041],[-67.186371,45.229446]]]],"created":1292508723,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/23393930_20101216_3c299b526f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

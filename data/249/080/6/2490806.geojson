@@ -1,0 +1,15 @@
+{
+  "id": 2490806,
+  "type": "Feature",
+  "properties": {
+    "name":"Seneca, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2490806,
+    "woe:name":"Seneca, Oregon, United States",
+    "woe:place_id":"1Kd6nKubBZUVaOTP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.981247,44.129307,-118.968712,44.14135],
+  "geometry": {"alpha":0.00015,"bbox":[-118.98124694824,44.129306793213,-118.96871185303,44.14134979248],"coordinates":[[[[-118.98082,44.140919],[-118.981247,44.14135],[-118.979874,44.141319],[-118.968712,44.134789],[-118.973862,44.129307],[-118.98082,44.140919]]]],"created":1292518716,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2490806_20101216_cc1d797aca.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

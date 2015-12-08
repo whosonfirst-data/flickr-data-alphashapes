@@ -1,0 +1,15 @@
+{
+  "id": 591352,
+  "type": "Feature",
+  "properties": {
+    "name":"Fontaine, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":591352,
+    "woe:name":"Fontaine, Haute-Normandie, France",
+    "woe:place_id":"xHwQvs6cCJ1C8XI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.082225,49.494961,0.09525,49.503029],
+  "geometry": {"alpha":0.00015,"bbox":[0.082225002348423,49.494960784912,0.095250003039837,49.503028869629],"coordinates":[[[[0.091323,49.496731],[0.082225,49.503029],[0.085852,49.502304],[0.092461,49.497078],[0.09525,49.494961],[0.091323,49.496731]]]],"created":1292483649,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/591352_20101216_29faa03d6e.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

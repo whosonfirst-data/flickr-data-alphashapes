@@ -1,0 +1,15 @@
+{
+  "id": 12675928,
+  "type": "Feature",
+  "properties": {
+    "name":"Sorico, Italy",
+    "placetype":"locality",
+    "woe:id":12675928,
+    "woe:name":"Sorico, Italy",
+    "woe:place_id":"ceYtSGKYA5qHUkAtZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.422149,46.191254,9.425582,46.192806],
+  "geometry": {"alpha":1e-05,"bbox":[9.4221487045288,46.191253662109,9.4255819320679,46.192806243896],"coordinates":[[[[9.425582,46.192738],[9.425389,46.191254],[9.42275,46.191982],[9.422149,46.192806],[9.42511,46.192516],[9.425582,46.192738]]]],"created":1248100815,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2458/shapefiles/12675928_20090720_8effe6e6a3.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

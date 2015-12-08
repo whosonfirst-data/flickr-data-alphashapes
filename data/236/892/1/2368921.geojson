@@ -1,0 +1,15 @@
+{
+  "id": 2368921,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridgeport, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2368921,
+    "woe:name":"Bridgeport, Ohio, United States",
+    "woe:place_id":"Dvx1dS2bApoF0zHo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.29483,39.640991,-84.288963,39.642906],
+  "geometry": {"alpha":0.00015,"bbox":[-84.294830322266,39.640991210938,-84.288963317871,39.642906188965],"coordinates":[[[[-84.289513,39.642906],[-84.288963,39.642735],[-84.289597,39.641621],[-84.293762,39.640991],[-84.29483,39.64119],[-84.289513,39.642906]]]],"created":1292533223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2368921_20101216_2f76516e0e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

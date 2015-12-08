@@ -1,0 +1,15 @@
+{
+  "id": 2397623,
+  "type": "Feature",
+  "properties": {
+    "name":"Eglantine, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2397623,
+    "woe:name":"Eglantine, Arkansas, United States",
+    "woe:place_id":"BXblqFGbApWA1uK7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.300079,35.567417,-92.282364,35.573303],
+  "geometry": {"alpha":0.00015,"bbox":[-92.300079345703,35.567417144775,-92.282363891602,35.573303222656],"coordinates":[[[[-92.297859,35.56744],[-92.298233,35.56786],[-92.300079,35.573269],[-92.282364,35.573303],[-92.296516,35.567417],[-92.297859,35.56744]]]],"created":1292477347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2397623_20101216_c43cfd9d5d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12675534,
+  "type": "Feature",
+  "properties": {
+    "name":"Steinach am Brenner, Austria",
+    "placetype":"locality",
+    "woe:id":12675534,
+    "woe:name":"Steinach am Brenner, Austria",
+    "woe:place_id":"5CgodfSYA5rSqtDuaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.471443,47.075615,11.476678,47.080875],
+  "geometry": {"alpha":1e-05,"bbox":[11.47144317627,47.075614929199,11.476677894592,47.080875396729],"coordinates":[[[[11.475906,47.080875],[11.476678,47.075676],[11.476335,47.075615],[11.471443,47.078773],[11.475906,47.080875]]]],"created":1248202336,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2624/shapefiles/12675534_20090721_05b202cc44.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

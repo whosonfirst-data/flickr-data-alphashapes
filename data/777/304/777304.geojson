@@ -1,0 +1,15 @@
+{
+  "id": 777304,
+  "type": "Feature",
+  "properties": {
+    "name":"Videferre, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":777304,
+    "woe:name":"Videferre, Galicia, Spain",
+    "woe:place_id":"hd2GAV2eBpuH6EU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.587819,41.843971,-7.571361,41.855946],
+  "geometry": {"alpha":0.00015,"bbox":[-7.5878190994263,41.843971252441,-7.5713610649109,41.855945587158],"coordinates":[[[[-7.586585,41.848377],[-7.587819,41.855946],[-7.571361,41.850929],[-7.577776,41.844582],[-7.579321,41.843971],[-7.586585,41.848377]]]],"created":1292458765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/777304_20101216_bde52d0d72.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

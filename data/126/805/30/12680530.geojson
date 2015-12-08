@@ -1,0 +1,15 @@
+{
+  "id": 12680530,
+  "type": "Feature",
+  "properties": {
+    "name":"Montemesola, Italy",
+    "placetype":"locality",
+    "woe:id":12680530,
+    "woe:name":"Montemesola, Italy",
+    "woe:place_id":"jvcx71.YA5qSjiDE5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.361122,40.546497,17.361374,40.546734],
+  "geometry": {"alpha":1e-05,"bbox":[17.361122131348,40.546497344971,17.361373901367,40.546733856201],"coordinates":[[[[17.361122,40.546734],[17.361322,40.546543],[17.361374,40.546497],[17.361347,40.54652],[17.361322,40.546543],[17.361147,40.546707],[17.361122,40.546734]]]],"created":1239337083,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3348/shapefiles/12680530_20090410_172c705b63.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

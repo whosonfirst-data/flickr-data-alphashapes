@@ -1,0 +1,15 @@
+{
+  "id": 12625138,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gehlberg, Germany",
+    "placetype":"locality",
+    "woe:id":12625138,
+    "woe:name":"Gemeinde Gehlberg, Germany",
+    "woe:place_id":"zj.9TemYA5qzvIKxKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.762653,50.663174,10.768918,50.667744],
+  "geometry": {"alpha":1e-05,"bbox":[10.76265335083,50.663173675537,10.768918037415,50.667743682861],"coordinates":[[[[10.763597,50.666058],[10.763854,50.667744],[10.768918,50.667198],[10.765314,50.663826],[10.763254,50.663174],[10.762653,50.66396],[10.763597,50.666058]]]],"created":1292542990,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12625138_20101216_5001728929.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

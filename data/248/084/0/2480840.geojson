@@ -1,0 +1,15 @@
+{
+  "id": 2480840,
+  "type": "Feature",
+  "properties": {
+    "name":"Richland, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2480840,
+    "woe:name":"Richland, Texas, United States",
+    "woe:place_id":"PrdgGBSbBZRs8a_z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.429398,31.913055,-96.424042,31.934166],
+  "geometry": {"alpha":0.00015,"bbox":[-96.429397583008,31.913055419922,-96.424041748047,31.93416595459],"coordinates":[[[[-96.424683,31.927944],[-96.424042,31.922791],[-96.429169,31.913055],[-96.429398,31.9268],[-96.425163,31.934166],[-96.424683,31.927944]]]],"created":1292523338,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2480840_20101216_79aefb3723.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

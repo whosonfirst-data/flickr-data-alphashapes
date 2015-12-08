@@ -1,0 +1,15 @@
+{
+  "id": 2516667,
+  "type": "Feature",
+  "properties": {
+    "name":"West Bass Lake, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2516667,
+    "woe:name":"West Bass Lake, Ohio, United States",
+    "woe:place_id":"4sw8e7ybBJ2A.sC8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.176994,41.638668,-81.160294,41.643986],
+  "geometry": {"alpha":0.00015,"bbox":[-81.17699432373,41.638668060303,-81.160293579102,41.643985748291],"coordinates":[[[[-81.166466,41.642612],[-81.165916,41.642357],[-81.160294,41.638668],[-81.166748,41.64249],[-81.176994,41.643986],[-81.166466,41.642612]]]],"created":1292543410,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2516667_20101216_191c2ffb4c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

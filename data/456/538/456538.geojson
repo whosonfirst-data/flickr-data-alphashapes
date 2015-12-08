@@ -1,0 +1,15 @@
+{
+  "id": 456538,
+  "type": "Feature",
+  "properties": {
+    "name":"Sarandi, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":456538,
+    "woe:name":"Sarandi, Rio Grande do Sul, Brazil",
+    "woe:place_id":"JUrPrIWdBJraCqs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-52.942772,-27.940882,-52.922859,-27.93527],
+  "geometry": {"alpha":0.00015,"bbox":[-52.942771911621,-27.940881729126,-52.922859191895,-27.935270309448],"coordinates":[[[[-52.932472,-27.937393],[-52.922859,-27.939745],[-52.928608,-27.940882],[-52.931786,-27.940046],[-52.942772,-27.93527],[-52.932472,-27.937393]]]],"created":1292523005,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/456538_20101216_e81069eb80.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55864833,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmington Twp, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":55864833,
+    "woe:name":"Farmington Twp, Pennsylvania, United States",
+    "woe:place_id":"KopVbcqcBJTaHu4EMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.263222,41.333782,-79.25238,41.334511],
+  "geometry": {"alpha":0.00015,"bbox":[-79.263221740723,41.333782196045,-79.252380371094,41.334510803223],"coordinates":[[[[-79.252419,41.333782],[-79.263222,41.334511],[-79.25238,41.333817],[-79.25238,41.333782],[-79.252419,41.333782]]]],"created":1292442600,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/55864833_20101215_05a76d5d86.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

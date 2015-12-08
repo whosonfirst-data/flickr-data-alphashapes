@@ -1,0 +1,15 @@
+{
+  "id": 10778,
+  "type": "Feature",
+  "properties": {
+    "name":"Amisfield Town, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10778,
+    "woe:name":"Amisfield Town, Scotland, United Kingdom",
+    "woe:place_id":"emBBD2SYAZvIZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.56532,55.135422,-3.545107,55.155777],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5653200149536,55.13542175293,-3.5451068878174,55.155776977539],"coordinates":[[[[-3.56532,55.135422],[-3.562231,55.137875],[-3.562488,55.155777],[-3.545107,55.149963],[-3.55957,55.136108],[-3.56532,55.135422]]]],"created":1292458118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/10778_20101216_1b3bfe90cd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

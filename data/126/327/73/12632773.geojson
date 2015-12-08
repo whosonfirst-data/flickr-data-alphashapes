@@ -1,0 +1,15 @@
+{
+  "id": 12632773,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ronshausen, Germany",
+    "placetype":"locality",
+    "woe:id":12632773,
+    "woe:name":"Gemeinde Ronshausen, Germany",
+    "woe:place_id":"Mf.Q2E2YA5oUFkz2Zg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.882591,50.941162,9.884983,50.942287],
+  "geometry": {"alpha":1e-05,"bbox":[9.8825912475586,50.941162109375,9.8849830627441,50.942287445068],"coordinates":[[[[9.883502,50.941162],[9.882591,50.942276],[9.882611,50.942284],[9.884983,50.942287],[9.884802,50.941204],[9.883502,50.941162]]]],"created":1292501765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12632773_20101216_c047e1604e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

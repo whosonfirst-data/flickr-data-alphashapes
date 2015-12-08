@@ -1,0 +1,15 @@
+{
+  "id": 686216,
+  "type": "Feature",
+  "properties": {
+    "name":"Pulsnitz, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":686216,
+    "woe:name":"Pulsnitz, Saxony, Germany",
+    "woe:place_id":"ovSCj9CfCZqxKXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.001131,51.177944,14.015379,51.18639],
+  "geometry": {"alpha":0.00015,"bbox":[14.001131057739,51.17794418335,14.015378952026,51.186389923096],"coordinates":[[[[14.015379,51.183201],[14.013061,51.180096],[14.001131,51.177944],[14.007911,51.18639],[14.0115,51.185833],[14.015378,51.185745],[14.015379,51.183201]]]],"created":1292534490,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/686216_20101216_67bc33b204.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

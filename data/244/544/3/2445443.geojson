@@ -1,0 +1,15 @@
+{
+  "id": 2445443,
+  "type": "Feature",
+  "properties": {
+    "name":"Marathon, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2445443,
+    "woe:name":"Marathon, Wisconsin, United States",
+    "woe:place_id":"3APbHKSbBZjwIHO9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.853416,44.92926,-89.840179,44.944138],
+  "geometry": {"alpha":0.00015,"bbox":[-89.853416442871,44.929260253906,-89.840179443359,44.944137573242],"coordinates":[[[[-89.844292,44.93187],[-89.853416,44.944138],[-89.844131,44.94305],[-89.840355,44.930111],[-89.840179,44.92926],[-89.844292,44.93187]]]],"created":1292543110,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2445443_20101216_e8408093ee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

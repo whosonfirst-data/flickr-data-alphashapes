@@ -1,0 +1,15 @@
+{
+  "id": 125565,
+  "type": "Feature",
+  "properties": {
+    "name":"Ixtlahuaca, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":125565,
+    "woe:name":"Ixtlahuaca, Mexico, Mexico",
+    "woe:place_id":"Fh2aESiYA5kzy6c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.768402,19.558657,-99.761826,19.570484],
+  "geometry": {"alpha":0.00015,"bbox":[-99.768402099609,19.558656692505,-99.761825561523,19.570484161377],"coordinates":[[[[-99.767426,19.567932],[-99.768402,19.569904],[-99.767555,19.570425],[-99.761826,19.570484],[-99.765129,19.558657],[-99.767426,19.567932]]]],"created":1292542487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/125565_20101216_9946397e7e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

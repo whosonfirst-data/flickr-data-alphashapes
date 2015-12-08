@@ -1,0 +1,15 @@
+{
+  "id": 2508123,
+  "type": "Feature",
+  "properties": {
+    "name":"Troup, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2508123,
+    "woe:name":"Troup, Texas, United States",
+    "woe:place_id":"FRBCRqmbBJyBE.gf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.123665,32.138844,-95.111305,32.15345],
+  "geometry": {"alpha":0.00015,"bbox":[-95.123664855957,32.138843536377,-95.111305236816,32.153450012207],"coordinates":[[[[-95.122375,32.147274],[-95.123665,32.151318],[-95.113533,32.15345],[-95.111305,32.143204],[-95.120575,32.138844],[-95.122375,32.147274]]]],"created":1292452395,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2508123_20101215_6f13f34ac6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

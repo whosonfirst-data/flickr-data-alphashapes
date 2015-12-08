@@ -1,0 +1,15 @@
+{
+  "id": 2360720,
+  "type": "Feature",
+  "properties": {
+    "name":"Bear Lake, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2360720,
+    "woe:name":"Bear Lake, Michigan, United States",
+    "woe:place_id":"DyQPK5ubAppc3ZEi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.178734,44.411594,-86.130325,44.441257],
+  "geometry": {"alpha":0.00015,"bbox":[-86.178733825684,44.411594390869,-86.130325317383,44.441257476807],"coordinates":[[[[-86.151009,44.422501],[-86.157532,44.433781],[-86.178734,44.437027],[-86.164223,44.441257],[-86.154785,44.433781],[-86.142799,44.434006],[-86.130325,44.436695],[-86.137619,44.426914],[-86.132492,44.411682],[-86.140625,44.411594],[-86.151352,44.414684],[-86.151352,44.41927],[-86.151009,44.422501]]]],"created":1292543643,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2360720_20101216_34ec27d104.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

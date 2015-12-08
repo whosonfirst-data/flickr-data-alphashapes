@@ -1,0 +1,15 @@
+{
+  "id": 2409137,
+  "type": "Feature",
+  "properties": {
+    "name":"Garwood, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2409137,
+    "woe:name":"Garwood, West Virginia, United States",
+    "woe:place_id":"1DarGLmbBZy1lywM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.315773,37.481396,-81.314445,37.481651],
+  "geometry": {"alpha":0.00015,"bbox":[-81.315773010254,37.481395721436,-81.314445495605,37.481651306152],"coordinates":[[[[-81.314957,37.481468],[-81.315453,37.481396],[-81.315773,37.481396],[-81.314445,37.481651],[-81.314789,37.481514],[-81.314957,37.481468]]]],"created":1292444884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2409137_20101215_13cc76c220.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

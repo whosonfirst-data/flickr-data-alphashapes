@@ -1,0 +1,15 @@
+{
+  "id": 2486598,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Andrews, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2486598,
+    "woe:name":"St. Andrews, Georgia, United States",
+    "woe:place_id":"awEhXJabBZRJ8T1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.308502,33.956432,-84.297508,33.962547],
+  "geometry": {"alpha":0.00015,"bbox":[-84.308502197266,33.956432342529,-84.297508239746,33.962547302246],"coordinates":[[[[-84.301933,33.956432],[-84.308502,33.961834],[-84.3041,33.962547],[-84.297508,33.960526],[-84.301613,33.956726],[-84.301933,33.956432]]]],"created":1292544963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2486598_20101217_fd80c6b1ed.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

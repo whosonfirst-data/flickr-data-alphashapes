@@ -1,0 +1,15 @@
+{
+  "id": 460311,
+  "type": "Feature",
+  "properties": {
+    "name":"Osvaldo Cruz, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":460311,
+    "woe:name":"Osvaldo Cruz, Sao Paulo, Brazil",
+    "woe:place_id":"4ghn_NqdB5yRs0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-50.885658,-21.797171,-50.876602,-21.791941],
+  "geometry": {"alpha":0.00015,"bbox":[-50.88565826416,-21.797170639038,-50.876602172852,-21.791940689087],"coordinates":[[[[-50.885658,-21.79421],[-50.884895,-21.791941],[-50.880604,-21.793774],[-50.878029,-21.796003],[-50.876602,-21.797171],[-50.885658,-21.79421]]]],"created":1292543820,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/460311_20101216_5e02975325.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

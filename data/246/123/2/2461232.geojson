@@ -1,0 +1,15 @@
+{
+  "id": 2461232,
+  "type": "Feature",
+  "properties": {
+    "name":"North la Junta, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2461232,
+    "woe:name":"North la Junta, Colorado, United States",
+    "woe:place_id":"0trfyA6bBZpHpFmR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.522026,38.042141,-103.512245,38.046089],
+  "geometry": {"alpha":0.00015,"bbox":[-103.52202606201,38.042140960693,-103.51224517822,38.046089172363],"coordinates":[[[[-103.518974,38.046089],[-103.518051,38.046047],[-103.512245,38.045547],[-103.522026,38.042141],[-103.519577,38.046028],[-103.518974,38.046089]]]],"created":1292537534,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2461232_20101216_78ddffe9be.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

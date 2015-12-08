@@ -1,0 +1,15 @@
+{
+  "id": 2410800,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Forest, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2410800,
+    "woe:name":"Glen Forest, Virginia, United States",
+    "woe:place_id":"M9HT8dGbBZ14otse",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.134407,38.852222,-77.131577,38.85981],
+  "geometry": {"alpha":0.00015,"bbox":[-77.134407043457,38.852222442627,-77.131576538086,38.859809875488],"coordinates":[[[[-77.132561,38.852222],[-77.134407,38.855484],[-77.132774,38.85981],[-77.131577,38.856384],[-77.13192,38.852776],[-77.132561,38.852222]]]],"created":1292459946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2410800_20101216_e7aaa9bb3f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

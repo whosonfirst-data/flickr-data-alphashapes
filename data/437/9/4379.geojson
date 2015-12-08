@@ -1,0 +1,15 @@
+{
+  "id": 4379,
+  "type": "Feature",
+  "properties": {
+    "name":"Espanola, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4379,
+    "woe:name":"Espanola, Ontario, Canada",
+    "woe:place_id":"V515xUadApsl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.778084,46.246113,-81.748749,46.269852],
+  "geometry": {"alpha":0.00015,"bbox":[-81.77808380127,46.246112823486,-81.748748779297,46.26985168457],"coordinates":[[[[-81.771927,46.269852],[-81.769997,46.267506],[-81.748749,46.26368],[-81.763687,46.251812],[-81.762657,46.246113],[-81.778084,46.255764],[-81.775574,46.269596],[-81.771927,46.269852]]]],"created":1292548479,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/4379_20101217_b411129c16.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

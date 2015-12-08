@@ -1,0 +1,15 @@
+{
+  "id": 2391332,
+  "type": "Feature",
+  "properties": {
+    "name":"Denver City, Salt Lake City, UT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2391332,
+    "woe:name":"Denver City, Salt Lake City, UT, US, United States",
+    "woe:place_id":"g5DJGp6bApXe3g.v",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-111.998276,40.79224,-111.995316,40.797794],
+  "geometry": {"alpha":1e-05,"bbox":[-111.99827575684,40.792240142822,-111.99531555176,40.797794342041],"coordinates":[[[[-111.995827,40.79224],[-111.996605,40.792271],[-111.998276,40.797794],[-111.995316,40.795097],[-111.995827,40.79224]]]],"created":1292519865,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2391332_20101216_2d2f7767b0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

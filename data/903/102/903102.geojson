@@ -1,0 +1,15 @@
+{
+  "id": 903102,
+  "type": "Feature",
+  "properties": {
+    "name":"Ryssa, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":903102,
+    "woe:name":"Ryssa, Dalarna, Sweden",
+    "woe:place_id":"ougGj5.QAZ_1gQk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.512666,60.875969,14.521667,60.879017],
+  "geometry": {"alpha":0.00015,"bbox":[14.512665748596,60.875968933105,14.521666526794,60.879016876221],"coordinates":[[[[14.51854,60.87851],[14.521667,60.877666],[14.52099,60.876591],[14.5176,60.875969],[14.512666,60.878166],[14.517134,60.879017],[14.51854,60.87851]]]],"created":1292544686,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/903102_20101217_c4a8b79335.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

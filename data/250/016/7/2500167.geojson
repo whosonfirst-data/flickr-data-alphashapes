@@ -1,0 +1,15 @@
+{
+  "id": 2500167,
+  "type": "Feature",
+  "properties": {
+    "name":"Stokesville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2500167,
+    "woe:name":"Stokesville, Virginia, United States",
+    "woe:place_id":"ob1OMhObBJzncB_i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.175201,38.349667,-79.146019,38.356735],
+  "geometry": {"alpha":0.00015,"bbox":[-79.175201416016,38.349666595459,-79.146018981934,38.356735229492],"coordinates":[[[[-79.148537,38.353134],[-79.152634,38.353569],[-79.175201,38.349667],[-79.152748,38.356579],[-79.146019,38.356735],[-79.148537,38.353134]]]],"created":1292520210,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2500167_20101216_7248f48aba.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

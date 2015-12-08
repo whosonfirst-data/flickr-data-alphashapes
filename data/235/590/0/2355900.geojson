@@ -1,0 +1,15 @@
+{
+  "id": 2355900,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2355900,
+    "woe:name":"Arlington, Illinois, United States",
+    "woe:place_id":"baxvdN.bApkCNhl0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.252068,41.471992,-89.243401,41.476498],
+  "geometry": {"alpha":0.00015,"bbox":[-89.252067565918,41.471992492676,-89.24340057373,41.476497650146],"coordinates":[[[[-89.24881,41.472572],[-89.250443,41.471992],[-89.252068,41.472252],[-89.251816,41.473217],[-89.249443,41.47501],[-89.243401,41.476498],[-89.245804,41.474758],[-89.24881,41.472572]]]],"created":1292540869,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2355900_20101216_4138d41e79.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23412651,
+  "type": "Feature",
+  "properties": {
+    "name":"Trigoria, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":23412651,
+    "woe:name":"Trigoria, Lazio, Italy",
+    "woe:place_id":"mkP_loSbApgS49JSuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.456479,41.752846,12.481069,41.776432],
+  "geometry": {"alpha":0.00015,"bbox":[12.456479072571,41.75284576416,12.481068611145,41.776432037354],"coordinates":[[[[12.481069,41.765999],[12.469664,41.752846],[12.456479,41.759789],[12.460899,41.769981],[12.463989,41.776432],[12.479696,41.775185],[12.481069,41.765999]]]],"created":1292534166,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/23412651_20101216_8c076c9378.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

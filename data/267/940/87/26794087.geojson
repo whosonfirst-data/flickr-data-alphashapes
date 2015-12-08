@@ -1,0 +1,15 @@
+{
+  "id": 26794087,
+  "type": "Feature",
+  "properties": {
+    "name":"Lebu, Chile",
+    "placetype":"locality",
+    "woe:id":26794087,
+    "woe:name":"Lebu, Chile",
+    "woe:place_id":"nL_EbPqbB5uoe4On2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.651825,-37.607094,-73.647881,-37.601585],
+  "geometry": {"alpha":1e-05,"bbox":[-73.651824951172,-37.607093811035,-73.647880554199,-37.601585388184],"coordinates":[[[[-73.651314,-37.605663],[-73.651482,-37.603691],[-73.651825,-37.602875],[-73.651482,-37.601585],[-73.647881,-37.605122],[-73.651657,-37.607094],[-73.651314,-37.605663]]]],"created":1292549921,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/26794087_20101217_ed61b59665.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

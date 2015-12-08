@@ -1,0 +1,15 @@
+{
+  "id": 845782,
+  "type": "Feature",
+  "properties": {
+    "name":"Tamse, Saare County, Estonia",
+    "placetype":"locality",
+    "woe:id":845782,
+    "woe:name":"Tamse, Saare County, Estonia",
+    "woe:place_id":"DZRsSouRBZnvHSc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.165874,58.639053,23.169466,58.64188],
+  "geometry": {"alpha":0.00015,"bbox":[23.165874481201,58.639053344727,23.169466018677,58.6418800354],"coordinates":[[[[23.166737,58.639053],[23.165874,58.639542],[23.166246,58.640923],[23.168959,58.64188],[23.169302,58.641296],[23.169466,58.63929],[23.166737,58.639053]]]],"created":1247868726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3455/shapefiles/845782_20090717_582fc90e77.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

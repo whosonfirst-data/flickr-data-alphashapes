@@ -1,0 +1,15 @@
+{
+  "id": 20075885,
+  "type": "Feature",
+  "properties": {
+    "name":"Belforte Monferrato, Italy",
+    "placetype":"locality",
+    "woe:id":20075885,
+    "woe:name":"Belforte Monferrato, Italy",
+    "woe:place_id":"hak19dObAZzTXSF9qg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.664093,44.592056,8.666839,44.596432],
+  "geometry": {"alpha":1e-05,"bbox":[8.6640930175781,44.592056274414,8.6668386459351,44.596431732178],"coordinates":[[[[8.666,44.592167],[8.665833,44.592167],[8.664093,44.592056],[8.665275,44.593033],[8.666839,44.596432],[8.666,44.592167]]]],"created":1292523483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20075885_20101216_72d823fd9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

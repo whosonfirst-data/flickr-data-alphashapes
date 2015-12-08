@@ -1,0 +1,15 @@
+{
+  "id": 728646,
+  "type": "Feature",
+  "properties": {
+    "name":"Ham, Utrecht, Netherlands",
+    "placetype":"locality",
+    "woe:id":728646,
+    "woe:name":"Ham, Utrecht, Netherlands",
+    "woe:place_id":"a45HHM2eA5RoVaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.375929,52.177658,5.393943,52.186619],
+  "geometry": {"alpha":0.00015,"bbox":[5.3759288787842,52.177658081055,5.3939428329468,52.186618804932],"coordinates":[[[[5.375929,52.186619],[5.393943,52.183193],[5.383944,52.177994],[5.382667,52.177658],[5.375929,52.186619]]]],"created":1292456054,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/728646_20101215_d046c54507.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

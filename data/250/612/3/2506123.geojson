@@ -1,0 +1,15 @@
+{
+  "id": 2506123,
+  "type": "Feature",
+  "properties": {
+    "name":"Threet, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2506123,
+    "woe:name":"Threet, Alabama, United States",
+    "woe:place_id":"lJOpW3abBJzR_m.q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.822388,35.005207,-87.814751,35.007256],
+  "geometry": {"alpha":0.00015,"bbox":[-87.822387695312,35.005207061768,-87.814750671387,35.007255554199],"coordinates":[[[[-87.821426,35.005249],[-87.822388,35.005604],[-87.821442,35.005814],[-87.814751,35.007256],[-87.82119,35.005207],[-87.821426,35.005249]]]],"created":1292513108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2506123_20101216_3db141d093.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

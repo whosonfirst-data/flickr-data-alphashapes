@@ -1,0 +1,15 @@
+{
+  "id": 845924,
+  "type": "Feature",
+  "properties": {
+    "name":"Tori, Parnu County, Estonia",
+    "placetype":"locality",
+    "woe:id":845924,
+    "woe:name":"Tori, Parnu County, Estonia",
+    "woe:place_id":"nF1mq1KRBZmuCFU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.793333,58.480503,24.819574,58.491665],
+  "geometry": {"alpha":0.00015,"bbox":[24.793333053589,58.480503082275,24.819574356079,58.491664886475],"coordinates":[[[[24.815025,58.480503],[24.811249,58.485798],[24.793333,58.489498],[24.811001,58.491665],[24.819059,58.483376],[24.819574,58.48315],[24.815025,58.480503]]]],"created":1292528192,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/845924_20101216_e4d6451470.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

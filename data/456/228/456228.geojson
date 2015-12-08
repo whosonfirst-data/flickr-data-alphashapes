@@ -1,0 +1,15 @@
+{
+  "id": 456228,
+  "type": "Feature",
+  "properties": {
+    "name":"Igarapava, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":456228,
+    "woe:name":"Igarapava, Sao Paulo, Brazil",
+    "woe:place_id":"azP.vQidBJqWeNs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-47.775078,-20.041096,-47.769928,-20.021902],
+  "geometry": {"alpha":0.00015,"bbox":[-47.775077819824,-20.041095733643,-47.769927978516,-20.021902084351],"coordinates":[[[[-47.769928,-20.041096],[-47.773361,-20.041096],[-47.775078,-20.022387],[-47.774391,-20.021902],[-47.769928,-20.041096]]]],"created":1226604615,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3235/shapefiles/456228_20081113_b102268731.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

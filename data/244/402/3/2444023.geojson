@@ -1,0 +1,15 @@
+{
+  "id": 2444023,
+  "type": "Feature",
+  "properties": {
+    "name":"Madisonville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2444023,
+    "woe:name":"Madisonville, Pennsylvania, United States",
+    "woe:place_id":"kpd_55ibBZhNl1D.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.452385,41.365097,-75.44931,41.371399],
+  "geometry": {"alpha":0.00015,"bbox":[-75.45238494873,41.365097045898,-75.449310302734,41.371398925781],"coordinates":[[[[-75.451515,41.365097],[-75.451851,41.365276],[-75.452385,41.36573],[-75.44931,41.371399],[-75.451096,41.365276],[-75.451515,41.365097]]]],"created":1292477948,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2444023_20101216_1cba6f5b07.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

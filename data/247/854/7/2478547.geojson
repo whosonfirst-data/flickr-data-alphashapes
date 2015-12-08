@@ -1,0 +1,15 @@
+{
+  "id": 2478547,
+  "type": "Feature",
+  "properties": {
+    "name":"Rancho Viejo, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2478547,
+    "woe:name":"Rancho Viejo, Texas, United States",
+    "woe:place_id":"fr3ZpFqbBZucdvF8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.558418,26.034941,-97.534561,26.047501],
+  "geometry": {"alpha":0.00015,"bbox":[-97.558418273926,26.034940719604,-97.534561157227,26.047500610352],"coordinates":[[[[-97.558418,26.034941],[-97.552673,26.047501],[-97.534561,26.041361],[-97.549881,26.041784],[-97.557961,26.034945],[-97.558418,26.034941]]]],"created":1292545749,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2478547_20101217_6894518255.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

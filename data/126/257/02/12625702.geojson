@@ -1,0 +1,15 @@
+{
+  "id": 12625702,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Colditz, Germany",
+    "placetype":"locality",
+    "woe:id":12625702,
+    "woe:name":"Gemeinde Colditz, Germany",
+    "woe:place_id":"E73NrFiYA5pSrZMasg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.803878,51.124966,12.808921,51.129707],
+  "geometry": {"alpha":1e-05,"bbox":[12.803877830505,51.124965667725,12.808920860291,51.129707336426],"coordinates":[[[[12.80862,51.129707],[12.808921,51.127216],[12.803878,51.124966],[12.807397,51.129112],[12.80862,51.129707]]]],"created":1292546445,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12625702_20101217_0d044f84e6.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

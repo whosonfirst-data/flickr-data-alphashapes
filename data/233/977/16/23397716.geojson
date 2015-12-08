@@ -1,0 +1,15 @@
+{
+  "id": 23397716,
+  "type": "Feature",
+  "properties": {
+    "name":"Webequie, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397716,
+    "woe:name":"Webequie, Ontario, Canada",
+    "woe:place_id":"tLCiQyObAp.PiYM_Xw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.373238,52.948948,-87.359673,52.964977],
+  "geometry": {"alpha":0.00015,"bbox":[-87.373237609863,52.948947906494,-87.359672546387,52.964977264404],"coordinates":[[[[-87.364655,52.964874],[-87.359673,52.964977],[-87.363792,52.961308],[-87.368774,52.948948],[-87.373238,52.955414],[-87.364655,52.964874]]]],"created":1292529435,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/23397716_20101216_a552f57b54.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8585,
+  "type": "Feature",
+  "properties": {
+    "name":"Youngstown, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8585,
+    "woe:name":"Youngstown, Alberta, Canada",
+    "woe:place_id":"ynDgAwyRBJSU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.207649,51.525059,-111.203781,51.529678],
+  "geometry": {"alpha":0.00015,"bbox":[-111.20764923096,51.525058746338,-111.20378112793,51.529678344727],"coordinates":[[[[-111.205841,51.529678],[-111.203781,51.525059],[-111.207649,51.528851],[-111.207222,51.529167],[-111.205841,51.529678]]]],"created":1292458117,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/8585_20101216_955c3dbcd5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

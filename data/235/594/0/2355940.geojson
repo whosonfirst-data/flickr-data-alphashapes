@@ -1,0 +1,15 @@
+{
+  "id": 2355940,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2355940,
+    "woe:name":"Arlington, South Dakota, United States",
+    "woe:place_id":"HvQuE0qbApnNDd42",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.140846,44.346169,-97.116783,44.364742],
+  "geometry": {"alpha":0.00015,"bbox":[-97.140846252441,44.346168518066,-97.11678314209,44.364742279053],"coordinates":[[[[-97.116783,44.354664],[-97.129135,44.346169],[-97.140846,44.364742],[-97.128387,44.361729],[-97.117508,44.354908],[-97.116783,44.354664]]]],"created":1292485506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2355940_20101216_d0d7e9b687.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

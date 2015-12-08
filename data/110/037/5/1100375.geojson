@@ -1,0 +1,15 @@
+{
+  "id": 1100375,
+  "type": "Feature",
+  "properties": {
+    "name":"Bingara, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100375,
+    "woe:name":"Bingara, New South Wales, Australia",
+    "woe:place_id":"tzeg9EuYAJx3jSg4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.556808,-29.868708,150.586014,-29.860147],
+  "geometry": {"alpha":0.00015,"bbox":[150.55680847168,-29.86870765686,150.58601379395,-29.860147476196],"coordinates":[[[[150.567459,-29.868708],[150.556808,-29.867592],[150.571747,-29.860147],[150.586014,-29.861431],[150.568146,-29.867144],[150.567459,-29.868708]]]],"created":1292550162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/1100375_20101217_0dc73956d3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

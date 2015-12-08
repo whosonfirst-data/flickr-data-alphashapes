@@ -1,0 +1,15 @@
+{
+  "id": 2377569,
+  "type": "Feature",
+  "properties": {
+    "name":"Central City, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2377569,
+    "woe:name":"Central City, Nebraska, United States",
+    "woe:place_id":"La1U49ybApskf_Ad",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.005318,41.113335,-97.992554,41.121391],
+  "geometry": {"alpha":0.00015,"bbox":[-98.005317687988,41.113334655762,-97.992553710938,41.121391296387],"coordinates":[[[[-97.999664,41.113335],[-98.00193,41.115227],[-98.003883,41.116673],[-98.005318,41.117626],[-97.994057,41.121391],[-97.992554,41.114536],[-97.999664,41.113335]]]],"created":1292536079,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2377569_20101216_2d530961c2.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

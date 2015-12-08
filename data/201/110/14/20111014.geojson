@@ -1,0 +1,15 @@
+{
+  "id": 20111014,
+  "type": "Feature",
+  "properties": {
+    "name":"Bastiani, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20111014,
+    "woe:name":"Bastiani, Veneto, Italy",
+    "woe:place_id":"GjUmqQ.bAZ1PgySgMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.032604,46.346748,12.048568,46.356972],
+  "geometry": {"alpha":0.00015,"bbox":[12.032604217529,46.346748352051,12.048567771912,46.356971740723],"coordinates":[[[[12.032604,46.346748],[12.03623,46.356972],[12.036627,46.356804],[12.048568,46.356052],[12.043711,46.354424],[12.032604,46.346748]]]],"created":1292429045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/20111014_20101215_29ca4a3dee.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

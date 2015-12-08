@@ -1,0 +1,15 @@
+{
+  "id": 653,
+  "type": "Feature",
+  "properties": {
+    "name":"Havelock, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":653,
+    "woe:name":"Havelock, New Brunswick, Canada",
+    "woe:place_id":"ois20s.fBJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.320244,45.99152,-65.302048,45.998154],
+  "geometry": {"alpha":0.00015,"bbox":[-65.320243835449,45.991519927979,-65.302047729492,45.998153686523],"coordinates":[[[[-65.317497,45.995903],[-65.317154,45.996483],[-65.302048,45.998154],[-65.319214,45.992073],[-65.320244,45.99152],[-65.317497,45.995903]]]],"created":1292518152,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/653_20101216_a899222389.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

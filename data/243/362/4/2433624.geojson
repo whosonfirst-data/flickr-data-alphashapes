@@ -1,0 +1,15 @@
+{
+  "id": 2433624,
+  "type": "Feature",
+  "properties": {
+    "name":"Knox, New York, United States",
+    "placetype":"locality",
+    "woe:id":2433624,
+    "woe:name":"Knox, New York, United States",
+    "woe:place_id":"_CzcfXubBZ820KV0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.121323,42.663502,-74.096375,42.674049],
+  "geometry": {"alpha":0.00015,"bbox":[-74.121322631836,42.663501739502,-74.096374511719,42.674049377441],"coordinates":[[[[-74.116066,42.67078],[-74.121323,42.673096],[-74.114799,42.673664],[-74.110573,42.674049],[-74.096375,42.663502],[-74.116066,42.67078]]]],"created":1247871845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3533/shapefiles/2433624_20090717_8b183093e2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

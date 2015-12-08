@@ -1,0 +1,15 @@
+{
+  "id": 137783,
+  "type": "Feature",
+  "properties": {
+    "name":"Puertecitos, Baja California, Mexico",
+    "placetype":"locality",
+    "woe:id":137783,
+    "woe:name":"Puertecitos, Baja California, Mexico",
+    "woe:place_id":"PRqGvCeYApurvVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.646797,30.327101,-114.636497,30.360138],
+  "geometry": {"alpha":0.00015,"bbox":[-114.64679718018,30.327100753784,-114.63649749756,30.360137939453],"coordinates":[[[[-114.640099,30.346436],[-114.641647,30.349176],[-114.638474,30.360138],[-114.636497,30.343361],[-114.646797,30.327101],[-114.640099,30.346436]]]],"created":1292532125,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/137783_20101216_585a940afe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

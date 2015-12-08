@@ -1,0 +1,15 @@
+{
+  "id": 2415120,
+  "type": "Feature",
+  "properties": {
+    "name":"Grinnell, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2415120,
+    "woe:name":"Grinnell, Washington, United States",
+    "woe:place_id":"AnSr3uabBZ0y.fDq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.055122,46.937572,-117.05397,46.93998],
+  "geometry": {"alpha":0.00015,"bbox":[-117.05512237549,46.937572479248,-117.05397033691,46.939979553223],"coordinates":[[[[-117.05397,46.939945],[-117.05397,46.939896],[-117.054047,46.938244],[-117.054993,46.937572],[-117.055122,46.93998],[-117.05397,46.939945]]]],"created":1292440715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2415120_20101215_7c4191d5b9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

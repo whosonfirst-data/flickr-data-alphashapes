@@ -1,0 +1,15 @@
+{
+  "id": 2358671,
+  "type": "Feature",
+  "properties": {
+    "name":"Balfour, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2358671,
+    "woe:name":"Balfour, Iowa, United States",
+    "woe:place_id":"iVPya1GbApmGDgMq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.618561,41.055763,-95.596161,41.067833],
+  "geometry": {"alpha":0.00015,"bbox":[-95.618560791016,41.055763244629,-95.596160888672,41.067832946777],"coordinates":[[[[-95.618561,41.066784],[-95.611565,41.067833],[-95.596161,41.06078],[-95.612595,41.060844],[-95.616844,41.055763],[-95.618561,41.066784]]]],"created":1292529084,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2358671_20101216_e74f9957e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

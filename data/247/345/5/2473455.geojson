@@ -1,0 +1,15 @@
+{
+  "id": 2473455,
+  "type": "Feature",
+  "properties": {
+    "name":"Plandome Manor, New York, United States",
+    "placetype":"locality",
+    "woe:id":2473455,
+    "woe:name":"Plandome Manor, New York, United States",
+    "woe:place_id":"6KH41TSbBZvHY.a0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.705696,40.81488,-73.698906,40.82169],
+  "geometry": {"alpha":0.00015,"bbox":[-73.705696105957,40.814880371094,-73.698905944824,40.821689605713],"coordinates":[[[[-73.705696,40.82169],[-73.698906,40.820141],[-73.703156,40.81498],[-73.703239,40.81488],[-73.705002,40.820126],[-73.705696,40.82169]]]],"created":1292517508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2473455_20101216_611baff18c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 771119,
+  "type": "Feature",
+  "properties": {
+    "name":"Quijas, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":771119,
+    "woe:name":"Quijas, Cantabria, Spain",
+    "woe:place_id":"Z.jXMOaeBp19zBM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.133348,43.347603,-4.119615,43.357979],
+  "geometry": {"alpha":0.00015,"bbox":[-4.1333479881287,43.347602844238,-4.1196150779724,43.357978820801],"coordinates":[[[[-4.131438,43.350864],[-4.119615,43.357979],[-4.122233,43.347603],[-4.133348,43.3479],[-4.1317,43.350422],[-4.131438,43.350864]]]],"created":1292543595,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/771119_20101216_13af2c57c8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 321,
+  "type": "Feature",
+  "properties": {
+    "name":"Contrecoeur, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":321,
+    "woe:name":"Contrecoeur, Quebec, Canada",
+    "woe:place_id":"gnSmkTeaA50",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.251945,45.85236,-73.208954,45.880585],
+  "geometry": {"alpha":0.00015,"bbox":[-73.251945495605,45.852359771729,-73.208953857422,45.880584716797],"coordinates":[[[[-73.238853,45.856812],[-73.251945,45.85236],[-73.241386,45.857677],[-73.251259,45.877102],[-73.236855,45.863804],[-73.223648,45.871185],[-73.216331,45.880585],[-73.208954,45.869984],[-73.219154,45.860725],[-73.23143,45.859413],[-73.23658,45.85738],[-73.238853,45.856812]]]],"created":1292537711,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/321_20101216_bf9c7c4f1d.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

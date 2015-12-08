@@ -1,0 +1,15 @@
+{
+  "id": 550551,
+  "type": "Feature",
+  "properties": {
+    "name":"Elmen, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550551,
+    "woe:name":"Elmen, Tyrol, Austria",
+    "woe:place_id":"0M.6lfGcBJyXtxM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.534311,47.335712,10.541381,47.33976],
+  "geometry": {"alpha":0.00015,"bbox":[10.534311294556,47.335712432861,10.541380882263,47.33975982666],"coordinates":[[[[10.539761,47.33976],[10.541038,47.339405],[10.541381,47.338589],[10.539855,47.335712],[10.536575,47.336147],[10.534311,47.339447],[10.539761,47.33976]]]],"created":1292504892,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/550551_20101216_b0ef508a90.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

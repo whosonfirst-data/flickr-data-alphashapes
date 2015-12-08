@@ -1,0 +1,15 @@
+{
+  "id": 329723,
+  "type": "Feature",
+  "properties": {
+    "name":"Hoffman, Saint Thomas Island, US Virgin Islands",
+    "placetype":"locality",
+    "woe:id":329723,
+    "woe:name":"Hoffman, Saint Thomas Island, US Virgin Islands",
+    "woe:place_id":"71n1gLOaA5Uxz4k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.897385,18.321295,-64.889679,18.336166],
+  "geometry": {"alpha":0.00015,"bbox":[-64.897384643555,18.321294784546,-64.889678955078,18.336166381836],"coordinates":[[[[-64.897385,18.321295],[-64.896339,18.335764],[-64.896332,18.335766],[-64.894501,18.336166],[-64.889679,18.335897],[-64.897385,18.321295]]]],"created":1292491325,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/329723_20101216_3e04e7856e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

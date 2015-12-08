@@ -1,0 +1,15 @@
+{
+  "id": 20129119,
+  "type": "Feature",
+  "properties": {
+    "name":"Levone, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20129119,
+    "woe:name":"Levone, Piedmont, Italy",
+    "woe:place_id":"hL6.xlmbAZ35THE0JQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.606315,45.313255,7.611336,45.320831],
+  "geometry": {"alpha":0.00015,"bbox":[7.6063151359558,45.313255310059,7.6113362312317,45.320831298828],"coordinates":[[[[7.606658,45.318718],[7.606315,45.320831],[7.607002,45.320168],[7.610092,45.315823],[7.611336,45.313255],[7.60782,45.317799],[7.606658,45.318718]]]],"created":1292522390,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20129119_20101216_6281879de7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

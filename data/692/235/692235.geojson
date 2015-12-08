@@ -1,0 +1,15 @@
+{
+  "id": 692235,
+  "type": "Feature",
+  "properties": {
+    "name":"Schlitz, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":692235,
+    "woe:name":"Schlitz, Hesse, Germany",
+    "woe:place_id":"kh4ywyqfCJ5Y8oc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.5442,50.670273,9.567375,50.680332],
+  "geometry": {"alpha":0.00015,"bbox":[9.5441999435425,50.670272827148,9.5673751831055,50.680332183838],"coordinates":[[[[9.559049,50.672749],[9.5442,50.670624],[9.552612,50.676338],[9.563899,50.680332],[9.567375,50.670273],[9.562869,50.670925],[9.559049,50.672749]]]],"created":1292549368,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/692235_20101217_c13819a2ff.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

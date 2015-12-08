@@ -1,0 +1,15 @@
+{
+  "id": 630047,
+  "type": "Feature",
+  "properties": {
+    "name":"Varades, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":630047,
+    "woe:name":"Varades, Pays de la Loire, France",
+    "woe:place_id":"5vrr3uqfApzAYXM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.040267,47.380684,-1.024475,47.389053],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0402669906616,47.380683898926,-1.024474978447,47.389053344727],"coordinates":[[[[-1.032028,47.387543],[-1.024475,47.389053],[-1.032993,47.382458],[-1.037693,47.381382],[-1.040267,47.380684],[-1.032028,47.387543]]]],"created":1292498768,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/630047_20101216_fee1f83c80.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

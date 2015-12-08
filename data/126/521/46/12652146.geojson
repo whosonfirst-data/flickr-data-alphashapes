@@ -1,0 +1,15 @@
+{
+  "id": 12652146,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Aignan, France",
+    "placetype":"locality",
+    "woe:id":12652146,
+    "woe:name":"St.-Aignan, France",
+    "woe:place_id":"mH79xHmYA5qM0TM6XA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.300954,44.943146,-0.296888,44.948414],
+  "geometry": {"alpha":1e-05,"bbox":[-0.30095401406288,44.943145751953,-0.29688799381256,44.948413848877],"coordinates":[[[[-0.296888,44.943146],[-0.298562,44.944904],[-0.300954,44.94574],[-0.297446,44.948414],[-0.297896,44.944935],[-0.296888,44.943146]]]],"created":1292527530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12652146_20101216_9884a92f37.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

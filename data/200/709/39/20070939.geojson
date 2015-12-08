@@ -1,0 +1,15 @@
+{
+  "id": 20070939,
+  "type": "Feature",
+  "properties": {
+    "name":"Colon, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070939,
+    "woe:name":"Colon, Buenos Aires, Argentina",
+    "woe:place_id":"IGJMSv2bAZxZltSB8w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-61.114712,-33.915516,-61.10218,-33.891506],
+  "geometry": {"alpha":0.0015,"bbox":[-61.114711761475,-33.915515899658,-61.102180480957,-33.891506195068],"coordinates":[[[[-61.114712,-33.902191],[-61.110847,-33.891506],[-61.10218,-33.896637],[-61.10321,-33.913448],[-61.102867,-33.915516],[-61.114712,-33.902191]]]],"created":1292523073,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20070939_20101216_4bd1ff8732.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

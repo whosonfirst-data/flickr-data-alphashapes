@@ -1,0 +1,15 @@
+{
+  "id": 2525206,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaza, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2525206,
+    "woe:name":"Zaza, Idaho, United States",
+    "woe:place_id":"Kn2aV2CbBJ4o2OUs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.917015,45.984795,-116.905518,45.995647],
+  "geometry": {"alpha":0.00015,"bbox":[-116.91701507568,45.984794616699,-116.90551757812,45.99564743042],"coordinates":[[[[-116.906891,45.985035],[-116.908089,45.986465],[-116.917015,45.995647],[-116.905518,45.986706],[-116.906548,45.984795],[-116.906891,45.985035]]]],"created":1292526662,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2525206_20101216_afe25e3e9a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

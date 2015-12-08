@@ -1,0 +1,15 @@
+{
+  "id": 2382662,
+  "type": "Feature",
+  "properties": {
+    "name":"Cokeville, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2382662,
+    "woe:name":"Cokeville, Wyoming, United States",
+    "woe:place_id":"BRHS.2ubApTG2s6n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.957962,42.0826,-110.939941,42.090069],
+  "geometry": {"alpha":0.00015,"bbox":[-110.95796203613,42.082599639893,-110.93994140625,42.090068817139],"coordinates":[[[[-110.947868,42.086983],[-110.939941,42.090069],[-110.947693,42.0826],[-110.957962,42.08588],[-110.950325,42.086559],[-110.947868,42.086983]]]],"created":1292525584,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2382662_20101216_0c6d8afd8c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

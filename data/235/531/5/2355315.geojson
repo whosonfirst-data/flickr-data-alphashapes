@@ -1,0 +1,15 @@
+{
+  "id": 2355315,
+  "type": "Feature",
+  "properties": {
+    "name":"Appleton, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2355315,
+    "woe:name":"Appleton, Maine, United States",
+    "woe:place_id":"zlE4B1qbApne.SqS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.258179,44.288101,-69.248749,44.29908],
+  "geometry": {"alpha":0.00015,"bbox":[-69.258178710938,44.288101196289,-69.248748779297,44.29907989502],"coordinates":[[[[-69.250259,44.289268],[-69.248749,44.288429],[-69.255493,44.288101],[-69.258179,44.29908],[-69.256523,44.297775],[-69.250259,44.289268]]]],"created":1292539928,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2355315_20101216_5912de77f6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

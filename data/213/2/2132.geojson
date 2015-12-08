@@ -1,0 +1,15 @@
+{
+  "id": 2132,
+  "type": "Feature",
+  "properties": {
+    "name":"Duck Lake, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2132,
+    "woe:name":"Duck Lake, Saskatchewan, Canada",
+    "woe:place_id":"vmKR6d6bAJ8L",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.2323,52.809189,-106.206596,52.82058],
+  "geometry": {"alpha":0.00015,"bbox":[-106.23229980469,52.809188842773,-106.20659637451,52.820579528809],"coordinates":[[[[-106.225258,52.809559],[-106.22715,52.811996],[-106.2323,52.816666],[-106.217361,52.817806],[-106.206596,52.82058],[-106.216507,52.813969],[-106.224197,52.809189],[-106.225258,52.809559]]]],"created":1292546588,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2132_20101217_70269d2ba5.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

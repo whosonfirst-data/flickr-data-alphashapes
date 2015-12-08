@@ -1,0 +1,15 @@
+{
+  "id": 722088,
+  "type": "Feature",
+  "properties": {
+    "name":"Rovello, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":722088,
+    "woe:name":"Rovello, Lombardy, Italy",
+    "woe:place_id":"SqNAXmyeA56Oi6s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.023895,45.639248,9.044494,45.653847],
+  "geometry": {"alpha":0.00015,"bbox":[9.0238952636719,45.639247894287,9.0444936752319,45.653846740723],"coordinates":[[[[9.034291,45.639263],[9.023895,45.643024],[9.03105,45.653847],[9.044494,45.640446],[9.039258,45.639488],[9.035203,45.639248],[9.034291,45.639263]]]],"created":1292505546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/722088_20101216_8abd4fe230.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

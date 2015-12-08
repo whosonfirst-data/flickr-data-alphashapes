@@ -1,0 +1,15 @@
+{
+  "id": 2352211,
+  "type": "Feature",
+  "properties": {
+    "name":"Afton, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2352211,
+    "woe:name":"Afton, Tennessee, United States",
+    "woe:place_id":"sguin9ObAplt8Rpp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.746666,36.186226,-82.735077,36.204166],
+  "geometry": {"alpha":0.00015,"bbox":[-82.74666595459,36.186225891113,-82.735076904297,36.204166412354],"coordinates":[[[[-82.735481,36.186226],[-82.736336,36.187401],[-82.746666,36.204166],[-82.735153,36.1884],[-82.735153,36.188381],[-82.735077,36.186867],[-82.735481,36.186226]]]],"created":1292539698,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2352211_20101216_bc7201207a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

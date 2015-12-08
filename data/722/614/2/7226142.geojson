@@ -1,0 +1,15 @@
+{
+  "id": 7226142,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelley, Perth, WA, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":7226142,
+    "woe:name":"Shelley, Perth, WA, AU, Australia",
+    "woe:place_id":"oEUAqpSeA55OUiIG",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [115.88636,-32.041946,115.889442,-32.034012],
+  "geometry": {"alpha":1e-05,"bbox":[115.88636016846,-32.041946411133,115.88944244385,-32.03401184082],"coordinates":[[[[115.889442,-32.041946],[115.887314,-32.039169],[115.88636,-32.034012],[115.888062,-32.038273],[115.889442,-32.041946]]]],"created":1239641291,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3321/shapefiles/7226142_20090413_328b6ccd83.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 40644,
+  "type": "Feature",
+  "properties": {
+    "name":"Wing, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40644,
+    "woe:name":"Wing, England, United Kingdom",
+    "woe:place_id":"fls12ICdAZpNWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.688576,52.611805,-0.677032,52.62431],
+  "geometry": {"alpha":0.00015,"bbox":[-0.68857598304749,52.611804962158,-0.67703199386597,52.624309539795],"coordinates":[[[[-0.688384,52.615417],[-0.688576,52.61652],[-0.688018,52.619724],[-0.677032,52.62431],[-0.679306,52.611805],[-0.688384,52.615417]]]],"created":1292544466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/40644_20101217_699e044ef8.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

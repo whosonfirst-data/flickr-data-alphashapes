@@ -1,0 +1,15 @@
+{
+  "id": 2458178,
+  "type": "Feature",
+  "properties": {
+    "name":"New City, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2458178,
+    "woe:name":"New City, Illinois, United States",
+    "woe:place_id":"SFNvCJabBZmUyH_F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.537712,39.670769,-89.533829,39.671982],
+  "geometry": {"alpha":0.00015,"bbox":[-89.537712097168,39.670768737793,-89.533828735352,39.671981811523],"coordinates":[[[[-89.535484,39.671188],[-89.537712,39.671982],[-89.535851,39.671848],[-89.533829,39.670769],[-89.535484,39.671188]]]],"created":1292526476,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2458178_20101216_aa7b1d88fc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2485674,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruffner, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2485674,
+    "woe:name":"Ruffner, Alabama, United States",
+    "woe:place_id":"8a6dPqWbBZR6RwoC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.715279,33.54493,-86.694771,33.554913],
+  "geometry": {"alpha":0.00015,"bbox":[-86.715278625488,33.544929504395,-86.694770812988,33.554912567139],"coordinates":[[[[-86.707565,33.553482],[-86.699425,33.554913],[-86.694771,33.549175],[-86.699951,33.54493],[-86.715279,33.546242],[-86.707565,33.553482]]]],"created":1292517494,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2485674_20101216_560fb8b557.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

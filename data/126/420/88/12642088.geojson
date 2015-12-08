@@ -1,0 +1,15 @@
+{
+  "id": 12642088,
+  "type": "Feature",
+  "properties": {
+    "name":"La Roche-Clermault, France",
+    "placetype":"locality",
+    "woe:id":12642088,
+    "woe:name":"La Roche-Clermault, France",
+    "woe:place_id":"bjAE3WKYA5oxJCStwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.193977,47.135612,0.199191,47.145035],
+  "geometry": {"alpha":1e-05,"bbox":[0.19397699832916,47.135612487793,0.19919100403786,47.145034790039],"coordinates":[[[[0.195522,47.138416],[0.193977,47.135612],[0.195093,47.138969],[0.195693,47.140724],[0.195458,47.145035],[0.199191,47.140694],[0.195522,47.138416]]]],"created":1292536292,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12642088_20101216_b25be4268f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

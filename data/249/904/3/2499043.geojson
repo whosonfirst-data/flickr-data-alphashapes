@@ -1,0 +1,15 @@
+{
+  "id": 2499043,
+  "type": "Feature",
+  "properties": {
+    "name":"Stantonsburg, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2499043,
+    "woe:name":"Stantonsburg, North Carolina, United States",
+    "woe:place_id":"FgAfK0SbBZW2Tx3.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.823898,35.598938,-77.807022,35.607582],
+  "geometry": {"alpha":0.00015,"bbox":[-77.82389831543,35.598937988281,-77.807022094727,35.607582092285],"coordinates":[[[[-77.822342,35.607582],[-77.821968,35.607479],[-77.807022,35.598938],[-77.820282,35.602043],[-77.823898,35.606785],[-77.822342,35.607582]]]],"created":1292519947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2499043_20101216_a0ef8c1124.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

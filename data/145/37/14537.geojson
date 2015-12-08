@@ -1,0 +1,15 @@
+{
+  "id": 14537,
+  "type": "Feature",
+  "properties": {
+    "name":"Burgh St. Margaret, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":14537,
+    "woe:name":"Burgh St. Margaret, England, United Kingdom",
+    "woe:place_id":"lphTOhGYBZlang",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.612586,52.666702,1.632843,52.66946],
+  "geometry": {"alpha":0.00015,"bbox":[1.6125860214233,52.666702270508,1.6328430175781,52.669460296631],"coordinates":[[[[1.614067,52.668575],[1.612586,52.66946],[1.614303,52.669224],[1.630868,52.668564],[1.632843,52.666702],[1.630911,52.668236],[1.614067,52.668575]]]],"created":1292533180,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/14537_20101216_638363ef93.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

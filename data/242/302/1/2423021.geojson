@@ -1,0 +1,15 @@
+{
+  "id": 2423021,
+  "type": "Feature",
+  "properties": {
+    "name":"Holiday Poconos, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2423021,
+    "woe:name":"Holiday Poconos, Pennsylvania, United States",
+    "woe:place_id":"51KydKCbBZ586k83",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.565689,41.004864,-75.563835,41.005402],
+  "geometry": {"alpha":0.00015,"bbox":[-75.565689086914,41.004863739014,-75.563835144043,41.005401611328],"coordinates":[[[[-75.563835,41.005116],[-75.563965,41.004944],[-75.564522,41.004864],[-75.565689,41.005402],[-75.564224,41.005341],[-75.563835,41.005116]]]],"created":1292506987,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2423021_20101216_08fee13df6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2475484,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Royal Landing, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2475484,
+    "woe:name":"Port Royal Landing, South Carolina, United States",
+    "woe:place_id":"45A3Q2CbBZtLFKlc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.686119,32.396339,-80.677971,32.406235],
+  "geometry": {"alpha":0.00015,"bbox":[-80.68611907959,32.396339416504,-80.67797088623,32.406234741211],"coordinates":[[[[-80.686119,32.396366],[-80.685997,32.39645],[-80.677971,32.406235],[-80.678101,32.398514],[-80.680763,32.396339],[-80.686119,32.396366]]]],"created":1292422202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2475484_20101215_d864071ab6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

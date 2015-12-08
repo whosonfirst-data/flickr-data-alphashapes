@@ -1,0 +1,15 @@
+{
+  "id": 20105662,
+  "type": "Feature",
+  "properties": {
+    "name":"Belvedere, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20105662,
+    "woe:name":"Belvedere, Umbria, Italy",
+    "woe:place_id":"FbKWE7.bAZ3rS020NQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.637538,42.911179,12.640457,42.916206],
+  "geometry": {"alpha":0.00015,"bbox":[12.637537956238,42.911178588867,12.64045715332,42.916206359863],"coordinates":[[[[12.640457,42.914604],[12.63977,42.911179],[12.637624,42.912983],[12.637538,42.916206],[12.640457,42.914604]]]],"created":1234497002,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3423/shapefiles/20105662_20090213_c9c8943987.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

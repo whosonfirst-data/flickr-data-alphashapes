@@ -1,0 +1,15 @@
+{
+  "id": 12695624,
+  "type": "Feature",
+  "properties": {
+    "name":"Carcaixent, Spain",
+    "placetype":"locality",
+    "woe:id":12695624,
+    "woe:name":"Carcaixent, Spain",
+    "woe:place_id":"OMB2LrGYA5oiY_Z2ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.459365,39.122204,-0.452499,39.128994],
+  "geometry": {"alpha":1e-05,"bbox":[-0.45936501026154,39.122203826904,-0.45249900221825,39.128993988037],"coordinates":[[[[-0.456619,39.124733],[-0.459365,39.128994],[-0.454559,39.12793],[-0.452499,39.127396],[-0.452842,39.122204],[-0.456619,39.124733]]]],"created":1229697743,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3083/shapefiles/12695624_20081219_0e4339467e.tar.gz"},"points":80,"type":"MultiPolygon"}
+}

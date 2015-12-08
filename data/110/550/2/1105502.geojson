@@ -1,0 +1,15 @@
+{
+  "id": 1105502,
+  "type": "Feature",
+  "properties": {
+    "name":"Scone, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1105502,
+    "woe:name":"Scone, New South Wales, Australia",
+    "woe:place_id":"_m490m2YAJx2fR8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.849274,-32.064827,150.873016,-32.035439],
+  "geometry": {"alpha":0.00015,"bbox":[150.84927368164,-32.064826965332,150.87301635742,-32.035438537598],"coordinates":[[[[150.864258,-32.054646],[150.860229,-32.051952],[150.849274,-32.035439],[150.871292,-32.04126],[150.873016,-32.053181],[150.872665,-32.064827],[150.864258,-32.054646]]]],"created":1292533745,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/1105502_20101216_785cc25598.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

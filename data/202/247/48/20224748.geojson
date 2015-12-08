@@ -1,0 +1,15 @@
+{
+  "id": 20224748,
+  "type": "Feature",
+  "properties": {
+    "name":"Molinar, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20224748,
+    "woe:name":"Molinar, Valencia, Spain",
+    "woe:place_id":"noTc4BybAZ7Abk3ncA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.73864,39.925457,-0.732803,39.93362],
+  "geometry": {"alpha":0.00015,"bbox":[-0.7386400103569,39.925457000732,-0.73280298709869,39.933620452881],"coordinates":[[[[-0.733012,39.925529],[-0.73864,39.93362],[-0.735311,39.931194],[-0.732803,39.925457],[-0.732962,39.925476],[-0.733012,39.925529]]]],"created":1292441883,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20224748_20101215_1b2ca0d50e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

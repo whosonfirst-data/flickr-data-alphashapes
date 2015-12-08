@@ -1,0 +1,15 @@
+{
+  "id": 20122020,
+  "type": "Feature",
+  "properties": {
+    "name":"Conzano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20122020,
+    "woe:name":"Conzano, Piedmont, Italy",
+    "woe:place_id":"vaxClPCbAZ3hrXU3qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.453,45.013359,8.462219,45.021187],
+  "geometry": {"alpha":0.00015,"bbox":[8.4530000686646,45.013359069824,8.4622192382812,45.021186828613],"coordinates":[[[[8.456683,45.020088],[8.457069,45.019814],[8.462219,45.013359],[8.453,45.02],[8.45458,45.021187],[8.456683,45.020088]]]],"created":1292521428,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/20122020_20101216_c697bd7f65.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

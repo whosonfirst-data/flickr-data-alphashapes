@@ -1,0 +1,15 @@
+{
+  "id": 2404133,
+  "type": "Feature",
+  "properties": {
+    "name":"Flat Rock, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2404133,
+    "woe:name":"Flat Rock, Indiana, United States",
+    "woe:place_id":"sAyzVvWbBZyt5A1V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.831764,39.350151,-85.807037,39.369869],
+  "geometry": {"alpha":0.00015,"bbox":[-85.831764221191,39.350151062012,-85.807037353516,39.369869232178],"coordinates":[[[[-85.831764,39.364456],[-85.824852,39.364826],[-85.813782,39.369869],[-85.807037,39.350151],[-85.824936,39.363701],[-85.831764,39.364456]]]],"created":1292534758,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2404133_20101216_73032a9fab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

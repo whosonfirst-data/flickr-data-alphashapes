@@ -1,0 +1,15 @@
+{
+  "id": 20151647,
+  "type": "Feature",
+  "properties": {
+    "name":"Skyrup, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":20151647,
+    "woe:name":"Skyrup, Skane, Sweden",
+    "woe:place_id":"mjrP6kubAZ1_xm2ziA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.657961,56.126976,13.671734,56.135338],
+  "geometry": {"alpha":0.00015,"bbox":[13.657960891724,56.126976013184,13.671733856201,56.13533782959],"coordinates":[[[[13.671734,56.127876],[13.657961,56.126976],[13.658028,56.127037],[13.664823,56.131069],[13.670811,56.135338],[13.671734,56.127876]]]],"created":1292471467,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20151647_20101216_ca303fb890.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

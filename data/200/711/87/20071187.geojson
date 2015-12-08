@@ -1,0 +1,15 @@
+{
+  "id": 20071187,
+  "type": "Feature",
+  "properties": {
+    "name":"Foshan, China",
+    "placetype":"locality",
+    "woe:id":20071187,
+    "woe:name":"Foshan, China",
+    "woe:place_id":"YwotTVSbAZzEceH8Yw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [113.103088,23.021919,113.107079,23.027287],
+  "geometry": {"alpha":1e-05,"bbox":[113.10308837891,23.021919250488,113.10707855225,23.027286529541],"coordinates":[[[[113.105606,23.024981],[113.107079,23.021919],[113.105614,23.023542],[113.103088,23.027287],[113.105606,23.024981]]]],"created":1292526429,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20071187_20101216_7793315199.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

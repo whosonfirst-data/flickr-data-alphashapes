@@ -1,0 +1,15 @@
+{
+  "id": 20160124,
+  "type": "Feature",
+  "properties": {
+    "name":"Lichtenwald, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":20160124,
+    "woe:name":"Lichtenwald, Baden-Wurttemberg, Germany",
+    "woe:place_id":"DD6JWP.bAZ0ZSOaoGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.476539,48.72533,9.489526,48.75964],
+  "geometry": {"alpha":0.00015,"bbox":[9.4765386581421,48.725330352783,9.4895257949829,48.75963973999],"coordinates":[[[[9.489526,48.75964],[9.489097,48.759441],[9.482831,48.751492],[9.483067,48.736435],[9.481437,48.733124],[9.476539,48.72533],[9.479999,48.73502],[9.478368,48.744869],[9.482831,48.751492],[9.489011,48.758877],[9.489526,48.75964]]]],"created":1292517773,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20160124_20101216_4d105c43c3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

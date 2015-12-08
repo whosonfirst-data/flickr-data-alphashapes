@@ -1,0 +1,15 @@
+{
+  "id": 59744,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Rosa, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59744,
+    "woe:name":"Santa Rosa, Alajuela, Costa Rica",
+    "woe:place_id":"JnEvICmcCJtgew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.553528,10.603877,-84.537476,10.617418],
+  "geometry": {"alpha":0.00015,"bbox":[-84.553527832031,10.603877067566,-84.537475585938,10.617418289185],"coordinates":[[[[-84.537476,10.611765],[-84.545311,10.603877],[-84.553528,10.617418],[-84.548035,10.615393],[-84.537476,10.611765]]]],"created":1292541707,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/59744_20101216_08d2fd109d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

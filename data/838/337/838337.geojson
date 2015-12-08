@@ -1,0 +1,15 @@
+{
+  "id": 838337,
+  "type": "Feature",
+  "properties": {
+    "name":"Nikolovo, Ruse, Bulgaria",
+    "placetype":"locality",
+    "woe:id":838337,
+    "woe:name":"Nikolovo, Ruse, Bulgaria",
+    "woe:place_id":"2IMeJ1GRApSDduI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.078279,43.841831,26.086081,43.865162],
+  "geometry": {"alpha":0.00015,"bbox":[26.078279495239,43.841831207275,26.086080551147,43.865161895752],"coordinates":[[[[26.078279,43.847977],[26.086081,43.865162],[26.086081,43.850151],[26.084976,43.845051],[26.084633,43.844246],[26.07914,43.841831],[26.078279,43.847977]]]],"created":1292453793,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/838337_20101215_cd2743face.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

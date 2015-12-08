@@ -1,0 +1,15 @@
+{
+  "id": 274,
+  "type": "Feature",
+  "properties": {
+    "name":"Chatfield, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":274,
+    "woe:name":"Chatfield, Manitoba, Canada",
+    "woe:place_id":"kcK6SCqbBpg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.529922,50.754921,-97.513275,50.76643],
+  "geometry": {"alpha":0.00015,"bbox":[-97.529922485352,50.754920959473,-97.513275146484,50.766429901123],"coordinates":[[[[-97.513275,50.760349],[-97.518425,50.755028],[-97.529922,50.754921],[-97.515335,50.76643],[-97.513275,50.760349]]]],"created":1292450185,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/274_20101215_588db1b47b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

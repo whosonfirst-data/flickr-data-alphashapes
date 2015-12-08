@@ -1,0 +1,15 @@
+{
+  "id": 2401195,
+  "type": "Feature",
+  "properties": {
+    "name":"Fair Harbor, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2401195,
+    "woe:name":"Fair Harbor, Washington, United States",
+    "woe:place_id":"Gz7Bxb2bBZxCjkGy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.834702,47.341629,-122.829124,47.353798],
+  "geometry": {"alpha":0.00015,"bbox":[-122.83470153809,47.34162902832,-122.82912445068,47.353797912598],"coordinates":[[[[-122.829124,47.341774],[-122.829201,47.341629],[-122.833153,47.341995],[-122.834702,47.353798],[-122.829124,47.341774]]]],"created":1292477463,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2401195_20101216_8ab26b70b8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

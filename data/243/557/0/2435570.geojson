@@ -1,0 +1,15 @@
+{
+  "id": 2435570,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeview, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2435570,
+    "woe:name":"Lakeview, Michigan, United States",
+    "woe:place_id":"D1FccwybBZ9.gVn_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.286865,43.430981,-85.277939,43.445442],
+  "geometry": {"alpha":0.00015,"bbox":[-85.286865234375,43.430980682373,-85.277938842773,43.445442199707],"coordinates":[[[[-85.28463,43.442825],[-85.277939,43.445442],[-85.283257,43.435307],[-85.286865,43.430981],[-85.28463,43.442825]]]],"created":1292548683,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2435570_20101217_be5f25d71f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

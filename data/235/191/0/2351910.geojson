@@ -1,0 +1,15 @@
+{
+  "id": 2351910,
+  "type": "Feature",
+  "properties": {
+    "name":"Adams Center, New York, United States",
+    "placetype":"locality",
+    "woe:id":2351910,
+    "woe:name":"Adams Center, New York, United States",
+    "woe:place_id":"AaDT3ZObApn._a0G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.015099,43.869473,-75.993546,43.890377],
+  "geometry": {"alpha":0.00015,"bbox":[-76.015098571777,43.869472503662,-75.993545532227,43.890377044678],"coordinates":[[[[-76.015099,43.869473],[-76.013252,43.87447],[-76.005341,43.882141],[-75.995834,43.890377],[-75.993546,43.873272],[-76.005875,43.87431],[-76.015099,43.869473]]]],"created":1247976983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3514/shapefiles/2351910_20090719_4b4fe64728.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

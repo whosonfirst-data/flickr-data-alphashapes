@@ -1,0 +1,15 @@
+{
+  "id": 20210410,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Verneys, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210410,
+    "woe:name":"Les Verneys, Rhone-Alpes, France",
+    "woe:place_id":"57V4m42bAZ45pfUKDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.417474,45.147209,6.425371,45.150703],
+  "geometry": {"alpha":0.00015,"bbox":[6.4174737930298,45.14720916748,6.4253711700439,45.150703430176],"coordinates":[[[[6.420307,45.147209],[6.417474,45.14851],[6.419212,45.150703],[6.425371,45.149055],[6.420307,45.147209]]]],"created":1292462701,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20210410_20101216_a8112e7cf3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

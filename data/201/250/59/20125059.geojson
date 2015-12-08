@@ -1,0 +1,15 @@
+{
+  "id": 20125059,
+  "type": "Feature",
+  "properties": {
+    "name":"Fornalei, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20125059,
+    "woe:name":"Fornalei, Piedmont, Italy",
+    "woe:place_id":"ZnCdn.ibAZ2kETd2DQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.985429,45.953896,7.991637,45.960125],
+  "geometry": {"alpha":0.00015,"bbox":[7.9854288101196,45.953895568848,7.9916372299194,45.960124969482],"coordinates":[[[[7.991637,45.958382],[7.99015,45.955982],[7.985429,45.953896],[7.990021,45.959801],[7.990157,45.960125],[7.991637,45.958382]]]],"created":1292454935,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/20125059_20101215_00ebdbdccd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

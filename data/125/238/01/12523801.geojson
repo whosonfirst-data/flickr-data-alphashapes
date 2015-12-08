@@ -1,0 +1,15 @@
+{
+  "id": 12523801,
+  "type": "Feature",
+  "properties": {
+    "name":"Turku Airport, Finland",
+    "placetype":"locality",
+    "woe:id":12523801,
+    "woe:name":"Turku Airport, Finland",
+    "woe:place_id":"fyBsRgqYA5kTQ3aq5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.271475,60.510147,22.277332,60.514664],
+  "geometry": {"alpha":1e-05,"bbox":[22.271474838257,60.510147094727,22.277332305908,60.514663696289],"coordinates":[[[[22.271475,60.512886],[22.272034,60.514343],[22.272697,60.514664],[22.277332,60.513653],[22.275423,60.512295],[22.273861,60.511028],[22.271498,60.510147],[22.271475,60.512886]]]],"created":1292548327,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12523801_20101217_28ebb25e46.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

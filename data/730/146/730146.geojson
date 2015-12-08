@@ -1,0 +1,15 @@
+{
+  "id": 730146,
+  "type": "Feature",
+  "properties": {
+    "name":"Hinderdam, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730146,
+    "woe:name":"Hinderdam, North Holland, Netherlands",
+    "woe:place_id":"gpPRRdyeApzL2tM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.059633,52.27813,5.068042,52.283051],
+  "geometry": {"alpha":0.00015,"bbox":[5.0596327781677,52.278129577637,5.0680418014526,52.283050537109],"coordinates":[[[[5.059998,52.282818],[5.061253,52.283051],[5.068042,52.280819],[5.067256,52.280479],[5.063603,52.27813],[5.059633,52.282181],[5.059998,52.282818]]]],"created":1292516408,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/730146_20101216_41d44dbbbf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

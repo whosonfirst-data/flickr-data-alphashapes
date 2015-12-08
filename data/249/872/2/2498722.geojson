@@ -1,0 +1,15 @@
+{
+  "id": 2498722,
+  "type": "Feature",
+  "properties": {
+    "name":"Stacy Basin, New York, United States",
+    "placetype":"locality",
+    "woe:id":2498722,
+    "woe:name":"Stacy Basin, New York, United States",
+    "woe:place_id":"1tYkH12bBZVJmWJB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.619354,43.208763,-75.617477,43.208904],
+  "geometry": {"alpha":0.00015,"bbox":[-75.619354248047,43.208763122559,-75.617477416992,43.208904266357],"coordinates":[[[[-75.619324,43.208763],[-75.619354,43.208858],[-75.61898,43.208904],[-75.617477,43.208874],[-75.618477,43.208771],[-75.619324,43.208763]]]],"created":1292517522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2498722_20101216_f72016236c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

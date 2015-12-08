@@ -1,0 +1,15 @@
+{
+  "id": 20123211,
+  "type": "Feature",
+  "properties": {
+    "name":"Dascio, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20123211,
+    "woe:name":"Dascio, Lombardy, Italy",
+    "woe:place_id":"VY2mpOCbAZ090grruA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.413394,46.179001,9.428291,46.190475],
+  "geometry": {"alpha":0.00015,"bbox":[9.4133939743042,46.179000854492,9.4282913208008,46.190475463867],"coordinates":[[[[9.427738,46.182873],[9.428291,46.179001],[9.416999,46.182087],[9.413394,46.183395],[9.415454,46.186844],[9.416055,46.188374],[9.420719,46.190475],[9.42275,46.190094],[9.427814,46.189754],[9.427738,46.182873]]]],"created":1292529423,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/20123211_20101216_3bce8bda25.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

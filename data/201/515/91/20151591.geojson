@@ -1,0 +1,15 @@
+{
+  "id": 20151591,
+  "type": "Feature",
+  "properties": {
+    "name":"Saxtorpsskogen, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":20151591,
+    "woe:name":"Saxtorpsskogen, Skane, Sweden",
+    "woe:place_id":"9fIS9pWbAZ0981PzAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.949147,55.816166,12.949962,55.821609],
+  "geometry": {"alpha":0.00015,"bbox":[12.949147224426,55.816165924072,12.949961662292,55.82160949707],"coordinates":[[[[12.949962,55.816238],[12.949962,55.816196],[12.949962,55.816166],[12.949941,55.816219],[12.949147,55.821609],[12.949962,55.816238]]]],"created":1292441674,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/20151591_20101215_2b54a33fe6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

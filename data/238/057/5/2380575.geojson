@@ -1,0 +1,15 @@
+{
+  "id": 2380575,
+  "type": "Feature",
+  "properties": {
+    "name":"Clam Lake, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2380575,
+    "woe:name":"Clam Lake, Wisconsin, United States",
+    "woe:place_id":"jxmBLKWbApTnIIWb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.911301,46.160751,-90.89727,46.164635],
+  "geometry": {"alpha":0.00015,"bbox":[-90.91130065918,46.160751342773,-90.897270202637,46.16463470459],"coordinates":[[[[-90.905083,46.164135],[-90.903976,46.164635],[-90.900925,46.163128],[-90.89727,46.160751],[-90.911301,46.162041],[-90.905083,46.164135]]]],"created":1292549477,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2380575_20101217_38224f865d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

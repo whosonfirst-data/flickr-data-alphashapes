@@ -1,0 +1,15 @@
+{
+  "id": 553611,
+  "type": "Feature",
+  "properties": {
+    "name":"Gram, Syddanmark, Denmark",
+    "placetype":"locality",
+    "woe:id":553611,
+    "woe:name":"Gram, Syddanmark, Denmark",
+    "woe:place_id":"hTPxdKecBJ9TmHc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.047241,55.28801,9.060802,55.31049],
+  "geometry": {"alpha":0.00015,"bbox":[9.0472412109375,55.288009643555,9.0608024597168,55.310489654541],"coordinates":[[[[9.054161,55.293938],[9.055598,55.299122],[9.053335,55.31049],[9.060802,55.308144],[9.058055,55.29324],[9.047241,55.28801],[9.054161,55.293938]]]],"created":1292523023,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/553611_20101216_078a8ea72d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

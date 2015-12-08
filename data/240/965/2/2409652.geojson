@@ -1,0 +1,15 @@
+{
+  "id": 2409652,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2409652,
+    "woe:name":"Georgetown, Pennsylvania, United States",
+    "woe:place_id":"EBZ03i2bBZxfuCsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.519188,40.627048,-80.49305,40.648281],
+  "geometry": {"alpha":0.0001875,"bbox":[-80.519187927246,40.627048492432,-80.493049621582,40.648281097412],"coordinates":[[[[-80.519188,40.642647],[-80.51899,40.642639],[-80.50322,40.641979],[-80.49305,40.648281],[-80.498573,40.641834],[-80.513992,40.627048],[-80.519005,40.642506],[-80.519188,40.642647]]]],"created":1248096241,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2617/shapefiles/2409652_20090720_d24325e875.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

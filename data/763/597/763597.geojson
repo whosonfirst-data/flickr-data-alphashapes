@@ -1,0 +1,15 @@
+{
+  "id": 763597,
+  "type": "Feature",
+  "properties": {
+    "name":"La Llamera, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":763597,
+    "woe:name":"La Llamera, Asturias, Spain",
+    "woe:place_id":"nOO28GCeB59jp2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.171913,43.057213,-6.160969,43.066193],
+  "geometry": {"alpha":0.00015,"bbox":[-6.1719131469727,43.05721282959,-6.1609687805176,43.066192626953],"coordinates":[[[[-6.160969,43.057636],[-6.161412,43.057213],[-6.168823,43.061111],[-6.171913,43.066193],[-6.167621,43.065376],[-6.160969,43.057636]]]],"created":1292453711,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/763597_20101215_542e830194.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

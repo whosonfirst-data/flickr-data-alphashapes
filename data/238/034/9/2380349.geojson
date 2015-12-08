@@ -1,0 +1,15 @@
+{
+  "id": 2380349,
+  "type": "Feature",
+  "properties": {
+    "name":"Cimarron City, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2380349,
+    "woe:name":"Cimarron City, Oklahoma, United States",
+    "woe:place_id":"rePrnV.bApThgO0v",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.600761,35.870941,-97.58503,35.888214],
+  "geometry": {"alpha":0.00015,"bbox":[-97.600761413574,35.870941162109,-97.585029602051,35.888214111328],"coordinates":[[[[-97.585159,35.875298],[-97.58503,35.871315],[-97.600761,35.870941],[-97.600739,35.870975],[-97.590691,35.888214],[-97.585159,35.875298]]]],"created":1292448259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2380349_20101215_4ec9c3b9c0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

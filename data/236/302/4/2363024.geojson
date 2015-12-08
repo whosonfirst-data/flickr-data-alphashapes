@@ -1,0 +1,15 @@
+{
+  "id": 2363024,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2363024,
+    "woe:name":"Berlin, Texas, United States",
+    "woe:place_id":"v7TGU32bApqCD0OV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.449318,30.167688,-96.438332,30.175406],
+  "geometry": {"alpha":0.00015,"bbox":[-96.449317932129,30.167688369751,-96.438331604004,30.175405502319],"coordinates":[[[[-96.447304,30.170132],[-96.443993,30.175406],[-96.438332,30.169172],[-96.449318,30.167688],[-96.447304,30.170132]]]],"created":1292521078,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2363024_20101216_12420a6653.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

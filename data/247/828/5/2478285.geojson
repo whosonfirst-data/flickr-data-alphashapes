@@ -1,0 +1,15 @@
+{
+  "id": 2478285,
+  "type": "Feature",
+  "properties": {
+    "name":"Rainy Beach, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2478285,
+    "woe:name":"Rainy Beach, Michigan, United States",
+    "woe:place_id":"uyKcf1ubBZu2cpiC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.218102,45.453747,-84.215355,45.455193],
+  "geometry": {"alpha":0.00015,"bbox":[-84.218101501465,45.453746795654,-84.215354919434,45.455192565918],"coordinates":[[[[-84.215355,45.45435],[-84.215523,45.453747],[-84.218102,45.455193],[-84.217239,45.455193],[-84.215355,45.45435]]]],"created":1292448702,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2478285_20101215_a6f41c30f3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

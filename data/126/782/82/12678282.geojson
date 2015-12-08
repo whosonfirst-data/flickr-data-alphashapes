@@ -1,0 +1,15 @@
+{
+  "id": 12678282,
+  "type": "Feature",
+  "properties": {
+    "name":"Panicale, Italy",
+    "placetype":"locality",
+    "woe:id":12678282,
+    "woe:name":"Panicale, Italy",
+    "woe:place_id":"cgqwtCSYA5q.JRsYIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.098388,43.02906,12.10166,43.02935],
+  "geometry": {"alpha":1e-05,"bbox":[12.098387718201,43.02906036377,12.10165977478,43.029350280762],"coordinates":[[[[12.098388,43.029099],[12.098608,43.029308],[12.099407,43.029289],[12.10166,43.02935],[12.0998,43.02906],[12.0994,43.029129],[12.098388,43.029099]]]],"created":1292536877,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12678282_20101216_6498190c7b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705572,
+  "type": "Feature",
+  "properties": {
+    "name":"Werth, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":705572,
+    "woe:name":"Werth, North Rhine-Westphalia, Germany",
+    "woe:place_id":"aSTcx7aeAZnq0Kc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.510429,51.820259,6.515225,51.821774],
+  "geometry": {"alpha":0.00015,"bbox":[6.5104289054871,51.820259094238,6.5152249336243,51.821773529053],"coordinates":[[[[6.515225,51.820313],[6.515182,51.820259],[6.515171,51.820259],[6.510429,51.821774],[6.51503,51.820351],[6.515225,51.820313]]]],"created":1292537846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/705572_20101216_e386eb6c7a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

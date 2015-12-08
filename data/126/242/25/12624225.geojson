@@ -1,0 +1,15 @@
+{
+  "id": 12624225,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neresheim, Germany",
+    "placetype":"locality",
+    "woe:id":12624225,
+    "woe:name":"Gemeinde Neresheim, Germany",
+    "woe:place_id":"F3QYGheYA5qRB9m66w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.342469,48.754646,10.345237,48.75602],
+  "geometry": {"alpha":1e-05,"bbox":[10.342469215393,48.75464630127,10.345236778259,48.756019592285],"coordinates":[[[[10.343359,48.75602],[10.345237,48.754646],[10.343112,48.755184],[10.342469,48.75568],[10.343359,48.75602]]]],"created":1292537746,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12624225_20101216_025d237249.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

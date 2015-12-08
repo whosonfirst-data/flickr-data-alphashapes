@@ -1,0 +1,15 @@
+{
+  "id": 731842,
+  "type": "Feature",
+  "properties": {
+    "name":"Naardermeer, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":731842,
+    "woe:name":"Naardermeer, North Holland, Netherlands",
+    "woe:place_id":"Y6GpSqCeAp21PfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.124006,52.268261,5.142245,52.299713],
+  "geometry": {"alpha":0.000234375,"bbox":[5.1240057945251,52.268260955811,5.1422448158264,52.299713134766],"coordinates":[[[[5.142245,52.283989],[5.141644,52.282295],[5.130958,52.268261],[5.126358,52.287704],[5.124006,52.299713],[5.142245,52.283989]]]],"created":1292467152,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/731842_20101216_b8d9b327b9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

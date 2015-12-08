@@ -1,0 +1,15 @@
+{
+  "id": 12602604,
+  "type": "Feature",
+  "properties": {
+    "name":"Fernelmont, Belgium",
+    "placetype":"locality",
+    "woe:id":12602604,
+    "woe:name":"Fernelmont, Belgium",
+    "woe:place_id":"C_EM8riYA5rcMb_0Vw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.994541,50.583118,5.001622,50.586723],
+  "geometry": {"alpha":1e-05,"bbox":[4.9945411682129,50.583118438721,5.0016222000122,50.586723327637],"coordinates":[[[[5.001375,50.584381],[4.998468,50.583118],[4.994541,50.584461],[4.999777,50.585976],[5.001622,50.586723],[5.001375,50.584381]]]],"created":1248255016,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2578/shapefiles/12602604_20090722_983dcd1001.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

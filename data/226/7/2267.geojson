@@ -1,0 +1,15 @@
+{
+  "id": 2267,
+  "type": "Feature",
+  "properties": {
+    "name":"Aylesbury, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2267,
+    "woe:name":"Aylesbury, Saskatchewan, Canada",
+    "woe:place_id":"G2gwicibA5qX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.698776,50.929546,-105.673195,50.941338],
+  "geometry": {"alpha":0.00015,"bbox":[-105.69877624512,50.929546356201,-105.67319488525,50.941337585449],"coordinates":[[[[-105.693665,50.938332],[-105.698776,50.941338],[-105.692894,50.940983],[-105.69043,50.9408],[-105.673195,50.929546],[-105.693665,50.938332]]]],"created":1292455571,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2267_20101215_0190153919.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

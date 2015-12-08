@@ -1,0 +1,15 @@
+{
+  "id": 20123802,
+  "type": "Feature",
+  "properties": {
+    "name":"Fabbriche, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20123802,
+    "woe:name":"Fabbriche, Liguria, Italy",
+    "woe:place_id":"VOx8EOWbAZ0.PZ0CDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.714389,44.436966,8.728636,44.447994],
+  "geometry": {"alpha":0.00015,"bbox":[8.7143888473511,44.436965942383,8.7286357879639,44.447994232178],"coordinates":[[[[8.714389,44.447994],[8.717833,44.447563],[8.728636,44.442162],[8.714904,44.436966],[8.715419,44.444321],[8.714389,44.447994]]]],"created":1292495229,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20123802_20101216_d729986b4f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12625699,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Pegau, Germany",
+    "placetype":"locality",
+    "woe:id":12625699,
+    "woe:name":"Gemeinde Pegau, Germany",
+    "woe:place_id":"m.GIvuWYA5rino4qsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.241475,51.165207,12.242406,51.169159],
+  "geometry": {"alpha":1e-05,"bbox":[12.241475105286,51.16520690918,12.242405891418,51.169158935547],"coordinates":[[[[12.241816,51.16827],[12.242406,51.169159],[12.242202,51.168056],[12.241923,51.167309],[12.241475,51.165207],[12.241516,51.166603],[12.241816,51.16827]]]],"created":1292539873,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12625699_20101216_8db57448f4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

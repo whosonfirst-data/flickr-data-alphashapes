@@ -1,0 +1,15 @@
+{
+  "id": 974002,
+  "type": "Feature",
+  "properties": {
+    "name":"Marneffe, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":974002,
+    "woe:name":"Marneffe, Liege, Belgium",
+    "woe:place_id":"pwRyJteQBpj2WIs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.14307,50.574505,5.147183,50.583027],
+  "geometry": {"alpha":0.00015,"bbox":[5.1430702209473,50.574504852295,5.1471829414368,50.583026885986],"coordinates":[[[[5.144003,50.576504],[5.143987,50.57655],[5.14307,50.583027],[5.147183,50.574505],[5.146387,50.57457],[5.14453,50.576145],[5.144003,50.576504]]]],"created":1292440141,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/974002_20101215_a32d642e44.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

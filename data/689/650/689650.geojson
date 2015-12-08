@@ -1,0 +1,15 @@
+{
+  "id": 689650,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosenthal, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":689650,
+    "woe:name":"Rosenthal, Saxony, Germany",
+    "woe:place_id":"rLLwz4mfCZVBRvU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.045505,50.842857,14.0625,50.852234],
+  "geometry": {"alpha":0.00015,"bbox":[14.045504570007,50.84285736084,14.0625,50.852233886719],"coordinates":[[[[14.054946,50.852234],[14.059753,50.850445],[14.0625,50.847626],[14.05632,50.842857],[14.046363,50.849957],[14.045505,50.850822],[14.054946,50.852234]]]],"created":1292544113,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/689650_20101217_2ea152d200.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

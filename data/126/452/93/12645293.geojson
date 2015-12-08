@@ -1,0 +1,15 @@
+{
+  "id": 12645293,
+  "type": "Feature",
+  "properties": {
+    "name":"Huismes, France",
+    "placetype":"locality",
+    "woe:id":12645293,
+    "woe:name":"Huismes, France",
+    "woe:place_id":"2hUcu4eYA5pcjNYLeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.250797,47.205254,0.25312,47.205807],
+  "geometry": {"alpha":1e-05,"bbox":[0.25079700350761,47.205253601074,0.25312000513077,47.205806732178],"coordinates":[[[[0.25312,47.205421],[0.252973,47.205254],[0.252962,47.205254],[0.250797,47.205807],[0.25312,47.205421]]]],"created":1248243255,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2599/shapefiles/12645293_20090722_c24781d180.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

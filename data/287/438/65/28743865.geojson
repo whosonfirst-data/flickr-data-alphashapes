@@ -1,0 +1,15 @@
+{
+  "id": 28743865,
+  "type": "Feature",
+  "properties": {
+    "name":"Eaton, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28743865,
+    "woe:name":"Eaton, Michigan, United States",
+    "woe:place_id":"Tbr7hIebCZup3ex7VQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.746986,42.565723,-84.724586,42.576344],
+  "geometry": {"alpha":0.00015,"bbox":[-84.74698638916,42.565723419189,-84.724586486816,42.576343536377],"coordinates":[[[[-84.741493,42.569641],[-84.737892,42.576344],[-84.724586,42.566547],[-84.73214,42.566643],[-84.746986,42.565723],[-84.741493,42.569641]]]],"created":1248143884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2648/shapefiles/28743865_20090721_6bd3f65460.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

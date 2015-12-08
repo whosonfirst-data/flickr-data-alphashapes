@@ -1,0 +1,15 @@
+{
+  "id": 20149653,
+  "type": "Feature",
+  "properties": {
+    "name":"Cittanova, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20149653,
+    "woe:name":"Cittanova, Veneto, Italy",
+    "woe:place_id":"WmTviSebAZ2nrbkyHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.664275,45.633232,12.6723,45.649689],
+  "geometry": {"alpha":0.00015,"bbox":[12.664275169373,45.633232116699,12.672300338745,45.649688720703],"coordinates":[[[[12.664275,45.639755],[12.665004,45.640446],[12.670154,45.649689],[12.67054,45.642021],[12.6723,45.633755],[12.672171,45.633232],[12.664275,45.639755]]]],"created":1292518995,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/20149653_20101216_b72283062f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

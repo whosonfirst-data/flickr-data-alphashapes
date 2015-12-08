@@ -1,0 +1,15 @@
+{
+  "id": 10203,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbotskerswell, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10203,
+    "woe:name":"Abbotskerswell, England, United Kingdom",
+    "woe:place_id":"0nSze7aYAZ4lfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.620751,50.496353,-3.607549,50.517677],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6207509040833,50.496353149414,-3.6075489521027,50.517677307129],"coordinates":[[[[-3.613195,50.507492],[-3.620751,50.496353],[-3.618278,50.508568],[-3.612892,50.517677],[-3.607549,50.517357],[-3.613195,50.507492]]]],"created":1292515382,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/10203_20101216_31627a59b6.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

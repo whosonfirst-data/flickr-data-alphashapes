@@ -1,0 +1,15 @@
+{
+  "id": 1423,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Chrysostome, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1423,
+    "woe:name":"St.-Chrysostome, Quebec, Canada",
+    "woe:place_id":"zerNWKGYBZ62",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.766754,45.086506,-73.741608,45.106968],
+  "geometry": {"alpha":0.00015,"bbox":[-73.766754150391,45.086505889893,-73.741607666016,45.106967926025],"coordinates":[[[[-73.753624,45.106968],[-73.741608,45.104061],[-73.749115,45.086506],[-73.766754,45.101002],[-73.757057,45.104942],[-73.753624,45.106968]]]],"created":1292520490,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/1423_20101216_1cdb08b3bf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

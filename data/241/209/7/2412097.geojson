@@ -1,0 +1,15 @@
+{
+  "id": 2412097,
+  "type": "Feature",
+  "properties": {
+    "name":"Goodnow, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2412097,
+    "woe:name":"Goodnow, Wisconsin, United States",
+    "woe:place_id":"gA.fUh.bBZ0kWdqY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.680016,45.730457,-89.671547,45.738033],
+  "geometry": {"alpha":0.00015,"bbox":[-89.680015563965,45.730457305908,-89.671546936035,45.738033294678],"coordinates":[[[[-89.674248,45.730785],[-89.680016,45.738033],[-89.671547,45.734985],[-89.67244,45.730457],[-89.674232,45.73074],[-89.674248,45.730785]]]],"created":1248138379,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2558/shapefiles/2412097_20090721_91b67f4077.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

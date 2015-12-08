@@ -1,0 +1,15 @@
+{
+  "id": 873441,
+  "type": "Feature",
+  "properties": {
+    "name":"Netotul, Brasov, Romania",
+    "placetype":"locality",
+    "woe:id":873441,
+    "woe:name":"Netotul, Brasov, Romania",
+    "woe:place_id":"wzi.wfyRBp97kQc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.902573,45.672649,24.920561,45.692513],
+  "geometry": {"alpha":0.00015,"bbox":[24.902572631836,45.672649383545,24.920560836792,45.692512512207],"coordinates":[[[[24.918407,45.672649],[24.910919,45.673023],[24.902573,45.692513],[24.918301,45.677776],[24.920561,45.678329],[24.918407,45.672649]]]],"created":1292550465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/873441_20101217_067473a12a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

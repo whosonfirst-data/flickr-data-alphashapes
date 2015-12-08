@@ -1,0 +1,15 @@
+{
+  "id": 22721139,
+  "type": "Feature",
+  "properties": {
+    "name":"The Hermitage, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":22721139,
+    "woe:name":"The Hermitage, Victoria, Australia",
+    "woe:place_id":"1rNjiNabA5s2LfG5Yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.632706,-37.584545,145.635391,-37.575535],
+  "geometry": {"alpha":0.00015,"bbox":[145.63270568848,-37.584545135498,145.63539123535,-37.575534820557],"coordinates":[[[[145.635391,-37.584526],[145.635376,-37.584545],[145.632706,-37.580772],[145.634766,-37.575535],[145.635391,-37.584518],[145.635391,-37.584526]]]],"created":1292445677,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/22721139_20101215_ce58e4414d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

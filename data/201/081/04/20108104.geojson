@@ -1,0 +1,15 @@
+{
+  "id": 20108104,
+  "type": "Feature",
+  "properties": {
+    "name":"San Bernardino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20108104,
+    "woe:name":"San Bernardino, Piedmont, Italy",
+    "woe:place_id":"LnFld2ubAZ1g7YeSBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.387447,45.0369,7.405729,45.054161],
+  "geometry": {"alpha":0.00015,"bbox":[7.3874468803406,45.03689956665,7.4057288169861,45.054161071777],"coordinates":[[[[7.387447,45.052544],[7.38749,45.053558],[7.392386,45.054161],[7.395858,45.051163],[7.397232,45.050117],[7.405729,45.04081],[7.393627,45.0369],[7.389678,45.051105],[7.387447,45.052544]]]],"created":1292549548,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20108104_20101217_d893afba9d.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

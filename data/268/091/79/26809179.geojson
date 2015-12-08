@@ -1,0 +1,15 @@
+{
+  "id": 26809179,
+  "type": "Feature",
+  "properties": {
+    "name":"San Isidro, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809179,
+    "woe:name":"San Isidro, Costa Rica",
+    "woe:place_id":"Gj9UJgCbB5TQnVAHNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.989792,9.966821,-83.989265,9.967919],
+  "geometry": {"alpha":1e-05,"bbox":[-83.989791870117,9.9668207168579,-83.989265441895,9.9679193496704],"coordinates":[[[[-83.989571,9.967915],[-83.989265,9.967919],[-83.989281,9.96784],[-83.989792,9.966821],[-83.989731,9.967815],[-83.989571,9.967915]]]],"created":1292547188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/26809179_20101217_2c34a4d6c2.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

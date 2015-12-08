@@ -1,0 +1,15 @@
+{
+  "id": 493369,
+  "type": "Feature",
+  "properties": {
+    "name":"Gassy, Masovian, Poland",
+    "placetype":"locality",
+    "woe:id":493369,
+    "woe:name":"Gassy, Masovian, Poland",
+    "woe:place_id":"XI0rouOdCJ.Qjns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.207088,52.068752,21.215973,52.08263],
+  "geometry": {"alpha":0.00015,"bbox":[21.207088470459,52.068752288818,21.215972900391,52.082630157471],"coordinates":[[[[21.207088,52.078339],[21.208784,52.080021],[21.215973,52.08263],[21.215939,52.070099],[21.215828,52.069942],[21.214945,52.068752],[21.207088,52.078339]]]],"created":1292443472,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/493369_20101215_5934be01c8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

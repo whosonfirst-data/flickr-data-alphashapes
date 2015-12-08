@@ -1,0 +1,15 @@
+{
+  "id": 12666311,
+  "type": "Feature",
+  "properties": {
+    "name":"Mars, France",
+    "placetype":"locality",
+    "woe:id":12666311,
+    "woe:name":"Mars, France",
+    "woe:place_id":"IqYY4uyYA5pQpOjFNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.550736,43.988071,3.554577,43.989422],
+  "geometry": {"alpha":1e-05,"bbox":[3.55073595047,43.98807144165,3.5545771121979,43.989421844482],"coordinates":[[[[3.553005,43.988071],[3.552838,43.988129],[3.552658,43.988205],[3.550736,43.988464],[3.551691,43.98875],[3.5538,43.989422],[3.554577,43.989361],[3.553066,43.988144],[3.553005,43.988071]]]],"created":1292471226,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12666311_20101216_093e8d8e22.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

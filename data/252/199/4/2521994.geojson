@@ -1,0 +1,15 @@
+{
+  "id": 2521994,
+  "type": "Feature",
+  "properties": {
+    "name":"Windy Hills, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2521994,
+    "woe:name":"Windy Hills, Delaware, United States",
+    "woe:place_id":"aN9fxcebBJ4GBmmW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.719284,39.686836,-75.713768,39.693863],
+  "geometry": {"alpha":0.00015,"bbox":[-75.719284057617,39.686836242676,-75.713768005371,39.693862915039],"coordinates":[[[[-75.713768,39.688519],[-75.715523,39.686836],[-75.715546,39.686836],[-75.715668,39.686836],[-75.719284,39.693863],[-75.713768,39.688519]]]],"created":1292423644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2521994_20101215_ef256abc05.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

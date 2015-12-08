@@ -1,0 +1,15 @@
+{
+  "id": 12632472,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Birkenau, Germany",
+    "placetype":"locality",
+    "woe:id":12632472,
+    "woe:name":"Gemeinde Birkenau, Germany",
+    "woe:place_id":"Xl975RWYA5pC9t49iw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.69898,49.579426,8.701689,49.579655],
+  "geometry": {"alpha":1e-05,"bbox":[8.6989803314209,49.579425811768,8.7016887664795,49.579654693604],"coordinates":[[[[8.699079,49.579655],[8.701667,49.579449],[8.701689,49.579426],[8.699069,49.579647],[8.69898,49.579651],[8.699079,49.579655]]]],"created":1292526612,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12632472_20101216_097e566be7.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

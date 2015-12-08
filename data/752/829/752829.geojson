@@ -1,0 +1,15 @@
+{
+  "id": 752829,
+  "type": "Feature",
+  "properties": {
+    "name":"Areo, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":752829,
+    "woe:name":"Areo, Catalonia, Spain",
+    "woe:place_id":"dTW3.86eBJ6MvIc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.32559,42.586044,1.32883,42.592712],
+  "geometry": {"alpha":0.00015,"bbox":[1.3255900144577,42.586044311523,1.3288300037384,42.592712402344],"coordinates":[[[[1.32559,42.588104],[1.325654,42.589233],[1.32883,42.592712],[1.327309,42.587379],[1.326749,42.586044],[1.325912,42.58696],[1.32559,42.588104]]]],"created":1292547720,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/752829_20101217_14e9129620.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2406350,
+  "type": "Feature",
+  "properties": {
+    "name":"Four Corners, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2406350,
+    "woe:name":"Four Corners, Ohio, United States",
+    "woe:place_id":"qwQ4L1CbBZwXS3dx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.362068,40.511833,-82.361397,40.51395],
+  "geometry": {"alpha":0.00015,"bbox":[-82.36206817627,40.511833190918,-82.361396789551,40.5139503479],"coordinates":[[[[-82.362068,40.513317],[-82.362068,40.5135],[-82.361816,40.513916],[-82.361771,40.51395],[-82.361397,40.511833],[-82.362068,40.513317]]]],"created":1292451725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2406350_20101215_6510cc39b4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

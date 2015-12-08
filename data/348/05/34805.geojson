@@ -1,0 +1,15 @@
+{
+  "id": 34805,
+  "type": "Feature",
+  "properties": {
+    "name":"Sidestrand, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34805,
+    "woe:name":"Sidestrand, England, United Kingdom",
+    "woe:place_id":"0_1Hzi2aBZRuaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.358356,52.901627,1.361274,52.913677],
+  "geometry": {"alpha":0.00015,"bbox":[1.3583559989929,52.901626586914,1.3612740039825,52.913677215576],"coordinates":[[[[1.361274,52.905899],[1.361231,52.905472],[1.360673,52.901627],[1.360845,52.905201],[1.360759,52.905975],[1.358356,52.913677],[1.361274,52.905899]]]],"created":1292537960,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/34805_20101216_85ac3ba875.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103899,
+  "type": "Feature",
+  "properties": {
+    "name":"Miles, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1103899,
+    "woe:name":"Miles, Queensland, Australia",
+    "woe:place_id":"4RDn2U2YAJyJjyU3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.165939,-26.66378,150.191696,-26.65114],
+  "geometry": {"alpha":0.00015,"bbox":[150.16593933105,-26.663780212402,150.19169616699,-26.651140213013],"coordinates":[[[[150.188492,-26.658695],[150.189438,-26.660614],[150.191696,-26.66378],[150.181732,-26.6628],[150.178482,-26.662762],[150.165939,-26.65114],[150.179459,-26.655783],[150.188492,-26.658695]]]],"created":1292551172,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/1103899_20101217_39e8302263.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12657903,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayenne, France",
+    "placetype":"locality",
+    "woe:id":12657903,
+    "woe:name":"Mayenne, France",
+    "woe:place_id":"imC0RDGYA5rtaR6Guw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.617294,48.303635,-0.612222,48.308418],
+  "geometry": {"alpha":1e-05,"bbox":[-0.61729401350021,48.303634643555,-0.6122220158577,48.308418273926],"coordinates":[[[[-0.613946,48.303898],[-0.616779,48.303635],[-0.617209,48.305771],[-0.617294,48.307289],[-0.612222,48.308418],[-0.613684,48.306049],[-0.613946,48.303898]]]],"created":1292508006,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12657903_20101216_3040181bf1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12580706,
+  "type": "Feature",
+  "properties": {
+    "name":"Terra Rica, Parana, Brazil",
+    "placetype":"county",
+    "woe:id":12580706,
+    "woe:name":"Terra Rica, Parana, Brazil",
+    "woe:place_id":"pDbNy9qYA5nCzO79Rg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-52.628803,-22.740248,-52.584599,-22.697615],
+  "geometry": {"alpha":0.0015,"bbox":[-52.628803253174,-22.74024772644,-52.58459854126,-22.6976146698],"coordinates":[[[[-52.628803,-22.717686],[-52.619835,-22.697615],[-52.584599,-22.708897],[-52.591381,-22.725761],[-52.61919,-22.740248],[-52.628803,-22.717686]]]],"created":1292550773,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12580706_20101217_3c92f09094.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

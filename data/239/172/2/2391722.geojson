@@ -1,0 +1,15 @@
+{
+  "id": 2391722,
+  "type": "Feature",
+  "properties": {
+    "name":"Devonshire Forest, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2391722,
+    "woe:name":"Devonshire Forest, Maryland, United States",
+    "woe:place_id":"N5C1LUubApWv5jVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.620285,39.411976,-76.61174,39.415325],
+  "geometry": {"alpha":0.00015,"bbox":[-76.62028503418,39.411975860596,-76.611740112305,39.415325164795],"coordinates":[[[[-76.61174,39.413418],[-76.612053,39.411976],[-76.618469,39.412933],[-76.620285,39.414181],[-76.615517,39.415325],[-76.61174,39.413418]]]],"created":1292549561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2391722_20101217_58450865de.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

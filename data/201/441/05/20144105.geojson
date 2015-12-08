@@ -1,0 +1,15 @@
+{
+  "id": 20144105,
+  "type": "Feature",
+  "properties": {
+    "name":"Soliera, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20144105,
+    "woe:name":"Soliera, Tuscany, Italy",
+    "woe:place_id":"pjn1KCGbAZ3NxY1dkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.067124,44.203743,10.078325,44.207928],
+  "geometry": {"alpha":0.00015,"bbox":[10.06712436676,44.203742980957,10.078325271606,44.207927703857],"coordinates":[[[[10.067124,44.206326],[10.068368,44.207481],[10.07339,44.207928],[10.078325,44.205711],[10.076179,44.203743],[10.067124,44.206326]]]],"created":1292457267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20144105_20101215_f31524cd22.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

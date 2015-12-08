@@ -1,0 +1,15 @@
+{
+  "id": 12678316,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelnuovo di Porto, Italy",
+    "placetype":"locality",
+    "woe:id":12678316,
+    "woe:name":"Castelnuovo di Porto, Italy",
+    "woe:place_id":"UbfZwSGYA5rdfvPhIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.47332,42.085739,12.59325,42.131203],
+  "geometry": {"alpha":0.5,"bbox":[12.473320007324,42.085739135742,12.593250274658,42.131202697754],"coordinates":[[[[12.47914,42.118469],[12.47486,42.120071],[12.47332,42.12252],[12.498664,42.131203],[12.59325,42.118599],[12.568016,42.085739],[12.47914,42.118469]]]],"created":1248063001,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2566/shapefiles/12678316_20090720_83b2009eb2.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

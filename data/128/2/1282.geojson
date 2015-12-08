@@ -1,0 +1,15 @@
+{
+  "id": 1282,
+  "type": "Feature",
+  "properties": {
+    "name":"Princeville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1282,
+    "woe:name":"Princeville, Quebec, Canada",
+    "woe:place_id":"VGnC6fuYA5Rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.885048,46.165447,-71.859428,46.176888],
+  "geometry": {"alpha":0.00015,"bbox":[-71.885047912598,46.165447235107,-71.859428405762,46.176887512207],"coordinates":[[[[-71.873322,46.170959],[-71.876656,46.169296],[-71.885048,46.165447],[-71.876526,46.171658],[-71.870453,46.176888],[-71.869087,46.175323],[-71.859428,46.170025],[-71.873322,46.170959]]]],"created":1292524978,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/1282_20101216_dbe2017168.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

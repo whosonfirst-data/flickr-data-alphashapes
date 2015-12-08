@@ -1,0 +1,15 @@
+{
+  "id": 720490,
+  "type": "Feature",
+  "properties": {
+    "name":"Pietrafitta, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":720490,
+    "woe:name":"Pietrafitta, Umbria, Italy",
+    "woe:place_id":"DMkCcRCeA5wEUIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.20169,42.990124,12.211649,42.9963],
+  "geometry": {"alpha":0.00015,"bbox":[12.201689720154,42.990123748779,12.21164894104,42.996299743652],"coordinates":[[[[12.210531,42.992722],[12.210833,42.992664],[12.211649,42.992241],[12.204523,42.990124],[12.20169,42.9963],[12.204308,42.995731],[12.210531,42.992722]]]],"created":1292453661,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/720490_20101215_7037e347e8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

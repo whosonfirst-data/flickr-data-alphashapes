@@ -1,0 +1,15 @@
+{
+  "id": 976015,
+  "type": "Feature",
+  "properties": {
+    "name":"Raatshoven, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":976015,
+    "woe:name":"Raatshoven, Liege, Belgium",
+    "woe:place_id":"O.HovmqQBpqrnt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.030708,50.738735,5.031566,50.74091],
+  "geometry": {"alpha":0.00015,"bbox":[5.0307078361511,50.738735198975,5.0315661430359,50.740909576416],"coordinates":[[[[5.031523,50.740395],[5.031566,50.740284],[5.031094,50.738735],[5.030708,50.740337],[5.030965,50.74091],[5.031523,50.740395]]]],"created":1292467861,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/976015_20101216_3a7e233fb9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

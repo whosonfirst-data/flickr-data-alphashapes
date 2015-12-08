@@ -1,0 +1,15 @@
+{
+  "id": 12655736,
+  "type": "Feature",
+  "properties": {
+    "name":"Aubusson, France",
+    "placetype":"locality",
+    "woe:id":12655736,
+    "woe:name":"Aubusson, France",
+    "woe:place_id":"vNRhE4GYA5pUBP5f0A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.166538,45.951931,2.171559,45.956757],
+  "geometry": {"alpha":1e-05,"bbox":[2.1665380001068,45.951930999756,2.1715590953827,45.956756591797],"coordinates":[[[[2.168061,45.951931],[2.166624,45.955116],[2.166538,45.956757],[2.170808,45.955029],[2.171559,45.954716],[2.168061,45.951931]]]],"created":1248054124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3490/shapefiles/12655736_20090720_44f84939e0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

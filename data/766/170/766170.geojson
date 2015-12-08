@@ -1,0 +1,15 @@
+{
+  "id": 766170,
+  "type": "Feature",
+  "properties": {
+    "name":"Lucena del Cid, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":766170,
+    "woe:name":"Lucena del Cid, Valencia, Spain",
+    "woe:place_id":"ZMr5_dWeB5o6_wo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.283756,40.121597,-0.276224,40.138344],
+  "geometry": {"alpha":0.00015,"bbox":[-0.28375598788261,40.121597290039,-0.27622398734093,40.138343811035],"coordinates":[[[[-0.280146,40.138344],[-0.280323,40.134872],[-0.276224,40.121597],[-0.283333,40.133331],[-0.283756,40.137547],[-0.280146,40.138344]]]],"created":1292523056,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/766170_20101216_4c3926c543.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

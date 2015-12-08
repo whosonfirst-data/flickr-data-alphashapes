@@ -1,0 +1,15 @@
+{
+  "id": 12664318,
+  "type": "Feature",
+  "properties": {
+    "name":"Laissaud, France",
+    "placetype":"locality",
+    "woe:id":12664318,
+    "woe:name":"Laissaud, France",
+    "woe:place_id":"ort9ZX6YA5q9DoxnWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.00847,45.446793,6.011431,45.44875],
+  "geometry": {"alpha":1e-05,"bbox":[6.0084700584412,45.446792602539,6.0114312171936,45.448749542236],"coordinates":[[[[6.00847,45.446793],[6.008512,45.447006],[6.008813,45.447334],[6.009607,45.44875],[6.011087,45.447544],[6.011431,45.447365],[6.00847,45.446793]]]],"created":1292536148,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12664318_20101216_a524961329.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

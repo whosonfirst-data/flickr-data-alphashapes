@@ -1,0 +1,15 @@
+{
+  "id": 28745786,
+  "type": "Feature",
+  "properties": {
+    "name":"Barnett Shoals, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":28745786,
+    "woe:name":"Barnett Shoals, Georgia, United States",
+    "woe:place_id":"KlYa4jebCZsum5Ktxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.313599,33.839298,-83.307404,33.852459],
+  "geometry": {"alpha":0.00015,"bbox":[-83.313598632812,33.839298248291,-83.307403564453,33.852458953857],"coordinates":[[[[-83.310272,33.844311],[-83.309731,33.839298],[-83.312477,33.841694],[-83.313599,33.84235],[-83.307404,33.852459],[-83.310272,33.844311]]]],"created":1292548807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/28745786_20101217_c51986a865.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

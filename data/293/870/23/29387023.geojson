@@ -1,0 +1,15 @@
+{
+  "id": 29387023,
+  "type": "Feature",
+  "properties": {
+    "name":"Esqueiro, Braga, Portugal",
+    "placetype":"locality",
+    "woe:id":29387023,
+    "woe:name":"Esqueiro, Braga, Portugal",
+    "woe:place_id":"jQ6DCcabCJ8rdlOWmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.638569,41.582336,-8.638257,41.583179],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6385688781738,41.582336425781,-8.6382570266724,41.583179473877],"coordinates":[[[[-8.638558,41.582336],[-8.638569,41.58234],[-8.638397,41.583179],[-8.638257,41.582451],[-8.638429,41.582386],[-8.638558,41.582336]]]],"created":1292457908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/29387023_20101216_b2fde18e26.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

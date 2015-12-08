@@ -1,0 +1,15 @@
+{
+  "id": 2466,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilbert Plains, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2466,
+    "woe:name":"Gilbert Plains, Manitoba, Canada",
+    "woe:place_id":"M8S664qbBZqp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.498055,51.147331,-100.485802,51.148537],
+  "geometry": {"alpha":0.00015,"bbox":[-100.49805450439,51.147331237793,-100.48580169678,51.148536682129],"coordinates":[[[[-100.487267,51.147526],[-100.498055,51.14809],[-100.48922,51.148537],[-100.488594,51.148537],[-100.485802,51.147331],[-100.487267,51.147526]]]],"created":1292453103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2466_20101215_e0c6313ca8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

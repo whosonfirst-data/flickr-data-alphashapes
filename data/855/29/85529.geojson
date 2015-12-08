@@ -1,0 +1,15 @@
+{
+  "id": 85529,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio la Paz, El Progreso, Guatemala",
+    "placetype":"locality",
+    "woe:id":85529,
+    "woe:name":"San Antonio la Paz, El Progreso, Guatemala",
+    "woe:place_id":"Y5k11niRBJmx.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.241356,14.750315,-90.234657,14.756208],
+  "geometry": {"alpha":0.00015,"bbox":[-90.241355895996,14.750314712524,-90.234657287598,14.7562084198],"coordinates":[[[[-90.234833,14.750315],[-90.235519,14.750813],[-90.241356,14.754133],[-90.238091,14.756208],[-90.234657,14.751145],[-90.234657,14.750398],[-90.234833,14.750315]]]],"created":1292458282,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/85529_20101216_f128ac518e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

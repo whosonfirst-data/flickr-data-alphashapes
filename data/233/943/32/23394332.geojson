@@ -1,0 +1,15 @@
+{
+  "id": 23394332,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolton-Ouest, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394332,
+    "woe:name":"Bolton-Ouest, Quebec, Canada",
+    "woe:place_id":"fZhvcLubAp9MchuYBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.432861,45.208527,-72.417709,45.222435],
+  "geometry": {"alpha":0.00015,"bbox":[-72.432861328125,45.208526611328,-72.417709350586,45.222434997559],"coordinates":[[[[-72.417709,45.222435],[-72.418098,45.208527],[-72.425308,45.210583],[-72.432861,45.213001],[-72.417709,45.222435]]]],"created":1292546170,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/23394332_20101217_bbb7d2510c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

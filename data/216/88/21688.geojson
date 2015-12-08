@@ -1,0 +1,15 @@
+{
+  "id": 21688,
+  "type": "Feature",
+  "properties": {
+    "name":"Great Mongeham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21688,
+    "woe:name":"Great Mongeham, England, United Kingdom",
+    "woe:place_id":"8PLGArWbAJo7HQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.356039,51.213333,1.362454,51.215649],
+  "geometry": {"alpha":0.00015,"bbox":[1.3560390472412,51.213333129883,1.3624540567398,51.215648651123],"coordinates":[[[[1.357047,51.214355],[1.356296,51.215324],[1.356039,51.215649],[1.360502,51.215366],[1.362454,51.215599],[1.359729,51.213333],[1.357047,51.214355]]]],"created":1292523634,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/21688_20101216_bbfe70336d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

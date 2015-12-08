@@ -1,0 +1,15 @@
+{
+  "id": 734029,
+  "type": "Feature",
+  "properties": {
+    "name":"Ulicoten, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":734029,
+    "woe:name":"Ulicoten, North Brabant, Netherlands",
+    "woe:place_id":"UI.aCweeApgVAxk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.856729,51.457516,4.876942,51.474178],
+  "geometry": {"alpha":0.00015,"bbox":[4.8567290306091,51.457515716553,4.8769421577454,51.474178314209],"coordinates":[[[[4.856858,51.457516],[4.856729,51.457699],[4.857709,51.457531],[4.875483,51.474178],[4.876942,51.472496],[4.857709,51.457531],[4.856858,51.457516]]]],"created":1292484483,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/734029_20101216_0daca2af40.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

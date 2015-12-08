@@ -1,0 +1,15 @@
+{
+  "id": 765833,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Marfagones, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":765833,
+    "woe:name":"Los Marfagones, Murcia, Spain",
+    "woe:place_id":"J1iRZqaeB5lXuyE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.046233,37.623768,-1.03559,37.63007],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0462330579758,37.623767852783,-1.0355900526047,37.630069732666],"coordinates":[[[[-1.044001,37.627335],[-1.044516,37.627506],[-1.046233,37.63007],[-1.038894,37.627167],[-1.03559,37.623768],[-1.044001,37.627335]]]],"created":1292456153,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/765833_20101215_5e23edab07.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

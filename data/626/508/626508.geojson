@@ -1,0 +1,15 @@
+{
+  "id": 626508,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Pierre, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":626508,
+    "woe:name":"St-Pierre, Burgundy, France",
+    "woe:place_id":"6iKMTJqfA5odaoI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.118572,46.791084,3.119215,46.791203],
+  "geometry": {"alpha":0.00015,"bbox":[3.1185719966888,46.791084289551,3.1192150115967,46.791202545166],"coordinates":[[[[3.119044,46.791157],[3.118572,46.791084],[3.119087,46.791203],[3.119215,46.791187],[3.119044,46.791157]]]],"created":1292438826,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/626508_20101215_aff45d4e7e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2427623,
+  "type": "Feature",
+  "properties": {
+    "name":"Ironstone, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2427623,
+    "woe:name":"Ironstone, Massachusetts, United States",
+    "woe:place_id":"nUEMmU6bBZ7oZxuf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.621895,42.027107,-71.6082,42.045502],
+  "geometry": {"alpha":0.00015,"bbox":[-71.621894836426,42.02710723877,-71.608200073242,42.045501708984],"coordinates":[[[[-71.609169,42.029667],[-71.6082,42.027107],[-71.610558,42.027237],[-71.611717,42.027473],[-71.621895,42.045502],[-71.609169,42.029667]]]],"created":1292454333,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2427623_20101215_6c2c9b1546.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

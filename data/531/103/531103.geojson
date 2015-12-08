@@ -1,0 +1,15 @@
+{
+  "id": 531103,
+  "type": "Feature",
+  "properties": {
+    "name":"Podgrad, Ilirska Bistrica, Slovenia",
+    "placetype":"locality",
+    "woe:id":531103,
+    "woe:name":"Podgrad, Ilirska Bistrica, Slovenia",
+    "woe:place_id":"98A9nyScAp0Bu54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.145594,45.519577,14.163436,45.538445],
+  "geometry": {"alpha":0.00015,"bbox":[14.145593643188,45.519577026367,14.163435935974,45.538444519043],"coordinates":[[[[14.146614,45.519577],[14.145594,45.521587],[14.151235,45.538445],[14.163436,45.528721],[14.150733,45.520302],[14.146614,45.519577]]]],"created":1292466123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/531103_20101216_6f5fb63a56.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

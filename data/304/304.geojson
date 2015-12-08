@@ -1,0 +1,15 @@
+{
+  "id": 304,
+  "type": "Feature",
+  "properties": {
+    "name":"Coe Hill, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":304,
+    "woe:name":"Coe Hill, Ontario, Canada",
+    "woe:place_id":"fzkqOz2aAZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.839462,44.847229,-77.818306,44.862282],
+  "geometry": {"alpha":0.00015,"bbox":[-77.839462280273,44.847229003906,-77.818305969238,44.862281799316],"coordinates":[[[[-77.832726,44.861588],[-77.827278,44.853054],[-77.818306,44.847229],[-77.831718,44.848461],[-77.839462,44.861938],[-77.83812,44.862282],[-77.832726,44.861588]]]],"created":1292539551,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/304_20101216_87eed0ddb0.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

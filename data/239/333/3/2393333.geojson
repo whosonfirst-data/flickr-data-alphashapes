@@ -1,0 +1,15 @@
+{
+  "id": 2393333,
+  "type": "Feature",
+  "properties": {
+    "name":"Dover, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2393333,
+    "woe:name":"Dover, Idaho, United States",
+    "woe:place_id":"MUICHTebApW7XNhd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.64785,48.234142,-116.60376,48.269169],
+  "geometry": {"alpha":0.00015,"bbox":[-116.64785003662,48.234142303467,-116.60375976562,48.26916885376],"coordinates":[[[[-116.615829,48.244499],[-116.63369,48.234142],[-116.64785,48.250053],[-116.636009,48.255768],[-116.616096,48.262825],[-116.609917,48.269169],[-116.610428,48.252113],[-116.60376,48.246624],[-116.604637,48.246395],[-116.615829,48.244499]]]],"created":1292550289,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2393333_20101217_144249bbc6.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

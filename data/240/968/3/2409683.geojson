@@ -1,0 +1,15 @@
+{
+  "id": 2409683,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, Nazareth, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2409683,
+    "woe:name":"Georgetown, Nazareth, PA, US, United States",
+    "woe:place_id":"2svFOWCbBZzZIdty",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.335922,40.720768,-75.333916,40.725372],
+  "geometry": {"alpha":1e-05,"bbox":[-75.335922241211,40.720767974854,-75.333915710449,40.725372314453],"coordinates":[[[[-75.335152,40.725372],[-75.333916,40.723412],[-75.334038,40.723339],[-75.335922,40.720768],[-75.335152,40.725372]]]],"created":1292500451,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2409683_20101216_9d64fb0c0a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

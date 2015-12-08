@@ -1,0 +1,15 @@
+{
+  "id": 8350,
+  "type": "Feature",
+  "properties": {
+    "name":"Mclennan, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8350,
+    "woe:name":"Mclennan, Alberta, Canada",
+    "woe:place_id":"YVJMW2ORAplh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.916328,55.712269,-116.895645,55.71899],
+  "geometry": {"alpha":0.00015,"bbox":[-116.91632843018,55.712268829346,-116.8956451416,55.718990325928],"coordinates":[[[[-116.909981,55.712654],[-116.916328,55.712849],[-116.905518,55.71899],[-116.895645,55.712269],[-116.907578,55.712994],[-116.909981,55.712654]]]],"created":1292453123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/8350_20101215_9826bd8388.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

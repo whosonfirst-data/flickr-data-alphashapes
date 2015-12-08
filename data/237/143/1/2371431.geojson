@@ -1,0 +1,15 @@
+{
+  "id": 2371431,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2371431,
+    "woe:name":"Buenos Aires, Texas, United States",
+    "woe:place_id":"c1xrqzebApsB_JKM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.459923,29.067722,-103.42598,29.086626],
+  "geometry": {"alpha":0.00015,"bbox":[-103.45992279053,29.067722320557,-103.42597961426,29.086626052856],"coordinates":[[[[-103.42598,29.086626],[-103.439713,29.074175],[-103.443146,29.067722],[-103.459923,29.072918],[-103.442459,29.081976],[-103.42598,29.086626]]]],"created":1248065886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3494/shapefiles/2371431_20090720_91db368c56.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

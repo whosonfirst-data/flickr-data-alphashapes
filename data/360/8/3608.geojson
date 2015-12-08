@@ -1,0 +1,15 @@
+{
+  "id": 3608,
+  "type": "Feature",
+  "properties": {
+    "name":"Lac-au-Saumon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3608,
+    "woe:name":"Lac-au-Saumon, Quebec, Canada",
+    "woe:place_id":"KCVSEGSaB5zX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.343636,48.41325,-67.321129,48.431419],
+  "geometry": {"alpha":0.00015,"bbox":[-67.343635559082,48.413249969482,-67.321128845215,48.431419372559],"coordinates":[[[[-67.343636,48.42141],[-67.342606,48.422367],[-67.336922,48.431419],[-67.321129,48.422253],[-67.333832,48.41325],[-67.343636,48.42141]]]],"created":1292450317,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/3608_20101215_5a951ff8b0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745423,
+  "type": "Feature",
+  "properties": {
+    "name":"Heidelberg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745423,
+    "woe:name":"Heidelberg, Pennsylvania, United States",
+    "woe:place_id":"Ye8NsxubCZviMNjjOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.136711,40.347256,-76.122879,40.352547],
+  "geometry": {"alpha":0.00015,"bbox":[-76.136711120605,40.347255706787,-76.12287902832,40.352546691895],"coordinates":[[[[-76.129128,40.350258],[-76.122879,40.350853],[-76.131981,40.347256],[-76.136711,40.352547],[-76.129128,40.350258]]]],"created":1292536940,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/28745423_20101216_10289239d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

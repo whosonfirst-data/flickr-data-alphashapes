@@ -1,0 +1,15 @@
+{
+  "id": 12602679,
+  "type": "Feature",
+  "properties": {
+    "name":"Schoten, Belgium",
+    "placetype":"locality",
+    "woe:id":12602679,
+    "woe:name":"Schoten, Belgium",
+    "woe:place_id":"L6RzwiKYA5rZsS5hvg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.495238,51.26519,4.502476,51.274681],
+  "geometry": {"alpha":1.25e-05,"bbox":[4.495237827301,51.265190124512,4.5024762153625,51.274681091309],"coordinates":[[[[4.499838,51.271969],[4.500532,51.26519],[4.495238,51.269402],[4.497806,51.271301],[4.499785,51.272579],[4.502476,51.274681],[4.499838,51.271969]]]],"created":1292543404,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12602679_20101216_a5cdcc4c5a.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

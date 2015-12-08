@@ -1,0 +1,15 @@
+{
+  "id": 56000022,
+  "type": "Feature",
+  "properties": {
+    "name":"San, Segou, Mali",
+    "placetype":"county",
+    "woe:id":56000022,
+    "woe:name":"San, Segou, Mali",
+    "woe:place_id":"0d0.HeqcB5xAFRMK1Q",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-4.903335,13.294413,-4.897241,13.30594],
+  "geometry": {"alpha":0.0015,"bbox":[-4.9033350944519,13.294412612915,-4.8972411155701,13.305939674377],"coordinates":[[[[-4.900932,13.29575],[-4.903335,13.30594],[-4.898357,13.298005],[-4.897241,13.294413],[-4.900932,13.29575]]]],"created":1292518129,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/56000022_20101216_0fd97233c2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

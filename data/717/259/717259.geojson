@@ -1,0 +1,15 @@
+{
+  "id": 717259,
+  "type": "Feature",
+  "properties": {
+    "name":"Libiola, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":717259,
+    "woe:name":"Libiola, Lombardy, Italy",
+    "woe:place_id":"l9v0eKKeAJudTGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.049499,45.049755,11.071128,45.060364],
+  "geometry": {"alpha":0.00015,"bbox":[11.049498558044,45.049755096436,11.071127891541,45.060363769531],"coordinates":[[[[11.059112,45.058727],[11.063661,45.059639],[11.071128,45.060364],[11.069712,45.051029],[11.051387,45.049755],[11.049499,45.058064],[11.059112,45.058727]]]],"created":1292523969,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/717259_20101216_692de5f380.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12645527,
+  "type": "Feature",
+  "properties": {
+    "name":"Jouhe, France",
+    "placetype":"locality",
+    "woe:id":12645527,
+    "woe:name":"Jouhe, France",
+    "woe:place_id":"Y1Fwz9SYA5rJTP8t2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.491962,47.141567,5.497198,47.149525],
+  "geometry": {"alpha":1e-05,"bbox":[5.4919619560242,47.141567230225,5.4971981048584,47.149524688721],"coordinates":[[[[5.492305,47.143524],[5.491962,47.145554],[5.495738,47.149525],[5.49664,47.147655],[5.497198,47.141567],[5.493507,47.143028],[5.492305,47.143524]]]],"created":1292533403,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12645527_20101216_2c194e51f9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2510150,
+  "type": "Feature",
+  "properties": {
+    "name":"University Park, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2510150,
+    "woe:name":"University Park, New Mexico, United States",
+    "woe:place_id":"sNGVJFKbBJ137XSS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.768875,32.279514,-106.752594,32.285683],
+  "geometry": {"alpha":0.00015,"bbox":[-106.76887512207,32.279514312744,-106.75259399414,32.285682678223],"coordinates":[[[[-106.752594,32.281364],[-106.75956,32.279514],[-106.768875,32.284378],[-106.759987,32.285683],[-106.754318,32.282543],[-106.752594,32.281364]]]],"created":1292478543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2510150_20101216_73085d6ffd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 647813,
+  "type": "Feature",
+  "properties": {
+    "name":"Embsen, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":647813,
+    "woe:name":"Embsen, Lower Saxony, Germany",
+    "woe:place_id":"33nnn2qfBZsNMCM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.023876,53.019341,9.031877,53.03199],
+  "geometry": {"alpha":0.00015,"bbox":[9.0238761901855,53.019340515137,9.0318765640259,53.03199005127],"coordinates":[[[[9.03089,53.019661],[9.02692,53.022457],[9.023876,53.03199],[9.026167,53.030872],[9.030386,53.021149],[9.031877,53.019341],[9.03089,53.019661]]]],"created":1292529318,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/647813_20101216_b59323586f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

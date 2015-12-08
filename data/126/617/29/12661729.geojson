@@ -1,0 +1,15 @@
+{
+  "id": 12661729,
+  "type": "Feature",
+  "properties": {
+    "name":"Francin, France",
+    "placetype":"locality",
+    "woe:id":12661729,
+    "woe:name":"Francin, France",
+    "woe:place_id":"uKhREqmYA5oPL96o5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.022584,45.49736,6.025657,45.501431],
+  "geometry": {"alpha":1e-05,"bbox":[6.0225839614868,45.497360229492,6.0256571769714,45.501430511475],"coordinates":[[[[6.025528,45.5014],[6.025657,45.501308],[6.022584,45.49736],[6.025314,45.501324],[6.025443,45.501431],[6.025528,45.5014]]]],"created":1292551566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12661729_20101217_e8ff915f74.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

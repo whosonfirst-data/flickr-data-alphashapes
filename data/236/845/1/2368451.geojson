@@ -1,0 +1,15 @@
+{
+  "id": 2368451,
+  "type": "Feature",
+  "properties": {
+    "name":"Breezy Point, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2368451,
+    "woe:name":"Breezy Point, Maryland, United States",
+    "woe:place_id":"opC89q2bApoK5SkE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.518913,38.620335,-76.513832,38.624245],
+  "geometry": {"alpha":0.00015,"bbox":[-76.518913269043,38.620334625244,-76.513832092285,38.624244689941],"coordinates":[[[[-76.517899,38.620651],[-76.518913,38.624245],[-76.515915,38.621563],[-76.513832,38.620335],[-76.517899,38.620651]]]],"created":1234715290,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3225/shapefiles/2368451_20090215_392421bd04.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

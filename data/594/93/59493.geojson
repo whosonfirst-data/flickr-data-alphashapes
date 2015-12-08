@@ -1,0 +1,15 @@
+{
+  "id": 59493,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mateo, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59493,
+    "woe:name":"San Mateo, Alajuela, Costa Rica",
+    "woe:place_id":"BR_BrgacCJj3RQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.537392,9.9086,-84.515244,9.937317],
+  "geometry": {"alpha":0.00015,"bbox":[-84.537391662598,9.9085998535156,-84.515243530273,9.9373168945312],"coordinates":[[[[-84.520569,9.928947],[-84.515244,9.921676],[-84.525002,9.9086],[-84.531036,9.91153],[-84.534645,9.916096],[-84.537392,9.923198],[-84.526405,9.930432],[-84.523399,9.937317],[-84.520569,9.928947]]]],"created":1292543593,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/59493_20101216_16864a46f9.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

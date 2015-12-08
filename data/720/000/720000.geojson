@@ -1,0 +1,15 @@
+{
+  "id": 720000,
+  "type": "Feature",
+  "properties": {
+    "name":"Paspardo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":720000,
+    "woe:name":"Paspardo, Lombardy, Italy",
+    "woe:place_id":"jrYmAuKeA5ywjfo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.359935,46.033688,10.368003,46.040649],
+  "geometry": {"alpha":0.00015,"bbox":[10.359934806824,46.033687591553,10.368002891541,46.040649414062],"coordinates":[[[[10.364484,46.033688],[10.359935,46.034157],[10.368003,46.040649],[10.367317,46.03624],[10.364656,46.033798],[10.364484,46.033688]]]],"created":1292491809,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/720000_20101216_deaa26cea4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

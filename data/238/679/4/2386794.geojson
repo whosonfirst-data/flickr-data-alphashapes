@@ -1,0 +1,15 @@
+{
+  "id": 2386794,
+  "type": "Feature",
+  "properties": {
+    "name":"Crawfordsville, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2386794,
+    "woe:name":"Crawfordsville, Iowa, United States",
+    "woe:place_id":"HiNcZTSbApSt_Bch",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.540489,41.207161,-91.529419,41.236317],
+  "geometry": {"alpha":0.00015,"bbox":[-91.540489196777,41.207160949707,-91.529418945312,41.236316680908],"coordinates":[[[[-91.53997,41.214951],[-91.540489,41.215466],[-91.532509,41.236317],[-91.529419,41.220371],[-91.529457,41.207161],[-91.53997,41.214951]]]],"created":1292533335,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2386794_20101216_604b0fd97e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2453080,
+  "type": "Feature",
+  "properties": {
+    "name":"Monrovia, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2453080,
+    "woe:name":"Monrovia, Alabama, United States",
+    "woe:place_id":".B2jViabBZmtcOBU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.688835,34.744633,-86.678581,34.763],
+  "geometry": {"alpha":0.00015,"bbox":[-86.688835144043,34.744632720947,-86.678581237793,34.763000488281],"coordinates":[[[[-86.688499,34.763],[-86.678581,34.756908],[-86.680405,34.744633],[-86.686745,34.759338],[-86.688835,34.763],[-86.688499,34.763]]]],"created":1292526472,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2453080_20101216_d768dd45e0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

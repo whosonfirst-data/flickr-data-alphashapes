@@ -1,0 +1,15 @@
+{
+  "id": 12678668,
+  "type": "Feature",
+  "properties": {
+    "name":"Cinisi, Italy",
+    "placetype":"locality",
+    "woe:id":12678668,
+    "woe:name":"Cinisi, Italy",
+    "woe:place_id":"36r4xmyYA5rvR5V80w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.102462,38.152477,13.113744,38.15733],
+  "geometry": {"alpha":1e-05,"bbox":[13.10246181488,38.152477264404,13.113743782043,38.157329559326],"coordinates":[[[[13.110031,38.154526],[13.107161,38.15329],[13.102462,38.152477],[13.106657,38.156555],[13.108438,38.15733],[13.113744,38.156933],[13.110031,38.154526]]]],"created":1292549505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12678668_20101217_b3e9deffcb.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

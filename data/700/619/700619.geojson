@@ -1,0 +1,15 @@
+{
+  "id": 700619,
+  "type": "Feature",
+  "properties": {
+    "name":"Unnenberg, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":700619,
+    "woe:name":"Unnenberg, North Rhine-Westphalia, Germany",
+    "woe:place_id":"hfFle6WeAZyoQi8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.607131,51.057083,7.6145,51.059292],
+  "geometry": {"alpha":0.00015,"bbox":[7.6071310043335,51.057083129883,7.6145000457764,51.0592918396],"coordinates":[[[[7.607131,51.058208],[7.608268,51.058868],[7.609469,51.059292],[7.6145,51.058941],[7.607173,51.057083],[7.607131,51.058208]]]],"created":1292511069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/700619_20101216_9d05b1dc3d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

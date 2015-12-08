@@ -1,0 +1,15 @@
+{
+  "id": 2402497,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmland, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2402497,
+    "woe:name":"Farmland, Indiana, United States",
+    "woe:place_id":"xS_1gTabBZygYco0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.128891,40.185871,-85.124321,40.194839],
+  "geometry": {"alpha":0.00015,"bbox":[-85.128890991211,40.185871124268,-85.124320983887,40.194839477539],"coordinates":[[[[-85.127609,40.194839],[-85.124321,40.18684],[-85.127571,40.185871],[-85.128723,40.186447],[-85.128891,40.193542],[-85.12851,40.194412],[-85.127609,40.194839]]]],"created":1292530743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2402497_20101216_5ab688150b.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

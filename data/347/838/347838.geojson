@@ -1,0 +1,15 @@
+{
+  "id": 347838,
+  "type": "Feature",
+  "properties": {
+    "name":"Hospital, Santiago Metropolitan Region, Chile",
+    "placetype":"locality",
+    "woe:id":347838,
+    "woe:name":"Hospital, Santiago Metropolitan Region, Chile",
+    "woe:place_id":"qcahNSqaBZsaNwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.75,-33.88538,-70.728416,-33.853882],
+  "geometry": {"alpha":0.00015,"bbox":[-70.75,-33.88537979126,-70.728416442871,-33.853881835938],"coordinates":[[[[-70.738907,-33.871555],[-70.744057,-33.88538],[-70.75,-33.866699],[-70.73925,-33.853882],[-70.728416,-33.858093],[-70.738564,-33.870842],[-70.738907,-33.871555]]]],"created":1292550708,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/347838_20101217_39a1fb2732.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

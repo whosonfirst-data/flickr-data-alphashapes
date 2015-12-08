@@ -1,0 +1,15 @@
+{
+  "id": 28835475,
+  "type": "Feature",
+  "properties": {
+    "name":"Whilborough, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28835475,
+    "woe:name":"Whilborough, England, United Kingdom",
+    "woe:place_id":".CTHptWbCZQ03UnUMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.584961,50.478973,-3.569274,50.491814],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5849609375,50.478973388672,-3.5692739486694,50.491813659668],"coordinates":[[[[-3.569274,50.479496],[-3.57306,50.478973],[-3.584961,50.491814],[-3.58427,50.491798],[-3.572346,50.486095],[-3.569274,50.479496]]]],"created":1292446292,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/28835475_20101215_6fa62643a4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

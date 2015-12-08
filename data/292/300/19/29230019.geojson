@@ -1,0 +1,15 @@
+{
+  "id": 29230019,
+  "type": "Feature",
+  "properties": {
+    "name":"Northridge, Milwaukee, WI, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":29230019,
+    "woe:name":"Northridge, Milwaukee, WI, US, United States",
+    "woe:place_id":"cloqbgSbCJ47qoCwtQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-88.011925,43.181396,-88.009239,43.182571],
+  "geometry": {"alpha":1e-05,"bbox":[-88.011924743652,43.181396484375,-88.009239196777,43.182571411133],"coordinates":[[[[-88.009811,43.182571],[-88.009239,43.181396],[-88.010735,43.181862],[-88.011925,43.181786],[-88.009811,43.182571]]]],"created":1292481843,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/29230019_20101216_e80a214f28.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

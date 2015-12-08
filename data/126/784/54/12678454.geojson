@@ -1,0 +1,15 @@
+{
+  "id": 12678454,
+  "type": "Feature",
+  "properties": {
+    "name":"Cembra, Italy",
+    "placetype":"locality",
+    "woe:id":12678454,
+    "woe:name":"Cembra, Italy",
+    "woe:place_id":"X5VqciqYA5q5xnMsJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.203093,46.195999,11.210303,46.201813],
+  "geometry": {"alpha":1e-05,"bbox":[11.203092575073,46.195999145508,11.21030330658,46.201812744141],"coordinates":[[[[11.205499,46.197666],[11.209831,46.201813],[11.210303,46.199142],[11.209499,46.196167],[11.2065,46.195999],[11.203093,46.197372],[11.205499,46.197666]]]],"created":1292530932,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12678454_20101216_8910608aeb.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

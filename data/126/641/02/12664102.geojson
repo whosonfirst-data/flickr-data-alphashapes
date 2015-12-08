@@ -1,0 +1,15 @@
+{
+  "id": 12664102,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vernaz, France",
+    "placetype":"locality",
+    "woe:id":12664102,
+    "woe:name":"La Vernaz, France",
+    "woe:place_id":"rSLeabmYA5rBWokUhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.612954,46.304134,6.616888,46.308048],
+  "geometry": {"alpha":1e-05,"bbox":[6.6129541397095,46.304134368896,6.6168880462646,46.308048248291],"coordinates":[[[[6.616838,46.306591],[6.616888,46.30526],[6.616344,46.304134],[6.614027,46.306328],[6.612954,46.308048],[6.616838,46.306591]]]],"created":1292530118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12664102_20101216_6e5dcd3320.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

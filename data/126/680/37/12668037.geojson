@@ -1,0 +1,15 @@
+{
+  "id": 12668037,
+  "type": "Feature",
+  "properties": {
+    "name":"Parnay, France",
+    "placetype":"locality",
+    "woe:id":12668037,
+    "woe:name":"Parnay, France",
+    "woe:place_id":"pQMb2ImYA5pg.jYRdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.007038,47.225281,0.011311,47.231461],
+  "geometry": {"alpha":1e-05,"bbox":[0.0070380000397563,47.225280761719,0.011311000213027,47.231460571289],"coordinates":[[[[0.008185,47.231461],[0.009152,47.231102],[0.011311,47.230785],[0.009527,47.226444],[0.007038,47.225281],[0.008161,47.231304],[0.008185,47.231461]]]],"created":1292525696,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12668037_20101216_25eeee28d5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 583096,
+  "type": "Feature",
+  "properties": {
+    "name":"Carnac, Midi-Pyrenees, France",
+    "placetype":"locality",
+    "woe:id":583096,
+    "woe:name":"Carnac, Midi-Pyrenees, France",
+    "woe:place_id":"C70a_GacCZ_4ntw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.222743,44.398731,1.233515,44.413521],
+  "geometry": {"alpha":0.00015,"bbox":[1.2227430343628,44.398731231689,1.2335150241852,44.413520812988],"coordinates":[[[[1.233515,44.398731],[1.222743,44.404476],[1.231189,44.413521],[1.232625,44.404434],[1.233515,44.398731]]]],"created":1292443518,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/583096_20101215_6bcb74489e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

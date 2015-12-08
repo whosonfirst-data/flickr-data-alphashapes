@@ -1,0 +1,15 @@
+{
+  "id": 1106111,
+  "type": "Feature",
+  "properties": {
+    "name":"Toongabbie, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1106111,
+    "woe:name":"Toongabbie, Victoria, Australia",
+    "woe:place_id":"R7WWAvaYAJwBAncJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.621826,-38.060181,146.632996,-38.058228],
+  "geometry": {"alpha":0.00015,"bbox":[146.62182617188,-38.060180664062,146.63299560547,-38.058227539062],"coordinates":[[[[146.623184,-38.058464],[146.632996,-38.059666],[146.624695,-38.060181],[146.621826,-38.059334],[146.622589,-38.058228],[146.623184,-38.058464]]]],"created":1292454037,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/1106111_20101215_8f86e6185b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2523013,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodcroft, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2523013,
+    "woe:name":"Woodcroft, Maryland, United States",
+    "woe:place_id":"41f6crebBJ4qqW2m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.543465,39.389286,-76.538666,39.393929],
+  "geometry": {"alpha":0.00015,"bbox":[-76.543464660645,39.38928604126,-76.538665771484,39.393928527832],"coordinates":[[[[-76.543289,39.390171],[-76.543465,39.393753],[-76.540215,39.393929],[-76.538666,39.391472],[-76.542488,39.389286],[-76.543289,39.390171]]]],"created":1292454443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2523013_20101215_8380a28ed7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

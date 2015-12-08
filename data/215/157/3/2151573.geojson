@@ -1,0 +1,15 @@
+{
+  "id": 2151573,
+  "type": "Feature",
+  "properties": {
+    "name":"Shanghai, Shanghai, China",
+    "placetype":"locality",
+    "woe:id":2151573,
+    "woe:name":"Shanghai, Shanghai, China",
+    "woe:place_id":"BAVKJ9ebAJlP43Ni",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.495987,31.293514,121.510162,31.319071],
+  "geometry": {"alpha":0.00015,"bbox":[121.49598693848,31.293514251709,121.51016235352,31.31907081604],"coordinates":[[[[121.508446,31.305176],[121.498489,31.293514],[121.497833,31.297028],[121.495987,31.308397],[121.505013,31.319071],[121.510162,31.311407],[121.508446,31.305176]]]],"created":1292526374,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2151573_20101216_7c398f0aba.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

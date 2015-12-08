@@ -1,0 +1,15 @@
+{
+  "id": 109762,
+  "type": "Feature",
+  "properties": {
+    "name":"Reach, Portland, Jamaica",
+    "placetype":"locality",
+    "woe:id":109762,
+    "woe:name":"Reach, Portland, Jamaica",
+    "woe:place_id":"JyPfN9eYAZVFekA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.303261,18.024527,-76.281509,18.035545],
+  "geometry": {"alpha":0.00015,"bbox":[-76.303260803223,18.024526596069,-76.281509399414,18.035545349121],"coordinates":[[[[-76.303261,18.027521],[-76.303246,18.027527],[-76.293182,18.035545],[-76.281509,18.033258],[-76.297562,18.024527],[-76.303253,18.027517],[-76.303261,18.027521]]]],"created":1292524577,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/109762_20101216_4f7173bc6b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

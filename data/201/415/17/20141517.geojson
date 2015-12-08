@@ -1,0 +1,15 @@
+{
+  "id": 20141517,
+  "type": "Feature",
+  "properties": {
+    "name":"San Maiano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20141517,
+    "woe:name":"San Maiano, Umbria, Italy",
+    "woe:place_id":"d9H6MqObAZ2mIm73tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.245691,43.388332,12.261943,43.412968],
+  "geometry": {"alpha":0.00015,"bbox":[12.245691299438,43.388332366943,12.261942863464,43.412967681885],"coordinates":[[[[12.261943,43.392574],[12.256793,43.392948],[12.245691,43.388332],[12.255935,43.393448],[12.253532,43.412968],[12.261943,43.392574]]]],"created":1292449183,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20141517_20101215_a29436f154.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 713186,
+  "type": "Feature",
+  "properties": {
+    "name":"Castagneto Po, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":713186,
+    "woe:name":"Castagneto Po, Piedmont, Italy",
+    "woe:place_id":"VzJ1FmeeAJ_J0F4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.881284,45.148994,7.889728,45.162914],
+  "geometry": {"alpha":0.00015,"bbox":[7.881284236908,45.148994445801,7.8897280693054,45.162914276123],"coordinates":[[[[7.889728,45.16116],[7.889385,45.160191],[7.885608,45.148994],[7.881284,45.155357],[7.885265,45.162914],[7.888355,45.162067],[7.889728,45.16116]]]],"created":1292533107,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/713186_20101216_001da69855.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

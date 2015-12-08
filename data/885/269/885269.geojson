@@ -1,0 +1,15 @@
+{
+  "id": 885269,
+  "type": "Feature",
+  "properties": {
+    "name":"Ask, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":885269,
+    "woe:name":"Ask, Skane, Sweden",
+    "woe:place_id":"F9uowxKRCZnJlCM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.1985,55.97155,13.20306,55.989491],
+  "geometry": {"alpha":0.00015,"bbox":[13.198499679565,55.971549987793,13.203060150146,55.989490509033],"coordinates":[[[[13.1985,55.983002],[13.20306,55.989491],[13.20305,55.989449],[13.202219,55.97155],[13.1985,55.983002]]]],"created":1292521965,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/885269_20101216_922598a280.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

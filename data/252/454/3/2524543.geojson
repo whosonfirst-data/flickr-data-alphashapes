@@ -1,0 +1,15 @@
+{
+  "id": 2524543,
+  "type": "Feature",
+  "properties": {
+    "name":"Yankton, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2524543,
+    "woe:name":"Yankton, Oregon, United States",
+    "woe:place_id":"pch5bAqbBJ5OQuuf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.888603,45.865929,-122.876541,45.872917],
+  "geometry": {"alpha":0.00015,"bbox":[-122.88860321045,45.865928649902,-122.8765411377,45.872917175293],"coordinates":[[[[-122.887444,45.868061],[-122.888603,45.872917],[-122.876541,45.867195],[-122.878113,45.865929],[-122.887077,45.86787],[-122.887444,45.868061]]]],"created":1292542276,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2524543_20101216_580ea0789e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

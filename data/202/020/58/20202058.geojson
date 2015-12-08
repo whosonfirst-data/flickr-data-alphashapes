@@ -1,0 +1,15 @@
+{
+  "id": 20202058,
+  "type": "Feature",
+  "properties": {
+    "name":"Tomino, Corsica, France",
+    "placetype":"locality",
+    "woe:id":20202058,
+    "woe:name":"Tomino, Corsica, France",
+    "woe:place_id":"B6gw_MqbAZ5Pk7X2OQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.431419,42.945457,9.454936,42.959564],
+  "geometry": {"alpha":0.00015,"bbox":[9.4314193725586,42.945457458496,9.4549360275269,42.959564208984],"coordinates":[[[[9.437534,42.945457],[9.431419,42.956169],[9.452533,42.959564],[9.454936,42.957806],[9.44292,42.945885],[9.437534,42.945457]]]],"created":1292462702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/20202058_20101216_6c94ef8dbf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

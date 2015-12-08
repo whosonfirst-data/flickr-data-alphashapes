@@ -1,0 +1,15 @@
+{
+  "id": 2458621,
+  "type": "Feature",
+  "properties": {
+    "name":"New Laguna, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2458621,
+    "woe:name":"New Laguna, New Mexico, United States",
+    "woe:place_id":"vaNGQwKbBZlxEnr5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.410744,35.026619,-107.403374,35.048126],
+  "geometry": {"alpha":0.00015,"bbox":[-107.41074371338,35.02661895752,-107.40337371826,35.048126220703],"coordinates":[[[[-107.408333,35.037518],[-107.405174,35.046387],[-107.403374,35.048126],[-107.407753,35.036144],[-107.410744,35.026619],[-107.408333,35.037518]]]],"created":1292518677,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2458621_20101216_40d54bfb72.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

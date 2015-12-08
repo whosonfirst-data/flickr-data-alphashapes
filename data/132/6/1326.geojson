@@ -1,0 +1,15 @@
+{
+  "id": 1326,
+  "type": "Feature",
+  "properties": {
+    "name":"Rexton, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":1326,
+    "woe:name":"Rexton, New Brunswick, Canada",
+    "woe:place_id":"j4iqavuYAp4C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.872894,46.641834,-64.864227,46.644897],
+  "geometry": {"alpha":0.00015,"bbox":[-64.872894287109,46.641834259033,-64.864227294922,46.644897460938],"coordinates":[[[[-64.865768,46.644897],[-64.864479,46.642246],[-64.864227,46.641834],[-64.871864,46.643188],[-64.872894,46.644016],[-64.865768,46.644897]]]],"created":1292438041,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/1326_20101215_f1e922e71d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

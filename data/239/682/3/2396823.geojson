@@ -1,0 +1,15 @@
+{
+  "id": 2396823,
+  "type": "Feature",
+  "properties": {
+    "name":"Echo, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2396823,
+    "woe:name":"Echo, Washington, United States",
+    "woe:place_id":"H9_HqaWbApU_08MW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.900208,48.613781,-117.898148,48.61515],
+  "geometry": {"alpha":0.00015,"bbox":[-117.90020751953,48.613780975342,-117.89814758301,48.61515045166],"coordinates":[[[[-117.899406,48.613781],[-117.899567,48.613781],[-117.900208,48.61515],[-117.898148,48.614044],[-117.899406,48.613781]]]],"created":1292542203,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2396823_20101216_c59b68058b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

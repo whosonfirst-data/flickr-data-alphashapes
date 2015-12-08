@@ -1,0 +1,15 @@
+{
+  "id": 2379643,
+  "type": "Feature",
+  "properties": {
+    "name":"Chichester, New York, United States",
+    "placetype":"locality",
+    "woe:id":2379643,
+    "woe:name":"Chichester, New York, United States",
+    "woe:place_id":"lI5qSeabApuKQE8D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.299667,42.102261,-74.280571,42.112774],
+  "geometry": {"alpha":0.00015,"bbox":[-74.299667358398,42.1022605896,-74.280570983887,42.112773895264],"coordinates":[[[[-74.299248,42.102551],[-74.29509,42.104813],[-74.280571,42.112774],[-74.293716,42.103157],[-74.299667,42.102261],[-74.299248,42.102551]]]],"created":1292451664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2379643_20101215_22647ec76a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

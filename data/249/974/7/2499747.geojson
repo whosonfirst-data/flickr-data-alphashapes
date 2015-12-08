@@ -1,0 +1,15 @@
+{
+  "id": 2499747,
+  "type": "Feature",
+  "properties": {
+    "name":"Stevens Lake, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2499747,
+    "woe:name":"Stevens Lake, Washington, United States",
+    "woe:place_id":"hZ2U0pGbBZW3bhDW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.067558,48.014107,-122.057243,48.018822],
+  "geometry": {"alpha":0.00015,"bbox":[-122.06755828857,48.014106750488,-122.05724334717,48.018821716309],"coordinates":[[[[-122.067558,48.018822],[-122.057243,48.015419],[-122.061623,48.015335],[-122.067055,48.014107],[-122.067558,48.018822]]]],"created":1234844054,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3189/shapefiles/2499747_20090217_c430a33d4a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

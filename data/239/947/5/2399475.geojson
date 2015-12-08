@@ -1,0 +1,15 @@
+{
+  "id": 2399475,
+  "type": "Feature",
+  "properties": {
+    "name":"Emmit Ridge, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2399475,
+    "woe:name":"Emmit Ridge, Maryland, United States",
+    "woe:place_id":"UTIYOvCbApWOr5XE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.331123,39.703197,-77.327553,39.706528],
+  "geometry": {"alpha":0.00015,"bbox":[-77.331123352051,39.703197479248,-77.32755279541,39.706527709961],"coordinates":[[[[-77.327675,39.705532],[-77.327553,39.703197],[-77.331123,39.705364],[-77.331108,39.705677],[-77.328468,39.706528],[-77.327675,39.705532]]]],"created":1292534763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2399475_20101216_3047aec301.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

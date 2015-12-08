@@ -1,0 +1,15 @@
+{
+  "id": 23394375,
+  "type": "Feature",
+  "properties": {
+    "name":"Girardville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394375,
+    "woe:name":"Girardville, Quebec, Canada",
+    "woe:place_id":"dj9lZ_abAp.JaDHKOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.59388,49.009502,-72.572166,49.023575],
+  "geometry": {"alpha":0.00015,"bbox":[-72.593879699707,49.009502410889,-72.572166442871,49.023574829102],"coordinates":[[[[-72.579376,49.02346],[-72.572166,49.023575],[-72.57946,49.009502],[-72.590271,49.016933],[-72.59388,49.019127],[-72.579376,49.02346]]]],"created":1292534726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/23394375_20101216_599885f567.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

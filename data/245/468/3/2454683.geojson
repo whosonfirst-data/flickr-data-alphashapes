@@ -1,0 +1,15 @@
+{
+  "id": 2454683,
+  "type": "Feature",
+  "properties": {
+    "name":"Mound, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2454683,
+    "woe:name":"Mound, North Dakota, United States",
+    "woe:place_id":"QFNrVzybBZkdZ3CW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.717674,46.396023,-103.717255,46.396141],
+  "geometry": {"alpha":0.00015,"bbox":[-103.71767425537,46.396022796631,-103.71725463867,46.396141052246],"coordinates":[[[[-103.717255,46.396118],[-103.717285,46.396095],[-103.717674,46.396023],[-103.717354,46.396141],[-103.717285,46.396126],[-103.717255,46.396118]]]],"created":1292460304,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2454683_20101216_72894235b6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

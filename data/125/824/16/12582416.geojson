@@ -1,0 +1,15 @@
+{
+  "id": 12582416,
+  "type": "Feature",
+  "properties": {
+    "name":"Lagarto, Sergipe, Brazil",
+    "placetype":"county",
+    "woe:id":12582416,
+    "woe:name":"Lagarto, Sergipe, Brazil",
+    "woe:place_id":".mG6H3KYA5nddUyntg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-37.677612,-10.946585,-37.63092,-10.896693],
+  "geometry": {"alpha":0.0015,"bbox":[-37.677612304688,-10.946584701538,-37.630920410156,-10.896693229675],"coordinates":[[[[-37.652893,-10.907481],[-37.63092,-10.946585],[-37.659073,-10.917595],[-37.677612,-10.896693],[-37.667484,-10.901329],[-37.652893,-10.907481]]]],"created":1292501282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12582416_20101216_ef62e83226.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

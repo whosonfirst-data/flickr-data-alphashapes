@@ -1,0 +1,15 @@
+{
+  "id": 3105,
+  "type": "Feature",
+  "properties": {
+    "name":"White River, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3105,
+    "woe:name":"White River, Ontario, Canada",
+    "woe:place_id":"f2KMMeCaAJyq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.289955,48.588589,-85.26506,48.607944],
+  "geometry": {"alpha":0.00015,"bbox":[-85.28995513916,48.5885887146,-85.265060424805,48.607944488525],"coordinates":[[[[-85.273003,48.592262],[-85.275963,48.59137],[-85.282913,48.589325],[-85.284462,48.588589],[-85.289955,48.598408],[-85.289612,48.606583],[-85.279442,48.595428],[-85.26506,48.607944],[-85.273003,48.592262]]]],"created":1292532433,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/3105_20101216_6bfcfef87a.tar.gz"},"points":43,"type":"MultiPolygon"}
+}

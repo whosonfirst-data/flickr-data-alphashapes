@@ -1,0 +1,15 @@
+{
+  "id": 3423,
+  "type": "Feature",
+  "properties": {
+    "name":"Clermont, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3423,
+    "woe:name":"Clermont, Quebec, Canada",
+    "woe:place_id":"dbdJZgGaBZ5W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.246582,47.693256,-70.220573,47.706585],
+  "geometry": {"alpha":0.00015,"bbox":[-70.24658203125,47.693256378174,-70.220573425293,47.70658493042],"coordinates":[[[[-70.234932,47.700722],[-70.246582,47.702137],[-70.240318,47.706585],[-70.231133,47.703293],[-70.220573,47.694283],[-70.224663,47.693256],[-70.234932,47.700722]]]],"created":1248137049,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3523/shapefiles/3423_20090721_17bc2a0cf2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

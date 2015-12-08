@@ -1,0 +1,15 @@
+{
+  "id": 2448572,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadow Ridge, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2448572,
+    "woe:name":"Meadow Ridge, Maryland, United States",
+    "woe:place_id":"qukA8subBZjzGxnM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.57515,39.511292,-77.568199,39.514851],
+  "geometry": {"alpha":0.00015,"bbox":[-77.575149536133,39.511291503906,-77.568199157715,39.514850616455],"coordinates":[[[[-77.568817,39.513195],[-77.568199,39.511292],[-77.57515,39.511456],[-77.57251,39.514851],[-77.569481,39.514038],[-77.568817,39.513195]]]],"created":1292544330,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2448572_20101217_76d1426d5c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12676440,
+  "type": "Feature",
+  "properties": {
+    "name":"Bagni di Lucca, Italy",
+    "placetype":"locality",
+    "woe:id":12676440,
+    "woe:name":"Bagni di Lucca, Italy",
+    "woe:place_id":"Cq.zoGaYA5pj4yeUyg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.58773,44.00399,10.593223,44.01226],
+  "geometry": {"alpha":1e-05,"bbox":[10.587730407715,44.00399017334,10.593222618103,44.012260437012],"coordinates":[[[[10.590991,44.009979],[10.593223,44.01226],[10.591163,44.008743],[10.58773,44.00399],[10.589232,44.009453],[10.590991,44.009979]]]],"created":1292551431,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12676440_20101217_d6c3dec07a.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

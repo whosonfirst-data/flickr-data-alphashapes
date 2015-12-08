@@ -1,0 +1,15 @@
+{
+  "id": 2489700,
+  "type": "Feature",
+  "properties": {
+    "name":"Schoenchen, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2489700,
+    "woe:name":"Schoenchen, Kansas, United States",
+    "woe:place_id":"nuVKGL6bBZT0_iHa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.338379,38.703732,-99.312927,38.725834],
+  "geometry": {"alpha":0.00015,"bbox":[-99.33837890625,38.703731536865,-99.312927246094,38.725833892822],"coordinates":[[[[-99.338379,38.711967],[-99.332199,38.722954],[-99.332497,38.725834],[-99.312927,38.718575],[-99.323273,38.703732],[-99.338379,38.711967]]]],"created":1292518808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2489700_20101216_c5564b796b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

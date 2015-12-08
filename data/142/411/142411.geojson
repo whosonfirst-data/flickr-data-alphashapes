@@ -1,0 +1,15 @@
+{
+  "id": 142411,
+  "type": "Feature",
+  "properties": {
+    "name":"San Fernando, Tamaulipas, Mexico",
+    "placetype":"locality",
+    "woe:id":142411,
+    "woe:name":"San Fernando, Tamaulipas, Mexico",
+    "woe:place_id":"J1v6GnmYBZ7tIlY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.162758,24.832817,-98.153831,24.850615],
+  "geometry": {"alpha":0.00015,"bbox":[-98.162757873535,24.832817077637,-98.153831481934,24.850614547729],"coordinates":[[[[-98.156898,24.844801],[-98.153831,24.832817],[-98.161812,24.841969],[-98.162758,24.848434],[-98.156487,24.850615],[-98.156898,24.844801]]]],"created":1292522764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/142411_20101216_2b7c909df4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

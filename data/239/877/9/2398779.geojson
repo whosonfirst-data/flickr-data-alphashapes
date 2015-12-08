@@ -1,0 +1,15 @@
+{
+  "id": 2398779,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellisburg, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2398779,
+    "woe:name":"Ellisburg, New Jersey, United States",
+    "woe:place_id":"n6DfcJebApUpGnIi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.013985,39.912888,-75.005455,39.916965],
+  "geometry": {"alpha":0.00015,"bbox":[-75.013984680176,39.912887573242,-75.00545501709,39.916965484619],"coordinates":[[[[-75.013985,39.913998],[-75.011642,39.916058],[-75.006554,39.916965],[-75.005455,39.912888],[-75.012299,39.913898],[-75.013985,39.913998]]]],"created":1292543695,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2398779_20101216_6d50fe1d10.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

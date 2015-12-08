@@ -1,0 +1,15 @@
+{
+  "id": 2450377,
+  "type": "Feature",
+  "properties": {
+    "name":"Middletown, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2450377,
+    "woe:name":"Middletown, Indiana, United States",
+    "woe:place_id":"jGK9XC2bBZmQHAbE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.543228,40.046146,-85.524704,40.064133],
+  "geometry": {"alpha":0.00015,"bbox":[-85.543228149414,40.046146392822,-85.524703979492,40.06413269043],"coordinates":[[[[-85.533287,40.046146],[-85.537537,40.054333],[-85.543228,40.064133],[-85.539413,40.063148],[-85.524704,40.057838],[-85.533287,40.046146]]]],"created":1292521179,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2450377_20101216_bb7d374cfd.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

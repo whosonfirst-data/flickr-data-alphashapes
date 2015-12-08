@@ -1,0 +1,15 @@
+{
+  "id": 2472302,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Meadow, Connecticut, United States",
+    "placetype":"locality",
+    "woe:id":2472302,
+    "woe:name":"Pine Meadow, Connecticut, United States",
+    "woe:place_id":"9wI.Z_mbBZvkrO_O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.978683,41.871479,-72.960045,41.893681],
+  "geometry": {"alpha":0.00015,"bbox":[-72.97868347168,41.871479034424,-72.96004486084,41.89368057251],"coordinates":[[[[-72.965668,41.880665],[-72.965355,41.871479],[-72.977379,41.87735],[-72.978683,41.885422],[-72.960045,41.893681],[-72.965668,41.880665]]]],"created":1292524928,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2472302_20101216_65346776b3.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

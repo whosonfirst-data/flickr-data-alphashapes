@@ -1,0 +1,15 @@
+{
+  "id": 12610012,
+  "type": "Feature",
+  "properties": {
+    "name":"Chudenice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12610012,
+    "woe:name":"Chudenice, Czech Republic",
+    "woe:place_id":"GGMdpiKYA5qQniwN0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.158011,49.461681,13.159003,49.462128],
+  "geometry": {"alpha":1e-05,"bbox":[13.158011436462,49.461681365967,13.159003257751,49.462127685547],"coordinates":[[[[13.158703,49.462128],[13.159003,49.461781],[13.158547,49.461681],[13.158011,49.461967],[13.158252,49.462067],[13.158703,49.462128]]]],"created":1234552209,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3344/shapefiles/12610012_20090213_4db5ca82ef.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

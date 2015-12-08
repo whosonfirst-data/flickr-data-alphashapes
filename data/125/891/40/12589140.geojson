@@ -1,0 +1,15 @@
+{
+  "id": 12589140,
+  "type": "Feature",
+  "properties": {
+    "name":"Arthur County, Nebraska, United States",
+    "placetype":"county",
+    "woe:id":12589140,
+    "woe:name":"Arthur County, Nebraska, United States",
+    "woe:place_id":"JNPGAhOYA5ny9UWeVQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-101.698738,41.568645,-101.668854,41.614414],
+  "geometry": {"alpha":0.0015,"bbox":[-101.69873809814,41.568645477295,-101.66885375977,41.614414215088],"coordinates":[[[[-101.690353,41.570042],[-101.698738,41.568645],[-101.690903,41.574215],[-101.668854,41.614414],[-101.688538,41.570812],[-101.690353,41.570042]]]],"created":1248008288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2437/shapefiles/12589140_20090719_956056c950.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

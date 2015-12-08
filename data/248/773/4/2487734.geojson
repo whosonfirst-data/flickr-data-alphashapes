@@ -1,0 +1,15 @@
+{
+  "id": 2487734,
+  "type": "Feature",
+  "properties": {
+    "name":"Sample, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2487734,
+    "woe:name":"Sample, Colorado, United States",
+    "woe:place_id":"GsGJK0ybBZRz8g8M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.362236,38.46851,-105.341721,38.482082],
+  "geometry": {"alpha":0.00015,"bbox":[-105.36223602295,38.468509674072,-105.34172058105,38.482082366943],"coordinates":[[[[-105.357841,38.47411],[-105.35923,38.474689],[-105.362236,38.47657],[-105.349098,38.482082],[-105.341721,38.46851],[-105.346695,38.468575],[-105.353561,38.472271],[-105.355766,38.473179],[-105.357841,38.47411]]]],"created":1292529542,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2487734_20101216_5585eb99fc.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 114053,
+  "type": "Feature",
+  "properties": {
+    "name":"Cadereyta, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":114053,
+    "woe:name":"Cadereyta, Nuevo Leon, Mexico",
+    "woe:place_id":"nc_M2WmYAJiXgjE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.002876,25.583555,-99.997559,25.592274],
+  "geometry": {"alpha":0.00015,"bbox":[-100.00287628174,25.583555221558,-99.99755859375,25.592273712158],"coordinates":[[[[-99.999809,25.592274],[-99.997559,25.58704],[-99.998833,25.584614],[-100.000992,25.583555],[-100.002876,25.590445],[-99.999809,25.592274]]]],"created":1248310092,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3456/shapefiles/114053_20090723_77a15b100b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

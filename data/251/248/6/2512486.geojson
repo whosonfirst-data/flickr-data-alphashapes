@@ -1,0 +1,15 @@
+{
+  "id": 2512486,
+  "type": "Feature",
+  "properties": {
+    "name":"Vinemont, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2512486,
+    "woe:name":"Vinemont, Alabama, United States",
+    "woe:place_id":"dUeW8KebBJ1BN60D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.874336,34.247669,-86.851921,34.268257],
+  "geometry": {"alpha":0.00015,"bbox":[-86.874336242676,34.247669219971,-86.851921081543,34.268257141113],"coordinates":[[[[-86.861305,34.268257],[-86.859962,34.267403],[-86.851921,34.257195],[-86.861237,34.247669],[-86.874336,34.264],[-86.861305,34.268257]]]],"created":1292537412,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2512486_20101216_a604229968.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

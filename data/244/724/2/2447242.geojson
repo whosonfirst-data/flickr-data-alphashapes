@@ -1,0 +1,15 @@
+{
+  "id": 2447242,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayflower, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2447242,
+    "woe:name":"Mayflower, Louisiana, United States",
+    "woe:place_id":"H_u13vubBZij.Kmi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.395523,31.952499,-91.389442,31.962721],
+  "geometry": {"alpha":0.00015,"bbox":[-91.395523071289,31.952499389648,-91.389442443848,31.962720870972],"coordinates":[[[[-91.390831,31.952499],[-91.395523,31.962721],[-91.390114,31.957989],[-91.389442,31.953611],[-91.390556,31.952499],[-91.390831,31.952499]]]],"created":1292444896,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2447242_20101215_d3bc746af4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

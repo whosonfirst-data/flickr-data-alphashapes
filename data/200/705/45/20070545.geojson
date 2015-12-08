@@ -1,0 +1,15 @@
+{
+  "id": 20070545,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marino, SM, San Marino",
+    "placetype":"region",
+    "woe:id":20070545,
+    "woe:name":"San Marino, SM, San Marino",
+    "woe:place_id":"beCXPeSbAZyX9h0XeA",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [12.341389,43.897491,12.500896,43.982006],
+  "geometry": {"alpha":0.03,"bbox":[12.341388702393,43.897491455078,12.500896453857,43.982006072998],"coordinates":[[[[12.451457,43.9272],[12.446136,43.925838],[12.432403,43.925594],[12.341389,43.897491],[12.424249,43.943672],[12.480468,43.97694],[12.495918,43.980835],[12.500896,43.982006],[12.471542,43.93404],[12.451457,43.9272]]]],"created":1292440470,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/20070545_20101215_063dae5fd6.tar.gz"},"points":381,"type":"MultiPolygon"}
+}

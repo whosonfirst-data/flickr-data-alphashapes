@@ -1,0 +1,15 @@
+{
+  "id": 2498030,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Meadows, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2498030,
+    "woe:name":"Spring Meadows, Maryland, United States",
+    "woe:place_id":"IJdnRX2bBZUNujQt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.309845,39.097561,-77.291832,39.103165],
+  "geometry": {"alpha":0.00015,"bbox":[-77.309844970703,39.097560882568,-77.291831970215,39.103164672852],"coordinates":[[[[-77.3088,39.101444],[-77.291832,39.103165],[-77.307442,39.097561],[-77.309845,39.100094],[-77.309021,39.101421],[-77.3088,39.101444]]]],"created":1292524346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2498030_20101216_f743deff83.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

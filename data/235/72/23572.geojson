@@ -1,0 +1,15 @@
+{
+  "id": 23572,
+  "type": "Feature",
+  "properties": {
+    "name":"Hitcham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23572,
+    "woe:name":"Hitcham, England, United Kingdom",
+    "woe:place_id":"JP.aPZabAplRpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.890343,52.121841,0.900192,52.125481],
+  "geometry": {"alpha":0.00015,"bbox":[0.89034301042557,52.121841430664,0.90019202232361,52.125480651855],"coordinates":[[[[0.89828,52.12537],[0.900192,52.125481],[0.90002,52.124424],[0.897703,52.121841],[0.890343,52.122372],[0.897531,52.125305],[0.89828,52.12537]]]],"created":1292529660,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/23572_20101216_a514de879e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

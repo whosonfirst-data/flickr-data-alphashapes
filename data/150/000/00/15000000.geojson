@@ -1,0 +1,15 @@
+{
+  "id": 15000000,
+  "type": "Feature",
+  "properties": {
+    "name":"Braunau, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":15000000,
+    "woe:name":"Braunau, Upper Austria, Austria",
+    "woe:place_id":"o22iuuOYBJzFU6MC0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.019528,48.242523,13.065794,48.269482],
+  "geometry": {"alpha":0.00015,"bbox":[13.019528388977,48.242523193359,13.065793991089,48.269481658936],"coordinates":[[[[13.038368,48.262096],[13.038883,48.261799],[13.047809,48.258827],[13.065794,48.266548],[13.055427,48.245968],[13.044869,48.242523],[13.038818,48.24781],[13.033454,48.250027],[13.03045,48.252525],[13.022575,48.26297],[13.019528,48.266567],[13.025058,48.268654],[13.032531,48.269482],[13.038368,48.262096]]]],"created":1292452144,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/15000000_20101215_7bb1f0212f.tar.gz"},"points":62,"type":"MultiPolygon"}
+}

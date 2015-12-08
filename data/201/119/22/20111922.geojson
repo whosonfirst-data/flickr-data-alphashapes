@@ -1,0 +1,15 @@
+{
+  "id": 20111922,
+  "type": "Feature",
+  "properties": {
+    "name":"Bojon, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20111922,
+    "woe:name":"Bojon, Veneto, Italy",
+    "woe:place_id":"UEf7TlSbAZ3xYZMf.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.053718,45.33791,12.067043,45.349369],
+  "geometry": {"alpha":0.00015,"bbox":[12.05371761322,45.337909698486,12.067043304443,45.349369049072],"coordinates":[[[[12.067043,45.349369],[12.06416,45.33791],[12.063681,45.338169],[12.05595,45.340923],[12.053718,45.344181],[12.067043,45.349369]]]],"created":1292441616,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20111922_20101215_53a1d09621.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

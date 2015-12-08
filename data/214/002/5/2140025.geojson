@@ -1,0 +1,15 @@
+{
+  "id": 2140025,
+  "type": "Feature",
+  "properties": {
+    "name":"Luozhou, Fujian, China",
+    "placetype":"locality",
+    "woe:id":2140025,
+    "woe:name":"Luozhou, Fujian, China",
+    "woe:place_id":"KeIj7iabAJiazX9q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [119.496475,25.958277,119.516235,25.968307],
+  "geometry": {"alpha":0.00015,"bbox":[119.49647521973,25.958276748657,119.51623535156,25.968307495117],"coordinates":[[[[119.516235,25.960213],[119.514687,25.958277],[119.496475,25.958656],[119.504295,25.968307],[119.514343,25.966225],[119.516235,25.960213]]]],"created":1292528209,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2140025_20101216_cb35864519.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

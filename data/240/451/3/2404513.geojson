@@ -1,0 +1,15 @@
+{
+  "id": 2404513,
+  "type": "Feature",
+  "properties": {
+    "name":"Florence, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2404513,
+    "woe:name":"Florence, Washington, United States",
+    "woe:place_id":"c01cq9KbBZzx8u94",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.349052,48.210892,-122.320229,48.23811],
+  "geometry": {"alpha":0.00015,"bbox":[-122.3490524292,48.210891723633,-122.32022857666,48.238109588623],"coordinates":[[[[-122.320229,48.23811],[-122.322418,48.231064],[-122.331818,48.220654],[-122.349052,48.210892],[-122.340141,48.226501],[-122.322937,48.231991],[-122.320229,48.23811]]]],"created":1292551501,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2404513_20101217_1ebda7c60d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

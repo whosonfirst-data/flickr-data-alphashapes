@@ -1,0 +1,15 @@
+{
+  "id": 12680730,
+  "type": "Feature",
+  "properties": {
+    "name":"Possagno, Italy",
+    "placetype":"locality",
+    "woe:id":12680730,
+    "woe:name":"Possagno, Italy",
+    "woe:place_id":"XNP1R1OYA5q4d3PGMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.841716,45.879761,11.843347,45.882511],
+  "geometry": {"alpha":1e-05,"bbox":[11.841715812683,45.879760742188,11.843346595764,45.882511138916],"coordinates":[[[[11.841886,45.881287],[11.841922,45.881367],[11.842403,45.882061],[11.842775,45.882511],[11.843347,45.879761],[11.841716,45.880569],[11.841886,45.881287]]]],"created":1292538166,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12680730_20101216_56356e9405.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

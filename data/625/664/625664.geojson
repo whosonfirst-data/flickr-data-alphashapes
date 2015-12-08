@@ -1,0 +1,15 @@
+{
+  "id": 625664,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Martin, Brittany, France",
+    "placetype":"locality",
+    "woe:id":625664,
+    "woe:name":"St-Martin, Brittany, France",
+    "woe:place_id":"T_rETCSfA5kzyK0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.845729,48.574223,-3.828005,48.586868],
+  "geometry": {"alpha":0.00015,"bbox":[-3.8457291126251,48.574222564697,-3.8280050754547,48.586868286133],"coordinates":[[[[-3.828005,48.580269],[-3.830237,48.578011],[-3.845729,48.574223],[-3.837361,48.586868],[-3.835966,48.585152],[-3.834486,48.583675],[-3.828005,48.580269]]]],"created":1292546932,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/625664_20101217_435a4247bc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

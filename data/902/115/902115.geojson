@@ -1,0 +1,15 @@
+{
+  "id": 902115,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramsberg, Orebro, Sweden",
+    "placetype":"locality",
+    "woe:id":902115,
+    "woe:name":"Ramsberg, Orebro, Sweden",
+    "woe:place_id":"4Pq5JRqQAZ42qxM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.295565,59.752762,15.314512,59.784019],
+  "geometry": {"alpha":0.00015,"bbox":[15.295564651489,59.75276184082,15.314512252808,59.784019470215],"coordinates":[[[[15.298569,59.76825],[15.314512,59.752762],[15.297603,59.767262],[15.29638,59.76902],[15.295565,59.770016],[15.300822,59.784019],[15.298569,59.76825]]]],"created":1292516823,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/902115_20101216_a6849ba245.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

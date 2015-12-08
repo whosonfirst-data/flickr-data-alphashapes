@@ -1,0 +1,15 @@
+{
+  "id": 2519043,
+  "type": "Feature",
+  "properties": {
+    "name":"Whipples Crossing, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2519043,
+    "woe:name":"Whipples Crossing, Georgia, United States",
+    "woe:place_id":"14pbnZ6bBJ0UmDOx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.069832,32.507809,-83.047798,32.513332],
+  "geometry": {"alpha":0.00015,"bbox":[-83.069831848145,32.507808685303,-83.047798156738,32.513332366943],"coordinates":[[[[-83.069687,32.509037],[-83.069832,32.513332],[-83.047951,32.508675],[-83.047798,32.507809],[-83.069687,32.509037]]]],"created":1234752737,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3412/shapefiles/2519043_20090216_04b524e55e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

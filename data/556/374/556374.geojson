@@ -1,0 +1,15 @@
+{
+  "id": 556374,
+  "type": "Feature",
+  "properties": {
+    "name":"Overby, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":556374,
+    "woe:name":"Overby, Sjaelland, Denmark",
+    "woe:place_id":"GerdXyicBJrr1b8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.3978,55.952324,11.408786,55.959427],
+  "geometry": {"alpha":0.00015,"bbox":[11.397800445557,55.952323913574,11.408785820007,55.959426879883],"coordinates":[[[[11.3978,55.958736],[11.3978,55.959244],[11.406017,55.959427],[11.408786,55.952324],[11.403079,55.95248],[11.401448,55.952682],[11.3978,55.958736]]]],"created":1292491324,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/556374_20101216_8e10f01db7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

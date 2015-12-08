@@ -1,0 +1,15 @@
+{
+  "id": 1570364,
+  "type": "Feature",
+  "properties": {
+    "name":"Mongu, Western, Zambia",
+    "placetype":"locality",
+    "woe:id":1570364,
+    "woe:name":"Mongu, Western, Zambia",
+    "woe:place_id":"VUu.AX.YBJspndr3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.117638,-15.279134,23.134718,-15.262077],
+  "geometry": {"alpha":0.00015,"bbox":[23.117637634277,-15.279133796692,23.134717941284,-15.262077331543],"coordinates":[[[[23.117638,-15.278968],[23.120985,-15.273752],[23.134718,-15.262077],[23.13446,-15.267377],[23.124762,-15.275905],[23.119183,-15.279134],[23.117638,-15.278968]]]],"created":1292532266,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/1570364_20101216_67798de532.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

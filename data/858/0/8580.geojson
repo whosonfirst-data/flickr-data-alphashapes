@@ -1,0 +1,15 @@
+{
+  "id": 8580,
+  "type": "Feature",
+  "properties": {
+    "name":"Morrin, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8580,
+    "woe:name":"Morrin, Alberta, Canada",
+    "woe:place_id":"b7pVKl6RBJS0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.91967,51.648357,-112.904091,51.651684],
+  "geometry": {"alpha":0.00015,"bbox":[-112.91967010498,51.648357391357,-112.90409088135,51.651683807373],"coordinates":[[[[-112.91967,51.648357],[-112.91954,51.649769],[-112.91748,51.651684],[-112.904091,51.650299],[-112.91967,51.648357]]]],"created":1247864890,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2615/shapefiles/8580_20090717_3a93b58973.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

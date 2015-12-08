@@ -1,0 +1,15 @@
+{
+  "id": 2458592,
+  "type": "Feature",
+  "properties": {
+    "name":"New Hyde Park, New York, United States",
+    "placetype":"locality",
+    "woe:id":2458592,
+    "woe:name":"New Hyde Park, New York, United States",
+    "woe:place_id":"5vUzEZ2bBZmjVc6v",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.691994,40.730804,-73.687531,40.73568],
+  "geometry": {"alpha":0.00015,"bbox":[-73.691993713379,40.730804443359,-73.687530517578,40.735679626465],"coordinates":[[[[-73.687531,40.735062],[-73.691994,40.730804],[-73.691994,40.731846],[-73.690277,40.73568],[-73.687531,40.735062]]]],"created":1234710387,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3323/shapefiles/2458592_20090215_3947ea5433.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

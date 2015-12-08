@@ -1,0 +1,15 @@
+{
+  "id": 12670746,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Laurent-d'Aigouze, France",
+    "placetype":"locality",
+    "woe:id":12670746,
+    "woe:name":"St.-Laurent-d'Aigouze, France",
+    "woe:place_id":"DILkjBWYA5rSwompdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.209136,43.588722,4.21051,43.592636],
+  "geometry": {"alpha":1e-05,"bbox":[4.2091360092163,43.588722229004,4.2105097770691,43.592636108398],"coordinates":[[[[4.209136,43.58897],[4.20934,43.59211],[4.20948,43.592636],[4.210027,43.59082],[4.21051,43.588722],[4.209136,43.58897]]]],"created":1292524585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12670746_20101216_e13c4d25d7.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

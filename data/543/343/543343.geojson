@@ -1,0 +1,15 @@
+{
+  "id": 543343,
+  "type": "Feature",
+  "properties": {
+    "name":"Pottendorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543343,
+    "woe:name":"Pottendorf, Lower Austria, Austria",
+    "woe:place_id":"wVJVWACcBZ_mX3U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.38113,47.900291,16.400419,47.917263],
+  "geometry": {"alpha":0.00015,"bbox":[16.381130218506,47.900291442871,16.400419235229,47.917263031006],"coordinates":[[[[16.38113,47.910587],[16.388853,47.917263],[16.400419,47.912342],[16.397438,47.909035],[16.392288,47.900291],[16.381849,47.903896],[16.38113,47.910587]]]],"created":1292478068,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/543343_20101216_55762603f7.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

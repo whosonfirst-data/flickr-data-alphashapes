@@ -1,0 +1,15 @@
+{
+  "id": 12999,
+  "type": "Feature",
+  "properties": {
+    "name":"Blandford Camp, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12999,
+    "woe:name":"Blandford Camp, England, United Kingdom",
+    "woe:place_id":"Z3K1dCiYA5Uj0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.134609,50.869167,-2.111263,50.882999],
+  "geometry": {"alpha":0.00015,"bbox":[-2.1346089839935,50.869167327881,-2.1112630367279,50.882999420166],"coordinates":[[[[-2.120275,50.870438],[-2.134609,50.882999],[-2.120361,50.875313],[-2.111263,50.873795],[-2.119723,50.869167],[-2.120275,50.870438]]]],"created":1292541422,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12999_20101216_208df7d8a2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

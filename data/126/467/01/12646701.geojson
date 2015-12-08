@@ -1,0 +1,15 @@
+{
+  "id": 12646701,
+  "type": "Feature",
+  "properties": {
+    "name":"Lavau, France",
+    "placetype":"locality",
+    "woe:id":12646701,
+    "woe:name":"Lavau, France",
+    "woe:place_id":"f6srnE6YA5pHLbJnSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.102363,48.328609,4.103769,48.329792],
+  "geometry": {"alpha":1e-05,"bbox":[4.1023631095886,48.328609466553,4.103768825531,48.329792022705],"coordinates":[[[[4.102663,48.329094],[4.102363,48.329792],[4.103769,48.329491],[4.103436,48.328609],[4.102663,48.329094]]]],"created":1292517603,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12646701_20101216_d9fbd86796.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

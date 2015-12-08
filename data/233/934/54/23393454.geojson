@@ -1,0 +1,15 @@
+{
+  "id": 23393454,
+  "type": "Feature",
+  "properties": {
+    "name":"Central Hainesville, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393454,
+    "woe:name":"Central Hainesville, New Brunswick, Canada",
+    "woe:place_id":"U75dgLObAp8kH6_G6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.114021,46.115501,-67.098114,46.129471],
+  "geometry": {"alpha":0.00015,"bbox":[-67.11402130127,46.115501403809,-67.098114013672,46.129470825195],"coordinates":[[[[-67.102943,46.121277],[-67.098114,46.115501],[-67.107292,46.119389],[-67.114021,46.129471],[-67.10672,46.127151],[-67.102943,46.121277]]]],"created":1292544851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/23393454_20101217_b19faf023d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

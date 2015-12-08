@@ -1,0 +1,15 @@
+{
+  "id": 550903,
+  "type": "Feature",
+  "properties": {
+    "name":"Medraz, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550903,
+    "woe:name":"Medraz, Tyrol, Austria",
+    "woe:place_id":"lOjQNJKcBJxjC9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.311368,47.139057,11.33583,47.153244],
+  "geometry": {"alpha":0.00015,"bbox":[11.311367988586,47.139057159424,11.335829734802,47.153244018555],"coordinates":[[[[11.3348,47.149334],[11.33583,47.139118],[11.326904,47.139057],[11.311368,47.153244],[11.3348,47.149334]]]],"created":1234601649,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3414/shapefiles/550903_20090214_48e182b4e4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

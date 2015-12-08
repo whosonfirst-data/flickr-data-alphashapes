@@ -1,0 +1,15 @@
+{
+  "id": 12518972,
+  "type": "Feature",
+  "properties": {
+    "name":"IFP, United States",
+    "placetype":"locality",
+    "woe:id":12518972,
+    "woe:name":"IFP, United States",
+    "woe:place_id":"pGTcipSYA5kJuBzeYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.557816,35.16394,-114.553459,35.169476],
+  "geometry": {"alpha":1e-05,"bbox":[-114.55781555176,35.163940429688,-114.55345916748,35.16947555542],"coordinates":[[[[-114.554344,35.164345],[-114.556152,35.16394],[-114.557816,35.165688],[-114.556183,35.16573],[-114.553459,35.169476],[-114.554344,35.164345]]]],"created":1292507586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12518972_20101216_0d85035f00.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

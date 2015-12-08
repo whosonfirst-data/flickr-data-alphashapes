@@ -1,0 +1,15 @@
+{
+  "id": 681172,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberfelsberg, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":681172,
+    "woe:name":"Oberfelsberg, Saarland, Germany",
+    "woe:place_id":"CNw8beafCZ2pH6U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.670246,49.29636,6.694579,49.312672],
+  "geometry": {"alpha":0.00015,"bbox":[6.6702461242676,49.296360015869,6.6945791244507,49.312671661377],"coordinates":[[[[6.694579,49.302486],[6.693784,49.302029],[6.686038,49.29636],[6.670718,49.298359],[6.670246,49.312672],[6.69033,49.310352],[6.694579,49.302486]]]],"created":1292523933,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/681172_20101216_e3bb272763.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

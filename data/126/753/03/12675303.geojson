@@ -1,0 +1,15 @@
+{
+  "id": 12675303,
+  "type": "Feature",
+  "properties": {
+    "name":"Selzthal, Austria",
+    "placetype":"locality",
+    "woe:id":12675303,
+    "woe:name":"Selzthal, Austria",
+    "woe:place_id":"BcjHaGKYA5q71AD6rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.316886,47.552765,14.3225,47.558037],
+  "geometry": {"alpha":1e-05,"bbox":[14.316885948181,47.552764892578,14.322500228882,47.558036804199],"coordinates":[[[[14.319666,47.554165],[14.317545,47.552765],[14.316886,47.552765],[14.318468,47.553925],[14.320507,47.558037],[14.3225,47.557167],[14.319666,47.554165]]]],"created":1292543859,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12675303_20101216_1526be4179.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

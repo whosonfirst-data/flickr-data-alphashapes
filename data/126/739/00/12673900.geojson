@@ -1,0 +1,15 @@
+{
+  "id": 12673900,
+  "type": "Feature",
+  "properties": {
+    "name":"Lilienfeld, Austria",
+    "placetype":"locality",
+    "woe:id":12673900,
+    "woe:name":"Lilienfeld, Austria",
+    "woe:place_id":"gvTLqW6YA5qpkv.FJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.610333,47.988998,15.612602,47.993484],
+  "geometry": {"alpha":1e-05,"bbox":[15.610333442688,47.988998413086,15.612602233887,47.99348449707],"coordinates":[[[[15.610667,47.988998],[15.610333,47.988998],[15.610628,47.990498],[15.612602,47.993484],[15.612258,47.989834],[15.610667,47.988998]]]],"created":1292524698,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12673900_20101216_1a4d77ee2a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

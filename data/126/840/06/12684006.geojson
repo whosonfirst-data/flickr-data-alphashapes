@@ -1,0 +1,15 @@
+{
+  "id": 12684006,
+  "type": "Feature",
+  "properties": {
+    "name":"Montcherand, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684006,
+    "woe:name":"Montcherand, Switzerland",
+    "woe:place_id":"E0w1obWYA5rh257Gtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.508798,46.732971,6.512671,46.734627],
+  "geometry": {"alpha":1e-05,"bbox":[6.508798122406,46.732971191406,6.5126709938049,46.73462677002],"coordinates":[[[[6.510933,46.732971],[6.510407,46.733368],[6.508798,46.734627],[6.511577,46.734367],[6.512671,46.734547],[6.512542,46.734444],[6.510933,46.732971]]]],"created":1292448449,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12684006_20101215_7619669022.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

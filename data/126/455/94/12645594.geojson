@@ -1,0 +1,15 @@
+{
+  "id": 12645594,
+  "type": "Feature",
+  "properties": {
+    "name":"Kaltenhouse, France",
+    "placetype":"locality",
+    "woe:id":12645594,
+    "woe:name":"Kaltenhouse, France",
+    "woe:place_id":"GzM4.2GYA5qH3ssFoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.81394,48.795414,7.817166,48.800167],
+  "geometry": {"alpha":1e-05,"bbox":[7.8139400482178,48.795413970947,7.817165851593,48.80016708374],"coordinates":[[[[7.8165,48.799831],[7.816666,48.799999],[7.816833,48.800167],[7.817166,48.800167],[7.816833,48.799831],[7.81394,48.795414],[7.8165,48.799831]]]],"created":1292549273,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12645594_20101217_b7a614a9df.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2500398,
+  "type": "Feature",
+  "properties": {
+    "name":"Stonewall Mills, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2500398,
+    "woe:name":"Stonewall Mills, Virginia, United States",
+    "woe:place_id":"RbGGb_2bBJxJlFnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.910118,37.465626,-78.906609,37.468582],
+  "geometry": {"alpha":0.00015,"bbox":[-78.910118103027,37.465625762939,-78.906608581543,37.46858215332],"coordinates":[[[[-78.908058,37.468582],[-78.906609,37.468533],[-78.909431,37.465626],[-78.909561,37.465916],[-78.910118,37.467773],[-78.908058,37.468582]]]],"created":1292534665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2500398_20101216_5a409078f3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12695257,
+  "type": "Feature",
+  "properties": {
+    "name":"Urduliz, Spain",
+    "placetype":"locality",
+    "woe:id":12695257,
+    "woe:name":"Urduliz, Spain",
+    "woe:place_id":"UFj3gmqYA5rGgD86Dw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.966737,43.37645,-2.959785,43.380596],
+  "geometry": {"alpha":1e-05,"bbox":[-2.9667370319366,43.376449584961,-2.9597849845886,43.380596160889],"coordinates":[[[[-2.962789,43.378258],[-2.959785,43.380596],[-2.962017,43.376919],[-2.963905,43.37645],[-2.966737,43.378914],[-2.962789,43.378258]]]],"created":1292513767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12695257_20101216_3a4041e2f8.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12632668,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Herborn, Germany",
+    "placetype":"locality",
+    "woe:id":12632668,
+    "woe:name":"Gemeinde Herborn, Germany",
+    "woe:place_id":"4t_lcFKYA5qhwtKI7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.302595,50.681503,8.306865,50.685623],
+  "geometry": {"alpha":1e-05,"bbox":[8.3025951385498,50.681503295898,8.3068647384644,50.685623168945],"coordinates":[[[[8.302595,50.683651],[8.306136,50.685623],[8.306865,50.682648],[8.305406,50.681503],[8.302595,50.683651]]]],"created":1292534746,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12632668_20101216_1d62035de9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

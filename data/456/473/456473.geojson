@@ -1,0 +1,15 @@
+{
+  "id": 456473,
+  "type": "Feature",
+  "properties": {
+    "name":"Rio Negro, Parana, Brazil",
+    "placetype":"locality",
+    "woe:id":456473,
+    "woe:name":"Rio Negro, Parana, Brazil",
+    "woe:place_id":"mTzEmDqdBJqFCrI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-49.811153,-26.11722,-49.782486,-26.085924],
+  "geometry": {"alpha":0.00015,"bbox":[-49.811153411865,-26.117219924927,-49.782485961914,-26.08592414856],"coordinates":[[[[-49.802399,-26.106119],[-49.803772,-26.102421],[-49.811153,-26.085924],[-49.790897,-26.088083],[-49.782486,-26.087158],[-49.783451,-26.10207],[-49.784546,-26.11722],[-49.802399,-26.106119]]]],"created":1292548928,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/456473_20101217_188262f4f1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

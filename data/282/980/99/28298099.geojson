@@ -1,0 +1,15 @@
+{
+  "id": 28298099,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Forest, Muskego, WI, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":28298099,
+    "woe:name":"Lake Forest, Muskego, WI, US, United States",
+    "woe:place_id":"0MDPE1ebCZ67AL3ieQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-88.148376,42.899609,-88.143822,42.902721],
+  "geometry": {"alpha":1e-05,"bbox":[-88.148376464844,42.899608612061,-88.143821716309,42.902721405029],"coordinates":[[[[-88.147942,42.899765],[-88.148376,42.899609],[-88.147385,42.902721],[-88.143822,42.90192],[-88.147942,42.899765]]]],"created":1248181447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2442/shapefiles/28298099_20090721_300dbac59c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

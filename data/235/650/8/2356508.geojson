@@ -1,0 +1,15 @@
+{
+  "id": 2356508,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashburton, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2356508,
+    "woe:name":"Ashburton, Maryland, United States",
+    "woe:place_id":"9BqGE5SbApkYaJz4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.130974,39.013531,-77.124023,39.016117],
+  "geometry": {"alpha":0.00015,"bbox":[-77.130973815918,39.013530731201,-77.1240234375,39.016117095947],"coordinates":[[[[-77.126656,39.016117],[-77.124023,39.013981],[-77.126503,39.013531],[-77.130974,39.013569],[-77.129707,39.015263],[-77.126656,39.016117]]]],"created":1247760724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2599/shapefiles/2356508_20090716_2f7d11eed7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

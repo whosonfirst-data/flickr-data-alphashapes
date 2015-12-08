@@ -1,0 +1,15 @@
+{
+  "id": 2384911,
+  "type": "Feature",
+  "properties": {
+    "name":"Corbett, New York, United States",
+    "placetype":"locality",
+    "woe:id":2384911,
+    "woe:name":"Corbett, New York, United States",
+    "woe:place_id":"ziFtt66bApRO7eU2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.049324,42.044319,-75.022499,42.048016],
+  "geometry": {"alpha":0.00015,"bbox":[-75.049324035645,42.044319152832,-75.022499084473,42.048015594482],"coordinates":[[[[-75.027672,42.046539],[-75.049324,42.045212],[-75.028206,42.048016],[-75.022499,42.044319],[-75.027489,42.046391],[-75.027672,42.046539]]]],"created":1292536763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2384911_20101216_51d1b31d68.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23702019,
+  "type": "Feature",
+  "properties": {
+    "name":"Gartyne, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23702019,
+    "woe:name":"Gartyne, Scotland, United Kingdom",
+    "woe:place_id":"85kWoiybAptoMSTptw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.141231,56.293491,-3.120632,56.309109],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1412310600281,56.293491363525,-3.1206319332123,56.309108734131],"coordinates":[[[[-3.128871,56.302063],[-3.120632,56.293491],[-3.12973,56.295586],[-3.141231,56.298397],[-3.130416,56.309109],[-3.128871,56.302063]]]],"created":1292548801,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/23702019_20101217_93dca21520.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

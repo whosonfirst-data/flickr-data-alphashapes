@@ -1,0 +1,15 @@
+{
+  "id": 12624319,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Rheine, Germany",
+    "placetype":"locality",
+    "woe:id":12624319,
+    "woe:name":"Gemeinde Rheine, Germany",
+    "woe:place_id":"71khXuKYA5q7vIEmCg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.43725,52.277802,7.440361,52.280762],
+  "geometry": {"alpha":1e-05,"bbox":[7.4372501373291,52.277801513672,7.4403610229492,52.28076171875],"coordinates":[[[[7.438409,52.278969],[7.43916,52.280418],[7.440361,52.280762],[7.439771,52.278301],[7.43725,52.277802],[7.438409,52.278969]]]],"created":1292483346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12624319_20101216_2a202f165c.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705570,
+  "type": "Feature",
+  "properties": {
+    "name":"Wertach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":705570,
+    "woe:name":"Wertach, Bavaria, Germany",
+    "woe:place_id":"rVqEzbSeAZkhsDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.409545,47.594238,10.412635,47.606098],
+  "geometry": {"alpha":0.00015,"bbox":[10.409544944763,47.59423828125,10.412634849548,47.606098175049],"coordinates":[[[[10.409717,47.605713],[10.409781,47.606098],[10.410254,47.605148],[10.412635,47.60107],[10.409889,47.594238],[10.409545,47.594704],[10.409803,47.603268],[10.409717,47.605713]]]],"created":1292505544,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/705570_20101216_f1cfe44b4a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

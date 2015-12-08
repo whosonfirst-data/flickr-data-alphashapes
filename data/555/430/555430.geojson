@@ -1,0 +1,15 @@
+{
+  "id": 555430,
+  "type": "Feature",
+  "properties": {
+    "name":"Eskilstrup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555430,
+    "woe:name":"Eskilstrup, Sjaelland, Denmark",
+    "woe:place_id":"T1RMObacBJkcv88",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.538809,55.363113,11.557016,55.377125],
+  "geometry": {"alpha":0.00015,"bbox":[11.538808822632,55.36311340332,11.557016372681,55.377124786377],"coordinates":[[[[11.539646,55.37624],[11.538809,55.377125],[11.539067,55.377094],[11.545311,55.375874],[11.557016,55.363113],[11.544361,55.373871],[11.540182,55.375866],[11.539646,55.37624]]]],"created":1292528031,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/555430_20101216_c974dcb700.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

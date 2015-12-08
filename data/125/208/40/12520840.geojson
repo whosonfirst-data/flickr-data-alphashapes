@@ -1,0 +1,15 @@
+{
+  "id": 12520840,
+  "type": "Feature",
+  "properties": {
+    "name":"Mathis Field Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520840,
+    "woe:name":"Mathis Field Airport, United States",
+    "woe:place_id":"mS7BtNuYA5k0NODdzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.503334,31.355103,-100.501556,31.357466],
+  "geometry": {"alpha":1e-05,"bbox":[-100.50333404541,31.355102539062,-100.50155639648,31.357465744019],"coordinates":[[[[-100.503334,31.355665],[-100.503136,31.357384],[-100.501945,31.357466],[-100.501556,31.355103],[-100.5019,31.355103],[-100.503334,31.355665]]]],"created":1292470264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12520840_20101216_77539247e7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

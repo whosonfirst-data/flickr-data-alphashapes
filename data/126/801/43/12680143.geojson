@@ -1,0 +1,15 @@
+{
+  "id": 12680143,
+  "type": "Feature",
+  "properties": {
+    "name":"Manziana, Italy",
+    "placetype":"locality",
+    "woe:id":12680143,
+    "woe:name":"Manziana, Italy",
+    "woe:place_id":"8X_Pd9iYA5qK0R19XQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.119979,42.127735,12.126331,42.137569],
+  "geometry": {"alpha":1e-05,"bbox":[12.119978904724,42.127735137939,12.126331329346,42.13756942749],"coordinates":[[[[12.125473,42.136421],[12.126331,42.132252],[12.123563,42.127735],[12.123413,42.133366],[12.123413,42.135147],[12.119979,42.137569],[12.125473,42.136421]]]],"created":1292535378,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12680143_20101216_1014495523.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

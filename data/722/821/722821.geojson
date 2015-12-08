@@ -1,0 +1,15 @@
+{
+  "id": 722821,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":722821,
+    "woe:name":"San Martino, Tuscany, Italy",
+    "woe:place_id":"Y5uROUieA57T2Ac",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.591262,43.260895,11.603579,43.270832],
+  "geometry": {"alpha":0.00015,"bbox":[11.591261863708,43.260894775391,11.603578567505,43.270832061768],"coordinates":[[[[11.603279,43.270832],[11.603579,43.263603],[11.59727,43.260895],[11.591262,43.270706],[11.598815,43.269707],[11.603279,43.270832]]]],"created":1292447466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/722821_20101215_ace92501c5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

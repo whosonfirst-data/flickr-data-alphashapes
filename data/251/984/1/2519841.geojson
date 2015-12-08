@@ -1,0 +1,15 @@
+{
+  "id": 2519841,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitesville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2519841,
+    "woe:name":"Whitesville, Alabama, United States",
+    "woe:place_id":"xYglZdCbBJ0vgaZP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.260803,34.191525,-86.246429,34.212193],
+  "geometry": {"alpha":0.00015,"bbox":[-86.260803222656,34.191524505615,-86.246429443359,34.2121925354],"coordinates":[[[[-86.260803,34.209015],[-86.256989,34.212193],[-86.257378,34.210526],[-86.246429,34.191525],[-86.259178,34.208466],[-86.260803,34.209015]]]],"created":1292423522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2519841_20101215_866192186b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

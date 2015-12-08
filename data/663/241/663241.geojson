@@ -1,0 +1,15 @@
+{
+  "id": 663241,
+  "type": "Feature",
+  "properties": {
+    "name":"Igelsberg, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":663241,
+    "woe:name":"Igelsberg, Baden-Wurttemberg, Germany",
+    "woe:place_id":"6zZaZaufB59PVsw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.435751,48.536575,8.443422,48.542751],
+  "geometry": {"alpha":0.00015,"bbox":[8.4357509613037,48.536575317383,8.4434223175049,48.542751312256],"coordinates":[[[[8.441566,48.537308],[8.440268,48.536575],[8.435751,48.538197],[8.436212,48.541782],[8.443422,48.542751],[8.441566,48.537308]]]],"created":1292522671,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/663241_20101216_7c3a6ae830.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 755273,
+  "type": "Feature",
+  "properties": {
+    "name":"Cabarcos, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":755273,
+    "woe:name":"Cabarcos, Castille and Leon, Spain",
+    "woe:place_id":"0mnIs4ieBJlFsck",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.911344,42.520004,-6.908941,42.521965],
+  "geometry": {"alpha":0.00015,"bbox":[-6.9113440513611,42.520004272461,-6.9089407920837,42.521965026855],"coordinates":[[[[-6.910657,42.520256],[-6.911344,42.520321],[-6.909456,42.521965],[-6.908941,42.520763],[-6.908941,42.520004],[-6.910657,42.520256]]]],"created":1292439837,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/755273_20101215_2d168bec51.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

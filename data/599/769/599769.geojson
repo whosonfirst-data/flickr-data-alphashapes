@@ -1,0 +1,15 @@
+{
+  "id": 599769,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rochefoucauld, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":599769,
+    "woe:name":"La Rochefoucauld, Poitou-Charentes, France",
+    "woe:place_id":"spaCLHycCJW2.CA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.369243,45.73782,0.392332,45.756504],
+  "geometry": {"alpha":0.00015,"bbox":[0.3692429959774,45.737819671631,0.3923319876194,45.756504058838],"coordinates":[[[[0.379371,45.740452],[0.369243,45.740032],[0.379028,45.744045],[0.381774,45.756504],[0.388641,45.747883],[0.390872,45.745426],[0.392332,45.743732],[0.385894,45.73782],[0.384178,45.73782],[0.379371,45.740452]]]],"created":1292450332,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/599769_20101215_64ab888a8d.tar.gz"},"points":74,"type":"MultiPolygon"}
+}

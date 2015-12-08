@@ -1,0 +1,15 @@
+{
+  "id": 21006,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21006,
+    "woe:name":"Georgetown, Scotland, United Kingdom",
+    "woe:place_id":"IStS7I2bAJzFWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.557609,55.863335,-4.531816,55.875481],
+  "geometry": {"alpha":0.00015,"bbox":[-4.5576090812683,55.863334655762,-4.5318160057068,55.875480651855],"coordinates":[[[[-4.549884,55.873096],[-4.543104,55.87088],[-4.531816,55.863907],[-4.548361,55.866104],[-4.554667,55.863335],[-4.557609,55.875481],[-4.549884,55.873096]]]],"created":1292453190,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/21006_20101215_09cf4f9732.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

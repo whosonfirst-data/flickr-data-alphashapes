@@ -1,0 +1,15 @@
+{
+  "id": 146825,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Rosa, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":146825,
+    "woe:name":"Santa Rosa, Jalisco, Mexico",
+    "woe:place_id":"dIvFevyYBZph_3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.236465,20.396767,-103.223244,20.417812],
+  "geometry": {"alpha":0.00015,"bbox":[-103.2364654541,20.396766662598,-103.22324371338,20.417812347412],"coordinates":[[[[-103.236465,20.415428],[-103.235313,20.417812],[-103.225479,20.412838],[-103.223244,20.406322],[-103.224792,20.396767],[-103.236465,20.415428]]]],"created":1292450492,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/146825_20101215_c729dfdf87.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12656446,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaucens, France",
+    "placetype":"locality",
+    "woe:id":12656446,
+    "woe:name":"Beaucens, France",
+    "woe:place_id":"Mrbj.JmYA5ppjj7lxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.044717,42.945869,0.051841,42.956673],
+  "geometry": {"alpha":1e-05,"bbox":[0.044716998934746,42.945869445801,0.051840998232365,42.956672668457],"coordinates":[[[[0.048751,42.951775],[0.051841,42.956673],[0.049438,42.951397],[0.05167,42.945869],[0.048236,42.948444],[0.044717,42.951397],[0.048751,42.951775]]]],"created":1292539938,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12656446_20101216_8eaf062e1f.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

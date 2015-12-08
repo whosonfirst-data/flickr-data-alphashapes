@@ -1,0 +1,15 @@
+{
+  "id": 2409527,
+  "type": "Feature",
+  "properties": {
+    "name":"Genoa, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2409527,
+    "woe:name":"Genoa, North Carolina, United States",
+    "woe:place_id":"Lz5mHpCbBZySET5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.040504,35.32103,-78.032661,35.326992],
+  "geometry": {"alpha":0.00015,"bbox":[-78.040504455566,35.321029663086,-78.032661437988,35.326992034912],"coordinates":[[[[-78.034073,35.325043],[-78.035133,35.323059],[-78.036545,35.32103],[-78.040504,35.326878],[-78.032661,35.326992],[-78.034073,35.325043]]]],"created":1292524261,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2409527_20101216_f010bc8071.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2440788,
+  "type": "Feature",
+  "properties": {
+    "name":"Locker, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2440788,
+    "woe:name":"Locker, Texas, United States",
+    "woe:place_id":"k4JzrNGbBZiZBDEK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.846741,31.409794,-98.845993,31.411655],
+  "geometry": {"alpha":0.00015,"bbox":[-98.846740722656,31.40979385376,-98.845993041992,31.411655426025],"coordinates":[[[[-98.845993,31.410063],[-98.846298,31.409794],[-98.846741,31.411011],[-98.846657,31.411655],[-98.846107,31.411476],[-98.845993,31.410063]]]],"created":1248190811,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2608/shapefiles/2440788_20090721_4ddea698a5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23396946,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23396946,
+    "woe:name":"Vienna, Ontario, Canada",
+    "woe:place_id":"mZAA9SebAp.gwgtMsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.791801,42.679108,-80.785301,42.691635],
+  "geometry": {"alpha":0.00015,"bbox":[-80.791801452637,42.679107666016,-80.785301208496,42.691635131836],"coordinates":[[[[-80.787331,42.680164],[-80.788879,42.67992],[-80.791801,42.679108],[-80.791611,42.68174],[-80.790367,42.682674],[-80.785301,42.691635],[-80.787621,42.681679],[-80.787331,42.680164]]]],"created":1292459114,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/23396946_20101216_de2bcddc5b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

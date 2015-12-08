@@ -1,0 +1,15 @@
+{
+  "id": 55971124,
+  "type": "Feature",
+  "properties": {
+    "name":"Eastside, San Jose, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971124,
+    "woe:name":"Eastside, San Jose, CA, US, United States",
+    "woe:place_id":"Kjkfy2mcBJXVpDOhfA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.838875,37.37302,-121.834915,37.376568],
+  "geometry": {"alpha":1e-05,"bbox":[-121.83887481689,37.373020172119,-121.83491516113,37.376567840576],"coordinates":[[[[-121.838875,37.375851],[-121.83799,37.376568],[-121.834915,37.374237],[-121.837799,37.37302],[-121.838875,37.375851]]]],"created":1292518203,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/55971124_20101216_9185aa0b1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

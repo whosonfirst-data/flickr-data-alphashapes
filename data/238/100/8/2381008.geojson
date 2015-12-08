@@ -1,0 +1,15 @@
+{
+  "id": 2381008,
+  "type": "Feature",
+  "properties": {
+    "name":"Clay Island, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2381008,
+    "woe:name":"Clay Island, Florida, United States",
+    "woe:place_id":"IPFlILqbApTSOiVm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.768684,28.626474,-81.764717,28.628716],
+  "geometry": {"alpha":0.00015,"bbox":[-81.768684387207,28.626474380493,-81.764717102051,28.628715515137],"coordinates":[[[[-81.768341,28.627068],[-81.768684,28.627449],[-81.768356,28.628716],[-81.764717,28.626474],[-81.767929,28.626926],[-81.768341,28.627068]]]],"created":1248161768,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3429/shapefiles/2381008_20090721_e413f00ebc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

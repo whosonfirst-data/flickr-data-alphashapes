@@ -1,0 +1,15 @@
+{
+  "id": 23397721,
+  "type": "Feature",
+  "properties": {
+    "name":"Winona, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397721,
+    "woe:name":"Winona, Ontario, Canada",
+    "woe:place_id":"qsT87eqbAp8EJOaAQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.622299,43.207241,-79.613197,43.225754],
+  "geometry": {"alpha":0.00015,"bbox":[-79.622299194336,43.20724105835,-79.61319732666,43.22575378418],"coordinates":[[[[-79.616936,43.222939],[-79.613197,43.207241],[-79.619034,43.223473],[-79.622299,43.225754],[-79.6175,43.223652],[-79.616905,43.223099],[-79.616936,43.222939]]]],"created":1292521428,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/23397721_20101216_d733443248.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

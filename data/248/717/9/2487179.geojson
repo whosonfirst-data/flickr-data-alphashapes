@@ -1,0 +1,15 @@
+{
+  "id": 2487179,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Petersburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2487179,
+    "woe:name":"St. Petersburg, Pennsylvania, United States",
+    "woe:place_id":"wQZIZyybBZSxZLAk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.679504,41.159077,-79.648865,41.165989],
+  "geometry": {"alpha":0.00015,"bbox":[-79.679504394531,41.159076690674,-79.648864746094,41.165988922119],"coordinates":[[[[-79.660683,41.159092],[-79.679504,41.165989],[-79.661095,41.161983],[-79.648865,41.160831],[-79.660576,41.159077],[-79.660683,41.159092]]]],"created":1292527516,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2487179_20101216_6ac55f5d1c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

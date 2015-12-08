@@ -1,0 +1,15 @@
+{
+  "id": 55959919,
+  "type": "Feature",
+  "properties": {
+    "name":"Romley, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":55959919,
+    "woe:name":"Romley, Colorado, United States",
+    "woe:place_id":"TSV_kPGcBJXk_o7fOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.336006,38.668941,-106.332291,38.679981],
+  "geometry": {"alpha":0.00015,"bbox":[-106.33600616455,38.668941497803,-106.33229064941,38.679981231689],"coordinates":[[[[-106.332291,38.669201],[-106.332718,38.668941],[-106.334366,38.669949],[-106.336006,38.679981],[-106.332291,38.669201]]]],"created":1292520467,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/55959919_20101216_f7799415a8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

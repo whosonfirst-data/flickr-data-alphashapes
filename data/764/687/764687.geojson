@@ -1,0 +1,15 @@
+{
+  "id": 764687,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Ermitas, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":764687,
+    "woe:name":"Las Ermitas, Galicia, Spain",
+    "woe:place_id":"EsdiBNWeB5jHQmE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.138538,42.289993,-7.129906,42.294518],
+  "geometry": {"alpha":0.00015,"bbox":[-7.1385378837585,42.289993286133,-7.1299061775208,42.29451751709],"coordinates":[[[[-7.138366,42.293308],[-7.132444,42.294518],[-7.129906,42.289993],[-7.135791,42.290642],[-7.138538,42.29166],[-7.138366,42.293308]]]],"created":1292543694,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/764687_20101216_28d9f465e4.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

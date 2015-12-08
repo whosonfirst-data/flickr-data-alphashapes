@@ -1,0 +1,15 @@
+{
+  "id": 28745471,
+  "type": "Feature",
+  "properties": {
+    "name":"Cold Spring, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745471,
+    "woe:name":"Cold Spring, Pennsylvania, United States",
+    "woe:place_id":"3HnITE2bCZugCBoAKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.543808,40.522137,-76.528999,40.550449],
+  "geometry": {"alpha":0.00015,"bbox":[-76.543807983398,40.522136688232,-76.528999328613,40.550449371338],"coordinates":[[[[-76.537651,40.550449],[-76.528999,40.544689],[-76.533508,40.541786],[-76.533592,40.522137],[-76.543808,40.53775],[-76.539261,40.54216],[-76.537651,40.550449]]]],"created":1292541461,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/28745471_20101216_8562c36ef5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

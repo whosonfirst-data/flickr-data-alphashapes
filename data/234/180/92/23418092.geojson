@@ -1,0 +1,15 @@
+{
+  "id": 23418092,
+  "type": "Feature",
+  "properties": {
+    "name":"Fifth Street, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23418092,
+    "woe:name":"Fifth Street, Texas, United States",
+    "woe:place_id":"lXEPOOmbApjX_Pa63g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.564102,29.549082,-95.544022,29.571926],
+  "geometry": {"alpha":0.00015,"bbox":[-95.564102172852,29.549081802368,-95.544021606445,29.571926116943],"coordinates":[[[[-95.544022,29.571926],[-95.544189,29.565542],[-95.552818,29.552179],[-95.564102,29.549082],[-95.550339,29.561844],[-95.547577,29.571665],[-95.544022,29.571926]]]],"created":1292540628,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/23418092_20101216_9ce5fa7a4c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

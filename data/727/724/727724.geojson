@@ -1,0 +1,15 @@
+{
+  "id": 727724,
+  "type": "Feature",
+  "properties": {
+    "name":"Bilderdam, South Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":727724,
+    "woe:name":"Bilderdam, South Holland, Netherlands",
+    "woe:place_id":"o7BYu3GeA5tCYw8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.716911,52.19677,4.740686,52.214024],
+  "geometry": {"alpha":0.00015,"bbox":[4.7169108390808,52.196769714355,4.7406859397888,52.214023590088],"coordinates":[[[[4.736351,52.202503],[4.728519,52.19677],[4.716911,52.214024],[4.723738,52.212337],[4.72721,52.211025],[4.740686,52.211525],[4.736351,52.202503]]]],"created":1292450996,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/727724_20101215_e1f476ac0d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

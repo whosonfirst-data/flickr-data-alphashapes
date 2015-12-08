@@ -1,0 +1,15 @@
+{
+  "id": 12676381,
+  "type": "Feature",
+  "properties": {
+    "name":"Villafranca di Verona, Italy",
+    "placetype":"locality",
+    "woe:id":12676381,
+    "woe:name":"Villafranca di Verona, Italy",
+    "woe:place_id":"8k9.Fl6YA5rZimA6TA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.852292,45.356216,10.85653,45.365097],
+  "geometry": {"alpha":1e-05,"bbox":[10.852292060852,45.356216430664,10.856530189514,45.365097045898],"coordinates":[[[[10.852603,45.361916],[10.85653,45.365097],[10.856122,45.361252],[10.85432,45.356216],[10.852292,45.359051],[10.852603,45.361916]]]],"created":1292551411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12676381_20101217_5741bb5e4b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

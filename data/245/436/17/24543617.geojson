@@ -1,0 +1,15 @@
+{
+  "id": 24543617,
+  "type": "Feature",
+  "properties": {
+    "name":"Metamorfossi, Greece",
+    "placetype":"locality",
+    "woe:id":24543617,
+    "woe:name":"Metamorfossi, Greece",
+    "woe:place_id":"mY4Y7RGbBZnO_5NwjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.754665,38.058666,23.757999,38.066872],
+  "geometry": {"alpha":1e-05,"bbox":[23.754665374756,38.058666229248,23.757999420166,38.066871643066],"coordinates":[[[[23.754665,38.064835],[23.757172,38.066872],[23.756325,38.063992],[23.757833,38.058666],[23.757999,38.058834],[23.756325,38.063992],[23.754665,38.064835]]]],"created":1292520233,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/24543617_20101216_93af885c03.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

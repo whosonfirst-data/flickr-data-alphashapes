@@ -1,0 +1,15 @@
+{
+  "id": 756344,
+  "type": "Feature",
+  "properties": {
+    "name":"Casa Blanca, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":756344,
+    "woe:name":"Casa Blanca, Madrid, Spain",
+    "woe:place_id":"u20mIgqeBJrk2mM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.797155,40.402702,-3.794488,40.40554],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7971549034119,40.402702331543,-3.794487953186,40.405540466309],"coordinates":[[[[-3.794488,40.403561],[-3.797155,40.402702],[-3.796688,40.405277],[-3.796666,40.40554],[-3.794488,40.403561]]]],"created":1234477923,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3410/shapefiles/756344_20090212_aacb437b56.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

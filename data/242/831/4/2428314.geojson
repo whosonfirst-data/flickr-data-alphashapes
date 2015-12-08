@@ -1,0 +1,15 @@
+{
+  "id": 2428314,
+  "type": "Feature",
+  "properties": {
+    "name":"Jacksonville, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2428314,
+    "woe:name":"Jacksonville, Indiana, United States",
+    "woe:place_id":"IaNivombBZ68R1nT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.055977,38.826904,-85.038498,38.83028],
+  "geometry": {"alpha":0.00015,"bbox":[-85.055976867676,38.826904296875,-85.038497924805,38.830280303955],"coordinates":[[[[-85.040169,38.829498],[-85.055977,38.826904],[-85.040619,38.83028],[-85.038498,38.829666],[-85.038834,38.828835],[-85.040169,38.829498]]]],"created":1292537360,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2428314_20101216_4de614a9ac.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

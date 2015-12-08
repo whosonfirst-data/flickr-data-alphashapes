@@ -1,0 +1,15 @@
+{
+  "id": 23418205,
+  "type": "Feature",
+  "properties": {
+    "name":"Weathersfield, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23418205,
+    "woe:name":"Weathersfield, Vermont, United States",
+    "woe:place_id":"LRXRunKbApi0YI5LIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.468391,43.373119,-72.450752,43.394196],
+  "geometry": {"alpha":0.00015,"bbox":[-72.468391418457,43.373119354248,-72.450752258301,43.394195556641],"coordinates":[[[[-72.465645,43.393074],[-72.465302,43.394196],[-72.450752,43.383198],[-72.466721,43.373119],[-72.46698,43.375481],[-72.466171,43.380756],[-72.468391,43.388332],[-72.465645,43.393074]]]],"created":1248235684,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2591/shapefiles/23418205_20090722_0070c040fd.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

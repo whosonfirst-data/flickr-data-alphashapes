@@ -1,0 +1,15 @@
+{
+  "id": 12588465,
+  "type": "Feature",
+  "properties": {
+    "name":"Stevens County, Kansas, United States",
+    "placetype":"county",
+    "woe:id":12588465,
+    "woe:name":"Stevens County, Kansas, United States",
+    "woe:place_id":"HiLZzX.YA5kpaPdGSQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-101.359863,37.163395,-101.338531,37.199707],
+  "geometry": {"alpha":0.0015,"bbox":[-101.35986328125,37.163394927979,-101.33853149414,37.19970703125],"coordinates":[[[[-101.345718,37.177738],[-101.352997,37.163395],[-101.355354,37.169697],[-101.359863,37.199707],[-101.338531,37.197601],[-101.345718,37.177738]]]],"created":1292536112,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12588465_20101216_91df1c51c7.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

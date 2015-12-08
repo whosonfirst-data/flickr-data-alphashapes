@@ -1,0 +1,15 @@
+{
+  "id": 23396694,
+  "type": "Feature",
+  "properties": {
+    "name":"Lorraine, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396694,
+    "woe:name":"Lorraine, Quebec, Canada",
+    "woe:place_id":"qQ1zeDybAp_KkH06qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.786003,45.660187,-73.776611,45.663563],
+  "geometry": {"alpha":0.00015,"bbox":[-73.786003112793,45.660186767578,-73.776611328125,45.663562774658],"coordinates":[[[[-73.776611,45.662876],[-73.778511,45.660187],[-73.786003,45.663563],[-73.780251,45.662495],[-73.776611,45.662876]]]],"created":1292471765,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/23396694_20101216_204014a36b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 538050,
+  "type": "Feature",
+  "properties": {
+    "name":"Fenais da Luz, Azores, Portugal",
+    "placetype":"locality",
+    "woe:id":538050,
+    "woe:name":"Fenais da Luz, Azores, Portugal",
+    "woe:place_id":"v9rR0xacApS2F28",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-25.658655,37.821648,-25.631447,37.832829],
+  "geometry": {"alpha":0.00015,"bbox":[-25.658655166626,37.821647644043,-25.631446838379,37.832828521729],"coordinates":[[[[-25.658045,37.829414],[-25.658655,37.832829],[-25.641575,37.828903],[-25.631447,37.828632],[-25.639086,37.821648],[-25.658045,37.829414]]]],"created":1292498462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/538050_20101216_f0b1edb14d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

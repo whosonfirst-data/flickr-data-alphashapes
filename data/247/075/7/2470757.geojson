@@ -1,0 +1,15 @@
+{
+  "id": 2470757,
+  "type": "Feature",
+  "properties": {
+    "name":"Perrysburg, New York, United States",
+    "placetype":"locality",
+    "woe:id":2470757,
+    "woe:name":"Perrysburg, New York, United States",
+    "woe:place_id":"er3twDybBZsBjd58",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.002258,42.444454,-78.977196,42.454525],
+  "geometry": {"alpha":0.00015,"bbox":[-79.002258300781,42.444454193115,-78.977195739746,42.454524993896],"coordinates":[[[[-78.99749,42.454525],[-78.977196,42.444454],[-78.997749,42.448605],[-79.00071,42.449207],[-79.002258,42.449657],[-78.99749,42.454525]]]],"created":1292542231,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2470757_20101216_3907fd7ffc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

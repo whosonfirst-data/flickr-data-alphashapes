@@ -1,0 +1,15 @@
+{
+  "id": 2376706,
+  "type": "Feature",
+  "properties": {
+    "name":"Cedar Grove, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2376706,
+    "woe:name":"Cedar Grove, Florida, United States",
+    "woe:place_id":"UHLAQrCbApsBqmUI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.641541,30.167812,-85.620674,30.179935],
+  "geometry": {"alpha":0.00015,"bbox":[-85.641540527344,30.167812347412,-85.620674133301,30.179935455322],"coordinates":[[[[-85.620674,30.167812],[-85.629028,30.173229],[-85.641541,30.175348],[-85.623878,30.178707],[-85.621414,30.179935],[-85.620674,30.167812]]]],"created":1292549071,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2376706_20101217_1bd58821a1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

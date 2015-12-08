@@ -1,0 +1,15 @@
+{
+  "id": 1105424,
+  "type": "Feature",
+  "properties": {
+    "name":"Rubicon, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105424,
+    "woe:name":"Rubicon, Victoria, Australia",
+    "woe:place_id":"oYPY3i2YAJzZKxPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.888245,-37.323486,145.899292,-37.303654],
+  "geometry": {"alpha":0.00015,"bbox":[145.88824462891,-37.323486328125,145.89929199219,-37.303653717041],"coordinates":[[[[145.88829,-37.303654],[145.896713,-37.306419],[145.899292,-37.323486],[145.888275,-37.304115],[145.888245,-37.303654],[145.88829,-37.303654]]]],"created":1292540363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/1105424_20101216_4373d0d940.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

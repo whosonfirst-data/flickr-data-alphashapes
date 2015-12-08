@@ -1,0 +1,15 @@
+{
+  "id": 1101900,
+  "type": "Feature",
+  "properties": {
+    "name":"Elphinstone, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101900,
+    "woe:name":"Elphinstone, Victoria, Australia",
+    "woe:place_id":"WYR.GriYAJwshTbf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.33287,-37.10181,144.353485,-37.086884],
+  "geometry": {"alpha":0.00015,"bbox":[144.3328704834,-37.101810455322,144.35348510742,-37.086883544922],"coordinates":[[[[144.337524,-37.10181],[144.33287,-37.096333],[144.352798,-37.086884],[144.353485,-37.096504],[144.337524,-37.10181]]]],"created":1292537290,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/1101900_20101216_9464bf1f03.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

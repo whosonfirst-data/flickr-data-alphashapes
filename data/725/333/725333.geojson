@@ -1,0 +1,15 @@
+{
+  "id": 725333,
+  "type": "Feature",
+  "properties": {
+    "name":"Trofarello, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":725333,
+    "woe:name":"Trofarello, Piedmont, Italy",
+    "woe:place_id":"R8Ty_0SeA5mrtuk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.737926,44.984001,7.758193,44.995258],
+  "geometry": {"alpha":0.00015,"bbox":[7.7379260063171,44.984001159668,7.7581930160522,44.995258331299],"coordinates":[[[[7.738033,44.992588],[7.758193,44.995258],[7.74098,44.984161],[7.74,44.984001],[7.737926,44.992622],[7.737979,44.992615],[7.738033,44.992588]]]],"created":1292531378,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/725333_20101216_49095ab74b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

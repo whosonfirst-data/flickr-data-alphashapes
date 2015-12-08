@@ -1,0 +1,15 @@
+{
+  "id": 2436071,
+  "type": "Feature",
+  "properties": {
+    "name":"Lancaster, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2436071,
+    "woe:name":"Lancaster, Oregon, United States",
+    "woe:place_id":"VOm5rrybBZ9XXQmS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.195274,44.237911,-123.172424,44.253254],
+  "geometry": {"alpha":0.00015,"bbox":[-123.19527435303,44.237911224365,-123.17242431641,44.253253936768],"coordinates":[[[[-123.176437,44.248081],[-123.175194,44.248058],[-123.172424,44.247536],[-123.176971,44.247681],[-123.191925,44.237911],[-123.195274,44.253254],[-123.176437,44.248081]]]],"created":1292527489,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2436071_20101216_b201e5de47.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

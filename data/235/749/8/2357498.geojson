@@ -1,0 +1,15 @@
+{
+  "id": 2357498,
+  "type": "Feature",
+  "properties": {
+    "name":"Aurora Lodge, Alaska, United States",
+    "placetype":"locality",
+    "woe:id":2357498,
+    "woe:name":"Aurora Lodge, Alaska, United States",
+    "woe:place_id":"z4xUK8GbApmXLved",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-146.932739,64.440002,-146.728592,64.474197],
+  "geometry": {"alpha":0.5,"bbox":[-146.93273925781,64.440002441406,-146.72859191895,64.474197387695],"coordinates":[[[[-146.868149,64.474197],[-146.793991,64.473457],[-146.728592,64.472977],[-146.756744,64.444672],[-146.862137,64.440002],[-146.932739,64.468452],[-146.868149,64.474197]]]],"created":1247885525,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3427/shapefiles/2357498_20090718_720fb71cb8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

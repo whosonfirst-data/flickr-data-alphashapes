@@ -1,0 +1,15 @@
+{
+  "id": 2434500,
+  "type": "Feature",
+  "properties": {
+    "name":"Laddonia, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2434500,
+    "woe:name":"Laddonia, Missouri, United States",
+    "woe:place_id":"2jRGC_ibBZ_2dZVb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.656944,39.236774,-91.642776,39.251129],
+  "geometry": {"alpha":0.00015,"bbox":[-91.656944274902,39.23677444458,-91.642776489258,39.251129150391],"coordinates":[[[[-91.642776,39.243622],[-91.643143,39.241825],[-91.64566,39.236774],[-91.656944,39.246666],[-91.656189,39.251129],[-91.642776,39.243622]]]],"created":1292507043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2434500_20101216_ce701884b7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

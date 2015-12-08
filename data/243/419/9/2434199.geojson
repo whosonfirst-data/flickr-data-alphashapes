@@ -1,0 +1,15 @@
+{
+  "id": 2434199,
+  "type": "Feature",
+  "properties": {
+    "name":"La Garita, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2434199,
+    "woe:name":"La Garita, Colorado, United States",
+    "woe:place_id":"jZg6GDObBZ_pwCb1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.302505,37.832901,-106.285698,37.846527],
+  "geometry": {"alpha":0.00015,"bbox":[-106.30250549316,37.832901000977,-106.28569793701,37.846527099609],"coordinates":[[[[-106.288483,37.845383],[-106.285698,37.8433],[-106.291901,37.832901],[-106.302505,37.840294],[-106.295471,37.846527],[-106.288483,37.845383]]]],"created":1292531945,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2434199_20101216_ae7025fb1e.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

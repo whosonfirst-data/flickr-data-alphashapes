@@ -1,0 +1,15 @@
+{
+  "id": 23396461,
+  "type": "Feature",
+  "properties": {
+    "name":"Marston, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396461,
+    "woe:name":"Marston, Quebec, Canada",
+    "woe:place_id":"v8HwuKybAp8Gy2D7sQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.932625,45.546093,-70.919319,45.560638],
+  "geometry": {"alpha":0.00015,"bbox":[-70.932624816895,45.546092987061,-70.919319152832,45.560638427734],"coordinates":[[[[-70.919319,45.558113],[-70.919449,45.556583],[-70.932625,45.546093],[-70.919754,45.560638],[-70.919319,45.558113]]]],"created":1292546215,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/23396461_20101217_095e110c1a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

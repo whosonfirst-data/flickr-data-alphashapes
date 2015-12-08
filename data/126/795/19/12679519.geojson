@@ -1,0 +1,15 @@
+{
+  "id": 12679519,
+  "type": "Feature",
+  "properties": {
+    "name":"Gazzaniga, Italy",
+    "placetype":"locality",
+    "woe:id":12679519,
+    "woe:name":"Gazzaniga, Italy",
+    "woe:place_id":"8hvVQr2YA5rHA2pu8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.804975,45.817657,9.805147,45.817719],
+  "geometry": {"alpha":1e-05,"bbox":[9.8049745559692,45.817657470703,9.8051471710205,45.817718505859],"coordinates":[[[[9.805018,45.817719],[9.805061,45.817719],[9.805147,45.817673],[9.805061,45.817657],[9.804975,45.817703],[9.805018,45.817719]]]],"created":1292517663,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12679519_20101216_cdc81ba5fc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

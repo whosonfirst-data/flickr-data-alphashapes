@@ -1,0 +1,15 @@
+{
+  "id": 620974,
+  "type": "Feature",
+  "properties": {
+    "name":"Sto Pietro, Corsica, France",
+    "placetype":"locality",
+    "woe:id":620974,
+    "woe:name":"Sto Pietro, Corsica, France",
+    "woe:place_id":"4ggiLYyfA5ykJF4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.154529,42.240765,9.174442,42.246819],
+  "geometry": {"alpha":0.00015,"bbox":[9.1545286178589,42.24076461792,9.1744422912598,42.24681854248],"coordinates":[[[[9.174442,42.244846],[9.173734,42.240765],[9.166288,42.242561],[9.154529,42.244213],[9.158821,42.246819],[9.173455,42.244595],[9.174442,42.244846]]]],"created":1292491502,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/620974_20101216_47a92fb792.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

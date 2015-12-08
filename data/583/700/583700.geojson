@@ -1,0 +1,15 @@
+{
+  "id": 583700,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervione, Corsica, France",
+    "placetype":"locality",
+    "woe:id":583700,
+    "woe:name":"Cervione, Corsica, France",
+    "woe:place_id":"FRUQNoCcCZ9mooc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.477252,42.329426,9.495363,42.338245],
+  "geometry": {"alpha":0.00015,"bbox":[9.4772520065308,42.329425811768,9.4953632354736,42.338245391846],"coordinates":[[[[9.491683,42.330894],[9.489011,42.329426],[9.486608,42.331615],[9.477252,42.335011],[9.490814,42.338245],[9.495363,42.332279],[9.491683,42.330894]]]],"created":1292542153,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/583700_20101216_570668f881.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2373204,
+  "type": "Feature",
+  "properties": {
+    "name":"Caledonia, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2373204,
+    "woe:name":"Caledonia, Missouri, United States",
+    "woe:place_id":"z2shIvGbAptAEENB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.775223,37.762707,-90.772217,37.770126],
+  "geometry": {"alpha":0.00015,"bbox":[-90.77522277832,37.762706756592,-90.772216796875,37.770126342773],"coordinates":[[[[-90.772217,37.764065],[-90.772896,37.762707],[-90.774017,37.764141],[-90.775223,37.768002],[-90.773743,37.770126],[-90.772217,37.764065]]]],"created":1292545985,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2373204_20101217_8756c22431.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

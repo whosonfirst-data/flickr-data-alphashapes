@@ -1,0 +1,15 @@
+{
+  "id": 20224061,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Rosas, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20224061,
+    "woe:name":"Las Rosas, Canary Islands, Spain",
+    "woe:place_id":"Uaa6HeObAZ7x4SburQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-15.397853,27.884035,-15.385751,27.895832],
+  "geometry": {"alpha":0.00015,"bbox":[-15.397852897644,27.884035110474,-15.385750770569,27.895832061768],"coordinates":[[[[-15.395622,27.888927],[-15.397853,27.895832],[-15.39294,27.889687],[-15.385751,27.884035],[-15.393776,27.886272],[-15.395622,27.888927]]]],"created":1292537557,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/20224061_20101216_dbdb538e87.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

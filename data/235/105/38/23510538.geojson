@@ -1,0 +1,15 @@
+{
+  "id": 23510538,
+  "type": "Feature",
+  "properties": {
+    "name":"Center Point, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":23510538,
+    "woe:name":"Center Point, Arkansas, United States",
+    "woe:place_id":"R1g.r9KbApmJHFZ7Qg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.628036,34.816799,-91.594475,34.818558],
+  "geometry": {"alpha":0.00015,"bbox":[-91.628036499023,34.816799163818,-91.59447479248,34.818557739258],"coordinates":[[[[-91.603661,34.816799],[-91.628036,34.818031],[-91.603661,34.818012],[-91.594475,34.818558],[-91.603661,34.816799]]]],"created":1292445811,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/23510538_20101215_15e2449e3b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

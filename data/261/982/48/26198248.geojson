@@ -1,0 +1,15 @@
+{
+  "id": 26198248,
+  "type": "Feature",
+  "properties": {
+    "name":"Yulin, Guangxi, China",
+    "placetype":"county",
+    "woe:id":26198248,
+    "woe:name":"Yulin, Guangxi, China",
+    "woe:place_id":"qTalxWubB50dbYa7YQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [110.10498,22.603233,110.195618,22.682449],
+  "geometry": {"alpha":0.0015,"bbox":[110.10498046875,22.603233337402,110.19561767578,22.68244934082],"coordinates":[[[[110.137939,22.639046],[110.10498,22.669779],[110.12146,22.682449],[110.195618,22.669779],[110.183083,22.642611],[110.147812,22.603233],[110.137939,22.639046]]]],"created":1292519959,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/26198248_20101216_50bd54b0da.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

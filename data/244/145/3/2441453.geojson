@@ -1,0 +1,15 @@
+{
+  "id": 2441453,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Acres, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2441453,
+    "woe:name":"Long Acres, Georgia, United States",
+    "woe:place_id":"qmSmN7ebBZgaHMdG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.875465,33.364548,-83.858467,33.374977],
+  "geometry": {"alpha":0.00015,"bbox":[-83.875465393066,33.364547729492,-83.858467102051,33.374977111816],"coordinates":[[[[-83.859245,33.364548],[-83.859413,33.36462],[-83.875465,33.365662],[-83.862762,33.374977],[-83.858467,33.36573],[-83.859245,33.364548]]]],"created":1292526424,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2441453_20101216_eb96b13b05.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

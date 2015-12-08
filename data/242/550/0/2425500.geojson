@@ -1,0 +1,15 @@
+{
+  "id": 2425500,
+  "type": "Feature",
+  "properties": {
+    "name":"Humboldt, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2425500,
+    "woe:name":"Humboldt, Michigan, United States",
+    "woe:place_id":"SQ.L29mbBZ7iLKW4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.885651,46.505337,-87.86908,46.521606],
+  "geometry": {"alpha":0.00015,"bbox":[-87.885650634766,46.505336761475,-87.869079589844,46.521606445312],"coordinates":[[[[-87.885651,46.505386],[-87.86908,46.521606],[-87.885605,46.505356],[-87.885605,46.505344],[-87.885605,46.505337],[-87.885651,46.505386]]]],"created":1292477530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2425500_20101216_77a9098582.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2369709,
+  "type": "Feature",
+  "properties": {
+    "name":"Bromley, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2369709,
+    "woe:name":"Bromley, Kentucky, United States",
+    "woe:place_id":"juX.xb.bApqEPDhT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.570198,39.064342,-84.555412,39.08606],
+  "geometry": {"alpha":0.00015,"bbox":[-84.570198059082,39.064342498779,-84.55541229248,39.086059570312],"coordinates":[[[[-84.569931,39.067207],[-84.570198,39.064342],[-84.570084,39.067245],[-84.559105,39.08606],[-84.555412,39.085037],[-84.569931,39.067207]]]],"created":1292523270,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2369709_20101216_815fe2555f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

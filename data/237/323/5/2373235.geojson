@@ -1,0 +1,15 @@
+{
+  "id": 2373235,
+  "type": "Feature",
+  "properties": {
+    "name":"Calhoun, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2373235,
+    "woe:name":"Calhoun, Illinois, United States",
+    "woe:place_id":"gADt0OqbAps4mgNY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.068855,38.650772,-88.068489,38.650845],
+  "geometry": {"alpha":0.00015,"bbox":[-88.068855285645,38.650772094727,-88.068489074707,38.650844573975],"coordinates":[[[[-88.068855,38.650772],[-88.06881,38.650795],[-88.068512,38.650845],[-88.068489,38.650795],[-88.068703,38.650772],[-88.068855,38.650772]]]],"created":1292418122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2373235_20101215_de785aa7cd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2353400,
+  "type": "Feature",
+  "properties": {
+    "name":"Allentown, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2353400,
+    "woe:name":"Allentown, Mississippi, United States",
+    "woe:place_id":"s0qngcibAplEucee",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.597443,34.894836,-88.591858,34.90332],
+  "geometry": {"alpha":0.00015,"bbox":[-88.597442626953,34.894836425781,-88.591857910156,34.9033203125],"coordinates":[[[[-88.595123,34.89695],[-88.597443,34.90332],[-88.594048,34.900009],[-88.591858,34.894836],[-88.595123,34.89695]]]],"created":1292459585,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2353400_20101216_7b900e0ce9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

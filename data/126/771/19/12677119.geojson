@@ -1,0 +1,15 @@
+{
+  "id": 12677119,
+  "type": "Feature",
+  "properties": {
+    "name":"Brinzio, Italy",
+    "placetype":"locality",
+    "woe:id":12677119,
+    "woe:name":"Brinzio, Italy",
+    "woe:place_id":"8VGZrKCYA5rg27Z5gA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.788247,45.883316,8.792924,45.88929],
+  "geometry": {"alpha":1e-05,"bbox":[8.7882471084595,45.883316040039,8.7929239273071,45.889289855957],"coordinates":[[[[8.790843,45.888187],[8.79095,45.88929],[8.792667,45.887035],[8.792924,45.88475],[8.788247,45.883316],[8.790843,45.888187]]]],"created":1292523559,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12677119_20101216_a65e5936ff.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

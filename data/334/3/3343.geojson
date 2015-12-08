@@ -1,0 +1,15 @@
+{
+  "id": 3343,
+  "type": "Feature",
+  "properties": {
+    "name":"Messines, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3343,
+    "woe:name":"Messines, Quebec, Canada",
+    "woe:place_id":"aUC.71.aApiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.020409,46.224323,-75.996895,46.256203],
+  "geometry": {"alpha":0.00015,"bbox":[-76.020408630371,46.224323272705,-75.996894836426,46.256202697754],"coordinates":[[[[-75.999298,46.239582],[-75.996895,46.224323],[-76.007195,46.240116],[-76.020409,46.252937],[-76.006081,46.256203],[-75.999298,46.239582]]]],"created":1248265325,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2436/shapefiles/3343_20090722_4768185407.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

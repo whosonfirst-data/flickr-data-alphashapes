@@ -1,0 +1,15 @@
+{
+  "id": 12683346,
+  "type": "Feature",
+  "properties": {
+    "name":"Saxon, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683346,
+    "woe:name":"Saxon, Switzerland",
+    "woe:place_id":"VCk10OmYA5odfc.lDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.200136,46.116741,7.204633,46.119278],
+  "geometry": {"alpha":1e-05,"bbox":[7.2001361846924,46.11674118042,7.2046332359314,46.119277954102],"coordinates":[[[[7.201623,46.116741],[7.200211,46.117649],[7.200136,46.117947],[7.204633,46.119278],[7.201623,46.116741]]]],"created":1292545541,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12683346_20101217_ce0586e503.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

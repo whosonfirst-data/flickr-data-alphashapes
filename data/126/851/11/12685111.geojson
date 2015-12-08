@@ -1,0 +1,15 @@
+{
+  "id": 12685111,
+  "type": "Feature",
+  "properties": {
+    "name":"Lufingen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685111,
+    "woe:name":"Lufingen, Switzerland",
+    "woe:place_id":"1VsLDRmYA5piJogcKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.601179,47.472256,8.605127,47.476318],
+  "geometry": {"alpha":1e-05,"bbox":[8.6011791229248,47.472255706787,8.6051273345947,47.476318359375],"coordinates":[[[[8.604269,47.476318],[8.605127,47.472256],[8.602252,47.474113],[8.601179,47.475765],[8.604269,47.476318]]]],"created":1292535481,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12685111_20101216_920df0197b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

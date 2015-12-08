@@ -1,0 +1,15 @@
+{
+  "id": 12685106,
+  "type": "Feature",
+  "properties": {
+    "name":"Hochfelden, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685106,
+    "woe:name":"Hochfelden, Switzerland",
+    "woe:place_id":"hDG_TMWYA5olw9rkRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.51921,47.529999,8.522247,47.532928],
+  "geometry": {"alpha":1e-05,"bbox":[8.5192098617554,47.529998779297,8.5222473144531,47.532928466797],"coordinates":[[[[8.520992,47.532928],[8.522247,47.532394],[8.522075,47.531868],[8.52,47.529999],[8.51921,47.531197],[8.520992,47.532928]]]],"created":1292452198,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12685106_20101215_471713d93f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

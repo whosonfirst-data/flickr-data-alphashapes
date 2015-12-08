@@ -1,0 +1,15 @@
+{
+  "id": 20075882,
+  "type": "Feature",
+  "properties": {
+    "name":"Vinchio, Italy",
+    "placetype":"locality",
+    "woe:id":20075882,
+    "woe:name":"Vinchio, Italy",
+    "woe:place_id":"egvqohmbAZw3UtJ8Kg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.31459,44.807487,8.317573,44.810459],
+  "geometry": {"alpha":1e-05,"bbox":[8.3145904541016,44.807487487793,8.317572593689,44.810459136963],"coordinates":[[[[8.315963,44.810459],[8.316822,44.809975],[8.317573,44.807487],[8.317,44.807999],[8.31459,44.810219],[8.315963,44.810459]]]],"created":1292537043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/20075882_20101216_4a9e897532.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

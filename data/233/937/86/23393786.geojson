@@ -1,0 +1,15 @@
+{
+  "id": 23393786,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Cambridge, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393786,
+    "woe:name":"Lower Cambridge, New Brunswick, Canada",
+    "woe:place_id":"v1WEcGSbAp9StYgSTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.093536,45.722717,-66.07431,45.73111],
+  "geometry": {"alpha":0.00015,"bbox":[-66.093536376953,45.722717285156,-66.074310302734,45.731109619141],"coordinates":[[[[-66.082932,45.73111],[-66.07431,45.724636],[-66.075943,45.723019],[-66.088127,45.722717],[-66.093536,45.724247],[-66.082932,45.73111]]]],"created":1292445721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/23393786_20101215_605c11ab48.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

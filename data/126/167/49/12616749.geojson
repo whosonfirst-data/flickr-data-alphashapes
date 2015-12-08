@@ -1,0 +1,15 @@
+{
+  "id": 12616749,
+  "type": "Feature",
+  "properties": {
+    "name":"Bierawa, Poland",
+    "placetype":"locality",
+    "woe:id":12616749,
+    "woe:name":"Bierawa, Poland",
+    "woe:place_id":"v1b_TtSYA5o9FF_EsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.267109,50.306255,18.26874,50.307915],
+  "geometry": {"alpha":1e-05,"bbox":[18.267108917236,50.306255340576,18.268739700317,50.307914733887],"coordinates":[[[[18.267893,50.306625],[18.26757,50.307186],[18.267109,50.307915],[18.267689,50.307255],[18.26874,50.306255],[18.268076,50.306568],[18.267893,50.306625]]]],"created":1292461442,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12616749_20101216_91c242a7c7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

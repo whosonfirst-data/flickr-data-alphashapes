@@ -1,0 +1,15 @@
+{
+  "id": 1591135,
+  "type": "Feature",
+  "properties": {
+    "name":"Riversdale, Western Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1591135,
+    "woe:name":"Riversdale, Western Cape, South Africa",
+    "woe:place_id":"J5SVzCuYBJWTbtVP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.228333,-34.09816,21.25448,-34.071999],
+  "geometry": {"alpha":0.00015,"bbox":[21.228332519531,-34.098159790039,21.254480361938,-34.071998596191],"coordinates":[[[[21.244125,-34.083942],[21.246185,-34.071999],[21.25448,-34.091759],[21.248659,-34.091496],[21.228333,-34.09816],[21.236387,-34.088333],[21.244125,-34.083942]]]],"created":1292546768,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/1591135_20101217_94edd6dc81.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

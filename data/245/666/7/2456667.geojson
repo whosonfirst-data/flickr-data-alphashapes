@@ -1,0 +1,15 @@
+{
+  "id": 2456667,
+  "type": "Feature",
+  "properties": {
+    "name":"Myakka City, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2456667,
+    "woe:name":"Myakka City, Florida, United States",
+    "woe:place_id":"87CckOObBZlmM1MU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.171478,27.342457,-82.153183,27.363535],
+  "geometry": {"alpha":0.00015,"bbox":[-82.171478271484,27.342456817627,-82.153182983398,27.363534927368],"coordinates":[[[[-82.164589,27.350246],[-82.171478,27.353863],[-82.157135,27.363535],[-82.153183,27.342457],[-82.162331,27.348145],[-82.164589,27.350246]]]],"created":1292551138,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2456667_20101217_0a71da0af3.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

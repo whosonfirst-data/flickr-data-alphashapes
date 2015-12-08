@@ -1,0 +1,15 @@
+{
+  "id": 151998,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Clara, Bonaire, Netherlands Antilles",
+    "placetype":"locality",
+    "woe:id":151998,
+    "woe:name":"Santa Clara, Bonaire, Netherlands Antilles",
+    "woe:place_id":"cGne1VCYBJ2kCvg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.222008,12.119222,-68.196602,12.137347],
+  "geometry": {"alpha":0.00015,"bbox":[-68.222007751465,12.119221687317,-68.196601867676,12.137347221375],"coordinates":[[[[-68.212738,12.119222],[-68.222008,12.125264],[-68.203468,12.129627],[-68.196602,12.137347],[-68.19986,12.121425],[-68.212738,12.119222]]]],"created":1292510408,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/151998_20101216_acd49f545b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

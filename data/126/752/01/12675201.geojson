@@ -1,0 +1,15 @@
+{
+  "id": 12675201,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberaich, Austria",
+    "placetype":"locality",
+    "woe:id":12675201,
+    "woe:name":"Oberaich, Austria",
+    "woe:place_id":"BO0jWQmYA5pMeqUPyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.207769,47.334309,15.209527,47.334469],
+  "geometry": {"alpha":1e-05,"bbox":[15.207769393921,47.334308624268,15.209527015686,47.334468841553],"coordinates":[[[[15.207794,47.334324],[15.208233,47.334469],[15.209527,47.334381],[15.20838,47.334419],[15.208086,47.33437],[15.207769,47.334309],[15.207794,47.334324]]]],"created":1292529499,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12675201_20101216_92447544da.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

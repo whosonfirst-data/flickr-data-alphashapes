@@ -1,0 +1,15 @@
+{
+  "id": 44839,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenoe, Northern Ireland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":44839,
+    "woe:name":"Glenoe, Northern Ireland, United Kingdom",
+    "woe:place_id":"lPe8XbmdBZQo3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.834512,54.797913,-5.828247,54.800488],
+  "geometry": {"alpha":0.00015,"bbox":[-5.8345122337341,54.797912597656,-5.8282470703125,54.800487518311],"coordinates":[[[[-5.83168,54.800488],[-5.828247,54.800091],[-5.832366,54.797913],[-5.834512,54.798187],[-5.833053,54.800388],[-5.83168,54.800488]]]],"created":1248196323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2473/shapefiles/44839_20090721_6c7f2f4fb9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

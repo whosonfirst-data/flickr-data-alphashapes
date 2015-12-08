@@ -1,0 +1,15 @@
+{
+  "id": 3080,
+  "type": "Feature",
+  "properties": {
+    "name":"Longlac, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3080,
+    "woe:name":"Longlac, Ontario, Canada",
+    "woe:place_id":"4R1p_uSaAZRL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.546516,49.779449,-86.526649,49.784809],
+  "geometry": {"alpha":0.00015,"bbox":[-86.546516418457,49.779449462891,-86.526649475098,49.784809112549],"coordinates":[[[[-86.534561,49.781948],[-86.53141,49.782261],[-86.526649,49.779449],[-86.533661,49.780212],[-86.542053,49.779934],[-86.546516,49.784809],[-86.534561,49.781948]]]],"created":1292538998,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/3080_20101216_05f6fb0b20.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

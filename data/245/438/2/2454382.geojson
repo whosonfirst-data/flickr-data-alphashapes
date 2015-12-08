@@ -1,0 +1,15 @@
+{
+  "id": 2454382,
+  "type": "Feature",
+  "properties": {
+    "name":"Morse, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2454382,
+    "woe:name":"Morse, North Carolina, United States",
+    "woe:place_id":"cjJXhEWbBZmmx6Uo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.1717,36.517147,-76.169563,36.519005],
+  "geometry": {"alpha":0.00015,"bbox":[-76.171699523926,36.517147064209,-76.169563293457,36.519004821777],"coordinates":[[[[-76.17057,36.517963],[-76.1717,36.519005],[-76.170937,36.518353],[-76.17012,36.517643],[-76.169563,36.517147],[-76.17057,36.517963]]]],"created":1292477944,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2454382_20101216_9340a956b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

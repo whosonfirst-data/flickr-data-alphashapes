@@ -1,0 +1,15 @@
+{
+  "id": 1107,
+  "type": "Feature",
+  "properties": {
+    "name":"Norwood, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1107,
+    "woe:name":"Norwood, Ontario, Canada",
+    "woe:place_id":"rQnAhBaYAJx7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.98735,44.378502,-77.968513,44.399002],
+  "geometry": {"alpha":0.00015,"bbox":[-77.987350463867,44.37850189209,-77.96851348877,44.399002075195],"coordinates":[[[[-77.978294,44.380127],[-77.981384,44.378502],[-77.986023,44.390186],[-77.98735,44.399002],[-77.970467,44.396309],[-77.968513,44.383438],[-77.978294,44.380127]]]],"created":1248246139,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2646/shapefiles/1107_20090722_d5b147c01c.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

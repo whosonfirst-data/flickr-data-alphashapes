@@ -1,0 +1,15 @@
+{
+  "id": 724,
+  "type": "Feature",
+  "properties": {
+    "name":"Italy Cross, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":724,
+    "woe:name":"Italy Cross, Nova Scotia, Canada",
+    "woe:place_id":"N5R06Q6eA5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.564934,44.307388,-64.548622,44.312302],
+  "geometry": {"alpha":0.00015,"bbox":[-64.564933776855,44.307388305664,-64.548622131348,44.312301635742],"coordinates":[[[[-64.564934,44.310215],[-64.552231,44.312302],[-64.548622,44.311626],[-64.559608,44.307388],[-64.564934,44.310215]]]],"created":1239325964,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3581/shapefiles/724_20090410_9781cfc03c.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

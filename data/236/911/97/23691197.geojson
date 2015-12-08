@@ -1,0 +1,15 @@
+{
+  "id": 23691197,
+  "type": "Feature",
+  "properties": {
+    "name":"Calhetas, Azores, Portugal",
+    "placetype":"locality",
+    "woe:id":23691197,
+    "woe:name":"Calhetas, Azores, Portugal",
+    "woe:place_id":"5vnwFqObApr0PCr6bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-25.611534,37.811817,-25.597361,37.823776],
+  "geometry": {"alpha":0.00015,"bbox":[-25.611534118652,37.811817169189,-25.597360610962,37.823776245117],"coordinates":[[[[-25.607157,37.812767],[-25.608101,37.81765],[-25.611534,37.823776],[-25.597361,37.818615],[-25.605698,37.811817],[-25.607157,37.812767]]]],"created":1292530212,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/23691197_20101216_9a2ca2e7eb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

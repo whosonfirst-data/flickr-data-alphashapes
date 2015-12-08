@@ -1,0 +1,15 @@
+{
+  "id": 2379224,
+  "type": "Feature",
+  "properties": {
+    "name":"Chesapeake Station, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2379224,
+    "woe:name":"Chesapeake Station, Maryland, United States",
+    "woe:place_id":"BaYcB82bAptee35w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.536942,38.68618,-76.534882,38.691738],
+  "geometry": {"alpha":0.00015,"bbox":[-76.53694152832,38.686180114746,-76.534881591797,38.691738128662],"coordinates":[[[[-76.536858,38.68618],[-76.536942,38.686848],[-76.536255,38.691738],[-76.535881,38.690758],[-76.534882,38.686848],[-76.536858,38.68618]]]],"created":1292535310,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2379224_20101216_38bd37bacf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

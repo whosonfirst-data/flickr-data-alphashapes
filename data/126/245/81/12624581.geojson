@@ -1,0 +1,15 @@
+{
+  "id": 12624581,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bergheim, Germany",
+    "placetype":"locality",
+    "woe:id":12624581,
+    "woe:name":"Gemeinde Bergheim, Germany",
+    "woe:place_id":"lOgCAQKYA5osrG_gvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.609284,50.964466,6.611623,50.965935],
+  "geometry": {"alpha":1e-05,"bbox":[6.6092839241028,50.964466094971,6.6116228103638,50.965934753418],"coordinates":[[[[6.609284,50.964466],[6.609477,50.965508],[6.611623,50.965935],[6.611098,50.965622],[6.609284,50.964466]]]],"created":1234680860,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3252/shapefiles/12624581_20090215_d98703bb32.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

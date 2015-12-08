@@ -1,0 +1,15 @@
+{
+  "id": 771434,
+  "type": "Feature",
+  "properties": {
+    "name":"Real, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":771434,
+    "woe:name":"Real, Valencia, Spain",
+    "woe:place_id":"KGlaQCSeBp2xddE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.131106,38.829945,0.137414,38.834961],
+  "geometry": {"alpha":0.00015,"bbox":[0.13110600411892,38.829944610596,0.13741399347782,38.8349609375],"coordinates":[[[[0.13308,38.834961],[0.133209,38.834961],[0.134453,38.834457],[0.137414,38.833824],[0.133895,38.829945],[0.131492,38.831951],[0.131106,38.833523],[0.13308,38.834961]]]],"created":1292540290,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/771434_20101216_ef94b47ed0.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

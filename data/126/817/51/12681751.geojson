@@ -1,0 +1,15 @@
+{
+  "id": 12681751,
+  "type": "Feature",
+  "properties": {
+    "name":"San Quirino, Italy",
+    "placetype":"locality",
+    "woe:id":12681751,
+    "woe:name":"San Quirino, Italy",
+    "woe:place_id":"ASu86QmYA5rgoi3fgg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.728073,46.066788,12.729789,46.072742],
+  "geometry": {"alpha":1e-05,"bbox":[12.728073120117,46.066787719727,12.729788780212,46.072742462158],"coordinates":[[[[12.728073,46.07143],[12.728073,46.072502],[12.728416,46.072742],[12.729103,46.070599],[12.729789,46.066788],[12.728759,46.068813],[12.728073,46.07143]]]],"created":1292550613,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12681751_20101217_289f14fa48.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

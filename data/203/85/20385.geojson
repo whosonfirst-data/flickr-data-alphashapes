@@ -1,0 +1,15 @@
+{
+  "id": 20385,
+  "type": "Feature",
+  "properties": {
+    "name":"Ford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20385,
+    "woe:name":"Ford, England, United Kingdom",
+    "woe:place_id":"tluC1JSbAZ8x8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.893239,51.777439,-0.868263,51.784237],
+  "geometry": {"alpha":0.00015,"bbox":[-0.89323902130127,51.777439117432,-0.86826300621033,51.784236907959],"coordinates":[[[[-0.874341,51.777439],[-0.877189,51.779896],[-0.893239,51.780666],[-0.881309,51.784237],[-0.872898,51.782921],[-0.868263,51.779205],[-0.868778,51.777508],[-0.874341,51.777439]]]],"created":1292535689,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20385_20101216_a79b16ee1b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12686165,
+  "type": "Feature",
+  "properties": {
+    "name":"Fenghuang, China",
+    "placetype":"locality",
+    "woe:id":12686165,
+    "woe:name":"Fenghuang, China",
+    "woe:place_id":"64D1vTaYA5pgm5ZDvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [109.596687,27.950436,109.600983,27.953808],
+  "geometry": {"alpha":1e-05,"bbox":[109.59668731689,27.950435638428,109.60098266602,27.953807830811],"coordinates":[[[[109.597198,27.953808],[109.599655,27.952065],[109.600723,27.950966],[109.600983,27.950436],[109.597031,27.950512],[109.596687,27.952179],[109.597198,27.953808]]]],"created":1292551667,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12686165_20101217_1b7f4a7999.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 17024,
+  "type": "Feature",
+  "properties": {
+    "name":"Court At Street, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":17024,
+    "woe:name":"Court At Street, England, United Kingdom",
+    "woe:place_id":"LUUiMCWYBpx92w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.044216,51.06657,1.055374,51.075111],
+  "geometry": {"alpha":0.00015,"bbox":[1.0442160367966,51.066570281982,1.0553740262985,51.07511138916],"coordinates":[[[[1.054344,51.07209],[1.055374,51.072037],[1.054601,51.069744],[1.049805,51.06657],[1.047765,51.069721],[1.044216,51.075111],[1.054344,51.07209]]]],"created":1292540815,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/17024_20101216_3e5ffb833e.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 600010,
+  "type": "Feature",
+  "properties": {
+    "name":"La Sentinelle, Nord-Pas-de-Calais, France",
+    "placetype":"locality",
+    "woe:id":600010,
+    "woe:name":"La Sentinelle, Nord-Pas-de-Calais, France",
+    "woe:place_id":"tdSBzV6fAZylFL8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.483223,50.339161,3.504402,50.357796],
+  "geometry": {"alpha":0.00015,"bbox":[3.4832229614258,50.339160919189,3.504401922226,50.357795715332],"coordinates":[[[[3.504402,50.339188],[3.501977,50.339161],[3.499381,50.340816],[3.498909,50.341892],[3.483223,50.357796],[3.50242,50.35025],[3.504402,50.339188]]]],"created":1292450751,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/600010_20101215_fb1341a3ec.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

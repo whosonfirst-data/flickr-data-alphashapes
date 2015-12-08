@@ -1,0 +1,15 @@
+{
+  "id": 28588104,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodlands, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28588104,
+    "woe:name":"Woodlands, New South Wales, Australia",
+    "woe:place_id":"PVgg2KmbCZmVQZurbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.159332,-35.811455,150.164215,-35.794983],
+  "geometry": {"alpha":0.00015,"bbox":[150.15933227539,-35.811454772949,150.16421508789,-35.794982910156],"coordinates":[[[[150.159332,-35.796532],[150.1595,-35.795307],[150.15976,-35.794983],[150.162155,-35.797836],[150.164215,-35.801662],[150.163193,-35.811455],[150.159332,-35.796532]]]],"created":1292481424,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/28588104_20101216_983d080cde.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

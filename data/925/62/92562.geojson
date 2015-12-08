@@ -1,0 +1,15 @@
+{
+  "id": 92562,
+  "type": "Feature",
+  "properties": {
+    "name":"La Boule, Ouest, Haiti",
+    "placetype":"locality",
+    "woe:id":92562,
+    "woe:name":"La Boule, Ouest, Haiti",
+    "woe:place_id":"7pWE0BKQA5lsVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.325485,18.477207,-72.313416,18.497831],
+  "geometry": {"alpha":0.00015,"bbox":[-72.325485229492,18.477207183838,-72.313415527344,18.497831344604],"coordinates":[[[[-72.325485,18.486467],[-72.322914,18.497831],[-72.313416,18.485018],[-72.320297,18.477207],[-72.324188,18.482876],[-72.325485,18.486467]]]],"created":1292534369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/92562_20101216_5ee992879f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

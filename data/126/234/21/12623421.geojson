@@ -1,0 +1,15 @@
+{
+  "id": 12623421,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Sasbach, Germany",
+    "placetype":"locality",
+    "woe:id":12623421,
+    "woe:name":"Gemeinde Sasbach, Germany",
+    "woe:place_id":"dvNM5l2YA5pr7LIsog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.202323,48.612171,8.205671,48.616356],
+  "geometry": {"alpha":1e-05,"bbox":[8.2023229598999,48.612171173096,8.2056713104248,48.616355895996],"coordinates":[[[[8.205327,48.612171],[8.202323,48.613617],[8.204405,48.616356],[8.204555,48.615776],[8.205521,48.613052],[8.205671,48.61261],[8.205327,48.612171]]]],"created":1292520049,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12623421_20101216_8d493cd832.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

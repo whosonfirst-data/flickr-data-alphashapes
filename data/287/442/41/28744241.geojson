@@ -1,0 +1,15 @@
+{
+  "id": 28744241,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanilac, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744241,
+    "woe:name":"Sanilac, Michigan, United States",
+    "woe:place_id":"wIT3F8ubCZtL753U_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.540558,43.357029,-82.533119,43.383621],
+  "geometry": {"alpha":0.00015,"bbox":[-82.540557861328,43.357028961182,-82.53311920166,43.38362121582],"coordinates":[[[[-82.533417,43.368618],[-82.53891,43.357925],[-82.540558,43.357029],[-82.536064,43.367886],[-82.533119,43.383621],[-82.533417,43.368618]]]],"created":1292545582,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/28744241_20101217_61da95899e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

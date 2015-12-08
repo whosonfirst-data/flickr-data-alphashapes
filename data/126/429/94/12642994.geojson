@@ -1,0 +1,15 @@
+{
+  "id": 12642994,
+  "type": "Feature",
+  "properties": {
+    "name":"Domont, France",
+    "placetype":"locality",
+    "woe:id":12642994,
+    "woe:name":"Domont, France",
+    "woe:place_id":"5VrfKuOYA5qHpaML6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.322063,49.030128,2.331193,49.037266],
+  "geometry": {"alpha":1e-05,"bbox":[2.3220629692078,49.030128479004,2.3311929702759,49.037265777588],"coordinates":[[[[2.329006,49.033607],[2.328818,49.033325],[2.326105,49.030128],[2.322063,49.033592],[2.325861,49.034702],[2.331193,49.037266],[2.329006,49.033607]]]],"created":1292488934,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12642994_20101216_b29930a022.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

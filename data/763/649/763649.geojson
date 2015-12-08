@@ -1,0 +1,15 @@
+{
+  "id": 763649,
+  "type": "Feature",
+  "properties": {
+    "name":"S Jorge, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":763649,
+    "woe:name":"S Jorge, Galicia, Spain",
+    "woe:place_id":"sBvBUWyeB58rciQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.304076,43.515194,-8.297424,43.529137],
+  "geometry": {"alpha":0.00015,"bbox":[-8.3040761947632,43.515193939209,-8.2974243164062,43.529136657715],"coordinates":[[[[-8.298282,43.526024],[-8.297424,43.520672],[-8.298797,43.515194],[-8.303604,43.52478],[-8.304076,43.525661],[-8.30017,43.529137],[-8.298282,43.526024]]]],"created":1292453737,"edges":7,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1435/shapefiles/763649_20101215_1cacb6cc97.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

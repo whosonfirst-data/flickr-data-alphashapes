@@ -1,0 +1,15 @@
+{
+  "id": 2363912,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Bar, California, United States",
+    "placetype":"locality",
+    "woe:id":2363912,
+    "woe:name":"Big Bar, California, United States",
+    "woe:place_id":"caWOGMebApqcQzOm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.46978,39.802528,-121.430336,39.832764],
+  "geometry": {"alpha":0.0006103515625,"bbox":[-121.46977996826,39.802528381348,-121.43033599854,39.832763671875],"coordinates":[[[[-121.441666,39.802799],[-121.448029,39.802528],[-121.46978,39.832764],[-121.432014,39.809055],[-121.430336,39.809063],[-121.437035,39.805965],[-121.441666,39.802799]]]],"created":1292538568,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2363912_20101216_682920946c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

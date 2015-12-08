@@ -1,0 +1,15 @@
+{
+  "id": 28745480,
+  "type": "Feature",
+  "properties": {
+    "name":"Allen, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745480,
+    "woe:name":"Allen, Pennsylvania, United States",
+    "woe:place_id":"ponJB9ybCZtBIHiG_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.494781,40.723587,-75.491714,40.724365],
+  "geometry": {"alpha":0.00015,"bbox":[-75.494781494141,40.723587036133,-75.491714477539,40.724365234375],"coordinates":[[[[-75.49234,40.723892],[-75.493065,40.723598],[-75.493233,40.723587],[-75.494781,40.723778],[-75.491714,40.724365],[-75.49234,40.723892]]]],"created":1292489468,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/28745480_20101216_ac869caab1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

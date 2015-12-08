@@ -1,0 +1,15 @@
+{
+  "id": 2519699,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitehouse, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2519699,
+    "woe:name":"Whitehouse, Kentucky, United States",
+    "woe:place_id":"8.5ZNf6bBJ30nUPZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.726295,37.859806,-82.725822,37.860432],
+  "geometry": {"alpha":0.00015,"bbox":[-82.726295471191,37.859806060791,-82.72582244873,37.860431671143],"coordinates":[[[[-82.725822,37.859867],[-82.725853,37.859806],[-82.726234,37.859875],[-82.726295,37.86005],[-82.726067,37.860432],[-82.725822,37.859867]]]],"created":1292448728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2519699_20101215_809f32238b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

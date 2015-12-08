@@ -1,0 +1,15 @@
+{
+  "id": 2492567,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherwood Forest, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2492567,
+    "woe:name":"Sherwood Forest, Delaware, United States",
+    "woe:place_id":"siOXOhObBZX8vdWD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.694168,39.663208,-75.686821,39.673138],
+  "geometry": {"alpha":0.00015,"bbox":[-75.69416809082,39.663208007812,-75.686820983887,39.673137664795],"coordinates":[[[[-75.694168,39.670662],[-75.68988,39.673138],[-75.686821,39.66478],[-75.688271,39.663208],[-75.694168,39.670662]]]],"created":1234523409,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3305/shapefiles/2492567_20090213_1055210fa4.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

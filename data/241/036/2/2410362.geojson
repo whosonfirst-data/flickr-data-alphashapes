@@ -1,0 +1,15 @@
+{
+  "id": 2410362,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilmore Heights, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2410362,
+    "woe:name":"Gilmore Heights, Ohio, United States",
+    "woe:place_id":"D4JQ9pmbBZ0iOM2.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.146202,38.857559,-82.142403,38.865894],
+  "geometry": {"alpha":0.00015,"bbox":[-82.146202087402,38.857559204102,-82.142402648926,38.865894317627],"coordinates":[[[[-82.145935,38.857559],[-82.146202,38.85817],[-82.142403,38.865894],[-82.142418,38.865742],[-82.144714,38.857807],[-82.145935,38.857559]]]],"created":1292485869,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2410362_20101216_69561c1397.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

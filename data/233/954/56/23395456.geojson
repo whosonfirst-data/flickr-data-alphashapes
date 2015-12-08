@@ -1,0 +1,15 @@
+{
+  "id": 23395456,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanmaur, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395456,
+    "woe:name":"Sanmaur, Quebec, Canada",
+    "woe:place_id":"Ah4YCWObAp.YVlqY7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.78624,47.899834,-73.76976,47.921635],
+  "geometry": {"alpha":0.00015,"bbox":[-73.786239624023,47.899833679199,-73.769760131836,47.921634674072],"coordinates":[[[[-73.783134,47.902069],[-73.78624,47.921635],[-73.76976,47.91404],[-73.777122,47.899834],[-73.783134,47.902069]]]],"created":1292532697,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/23395456_20101216_68683cc91f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

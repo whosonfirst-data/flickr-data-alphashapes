@@ -1,0 +1,15 @@
+{
+  "id": 12678774,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca Priora, Italy",
+    "placetype":"locality",
+    "woe:id":12678774,
+    "woe:name":"Rocca Priora, Italy",
+    "woe:place_id":"2W2470KYA5r57Vu4oQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.786283,41.760941,12.791175,41.767982],
+  "geometry": {"alpha":1e-05,"bbox":[12.786282539368,41.760940551758,12.791174888611,41.76798248291],"coordinates":[[[[12.791175,41.76395],[12.786283,41.760941],[12.786283,41.762909],[12.786669,41.764191],[12.787828,41.767982],[12.791175,41.76395]]]],"created":1234711092,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3253/shapefiles/12678774_20090215_956764f736.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 579903,
+  "type": "Feature",
+  "properties": {
+    "name":"Bieuzy, Brittany, France",
+    "placetype":"locality",
+    "woe:id":579903,
+    "woe:name":"Bieuzy, Brittany, France",
+    "woe:place_id":"lWNHdmKcBpUUuqY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.065367,47.967541,-3.048362,47.982037],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0653669834137,47.967540740967,-3.0483620166779,47.982036590576],"coordinates":[[[[-3.048362,47.977341],[-3.061956,47.967541],[-3.065223,47.981644],[-3.065367,47.982037],[-3.049221,47.978027],[-3.048362,47.977341]]]],"created":1292544110,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/579903_20101217_4d2a369563.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

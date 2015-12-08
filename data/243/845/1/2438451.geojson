@@ -1,0 +1,15 @@
+{
+  "id": 2438451,
+  "type": "Feature",
+  "properties": {
+    "name":"Leopold, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2438451,
+    "woe:name":"Leopold, Indiana, United States",
+    "woe:place_id":"2FfKJkSbBZ9Affmj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.602486,38.102425,-86.582214,38.113342],
+  "geometry": {"alpha":0.00015,"bbox":[-86.602485656738,38.102424621582,-86.582214355469,38.113342285156],"coordinates":[[[[-86.583176,38.104725],[-86.586288,38.104691],[-86.600502,38.104637],[-86.602486,38.113342],[-86.586288,38.104691],[-86.582214,38.102425],[-86.583176,38.104725]]]],"created":1292547699,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2438451_20101217_061279b864.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

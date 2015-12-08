@@ -1,0 +1,15 @@
+{
+  "id": 12624717,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Uder, Germany",
+    "placetype":"locality",
+    "woe:id":12624717,
+    "woe:name":"Gemeinde Uder, Germany",
+    "woe:place_id":"KiZK_GGYA5oVUkasuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.100775,51.357258,10.105361,51.361706],
+  "geometry": {"alpha":1e-05,"bbox":[10.100774765015,51.357257843018,10.105360984802,51.361705780029],"coordinates":[[[[10.100775,51.357677],[10.101242,51.361706],[10.102615,51.360043],[10.105361,51.357258],[10.101317,51.357349],[10.100775,51.357677]]]],"created":1292452043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12624717_20101215_362348fcf8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

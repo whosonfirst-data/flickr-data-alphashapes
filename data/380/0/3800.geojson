@@ -1,0 +1,15 @@
+{
+  "id": 3800,
+  "type": "Feature",
+  "properties": {
+    "name":"Pictou Island, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":3800,
+    "woe:name":"Pictou Island, Nova Scotia, Canada",
+    "woe:place_id":"K0NcwB.aCZw.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.674942,45.75782,-62.668762,45.776264],
+  "geometry": {"alpha":0.00015,"bbox":[-62.674942016602,45.757820129395,-62.668762207031,45.776264190674],"coordinates":[[[[-62.672882,45.766624],[-62.674942,45.776264],[-62.668762,45.768841],[-62.67271,45.75782],[-62.672882,45.766624]]]],"created":1292540873,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/3800_20101216_9105eca477.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

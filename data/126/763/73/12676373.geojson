@@ -1,0 +1,15 @@
+{
+  "id": 12676373,
+  "type": "Feature",
+  "properties": {
+    "name":"Avola, Italy",
+    "placetype":"locality",
+    "woe:id":12676373,
+    "woe:name":"Avola, Italy",
+    "woe:place_id":"FZV5Es6YA5q3PR8y6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.09947,36.940231,15.104205,36.946892],
+  "geometry": {"alpha":1e-05,"bbox":[15.09947013855,36.940231323242,15.104205131531,36.946891784668],"coordinates":[[[[15.100879,36.945126],[15.100193,36.945435],[15.09947,36.946758],[15.104012,36.946892],[15.104205,36.94128],[15.102907,36.940231],[15.100879,36.945126]]]],"created":1292533227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12676373_20101216_eddbc9f7ab.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

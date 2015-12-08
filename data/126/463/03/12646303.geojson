@@ -1,0 +1,15 @@
+{
+  "id": 12646303,
+  "type": "Feature",
+  "properties": {
+    "name":"La Godivelle, France",
+    "placetype":"locality",
+    "woe:id":12646303,
+    "woe:name":"La Godivelle, France",
+    "woe:place_id":"jpw_Es.YA5pmeXia7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.917556,45.388126,2.923736,45.391457],
+  "geometry": {"alpha":1e-05,"bbox":[2.9175560474396,45.388126373291,2.9237360954285,45.391456604004],"coordinates":[[[[2.922363,45.388294],[2.922363,45.388279],[2.922342,45.388126],[2.917556,45.389046],[2.923221,45.391457],[2.923736,45.391216],[2.922363,45.388294]]]],"created":1292487664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12646303_20101216_0be27a39ee.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

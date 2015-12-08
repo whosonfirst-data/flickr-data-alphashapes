@@ -1,0 +1,15 @@
+{
+  "id": 2442683,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Waterford, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2442683,
+    "woe:name":"Lower Waterford, Vermont, United States",
+    "woe:place_id":"F44vnKWbBZj9fv4S",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.885262,44.32053,-71.868912,44.335175],
+  "geometry": {"alpha":0.00015,"bbox":[-71.885261535645,44.320529937744,-71.868911743164,44.335174560547],"coordinates":[[[[-71.876503,44.335175],[-71.874619,44.332443],[-71.868912,44.326305],[-71.87278,44.32053],[-71.885262,44.334656],[-71.876503,44.335175]]]],"created":1292493787,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2442683_20101216_b19790be34.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

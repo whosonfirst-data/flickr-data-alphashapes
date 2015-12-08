@@ -1,0 +1,15 @@
+{
+  "id": 2411281,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenoma, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2411281,
+    "woe:name":"Glenoma, Washington, United States",
+    "woe:place_id":"hDncQeCbBZ3OZblV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.11853,46.518768,-122.103447,46.543839],
+  "geometry": {"alpha":0.00015,"bbox":[-122.11853027344,46.518768310547,-122.10344696045,46.543838500977],"coordinates":[[[[-122.108742,46.539379],[-122.103447,46.518768],[-122.11853,46.535164],[-122.116638,46.539734],[-122.104424,46.543839],[-122.108742,46.539379]]]],"created":1292522102,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2411281_20101216_e151d2f310.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

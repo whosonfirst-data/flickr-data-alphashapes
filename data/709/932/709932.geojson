@@ -1,0 +1,15 @@
+{
+  "id": 709932,
+  "type": "Feature",
+  "properties": {
+    "name":"Alberona, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":709932,
+    "woe:name":"Alberona, Puglia, Italy",
+    "woe:place_id":"15xT6WqeAZX_m7s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.11856,41.431046,15.130233,41.456108],
+  "geometry": {"alpha":0.00015,"bbox":[15.118559837341,41.431045532227,15.130232810974,41.456108093262],"coordinates":[[[[15.122873,41.434601],[15.11856,41.456108],[15.1268,41.43449],[15.130233,41.432945],[15.123453,41.431046],[15.121994,41.43391],[15.122873,41.434601]]]],"created":1292534461,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/709932_20101216_00cbf4d383.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

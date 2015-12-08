@@ -1,0 +1,15 @@
+{
+  "id": 28339238,
+  "type": "Feature",
+  "properties": {
+    "name":"Kampville Beach, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":28339238,
+    "woe:name":"Kampville Beach, Missouri, United States",
+    "woe:place_id":"1K.ebfKbCZ.fHF287A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.510178,38.801723,-90.494736,38.815033],
+  "geometry": {"alpha":0.00015,"bbox":[-90.510177612305,38.801723480225,-90.494735717773,38.815032958984],"coordinates":[[[[-90.494736,38.806458],[-90.498581,38.802113],[-90.510178,38.801723],[-90.505371,38.814014],[-90.498978,38.815033],[-90.494736,38.806458]]]],"created":1292521507,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/28339238_20101216_53871bdbaf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

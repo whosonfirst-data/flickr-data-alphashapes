@@ -1,0 +1,15 @@
+{
+  "id": 20130748,
+  "type": "Feature",
+  "properties": {
+    "name":"Marocco, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20130748,
+    "woe:name":"Marocco, Veneto, Italy",
+    "woe:place_id":"KfYwGfCbAZ15JRC9ug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.233995,45.536243,12.252159,45.541737],
+  "geometry": {"alpha":0.00015,"bbox":[12.233995437622,45.536243438721,12.252159118652,45.541736602783],"coordinates":[[[[12.242116,45.536243],[12.23658,45.539001],[12.233995,45.541737],[12.236537,45.541645],[12.252159,45.540714],[12.242116,45.536243]]]],"created":1292539940,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/20130748_20101216_0c7695a348.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

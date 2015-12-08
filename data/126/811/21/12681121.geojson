@@ -1,0 +1,15 @@
+{
+  "id": 12681121,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinerolo, Italy",
+    "placetype":"locality",
+    "woe:id":12681121,
+    "woe:name":"Pinerolo, Italy",
+    "woe:place_id":"CUF4fF2YA5pZPN3nQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.329415,44.880581,7.339311,44.891682],
+  "geometry": {"alpha":1e-05,"bbox":[7.3294148445129,44.8805809021,7.3393111228943,44.891681671143],"coordinates":[[[[7.334341,44.886951],[7.336828,44.891682],[7.336984,44.886276],[7.339311,44.885796],[7.337605,44.885918],[7.335064,44.883976],[7.333846,44.880581],[7.329415,44.883743],[7.329511,44.885189],[7.329597,44.88604],[7.32994,44.888107],[7.330627,44.888592],[7.334341,44.886951]]]],"created":1292488745,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12681121_20101216_47a3b88ab1.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

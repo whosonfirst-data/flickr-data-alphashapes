@@ -1,0 +1,15 @@
+{
+  "id": 3342,
+  "type": "Feature",
+  "properties": {
+    "name":"Maniwaki, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3342,
+    "woe:name":"Maniwaki, Quebec, Canada",
+    "woe:place_id":"XMweO.maAphs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.989342,46.358303,-75.973206,46.395252],
+  "geometry": {"alpha":0.00015,"bbox":[-75.98934173584,46.358303070068,-75.973205566406,46.395252227783],"coordinates":[[[[-75.983849,46.383411],[-75.973549,46.395252],[-75.97377,46.38068],[-75.973206,46.358303],[-75.98127,46.375359],[-75.989342,46.376663],[-75.983849,46.383411]]]],"created":1292517578,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/3342_20101216_79a4fff82b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 708584,
+  "type": "Feature",
+  "properties": {
+    "name":"Zehlendorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":708584,
+    "woe:name":"Zehlendorf, Brandenburg, Germany",
+    "woe:place_id":"PYTEFsOeAZTWUEs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.388385,52.779873,13.409156,52.789642],
+  "geometry": {"alpha":0.00015,"bbox":[13.388384819031,52.779872894287,13.409155845642,52.789642333984],"coordinates":[[[[13.388385,52.779873],[13.397698,52.789642],[13.409156,52.783974],[13.402595,52.784523],[13.388385,52.779873]]]],"created":1292529735,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/708584_20101216_859ea5d3ec.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22756283,
+  "type": "Feature",
+  "properties": {
+    "name":"Dauphin, France",
+    "placetype":"locality",
+    "woe:id":22756283,
+    "woe:name":"Dauphin, France",
+    "woe:place_id":"e7PfWoybA5uye5EZ8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.78001,43.897831,5.785675,43.899361],
+  "geometry": {"alpha":1e-05,"bbox":[5.7800102233887,43.897830963135,5.7856750488281,43.899360656738],"coordinates":[[[[5.783121,43.898479],[5.782591,43.8983],[5.78001,43.897831],[5.782944,43.898823],[5.783395,43.898743],[5.785675,43.899361],[5.783121,43.898479]]]],"created":1292540046,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/22756283_20101216_4d15d547fd.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

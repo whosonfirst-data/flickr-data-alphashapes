@@ -1,0 +1,15 @@
+{
+  "id": 85727,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Izabal, Guatemala",
+    "placetype":"locality",
+    "woe:id":85727,
+    "woe:name":"San Juan, Izabal, Guatemala",
+    "woe:place_id":"tFYXVbaRBJvqVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.88961,15.861287,-88.870811,15.863351],
+  "geometry": {"alpha":0.00015,"bbox":[-88.889610290527,15.861287117004,-88.870811462402,15.863350868225],"coordinates":[[[[-88.871323,15.862443],[-88.88961,15.861287],[-88.872009,15.863104],[-88.870811,15.863351],[-88.871323,15.862443]]]],"created":1292520630,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/85727_20101216_57dc785069.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

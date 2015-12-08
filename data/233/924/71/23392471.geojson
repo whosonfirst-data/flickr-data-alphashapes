@@ -1,0 +1,15 @@
+{
+  "id": 23392471,
+  "type": "Feature",
+  "properties": {
+    "name":"Upper Gagetown, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23392471,
+    "woe:name":"Upper Gagetown, New Brunswick, Canada",
+    "woe:place_id":"5rCbSDqbAp.kC_bntw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.236778,45.834332,-66.215965,45.856304],
+  "geometry": {"alpha":0.00015,"bbox":[-66.236778259277,45.834331512451,-66.215965270996,45.856304168701],"coordinates":[[[[-66.225792,45.849751],[-66.215965,45.845699],[-66.222069,45.834332],[-66.234665,45.847771],[-66.236778,45.856304],[-66.225792,45.849751]]]],"created":1292471886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/23392471_20101216_9534c5295f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

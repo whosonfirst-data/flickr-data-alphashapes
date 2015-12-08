@@ -1,0 +1,15 @@
+{
+  "id": 500003,
+  "type": "Feature",
+  "properties": {
+    "name":"Ko\u0142bacz, West Pomeranian, Poland",
+    "placetype":"locality",
+    "woe:id":500003,
+    "woe:name":"Ko\u0142bacz, West Pomeranian, Poland",
+    "woe:place_id":"YJUrHOWcAZxCdtU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.813368,53.301422,14.814076,53.302197],
+  "geometry": {"alpha":0.00015,"bbox":[14.813367843628,53.301422119141,14.814076423645,53.302196502686],"coordinates":[[[[14.814076,53.302082],[14.813947,53.301422],[14.813368,53.301552],[14.814012,53.302197],[14.814076,53.302082]]]],"created":1234616169,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3521/shapefiles/500003_20090214_a1dcd4b592.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

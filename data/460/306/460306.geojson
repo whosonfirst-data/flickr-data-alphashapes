@@ -1,0 +1,15 @@
+{
+  "id": 460306,
+  "type": "Feature",
+  "properties": {
+    "name":"Oriente, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":460306,
+    "woe:name":"Oriente, Sao Paulo, Brazil",
+    "woe:place_id":"42Bi9GqdB5yAD0U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-50.099201,-22.157837,-50.090618,-22.155516],
+  "geometry": {"alpha":0.00015,"bbox":[-50.099201202393,-22.157836914062,-50.090618133545,-22.155515670776],"coordinates":[[[[-50.097034,-22.156483],[-50.099201,-22.155617],[-50.099201,-22.1556],[-50.091282,-22.155516],[-50.090618,-22.157837],[-50.097034,-22.156483]]]],"created":1292545739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/460306_20101217_a562e8ce52.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

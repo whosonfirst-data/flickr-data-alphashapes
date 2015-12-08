@@ -1,0 +1,15 @@
+{
+  "id": 29370824,
+  "type": "Feature",
+  "properties": {
+    "name":"El Pocillo, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":29370824,
+    "woe:name":"El Pocillo, Madrid, Spain",
+    "woe:place_id":"GbPWan6bCJ8AcrMT6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.011275,40.612885,-4.003529,40.615788],
+  "geometry": {"alpha":0.00015,"bbox":[-4.0112748146057,40.612884521484,-4.0035290718079,40.615787506104],"coordinates":[[[[-4.011275,40.612885],[-4.009457,40.615788],[-4.008657,40.615704],[-4.006,40.615166],[-4.003529,40.614704],[-4.011275,40.612885]]]],"created":1292442597,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/29370824_20101215_1d6ce81a0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

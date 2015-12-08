@@ -1,0 +1,15 @@
+{
+  "id": 718453,
+  "type": "Feature",
+  "properties": {
+    "name":"Moie, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":718453,
+    "woe:name":"Moie, Marche, Italy",
+    "woe:place_id":"LJL5wIOeAJSyUEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.125915,43.501343,13.138328,43.507225],
+  "geometry": {"alpha":0.00015,"bbox":[13.125914573669,43.501342773438,13.138327598572,43.507225036621],"coordinates":[[[[13.13703,43.505318],[13.138328,43.501343],[13.133254,43.501934],[13.12878,43.501808],[13.125915,43.507225],[13.136483,43.505299],[13.13703,43.505318]]]],"created":1292458590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/718453_20101216_51f34c4874.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

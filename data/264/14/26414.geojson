@@ -1,0 +1,15 @@
+{
+  "id": 26414,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Bromley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26414,
+    "woe:name":"Little Bromley, England, United Kingdom",
+    "woe:place_id":"zvKf67GbB5jWdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.045819,51.910099,1.054231,51.918224],
+  "geometry": {"alpha":0.00015,"bbox":[1.0458190441132,51.910099029541,1.0542310476303,51.918224334717],"coordinates":[[[[1.054231,51.9105],[1.054231,51.910149],[1.054129,51.910099],[1.046533,51.916744],[1.045819,51.917561],[1.051254,51.918224],[1.054231,51.9105]]]],"created":1292476634,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/26414_20101216_ba5ed77fcd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

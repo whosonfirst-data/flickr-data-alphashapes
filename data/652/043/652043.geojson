@@ -1,0 +1,15 @@
+{
+  "id": 652043,
+  "type": "Feature",
+  "properties": {
+    "name":"Geltendorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":652043,
+    "woe:name":"Geltendorf, Bavaria, Germany",
+    "woe:place_id":"qEU2ZOafBJ6w7Pc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.022548,48.114845,11.047439,48.130295],
+  "geometry": {"alpha":0.00015,"bbox":[11.022547721863,48.114845275879,11.047438621521,48.130294799805],"coordinates":[[[[11.029243,48.130295],[11.045122,48.127399],[11.047439,48.127888],[11.042633,48.116943],[11.031068,48.114845],[11.022548,48.12611],[11.029243,48.130295]]]],"created":1292528886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/652043_20101216_2bcdc18367.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

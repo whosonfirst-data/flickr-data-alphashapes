@@ -1,0 +1,15 @@
+{
+  "id": 2504323,
+  "type": "Feature",
+  "properties": {
+    "name":"Taylor, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2504323,
+    "woe:name":"Taylor, Arizona, United States",
+    "woe:place_id":"t0EURVabBJy7FZfZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.103607,34.461842,-110.091141,34.47826],
+  "geometry": {"alpha":0.00015,"bbox":[-110.10360717773,34.461841583252,-110.09114074707,34.478260040283],"coordinates":[[[[-110.09771,34.461842],[-110.098457,34.467999],[-110.103607,34.47826],[-110.094162,34.467079],[-110.091141,34.464115],[-110.09771,34.461842]]]],"created":1248107054,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3474/shapefiles/2504323_20090720_0d46e9bd2e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

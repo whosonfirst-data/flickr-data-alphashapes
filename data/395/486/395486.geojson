@@ -1,0 +1,15 @@
+{
+  "id": 395486,
+  "type": "Feature",
+  "properties": {
+    "name":"El Oso, Bolivar, Venezuela",
+    "placetype":"locality",
+    "woe:id":395486,
+    "woe:name":"El Oso, Bolivar, Venezuela",
+    "woe:place_id":"LUv_GNSaCJnfqHs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.12595,5.283858,-61.125507,5.283953],
+  "geometry": {"alpha":0.00015,"bbox":[-61.125949859619,5.2838578224182,-61.125507354736,5.2839531898499],"coordinates":[[[[-61.12595,5.283858],[-61.125938,5.283866],[-61.125538,5.28395],[-61.125507,5.283953],[-61.12595,5.283858]]]],"created":1292523898,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/395486_20101216_48994c5554.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

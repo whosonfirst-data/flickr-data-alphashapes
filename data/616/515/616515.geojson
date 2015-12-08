@@ -1,0 +1,15 @@
+{
+  "id": 616515,
+  "type": "Feature",
+  "properties": {
+    "name":"Pierre-de-Bresse, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":616515,
+    "woe:name":"Pierre-de-Bresse, Burgundy, France",
+    "woe:place_id":"IItnTCWfAJqOJpU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.256915,46.867878,5.282878,46.887474],
+  "geometry": {"alpha":0.00015,"bbox":[5.2569150924683,46.867877960205,5.2828779220581,46.887474060059],"coordinates":[[[[5.264854,46.881756],[5.256915,46.886917],[5.257945,46.887474],[5.267858,46.883118],[5.282878,46.867878],[5.264854,46.881756]]]],"created":1292547029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/616515_20101217_8ec7c58cd9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

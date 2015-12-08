@@ -1,0 +1,15 @@
+{
+  "id": 729060,
+  "type": "Feature",
+  "properties": {
+    "name":"Eleveld, Drenthe, Netherlands",
+    "placetype":"locality",
+    "woe:id":729060,
+    "woe:name":"Eleveld, Drenthe, Netherlands",
+    "woe:place_id":"dNolcMaeA5WFU2s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.564245,52.953293,6.579265,52.974281],
+  "geometry": {"alpha":0.00015,"bbox":[6.564245223999,52.95329284668,6.5792651176453,52.974281311035],"coordinates":[[[[6.564373,52.961254],[6.564245,52.965015],[6.567764,52.974281],[6.57257,52.968906],[6.579265,52.953293],[6.565833,52.960957],[6.564373,52.961254]]]],"created":1292451000,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/729060_20101215_a92e1906c0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

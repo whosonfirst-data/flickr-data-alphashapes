@@ -1,0 +1,15 @@
+{
+  "id": 1103423,
+  "type": "Feature",
+  "properties": {
+    "name":"Lethbridge, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103423,
+    "woe:name":"Lethbridge, Victoria, Australia",
+    "woe:place_id":"SLdQzvqYAJyIGHI.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.141647,-37.971668,144.153671,-37.947174],
+  "geometry": {"alpha":0.00015,"bbox":[144.14164733887,-37.971668243408,144.15367126465,-37.947174072266],"coordinates":[[[[144.141647,-37.947174],[144.153671,-37.95895],[144.142838,-37.971668],[144.145996,-37.962666],[144.141647,-37.947174]]]],"created":1292456405,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/1103423_20101215_f83817e2b5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

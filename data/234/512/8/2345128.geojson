@@ -1,0 +1,15 @@
+{
+  "id": 2345128,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Catarina, CV, Cape Verde",
+    "placetype":"region",
+    "woe:id":2345128,
+    "woe:name":"Santa Catarina, CV, Cape Verde",
+    "woe:place_id":"D4zNE2ybApjJ7hwA",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-24.775715,14.92331,-23.521191,16.802568],
+  "geometry": {"alpha":1.0986328125,"bbox":[-24.775714874268,14.923310279846,-23.521190643311,16.802568435669],"coordinates":[[[[-23.715019,15.189612],[-23.521191,14.92331],[-23.979517,14.92755],[-24.599419,16.617933],[-24.67289,16.66563],[-24.764557,16.747675],[-24.775715,16.757948],[-24.495392,16.802568],[-24.523544,16.751947],[-23.715019,15.189612]]]],"created":1292544027,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2345128_20101217_90ce42b933.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

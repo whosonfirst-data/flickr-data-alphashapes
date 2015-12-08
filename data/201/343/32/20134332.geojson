@@ -1,0 +1,15 @@
+{
+  "id": 20134332,
+  "type": "Feature",
+  "properties": {
+    "name":"Osteria, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20134332,
+    "woe:name":"Osteria, Marche, Italy",
+    "woe:place_id":"bEzXODCbAZ371v_Mng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.996139,43.532372,13.019639,43.549046],
+  "geometry": {"alpha":0.00015,"bbox":[12.996138572693,43.532371520996,13.019639015198,43.549045562744],"coordinates":[[[[13.019639,43.540123],[13.013648,43.539089],[12.996139,43.532372],[13.008499,43.548176],[13.018112,43.549046],[13.019639,43.540123]]]],"created":1292537543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/20134332_20101216_8346886d38.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

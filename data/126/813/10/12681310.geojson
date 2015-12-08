@@ -1,0 +1,15 @@
+{
+  "id": 12681310,
+  "type": "Feature",
+  "properties": {
+    "name":"Quiliano, Italy",
+    "placetype":"locality",
+    "woe:id":12681310,
+    "woe:name":"Quiliano, Italy",
+    "woe:place_id":"9.BQrT.YA5ruvNv.mg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.378448,44.286133,8.384156,44.290588],
+  "geometry": {"alpha":1e-05,"bbox":[8.3784475326538,44.2861328125,8.3841562271118,44.290588378906],"coordinates":[[[[8.383727,44.290012],[8.384156,44.290588],[8.382332,44.2892],[8.378705,44.286133],[8.378448,44.289944],[8.382332,44.2892],[8.383727,44.290012]]]],"created":1292470867,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12681310_20101216_1e10aecd12.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

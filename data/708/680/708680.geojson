@@ -1,0 +1,15 @@
+{
+  "id": 708680,
+  "type": "Feature",
+  "properties": {
+    "name":"Zell, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":708680,
+    "woe:name":"Zell, Bavaria, Germany",
+    "woe:place_id":"b3Bx9CyeAZQtVP0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.576561,47.59977,10.588138,47.61253],
+  "geometry": {"alpha":0.00015,"bbox":[10.576560974121,47.599769592285,10.588137626648,47.612529754639],"coordinates":[[[[10.587172,47.605701],[10.588138,47.603161],[10.576561,47.59977],[10.582237,47.61253],[10.587172,47.605701]]]],"created":1292546020,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/708680_20101217_9c171b087a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

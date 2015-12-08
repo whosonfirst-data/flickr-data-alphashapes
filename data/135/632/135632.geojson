@@ -1,0 +1,15 @@
+{
+  "id": 135632,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmas, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":135632,
+    "woe:name":"Palmas, San Luis Potosi, Mexico",
+    "woe:place_id":"Y4RopGqYApll2YY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.966812,23.799639,-100.946503,23.811092],
+  "geometry": {"alpha":0.00015,"bbox":[-100.96681213379,23.799638748169,-100.94650268555,23.811092376709],"coordinates":[[[[-100.965363,23.811092],[-100.947014,23.803093],[-100.946503,23.799639],[-100.965141,23.810034],[-100.966812,23.810352],[-100.965363,23.811092]]]],"created":1292541868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/135632_20101216_662ef58f8f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

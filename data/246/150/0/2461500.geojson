@@ -1,0 +1,15 @@
+{
+  "id": 2461500,
+  "type": "Feature",
+  "properties": {
+    "name":"North Pownal, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2461500,
+    "woe:name":"North Pownal, Vermont, United States",
+    "woe:place_id":"0sCYY1abBZoETdC.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.267479,42.795448,-73.255501,42.825001],
+  "geometry": {"alpha":0.00015,"bbox":[-73.267478942871,42.795448303223,-73.255500793457,42.825000762939],"coordinates":[[[[-73.265381,42.805099],[-73.260803,42.795448],[-73.267136,42.805759],[-73.267479,42.805981],[-73.2565,42.825001],[-73.255501,42.823502],[-73.265381,42.805099]]]],"created":1292529957,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2461500_20101216_233faf8769.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

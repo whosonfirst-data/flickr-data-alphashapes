@@ -1,0 +1,15 @@
+{
+  "id": 883922,
+  "type": "Feature",
+  "properties": {
+    "name":"Zagon, Covasna, Romania",
+    "placetype":"locality",
+    "woe:id":883922,
+    "woe:name":"Zagon, Covasna, Romania",
+    "woe:place_id":"aVfun5WRCZ_Ilgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.111755,45.769077,26.120899,45.77375],
+  "geometry": {"alpha":0.00015,"bbox":[26.111755371094,45.769077301025,26.120899200439,45.773750305176],"coordinates":[[[[26.119308,45.771233],[26.120899,45.769798],[26.118965,45.769077],[26.113815,45.770397],[26.111755,45.771355],[26.113129,45.77375],[26.119308,45.771233]]]],"created":1292458983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/883922_20101216_1a4b92e258.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

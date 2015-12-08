@@ -1,0 +1,15 @@
+{
+  "id": 20145472,
+  "type": "Feature",
+  "properties": {
+    "name":"Tessi, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20145472,
+    "woe:name":"Tessi, Liguria, Italy",
+    "woe:place_id":"KcD.h.ibAZ30OOWcTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.521198,44.248703,9.536905,44.255741],
+  "geometry": {"alpha":0.00015,"bbox":[9.5211982727051,44.24870300293,9.5369052886963,44.255741119385],"coordinates":[[[[9.529008,44.253132],[9.521198,44.248703],[9.526648,44.255741],[9.531841,44.254543],[9.536905,44.253315],[9.529008,44.253132]]]],"created":1292452264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/20145472_20101215_759fb06e97.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

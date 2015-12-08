@@ -1,0 +1,15 @@
+{
+  "id": 20113013,
+  "type": "Feature",
+  "properties": {
+    "name":"Briosco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20113013,
+    "woe:name":"Briosco, Lombardy, Italy",
+    "woe:place_id":"E2oDMZibAZ0SKzg1dg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.228172,45.706657,9.244394,45.718151],
+  "geometry": {"alpha":0.00015,"bbox":[9.2281723022461,45.706657409668,9.2443943023682,45.718151092529],"coordinates":[[[[9.236412,45.709534],[9.228172,45.706657],[9.232227,45.718151],[9.244394,45.710541],[9.24,45.709999],[9.236412,45.709534]]]],"created":1292462283,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/20113013_20101216_ac8013de18.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4213,
+  "type": "Feature",
+  "properties": {
+    "name":"Yukon Crossing, Yukon Territory, Canada",
+    "placetype":"locality",
+    "woe:id":4213,
+    "woe:name":"Yukon Crossing, Yukon Territory, Canada",
+    "woe:place_id":"z6jWWGmdA50X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-136.411057,62.347267,-136.403503,62.352478],
+  "geometry": {"alpha":0.00015,"bbox":[-136.41105651855,62.347267150879,-136.40350341797,62.352478027344],"coordinates":[[[[-136.403503,62.347816],[-136.403763,62.347267],[-136.407898,62.3489],[-136.411057,62.352478],[-136.403503,62.347816]]]],"created":1292446763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/4213_20101215_e5eec33a42.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

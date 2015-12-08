@@ -1,0 +1,15 @@
+{
+  "id": 23424912,
+  "type": "Feature",
+  "properties": {
+    "name":"Nauru",
+    "placetype":"country",
+    "woe:id":23424912,
+    "woe:name":"Nauru",
+    "woe:place_id":"EE02tV6bApgf.goqxg",
+    "woe:placetype":"country",
+    "woe:placetype_id":12
+},
+  "bbox": [166.640625,-0.703107,167.027344,-0.273192],
+  "geometry": {"alpha":0.175,"bbox":[166.640625,-0.70310699939728,167.02734375,-0.27319198846817],"coordinates":[[[[166.936737,-0.504217],[166.953384,-0.514204],[166.955444,-0.523099],[167.027344,-0.703107],[166.640625,-0.483392],[166.728516,-0.273192],[166.936737,-0.504217]]]],"created":1292530743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/23424912_20101216_513bb9223d.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

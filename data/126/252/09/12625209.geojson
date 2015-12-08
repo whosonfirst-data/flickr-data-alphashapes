@@ -1,0 +1,15 @@
+{
+  "id": 12625209,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kromsdorf, Germany",
+    "placetype":"locality",
+    "woe:id":12625209,
+    "woe:name":"Gemeinde Kromsdorf, Germany",
+    "woe:place_id":"2BN4lVeYA5refP2eIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.362992,50.990097,11.366515,50.994202],
+  "geometry": {"alpha":1e-05,"bbox":[11.362992286682,50.990097045898,11.366515159607,50.994201660156],"coordinates":[[[[11.362992,50.994099],[11.3636,50.994202],[11.365324,50.994049],[11.366515,50.994122],[11.366043,50.990097],[11.362992,50.994099]]]],"created":1292524508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12625209_20101216_58e4075ff5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

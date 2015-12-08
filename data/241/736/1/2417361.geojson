@@ -1,0 +1,15 @@
+{
+  "id": 2417361,
+  "type": "Feature",
+  "properties": {
+    "name":"Harborview, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2417361,
+    "woe:name":"Harborview, Maryland, United States",
+    "woe:place_id":"hFcTQB.bBZ0FKCb2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.549988,39.290329,-76.539001,39.310394],
+  "geometry": {"alpha":0.00015,"bbox":[-76.549987792969,39.290328979492,-76.539001464844,39.310394287109],"coordinates":[[[[-76.543587,39.291061],[-76.549988,39.310394],[-76.539001,39.304813],[-76.543007,39.290329],[-76.543587,39.291061]]]],"created":1292444825,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2417361_20101215_72de70039a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

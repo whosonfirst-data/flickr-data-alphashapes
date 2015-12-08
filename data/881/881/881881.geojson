@@ -1,0 +1,15 @@
+{
+  "id": 881881,
+  "type": "Feature",
+  "properties": {
+    "name":"Kistereme, Mures, Romania",
+    "placetype":"locality",
+    "woe:id":881881,
+    "woe:name":"Kistereme, Mures, Romania",
+    "woe:place_id":"Ri39uviRCZ2mhZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.538994,46.432415,24.540539,46.449863],
+  "geometry": {"alpha":0.00015,"bbox":[24.538993835449,46.432415008545,24.540538787842,46.449863433838],"coordinates":[[[[24.540539,46.449863],[24.540367,46.449154],[24.539852,46.447853],[24.540024,46.432415],[24.538994,46.448147],[24.539852,46.449211],[24.540539,46.449863]]]],"created":1292453883,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/881881_20101215_a5232ed39d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

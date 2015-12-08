@@ -1,0 +1,15 @@
+{
+  "id": 29374184,
+  "type": "Feature",
+  "properties": {
+    "name":"South Bruce Peninsula, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374184,
+    "woe:name":"South Bruce Peninsula, Ontario, Canada",
+    "woe:place_id":"oQFC7e6bCJ.Fk2Tz4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.228104,44.74332,-81.214455,44.747402],
+  "geometry": {"alpha":0.00015,"bbox":[-81.228103637695,44.743320465088,-81.214454650879,44.747402191162],"coordinates":[[[[-81.219498,44.744629],[-81.222351,44.743809],[-81.228104,44.74332],[-81.219864,44.745636],[-81.214455,44.747402],[-81.219498,44.744629]]]],"created":1292535546,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/29374184_20101216_c837a9d629.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

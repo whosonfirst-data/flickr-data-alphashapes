@@ -1,0 +1,15 @@
+{
+  "id": 663509,
+  "type": "Feature",
+  "properties": {
+    "name":"Inchenhofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":663509,
+    "woe:name":"Inchenhofen, Bavaria, Germany",
+    "woe:place_id":"BazOCwSfB58_0lM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.1137,48.51083,11.115591,48.514786],
+  "geometry": {"alpha":0.00015,"bbox":[11.113699913025,48.510829925537,11.115591049194,48.514785766602],"coordinates":[[[[11.115591,48.511024],[11.115475,48.51083],[11.114686,48.511063],[11.114416,48.511745],[11.1137,48.514786],[11.114038,48.513882],[11.115591,48.511024]]]],"created":1292535727,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/663509_20101216_0729a9fc47.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

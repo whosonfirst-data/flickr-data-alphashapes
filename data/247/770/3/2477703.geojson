@@ -1,0 +1,15 @@
+{
+  "id": 2477703,
+  "type": "Feature",
+  "properties": {
+    "name":"Quebec, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2477703,
+    "woe:name":"Quebec, Montana, United States",
+    "woe:place_id":"0zVN1D2bBZvVqrHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.693596,45.726254,-109.661324,45.733505],
+  "geometry": {"alpha":0.00015,"bbox":[-109.69359588623,45.726253509521,-109.66132354736,45.733505249023],"coordinates":[[[[-109.665611,45.729279],[-109.673721,45.729294],[-109.682007,45.72681],[-109.693596,45.733505],[-109.678276,45.730087],[-109.673721,45.729294],[-109.668442,45.728413],[-109.661324,45.726254],[-109.665611,45.729279]]]],"created":1292532601,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2477703_20101216_85dd273a27.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

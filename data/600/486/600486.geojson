@@ -1,0 +1,15 @@
+{
+  "id": 600486,
+  "type": "Feature",
+  "properties": {
+    "name":"La Villette, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":600486,
+    "woe:name":"La Villette, Rhone-Alpes, France",
+    "woe:place_id":"laJp07ifAZxz6pU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.106832,45.190384,6.122989,45.208557],
+  "geometry": {"alpha":0.00015,"bbox":[6.1068320274353,45.190383911133,6.1229891777039,45.208557128906],"coordinates":[[[[6.106832,45.206692],[6.107668,45.208076],[6.118526,45.208557],[6.122989,45.190384],[6.106832,45.206692]]]],"created":1248069012,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3480/shapefiles/600486_20090720_853bab681b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

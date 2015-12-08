@@ -1,0 +1,15 @@
+{
+  "id": 12643474,
+  "type": "Feature",
+  "properties": {
+    "name":"Essay, France",
+    "placetype":"locality",
+    "woe:id":12643474,
+    "woe:name":"Essay, France",
+    "woe:place_id":"a2_7OSuYA5r_a8Rikw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.24187,48.540817,0.247879,48.542068],
+  "geometry": {"alpha":1e-05,"bbox":[0.24187000095844,48.540817260742,0.24787899851799,48.542068481445],"coordinates":[[[[0.245304,48.541782],[0.246763,48.542042],[0.247879,48.542068],[0.246162,48.540817],[0.24187,48.540989],[0.243072,48.542011],[0.245304,48.541782]]]],"created":1292461383,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12643474_20101216_8ec953506b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

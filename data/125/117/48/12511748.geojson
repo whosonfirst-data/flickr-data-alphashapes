@@ -1,0 +1,15 @@
+{
+  "id": 12511748,
+  "type": "Feature",
+  "properties": {
+    "name":"Medicine Hat Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511748,
+    "woe:name":"Medicine Hat Airport, Canada",
+    "woe:place_id":"ihLZiFqYA5kD7dbeDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.723473,50.019211,-110.720947,50.02578],
+  "geometry": {"alpha":1e-05,"bbox":[-110.72347259521,50.01921081543,-110.72094726562,50.025779724121],"coordinates":[[[[-110.721924,50.021488],[-110.723473,50.019211],[-110.723305,50.020809],[-110.721489,50.02578],[-110.720947,50.022408],[-110.721924,50.021488]]]],"created":1292536761,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12511748_20101216_aec93450f4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

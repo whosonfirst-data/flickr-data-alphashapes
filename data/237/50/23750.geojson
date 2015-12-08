@@ -1,0 +1,15 @@
+{
+  "id": 23750,
+  "type": "Feature",
+  "properties": {
+    "name":"Holtby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23750,
+    "woe:name":"Holtby, England, United Kingdom",
+    "woe:place_id":"rCg1L16bApuWAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.986768,53.977341,-0.965938,53.982716],
+  "geometry": {"alpha":0.00015,"bbox":[-0.98676800727844,53.977340698242,-0.96593797206879,53.982715606689],"coordinates":[[[[-0.986596,53.978153],[-0.986768,53.978443],[-0.973663,53.982716],[-0.965938,53.977898],[-0.974006,53.977341],[-0.986596,53.978153]]]],"created":1292446804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/23750_20101215_b21f69166c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

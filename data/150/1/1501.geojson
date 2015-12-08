@@ -1,0 +1,15 @@
+{
+  "id": 1501,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Georges-de-Cacouna, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1501,
+    "woe:name":"St.-Georges-de-Cacouna, Quebec, Canada",
+    "woe:place_id":"FDj4Q3iYBJzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.52652,47.895691,-69.477539,47.934746],
+  "geometry": {"alpha":0.00015,"bbox":[-69.526519775391,47.895690917969,-69.4775390625,47.934745788574],"coordinates":[[[[-69.512299,47.916344],[-69.511185,47.922783],[-69.513245,47.928787],[-69.509811,47.934746],[-69.509659,47.934322],[-69.50016,47.918877],[-69.477539,47.923244],[-69.499092,47.91597],[-69.505859,47.909782],[-69.515564,47.904491],[-69.520584,47.900463],[-69.52652,47.895691],[-69.521828,47.903194],[-69.512299,47.916344]]]],"created":1292532967,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/1501_20101216_d797b8704f.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

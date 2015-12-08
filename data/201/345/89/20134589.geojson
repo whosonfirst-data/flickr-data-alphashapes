@@ -1,0 +1,15 @@
+{
+  "id": 20134589,
+  "type": "Feature",
+  "properties": {
+    "name":"Palazzetto, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20134589,
+    "woe:name":"Palazzetto, Tuscany, Italy",
+    "woe:place_id":"008bogmbAZ06GbNB4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.114044,43.132057,11.142351,43.145084],
+  "geometry": {"alpha":0.00015,"bbox":[11.114044189453,43.132057189941,11.142351150513,43.145084381104],"coordinates":[[[[11.128136,43.144096],[11.142351,43.13261],[11.125695,43.142284],[11.116104,43.132057],[11.114044,43.145084],[11.12285,43.142509],[11.128136,43.144096]]]],"created":1292518951,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/20134589_20101216_55c1db135b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

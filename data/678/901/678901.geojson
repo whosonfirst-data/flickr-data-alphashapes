@@ -1,0 +1,15 @@
+{
+  "id": 678901,
+  "type": "Feature",
+  "properties": {
+    "name":"Neureichenau, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":678901,
+    "woe:name":"Neureichenau, Bavaria, Germany",
+    "woe:place_id":"svzaF22fBpSCq5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.733596,48.747509,13.754882,48.752056],
+  "geometry": {"alpha":0.00015,"bbox":[13.733595848083,48.747509002686,13.754881858826,48.752056121826],"coordinates":[[[[13.742179,48.749397],[13.733596,48.748943],[13.744153,48.752056],[13.754882,48.748211],[13.747719,48.747509],[13.742179,48.749397]]]],"created":1292536505,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/678901_20101216_bd5bb6d321.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

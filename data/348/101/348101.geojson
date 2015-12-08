@@ -1,0 +1,15 @@
+{
+  "id": 348101,
+  "type": "Feature",
+  "properties": {
+    "name":"La Pampa, Atacama Region, Chile",
+    "placetype":"locality",
+    "woe:id":348101,
+    "woe:name":"La Pampa, Atacama Region, Chile",
+    "woe:place_id":"mWmB99KaBZQBMrs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.282204,-28.981489,-70.248985,-28.943266],
+  "geometry": {"alpha":0.00015,"bbox":[-70.282203674316,-28.981489181519,-70.248985290527,-28.943265914917],"coordinates":[[[[-70.280228,-28.981489],[-70.282204,-28.976608],[-70.274216,-28.964294],[-70.274391,-28.96159],[-70.273018,-28.959038],[-70.270615,-28.956635],[-70.256882,-28.943266],[-70.252586,-28.949949],[-70.250183,-28.957535],[-70.248985,-28.960989],[-70.270355,-28.969851],[-70.276024,-28.981415],[-70.280228,-28.981489]]]],"created":1292518173,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/348101_20101216_ec382d8e34.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

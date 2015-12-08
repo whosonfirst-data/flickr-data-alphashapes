@@ -1,0 +1,15 @@
+{
+  "id": 20133703,
+  "type": "Feature",
+  "properties": {
+    "name":"Nicorvo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20133703,
+    "woe:name":"Nicorvo, Lombardy, Italy",
+    "woe:place_id":"zqN17XebAZ0YCCOSQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.658953,45.285275,8.667612,45.301937],
+  "geometry": {"alpha":0.00015,"bbox":[8.6589527130127,45.285274505615,8.6676120758057,45.301937103271],"coordinates":[[[[8.658953,45.301517],[8.659994,45.301937],[8.667526,45.291553],[8.667612,45.285275],[8.662848,45.293095],[8.658953,45.301517]]]],"created":1292517787,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/20133703_20101216_805ec806b2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

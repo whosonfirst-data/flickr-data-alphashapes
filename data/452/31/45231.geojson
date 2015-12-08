@@ -1,0 +1,15 @@
+{
+  "id": 45231,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitehouse, Northern Ireland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":45231,
+    "woe:name":"Whitehouse, Northern Ireland, United Kingdom",
+    "woe:place_id":"nVJ1d4udBJ4sBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.90925,54.656544,-5.900516,54.663864],
+  "geometry": {"alpha":0.00015,"bbox":[-5.9092497825623,54.656543731689,-5.9005160331726,54.663864135742],"coordinates":[[[[-5.90925,54.663532],[-5.904915,54.663864],[-5.900516,54.659683],[-5.905451,54.656544],[-5.90661,54.656681],[-5.90925,54.663532]]]],"created":1292443264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/45231_20101215_b1414c41a4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

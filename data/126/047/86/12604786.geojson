@@ -1,0 +1,15 @@
+{
+  "id": 12604786,
+  "type": "Feature",
+  "properties": {
+    "name":"Husinec, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12604786,
+    "woe:name":"Husinec, Czech Republic",
+    "woe:place_id":"k64x58eYA5p8lMa1Qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.981486,49.043999,13.985333,49.046551],
+  "geometry": {"alpha":1e-05,"bbox":[13.981486320496,49.043998718262,13.985333442688,49.046550750732],"coordinates":[[[[13.985333,49.044334],[13.985333,49.043999],[13.985166,49.044167],[13.981486,49.046551],[13.985,49.045502],[13.985333,49.044334]]]],"created":1292518807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12604786_20101216_aa139a0dbf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2404176,
+  "type": "Feature",
+  "properties": {
+    "name":"Flat Woods, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2404176,
+    "woe:name":"Flat Woods, Tennessee, United States",
+    "woe:place_id":"U80_3KCbBZz_f2VL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.849854,35.465649,-87.833977,35.489536],
+  "geometry": {"alpha":0.00015,"bbox":[-87.849853515625,35.465648651123,-87.833976745605,35.4895362854],"coordinates":[[[[-87.847427,35.465649],[-87.849854,35.466614],[-87.837669,35.478951],[-87.833977,35.489536],[-87.834145,35.478214],[-87.847427,35.465649]]]],"created":1292551143,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2404176_20101217_3a688d5151.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29347199,
+  "type": "Feature",
+  "properties": {
+    "name":"Aschau, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347199,
+    "woe:name":"Aschau, Bavaria, Germany",
+    "woe:place_id":"bNmh1qGbCJ.iRuzFxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.074764,47.664059,12.087638,47.672062],
+  "geometry": {"alpha":0.00015,"bbox":[12.074764251709,47.664058685303,12.087637901306,47.672061920166],"coordinates":[[[[12.085063,47.665443],[12.082166,47.667],[12.074764,47.668915],[12.077,47.669334],[12.086935,47.672062],[12.087638,47.664059],[12.085063,47.665443]]]],"created":1292464145,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/29347199_20101216_1024e637f3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

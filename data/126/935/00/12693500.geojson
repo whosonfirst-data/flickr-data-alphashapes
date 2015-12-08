@@ -1,0 +1,15 @@
+{
+  "id": 12693500,
+  "type": "Feature",
+  "properties": {
+    "name":"Masquefa, Spain",
+    "placetype":"locality",
+    "woe:id":12693500,
+    "woe:name":"Masquefa, Spain",
+    "woe:place_id":"oEjLKnOYA5pyDqttDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.806564,41.498325,1.814557,41.501675],
+  "geometry": {"alpha":1e-05,"bbox":[1.8065639734268,41.4983253479,1.8145569562912,41.5016746521],"coordinates":[[[[1.812229,41.50153],[1.806564,41.500862],[1.812251,41.501617],[1.814557,41.501675],[1.814213,41.500942],[1.812787,41.498325],[1.812229,41.50153]]]],"created":1292536187,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12693500_20101216_1bc66c7cdd.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

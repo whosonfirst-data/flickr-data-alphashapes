@@ -1,0 +1,15 @@
+{
+  "id": 12618365,
+  "type": "Feature",
+  "properties": {
+    "name":"Janowice Wielkie, Poland",
+    "placetype":"locality",
+    "woe:id":12618365,
+    "woe:name":"Janowice Wielkie, Poland",
+    "woe:place_id":"So7Cs8GYA5rbbKMsMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.866317,50.865101,15.870866,50.871349],
+  "geometry": {"alpha":1e-05,"bbox":[15.866316795349,50.865100860596,15.870865821838,50.871349334717],"coordinates":[[[[15.867776,50.865101],[15.868377,50.866699],[15.866317,50.870327],[15.869665,50.871349],[15.870866,50.867077],[15.867776,50.865101]]]],"created":1248198002,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2602/shapefiles/12618365_20090721_d4096d0663.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

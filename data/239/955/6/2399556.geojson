@@ -1,0 +1,15 @@
+{
+  "id": 2399556,
+  "type": "Feature",
+  "properties": {
+    "name":"Enaville, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2399556,
+    "woe:name":"Enaville, Idaho, United States",
+    "woe:place_id":"2m7vRPWbApVnvdzi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.251968,47.555214,-116.244965,47.562164],
+  "geometry": {"alpha":0.00015,"bbox":[-116.25196838379,47.555213928223,-116.24496459961,47.562164306641],"coordinates":[[[[-116.251144,47.562164],[-116.249962,47.560963],[-116.248055,47.558342],[-116.244965,47.555214],[-116.251968,47.559917],[-116.251144,47.562164]]]],"created":1292454326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2399556_20101215_e3acf3923f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

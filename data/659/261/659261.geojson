@@ -1,0 +1,15 @@
+{
+  "id": 659261,
+  "type": "Feature",
+  "properties": {
+    "name":"Heringnohe, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":659261,
+    "woe:name":"Heringnohe, Bavaria, Germany",
+    "woe:place_id":"DcGBriCfBJVieLY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.75949,49.626518,11.769475,49.629948],
+  "geometry": {"alpha":0.00015,"bbox":[11.759490013123,49.626518249512,11.769474983215,49.629947662354],"coordinates":[[[[11.769475,49.627823],[11.769328,49.627712],[11.767215,49.626518],[11.75949,49.629948],[11.764276,49.629776],[11.76764,49.629871],[11.769475,49.627823]]]],"created":1292533858,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/659261_20101216_235c541d12.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1102864,
+  "type": "Feature",
+  "properties": {
+    "name":"Johns River, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1102864,
+    "woe:name":"Johns River, New South Wales, Australia",
+    "woe:place_id":"imNgaVeYAJwrPyPh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.696014,-31.730856,152.697174,-31.729336],
+  "geometry": {"alpha":0.00015,"bbox":[152.6960144043,-31.730855941772,152.69717407227,-31.729335784912],"coordinates":[[[[152.696014,-31.730856],[152.696014,-31.730837],[152.696014,-31.730833],[152.696014,-31.730831],[152.697174,-31.729336],[152.696045,-31.730856],[152.696014,-31.730856]]]],"created":1292444255,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/1102864_20101215_88ee7e5bde.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

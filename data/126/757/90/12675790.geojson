@@ -1,0 +1,15 @@
+{
+  "id": 12675790,
+  "type": "Feature",
+  "properties": {
+    "name":"Acuto, Italy",
+    "placetype":"locality",
+    "woe:id":12675790,
+    "woe:name":"Acuto, Italy",
+    "woe:place_id":"3jX1FEaYA5rhVjcSeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.172607,41.791023,13.175525,41.795197],
+  "geometry": {"alpha":1e-05,"bbox":[13.172607421875,41.791023254395,13.175524711609,41.795196533203],"coordinates":[[[[13.172607,41.794865],[13.174147,41.795197],[13.173894,41.794079],[13.175525,41.791023],[13.173036,41.791855],[13.172607,41.794865]]]],"created":1292458777,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12675790_20101216_19fd69556d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

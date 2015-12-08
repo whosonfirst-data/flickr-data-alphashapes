@@ -1,0 +1,15 @@
+{
+  "id": 760319,
+  "type": "Feature",
+  "properties": {
+    "name":"Estollo, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":760319,
+    "woe:name":"Estollo, La Rioja, Spain",
+    "woe:place_id":"Cs6oznyeB5xGEnI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.868998,42.326649,-2.843141,42.332153],
+  "geometry": {"alpha":0.00015,"bbox":[-2.8689980506897,42.326648712158,-2.843141078949,42.332153320312],"coordinates":[[[[-2.864899,42.326649],[-2.868998,42.329559],[-2.861766,42.332153],[-2.843141,42.332088],[-2.86344,42.329346],[-2.864899,42.326649]]]],"created":1247784848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2463/shapefiles/760319_20090716_64d404b3d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

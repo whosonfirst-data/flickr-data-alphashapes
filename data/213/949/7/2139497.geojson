@@ -1,0 +1,15 @@
+{
+  "id": 2139497,
+  "type": "Feature",
+  "properties": {
+    "name":"Jinjiang, Fujian, China",
+    "placetype":"locality",
+    "woe:id":2139497,
+    "woe:name":"Jinjiang, Fujian, China",
+    "woe:place_id":"6RoYNyqbAJ_ZLZuc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [118.565826,24.816698,118.583298,24.824677],
+  "geometry": {"alpha":0.00015,"bbox":[118.56582641602,24.816698074341,118.58329772949,24.824676513672],"coordinates":[[[[118.57029,24.824209],[118.577667,24.824677],[118.580589,24.823898],[118.583298,24.816698],[118.573204,24.821484],[118.565826,24.822886],[118.57029,24.824209]]]],"created":1292551197,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2139497_20101217_2971df3738.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 652310,
+  "type": "Feature",
+  "properties": {
+    "name":"Geroldstein, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":652310,
+    "woe:name":"Geroldstein, Hesse, Germany",
+    "woe:place_id":"dbWw9fqfBJ5O0bs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.918739,50.084461,7.937709,50.11842],
+  "geometry": {"alpha":0.00015,"bbox":[7.9187388420105,50.084461212158,7.9377088546753,50.118419647217],"coordinates":[[[[7.925949,50.102856],[7.918739,50.084461],[7.923889,50.104725],[7.927102,50.11842],[7.935132,50.116974],[7.937709,50.107239],[7.925949,50.102856]]]],"created":1292499006,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/652310_20101216_3757f1cbef.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

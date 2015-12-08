@@ -1,0 +1,15 @@
+{
+  "id": 12681178,
+  "type": "Feature",
+  "properties": {
+    "name":"Polesella, Italy",
+    "placetype":"locality",
+    "woe:id":12681178,
+    "woe:name":"Polesella, Italy",
+    "woe:place_id":"rlh7CriYA5q9FxgxIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.74197,44.971931,11.745994,44.979584],
+  "geometry": {"alpha":1e-05,"bbox":[11.741970062256,44.97193145752,11.745993614197,44.979583740234],"coordinates":[[[[11.743311,44.975788],[11.744942,44.979584],[11.745994,44.973995],[11.743268,44.971931],[11.74197,44.975082],[11.743311,44.975788]]]],"created":1292549537,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12681178_20101217_841ea65962.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

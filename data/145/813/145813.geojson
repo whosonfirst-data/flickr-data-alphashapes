@@ -1,0 +1,15 @@
+{
+  "id": 145813,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Catarina, Morelos, Mexico",
+    "placetype":"locality",
+    "woe:id":145813,
+    "woe:name":"Santa Catarina, Morelos, Mexico",
+    "woe:place_id":"hi8fRBaYBZkhJBI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.13942,18.971233,-99.117966,19.007351],
+  "geometry": {"alpha":0.00015,"bbox":[-99.139419555664,18.97123336792,-99.117965698242,19.007350921631],"coordinates":[[[[-99.122772,18.990713],[-99.118782,18.971233],[-99.138023,18.972347],[-99.132729,18.986168],[-99.13942,19.007351],[-99.117966,18.995907],[-99.122772,18.990713]]]],"created":1292531231,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/145813_20101216_39fb4bbd1a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

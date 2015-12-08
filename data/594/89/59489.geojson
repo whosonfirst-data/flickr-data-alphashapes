@@ -1,0 +1,15 @@
+{
+  "id": 59489,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marcos, San Jose, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59489,
+    "woe:name":"San Marcos, San Jose, Costa Rica",
+    "woe:place_id":"L3GhaeecCJgIvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.027557,9.653554,-84.017174,9.663707],
+  "geometry": {"alpha":0.00015,"bbox":[-84.027557373047,9.6535539627075,-84.01717376709,9.66370677948],"coordinates":[[[[-84.020332,9.658666],[-84.017174,9.657615],[-84.022064,9.653554],[-84.022751,9.656938],[-84.027557,9.663707],[-84.020332,9.658666]]]],"created":1292548934,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/59489_20101217_8bdc2c5664.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28744987,
+  "type": "Feature",
+  "properties": {
+    "name":"Stark, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744987,
+    "woe:name":"Stark, New York, United States",
+    "woe:place_id":"WfTyMp2bCZt44jhZkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.786423,42.913441,-74.77475,42.919975],
+  "geometry": {"alpha":0.00015,"bbox":[-74.786422729492,42.913440704346,-74.774749755859,42.919975280762],"coordinates":[[[[-74.77475,42.919975],[-74.776855,42.913441],[-74.786423,42.914131],[-74.782478,42.919693],[-74.77475,42.919975]]]],"created":1229350446,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3092/shapefiles/28744987_20081215_de604e5ce2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

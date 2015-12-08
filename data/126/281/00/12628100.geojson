@@ -1,0 +1,15 @@
+{
+  "id": 12628100,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bundenbach, Germany",
+    "placetype":"locality",
+    "woe:id":12628100,
+    "woe:name":"Gemeinde Bundenbach, Germany",
+    "woe:place_id":"6Byn862YA5pAIqiRKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.385172,49.846451,7.390666,49.850269],
+  "geometry": {"alpha":1e-05,"bbox":[7.3851718902588,49.846450805664,7.3906660079956,49.850269317627],"coordinates":[[[[7.390666,49.847946],[7.390537,49.846451],[7.385172,49.84687],[7.38779,49.850269],[7.390666,49.847946]]]],"created":1292448901,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12628100_20101215_ccafe0e982.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

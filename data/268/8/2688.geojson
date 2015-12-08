@@ -1,0 +1,15 @@
+{
+  "id": 2688,
+  "type": "Feature",
+  "properties": {
+    "name":"Schefferville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":2688,
+    "woe:name":"Schefferville, Quebec, Canada",
+    "woe:place_id":".wtau3qbB5Sf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.844421,54.792645,-66.826744,54.821362],
+  "geometry": {"alpha":0.00015,"bbox":[-66.844421386719,54.792644500732,-66.82674407959,54.821361541748],"coordinates":[[[[-66.836548,54.804981],[-66.844421,54.821362],[-66.833473,54.807068],[-66.827515,54.803852],[-66.826744,54.798012],[-66.82885,54.792645],[-66.836548,54.804981]]]],"created":1292510405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2688_20101216_1b37e96974.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

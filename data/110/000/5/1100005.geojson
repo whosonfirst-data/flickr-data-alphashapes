@@ -1,0 +1,15 @@
+{
+  "id": 1100005,
+  "type": "Feature",
+  "properties": {
+    "name":"Augathella, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100005,
+    "woe:name":"Augathella, Queensland, Australia",
+    "woe:place_id":"cQPsvv.YAJxzkEXk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.573929,-25.81233,146.593002,-25.789591],
+  "geometry": {"alpha":0.00015,"bbox":[146.57392883301,-25.812330245972,146.59300231934,-25.789590835571],"coordinates":[[[[146.582504,-25.795889],[146.573929,-25.81233],[146.582123,-25.795807],[146.582321,-25.795729],[146.586792,-25.793709],[146.59198,-25.789591],[146.593002,-25.793852],[146.582657,-25.795839],[146.582504,-25.795889]]]],"created":1292447851,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/1100005_20101215_b775957da9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

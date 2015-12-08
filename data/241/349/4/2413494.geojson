@@ -1,0 +1,15 @@
+{
+  "id": 2413494,
+  "type": "Feature",
+  "properties": {
+    "name":"Grays Ford, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2413494,
+    "woe:name":"Grays Ford, Virginia, United States",
+    "woe:place_id":"TplOClSbBZ1vg0uv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.535881,36.820484,-82.534843,36.825672],
+  "geometry": {"alpha":0.00015,"bbox":[-82.53588104248,36.820484161377,-82.534843444824,36.825672149658],"coordinates":[[[[-82.534843,36.823242],[-82.535133,36.820484],[-82.535393,36.823746],[-82.535881,36.8256],[-82.535873,36.825672],[-82.534843,36.823242]]]],"created":1292500508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2413494_20101216_e9d7945168.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

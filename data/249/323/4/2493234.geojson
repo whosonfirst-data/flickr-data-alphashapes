@@ -1,0 +1,15 @@
+{
+  "id": 2493234,
+  "type": "Feature",
+  "properties": {
+    "name":"Shrewsbury, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2493234,
+    "woe:name":"Shrewsbury, Vermont, United States",
+    "woe:place_id":"3wUIut6bBZWGy4TB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.869392,43.537785,-72.858238,43.550102],
+  "geometry": {"alpha":0.00015,"bbox":[-72.86939239502,43.537784576416,-72.858238220215,43.550102233887],"coordinates":[[[[-72.858322,43.550102],[-72.858238,43.543167],[-72.862358,43.53965],[-72.869392,43.537785],[-72.858322,43.550102]]]],"created":1292527564,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2493234_20101216_16bc07320f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

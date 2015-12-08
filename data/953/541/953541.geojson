@@ -1,0 +1,15 @@
+{
+  "id": 953541,
+  "type": "Feature",
+  "properties": {
+    "name":"Kissos, Thessalia, Greece",
+    "placetype":"locality",
+    "woe:id":953541,
+    "woe:name":"Kissos, Thessalia, Greece",
+    "woe:place_id":"bGZ2j2iQBJ9DlEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.117979,39.400951,23.138451,39.415241],
+  "geometry": {"alpha":0.00015,"bbox":[23.117979049683,39.400951385498,23.138450622559,39.415241241455],"coordinates":[[[[23.133087,39.401184],[23.117979,39.411793],[23.131199,39.415241],[23.138451,39.402508],[23.138065,39.402027],[23.133686,39.400951],[23.133087,39.401184]]]],"created":1292527405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/953541_20101216_3dbd263b9a.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26805227,
+  "type": "Feature",
+  "properties": {
+    "name":"Rio Chico, Venezuela",
+    "placetype":"locality",
+    "woe:id":26805227,
+    "woe:name":"Rio Chico, Venezuela",
+    "woe:place_id":"QqLKvdabB5RhjidCaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.971886,10.349719,-65.970634,10.353254],
+  "geometry": {"alpha":1e-05,"bbox":[-65.971885681152,10.349719047546,-65.970634460449,10.353254318237],"coordinates":[[[[-65.971085,10.352874],[-65.970634,10.352273],[-65.971886,10.349719],[-65.971695,10.353254],[-65.971085,10.352874]]]],"created":1292520370,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/26805227_20101216_173ba8186a.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

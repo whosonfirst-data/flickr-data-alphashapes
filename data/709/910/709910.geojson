@@ -1,0 +1,15 @@
+{
+  "id": 709910,
+  "type": "Feature",
+  "properties": {
+    "name":"Albano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":709910,
+    "woe:name":"Albano, Piedmont, Italy",
+    "woe:place_id":"ASsjiL.eAZX6IGc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.377761,45.416649,8.39776,45.430698],
+  "geometry": {"alpha":0.00015,"bbox":[8.377760887146,45.416648864746,8.3977603912354,45.430698394775],"coordinates":[[[[8.39776,45.424088],[8.395786,45.416649],[8.377761,45.422791],[8.382134,45.426228],[8.39291,45.430698],[8.395957,45.428093],[8.39776,45.424088]]]],"created":1292537825,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/709910_20101216_79c7abbeb3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

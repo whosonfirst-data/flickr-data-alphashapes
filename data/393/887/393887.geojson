@@ -1,0 +1,15 @@
+{
+  "id": 393887,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro, Nueva Esparta, Venezuela",
+    "placetype":"locality",
+    "woe:id":393887,
+    "woe:name":"San Pedro, Nueva Esparta, Venezuela",
+    "woe:place_id":"09qnJHGaCJ.z5Dw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.000854,10.801607,-63.988472,10.812988],
+  "geometry": {"alpha":0.00015,"bbox":[-64.000854492188,10.801607131958,-63.988471984863,10.81298828125],"coordinates":[[[[-63.988472,10.807988],[-63.996048,10.804979],[-64.000854,10.801607],[-63.994846,10.812988],[-63.989471,10.810712],[-63.988472,10.807988]]]],"created":1292545023,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/393887_20101217_a184056def.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

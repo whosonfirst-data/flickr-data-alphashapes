@@ -1,0 +1,15 @@
+{
+  "id": 12629708,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Scharnebeck, Germany",
+    "placetype":"locality",
+    "woe:id":12629708,
+    "woe:name":"Gemeinde Scharnebeck, Germany",
+    "woe:place_id":"X0Cti7WYA5p2Gl0tHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.486879,53.29097,10.488939,53.292564],
+  "geometry": {"alpha":1e-05,"bbox":[10.486879348755,53.290969848633,10.488939285278,53.29256439209],"coordinates":[[[[10.488338,53.291565],[10.487995,53.29097],[10.486879,53.292542],[10.488123,53.292564],[10.488939,53.292439],[10.488338,53.291565]]]],"created":1248141135,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3428/shapefiles/12629708_20090721_6f5124e8d5.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

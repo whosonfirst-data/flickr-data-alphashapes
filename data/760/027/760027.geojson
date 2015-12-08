@@ -1,0 +1,15 @@
+{
+  "id": 760027,
+  "type": "Feature",
+  "properties": {
+    "name":"Escalona, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":760027,
+    "woe:name":"Escalona, Aragon, Spain",
+    "woe:place_id":"fnaRkdqeB5x_OGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.136127,42.491844,0.149173,42.505672],
+  "geometry": {"alpha":0.00015,"bbox":[0.13612699508667,42.491844177246,0.14917300641537,42.505672454834],"coordinates":[[[[0.143165,42.498554],[0.136127,42.503868],[0.143637,42.505672],[0.149173,42.499535],[0.14677,42.491844],[0.146083,42.493427],[0.143165,42.498554]]]],"created":1292534579,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/760027_20101216_838c19c90d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

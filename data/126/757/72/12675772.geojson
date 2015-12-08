@@ -1,0 +1,15 @@
+{
+  "id": 12675772,
+  "type": "Feature",
+  "properties": {
+    "name":"Acquasparta, Italy",
+    "placetype":"locality",
+    "woe:id":12675772,
+    "woe:name":"Acquasparta, Italy",
+    "woe:place_id":"SDPfbwKYA5oXrjrgwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.529445,42.728455,12.532541,42.734177],
+  "geometry": {"alpha":1e-05,"bbox":[12.529444694519,42.728454589844,12.532541275024,42.734176635742],"coordinates":[[[[12.532444,42.734177],[12.532541,42.733616],[12.53165,42.733006],[12.529445,42.728455],[12.529644,42.731861],[12.531886,42.734146],[12.532444,42.734177]]]],"created":1292528319,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12675772_20101216_dbc1b24807.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

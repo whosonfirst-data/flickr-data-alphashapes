@@ -1,0 +1,15 @@
+{
+  "id": 555376,
+  "type": "Feature",
+  "properties": {
+    "name":"Lunde, Syddanmark, Denmark",
+    "placetype":"locality",
+    "woe:id":555376,
+    "woe:name":"Lunde, Syddanmark, Denmark",
+    "woe:place_id":"ks01a2ScBJk08YM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.398166,55.764332,8.403166,55.767334],
+  "geometry": {"alpha":0.00015,"bbox":[8.3981657028198,55.764331817627,8.4031658172607,55.767333984375],"coordinates":[[[[8.398166,55.764832],[8.398275,55.765228],[8.401666,55.767334],[8.403166,55.764999],[8.398333,55.764332],[8.398166,55.764832]]]],"created":1292546542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/555376_20101217_ae3aa31d84.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

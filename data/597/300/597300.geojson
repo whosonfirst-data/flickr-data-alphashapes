@@ -1,0 +1,15 @@
+{
+  "id": 597300,
+  "type": "Feature",
+  "properties": {
+    "name":"La Celle, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":597300,
+    "woe:name":"La Celle, Ile-de-France, France",
+    "woe:place_id":"8QxpxF2cCJu3yaY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.948699,48.637245,1.954536,48.643799],
+  "geometry": {"alpha":0.00015,"bbox":[1.9486989974976,48.637245178223,1.9545359611511,48.643798828125],"coordinates":[[[[1.953919,48.637459],[1.953538,48.637417],[1.951913,48.637245],[1.948699,48.638805],[1.950073,48.643799],[1.954536,48.641983],[1.953919,48.637459]]]],"created":1292510762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/597300_20101216_818f774903.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103341,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanena, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1103341,
+    "woe:name":"Lanena, Tasmania, Australia",
+    "woe:place_id":"tMDoCyeYAJybi5IY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.969604,-41.342922,146.999298,-41.318687],
+  "geometry": {"alpha":0.0006103515625,"bbox":[146.96960449219,-41.342922210693,146.9992980957,-41.318687438965],"coordinates":[[[[146.970291,-41.323715],[146.969604,-41.321136],[146.973892,-41.318687],[146.980423,-41.324265],[146.999298,-41.329388],[146.996033,-41.342922],[146.970291,-41.323715]]]],"created":1292458958,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/1103341_20101216_4b264b2733.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

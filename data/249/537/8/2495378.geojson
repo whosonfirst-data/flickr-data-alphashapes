@@ -1,0 +1,15 @@
+{
+  "id": 2495378,
+  "type": "Feature",
+  "properties": {
+    "name":"Snowden, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2495378,
+    "woe:name":"Snowden, Montana, United States",
+    "woe:place_id":"SwZ8CYSbBZWOur1L",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.093025,48.03046,-104.086189,48.03487],
+  "geometry": {"alpha":0.00015,"bbox":[-104.09302520752,48.030460357666,-104.08618927002,48.034870147705],"coordinates":[[[[-104.091255,48.033199],[-104.093025,48.03487],[-104.089905,48.033043],[-104.086189,48.03046],[-104.089195,48.03072],[-104.091255,48.033199]]]],"created":1248293405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3425/shapefiles/2495378_20090722_23be443c8d.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

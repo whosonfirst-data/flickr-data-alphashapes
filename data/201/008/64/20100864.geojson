@@ -1,0 +1,15 @@
+{
+  "id": 20100864,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellevue, Lausanne, VD, CH, Switzerland",
+    "placetype":"neighbourhood",
+    "woe:id":20100864,
+    "woe:name":"Bellevue, Lausanne, VD, CH, Switzerland",
+    "woe:place_id":"LgtIkVubAZ2xwlqBYA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [6.645741,46.514694,6.656769,46.523232],
+  "geometry": {"alpha":1e-05,"bbox":[6.6457409858704,46.514694213867,6.6567687988281,46.523231506348],"coordinates":[[[[6.656682,46.516937],[6.656769,46.516701],[6.656534,46.514889],[6.651363,46.514694],[6.646943,46.51582],[6.645741,46.516411],[6.645815,46.519249],[6.649099,46.523232],[6.651642,46.518768],[6.65574,46.520069],[6.656682,46.516937]]]],"created":1292541229,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20100864_20101216_09a9c69103.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

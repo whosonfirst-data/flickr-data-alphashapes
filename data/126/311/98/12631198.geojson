@@ -1,0 +1,15 @@
+{
+  "id": 12631198,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Plau am See, Germany",
+    "placetype":"locality",
+    "woe:id":12631198,
+    "woe:name":"Gemeinde Plau am See, Germany",
+    "woe:place_id":"USgBcCWYA5o46JrFMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.274303,53.451054,12.278766,53.455425],
+  "geometry": {"alpha":1e-05,"bbox":[12.274303436279,53.451053619385,12.278765678406,53.455425262451],"coordinates":[[[[12.275161,53.452896],[12.274303,53.455425],[12.275848,53.454632],[12.277393,53.452896],[12.278766,53.451054],[12.275161,53.452896]]]],"created":1292469783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12631198_20101216_53e6b6d159.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

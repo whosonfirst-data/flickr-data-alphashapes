@@ -1,0 +1,15 @@
+{
+  "id": 2373670,
+  "type": "Feature",
+  "properties": {
+    "name":"Camelot, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2373670,
+    "woe:name":"Camelot, Utah, United States",
+    "woe:place_id":"8G6KhymbApsXecCa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.996262,41.083385,-111.991997,41.091312],
+  "geometry": {"alpha":0.00015,"bbox":[-111.99626159668,41.083385467529,-111.99199676514,41.091312408447],"coordinates":[[[[-111.994759,41.091312],[-111.991997,41.090832],[-111.993645,41.083385],[-111.996262,41.087276],[-111.995872,41.091061],[-111.994759,41.091312]]]],"created":1292520260,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2373670_20101216_48ae5e4a09.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

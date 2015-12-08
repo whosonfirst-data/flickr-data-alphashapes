@@ -1,0 +1,15 @@
+{
+  "id": 12681294,
+  "type": "Feature",
+  "properties": {
+    "name":"Putignano, Italy",
+    "placetype":"locality",
+    "woe:id":12681294,
+    "woe:name":"Putignano, Italy",
+    "woe:place_id":"NrKOL4mYA5rpkD4xag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.118587,40.848309,17.12232,40.85537],
+  "geometry": {"alpha":1e-05,"bbox":[17.118587493896,40.848308563232,17.122320175171,40.855369567871],"coordinates":[[[[17.12232,40.849396],[17.121935,40.848309],[17.120197,40.849892],[17.118587,40.851734],[17.119446,40.85537],[17.120604,40.851669],[17.12232,40.849396]]]],"created":1292533420,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12681294_20101216_effd650975.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

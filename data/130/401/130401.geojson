@@ -1,0 +1,15 @@
+{
+  "id": 130401,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Garzas, Chihuahua, Mexico",
+    "placetype":"locality",
+    "woe:id":130401,
+    "woe:name":"Las Garzas, Chihuahua, Mexico",
+    "woe:place_id":"BhMQMr6YApyOTos",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.387871,29.023151,-103.332596,29.045965],
+  "geometry": {"alpha":0.0001875,"bbox":[-103.38787078857,29.023151397705,-103.3325958252,29.045965194702],"coordinates":[[[[-103.371735,29.028555],[-103.364182,29.030506],[-103.355255,29.045965],[-103.351135,29.045364],[-103.332596,29.045214],[-103.336029,29.029455],[-103.359375,29.023151],[-103.369835,29.0236],[-103.377052,29.025928],[-103.387871,29.027954],[-103.371735,29.028555]]]],"created":1292539516,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/130401_20101216_ff7749d954.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

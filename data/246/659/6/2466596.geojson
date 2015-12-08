@@ -1,0 +1,15 @@
+{
+  "id": 2466596,
+  "type": "Feature",
+  "properties": {
+    "name":"Oshawa, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2466596,
+    "woe:name":"Oshawa, Minnesota, United States",
+    "woe:place_id":"HEMgWX2bBZrbrdOZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.623787,46.804451,-94.603172,46.82341],
+  "geometry": {"alpha":0.00015,"bbox":[-94.62378692627,46.80445098877,-94.603172302246,46.82341003418],"coordinates":[[[[-94.622734,46.804527],[-94.623787,46.804935],[-94.619751,46.809341],[-94.603172,46.82341],[-94.617287,46.804451],[-94.622734,46.804527]]]],"created":1292493908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2466596_20101216_666116295e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

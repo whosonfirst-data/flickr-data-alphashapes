@@ -1,0 +1,15 @@
+{
+  "id": 2367098,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2367098,
+    "woe:name":"Boston, Pennsylvania, United States",
+    "woe:place_id":"t_g2RkebApp0ctMk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.829697,40.302929,-79.817215,40.316673],
+  "geometry": {"alpha":0.00015,"bbox":[-79.829696655273,40.302928924561,-79.81721496582,40.316673278809],"coordinates":[[[[-79.829247,40.310604],[-79.829697,40.31181],[-79.826317,40.31337],[-79.819321,40.316673],[-79.817215,40.302929],[-79.826721,40.304714],[-79.829247,40.310604]]]],"created":1292544970,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2367098_20101217_ffc5909ed8.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

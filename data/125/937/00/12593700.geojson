@@ -1,0 +1,15 @@
+{
+  "id": 12593700,
+  "type": "Feature",
+  "properties": {
+    "name":"Pusztaszemes, Somogy, Hungary",
+    "placetype":"county",
+    "woe:id":12593700,
+    "woe:name":"Pusztaszemes, Somogy, Hungary",
+    "woe:place_id":"aZeU7NCYA5nRkdeHlA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [17.923851,46.75433,17.935522,46.786655],
+  "geometry": {"alpha":0.0015,"bbox":[17.923851013184,46.754329681396,17.935522079468,46.786655426025],"coordinates":[[[[17.923851,46.773907],[17.925394,46.778435],[17.928946,46.786655],[17.935522,46.75433],[17.925911,46.768162],[17.923851,46.773907]]]],"created":1292529204,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12593700_20101216_74a2db7d13.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

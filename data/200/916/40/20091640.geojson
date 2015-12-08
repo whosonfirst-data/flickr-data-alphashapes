@@ -1,0 +1,15 @@
+{
+  "id": 20091640,
+  "type": "Feature",
+  "properties": {
+    "name":"Sockburn, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091640,
+    "woe:name":"Sockburn, England, United Kingdom",
+    "woe:place_id":"X73p4X.bAZwUJmePDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.464529,54.45657,-1.461417,54.462955],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4645290374756,54.456569671631,-1.4614169597626,54.462955474854],"coordinates":[[[[-1.461417,54.457989],[-1.46161,54.456692],[-1.463069,54.45657],[-1.464529,54.461555],[-1.46367,54.462955],[-1.461417,54.457989]]]],"created":1292449118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20091640_20101215_e693bc8f34.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

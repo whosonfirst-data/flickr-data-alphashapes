@@ -1,0 +1,15 @@
+{
+  "id": 12678188,
+  "type": "Feature",
+  "properties": {
+    "name":"Filiano, Italy",
+    "placetype":"locality",
+    "woe:id":12678188,
+    "woe:name":"Filiano, Italy",
+    "woe:place_id":"gaRNtymYA5rIVweJdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.705041,40.823177,15.708218,40.824947],
+  "geometry": {"alpha":1e-05,"bbox":[15.705040931702,40.823177337646,15.70821762085,40.824947357178],"coordinates":[[[[15.705041,40.824493],[15.705299,40.824657],[15.707252,40.824947],[15.708218,40.824139],[15.707638,40.823177],[15.70605,40.823357],[15.705041,40.824493]]]],"created":1292522361,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12678188_20101216_3eeb590410.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2418240,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartford, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2418240,
+    "woe:name":"Hartford, Alabama, United States",
+    "woe:place_id":"uKo0QJubBZ0wUecX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.712585,31.093863,-85.689064,31.105862],
+  "geometry": {"alpha":0.00015,"bbox":[-85.712585449219,31.093862533569,-85.689064025879,31.105861663818],"coordinates":[[[[-85.696899,31.1024],[-85.696655,31.102497],[-85.689064,31.105703],[-85.69944,31.093863],[-85.710739,31.094589],[-85.712585,31.105862],[-85.696899,31.1024]]]],"created":1292535343,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2418240_20101216_a89e6f8cbe.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

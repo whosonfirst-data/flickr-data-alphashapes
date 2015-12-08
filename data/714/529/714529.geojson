@@ -1,0 +1,15 @@
+{
+  "id": 714529,
+  "type": "Feature",
+  "properties": {
+    "name":"Concordia, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":714529,
+    "woe:name":"Concordia, Emilia Romagna, Italy",
+    "woe:place_id":"T0KrkyeeAJhHtCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.978354,44.909512,10.993174,44.915951],
+  "geometry": {"alpha":0.00015,"bbox":[10.978354454041,44.909511566162,10.993173599243,44.915950775146],"coordinates":[[[[10.985641,44.915951],[10.993174,44.909512],[10.986,44.912998],[10.983366,44.91333],[10.978354,44.913044],[10.982208,44.914494],[10.985641,44.915951]]]],"created":1292475244,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/714529_20101216_97033b688b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

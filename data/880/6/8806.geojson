@@ -1,0 +1,15 @@
+{
+  "id": 8806,
+  "type": "Feature",
+  "properties": {
+    "name":"Walsh, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8806,
+    "woe:name":"Walsh, Alberta, Canada",
+    "woe:place_id":"d4X9OmuRCZyU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.020523,49.951439,-109.977661,49.960438],
+  "geometry": {"alpha":0.00015,"bbox":[-110.02052307129,49.951438903809,-109.97766113281,49.960437774658],"coordinates":[[[[-110.003654,49.955074],[-110.020523,49.951439],[-110.00782,49.958191],[-110.00061,49.960278],[-109.977661,49.960438],[-109.999237,49.954311],[-110.001984,49.954754],[-110.003654,49.955074]]]],"created":1292550882,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/8806_20101217_abcbeea905.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

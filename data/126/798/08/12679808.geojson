@@ -1,0 +1,15 @@
+{
+  "id": 12679808,
+  "type": "Feature",
+  "properties": {
+    "name":"Lavagno, Italy",
+    "placetype":"locality",
+    "woe:id":12679808,
+    "woe:name":"Lavagno, Italy",
+    "woe:place_id":"U_gRTu2YA5qJ9QYmxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.132,45.439404,11.137878,45.44389],
+  "geometry": {"alpha":1e-05,"bbox":[11.131999969482,45.439403533936,11.137878417969,45.44388961792],"coordinates":[[[[11.132111,45.439404],[11.132,45.439999],[11.132369,45.44389],[11.132755,45.440983],[11.137878,45.440323],[11.132261,45.43943],[11.132111,45.439404]]]],"created":1292452113,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12679808_20101215_e8054fd1ea.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

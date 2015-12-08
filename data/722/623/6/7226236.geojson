@@ -1,0 +1,15 @@
+{
+  "id": 7226236,
+  "type": "Feature",
+  "properties": {
+    "name":"East Sale RAAF, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":7226236,
+    "woe:name":"East Sale RAAF, Victoria, Australia",
+    "woe:place_id":"cK0NbImeA561T89C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.108139,-38.102684,147.139328,-38.098362],
+  "geometry": {"alpha":0.00015,"bbox":[147.10813903809,-38.102684020996,147.13932800293,-38.098361968994],"coordinates":[[[[147.125305,-38.10194],[147.108139,-38.102551],[147.125809,-38.100658],[147.137833,-38.098362],[147.139328,-38.099171],[147.130447,-38.102684],[147.125305,-38.10194]]]],"created":1292545312,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/7226236_20101217_b80977dd33.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

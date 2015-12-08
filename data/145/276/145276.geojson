@@ -1,0 +1,15 @@
+{
+  "id": 145276,
+  "type": "Feature",
+  "properties": {
+    "name":"San Rafael, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":145276,
+    "woe:name":"San Rafael, Chiapas, Mexico",
+    "woe:place_id":"v0GZSV.YBZmT7.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.780472,16.136528,-91.763306,16.150707],
+  "geometry": {"alpha":0.00015,"bbox":[-91.780471801758,16.136528015137,-91.763305664062,16.150707244873],"coordinates":[[[[-91.768799,16.143454],[-91.763306,16.136528],[-91.776352,16.142134],[-91.780472,16.150707],[-91.768799,16.143454]]]],"created":1292498165,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/145276_20101216_b696b48121.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

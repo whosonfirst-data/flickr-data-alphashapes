@@ -1,0 +1,15 @@
+{
+  "id": 59526,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro, San Jose, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59526,
+    "woe:name":"San Pedro, San Jose, Costa Rica",
+    "woe:place_id":"QU740aGcCJkWow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.05983,9.926326,-84.044121,9.939277],
+  "geometry": {"alpha":0.00015,"bbox":[-84.059829711914,9.9263257980347,-84.044120788574,9.9392766952515],"coordinates":[[[[-84.050537,9.936414],[-84.044121,9.939277],[-84.045753,9.929316],[-84.046097,9.928186],[-84.046265,9.927425],[-84.050041,9.926326],[-84.056396,9.929793],[-84.05983,9.934865],[-84.050537,9.936414]]]],"created":1292545805,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/59526_20101217_c7992329c9.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

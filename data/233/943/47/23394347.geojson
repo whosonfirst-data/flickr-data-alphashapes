@@ -1,0 +1,15 @@
+{
+  "id": 23394347,
+  "type": "Feature",
+  "properties": {
+    "name":"Colombier, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394347,
+    "woe:name":"Colombier, Quebec, Canada",
+    "woe:place_id":"22IHqwGbAp90GcuAbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.792633,48.880154,-68.789444,48.880611],
+  "geometry": {"alpha":0.00015,"bbox":[-68.792633056641,48.880153656006,-68.789443969727,48.880611419678],"coordinates":[[[[-68.789444,48.880432],[-68.789619,48.880154],[-68.79258,48.880527],[-68.792633,48.880611],[-68.789444,48.880432]]]],"created":1248107778,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3437/shapefiles/23394347_20090720_c621f3b66a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

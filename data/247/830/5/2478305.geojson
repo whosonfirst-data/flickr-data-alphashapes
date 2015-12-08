@@ -1,0 +1,15 @@
+{
+  "id": 2478305,
+  "type": "Feature",
+  "properties": {
+    "name":"Raleigh, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2478305,
+    "woe:name":"Raleigh, Mississippi, United States",
+    "woe:place_id":"1a6dzlibBZt5AtOZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.523682,32.032726,-89.522438,32.035728],
+  "geometry": {"alpha":0.00015,"bbox":[-89.523681640625,32.032726287842,-89.522438049316,32.03572845459],"coordinates":[[[[-89.523468,32.034122],[-89.522438,32.035728],[-89.522949,32.033401],[-89.523682,32.032726],[-89.523468,32.034122]]]],"created":1292460424,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2478305_20101216_409fd70d09.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681120,
+  "type": "Feature",
+  "properties": {
+    "name":"Pimonte, Italy",
+    "placetype":"locality",
+    "woe:id":12681120,
+    "woe:name":"Pimonte, Italy",
+    "woe:place_id":"PddTJMqYA5q98tgZOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.49176,40.657459,14.499077,40.663166],
+  "geometry": {"alpha":1e-05,"bbox":[14.491760253906,40.657459259033,14.499076843262,40.663166046143],"coordinates":[[[[14.498004,40.657459],[14.493391,40.65979],[14.49176,40.663166],[14.493777,40.6623],[14.499077,40.66114],[14.498536,40.658581],[14.498004,40.657459]]]],"created":1292534803,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12681120_20101216_7225d4857e.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

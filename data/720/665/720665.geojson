@@ -1,0 +1,15 @@
+{
+  "id": 720665,
+  "type": "Feature",
+  "properties": {
+    "name":"Pizzolungo, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":720665,
+    "woe:name":"Pizzolungo, Sicily, Italy",
+    "woe:place_id":"vOXyPs6eA5xwnKI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.549562,38.049339,12.575569,38.070255],
+  "geometry": {"alpha":0.00015,"bbox":[12.549562454224,38.049339294434,12.575569152832,38.070255279541],"coordinates":[[[[12.556257,38.05331],[12.549562,38.049339],[12.553596,38.055798],[12.559776,38.064312],[12.575569,38.070255],[12.565827,38.055904],[12.556257,38.05331]]]],"created":1292527345,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/720665_20101216_8bd92e2bcf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

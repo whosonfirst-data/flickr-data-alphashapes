@@ -1,0 +1,15 @@
+{
+  "id": 2353567,
+  "type": "Feature",
+  "properties": {
+    "name":"Alma, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2353567,
+    "woe:name":"Alma, Texas, United States",
+    "woe:place_id":"8nIsQXqbApmVofGI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.549049,32.282707,-96.535194,32.286877],
+  "geometry": {"alpha":0.00015,"bbox":[-96.549049377441,32.282707214355,-96.535194396973,32.286876678467],"coordinates":[[[[-96.549049,32.2859],[-96.546394,32.286877],[-96.538521,32.284992],[-96.535194,32.282707],[-96.546394,32.285538],[-96.549049,32.2859]]]],"created":1292518535,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2353567_20101216_cbaa26dce5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

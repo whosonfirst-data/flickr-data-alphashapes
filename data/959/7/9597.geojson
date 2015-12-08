@@ -1,0 +1,15 @@
+{
+  "id": 9597,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Grove, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9597,
+    "woe:name":"Forest Grove, British Columbia, Canada",
+    "woe:place_id":"qgL1_GWQBJUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.181946,51.711075,-121.167526,51.732555],
+  "geometry": {"alpha":0.00015,"bbox":[-121.18194580078,51.711074829102,-121.16752624512,51.732555389404],"coordinates":[[[[-121.173508,51.711781],[-121.173874,51.712193],[-121.181946,51.72086],[-121.180573,51.72958],[-121.167526,51.732555],[-121.169411,51.711075],[-121.173508,51.711781]]]],"created":1292515450,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/9597_20101216_1f700d6273.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

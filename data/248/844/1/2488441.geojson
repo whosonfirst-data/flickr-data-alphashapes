@@ -1,0 +1,15 @@
+{
+  "id": 2488441,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandfordville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2488441,
+    "woe:name":"Sandfordville, New York, United States",
+    "woe:place_id":"kVzdZLabBZQ30jlF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.90123,44.727726,-74.890533,44.730675],
+  "geometry": {"alpha":0.00015,"bbox":[-74.901229858398,44.727725982666,-74.890533447266,44.730674743652],"coordinates":[[[[-74.890701,44.730133],[-74.890533,44.729305],[-74.90123,44.727726],[-74.898491,44.730675],[-74.890785,44.730164],[-74.890701,44.730133]]]],"created":1292454550,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2488441_20101215_644db25368.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

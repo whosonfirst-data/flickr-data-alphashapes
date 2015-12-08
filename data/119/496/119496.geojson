@@ -1,0 +1,15 @@
+{
+  "id": 119496,
+  "type": "Feature",
+  "properties": {
+    "name":"El Carmen, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":119496,
+    "woe:name":"El Carmen, Jalisco, Mexico",
+    "woe:place_id":"s1L3ErSYAJW.37g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.908623,20.677723,-103.891029,20.687511],
+  "geometry": {"alpha":0.00015,"bbox":[-103.9086227417,20.677722930908,-103.89102935791,20.687511444092],"coordinates":[[[[-103.897186,20.685469],[-103.908623,20.677723],[-103.901039,20.687511],[-103.898903,20.686995],[-103.891884,20.686363],[-103.891029,20.686272],[-103.897186,20.685469]]]],"created":1292526123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/119496_20101216_01374680a1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

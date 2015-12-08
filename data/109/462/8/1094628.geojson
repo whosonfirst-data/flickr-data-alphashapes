@@ -1,0 +1,15 @@
+{
+  "id": 1094628,
+  "type": "Feature",
+  "properties": {
+    "name":"Bramley, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1094628,
+    "woe:name":"Bramley, Western Australia, Australia",
+    "woe:place_id":"rlIx1eCYAZXISJ.b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.087883,-33.924274,115.114998,-33.906609],
+  "geometry": {"alpha":0.00015,"bbox":[115.08788299561,-33.92427444458,115.11499786377,-33.906608581543],"coordinates":[[[[115.1017,-33.906609],[115.114998,-33.914165],[115.107018,-33.920002],[115.088821,-33.924274],[115.088821,-33.924061],[115.087883,-33.907322],[115.1017,-33.906609]]]],"created":1292524144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/1094628_20101216_032b9ac3e5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

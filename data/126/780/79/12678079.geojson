@@ -1,0 +1,15 @@
+{
+  "id": 12678079,
+  "type": "Feature",
+  "properties": {
+    "name":"Isola della Scala, Italy",
+    "placetype":"locality",
+    "woe:id":12678079,
+    "woe:name":"Isola della Scala, Italy",
+    "woe:place_id":"1giBRVeYA5pgUb8Isg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.003741,45.269691,11.009438,45.273678],
+  "geometry": {"alpha":1e-05,"bbox":[11.003741264343,45.269691467285,11.009437561035,45.273677825928],"coordinates":[[[[11.008816,45.270901],[11.009438,45.269737],[11.008987,45.269691],[11.003741,45.270454],[11.008644,45.273678],[11.008816,45.270901]]]],"created":1292452114,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12678079_20101215_2054eac5de.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

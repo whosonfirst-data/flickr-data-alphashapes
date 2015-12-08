@@ -1,0 +1,15 @@
+{
+  "id": 8801,
+  "type": "Feature",
+  "properties": {
+    "name":"Carmangay, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8801,
+    "woe:name":"Carmangay, Alberta, Canada",
+    "woe:place_id":"3285teaRCZyf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.125534,50.124649,-113.115837,50.139999],
+  "geometry": {"alpha":0.00015,"bbox":[-113.12553405762,50.124649047852,-113.11583709717,50.139999389648],"coordinates":[[[[-113.119095,50.124649],[-113.125534,50.12674],[-113.118835,50.139999],[-113.115837,50.134556],[-113.116524,50.132435],[-113.119095,50.124649]]]],"created":1292443113,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/8801_20101215_29db1c0b20.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

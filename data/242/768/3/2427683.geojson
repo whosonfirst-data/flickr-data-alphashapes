@@ -1,0 +1,15 @@
+{
+  "id": 2427683,
+  "type": "Feature",
+  "properties": {
+    "name":"Irving, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2427683,
+    "woe:name":"Irving, Michigan, United States",
+    "woe:place_id":"Ui282qmbBZ4v9eud",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.413834,42.667713,-85.379028,42.68935],
+  "geometry": {"alpha":0.00015,"bbox":[-85.413833618164,42.667713165283,-85.379028320312,42.689350128174],"coordinates":[[[[-85.379028,42.667713],[-85.395721,42.679199],[-85.413834,42.68935],[-85.395309,42.67944],[-85.379028,42.667713]]]],"created":1292534984,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2427683_20101216_bcbe37ab9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 765524,
+  "type": "Feature",
+  "properties": {
+    "name":"Loporzano, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":765524,
+    "woe:name":"Loporzano, Aragon, Spain",
+    "woe:place_id":"deQ2MFyeB5mGfd8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.332679,42.145267,-0.32135,42.168747],
+  "geometry": {"alpha":0.00015,"bbox":[-0.3326790034771,42.145267486572,-0.32135000824928,42.168746948242],"coordinates":[[[[-0.32506,42.160839],[-0.32341,42.168747],[-0.32135,42.160351],[-0.324783,42.148006],[-0.332679,42.145267],[-0.32506,42.160839]]]],"created":1292447606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/765524_20101215_9af38dfa1d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

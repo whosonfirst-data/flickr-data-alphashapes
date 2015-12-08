@@ -1,0 +1,15 @@
+{
+  "id": 2408555,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallup, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2408555,
+    "woe:name":"Gallup, Ohio, United States",
+    "woe:place_id":"WJBKN5SbBZzoN0ns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.978378,41.219501,-83.977837,41.220181],
+  "geometry": {"alpha":0.00015,"bbox":[-83.978378295898,41.219501495361,-83.977836608887,41.220180511475],"coordinates":[[[[-83.977837,41.219666],[-83.977997,41.219501],[-83.978378,41.220181],[-83.977997,41.219833],[-83.977837,41.219666]]]],"created":1292440687,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2408555_20101215_b039a60fb4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

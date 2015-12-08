@@ -1,0 +1,15 @@
+{
+  "id": 754746,
+  "type": "Feature",
+  "properties": {
+    "name":"Borducedo, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":754746,
+    "woe:name":"Borducedo, Asturias, Spain",
+    "woe:place_id":"bRGEcHqeBJjypSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.295852,43.485931,-6.288986,43.488674],
+  "geometry": {"alpha":0.00015,"bbox":[-6.2958521842957,43.485931396484,-6.2889862060547,43.488674163818],"coordinates":[[[[-6.293792,43.485931],[-6.295852,43.488049],[-6.293106,43.488674],[-6.291046,43.488049],[-6.288986,43.487675],[-6.293792,43.485931]]]],"created":1292411165,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/754746_20101215_8eb0f6d6ca.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

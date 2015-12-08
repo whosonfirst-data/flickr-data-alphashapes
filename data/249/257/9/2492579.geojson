@@ -1,0 +1,15 @@
+{
+  "id": 2492579,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherwood Forest, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2492579,
+    "woe:name":"Sherwood Forest, Maryland, United States",
+    "woe:place_id":"p2_dDLWbBZVfhQBE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.251907,39.37854,-77.239388,39.384663],
+  "geometry": {"alpha":0.00015,"bbox":[-77.251907348633,39.378540039062,-77.239387512207,39.384662628174],"coordinates":[[[[-77.24118,39.381084],[-77.244995,39.37854],[-77.251907,39.381062],[-77.24897,39.381897],[-77.239388,39.384663],[-77.24118,39.381084]]]],"created":1292519934,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2492579_20101216_6afcd1bea2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

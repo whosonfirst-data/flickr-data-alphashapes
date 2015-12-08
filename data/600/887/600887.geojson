@@ -1,0 +1,15 @@
+{
+  "id": 600887,
+  "type": "Feature",
+  "properties": {
+    "name":"Laharmant, Champagne-Ardenne, France",
+    "placetype":"locality",
+    "woe:id":600887,
+    "woe:name":"Laharmant, Champagne-Ardenne, France",
+    "woe:place_id":"CAVcKVCfAZxKoYo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.091851,48.151772,5.111346,48.161736],
+  "geometry": {"alpha":0.00015,"bbox":[5.091851234436,48.15177154541,5.1113457679749,48.161735534668],"coordinates":[[[[5.111346,48.153545],[5.107955,48.151772],[5.091851,48.160473],[5.092785,48.161736],[5.110015,48.154118],[5.111346,48.153545]]]],"created":1292447220,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/600887_20101215_600f839b00.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

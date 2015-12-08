@@ -1,0 +1,15 @@
+{
+  "id": 23391235,
+  "type": "Feature",
+  "properties": {
+    "name":"Millbrook, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391235,
+    "woe:name":"Millbrook, Nova Scotia, Canada",
+    "woe:place_id":".XQA.IabAp_VDG2XTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.311977,45.339054,-63.305195,45.347137],
+  "geometry": {"alpha":0.00015,"bbox":[-63.311977386475,45.339054107666,-63.305194854736,45.347137451172],"coordinates":[[[[-63.305454,45.339054],[-63.309746,45.343941],[-63.311977,45.347137],[-63.305195,45.342628],[-63.305454,45.339054]]]],"created":1292542388,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/23391235_20101216_84f09b7ced.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

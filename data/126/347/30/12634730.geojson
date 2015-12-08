@@ -1,0 +1,15 @@
+{
+  "id": 12634730,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Aindling, Germany",
+    "placetype":"locality",
+    "woe:id":12634730,
+    "woe:name":"Gemeinde Aindling, Germany",
+    "woe:place_id":"GsANB1GYA5q.733J4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.010875,48.492207,11.011819,48.493248],
+  "geometry": {"alpha":1e-05,"bbox":[11.01087474823,48.492206573486,11.011818885803,48.49324798584],"coordinates":[[[[11.011819,48.493248],[11.011776,48.492207],[11.011036,48.492386],[11.010875,48.492718],[11.011819,48.493248]]]],"created":1292522729,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12634730_20101216_4c6043d3ea.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12676185,
+  "type": "Feature",
+  "properties": {
+    "name":"Arcene, Italy",
+    "placetype":"locality",
+    "woe:id":12676185,
+    "woe:name":"Arcene, Italy",
+    "woe:place_id":"BF5QwWKYA5qd.96BSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.615998,45.575901,9.617671,45.580193],
+  "geometry": {"alpha":1e-05,"bbox":[9.6159982681274,45.575901031494,9.6176710128784,45.580192565918],"coordinates":[[[[9.615998,45.580193],[9.616148,45.578651],[9.617671,45.575901],[9.616073,45.578602],[9.615998,45.580193]]]],"created":1248240130,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2490/shapefiles/12676185_20090722_9871a43d11.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

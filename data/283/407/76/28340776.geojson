@@ -1,0 +1,15 @@
+{
+  "id": 28340776,
+  "type": "Feature",
+  "properties": {
+    "name":"Volcano, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":28340776,
+    "woe:name":"Volcano, West Virginia, United States",
+    "woe:place_id":"BW3lU1CbCZ.X5YAPSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.295479,39.243156,-81.289261,39.253201],
+  "geometry": {"alpha":0.00015,"bbox":[-81.295478820801,39.243156433105,-81.289260864258,39.253200531006],"coordinates":[[[[-81.292938,39.244198],[-81.293442,39.244007],[-81.295479,39.243156],[-81.289261,39.253201],[-81.292938,39.244198]]]],"created":1234502522,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3527/shapefiles/28340776_20090213_ee4a18bd99.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

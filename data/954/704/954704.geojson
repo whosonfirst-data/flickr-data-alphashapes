@@ -1,0 +1,15 @@
+{
+  "id": 954704,
+  "type": "Feature",
+  "properties": {
+    "name":"Krionerion, Thessalia, Greece",
+    "placetype":"locality",
+    "woe:id":954704,
+    "woe:name":"Krionerion, Thessalia, Greece",
+    "woe:place_id":"EzFOPnKQBJgjni0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.683578,39.331573,21.713963,39.359253],
+  "geometry": {"alpha":0.00015,"bbox":[21.683578491211,39.331573486328,21.713962554932,39.359252929688],"coordinates":[[[[21.68787,39.335064],[21.683578,39.346245],[21.701065,39.347374],[21.704178,39.359253],[21.713963,39.341133],[21.701088,39.331573],[21.68787,39.335064]]]],"created":1292520965,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/954704_20101216_37e057b745.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

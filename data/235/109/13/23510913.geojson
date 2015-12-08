@@ -1,0 +1,15 @@
+{
+  "id": 23510913,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Mccoy, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":23510913,
+    "woe:name":"Lake Mccoy, Indiana, United States",
+    "woe:place_id":"Sf_0s0GbApmrNCK9Yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.396408,39.319183,-85.388733,39.334061],
+  "geometry": {"alpha":0.00015,"bbox":[-85.396408081055,39.319183349609,-85.388732910156,39.334060668945],"coordinates":[[[[-85.388733,39.329849],[-85.388878,39.319183],[-85.389687,39.319283],[-85.396408,39.334061],[-85.394569,39.333218],[-85.388733,39.329849]]]],"created":1292442025,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/23510913_20101215_9489629894.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

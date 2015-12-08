@@ -1,0 +1,15 @@
+{
+  "id": 25946840,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruona, Western Finland, Finland",
+    "placetype":"locality",
+    "woe:id":25946840,
+    "woe:name":"Ruona, Western Finland, Finland",
+    "woe:place_id":"dAmqJJ2bBJW8kZgsBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.016258,60.468304,22.041792,60.477619],
+  "geometry": {"alpha":0.00015,"bbox":[22.016258239746,60.46830368042,22.041791915894,60.477619171143],"coordinates":[[[[22.032738,60.477272],[22.038166,60.477501],[22.041792,60.477619],[22.036686,60.468304],[22.018017,60.468853],[22.016258,60.469528],[22.032738,60.477272]]]],"created":1292544575,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/25946840_20101217_9223ae3b99.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

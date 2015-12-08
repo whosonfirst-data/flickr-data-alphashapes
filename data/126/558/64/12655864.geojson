@@ -1,0 +1,15 @@
+{
+  "id": 12655864,
+  "type": "Feature",
+  "properties": {
+    "name":"Auroux, France",
+    "placetype":"locality",
+    "woe:id":12655864,
+    "woe:name":"Auroux, France",
+    "woe:place_id":"k1uabPiYA5ptQTek9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.719596,44.751945,3.726426,44.753288],
+  "geometry": {"alpha":1e-05,"bbox":[3.7195959091187,44.751945495605,3.7264258861542,44.753288269043],"coordinates":[[[[3.720903,44.753288],[3.722912,44.752087],[3.726426,44.752987],[3.725154,44.751945],[3.722912,44.752087],[3.719596,44.75309],[3.720903,44.753288]]]],"created":1292479623,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12655864_20101216_214f036014.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

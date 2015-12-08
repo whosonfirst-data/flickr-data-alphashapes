@@ -1,0 +1,15 @@
+{
+  "id": 2437263,
+  "type": "Feature",
+  "properties": {
+    "name":"Lawrence, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2437263,
+    "woe:name":"Lawrence, Texas, United States",
+    "woe:place_id":"_5d4GFKbBZ_sMe5I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.376694,32.73917,-96.368896,32.76252],
+  "geometry": {"alpha":0.00015,"bbox":[-96.376693725586,32.739170074463,-96.368896484375,32.762519836426],"coordinates":[[[[-96.372704,32.739201],[-96.376694,32.739529],[-96.372925,32.76252],[-96.368896,32.739223],[-96.372414,32.73917],[-96.372704,32.739201]]]],"created":1292550861,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2437263_20101217_3445df160d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

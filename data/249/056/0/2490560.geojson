@@ -1,0 +1,15 @@
+{
+  "id": 2490560,
+  "type": "Feature",
+  "properties": {
+    "name":"Seeger Place, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2490560,
+    "woe:name":"Seeger Place, Pennsylvania, United States",
+    "woe:place_id":"Y6i8qdebBZX__hfc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.767128,40.721794,-77.75428,40.737633],
+  "geometry": {"alpha":0.00015,"bbox":[-77.767127990723,40.721794128418,-77.754280090332,40.737632751465],"coordinates":[[[[-77.75428,40.736332],[-77.754578,40.732819],[-77.75737,40.729794],[-77.767128,40.721794],[-77.76329,40.737633],[-77.75428,40.736332]]]],"created":1248291015,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2581/shapefiles/2490560_20090722_9a0fc15afa.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

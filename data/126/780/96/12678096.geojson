@@ -1,0 +1,15 @@
+{
+  "id": 12678096,
+  "type": "Feature",
+  "properties": {
+    "name":"Longarone, Italy",
+    "placetype":"locality",
+    "woe:id":12678096,
+    "woe:name":"Longarone, Italy",
+    "woe:place_id":"nNsdxRSYA5r7yfpZUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.280569,46.262966,12.282629,46.264008],
+  "geometry": {"alpha":1e-05,"bbox":[12.280569076538,46.262966156006,12.282629013062,46.264007568359],"coordinates":[[[[12.282114,46.264008],[12.282629,46.2635],[12.282114,46.263325],[12.281856,46.263264],[12.280826,46.262966],[12.280569,46.263382],[12.282114,46.264008]]]],"created":1292440424,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12678096_20101215_773bc97054.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

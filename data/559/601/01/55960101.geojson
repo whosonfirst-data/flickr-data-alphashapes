@@ -1,0 +1,15 @@
+{
+  "id": 55960101,
+  "type": "Feature",
+  "properties": {
+    "name":"Adelaide, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":55960101,
+    "woe:name":"Adelaide, Nevada, United States",
+    "woe:place_id":"PnSxZ3KcBJULtUTsSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.510918,40.955818,-117.508179,40.959019],
+  "geometry": {"alpha":0.00015,"bbox":[-117.51091766357,40.95581817627,-117.50817871094,40.959018707275],"coordinates":[[[[-117.508667,40.958954],[-117.508179,40.959019],[-117.508957,40.958145],[-117.510918,40.955818],[-117.508667,40.958954]]]],"created":1292458080,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/55960101_20101216_da26d2e6a3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

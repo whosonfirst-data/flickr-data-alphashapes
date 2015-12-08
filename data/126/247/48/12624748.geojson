@@ -1,0 +1,15 @@
+{
+  "id": 12624748,
+  "type": "Feature",
+  "properties": {
+    "name":"Neustadt/harz, Germany",
+    "placetype":"locality",
+    "woe:id":12624748,
+    "woe:name":"Neustadt/harz, Germany",
+    "woe:place_id":"DAFn0MaYA5qxT0pr8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.834321,51.566078,10.842046,51.569839],
+  "geometry": {"alpha":1e-05,"bbox":[10.834321022034,51.566078186035,10.842045783997,51.569839477539],"coordinates":[[[[10.835512,51.566078],[10.834321,51.566986],[10.835656,51.568665],[10.837295,51.569839],[10.842046,51.566307],[10.836811,51.567039],[10.835512,51.566078]]]],"created":1292550531,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12624748_20101217_899e542b83.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

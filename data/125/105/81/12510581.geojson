@@ -1,0 +1,15 @@
+{
+  "id": 12510581,
+  "type": "Feature",
+  "properties": {
+    "name":"Parafield Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510581,
+    "woe:name":"Parafield Airport, Australia",
+    "woe:place_id":"cAZFnVeYA5mW37RTBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.632736,-34.792053,138.639053,-34.78783],
+  "geometry": {"alpha":1e-05,"bbox":[138.63273620605,-34.792053222656,138.63905334473,-34.787830352783],"coordinates":[[[[138.634476,-34.788879],[138.635651,-34.78783],[138.639053,-34.791744],[138.63652,-34.792053],[138.632736,-34.790058],[138.634476,-34.788879]]]],"created":1292520004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12510581_20101216_c23fa1c2f2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

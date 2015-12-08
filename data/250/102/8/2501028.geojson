@@ -1,0 +1,15 @@
+{
+  "id": 2501028,
+  "type": "Feature",
+  "properties": {
+    "name":"Strum, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2501028,
+    "woe:name":"Strum, Wisconsin, United States",
+    "woe:place_id":"F4sY6ImbBJyxMsV4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.393547,44.548306,-91.384148,44.557327],
+  "geometry": {"alpha":0.00015,"bbox":[-91.393547058105,44.548305511475,-91.384147644043,44.557327270508],"coordinates":[[[[-91.385124,44.548306],[-91.385391,44.54892],[-91.393547,44.557327],[-91.385025,44.553093],[-91.384148,44.548737],[-91.385124,44.548306]]]],"created":1292512981,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2501028_20101216_be33785740.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

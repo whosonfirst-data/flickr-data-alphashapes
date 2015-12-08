@@ -1,0 +1,15 @@
+{
+  "id": 599374,
+  "type": "Feature",
+  "properties": {
+    "name":"La Petite-Pierre, Alsace, France",
+    "placetype":"locality",
+    "woe:id":599374,
+    "woe:name":"La Petite-Pierre, Alsace, France",
+    "woe:place_id":"5T6z8ZKcCJW8C6M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.301659,48.85297,7.327923,48.874878],
+  "geometry": {"alpha":0.00015,"bbox":[7.3016591072083,48.852970123291,7.3279228210449,48.874877929688],"coordinates":[[[[7.318568,48.853264],[7.310714,48.85297],[7.301659,48.864346],[7.318439,48.874878],[7.327923,48.860676],[7.327795,48.860622],[7.318568,48.853264]]]],"created":1239480606,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3579/shapefiles/599374_20090411_002bacfdbe.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

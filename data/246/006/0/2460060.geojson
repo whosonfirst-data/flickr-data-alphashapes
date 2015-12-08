@@ -1,0 +1,15 @@
+{
+  "id": 2460060,
+  "type": "Feature",
+  "properties": {
+    "name":"Nineveh Junction, New York, United States",
+    "placetype":"locality",
+    "woe:id":2460060,
+    "woe:name":"Nineveh Junction, New York, United States",
+    "woe:place_id":"ChbYT0ObBZrdJpfq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.59993,42.186939,-75.593307,42.207859],
+  "geometry": {"alpha":0.00015,"bbox":[-75.59992980957,42.186939239502,-75.593307495117,42.207859039307],"coordinates":[[[[-75.59993,42.195396],[-75.597267,42.20042],[-75.593307,42.207859],[-75.596733,42.196056],[-75.599152,42.186939],[-75.59993,42.195396]]]],"created":1292519919,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2460060_20101216_ce123bb842.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

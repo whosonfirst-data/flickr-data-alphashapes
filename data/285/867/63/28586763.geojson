@@ -1,0 +1,15 @@
+{
+  "id": 28586763,
+  "type": "Feature",
+  "properties": {
+    "name":"Oyster Cove, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":28586763,
+    "woe:name":"Oyster Cove, Tasmania, Australia",
+    "woe:place_id":"WrDOSOebCZnAzajIHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.273102,-43.134815,147.278595,-43.113262],
+  "geometry": {"alpha":0.00015,"bbox":[147.27310180664,-43.134815216064,147.2785949707,-43.113262176514],"coordinates":[[[[147.273438,-43.134815],[147.273102,-43.132813],[147.273788,-43.131886],[147.274811,-43.113262],[147.278595,-43.126045],[147.277908,-43.13306],[147.273438,-43.134815]]]],"created":1292521471,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/28586763_20101216_91d01d640f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2362000,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellevue, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2362000,
+    "woe:name":"Bellevue, Arizona, United States",
+    "woe:place_id":"dKlBaFybApqo6wbj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.953758,33.351646,-110.941826,33.371826],
+  "geometry": {"alpha":0.00015,"bbox":[-110.95375823975,33.35164642334,-110.9418258667,33.371826171875],"coordinates":[[[[-110.953758,33.3629],[-110.949554,33.371826],[-110.944061,33.368408],[-110.941826,33.363762],[-110.942474,33.351646],[-110.953758,33.3629]]]],"created":1292536749,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2362000_20101216_193d21f011.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

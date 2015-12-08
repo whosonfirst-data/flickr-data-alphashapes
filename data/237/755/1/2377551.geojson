@@ -1,0 +1,15 @@
+{
+  "id": 2377551,
+  "type": "Feature",
+  "properties": {
+    "name":"Central, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2377551,
+    "woe:name":"Central, Arizona, United States",
+    "woe:place_id":"FPTwKRubApsSmqKZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.79599,32.85767,-109.789581,32.870216],
+  "geometry": {"alpha":0.00015,"bbox":[-109.79598999023,32.857669830322,-109.78958129883,32.870216369629],"coordinates":[[[[-109.79599,32.85767],[-109.79496,32.870216],[-109.792,32.869839],[-109.78968,32.863224],[-109.789581,32.862484],[-109.79599,32.85767]]]],"created":1292528440,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2377551_20101216_1044537fd4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

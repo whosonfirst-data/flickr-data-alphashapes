@@ -1,0 +1,15 @@
+{
+  "id": 2446392,
+  "type": "Feature",
+  "properties": {
+    "name":"Martinsburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2446392,
+    "woe:name":"Martinsburg, Pennsylvania, United States",
+    "woe:place_id":"q3X9AkybBZi9o5nd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.339409,40.293846,-78.321106,40.311668],
+  "geometry": {"alpha":0.00015,"bbox":[-78.339408874512,40.293846130371,-78.321105957031,40.311668395996],"coordinates":[[[[-78.325211,40.296661],[-78.326744,40.293846],[-78.328514,40.294125],[-78.339409,40.303619],[-78.321106,40.311668],[-78.325211,40.296661]]]],"created":1292469541,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2446392_20101216_ce7c89d3bd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3543,
+  "type": "Feature",
+  "properties": {
+    "name":"Bromptonville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3543,
+    "woe:name":"Bromptonville, Quebec, Canada",
+    "woe:place_id":"UepTDyiaBJiP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.960579,45.474503,-71.93264,45.484024],
+  "geometry": {"alpha":0.00015,"bbox":[-71.960578918457,45.474502563477,-71.932640075684,45.484024047852],"coordinates":[[[[-71.960579,45.484024],[-71.947403,45.477947],[-71.93264,45.475418],[-71.948944,45.474503],[-71.960579,45.484024]]]],"created":1292548553,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/3543_20101217_83b3048461.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

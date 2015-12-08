@@ -1,0 +1,15 @@
+{
+  "id": 2485586,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruby, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2485586,
+    "woe:name":"Ruby, Oregon, United States",
+    "woe:place_id":"2u_ijHibBZQKicER",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.457817,45.512489,-122.451981,45.519249],
+  "geometry": {"alpha":0.00015,"bbox":[-122.45781707764,45.512489318848,-122.45198059082,45.519248962402],"coordinates":[[[[-122.455093,45.519249],[-122.451981,45.51749],[-122.454643,45.514465],[-122.457817,45.512489],[-122.455093,45.519249]]]],"created":1234592524,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3414/shapefiles/2485586_20090214_4830753487.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2472021,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Forest, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2472021,
+    "woe:name":"Pine Forest, Georgia, United States",
+    "woe:place_id":"pLmm8ombBZuabgzH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.500412,31.210623,-81.489059,31.215347],
+  "geometry": {"alpha":0.00015,"bbox":[-81.500411987305,31.210622787476,-81.489059448242,31.215347290039],"coordinates":[[[[-81.489059,31.215347],[-81.489342,31.213852],[-81.492668,31.211584],[-81.500412,31.210623],[-81.491486,31.213518],[-81.489059,31.215347]]]],"created":1292548662,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2472021_20101217_e3195a4b9b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

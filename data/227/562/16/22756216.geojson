@@ -1,0 +1,15 @@
+{
+  "id": 22756216,
+  "type": "Feature",
+  "properties": {
+    "name":"Craponne, France",
+    "placetype":"locality",
+    "woe:id":22756216,
+    "woe:name":"Craponne, France",
+    "woe:place_id":"qMtSngKbA5vpMRRR7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.729464,45.737232,4.741952,45.743008],
+  "geometry": {"alpha":1e-05,"bbox":[4.7294640541077,45.737232208252,4.7419519424438,45.743007659912],"coordinates":[[[[4.738068,45.739838],[4.733819,45.737232],[4.729464,45.738491],[4.734345,45.741749],[4.737317,45.741619],[4.741952,45.743008],[4.738068,45.739838]]]],"created":1292520580,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/22756216_20101216_edccc576f6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

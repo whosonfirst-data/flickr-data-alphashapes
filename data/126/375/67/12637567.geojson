@@ -1,0 +1,15 @@
+{
+  "id": 12637567,
+  "type": "Feature",
+  "properties": {
+    "name":"Aubergenville, France",
+    "placetype":"locality",
+    "woe:id":12637567,
+    "woe:name":"Aubergenville, France",
+    "woe:place_id":"jM4rpNmYA5rvd5JefQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.84246,48.963844,1.850253,48.968384],
+  "geometry": {"alpha":1e-05,"bbox":[1.8424600362778,48.963844299316,1.8502529859543,48.968383789062],"coordinates":[[[[1.845316,48.964893],[1.84246,48.963844],[1.845531,48.968384],[1.850253,48.96587],[1.846208,48.964725],[1.845316,48.964893]]]],"created":1292530065,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12637567_20101216_41493d3b4e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

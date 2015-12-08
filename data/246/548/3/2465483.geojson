@@ -1,0 +1,15 @@
+{
+  "id": 2465483,
+  "type": "Feature",
+  "properties": {
+    "name":"Olympia Fields, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2465483,
+    "woe:name":"Olympia Fields, Illinois, United States",
+    "woe:place_id":"YeiQU.ybBZqapXXM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.71048,41.50304,-87.677849,41.522694],
+  "geometry": {"alpha":0.00015,"bbox":[-87.710479736328,41.503040313721,-87.677848815918,41.522693634033],"coordinates":[[[[-87.692902,41.522694],[-87.677849,41.512497],[-87.685196,41.50304],[-87.701118,41.510914],[-87.71048,41.511814],[-87.692902,41.522694]]]],"created":1292500801,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2465483_20101216_f3bdf782b9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

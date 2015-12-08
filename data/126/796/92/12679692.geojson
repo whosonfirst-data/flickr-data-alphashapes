@@ -1,0 +1,15 @@
+{
+  "id": 12679692,
+  "type": "Feature",
+  "properties": {
+    "name":"Grottaglie, Italy",
+    "placetype":"locality",
+    "woe:id":12679692,
+    "woe:name":"Grottaglie, Italy",
+    "woe:place_id":"enX2XAeYA5oTGn_.Zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.409361,40.609741,17.409426,40.609837],
+  "geometry": {"alpha":1e-05,"bbox":[17.40936088562,40.609741210938,17.409425735474,40.609836578369],"coordinates":[[[[17.409365,40.609833],[17.40938,40.60981],[17.409426,40.609741],[17.409372,40.609818],[17.409365,40.609829],[17.409361,40.609837],[17.409365,40.609833]]]],"created":1292523453,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12679692_20101216_daeee1b027.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

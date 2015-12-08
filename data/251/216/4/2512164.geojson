@@ -1,0 +1,15 @@
+{
+  "id": 2512164,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2512164,
+    "woe:name":"Vienna, Missouri, United States",
+    "woe:place_id":"Ul_1F_qbBJ1ia1yb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.948921,38.184971,-91.946457,38.186691],
+  "geometry": {"alpha":0.00015,"bbox":[-91.948921203613,38.184970855713,-91.94645690918,38.18669128418],"coordinates":[[[[-91.948921,38.186249],[-91.94857,38.186691],[-91.946457,38.186077],[-91.948357,38.184971],[-91.948921,38.186249]]]],"created":1247873163,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3520/shapefiles/2512164_20090717_218efffbef.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

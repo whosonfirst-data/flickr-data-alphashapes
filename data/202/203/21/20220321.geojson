@@ -1,0 +1,15 @@
+{
+  "id": 20220321,
+  "type": "Feature",
+  "properties": {
+    "name":"Ca'n Bonet, Balearic Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20220321,
+    "woe:name":"Ca'n Bonet, Balearic Islands, Spain",
+    "woe:place_id":"u0YrEs2bAZ5YAmIFoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.362991,38.891567,1.378784,38.90015],
+  "geometry": {"alpha":0.00015,"bbox":[1.3629909753799,38.891567230225,1.3787839412689,38.900150299072],"coordinates":[[[[1.37844,38.90015],[1.378784,38.898514],[1.373291,38.891567],[1.362991,38.895309],[1.376123,38.897446],[1.37844,38.90015]]]],"created":1292517807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20220321_20101216_c6847983bd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

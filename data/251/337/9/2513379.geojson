@@ -1,0 +1,15 @@
+{
+  "id": 2513379,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldo, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2513379,
+    "woe:name":"Waldo, Wisconsin, United States",
+    "woe:place_id":"MY.f1wKbBJ3dARp2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.966843,43.657875,-87.953476,43.674561],
+  "geometry": {"alpha":0.00015,"bbox":[-87.966842651367,43.657875061035,-87.953475952148,43.674560546875],"coordinates":[[[[-87.960663,43.657875],[-87.966843,43.661911],[-87.953476,43.674561],[-87.95475,43.660118],[-87.960663,43.657875]]]],"created":1292513046,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2513379_20101216_321bdac265.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

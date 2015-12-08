@@ -1,0 +1,15 @@
+{
+  "id": 2432740,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingsley, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2432740,
+    "woe:name":"Kingsley, Maryland, United States",
+    "woe:place_id":"iiUoH6SbBZ9rNAWS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.290192,39.26429,-77.277336,39.266872],
+  "geometry": {"alpha":0.00015,"bbox":[-77.290191650391,39.264289855957,-77.277336120605,39.266872406006],"coordinates":[[[[-77.279655,39.265965],[-77.277336,39.264496],[-77.290192,39.26429],[-77.284332,39.266872],[-77.280441,39.266087],[-77.279655,39.265965]]]],"created":1292460185,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2432740_20101216_f5af5d6a4d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

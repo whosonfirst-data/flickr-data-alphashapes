@@ -1,0 +1,15 @@
+{
+  "id": 588532,
+  "type": "Feature",
+  "properties": {
+    "name":"Darois, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":588532,
+    "woe:name":"Darois, Burgundy, France",
+    "woe:place_id":"zqwx7U6cCZS3WnM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.929342,47.377663,4.946892,47.392189],
+  "geometry": {"alpha":0.00015,"bbox":[4.9293417930603,47.377662658691,4.946891784668,47.392189025879],"coordinates":[[[[4.946892,47.386486],[4.946079,47.381847],[4.929342,47.377663],[4.936552,47.392189],[4.939041,47.390213],[4.944877,47.38789],[4.946892,47.386486]]]],"created":1292528582,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/588532_20101216_99ba0899df.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

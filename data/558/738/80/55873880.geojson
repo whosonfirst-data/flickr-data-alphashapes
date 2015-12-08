@@ -1,0 +1,15 @@
+{
+  "id": 55873880,
+  "type": "Feature",
+  "properties": {
+    "name":"Novi Pazar, Shumen, Bulgaria",
+    "placetype":"county",
+    "woe:id":55873880,
+    "woe:name":"Novi Pazar, Shumen, Bulgaria",
+    "woe:place_id":"92GxxY.cBJRXZAXhcA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [27.113571,43.340069,27.150631,43.369244],
+  "geometry": {"alpha":0.0015,"bbox":[27.113571166992,43.340068817139,27.150630950928,43.369243621826],"coordinates":[[[[27.113914,43.361382],[27.113571,43.366123],[27.120094,43.368618],[27.123528,43.369244],[27.150631,43.340069],[27.113914,43.361382]]]],"created":1292519230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/55873880_20101216_b85e881d4c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

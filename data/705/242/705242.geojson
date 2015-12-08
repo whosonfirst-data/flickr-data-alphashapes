@@ -1,0 +1,15 @@
+{
+  "id": 705242,
+  "type": "Feature",
+  "properties": {
+    "name":"Wenden, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":705242,
+    "woe:name":"Wenden, North Rhine-Westphalia, Germany",
+    "woe:place_id":"2nM1CyWeAZlgSwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.868742,50.961479,7.877798,50.970589],
+  "geometry": {"alpha":0.00015,"bbox":[7.8687419891357,50.961479187012,7.8777980804443,50.970588684082],"coordinates":[[[[7.868742,50.967453],[7.871403,50.970589],[7.872122,50.970062],[7.877798,50.961479],[7.871759,50.966301],[7.868742,50.967453]]]],"created":1292526232,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/705242_20101216_1f42703990.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

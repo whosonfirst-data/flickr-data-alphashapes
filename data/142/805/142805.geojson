@@ -1,0 +1,15 @@
+{
+  "id": 142805,
+  "type": "Feature",
+  "properties": {
+    "name":"San Ignacio, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":142805,
+    "woe:name":"San Ignacio, Jalisco, Mexico",
+    "woe:place_id":"gzr.L26YBZ6Fy9E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.53759,20.74227,-102.535744,20.747841],
+  "geometry": {"alpha":0.00015,"bbox":[-102.53759002686,20.742269515991,-102.53574371338,20.747840881348],"coordinates":[[[[-102.535744,20.74584],[-102.536003,20.74227],[-102.536438,20.7437],[-102.53746,20.747515],[-102.53759,20.747841],[-102.535744,20.74584]]]],"created":1247944943,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2518/shapefiles/142805_20090718_7d63477ed9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

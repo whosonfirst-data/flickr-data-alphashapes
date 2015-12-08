@@ -1,0 +1,15 @@
+{
+  "id": 23404600,
+  "type": "Feature",
+  "properties": {
+    "name":"Star, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404600,
+    "woe:name":"Star, Alberta, Canada",
+    "woe:place_id":"NBeAjn.bApgchm0EHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.753883,53.840778,-112.723846,53.87748],
+  "geometry": {"alpha":0.00029296875,"bbox":[-112.75388336182,53.84077835083,-112.72384643555,53.877479553223],"coordinates":[[[[-112.728424,53.863049],[-112.723846,53.840778],[-112.729431,53.862476],[-112.752975,53.875671],[-112.753883,53.87748],[-112.753342,53.875748],[-112.753235,53.875694],[-112.752975,53.875671],[-112.728462,53.863052],[-112.728424,53.863049]]]],"created":1292528530,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/23404600_20101216_bf894df8ef.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

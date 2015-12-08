@@ -1,0 +1,15 @@
+{
+  "id": 23510206,
+  "type": "Feature",
+  "properties": {
+    "name":"Cherry Plain, New York, United States",
+    "placetype":"locality",
+    "woe:id":23510206,
+    "woe:name":"Cherry Plain, New York, United States",
+    "woe:place_id":"eA0_UEKbApl9EiKIsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.416054,42.607433,-73.394165,42.63118],
+  "geometry": {"alpha":0.00015,"bbox":[-73.416053771973,42.607433319092,-73.394165039062,42.63117980957],"coordinates":[[[[-73.415619,42.609516],[-73.407898,42.607433],[-73.410896,42.619759],[-73.416054,42.63118],[-73.394165,42.628906],[-73.410896,42.619759],[-73.415619,42.609516]]]],"created":1292523613,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/23510206_20101216_c6dc64636b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

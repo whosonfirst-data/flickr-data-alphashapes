@@ -1,0 +1,15 @@
+{
+  "id": 12647333,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Grand-Pressigny, France",
+    "placetype":"locality",
+    "woe:id":12647333,
+    "woe:name":"Le Grand-Pressigny, France",
+    "woe:place_id":"iddwoKCYA5prkK7zhw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.80237,46.919933,0.805435,46.921463],
+  "geometry": {"alpha":1e-05,"bbox":[0.80237001180649,46.919933319092,0.80543500185013,46.921463012695],"coordinates":[[[[0.803117,46.921463],[0.805435,46.921429],[0.803632,46.919949],[0.80316,46.919933],[0.80237,46.92025],[0.803117,46.921463]]]],"created":1292531403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12647333_20101216_1e4d169929.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

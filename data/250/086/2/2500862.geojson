@@ -1,0 +1,15 @@
+{
+  "id": 2500862,
+  "type": "Feature",
+  "properties": {
+    "name":"Street, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2500862,
+    "woe:name":"Street, Maryland, United States",
+    "woe:place_id":"7Jw4RHKbBJz3o2Rd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.431999,39.629623,-76.381584,39.67614],
+  "geometry": {"alpha":0.000234375,"bbox":[-76.431999206543,39.629623413086,-76.38158416748,39.676139831543],"coordinates":[[[[-76.401588,39.630085],[-76.40493,39.629623],[-76.416176,39.634251],[-76.429222,39.644825],[-76.431999,39.6535],[-76.409225,39.66412],[-76.41214,39.67614],[-76.407028,39.675888],[-76.400902,39.675301],[-76.397362,39.675156],[-76.381584,39.66835],[-76.397598,39.66394],[-76.412827,39.645351],[-76.40181,39.631584],[-76.401588,39.630085]]]],"created":1292521990,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2500862_20101216_d8c61f5bdd.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

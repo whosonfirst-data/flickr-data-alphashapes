@@ -1,0 +1,15 @@
+{
+  "id": 12517436,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanseria Airport, South Africa",
+    "placetype":"locality",
+    "woe:id":12517436,
+    "woe:name":"Lanseria Airport, South Africa",
+    "woe:place_id":"BFM_4SeYA5nE3_2WFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.923985,-25.939676,27.928619,-25.93327],
+  "geometry": {"alpha":1e-05,"bbox":[27.923984527588,-25.93967628479,27.928619384766,-25.933269500732],"coordinates":[[[[27.925501,-25.934668],[27.925833,-25.9345],[27.928619,-25.93327],[27.926468,-25.934958],[27.923985,-25.939676],[27.925501,-25.934668]]]],"created":1292424242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12517436_20101215_6895452973.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

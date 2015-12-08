@@ -1,0 +1,15 @@
+{
+  "id": 23511511,
+  "type": "Feature",
+  "properties": {
+    "name":"Jones Brook, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23511511,
+    "woe:name":"Jones Brook, Vermont, United States",
+    "woe:place_id":"vRKFKZebApnPoaa0_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.658028,44.26926,-72.629997,44.280121],
+  "geometry": {"alpha":0.00015,"bbox":[-72.658027648926,44.269260406494,-72.629997253418,44.280120849609],"coordinates":[[[[-72.644051,44.280121],[-72.637138,44.276794],[-72.629997,44.26926],[-72.640549,44.273376],[-72.645187,44.274616],[-72.658028,44.279449],[-72.644051,44.280121]]]],"created":1292524970,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/23511511_20101216_3e063cf457.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

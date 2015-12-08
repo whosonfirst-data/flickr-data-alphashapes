@@ -1,0 +1,15 @@
+{
+  "id": 55999735,
+  "type": "Feature",
+  "properties": {
+    "name":"Centre Ville, Beauharnois, QC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999735,
+    "woe:name":"Centre Ville, Beauharnois, QC, CA, Canada",
+    "woe:place_id":"u1daRV.cBJX5c89R5Q",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.880791,45.31144,-73.878777,45.318024],
+  "geometry": {"alpha":1e-05,"bbox":[-73.880790710449,45.31143951416,-73.878776550293,45.318023681641],"coordinates":[[[[-73.879761,45.312828],[-73.878777,45.311481],[-73.880409,45.31144],[-73.880791,45.313278],[-73.88031,45.318024],[-73.879761,45.312828]]]],"created":1292550849,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/55999735_20101217_cc81a2ce8a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

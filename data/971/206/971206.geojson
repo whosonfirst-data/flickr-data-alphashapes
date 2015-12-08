@@ -1,0 +1,15 @@
+{
+  "id": 971206,
+  "type": "Feature",
+  "properties": {
+    "name":"Hives, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":971206,
+    "woe:name":"Hives, Luxemburg, Belgium",
+    "woe:place_id":"I6V.H62QBp0gBRU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.572643,50.141045,5.586547,50.159008],
+  "geometry": {"alpha":0.00015,"bbox":[5.5726428031921,50.141044616699,5.5865468978882,50.159008026123],"coordinates":[[[[5.577085,50.159008],[5.577664,50.158535],[5.578479,50.151936],[5.585196,50.144524],[5.586547,50.141045],[5.572643,50.144016],[5.577085,50.159008]]]],"created":1292549396,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/971206_20101217_216e153372.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

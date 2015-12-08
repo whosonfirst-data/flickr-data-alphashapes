@@ -1,0 +1,15 @@
+{
+  "id": 762489,
+  "type": "Feature",
+  "properties": {
+    "name":"Ibarguren, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":762489,
+    "woe:name":"Ibarguren, Basque Country, Spain",
+    "woe:place_id":"b4xHXW.eB55IEsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.287216,42.840855,-2.275886,42.848251],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2872159481049,42.840854644775,-2.2758860588074,42.848251342773],"coordinates":[[[[-2.282044,42.848091],[-2.275886,42.844948],[-2.281036,42.84375],[-2.287216,42.840855],[-2.286709,42.848251],[-2.282044,42.848091]]]],"created":1292443865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/762489_20101215_78b4a3eaac.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 113509,
+  "type": "Feature",
+  "properties": {
+    "name":"Bocas, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":113509,
+    "woe:name":"Bocas, San Luis Potosi, Mexico",
+    "woe:place_id":"CIWHL.GYAJ.5WHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.031471,22.511648,-101.021599,22.51965],
+  "geometry": {"alpha":0.00015,"bbox":[-101.03147125244,22.511648178101,-101.02159881592,22.519649505615],"coordinates":[[[[-101.024605,22.511684],[-101.031471,22.51779],[-101.022209,22.51965],[-101.022034,22.519217],[-101.021599,22.511648],[-101.024605,22.511684]]]],"created":1292527062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/113509_20101216_3a08710f3b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

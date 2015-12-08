@@ -1,0 +1,15 @@
+{
+  "id": 12685132,
+  "type": "Feature",
+  "properties": {
+    "name":"Salenstein, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685132,
+    "woe:name":"Salenstein, Switzerland",
+    "woe:place_id":"reRJFByYA5pa1D6YnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.047241,47.669086,9.054107,47.678677],
+  "geometry": {"alpha":1e-05,"bbox":[9.0472412109375,47.669086456299,9.0541067123413,47.678676605225],"coordinates":[[[[9.048389,47.674423],[9.050217,47.678677],[9.052047,47.674637],[9.054107,47.674171],[9.052734,47.669548],[9.047241,47.669086],[9.048389,47.674423]]]],"created":1292544362,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12685132_20101217_5d196eaf42.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

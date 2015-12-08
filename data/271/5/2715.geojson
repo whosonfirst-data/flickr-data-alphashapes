@@ -1,0 +1,15 @@
+{
+  "id": 2715,
+  "type": "Feature",
+  "properties": {
+    "name":"Mingan, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":2715,
+    "woe:name":"Mingan, Quebec, Canada",
+    "woe:place_id":"t6nG9kWbBp3P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.05632,50.295589,-63.991322,50.326443],
+  "geometry": {"alpha":0.0001875,"bbox":[-64.05632019043,50.295589447021,-63.991321563721,50.326442718506],"coordinates":[[[[-63.995251,50.30751],[-63.991322,50.295589],[-64.000336,50.303978],[-64.024544,50.311157],[-64.042587,50.311302],[-64.05632,50.307026],[-64.035187,50.306007],[-64.029518,50.297127],[-64.024544,50.311157],[-64.015778,50.326443],[-63.999668,50.307354],[-63.995251,50.30751]]]],"created":1292519462,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2715_20101216_61f43b4525.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

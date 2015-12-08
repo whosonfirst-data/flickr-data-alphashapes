@@ -1,0 +1,15 @@
+{
+  "id": 2511136,
+  "type": "Feature",
+  "properties": {
+    "name":"Van Deusenville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511136,
+    "woe:name":"Van Deusenville, New York, United States",
+    "woe:place_id":"BLS0pRCbBJ2Y1vuz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.699409,42.807915,-74.684525,42.819092],
+  "geometry": {"alpha":0.00015,"bbox":[-74.699409484863,42.807914733887,-74.684524536133,42.819091796875],"coordinates":[[[[-74.686073,42.808151],[-74.699409,42.819092],[-74.685402,42.815174],[-74.684525,42.807953],[-74.684799,42.807915],[-74.686073,42.808151]]]],"created":1292470029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2511136_20101216_f6f10485ed.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

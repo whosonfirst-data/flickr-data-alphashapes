@@ -1,0 +1,15 @@
+{
+  "id": 2418786,
+  "type": "Feature",
+  "properties": {
+    "name":"Haverhill, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2418786,
+    "woe:name":"Haverhill, Ohio, United States",
+    "woe:place_id":"L1WX8QqbBZ2H0o3s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.849266,38.592857,-82.828156,38.613613],
+  "geometry": {"alpha":0.00015,"bbox":[-82.849266052246,38.59285736084,-82.828155517578,38.613613128662],"coordinates":[[[[-82.847557,38.593864],[-82.849266,38.613613],[-82.840363,38.608356],[-82.828156,38.610432],[-82.83889,38.592857],[-82.847557,38.593864]]]],"created":1292444715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2418786_20101215_c3439902d3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

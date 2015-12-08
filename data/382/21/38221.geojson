@@ -1,0 +1,15 @@
+{
+  "id": 38221,
+  "type": "Feature",
+  "properties": {
+    "name":"Triangle, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":38221,
+    "woe:name":"Triangle, England, United Kingdom",
+    "woe:place_id":"8ZtSH82aCZ4VPw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.939215,53.686451,-1.926383,53.694698],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9392149448395,53.686450958252,-1.9263830184937,53.69469833374],"coordinates":[[[[-1.939215,53.687653],[-1.934752,53.694698],[-1.926383,53.690964],[-1.927542,53.690594],[-1.933636,53.686451],[-1.939215,53.687653]]]],"created":1292443230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/38221_20101215_7c6cd7a84c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

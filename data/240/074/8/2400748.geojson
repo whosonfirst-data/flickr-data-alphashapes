@@ -1,0 +1,15 @@
+{
+  "id": 2400748,
+  "type": "Feature",
+  "properties": {
+    "name":"Evansville, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2400748,
+    "woe:name":"Evansville, Colorado, United States",
+    "woe:place_id":"SR6Fb.6bBZxEaNOv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.298729,37.654469,-106.283623,37.661331],
+  "geometry": {"alpha":0.00015,"bbox":[-106.29872894287,37.654468536377,-106.2836227417,37.661331176758],"coordinates":[[[[-106.289558,37.658062],[-106.283623,37.654469],[-106.289604,37.65773],[-106.298729,37.661331],[-106.289558,37.658062]]]],"created":1292459763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2400748_20101216_759bf78c52.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

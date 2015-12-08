@@ -1,0 +1,15 @@
+{
+  "id": 724888,
+  "type": "Feature",
+  "properties": {
+    "name":"Thures, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":724888,
+    "woe:name":"Thures, Piedmont, Italy",
+    "woe:place_id":"34rWJvmeA5gNTuE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.810922,44.909081,6.827852,44.919903],
+  "geometry": {"alpha":0.00015,"bbox":[6.8109221458435,44.909080505371,6.8278517723083,44.919902801514],"coordinates":[[[[6.825771,44.919842],[6.827402,44.919476],[6.827852,44.918034],[6.81221,44.909081],[6.810922,44.910572],[6.822853,44.919903],[6.825771,44.919842]]]],"created":1292475305,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/724888_20101216_0fcb965316.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2434017,
+  "type": "Feature",
+  "properties": {
+    "name":"Kumtux, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2434017,
+    "woe:name":"Kumtux, Washington, United States",
+    "woe:place_id":".sC9UQebBZ.gOdhU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.528931,45.784943,-122.516701,45.799664],
+  "geometry": {"alpha":0.00015,"bbox":[-122.52893066406,45.784942626953,-122.51670074463,45.799663543701],"coordinates":[[[[-122.520294,45.788563],[-122.528931,45.799664],[-122.518867,45.791573],[-122.518158,45.791019],[-122.516701,45.784943],[-122.520294,45.788563]]]],"created":1292540415,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2434017_20101216_53bdd43c95.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2517058,
+  "type": "Feature",
+  "properties": {
+    "name":"West Gallatin, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2517058,
+    "woe:name":"West Gallatin, Montana, United States",
+    "woe:place_id":"e6LNbcObBJ0hLeDd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.261497,45.666664,-111.249336,45.670677],
+  "geometry": {"alpha":0.00015,"bbox":[-111.26149749756,45.666664123535,-111.24933624268,45.670677185059],"coordinates":[[[[-111.257332,45.667999],[-111.261497,45.666664],[-111.256165,45.669334],[-111.254997,45.669998],[-111.249336,45.670677],[-111.257332,45.667999]]]],"created":1292448729,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2517058_20101215_3c482b44ef.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

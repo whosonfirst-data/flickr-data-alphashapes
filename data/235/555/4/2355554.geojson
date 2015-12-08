@@ -1,0 +1,15 @@
+{
+  "id": 2355554,
+  "type": "Feature",
+  "properties": {
+    "name":"Arcadia Shores, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2355554,
+    "woe:name":"Arcadia Shores, Tennessee, United States",
+    "woe:place_id":"SHZH.0CbApk5YSMc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.056755,35.338146,-85.048599,35.339161],
+  "geometry": {"alpha":0.00015,"bbox":[-85.056755065918,35.338146209717,-85.048599243164,35.339160919189],"coordinates":[[[[-85.056358,35.338627],[-85.056755,35.338871],[-85.055435,35.339161],[-85.048599,35.338146],[-85.056175,35.338516],[-85.056358,35.338627]]]],"created":1292535233,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2355554_20101216_b86c180bfa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

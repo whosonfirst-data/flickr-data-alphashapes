@@ -1,0 +1,15 @@
+{
+  "id": 23391802,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambridge, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391802,
+    "woe:name":"Cambridge, Nova Scotia, Canada",
+    "woe:place_id":"KooCWw6bAp9PflCEMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.648338,45.047874,-64.635483,45.057098],
+  "geometry": {"alpha":0.00015,"bbox":[-64.648338317871,45.047874450684,-64.635482788086,45.057098388672],"coordinates":[[[[-64.635651,45.057098],[-64.635483,45.048119],[-64.636513,45.047874],[-64.648338,45.055725],[-64.642769,45.055046],[-64.635651,45.057098]]]],"created":1292441942,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/23391802_20101215_cc62357f9d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

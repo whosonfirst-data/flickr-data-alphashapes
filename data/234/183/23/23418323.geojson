@@ -1,0 +1,15 @@
+{
+  "id": 23418323,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterford North, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":23418323,
+    "woe:name":"Waterford North, Wisconsin, United States",
+    "woe:place_id":"CDP_AiibApiJ0TXyNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.25943,42.790802,-88.255531,42.797981],
+  "geometry": {"alpha":0.00015,"bbox":[-88.259429931641,42.790802001953,-88.255531311035,42.797981262207],"coordinates":[[[[-88.25882,42.792618],[-88.257423,42.794754],[-88.255531,42.797981],[-88.256088,42.792458],[-88.25943,42.790802],[-88.25882,42.792618]]]],"created":1292530343,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/23418323_20101216_c06e41eb60.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2365427,
+  "type": "Feature",
+  "properties": {
+    "name":"Blenheim, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2365427,
+    "woe:name":"Blenheim, New Jersey, United States",
+    "woe:place_id":"Yuxr2VKbApoCruEv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.07885,39.811459,-75.065765,39.812492],
+  "geometry": {"alpha":0.00015,"bbox":[-75.07884979248,39.811458587646,-75.065765380859,39.812492370605],"coordinates":[[[[-75.07637,39.811588],[-75.078636,39.812267],[-75.07885,39.812492],[-75.076057,39.811874],[-75.065765,39.811459],[-75.07637,39.811588]]]],"created":1292526459,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2365427_20101216_86c0cce922.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

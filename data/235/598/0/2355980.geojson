@@ -1,0 +1,15 @@
+{
+  "id": 2355980,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington Heights, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2355980,
+    "woe:name":"Arlington Heights, Texas, United States",
+    "woe:place_id":"M7d1J4ybAplzm7pn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.556236,27.834143,-97.547134,27.839436],
+  "geometry": {"alpha":0.00015,"bbox":[-97.55623626709,27.834142684937,-97.547134399414,27.839435577393],"coordinates":[[[[-97.554047,27.834976],[-97.556236,27.839436],[-97.551041,27.836382],[-97.547981,27.834602],[-97.547134,27.834143],[-97.554047,27.834976]]]],"created":1292506746,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2355980_20101216_5235a90693.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

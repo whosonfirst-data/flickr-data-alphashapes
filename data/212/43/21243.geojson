@@ -1,0 +1,15 @@
+{
+  "id": 21243,
+  "type": "Feature",
+  "properties": {
+    "name":"Glingerbank, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21243,
+    "woe:name":"Glingerbank, England, United Kingdom",
+    "woe:place_id":"ePmeNmGbAJ5iEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.970256,55.030006,-2.960944,55.03685],
+  "geometry": {"alpha":0.00015,"bbox":[-2.9702560901642,55.030006408691,-2.9609439373016,55.036849975586],"coordinates":[[[[-2.960944,55.03685],[-2.962403,55.03524],[-2.969173,55.030006],[-2.970256,55.030384],[-2.964119,55.035278],[-2.960944,55.03685]]]],"created":1292446806,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/21243_20101215_cf499fa3ed.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

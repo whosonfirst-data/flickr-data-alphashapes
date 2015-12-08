@@ -1,0 +1,15 @@
+{
+  "id": 456942,
+  "type": "Feature",
+  "properties": {
+    "name":"Campos Novos, Santa Catarina, Brazil",
+    "placetype":"locality",
+    "woe:id":456942,
+    "woe:name":"Campos Novos, Santa Catarina, Brazil",
+    "woe:place_id":"cyy4TBudBJrT1wA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-51.235428,-27.401718,-51.22118,-27.388687],
+  "geometry": {"alpha":0.00015,"bbox":[-51.235427856445,-27.401718139648,-51.221179962158,-27.388687133789],"coordinates":[[[[-51.231209,-27.399151],[-51.235428,-27.388687],[-51.22633,-27.399508],[-51.22118,-27.401718],[-51.225128,-27.400726],[-51.231209,-27.399151]]]],"created":1292519522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/456942_20101216_ac2f8d4e79.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

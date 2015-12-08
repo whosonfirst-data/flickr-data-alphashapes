@@ -1,0 +1,15 @@
+{
+  "id": 2453230,
+  "type": "Feature",
+  "properties": {
+    "name":"Montecito, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2453230,
+    "woe:name":"Montecito, New Mexico, United States",
+    "woe:place_id":"V.F2HBSbBZkakSDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.865288,36.178707,-105.829407,36.197742],
+  "geometry": {"alpha":0.00015,"bbox":[-105.86528778076,36.178707122803,-105.82940673828,36.197742462158],"coordinates":[[[[-105.852669,36.189568],[-105.857002,36.190857],[-105.858505,36.191402],[-105.865288,36.197742],[-105.852051,36.192009],[-105.839066,36.184441],[-105.829407,36.178707],[-105.842842,36.183819],[-105.852669,36.189568]]]],"created":1292542617,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2453230_20101216_6513ae7825.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

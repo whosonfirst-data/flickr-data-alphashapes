@@ -1,0 +1,15 @@
+{
+  "id": 2478844,
+  "type": "Feature",
+  "properties": {
+    "name":"Raven Hill, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2478844,
+    "woe:name":"Raven Hill, Pennsylvania, United States",
+    "woe:place_id":"2jLGNdubBZsihJOL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.92215,40.196007,-76.89946,40.201962],
+  "geometry": {"alpha":0.00015,"bbox":[-76.922149658203,40.196006774902,-76.899459838867,40.201961517334],"coordinates":[[[[-76.903252,40.201962],[-76.902664,40.200333],[-76.89946,40.196007],[-76.902832,40.200352],[-76.92215,40.196972],[-76.903252,40.201962]]]],"created":1292452040,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2478844_20101215_6b71ceab27.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

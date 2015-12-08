@@ -1,0 +1,15 @@
+{
+  "id": 13280,
+  "type": "Feature",
+  "properties": {
+    "name":"Borough Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13280,
+    "woe:name":"Borough Green, England, United Kingdom",
+    "woe:place_id":"ogLbymOYAp65dA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.301705,51.288334,0.31723,51.297241],
+  "geometry": {"alpha":0.00015,"bbox":[0.30170500278473,51.288333892822,0.3172299861908,51.297241210938],"coordinates":[[[[0.31723,51.293148],[0.314666,51.288334],[0.30465,51.289314],[0.303083,51.289867],[0.301705,51.292961],[0.305213,51.293324],[0.307222,51.293888],[0.3162,51.297241],[0.31723,51.293148]]]],"created":1292547653,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/13280_20101217_2a7b0806e0.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

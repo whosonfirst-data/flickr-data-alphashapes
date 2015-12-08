@@ -1,0 +1,15 @@
+{
+  "id": 2372195,
+  "type": "Feature",
+  "properties": {
+    "name":"Burns City, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2372195,
+    "woe:name":"Burns City, Indiana, United States",
+    "woe:place_id":"zIySJlmbAptjb1si",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.891342,38.825096,-86.884003,38.826336],
+  "geometry": {"alpha":0.00015,"bbox":[-86.891342163086,38.825096130371,-86.884002685547,38.826335906982],"coordinates":[[[[-86.889069,38.825768],[-86.888573,38.825794],[-86.884003,38.826336],[-86.88932,38.8255],[-86.89035,38.825096],[-86.891342,38.825203],[-86.889069,38.825768]]]],"created":1292527637,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2372195_20101216_ae9df4b429.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

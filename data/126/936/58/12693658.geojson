@@ -1,0 +1,15 @@
+{
+  "id": 12693658,
+  "type": "Feature",
+  "properties": {
+    "name":"Tordera, Spain",
+    "placetype":"locality",
+    "woe:id":12693658,
+    "woe:name":"Tordera, Spain",
+    "woe:place_id":"SRjN6rOYA5qL6HQBUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.715854,41.694801,2.721519,41.701851],
+  "geometry": {"alpha":1e-05,"bbox":[2.7158539295197,41.694801330566,2.7215189933777,41.701850891113],"coordinates":[[[[2.718611,41.701851],[2.721219,41.700378],[2.721519,41.696613],[2.715854,41.694801],[2.716326,41.699463],[2.716884,41.701435],[2.718611,41.701851]]]],"created":1292549807,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12693658_20101217_7b93439fb4.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

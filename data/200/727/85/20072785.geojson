@@ -1,0 +1,15 @@
+{
+  "id": 20072785,
+  "type": "Feature",
+  "properties": {
+    "name":"Kill, Ireland",
+    "placetype":"locality",
+    "woe:id":20072785,
+    "woe:name":"Kill, Ireland",
+    "woe:place_id":"NDjk0uebAZw0ZLAz4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.636664,53.234314,-6.631199,53.239124],
+  "geometry": {"alpha":1e-05,"bbox":[-6.6366639137268,53.234313964844,-6.6311988830566,53.239124298096],"coordinates":[[[[-6.636664,53.234314],[-6.635506,53.234516],[-6.631622,53.239124],[-6.631199,53.234329],[-6.635506,53.234516],[-6.635656,53.234543],[-6.636664,53.234314]]]],"created":1292549821,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20072785_20101217_d6cefe64e3.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2365621,
+  "type": "Feature",
+  "properties": {
+    "name":"Bloomingdale, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2365621,
+    "woe:name":"Bloomingdale, Wisconsin, United States",
+    "woe:place_id":"TLEmPyqbApowNOBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.799805,43.679817,-90.797058,43.680367],
+  "geometry": {"alpha":0.00015,"bbox":[-90.7998046875,43.679817199707,-90.797058105469,43.680366516113],"coordinates":[[[[-90.797058,43.679817],[-90.798149,43.680012],[-90.799805,43.680347],[-90.798119,43.680367],[-90.797058,43.679817]]]],"created":1292539098,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2365621_20101216_96be4d7a5d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

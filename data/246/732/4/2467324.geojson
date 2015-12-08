@@ -1,0 +1,15 @@
+{
+  "id": 2467324,
+  "type": "Feature",
+  "properties": {
+    "name":"Pacific City, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2467324,
+    "woe:name":"Pacific City, Iowa, United States",
+    "woe:place_id":"Bnq07S6bBZpZYPVY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.796318,41.058254,-95.787308,41.063488],
+  "geometry": {"alpha":0.00015,"bbox":[-95.796318054199,41.058254241943,-95.787307739258,41.063488006592],"coordinates":[[[[-95.796318,41.063488],[-95.795891,41.063416],[-95.787308,41.058254],[-95.796089,41.063084],[-95.796318,41.063488]]]],"created":1292549484,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2467324_20101217_4610f6ea6c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

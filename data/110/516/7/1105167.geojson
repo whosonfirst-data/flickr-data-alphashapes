@@ -1,0 +1,15 @@
+{
+  "id": 1105167,
+  "type": "Feature",
+  "properties": {
+    "name":"Preston Beach, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105167,
+    "woe:name":"Preston Beach, Western Australia, Australia",
+    "woe:place_id":"V_XmtrSYAJzkuacJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.647926,-32.903805,115.660759,-32.879299],
+  "geometry": {"alpha":0.00015,"bbox":[115.64792633057,-32.903804779053,115.66075897217,-32.879299163818],"coordinates":[[[[115.649559,-32.883694],[115.647926,-32.881893],[115.648956,-32.879875],[115.660454,-32.879299],[115.660759,-32.881859],[115.653763,-32.903805],[115.649559,-32.883694]]]],"created":1292547346,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/1105167_20101217_1c543de3b0.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

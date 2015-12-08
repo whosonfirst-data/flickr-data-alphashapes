@@ -1,0 +1,15 @@
+{
+  "id": 28995700,
+  "type": "Feature",
+  "properties": {
+    "name":"Hasenau, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":28995700,
+    "woe:name":"Hasenau, Salzburg, Austria",
+    "woe:place_id":"ggqg91qbCZUdmUxrKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.580718,47.375584,12.597198,47.395561],
+  "geometry": {"alpha":0.00015,"bbox":[12.580718040466,47.375583648682,12.597197532654,47.395561218262],"coordinates":[[[[12.591748,47.375584],[12.580718,47.395561],[12.595052,47.395443],[12.596855,47.379753],[12.597198,47.37743],[12.591748,47.375584]]]],"created":1239453843,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3337/shapefiles/28995700_20090411_68f89e5f22.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

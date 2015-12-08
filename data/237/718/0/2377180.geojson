@@ -1,0 +1,15 @@
+{
+  "id": 2377180,
+  "type": "Feature",
+  "properties": {
+    "name":"Centennial, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2377180,
+    "woe:name":"Centennial, West Virginia, United States",
+    "woe:place_id":"7Q1XeQ2bAps.sJIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.252029,37.606686,-80.238991,37.627132],
+  "geometry": {"alpha":0.00015,"bbox":[-80.252029418945,37.606685638428,-80.238990783691,37.627132415771],"coordinates":[[[[-80.238991,37.611408],[-80.240967,37.606686],[-80.251007,37.617153],[-80.252029,37.62439],[-80.250237,37.627132],[-80.238991,37.611408]]]],"created":1292485749,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2377180_20101216_70d1d48673.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

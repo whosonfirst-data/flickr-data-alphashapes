@@ -1,0 +1,15 @@
+{
+  "id": 12605198,
+  "type": "Feature",
+  "properties": {
+    "name":"Blansko, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12605198,
+    "woe:name":"Blansko, Czech Republic",
+    "woe:place_id":"4BEMpGGYA5puk3qUfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.6492,49.348473,16.654715,49.352833],
+  "geometry": {"alpha":1e-05,"bbox":[16.649200439453,49.348472595215,16.654714584351,49.352832794189],"coordinates":[[[[16.652237,49.348473],[16.6492,49.350819],[16.654285,49.352833],[16.654715,49.351936],[16.654146,49.349079],[16.652237,49.348473]]]],"created":1292550206,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12605198_20101217_5d403e8eb4.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

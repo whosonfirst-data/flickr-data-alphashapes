@@ -1,0 +1,15 @@
+{
+  "id": 764418,
+  "type": "Feature",
+  "properties": {
+    "name":"Landrove, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":764418,
+    "woe:name":"Landrove, Galicia, Spain",
+    "woe:place_id":"kgsTwJyeB5gUMCc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.603011,43.615013,-7.597147,43.628719],
+  "geometry": {"alpha":0.00015,"bbox":[-7.6030111312866,43.615013122559,-7.597146987915,43.628719329834],"coordinates":[[[[-7.600779,43.624161],[-7.603011,43.628719],[-7.600307,43.62458],[-7.597147,43.615013],[-7.600564,43.623402],[-7.600779,43.624161]]]],"created":1292439846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/764418_20101215_7189553ac7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

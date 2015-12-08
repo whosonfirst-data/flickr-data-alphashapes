@@ -1,0 +1,15 @@
+{
+  "id": 547468,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellmauthal, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":547468,
+    "woe:name":"Ellmauthal, Salzburg, Austria",
+    "woe:place_id":"IXWyPdGcBZvgT4M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.21128,47.432812,13.22692,47.439293],
+  "geometry": {"alpha":0.00015,"bbox":[13.21127986908,47.432811737061,13.226920127869,47.439292907715],"coordinates":[[[[13.21867,47.432812],[13.21128,47.437531],[13.226337,47.439293],[13.22692,47.43853],[13.21867,47.432812]]]],"created":1234472642,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3311/shapefiles/547468_20090212_4f8382bc9a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

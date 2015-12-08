@@ -1,0 +1,15 @@
+{
+  "id": 2492869,
+  "type": "Feature",
+  "properties": {
+    "name":"Ship Road, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2492869,
+    "woe:name":"Ship Road, Pennsylvania, United States",
+    "woe:place_id":"c1waWLybBZXMEgZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.607452,40.001167,-75.580017,40.030354],
+  "geometry": {"alpha":0.00015,"bbox":[-75.607452392578,40.001167297363,-75.580017089844,40.030353546143],"coordinates":[[[[-75.593834,40.001167],[-75.580017,40.001648],[-75.591171,40.008224],[-75.607452,40.024723],[-75.603615,40.02906],[-75.59951,40.030354],[-75.591171,40.008224],[-75.580017,40.001648],[-75.593834,40.001167]]]],"created":1292478188,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2492869_20101216_2c377423a3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

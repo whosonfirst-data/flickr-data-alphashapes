@@ -1,0 +1,15 @@
+{
+  "id": 12625553,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Nobitz, Germany",
+    "placetype":"locality",
+    "woe:id":12625553,
+    "woe:name":"Gemeinde Nobitz, Germany",
+    "woe:place_id":"1D88.5SYA5o0VLyC9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.510166,50.978947,12.515959,50.982044],
+  "geometry": {"alpha":1e-05,"bbox":[12.510166168213,50.978946685791,12.515958786011,50.982044219971],"coordinates":[[[[12.510536,50.979431],[12.510166,50.979939],[12.511222,50.980709],[12.515959,50.982044],[12.512,50.979],[12.510955,50.978947],[12.510536,50.979431]]]],"created":1292461263,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12625553_20101216_8116d694db.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105296,
+  "type": "Feature",
+  "properties": {
+    "name":"Reedy Creek, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105296,
+    "woe:name":"Reedy Creek, Victoria, Australia",
+    "woe:place_id":"MYJRWk6YAJymal7C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.183014,-37.313671,145.189301,-37.305668],
+  "geometry": {"alpha":0.00015,"bbox":[145.18301391602,-37.313671112061,145.18930053711,-37.305667877197],"coordinates":[[[[145.183014,-37.313484],[145.189133,-37.305668],[145.189301,-37.306435],[145.183182,-37.313671],[145.183014,-37.313484]]]],"created":1234656970,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3272/shapefiles/1105296_20090215_9309aba889.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

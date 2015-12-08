@@ -1,0 +1,15 @@
+{
+  "id": 698803,
+  "type": "Feature",
+  "properties": {
+    "name":"Teisnach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":698803,
+    "woe:name":"Teisnach, Bavaria, Germany",
+    "woe:place_id":"LsPBiD6fCJSbliU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.980046,49.040005,13.008155,49.050667],
+  "geometry": {"alpha":0.00015,"bbox":[12.980046272278,49.040004730225,13.00815486908,49.050666809082],"coordinates":[[[[12.989358,49.041187],[12.980046,49.050667],[12.992362,49.041637],[13.004035,49.04327],[13.008155,49.040005],[12.993478,49.040089],[12.989358,49.041187]]]],"created":1292535146,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/698803_20101216_0eb942d0d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

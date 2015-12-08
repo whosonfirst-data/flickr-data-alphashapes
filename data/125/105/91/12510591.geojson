@@ -1,0 +1,15 @@
+{
+  "id": 12510591,
+  "type": "Feature",
+  "properties": {
+    "name":"Avalon Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510591,
+    "woe:name":"Avalon Airport, Australia",
+    "woe:place_id":"FeeG1HKYA5lrzmGy9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.468094,-38.048767,144.47142,-38.034706],
+  "geometry": {"alpha":0.00010850694444444,"bbox":[144.46809387207,-38.048767089844,144.47142028809,-38.034706115723],"coordinates":[[[[144.468094,-38.040798],[144.468491,-38.040047],[144.47142,-38.034706],[144.469269,-38.042278],[144.469177,-38.048767],[144.468094,-38.040798]]]],"created":1292513162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12510591_20101216_325a038a4f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2516588,
+  "type": "Feature",
+  "properties": {
+    "name":"West, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2516588,
+    "woe:name":"West, Mississippi, United States",
+    "woe:place_id":"Y34rRAibBJ0fm5hp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.787346,33.19651,-89.776581,33.20715],
+  "geometry": {"alpha":0.00015,"bbox":[-89.78734588623,33.196510314941,-89.776580810547,33.207149505615],"coordinates":[[[[-89.787346,33.205154],[-89.787148,33.206944],[-89.786766,33.20715],[-89.777786,33.199051],[-89.776581,33.198368],[-89.777954,33.19651],[-89.787346,33.205154]]]],"created":1292460782,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2516588_20101216_2c953b89a0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

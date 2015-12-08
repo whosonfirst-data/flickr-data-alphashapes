@@ -1,0 +1,15 @@
+{
+  "id": 2468440,
+  "type": "Feature",
+  "properties": {
+    "name":"Park Terrace, New York, United States",
+    "placetype":"locality",
+    "woe:id":2468440,
+    "woe:name":"Park Terrace, New York, United States",
+    "woe:place_id":"DeKdg7mbBZqqF_d4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.92128,42.071079,-75.912201,42.085037],
+  "geometry": {"alpha":0.00015,"bbox":[-75.921279907227,42.07107925415,-75.912200927734,42.085037231445],"coordinates":[[[[-75.912201,42.081566],[-75.913811,42.075165],[-75.921043,42.071079],[-75.92128,42.071388],[-75.917328,42.085037],[-75.912201,42.081566]]]],"created":1292526471,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2468440_20101216_5abf7dce82.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

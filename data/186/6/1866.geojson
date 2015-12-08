@@ -1,0 +1,15 @@
+{
+  "id": 1866,
+  "type": "Feature",
+  "properties": {
+    "name":"Verona, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1866,
+    "woe:name":"Verona, Ontario, Canada",
+    "woe:place_id":"UVsV4ziYCZoM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.704826,44.461079,-76.690002,44.483665],
+  "geometry": {"alpha":0.00015,"bbox":[-76.70482635498,44.461078643799,-76.690002441406,44.483665466309],"coordinates":[[[[-76.695343,44.470924],[-76.691521,44.461079],[-76.693924,44.462639],[-76.704826,44.467953],[-76.694481,44.480476],[-76.690002,44.483665],[-76.695343,44.470924]]]],"created":1292551021,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/1866_20101217_941625da5d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

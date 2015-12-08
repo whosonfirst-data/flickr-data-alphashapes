@@ -1,0 +1,15 @@
+{
+  "id": 544540,
+  "type": "Feature",
+  "properties": {
+    "name":"Zissersdorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":544540,
+    "woe:name":"Zissersdorf, Lower Austria, Austria",
+    "woe:place_id":"V_7cwVucBZi86qc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.612945,48.826405,15.632815,48.837124],
+  "geometry": {"alpha":0.00015,"bbox":[15.612944602966,48.826404571533,15.632815361023,48.83712387085],"coordinates":[[[[15.632815,48.826405],[15.631088,48.828709],[15.612945,48.829243],[15.628223,48.837124],[15.631377,48.828537],[15.632815,48.826405]]]],"created":1292542461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/544540_20101216_2184504fa7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

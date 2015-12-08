@@ -1,0 +1,15 @@
+{
+  "id": 2446184,
+  "type": "Feature",
+  "properties": {
+    "name":"Marshfield Station, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2446184,
+    "woe:name":"Marshfield Station, Pennsylvania, United States",
+    "woe:place_id":"BEd4sBObBZg3EtpX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.066551,40.880978,-75.064438,40.88377],
+  "geometry": {"alpha":0.00015,"bbox":[-75.066551208496,40.880977630615,-75.064437866211,40.883769989014],"coordinates":[[[[-75.066391,40.883472],[-75.066551,40.88377],[-75.066071,40.883522],[-75.064438,40.881596],[-75.065414,40.880978],[-75.066391,40.883472]]]],"created":1248152886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3513/shapefiles/2446184_20090721_324be78dee.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

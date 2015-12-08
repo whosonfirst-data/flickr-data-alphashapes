@@ -1,0 +1,15 @@
+{
+  "id": 723123,
+  "type": "Feature",
+  "properties": {
+    "name":"S Sebastiano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":723123,
+    "woe:name":"S Sebastiano, Piedmont, Italy",
+    "woe:place_id":"Giuc6pGeA59AwP8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.059076,44.785397,9.064922,44.789219],
+  "geometry": {"alpha":0.00015,"bbox":[9.0590763092041,44.785396575928,9.0649223327637,44.789218902588],"coordinates":[[[[9.064922,44.785416],[9.064836,44.785397],[9.059076,44.789219],[9.063613,44.78788],[9.064568,44.786114],[9.064922,44.785416]]]],"created":1292537230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/723123_20101216_4ea6f585c2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

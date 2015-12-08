@@ -1,0 +1,15 @@
+{
+  "id": 584241,
+  "type": "Feature",
+  "properties": {
+    "name":"Champenoux, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":584241,
+    "woe:name":"Champenoux, Lorraine, France",
+    "woe:place_id":"O4g45nacCZiI1QM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.330485,48.738758,6.360386,48.751095],
+  "geometry": {"alpha":0.00015,"bbox":[6.3304848670959,48.738758087158,6.3603858947754,48.751094818115],"coordinates":[[[[6.330485,48.748661],[6.330699,48.751095],[6.336364,48.750755],[6.347879,48.74231],[6.360386,48.745022],[6.347415,48.738758],[6.330485,48.748661]]]],"created":1292458326,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/584241_20101216_3c0c509339.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

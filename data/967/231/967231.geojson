@@ -1,0 +1,15 @@
+{
+  "id": 967231,
+  "type": "Feature",
+  "properties": {
+    "name":"Bertrix, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":967231,
+    "woe:name":"Bertrix, Luxemburg, Belgium",
+    "woe:place_id":"5rkz3K.QB5tloSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.250606,49.851002,5.267622,49.864628],
+  "geometry": {"alpha":0.00015,"bbox":[5.2506060600281,49.851001739502,5.2676219940186,49.864627838135],"coordinates":[[[[5.251121,49.851002],[5.250606,49.86142],[5.251207,49.862942],[5.253181,49.864628],[5.262107,49.85947],[5.267622,49.852703],[5.251121,49.851002]]]],"created":1292535064,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/967231_20101216_b499cce162.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

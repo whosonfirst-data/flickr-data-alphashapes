@@ -1,0 +1,15 @@
+{
+  "id": 20076749,
+  "type": "Feature",
+  "properties": {
+    "name":"Mondaino, Italy",
+    "placetype":"locality",
+    "woe:id":20076749,
+    "woe:name":"Mondaino, Italy",
+    "woe:place_id":"33dL3OObAZwYzFsg.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.670326,43.854908,12.671613,43.858204],
+  "geometry": {"alpha":1e-05,"bbox":[12.67032623291,43.854907989502,12.671612739563,43.858203887939],"coordinates":[[[[12.671613,43.855572],[12.671012,43.854908],[12.670326,43.858204],[12.67098,43.857841],[12.671613,43.855572]]]],"created":1292523650,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/20076749_20101216_8c567b35d7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

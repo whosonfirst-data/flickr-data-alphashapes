@@ -1,0 +1,15 @@
+{
+  "id": 2378833,
+  "type": "Feature",
+  "properties": {
+    "name":"Chelsea Heights, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2378833,
+    "woe:name":"Chelsea Heights, Georgia, United States",
+    "woe:place_id":"PD38NQ2bApvSLbMY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.315552,33.779148,-84.312035,33.785133],
+  "geometry": {"alpha":0.00015,"bbox":[-84.315551757812,33.779148101807,-84.312034606934,33.785133361816],"coordinates":[[[[-84.315552,33.785133],[-84.312035,33.783997],[-84.313202,33.780861],[-84.314575,33.779148],[-84.315552,33.785133]]]],"created":1234652647,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3198/shapefiles/2378833_20090214_4286718fb3.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2300496,
+  "type": "Feature",
+  "properties": {
+    "name":"Linluo Township, Taiwan",
+    "placetype":"locality",
+    "woe:id":2300496,
+    "woe:name":"Linluo Township, Taiwan",
+    "woe:place_id":"lkPdDAibApzeydaG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.550835,22.656944,120.556541,22.659655],
+  "geometry": {"alpha":1e-05,"bbox":[120.55083465576,22.656944274902,120.55654144287,22.65965461731],"coordinates":[[[[120.551392,22.657223],[120.551392,22.656944],[120.550835,22.658054],[120.556541,22.659655],[120.551392,22.657223]]]],"created":1248123491,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3461/shapefiles/2300496_20090720_bc099b056b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

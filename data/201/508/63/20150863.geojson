@@ -1,0 +1,15 @@
+{
+  "id": 20150863,
+  "type": "Feature",
+  "properties": {
+    "name":"Bokeslund, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":20150863,
+    "woe:name":"Bokeslund, Skane, Sweden",
+    "woe:place_id":"UEFtEY6bAZ09p0BrRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.641008,55.95499,13.642056,55.955124],
+  "geometry": {"alpha":0.00015,"bbox":[13.641008377075,55.954990386963,13.642056465149,55.955123901367],"coordinates":[[[[13.641008,55.95499],[13.641018,55.954994],[13.642056,55.955124],[13.64101,55.95499],[13.641008,55.95499]]]],"created":1292445584,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20150863_20101215_65eb0ed6c7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

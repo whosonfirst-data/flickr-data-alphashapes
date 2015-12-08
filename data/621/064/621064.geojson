@@ -1,0 +1,15 @@
+{
+  "id": 621064,
+  "type": "Feature",
+  "properties": {
+    "name":"Sarrancolin, Midi-Pyrenees, France",
+    "placetype":"locality",
+    "woe:id":621064,
+    "woe:name":"Sarrancolin, Midi-Pyrenees, France",
+    "woe:place_id":"9T_Sc32fA500PCY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.35345,42.958683,0.377998,42.976521],
+  "geometry": {"alpha":0.00015,"bbox":[0.3534500002861,42.958683013916,0.37799799442291,42.97652053833],"coordinates":[[[[0.377966,42.966927],[0.377998,42.966408],[0.372505,42.958683],[0.35345,42.967224],[0.374393,42.976521],[0.377966,42.966927]]]],"created":1292483701,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/621064_20101216_d98b0644f5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

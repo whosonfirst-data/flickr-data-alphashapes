@@ -1,0 +1,15 @@
+{
+  "id": 12631288,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lohme, Germany",
+    "placetype":"locality",
+    "woe:id":12631288,
+    "woe:name":"Gemeinde Lohme, Germany",
+    "woe:place_id":"ZGcvKceYA5ofzn3xqw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.609313,54.583206,13.617897,54.584846],
+  "geometry": {"alpha":1.25e-05,"bbox":[13.609313011169,54.583206176758,13.617897033691,54.584846496582],"coordinates":[[[[13.612747,54.583206],[13.609313,54.583652],[13.612232,54.584846],[13.617897,54.58477],[13.612747,54.583206]]]],"created":1292538662,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12631288_20101216_a3c4a40f60.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

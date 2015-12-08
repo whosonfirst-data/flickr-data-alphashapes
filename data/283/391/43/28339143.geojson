@@ -1,0 +1,15 @@
+{
+  "id": 28339143,
+  "type": "Feature",
+  "properties": {
+    "name":"Aslo, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":28339143,
+    "woe:name":"Aslo, Minnesota, United States",
+    "woe:place_id":"V2C5XnybCZ8jC5Usag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.725296,46.236614,-92.720032,46.241249],
+  "geometry": {"alpha":0.00015,"bbox":[-92.725296020508,46.236614227295,-92.720031738281,46.241249084473],"coordinates":[[[[-92.720444,46.241249],[-92.720177,46.241238],[-92.720032,46.240978],[-92.725296,46.236614],[-92.720467,46.241238],[-92.720444,46.241249]]]],"created":1292390764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/28339143_20101215_2b6bf16186.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2345195,
+  "type": "Feature",
+  "properties": {
+    "name":"Valverde, DO, Dominican Republic",
+    "placetype":"region",
+    "woe:id":2345195,
+    "woe:name":"Valverde, DO, Dominican Republic",
+    "woe:place_id":"O2GRddubApjG1cvb",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-71.198959,19.456881,-70.905762,19.932041],
+  "geometry": {"alpha":0.03,"bbox":[-71.198959350586,19.456880569458,-70.90576171875,19.932041168213],"coordinates":[[[[-71.013222,19.633451],[-70.975113,19.609118],[-70.905762,19.55979],[-70.927734,19.55979],[-71.108322,19.456881],[-71.159874,19.498529],[-71.198959,19.721786],[-71.037598,19.932041],[-71.013222,19.633451]]]],"created":1248208682,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2528/shapefiles/2345195_20090721_9482f61bdc.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

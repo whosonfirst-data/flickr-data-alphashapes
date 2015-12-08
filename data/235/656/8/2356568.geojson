@@ -1,0 +1,15 @@
+{
+  "id": 2356568,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashfield, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2356568,
+    "woe:name":"Ashfield, Pennsylvania, United States",
+    "woe:place_id":"4vcAQLybApl1vP_a",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.714767,40.786568,-75.693657,40.800369],
+  "geometry": {"alpha":0.00015,"bbox":[-75.714767456055,40.786567687988,-75.693656921387,40.800369262695],"coordinates":[[[[-75.714767,40.798695],[-75.714386,40.800369],[-75.69957,40.791328],[-75.693657,40.786568],[-75.700027,40.791134],[-75.714767,40.798695]]]],"created":1292459161,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2356568_20101216_fd37f8b8c7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

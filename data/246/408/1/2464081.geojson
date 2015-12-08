@@ -1,0 +1,15 @@
+{
+  "id": 2464081,
+  "type": "Feature",
+  "properties": {
+    "name":"Ocean Park, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2464081,
+    "woe:name":"Ocean Park, Oregon, United States",
+    "woe:place_id":"qz3OVLKbBZqvOGrY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.059258,44.72797,-124.052689,44.730301],
+  "geometry": {"alpha":0.00015,"bbox":[-124.05925750732,44.727970123291,-124.05268859863,44.73030090332],"coordinates":[[[[-124.058647,44.72826],[-124.059258,44.729046],[-124.058388,44.729691],[-124.053154,44.730301],[-124.052689,44.72797],[-124.058647,44.72826]]]],"created":1292550566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2464081_20101217_fa98c95b0a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

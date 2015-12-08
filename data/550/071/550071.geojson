@@ -1,0 +1,15 @@
+{
+  "id": 550071,
+  "type": "Feature",
+  "properties": {
+    "name":"Thondorf, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550071,
+    "woe:name":"Thondorf, Styria, Austria",
+    "woe:place_id":"8Ynlza6cBJxtj04",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.466175,47.008522,15.476437,47.012833],
+  "geometry": {"alpha":0.00015,"bbox":[15.466175079346,47.008522033691,15.47643661499,47.012832641602],"coordinates":[[[[15.476397,47.012833],[15.476415,47.01281],[15.476437,47.012775],[15.47539,47.008522],[15.466175,47.010811],[15.476397,47.012833]]]],"created":1292405283,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/550071_20101215_92b17fec25.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

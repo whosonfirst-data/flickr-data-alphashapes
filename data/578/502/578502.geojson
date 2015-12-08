@@ -1,0 +1,15 @@
+{
+  "id": 578502,
+  "type": "Feature",
+  "properties": {
+    "name":"Bazancourt, Champagne-Ardenne, France",
+    "placetype":"locality",
+    "woe:id":578502,
+    "woe:name":"Bazancourt, Champagne-Ardenne, France",
+    "woe:place_id":"fDuz3aecBpRIe7U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.164247,49.361225,4.174354,49.365284],
+  "geometry": {"alpha":0.00015,"bbox":[4.1642470359802,49.361225128174,4.1743540763855,49.365283966064],"coordinates":[[[[4.172229,49.365284],[4.174354,49.361225],[4.165835,49.361542],[4.164247,49.363476],[4.17069,49.364918],[4.172229,49.365284]]]],"created":1292443508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/578502_20101215_69dce0b52a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2488167,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablo, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2488167,
+    "woe:name":"San Pablo, New Mexico, United States",
+    "woe:place_id":"HBZwT1ObBZSBc6Hh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.758957,32.214252,-106.749084,32.224964],
+  "geometry": {"alpha":0.00015,"bbox":[-106.75895690918,32.214252471924,-106.74908447266,32.224964141846],"coordinates":[[[[-106.749084,32.224964],[-106.758957,32.214252],[-106.758484,32.220806],[-106.758438,32.222385],[-106.749084,32.224964]]]],"created":1292460545,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2488167_20101216_75401b342f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

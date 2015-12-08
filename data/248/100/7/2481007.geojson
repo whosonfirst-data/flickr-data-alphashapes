@@ -1,0 +1,15 @@
+{
+  "id": 2481007,
+  "type": "Feature",
+  "properties": {
+    "name":"Richwood, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2481007,
+    "woe:name":"Richwood, Minnesota, United States",
+    "woe:place_id":"6sX_k_2bBZQyCjsG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.779198,47.008835,-95.776352,47.020565],
+  "geometry": {"alpha":0.00015,"bbox":[-95.779197692871,47.008834838867,-95.776351928711,47.020565032959],"coordinates":[[[[-95.776352,47.009056],[-95.776573,47.008835],[-95.779198,47.0116],[-95.778809,47.012215],[-95.776352,47.020565],[-95.776352,47.009056]]]],"created":1292454392,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2481007_20101215_d8b11fea54.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

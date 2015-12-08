@@ -1,0 +1,15 @@
+{
+  "id": 2431507,
+  "type": "Feature",
+  "properties": {
+    "name":"Kennebec, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2431507,
+    "woe:name":"Kennebec, North Carolina, United States",
+    "woe:place_id":"rKRQf0ybBZ85rTT8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.768822,35.530899,-78.743179,35.542385],
+  "geometry": {"alpha":0.00015,"bbox":[-78.768821716309,35.530899047852,-78.743179321289,35.542385101318],"coordinates":[[[[-78.743179,35.539581],[-78.743393,35.530899],[-78.75071,35.536682],[-78.768822,35.541241],[-78.748405,35.542385],[-78.743179,35.539581]]]],"created":1292535968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2431507_20101216_7135c31de9.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

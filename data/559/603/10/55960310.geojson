@@ -1,0 +1,15 @@
+{
+  "id": 55960310,
+  "type": "Feature",
+  "properties": {
+    "name":"Adelaide, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":55960310,
+    "woe:name":"Adelaide, Colorado, United States",
+    "woe:place_id":"jSQUR4GcBJVM5Khi9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.192322,39.260738,-106.185608,39.274624],
+  "geometry": {"alpha":0.00015,"bbox":[-106.19232177734,39.260738372803,-106.18560791016,39.27462387085],"coordinates":[[[[-106.185608,39.262032],[-106.186981,39.260738],[-106.192322,39.271732],[-106.189384,39.274624],[-106.185608,39.262032]]]],"created":1292518043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/55960310_20101216_5b4bc5fb11.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

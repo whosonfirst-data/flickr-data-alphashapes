@@ -1,0 +1,15 @@
+{
+  "id": 2355691,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardmore, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2355691,
+    "woe:name":"Ardmore, Tennessee, United States",
+    "woe:place_id":"eWpIEvybApkMqPj9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.882973,34.989502,-86.865723,35.007519],
+  "geometry": {"alpha":0.00015,"bbox":[-86.882972717285,34.989501953125,-86.86572265625,35.007518768311],"coordinates":[[[[-86.882973,34.991894],[-86.875801,35.002064],[-86.875023,35.007519],[-86.865723,34.998222],[-86.879883,34.989502],[-86.882973,34.991894]]]],"created":1292541045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2355691_20101216_11af823e6a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

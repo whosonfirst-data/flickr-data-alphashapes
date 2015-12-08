@@ -1,0 +1,15 @@
+{
+  "id": 2499228,
+  "type": "Feature",
+  "properties": {
+    "name":"Starr School, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2499228,
+    "woe:name":"Starr School, Montana, United States",
+    "woe:place_id":"FDsuBrybBZUx3t9h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.191002,48.542492,-113.177032,48.549911],
+  "geometry": {"alpha":0.00015,"bbox":[-113.19100189209,48.542491912842,-113.1770324707,48.549911499023],"coordinates":[[[[-113.191002,48.542667],[-113.190575,48.542976],[-113.177032,48.549911],[-113.177864,48.547585],[-113.188835,48.542492],[-113.191002,48.542667]]]],"created":1292529986,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2499228_20101216_a714c2192f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

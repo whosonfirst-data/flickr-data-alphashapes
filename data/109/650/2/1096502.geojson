@@ -1,0 +1,15 @@
+{
+  "id": 1096502,
+  "type": "Feature",
+  "properties": {
+    "name":"Kalunga, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1096502,
+    "woe:name":"Kalunga, Queensland, Australia",
+    "woe:place_id":"uA7730mYAZWOLdfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.370712,-17.448267,145.373734,-17.445263],
+  "geometry": {"alpha":0.00015,"bbox":[145.37071228027,-17.448266983032,145.37373352051,-17.445262908936],"coordinates":[[[[145.373566,-17.447678],[145.373734,-17.448082],[145.373413,-17.448195],[145.373062,-17.448267],[145.370712,-17.445862],[145.370834,-17.445263],[145.373566,-17.447678]]]],"created":1292444244,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/1096502_20101215_6618c0ac97.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

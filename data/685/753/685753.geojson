@@ -1,0 +1,15 @@
+{
+  "id": 685753,
+  "type": "Feature",
+  "properties": {
+    "name":"Possenhofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685753,
+    "woe:name":"Possenhofen, Bavaria, Germany",
+    "woe:place_id":"iNLF5E2fCZmZtfs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.310038,47.955215,11.317205,47.961479],
+  "geometry": {"alpha":0.00015,"bbox":[11.310037612915,47.955215454102,11.317205429077,47.961479187012],"coordinates":[[[[11.313729,47.956966],[11.312141,47.955215],[11.310038,47.958981],[11.310939,47.96022],[11.315016,47.961479],[11.317205,47.960674],[11.313729,47.956966]]]],"created":1292530533,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/685753_20101216_fe3afdaca3.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

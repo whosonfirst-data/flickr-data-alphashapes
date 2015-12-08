@@ -1,0 +1,15 @@
+{
+  "id": 20075560,
+  "type": "Feature",
+  "properties": {
+    "name":"Capriasca, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075560,
+    "woe:name":"Capriasca, Switzerland",
+    "woe:place_id":"IPKT0CabAZz2Kc.l8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.975915,46.085751,8.978583,46.088585],
+  "geometry": {"alpha":1e-05,"bbox":[8.9759149551392,46.085750579834,8.9785833358765,46.088584899902],"coordinates":[[[[8.978083,46.087002],[8.977694,46.085751],[8.975915,46.086327],[8.978583,46.088585],[8.978083,46.087002]]]],"created":1292550092,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/20075560_20101217_3a734e3831.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

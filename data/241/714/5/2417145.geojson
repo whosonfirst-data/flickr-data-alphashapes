@@ -1,0 +1,15 @@
+{
+  "id": 2417145,
+  "type": "Feature",
+  "properties": {
+    "name":"Hanover Farms, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2417145,
+    "woe:name":"Hanover Farms, Virginia, United States",
+    "woe:place_id":"_RwNorObBZ3NUyhd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.300148,37.573868,-77.292336,37.588184],
+  "geometry": {"alpha":0.00015,"bbox":[-77.300148010254,37.573867797852,-77.292335510254,37.588184356689],"coordinates":[[[[-77.292381,37.577305],[-77.292336,37.574352],[-77.296417,37.573868],[-77.299278,37.579151],[-77.300148,37.588184],[-77.292381,37.577305]]]],"created":1292444715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2417145_20101215_81d07ea863.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

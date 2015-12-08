@@ -1,0 +1,15 @@
+{
+  "id": 723541,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Lucia del Mela, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":723541,
+    "woe:name":"Santa Lucia del Mela, Sicily, Italy",
+    "woe:place_id":"2N.990aeA58fwD8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.279407,38.117271,15.284729,38.142082],
+  "geometry": {"alpha":0.00015,"bbox":[15.279406547546,38.11727142334,15.284729003906,38.142082214355],"coordinates":[[[[15.28196,38.142082],[15.283076,38.140705],[15.282497,38.137886],[15.284729,38.117271],[15.279407,38.135635],[15.280609,38.141106],[15.28196,38.142082]]]],"created":1292545573,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/723541_20101217_c96667541e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3123,
+  "type": "Feature",
+  "properties": {
+    "name":"Hearst, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3123,
+    "woe:name":"Hearst, Ontario, Canada",
+    "woe:place_id":"Zo_Px52aAJ5n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.678055,49.685459,-83.663376,49.703777],
+  "geometry": {"alpha":0.00015,"bbox":[-83.67805480957,49.685459136963,-83.663375854492,49.703777313232],"coordinates":[[[[-83.664948,49.689308],[-83.669281,49.685459],[-83.676033,49.686989],[-83.678055,49.687496],[-83.677109,49.692009],[-83.66964,49.703777],[-83.663376,49.691174],[-83.664948,49.689308]]]],"created":1292544010,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/3123_20101217_8a5e688c51.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

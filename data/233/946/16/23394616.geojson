@@ -1,0 +1,15 @@
+{
+  "id": 23394616,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Thomas, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394616,
+    "woe:name":"St.-Thomas, Quebec, Canada",
+    "woe:place_id":"CORTkB6bAp_AB1o98g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.364639,46.013588,-73.352104,46.030521],
+  "geometry": {"alpha":0.00015,"bbox":[-73.364639282227,46.01358795166,-73.352104187012,46.030521392822],"coordinates":[[[[-73.35318,46.013588],[-73.364639,46.01482],[-73.358612,46.030392],[-73.358383,46.030521],[-73.352104,46.016483],[-73.35318,46.013588]]]],"created":1292544195,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/23394616_20101217_e0f6c499b9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

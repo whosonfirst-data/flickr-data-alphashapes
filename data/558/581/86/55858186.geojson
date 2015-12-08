@@ -1,0 +1,15 @@
+{
+  "id": 55858186,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston Avenue, Bridgeport, CT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55858186,
+    "woe:name":"Boston Avenue, Bridgeport, CT, US, United States",
+    "woe:place_id":"ql1aBvKcBJRBaGrtIQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.156609,41.193802,-73.151901,41.202801],
+  "geometry": {"alpha":1e-05,"bbox":[-73.156608581543,41.193801879883,-73.151901245117,41.202800750732],"coordinates":[[[[-73.156609,41.193802],[-73.153168,41.196667],[-73.156433,41.200733],[-73.151901,41.202801],[-73.152496,41.200001],[-73.152451,41.198059],[-73.152367,41.194187],[-73.156609,41.193802]]]],"created":1292551030,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/55858186_20101217_de34873224.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

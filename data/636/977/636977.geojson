@@ -1,0 +1,15 @@
+{
+  "id": 636977,
+  "type": "Feature",
+  "properties": {
+    "name":"Barlt, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":636977,
+    "woe:name":"Barlt, Schleswig-Holstein, Germany",
+    "woe:place_id":"OLJEcKefAprVggs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.043422,53.998867,9.068763,54.01725],
+  "geometry": {"alpha":0.00015,"bbox":[9.0434217453003,53.998867034912,9.0687627792358,54.017250061035],"coordinates":[[[[9.0475,53.999397],[9.043422,54.003025],[9.056167,54.011021],[9.057819,54.01725],[9.068763,53.998871],[9.068763,53.998867],[9.0475,53.999397]]]],"created":1292455927,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/636977_20101215_ca12462d01.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

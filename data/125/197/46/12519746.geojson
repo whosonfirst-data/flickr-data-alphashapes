@@ -1,0 +1,15 @@
+{
+  "id": 12519746,
+  "type": "Feature",
+  "properties": {
+    "name":"Florence Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12519746,
+    "woe:name":"Florence Regional Airport, United States",
+    "woe:place_id":"DK4ilr2YA5lRuD4TGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.733063,34.191429,-79.729439,34.194073],
+  "geometry": {"alpha":1e-05,"bbox":[-79.733062744141,34.191429138184,-79.729438781738,34.194072723389],"coordinates":[[[[-79.733063,34.191429],[-79.733017,34.191925],[-79.729439,34.194073],[-79.732651,34.191624],[-79.733063,34.191429]]]],"created":1292487006,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12519746_20101216_febb22ef7e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

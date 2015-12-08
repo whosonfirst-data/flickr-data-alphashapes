@@ -1,0 +1,15 @@
+{
+  "id": 719729,
+  "type": "Feature",
+  "properties": {
+    "name":"Pace Inferiore, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":719729,
+    "woe:name":"Pace Inferiore, Sicily, Italy",
+    "woe:place_id":".BsHOvOeAJUppUY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.303826,38.171593,15.312538,38.182407],
+  "geometry": {"alpha":0.00015,"bbox":[15.303826332092,38.171592712402,15.312538146973,38.18240737915],"coordinates":[[[[15.306959,38.172455],[15.303826,38.174496],[15.305199,38.182407],[15.307431,38.17841],[15.308783,38.175625],[15.312538,38.171593],[15.306959,38.172455]]]],"created":1292545955,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/719729_20101217_8bfc6608ce.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

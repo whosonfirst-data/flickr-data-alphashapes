@@ -1,0 +1,15 @@
+{
+  "id": 649545,
+  "type": "Feature",
+  "properties": {
+    "name":"Felsberg, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":649545,
+    "woe:name":"Felsberg, Hesse, Germany",
+    "woe:place_id":"EXIkMFefBZWx63Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.41524,51.123348,9.435195,51.144894],
+  "geometry": {"alpha":0.00015,"bbox":[9.4152402877808,51.123348236084,9.4351949691772,51.14489364624],"coordinates":[[[[9.41524,51.13718],[9.422664,51.142094],[9.431676,51.144894],[9.435195,51.136761],[9.427127,51.127445],[9.420089,51.123348],[9.41524,51.13718]]]],"created":1292540262,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/649545_20101216_8bdf98a0ba.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

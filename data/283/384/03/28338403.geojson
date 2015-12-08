@@ -1,0 +1,15 @@
+{
+  "id": 28338403,
+  "type": "Feature",
+  "properties": {
+    "name":"East Fulton, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":28338403,
+    "woe:name":"East Fulton, Illinois, United States",
+    "woe:place_id":"eY3RpuCbCZ.LWy7HGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.093727,41.859844,-90.083252,41.871559],
+  "geometry": {"alpha":0.00015,"bbox":[-90.093727111816,41.859844207764,-90.083251953125,41.871559143066],"coordinates":[[[[-90.086624,41.859844],[-90.088966,41.861668],[-90.093727,41.871284],[-90.093597,41.871559],[-90.083252,41.861507],[-90.086624,41.859844]]]],"created":1292541734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/28338403_20101216_02f75ca6ed.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2465557,
+  "type": "Feature",
+  "properties": {
+    "name":"Omar, New York, United States",
+    "placetype":"locality",
+    "woe:id":2465557,
+    "woe:name":"Omar, New York, United States",
+    "woe:place_id":"i1GJGFGbBZrfw5h1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.974838,44.25481,-75.958069,44.278145],
+  "geometry": {"alpha":0.00015,"bbox":[-75.974838256836,44.254810333252,-75.958068847656,44.278144836426],"coordinates":[[[[-75.966286,44.257648],[-75.974838,44.271938],[-75.971832,44.278145],[-75.962433,44.258694],[-75.958069,44.25481],[-75.966286,44.257648]]]],"created":1292456764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2465557_20101215_783b49d034.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

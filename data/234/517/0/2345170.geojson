@@ -1,0 +1,15 @@
+{
+  "id": 2345170,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint Peter, DM, Dominica",
+    "placetype":"region",
+    "woe:id":2345170,
+    "woe:name":"Saint Peter, DM, Dominica",
+    "woe:place_id":"n3weRimbApgjI9Dy",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-61.483955,15.469563,-61.371689,15.542345],
+  "geometry": {"alpha":0.03,"bbox":[-61.483955383301,15.469562530518,-61.371688842773,15.542345046997],"coordinates":[[[[-61.459236,15.541435],[-61.408081,15.542345],[-61.371689,15.507611],[-61.402588,15.474857],[-61.411686,15.473203],[-61.467819,15.469563],[-61.483955,15.488753],[-61.478119,15.52779],[-61.459236,15.541435]]]],"created":1292547359,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2345170_20101217_66c53e6b01.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

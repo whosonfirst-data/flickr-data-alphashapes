@@ -1,0 +1,15 @@
+{
+  "id": 2520266,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilbur, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2520266,
+    "woe:name":"Wilbur, Oregon, United States",
+    "woe:place_id":"OAW6nvmbBJ7bm6fb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.357407,43.307529,-123.342644,43.32354],
+  "geometry": {"alpha":0.00015,"bbox":[-123.35740661621,43.307529449463,-123.34264373779,43.323539733887],"coordinates":[[[[-123.342644,43.323177],[-123.345612,43.313988],[-123.348343,43.307529],[-123.357407,43.31625],[-123.344299,43.32354],[-123.342644,43.323177]]]],"created":1292543798,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2520266_20101216_3744b08a05.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

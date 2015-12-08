@@ -1,0 +1,15 @@
+{
+  "id": 2407082,
+  "type": "Feature",
+  "properties": {
+    "name":"Fraser, New York, United States",
+    "placetype":"locality",
+    "woe:id":2407082,
+    "woe:name":"Fraser, New York, United States",
+    "woe:place_id":"jifK6iSbBZz11n9r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.964645,42.24379,-74.963196,42.249432],
+  "geometry": {"alpha":0.00015,"bbox":[-74.964645385742,42.243789672852,-74.963195800781,42.249431610107],"coordinates":[[[[-74.964645,42.244946],[-74.964531,42.245934],[-74.964294,42.24799],[-74.963196,42.249432],[-74.964569,42.24379],[-74.964645,42.244946]]]],"created":1292493604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2407082_20101216_75bac831cd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

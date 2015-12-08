@@ -1,0 +1,15 @@
+{
+  "id": 29281980,
+  "type": "Feature",
+  "properties": {
+    "name":"Ekskogen karstad, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":29281980,
+    "woe:name":"Ekskogen karstad, Stockholm, Sweden",
+    "woe:place_id":"Jzv_GMCbCJ5ThjgojA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.238676,59.643608,18.240973,59.652912],
+  "geometry": {"alpha":0.00015,"bbox":[18.238676071167,59.643608093262,18.240972518921,59.652912139893],"coordinates":[[[[18.239365,59.652912],[18.240202,59.652756],[18.240973,59.652344],[18.23885,59.643608],[18.238676,59.643902],[18.239365,59.652912]]]],"created":1292521529,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/29281980_20101216_52eb609fce.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2402288,
+  "type": "Feature",
+  "properties": {
+    "name":"Fargo, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2402288,
+    "woe:name":"Fargo, Texas, United States",
+    "woe:place_id":"4gy_y16bBZxqlG3I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.294518,34.28635,-99.278297,34.296295],
+  "geometry": {"alpha":0.00015,"bbox":[-99.29451751709,34.286350250244,-99.278297424316,34.296295166016],"coordinates":[[[[-99.293877,34.288425],[-99.294518,34.290745],[-99.278297,34.296295],[-99.293144,34.28635],[-99.293877,34.288425]]]],"created":1292374203,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2402288_20101215_399acee18c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

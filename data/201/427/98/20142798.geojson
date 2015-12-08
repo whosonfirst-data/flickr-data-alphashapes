@@ -1,0 +1,15 @@
+{
+  "id": 20142798,
+  "type": "Feature",
+  "properties": {
+    "name":"Santino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20142798,
+    "woe:name":"Santino, Piedmont, Italy",
+    "woe:place_id":"L7EQ1OibAZ3HRYqreQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.51244,45.956192,8.530883,45.966125],
+  "geometry": {"alpha":0.00015,"bbox":[8.5124397277832,45.956192016602,8.5308828353882,45.966125488281],"coordinates":[[[[8.530883,45.959564],[8.526592,45.956192],[8.520564,45.956223],[8.51244,45.964703],[8.517408,45.966125],[8.530883,45.959564]]]],"created":1292462530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20142798_20101216_01887dd35d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

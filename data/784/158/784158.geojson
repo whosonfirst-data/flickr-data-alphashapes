@@ -1,0 +1,15 @@
+{
+  "id": 784158,
+  "type": "Feature",
+  "properties": {
+    "name":"Maria, Canton of Graubunden, Switzerland",
+    "placetype":"locality",
+    "woe:id":784158,
+    "woe:name":"Maria, Canton of Graubunden, Switzerland",
+    "woe:place_id":"27vEUQ.eCZh4NkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.754142,46.426971,9.768047,46.429958],
+  "geometry": {"alpha":0.00015,"bbox":[9.7541418075562,46.426971435547,9.7680473327637,46.429958343506],"coordinates":[[[[9.763562,46.429176],[9.764571,46.429546],[9.768047,46.429958],[9.76331,46.427662],[9.754142,46.426971],[9.762515,46.428658],[9.763562,46.429176]]]],"created":1292531433,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/784158_20101216_90642e0111.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

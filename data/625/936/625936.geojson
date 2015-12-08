@@ -1,0 +1,15 @@
+{
+  "id": 625936,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Menoux, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":625936,
+    "woe:name":"St.-Menoux, Auvergne, France",
+    "woe:place_id":"qvF__TufA5lY22Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.156648,46.583256,3.162418,46.585285],
+  "geometry": {"alpha":0.00015,"bbox":[3.1566479206085,46.583255767822,3.1624178886414,46.585285186768],"coordinates":[[[[3.156648,46.58527],[3.156884,46.585285],[3.161315,46.583878],[3.162418,46.583256],[3.15946,46.584229],[3.156648,46.58527]]]],"created":1292498763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/625936_20101216_711a708397.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

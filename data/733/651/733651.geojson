@@ -1,0 +1,15 @@
+{
+  "id": 733651,
+  "type": "Feature",
+  "properties": {
+    "name":"Stein, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":733651,
+    "woe:name":"Stein, Limburg, Netherlands",
+    "woe:place_id":"h4StSlKeAp.Ue7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.752587,50.958183,5.785846,50.974087],
+  "geometry": {"alpha":0.00015,"bbox":[5.7525868415833,50.958183288574,5.7858462333679,50.974086761475],"coordinates":[[[[5.752587,50.958183],[5.757608,50.96859],[5.773401,50.974087],[5.785846,50.960968],[5.761556,50.960697],[5.752587,50.958183]]]],"created":1234932485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3146/shapefiles/733651_20090218_2281952946.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

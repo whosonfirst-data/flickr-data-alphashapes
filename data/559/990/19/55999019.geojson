@@ -1,0 +1,15 @@
+{
+  "id": 55999019,
+  "type": "Feature",
+  "properties": {
+    "name":"Beverley Hills, Keswick, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999019,
+    "woe:name":"Beverley Hills, Keswick, ON, CA, Canada",
+    "woe:place_id":"2uy0i1KcBJUeZjivrg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.479729,44.197559,-79.47892,44.200279],
+  "geometry": {"alpha":1e-05,"bbox":[-79.47972869873,44.197559356689,-79.47891998291,44.20027923584],"coordinates":[[[[-79.479454,44.197559],[-79.479729,44.200279],[-79.47892,44.199512],[-79.479195,44.197754],[-79.479454,44.197559]]]],"created":1292453000,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/55999019_20101215_6da429f121.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

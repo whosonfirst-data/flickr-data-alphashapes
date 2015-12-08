@@ -1,0 +1,15 @@
+{
+  "id": 2521669,
+  "type": "Feature",
+  "properties": {
+    "name":"Winchester, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2521669,
+    "woe:name":"Winchester, Idaho, United States",
+    "woe:place_id":"riponzKbBJ60Mp.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.638184,46.226719,-116.612831,46.242157],
+  "geometry": {"alpha":0.00015,"bbox":[-116.63818359375,46.226718902588,-116.61283111572,46.242156982422],"coordinates":[[[[-116.623787,46.242157],[-116.620644,46.239433],[-116.612831,46.237091],[-116.617081,46.227234],[-116.638184,46.226719],[-116.623817,46.241543],[-116.623787,46.242157]]]],"created":1248114858,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2208/shapefiles/2521669_20090720_167b133d21.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

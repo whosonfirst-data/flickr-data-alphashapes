@@ -1,0 +1,15 @@
+{
+  "id": 2434322,
+  "type": "Feature",
+  "properties": {
+    "name":"La Puebla, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2434322,
+    "woe:name":"La Puebla, New Mexico, United States",
+    "woe:place_id":"LLVzA4.bBZ8ztJON",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.998306,35.985153,-105.990669,35.998283],
+  "geometry": {"alpha":0.00015,"bbox":[-105.99830627441,35.985153198242,-105.99066925049,35.99828338623],"coordinates":[[[[-105.990669,35.985664],[-105.992325,35.985153],[-105.998306,35.988415],[-105.996094,35.998283],[-105.990669,35.985664]]]],"created":1292448604,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2434322_20101215_bca0e081ef.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1100849,
+  "type": "Feature",
+  "properties": {
+    "name":"Burrell Creek, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100849,
+    "woe:name":"Burrell Creek, New South Wales, Australia",
+    "woe:place_id":"y66SP4yYAJzvB0OI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.313034,-31.950443,152.313202,-31.950275],
+  "geometry": {"alpha":0.00015,"bbox":[152.31303405762,-31.950443267822,152.3132019043,-31.950275421143],"coordinates":[[[[152.313034,-31.950275],[152.31308,-31.950304],[152.313202,-31.950443],[152.31308,-31.95042],[152.313034,-31.950275]]]],"created":1234545246,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3521/shapefiles/1100849_20090213_94796fdb4a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

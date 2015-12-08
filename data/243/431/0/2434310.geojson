@@ -1,0 +1,15 @@
+{
+  "id": 2434310,
+  "type": "Feature",
+  "properties": {
+    "name":"La Plume, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2434310,
+    "woe:name":"La Plume, Pennsylvania, United States",
+    "woe:place_id":"CEz5gXObBZ_OOtyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.776222,41.549702,-75.754532,41.558147],
+  "geometry": {"alpha":0.00015,"bbox":[-75.776222229004,41.549701690674,-75.754531860352,41.55814743042],"coordinates":[[[[-75.755226,41.557369],[-75.754532,41.55682],[-75.757423,41.552719],[-75.759018,41.549702],[-75.776222,41.558147],[-75.755226,41.557369]]]],"created":1292440862,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2434310_20101215_834f4c5728.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55856395,
+  "type": "Feature",
+  "properties": {
+    "name":"West, Regina, SK, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55856395,
+    "woe:name":"West, Regina, SK, CA, Canada",
+    "woe:place_id":"7wy.3g2cBJQP1CYhLw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-104.678833,50.475178,-104.674759,50.4785],
+  "geometry": {"alpha":1e-05,"bbox":[-104.67883300781,50.475177764893,-104.67475891113,50.478500366211],"coordinates":[[[[-104.678337,50.477833],[-104.678833,50.4785],[-104.676834,50.477833],[-104.674812,50.475723],[-104.674759,50.475178],[-104.678337,50.477833]]]],"created":1292529607,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/55856395_20101216_56cefb7768.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

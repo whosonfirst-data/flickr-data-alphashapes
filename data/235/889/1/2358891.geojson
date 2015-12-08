@@ -1,0 +1,15 @@
+{
+  "id": 2358891,
+  "type": "Feature",
+  "properties": {
+    "name":"Bancroft, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2358891,
+    "woe:name":"Bancroft, Wisconsin, United States",
+    "woe:place_id":"Q5gGDw2bApls0N6R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.533768,44.303211,-89.515076,44.318333],
+  "geometry": {"alpha":0.00015,"bbox":[-89.533767700195,44.303211212158,-89.515075683594,44.318332672119],"coordinates":[[[[-89.515076,44.310215],[-89.525528,44.303459],[-89.533768,44.303211],[-89.523056,44.316666],[-89.523056,44.318333],[-89.515076,44.310215]]]],"created":1292543004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2358891_20101216_471beaab3b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

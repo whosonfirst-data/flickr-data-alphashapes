@@ -1,0 +1,15 @@
+{
+  "id": 2354411,
+  "type": "Feature",
+  "properties": {
+    "name":"Amsterdam, California, United States",
+    "placetype":"locality",
+    "woe:id":2354411,
+    "woe:name":"Amsterdam, California, United States",
+    "woe:place_id":"fCQJFi.bAplFI_wI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.501648,37.470497,-120.486542,37.497879],
+  "geometry": {"alpha":0.00015,"bbox":[-120.50164794922,37.470497131348,-120.48654174805,37.49787902832],"coordinates":[[[[-120.501648,37.470974],[-120.501312,37.493202],[-120.501305,37.494267],[-120.486542,37.497879],[-120.501312,37.493202],[-120.499077,37.470497],[-120.501648,37.470974]]]],"created":1292456583,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2354411_20101215_5870b2d703.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2464089,
+  "type": "Feature",
+  "properties": {
+    "name":"Ocean Point, New York, United States",
+    "placetype":"locality",
+    "woe:id":2464089,
+    "woe:name":"Ocean Point, New York, United States",
+    "woe:place_id":"CeiF_02bBZq4F5SJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.729675,40.618023,-73.718864,40.624683],
+  "geometry": {"alpha":0.00015,"bbox":[-73.729675292969,40.618022918701,-73.718864440918,40.624683380127],"coordinates":[[[[-73.726563,40.624683],[-73.718864,40.622536],[-73.723236,40.618023],[-73.729675,40.622486],[-73.729332,40.622868],[-73.726563,40.624683]]]],"created":1292535850,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2464089_20101216_801c297283.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

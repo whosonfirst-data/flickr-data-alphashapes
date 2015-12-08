@@ -1,0 +1,15 @@
+{
+  "id": 12514993,
+  "type": "Feature",
+  "properties": {
+    "name":"Ipoh Airport, Malaysia",
+    "placetype":"locality",
+    "woe:id":12514993,
+    "woe:name":"Ipoh Airport, Malaysia",
+    "woe:place_id":"dMggiYOYA5nyBZaPvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [101.110382,4.572366,101.116997,4.575232],
+  "geometry": {"alpha":1e-05,"bbox":[101.11038208008,4.5723662376404,101.11699676514,4.5752320289612],"coordinates":[[[[101.115662,4.572671],[101.116409,4.573166],[101.116997,4.572751],[101.116287,4.572419],[101.11586,4.572366],[101.115318,4.572366],[101.110382,4.575232],[101.115662,4.572671]]]],"created":1248141020,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2612/shapefiles/12514993_20090721_a3b5f07bdf.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

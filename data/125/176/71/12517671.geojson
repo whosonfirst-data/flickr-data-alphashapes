@@ -1,0 +1,15 @@
+{
+  "id": 12517671,
+  "type": "Feature",
+  "properties": {
+    "name":"Ronneby Airport, Sweden",
+    "placetype":"locality",
+    "woe:id":12517671,
+    "woe:name":"Ronneby Airport, Sweden",
+    "woe:place_id":"GqNW2r2YA5mwuyJf7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.276703,56.256405,15.279879,56.257057],
+  "geometry": {"alpha":1e-05,"bbox":[15.276702880859,56.256404876709,15.279878616333,56.257057189941],"coordinates":[[[[15.278377,56.256866],[15.279879,56.256405],[15.277733,56.256596],[15.276703,56.257057],[15.278377,56.256866]]]],"created":1292527986,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12517671_20101216_0189015e2b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

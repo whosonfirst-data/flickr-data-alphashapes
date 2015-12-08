@@ -1,0 +1,15 @@
+{
+  "id": 624265,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Germain, Limousin, France",
+    "placetype":"locality",
+    "woe:id":624265,
+    "woe:name":"St-Germain, Limousin, France",
+    "woe:place_id":"JEUF8EmfA5irPGk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.544381,46.299244,1.545671,46.311523],
+  "geometry": {"alpha":0.00015,"bbox":[1.5443810224533,46.299243927002,1.5456709861755,46.3115234375],"coordinates":[[[[1.545145,46.311523],[1.545671,46.307507],[1.544381,46.299244],[1.54503,46.308689],[1.545145,46.311523]]]],"created":1292518291,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/624265_20101216_4c870b4485.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

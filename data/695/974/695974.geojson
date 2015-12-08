@@ -1,0 +1,15 @@
+{
+  "id": 695974,
+  "type": "Feature",
+  "properties": {
+    "name":"Sputendorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":695974,
+    "woe:name":"Sputendorf, Brandenburg, Germany",
+    "woe:place_id":"TP2FBGGfCJkKPlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.257193,52.327602,13.264617,52.338276],
+  "geometry": {"alpha":0.00015,"bbox":[13.257192611694,52.327602386475,13.264616966248,52.338275909424],"coordinates":[[[[13.259811,52.332191],[13.263244,52.338276],[13.264617,52.333031],[13.257193,52.327602],[13.259124,52.331562],[13.259811,52.332191]]]],"created":1292456023,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/695974_20101215_516b52a4d7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

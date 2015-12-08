@@ -1,0 +1,15 @@
+{
+  "id": 12651505,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruederbach, France",
+    "placetype":"locality",
+    "woe:id":12651505,
+    "woe:name":"Ruederbach, France",
+    "woe:place_id":"HrQUZ7iYA5qzpGEZrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.265288,47.55941,7.269923,47.563965],
+  "geometry": {"alpha":1e-05,"bbox":[7.2652878761292,47.559410095215,7.269923210144,47.56396484375],"coordinates":[[[[7.265803,47.5606],[7.265288,47.561241],[7.267284,47.563278],[7.269923,47.563965],[7.266898,47.55941],[7.265803,47.5606]]]],"created":1292525701,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12651505_20101216_191d42f552.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2348149,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaumont, Otago, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348149,
+    "woe:name":"Beaumont, Otago, New Zealand",
+    "woe:place_id":"lZc2zbebApiyPHwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [169.51973,-45.823792,169.532944,-45.817196],
+  "geometry": {"alpha":0.00015,"bbox":[169.51972961426,-45.823791503906,169.53294372559,-45.817195892334],"coordinates":[[[[169.526077,-45.817616],[169.532944,-45.823055],[169.528885,-45.823792],[169.51973,-45.821381],[169.521774,-45.817196],[169.526077,-45.817616]]]],"created":1292524168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2348149_20101216_3dd39bc357.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

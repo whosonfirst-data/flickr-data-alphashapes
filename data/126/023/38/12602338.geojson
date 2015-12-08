@@ -1,0 +1,15 @@
+{
+  "id": 12602338,
+  "type": "Feature",
+  "properties": {
+    "name":"Lille, Belgium",
+    "placetype":"locality",
+    "woe:id":12602338,
+    "woe:name":"Lille, Belgium",
+    "woe:place_id":"2mCSTD.YA5rVrHo.jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.812914,51.264091,4.817055,51.268246],
+  "geometry": {"alpha":1e-05,"bbox":[4.8129138946533,51.264091491699,4.8170552253723,51.268245697021],"coordinates":[[[[4.814929,51.265392],[4.812914,51.268246],[4.817055,51.266296],[4.81615,51.264381],[4.815186,51.264091],[4.814929,51.265392]]]],"created":1292527118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12602338_20101216_d833f95976.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

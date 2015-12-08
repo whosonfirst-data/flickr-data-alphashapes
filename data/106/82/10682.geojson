@@ -1,0 +1,15 @@
+{
+  "id": 10682,
+  "type": "Feature",
+  "properties": {
+    "name":"Alpington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10682,
+    "woe:name":"Alpington, England, United Kingdom",
+    "woe:place_id":"fHoHwUKYAZp8Gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.381616,52.545433,1.394516,52.565376],
+  "geometry": {"alpha":0.00015,"bbox":[1.3816159963608,52.545433044434,1.3945159912109,52.565376281738],"coordinates":[[[[1.394358,52.565376],[1.394494,52.565231],[1.394516,52.565186],[1.387431,52.553993],[1.381616,52.545433],[1.384191,52.561951],[1.394358,52.565376]]]],"created":1292490662,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/10682_20101216_00b62ab80c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

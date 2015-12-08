@@ -1,0 +1,15 @@
+{
+  "id": 2052,
+  "type": "Feature",
+  "properties": {
+    "name":"Hopedale, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":2052,
+    "woe:name":"Hopedale, Newfoundland and Labrador, Canada",
+    "woe:place_id":"EM6d5ECbAZld",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.224476,55.450001,-60.212288,55.474331],
+  "geometry": {"alpha":0.00015,"bbox":[-60.224475860596,55.450000762939,-60.212287902832,55.4743309021],"coordinates":[[[[-60.216702,55.450001],[-60.224476,55.458176],[-60.214863,55.474331],[-60.212288,55.458466],[-60.212631,55.458126],[-60.216702,55.450001]]]],"created":1292401565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2052_20101215_3ca46d799f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

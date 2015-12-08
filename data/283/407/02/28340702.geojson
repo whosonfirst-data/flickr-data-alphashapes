@@ -1,0 +1,15 @@
+{
+  "id": 28340702,
+  "type": "Feature",
+  "properties": {
+    "name":"Hansen Road, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":28340702,
+    "woe:name":"Hansen Road, Wisconsin, United States",
+    "woe:place_id":"YTVrVSSbCZ.8vGsCPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.025551,44.471214,-88.021194,44.488285],
+  "geometry": {"alpha":0.00015,"bbox":[-88.025550842285,44.471214294434,-88.021194458008,44.488285064697],"coordinates":[[[[-88.021194,44.483265],[-88.024414,44.471214],[-88.025505,44.482346],[-88.025551,44.488285],[-88.021927,44.484344],[-88.021194,44.483265]]]],"created":1292503090,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/28340702_20101216_11100bdb65.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2350005,
+  "type": "Feature",
+  "properties": {
+    "name":"Pahoia, Bay of Plenty, New Zealand",
+    "placetype":"locality",
+    "woe:id":2350005,
+    "woe:name":"Pahoia, Bay of Plenty, New Zealand",
+    "woe:place_id":"kYpKzeGbApnocCcL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [175.99826,-37.662647,176.016724,-37.65012],
+  "geometry": {"alpha":0.00015,"bbox":[175.99826049805,-37.662647247314,176.01672363281,-37.650119781494],"coordinates":[[[[176.001266,-37.657104],[175.99826,-37.655434],[176.00441,-37.65012],[176.016724,-37.662647],[176.009521,-37.661797],[176.00354,-37.658398],[176.001266,-37.657104]]]],"created":1292525505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2350005_20101216_59ac1a5339.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

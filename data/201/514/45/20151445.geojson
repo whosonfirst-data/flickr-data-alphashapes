@@ -1,0 +1,15 @@
+{
+  "id": 20151445,
+  "type": "Feature",
+  "properties": {
+    "name":"Nyhagen, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151445,
+    "woe:name":"Nyhagen, Stockholm, Sweden",
+    "woe:place_id":"Lc7KuD2bAZ0mROo1RA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.369011,59.491642,18.388367,59.510906],
+  "geometry": {"alpha":0.00015,"bbox":[18.369010925293,59.491641998291,18.388366699219,59.510906219482],"coordinates":[[[[18.387722,59.493103],[18.388367,59.491653],[18.388195,59.491642],[18.369011,59.496056],[18.376608,59.510906],[18.379444,59.49987],[18.387722,59.493103]]]],"created":1292551413,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20151445_20101217_823d59bab1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

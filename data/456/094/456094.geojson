@@ -1,0 +1,15 @@
+{
+  "id": 456094,
+  "type": "Feature",
+  "properties": {
+    "name":"Brumado, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":456094,
+    "woe:name":"Brumado, Bahia, Brazil",
+    "woe:place_id":"W664DS6dBJpLxz4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-41.671448,-14.211779,-41.65926,-14.193914],
+  "geometry": {"alpha":0.00015,"bbox":[-41.671447753906,-14.211778640747,-41.659259796143,-14.193914413452],"coordinates":[[[[-41.671448,-14.19812],[-41.669399,-14.19736],[-41.659298,-14.193914],[-41.65926,-14.211779],[-41.664619,-14.205813],[-41.671448,-14.19812]]]],"created":1292548186,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/456094_20101217_4a9812bc91.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1225,
+  "type": "Feature",
+  "properties": {
+    "name":"Pointe-Lebel, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1225,
+    "woe:name":"Pointe-Lebel, Quebec, Canada",
+    "woe:place_id":"bVowkAWYA54W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.268272,49.097153,-68.196945,49.206524],
+  "geometry": {"alpha":0.003662109375,"bbox":[-68.268272399902,49.097152709961,-68.19694519043,49.206523895264],"coordinates":[[[[-68.210846,49.097473],[-68.213081,49.097755],[-68.240547,49.127365],[-68.268272,49.190834],[-68.260284,49.206524],[-68.238487,49.185123],[-68.196945,49.103542],[-68.198372,49.097153],[-68.210846,49.097473]]]],"created":1292519462,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/1225_20101216_b5affc9889.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

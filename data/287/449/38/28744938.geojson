@@ -1,0 +1,15 @@
+{
+  "id": 28744938,
+  "type": "Feature",
+  "properties": {
+    "name":"Springport, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744938,
+    "woe:name":"Springport, New York, United States",
+    "woe:place_id":"ci9S3vubCZtnCC4S6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.708466,42.807526,-76.690224,42.836559],
+  "geometry": {"alpha":0.00015,"bbox":[-76.708465576172,42.807525634766,-76.690223693848,42.836559295654],"coordinates":[[[[-76.690224,42.807644],[-76.690292,42.807552],[-76.690872,42.807526],[-76.691811,42.807709],[-76.696442,42.807915],[-76.700203,42.80772],[-76.700623,42.80777],[-76.701874,42.808376],[-76.708466,42.819454],[-76.708336,42.821163],[-76.695656,42.836559],[-76.705154,42.820904],[-76.698746,42.812504],[-76.690331,42.807755],[-76.690224,42.807644]]]],"created":1292532938,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/28744938_20101216_a783477d79.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

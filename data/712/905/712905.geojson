@@ -1,0 +1,15 @@
+{
+  "id": 712905,
+  "type": "Feature",
+  "properties": {
+    "name":"Casatenovo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":712905,
+    "woe:name":"Casatenovo, Lombardy, Italy",
+    "woe:place_id":"gsSEp6qeAJ6mghA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.302694,45.683876,9.315376,45.698406],
+  "geometry": {"alpha":0.00015,"bbox":[9.3026943206787,45.683876037598,9.3153762817383,45.698406219482],"coordinates":[[[[9.312028,45.697498],[9.31227,45.697021],[9.31308,45.695255],[9.315376,45.683876],[9.302694,45.697353],[9.311599,45.698406],[9.312028,45.697498]]]],"created":1292520694,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/712905_20101216_d70295af97.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

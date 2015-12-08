@@ -1,0 +1,15 @@
+{
+  "id": 609313,
+  "type": "Feature",
+  "properties": {
+    "name":"Mailly, Picardie, France",
+    "placetype":"locality",
+    "woe:id":609313,
+    "woe:name":"Mailly, Picardie, France",
+    "woe:place_id":"G1QS48CfAZXQLvY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.604382,50.075443,2.614402,50.084793],
+  "geometry": {"alpha":0.00015,"bbox":[2.6043820381165,50.075443267822,2.6144020557404,50.08479309082],"coordinates":[[[[2.614402,50.081379],[2.605197,50.075443],[2.604382,50.077057],[2.608222,50.084793],[2.614402,50.081379]]]],"created":1234510563,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3395/shapefiles/609313_20090213_d17371bce8.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

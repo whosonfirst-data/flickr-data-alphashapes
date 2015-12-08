@@ -1,0 +1,15 @@
+{
+  "id": 631126,
+  "type": "Feature",
+  "properties": {
+    "name":"Vicq, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":631126,
+    "woe:name":"Vicq, Ile-de-France, France",
+    "woe:place_id":"sA9xjLCfAp1W9oc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.81818,48.805065,1.832141,48.820599],
+  "geometry": {"alpha":0.00015,"bbox":[1.8181799650192,48.805065155029,1.8321410417557,48.820598602295],"coordinates":[[[[1.81818,48.805065],[1.818183,48.805069],[1.818323,48.820599],[1.832141,48.813927],[1.818268,48.805065],[1.81818,48.805065]]]],"created":1247809088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3508/shapefiles/631126_20090717_e487a660b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

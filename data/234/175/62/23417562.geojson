@@ -1,0 +1,15 @@
+{
+  "id": 23417562,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyman, Maine, United States",
+    "placetype":"locality",
+    "woe:id":23417562,
+    "woe:name":"Lyman, Maine, United States",
+    "woe:place_id":"SoZ4O5ubApi_BviV4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.595001,43.498692,-70.556946,43.51149],
+  "geometry": {"alpha":0.00015,"bbox":[-70.595001220703,43.498691558838,-70.556945800781,43.511489868164],"coordinates":[[[[-70.571739,43.506401],[-70.556946,43.499195],[-70.576073,43.498692],[-70.595001,43.50066],[-70.575035,43.51149],[-70.571739,43.506401]]]],"created":1292529442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/23417562_20101216_630ef98cbe.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

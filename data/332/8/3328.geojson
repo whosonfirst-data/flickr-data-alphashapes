@@ -1,0 +1,15 @@
+{
+  "id": 3328,
+  "type": "Feature",
+  "properties": {
+    "name":"Maynooth, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3328,
+    "woe:name":"Maynooth, Ontario, Canada",
+    "woe:place_id":"ocrs4g.aAp6F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.941643,45.228237,-77.916634,45.236458],
+  "geometry": {"alpha":0.00015,"bbox":[-77.94164276123,45.2282371521,-77.916633605957,45.236457824707],"coordinates":[[[[-77.938042,45.233498],[-77.934219,45.234314],[-77.917267,45.236458],[-77.916634,45.235992],[-77.931335,45.229],[-77.941643,45.228237],[-77.940269,45.231743],[-77.938042,45.233498]]]],"created":1292518132,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/3328_20101216_f29cd0af94.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

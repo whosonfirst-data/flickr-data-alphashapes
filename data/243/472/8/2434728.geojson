@@ -1,0 +1,15 @@
+{
+  "id": 2434728,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Ariel, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2434728,
+    "woe:name":"Lake Ariel, Pennsylvania, United States",
+    "woe:place_id":"wOl8.3ebBZ.w7.L2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.364166,41.424168,-75.349052,41.437016],
+  "geometry": {"alpha":0.00015,"bbox":[-75.364166259766,41.424167633057,-75.349052429199,41.437015533447],"coordinates":[[[[-75.364166,41.424168],[-75.362488,41.432247],[-75.349052,41.437016],[-75.350464,41.428368],[-75.364166,41.424168]]]],"created":1292523949,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2434728_20101216_9eaca33b06.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

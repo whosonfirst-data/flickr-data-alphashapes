@@ -1,0 +1,15 @@
+{
+  "id": 637880,
+  "type": "Feature",
+  "properties": {
+    "name":"Berg, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":637880,
+    "woe:name":"Berg, Baden-Wurttemberg, Germany",
+    "woe:place_id":"rcpKQ1qfApvYV04",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.589691,47.80471,9.618573,47.825184],
+  "geometry": {"alpha":0.00015,"bbox":[9.5896911621094,47.804710388184,9.6185731887817,47.825183868408],"coordinates":[[[[9.610054,47.80471],[9.608144,47.806194],[9.589691,47.818687],[9.601664,47.822937],[9.618573,47.825184],[9.610022,47.811008],[9.610054,47.80471]]]],"created":1292453558,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/637880_20101215_d289e70514.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2412060,
+  "type": "Feature",
+  "properties": {
+    "name":"Goodland, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2412060,
+    "woe:name":"Goodland, Oklahoma, United States",
+    "woe:place_id":"Pj1lOkubBZ0C7Gfh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.557594,33.980129,-95.55722,33.981754],
+  "geometry": {"alpha":0.00015,"bbox":[-95.557594299316,33.980129241943,-95.557220458984,33.981754302979],"coordinates":[[[[-95.557495,33.981754],[-95.557487,33.981739],[-95.55722,33.980179],[-95.557594,33.980129],[-95.55751,33.981487],[-95.557495,33.981754]]]],"created":1292374324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2412060_20101215_a8324e0202.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

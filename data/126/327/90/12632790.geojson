@@ -1,0 +1,15 @@
+{
+  "id": 12632790,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kaufungen, Germany",
+    "placetype":"locality",
+    "woe:id":12632790,
+    "woe:name":"Gemeinde Kaufungen, Germany",
+    "woe:place_id":"alP1IO6YA5qsuy1zwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.609432,51.279255,9.614067,51.284897],
+  "geometry": {"alpha":1e-05,"bbox":[9.609432220459,51.27925491333,9.6140670776367,51.284896850586],"coordinates":[[[[9.614067,51.284897],[9.612822,51.283794],[9.609432,51.279255],[9.609636,51.284676],[9.614067,51.284897]]]],"created":1292551423,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12632790_20101217_871d83d1c0.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

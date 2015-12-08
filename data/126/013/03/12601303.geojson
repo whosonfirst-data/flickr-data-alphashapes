@@ -1,0 +1,15 @@
+{
+  "id": 12601303,
+  "type": "Feature",
+  "properties": {
+    "name":"Hueyapan, Puebla, Mexico",
+    "placetype":"county",
+    "woe:id":12601303,
+    "woe:name":"Hueyapan, Puebla, Mexico",
+    "woe:place_id":"91W4XF2YA5paartyrw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-97.44532,19.882359,-97.422119,19.900368],
+  "geometry": {"alpha":0.0015,"bbox":[-97.445320129395,19.882358551025,-97.422119140625,19.900367736816],"coordinates":[[[[-97.44532,19.884165],[-97.445229,19.885508],[-97.445122,19.885799],[-97.422119,19.900368],[-97.444763,19.882359],[-97.44532,19.884165]]]],"created":1292551166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12601303_20101217_43a6b1ed16.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

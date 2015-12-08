@@ -1,0 +1,15 @@
+{
+  "id": 2410716,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Arden, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2410716,
+    "woe:name":"Glen Arden, Tennessee, United States",
+    "woe:place_id":"fOvoNbWbBZ3VcgRc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.076759,35.945103,-84.07431,35.957027],
+  "geometry": {"alpha":0.00015,"bbox":[-84.076759338379,35.94510269165,-84.074310302734,35.957027435303],"coordinates":[[[[-84.075645,35.955021],[-84.07431,35.946651],[-84.074577,35.945103],[-84.076759,35.953461],[-84.075233,35.957027],[-84.075645,35.955021]]]],"created":1292545625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2410716_20101217_46fdb0e79c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

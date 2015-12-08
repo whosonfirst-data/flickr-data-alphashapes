@@ -1,0 +1,15 @@
+{
+  "id": 2363836,
+  "type": "Feature",
+  "properties": {
+    "name":"Bexar, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2363836,
+    "woe:name":"Bexar, Texas, United States",
+    "woe:place_id":"_LInrsSbApqX86z9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.163925,29.469521,-98.135033,29.49045],
+  "geometry": {"alpha":0.00015,"bbox":[-98.163925170898,29.469520568848,-98.135032653809,29.490449905396],"coordinates":[[[[-98.154343,29.49045],[-98.14418,29.484682],[-98.135033,29.469521],[-98.144859,29.478085],[-98.163925,29.487219],[-98.154343,29.49045]]]],"created":1292548620,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2363836_20101217_25ded28768.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

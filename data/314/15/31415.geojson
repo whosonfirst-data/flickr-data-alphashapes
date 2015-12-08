@@ -1,0 +1,15 @@
+{
+  "id": 31415,
+  "type": "Feature",
+  "properties": {
+    "name":"Papplewick, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31415,
+    "woe:name":"Papplewick, England, United Kingdom",
+    "woe:place_id":"tQXB_uKaAJjVdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.192703,53.043587,-1.129446,53.066414],
+  "geometry": {"alpha":0.00015,"bbox":[-1.1927030086517,53.043586730957,-1.1294460296631,53.066413879395],"coordinates":[[[[-1.192703,53.057724],[-1.187295,53.065666],[-1.176416,53.066414],[-1.156997,53.064789],[-1.146011,53.064945],[-1.144638,53.065201],[-1.134681,53.06319],[-1.132793,53.06345],[-1.129446,53.058548],[-1.136398,53.052074],[-1.14497,53.048733],[-1.150302,53.049313],[-1.164379,53.043587],[-1.17073,53.047455],[-1.181491,53.044952],[-1.191261,53.047607],[-1.192703,53.057724]]]],"created":1292536359,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/31415_20101216_ddeb2cd024.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

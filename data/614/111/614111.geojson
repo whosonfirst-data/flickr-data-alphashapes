@@ -1,0 +1,15 @@
+{
+  "id": 614111,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuilly, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":614111,
+    "woe:name":"Neuilly, Auvergne, France",
+    "woe:place_id":"RZr9vgufAJiZXn8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.424644,46.460388,3.436167,46.481136],
+  "geometry": {"alpha":0.00015,"bbox":[3.4246439933777,46.460388183594,3.4361670017242,46.481136322021],"coordinates":[[[[3.424644,46.468895],[3.431231,46.481136],[3.436167,46.464451],[3.432412,46.46368],[3.427133,46.460388],[3.424644,46.468895]]]],"created":1292540288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/614111_20101216_aa00493c12.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

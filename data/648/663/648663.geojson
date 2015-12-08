@@ -1,0 +1,15 @@
+{
+  "id": 648663,
+  "type": "Feature",
+  "properties": {
+    "name":"Eschede, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":648663,
+    "woe:name":"Eschede, Lower Saxony, Germany",
+    "woe:place_id":"9RJRrrGfBZTaBXk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.220074,52.731148,10.248498,52.746994],
+  "geometry": {"alpha":0.00015,"bbox":[10.220073699951,52.731147766113,10.248497962952,52.746994018555],"coordinates":[[[[10.220074,52.734383],[10.220085,52.734875],[10.220555,52.735275],[10.225868,52.746994],[10.248498,52.739529],[10.229473,52.731148],[10.220074,52.734383]]]],"created":1292450770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/648663_20101215_be868f1f2b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 665817,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirberg, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":665817,
+    "woe:name":"Kirberg, Hesse, Germany",
+    "woe:place_id":"N8eMFVufB5lfNbE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.157005,50.30143,8.173924,50.314392],
+  "geometry": {"alpha":0.00015,"bbox":[8.1570053100586,50.301429748535,8.173924446106,50.314392089844],"coordinates":[[[[8.164107,50.30143],[8.157005,50.308857],[8.166103,50.314392],[8.173313,50.312366],[8.173924,50.311333],[8.167476,50.301731],[8.164107,50.30143]]]],"created":1292458584,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/665817_20101216_bae87491bb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

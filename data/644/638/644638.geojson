@@ -1,0 +1,15 @@
+{
+  "id": 644638,
+  "type": "Feature",
+  "properties": {
+    "name":"Dietershausen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":644638,
+    "woe:name":"Dietershausen, Hesse, Germany",
+    "woe:place_id":"Cb9acImfBZjPYfU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.81255,50.514763,9.815543,50.515289],
+  "geometry": {"alpha":0.00015,"bbox":[9.8125495910645,50.514762878418,9.8155431747437,50.515289306641],"coordinates":[[[[9.813108,50.514805],[9.81255,50.514763],[9.812679,50.514935],[9.813001,50.515255],[9.814395,50.515289],[9.815543,50.51479],[9.813108,50.514805]]]],"created":1292520723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/644638_20101216_acff196804.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2522887,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodbridge, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2522887,
+    "woe:name":"Woodbridge, Georgia, United States",
+    "woe:place_id":"DLql2uGbBJ7oepH5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.174507,33.564571,-82.153206,33.581059],
+  "geometry": {"alpha":0.00015,"bbox":[-82.174507141113,33.564571380615,-82.153205871582,33.581058502197],"coordinates":[[[[-82.159111,33.580654],[-82.153206,33.564571],[-82.174507,33.566708],[-82.166985,33.576031],[-82.159195,33.581059],[-82.159111,33.580654]]]],"created":1292545369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2522887_20101217_03dafac630.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

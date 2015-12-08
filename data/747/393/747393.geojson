@@ -1,0 +1,15 @@
+{
+  "id": 747393,
+  "type": "Feature",
+  "properties": {
+    "name":"Rio Tinto, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":747393,
+    "woe:name":"Rio Tinto, Porto, Portugal",
+    "woe:place_id":"pfpGKIWeBZt9Q.8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.56514,41.166603,-8.562021,41.188145],
+  "geometry": {"alpha":0.00015,"bbox":[-8.5651397705078,41.166603088379,-8.5620212554932,41.188144683838],"coordinates":[[[[-8.562021,41.179871],[-8.563413,41.166718],[-8.563456,41.166603],[-8.56514,41.177147],[-8.564314,41.188145],[-8.562021,41.179871]]]],"created":1292458622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/747393_20101216_6214a41b8d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

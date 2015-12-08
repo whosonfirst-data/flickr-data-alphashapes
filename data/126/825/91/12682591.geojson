@@ -1,0 +1,15 @@
+{
+  "id": 12682591,
+  "type": "Feature",
+  "properties": {
+    "name":"Scopa, Italy",
+    "placetype":"locality",
+    "woe:id":12682591,
+    "woe:name":"Scopa, Italy",
+    "woe:place_id":"EL7Rwh2YA5op6USPYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.11542,45.792751,8.119583,45.801041],
+  "geometry": {"alpha":1e-05,"bbox":[8.1154203414917,45.792751312256,8.1195831298828,45.801040649414],"coordinates":[[[[8.11542,45.793053],[8.115828,45.798244],[8.116879,45.800503],[8.119583,45.801041],[8.115828,45.798244],[8.11748,45.792751],[8.11542,45.793053]]]],"created":1226552284,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3274/shapefiles/12682591_20081113_d9bf866f32.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

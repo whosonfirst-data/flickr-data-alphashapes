@@ -1,0 +1,15 @@
+{
+  "id": 20886,
+  "type": "Feature",
+  "properties": {
+    "name":"Garthorpe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20886,
+    "woe:name":"Garthorpe, England, United Kingdom",
+    "woe:place_id":"XdpDTTWbAZRt_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.718445,53.660206,-0.718059,53.660496],
+  "geometry": {"alpha":0.00015,"bbox":[-0.71844500303268,53.660205841064,-0.71805900335312,53.660495758057],"coordinates":[[[[-0.718445,53.660473],[-0.718445,53.660496],[-0.718402,53.660484],[-0.718059,53.660206],[-0.718445,53.660408],[-0.718445,53.660473]]]],"created":1292473808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20886_20101216_c2fe9f7cdd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

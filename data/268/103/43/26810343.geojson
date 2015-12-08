@@ -1,0 +1,15 @@
+{
+  "id": 26810343,
+  "type": "Feature",
+  "properties": {
+    "name":"Quiroga, Ecuador",
+    "placetype":"locality",
+    "woe:id":26810343,
+    "woe:name":"Quiroga, Ecuador",
+    "woe:place_id":"17ypfNCbB5Ry3Or54g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.283768,0.308302,-78.278442,0.311478],
+  "geometry": {"alpha":1e-05,"bbox":[-78.283767700195,0.30830198526382,-78.278442382812,0.31147798895836],"coordinates":[[[[-78.282394,0.309332],[-78.283768,0.310018],[-78.282394,0.310705],[-78.278442,0.311478],[-78.278961,0.308302],[-78.282394,0.309332]]]],"created":1292542931,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/26810343_20101216_de29da8585.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

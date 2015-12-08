@@ -1,0 +1,15 @@
+{
+  "id": 8754,
+  "type": "Feature",
+  "properties": {
+    "name":"Elkton, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8754,
+    "woe:name":"Elkton, Alberta, Canada",
+    "woe:place_id":"svYzX22RBpmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.593086,51.634426,-114.591179,51.637836],
+  "geometry": {"alpha":0.00015,"bbox":[-114.59308624268,51.634426116943,-114.59117889404,51.637836456299],"coordinates":[[[[-114.593086,51.637196],[-114.5924,51.637836],[-114.59137,51.637302],[-114.591179,51.635494],[-114.591522,51.634426],[-114.592209,51.63496],[-114.593086,51.637196]]]],"created":1292521673,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/8754_20101216_bb13fd0fe3.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

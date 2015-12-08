@@ -1,0 +1,15 @@
+{
+  "id": 422625,
+  "type": "Feature",
+  "properties": {
+    "name":"Artemis, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":422625,
+    "woe:name":"Artemis, Sao Paulo, Brazil",
+    "woe:place_id":"Ki5WU86dA552lfk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-47.798767,-22.6695,-47.784603,-22.648233],
+  "geometry": {"alpha":0.00015,"bbox":[-47.798767089844,-22.669500350952,-47.784603118896,-22.648233413696],"coordinates":[[[[-47.797832,-22.6695],[-47.798168,-22.668667],[-47.798767,-22.648233],[-47.788723,-22.661699],[-47.784603,-22.661938],[-47.797832,-22.6695]]]],"created":1292515622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/422625_20101216_187cdd01e6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

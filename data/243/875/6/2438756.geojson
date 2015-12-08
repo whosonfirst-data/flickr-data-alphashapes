@@ -1,0 +1,15 @@
+{
+  "id": 2438756,
+  "type": "Feature",
+  "properties": {
+    "name":"Lewiston, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2438756,
+    "woe:name":"Lewiston, Nebraska, United States",
+    "woe:place_id":"iRnMlsebBZ_Uo4Wa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.409065,40.243107,-96.405197,40.247135],
+  "geometry": {"alpha":0.00015,"bbox":[-96.409065246582,40.243106842041,-96.405197143555,40.247135162354],"coordinates":[[[[-96.407776,40.243763],[-96.409065,40.247135],[-96.406914,40.245598],[-96.40535,40.243416],[-96.405197,40.243107],[-96.407776,40.243763]]]],"created":1292540414,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2438756_20101216_d871fe4b1a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

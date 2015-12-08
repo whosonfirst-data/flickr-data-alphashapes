@@ -1,0 +1,15 @@
+{
+  "id": 12685270,
+  "type": "Feature",
+  "properties": {
+    "name":"Vaumarcus, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685270,
+    "woe:name":"Vaumarcus, Switzerland",
+    "woe:place_id":"gkt7DNeYA5pDxIkXZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.75127,46.874744,6.757106,46.878918],
+  "geometry": {"alpha":1e-05,"bbox":[6.7512698173523,46.874744415283,6.7571058273315,46.878917694092],"coordinates":[[[[6.757106,46.878265],[6.75539,46.877441],[6.75127,46.874744],[6.75157,46.87759],[6.755411,46.878918],[6.757106,46.878265]]]],"created":1292479748,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12685270_20101216_b19bfcf035.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

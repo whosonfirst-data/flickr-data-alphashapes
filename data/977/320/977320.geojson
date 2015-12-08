@@ -1,0 +1,15 @@
+{
+  "id": 977320,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadshoek, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":977320,
+    "woe:name":"Stadshoek, Antwerp, Belgium",
+    "woe:place_id":"wPdkS5.QBpt9rSM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.3225,51.332989,4.34504,51.354],
+  "geometry": {"alpha":0.00015,"bbox":[4.3225002288818,51.332988739014,4.3450398445129,51.354000091553],"coordinates":[[[[4.332969,51.334526],[4.3225,51.354],[4.331113,51.352127],[4.34504,51.3451],[4.338655,51.334267],[4.335393,51.332989],[4.332969,51.334526]]]],"created":1292499665,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/977320_20101216_89f9225372.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2519116,
+  "type": "Feature",
+  "properties": {
+    "name":"Whispering Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2519116,
+    "woe:name":"Whispering Woods, Maryland, United States",
+    "woe:place_id":"7ei9UrebBJ0p35gB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.418495,39.638775,-76.412323,39.645287],
+  "geometry": {"alpha":0.00015,"bbox":[-76.418495178223,39.638774871826,-76.412322998047,39.645286560059],"coordinates":[[[[-76.414673,39.639488],[-76.416481,39.642147],[-76.418495,39.645287],[-76.412323,39.643238],[-76.412369,39.638775],[-76.414673,39.639488]]]],"created":1292524442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2519116_20101216_1319d7899b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

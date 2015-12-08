@@ -1,0 +1,15 @@
+{
+  "id": 2380354,
+  "type": "Feature",
+  "properties": {
+    "name":"Cincinnati, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2380354,
+    "woe:name":"Cincinnati, Indiana, United States",
+    "woe:place_id":"j19qWZWbApRszkyE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.731262,38.961346,-86.724998,38.963547],
+  "geometry": {"alpha":0.00015,"bbox":[-86.731262207031,38.961345672607,-86.724998474121,38.96354675293],"coordinates":[[[[-86.731247,38.961666],[-86.731262,38.961979],[-86.725174,38.963547],[-86.724998,38.962845],[-86.727707,38.961346],[-86.731247,38.961666]]]],"created":1292506930,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2380354_20101216_3aae25905a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

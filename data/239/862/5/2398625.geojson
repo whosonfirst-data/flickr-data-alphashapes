@@ -1,0 +1,15 @@
+{
+  "id": 2398625,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellenwood, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2398625,
+    "woe:name":"Ellenwood, Georgia, United States",
+    "woe:place_id":"x3vQy6ObApUoksZD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.311058,33.610264,-84.290321,33.623341],
+  "geometry": {"alpha":0.00015,"bbox":[-84.311058044434,33.610263824463,-84.290321350098,33.623340606689],"coordinates":[[[[-84.29953,33.610264],[-84.311058,33.612331],[-84.306076,33.613548],[-84.295006,33.623341],[-84.290321,33.61256],[-84.29953,33.610264]]]],"created":1292440573,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2398625_20101215_03341dc5cf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

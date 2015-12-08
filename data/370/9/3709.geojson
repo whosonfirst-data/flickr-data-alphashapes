@@ -1,0 +1,15 @@
+{
+  "id": 3709,
+  "type": "Feature",
+  "properties": {
+    "name":"Fredericton Junction, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":3709,
+    "woe:name":"Fredericton Junction, New Brunswick, Canada",
+    "woe:place_id":"Hl5S.lmaBpxD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.611481,45.659302,-66.60054,45.661507],
+  "geometry": {"alpha":0.00015,"bbox":[-66.611480712891,45.659301757812,-66.600540161133,45.661506652832],"coordinates":[[[[-66.608734,45.660488],[-66.611481,45.661388],[-66.61071,45.661507],[-66.608734,45.660969],[-66.60054,45.659302],[-66.608734,45.660488]]]],"created":1292455548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/3709_20101215_132d95c83b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

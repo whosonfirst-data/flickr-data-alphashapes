@@ -1,0 +1,15 @@
+{
+  "id": 765264,
+  "type": "Feature",
+  "properties": {
+    "name":"Lladurs, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":765264,
+    "woe:name":"Lladurs, Catalonia, Spain",
+    "woe:place_id":"lzAUWi6eB5kTMYU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.511061,42.060986,1.511489,42.064011],
+  "geometry": {"alpha":0.00015,"bbox":[1.5110609531403,42.060985565186,1.511489033699,42.064010620117],"coordinates":[[[[1.511412,42.061169],[1.511352,42.061562],[1.511322,42.061813],[1.511061,42.064011],[1.511275,42.062943],[1.511489,42.060986],[1.511412,42.061169]]]],"created":1234603803,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3381/shapefiles/765264_20090214_40b3ac051b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

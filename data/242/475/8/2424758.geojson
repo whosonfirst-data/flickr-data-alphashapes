@@ -1,0 +1,15 @@
+{
+  "id": 2424758,
+  "type": "Feature",
+  "properties": {
+    "name":"Houston, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2424758,
+    "woe:name":"Houston, Minnesota, United States",
+    "woe:place_id":"Z_gJlr.bBZ54rXah",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.586212,43.759674,-91.568642,43.764648],
+  "geometry": {"alpha":0.00015,"bbox":[-91.586212158203,43.759674072266,-91.568641662598,43.7646484375],"coordinates":[[[[-91.568642,43.764648],[-91.569672,43.763161],[-91.572098,43.759674],[-91.586212,43.763145],[-91.569328,43.763905],[-91.568642,43.764648]]]],"created":1292528277,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2424758_20101216_111dfb48cf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

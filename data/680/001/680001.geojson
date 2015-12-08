@@ -1,0 +1,15 @@
+{
+  "id": 680001,
+  "type": "Feature",
+  "properties": {
+    "name":"Niederwinzer, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":680001,
+    "woe:name":"Niederwinzer, Bavaria, Germany",
+    "woe:place_id":"HATYbQWfCZwskwU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.063288,49.02681,12.07479,49.034676],
+  "geometry": {"alpha":0.00015,"bbox":[12.063287734985,49.026809692383,12.074790000916,49.034675598145],"coordinates":[[[[12.065033,49.032257],[12.063288,49.034676],[12.067945,49.031906],[12.070363,49.031246],[12.07479,49.02681],[12.065033,49.032257]]]],"created":1292450823,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/680001_20101215_21ebec0a2c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

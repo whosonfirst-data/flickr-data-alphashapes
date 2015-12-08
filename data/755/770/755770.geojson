@@ -1,0 +1,15 @@
+{
+  "id": 755770,
+  "type": "Feature",
+  "properties": {
+    "name":"Campos de Arenoso, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":755770,
+    "woe:name":"Campos de Arenoso, Valencia, Spain",
+    "woe:place_id":"drEWdw6eBJmGsk0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.548629,40.083782,-0.547342,40.085953],
+  "geometry": {"alpha":0.00015,"bbox":[-0.54862898588181,40.083782196045,-0.54734200239182,40.085952758789],"coordinates":[[[[-0.548543,40.083981],[-0.548629,40.085953],[-0.547342,40.084801],[-0.547385,40.084408],[-0.548071,40.083782],[-0.548543,40.083981]]]],"created":1247755805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2562/shapefiles/755770_20090716_fc140cddb5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

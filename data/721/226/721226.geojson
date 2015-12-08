@@ -1,0 +1,15 @@
+{
+  "id": 721226,
+  "type": "Feature",
+  "properties": {
+    "name":"Pralormo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":721226,
+    "woe:name":"Pralormo, Piedmont, Italy",
+    "woe:place_id":"PcvmVmueA52nUR4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.88681,44.855869,7.910499,44.875092],
+  "geometry": {"alpha":0.00015,"bbox":[7.8868098258972,44.855869293213,7.9104990959167,44.875091552734],"coordinates":[[[[7.900886,44.85812],[7.896122,44.858894],[7.88681,44.861954],[7.891101,44.875092],[7.910499,44.871685],[7.907409,44.855869],[7.900886,44.85812]]]],"created":1292449448,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/721226_20101215_b85f5f72be.tar.gz"},"points":71,"type":"MultiPolygon"}
+}

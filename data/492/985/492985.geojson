@@ -1,0 +1,15 @@
+{
+  "id": 492985,
+  "type": "Feature",
+  "properties": {
+    "name":"Folusz, Subcarpathia, Poland",
+    "placetype":"locality",
+    "woe:id":492985,
+    "woe:name":"Folusz, Subcarpathia, Poland",
+    "woe:place_id":"__6hEIidCJ6VMMs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.361353,49.601044,21.385574,49.613434],
+  "geometry": {"alpha":0.00015,"bbox":[21.361352920532,49.601043701172,21.38557434082,49.613433837891],"coordinates":[[[[21.379223,49.613434],[21.385574,49.611126],[21.373215,49.60281],[21.361353,49.601044],[21.376305,49.61182],[21.378536,49.613045],[21.379223,49.613434]]]],"created":1292543667,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/492985_20101216_b44b2b5600.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

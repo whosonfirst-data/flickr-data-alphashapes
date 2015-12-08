@@ -1,0 +1,15 @@
+{
+  "id": 20140485,
+  "type": "Feature",
+  "properties": {
+    "name":"Cipriano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20140485,
+    "woe:name":"Cipriano, Tuscany, Italy",
+    "woe:place_id":"KB_9qo.bAZ2E3I2OLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.483201,43.570442,11.494038,43.579117],
+  "geometry": {"alpha":0.00015,"bbox":[11.483201026917,43.570442199707,11.494037628174,43.579116821289],"coordinates":[[[[11.494038,43.573536],[11.490669,43.570442],[11.488931,43.573895],[11.483201,43.579117],[11.485133,43.578804],[11.494038,43.573536]]]],"created":1292523726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20140485_20101216_04aa6b2d0e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

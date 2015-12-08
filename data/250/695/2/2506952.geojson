@@ -1,0 +1,15 @@
+{
+  "id": 2506952,
+  "type": "Feature",
+  "properties": {
+    "name":"Tollesboro, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2506952,
+    "woe:name":"Tollesboro, Kentucky, United States",
+    "woe:place_id":"6iMwsyubBJwRveBo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.585121,38.553871,-83.577194,38.563435],
+  "geometry": {"alpha":0.00015,"bbox":[-83.585121154785,38.553871154785,-83.577194213867,38.56343460083],"coordinates":[[[[-83.584717,38.553871],[-83.585121,38.554482],[-83.577888,38.563435],[-83.577194,38.559814],[-83.581749,38.556152],[-83.584717,38.553871]]]],"created":1292448734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2506952_20101215_ef0c68d260.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2375306,
+  "type": "Feature",
+  "properties": {
+    "name":"Carolina Pines, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2375306,
+    "woe:name":"Carolina Pines, North Carolina, United States",
+    "woe:place_id":"hIeFZ2mbApsKHhIS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.899818,34.929352,-76.890221,34.952614],
+  "geometry": {"alpha":0.00015,"bbox":[-76.89981842041,34.929351806641,-76.89022064209,34.952613830566],"coordinates":[[[[-76.89782,34.930996],[-76.899818,34.929352],[-76.899048,34.931496],[-76.898956,34.931831],[-76.890221,34.952614],[-76.89782,34.930996]]]],"created":1248206772,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3227/shapefiles/2375306_20090721_96cca63e27.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

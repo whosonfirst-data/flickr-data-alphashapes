@@ -1,0 +1,15 @@
+{
+  "id": 28744569,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744569,
+    "woe:name":"Washington, Pennsylvania, United States",
+    "woe:place_id":"7MP0fembCZs2snoItQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.184349,40.730232,-79.175797,40.734444],
+  "geometry": {"alpha":0.00015,"bbox":[-79.184349060059,40.73023223877,-79.175796508789,40.734443664551],"coordinates":[[[[-79.184036,40.730297],[-79.184128,40.730232],[-79.184349,40.730377],[-79.18428,40.730473],[-79.175919,40.734444],[-79.175797,40.734333],[-79.184036,40.730297]]]],"created":1292455294,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/28744569_20101215_ef23101fca.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

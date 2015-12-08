@@ -1,0 +1,15 @@
+{
+  "id": 1200,
+  "type": "Feature",
+  "properties": {
+    "name":"Pilley's Island, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":1200,
+    "woe:name":"Pilley's Island, Newfoundland and Labrador, Canada",
+    "woe:place_id":"tqgETYqYA5zR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.742741,49.497288,-55.699394,49.509048],
+  "geometry": {"alpha":0.0001875,"bbox":[-55.742740631104,49.497287750244,-55.699394226074,49.509048461914],"coordinates":[[[[-55.741539,49.501133],[-55.742741,49.509048],[-55.731754,49.507263],[-55.723686,49.505482],[-55.70845,49.50618],[-55.699394,49.497288],[-55.717506,49.502918],[-55.723686,49.505482],[-55.731754,49.507263],[-55.742741,49.509048],[-55.741539,49.501133]]]],"created":1292539479,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1200_20101216_7e2cea0467.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

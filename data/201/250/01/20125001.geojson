@@ -1,0 +1,15 @@
+{
+  "id": 20125001,
+  "type": "Feature",
+  "properties": {
+    "name":"Fornace, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20125001,
+    "woe:name":"Fornace, Tuscany, Italy",
+    "woe:place_id":"z15Je.GbAZ0Fy8fTfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.656523,43.84697,10.664978,43.849598],
+  "geometry": {"alpha":0.00015,"bbox":[10.656522750854,43.846969604492,10.664978027344,43.849597930908],"coordinates":[[[[10.663497,43.849598],[10.663552,43.849586],[10.664978,43.848145],[10.658454,43.84697],[10.656523,43.84819],[10.663497,43.849598]]]],"created":1292523542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/20125001_20101216_10e2b9b2bd.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

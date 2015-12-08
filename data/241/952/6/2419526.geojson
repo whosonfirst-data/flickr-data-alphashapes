@@ -1,0 +1,15 @@
+{
+  "id": 2419526,
+  "type": "Feature",
+  "properties": {
+    "name":"Hebo, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2419526,
+    "woe:name":"Hebo, Oregon, United States",
+    "woe:place_id":"0G1v6QKbBZ2Z.7te",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.871384,45.227436,-123.859016,45.23241],
+  "geometry": {"alpha":0.00015,"bbox":[-123.87138366699,45.227436065674,-123.85901641846,45.232410430908],"coordinates":[[[[-123.859016,45.230465],[-123.859047,45.227608],[-123.871384,45.227436],[-123.86776,45.23241],[-123.861237,45.232349],[-123.859016,45.230465]]]],"created":1292530868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2419526_20101216_1fa754fc76.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678105,
+  "type": "Feature",
+  "properties": {
+    "name":"Sestola, Italy",
+    "placetype":"locality",
+    "woe:id":12678105,
+    "woe:name":"Sestola, Italy",
+    "woe:place_id":"V8J76ByYA5plvbKSPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.77115,44.226841,10.773489,44.231899],
+  "geometry": {"alpha":1e-05,"bbox":[10.771149635315,44.2268409729,10.773488998413,44.231899261475],"coordinates":[[[[10.77233,44.229092],[10.772824,44.226841],[10.772609,44.226997],[10.77115,44.229149],[10.773489,44.231899],[10.77233,44.229092]]]],"created":1292531282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12678105_20101216_4288b575dc.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

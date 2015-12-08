@@ -1,0 +1,15 @@
+{
+  "id": 2397030,
+  "type": "Feature",
+  "properties": {
+    "name":"Eden Valley, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2397030,
+    "woe:name":"Eden Valley, Minnesota, United States",
+    "woe:place_id":"vvnTqlGbApX_phcu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.565765,45.319443,-94.545113,45.326099],
+  "geometry": {"alpha":0.00015,"bbox":[-94.565765380859,45.319442749023,-94.545112609863,45.326099395752],"coordinates":[[[[-94.547852,45.319637],[-94.565765,45.325687],[-94.547523,45.324806],[-94.546097,45.326099],[-94.545113,45.323536],[-94.54628,45.319443],[-94.547852,45.319637]]]],"created":1292530792,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2397030_20101216_078fa879b5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

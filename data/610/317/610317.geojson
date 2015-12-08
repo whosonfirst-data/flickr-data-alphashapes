@@ -1,0 +1,15 @@
+{
+  "id": 610317,
+  "type": "Feature",
+  "properties": {
+    "name":"Martigny, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":610317,
+    "woe:name":"Martigny, Poitou-Charentes, France",
+    "woe:place_id":"4gvaMqSfAJxeJts",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.338001,46.647667,0.360743,46.67347],
+  "geometry": {"alpha":0.00015,"bbox":[0.33800101280212,46.647666931152,0.36074298620224,46.673469543457],"coordinates":[[[[0.338001,46.66116],[0.341949,46.67347],[0.3575,46.669445],[0.360743,46.664917],[0.347185,46.647667],[0.338001,46.66116]]]],"created":1292455912,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/610317_20101215_473baba6da.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

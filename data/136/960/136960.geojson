@@ -1,0 +1,15 @@
+{
+  "id": 136960,
+  "type": "Feature",
+  "properties": {
+    "name":"Plateros, Zacatecas, Mexico",
+    "placetype":"locality",
+    "woe:id":136960,
+    "woe:name":"Plateros, Zacatecas, Mexico",
+    "woe:place_id":"9VKeitKYApqoGd0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.852112,23.213581,-102.839928,23.229061],
+  "geometry": {"alpha":0.00015,"bbox":[-102.85211181641,23.213581085205,-102.83992767334,23.229061126709],"coordinates":[[[[-102.840431,23.229061],[-102.839928,23.22226],[-102.851944,23.213581],[-102.852112,23.22147],[-102.842155,23.229042],[-102.840431,23.229061]]]],"created":1292550965,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/136960_20101217_d300b21327.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

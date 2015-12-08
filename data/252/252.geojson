@@ -1,0 +1,15 @@
+{
+  "id": 252,
+  "type": "Feature",
+  "properties": {
+    "name":"Cavendish, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":252,
+    "woe:name":"Cavendish, Newfoundland and Labrador, Canada",
+    "woe:place_id":"S0O1J9CbBJ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.490372,47.696922,-53.478012,47.704102],
+  "geometry": {"alpha":0.00015,"bbox":[-53.490371704102,47.696922302246,-53.478012084961,47.7041015625],"coordinates":[[[[-53.478012,47.698383],[-53.480286,47.696922],[-53.483162,47.69717],[-53.490372,47.704102],[-53.478012,47.698383]]]],"created":1248313823,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2449/shapefiles/252_20090723_df80aab340.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

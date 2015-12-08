@@ -1,0 +1,15 @@
+{
+  "id": 2400284,
+  "type": "Feature",
+  "properties": {
+    "name":"Essex Center, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2400284,
+    "woe:name":"Essex Center, Vermont, United States",
+    "woe:place_id":"CI78xLCbBZwaS_cx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.065979,44.511719,-73.059509,44.522945],
+  "geometry": {"alpha":0.00015,"bbox":[-73.065979003906,44.51171875,-73.059509277344,44.522945404053],"coordinates":[[[[-73.065979,44.511719],[-73.061485,44.522945],[-73.060028,44.51334],[-73.059509,44.511948],[-73.065979,44.511719]]]],"created":1292444691,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2400284_20101215_d36408203e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22756556,
+  "type": "Feature",
+  "properties": {
+    "name":"Lafare, France",
+    "placetype":"locality",
+    "woe:id":22756556,
+    "woe:name":"Lafare, France",
+    "woe:place_id":"4GCpuqCbA5s5CElc3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.035086,44.154869,5.038776,44.163757],
+  "geometry": {"alpha":1e-05,"bbox":[5.0350861549377,44.15486907959,5.0387759208679,44.163757324219],"coordinates":[[[[5.035086,44.158562],[5.037231,44.162441],[5.038776,44.163757],[5.037574,44.15992],[5.037918,44.156963],[5.037918,44.154869],[5.035086,44.158562]]]],"created":1292519019,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/22756556_20101216_aaafc87c8d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

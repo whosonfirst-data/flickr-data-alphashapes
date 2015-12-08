@@ -1,0 +1,15 @@
+{
+  "id": 23396687,
+  "type": "Feature",
+  "properties": {
+    "name":"La Plaine, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396687,
+    "woe:name":"La Plaine, Quebec, Canada",
+    "woe:place_id":"GESsj1GbAp_mq7gbxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.715683,45.760937,-73.704506,45.784943],
+  "geometry": {"alpha":0.00015,"bbox":[-73.715682983398,45.760936737061,-73.70450592041,45.784942626953],"coordinates":[[[[-73.704895,45.780052],[-73.704979,45.779987],[-73.715683,45.760937],[-73.709335,45.78038],[-73.709229,45.780602],[-73.706955,45.784943],[-73.704506,45.781551],[-73.704895,45.780052]]]],"created":1248141374,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2438/shapefiles/23396687_20090721_72e9f1bc25.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

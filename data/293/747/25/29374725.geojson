@@ -1,0 +1,15 @@
+{
+  "id": 29374725,
+  "type": "Feature",
+  "properties": {
+    "name":"Montague, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374725,
+    "woe:name":"Montague, Ontario, Canada",
+    "woe:place_id":"2Mg9k06bCJ9g58HyIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.037231,44.943478,-76.03569,44.945847],
+  "geometry": {"alpha":0.00015,"bbox":[-76.037231445312,44.943477630615,-76.035690307617,44.945846557617],"coordinates":[[[[-76.037231,44.945847],[-76.036377,44.945724],[-76.036079,44.945133],[-76.03569,44.943478],[-76.037231,44.945847]]]],"created":1292519330,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/29374725_20101216_b677394779.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

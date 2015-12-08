@@ -1,0 +1,15 @@
+{
+  "id": 554741,
+  "type": "Feature",
+  "properties": {
+    "name":"Kettinge, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":554741,
+    "woe:name":"Kettinge, Sjaelland, Denmark",
+    "woe:place_id":"qMOodyCcBJgbJnY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.72121,54.687962,11.738076,54.697212],
+  "geometry": {"alpha":0.00015,"bbox":[11.721209526062,54.687961578369,11.738076210022,54.697212219238],"coordinates":[[[[11.725308,54.695499],[11.729493,54.695812],[11.731194,54.696194],[11.738076,54.697212],[11.730823,54.687962],[11.72121,54.693256],[11.725308,54.695499]]]],"created":1292529723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/554741_20101216_e13546bc5f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

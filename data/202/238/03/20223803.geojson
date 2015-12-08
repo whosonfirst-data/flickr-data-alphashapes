@@ -1,0 +1,15 @@
+{
+  "id": 20223803,
+  "type": "Feature",
+  "properties": {
+    "name":"La Punta, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20223803,
+    "woe:name":"La Punta, Canary Islands, Spain",
+    "woe:place_id":"KSno84ObAZ470ih62g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.940453,28.667244,-17.924194,28.686634],
+  "geometry": {"alpha":0.00015,"bbox":[-17.940452575684,28.66724395752,-17.924194335938,28.686634063721],"coordinates":[[[[-17.940453,28.669655],[-17.939257,28.67869],[-17.924194,28.686634],[-17.934666,28.667244],[-17.940453,28.669655]]]],"created":1226556842,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3275/shapefiles/20223803_20081113_c1fe2c1757.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

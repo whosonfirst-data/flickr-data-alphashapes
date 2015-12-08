@@ -1,0 +1,15 @@
+{
+  "id": 34123,
+  "type": "Feature",
+  "properties": {
+    "name":"Saxon Street, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34123,
+    "woe:name":"Saxon Street, England, United Kingdom",
+    "woe:place_id":"IlrwTwCaBZ238Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.439094,52.204144,0.457345,52.208344],
+  "geometry": {"alpha":0.00015,"bbox":[0.43909400701523,52.20414352417,0.4573450088501,52.208343505859],"coordinates":[[[[0.455897,52.207115],[0.456401,52.207066],[0.457345,52.206181],[0.457277,52.20612],[0.453928,52.205048],[0.451992,52.204144],[0.439094,52.208344],[0.455897,52.207115]]]],"created":1292450488,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/34123_20101215_0b5de51227.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

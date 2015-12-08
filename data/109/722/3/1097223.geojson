@@ -1,0 +1,15 @@
+{
+  "id": 1097223,
+  "type": "Feature",
+  "properties": {
+    "name":"Merricks North, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1097223,
+    "woe:name":"Merricks North, Victoria, Australia",
+    "woe:place_id":"BFp5ChKYAZWJBwzF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.050797,-38.363735,145.088196,-38.353825],
+  "geometry": {"alpha":0.00015,"bbox":[145.05079650879,-38.363735198975,145.08819580078,-38.353824615479],"coordinates":[[[[145.050797,-38.362152],[145.053864,-38.355076],[145.067276,-38.353825],[145.088196,-38.355118],[145.070297,-38.363735],[145.058182,-38.360596],[145.050797,-38.362152]]]],"created":1292485262,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/1097223_20101216_50015e134d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

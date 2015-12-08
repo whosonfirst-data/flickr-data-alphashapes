@@ -1,0 +1,15 @@
+{
+  "id": 2352541,
+  "type": "Feature",
+  "properties": {
+    "name":"Aladdin, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2352541,
+    "woe:name":"Aladdin, Washington, United States",
+    "woe:place_id":"D9gPm8KbApkyVMAs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.567146,48.727421,-117.56015,48.732559],
+  "geometry": {"alpha":0.00015,"bbox":[-117.56714630127,48.727420806885,-117.56015014648,48.732559204102],"coordinates":[[[[-117.563965,48.728142],[-117.567146,48.732559],[-117.56015,48.727886],[-117.56015,48.727421],[-117.563965,48.728142]]]],"created":1234693447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3605/shapefiles/2352541_20090215_ea7f57eddc.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

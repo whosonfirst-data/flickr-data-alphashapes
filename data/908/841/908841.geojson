@@ -1,0 +1,15 @@
+{
+  "id": 908841,
+  "type": "Feature",
+  "properties": {
+    "name":"Vallbo, Jamtland, Sweden",
+    "placetype":"locality",
+    "woe:id":908841,
+    "woe:name":"Vallbo, Jamtland, Sweden",
+    "woe:place_id":"mj23k0eQAZSDZOY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.038389,63.129448,13.082485,63.15197],
+  "geometry": {"alpha":0.00015,"bbox":[13.038389205933,63.129447937012,13.082485198975,63.151969909668],"coordinates":[[[[13.073311,63.129448],[13.058624,63.140476],[13.038389,63.15197],[13.059654,63.147068],[13.082485,63.139702],[13.077507,63.133533],[13.073311,63.129448]]]],"created":1292549710,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/908841_20101217_b9605c7b8a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

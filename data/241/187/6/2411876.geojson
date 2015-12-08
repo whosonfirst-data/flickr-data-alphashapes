@@ -1,0 +1,15 @@
+{
+  "id": 2411876,
+  "type": "Feature",
+  "properties": {
+    "name":"Goldsmith, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2411876,
+    "woe:name":"Goldsmith, Texas, United States",
+    "woe:place_id":"1oexeqGbBZ2wYuKP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.616631,31.981506,-102.613045,31.985855],
+  "geometry": {"alpha":0.00015,"bbox":[-102.6166305542,31.981506347656,-102.61304473877,31.985855102539],"coordinates":[[[[-102.615181,31.985739],[-102.613937,31.985493],[-102.613045,31.981506],[-102.614212,31.982498],[-102.616631,31.985855],[-102.615181,31.985739]]]],"created":1247835967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2510/shapefiles/2411876_20090717_5ce4fe774d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

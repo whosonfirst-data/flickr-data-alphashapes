@@ -1,0 +1,15 @@
+{
+  "id": 770819,
+  "type": "Feature",
+  "properties": {
+    "name":"Proacina, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":770819,
+    "woe:name":"Proacina, Asturias, Spain",
+    "woe:place_id":"60UniLWeBpzVYlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.047286,43.231445,-6.03527,43.240574],
+  "geometry": {"alpha":0.00015,"bbox":[-6.0472860336304,43.2314453125,-6.0352702140808,43.240573883057],"coordinates":[[[[-6.045291,43.240349],[-6.0441,43.239853],[-6.03527,43.231445],[-6.044926,43.239544],[-6.047286,43.240574],[-6.045291,43.240349]]]],"created":1292499549,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/770819_20101216_7d5268531f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 600555,
+  "type": "Feature",
+  "properties": {
+    "name":"Labastide, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":600555,
+    "woe:name":"Labastide, Aquitaine, France",
+    "woe:place_id":"BXJR13ifAZwxEa8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.188655,43.962177,-0.179214,43.970642],
+  "geometry": {"alpha":0.00015,"bbox":[-0.1886550039053,43.962177276611,-0.1792140007019,43.970642089844],"coordinates":[[[[-0.185394,43.970455],[-0.179214,43.962177],[-0.188655,43.969715],[-0.186595,43.970642],[-0.185887,43.970573],[-0.185394,43.970455]]]],"created":1292530624,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/600555_20101216_0133d666c1.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

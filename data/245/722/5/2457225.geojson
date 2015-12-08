@@ -1,0 +1,15 @@
+{
+  "id": 2457225,
+  "type": "Feature",
+  "properties": {
+    "name":"Nassauville, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2457225,
+    "woe:name":"Nassauville, Florida, United States",
+    "woe:place_id":"KZFW.7CbBZmV6l9n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.800369,30.504892,-81.772247,30.53421],
+  "geometry": {"alpha":0.00015,"bbox":[-81.800369262695,30.504892349243,-81.772247314453,30.534210205078],"coordinates":[[[[-81.792793,30.53421],[-81.772247,30.52894],[-81.789696,30.527185],[-81.793381,30.504892],[-81.800369,30.525591],[-81.792793,30.53421]]]],"created":1292490016,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2457225_20101216_d75fba62bf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

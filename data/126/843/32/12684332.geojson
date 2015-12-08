@@ -1,0 +1,15 @@
+{
+  "id": 12684332,
+  "type": "Feature",
+  "properties": {
+    "name":"Constantine, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684332,
+    "woe:name":"Constantine, Switzerland",
+    "woe:place_id":"qbMEvGKYA5rBfuizrw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.03,46.910667,7.035166,46.915859],
+  "geometry": {"alpha":1e-05,"bbox":[7.0300002098083,46.910667419434,7.0351657867432,46.915859222412],"coordinates":[[[[7.033653,46.915859],[7.033833,46.914165],[7.034499,46.912998],[7.035166,46.912167],[7.03,46.910667],[7.031636,46.915813],[7.033653,46.915859]]]],"created":1292531793,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12684332_20101216_b5cd604f09.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

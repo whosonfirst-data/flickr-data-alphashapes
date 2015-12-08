@@ -1,0 +1,15 @@
+{
+  "id": 2370562,
+  "type": "Feature",
+  "properties": {
+    "name":"Brownsville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2370562,
+    "woe:name":"Brownsville, Virginia, United States",
+    "woe:place_id":"geY3KWSbApvmCPUD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.703873,38.046291,-78.698418,38.051876],
+  "geometry": {"alpha":0.00015,"bbox":[-78.703872680664,38.046291351318,-78.698417663574,38.051876068115],"coordinates":[[[[-78.702362,38.051876],[-78.699188,38.051521],[-78.698418,38.051537],[-78.703873,38.046291],[-78.702362,38.051876]]]],"created":1234605967,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3337/shapefiles/2370562_20090214_bb27cf73c8.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20220096,
+  "type": "Feature",
+  "properties": {
+    "name":"Collblanc, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20220096,
+    "woe:name":"Collblanc, Catalonia, Spain",
+    "woe:place_id":"QInK9s2bAZ7NLsRH2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.11167,41.37085,2.120361,41.375713],
+  "geometry": {"alpha":0.00015,"bbox":[2.1116700172424,41.370849609375,2.1203610897064,41.375713348389],"coordinates":[[[[2.119159,41.373653],[2.118252,41.37085],[2.11167,41.375427],[2.116928,41.375263],[2.120361,41.375713],[2.119159,41.373653]]]],"created":1292454962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20220096_20101215_508e821e4f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

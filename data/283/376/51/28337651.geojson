@@ -1,0 +1,15 @@
+{
+  "id": 28337651,
+  "type": "Feature",
+  "properties": {
+    "name":"Twin, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":28337651,
+    "woe:name":"Twin, Alabama, United States",
+    "woe:place_id":"m1TNo2GbCZ9C04x1CQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.853889,34.013752,-87.837234,34.022305],
+  "geometry": {"alpha":0.00015,"bbox":[-87.853889465332,34.013751983643,-87.83723449707,34.022304534912],"coordinates":[[[[-87.853889,34.013752],[-87.849594,34.022305],[-87.844536,34.01923],[-87.840416,34.016506],[-87.837234,34.014214],[-87.853889,34.013752]]]],"created":1292445974,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/28337651_20101215_8ce091b14e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

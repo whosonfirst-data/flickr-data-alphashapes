@@ -1,0 +1,15 @@
+{
+  "id": 555566,
+  "type": "Feature",
+  "properties": {
+    "name":"Miklenborg, Syddanmark, Denmark",
+    "placetype":"locality",
+    "woe:id":555566,
+    "woe:name":"Miklenborg, Syddanmark, Denmark",
+    "woe:place_id":".aVRWoCcBJk_thE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.761372,55.203621,10.7713,55.224335],
+  "geometry": {"alpha":0.00015,"bbox":[10.761371612549,55.203620910645,10.771300315857,55.224334716797],"coordinates":[[[[10.771141,55.203621],[10.771025,55.206989],[10.761372,55.224335],[10.7713,55.207344],[10.771141,55.203621]]]],"created":1292491323,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/555566_20101216_7d9119d6fc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

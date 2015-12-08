@@ -1,0 +1,15 @@
+{
+  "id": 20146473,
+  "type": "Feature",
+  "properties": {
+    "name":"Treville, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20146473,
+    "woe:name":"Treville, Piedmont, Italy",
+    "woe:place_id":"6OUkXOqbAZ0yb37t0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.359766,45.0867,8.372011,45.101334],
+  "geometry": {"alpha":0.00015,"bbox":[8.3597660064697,45.086700439453,8.3720111846924,45.101333618164],"coordinates":[[[[8.359766,45.097404],[8.363685,45.101334],[8.366088,45.097153],[8.372011,45.092247],[8.364887,45.0867],[8.359766,45.097404]]]],"created":1292531810,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20146473_20101216_ea1d4afe36.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

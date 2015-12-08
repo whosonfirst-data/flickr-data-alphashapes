@@ -1,0 +1,15 @@
+{
+  "id": 715729,
+  "type": "Feature",
+  "properties": {
+    "name":"Fosini, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":715729,
+    "woe:name":"Fosini, Tuscany, Italy",
+    "woe:place_id":"euKC1yGeAJkBxFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.949011,43.150848,10.965385,43.167252],
+  "geometry": {"alpha":0.00015,"bbox":[10.949010848999,43.150848388672,10.965385437012,43.167251586914],"coordinates":[[[[10.949011,43.16441],[10.956287,43.167252],[10.965385,43.159176],[10.961749,43.153339],[10.951309,43.150848],[10.950311,43.161125],[10.949011,43.16441]]]],"created":1292458570,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/715729_20101216_e517f24df0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

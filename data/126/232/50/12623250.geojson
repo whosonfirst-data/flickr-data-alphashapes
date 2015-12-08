@@ -1,0 +1,15 @@
+{
+  "id": 12623250,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neckarwestheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623250,
+    "woe:name":"Gemeinde Neckarwestheim, Germany",
+    "woe:place_id":"WCLr4YuYA5qePON_fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.175343,49.061016,9.181308,49.063686],
+  "geometry": {"alpha":1e-05,"bbox":[9.1753425598145,49.061016082764,9.1813077926636,49.06368637085],"coordinates":[[[[9.179506,49.063686],[9.181308,49.062424],[9.179592,49.061016],[9.175343,49.063068],[9.179506,49.063686]]]],"created":1292457054,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12623250_20101215_f164aff445.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

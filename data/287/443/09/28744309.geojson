@@ -1,0 +1,15 @@
+{
+  "id": 28744309,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744309,
+    "woe:name":"Richmond, Michigan, United States",
+    "woe:place_id":"SK.yw3GbCZsu5D6nyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.527191,43.884724,-85.512978,43.907887],
+  "geometry": {"alpha":0.00015,"bbox":[-85.527191162109,43.88472366333,-85.512977600098,43.907886505127],"coordinates":[[[[-85.517189,43.886002],[-85.527191,43.892944],[-85.515167,43.907887],[-85.513268,43.885136],[-85.512978,43.884724],[-85.517189,43.886002]]]],"created":1239667563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3363/shapefiles/28744309_20090414_61706188cc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

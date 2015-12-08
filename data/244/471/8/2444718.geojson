@@ -1,0 +1,15 @@
+{
+  "id": 2444718,
+  "type": "Feature",
+  "properties": {
+    "name":"Manderfield, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2444718,
+    "woe:name":"Manderfield, Utah, United States",
+    "woe:place_id":"1jIkVBebBZiHrHzi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.663422,38.329269,-112.652496,38.354595],
+  "geometry": {"alpha":0.00015,"bbox":[-112.66342163086,38.32926940918,-112.65249633789,38.354595184326],"coordinates":[[[[-112.663422,38.329269],[-112.659302,38.34058],[-112.660843,38.354595],[-112.652496,38.349998],[-112.656471,38.333374],[-112.663422,38.329269]]]],"created":1292519907,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2444718_20101216_04c7a00894.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

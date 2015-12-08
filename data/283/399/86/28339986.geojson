@@ -1,0 +1,15 @@
+{
+  "id": 28339986,
+  "type": "Feature",
+  "properties": {
+    "name":"West End, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28339986,
+    "woe:name":"West End, Pennsylvania, United States",
+    "woe:place_id":"Z2qs4nmbCZ.wbm8Lsw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.893791,40.268997,-76.880951,40.27586],
+  "geometry": {"alpha":0.00015,"bbox":[-76.89379119873,40.268997192383,-76.880950927734,40.275859832764],"coordinates":[[[[-76.891937,40.272717],[-76.891251,40.273632],[-76.880951,40.27586],[-76.891594,40.270882],[-76.893791,40.268997],[-76.891937,40.272717]]]],"created":1292442080,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/28339986_20101215_daa4becec8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

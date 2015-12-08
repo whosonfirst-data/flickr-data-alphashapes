@@ -1,0 +1,15 @@
+{
+  "id": 1103070,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilcoy, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1103070,
+    "woe:name":"Kilcoy, Queensland, Australia",
+    "woe:place_id":"HmgkWn6YAJwphC4z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.55426,-26.947668,152.567017,-26.939363],
+  "geometry": {"alpha":0.00015,"bbox":[152.55426025391,-26.947668075562,152.56701660156,-26.939363479614],"coordinates":[[[[152.567017,-26.942673],[152.566101,-26.946096],[152.560608,-26.947668],[152.557861,-26.947016],[152.55426,-26.942041],[152.565765,-26.939363],[152.567017,-26.942673]]]],"created":1292536702,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/1103070_20101216_59e2eccc4d.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

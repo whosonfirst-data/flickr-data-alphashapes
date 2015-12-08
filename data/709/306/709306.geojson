@@ -1,0 +1,15 @@
+{
+  "id": 709306,
+  "type": "Feature",
+  "properties": {
+    "name":"Zuschendorf, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":709306,
+    "woe:name":"Zuschendorf, Saxony, Germany",
+    "woe:place_id":"JPiwRaieAZXmg4U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.913154,50.931355,13.914785,50.933414],
+  "geometry": {"alpha":0.00015,"bbox":[13.913153648376,50.931354522705,13.914785385132,50.933414459229],"coordinates":[[[[13.913658,50.931355],[13.913154,50.932522],[13.913927,50.933414],[13.914688,50.933231],[13.914785,50.933205],[13.913744,50.931515],[13.913658,50.931355]]]],"created":1292537863,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/709306_20101216_dc45d3468a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103316,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Tyers, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103316,
+    "woe:name":"Lake Tyers, Victoria, Australia",
+    "woe:place_id":"GQnxFwWYAJxBUCON",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.132095,-37.83931,148.140717,-37.818192],
+  "geometry": {"alpha":0.00015,"bbox":[148.13209533691,-37.839309692383,148.14071655273,-37.81819152832],"coordinates":[[[[148.135529,-37.837444],[148.132095,-37.818192],[148.140717,-37.838459],[148.140198,-37.8386],[148.137619,-37.83931],[148.135147,-37.839062],[148.135529,-37.837444]]]],"created":1292542151,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/1103316_20101216_53a0d6ea0e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

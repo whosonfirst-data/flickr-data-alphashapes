@@ -1,0 +1,15 @@
+{
+  "id": 58331,
+  "type": "Feature",
+  "properties": {
+    "name":"Filadelfia, Guanacaste, Costa Rica",
+    "placetype":"locality",
+    "woe:id":58331,
+    "woe:name":"Filadelfia, Guanacaste, Costa Rica",
+    "woe:place_id":"Hkwhf4ucCZ_NTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.56015,10.439279,-85.543327,10.451166],
+  "geometry": {"alpha":0.00015,"bbox":[-85.560150146484,10.4392786026,-85.543327331543,10.451166152954],"coordinates":[[[[-85.557404,10.443247],[-85.558258,10.443162],[-85.56015,10.443584],[-85.554832,10.451166],[-85.543327,10.439279],[-85.557404,10.443247]]]],"created":1292541430,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/58331_20101216_e278c801da.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

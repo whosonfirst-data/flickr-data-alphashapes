@@ -1,0 +1,15 @@
+{
+  "id": 12590790,
+  "type": "Feature",
+  "properties": {
+    "name":"Posio, Finland",
+    "placetype":"locality",
+    "woe:id":12590790,
+    "woe:name":"Posio, Finland",
+    "woe:place_id":"YT8rIKuYA5kgMuQjIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.874641,66.350464,27.876091,66.351067],
+  "geometry": {"alpha":1e-05,"bbox":[27.874641418457,66.350463867188,27.876091003418,66.351066589355],"coordinates":[[[[27.875671,66.350601],[27.875479,66.350555],[27.874641,66.350464],[27.875162,66.351067],[27.876091,66.350716],[27.87608,66.350685],[27.875671,66.350601]]]],"created":1248170893,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2665/shapefiles/12590790_20090721_0404c72e47.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

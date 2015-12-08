@@ -1,0 +1,15 @@
+{
+  "id": 20123634,
+  "type": "Feature",
+  "properties": {
+    "name":"Durlo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20123634,
+    "woe:name":"Durlo, Veneto, Italy",
+    "woe:place_id":"E7NKlU6bAZ2qBErQgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.188716,45.628731,11.197299,45.639156],
+  "geometry": {"alpha":0.00015,"bbox":[11.188715934753,45.628730773926,11.197299003601,45.639156341553],"coordinates":[[[[11.189532,45.628731],[11.188716,45.630486],[11.188888,45.639069],[11.189746,45.639156],[11.197299,45.635586],[11.197128,45.630363],[11.189532,45.628731]]]],"created":1292480044,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20123634_20101216_edb04dff17.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

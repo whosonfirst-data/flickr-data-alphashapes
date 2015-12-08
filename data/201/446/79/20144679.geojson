@@ -1,0 +1,15 @@
+{
+  "id": 20144679,
+  "type": "Feature",
+  "properties": {
+    "name":"Stazione Sant'elena, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20144679,
+    "woe:name":"Stazione Sant'elena, Veneto, Italy",
+    "woe:place_id":"pbmK9cmbAZ0.3eG2zQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.711769,45.198368,11.713185,45.199413],
+  "geometry": {"alpha":0.00015,"bbox":[11.711769104004,45.19836807251,11.713185310364,45.199413299561],"coordinates":[[[[11.712799,45.199005],[11.711769,45.198368],[11.71297,45.199276],[11.713185,45.199413],[11.712927,45.199108],[11.712799,45.199005]]]],"created":1292549223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/20144679_20101217_ccfe7269ab.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

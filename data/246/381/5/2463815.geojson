@@ -1,0 +1,15 @@
+{
+  "id": 2463815,
+  "type": "Feature",
+  "properties": {
+    "name":"Oaktree Apartments, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2463815,
+    "woe:name":"Oaktree Apartments, Delaware, United States",
+    "woe:place_id":"yjPQhdCbBZoxbh4u",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.788841,39.644165,-75.776825,39.649452],
+  "geometry": {"alpha":0.00015,"bbox":[-75.788841247559,39.644165039062,-75.776824951172,39.649452209473],"coordinates":[[[[-75.780922,39.646194],[-75.782707,39.646667],[-75.788841,39.648594],[-75.781181,39.649452],[-75.776825,39.644165],[-75.780922,39.646194]]]],"created":1292440888,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2463815_20101215_242036550f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

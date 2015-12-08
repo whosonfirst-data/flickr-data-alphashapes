@@ -1,0 +1,15 @@
+{
+  "id": 727473,
+  "type": "Feature",
+  "properties": {
+    "name":"Bant, Flevoland, Netherlands",
+    "placetype":"locality",
+    "woe:id":727473,
+    "woe:name":"Bant, Flevoland, Netherlands",
+    "woe:place_id":"5XsgL2.eA5uLPPU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.732116,52.766006,5.752208,52.782413],
+  "geometry": {"alpha":0.00015,"bbox":[5.7321162223816,52.766006469727,5.7522082328796,52.782413482666],"coordinates":[[[[5.749282,52.766617],[5.741386,52.766006],[5.732116,52.76881],[5.734176,52.782413],[5.748557,52.770798],[5.752208,52.771763],[5.749282,52.766617]]]],"created":1292534376,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/727473_20101216_d76af14290.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

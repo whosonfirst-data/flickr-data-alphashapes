@@ -1,0 +1,15 @@
+{
+  "id": 12680853,
+  "type": "Feature",
+  "properties": {
+    "name":"Ozzano Monferrato, Italy",
+    "placetype":"locality",
+    "woe:id":12680853,
+    "woe:name":"Ozzano Monferrato, Italy",
+    "woe:place_id":"9oRPTEuYA5oTYpTPMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.373899,45.096668,8.381667,45.101639],
+  "geometry": {"alpha":1e-05,"bbox":[8.3738994598389,45.096668243408,8.381667137146,45.101638793945],"coordinates":[[[[8.381109,45.100849],[8.381667,45.098141],[8.376517,45.098049],[8.373899,45.096668],[8.376388,45.101639],[8.381109,45.100849]]]],"created":1292479625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/12680853_20101216_7345bf749e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1101704,
+  "type": "Feature",
+  "properties": {
+    "name":"Donald, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101704,
+    "woe:name":"Donald, Victoria, Australia",
+    "woe:place_id":"agFJ0aSYAJxJI0_k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.981506,-36.371746,142.995636,-36.365871],
+  "geometry": {"alpha":0.00015,"bbox":[142.98150634766,-36.371746063232,142.99563598633,-36.365871429443],"coordinates":[[[[142.981506,-36.371746],[142.981995,-36.370178],[142.995636,-36.365871],[142.984833,-36.371262],[142.981506,-36.371746]]]],"created":1292546712,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/1101704_20101217_65021d4a53.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

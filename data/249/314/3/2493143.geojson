@@ -1,0 +1,15 @@
+{
+  "id": 2493143,
+  "type": "Feature",
+  "properties": {
+    "name":"Short Place, California, United States",
+    "placetype":"locality",
+    "woe:id":2493143,
+    "woe:name":"Short Place, California, United States",
+    "woe:place_id":"NCODCC2bBZWLWp3Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.478195,38.771233,-120.464462,38.779549],
+  "geometry": {"alpha":0.00015,"bbox":[-120.47819519043,38.77123260498,-120.46446228027,38.77954864502],"coordinates":[[[[-120.466461,38.779549],[-120.464462,38.776302],[-120.474899,38.772331],[-120.478195,38.771233],[-120.471954,38.777641],[-120.466461,38.779549]]]],"created":1292494261,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2493143_20101216_93479b4a33.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

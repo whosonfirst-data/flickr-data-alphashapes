@@ -1,0 +1,15 @@
+{
+  "id": 12675030,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Jakob im Walde, Austria",
+    "placetype":"locality",
+    "woe:id":12675030,
+    "woe:name":"St. Jakob im Walde, Austria",
+    "woe:place_id":"ltu8SfGYA5p1ZvoGdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.783297,47.477226,15.786088,47.479336],
+  "geometry": {"alpha":1e-05,"bbox":[15.783296585083,47.477226257324,15.786087989807,47.479335784912],"coordinates":[[[[15.783469,47.477352],[15.785465,47.479336],[15.786088,47.477264],[15.783297,47.477226],[15.783469,47.477352]]]],"created":1292549232,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12675030_20101217_99079dd81f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

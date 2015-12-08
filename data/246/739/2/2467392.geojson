@@ -1,0 +1,15 @@
+{
+  "id": 2467392,
+  "type": "Feature",
+  "properties": {
+    "name":"Paddison Hills, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2467392,
+    "woe:name":"Paddison Hills, Ohio, United States",
+    "woe:place_id":"A.nuTs2bBZpW1MDs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.361526,39.076721,-84.360771,39.08094],
+  "geometry": {"alpha":0.00015,"bbox":[-84.361526489258,39.076721191406,-84.360771179199,39.080940246582],"coordinates":[[[[-84.360771,39.076885],[-84.361275,39.076721],[-84.361275,39.076725],[-84.361526,39.08094],[-84.360817,39.077316],[-84.360771,39.076885]]]],"created":1292549082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2467392_20101217_f8a7c11bec.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

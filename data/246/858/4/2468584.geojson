@@ -1,0 +1,15 @@
+{
+  "id": 2468584,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkersville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2468584,
+    "woe:name":"Parkersville, South Carolina, United States",
+    "woe:place_id":"5pdrLuebBZoUQN5r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.124222,33.443832,-79.111526,33.453213],
+  "geometry": {"alpha":0.00015,"bbox":[-79.124221801758,33.443832397461,-79.111526489258,33.453212738037],"coordinates":[[[[-79.121262,33.446339],[-79.124222,33.453213],[-79.118553,33.452354],[-79.111526,33.44397],[-79.112206,33.443832],[-79.121262,33.446339]]]],"created":1292524321,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2468584_20101216_6466e7bd7d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

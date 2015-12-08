@@ -1,0 +1,15 @@
+{
+  "id": 2448171,
+  "type": "Feature",
+  "properties": {
+    "name":"Mckinley, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2448171,
+    "woe:name":"Mckinley, Virginia, United States",
+    "woe:place_id":"BtV1FMObBZg1Cj6N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.29071,38.045471,-79.290451,38.045658],
+  "geometry": {"alpha":0.00015,"bbox":[-79.290710449219,38.045471191406,-79.290451049805,38.045658111572],"coordinates":[[[[-79.290451,38.045609],[-79.290581,38.045521],[-79.290665,38.045471],[-79.29071,38.045658],[-79.290451,38.045609]]]],"created":1292454482,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2448171_20101215_6ce1309e57.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

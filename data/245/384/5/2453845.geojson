@@ -1,0 +1,15 @@
+{
+  "id": 2453845,
+  "type": "Feature",
+  "properties": {
+    "name":"Moorhouse Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2453845,
+    "woe:name":"Moorhouse Corner, New York, United States",
+    "woe:place_id":"FYAORnKbBZmjdgNO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.55806,42.321705,-73.54525,42.338627],
+  "geometry": {"alpha":0.00015,"bbox":[-73.558059692383,42.321704864502,-73.545249938965,42.338626861572],"coordinates":[[[[-73.545792,42.322659],[-73.54525,42.322533],[-73.546181,42.321705],[-73.546257,42.322285],[-73.55806,42.338627],[-73.545792,42.322659]]]],"created":1292541068,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2453845_20101216_5592868a47.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

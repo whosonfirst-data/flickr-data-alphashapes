@@ -1,0 +1,15 @@
+{
+  "id": 12677491,
+  "type": "Feature",
+  "properties": {
+    "name":"Candela, Italy",
+    "placetype":"locality",
+    "woe:id":12677491,
+    "woe:name":"Candela, Italy",
+    "woe:place_id":"isHYxQSYA5ojWJGAtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.527075,41.144299,15.52728,41.144772],
+  "geometry": {"alpha":1e-05,"bbox":[15.527074813843,41.144298553467,15.527279853821,41.144771575928],"coordinates":[[[[15.5271,41.144772],[15.527172,41.144665],[15.52728,41.144299],[15.527086,41.144543],[15.527075,41.144562],[15.527077,41.144737],[15.5271,41.144772]]]],"created":1292517663,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12677491_20101216_7e06ca3639.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

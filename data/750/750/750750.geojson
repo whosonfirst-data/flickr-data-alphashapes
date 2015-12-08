@@ -1,0 +1,15 @@
+{
+  "id": 750750,
+  "type": "Feature",
+  "properties": {
+    "name":"Vila Nova, Vila Real, Portugal",
+    "placetype":"locality",
+    "woe:id":750750,
+    "woe:name":"Vila Nova, Vila Real, Portugal",
+    "woe:place_id":"n4D09PGeBJyjLiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.02607,41.691463,-8.018302,41.698936],
+  "geometry": {"alpha":0.00015,"bbox":[-8.0260696411133,41.691463470459,-8.0183019638062,41.698936462402],"coordinates":[[[[-8.019233,41.691463],[-8.020792,41.692673],[-8.02607,41.695732],[-8.021821,41.698936],[-8.019547,41.697269],[-8.018302,41.691628],[-8.019233,41.691463]]]],"created":1292528195,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/750750_20101216_93242c6e29.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

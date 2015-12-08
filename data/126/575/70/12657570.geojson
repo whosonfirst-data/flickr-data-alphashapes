@@ -1,0 +1,15 @@
+{
+  "id": 12657570,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourghelles, France",
+    "placetype":"locality",
+    "woe:id":12657570,
+    "woe:name":"Bourghelles, France",
+    "woe:place_id":"RkRme0KYA5qN9EthMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.238198,50.560871,3.238885,50.561729],
+  "geometry": {"alpha":1e-05,"bbox":[3.2381980419159,50.560871124268,3.2388849258423,50.561729431152],"coordinates":[[[[3.238885,50.560963],[3.238778,50.560871],[3.238713,50.560993],[3.238198,50.561729],[3.238745,50.561153],[3.238874,50.560993],[3.238885,50.560963]]]],"created":1292525696,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12657570_20101216_d08dba3461.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

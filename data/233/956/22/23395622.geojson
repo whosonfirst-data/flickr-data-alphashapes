@@ -1,0 +1,15 @@
+{
+  "id": 23395622,
+  "type": "Feature",
+  "properties": {
+    "name":"Potton, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395622,
+    "woe:name":"Potton, Quebec, Canada",
+    "woe:place_id":"Whnf.aebAp.XnjBdcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.298622,45.067051,-72.285919,45.077339],
+  "geometry": {"alpha":0.00015,"bbox":[-72.298622131348,45.067050933838,-72.285919189453,45.077339172363],"coordinates":[[[[-72.298622,45.073582],[-72.298447,45.074673],[-72.294586,45.077339],[-72.285919,45.075459],[-72.290047,45.069359],[-72.29541,45.067051],[-72.298622,45.073582]]]],"created":1292529307,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/23395622_20101216_5d0de62070.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

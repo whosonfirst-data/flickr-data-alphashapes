@@ -1,0 +1,15 @@
+{
+  "id": 12995,
+  "type": "Feature",
+  "properties": {
+    "name":"Blakeshall, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12995,
+    "woe:name":"Blakeshall, England, United Kingdom",
+    "woe:place_id":"oXG5t1eYA5Vl3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.25151,52.423359,-2.244167,52.429722],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2515099048615,52.423358917236,-2.2441670894623,52.429721832275],"coordinates":[[[[-2.244167,52.429443],[-2.25151,52.423359],[-2.250866,52.425636],[-2.250008,52.428425],[-2.244723,52.429722],[-2.244167,52.429443]]]],"created":1292523866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12995_20101216_92dd3590bb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

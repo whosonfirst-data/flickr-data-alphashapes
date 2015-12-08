@@ -1,0 +1,15 @@
+{
+  "id": 735760,
+  "type": "Feature",
+  "properties": {
+    "name":"Aldeia Nova, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":735760,
+    "woe:name":"Aldeia Nova, Faro, Portugal",
+    "woe:place_id":"ZMfO9FeeApkObxE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.462978,37.179363,-7.458965,37.188156],
+  "geometry": {"alpha":0.00015,"bbox":[-7.4629778862,37.179363250732,-7.4589648246765,37.18815612793],"coordinates":[[[[-7.458965,37.181656],[-7.459845,37.179363],[-7.462978,37.182613],[-7.462978,37.182678],[-7.462581,37.188156],[-7.458965,37.181656]]]],"created":1292525328,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/735760_20101216_6e7f695d88.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

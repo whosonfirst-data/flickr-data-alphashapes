@@ -1,0 +1,15 @@
+{
+  "id": 586735,
+  "type": "Feature",
+  "properties": {
+    "name":"Condat, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":586735,
+    "woe:name":"Condat, Auvergne, France",
+    "woe:place_id":"fbfg11OcCZrcXFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.745895,45.323658,2.769069,45.344906],
+  "geometry": {"alpha":0.00015,"bbox":[2.745894908905,45.323657989502,2.7690689563751,45.344905853271],"coordinates":[[[[2.757568,45.342976],[2.766494,45.331089],[2.769069,45.325779],[2.748019,45.323658],[2.745895,45.344181],[2.754821,45.344906],[2.757568,45.342976]]]],"created":1292533743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/586735_20101216_4c558e4558.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 847,
+  "type": "Feature",
+  "properties": {
+    "name":"Leclercville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":847,
+    "woe:name":"Leclercville, Quebec, Canada",
+    "woe:place_id":"vNAjP3qRBZs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.015549,46.565117,-71.993576,46.572079],
+  "geometry": {"alpha":0.00015,"bbox":[-72.015548706055,46.565116882324,-71.993576049805,46.572078704834],"coordinates":[[[[-72.000938,46.571625],[-71.993576,46.57196],[-71.999069,46.570309],[-72.015549,46.565117],[-72.009888,46.572079],[-72.000938,46.571625]]]],"created":1292518127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/847_20101216_7762115b49.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

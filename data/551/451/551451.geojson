@@ -1,0 +1,15 @@
+{
+  "id": 551451,
+  "type": "Feature",
+  "properties": {
+    "name":"Baad, Vorarlberg, Austria",
+    "placetype":"locality",
+    "woe:id":551451,
+    "woe:name":"Baad, Vorarlberg, Austria",
+    "woe:place_id":"oTEu2XicBJ28xTU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.117442,47.293377,10.137977,47.314941],
+  "geometry": {"alpha":0.00015,"bbox":[10.117442131042,47.293376922607,10.137976646423,47.31494140625],"coordinates":[[[[10.121166,47.308834],[10.117442,47.30698],[10.119781,47.312759],[10.132441,47.314941],[10.135788,47.311768],[10.137977,47.293377],[10.121166,47.308834]]]],"created":1292541951,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/551451_20101216_f2f7252892.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

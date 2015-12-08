@@ -1,0 +1,15 @@
+{
+  "id": 20070618,
+  "type": "Feature",
+  "properties": {
+    "name":"Rivadavia, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070618,
+    "woe:name":"Rivadavia, Buenos Aires, Argentina",
+    "woe:place_id":"id0OJM.bAZy4ib6mOQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-62.986679,-35.504284,-62.972775,-35.481918],
+  "geometry": {"alpha":0.0015,"bbox":[-62.986679077148,-35.504283905029,-62.972774505615,-35.481918334961],"coordinates":[[[[-62.972775,-35.504284],[-62.986679,-35.498833],[-62.981186,-35.481918],[-62.977753,-35.492542],[-62.972775,-35.504284]]]],"created":1292538211,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20070618_20101216_76c3a24e60.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

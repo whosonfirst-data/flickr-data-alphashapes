@@ -1,0 +1,15 @@
+{
+  "id": 2382545,
+  "type": "Feature",
+  "properties": {
+    "name":"Coffee Ridge, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2382545,
+    "woe:name":"Coffee Ridge, Tennessee, United States",
+    "woe:place_id":"ANMg2wybApTeHfJP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.537537,36.035496,-82.525978,36.043129],
+  "geometry": {"alpha":0.00015,"bbox":[-82.537536621094,36.035495758057,-82.525978088379,36.043128967285],"coordinates":[[[[-82.527405,36.043129],[-82.52668,36.042515],[-82.525978,36.040031],[-82.528717,36.039928],[-82.537537,36.035496],[-82.536507,36.042637],[-82.527405,36.043129]]]],"created":1292537814,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2382545_20101216_dc3b480133.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23401255,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Albert, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23401255,
+    "woe:name":"St-Albert, Ontario, Canada",
+    "woe:place_id":"nWByR3WbApi7Di3kMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.123482,45.252773,-75.121376,45.255917],
+  "geometry": {"alpha":0.00015,"bbox":[-75.123481750488,45.252773284912,-75.121376037598,45.255916595459],"coordinates":[[[[-75.123184,45.253803],[-75.123482,45.255554],[-75.121933,45.255917],[-75.121376,45.252773],[-75.123184,45.253803]]]],"created":1292529437,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/23401255_20101216_f696951227.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

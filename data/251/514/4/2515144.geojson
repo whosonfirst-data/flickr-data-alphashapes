@@ -1,0 +1,15 @@
+{
+  "id": 2515144,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterloo, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2515144,
+    "woe:name":"Waterloo, South Carolina, United States",
+    "woe:place_id":"5dc2Zm2bBJ2CHi0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.070961,34.351387,-82.055725,34.361752],
+  "geometry": {"alpha":0.00015,"bbox":[-82.070960998535,34.351387023926,-82.055725097656,34.361751556396],"coordinates":[[[[-82.055832,34.352776],[-82.056389,34.351387],[-82.058609,34.351944],[-82.070961,34.361752],[-82.055725,34.358006],[-82.055832,34.352776]]]],"created":1248107526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3457/shapefiles/2515144_20090720_d3703b8828.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

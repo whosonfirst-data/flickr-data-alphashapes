@@ -1,0 +1,15 @@
+{
+  "id": 900401,
+  "type": "Feature",
+  "properties": {
+    "name":"Odensbacken, Orebro, Sweden",
+    "placetype":"locality",
+    "woe:id":900401,
+    "woe:name":"Odensbacken, Orebro, Sweden",
+    "woe:place_id":"VyGT71aQAZwohHU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.568442,59.213333,15.569804,59.214485],
+  "geometry": {"alpha":0.00015,"bbox":[15.568442344666,59.213333129883,15.569804191589,59.214485168457],"coordinates":[[[[15.568989,59.213757],[15.568442,59.214485],[15.569804,59.213333],[15.569531,59.213375],[15.568989,59.213757]]]],"created":1292519112,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/900401_20101216_b13cce69bd.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

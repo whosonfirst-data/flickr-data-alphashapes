@@ -1,0 +1,15 @@
+{
+  "id": 31337,
+  "type": "Feature",
+  "properties": {
+    "name":"Painscastle, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31337,
+    "woe:name":"Painscastle, Wales, United Kingdom",
+    "woe:place_id":"J7dM5LKaAJ8cSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.229122,52.095539,-3.199939,52.125584],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2291219234467,52.095539093018,-3.1999390125275,52.125583648682],"coordinates":[[[[-3.219337,52.108719],[-3.228607,52.095539],[-3.221397,52.109669],[-3.229122,52.125584],[-3.216075,52.112885],[-3.206977,52.11515],[-3.199939,52.098701],[-3.219337,52.108719]]]],"created":1292540898,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/31337_20101216_87aa03dde2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

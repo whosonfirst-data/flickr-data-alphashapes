@@ -1,0 +1,15 @@
+{
+  "id": 3213,
+  "type": "Feature",
+  "properties": {
+    "name":"Spragge, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3213,
+    "woe:name":"Spragge, Ontario, Canada",
+    "woe:place_id":"01DrIWeaA50V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.661819,46.20039,-82.65667,46.210487],
+  "geometry": {"alpha":0.00015,"bbox":[-82.661819458008,46.200389862061,-82.656669616699,46.210487365723],"coordinates":[[[[-82.657013,46.210487],[-82.65667,46.206802],[-82.65667,46.206032],[-82.661819,46.20039],[-82.658127,46.209061],[-82.657013,46.210487]]]],"created":1292539457,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/3213_20101216_8c88d443ab.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

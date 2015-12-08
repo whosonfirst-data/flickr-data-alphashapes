@@ -1,0 +1,15 @@
+{
+  "id": 28587209,
+  "type": "Feature",
+  "properties": {
+    "name":"Silverleaves, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28587209,
+    "woe:name":"Silverleaves, Victoria, Australia",
+    "woe:place_id":"qm1bnzGbCZlZFseT3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.260101,-38.467434,145.278046,-38.450027],
+  "geometry": {"alpha":0.00015,"bbox":[145.26010131836,-38.467433929443,145.2780456543,-38.45002746582],"coordinates":[[[[145.260101,-38.453449],[145.261749,-38.450027],[145.265335,-38.450668],[145.278046,-38.451706],[145.27565,-38.467434],[145.265686,-38.45668],[145.260101,-38.453449]]]],"created":1292503268,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/28587209_20101216_f762493a94.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

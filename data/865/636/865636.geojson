@@ -1,0 +1,15 @@
+{
+  "id": 865636,
+  "type": "Feature",
+  "properties": {
+    "name":"Veines, Finnmark Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":865636,
+    "woe:name":"Veines, Finnmark Fylke, Norway",
+    "woe:place_id":"tvIA8_GRB5ne3AA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.390146,70.729141,29.409,70.731667],
+  "geometry": {"alpha":0.00029296875,"bbox":[29.390146255493,70.729141235352,29.409000396729,70.731666564941],"coordinates":[[[[29.409,70.731667],[29.408623,70.731049],[29.408501,70.731003],[29.392036,70.729141],[29.390146,70.729218],[29.392002,70.729156],[29.409,70.731667]]]],"created":1292521961,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/865636_20101216_d0664852e7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

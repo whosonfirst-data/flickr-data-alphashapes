@@ -1,0 +1,15 @@
+{
+  "id": 2492913,
+  "type": "Feature",
+  "properties": {
+    "name":"Shiremanstown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2492913,
+    "woe:name":"Shiremanstown, Pennsylvania, United States",
+    "woe:place_id":"ZJcO8MebBZWb8baf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.958282,40.221294,-76.949898,40.231789],
+  "geometry": {"alpha":0.00015,"bbox":[-76.958282470703,40.221294403076,-76.949897766113,40.231788635254],"coordinates":[[[[-76.951462,40.22427],[-76.953323,40.221294],[-76.958282,40.224041],[-76.955017,40.231789],[-76.949898,40.226154],[-76.951462,40.22427]]]],"created":1292519944,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2492913_20101216_f20f8d4593.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

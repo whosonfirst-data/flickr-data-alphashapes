@@ -1,0 +1,15 @@
+{
+  "id": 2443630,
+  "type": "Feature",
+  "properties": {
+    "name":"Mabry, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2443630,
+    "woe:name":"Mabry, Texas, United States",
+    "woe:place_id":"lAFjzNibBZh.a.Jr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.141899,33.61964,-95.134308,33.622482],
+  "geometry": {"alpha":0.00015,"bbox":[-95.141899108887,33.619640350342,-95.134307861328,33.622482299805],"coordinates":[[[[-95.134308,33.61964],[-95.136192,33.620338],[-95.141899,33.622463],[-95.141815,33.622482],[-95.136238,33.620461],[-95.134308,33.61964]]]],"created":1292451844,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2443630_20101215_d53b0d75a5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

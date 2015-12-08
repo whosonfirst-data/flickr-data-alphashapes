@@ -1,0 +1,15 @@
+{
+  "id": 12654766,
+  "type": "Feature",
+  "properties": {
+    "name":"Wintzenheim, France",
+    "placetype":"locality",
+    "woe:id":12654766,
+    "woe:name":"Wintzenheim, France",
+    "woe:place_id":"4v4wfKeYA5o873g8Hg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.26325,48.059666,7.26994,48.067928],
+  "geometry": {"alpha":1e-05,"bbox":[7.263249874115,48.059665679932,7.2699398994446,48.067928314209],"coordinates":[[[[7.269515,48.059666],[7.26994,48.060211],[7.269515,48.062019],[7.268314,48.063168],[7.26325,48.066868],[7.264451,48.067928],[7.268314,48.063168],[7.268142,48.060356],[7.269515,48.059666]]]],"created":1292517726,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12654766_20101216_dc5544fd70.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

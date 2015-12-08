@@ -1,0 +1,15 @@
+{
+  "id": 2516241,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellington, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2516241,
+    "woe:name":"Wellington, Nevada, United States",
+    "woe:place_id":"OJBLCpqbBJ1qTTLG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.394791,38.748772,-119.365082,38.758633],
+  "geometry": {"alpha":0.00015,"bbox":[-119.39479064941,38.74877166748,-119.36508178711,38.758632659912],"coordinates":[[[[-119.365082,38.758633],[-119.372765,38.752838],[-119.394791,38.748772],[-119.376579,38.756611],[-119.365082,38.758633]]]],"created":1292470024,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2516241_20101216_2e50ac52b3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28744226,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyon, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744226,
+    "woe:name":"Lyon, Michigan, United States",
+    "woe:place_id":"JpzA4s6bCZuBNZKcVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.758919,44.462875,-84.737549,44.472992],
+  "geometry": {"alpha":0.00015,"bbox":[-84.758918762207,44.462875366211,-84.737548828125,44.472991943359],"coordinates":[[[[-84.737549,44.472992],[-84.742546,44.462875],[-84.758919,44.463375],[-84.745789,44.472992],[-84.737549,44.472992]]]],"created":1292550233,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28744226_20101217_c5f841eecc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

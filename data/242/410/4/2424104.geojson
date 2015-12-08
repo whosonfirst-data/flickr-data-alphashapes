@@ -1,0 +1,15 @@
+{
+  "id": 2424104,
+  "type": "Feature",
+  "properties": {
+    "name":"Hoopuloa, Hawaii, United States",
+    "placetype":"locality",
+    "woe:id":2424104,
+    "woe:name":"Hoopuloa, Hawaii, United States",
+    "woe:place_id":"y57O4kubBZ6yQLJM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-155.904938,19.20075,-155.891098,19.206253],
+  "geometry": {"alpha":0.00015,"bbox":[-155.90493774414,19.200750350952,-155.89109802246,19.206253051758],"coordinates":[[[[-155.900803,19.206253],[-155.896164,19.205564],[-155.891098,19.204794],[-155.898849,19.20075],[-155.904938,19.203478],[-155.900803,19.206253]]]],"created":1292549030,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2424104_20101217_f6a50214a0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

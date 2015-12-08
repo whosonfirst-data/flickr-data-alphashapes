@@ -1,0 +1,15 @@
+{
+  "id": 781707,
+  "type": "Feature",
+  "properties": {
+    "name":"Bachs, Canton of Zurich, Switzerland",
+    "placetype":"locality",
+    "woe:id":781707,
+    "woe:name":"Bachs, Canton of Zurich, Switzerland",
+    "woe:place_id":"yaudYkueCZ28IcU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.435955,47.515114,8.45323,47.53624],
+  "geometry": {"alpha":0.00015,"bbox":[8.4359550476074,47.515113830566,8.4532299041748,47.536239624023],"coordinates":[[[[8.435955,47.521423],[8.445825,47.534153],[8.452005,47.53624],[8.45323,47.53442],[8.451318,47.525185],[8.449859,47.515114],[8.435955,47.521423]]]],"created":1292505789,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/781707_20101216_2e458b756c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

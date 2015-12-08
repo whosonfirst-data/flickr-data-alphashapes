@@ -1,0 +1,15 @@
+{
+  "id": 55865708,
+  "type": "Feature",
+  "properties": {
+    "name":"Manzanera, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":55865708,
+    "woe:name":"Manzanera, Valencia, Spain",
+    "woe:place_id":"08RBqvmcBJTCLfFJ3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.034332,38.636719,0.042121,38.640835],
+  "geometry": {"alpha":0.00015,"bbox":[0.034331999719143,38.63671875,0.04212100058794,38.64083480835],"coordinates":[[[[0.041499,38.640835],[0.041713,38.640675],[0.042121,38.640373],[0.041595,38.638889],[0.034332,38.636719],[0.041,38.640499],[0.041499,38.640835]]]],"created":1292514962,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/55865708_20101216_dec3064535.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

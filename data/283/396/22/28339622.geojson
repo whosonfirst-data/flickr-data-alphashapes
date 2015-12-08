@@ -1,0 +1,15 @@
+{
+  "id": 28339622,
+  "type": "Feature",
+  "properties": {
+    "name":"Dundee, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":28339622,
+    "woe:name":"Dundee, New Jersey, United States",
+    "woe:place_id":"bsY76XubCZ_haS7EEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.136131,40.848293,-74.122696,40.86459],
+  "geometry": {"alpha":0.00015,"bbox":[-74.136131286621,40.848293304443,-74.122695922852,40.864589691162],"coordinates":[[[[-74.122696,40.856491],[-74.130676,40.848293],[-74.136131,40.855888],[-74.129219,40.861343],[-74.122696,40.86459],[-74.122696,40.856491]]]],"created":1292550124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/28339622_20101217_841a195cd9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

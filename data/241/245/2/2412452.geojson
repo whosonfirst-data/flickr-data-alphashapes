@@ -1,0 +1,15 @@
+{
+  "id": 2412452,
+  "type": "Feature",
+  "properties": {
+    "name":"Goucher Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2412452,
+    "woe:name":"Goucher Woods, Maryland, United States",
+    "woe:place_id":"wLeWkDibBZ2GGOgS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.589531,39.396832,-76.58123,39.400169],
+  "geometry": {"alpha":0.00015,"bbox":[-76.589530944824,39.396831512451,-76.581230163574,39.400169372559],"coordinates":[[[[-76.582916,39.397972],[-76.58123,39.397404],[-76.585167,39.396832],[-76.589531,39.400169],[-76.587128,39.399139],[-76.582916,39.397972]]]],"created":1292500445,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2412452_20101216_0105c0d887.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

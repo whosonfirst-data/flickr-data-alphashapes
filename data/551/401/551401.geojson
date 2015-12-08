@@ -1,0 +1,15 @@
+{
+  "id": 551401,
+  "type": "Feature",
+  "properties": {
+    "name":"Wenns, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":551401,
+    "woe:name":"Wenns, Tyrol, Austria",
+    "woe:place_id":"f9Q2iFycBJ2abBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.726425,47.159416,10.734946,47.173618],
+  "geometry": {"alpha":0.00015,"bbox":[10.726425170898,47.15941619873,10.734946250916,47.17361831665],"coordinates":[[[[10.729007,47.167309],[10.731969,47.173618],[10.734946,47.167294],[10.732878,47.161339],[10.726425,47.159416],[10.728921,47.166348],[10.729007,47.167309]]]],"created":1292538450,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/551401_20101216_f347ea3772.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 720225,
+  "type": "Feature",
+  "properties": {
+    "name":"Pestarena, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":720225,
+    "woe:name":"Pestarena, Piedmont, Italy",
+    "woe:place_id":"CXQVE8ueA5xVyM8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.984838,45.95293,7.995435,45.959751],
+  "geometry": {"alpha":0.00015,"bbox":[7.9848380088806,45.952930450439,7.9954352378845,45.95975112915],"coordinates":[[[[7.987278,45.95443],[7.986373,45.953476],[7.984838,45.95293],[7.985229,45.953876],[7.987258,45.955223],[7.995435,45.959751],[7.987278,45.95443]]]],"created":1292530587,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/720225_20101216_559764cc08.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28747431,
+  "type": "Feature",
+  "properties": {
+    "name":"Tenino Junction, Washington, United States",
+    "placetype":"locality",
+    "woe:id":28747431,
+    "woe:name":"Tenino Junction, Washington, United States",
+    "woe:place_id":"NlUfHFmbCZvwsIc6dw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.879333,46.839134,-122.868401,46.843754],
+  "geometry": {"alpha":0.00015,"bbox":[-122.87933349609,46.839134216309,-122.86840057373,46.843753814697],"coordinates":[[[[-122.868637,46.839138],[-122.879333,46.843754],[-122.868637,46.841839],[-122.868401,46.839153],[-122.868401,46.839134],[-122.868637,46.839138]]]],"created":1292457742,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/28747431_20101216_99193ff163.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

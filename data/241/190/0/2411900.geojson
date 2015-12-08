@@ -1,0 +1,15 @@
+{
+  "id": 2411900,
+  "type": "Feature",
+  "properties": {
+    "name":"Golf, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2411900,
+    "woe:name":"Golf, Florida, United States",
+    "woe:place_id":"PMzU7bSbBZ2fkNgc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.105438,26.504066,-80.098892,26.507725],
+  "geometry": {"alpha":0.00015,"bbox":[-80.105438232422,26.504066467285,-80.098892211914,26.507724761963],"coordinates":[[[[-80.098892,26.506525],[-80.105438,26.504066],[-80.103256,26.50639],[-80.100479,26.507725],[-80.098892,26.506525]]]],"created":1292531623,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2411900_20101216_2556c522fa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

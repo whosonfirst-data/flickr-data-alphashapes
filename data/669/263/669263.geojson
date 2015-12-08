@@ -1,0 +1,15 @@
+{
+  "id": 669263,
+  "type": "Feature",
+  "properties": {
+    "name":"Kubach, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":669263,
+    "woe:name":"Kubach, Hesse, Germany",
+    "woe:place_id":"QM284OKfB5V3LDc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.296694,50.472591,8.31356,50.482933],
+  "geometry": {"alpha":0.00015,"bbox":[8.2966938018799,50.472591400146,8.3135595321655,50.482933044434],"coordinates":[[[[8.301018,50.472626],[8.296694,50.472591],[8.300943,50.473019],[8.30502,50.47485],[8.31356,50.482933],[8.308732,50.474289],[8.301018,50.472626]]]],"created":1292535019,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/669263_20101216_1c22dab93c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

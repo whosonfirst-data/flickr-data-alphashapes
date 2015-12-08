@@ -1,0 +1,15 @@
+{
+  "id": 12518520,
+  "type": "Feature",
+  "properties": {
+    "name":"Acadiana Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12518520,
+    "woe:name":"Acadiana Regional Airport, United States",
+    "woe:place_id":"AOKGMqyYA5khu_LCRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.878609,30.031389,-91.875465,30.032072],
+  "geometry": {"alpha":1e-05,"bbox":[-91.878608703613,30.03138923645,-91.875465393066,30.032072067261],"coordinates":[[[[-91.878563,30.031389],[-91.878586,30.031738],[-91.878609,30.032072],[-91.875465,30.03191],[-91.877655,30.031593],[-91.878563,30.031389]]]],"created":1248042964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2431/shapefiles/12518520_20090719_47a9d835c4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

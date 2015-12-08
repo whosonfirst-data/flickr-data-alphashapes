@@ -1,0 +1,15 @@
+{
+  "id": 23394433,
+  "type": "Feature",
+  "properties": {
+    "name":"Montpellier, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394433,
+    "woe:name":"Montpellier, Quebec, Canada",
+    "woe:place_id":"sdN0_UKbAp8PXiRxKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.180817,45.852776,-75.15567,45.879372],
+  "geometry": {"alpha":0.00015,"bbox":[-75.180816650391,45.85277557373,-75.155670166016,45.879371643066],"coordinates":[[[[-75.176613,45.853283],[-75.177811,45.852776],[-75.180817,45.857021],[-75.168457,45.860847],[-75.15567,45.879372],[-75.160217,45.855587],[-75.164078,45.853462],[-75.176613,45.853283]]]],"created":1292526808,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/23394433_20101216_aa4b7c4355.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12680108,
+  "type": "Feature",
+  "properties": {
+    "name":"Laghi, Italy",
+    "placetype":"locality",
+    "woe:id":12680108,
+    "woe:name":"Laghi, Italy",
+    "woe:place_id":"7G0dwleYA5r5BNcekw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.270534,45.823978,11.274719,45.825687],
+  "geometry": {"alpha":1e-05,"bbox":[11.270533561707,45.823978424072,11.274719238281,45.825687408447],"coordinates":[[[[11.270534,45.824673],[11.2715,45.82539],[11.274719,45.825687],[11.272959,45.823978],[11.270534,45.824673]]]],"created":1239399004,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3338/shapefiles/12680108_20090410_261ffe1071.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

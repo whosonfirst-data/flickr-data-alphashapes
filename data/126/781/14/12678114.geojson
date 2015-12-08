@@ -1,0 +1,15 @@
+{
+  "id": 12678114,
+  "type": "Feature",
+  "properties": {
+    "name":"Minucciano, Italy",
+    "placetype":"locality",
+    "woe:id":12678114,
+    "woe:name":"Minucciano, Italy",
+    "woe:place_id":"9wxi2dOYA5rakaMMPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.151367,44.16914,10.154778,44.170509],
+  "geometry": {"alpha":1e-05,"bbox":[10.1513671875,44.169139862061,10.154777526855,44.170509338379],"coordinates":[[[[10.151367,44.170509],[10.153534,44.169647],[10.154778,44.169552],[10.152676,44.16914],[10.151367,44.170509]]]],"created":1292547035,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12678114_20101217_cd45fe362a.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

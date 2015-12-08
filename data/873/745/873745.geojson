@@ -1,0 +1,15 @@
+{
+  "id": 873745,
+  "type": "Feature",
+  "properties": {
+    "name":"Homorod, Brasov, Romania",
+    "placetype":"locality",
+    "woe:id":873745,
+    "woe:name":"Homorod, Brasov, Romania",
+    "woe:place_id":"c_EQByyRBp_cP44",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.250568,46.031055,25.281258,46.059414],
+  "geometry": {"alpha":0.00015,"bbox":[25.250568389893,46.031055450439,25.281257629395,46.059413909912],"coordinates":[[[[25.26495,46.052265],[25.279541,46.059414],[25.281258,46.042259],[25.274048,46.031055],[25.266701,46.049999],[25.250568,46.035355],[25.26495,46.052265]]]],"created":1292522014,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/873745_20101216_5f81bb1029.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

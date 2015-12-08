@@ -1,0 +1,15 @@
+{
+  "id": 12631299,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Sagard, Germany",
+    "placetype":"locality",
+    "woe:id":12631299,
+    "woe:name":"Gemeinde Sagard, Germany",
+    "woe:place_id":"VJh4KMyYA5rE328MmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.541677,54.550762,13.541713,54.550861],
+  "geometry": {"alpha":1e-05,"bbox":[13.541677474976,54.550762176514,13.541712760925,54.550861358643],"coordinates":[[[[13.541705,54.550861],[13.541713,54.550762],[13.541688,54.550781],[13.541677,54.550861],[13.541705,54.550861]]]],"created":1292501466,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12631299_20101216_2c4a7fc2c4.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

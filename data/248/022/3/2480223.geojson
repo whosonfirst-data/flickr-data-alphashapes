@@ -1,0 +1,15 @@
+{
+  "id": 2480223,
+  "type": "Feature",
+  "properties": {
+    "name":"Renoville, California, United States",
+    "placetype":"locality",
+    "woe:id":2480223,
+    "woe:name":"Renoville, California, United States",
+    "woe:place_id":"Mg.WgtqbBZT.p9s8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.235176,35.586967,-116.226936,35.595482],
+  "geometry": {"alpha":0.00015,"bbox":[-116.23517608643,35.586967468262,-116.22693634033,35.595481872559],"coordinates":[[[[-116.231056,35.591156],[-116.235176,35.595482],[-116.231918,35.593529],[-116.226936,35.587318],[-116.227112,35.586967],[-116.231056,35.591156]]]],"created":1292507285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2480223_20101216_dc6855afa5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

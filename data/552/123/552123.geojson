@@ -1,0 +1,15 @@
+{
+  "id": 552123,
+  "type": "Feature",
+  "properties": {
+    "name":"Atterup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":552123,
+    "woe:name":"Atterup, Sjaelland, Denmark",
+    "woe:place_id":"IHHiHIqcBJ5kFN8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.639499,55.80022,11.640802,55.802544],
+  "geometry": {"alpha":0.00015,"bbox":[11.639498710632,55.800220489502,11.640802383423,55.802543640137],"coordinates":[[[[11.640144,55.802505],[11.64023,55.80254],[11.640241,55.802544],[11.640802,55.802406],[11.639499,55.80022],[11.640138,55.802475],[11.640144,55.802505]]]],"created":1247981042,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2675/shapefiles/552123_20090719_c0d8062f68.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

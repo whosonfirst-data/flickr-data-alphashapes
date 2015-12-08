@@ -1,0 +1,15 @@
+{
+  "id": 2396310,
+  "type": "Feature",
+  "properties": {
+    "name":"East Waterboro, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2396310,
+    "woe:name":"East Waterboro, Maine, United States",
+    "woe:place_id":"UGa4JS.bApWWQRlp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.693756,43.571281,-70.677505,43.58049],
+  "geometry": {"alpha":0.00015,"bbox":[-70.693756103516,43.571281433105,-70.677505493164,43.580490112305],"coordinates":[[[[-70.690536,43.576046],[-70.686172,43.58049],[-70.677505,43.571281],[-70.689911,43.575939],[-70.693756,43.574421],[-70.690536,43.576046]]]],"created":1292456625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2396310_20101215_2e2fcfa622.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

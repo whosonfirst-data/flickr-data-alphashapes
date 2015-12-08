@@ -1,0 +1,15 @@
+{
+  "id": 2378205,
+  "type": "Feature",
+  "properties": {
+    "name":"Chapman Corner, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2378205,
+    "woe:name":"Chapman Corner, Oregon, United States",
+    "woe:place_id":"dvN9TRSbApsfcFAC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.107605,44.961365,-123.10318,44.967468],
+  "geometry": {"alpha":0.00015,"bbox":[-123.10760498047,44.961364746094,-123.10317993164,44.967468261719],"coordinates":[[[[-123.107605,44.964706],[-123.107574,44.964874],[-123.10318,44.967468],[-123.103264,44.961365],[-123.107567,44.964661],[-123.107605,44.964706]]]],"created":1247789530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3446/shapefiles/2378205_20090717_151c36956d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

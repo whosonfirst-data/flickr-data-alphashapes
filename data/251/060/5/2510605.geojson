@@ -1,0 +1,15 @@
+{
+  "id": 2510605,
+  "type": "Feature",
+  "properties": {
+    "name":"Vail, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2510605,
+    "woe:name":"Vail, Iowa, United States",
+    "woe:place_id":"Yf2FUqabBJ0_OmdS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.208847,42.055538,-95.196358,42.072647],
+  "geometry": {"alpha":0.00015,"bbox":[-95.208847045898,42.05553817749,-95.196357727051,42.072647094727],"coordinates":[[[[-95.206657,42.055538],[-95.208847,42.064651],[-95.197731,42.072647],[-95.196358,42.066879],[-95.199623,42.061272],[-95.206657,42.055538]]]],"created":1292547188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2510605_20101217_5e12dd7a5b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

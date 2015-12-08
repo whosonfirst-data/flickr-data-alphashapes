@@ -1,0 +1,15 @@
+{
+  "id": 2378306,
+  "type": "Feature",
+  "properties": {
+    "name":"Charleston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2378306,
+    "woe:name":"Charleston, Pennsylvania, United States",
+    "woe:place_id":"o5dVFYSbApufdlDJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.302597,41.744316,-77.291176,41.750431],
+  "geometry": {"alpha":0.00015,"bbox":[-77.302597045898,41.744316101074,-77.291175842285,41.750431060791],"coordinates":[[[[-77.299973,41.749416],[-77.299171,41.749451],[-77.291695,41.750431],[-77.291176,41.744781],[-77.298698,41.744316],[-77.302582,41.747089],[-77.302597,41.747223],[-77.302376,41.747978],[-77.299973,41.749416]]]],"created":1292526462,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2378306_20101216_e1843f9295.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

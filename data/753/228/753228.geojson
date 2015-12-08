@@ -1,0 +1,15 @@
+{
+  "id": 753228,
+  "type": "Feature",
+  "properties": {
+    "name":"Asma, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":753228,
+    "woe:name":"Asma, Galicia, Spain",
+    "woe:place_id":"CgMIkrGeBJ9FLwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.717895,42.61113,-7.70642,42.618099],
+  "geometry": {"alpha":0.00015,"bbox":[-7.7178950309753,42.611129760742,-7.7064199447632,42.618099212646],"coordinates":[[[[-7.70667,42.618099],[-7.70642,42.617908],[-7.70842,42.614491],[-7.71085,42.61113],[-7.717895,42.616276],[-7.70667,42.618099]]]],"created":1292453704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/753228_20101215_a1eeb8a452.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

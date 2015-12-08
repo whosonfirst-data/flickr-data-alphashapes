@@ -1,0 +1,15 @@
+{
+  "id": 679893,
+  "type": "Feature",
+  "properties": {
+    "name":"Niedersonthofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":679893,
+    "woe:name":"Niedersonthofen, Bavaria, Germany",
+    "woe:place_id":"ntfWf7WfBpWANc4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.230706,47.626835,10.259009,47.646496],
+  "geometry": {"alpha":0.00015,"bbox":[10.230706214905,47.626834869385,10.259009361267,47.646495819092],"coordinates":[[[[10.230706,47.629173],[10.231189,47.630981],[10.244879,47.643013],[10.253505,47.646496],[10.259009,47.631084],[10.239333,47.626835],[10.230706,47.629173]]]],"created":1292530505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/679893_20101216_09fd3b6279.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

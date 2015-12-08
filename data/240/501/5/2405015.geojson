@@ -1,0 +1,15 @@
+{
+  "id": 2405015,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2405015,
+    "woe:name":"Forest, Mississippi, United States",
+    "woe:place_id":"BHpABRKbBZwD_dwG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.480209,32.341961,-89.456955,32.366611],
+  "geometry": {"alpha":0.00015,"bbox":[-89.480209350586,32.341960906982,-89.456954956055,32.366611480713],"coordinates":[[[[-89.461823,32.342377],[-89.465462,32.341961],[-89.469017,32.342667],[-89.480209,32.359661],[-89.474823,32.362915],[-89.472763,32.362949],[-89.46656,32.363506],[-89.456955,32.366611],[-89.458389,32.343464],[-89.459595,32.342739],[-89.461823,32.342377]]]],"created":1292551511,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2405015_20101217_00f50324ec.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

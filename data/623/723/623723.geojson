@@ -1,0 +1,15 @@
+{
+  "id": 623723,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Denis, Centre, France",
+    "placetype":"locality",
+    "woe:id":623723,
+    "woe:name":"St-Denis, Centre, France",
+    "woe:place_id":"6t7GPqyfA58Jcq0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.956124,47.87698,1.962261,47.899773],
+  "geometry": {"alpha":0.00015,"bbox":[1.9561239480972,47.876979827881,1.9622609615326,47.899772644043],"coordinates":[[[[1.956959,47.878658],[1.956424,47.87698],[1.956124,47.878864],[1.962261,47.899773],[1.956959,47.878658]]]],"created":1292546167,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/623723_20101217_e36f339d8e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

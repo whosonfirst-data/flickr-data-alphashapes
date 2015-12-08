@@ -1,0 +1,15 @@
+{
+  "id": 12637308,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardouval, France",
+    "placetype":"locality",
+    "woe:id":12637308,
+    "woe:name":"Ardouval, France",
+    "woe:place_id":"d6SX0x.YA5rioMFH6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.270723,49.731079,1.277503,49.734798],
+  "geometry": {"alpha":1e-05,"bbox":[1.2707229852676,49.731079101562,1.2775030136108,49.734798431396],"coordinates":[[[[1.276988,49.732468],[1.277503,49.732025],[1.2751,49.731689],[1.271495,49.731136],[1.270723,49.731079],[1.272697,49.734798],[1.276988,49.732468]]]],"created":1292461443,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12637308_20101216_fd5c3ec15b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

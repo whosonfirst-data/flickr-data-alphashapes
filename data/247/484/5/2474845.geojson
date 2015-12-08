@@ -1,0 +1,15 @@
+{
+  "id": 2474845,
+  "type": "Feature",
+  "properties": {
+    "name":"Pomeroy, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2474845,
+    "woe:name":"Pomeroy, Iowa, United States",
+    "woe:place_id":"lO5RyXabBZva6II7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.688568,42.550644,-94.683693,42.553333],
+  "geometry": {"alpha":0.00015,"bbox":[-94.688568115234,42.550643920898,-94.683692932129,42.553333282471],"coordinates":[[[[-94.684639,42.551182],[-94.685196,42.550896],[-94.688416,42.550644],[-94.688568,42.552906],[-94.683693,42.553333],[-94.684639,42.551182]]]],"created":1292452090,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2474845_20101215_08fffceb9d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

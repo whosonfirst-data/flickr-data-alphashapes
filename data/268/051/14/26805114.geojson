@@ -1,0 +1,15 @@
+{
+  "id": 26805114,
+  "type": "Feature",
+  "properties": {
+    "name":"Peninsula de Macanao, Venezuela",
+    "placetype":"locality",
+    "woe:id":26805114,
+    "woe:name":"Peninsula de Macanao, Venezuela",
+    "woe:place_id":"fbyIBrKbB5SVj8a7YA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.410782,10.973634,-64.405113,10.979616],
+  "geometry": {"alpha":1e-05,"bbox":[-64.410781860352,10.973633766174,-64.405113220215,10.979616165161],"coordinates":[[[[-64.405975,10.973634],[-64.40786,10.974308],[-64.410782,10.979616],[-64.405113,10.979448],[-64.405457,10.978015],[-64.405975,10.973634]]]],"created":1292486896,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/26805114_20101216_57a860e81b.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2481786,
+  "type": "Feature",
+  "properties": {
+    "name":"River Bend, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2481786,
+    "woe:name":"River Bend, Louisiana, United States",
+    "woe:place_id":"sWjSiw.bBZT1GqCH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.897263,29.881582,-89.890411,29.887835],
+  "geometry": {"alpha":0.00015,"bbox":[-89.897262573242,29.881582260132,-89.890411376953,29.88783454895],"coordinates":[[[[-89.890419,29.881618],[-89.890411,29.881582],[-89.890434,29.881607],[-89.897263,29.887835],[-89.890427,29.881653],[-89.890419,29.881618]]]],"created":1292549322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2481786_20101217_59765d49a6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722595,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giorgio in Salici, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722595,
+    "woe:name":"San Giorgio in Salici, Veneto, Italy",
+    "woe:place_id":"zh0uVL2eA57ZGQE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.786578,45.426167,10.789582,45.428757],
+  "geometry": {"alpha":0.00015,"bbox":[10.786578178406,45.426166534424,10.789582252502,45.428756713867],"coordinates":[[[[10.789346,45.426167],[10.786578,45.42625],[10.787715,45.42725],[10.789582,45.428757],[10.789346,45.426167]]]],"created":1234585451,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3337/shapefiles/722595_20090214_fb6518c7c3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

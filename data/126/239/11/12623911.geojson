@@ -1,0 +1,15 @@
+{
+  "id": 12623911,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kuppenheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623911,
+    "woe:name":"Gemeinde Kuppenheim, Germany",
+    "woe:place_id":"iDagLQWYA5oJkUj0VQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.294892,48.816868,8.296722,48.819668],
+  "geometry": {"alpha":1e-05,"bbox":[8.2948923110962,48.816867828369,8.2967224121094,48.819667816162],"coordinates":[[[[8.295083,48.816883],[8.295066,48.816868],[8.294892,48.817841],[8.296722,48.819668],[8.295192,48.817589],[8.295083,48.816883]]]],"created":1292547148,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12623911_20101217_5b5b3dec09.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

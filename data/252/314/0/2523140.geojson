@@ -1,0 +1,15 @@
+{
+  "id": 2523140,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodlake, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2523140,
+    "woe:name":"Woodlake, Mississippi, United States",
+    "woe:place_id":"BDjp9xGbBJ7u32Sn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.039505,32.392139,-90.038452,32.392925],
+  "geometry": {"alpha":0.00015,"bbox":[-90.039505004883,32.392139434814,-90.038452148438,32.392925262451],"coordinates":[[[[-90.039505,32.392395],[-90.039436,32.392925],[-90.039368,32.392899],[-90.038452,32.392139],[-90.039505,32.392395]]]],"created":1292441168,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2523140_20101215_95df3aaf2e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

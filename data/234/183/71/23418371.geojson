@@ -1,0 +1,15 @@
+{
+  "id": 23418371,
+  "type": "Feature",
+  "properties": {
+    "name":"Hill View Heights, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":23418371,
+    "woe:name":"Hill View Heights, Wyoming, United States",
+    "woe:place_id":"q9_mTuubApiC8Cg82g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.135071,43.813164,-104.105843,43.824139],
+  "geometry": {"alpha":0.00015,"bbox":[-104.13507080078,43.813163757324,-104.10584259033,43.824138641357],"coordinates":[[[[-104.120346,43.824139],[-104.105843,43.81337],[-104.110481,43.813164],[-104.114693,43.814758],[-104.135071,43.81937],[-104.120346,43.824139]]]],"created":1292520231,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/23418371_20101216_6cef67469b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

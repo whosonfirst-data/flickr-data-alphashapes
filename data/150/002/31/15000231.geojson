@@ -1,0 +1,15 @@
+{
+  "id": 15000231,
+  "type": "Feature",
+  "properties": {
+    "name":"Donato, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000231,
+    "woe:name":"Donato, Piedmont, Italy",
+    "woe:place_id":"iWvVjLCYBJxqllPCAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.899684,45.522224,7.923202,45.576141],
+  "geometry": {"alpha":0.0001875,"bbox":[7.8996839523315,45.52222442627,7.9232020378113,45.576141357422],"coordinates":[[[[7.901916,45.52475],[7.900307,45.536144],[7.899684,45.558655],[7.90183,45.576141],[7.907409,45.558777],[7.920627,45.538189],[7.923202,45.522224],[7.901916,45.52475]]]],"created":1292513647,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/15000231_20101216_57c80bf6f6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

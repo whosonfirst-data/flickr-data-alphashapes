@@ -1,0 +1,15 @@
+{
+  "id": 603738,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Monteil, Limousin, France",
+    "placetype":"locality",
+    "woe:id":603738,
+    "woe:name":"Le Monteil, Limousin, France",
+    "woe:place_id":"nIO8Ob2fAZ99Rd4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.937026,45.932648,1.939773,45.933006],
+  "geometry": {"alpha":0.00015,"bbox":[1.9370260238647,45.932647705078,1.9397729635239,45.933006286621],"coordinates":[[[[1.939086,45.933006],[1.939773,45.933006],[1.938743,45.932648],[1.938056,45.932766],[1.937026,45.932884],[1.939086,45.933006]]]],"created":1292491449,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/603738_20101216_1a8bd4c9b4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

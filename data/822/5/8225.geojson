@@ -1,0 +1,15 @@
+{
+  "id": 8225,
+  "type": "Feature",
+  "properties": {
+    "name":"La Corey, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8225,
+    "woe:name":"La Corey, Alberta, Canada",
+    "woe:place_id":"hnS8dgSRA54J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.760429,54.424648,-110.758308,54.434559],
+  "geometry": {"alpha":0.00015,"bbox":[-110.76042938232,54.424648284912,-110.75830841064,54.434558868408],"coordinates":[[[[-110.758308,54.427723],[-110.759148,54.426041],[-110.760254,54.424648],[-110.760429,54.427567],[-110.759567,54.434559],[-110.758308,54.427723]]]],"created":1292450401,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/8225_20101215_c33fb50680.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

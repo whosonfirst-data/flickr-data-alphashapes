@@ -1,0 +1,15 @@
+{
+  "id": 2468747,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkway, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2468747,
+    "woe:name":"Parkway, Missouri, United States",
+    "woe:place_id":"bwP7iqqbBZp9.6sX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.994995,38.320042,-90.97171,38.33699],
+  "geometry": {"alpha":0.00015,"bbox":[-90.994995117188,38.320041656494,-90.971710205078,38.336990356445],"coordinates":[[[[-90.992119,38.320042],[-90.994995,38.324387],[-90.993149,38.328865],[-90.97171,38.33699],[-90.9851,38.323189],[-90.992119,38.320042]]]],"created":1292524352,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2468747_20101216_3e7f768b45.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1104250,
+  "type": "Feature",
+  "properties": {
+    "name":"Mourilyan, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1104250,
+    "woe:name":"Mourilyan, Queensland, Australia",
+    "woe:place_id":"1u3IF3yYAJxEB63X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.031479,-17.584221,146.053619,-17.561556],
+  "geometry": {"alpha":0.00015,"bbox":[146.03147888184,-17.58422088623,146.05361938477,-17.561555862427],"coordinates":[[[[146.040405,-17.584221],[146.035416,-17.581766],[146.031479,-17.578739],[146.040955,-17.581551],[146.053619,-17.561556],[146.042557,-17.582956],[146.040405,-17.584221]]]],"created":1292523160,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/1104250_20101216_809c3a7d84.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

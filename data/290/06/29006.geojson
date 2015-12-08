@@ -1,0 +1,15 @@
+{
+  "id": 29006,
+  "type": "Feature",
+  "properties": {
+    "name":"Millpool, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29006,
+    "woe:name":"Millpool, England, United Kingdom",
+    "woe:place_id":"WSCwoQObCJwrvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.661979,50.49778,-4.636745,50.509823],
+  "geometry": {"alpha":0.00015,"bbox":[-4.6619791984558,50.497779846191,-4.6367449760437,50.509822845459],"coordinates":[[[[-4.654083,50.503601],[-4.655113,50.502728],[-4.661059,50.49778],[-4.661979,50.505238],[-4.657001,50.507313],[-4.636745,50.509823],[-4.654083,50.503601]]]],"created":1292547415,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/29006_20101217_d7def5f708.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

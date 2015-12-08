@@ -1,0 +1,15 @@
+{
+  "id": 712763,
+  "type": "Feature",
+  "properties": {
+    "name":"Casaglia, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":712763,
+    "woe:name":"Casaglia, Tuscany, Italy",
+    "woe:place_id":"mK_THOCeAJ5s6Zo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.493441,44.035435,11.521911,44.05373],
+  "geometry": {"alpha":0.00015,"bbox":[11.493440628052,44.0354347229,11.521910667419,44.053730010986],"coordinates":[[[[11.508178,44.035435],[11.493441,44.038631],[11.509552,44.049103],[11.521396,44.05373],[11.521911,44.048611],[11.516375,44.037289],[11.508178,44.035435]]]],"created":1292456045,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/712763_20101215_f689b7225e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

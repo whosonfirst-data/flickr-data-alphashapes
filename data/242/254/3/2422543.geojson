@@ -1,0 +1,15 @@
+{
+  "id": 2422543,
+  "type": "Feature",
+  "properties": {
+    "name":"Hitchita, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2422543,
+    "woe:name":"Hitchita, Oklahoma, United States",
+    "woe:place_id":"WBh_EGCbBZ5YgnnG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.794968,35.49939,-95.776146,35.509346],
+  "geometry": {"alpha":0.00015,"bbox":[-95.794967651367,35.499389648438,-95.776145935059,35.509346008301],"coordinates":[[[[-95.780609,35.506866],[-95.786446,35.49939],[-95.794968,35.50671],[-95.781425,35.509346],[-95.776146,35.508335],[-95.780609,35.506866]]]],"created":1292512689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2422543_20101216_7db39e2c0c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

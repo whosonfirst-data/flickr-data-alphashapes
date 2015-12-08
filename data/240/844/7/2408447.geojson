@@ -1,0 +1,15 @@
+{
+  "id": 2408447,
+  "type": "Feature",
+  "properties": {
+    "name":"Gales Landing, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2408447,
+    "woe:name":"Gales Landing, Oregon, United States",
+    "woe:place_id":"3_q2FTabBZxB7toM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.801041,43.782993,-121.762329,43.804985],
+  "geometry": {"alpha":0.00015,"bbox":[-121.80104064941,43.78299331665,-121.76232910156,43.804985046387],"coordinates":[[[[-121.789627,43.782993],[-121.801041,43.803932],[-121.784134,43.804985],[-121.762329,43.797489],[-121.778297,43.787159],[-121.789627,43.782993]]]],"created":1292485870,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2408447_20101216_49abe60ec8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

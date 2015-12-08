@@ -1,0 +1,15 @@
+{
+  "id": 12631708,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Nahe, Germany",
+    "placetype":"locality",
+    "woe:id":12631708,
+    "woe:name":"Gemeinde Nahe, Germany",
+    "woe:place_id":"3Zfu7feYA5rPx555rw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.128943,53.789902,10.131862,53.794212],
+  "geometry": {"alpha":1e-05,"bbox":[10.128943443298,53.789901733398,10.131861686707,53.794212341309],"coordinates":[[[[10.130853,53.789902],[10.128943,53.790676],[10.13154,53.794212],[10.131862,53.792122],[10.130853,53.789902]]]],"created":1292526664,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12631708_20101216_e5b38c7f4d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

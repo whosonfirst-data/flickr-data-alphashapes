@@ -1,0 +1,15 @@
+{
+  "id": 1096966,
+  "type": "Feature",
+  "properties": {
+    "name":"Longwarry, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1096966,
+    "woe:name":"Longwarry, Victoria, Australia",
+    "woe:place_id":"lAvNTLGYAZX4QYaO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.76622,-38.116577,145.772034,-38.109928],
+  "geometry": {"alpha":0.00015,"bbox":[145.76622009277,-38.116577148438,145.77203369141,-38.109928131104],"coordinates":[[[[145.76622,-38.116421],[145.767395,-38.111061],[145.772034,-38.109928],[145.771988,-38.110046],[145.769058,-38.112484],[145.766296,-38.116577],[145.76622,-38.116421]]]],"created":1292525401,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/1096966_20101216_36e36bd035.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

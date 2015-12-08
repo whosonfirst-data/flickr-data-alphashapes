@@ -1,0 +1,15 @@
+{
+  "id": 1334,
+  "type": "Feature",
+  "properties": {
+    "name":"Ripley, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1334,
+    "woe:name":"Ripley, Ontario, Canada",
+    "woe:place_id":"xlh3Ww6YAp8v",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.592712,44.040218,-81.569366,44.072926],
+  "geometry": {"alpha":0.00015,"bbox":[-81.592712402344,44.040218353271,-81.569366455078,44.072925567627],"coordinates":[[[[-81.578011,44.070259],[-81.570717,44.066296],[-81.574944,44.072514],[-81.578232,44.072926],[-81.579666,44.071945],[-81.592712,44.052803],[-81.569366,44.046757],[-81.575027,44.040218],[-81.592712,44.052803],[-81.578011,44.070259]]]],"created":1292546346,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/1334_20101217_84960d0481.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

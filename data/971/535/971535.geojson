@@ -1,0 +1,15 @@
+{
+  "id": 971535,
+  "type": "Feature",
+  "properties": {
+    "name":"Houttave, West-Vlaanderen, Belgium",
+    "placetype":"locality",
+    "woe:id":971535,
+    "woe:name":"Houttave, West-Vlaanderen, Belgium",
+    "woe:place_id":"5pLwJQCQBp2RIbo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.111669,51.240101,3.113425,51.242905],
+  "geometry": {"alpha":0.00015,"bbox":[3.1116690635681,51.240100860596,3.1134250164032,51.242904663086],"coordinates":[[[[3.113425,51.240101],[3.111677,51.242184],[3.111669,51.242237],[3.111675,51.242905],[3.112888,51.241112],[3.113425,51.240101]]]],"created":1247833686,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2484/shapefiles/971535_20090717_5396077214.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

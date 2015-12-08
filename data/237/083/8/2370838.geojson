@@ -1,0 +1,15 @@
+{
+  "id": 2370838,
+  "type": "Feature",
+  "properties": {
+    "name":"Brussels, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2370838,
+    "woe:name":"Brussels, Wisconsin, United States",
+    "woe:place_id":"Xaf0cIibApvTMd8K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.636116,44.733669,-87.600342,44.752705],
+  "geometry": {"alpha":0.00015,"bbox":[-87.636116027832,44.733669281006,-87.600341796875,44.752704620361],"coordinates":[[[[-87.61808,44.736008],[-87.620171,44.734135],[-87.636116,44.733669],[-87.634506,44.736004],[-87.621376,44.752705],[-87.600342,44.743809],[-87.61808,44.736008]]]],"created":1292539704,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2370838_20101216_79031deda5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2492853,
+  "type": "Feature",
+  "properties": {
+    "name":"Shingleton, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2492853,
+    "woe:name":"Shingleton, Michigan, United States",
+    "woe:place_id":"OSDEZlObBZUfd0Lm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.484375,46.339817,-86.455109,46.350246],
+  "geometry": {"alpha":0.00015,"bbox":[-86.484375,46.339817047119,-86.455108642578,46.350246429443],"coordinates":[[[[-86.472015,46.350246],[-86.463951,46.347885],[-86.455109,46.348289],[-86.469009,46.339817],[-86.484375,46.346928],[-86.472015,46.350246]]]],"created":1292533989,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2492853_20101216_b9bd169151.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

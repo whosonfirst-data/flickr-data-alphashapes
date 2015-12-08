@@ -1,0 +1,15 @@
+{
+  "id": 2461439,
+  "type": "Feature",
+  "properties": {
+    "name":"North Pekin, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2461439,
+    "woe:name":"North Pekin, Illinois, United States",
+    "woe:place_id":"ybJhXVmbBZqV0cxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.660027,40.594532,-89.609344,40.642426],
+  "geometry": {"alpha":0.0006103515625,"bbox":[-89.660026550293,40.594532012939,-89.609344482422,40.642425537109],"coordinates":[[[[-89.660027,40.638901],[-89.655945,40.642426],[-89.614845,40.625305],[-89.609344,40.594532],[-89.638542,40.600494],[-89.660027,40.638901]]]],"created":1292550548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2461439_20101217_779a75e598.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

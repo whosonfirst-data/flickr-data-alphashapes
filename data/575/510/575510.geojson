@@ -1,0 +1,15 @@
+{
+  "id": 575510,
+  "type": "Feature",
+  "properties": {
+    "name":"Aigre, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":575510,
+    "woe:name":"Aigre, Poitou-Charentes, France",
+    "woe:place_id":"TsX68aicBplfG9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.009441,45.891472,0.014762,45.90023],
+  "geometry": {"alpha":0.00015,"bbox":[0.0094410004094243,45.891471862793,0.014762000180781,45.900230407715],"coordinates":[[[[0.009441,45.89389],[0.010299,45.894905],[0.014762,45.90023],[0.014033,45.894577],[0.00987,45.891472],[0.009441,45.89389]]]],"created":1292547055,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/575510_20101217_09c4bffce6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2488340,
+  "type": "Feature",
+  "properties": {
+    "name":"Sand Lake, New York, United States",
+    "placetype":"locality",
+    "woe:id":2488340,
+    "woe:name":"Sand Lake, New York, United States",
+    "woe:place_id":"m3tauFGbBZSktDJu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.556709,42.634399,-73.538857,42.638699],
+  "geometry": {"alpha":0.00015,"bbox":[-73.556709289551,42.634399414062,-73.538856506348,42.638698577881],"coordinates":[[[[-73.556709,42.638699],[-73.555992,42.637981],[-73.538857,42.635567],[-73.553276,42.634399],[-73.556213,42.635475],[-73.556709,42.638699]]]],"created":1248177377,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2543/shapefiles/2488340_20090721_50ac9175dc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

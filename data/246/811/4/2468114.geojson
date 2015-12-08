@@ -1,0 +1,15 @@
+{
+  "id": 2468114,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2468114,
+    "woe:name":"Paradise, Kentucky, United States",
+    "woe:place_id":"A1bOou2bBZoNPdjL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.999786,37.258076,-86.977814,37.280113],
+  "geometry": {"alpha":0.00015,"bbox":[-86.999786376953,37.258075714111,-86.977813720703,37.280113220215],"coordinates":[[[[-86.979317,37.260433],[-86.977814,37.259785],[-86.981796,37.258076],[-86.983444,37.258411],[-86.999786,37.262356],[-86.984619,37.280113],[-86.979317,37.260433]]]],"created":1292460369,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2468114_20101216_75b3562537.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20131967,
+  "type": "Feature",
+  "properties": {
+    "name":"Mocchie, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20131967,
+    "woe:name":"Mocchie, Piedmont, Italy",
+    "woe:place_id":"3I2g10ibAZ3zmNwzdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.292319,45.136055,7.293076,45.136372],
+  "geometry": {"alpha":0.00015,"bbox":[7.2923188209534,45.136054992676,7.2930760383606,45.136371612549],"coordinates":[[[[7.292319,45.13615],[7.292346,45.136372],[7.292776,45.136311],[7.293076,45.136086],[7.292819,45.136055],[7.292319,45.13615]]]],"created":1292457256,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20131967_20101215_0103cd3a5d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

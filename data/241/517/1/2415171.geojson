@@ -1,0 +1,15 @@
+{
+  "id": 2415171,
+  "type": "Feature",
+  "properties": {
+    "name":"Groningen, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2415171,
+    "woe:name":"Groningen, Minnesota, United States",
+    "woe:place_id":"QbAjhnqbBZ0N7qY5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.001328,46.123848,-92.997681,46.126972],
+  "geometry": {"alpha":0.00015,"bbox":[-93.001327514648,46.123847961426,-92.997680664062,46.126972198486],"coordinates":[[[[-93.001328,46.125484],[-93.000771,46.126972],[-92.997681,46.123848],[-92.999481,46.123966],[-93.001328,46.125484]]]],"created":1234520646,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3326/shapefiles/2415171_20090213_e8a1cd5892.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

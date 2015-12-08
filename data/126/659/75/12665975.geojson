@@ -1,0 +1,15 @@
+{
+  "id": 12665975,
+  "type": "Feature",
+  "properties": {
+    "name":"Roubaix, France",
+    "placetype":"locality",
+    "woe:id":12665975,
+    "woe:name":"Roubaix, France",
+    "woe:place_id":"iB.E2WSYA5qIGb30.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.174018,50.684177,3.181228,50.692951],
+  "geometry": {"alpha":1e-05,"bbox":[3.174017906189,50.684177398682,3.1812279224396,50.692951202393],"coordinates":[[[[3.174319,50.692318],[3.176722,50.692951],[3.179512,50.691406],[3.181228,50.687103],[3.17993,50.684177],[3.1789,50.687542],[3.174405,50.687649],[3.174018,50.691467],[3.174319,50.692318]]]],"created":1292528346,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12665975_20101216_8431be714b.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

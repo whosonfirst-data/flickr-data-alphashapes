@@ -1,0 +1,15 @@
+{
+  "id": 2400750,
+  "type": "Feature",
+  "properties": {
+    "name":"Evansville, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2400750,
+    "woe:name":"Evansville, Minnesota, United States",
+    "woe:place_id":"_KGo1bybBZz6dnkL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.690315,46.006439,-95.684822,46.008049],
+  "geometry": {"alpha":0.00015,"bbox":[-95.690315246582,46.006439208984,-95.68482208252,46.00804901123],"coordinates":[[[[-95.685425,46.008049],[-95.684845,46.007439],[-95.684822,46.006439],[-95.690315,46.007454],[-95.685425,46.008049]]]],"created":1292542201,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2400750_20101216_ec867277a3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

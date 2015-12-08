@@ -1,0 +1,15 @@
+{
+  "id": 2373545,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambridge, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2373545,
+    "woe:name":"Cambridge, Maine, United States",
+    "woe:place_id":"eGfsCFCbApud.TNr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.490242,45.022652,-69.4673,45.054394],
+  "geometry": {"alpha":0.00015,"bbox":[-69.490242004395,45.022651672363,-69.467300415039,45.054393768311],"coordinates":[[[[-69.4673,45.027466],[-69.473396,45.022652],[-69.478569,45.03083],[-69.490242,45.044342],[-69.471947,45.054394],[-69.474106,45.034958],[-69.4673,45.027466]]]],"created":1292529175,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2373545_20101216_a18d671d8f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

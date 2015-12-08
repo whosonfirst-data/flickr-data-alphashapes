@@ -1,0 +1,15 @@
+{
+  "id": 2436311,
+  "type": "Feature",
+  "properties": {
+    "name":"Langdon, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2436311,
+    "woe:name":"Langdon, Iowa, United States",
+    "woe:place_id":"8GvDSQSbBZ.jRN7S",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.095444,43.213024,-95.08654,43.220375],
+  "geometry": {"alpha":0.00015,"bbox":[-95.095443725586,43.213024139404,-95.086540222168,43.220375061035],"coordinates":[[[[-95.091644,43.214371],[-95.095444,43.213024],[-95.09156,43.220375],[-95.086967,43.216061],[-95.08654,43.215183],[-95.091644,43.214371]]]],"created":1292547848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2436311_20101217_0c19ba4c1e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

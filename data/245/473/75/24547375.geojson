@@ -1,0 +1,15 @@
+{
+  "id": 24547375,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Havelberg, Germany",
+    "placetype":"locality",
+    "woe:id":24547375,
+    "woe:name":"Gemeinde Havelberg, Germany",
+    "woe:place_id":"Id67ZlubBZkew7M2FQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.076839,52.825516,12.078444,52.827305],
+  "geometry": {"alpha":1e-05,"bbox":[12.076839447021,52.82551574707,12.078443527222,52.827304840088],"coordinates":[[[[12.078444,52.826553],[12.078416,52.8265],[12.076839,52.825516],[12.077916,52.827305],[12.078444,52.826584],[12.078444,52.826553]]]],"created":1292551414,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/24547375_20101217_206a6f3c1e.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2498420,
+  "type": "Feature",
+  "properties": {
+    "name":"Springhill, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2498420,
+    "woe:name":"Springhill, Pennsylvania, United States",
+    "woe:place_id":"VDlB8OWbBZWLKvJ7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.812943,39.723015,-79.798241,39.7495],
+  "geometry": {"alpha":0.00015,"bbox":[-79.812942504883,39.723014831543,-79.798240661621,39.749500274658],"coordinates":[[[[-79.799881,39.7495],[-79.798241,39.738651],[-79.808167,39.723015],[-79.812943,39.742325],[-79.811966,39.743332],[-79.799881,39.7495]]]],"created":1292517567,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2498420_20101216_14aca1fcc6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

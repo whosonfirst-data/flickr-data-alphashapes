@@ -1,0 +1,15 @@
+{
+  "id": 118234,
+  "type": "Feature",
+  "properties": {
+    "name":"Doctor Arroyo, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":118234,
+    "woe:name":"Doctor Arroyo, Nuevo Leon, Mexico",
+    "woe:place_id":"WxRsYrOYAJRmS1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.198746,23.672276,-100.179688,23.689175],
+  "geometry": {"alpha":0.00015,"bbox":[-100.19874572754,23.672275543213,-100.1796875,23.6891746521],"coordinates":[[[[-100.179688,23.676472],[-100.182968,23.672276],[-100.183983,23.673798],[-100.198746,23.689175],[-100.179688,23.676472]]]],"created":1234538402,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3434/shapefiles/118234_20090213_2f2e8a86dd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

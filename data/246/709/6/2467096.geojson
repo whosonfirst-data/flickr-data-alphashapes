@@ -1,0 +1,15 @@
+{
+  "id": 2467096,
+  "type": "Feature",
+  "properties": {
+    "name":"Owl, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2467096,
+    "woe:name":"Owl, Arizona, United States",
+    "woe:place_id":"0RWf9KybBZoSYP2q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.826332,32.712833,-113.80703,32.721443],
+  "geometry": {"alpha":0.00015,"bbox":[-113.82633209229,32.712833404541,-113.80702972412,32.72144317627],"coordinates":[[[[-113.814926,32.721443],[-113.80703,32.716606],[-113.808403,32.714798],[-113.822166,32.713501],[-113.826332,32.712833],[-113.814926,32.721443]]]],"created":1292522164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2467096_20101216_177db6cd70.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

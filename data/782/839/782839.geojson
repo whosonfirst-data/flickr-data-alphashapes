@@ -1,0 +1,15 @@
+{
+  "id": 782839,
+  "type": "Feature",
+  "properties": {
+    "name":"Ins, Canton of Berne, Switzerland",
+    "placetype":"locality",
+    "woe:id":782839,
+    "woe:name":"Ins, Canton of Berne, Switzerland",
+    "woe:place_id":"_g8uJGWeCZ74x2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.101116,46.995598,7.110171,47.008659],
+  "geometry": {"alpha":0.00015,"bbox":[7.1011161804199,46.995597839355,7.110170841217,47.008659362793],"coordinates":[[[[7.102489,46.999336],[7.101116,47.000801],[7.10214,47.008659],[7.104849,47.006157],[7.110171,46.997852],[7.10878,46.995598],[7.102489,46.999336]]]],"created":1292484903,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/782839_20101216_7650f81c14.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

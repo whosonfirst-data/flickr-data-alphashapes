@@ -1,0 +1,15 @@
+{
+  "id": 769555,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":769555,
+    "woe:name":"San Pedro, Basque Country, Spain",
+    "woe:place_id":"VITFw.6eB5WLF_s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.926405,43.323444,-1.916084,43.335293],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9264049530029,43.323444366455,-1.9160840511322,43.335292816162],"coordinates":[[[[-1.922779,43.323555],[-1.926276,43.323444],[-1.926405,43.324615],[-1.926341,43.335293],[-1.916084,43.327175],[-1.922779,43.323555]]]],"created":1292531427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/769555_20101216_fd8ee1ab6f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

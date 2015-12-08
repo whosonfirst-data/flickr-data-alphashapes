@@ -1,0 +1,15 @@
+{
+  "id": 28337862,
+  "type": "Feature",
+  "properties": {
+    "name":"Adelaide, California, United States",
+    "placetype":"locality",
+    "woe:id":28337862,
+    "woe:name":"Adelaide, California, United States",
+    "woe:place_id":"HMqXQxCbCZ84haYvUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.709015,35.587189,-120.678291,35.599174],
+  "geometry": {"alpha":0.00015,"bbox":[-120.70901489258,35.587188720703,-120.6782913208,35.599174499512],"coordinates":[[[[-120.695541,35.593853],[-120.691994,35.599174],[-120.678291,35.596252],[-120.696892,35.587189],[-120.709015,35.589497],[-120.695541,35.593853]]]],"created":1239460682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3372/shapefiles/28337862_20090411_10948e5ca6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

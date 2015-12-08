@@ -1,0 +1,15 @@
+{
+  "id": 30520,
+  "type": "Feature",
+  "properties": {
+    "name":"North Newington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30520,
+    "woe:name":"North Newington, England, United Kingdom",
+    "woe:place_id":"XSEpWMSaAZmJTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.392872,52.052479,-1.381874,52.057133],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3928719758987,52.052478790283,-1.3818739652634,52.057132720947],"coordinates":[[[[-1.392872,52.055687],[-1.39286,52.057133],[-1.389829,52.05521],[-1.381874,52.053757],[-1.387534,52.052479],[-1.392872,52.055687]]]],"created":1292543542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/30520_20101216_4fb00c9878.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

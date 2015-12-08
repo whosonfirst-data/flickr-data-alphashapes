@@ -1,0 +1,15 @@
+{
+  "id": 28744055,
+  "type": "Feature",
+  "properties": {
+    "name":"Baltimore, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744055,
+    "woe:name":"Baltimore, Michigan, United States",
+    "woe:place_id":"50HYVyObCZviveq7eg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.300766,42.602913,-85.289909,42.607147],
+  "geometry": {"alpha":0.00015,"bbox":[-85.300765991211,42.602912902832,-85.289909362793,42.607147216797],"coordinates":[[[[-85.299568,42.605064],[-85.300598,42.60585],[-85.300766,42.607052],[-85.299309,42.607147],[-85.289909,42.602913],[-85.299568,42.605064]]]],"created":1292452806,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/28744055_20101215_ab421fcb92.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

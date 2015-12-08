@@ -1,0 +1,15 @@
+{
+  "id": 59326,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Heredia, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59326,
+    "woe:name":"San Antonio, Heredia, Costa Rica",
+    "woe:place_id":"zW.bKGycCJ8B7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.228058,9.958706,-84.197845,9.981023],
+  "geometry": {"alpha":0.0001875,"bbox":[-84.228057861328,9.9587059020996,-84.197845458984,9.9810228347778],"coordinates":[[[[-84.199219,9.972231],[-84.214325,9.958706],[-84.228058,9.97426],[-84.214325,9.976965],[-84.197845,9.981023],[-84.199219,9.972231]]]],"created":1292458206,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/59326_20101216_b1129264c2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

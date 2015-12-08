@@ -1,0 +1,15 @@
+{
+  "id": 2362256,
+  "type": "Feature",
+  "properties": {
+    "name":"Belmont, Athens, AL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2362256,
+    "woe:name":"Belmont, Athens, AL, US, United States",
+    "woe:place_id":"T9184BKbApqw7y.J",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-86.971977,34.801617,-86.970245,34.803303],
+  "geometry": {"alpha":1e-05,"bbox":[-86.971977233887,34.801616668701,-86.970245361328,34.803302764893],"coordinates":[[[[-86.971809,34.803127],[-86.971977,34.803303],[-86.97126,34.802845],[-86.970345,34.801865],[-86.970245,34.801617],[-86.971809,34.803127]]]],"created":1292485690,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2362256_20101216_360302498b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

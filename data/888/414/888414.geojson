@@ -1,0 +1,15 @@
+{
+  "id": 888414,
+  "type": "Feature",
+  "properties": {
+    "name":"Djurmo, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":888414,
+    "woe:name":"Djurmo, Dalarna, Sweden",
+    "woe:place_id":".Bgpj0uRCZQ8T88",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.177999,60.543037,15.205666,60.551476],
+  "geometry": {"alpha":0.00015,"bbox":[15.177998542786,60.543037414551,15.205665588379,60.551475524902],"coordinates":[[[[15.189027,60.545967],[15.182569,60.546432],[15.177999,60.548664],[15.188598,60.551476],[15.205666,60.551334],[15.195819,60.543037],[15.189027,60.545967]]]],"created":1292536980,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/888414_20101216_2034ed1eb2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

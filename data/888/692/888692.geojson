@@ -1,0 +1,15 @@
+{
+  "id": 888692,
+  "type": "Feature",
+  "properties": {
+    "name":"Edsbro, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":888692,
+    "woe:name":"Edsbro, Stockholm, Sweden",
+    "woe:place_id":"9ztoW42RCZQlz0U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.538963,59.887016,18.555908,59.909771],
+  "geometry": {"alpha":0.00015,"bbox":[18.538963317871,59.887016296387,18.555908203125,59.909770965576],"coordinates":[[[[18.539227,59.887016],[18.539036,59.887077],[18.538963,59.887375],[18.544064,59.909771],[18.555908,59.903057],[18.539513,59.88707],[18.539227,59.887016]]]],"created":1292551215,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/888692_20101217_1b61910c9a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

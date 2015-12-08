@@ -1,0 +1,15 @@
+{
+  "id": 426,
+  "type": "Feature",
+  "properties": {
+    "name":"Dubuisson, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":426,
+    "woe:name":"Dubuisson, Quebec, Canada",
+    "woe:place_id":"Jk7YIEqdA5o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.916862,48.08963,-77.89032,48.098309],
+  "geometry": {"alpha":0.00015,"bbox":[-77.916862487793,48.089630126953,-77.890319824219,48.098308563232],"coordinates":[[[[-77.911606,48.097198],[-77.910057,48.098309],[-77.89032,48.090233],[-77.911842,48.08963],[-77.916862,48.090206],[-77.911606,48.097198]]]],"created":1292483584,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/426_20101216_80b737e8e0.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

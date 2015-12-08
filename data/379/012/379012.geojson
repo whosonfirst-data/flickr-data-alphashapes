@@ -1,0 +1,15 @@
+{
+  "id": 379012,
+  "type": "Feature",
+  "properties": {
+    "name":"San Ygnacio, Misiones, Paraguay",
+    "placetype":"locality",
+    "woe:id":379012,
+    "woe:name":"San Ygnacio, Misiones, Paraguay",
+    "woe:place_id":"gdGZQNmaBpV6k4E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-57.041531,-26.894821,-57.024395,-26.88043],
+  "geometry": {"alpha":0.00015,"bbox":[-57.041530609131,-26.894821166992,-57.024394989014,-26.880430221558],"coordinates":[[[[-57.024395,-26.889011],[-57.025909,-26.894821],[-57.030628,-26.889406],[-57.041531,-26.887243],[-57.025223,-26.88043],[-57.024395,-26.889011]]]],"created":1292537604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/379012_20101216_0918ee24cb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

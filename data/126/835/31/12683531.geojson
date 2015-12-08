@@ -1,0 +1,15 @@
+{
+  "id": 12683531,
+  "type": "Feature",
+  "properties": {
+    "name":"Innertkirchen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683531,
+    "woe:name":"Innertkirchen, Switzerland",
+    "woe:place_id":"LNYqiNWYA5p7DTpgxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.213666,46.709991,8.216486,46.712589],
+  "geometry": {"alpha":1e-05,"bbox":[8.2136659622192,46.709991455078,8.2164859771729,46.712589263916],"coordinates":[[[[8.215584,46.712589],[8.216486,46.7122],[8.216325,46.711868],[8.21603,46.709991],[8.213666,46.71011],[8.215584,46.712589]]]],"created":1292529300,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12683531_20101216_6046be5307.tar.gz"},"points":47,"type":"MultiPolygon"}
+}

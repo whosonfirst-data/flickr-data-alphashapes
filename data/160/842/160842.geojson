@@ -1,0 +1,15 @@
+{
+  "id": 160842,
+  "type": "Feature",
+  "properties": {
+    "name":"Corcovado, Hatillo, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":160842,
+    "woe:name":"Corcovado, Hatillo, Puerto Rico",
+    "woe:place_id":"sBfJ3peYB5yhccQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.765289,18.460314,-66.750679,18.478876],
+  "geometry": {"alpha":0.00015,"bbox":[-66.765289306641,18.460313796997,-66.750679016113,18.478876113892],"coordinates":[[[[-66.750679,18.476963],[-66.754128,18.470858],[-66.765289,18.460314],[-66.76001,18.474867],[-66.75576,18.478876],[-66.750679,18.476963]]]],"created":1292542487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/160842_20101216_92fa3d383f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

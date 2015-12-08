@@ -1,0 +1,15 @@
+{
+  "id": 2380515,
+  "type": "Feature",
+  "properties": {
+    "name":"City View, Pittsburgh, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2380515,
+    "woe:name":"City View, Pittsburgh, PA, US, United States",
+    "woe:place_id":"QfcUNHubApS6hhVy",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.005234,40.471043,-80.001572,40.476887],
+  "geometry": {"alpha":1e-05,"bbox":[-80.005233764648,40.471042633057,-80.001571655273,40.476886749268],"coordinates":[[[[-80.003838,40.471043],[-80.005234,40.472652],[-80.005112,40.474892],[-80.001572,40.476887],[-80.001755,40.4715],[-80.003838,40.471043]]]],"created":1292519827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2380515_20101216_13cf4c4da7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

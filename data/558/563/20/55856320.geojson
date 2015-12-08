@@ -1,0 +1,15 @@
+{
+  "id": 55856320,
+  "type": "Feature",
+  "properties": {
+    "name":"North Park, Victoria, BC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55856320,
+    "woe:name":"North Park, Victoria, BC, CA, Canada",
+    "woe:place_id":"5cFW2L2cBJRLDvZyBw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-123.360695,48.428104,-123.358917,48.429352],
+  "geometry": {"alpha":1e-05,"bbox":[-123.36069488525,48.428104400635,-123.35891723633,48.429351806641],"coordinates":[[[[-123.359772,48.428432],[-123.360374,48.428616],[-123.360695,48.429352],[-123.360519,48.429214],[-123.358917,48.428104],[-123.359772,48.428432]]]],"created":1292473201,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/55856320_20101216_00c5a2efed.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

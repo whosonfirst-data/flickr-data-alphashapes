@@ -1,0 +1,15 @@
+{
+  "id": 29770,
+  "type": "Feature",
+  "properties": {
+    "name":"Neopardy, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29770,
+    "woe:name":"Neopardy, England, United Kingdom",
+    "woe:place_id":"04DDyPCbCJvckg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.726253,50.778496,-3.721565,50.78154],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7262530326843,50.778495788574,-3.7215650081635,50.781539916992],"coordinates":[[[[-3.725674,50.778496],[-3.726081,50.778595],[-3.726253,50.780762],[-3.722981,50.78154],[-3.721565,50.781425],[-3.725674,50.778496]]]],"created":1248059892,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2534/shapefiles/29770_20090720_d36035f670.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

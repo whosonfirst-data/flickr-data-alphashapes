@@ -1,0 +1,15 @@
+{
+  "id": 12676402,
+  "type": "Feature",
+  "properties": {
+    "name":"Firenzuola, Italy",
+    "placetype":"locality",
+    "woe:id":12676402,
+    "woe:name":"Firenzuola, Italy",
+    "woe:place_id":"sL5xrZeYA5o.23Lzhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.271457,44.095474,11.275308,44.096123],
+  "geometry": {"alpha":1e-05,"bbox":[11.271456718445,44.095474243164,11.275307655334,44.096122741699],"coordinates":[[[[11.271457,44.095844],[11.274075,44.096123],[11.275308,44.095646],[11.275142,44.095669],[11.272315,44.095474],[11.271457,44.095844]]]],"created":1292542270,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12676402_20101216_ba8b50e789.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

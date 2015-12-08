@@ -1,0 +1,15 @@
+{
+  "id": 710293,
+  "type": "Feature",
+  "properties": {
+    "name":"Argiano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":710293,
+    "woe:name":"Argiano, Tuscany, Italy",
+    "woe:place_id":"RRoT_l.eAJwJBBU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.420803,42.975513,11.423056,42.987736],
+  "geometry": {"alpha":0.00015,"bbox":[11.420803070068,42.975513458252,11.423055648804,42.987735748291],"coordinates":[[[[11.420974,42.985062],[11.423056,42.987736],[11.422948,42.985233],[11.421661,42.978027],[11.42106,42.975815],[11.420803,42.975513],[11.420974,42.985062]]]],"created":1292528911,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/710293_20101216_591a10bb58.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

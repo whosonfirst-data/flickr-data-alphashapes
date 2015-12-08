@@ -1,0 +1,15 @@
+{
+  "id": 2381714,
+  "type": "Feature",
+  "properties": {
+    "name":"Clinch, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2381714,
+    "woe:name":"Clinch, Florida, United States",
+    "woe:place_id":"nrqyUBGbApT5Sh1H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.374718,29.567635,-82.364845,29.570768],
+  "geometry": {"alpha":0.00015,"bbox":[-82.374717712402,29.56763458252,-82.364845275879,29.570768356323],"coordinates":[[[[-82.367249,29.568083],[-82.368622,29.567635],[-82.374718,29.570049],[-82.365532,29.570768],[-82.364845,29.569277],[-82.367249,29.568083]]]],"created":1292547380,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2381714_20101217_8a2d07c98d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 624499,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Guinoux, Brittany, France",
+    "placetype":"locality",
+    "woe:id":624499,
+    "woe:name":"St.-Guinoux, Brittany, France",
+    "woe:place_id":"uHJUTpyfA5gkbDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.883457,48.569031,-1.877374,48.576508],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8834569454193,48.569030761719,-1.8773740530014,48.576507568359],"coordinates":[[[[-1.883457,48.576508],[-1.879434,48.576153],[-1.877374,48.569031],[-1.880486,48.572086],[-1.88291,48.575756],[-1.883457,48.576508]]]],"created":1292498708,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/624499_20101216_4ec5efd19b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

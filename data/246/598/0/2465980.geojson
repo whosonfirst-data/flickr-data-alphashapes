@@ -1,0 +1,15 @@
+{
+  "id": 2465980,
+  "type": "Feature",
+  "properties": {
+    "name":"Orchard, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2465980,
+    "woe:name":"Orchard, Idaho, United States",
+    "woe:place_id":"OXBTgRKbBZrn16xd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.027084,43.313805,-116.021973,43.319744],
+  "geometry": {"alpha":0.00015,"bbox":[-116.02708435059,43.313804626465,-116.02197265625,43.319744110107],"coordinates":[[[[-116.026474,43.313828],[-116.026566,43.313805],[-116.026718,43.313831],[-116.027084,43.314732],[-116.021973,43.319744],[-116.026474,43.313828]]]],"created":1292544301,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2465980_20101217_538af74026.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

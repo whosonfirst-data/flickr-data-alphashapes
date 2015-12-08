@@ -1,0 +1,15 @@
+{
+  "id": 2425502,
+  "type": "Feature",
+  "properties": {
+    "name":"Humboldt, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2425502,
+    "woe:name":"Humboldt, Nevada, United States",
+    "woe:place_id":"Pu5ZJYSbBZ5Msget",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.263916,40.580715,-118.255508,40.592678],
+  "geometry": {"alpha":0.00015,"bbox":[-118.26391601562,40.580715179443,-118.25550842285,40.592678070068],"coordinates":[[[[-118.257004,40.585472],[-118.263916,40.580715],[-118.260597,40.584385],[-118.255508,40.592678],[-118.257004,40.585472]]]],"created":1234658521,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/2425502_20090215_0fb17da424.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

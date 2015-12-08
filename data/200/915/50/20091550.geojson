@@ -1,0 +1,15 @@
+{
+  "id": 20091550,
+  "type": "Feature",
+  "properties": {
+    "name":"North Skelton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091550,
+    "woe:name":"North Skelton, England, United Kingdom",
+    "woe:place_id":"YSnrpJybAZy6kJm_kw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.96023,54.554859,-0.954356,54.558887],
+  "geometry": {"alpha":0.00015,"bbox":[-0.96022999286652,54.554859161377,-0.95435601472855,54.558887481689],"coordinates":[[[[-0.954651,54.558887],[-0.954356,54.556595],[-0.958153,54.555008],[-0.958434,54.554859],[-0.96023,54.557678],[-0.954651,54.558887]]]],"created":1292530962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/20091550_20101216_64460cbafe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

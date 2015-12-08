@@ -1,0 +1,15 @@
+{
+  "id": 351643,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Cartagena, Bolivar, CO, Colombia",
+    "placetype":"neighbourhood",
+    "woe:id":351643,
+    "woe:name":"Boston, Cartagena, Bolivar, CO, Colombia",
+    "woe:place_id":"A5iZSzmaBJ3PYCo",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.524223,10.408637,-75.517616,10.414631],
+  "geometry": {"alpha":1e-05,"bbox":[-75.524223327637,10.408637046814,-75.517616271973,10.414630889893],"coordinates":[[[[-75.520706,10.414209],[-75.517616,10.410579],[-75.519249,10.408637],[-75.521561,10.411338],[-75.522766,10.411507],[-75.523964,10.412014],[-75.524223,10.414631],[-75.520706,10.414209]]]],"created":1292531878,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/351643_20101216_27d039b4cb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

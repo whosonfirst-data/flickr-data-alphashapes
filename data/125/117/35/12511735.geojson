@@ -1,0 +1,15 @@
+{
+  "id": 12511735,
+  "type": "Feature",
+  "properties": {
+    "name":"London International Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511735,
+    "woe:name":"London International Airport, Canada",
+    "woe:place_id":"s8ND96.YA5noNo2iOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.157829,43.025169,-81.146309,43.035835],
+  "geometry": {"alpha":1e-05,"bbox":[-81.157829284668,43.025169372559,-81.146308898926,43.035835266113],"coordinates":[[[[-81.148682,43.028767],[-81.148216,43.028206],[-81.146309,43.025169],[-81.148903,43.027615],[-81.150337,43.02837],[-81.151024,43.029396],[-81.152054,43.030312],[-81.152657,43.033764],[-81.157829,43.0355],[-81.152313,43.035835],[-81.150772,43.035145],[-81.150002,43.033333],[-81.149483,43.03228],[-81.148682,43.028767]]]],"created":1292551540,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12511735_20101217_807fba87b7.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

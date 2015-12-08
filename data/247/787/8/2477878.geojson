@@ -1,0 +1,15 @@
+{
+  "id": 2477878,
+  "type": "Feature",
+  "properties": {
+    "name":"Quincy Junction, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2477878,
+    "woe:name":"Quincy Junction, Illinois, United States",
+    "woe:place_id":"32JmZU6bBZtyXa.y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.028709,39.431011,-91.009949,39.452175],
+  "geometry": {"alpha":0.00015,"bbox":[-91.028709411621,39.431011199951,-91.009948730469,39.452175140381],"coordinates":[[[[-91.010086,39.43684],[-91.009949,39.431011],[-91.028709,39.431454],[-91.010193,39.436832],[-91.013947,39.452175],[-91.010086,39.43684]]]],"created":1292377202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2477878_20101215_e7b523880c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

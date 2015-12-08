@@ -1,0 +1,15 @@
+{
+  "id": 29290,
+  "type": "Feature",
+  "properties": {
+    "name":"Moorside, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29290,
+    "woe:name":"Moorside, England, United Kingdom",
+    "woe:place_id":"MpuregubCJ741A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.085685,53.555302,-2.068334,53.567097],
+  "geometry": {"alpha":0.00015,"bbox":[-2.0856850147247,53.55530166626,-2.0683341026306,53.567096710205],"coordinates":[[[[-2.068519,53.567097],[-2.068334,53.567001],[-2.068455,53.566982],[-2.084344,53.555435],[-2.084623,53.555302],[-2.085685,53.556103],[-2.068519,53.567097]]]],"created":1292465525,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/29290_20101216_9c4d4352ed.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

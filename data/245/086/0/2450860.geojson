@@ -1,0 +1,15 @@
+{
+  "id": 2450860,
+  "type": "Feature",
+  "properties": {
+    "name":"Milan, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2450860,
+    "woe:name":"Milan, Missouri, United States",
+    "woe:place_id":"DYl1aMabBZk.RskY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.126251,40.200642,-93.115768,40.203262],
+  "geometry": {"alpha":0.00015,"bbox":[-93.126251220703,40.20064163208,-93.115768432617,40.203262329102],"coordinates":[[[[-93.126251,40.202675],[-93.125763,40.202888],[-93.124748,40.203262],[-93.121834,40.202412],[-93.115768,40.201447],[-93.122177,40.200642],[-93.126251,40.202675]]]],"created":1292534665,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2450860_20101216_7037afa175.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

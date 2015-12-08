@@ -1,0 +1,15 @@
+{
+  "id": 28340065,
+  "type": "Feature",
+  "properties": {
+    "name":"Lapark, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340065,
+    "woe:name":"Lapark, Pennsylvania, United States",
+    "woe:place_id":"nmiJm2mbCZ8Uuh_FyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.102684,39.977859,-76.094208,40.002666],
+  "geometry": {"alpha":0.00015,"bbox":[-76.102684020996,39.97785949707,-76.094207763672,40.002666473389],"coordinates":[[[[-76.102638,39.979603],[-76.102684,39.984024],[-76.094498,40.002666],[-76.094208,39.983852],[-76.094566,39.977859],[-76.102638,39.979603]]]],"created":1292390764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/28340065_20101215_e8f0dc3ff7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

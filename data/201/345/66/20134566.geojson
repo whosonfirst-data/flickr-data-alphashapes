@@ -1,0 +1,15 @@
+{
+  "id": 20134566,
+  "type": "Feature",
+  "properties": {
+    "name":"Palanzo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20134566,
+    "woe:name":"Palanzo, Lombardy, Italy",
+    "woe:place_id":"PFFycxybAZ1xpE4tcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.160795,45.864731,9.165,45.866898],
+  "geometry": {"alpha":0.00015,"bbox":[9.160795211792,45.864730834961,9.164999961853,45.866897583008],"coordinates":[[[[9.162951,45.866898],[9.16397,45.866467],[9.165,45.865566],[9.163541,45.864731],[9.162393,45.865204],[9.160795,45.866016],[9.162951,45.866898]]]],"created":1292513948,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20134566_20101216_0151090d28.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

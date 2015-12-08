@@ -1,0 +1,15 @@
+{
+  "id": 973577,
+  "type": "Feature",
+  "properties": {
+    "name":"Limburg, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":973577,
+    "woe:name":"Limburg, Liege, Belgium",
+    "woe:place_id":"05YlbEGQBp87GdM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.932874,50.611034,5.942058,50.629593],
+  "geometry": {"alpha":0.00015,"bbox":[5.9328742027283,50.611034393311,5.9420580863953,50.629592895508],"coordinates":[[[[5.940084,50.611034],[5.938861,50.611336],[5.933647,50.615814],[5.932874,50.629593],[5.940856,50.626163],[5.942058,50.612766],[5.940084,50.611034]]]],"created":1292528181,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/973577_20101216_0e009b4489.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

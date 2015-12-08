@@ -1,0 +1,15 @@
+{
+  "id": 723191,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vitale, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":723191,
+    "woe:name":"San Vitale, Veneto, Italy",
+    "woe:place_id":"XtlGXU.eA580OUU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.164407,45.608002,12.202817,45.623642],
+  "geometry": {"alpha":0.00015,"bbox":[12.164406776428,45.608001708984,12.202816963196,45.623641967773],"coordinates":[[[[12.18005,45.60817],[12.164407,45.618832],[12.165298,45.623642],[12.185897,45.618359],[12.202817,45.608883],[12.182078,45.608002],[12.18005,45.60817]]]],"created":1292523979,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/723191_20101216_76b729e58e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2413851,
+  "type": "Feature",
+  "properties": {
+    "name":"Green Hill, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2413851,
+    "woe:name":"Green Hill, Tennessee, United States",
+    "woe:place_id":"7yCoMgKbBZ2SWwZG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.620674,36.199848,-86.619644,36.203423],
+  "geometry": {"alpha":0.00015,"bbox":[-86.620674133301,36.199848175049,-86.619644165039,36.203422546387],"coordinates":[[[[-86.620667,36.199848],[-86.620674,36.203423],[-86.619644,36.202946],[-86.619644,36.202175],[-86.619644,36.20079],[-86.620667,36.199848]]]],"created":1292522167,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2413851_20101216_67e09d7c1b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

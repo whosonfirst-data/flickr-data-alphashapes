@@ -1,0 +1,15 @@
+{
+  "id": 12683706,
+  "type": "Feature",
+  "properties": {
+    "name":"Horn, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683706,
+    "woe:name":"Horn, Switzerland",
+    "woe:place_id":"29eCIjWYA5poI.loNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.455022,47.490993,9.469528,47.496929],
+  "geometry": {"alpha":1e-05,"bbox":[9.4550218582153,47.490993499756,9.4695281982422,47.496929168701],"coordinates":[[[[9.460773,47.496677],[9.465451,47.496181],[9.469528,47.492847],[9.4647,47.492615],[9.461116,47.490993],[9.460322,47.494125],[9.455022,47.49334],[9.459604,47.496929],[9.460773,47.496677]]]],"created":1292551701,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12683706_20101217_460feee726.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

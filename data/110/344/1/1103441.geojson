@@ -1,0 +1,15 @@
+{
+  "id": 1103441,
+  "type": "Feature",
+  "properties": {
+    "name":"Lima South, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103441,
+    "woe:name":"Lima South, Victoria, Australia",
+    "woe:place_id":"znkjjNCYAJwoHtPu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.98941,-36.893143,146.000748,-36.86932],
+  "geometry": {"alpha":0.00015,"bbox":[145.98941040039,-36.893142700195,146.00074768066,-36.869319915771],"coordinates":[[[[145.995422,-36.877972],[145.995682,-36.87859],[146.000748,-36.893143],[145.994568,-36.880444],[145.98941,-36.86932],[145.995422,-36.877972]]]],"created":1247946852,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3421/shapefiles/1103441_20090718_836a96cf94.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2397,
+  "type": "Feature",
+  "properties": {
+    "name":"Swan River, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2397,
+    "woe:name":"Swan River, Manitoba, Canada",
+    "woe:place_id":"zwhT30qbApWx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.275063,52.098095,-101.262314,52.10725],
+  "geometry": {"alpha":0.00015,"bbox":[-101.27506256104,52.098094940186,-101.26231384277,52.107250213623],"coordinates":[[[[-101.265495,52.105564],[-101.275063,52.098095],[-101.272812,52.103348],[-101.272057,52.107033],[-101.262314,52.10725],[-101.265495,52.105564]]]],"created":1292534316,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2397_20101216_1fcd81a565.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

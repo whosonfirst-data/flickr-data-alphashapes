@@ -1,0 +1,15 @@
+{
+  "id": 20223762,
+  "type": "Feature",
+  "properties": {
+    "name":"La Pedrera, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20223762,
+    "woe:name":"La Pedrera, Valencia, Spain",
+    "woe:place_id":"p.d1TXGbAZ4uvafGfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.098018,38.821613,0.101,38.827332],
+  "geometry": {"alpha":0.00015,"bbox":[0.098017998039722,38.821613311768,0.10100000351667,38.827331542969],"coordinates":[[[[0.100333,38.827332],[0.101,38.826832],[0.101,38.825832],[0.099649,38.821613],[0.098018,38.822392],[0.100333,38.827332]]]],"created":1292550753,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20223762_20101217_88fb10c2ed.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

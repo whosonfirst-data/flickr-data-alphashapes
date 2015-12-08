@@ -1,0 +1,15 @@
+{
+  "id": 550789,
+  "type": "Feature",
+  "properties": {
+    "name":"Boden, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550789,
+    "woe:name":"Boden, Tyrol, Austria",
+    "woe:place_id":"hBVlNnOcBJw5Nz0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.486301,46.718475,12.508621,46.735653],
+  "geometry": {"alpha":0.00015,"bbox":[12.486301422119,46.718475341797,12.50862121582,46.735652923584],"coordinates":[[[[12.499517,46.726295],[12.508621,46.72221],[12.501808,46.718475],[12.494888,46.723915],[12.486301,46.727962],[12.496132,46.735653],[12.499517,46.726295]]]],"created":1292533717,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/550789_20101216_88a97ac828.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

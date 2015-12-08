@@ -1,0 +1,15 @@
+{
+  "id": 28745514,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745514,
+    "woe:name":"Richmond, Pennsylvania, United States",
+    "woe:place_id":".238Oq6bCZtSy7AOQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.850807,40.484035,-75.835518,40.498268],
+  "geometry": {"alpha":0.00015,"bbox":[-75.850807189941,40.484035491943,-75.835517883301,40.498268127441],"coordinates":[[[[-75.850807,40.484035],[-75.849777,40.498268],[-75.835518,40.487007],[-75.837669,40.485817],[-75.841515,40.484547],[-75.850807,40.484035]]]],"created":1247929808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3502/shapefiles/28745514_20090718_494dbf43b3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

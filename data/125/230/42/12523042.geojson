@@ -1,0 +1,15 @@
+{
+  "id": 12523042,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilnius Airport, Lithuania",
+    "placetype":"locality",
+    "woe:id":12523042,
+    "woe:name":"Vilnius Airport, Lithuania",
+    "woe:place_id":"WXmPkQSYA5mktqCQQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.27039,54.636013,25.287523,54.645283],
+  "geometry": {"alpha":1e-05,"bbox":[25.270389556885,54.636013031006,25.287523269653,54.645282745361],"coordinates":[[[[25.279409,54.642891],[25.276709,54.643097],[25.27482,54.643211],[25.27039,54.643333],[25.27422,54.638554],[25.276709,54.643097],[25.279198,54.643845],[25.280828,54.645283],[25.284046,54.641949],[25.287523,54.637547],[25.284262,54.636013],[25.283464,54.637909],[25.281687,54.641968],[25.280569,54.642651],[25.279409,54.642891]]]],"created":1292547662,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12523042_20101217_1495315cbb.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

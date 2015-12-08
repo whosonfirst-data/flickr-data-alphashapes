@@ -1,0 +1,15 @@
+{
+  "id": 765865,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Molinos, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":765865,
+    "woe:name":"Los Molinos, Aragon, Spain",
+    "woe:place_id":"yjgRj7WeB5lsBJs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.205221,42.452152,0.219726,42.469376],
+  "geometry": {"alpha":0.00015,"bbox":[0.20522099733353,42.452152252197,0.21972599625587,42.469375610352],"coordinates":[[[[0.219726,42.4645],[0.212173,42.455952],[0.205221,42.452152],[0.214233,42.469376],[0.214662,42.468803],[0.219726,42.4645]]]],"created":1248041402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3449/shapefiles/765865_20090719_46d744ca2d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

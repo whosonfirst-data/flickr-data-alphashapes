@@ -1,0 +1,15 @@
+{
+  "id": 30005,
+  "type": "Feature",
+  "properties": {
+    "name":"New Zealand, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30005,
+    "woe:name":"New Zealand, England, United Kingdom",
+    "woe:place_id":"g.SBdM.aAZyf2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.98904,51.493671,-1.984405,51.49493],
+  "geometry": {"alpha":0.00015,"bbox":[-1.989040017128,51.493671417236,-1.984405040741,51.494930267334],"coordinates":[[[[-1.987534,51.493713],[-1.98904,51.49469],[-1.984405,51.49493],[-1.98467,51.493671],[-1.987534,51.493713]]]],"created":1292498228,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/30005_20101216_b74c0bdd3a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

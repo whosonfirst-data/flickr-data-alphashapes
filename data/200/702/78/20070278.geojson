@@ -1,0 +1,15 @@
+{
+  "id": 20070278,
+  "type": "Feature",
+  "properties": {
+    "name":"Siyazan, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070278,
+    "woe:name":"Siyazan, AZ, Azerbaijan",
+    "woe:place_id":"ub_8bX2bAZx0HQPBlQ",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [49.125023,40.907284,49.372559,41.170383],
+  "geometry": {"alpha":0.03,"bbox":[49.125022888184,40.907283782959,49.37255859375,41.170383453369],"coordinates":[[[[49.230038,40.954456],[49.125023,41.023556],[49.130001,41.058319],[49.372559,41.170383],[49.289131,40.907284],[49.230038,40.954456]]]],"created":1248080521,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2579/shapefiles/20070278_20090720_527b1416c4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

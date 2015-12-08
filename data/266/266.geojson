@@ -1,0 +1,15 @@
+{
+  "id": 266,
+  "type": "Feature",
+  "properties": {
+    "name":"Charlemagne, Gardeur, QC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":266,
+    "woe:name":"Charlemagne, Gardeur, QC, CA, Canada",
+    "woe:place_id":"v.NFLk6bB5o",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.504837,45.718166,-73.503632,45.71875],
+  "geometry": {"alpha":1e-05,"bbox":[-73.504837036133,45.718166351318,-73.503631591797,45.71875],"coordinates":[[[[-73.504684,45.718651],[-73.504837,45.71875],[-73.504532,45.71875],[-73.503632,45.718166],[-73.504684,45.718651]]]],"created":1292545485,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/266_20101217_55296de657.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

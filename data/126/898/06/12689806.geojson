@@ -1,0 +1,15 @@
+{
+  "id": 12689806,
+  "type": "Feature",
+  "properties": {
+    "name":"Tramacastilla, Spain",
+    "placetype":"locality",
+    "woe:id":12689806,
+    "woe:name":"Tramacastilla, Spain",
+    "woe:place_id":"SArDJAmYA5pNXh2FCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.577439,40.428654,-1.571731,40.430511],
+  "geometry": {"alpha":1e-05,"bbox":[-1.5774389505386,40.428653717041,-1.5717309713364,40.430511474609],"coordinates":[[[[-1.573839,40.430035],[-1.571731,40.429375],[-1.573534,40.429634],[-1.577439,40.428654],[-1.57437,40.430511],[-1.573839,40.430035]]]],"created":1292487663,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12689806_20101216_c8c4a228e6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

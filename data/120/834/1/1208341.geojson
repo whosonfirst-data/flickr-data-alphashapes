@@ -1,0 +1,15 @@
+{
+  "id": 1208341,
+  "type": "Feature",
+  "properties": {
+    "name":"Ban Ko, Samut Sakhon, Thailand",
+    "placetype":"locality",
+    "woe:id":1208341,
+    "woe:name":"Ban Ko, Samut Sakhon, Thailand",
+    "woe:place_id":"PK77ZHSYA5x4I7ah",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [100.217972,13.573243,100.238571,13.591932],
+  "geometry": {"alpha":0.00015,"bbox":[100.21797180176,13.573243141174,100.23857116699,13.591932296753],"coordinates":[[[[100.227585,13.580168],[100.217972,13.578447],[100.227928,13.591932],[100.23645,13.585419],[100.238571,13.573243],[100.227585,13.580168]]]],"created":1292493126,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/1208341_20101216_ec87851f02.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 625957,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Michel, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":625957,
+    "woe:name":"St.-Michel, Poitou-Charentes, France",
+    "woe:place_id":"nBH4YHKfA5m4HK4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.10231,45.626431,0.107288,45.65086],
+  "geometry": {"alpha":0.00015,"bbox":[0.10231000185013,45.626430511475,0.10728800296783,45.650859832764],"coordinates":[[[[0.107288,45.642609],[0.107116,45.64138],[0.103104,45.626431],[0.10231,45.638287],[0.105003,45.65086],[0.107288,45.642609]]]],"created":1292533736,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/625957_20101216_0d229475b2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

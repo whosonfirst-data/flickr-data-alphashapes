@@ -1,0 +1,15 @@
+{
+  "id": 724024,
+  "type": "Feature",
+  "properties": {
+    "name":"Senerchia, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":724024,
+    "woe:name":"Senerchia, Campania, Italy",
+    "woe:place_id":"O03.UHieA5gFUWk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.196269,40.739445,15.214004,40.744656],
+  "geometry": {"alpha":0.00015,"bbox":[15.196269035339,40.739444732666,15.214003562927,40.744655609131],"coordinates":[[[[15.204305,40.742119],[15.214004,40.744656],[15.206279,40.740234],[15.204509,40.73991],[15.203661,40.739811],[15.196269,40.739445],[15.204305,40.742119]]]],"created":1292450996,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/724024_20101215_15844af2c0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

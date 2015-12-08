@@ -1,0 +1,15 @@
+{
+  "id": 706759,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilmersdorf, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":706759,
+    "woe:name":"Wilmersdorf, Brandenburg, Germany",
+    "woe:place_id":"jIzq6UWeAZpmmOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.296441,53.146873,12.304447,53.149754],
+  "geometry": {"alpha":0.00015,"bbox":[12.296441078186,53.146873474121,12.304447174072,53.149753570557],"coordinates":[[[[12.296519,53.148239],[12.296441,53.148403],[12.302112,53.149754],[12.304447,53.148136],[12.304269,53.148121],[12.298169,53.146873],[12.296519,53.148239]]]],"created":1292527347,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/706759_20101216_37d9cc284d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

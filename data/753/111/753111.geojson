@@ -1,0 +1,15 @@
+{
+  "id": 753111,
+  "type": "Feature",
+  "properties": {
+    "name":"Arroyo, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":753111,
+    "woe:name":"Arroyo, Cantabria, Spain",
+    "woe:place_id":"YtVEC.CeBJ9DWpM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.068288,42.96809,-4.048848,42.974636],
+  "geometry": {"alpha":0.00015,"bbox":[-4.0682878494263,42.968090057373,-4.0488481521606,42.974636077881],"coordinates":[[[[-4.054298,42.972752],[-4.05198,42.974636],[-4.048848,42.974422],[-4.05198,42.970963],[-4.068288,42.96809],[-4.054298,42.972752]]]],"created":1292451116,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/753111_20101215_69d7decf43.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

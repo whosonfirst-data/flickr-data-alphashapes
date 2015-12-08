@@ -1,0 +1,15 @@
+{
+  "id": 12627370,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Winden, Germany",
+    "placetype":"locality",
+    "woe:id":12627370,
+    "woe:name":"Gemeinde Winden, Germany",
+    "woe:place_id":".hwAQk2YA5qK7Tu6fg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.122627,49.100704,8.124368,49.107723],
+  "geometry": {"alpha":1e-05,"bbox":[8.1226272583008,49.100704193115,8.1243677139282,49.107723236084],"coordinates":[[[[8.124322,49.105946],[8.124252,49.105656],[8.124368,49.100704],[8.122627,49.105896],[8.123402,49.107723],[8.124322,49.105946]]]],"created":1292517560,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12627370_20101216_e2262270ac.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

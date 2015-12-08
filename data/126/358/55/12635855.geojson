@@ -1,0 +1,15 @@
+{
+  "id": 12635855,
+  "type": "Feature",
+  "properties": {
+    "name":"Thalheim/erzgebirge, Germany",
+    "placetype":"locality",
+    "woe:id":12635855,
+    "woe:name":"Thalheim/erzgebirge, Germany",
+    "woe:place_id":"uQLLdXOYA5oxqsUFWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.849023,50.696053,12.851484,50.698898],
+  "geometry": {"alpha":1e-05,"bbox":[12.849022865295,50.69605255127,12.851484298706,50.69889831543],"coordinates":[[[[12.851484,50.698681],[12.849328,50.696053],[12.849023,50.696346],[12.851166,50.698666],[12.851323,50.698898],[12.851484,50.698681]]]],"created":1292457055,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12635855_20101215_b30022c5c7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

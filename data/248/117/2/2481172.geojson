@@ -1,0 +1,15 @@
+{
+  "id": 2481172,
+  "type": "Feature",
+  "properties": {
+    "name":"Ridgefield, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2481172,
+    "woe:name":"Ridgefield, North Carolina, United States",
+    "woe:place_id":"wg.SlrSbBZSRUCAm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.906311,36.129555,-79.880562,36.145973],
+  "geometry": {"alpha":0.00015,"bbox":[-79.906311035156,36.129554748535,-79.880561828613,36.145973205566],"coordinates":[[[[-79.895515,36.137615],[-79.906311,36.129555],[-79.900215,36.138878],[-79.888153,36.145973],[-79.880562,36.137321],[-79.895515,36.137615]]]],"created":1292539812,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2481172_20101216_cc0cf7c218.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

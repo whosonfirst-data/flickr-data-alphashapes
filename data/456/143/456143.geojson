@@ -1,0 +1,15 @@
+{
+  "id": 456143,
+  "type": "Feature",
+  "properties": {
+    "name":"Colider, Mato Grosso, Brazil",
+    "placetype":"locality",
+    "woe:id":456143,
+    "woe:name":"Colider, Mato Grosso, Brazil",
+    "woe:place_id":"O_0TAFidBJrsZb4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.463276,-10.816698,-55.443878,-10.804305],
+  "geometry": {"alpha":0.00015,"bbox":[-55.463275909424,-10.816698074341,-55.443878173828,-10.804305076599],"coordinates":[[[[-55.457783,-10.806749],[-55.456753,-10.805485],[-55.443878,-10.804305],[-55.456924,-10.807845],[-55.463276,-10.816698],[-55.457783,-10.806749]]]],"created":1292549343,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/456143_20101217_f876716d61.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

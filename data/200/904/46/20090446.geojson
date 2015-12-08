@@ -1,0 +1,15 @@
+{
+  "id": 20090446,
+  "type": "Feature",
+  "properties": {
+    "name":"Cothall, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20090446,
+    "woe:name":"Cothall, Scotland, United Kingdom",
+    "woe:place_id":"NeVx6wybAZztl8GuTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.217628,57.228687,-2.207694,57.245193],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2176280021667,57.228687286377,-2.2076940536499,57.245193481445],"coordinates":[[[[-2.208595,57.229038],[-2.210869,57.228687],[-2.217628,57.231339],[-2.211406,57.245193],[-2.207694,57.229599],[-2.208595,57.229038]]]],"created":1292533425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20090446_20101216_099ab24ceb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

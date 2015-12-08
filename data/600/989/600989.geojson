@@ -1,0 +1,15 @@
+{
+  "id": 600989,
+  "type": "Feature",
+  "properties": {
+    "name":"Lama, Corsica, France",
+    "placetype":"locality",
+    "woe:id":600989,
+    "woe:name":"Lama, Corsica, France",
+    "woe:place_id":"RkM9mtefAZyY0IY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.167661,42.573311,9.187316,42.585316],
+  "geometry": {"alpha":0.00015,"bbox":[9.1676607131958,42.573310852051,9.1873159408569,42.585315704346],"coordinates":[[[[9.172656,42.575359],[9.16809,42.573311],[9.167661,42.585316],[9.174034,42.579067],[9.187316,42.576977],[9.173069,42.575649],[9.172656,42.575359]]]],"created":1292537446,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/600989_20101216_fde59883d6.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

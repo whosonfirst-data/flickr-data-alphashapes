@@ -1,0 +1,15 @@
+{
+  "id": 2357522,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2357522,
+    "woe:name":"Austin, North Carolina, United States",
+    "woe:place_id":"txidynqbAplhTrjW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.945709,36.332901,-80.94136,36.337284],
+  "geometry": {"alpha":0.00015,"bbox":[-80.945709228516,36.332901000977,-80.941360473633,36.337284088135],"coordinates":[[[[-80.94165,36.332901],[-80.94342,36.332912],[-80.944817,36.334633],[-80.945526,36.335899],[-80.945709,36.337284],[-80.942116,36.335041],[-80.941422,36.334442],[-80.94136,36.333057],[-80.94165,36.332901]]]],"created":1248297485,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2584/shapefiles/2357522_20090722_96cd31953b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

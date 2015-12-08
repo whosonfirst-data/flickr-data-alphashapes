@@ -1,0 +1,15 @@
+{
+  "id": 20226919,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilac, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20226919,
+    "woe:name":"Vilac, Catalonia, Spain",
+    "woe:place_id":"Ilc0QnabAZ5URwfjZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.789985,42.720913,0.799255,42.725578],
+  "geometry": {"alpha":0.00015,"bbox":[0.78998500108719,42.72091293335,0.79925501346588,42.725578308105],"coordinates":[[[[0.797195,42.721226],[0.791906,42.721127],[0.789985,42.725578],[0.798397,42.723309],[0.799255,42.720913],[0.797195,42.721226]]]],"created":1292523618,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/20226919_20101216_38835f8c1b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

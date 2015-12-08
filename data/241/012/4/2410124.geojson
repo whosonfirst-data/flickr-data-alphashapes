@@ -1,0 +1,15 @@
+{
+  "id": 2410124,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilbert, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2410124,
+    "woe:name":"Gilbert, South Carolina, United States",
+    "woe:place_id":"I25CoJ6bBZ343Z8D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.400208,33.904057,-81.386719,33.942158],
+  "geometry": {"alpha":0.00015,"bbox":[-81.400207519531,33.904056549072,-81.38671875,33.942157745361],"coordinates":[[[[-81.392365,33.916573],[-81.394096,33.904057],[-81.400208,33.922165],[-81.397469,33.942158],[-81.386719,33.926838],[-81.391998,33.9174],[-81.392365,33.916573]]]],"created":1292537292,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2410124_20101216_3de3d28993.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2368113,
+  "type": "Feature",
+  "properties": {
+    "name":"Brand, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2368113,
+    "woe:name":"Brand, Texas, United States",
+    "woe:place_id":"EdVNaCabApqvcE6B",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.960922,32.776581,-100.944176,32.794201],
+  "geometry": {"alpha":0.00015,"bbox":[-100.96092224121,32.776580810547,-100.94417572021,32.794200897217],"coordinates":[[[[-100.959206,32.793713],[-100.958519,32.794201],[-100.944176,32.777908],[-100.949944,32.776581],[-100.960922,32.79015],[-100.960205,32.792767],[-100.959206,32.793713]]]],"created":1292547698,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2368113_20101217_d3304fb463.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 456245,
+  "type": "Feature",
+  "properties": {
+    "name":"Iraquara, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":456245,
+    "woe:name":"Iraquara, Bahia, Brazil",
+    "woe:place_id":".YXvX2KdBJrvhWE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-41.63578,-12.30277,-41.624878,-12.274508],
+  "geometry": {"alpha":0.00015,"bbox":[-41.635780334473,-12.30276966095,-41.624877929688,-12.274508476257],"coordinates":[[[[-41.63578,-12.284321],[-41.624878,-12.274508],[-41.629944,-12.284991],[-41.625824,-12.30277],[-41.635052,-12.284912],[-41.63578,-12.284321]]]],"created":1292550665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/456245_20101217_1468e8e5e4.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

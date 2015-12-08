@@ -1,0 +1,15 @@
+{
+  "id": 12655860,
+  "type": "Feature",
+  "properties": {
+    "name":"Roynac, France",
+    "placetype":"locality",
+    "woe:id":12655860,
+    "woe:name":"Roynac, France",
+    "woe:place_id":"FVvV7seYA5r4nqRtgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.939833,44.643002,4.941,44.644001],
+  "geometry": {"alpha":1e-05,"bbox":[4.9398331642151,44.643001556396,4.9409999847412,44.64400100708],"coordinates":[[[[4.939833,44.643002],[4.94,44.643333],[4.941,44.644001],[4.940666,44.643501],[4.939833,44.643002]]]],"created":1292445398,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12655860_20101215_c8f52b413b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

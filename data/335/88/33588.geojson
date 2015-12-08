@@ -1,0 +1,15 @@
+{
+  "id": 33588,
+  "type": "Feature",
+  "properties": {
+    "name":"Rotherfield, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33588,
+    "woe:name":"Rotherfield, England, United Kingdom",
+    "woe:place_id":"8.HCAcSaApmsIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.214782,51.035942,0.237064,51.067402],
+  "geometry": {"alpha":0.00015,"bbox":[0.21478199958801,51.035942077637,0.2370640039444,51.067401885986],"coordinates":[[[[0.219125,51.047237],[0.237064,51.035942],[0.215864,51.038586],[0.216944,51.042778],[0.214782,51.052402],[0.2201,51.067402],[0.223073,51.058365],[0.219125,51.047237]]]],"created":1292545511,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/33588_20101217_8a6b20fe3f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

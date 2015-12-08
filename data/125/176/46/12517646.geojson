@@ -1,0 +1,15 @@
+{
+  "id": 12517646,
+  "type": "Feature",
+  "properties": {
+    "name":"Kalmar Airport, Sweden",
+    "placetype":"locality",
+    "woe:id":12517646,
+    "woe:name":"Kalmar Airport, Sweden",
+    "woe:place_id":"pSy9U5KYA5lJMmKIAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.242813,56.679749,16.243525,56.680592],
+  "geometry": {"alpha":1e-05,"bbox":[16.242813110352,56.679748535156,16.243524551392,56.680591583252],"coordinates":[[[[16.243525,56.680035],[16.24342,56.679749],[16.243176,56.679863],[16.242813,56.680592],[16.243525,56.680088],[16.243525,56.680035]]]],"created":1292531215,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12517646_20101216_4b0eb49964.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

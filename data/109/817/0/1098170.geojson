@@ -1,0 +1,15 @@
+{
+  "id": 1098170,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Kennedy, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1098170,
+    "woe:name":"Port Kennedy, Queensland, Australia",
+    "woe:place_id":"WyZiWeiYAZWm1KPP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.215012,-10.587333,142.220856,-10.581478],
+  "geometry": {"alpha":0.00015,"bbox":[142.21501159668,-10.587332725525,142.22085571289,-10.581478118896],"coordinates":[[[[142.218018,-10.582996],[142.219437,-10.584256],[142.220856,-10.585275],[142.219666,-10.587333],[142.215012,-10.583756],[142.216644,-10.581478],[142.218018,-10.582996]]]],"created":1292519732,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/1098170_20101216_9a108ed7d3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

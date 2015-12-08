@@ -1,0 +1,15 @@
+{
+  "id": 902201,
+  "type": "Feature",
+  "properties": {
+    "name":"Ransby, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":902201,
+    "woe:name":"Ransby, Varmland, Sweden",
+    "woe:place_id":"bgKu9zGQAZ48LVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.941637,60.670551,12.950902,60.674667],
+  "geometry": {"alpha":0.00015,"bbox":[12.941637039185,60.670551300049,12.950901985168,60.674667358398],"coordinates":[[[[12.950902,60.674477],[12.942237,60.671078],[12.941637,60.670551],[12.94301,60.672169],[12.950849,60.674667],[12.950902,60.674477]]]],"created":1292512206,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/902201_20101216_380a6ba99e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

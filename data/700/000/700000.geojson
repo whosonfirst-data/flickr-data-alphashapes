@@ -1,0 +1,15 @@
+{
+  "id": 700000,
+  "type": "Feature",
+  "properties": {
+    "name":"Tribseer Vorstadt, Mecklenburg-Vorpommern, Germany",
+    "placetype":"locality",
+    "woe:id":700000,
+    "woe:name":"Tribseer Vorstadt, Mecklenburg-Vorpommern, Germany",
+    "woe:place_id":"1ubfzGieAZyItaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.050376,54.297646,13.089094,54.317619],
+  "geometry": {"alpha":0.00015,"bbox":[13.050375938416,54.297645568848,13.089094161987,54.31761932373],"coordinates":[[[[13.088729,54.310314],[13.086776,54.297646],[13.068494,54.300049],[13.062744,54.300098],[13.050376,54.317619],[13.067893,54.313217],[13.074417,54.30891],[13.084968,54.310932],[13.087141,54.312618],[13.089094,54.312954],[13.088729,54.310314]]]],"created":1292543313,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/700000_20101216_a6c65fcd38.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

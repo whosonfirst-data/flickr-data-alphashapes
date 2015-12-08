@@ -1,0 +1,15 @@
+{
+  "id": 2445742,
+  "type": "Feature",
+  "properties": {
+    "name":"Marion, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2445742,
+    "woe:name":"Marion, Georgia, United States",
+    "woe:place_id":"MXB8U8CbBZi7yTwK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.446503,32.652241,-83.430344,32.66209],
+  "geometry": {"alpha":0.00015,"bbox":[-83.446502685547,32.652240753174,-83.43034362793,32.662090301514],"coordinates":[[[[-83.437439,32.66209],[-83.430344,32.652241],[-83.446503,32.657501],[-83.437569,32.662029],[-83.437439,32.66209]]]],"created":1292421124,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2445742_20101215_30eaf3083f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

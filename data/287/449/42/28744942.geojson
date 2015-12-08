@@ -1,0 +1,15 @@
+{
+  "id": 28744942,
+  "type": "Feature",
+  "properties": {
+    "name":"Morris, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744942,
+    "woe:name":"Morris, Pennsylvania, United States",
+    "woe:place_id":"mH_ZPOqbCZvZ0TjHFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.225449,40.902477,-78.209831,40.910316],
+  "geometry": {"alpha":0.00015,"bbox":[-78.225448608398,40.902477264404,-78.209831237793,40.910316467285],"coordinates":[[[[-78.210266,40.910316],[-78.209831,40.910294],[-78.21035,40.910042],[-78.225449,40.902477],[-78.210457,40.910301],[-78.210266,40.910316]]]],"created":1292533238,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/28744942_20101216_5020c2a4b7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

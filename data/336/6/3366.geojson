@@ -1,0 +1,15 @@
+{
+  "id": 3366,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourget, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3366,
+    "woe:name":"Bourget, Ontario, Canada",
+    "woe:place_id":"T3JY38aaApro",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.158218,45.425385,-75.15155,45.436768],
+  "geometry": {"alpha":0.00015,"bbox":[-75.158218383789,45.425384521484,-75.151550292969,45.436767578125],"coordinates":[[[[-75.157471,45.436768],[-75.153091,45.436615],[-75.15155,45.425385],[-75.158218,45.435787],[-75.157471,45.436768]]]],"created":1292529628,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/3366_20101216_59cf7d40a6.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

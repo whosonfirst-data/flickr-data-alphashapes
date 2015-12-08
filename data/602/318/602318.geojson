@@ -1,0 +1,15 @@
+{
+  "id": 602318,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Breuil, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":602318,
+    "woe:name":"Le Breuil, Auvergne, France",
+    "woe:place_id":"3Q9NY5WfAZ49sMk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.27748,45.468487,3.280639,45.48193],
+  "geometry": {"alpha":0.00015,"bbox":[3.2774798870087,45.468486785889,3.2806389331818,45.481929779053],"coordinates":[[[[3.277719,45.474388],[3.278716,45.48193],[3.278721,45.47319],[3.280639,45.468636],[3.280608,45.468487],[3.27748,45.472218],[3.277719,45.474388]]]],"created":1292458362,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/602318_20101216_aaeb0a7962.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

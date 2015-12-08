@@ -1,0 +1,15 @@
+{
+  "id": 1105881,
+  "type": "Feature",
+  "properties": {
+    "name":"Tarrawingee, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105881,
+    "woe:name":"Tarrawingee, Victoria, Australia",
+    "woe:place_id":"92mve_WYAJzKchf2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.437454,-36.390659,146.466766,-36.372093],
+  "geometry": {"alpha":0.00015,"bbox":[146.43745422363,-36.390659332275,146.46676635742,-36.372093200684],"coordinates":[[[[146.444321,-36.373749],[146.448441,-36.372093],[146.453247,-36.377068],[146.466766,-36.387726],[146.444931,-36.390659],[146.437454,-36.387016],[146.444321,-36.373749]]]],"created":1292548273,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/1105881_20101217_f279e9893b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

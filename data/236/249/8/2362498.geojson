@@ -1,0 +1,15 @@
+{
+  "id": 2362498,
+  "type": "Feature",
+  "properties": {
+    "name":"Bendale, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2362498,
+    "woe:name":"Bendale, Maryland, United States",
+    "woe:place_id":"YkTE_pubAppE7zcH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.58345,39.078773,-76.583122,39.079151],
+  "geometry": {"alpha":0.00015,"bbox":[-76.583450317383,39.078773498535,-76.583122253418,39.079151153564],"coordinates":[[[[-76.583206,39.079063],[-76.58313,39.078827],[-76.583122,39.078773],[-76.583237,39.078793],[-76.58345,39.079075],[-76.583298,39.079151],[-76.583206,39.079063]]]],"created":1292521076,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2362498_20101216_457032180f.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

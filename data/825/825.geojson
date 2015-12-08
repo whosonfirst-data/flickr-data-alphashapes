@@ -1,0 +1,15 @@
+{
+  "id": 825,
+  "type": "Feature",
+  "properties": {
+    "name":"Larrys River, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":825,
+    "woe:name":"Larrys River, Nova Scotia, Canada",
+    "woe:place_id":"ndHy9fmRA5k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.378342,45.216026,-61.368385,45.229477],
+  "geometry": {"alpha":0.00015,"bbox":[-61.378341674805,45.216026306152,-61.368385314941,45.229476928711],"coordinates":[[[[-61.373062,45.216026],[-61.378342,45.222282],[-61.368385,45.229477],[-61.370743,45.223099],[-61.373062,45.216026]]]],"created":1229510051,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3115/shapefiles/825_20081217_73188a5316.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

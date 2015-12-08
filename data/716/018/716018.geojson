@@ -1,0 +1,15 @@
+{
+  "id": 716018,
+  "type": "Feature",
+  "properties": {
+    "name":"Garlasco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":716018,
+    "woe:name":"Garlasco, Lombardy, Italy",
+    "woe:place_id":"FwNylfOeAJpW3Os",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.912315,45.191868,8.929052,45.200302],
+  "geometry": {"alpha":0.00015,"bbox":[8.9123153686523,45.191867828369,8.9290523529053,45.200302124023],"coordinates":[[[[8.928773,45.196613],[8.929052,45.194496],[8.91961,45.191868],[8.912315,45.200302],[8.921585,45.19873],[8.927764,45.198914],[8.928773,45.196613]]]],"created":1292548634,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/716018_20101217_705838e757.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

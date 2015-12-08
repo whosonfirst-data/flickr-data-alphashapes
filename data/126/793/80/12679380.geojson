@@ -1,0 +1,15 @@
+{
+  "id": 12679380,
+  "type": "Feature",
+  "properties": {
+    "name":"Fossalto, Italy",
+    "placetype":"locality",
+    "woe:id":12679380,
+    "woe:name":"Fossalto, Italy",
+    "woe:place_id":"uBOGQf6YA5pV8vxGSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.545125,41.669624,14.549846,41.674545],
+  "geometry": {"alpha":1e-05,"bbox":[14.545125007629,41.669624328613,14.549845695496,41.674545288086],"coordinates":[[[[14.545941,41.669624],[14.545211,41.672462],[14.545125,41.674545],[14.549846,41.672142],[14.546585,41.67086],[14.545941,41.669624]]]],"created":1292501766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12679380_20101216_0c562ae74c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

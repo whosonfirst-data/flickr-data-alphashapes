@@ -1,0 +1,15 @@
+{
+  "id": 2407395,
+  "type": "Feature",
+  "properties": {
+    "name":"Fremont, New York, United States",
+    "placetype":"locality",
+    "woe:id":2407395,
+    "woe:name":"Fremont, New York, United States",
+    "woe:place_id":"SCead5qbBZyqpGa9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.647636,42.36945,-77.627289,42.391083],
+  "geometry": {"alpha":0.00015,"bbox":[-77.647636413574,42.369449615479,-77.627288818359,42.391082763672],"coordinates":[[[[-77.636833,42.374332],[-77.647636,42.384235],[-77.627289,42.391083],[-77.628189,42.36945],[-77.636833,42.374332]]]],"created":1234570564,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3333/shapefiles/2407395_20090214_4b7e117718.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

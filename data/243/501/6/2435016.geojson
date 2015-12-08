@@ -1,0 +1,15 @@
+{
+  "id": 2435016,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Lytle, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2435016,
+    "woe:name":"Lake Lytle, Oregon, United States",
+    "woe:place_id":"UwzdvBabBZ82iBhm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.945755,45.618931,-123.93956,45.622414],
+  "geometry": {"alpha":0.00015,"bbox":[-123.94575500488,45.61893081665,-123.93955993652,45.622413635254],"coordinates":[[[[-123.943634,45.619801],[-123.945328,45.618931],[-123.945755,45.622353],[-123.93956,45.622414],[-123.943634,45.619801]]]],"created":1292545606,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2435016_20101217_4b1c108bda.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

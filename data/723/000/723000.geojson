@@ -1,0 +1,15 @@
+{
+  "id": 723000,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":723000,
+    "woe:name":"San Pietro, Marche, Italy",
+    "woe:place_id":"0Q8g_RGeA5_L3nk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.929191,43.550415,12.943267,43.57616],
+  "geometry": {"alpha":0.00015,"bbox":[12.929190635681,43.550415039062,12.943266868591,43.576160430908],"coordinates":[[[[12.943267,43.57616],[12.939147,43.567207],[12.935886,43.550415],[12.929706,43.56218],[12.929191,43.5686],[12.937023,43.572662],[12.943267,43.57616]]]],"created":1292456048,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/723000_20101215_08a788e274.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

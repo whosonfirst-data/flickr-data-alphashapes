@@ -1,0 +1,15 @@
+{
+  "id": 8323,
+  "type": "Feature",
+  "properties": {
+    "name":"Grimshaw, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8323,
+    "woe:name":"Grimshaw, Alberta, Canada",
+    "woe:place_id":"kAcARTuRAp6e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.624992,56.185284,-117.598259,56.192474],
+  "geometry": {"alpha":0.00015,"bbox":[-117.62499237061,56.185283660889,-117.59825897217,56.192474365234],"coordinates":[[[[-117.61087,56.192379],[-117.607422,56.191219],[-117.598259,56.190086],[-117.608765,56.185284],[-117.624992,56.18956],[-117.611214,56.192474],[-117.61087,56.192379]]]],"created":1292458599,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/8323_20101216_503ba6fd4e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

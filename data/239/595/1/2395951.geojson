@@ -1,0 +1,15 @@
+{
+  "id": 2395951,
+  "type": "Feature",
+  "properties": {
+    "name":"East Nicolaus, California, United States",
+    "placetype":"locality",
+    "woe:id":2395951,
+    "woe:name":"East Nicolaus, California, United States",
+    "woe:place_id":"GUfPuuObApUhZ6YY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.559608,38.896126,-121.542603,38.921757],
+  "geometry": {"alpha":0.00015,"bbox":[-121.55960845947,38.896125793457,-121.54260253906,38.921756744385],"coordinates":[[[[-121.544022,38.909313],[-121.559608,38.896126],[-121.544388,38.910408],[-121.543549,38.921757],[-121.542603,38.909035],[-121.544022,38.909313]]]],"created":1292529156,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2395951_20101216_a1a406fb72.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

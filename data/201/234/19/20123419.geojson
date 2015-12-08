@@ -1,0 +1,15 @@
+{
+  "id": 20123419,
+  "type": "Feature",
+  "properties": {
+    "name":"Dogaletto, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20123419,
+    "woe:name":"Dogaletto, Veneto, Italy",
+    "woe:place_id":"2w9CXb.bAZ3LMeDmEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.179031,45.405758,12.20169,45.420143],
+  "geometry": {"alpha":0.00015,"bbox":[12.17903137207,45.405757904053,12.201689720154,45.420143127441],"coordinates":[[[[12.179031,45.413002],[12.179546,45.413063],[12.195768,45.413483],[12.20169,45.420143],[12.198343,45.405758],[12.187689,45.410126],[12.179117,45.412853],[12.179031,45.413002]]]],"created":1292527711,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/20123419_20101216_02d73323a7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 683908,
+  "type": "Feature",
+  "properties": {
+    "name":"Ottensoos, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":683908,
+    "woe:name":"Ottensoos, Bavaria, Germany",
+    "woe:place_id":"PjDzIOefCZ8sJhE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.32759,49.508965,11.354928,49.521412],
+  "geometry": {"alpha":0.00015,"bbox":[11.327589988708,49.508964538574,11.354928016663,49.521411895752],"coordinates":[[[[11.337547,49.510609],[11.32759,49.515625],[11.33583,49.521412],[11.352653,49.51894],[11.354928,49.508965],[11.340465,49.509884],[11.337547,49.510609]]]],"created":1292516283,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/683908_20101216_1b883666ea.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

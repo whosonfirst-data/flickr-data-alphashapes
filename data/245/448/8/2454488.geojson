@@ -1,0 +1,15 @@
+{
+  "id": 2454488,
+  "type": "Feature",
+  "properties": {
+    "name":"Moscow, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2454488,
+    "woe:name":"Moscow, Tennessee, United States",
+    "woe:place_id":"EsstudubBZk1Pvz8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.412399,35.058418,-89.386482,35.061749],
+  "geometry": {"alpha":0.00015,"bbox":[-89.412399291992,35.058418273926,-89.38648223877,35.061748504639],"coordinates":[[[[-89.393501,35.060001],[-89.399071,35.059601],[-89.412399,35.058949],[-89.400513,35.061749],[-89.392578,35.061127],[-89.386482,35.058418],[-89.393501,35.060001]]]],"created":1292549034,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2454488_20101217_bb9d60405c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

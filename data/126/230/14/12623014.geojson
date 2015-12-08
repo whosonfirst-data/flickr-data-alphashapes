@@ -1,0 +1,15 @@
+{
+  "id": 12623014,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ascha, Germany",
+    "placetype":"locality",
+    "woe:id":12623014,
+    "woe:name":"Gemeinde Ascha, Germany",
+    "woe:place_id":"A14q0cWYA5pJP4xaIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.588744,48.969147,12.596919,48.970448],
+  "geometry": {"alpha":1e-05,"bbox":[12.588744163513,48.969146728516,12.596919059753,48.970447540283],"coordinates":[[[[12.592628,48.970314],[12.596919,48.969582],[12.593164,48.969147],[12.588744,48.969723],[12.591533,48.970448],[12.592628,48.970314]]]],"created":1292513345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12623014_20101216_12fedb3d5b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

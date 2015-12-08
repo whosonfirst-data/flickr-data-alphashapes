@@ -1,0 +1,15 @@
+{
+  "id": 726288,
+  "type": "Feature",
+  "properties": {
+    "name":"Vittuone, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":726288,
+    "woe:name":"Vittuone, Lombardy, Italy",
+    "woe:place_id":"pedguYCeA5o5LmM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.938965,45.479874,8.956003,45.494846],
+  "geometry": {"alpha":0.00015,"bbox":[8.93896484375,45.479873657227,8.9560031890869,45.494846343994],"coordinates":[[[[8.950982,45.486423],[8.938965,45.493305],[8.945252,45.494846],[8.956003,45.492489],[8.95523,45.480476],[8.953514,45.479874],[8.950982,45.486423]]]],"created":1292536546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/726288_20101216_d64ff285eb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

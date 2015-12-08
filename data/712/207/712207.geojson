@@ -1,0 +1,15 @@
+{
+  "id": 712207,
+  "type": "Feature",
+  "properties": {
+    "name":"Caravate, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":712207,
+    "woe:name":"Caravate, Lombardy, Italy",
+    "woe:place_id":"fknamzCeAJ7G.T0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.637206,45.863583,8.654479,45.886913],
+  "geometry": {"alpha":0.00015,"bbox":[8.6372060775757,45.863582611084,8.6544790267944,45.886913299561],"coordinates":[[[[8.65096,45.885586],[8.654479,45.879581],[8.654,45.879002],[8.64772,45.863583],[8.637206,45.872158],[8.643922,45.886913],[8.65096,45.885586]]]],"created":1292531379,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/712207_20101216_a5b2921bb7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

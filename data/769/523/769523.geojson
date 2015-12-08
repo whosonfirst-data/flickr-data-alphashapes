@@ -1,0 +1,15 @@
+{
+  "id": 769523,
+  "type": "Feature",
+  "properties": {
+    "name":"S Breijo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":769523,
+    "woe:name":"S Breijo, Galicia, Spain",
+    "woe:place_id":"poR9bfaeB5XSd84",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.842178,43.159111,-7.837715,43.162556],
+  "geometry": {"alpha":0.00015,"bbox":[-7.8421778678894,43.159111022949,-7.8377151489258,43.16255569458],"coordinates":[[[[-7.839088,43.162243],[-7.837715,43.159363],[-7.838745,43.159111],[-7.842178,43.161366],[-7.839431,43.162556],[-7.839088,43.162243]]]],"created":1292439939,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/769523_20101215_faa8e746a8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

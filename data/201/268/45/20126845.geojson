@@ -1,0 +1,15 @@
+{
+  "id": 20126845,
+  "type": "Feature",
+  "properties": {
+    "name":"Granelli, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":20126845,
+    "woe:name":"Granelli, Sicily, Italy",
+    "woe:place_id":"iOqlEcObAZ3CGlW6Zg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.995651,36.699299,15.022988,36.714367],
+  "geometry": {"alpha":0.00015,"bbox":[14.995651245117,36.699298858643,15.022988319397,36.714366912842],"coordinates":[[[[15.015896,36.714367],[15.016164,36.712948],[15.022988,36.699299],[15.002946,36.706688],[14.995651,36.711365],[15.015166,36.714203],[15.015896,36.714367]]]],"created":1292471343,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/20126845_20101216_a62c1c217e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

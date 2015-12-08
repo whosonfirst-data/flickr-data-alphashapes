@@ -1,0 +1,15 @@
+{
+  "id": 2441281,
+  "type": "Feature",
+  "properties": {
+    "name":"London, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2441281,
+    "woe:name":"London, Michigan, United States",
+    "woe:place_id":"8bAlH4CbBZi9CfDU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.625824,42.031528,-83.611992,42.038399],
+  "geometry": {"alpha":0.00015,"bbox":[-83.625823974609,42.0315284729,-83.611991882324,42.038398742676],"coordinates":[[[[-83.613609,42.031528],[-83.6175,42.032864],[-83.625824,42.038399],[-83.613327,42.033829],[-83.612877,42.033855],[-83.611992,42.032452],[-83.613609,42.031528]]]],"created":1292549010,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2441281_20101217_4f1a770ab6.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

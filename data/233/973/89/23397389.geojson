@@ -1,0 +1,15 @@
+{
+  "id": 23397389,
+  "type": "Feature",
+  "properties": {
+    "name":"Westmeath, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397389,
+    "woe:name":"Westmeath, Ontario, Canada",
+    "woe:place_id":"t4vH25SbAp8bLlolVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.864555,45.781769,-76.858551,45.787895],
+  "geometry": {"alpha":0.00015,"bbox":[-76.864555358887,45.781768798828,-76.858551025391,45.787895202637],"coordinates":[[[[-76.861382,45.787155],[-76.858551,45.787895],[-76.860397,45.784672],[-76.864555,45.781769],[-76.861382,45.787155]]]],"created":1292521022,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/23397389_20101216_6ac16f0d6b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

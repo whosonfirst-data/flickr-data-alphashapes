@@ -1,0 +1,15 @@
+{
+  "id": 2464628,
+  "type": "Feature",
+  "properties": {
+    "name":"Ola, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2464628,
+    "woe:name":"Ola, Arkansas, United States",
+    "woe:place_id":"v8jlDLWbBZqRFPRk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.226799,35.026707,-93.215904,35.035706],
+  "geometry": {"alpha":0.00015,"bbox":[-93.22679901123,35.026706695557,-93.21590423584,35.035705566406],"coordinates":[[[[-93.224777,35.032486],[-93.221207,35.035706],[-93.215904,35.033508],[-93.220535,35.027184],[-93.226799,35.026707],[-93.224777,35.032486]]]],"created":1292529955,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2464628_20101216_c822026efe.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

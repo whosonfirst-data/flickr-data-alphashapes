@@ -1,0 +1,15 @@
+{
+  "id": 1216,
+  "type": "Feature",
+  "properties": {
+    "name":"Pointe-au-Pic, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1216,
+    "woe:name":"Pointe-au-Pic, Quebec, Canada",
+    "woe:place_id":"cc3vmLiYA52h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.154182,47.610329,-70.133972,47.642262],
+  "geometry": {"alpha":0.00015,"bbox":[-70.154182434082,47.610328674316,-70.133972167969,47.642261505127],"coordinates":[[[[-70.13826,47.631168],[-70.137321,47.623203],[-70.142105,47.610329],[-70.147987,47.615028],[-70.154182,47.621872],[-70.147278,47.632183],[-70.151054,47.642262],[-70.147362,47.639832],[-70.142189,47.638153],[-70.133972,47.63879],[-70.13826,47.631168]]]],"created":1292546935,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/1216_20101217_49d24dc14d.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

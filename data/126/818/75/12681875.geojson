@@ -1,0 +1,15 @@
+{
+  "id": 12681875,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonarcado, Italy",
+    "placetype":"locality",
+    "woe:id":12681875,
+    "woe:name":"Bonarcado, Italy",
+    "woe:place_id":"bn4ADmWYA5pNmvIfPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.654823,40.095669,8.656883,40.098297],
+  "geometry": {"alpha":1e-05,"bbox":[8.6548233032227,40.095668792725,8.6568832397461,40.098297119141],"coordinates":[[[[8.656539,40.096985],[8.656883,40.095669],[8.654823,40.096394],[8.655166,40.097244],[8.655681,40.098297],[8.656539,40.097244],[8.656539,40.096985]]]],"created":1292487725,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12681875_20101216_dc64c96bf4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3538,
+  "type": "Feature",
+  "properties": {
+    "name":"East Angus, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3538,
+    "woe:name":"East Angus, Quebec, Canada",
+    "woe:place_id":"XN3iHhiaBJ85",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.684074,45.46928,-71.644547,45.483738],
+  "geometry": {"alpha":0.00015,"bbox":[-71.684074401855,45.46928024292,-71.644546508789,45.483737945557],"coordinates":[[[[-71.644547,45.47366],[-71.654205,45.46928],[-71.667381,45.477238],[-71.684074,45.470486],[-71.671761,45.482349],[-71.664642,45.480816],[-71.654419,45.483738],[-71.645622,45.481918],[-71.644547,45.47366]]]],"created":1292484182,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/3538_20101216_1f936a1b0b.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28584890,
+  "type": "Feature",
+  "properties": {
+    "name":"Dutton Way, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28584890,
+    "woe:name":"Dutton Way, Victoria, Australia",
+    "woe:place_id":"c0XW__CbCZmNPslJQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [141.610077,-38.304825,141.62648,-38.286926],
+  "geometry": {"alpha":0.00015,"bbox":[141.6100769043,-38.304824829102,141.62648010254,-38.286926269531],"coordinates":[[[[141.62648,-38.286926],[141.621384,-38.299332],[141.610077,-38.304825],[141.620331,-38.29866],[141.62648,-38.286926]]]],"created":1292449615,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/28584890_20101215_2d5c5b99a3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

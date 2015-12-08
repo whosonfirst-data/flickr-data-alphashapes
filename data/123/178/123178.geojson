@@ -1,0 +1,15 @@
+{
+  "id": 123178,
+  "type": "Feature",
+  "properties": {
+    "name":"Empalme, Sonora, Mexico",
+    "placetype":"locality",
+    "woe:id":123178,
+    "woe:name":"Empalme, Sonora, Mexico",
+    "woe:place_id":"w2x4LEKYA59s5Hs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.832138,27.955132,-110.811707,27.974089],
+  "geometry": {"alpha":0.00015,"bbox":[-110.83213806152,27.955131530762,-110.81170654297,27.974088668823],"coordinates":[[[[-110.811707,27.974089],[-110.816772,27.96666],[-110.827034,27.955132],[-110.827332,27.956045],[-110.832138,27.971512],[-110.818665,27.971207],[-110.811707,27.974089]]]],"created":1292504884,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/123178_20101216_0f99afc28a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

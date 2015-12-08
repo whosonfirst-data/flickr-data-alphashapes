@@ -1,0 +1,15 @@
+{
+  "id": 2496891,
+  "type": "Feature",
+  "properties": {
+    "name":"South Waverly, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2496891,
+    "woe:name":"South Waverly, Pennsylvania, United States",
+    "woe:place_id":"zDLGanGbBZXqckgE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.545525,41.989975,-76.523483,42.001377],
+  "geometry": {"alpha":0.00015,"bbox":[-76.545524597168,41.989974975586,-76.523483276367,42.001377105713],"coordinates":[[[[-76.524048,41.997303],[-76.523483,41.989975],[-76.526474,41.991013],[-76.545525,41.990376],[-76.543251,42.001377],[-76.524048,41.997303]]]],"created":1292522223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2496891_20101216_89cf865126.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

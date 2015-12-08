@@ -1,0 +1,15 @@
+{
+  "id": 818543,
+  "type": "Feature",
+  "properties": {
+    "name":"Beckov, Trenciansky, Slovakia",
+    "placetype":"locality",
+    "woe:id":818543,
+    "woe:name":"Beckov, Trenciansky, Slovakia",
+    "woe:place_id":"USfvviKRAJSt1BY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.892609,48.786167,17.898617,48.798271],
+  "geometry": {"alpha":0.00015,"bbox":[17.892608642578,48.786167144775,17.898616790771,48.798271179199],"coordinates":[[[[17.898617,48.790806],[17.897415,48.789677],[17.895184,48.787525],[17.894497,48.786846],[17.892609,48.786167],[17.895012,48.798271],[17.898617,48.790806]]]],"created":1292547304,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/818543_20101217_709589e440.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

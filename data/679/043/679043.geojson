@@ -1,0 +1,15 @@
+{
+  "id": 679043,
+  "type": "Feature",
+  "properties": {
+    "name":"Neustadt, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":679043,
+    "woe:name":"Neustadt, Saxony, Germany",
+    "woe:place_id":"aPYyXbOfBpVA5q4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.203503,51.021549,14.215021,51.025768],
+  "geometry": {"alpha":0.00015,"bbox":[14.203502655029,51.021549224854,14.215021133423,51.025768280029],"coordinates":[[[[14.213197,51.021549],[14.203503,51.021954],[14.208457,51.024067],[14.210225,51.024498],[14.213047,51.025631],[14.215021,51.025768],[14.213197,51.021549]]]],"created":1292518258,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/679043_20101216_488a9f8b23.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

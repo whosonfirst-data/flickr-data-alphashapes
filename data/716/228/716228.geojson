@@ -1,0 +1,15 @@
+{
+  "id": 716228,
+  "type": "Feature",
+  "properties": {
+    "name":"Giurdignano, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":716228,
+    "woe:name":"Giurdignano, Puglia, Italy",
+    "woe:place_id":"8zchPjKeAJqktn0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.422697,40.120876,18.439522,40.139778],
+  "geometry": {"alpha":0.00015,"bbox":[18.422697067261,40.120876312256,18.439521789551,40.139778137207],"coordinates":[[[[18.43199,40.12225],[18.422697,40.120876],[18.424179,40.124653],[18.435745,40.138596],[18.439522,40.139778],[18.434328,40.123783],[18.43199,40.12225]]]],"created":1247896809,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3439/shapefiles/716228_20090718_7bcdab6df6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2386389,
+  "type": "Feature",
+  "properties": {
+    "name":"Cox Crossing, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2386389,
+    "woe:name":"Cox Crossing, North Carolina, United States",
+    "woe:place_id":"TmP1JKCbApRFb0Fk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.340317,35.508369,-77.318855,35.522133],
+  "geometry": {"alpha":0.00015,"bbox":[-77.340316772461,35.508369445801,-77.318855285645,35.522132873535],"coordinates":[[[[-77.324181,35.519093],[-77.318855,35.522133],[-77.320122,35.511181],[-77.324348,35.508369],[-77.340317,35.522133],[-77.324181,35.519093]]]],"created":1292536720,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2386389_20101216_4baf820ed4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

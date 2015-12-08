@@ -1,0 +1,15 @@
+{
+  "id": 12663862,
+  "type": "Feature",
+  "properties": {
+    "name":"Marsilly, France",
+    "placetype":"locality",
+    "woe:id":12663862,
+    "woe:name":"Marsilly, France",
+    "woe:place_id":"2RIKYcCYA5qNRtIRFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.161664,46.230709,-1.157512,46.235249],
+  "geometry": {"alpha":1e-05,"bbox":[-1.1616640090942,46.230709075928,-1.1575119495392,46.235248565674],"coordinates":[[[[-1.161664,46.230732],[-1.16162,46.230709],[-1.161495,46.230896],[-1.161045,46.231609],[-1.160001,46.233707],[-1.157512,46.235249],[-1.159572,46.233646],[-1.161045,46.231609],[-1.161664,46.230732]]]],"created":1292544910,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12663862_20101217_b4c482ce29.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683842,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vittore, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683842,
+    "woe:name":"San Vittore, Switzerland",
+    "woe:place_id":"7qLqwDSYA5oxDW.Rkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.09831,46.252373,9.10818,46.259243],
+  "geometry": {"alpha":1e-05,"bbox":[9.0983104705811,46.252372741699,9.1081800460815,46.259243011475],"coordinates":[[[[9.100456,46.256691],[9.101314,46.257065],[9.105412,46.259243],[9.10818,46.2565],[9.10552,46.252373],[9.105606,46.257893],[9.101314,46.257065],[9.09831,46.25816],[9.100456,46.256691]]]],"created":1292543224,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12683842_20101216_c29eb3f95e.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

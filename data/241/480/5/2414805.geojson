@@ -1,0 +1,15 @@
+{
+  "id": 2414805,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwood Place, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2414805,
+    "woe:name":"Greenwood Place, Maryland, United States",
+    "woe:place_id":"fne1TLWbBZ3fS2WV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.122688,38.338696,-75.117645,38.342194],
+  "geometry": {"alpha":0.00015,"bbox":[-75.122688293457,38.338695526123,-75.117645263672,38.342193603516],"coordinates":[[[[-75.119621,38.338696],[-75.121971,38.339306],[-75.122688,38.339722],[-75.117645,38.342194],[-75.11821,38.339485],[-75.119621,38.338696]]]],"created":1292546707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2414805_20101217_8f539a4d0a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

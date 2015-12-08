@@ -1,0 +1,15 @@
+{
+  "id": 2375070,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlson, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2375070,
+    "woe:name":"Carlson, Nebraska, United States",
+    "woe:place_id":"S4X2bQWbApsw2oqz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.488029,41.919472,-103.487503,41.919804],
+  "geometry": {"alpha":0.00015,"bbox":[-103.48802947998,41.919471740723,-103.48750305176,41.919803619385],"coordinates":[[[[-103.487503,41.919525],[-103.487503,41.919472],[-103.487724,41.919613],[-103.488029,41.919804],[-103.487892,41.919804],[-103.487503,41.919525]]]],"created":1292521082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2375070_20101216_c9ab475d2f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

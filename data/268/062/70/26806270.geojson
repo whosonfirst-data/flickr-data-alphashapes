@@ -1,0 +1,15 @@
+{
+  "id": 26806270,
+  "type": "Feature",
+  "properties": {
+    "name":"Florida Adentro, Florida, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806270,
+    "woe:name":"Florida Adentro, Florida, Puerto Rico",
+    "woe:place_id":"2ZddfEKbB5R4o7JG8w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-66.590881,18.303684,-66.536293,18.357132],
+  "geometry": {"alpha":0.0015,"bbox":[-66.590881347656,18.303684234619,-66.536293029785,18.357131958008],"coordinates":[[[[-66.590881,18.310204],[-66.582642,18.357132],[-66.536293,18.347031],[-66.538177,18.304825],[-66.537834,18.303684],[-66.590881,18.310204]]]],"created":1248002764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2471/shapefiles/26806270_20090719_acbc83495f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

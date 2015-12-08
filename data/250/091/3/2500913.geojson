@@ -1,0 +1,15 @@
+{
+  "id": 2500913,
+  "type": "Feature",
+  "properties": {
+    "name":"Stringtown, Evansville, IN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2500913,
+    "woe:name":"Stringtown, Evansville, IN, US, United States",
+    "woe:place_id":"cml1YIabBJwGzPOl",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-87.559624,38.013157,-87.556946,38.016388],
+  "geometry": {"alpha":1e-05,"bbox":[-87.559623718262,38.013156890869,-87.556945800781,38.016387939453],"coordinates":[[[[-87.556946,38.016388],[-87.556946,38.016109],[-87.559624,38.013157],[-87.55722,38.016388],[-87.556946,38.016388]]]],"created":1292539817,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2500913_20101216_4928708828.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

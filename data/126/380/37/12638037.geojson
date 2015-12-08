@@ -1,0 +1,15 @@
+{
+  "id": 12638037,
+  "type": "Feature",
+  "properties": {
+    "name":"Baneuil, France",
+    "placetype":"locality",
+    "woe:id":12638037,
+    "woe:name":"Baneuil, France",
+    "woe:place_id":"WPdI01aYA5og4L5Z1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.700378,44.839676,0.709798,44.846268],
+  "geometry": {"alpha":1e-05,"bbox":[0.70037800073624,44.83967590332,0.70979797840118,44.846267700195],"coordinates":[[[[0.708618,44.841263],[0.706193,44.83997],[0.705013,44.839676],[0.700378,44.842968],[0.706107,44.842953],[0.709798,44.846268],[0.708618,44.841263]]]],"created":1292508123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12638037_20101216_39c248bcf7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

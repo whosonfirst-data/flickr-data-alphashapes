@@ -1,0 +1,15 @@
+{
+  "id": 23403828,
+  "type": "Feature",
+  "properties": {
+    "name":"Katepwa Beach, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":23403828,
+    "woe:name":"Katepwa Beach, Saskatchewan, Canada",
+    "woe:place_id":"N5Sp.H6bApiaUCvdPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.648453,50.694824,-103.625229,50.71138],
+  "geometry": {"alpha":0.00015,"bbox":[-103.64845275879,50.69482421875,-103.62522888184,50.711380004883],"coordinates":[[[[-103.63073,50.71138],[-103.625229,50.698318],[-103.630424,50.695259],[-103.638992,50.694824],[-103.648453,50.710808],[-103.63073,50.71138]]]],"created":1292449438,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23403828_20101215_ab765d126e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12684338,
+  "type": "Feature",
+  "properties": {
+    "name":"San Nazzaro, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684338,
+    "woe:name":"San Nazzaro, Switzerland",
+    "woe:place_id":"VpqlO86YA5p_9U3XKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.793611,46.147057,8.799774,46.14957],
+  "geometry": {"alpha":1e-05,"bbox":[8.7936105728149,46.14705657959,8.7997741699219,46.149570465088],"coordinates":[[[[8.793654,46.147522],[8.793611,46.148056],[8.798503,46.14957],[8.799774,46.147057],[8.794491,46.147491],[8.793654,46.147522]]]],"created":1292546741,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12684338_20101217_8e904b7acf.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

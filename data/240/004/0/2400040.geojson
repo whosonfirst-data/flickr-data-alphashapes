@@ -1,0 +1,15 @@
+{
+  "id": 2400040,
+  "type": "Feature",
+  "properties": {
+    "name":"Erie, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2400040,
+    "woe:name":"Erie, Florida, United States",
+    "woe:place_id":"xoG6F2ybBZyVswic",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.491165,27.561699,-82.480339,27.591885],
+  "geometry": {"alpha":0.00015,"bbox":[-82.491165161133,27.561698913574,-82.480339050293,27.591884613037],"coordinates":[[[[-82.480339,27.561699],[-82.485992,27.574785],[-82.491165,27.591885],[-82.480499,27.577257],[-82.480339,27.561699]]]],"created":1292549753,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2400040_20101217_0a8fdd2501.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

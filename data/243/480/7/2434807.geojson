@@ -1,0 +1,15 @@
+{
+  "id": 2434807,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Colby, New York, United States",
+    "placetype":"locality",
+    "woe:id":2434807,
+    "woe:name":"Lake Colby, New York, United States",
+    "woe:place_id":"CuSw5xmbBZ8WoqQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.159088,44.344276,-74.144852,44.363438],
+  "geometry": {"alpha":0.00015,"bbox":[-74.159088134766,44.344276428223,-74.14485168457,44.363437652588],"coordinates":[[[[-74.144852,44.345764],[-74.153725,44.344276],[-74.159088,44.345581],[-74.151093,44.363438],[-74.145271,44.34885],[-74.144852,44.345764]]]],"created":1247975885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2472/shapefiles/2434807_20090719_61d651ce1e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28340784,
+  "type": "Feature",
+  "properties": {
+    "name":"Iron Mountain, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":28340784,
+    "woe:name":"Iron Mountain, Wyoming, United States",
+    "woe:place_id":"8wbRlzybCZ_Hq4.DXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.838234,41.184402,-104.822701,41.200371],
+  "geometry": {"alpha":0.00015,"bbox":[-104.83823394775,41.18440246582,-104.82270050049,41.200370788574],"coordinates":[[[[-104.838196,41.195286],[-104.838234,41.200371],[-104.836693,41.198936],[-104.822701,41.18705],[-104.836433,41.184402],[-104.838196,41.195286]]]],"created":1292390762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/28340784_20101215_3d847e7e9d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

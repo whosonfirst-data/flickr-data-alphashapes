@@ -1,0 +1,15 @@
+{
+  "id": 260,
+  "type": "Feature",
+  "properties": {
+    "name":"Chalk River, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":260,
+    "woe:name":"Chalk River, Ontario, Canada",
+    "woe:place_id":"7HczPmObB5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.459343,46.000061,-77.430077,46.028343],
+  "geometry": {"alpha":0.00015,"bbox":[-77.459342956543,46.000061035156,-77.430076599121,46.028343200684],"coordinates":[[[[-77.449448,46.018154],[-77.444733,46.013176],[-77.430077,46.007145],[-77.43029,46.006775],[-77.442284,46.003876],[-77.448463,46.000061],[-77.451637,46.003937],[-77.453423,46.01556],[-77.4543,46.019615],[-77.459343,46.028343],[-77.449448,46.018154]]]],"created":1292542763,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/260_20101216_2bf3c8fa4d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

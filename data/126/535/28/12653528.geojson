@@ -1,0 +1,15 @@
+{
+  "id": 12653528,
+  "type": "Feature",
+  "properties": {
+    "name":"Tancarville, France",
+    "placetype":"locality",
+    "woe:id":12653528,
+    "woe:name":"Tancarville, France",
+    "woe:place_id":"n_N.14KYA5pNP20Y9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.457649,49.471638,0.465803,49.477627],
+  "geometry": {"alpha":1e-05,"bbox":[0.45764899253845,49.47163772583,0.46580299735069,49.477626800537],"coordinates":[[[[0.462284,49.474789],[0.461854,49.475319],[0.457649,49.476154],[0.461511,49.477627],[0.462445,49.47488],[0.464172,49.473423],[0.464429,49.472919],[0.465803,49.471638],[0.462627,49.472027],[0.462284,49.474789]]]],"created":1292530067,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12653528_20101216_f9b9506d87.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

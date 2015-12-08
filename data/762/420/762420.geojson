@@ -1,0 +1,15 @@
+{
+  "id": 762420,
+  "type": "Feature",
+  "properties": {
+    "name":"Huerta, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":762420,
+    "woe:name":"Huerta, Castille and Leon, Spain",
+    "woe:place_id":"weyAL06eB54WlZ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.478057,40.964855,-5.468273,40.97316],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4780569076538,40.964855194092,-5.4682731628418,40.973159790039],"coordinates":[[[[-5.475053,40.970306],[-5.478057,40.97316],[-5.473594,40.972771],[-5.468273,40.971149],[-5.469474,40.964855],[-5.475053,40.970306]]]],"created":1292528109,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/762420_20101216_9531512dae.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

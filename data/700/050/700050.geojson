@@ -1,0 +1,15 @@
+{
+  "id": 700050,
+  "type": "Feature",
+  "properties": {
+    "name":"Trinis, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":700050,
+    "woe:name":"Trinis, Bavaria, Germany",
+    "woe:place_id":"D3CXadGeAZzU6uk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.763782,47.660667,11.791,47.675087],
+  "geometry": {"alpha":0.00015,"bbox":[11.763781547546,47.660667419434,11.791000366211,47.675086975098],"coordinates":[[[[11.778333,47.665333],[11.763782,47.669605],[11.765241,47.672497],[11.77664,47.675087],[11.784896,47.669086],[11.791,47.660667],[11.778333,47.665333]]]],"created":1292537844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/700050_20101216_f6996e7e77.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2515781,
+  "type": "Feature",
+  "properties": {
+    "name":"Web, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2515781,
+    "woe:name":"Web, Oregon, United States",
+    "woe:place_id":"GWRzjrabBJ0hdlSC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.933731,45.341076,-122.918503,45.360355],
+  "geometry": {"alpha":0.00015,"bbox":[-122.9337310791,45.341075897217,-122.91850280762,45.360355377197],"coordinates":[[[[-122.931,45.360355],[-122.918503,45.341724],[-122.921219,45.341076],[-122.933731,45.358387],[-122.931,45.360355]]]],"created":1292530875,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2515781_20101216_cb8f6c9d6a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

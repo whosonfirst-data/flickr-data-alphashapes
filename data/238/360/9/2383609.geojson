@@ -1,0 +1,15 @@
+{
+  "id": 2383609,
+  "type": "Feature",
+  "properties": {
+    "name":"Columbia Heights, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2383609,
+    "woe:name":"Columbia Heights, Oregon, United States",
+    "woe:place_id":"AD8wVgybApQipA2C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.854958,45.853828,-122.834808,45.864498],
+  "geometry": {"alpha":0.00015,"bbox":[-122.85495758057,45.853828430176,-122.83480834961,45.864498138428],"coordinates":[[[[-122.841164,45.864498],[-122.834808,45.863491],[-122.841881,45.853828],[-122.854958,45.861324],[-122.841164,45.864498]]]],"created":1234668003,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3477/shapefiles/2383609_20090215_ba0efc84df.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

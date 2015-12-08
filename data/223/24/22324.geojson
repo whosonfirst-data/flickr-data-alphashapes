@@ -1,0 +1,15 @@
+{
+  "id": 22324,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamstreet, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22324,
+    "woe:name":"Hamstreet, England, United Kingdom",
+    "woe:place_id":"i9CoEfObA59wOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.848693,51.061466,0.8638,51.072792],
+  "geometry": {"alpha":0.00015,"bbox":[0.84869301319122,51.061466217041,0.86379998922348,51.072792053223],"coordinates":[[[[0.85601,51.063198],[0.848693,51.06168],[0.849723,51.072792],[0.856042,51.070034],[0.857448,51.068371],[0.8638,51.061466],[0.856577,51.063175],[0.85601,51.063198]]]],"created":1292543179,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/22324_20101216_2760b26257.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

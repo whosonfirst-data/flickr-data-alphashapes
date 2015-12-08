@@ -1,0 +1,15 @@
+{
+  "id": 741448,
+  "type": "Feature",
+  "properties": {
+    "name":"Foz de Sousa, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":741448,
+    "woe:name":"Foz de Sousa, Porto, Portugal",
+    "woe:place_id":"rwkDta6eBZ3Ez3M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.498622,41.088993,-8.493129,41.09866],
+  "geometry": {"alpha":0.00015,"bbox":[-8.4986219406128,41.08899307251,-8.4931287765503,41.098659515381],"coordinates":[[[[-8.498622,41.096424],[-8.498611,41.096626],[-8.494791,41.09866],[-8.493129,41.088993],[-8.498514,41.096176],[-8.498622,41.096424]]]],"created":1292542815,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/741448_20101216_b4b45ffab5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

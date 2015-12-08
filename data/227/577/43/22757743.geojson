@@ -1,0 +1,15 @@
+{
+  "id": 22757743,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Maime, France",
+    "placetype":"locality",
+    "woe:id":22757743,
+    "woe:name":"St.-Maime, France",
+    "woe:place_id":"4ru4C62bA5vdP0ax4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.791941,43.904465,5.794773,43.90514],
+  "geometry": {"alpha":1e-05,"bbox":[5.7919411659241,43.90446472168,5.7947731018066,43.905139923096],"coordinates":[[[[5.792025,43.904491],[5.791941,43.904465],[5.792669,43.904999],[5.79283,43.90514],[5.794773,43.905109],[5.792238,43.904568],[5.792025,43.904491]]]],"created":1292463243,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/22757743_20101216_e47d39ba55.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

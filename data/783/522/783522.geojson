@@ -1,0 +1,15 @@
+{
+  "id": 783522,
+  "type": "Feature",
+  "properties": {
+    "name":"Wichtrach, Canton of Berne, Switzerland",
+    "placetype":"locality",
+    "woe:id":783522,
+    "woe:name":"Wichtrach, Canton of Berne, Switzerland",
+    "woe:place_id":"L2TNndKeCZ8k3dU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.563228,46.840042,7.578141,46.862747],
+  "geometry": {"alpha":0.00015,"bbox":[7.5632281303406,46.840042114258,7.5781412124634,46.862747192383],"coordinates":[[[[7.563228,46.858723],[7.573184,46.862747],[7.574333,46.860664],[7.578141,46.850761],[7.574,46.848],[7.567005,46.840042],[7.563228,46.858723]]]],"created":1292451367,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/783522_20101215_ccce69a282.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

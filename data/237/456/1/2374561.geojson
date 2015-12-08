@@ -1,0 +1,15 @@
+{
+  "id": 2374561,
+  "type": "Feature",
+  "properties": {
+    "name":"Canyon City, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2374561,
+    "woe:name":"Canyon City, Oregon, United States",
+    "woe:place_id":"HemfMUabAptE4F59",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.949768,44.388046,-118.939041,44.394955],
+  "geometry": {"alpha":0.00015,"bbox":[-118.94976806641,44.388046264648,-118.9390411377,44.394954681396],"coordinates":[[[[-118.949768,44.388046],[-118.948288,44.394787],[-118.948029,44.394955],[-118.941467,44.392349],[-118.939041,44.392029],[-118.948959,44.388435],[-118.949768,44.388046]]]],"created":1292537360,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2374561_20101216_dbc62558da.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

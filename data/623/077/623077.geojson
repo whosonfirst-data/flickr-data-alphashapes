@@ -1,0 +1,15 @@
+{
+  "id": 623077,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Aubin, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":623077,
+    "woe:name":"St-Aubin, Aquitaine, France",
+    "woe:place_id":"4PBa9PifA59_CJ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.582618,44.785622,0.601329,44.801571],
+  "geometry": {"alpha":0.00015,"bbox":[0.58261799812317,44.785621643066,0.60132902860641,44.801570892334],"coordinates":[[[[0.598154,44.801571],[0.601329,44.793468],[0.595985,44.785622],[0.593883,44.793606],[0.582618,44.7995],[0.598154,44.801571]]]],"created":1292438824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/623077_20101215_686edf6762.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12665064,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Georges-sur-Loire, France",
+    "placetype":"locality",
+    "woe:id":12665064,
+    "woe:name":"St.-Georges-sur-Loire, France",
+    "woe:place_id":"zKVBU6OYA5r5msu6sg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.747413,47.415253,-0.744152,47.415455],
+  "geometry": {"alpha":1e-05,"bbox":[-0.74741297960281,47.415252685547,-0.74415200948715,47.415454864502],"coordinates":[[[[-0.745106,47.41544],[-0.744152,47.415455],[-0.744506,47.415276],[-0.745021,47.415279],[-0.747413,47.415253],[-0.745106,47.41544]]]],"created":1292523415,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12665064_20101216_ba3eb61cb9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12685012,
+  "type": "Feature",
+  "properties": {
+    "name":"Montagny, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685012,
+    "woe:name":"Montagny, Switzerland",
+    "woe:place_id":"9.9gJ0eYA5rTVb6.8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.993055,46.807213,6.997561,46.810627],
+  "geometry": {"alpha":1e-05,"bbox":[6.9930548667908,46.80721282959,6.9975609779358,46.810626983643],"coordinates":[[[[6.997561,46.809692],[6.994943,46.807213],[6.993055,46.810627],[6.994868,46.809792],[6.997561,46.809692]]]],"created":1292480043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12685012_20101216_38d49f81c0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

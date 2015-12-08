@@ -1,0 +1,15 @@
+{
+  "id": 20153624,
+  "type": "Feature",
+  "properties": {
+    "name":"Fritz am Sand, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153624,
+    "woe:name":"Fritz am Sand, Bavaria, Germany",
+    "woe:place_id":"qw59o2KbAZ3R_ckyvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.66891,47.718136,12.69453,47.734821],
+  "geometry": {"alpha":0.00015,"bbox":[12.66891002655,47.71813583374,12.694529533386,47.73482131958],"coordinates":[[[[12.68644,47.732048],[12.693843,47.728008],[12.69453,47.718136],[12.686119,47.728413],[12.66891,47.733017],[12.669639,47.734821],[12.68644,47.732048]]]],"created":1292454913,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/20153624_20101215_16e3b135dc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

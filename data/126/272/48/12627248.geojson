@@ -1,0 +1,15 @@
+{
+  "id": 12627248,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neuleiningen, Germany",
+    "placetype":"locality",
+    "woe:id":12627248,
+    "woe:name":"Gemeinde Neuleiningen, Germany",
+    "woe:place_id":"Z9QwEa6YA5pb0P6Zwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.138809,49.541683,8.140563,49.543018],
+  "geometry": {"alpha":1e-05,"bbox":[8.1388092041016,49.541683197021,8.1405630111694,49.543018341064],"coordinates":[[[[8.140119,49.542892],[8.140563,49.542683],[8.140182,49.541683],[8.138809,49.542923],[8.139694,49.543018],[8.140119,49.542892]]]],"created":1292524503,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12627248_20101216_40628828d8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

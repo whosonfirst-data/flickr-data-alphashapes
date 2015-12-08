@@ -1,0 +1,15 @@
+{
+  "id": 2441332,
+  "type": "Feature",
+  "properties": {
+    "name":"Lone Elm, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2441332,
+    "woe:name":"Lone Elm, Missouri, United States",
+    "woe:place_id":"ECUqgvabBZgYK6hg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.531944,37.114986,-94.509026,37.121246],
+  "geometry": {"alpha":0.00015,"bbox":[-94.531944274902,37.114986419678,-94.50902557373,37.121246337891],"coordinates":[[[[-94.51033,37.120441],[-94.509026,37.115021],[-94.51403,37.117237],[-94.531944,37.114986],[-94.520447,37.121246],[-94.51033,37.120441]]]],"created":1292451804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2441332_20101215_1bca9c9e77.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

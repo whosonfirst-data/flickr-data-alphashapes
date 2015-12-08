@@ -1,0 +1,15 @@
+{
+  "id": 12624090,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Uhingen, Germany",
+    "placetype":"locality",
+    "woe:id":12624090,
+    "woe:name":"Gemeinde Uhingen, Germany",
+    "woe:place_id":"vGNvpMuYA5peP.sFeg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.56995,48.71204,9.57153,48.71339],
+  "geometry": {"alpha":1e-05,"bbox":[9.5699501037598,48.71203994751,9.5715303421021,48.713390350342],"coordinates":[[[[9.570078,48.71339],[9.570239,48.713348],[9.570325,48.71331],[9.57153,48.71204],[9.56995,48.713333],[9.570078,48.71339]]]],"created":1292522331,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12624090_20101216_392e3e9441.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

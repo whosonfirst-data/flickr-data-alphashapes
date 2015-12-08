@@ -1,0 +1,15 @@
+{
+  "id": 20151901,
+  "type": "Feature",
+  "properties": {
+    "name":"Castellaro, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20151901,
+    "woe:name":"Castellaro, Lombardy, Italy",
+    "woe:place_id":"ERdWCOObAZ0KBXcqQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.076681,44.966499,9.078848,44.978497],
+  "geometry": {"alpha":0.00015,"bbox":[9.076681137085,44.966499328613,9.0788478851318,44.978496551514],"coordinates":[[[[9.078848,44.978497],[9.077689,44.973404],[9.076681,44.966499],[9.076874,44.971706],[9.07711,44.978298],[9.078848,44.978497]]]],"created":1292530162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/20151901_20101216_1c8ec55400.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

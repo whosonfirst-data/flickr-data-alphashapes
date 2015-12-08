@@ -1,0 +1,15 @@
+{
+  "id": 131334,
+  "type": "Feature",
+  "properties": {
+    "name":"Loma Bonita, Oaxaca, Mexico",
+    "placetype":"locality",
+    "woe:id":131334,
+    "woe:name":"Loma Bonita, Oaxaca, Mexico",
+    "woe:place_id":".Zpb3fiYAp1PDRs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.886436,18.10523,-95.869789,18.116976],
+  "geometry": {"alpha":0.00015,"bbox":[-95.886436462402,18.105230331421,-95.869789123535,18.116975784302],"coordinates":[[[[-95.869789,18.11587],[-95.879898,18.10523],[-95.880478,18.105719],[-95.883949,18.109308],[-95.886436,18.116976],[-95.869789,18.11587]]]],"created":1292530491,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/131334_20101216_120e1076d6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

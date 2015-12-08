@@ -1,0 +1,15 @@
+{
+  "id": 666875,
+  "type": "Feature",
+  "properties": {
+    "name":"Kleinfriesen, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":666875,
+    "woe:name":"Kleinfriesen, Saxony, Germany",
+    "woe:place_id":"gvMwTCefB5pSSGI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.182166,50.489498,12.206666,50.499001],
+  "geometry": {"alpha":0.00015,"bbox":[12.182166099548,50.489498138428,12.206665992737,50.499000549316],"coordinates":[[[[12.192333,50.497665],[12.194,50.498165],[12.2,50.498665],[12.206666,50.494835],[12.188333,50.489498],[12.182166,50.499001],[12.192333,50.497665]]]],"created":1292447277,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/666875_20101215_0c8ba13b5d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

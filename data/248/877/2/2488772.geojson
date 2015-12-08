@@ -1,0 +1,15 @@
+{
+  "id": 2488772,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanitarium, California, United States",
+    "placetype":"locality",
+    "woe:id":2488772,
+    "woe:name":"Sanitarium, California, United States",
+    "woe:place_id":"BN3ufPCbBZRHgNUK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.475113,38.542591,-122.470825,38.551926],
+  "geometry": {"alpha":0.00015,"bbox":[-122.47511291504,38.542591094971,-122.47082519531,38.55192565918],"coordinates":[[[[-122.475113,38.542686],[-122.472496,38.551926],[-122.472191,38.550491],[-122.470825,38.545277],[-122.47216,38.542591],[-122.475113,38.542686]]]],"created":1292527324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2488772_20101216_7be72e92db.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

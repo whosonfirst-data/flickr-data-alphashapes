@@ -1,0 +1,15 @@
+{
+  "id": 28747517,
+  "type": "Feature",
+  "properties": {
+    "name":"Bijou, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":28747517,
+    "woe:name":"Bijou, Colorado, United States",
+    "woe:place_id":"Mc2W6sCbCZsbQKD7rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.884499,40.251064,-103.869377,40.258667],
+  "geometry": {"alpha":0.00015,"bbox":[-103.88449859619,40.251064300537,-103.86937713623,40.258666992188],"coordinates":[[[[-103.874001,40.258667],[-103.869377,40.251064],[-103.884499,40.251167],[-103.878296,40.255821],[-103.874641,40.258472],[-103.874001,40.258667]]]],"created":1292446296,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/28747517_20101215_190219c2ac.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2355776,
+  "type": "Feature",
+  "properties": {
+    "name":"Argyle, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2355776,
+    "woe:name":"Argyle, Iowa, United States",
+    "woe:place_id":"B5sXZJWbAplPaEWL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.575333,40.524239,-91.563576,40.535851],
+  "geometry": {"alpha":0.00015,"bbox":[-91.575332641602,40.524238586426,-91.563575744629,40.535850524902],"coordinates":[[[[-91.567955,40.535851],[-91.563576,40.531494],[-91.575333,40.524239],[-91.572418,40.531609],[-91.567955,40.535851]]]],"created":1292539707,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2355776_20101216_bc5e37105d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

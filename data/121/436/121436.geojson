@@ -1,0 +1,15 @@
+{
+  "id": 121436,
+  "type": "Feature",
+  "properties": {
+    "name":"El Pescadito, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":121436,
+    "woe:name":"El Pescadito, San Luis Potosi, Mexico",
+    "woe:place_id":"TqWCj2yYA50RnY4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.081329,21.87719,-100.073776,21.881571],
+  "geometry": {"alpha":0.00015,"bbox":[-100.0813293457,21.87718963623,-100.07377624512,21.88157081604],"coordinates":[[[[-100.076439,21.87719],[-100.081329,21.881571],[-100.075317,21.879419],[-100.073776,21.878702],[-100.076439,21.87719]]]],"created":1292537118,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/121436_20101216_ab547eba4d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 703154,
+  "type": "Feature",
+  "properties": {
+    "name":"Wadrill, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":703154,
+    "woe:name":"Wadrill, Saarland, Germany",
+    "woe:place_id":"UE7cb.eeAZ93w8E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.858,49.59882,6.875194,49.605289],
+  "geometry": {"alpha":0.00015,"bbox":[6.8579998016357,49.598819732666,6.8751940727234,49.605289459229],"coordinates":[[[[6.874861,49.605289],[6.875194,49.605267],[6.874841,49.605289],[6.862649,49.59882],[6.858,49.605],[6.874841,49.605289],[6.874861,49.605289]]]],"created":1292458590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/703154_20101216_d65fea6354.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

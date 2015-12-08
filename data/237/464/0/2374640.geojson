@@ -1,0 +1,15 @@
+{
+  "id": 2374640,
+  "type": "Feature",
+  "properties": {
+    "name":"Cape Fear, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2374640,
+    "woe:name":"Cape Fear, North Carolina, United States",
+    "woe:place_id":"Wx_rhgmbApubHsv9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.826485,35.421196,-78.810165,35.449116],
+  "geometry": {"alpha":0.00015,"bbox":[-78.826484680176,35.421195983887,-78.810165405273,35.449115753174],"coordinates":[[[[-78.826485,35.430595],[-78.82592,35.446476],[-78.81897,35.449116],[-78.815147,35.431164],[-78.810455,35.423862],[-78.810165,35.421196],[-78.826485,35.430595]]]],"created":1292530802,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2374640_20101216_97b85b778d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

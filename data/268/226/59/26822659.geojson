@@ -1,0 +1,15 @@
+{
+  "id": 26822659,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadtteil Marienburg, Germany",
+    "placetype":"locality",
+    "woe:id":26822659,
+    "woe:name":"Stadtteil Marienburg, Germany",
+    "woe:place_id":"JuFCOISbB5Rb2J7lmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.979705,52.112949,9.983954,52.115189],
+  "geometry": {"alpha":1e-05,"bbox":[9.9797048568726,52.112949371338,9.9839544296265,52.115188598633],"coordinates":[[[[9.979838,52.114426],[9.979705,52.11462],[9.979856,52.115189],[9.983954,52.112949],[9.979963,52.114464],[9.979838,52.114426]]]],"created":1292547833,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/26822659_20101217_c71397db57.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

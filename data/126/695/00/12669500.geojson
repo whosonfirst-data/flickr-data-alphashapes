@@ -1,0 +1,15 @@
+{
+  "id": 12669500,
+  "type": "Feature",
+  "properties": {
+    "name":"Saujac, France",
+    "placetype":"locality",
+    "woe:id":12669500,
+    "woe:name":"Saujac, France",
+    "woe:place_id":"PVLNH6CYA5rMXXouKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.913251,44.484352,1.918916,44.486401],
+  "geometry": {"alpha":1e-05,"bbox":[1.913251042366,44.484352111816,1.9189159870148,44.486400604248],"coordinates":[[[[1.915419,44.486401],[1.916427,44.485851],[1.918916,44.484352],[1.914002,44.484543],[1.913251,44.485115],[1.915419,44.486401]]]],"created":1292522281,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12669500_20101216_094ccab9f8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

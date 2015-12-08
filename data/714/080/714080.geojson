@@ -1,0 +1,15 @@
+{
+  "id": 714080,
+  "type": "Feature",
+  "properties": {
+    "name":"Cicognolo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":714080,
+    "woe:name":"Cicognolo, Lombardy, Italy",
+    "woe:place_id":"9ZzaQPieAJhjxMU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.194239,45.162796,10.209388,45.166092],
+  "geometry": {"alpha":0.00015,"bbox":[10.19423866272,45.162796020508,10.209387779236,45.166091918945],"coordinates":[[[[10.198187,45.166092],[10.198831,45.165638],[10.209388,45.163521],[10.19823,45.162796],[10.195819,45.164551],[10.194239,45.165367],[10.198187,45.166092]]]],"created":1292523125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/714080_20101216_67b60766fe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

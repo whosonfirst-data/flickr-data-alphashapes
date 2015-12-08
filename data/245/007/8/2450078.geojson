@@ -1,0 +1,15 @@
+{
+  "id": 2450078,
+  "type": "Feature",
+  "properties": {
+    "name":"Miami Beach, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2450078,
+    "woe:name":"Miami Beach, Michigan, United States",
+    "woe:place_id":"GEl1vIqbBZl39ylQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.532608,45.393642,-84.530792,45.397636],
+  "geometry": {"alpha":0.00015,"bbox":[-84.532608032227,45.393642425537,-84.530792236328,45.397636413574],"coordinates":[[[[-84.532608,45.395565],[-84.531853,45.397636],[-84.530792,45.394562],[-84.531509,45.393642],[-84.532608,45.395565]]]],"created":1292444928,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2450078_20101215_cb0971af4d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

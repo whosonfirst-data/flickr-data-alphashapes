@@ -1,0 +1,15 @@
+{
+  "id": 12166,
+  "type": "Feature",
+  "properties": {
+    "name":"Beauchamp Roding, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12166,
+    "woe:name":"Beauchamp Roding, England, United Kingdom",
+    "woe:place_id":"EDttMluYA53Z7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.284206,51.764103,0.305557,51.769115],
+  "geometry": {"alpha":0.00015,"bbox":[0.28420600295067,51.764102935791,0.30555701255798,51.769115447998],"coordinates":[[[[0.285408,51.764103],[0.284206,51.765533],[0.28979,51.767609],[0.291438,51.767784],[0.305557,51.769115],[0.290966,51.766033],[0.285408,51.764103]]]],"created":1292498227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12166_20101216_afeca1f002.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

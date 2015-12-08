@@ -1,0 +1,15 @@
+{
+  "id": 2476920,
+  "type": "Feature",
+  "properties": {
+    "name":"Prospect, New York, United States",
+    "placetype":"locality",
+    "woe:id":2476920,
+    "woe:name":"Prospect, New York, United States",
+    "woe:place_id":"g_EmNjqbBZsB70jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.153992,43.281422,-75.133354,43.30368],
+  "geometry": {"alpha":0.00015,"bbox":[-75.153991699219,43.281421661377,-75.133354187012,43.303680419922],"coordinates":[[[[-75.146851,43.30368],[-75.133354,43.29834],[-75.138092,43.296028],[-75.153992,43.281422],[-75.148369,43.30357],[-75.146851,43.30368]]]],"created":1292548351,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2476920_20101217_9d9e5d2bb2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

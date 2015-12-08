@@ -1,0 +1,15 @@
+{
+  "id": 2482262,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverside, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2482262,
+    "woe:name":"Riverside, Alabama, United States",
+    "woe:place_id":"71uhgF2bBZTV2mXd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.493721,34.066772,-86.476448,34.077065],
+  "geometry": {"alpha":0.00015,"bbox":[-86.493721008301,34.066772460938,-86.476448059082,34.07706451416],"coordinates":[[[[-86.492958,34.067543],[-86.493721,34.06786],[-86.493034,34.068611],[-86.481117,34.077065],[-86.476448,34.06702],[-86.477936,34.066772],[-86.492958,34.067543]]]],"created":1292524350,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2482262_20101216_78102b794f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

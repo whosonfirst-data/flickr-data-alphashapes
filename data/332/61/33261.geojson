@@ -1,0 +1,15 @@
+{
+  "id": 33261,
+  "type": "Feature",
+  "properties": {
+    "name":"Rhydycroesau, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33261,
+    "woe:name":"Rhydycroesau, England, United Kingdom",
+    "woe:place_id":"8gK6c9yaAp5Esw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.137969,52.860218,-3.122177,52.869465],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1379690170288,52.860218048096,-3.1221768856049,52.869464874268],"coordinates":[[[[-3.122177,52.869465],[-3.123378,52.86602],[-3.132648,52.860218],[-3.137969,52.863949],[-3.126704,52.867245],[-3.122177,52.869465]]]],"created":1292465704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/33261_20101216_956d535121.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

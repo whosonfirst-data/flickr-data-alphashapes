@@ -1,0 +1,15 @@
+{
+  "id": 666699,
+  "type": "Feature",
+  "properties": {
+    "name":"Klein Ziethen, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":666699,
+    "woe:name":"Klein Ziethen, Brandenburg, Germany",
+    "woe:place_id":"G937kVSfB5ru.8Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.445397,52.376835,13.465134,52.387383],
+  "geometry": {"alpha":0.00015,"bbox":[13.445397377014,52.376834869385,13.465133666992,52.387382507324],"coordinates":[[[[13.465134,52.383236],[13.460089,52.378826],[13.452695,52.376835],[13.445397,52.380066],[13.462173,52.387383],[13.464879,52.38673],[13.465134,52.383236]]]],"created":1292483825,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/666699_20101216_0f4a1a5e08.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681620,
+  "type": "Feature",
+  "properties": {
+    "name":"San Floriano del Collio, Italy",
+    "placetype":"locality",
+    "woe:id":12681620,
+    "woe:name":"San Floriano del Collio, Italy",
+    "woe:place_id":"UlBLpuKYA5pfo7IJdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.582363,45.980385,13.588821,45.986107],
+  "geometry": {"alpha":1e-05,"bbox":[13.582363128662,45.98038482666,13.588821411133,45.986106872559],"coordinates":[[[[13.585406,45.981354],[13.582363,45.986107],[13.586654,45.983604],[13.588821,45.983425],[13.585453,45.980385],[13.585406,45.981354]]]],"created":1292544363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12681620_20101217_27f0f1b96b.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12654829,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris 7e Arrondissement, France",
+    "placetype":"locality",
+    "woe:id":12654829,
+    "woe:name":"Paris 7e Arrondissement, France",
+    "woe:place_id":"KuyjY2OYA5qkC_QppQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.29346,48.856895,2.297773,48.861538],
+  "geometry": {"alpha":1e-05,"bbox":[2.2934598922729,48.856895446777,2.2977728843689,48.86153793335],"coordinates":[[[[2.293524,48.858418],[2.29346,48.8591],[2.297773,48.861538],[2.295005,48.858368],[2.295112,48.856895],[2.293524,48.858418]]]],"created":1292538685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12654829_20101216_cdfba97bc2.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

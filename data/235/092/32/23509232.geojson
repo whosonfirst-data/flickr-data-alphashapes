@@ -1,0 +1,15 @@
+{
+  "id": 23509232,
+  "type": "Feature",
+  "properties": {
+    "name":"Hampton, New York, United States",
+    "placetype":"locality",
+    "woe:id":23509232,
+    "woe:name":"Hampton, New York, United States",
+    "woe:place_id":"1oyY.XebApmd78_GIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.247284,43.519489,-73.227821,43.566212],
+  "geometry": {"alpha":0.00015,"bbox":[-73.247283935547,43.51948928833,-73.227821350098,43.566211700439],"coordinates":[[[[-73.246811,43.519489],[-73.247284,43.521275],[-73.247124,43.528389],[-73.236748,43.541702],[-73.23764,43.553623],[-73.227821,43.566212],[-73.235634,43.549564],[-73.230568,43.537289],[-73.237778,43.531811],[-73.246613,43.519962],[-73.246811,43.519489]]]],"created":1292538780,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23509232_20101216_2f620a6be7.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

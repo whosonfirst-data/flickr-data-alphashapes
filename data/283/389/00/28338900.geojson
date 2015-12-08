@@ -1,0 +1,15 @@
+{
+  "id": 28338900,
+  "type": "Feature",
+  "properties": {
+    "name":"East End, Baltimore, MD, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":28338900,
+    "woe:name":"East End, Baltimore, MD, US, United States",
+    "woe:place_id":"dohjLz.bCZ.FB27y3w",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-76.578758,39.296173,-76.577194,39.297951],
+  "geometry": {"alpha":1e-05,"bbox":[-76.578758239746,39.296173095703,-76.577194213867,39.297950744629],"coordinates":[[[[-76.578758,39.297867],[-76.577667,39.297951],[-76.577248,39.296787],[-76.577194,39.296173],[-76.578758,39.297867]]]],"created":1226600649,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3155/shapefiles/28338900_20081113_e99721f423.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

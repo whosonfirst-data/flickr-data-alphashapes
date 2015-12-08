@@ -1,0 +1,15 @@
+{
+  "id": 2523709,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodside Square, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2523709,
+    "woe:name":"Woodside Square, Maryland, United States",
+    "woe:place_id":"T8dlWsWbBJ7zTFTq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.649986,39.138878,-76.644318,39.14275],
+  "geometry": {"alpha":0.00015,"bbox":[-76.64998626709,39.138877868652,-76.644317626953,39.142749786377],"coordinates":[[[[-76.644318,39.141212],[-76.6465,39.138878],[-76.648048,39.139465],[-76.649986,39.141972],[-76.649918,39.14275],[-76.644318,39.141212]]]],"created":1292538530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2523709_20101216_bf6d4f0bce.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

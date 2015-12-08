@@ -1,0 +1,15 @@
+{
+  "id": 12649971,
+  "type": "Feature",
+  "properties": {
+    "name":"Niederhausbergen, France",
+    "placetype":"locality",
+    "woe:id":12649971,
+    "woe:name":"Niederhausbergen, France",
+    "woe:place_id":"cPDNRUSYA5pESUMncA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.720416,48.622158,7.724224,48.628368],
+  "geometry": {"alpha":1e-05,"bbox":[7.7204160690308,48.622158050537,7.7242240905762,48.628368377686],"coordinates":[[[[7.724224,48.622562],[7.722079,48.622158],[7.720416,48.626362],[7.721328,48.628368],[7.722702,48.625648],[7.724224,48.622562]]]],"created":1292538681,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12649971_20101216_f738f8762a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

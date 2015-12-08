@@ -1,0 +1,15 @@
+{
+  "id": 23417622,
+  "type": "Feature",
+  "properties": {
+    "name":"Orchard Lake Village, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":23417622,
+    "woe:name":"Orchard Lake Village, Michigan, United States",
+    "woe:place_id":"5scvZ02bApidHy1YLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.371468,42.582916,-83.356445,42.599827],
+  "geometry": {"alpha":0.00015,"bbox":[-83.371467590332,42.582916259766,-83.3564453125,42.599826812744],"coordinates":[[[[-83.356873,42.593563],[-83.356445,42.589012],[-83.362709,42.582916],[-83.371468,42.589489],[-83.357773,42.599827],[-83.356873,42.593563]]]],"created":1292463127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23417622_20101216_37e36ab543.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

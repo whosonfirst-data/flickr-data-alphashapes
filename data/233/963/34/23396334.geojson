@@ -1,0 +1,15 @@
+{
+  "id": 23396334,
+  "type": "Feature",
+  "properties": {
+    "name":"South Bolton, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396334,
+    "woe:name":"South Bolton, Quebec, Canada",
+    "woe:place_id":"e77D.3GbAp.vVrUMaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.375267,45.154232,-72.365738,45.162796],
+  "geometry": {"alpha":0.00015,"bbox":[-72.375267028809,45.154232025146,-72.365737915039,45.162796020508],"coordinates":[[[[-72.365738,45.154472],[-72.366043,45.154232],[-72.37175,45.160072],[-72.375267,45.16198],[-72.370117,45.162796],[-72.366257,45.155334],[-72.365738,45.154472]]]],"created":1292508722,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/23396334_20101216_b3508275d6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2355828,
+  "type": "Feature",
+  "properties": {
+    "name":"Arizona City, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2355828,
+    "woe:name":"Arizona City, Arizona, United States",
+    "woe:place_id":"gIL5YHGbAplWQngd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.707611,32.731644,-111.657402,32.779591],
+  "geometry": {"alpha":0.00015,"bbox":[-111.70761108398,32.731643676758,-111.65740203857,32.779590606689],"coordinates":[[[[-111.664413,32.756439],[-111.662086,32.753273],[-111.657402,32.740295],[-111.680145,32.740143],[-111.690056,32.731644],[-111.685486,32.749252],[-111.695251,32.756096],[-111.707611,32.758984],[-111.702118,32.760715],[-111.693878,32.758984],[-111.685188,32.761852],[-111.678772,32.771687],[-111.670815,32.779591],[-111.664413,32.756439]]]],"created":1292519103,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2355828_20101216_c342949708.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

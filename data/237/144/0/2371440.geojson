@@ -1,0 +1,15 @@
+{
+  "id": 2371440,
+  "type": "Feature",
+  "properties": {
+    "name":"Buffalo, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2371440,
+    "woe:name":"Buffalo, Iowa, United States",
+    "woe:place_id":"q_7QlhibApvu.AEs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.01001,41.301666,-93.99147,41.323715],
+  "geometry": {"alpha":0.00015,"bbox":[-94.010009765625,41.301666259766,-93.991470336914,41.323715209961],"coordinates":[[[[-94.01001,41.312885],[-94.00486,41.323715],[-93.99147,41.319141],[-94.005119,41.301666],[-94.01001,41.312885]]]],"created":1292523255,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2371440_20101216_3135515ae3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

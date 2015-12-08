@@ -1,0 +1,15 @@
+{
+  "id": 24544621,
+  "type": "Feature",
+  "properties": {
+    "name":"Bukovice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":24544621,
+    "woe:name":"Bukovice, Czech Republic",
+    "woe:place_id":"SV7g8oSbBZleVZCBow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.225433,50.54594,16.232857,50.550728],
+  "geometry": {"alpha":1e-05,"bbox":[16.225433349609,50.54594039917,16.232856750488,50.550727844238],"coordinates":[[[[16.229961,50.550728],[16.232857,50.54594],[16.229361,50.546741],[16.225433,50.549217],[16.229961,50.550728]]]],"created":1292539372,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/24544621_20101216_5898b1deef.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

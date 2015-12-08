@@ -1,0 +1,15 @@
+{
+  "id": 2513601,
+  "type": "Feature",
+  "properties": {
+    "name":"Wallace, New York, United States",
+    "placetype":"locality",
+    "woe:id":2513601,
+    "woe:name":"Wallace, New York, United States",
+    "woe:place_id":"dqQOrk6bBJ1QqzoP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.458847,42.439762,-77.458229,42.440594],
+  "geometry": {"alpha":0.00015,"bbox":[-77.458847045898,42.439762115479,-77.458229064941,42.440593719482],"coordinates":[[[[-77.458847,42.440166],[-77.458847,42.440514],[-77.458229,42.440594],[-77.458527,42.439762],[-77.458847,42.440166]]]],"created":1234524128,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3422/shapefiles/2513601_20090213_e8226c0a7e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

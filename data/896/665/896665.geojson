@@ -1,0 +1,15 @@
+{
+  "id": 896665,
+  "type": "Feature",
+  "properties": {
+    "name":"L\u00e5ngsand, Uppsala, Sweden",
+    "placetype":"locality",
+    "woe:id":896665,
+    "woe:name":"L\u00e5ngsand, Uppsala, Sweden",
+    "woe:place_id":"RHTUtveRCJovQ08",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.53521,60.644581,17.560787,60.652004],
+  "geometry": {"alpha":0.00015,"bbox":[17.535209655762,60.644580841064,17.560787200928,60.652004241943],"coordinates":[[[[17.552805,60.652004],[17.555122,60.651394],[17.560787,60.64856],[17.556248,60.649429],[17.545853,60.644581],[17.53521,60.648449],[17.552805,60.652004]]]],"created":1292531472,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/896665_20101216_09571b44fb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

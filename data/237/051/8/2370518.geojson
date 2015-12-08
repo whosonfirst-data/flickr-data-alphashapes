@@ -1,0 +1,15 @@
+{
+  "id": 2370518,
+  "type": "Feature",
+  "properties": {
+    "name":"Brownstown, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2370518,
+    "woe:name":"Brownstown, Maryland, United States",
+    "woe:place_id":"zw04zEybApv9tjeX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.294655,39.143841,-77.294044,39.146061],
+  "geometry": {"alpha":0.00015,"bbox":[-77.294654846191,39.143840789795,-77.294044494629,39.146060943604],"coordinates":[[[[-77.294044,39.146061],[-77.294083,39.145763],[-77.294655,39.143841],[-77.294601,39.145634],[-77.294525,39.14592],[-77.294044,39.146061]]]],"created":1292418242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2370518_20101215_d5617c45f4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

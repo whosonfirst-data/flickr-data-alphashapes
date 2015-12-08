@@ -1,0 +1,15 @@
+{
+  "id": 562515,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodstown, Waterford, Ireland",
+    "placetype":"locality",
+    "woe:id":562515,
+    "woe:name":"Woodstown, Waterford, Ireland",
+    "woe:place_id":"Z4twrIKcB57BOI0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.0,52.191509,-6.976318,52.216232],
+  "geometry": {"alpha":0.00015,"bbox":[-7,52.191509246826,-6.9763178825378,52.216232299805],"coordinates":[[[[-6.983013,52.191509],[-6.984128,52.192318],[-7.0,52.200001],[-6.989192,52.20829],[-6.976318,52.216232],[-6.978292,52.197506],[-6.983013,52.191509]]]],"created":1292549662,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/562515_20101217_a59f37e43d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

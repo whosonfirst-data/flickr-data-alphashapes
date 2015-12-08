@@ -1,0 +1,15 @@
+{
+  "id": 2133711,
+  "type": "Feature",
+  "properties": {
+    "name":"Shangrao, Jiangxi, China",
+    "placetype":"locality",
+    "woe:id":2133711,
+    "woe:name":"Shangrao, Jiangxi, China",
+    "woe:place_id":"muKdX5CbAJ8wKMim",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [117.96106,28.450581,117.970848,28.475933],
+  "geometry": {"alpha":0.00015,"bbox":[117.96105957031,28.450580596924,117.9708480835,28.475933074951],"coordinates":[[[[117.970848,28.474274],[117.970505,28.470802],[117.964668,28.450581],[117.961235,28.456617],[117.96106,28.464767],[117.962952,28.475933],[117.970848,28.474274]]]],"created":1292528201,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2133711_20101216_d432133893.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

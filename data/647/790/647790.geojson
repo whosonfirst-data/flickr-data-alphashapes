@@ -1,0 +1,15 @@
+{
+  "id": 647790,
+  "type": "Feature",
+  "properties": {
+    "name":"Eltze, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":647790,
+    "woe:name":"Eltze, Lower Saxony, Germany",
+    "woe:place_id":"U6KvoYmfBZse18s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.261563,52.430401,10.277924,52.443829],
+  "geometry": {"alpha":0.00015,"bbox":[10.261563301086,52.430400848389,10.277923583984,52.443828582764],"coordinates":[[[[10.272946,52.431156],[10.261563,52.443829],[10.273289,52.431576],[10.277924,52.431274],[10.274888,52.430439],[10.273933,52.430401],[10.272946,52.431156]]]],"created":1247981651,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2519/shapefiles/647790_20090719_577f363a8c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

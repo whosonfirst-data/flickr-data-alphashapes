@@ -1,0 +1,15 @@
+{
+  "id": 2466207,
+  "type": "Feature",
+  "properties": {
+    "name":"Orillia, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2466207,
+    "woe:name":"Orillia, Iowa, United States",
+    "woe:place_id":"3scfzW6bBZq8VVfa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.716232,41.516739,-93.695389,41.529785],
+  "geometry": {"alpha":0.00015,"bbox":[-93.716232299805,41.516738891602,-93.695388793945,41.52978515625],"coordinates":[[[[-93.705185,41.516739],[-93.716232,41.51878],[-93.711319,41.523914],[-93.706856,41.529785],[-93.695389,41.525921],[-93.705185,41.516739]]]],"created":1292477947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2466207_20101216_23af987189.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12623844,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Herbertingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623844,
+    "woe:name":"Gemeinde Herbertingen, Germany",
+    "woe:place_id":"H_kqGfyYA5o2QuofWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.437416,48.056034,9.440828,48.059303],
+  "geometry": {"alpha":1e-05,"bbox":[9.4374160766602,48.056034088135,9.4408283233643,48.059303283691],"coordinates":[[[[9.440828,48.059303],[9.440699,48.058353],[9.437416,48.056034],[9.439101,48.058422],[9.43983,48.059284],[9.440828,48.059303]]]],"created":1292536912,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12623844_20101216_172b7ae0e8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

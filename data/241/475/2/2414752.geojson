@@ -1,0 +1,15 @@
+{
+  "id": 2414752,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwood, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2414752,
+    "woe:name":"Greenwood, Wisconsin, United States",
+    "woe:place_id":"uG4lkwibBZ166Zp0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.598946,44.762047,-90.595062,44.767128],
+  "geometry": {"alpha":0.00015,"bbox":[-90.598945617676,44.762046813965,-90.595062255859,44.767127990723],"coordinates":[[[[-90.595062,44.763111],[-90.596756,44.762047],[-90.597275,44.762634],[-90.598946,44.767128],[-90.598045,44.766502],[-90.595062,44.763111]]]],"created":1292545235,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2414752_20101217_5edacca7cd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

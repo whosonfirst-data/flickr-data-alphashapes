@@ -1,0 +1,15 @@
+{
+  "id": 2416166,
+  "type": "Feature",
+  "properties": {
+    "name":"Hale Place, California, United States",
+    "placetype":"locality",
+    "woe:id":2416166,
+    "woe:name":"Hale Place, California, United States",
+    "woe:place_id":"Ygf2272bBZ3B.DA_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.022003,38.534203,-123.005501,38.553307],
+  "geometry": {"alpha":0.00015,"bbox":[-123.02200317383,38.534202575684,-123.00550079346,38.55330657959],"coordinates":[[[[-123.009453,38.534203],[-123.00956,38.537609],[-123.022003,38.553307],[-123.005501,38.547829],[-123.00808,38.539169],[-123.009453,38.534203]]]],"created":1292531283,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2416166_20101216_e8e72949e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20104362,
+  "type": "Feature",
+  "properties": {
+    "name":"Sur, Canton of Graubunden, Switzerland",
+    "placetype":"locality",
+    "woe:id":20104362,
+    "woe:name":"Sur, Canton of Graubunden, Switzerland",
+    "woe:place_id":"KjuhZx2bAZ3lF_P7ww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.626083,46.510326,9.633464,46.519184],
+  "geometry": {"alpha":0.00015,"bbox":[9.6260833740234,46.510326385498,9.6334638595581,46.519184112549],"coordinates":[[[[9.626083,46.518948],[9.626255,46.519184],[9.626509,46.518822],[9.633464,46.511391],[9.633121,46.510326],[9.626083,46.518948]]]],"created":1247951291,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3445/shapefiles/20104362_20090718_a5747a0756.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

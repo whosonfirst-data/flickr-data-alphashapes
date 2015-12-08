@@ -1,0 +1,15 @@
+{
+  "id": 26794101,
+  "type": "Feature",
+  "properties": {
+    "name":"Tucapel, Chile",
+    "placetype":"locality",
+    "woe:id":26794101,
+    "woe:name":"Tucapel, Chile",
+    "woe:place_id":"b9I9qOCbB5tq2ZRCOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.840454,-37.279243,-71.83548,-37.273094],
+  "geometry": {"alpha":1e-05,"bbox":[-71.840454101562,-37.279243469238,-71.835479736328,-37.273094177246],"coordinates":[[[[-71.839081,-37.274734],[-71.837883,-37.273094],[-71.83548,-37.276443],[-71.835991,-37.279243],[-71.840454,-37.275967],[-71.839081,-37.274734]]]],"created":1292533589,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/26794101_20101216_1738dfde06.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20076700,
+  "type": "Feature",
+  "properties": {
+    "name":"Cittadella, Italy",
+    "placetype":"locality",
+    "woe:id":20076700,
+    "woe:name":"Cittadella, Italy",
+    "woe:place_id":"hyszSm6bAZxlBb2Guw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.779789,45.647408,11.787621,45.651894],
+  "geometry": {"alpha":1e-05,"bbox":[11.779788970947,45.647407531738,11.787620544434,45.651893615723],"coordinates":[[[[11.780562,45.649326],[11.781227,45.650414],[11.782772,45.651894],[11.783223,45.649761],[11.787621,45.647408],[11.781978,45.648457],[11.779789,45.648331],[11.780562,45.649326]]]],"created":1292495044,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/20076700_20101216_58e00d1ee1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

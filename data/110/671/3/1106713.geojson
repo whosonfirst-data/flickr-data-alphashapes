@@ -1,0 +1,15 @@
+{
+  "id": 1106713,
+  "type": "Feature",
+  "properties": {
+    "name":"Windermere, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1106713,
+    "woe:name":"Windermere, Victoria, Australia",
+    "woe:place_id":"H6dKk.qYAJxBUGVh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.710358,-37.491886,143.732758,-37.467819],
+  "geometry": {"alpha":0.00015,"bbox":[143.71035766602,-37.491886138916,143.73275756836,-37.467819213867],"coordinates":[[[[143.724167,-37.491886],[143.710358,-37.480206],[143.71138,-37.477413],[143.723831,-37.467819],[143.732758,-37.483578],[143.724167,-37.491886]]]],"created":1292527435,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1106713_20101216_9da761a033.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

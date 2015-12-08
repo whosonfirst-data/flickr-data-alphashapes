@@ -1,0 +1,15 @@
+{
+  "id": 2409642,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2409642,
+    "woe:name":"Georgetown, North Carolina, United States",
+    "woe:place_id":"rtmGnCWbBZxQIK4X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.111618,35.992878,-80.083488,36.012535],
+  "geometry": {"alpha":0.00015,"bbox":[-80.111618041992,35.992877960205,-80.083488464355,36.012535095215],"coordinates":[[[[-80.083488,36.005566],[-80.096695,35.999397],[-80.09951,35.992878],[-80.111618,35.999676],[-80.098358,36.012535],[-80.083488,36.005566]]]],"created":1292533978,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2409642_20101216_0d59757a3a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20072425,
+  "type": "Feature",
+  "properties": {
+    "name":"Drumkeary, Ireland",
+    "placetype":"locality",
+    "woe:id":20072425,
+    "woe:name":"Drumkeary, Ireland",
+    "woe:place_id":"SIbBKjGbAZytOeoqYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.363857,53.101238,-8.359136,53.105156],
+  "geometry": {"alpha":1e-05,"bbox":[-8.3638572692871,53.101238250732,-8.3591356277466,53.105155944824],"coordinates":[[[[-8.363857,53.101238],[-8.361797,53.102371],[-8.359651,53.105156],[-8.359136,53.101807],[-8.36287,53.101276],[-8.363857,53.101238]]]],"created":1292452193,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20072425_20101215_7e17e9a06e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 641102,
+  "type": "Feature",
+  "properties": {
+    "name":"Breitfurt, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":641102,
+    "woe:name":"Breitfurt, Saarland, Germany",
+    "woe:place_id":"NbtQ9qWfBZ3szWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.241857,49.197701,7.24514,49.198643],
+  "geometry": {"alpha":0.00015,"bbox":[7.2418570518494,49.197700500488,7.2451400756836,49.198642730713],"coordinates":[[[[7.241857,49.197701],[7.241878,49.197872],[7.242071,49.197903],[7.24514,49.198643],[7.242457,49.197777],[7.241857,49.197701]]]],"created":1292453558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/641102_20101215_54e27d3787.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

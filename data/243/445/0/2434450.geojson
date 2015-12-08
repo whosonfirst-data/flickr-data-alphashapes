@@ -1,0 +1,15 @@
+{
+  "id": 2434450,
+  "type": "Feature",
+  "properties": {
+    "name":"Laclede, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2434450,
+    "woe:name":"Laclede, Idaho, United States",
+    "woe:place_id":"eA3oslqbBZ8zEiOy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.765656,48.161907,-116.738144,48.173649],
+  "geometry": {"alpha":0.00015,"bbox":[-116.76565551758,48.161907196045,-116.7381439209,48.173648834229],"coordinates":[[[[-116.744415,48.171093],[-116.740997,48.173649],[-116.738144,48.171352],[-116.745956,48.163853],[-116.765656,48.161907],[-116.744415,48.171093]]]],"created":1292539188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2434450_20101216_1dd2fa2027.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

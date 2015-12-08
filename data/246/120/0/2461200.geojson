@@ -1,0 +1,15 @@
+{
+  "id": 2461200,
+  "type": "Feature",
+  "properties": {
+    "name":"North Java, New York, United States",
+    "placetype":"locality",
+    "woe:id":2461200,
+    "woe:name":"North Java, New York, United States",
+    "woe:place_id":"b8GhWIKbBZpRa.uq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.35891,42.673096,-78.329086,42.697468],
+  "geometry": {"alpha":0.00015,"bbox":[-78.358909606934,42.673095703125,-78.329086303711,42.697467803955],"coordinates":[[[[-78.339882,42.687023],[-78.329086,42.673096],[-78.343185,42.686756],[-78.35891,42.697468],[-78.338959,42.693855],[-78.339882,42.687023]]]],"created":1292524749,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2461200_20101216_f115a9620e.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26796730,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaragoza, Antioquia, Colombia",
+    "placetype":"county",
+    "woe:id":26796730,
+    "woe:name":"Zaragoza, Antioquia, Colombia",
+    "woe:place_id":"TrDAlHebB5tr22xyzQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-74.863586,7.484516,-74.85878,7.501876],
+  "geometry": {"alpha":0.0015,"bbox":[-74.863586425781,7.4845161437988,-74.858779907227,7.5018758773804],"coordinates":[[[[-74.863586,7.497961],[-74.86187,7.501876],[-74.85878,7.499323],[-74.860153,7.493366],[-74.861526,7.484516],[-74.863586,7.497961]]]],"created":1239353164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3307/shapefiles/26796730_20090410_a195510f38.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

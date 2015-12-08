@@ -1,0 +1,15 @@
+{
+  "id": 20300,
+  "type": "Feature",
+  "properties": {
+    "name":"Fleggburgh, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20300,
+    "woe:name":"Fleggburgh, England, United Kingdom",
+    "woe:place_id":"L5WoCRKbAZ85sQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.617149,52.667679,1.631126,52.673519],
+  "geometry": {"alpha":0.00015,"bbox":[1.6171489953995,52.667678833008,1.6311260461807,52.673519134521],"coordinates":[[[[1.629431,52.668316],[1.620391,52.667679],[1.617149,52.668571],[1.621385,52.668941],[1.631126,52.673519],[1.630911,52.668236],[1.629602,52.668308],[1.629431,52.668316]]]],"created":1292538414,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20300_20101216_8b20b3a288.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

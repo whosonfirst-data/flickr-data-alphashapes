@@ -1,0 +1,15 @@
+{
+  "id": 10947,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardington Wick, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10947,
+    "woe:name":"Ardington Wick, England, United Kingdom",
+    "woe:place_id":"7LrGnPuYAZVSOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.37638,51.596855,-1.37172,51.606983],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3763799667358,51.596855163574,-1.371719956398,51.606983184814],"coordinates":[[[[-1.375694,51.596855],[-1.37638,51.602238],[-1.37535,51.606983],[-1.37172,51.597198],[-1.374039,51.597122],[-1.375694,51.596855]]]],"created":1292530834,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/10947_20101216_4848edcc4b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2489823,
+  "type": "Feature",
+  "properties": {
+    "name":"Sciota, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2489823,
+    "woe:name":"Sciota, Illinois, United States",
+    "woe:place_id":"1WSKNF6bBZQ8KpLp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.759132,40.539211,-90.748787,40.560844],
+  "geometry": {"alpha":0.00015,"bbox":[-90.759132385254,40.539211273193,-90.74878692627,40.560844421387],"coordinates":[[[[-90.751358,40.552448],[-90.759132,40.539211],[-90.752693,40.552383],[-90.754578,40.559853],[-90.748787,40.560844],[-90.751358,40.552448]]]],"created":1292521259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2489823_20101216_3a6eedec43.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

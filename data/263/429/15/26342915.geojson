@@ -1,0 +1,15 @@
+{
+  "id": 26342915,
+  "type": "Feature",
+  "properties": {
+    "name":"Lenox, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":26342915,
+    "woe:name":"Lenox, Michigan, United States",
+    "woe:place_id":"Tgo73tWbB59qOkg5sw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.758446,42.806484,-82.753143,42.815174],
+  "geometry": {"alpha":0.00015,"bbox":[-82.758445739746,42.806484222412,-82.753143310547,42.815174102783],"coordinates":[[[[-82.754578,42.815117],[-82.753143,42.815174],[-82.753143,42.806484],[-82.757866,42.812119],[-82.758446,42.812523],[-82.754578,42.815117]]]],"created":1292457604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/26342915_20101216_1874838c70.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

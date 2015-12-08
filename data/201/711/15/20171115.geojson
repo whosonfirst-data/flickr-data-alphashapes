@@ -1,0 +1,15 @@
+{
+  "id": 20171115,
+  "type": "Feature",
+  "properties": {
+    "name":"Haus Bevern, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":20171115,
+    "woe:name":"Haus Bevern, North Rhine-Westphalia, Germany",
+    "woe:place_id":"Vc.mCJGbAZ0kfZ2ACg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.838133,52.03334,7.847757,52.035915],
+  "geometry": {"alpha":0.00015,"bbox":[7.8381328582764,52.033340454102,7.8477568626404,52.035915374756],"coordinates":[[[[7.847306,52.034798],[7.838133,52.03334],[7.839496,52.035915],[7.847757,52.035057],[7.847306,52.034798]]]],"created":1234556413,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3431/shapefiles/20171115_20090213_6449e536a6.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

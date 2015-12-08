@@ -1,0 +1,15 @@
+{
+  "id": 2417543,
+  "type": "Feature",
+  "properties": {
+    "name":"Harewood Acres, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2417543,
+    "woe:name":"Harewood Acres, Ohio, United States",
+    "woe:place_id":"lv28ew6bBZ1PVd5F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.391487,39.190151,-84.382362,39.199196],
+  "geometry": {"alpha":0.00015,"bbox":[-84.391487121582,39.1901512146,-84.382362365723,39.199195861816],"coordinates":[[[[-84.382362,39.19912],[-84.382774,39.19585],[-84.384331,39.190151],[-84.388245,39.193478],[-84.391487,39.199196],[-84.382362,39.19912]]]],"created":1292517447,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2417543_20101216_9a6dc2533c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

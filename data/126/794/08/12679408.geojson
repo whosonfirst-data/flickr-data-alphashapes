@@ -1,0 +1,15 @@
+{
+  "id": 12679408,
+  "type": "Feature",
+  "properties": {
+    "name":"Montescudaio, Italy",
+    "placetype":"locality",
+    "woe:id":12679408,
+    "woe:name":"Montescudaio, Italy",
+    "woe:place_id":"0clzCyCYA5pLFE4uFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.621848,43.326447,10.626697,43.327644],
+  "geometry": {"alpha":1e-05,"bbox":[10.621848106384,43.326446533203,10.626696586609,43.327644348145],"coordinates":[[[[10.62438,43.326447],[10.623092,43.326862],[10.621848,43.327644],[10.624444,43.32679],[10.626697,43.326614],[10.62438,43.326447]]]],"created":1292545421,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12679408_20101217_0ccb13fcf5.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12679104,
+  "type": "Feature",
+  "properties": {
+    "name":"Domusnovas, Italy",
+    "placetype":"locality",
+    "woe:id":12679104,
+    "woe:name":"Domusnovas, Italy",
+    "woe:place_id":"m9uzjQSYA5p1ShNz0A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.622035,39.336487,8.629245,39.338745],
+  "geometry": {"alpha":1e-05,"bbox":[8.6220350265503,39.336486816406,8.6292448043823,39.338745117188],"coordinates":[[[[8.627722,39.336536],[8.6277,39.336487],[8.626542,39.336803],[8.622035,39.337418],[8.627014,39.338745],[8.629245,39.338547],[8.627722,39.336536]]]],"created":1292541490,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12679104_20101216_558ec2797e.tar.gz"},"points":46,"type":"MultiPolygon"}
+}

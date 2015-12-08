@@ -1,0 +1,15 @@
+{
+  "id": 22726532,
+  "type": "Feature",
+  "properties": {
+    "name":"St Andrews Hill, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":22726532,
+    "woe:name":"St Andrews Hill, Canterbury, New Zealand",
+    "woe:place_id":"1FGjI0GbA5tdf.FOrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [172.697525,-43.560242,172.724136,-43.551285],
+  "geometry": {"alpha":0.00015,"bbox":[172.69752502441,-43.560241699219,172.72413635254,-43.551284790039],"coordinates":[[[[172.723618,-43.558498],[172.716751,-43.560242],[172.706451,-43.560242],[172.697525,-43.551285],[172.714691,-43.556633],[172.724136,-43.55518],[172.723618,-43.558498]]]],"created":1292539434,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/22726532_20101216_925dff2fe9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

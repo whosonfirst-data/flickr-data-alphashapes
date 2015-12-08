@@ -1,0 +1,15 @@
+{
+  "id": 2410003,
+  "type": "Feature",
+  "properties": {
+    "name":"Gibson, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2410003,
+    "woe:name":"Gibson, Maryland, United States",
+    "woe:place_id":"4yjX0dybBZ3qmdb9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.341591,39.587715,-76.322174,39.602962],
+  "geometry": {"alpha":0.00015,"bbox":[-76.341590881348,39.587715148926,-76.322174072266,39.602962493896],"coordinates":[[[[-76.329178,39.587715],[-76.341591,39.602962],[-76.322174,39.593899],[-76.325722,39.59045],[-76.328552,39.588062],[-76.328804,39.587814],[-76.329178,39.587715]]]],"created":1292440625,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2410003_20101215_a264c5bee4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

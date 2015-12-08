@@ -1,0 +1,15 @@
+{
+  "id": 28835983,
+  "type": "Feature",
+  "properties": {
+    "name":"Seapark, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28835983,
+    "woe:name":"Seapark, Scotland, United Kingdom",
+    "woe:place_id":"Pdi6EpubCZRz06lRmw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.572981,57.633736,-3.566522,57.636616],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5729811191559,57.633735656738,-3.5665218830109,57.636615753174],"coordinates":[[[[-3.570374,57.633736],[-3.572981,57.634361],[-3.572402,57.636616],[-3.567209,57.634464],[-3.566522,57.633984],[-3.570374,57.633736]]]],"created":1292517968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/28835983_20101216_d7786d23df.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

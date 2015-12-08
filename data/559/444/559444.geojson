@@ -1,0 +1,15 @@
+{
+  "id": 559444,
+  "type": "Feature",
+  "properties": {
+    "name":"Allenwood, Kildare, Ireland",
+    "placetype":"locality",
+    "woe:id":559444,
+    "woe:name":"Allenwood, Kildare, Ireland",
+    "woe:place_id":"zoBAyy6cBJVYn6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.870725,53.263325,-6.863129,53.265675],
+  "geometry": {"alpha":0.00015,"bbox":[-6.8707251548767,53.263324737549,-6.8631291389465,53.265674591064],"coordinates":[[[[-6.86388,53.265675],[-6.863129,53.265457],[-6.86388,53.264801],[-6.864051,53.264725],[-6.870725,53.263325],[-6.86388,53.265675]]]],"created":1292455865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/559444_20101215_ebe686dee1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

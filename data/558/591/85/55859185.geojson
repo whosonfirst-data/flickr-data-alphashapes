@@ -1,0 +1,15 @@
+{
+  "id": 55859185,
+  "type": "Feature",
+  "properties": {
+    "name":"University Park, Gainesville, FL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55859185,
+    "woe:name":"University Park, Gainesville, FL, US, United States",
+    "woe:place_id":"PEwwtoScBJSUdo0F4A",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-82.354958,29.647686,-82.348251,29.650133],
+  "geometry": {"alpha":1e-05,"bbox":[-82.354957580566,29.647686004639,-82.348251342773,29.650133132935],"coordinates":[[[[-82.351089,29.649225],[-82.348251,29.650133],[-82.351189,29.649067],[-82.354958,29.647686],[-82.35347,29.649755],[-82.351089,29.649225]]]],"created":1292436724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/55859185_20101215_e884618076.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

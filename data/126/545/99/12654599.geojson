@@ -1,0 +1,15 @@
+{
+  "id": 12654599,
+  "type": "Feature",
+  "properties": {
+    "name":"Vineuil, France",
+    "placetype":"locality",
+    "woe:id":12654599,
+    "woe:name":"Vineuil, France",
+    "woe:place_id":"2iHBEwmYA5q7AmZcrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.402258,47.574802,1.403675,47.576946],
+  "geometry": {"alpha":1e-05,"bbox":[1.4022580385208,47.574802398682,1.4036749601364,47.576946258545],"coordinates":[[[[1.403417,47.576946],[1.403675,47.575424],[1.402258,47.574802],[1.402559,47.576794],[1.403417,47.576946]]]],"created":1292443143,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12654599_20101215_8fd220c5b7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

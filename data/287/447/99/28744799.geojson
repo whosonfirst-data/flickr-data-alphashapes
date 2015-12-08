@@ -1,0 +1,15 @@
+{
+  "id": 28744799,
+  "type": "Feature",
+  "properties": {
+    "name":"Parks, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744799,
+    "woe:name":"Parks, Pennsylvania, United States",
+    "woe:place_id":"Zn3kDJebCZupkPh_uQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.57991,40.602467,-79.560875,40.60677],
+  "geometry": {"alpha":0.00015,"bbox":[-79.57991027832,40.602466583252,-79.560874938965,40.606769561768],"coordinates":[[[[-79.567062,40.602467],[-79.57991,40.606499],[-79.579834,40.606667],[-79.563545,40.60677],[-79.560875,40.606174],[-79.567062,40.602467]]]],"created":1292442304,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/28744799_20101215_d4ae5b0dc4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

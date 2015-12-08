@@ -1,0 +1,15 @@
+{
+  "id": 332620,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Flores, San Juan, Argentina",
+    "placetype":"locality",
+    "woe:id":332620,
+    "woe:name":"Las Flores, San Juan, Argentina",
+    "woe:place_id":"hNPAUa2aAp43vQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.203651,-30.307467,-69.195953,-30.289436],
+  "geometry": {"alpha":0.00015,"bbox":[-69.203651428223,-30.307466506958,-69.195953369141,-30.289436340332],"coordinates":[[[[-69.197777,-30.28961],[-69.197784,-30.28957],[-69.197762,-30.289436],[-69.195953,-30.289902],[-69.203651,-30.307467],[-69.197777,-30.28961]]]],"created":1292516351,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/332620_20101216_568f2ae41d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

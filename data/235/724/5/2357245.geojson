@@ -1,0 +1,15 @@
+{
+  "id": 2357245,
+  "type": "Feature",
+  "properties": {
+    "name":"Aubrey, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2357245,
+    "woe:name":"Aubrey, Georgia, United States",
+    "woe:place_id":"dB_3nqubApmbX0n6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.75235,34.2696,-84.750763,34.270481],
+  "geometry": {"alpha":0.00015,"bbox":[-84.752349853516,34.269599914551,-84.750762939453,34.270481109619],"coordinates":[[[[-84.751076,34.270481],[-84.750763,34.270126],[-84.751503,34.269833],[-84.75235,34.2696],[-84.752258,34.269676],[-84.751076,34.270481]]]],"created":1292519081,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2357245_20101216_e54c4c67b3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

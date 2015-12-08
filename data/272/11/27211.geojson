@@ -1,0 +1,15 @@
+{
+  "id": 27211,
+  "type": "Feature",
+  "properties": {
+    "name":"Lochanhead, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27211,
+    "woe:name":"Lochanhead, Scotland, United Kingdom",
+    "woe:place_id":"b2dmfuSbBp5Clw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.710546,55.016312,-3.678617,55.040367],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7105460166931,55.016311645508,-3.6786170005798,55.040367126465],"coordinates":[[[[-3.710546,55.016312],[-3.704452,55.03717],[-3.698186,55.030186],[-3.678617,55.040367],[-3.697586,55.029079],[-3.710546,55.016312]]]],"created":1292526991,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/27211_20101216_c6717f2d1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

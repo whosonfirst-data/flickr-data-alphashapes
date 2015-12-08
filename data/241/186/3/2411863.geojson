@@ -1,0 +1,15 @@
+{
+  "id": 2411863,
+  "type": "Feature",
+  "properties": {
+    "name":"Goldsboro, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2411863,
+    "woe:name":"Goldsboro, Maryland, United States",
+    "woe:place_id":"6LR88TKbBZ292d2p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.791328,39.025669,-75.785065,39.039696],
+  "geometry": {"alpha":0.00015,"bbox":[-75.791328430176,39.0256690979,-75.785064697266,39.039695739746],"coordinates":[[[[-75.787109,39.03336],[-75.791328,39.025669],[-75.789162,39.039013],[-75.788712,39.039696],[-75.785065,39.038387],[-75.787109,39.03336]]]],"created":1248216980,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2453/shapefiles/2411863_20090721_e3ccf5fca8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

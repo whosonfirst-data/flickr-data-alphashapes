@@ -1,0 +1,15 @@
+{
+  "id": 685764,
+  "type": "Feature",
+  "properties": {
+    "name":"Posterstein, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":685764,
+    "woe:name":"Posterstein, Thuringia, Germany",
+    "woe:place_id":"QzacjPufCZmPJXk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.250909,50.862534,12.252845,50.863651],
+  "geometry": {"alpha":0.00015,"bbox":[12.250908851624,50.862533569336,12.252844810486,50.863651275635],"coordinates":[[[[12.252845,50.862961],[12.252845,50.862934],[12.252545,50.862534],[12.250909,50.863331],[12.251064,50.863651],[12.252845,50.862961]]]],"created":1292539525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/685764_20101216_cb551e5002.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

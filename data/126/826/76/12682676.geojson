@@ -1,0 +1,15 @@
+{
+  "id": 12682676,
+  "type": "Feature",
+  "properties": {
+    "name":"Somaglia, Italy",
+    "placetype":"locality",
+    "woe:id":12682676,
+    "woe:name":"Somaglia, Italy",
+    "woe:place_id":"5DzT4p.YA5qI_jzNxw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.638507,45.145908,9.642455,45.150131],
+  "geometry": {"alpha":1e-05,"bbox":[9.6385068893433,45.145908355713,9.6424551010132,45.150131225586],"coordinates":[[[[9.63943,45.147148],[9.641339,45.150131],[9.642455,45.146454],[9.640449,45.146233],[9.63959,45.145908],[9.638507,45.146385],[9.63943,45.147148]]]],"created":1292541729,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12682676_20101216_3f3b7bdfc5.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

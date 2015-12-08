@@ -1,0 +1,15 @@
+{
+  "id": 2451948,
+  "type": "Feature",
+  "properties": {
+    "name":"Mineral, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2451948,
+    "woe:name":"Mineral, Oregon, United States",
+    "woe:place_id":"3Hj4qBGbBZmVynkp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.725006,43.579769,-122.710892,43.589684],
+  "geometry": {"alpha":0.00015,"bbox":[-122.72500610352,43.579769134521,-122.71089172363,43.589683532715],"coordinates":[[[[-122.713379,43.584805],[-122.710976,43.589684],[-122.710892,43.587818],[-122.71299,43.584137],[-122.725006,43.579769],[-122.713379,43.584805]]]],"created":1292444896,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2451948_20101215_1ccd87fac2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

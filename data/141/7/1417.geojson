@@ -1,0 +1,15 @@
+{
+  "id": 1417,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Casimir, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1417,
+    "woe:name":"St.-Casimir, Quebec, Canada",
+    "woe:place_id":"0pJTs46YBZ0N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.145844,46.655357,-72.132797,46.67017],
+  "geometry": {"alpha":0.00015,"bbox":[-72.145843505859,46.65535736084,-72.132797241211,46.670169830322],"coordinates":[[[[-72.132797,46.658981],[-72.133224,46.656555],[-72.13945,46.655357],[-72.141502,46.65667],[-72.14241,46.662632],[-72.145844,46.67017],[-72.132797,46.658981]]]],"created":1292519943,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/1417_20101216_506d6f00f1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 774141,
+  "type": "Feature",
+  "properties": {
+    "name":"Santurde, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":774141,
+    "woe:name":"Santurde, La Rioja, Spain",
+    "woe:place_id":"zLd0ywieBpgzYJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.984848,42.386318,-2.979569,42.399883],
+  "geometry": {"alpha":0.00015,"bbox":[-2.9848480224609,42.386318206787,-2.9795689582825,42.399883270264],"coordinates":[[[[-2.984848,42.386318],[-2.983903,42.392975],[-2.980041,42.399883],[-2.979569,42.397442],[-2.979869,42.389408],[-2.984848,42.386318]]]],"created":1229526487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3082/shapefiles/774141_20081217_c9085b6c17.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

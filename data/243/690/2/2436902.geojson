@@ -1,0 +1,15 @@
+{
+  "id": 2436902,
+  "type": "Feature",
+  "properties": {
+    "name":"Laudolff Beach, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2436902,
+    "woe:name":"Laudolff Beach, Wisconsin, United States",
+    "woe:place_id":"9gaXBd2bBZ8NH9ZX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.35125,43.873558,-88.342072,43.884686],
+  "geometry": {"alpha":0.00015,"bbox":[-88.351249694824,43.873558044434,-88.342071533203,43.884685516357],"coordinates":[[[[-88.344322,43.884159],[-88.342522,43.884686],[-88.342072,43.88208],[-88.35125,43.873558],[-88.347664,43.882668],[-88.344322,43.884159]]]],"created":1292539219,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2436902_20101216_5250b0ffba.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

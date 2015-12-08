@@ -1,0 +1,15 @@
+{
+  "id": 1103295,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Bolac, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103295,
+    "woe:name":"Lake Bolac, Victoria, Australia",
+    "woe:place_id":"dAm05UOYAJwycflw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.824646,-37.730427,142.853821,-37.701817],
+  "geometry": {"alpha":0.00015,"bbox":[142.82464599609,-37.73042678833,142.85382080078,-37.701816558838],"coordinates":[[[[142.834137,-37.730427],[142.824646,-37.71397],[142.840286,-37.701817],[142.853821,-37.717285],[142.841492,-37.716961],[142.834137,-37.730427]]]],"created":1292476742,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/1103295_20101216_643bc59567.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1104599,
+  "type": "Feature",
+  "properties": {
+    "name":"Newstead, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1104599,
+    "woe:name":"Newstead, Victoria, Australia",
+    "woe:place_id":"u9hzWFeYAJxavUDq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.037796,-37.117588,144.062973,-37.106464],
+  "geometry": {"alpha":0.00015,"bbox":[144.03779602051,-37.117588043213,144.06297302246,-37.106464385986],"coordinates":[[[[144.056427,-37.117588],[144.048264,-37.113514],[144.037796,-37.106464],[144.050079,-37.113445],[144.061752,-37.10659],[144.062973,-37.109211],[144.056427,-37.117588]]]],"created":1292534380,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/1104599_20101216_61d2cdb0ef.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2508904,
+  "type": "Feature",
+  "properties": {
+    "name":"Turtletown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2508904,
+    "woe:name":"Turtletown, Tennessee, United States",
+    "woe:place_id":"CqPMKQCbBJyzSv.P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.353363,35.122295,-84.323326,35.136192],
+  "geometry": {"alpha":0.00015,"bbox":[-84.353363037109,35.122295379639,-84.32332611084,35.136192321777],"coordinates":[[[[-84.343758,35.122295],[-84.353363,35.12672],[-84.352341,35.136192],[-84.342918,35.131889],[-84.323326,35.130859],[-84.343758,35.122295]]]],"created":1292513165,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2508904_20101216_5839035727.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

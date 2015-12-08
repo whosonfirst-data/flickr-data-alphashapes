@@ -1,0 +1,15 @@
+{
+  "id": 12685231,
+  "type": "Feature",
+  "properties": {
+    "name":"Kestenholz, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685231,
+    "woe:name":"Kestenholz, Switzerland",
+    "woe:place_id":"3Z.0LbWYA5p4EE75aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.759265,47.275867,7.762082,47.281559],
+  "geometry": {"alpha":1e-05,"bbox":[7.7592649459839,47.275867462158,7.7620820999146,47.281558990479],"coordinates":[[[[7.759518,47.279331],[7.759485,47.279552],[7.76081,47.281559],[7.762082,47.279976],[7.759265,47.275867],[7.759518,47.279331]]]],"created":1292548750,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12685231_20101217_92fd09e07f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2519516,
+  "type": "Feature",
+  "properties": {
+    "name":"White River, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2519516,
+    "woe:name":"White River, South Dakota, United States",
+    "woe:place_id":".7xpDQObBJ1DzXeF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.75,43.565529,-100.740082,43.574001],
+  "geometry": {"alpha":0.00015,"bbox":[-100.75,43.565528869629,-100.74008178711,43.574001312256],"coordinates":[[[[-100.746628,43.569881],[-100.746132,43.569431],[-100.740082,43.565529],[-100.746666,43.56694],[-100.748863,43.566959],[-100.75,43.574001],[-100.746628,43.569881]]]],"created":1292513107,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2519516_20101216_3120f047cf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

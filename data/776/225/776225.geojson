@@ -1,0 +1,15 @@
+{
+  "id": 776225,
+  "type": "Feature",
+  "properties": {
+    "name":"Udalla, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":776225,
+    "woe:name":"Udalla, Cantabria, Spain",
+    "woe:place_id":"ts9PYP2eBpqfW1M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.451938,43.313625,-3.44784,43.317623],
+  "geometry": {"alpha":0.00015,"bbox":[-3.4519379138947,43.313625335693,-3.4478399753571,43.317623138428],"coordinates":[[[[-3.45108,43.313625],[-3.451938,43.315933],[-3.450565,43.316902],[-3.44902,43.317623],[-3.44784,43.313999],[-3.45108,43.313625]]]],"created":1292524132,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/776225_20101216_67fd149716.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

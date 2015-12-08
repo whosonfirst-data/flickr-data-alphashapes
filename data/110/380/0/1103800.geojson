@@ -1,0 +1,15 @@
+{
+  "id": 1103800,
+  "type": "Feature",
+  "properties": {
+    "name":"Medowie, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1103800,
+    "woe:name":"Medowie, New South Wales, Australia",
+    "woe:place_id":"YyHH46aYAJwmoq9C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.86499,-32.7463,151.88118,-32.738689],
+  "geometry": {"alpha":0.00015,"bbox":[151.86499023438,-32.746299743652,151.88117980957,-32.738689422607],"coordinates":[[[[151.867599,-32.740761],[151.870026,-32.74128],[151.88118,-32.738689],[151.868134,-32.743393],[151.86499,-32.7463],[151.867599,-32.740761]]]],"created":1292459003,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/1103800_20101216_bde0627a48.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

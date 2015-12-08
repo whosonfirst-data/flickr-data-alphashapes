@@ -1,0 +1,15 @@
+{
+  "id": 672501,
+  "type": "Feature",
+  "properties": {
+    "name":"L\u00f6hme, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":672501,
+    "woe:name":"L\u00f6hme, Brandenburg, Germany",
+    "woe:place_id":"xLDIPACfBp72QnE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.66579,52.627167,13.673,52.628819],
+  "geometry": {"alpha":0.00015,"bbox":[13.665789604187,52.627166748047,13.673000335693,52.628818511963],"coordinates":[[[[13.671166,52.628334],[13.672903,52.628819],[13.673,52.627335],[13.672833,52.627167],[13.670768,52.627174],[13.66579,52.62719],[13.671166,52.628334]]]],"created":1292529786,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/672501_20101216_a6f3011742.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2385221,
+  "type": "Feature",
+  "properties": {
+    "name":"Cornwall, California, United States",
+    "placetype":"locality",
+    "woe:id":2385221,
+    "woe:name":"Cornwall, California, United States",
+    "woe:place_id":"z3ZATMGbApSj_DXX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.862671,37.975349,-121.861,37.977558],
+  "geometry": {"alpha":0.00015,"bbox":[-121.86267089844,37.97534942627,-121.86100006104,37.977558135986],"coordinates":[[[[-121.861,37.976833],[-121.861809,37.975349],[-121.862328,37.975632],[-121.862671,37.976578],[-121.861893,37.977558],[-121.861,37.976833]]]],"created":1292493363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2385221_20101216_396951b7c4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

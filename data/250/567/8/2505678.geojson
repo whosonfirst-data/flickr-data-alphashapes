@@ -1,0 +1,15 @@
+{
+  "id": 2505678,
+  "type": "Feature",
+  "properties": {
+    "name":"Thomas Crossroads, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2505678,
+    "woe:name":"Thomas Crossroads, Georgia, United States",
+    "woe:place_id":"7M.ICqGbBJw276dA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.687653,33.394939,-84.676018,33.4118],
+  "geometry": {"alpha":0.00015,"bbox":[-84.687652587891,33.394939422607,-84.67601776123,33.411800384521],"coordinates":[[[[-84.687531,33.409992],[-84.683304,33.409519],[-84.676018,33.4118],[-84.680344,33.394939],[-84.687653,33.39521],[-84.687531,33.409992]]]],"created":1292539656,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2505678_20101216_6433c25858.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

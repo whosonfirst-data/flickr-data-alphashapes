@@ -1,0 +1,15 @@
+{
+  "id": 2356148,
+  "type": "Feature",
+  "properties": {
+    "name":"Arnold, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2356148,
+    "woe:name":"Arnold, Nebraska, United States",
+    "woe:place_id":"cBBRdz.bApmcBWos",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.196854,41.420033,-100.188271,41.425892],
+  "geometry": {"alpha":0.00015,"bbox":[-100.1968536377,41.420032501221,-100.18827056885,41.425891876221],"coordinates":[[[[-100.194756,41.423603],[-100.193359,41.42437],[-100.188271,41.425892],[-100.193298,41.420364],[-100.196854,41.420033],[-100.195656,41.422165],[-100.194756,41.423603]]]],"created":1292550623,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2356148_20101217_02f565a486.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

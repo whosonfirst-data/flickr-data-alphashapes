@@ -1,0 +1,15 @@
+{
+  "id": 12664500,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Ambroix, France",
+    "placetype":"locality",
+    "woe:id":12664500,
+    "woe:name":"St.-Ambroix, France",
+    "woe:place_id":"8f50dqeYA5pqCB5Cjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.193773,44.23959,4.196777,44.243938],
+  "geometry": {"alpha":1e-05,"bbox":[4.1937727928162,44.239589691162,4.1967768669128,44.243938446045],"coordinates":[[[[4.193833,44.240334],[4.194166,44.240501],[4.196777,44.243938],[4.194245,44.240494],[4.193773,44.23959],[4.193833,44.240334]]]],"created":1292550127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12664500_20101217_8ce2701ea7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

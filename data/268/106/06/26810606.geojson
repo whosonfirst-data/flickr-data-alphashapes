@@ -1,0 +1,15 @@
+{
+  "id": 26810606,
+  "type": "Feature",
+  "properties": {
+    "name":"Urbina, Ecuador",
+    "placetype":"locality",
+    "woe:id":26810606,
+    "woe:name":"Urbina, Ecuador",
+    "woe:place_id":"Y27YxnebB5QihD0q7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.689819,0.82386,-77.683983,0.825147],
+  "geometry": {"alpha":1e-05,"bbox":[-77.689819335938,0.8238599896431,-77.683982849121,0.82514697313309],"coordinates":[[[[-77.684151,0.824546],[-77.683983,0.82386],[-77.686554,0.824718],[-77.689819,0.823946],[-77.686386,0.825147],[-77.685181,0.824804],[-77.684151,0.824546]]]],"created":1292496070,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/26810606_20101216_56df274473.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

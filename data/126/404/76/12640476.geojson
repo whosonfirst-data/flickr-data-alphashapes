@@ -1,0 +1,15 @@
+{
+  "id": 12640476,
+  "type": "Feature",
+  "properties": {
+    "name":"Casamaccioli, France",
+    "placetype":"locality",
+    "woe:id":12640476,
+    "woe:name":"Casamaccioli, France",
+    "woe:place_id":"7SYuauaYA5qh57gzng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.015998,42.291279,9.022056,42.292011],
+  "geometry": {"alpha":1e-05,"bbox":[9.0159978866577,42.291278839111,9.0220556259155,42.292011260986],"coordinates":[[[[9.022016,42.29184],[9.021982,42.291691],[9.015998,42.291279],[9.021996,42.291985],[9.022056,42.292011],[9.022016,42.29184]]]],"created":1292542287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12640476_20101216_2b0c7f4ce0.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

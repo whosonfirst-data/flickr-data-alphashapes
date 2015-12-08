@@ -1,0 +1,15 @@
+{
+  "id": 1105141,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Victoria, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105141,
+    "woe:name":"Port Victoria, South Australia, Australia",
+    "woe:place_id":"aoepaESYAJyAyM11",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [137.480164,-34.499481,137.485825,-34.483639],
+  "geometry": {"alpha":0.00015,"bbox":[137.48016357422,-34.499481201172,137.48582458496,-34.483638763428],"coordinates":[[[[137.480164,-34.49453],[137.481369,-34.490215],[137.481369,-34.484982],[137.485825,-34.483639],[137.485352,-34.495049],[137.480423,-34.499481],[137.480164,-34.49453]]]],"created":1292538548,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/1105141_20101216_5816f8d9bf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

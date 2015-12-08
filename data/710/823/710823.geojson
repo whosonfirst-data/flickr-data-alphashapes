@@ -1,0 +1,15 @@
+{
+  "id": 710823,
+  "type": "Feature",
+  "properties": {
+    "name":"Belforte, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":710823,
+    "woe:name":"Belforte, Marche, Italy",
+    "woe:place_id":"UOHzLv2eAJyWmRM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.221015,43.160927,13.243525,43.169315],
+  "geometry": {"alpha":0.00015,"bbox":[13.221014976501,43.160926818848,13.243524551392,43.169315338135],"coordinates":[[[[13.237712,43.165798],[13.23999,43.166973],[13.243525,43.169315],[13.242688,43.166561],[13.238611,43.162182],[13.221015,43.160927],[13.237712,43.165798]]]],"created":1292531378,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/710823_20101216_040ac8e57f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

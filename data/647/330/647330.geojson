@@ -1,0 +1,15 @@
+{
+  "id": 647330,
+  "type": "Feature",
+  "properties": {
+    "name":"Eisenbach, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":647330,
+    "woe:name":"Eisenbach, Hesse, Germany",
+    "woe:place_id":"hwCY9xufBZtdUQc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.387259,50.599312,9.395198,50.603287],
+  "geometry": {"alpha":0.00015,"bbox":[9.3872585296631,50.599311828613,9.3951978683472,50.603286743164],"coordinates":[[[[9.387259,50.60046],[9.387474,50.60078],[9.388761,50.603287],[9.395198,50.602879],[9.390563,50.599312],[9.387259,50.60046]]]],"created":1292455927,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/647330_20101215_38a62a2197.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

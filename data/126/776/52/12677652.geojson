@@ -1,0 +1,15 @@
+{
+  "id": 12677652,
+  "type": "Feature",
+  "properties": {
+    "name":"Locri, Italy",
+    "placetype":"locality",
+    "woe:id":12677652,
+    "woe:name":"Locri, Italy",
+    "woe:place_id":"bifZ.9GYA5p342ilUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.259766,38.231827,16.266975,38.23737],
+  "geometry": {"alpha":1e-05,"bbox":[16.259765625,38.231826782227,16.266975402832,38.237369537354],"coordinates":[[[[16.262394,38.23484],[16.259766,38.237236],[16.261482,38.23737],[16.266975,38.235283],[16.265087,38.231827],[16.262726,38.232441],[16.262394,38.23484]]]],"created":1292525925,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12677652_20101216_fc849b0c35.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

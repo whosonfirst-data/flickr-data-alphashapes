@@ -1,0 +1,15 @@
+{
+  "id": 630030,
+  "type": "Feature",
+  "properties": {
+    "name":"Vannes, Centre, France",
+    "placetype":"locality",
+    "woe:id":630030,
+    "woe:name":"Vannes, Centre, France",
+    "woe:place_id":"8gu.VqGfApxQ6MA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.2145,47.726665,2.215333,47.727001],
+  "geometry": {"alpha":0.00015,"bbox":[2.2144999504089,47.726665496826,2.2153329849243,47.727001190186],"coordinates":[[[[2.215166,47.727001],[2.215333,47.726833],[2.215,47.726665],[2.2145,47.726833],[2.215166,47.727001]]]],"created":1292519522,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/630030_20101216_8fb556fc62.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

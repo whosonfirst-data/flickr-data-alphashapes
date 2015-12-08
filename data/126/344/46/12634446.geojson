@@ -1,0 +1,15 @@
+{
+  "id": 12634446,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Eckental, Germany",
+    "placetype":"locality",
+    "woe:id":12634446,
+    "woe:name":"Gemeinde Eckental, Germany",
+    "woe:place_id":"MwByDvyYA5rkzzG97g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.197814,49.574364,11.205459,49.577553],
+  "geometry": {"alpha":1e-05,"bbox":[11.197813987732,49.574363708496,11.205458641052,49.57755279541],"coordinates":[[[[11.201419,49.574364],[11.197814,49.575993],[11.200089,49.577114],[11.201291,49.577286],[11.204123,49.577553],[11.205459,49.576687],[11.201419,49.574364]]]],"created":1292523414,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12634446_20101216_e897811aea.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

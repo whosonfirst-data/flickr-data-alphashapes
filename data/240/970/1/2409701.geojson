@@ -1,0 +1,15 @@
+{
+  "id": 2409701,
+  "type": "Feature",
+  "properties": {
+    "name":"Georgetown of Philadelphia, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2409701,
+    "woe:name":"Georgetown of Philadelphia, Pennsylvania, United States",
+    "woe:place_id":"molW4zmbBZz1NkiB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.20639,40.149029,-75.202164,40.15736],
+  "geometry": {"alpha":0.00015,"bbox":[-75.206390380859,40.149028778076,-75.202163696289,40.157360076904],"coordinates":[[[[-75.206352,40.149029],[-75.20639,40.149094],[-75.205467,40.156155],[-75.202164,40.15736],[-75.206223,40.149059],[-75.206352,40.149029]]]],"created":1292545643,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2409701_20101217_67429b1e59.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

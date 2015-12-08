@@ -1,0 +1,15 @@
+{
+  "id": 904325,
+  "type": "Feature",
+  "properties": {
+    "name":"Schebo, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":904325,
+    "woe:name":"Schebo, Stockholm, Sweden",
+    "woe:place_id":"8wEO9I6QAZguRhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.601784,59.931587,18.624384,59.978142],
+  "geometry": {"alpha":0.0003662109375,"bbox":[18.601783752441,59.931587219238,18.624383926392,59.978141784668],"coordinates":[[[[18.623936,59.93185],[18.624384,59.931915],[18.624081,59.931587],[18.623894,59.931801],[18.601784,59.957371],[18.601833,59.9575],[18.606203,59.978142],[18.611012,59.972538],[18.612492,59.967976],[18.623936,59.93185]]]],"created":1292517062,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/904325_20101216_aa9e50184a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

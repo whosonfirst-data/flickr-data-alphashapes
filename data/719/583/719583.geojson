@@ -1,0 +1,15 @@
+{
+  "id": 719583,
+  "type": "Feature",
+  "properties": {
+    "name":"Oriolo, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":719583,
+    "woe:name":"Oriolo, Calabria, Italy",
+    "woe:place_id":"_aRSZICeAJUPDrM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.444473,40.049019,16.450878,40.056526],
+  "geometry": {"alpha":0.00015,"bbox":[16.444473266602,40.049018859863,16.450878143311,40.056526184082],"coordinates":[[[[16.450523,40.050728],[16.450878,40.049427],[16.448055,40.049019],[16.444817,40.055473],[16.444473,40.056526],[16.44928,40.055473],[16.450523,40.050728]]]],"created":1292550906,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/719583_20101217_fdddf6052f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

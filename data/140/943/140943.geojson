@@ -1,0 +1,15 @@
+{
+  "id": 140943,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosales, Chihuahua, Mexico",
+    "placetype":"locality",
+    "woe:id":140943,
+    "woe:name":"Rosales, Chihuahua, Mexico",
+    "woe:place_id":"14bVDCeYBZzhIcU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.559387,28.221523,-105.557671,28.232113],
+  "geometry": {"alpha":0.00015,"bbox":[-105.55938720703,28.221523284912,-105.55767059326,28.232112884521],"coordinates":[[[[-105.558357,28.224096],[-105.559387,28.221523],[-105.559387,28.223642],[-105.559044,28.225306],[-105.557671,28.232113],[-105.558357,28.224096]]]],"created":1292483163,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/140943_20101216_6af48fc9df.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

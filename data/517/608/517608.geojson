@@ -1,0 +1,15 @@
+{
+  "id": 517608,
+  "type": "Feature",
+  "properties": {
+    "name":"Serpelice, Masovian, Poland",
+    "placetype":"locality",
+    "woe:id":517608,
+    "woe:name":"Serpelice, Masovian, Poland",
+    "woe:place_id":"2a_G76acAJsWsng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.048716,52.280853,23.074036,52.285538],
+  "geometry": {"alpha":0.00015,"bbox":[23.048715591431,52.280853271484,23.074035644531,52.285537719727],"coordinates":[[[[23.052084,52.280853],[23.048716,52.285538],[23.058758,52.28302],[23.074036,52.281235],[23.058868,52.281673],[23.05335,52.281063],[23.052084,52.280853]]]],"created":1292474647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/517608_20101216_5d0625ef2d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

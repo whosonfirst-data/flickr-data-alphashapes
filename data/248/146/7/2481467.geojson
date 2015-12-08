@@ -1,0 +1,15 @@
+{
+  "id": 2481467,
+  "type": "Feature",
+  "properties": {
+    "name":"Riley Cove, New York, United States",
+    "placetype":"locality",
+    "woe:id":2481467,
+    "woe:name":"Riley Cove, New York, United States",
+    "woe:place_id":"HIsAKiabBZQCBB7_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.738518,43.032131,-73.721611,43.05035],
+  "geometry": {"alpha":0.00015,"bbox":[-73.73851776123,43.032131195068,-73.721611022949,43.050350189209],"coordinates":[[[[-73.731651,43.033512],[-73.734055,43.032131],[-73.738518,43.04258],[-73.735771,43.044556],[-73.721611,43.05035],[-73.731651,43.033512]]]],"created":1292519926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2481467_20101216_1a5064215e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

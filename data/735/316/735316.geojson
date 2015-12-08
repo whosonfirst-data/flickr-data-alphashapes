@@ -1,0 +1,15 @@
+{
+  "id": 735316,
+  "type": "Feature",
+  "properties": {
+    "name":"Abrunheira, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":735316,
+    "woe:name":"Abrunheira, Lisbon, Portugal",
+    "woe:place_id":"CYoaPSWeApm0a5o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.366466,38.76474,-9.358034,38.773842],
+  "geometry": {"alpha":0.00015,"bbox":[-9.3664655685425,38.764739990234,-9.3580341339111,38.77384185791],"coordinates":[[[[-9.361038,38.770363],[-9.366466,38.76474],[-9.365501,38.770512],[-9.358034,38.773842],[-9.360287,38.771301],[-9.361038,38.770363]]]],"created":1292492047,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/735316_20101216_b54b7ae9af.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28340122,
+  "type": "Feature",
+  "properties": {
+    "name":"Maysville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340122,
+    "woe:name":"Maysville, Pennsylvania, United States",
+    "woe:place_id":"vS6KX0.bCZ8oUbvw5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.55883,40.785934,-76.553665,40.788631],
+  "geometry": {"alpha":0.00015,"bbox":[-76.55883026123,40.785934448242,-76.553665161133,40.788631439209],"coordinates":[[[[-76.554214,40.787045],[-76.553665,40.786808],[-76.553665,40.786747],[-76.554298,40.785934],[-76.55883,40.788631],[-76.554214,40.787045]]]],"created":1292390763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/28340122_20101215_fc9581542a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

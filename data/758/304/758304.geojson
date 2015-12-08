@@ -1,0 +1,15 @@
+{
+  "id": 758304,
+  "type": "Feature",
+  "properties": {
+    "name":"Couzadorio, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":758304,
+    "woe:name":"Couzadorio, Galicia, Spain",
+    "woe:place_id":"Xv3tvWmeBJTHIb8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.791109,43.650002,-7.783329,43.669022],
+  "geometry": {"alpha":0.00015,"bbox":[-7.791109085083,43.650001525879,-7.7833290100098,43.669021606445],"coordinates":[[[[-7.791109,43.663712],[-7.79025,43.665356],[-7.788362,43.669022],[-7.785573,43.661507],[-7.783329,43.650002],[-7.791109,43.663712]]]],"created":1292458684,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/758304_20101216_6cb5b7633a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

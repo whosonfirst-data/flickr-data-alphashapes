@@ -1,0 +1,15 @@
+{
+  "id": 2403213,
+  "type": "Feature",
+  "properties": {
+    "name":"Feura Bush, New York, United States",
+    "placetype":"locality",
+    "woe:id":2403213,
+    "woe:name":"Feura Bush, New York, United States",
+    "woe:place_id":"7.ihyVGbBZzwjz1G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.891983,42.557545,-73.872925,42.584061],
+  "geometry": {"alpha":0.00015,"bbox":[-73.891983032227,42.557544708252,-73.872924804688,42.584060668945],"coordinates":[[[[-73.872925,42.578808],[-73.880432,42.575512],[-73.888512,42.557545],[-73.891983,42.578114],[-73.876617,42.584061],[-73.872925,42.578808]]]],"created":1292542277,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2403213_20101216_f76dbe59f7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

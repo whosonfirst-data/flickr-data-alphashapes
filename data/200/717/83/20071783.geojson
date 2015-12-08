@@ -1,0 +1,15 @@
+{
+  "id": 20071783,
+  "type": "Feature",
+  "properties": {
+    "name":"Mitchelstown, Ireland",
+    "placetype":"locality",
+    "woe:id":20071783,
+    "woe:name":"Mitchelstown, Ireland",
+    "woe:place_id":"Q4SLi36bAZyT8k1X_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.29339,52.268185,-8.289259,52.271744],
+  "geometry": {"alpha":1e-05,"bbox":[-8.2933902740479,52.268184661865,-8.2892589569092,52.271743774414],"coordinates":[[[[-8.292966,52.268528],[-8.29339,52.269417],[-8.292569,52.26981],[-8.289259,52.271744],[-8.29141,52.268185],[-8.292966,52.268528]]]],"created":1292548746,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/20071783_20101217_47d105fff3.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

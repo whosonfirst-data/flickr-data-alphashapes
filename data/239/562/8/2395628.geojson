@@ -1,0 +1,15 @@
+{
+  "id": 2395628,
+  "type": "Feature",
+  "properties": {
+    "name":"East Glenville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2395628,
+    "woe:name":"East Glenville, New York, United States",
+    "woe:place_id":"AY7XaoSbApVrz7ZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.926659,42.882317,-73.911209,42.888748],
+  "geometry": {"alpha":0.00015,"bbox":[-73.926658630371,42.882316589355,-73.911209106445,42.888748168945],"coordinates":[[[[-73.926598,42.886398],[-73.926659,42.888748],[-73.921806,42.88763],[-73.911209,42.882317],[-73.925797,42.886124],[-73.926598,42.886398]]]],"created":1292531568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2395628_20101216_20c569bcfe.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

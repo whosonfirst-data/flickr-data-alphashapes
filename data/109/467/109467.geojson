@@ -1,0 +1,15 @@
+{
+  "id": 109467,
+  "type": "Feature",
+  "properties": {
+    "name":"Morant Bay, Saint Thomas, Jamaica",
+    "placetype":"locality",
+    "woe:id":109467,
+    "woe:name":"Morant Bay, Saint Thomas, Jamaica",
+    "woe:place_id":"tKR0VVyYAZVkNaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.414032,17.879431,-76.399956,17.891966],
+  "geometry": {"alpha":0.00015,"bbox":[-76.414031982422,17.879430770874,-76.399955749512,17.891965866089],"coordinates":[[[[-76.414032,17.883352],[-76.412659,17.889233],[-76.407166,17.891966],[-76.399956,17.890213],[-76.409912,17.879431],[-76.414032,17.883352]]]],"created":1292504462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/109467_20101216_232fb4f0c6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

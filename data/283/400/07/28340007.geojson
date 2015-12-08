@@ -1,0 +1,15 @@
+{
+  "id": 28340007,
+  "type": "Feature",
+  "properties": {
+    "name":"Londonderry, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340007,
+    "woe:name":"Londonderry, Pennsylvania, United States",
+    "woe:place_id":"N8rEyaGbCZ_MwIzszQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.686501,40.143501,-76.683334,40.144333],
+  "geometry": {"alpha":0.00015,"bbox":[-76.686500549316,40.143501281738,-76.683334350586,40.144332885742],"coordinates":[[[[-76.683334,40.143833],[-76.68367,40.143501],[-76.685165,40.143665],[-76.686501,40.144333],[-76.683334,40.143833]]]],"created":1292446009,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/28340007_20101215_6e623fa240.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

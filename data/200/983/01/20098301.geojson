@@ -1,0 +1,15 @@
+{
+  "id": 20098301,
+  "type": "Feature",
+  "properties": {
+    "name":"Laakdal, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":20098301,
+    "woe:name":"Laakdal, Antwerp, Belgium",
+    "woe:place_id":"7Bfwc1ubAZzm98amxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.089759,51.100449,5.104667,51.105],
+  "geometry": {"alpha":0.00015,"bbox":[5.0897588729858,51.100448608398,5.1046671867371,51.104999542236],"coordinates":[[[[5.104167,51.103001],[5.104,51.102501],[5.103833,51.102001],[5.089759,51.100449],[5.104667,51.105],[5.104167,51.103001]]]],"created":1292488202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20098301_20101216_f7a4fabca2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

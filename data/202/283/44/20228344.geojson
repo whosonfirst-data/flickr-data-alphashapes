@@ -1,0 +1,15 @@
+{
+  "id": 20228344,
+  "type": "Feature",
+  "properties": {
+    "name":"Puebla, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20228344,
+    "woe:name":"Puebla, Galicia, Spain",
+    "woe:place_id":"yeZBUmybAZ7VInMMLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.247985,43.115395,-8.241291,43.119968],
+  "geometry": {"alpha":0.00015,"bbox":[-8.2479848861694,43.115394592285,-8.2412910461426,43.119968414307],"coordinates":[[[[-8.243608,43.115551],[-8.247985,43.11602],[-8.244166,43.119625],[-8.243007,43.119968],[-8.241291,43.115395],[-8.243608,43.115551]]]],"created":1292534165,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20228344_20101216_fe019901b0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1102057,
+  "type": "Feature",
+  "properties": {
+    "name":"Fish Creek, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102057,
+    "woe:name":"Fish Creek, Victoria, Australia",
+    "woe:place_id":"WIFlRbyYAJyRye8u",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.081421,-38.704857,146.093445,-38.691406],
+  "geometry": {"alpha":0.00015,"bbox":[146.08142089844,-38.704856872559,146.09344482422,-38.69140625],"coordinates":[[[[146.082977,-38.692745],[146.093445,-38.691406],[146.092072,-38.699711],[146.08606,-38.704857],[146.081421,-38.699539],[146.082626,-38.693214],[146.082977,-38.692745]]]],"created":1292458670,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/1102057_20101216_56aa4d56f8.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

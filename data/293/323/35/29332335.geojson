@@ -1,0 +1,15 @@
+{
+  "id": 29332335,
+  "type": "Feature",
+  "properties": {
+    "name":"Fonville, Centre, France",
+    "placetype":"locality",
+    "woe:id":29332335,
+    "woe:name":"Fonville, Centre, France",
+    "woe:place_id":"l_hndCKbCJ_AE5dt5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.404876,48.662395,1.423587,48.671692],
+  "geometry": {"alpha":0.00015,"bbox":[1.4048759937286,48.662395477295,1.4235869646072,48.671691894531],"coordinates":[[[[1.40625,48.671692],[1.408309,48.670784],[1.423587,48.668289],[1.419296,48.662395],[1.407623,48.668972],[1.404876,48.670784],[1.40625,48.671692]]]],"created":1292497023,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/29332335_20101216_7b39191723.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

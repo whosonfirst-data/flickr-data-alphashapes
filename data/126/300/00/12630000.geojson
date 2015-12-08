@@ -1,0 +1,15 @@
+{
+  "id": 12630000,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wardenburg, Germany",
+    "placetype":"locality",
+    "woe:id":12630000,
+    "woe:name":"Gemeinde Wardenburg, Germany",
+    "woe:place_id":"HksrxHyYA5roftUg1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.176746,53.055878,8.17946,53.057308],
+  "geometry": {"alpha":1e-05,"bbox":[8.1767463684082,53.055877685547,8.1794595718384,53.057308197021],"coordinates":[[[[8.177808,53.056572],[8.178495,53.056366],[8.17946,53.055939],[8.177915,53.055878],[8.176746,53.057308],[8.177808,53.056572]]]],"created":1292540756,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12630000_20101216_8874b36819.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

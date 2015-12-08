@@ -1,0 +1,15 @@
+{
+  "id": 2500208,
+  "type": "Feature",
+  "properties": {
+    "name":"Stone City, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2500208,
+    "woe:name":"Stone City, Iowa, United States",
+    "woe:place_id":"qu1Wl_ibBJwxw9tx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.353035,42.11274,-91.347672,42.115452],
+  "geometry": {"alpha":0.00015,"bbox":[-91.353034973145,42.112739562988,-91.347671508789,42.115451812744],"coordinates":[[[[-91.352348,42.114597],[-91.348816,42.115452],[-91.347672,42.113632],[-91.350632,42.11274],[-91.353035,42.113949],[-91.352348,42.114597]]]],"created":1292539209,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2500208_20101216_0bd0017775.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

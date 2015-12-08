@@ -1,0 +1,15 @@
+{
+  "id": 22001,
+  "type": "Feature",
+  "properties": {
+    "name":"Gulley Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22001,
+    "woe:name":"Gulley Green, England, United Kingdom",
+    "woe:place_id":"YR9Nio2bA5xg.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.770786,52.548618,-2.759885,52.558716],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7707860469818,52.54861831665,-2.7598850727081,52.558715820312],"coordinates":[[[[-2.768528,52.557175],[-2.765121,52.55788],[-2.762718,52.558716],[-2.759885,52.548618],[-2.76195,52.551628],[-2.770786,52.556629],[-2.768528,52.557175]]]],"created":1292504228,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/22001_20101216_2367139032.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

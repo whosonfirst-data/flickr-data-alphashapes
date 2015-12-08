@@ -1,0 +1,15 @@
+{
+  "id": 1763,
+  "type": "Feature",
+  "properties": {
+    "name":"Strathclair, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":1763,
+    "woe:name":"Strathclair, Manitoba, Canada",
+    "woe:place_id":"lxUtsjSYBpqH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.400406,50.402538,-100.39048,50.410545],
+  "geometry": {"alpha":0.00015,"bbox":[-100.40040588379,50.402538299561,-100.3904800415,50.410545349121],"coordinates":[[[[-100.39505,50.402538],[-100.397591,50.402821],[-100.400406,50.403786],[-100.393829,50.410545],[-100.39048,50.402672],[-100.39505,50.402538]]]],"created":1292550879,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1763_20101217_072f0bf1db.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

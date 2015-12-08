@@ -1,0 +1,15 @@
+{
+  "id": 170,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookfield, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":170,
+    "woe:name":"Brookfield, Nova Scotia, Canada",
+    "woe:place_id":"XBuTOSeYBpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.334377,45.210903,-63.273632,45.277061],
+  "geometry": {"alpha":0.0003662109375,"bbox":[-63.334377288818,45.210903167725,-63.273632049561,45.277061462402],"coordinates":[[[[-63.280048,45.252277],[-63.278587,45.253319],[-63.273632,45.255829],[-63.275188,45.265034],[-63.288288,45.277061],[-63.305454,45.253864],[-63.315304,45.22258],[-63.305519,45.210903],[-63.318371,45.21397],[-63.318714,45.214409],[-63.334377,45.237751],[-63.305454,45.253864],[-63.280907,45.251686],[-63.280048,45.252277]]]],"created":1292527889,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/170_20101216_8961bc7990.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

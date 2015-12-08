@@ -1,0 +1,15 @@
+{
+  "id": 771120,
+  "type": "Feature",
+  "properties": {
+    "name":"Quijorna, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":771120,
+    "woe:name":"Quijorna, Madrid, Spain",
+    "woe:place_id":"MonOtZKeBp0gjXU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.064469,40.423519,-4.049545,40.431606],
+  "geometry": {"alpha":0.00015,"bbox":[-4.0644688606262,40.423519134521,-4.0495448112488,40.431606292725],"coordinates":[[[[-4.05198,40.423519],[-4.05991,40.427277],[-4.064469,40.429161],[-4.057353,40.431606],[-4.049545,40.430878],[-4.05198,40.423519]]]],"created":1292543585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/771120_20101216_711a39c7b9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

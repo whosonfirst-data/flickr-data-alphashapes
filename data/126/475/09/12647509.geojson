@@ -1,0 +1,15 @@
+{
+  "id": 12647509,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Goazec, France",
+    "placetype":"locality",
+    "woe:id":12647509,
+    "woe:name":"St.-Goazec, France",
+    "woe:place_id":"Vj6sZJuYA5r0hdzr5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.803672,48.153774,-3.800175,48.154289],
+  "geometry": {"alpha":1e-05,"bbox":[-3.8036720752716,48.153774261475,-3.8001749515533,48.154289245605],"coordinates":[[[[-3.800331,48.153812],[-3.803672,48.154289],[-3.800842,48.154209],[-3.800175,48.153774],[-3.800331,48.153812]]]],"created":1292536852,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12647509_20101216_04d98b6f1b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

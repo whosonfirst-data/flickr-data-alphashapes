@@ -1,0 +1,15 @@
+{
+  "id": 12645454,
+  "type": "Feature",
+  "properties": {
+    "name":"Jargeau, France",
+    "placetype":"locality",
+    "woe:id":12645454,
+    "woe:name":"Jargeau, France",
+    "woe:place_id":"c8mRc1KYA5qS1XBOUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.130462,47.857498,2.131833,47.860001],
+  "geometry": {"alpha":1e-05,"bbox":[2.1304619312286,47.857498168945,2.1318330764771,47.860000610352],"coordinates":[[[[2.131833,47.859665],[2.131833,47.859501],[2.131755,47.859406],[2.1305,47.857498],[2.130462,47.857685],[2.131166,47.860001],[2.131833,47.859665]]]],"created":1292448442,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12645454_20101215_645ec5c13b.tar.gz"},"points":37,"type":"MultiPolygon"}
+}

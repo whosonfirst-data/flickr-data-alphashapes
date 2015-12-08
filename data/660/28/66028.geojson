@@ -1,0 +1,15 @@
+{
+  "id": 66028,
+  "type": "Feature",
+  "properties": {
+    "name":"Pedro Betancourt, Matanzas, Cuba",
+    "placetype":"locality",
+    "woe:id":66028,
+    "woe:name":"Pedro Betancourt, Matanzas, Cuba",
+    "woe:place_id":"nGM12wSfB5yvrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.295677,22.724813,-81.290588,22.731541],
+  "geometry": {"alpha":0.00015,"bbox":[-81.295677185059,22.724813461304,-81.290588378906,22.731540679932],"coordinates":[[[[-81.291618,22.730907],[-81.290588,22.731541],[-81.295425,22.724958],[-81.295677,22.724813],[-81.291618,22.730907]]]],"created":1234615682,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3421/shapefiles/66028_20090214_474734dd4d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

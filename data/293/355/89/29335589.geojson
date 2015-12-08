@@ -1,0 +1,15 @@
+{
+  "id": 29335589,
+  "type": "Feature",
+  "properties": {
+    "name":"Piana, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":29335589,
+    "woe:name":"Piana, Lombardy, Italy",
+    "woe:place_id":"pS.v4KubCJ8sNKAeSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.685649,46.088055,9.694404,46.097504],
+  "geometry": {"alpha":0.00015,"bbox":[9.6856489181519,46.088054656982,9.6944036483765,46.097503662109],"coordinates":[[[[9.685649,46.088055],[9.687538,46.093681],[9.688224,46.09697],[9.694404,46.097504],[9.688911,46.088234],[9.685649,46.088055]]]],"created":1292395082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/29335589_20101215_e1d6fe56a2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

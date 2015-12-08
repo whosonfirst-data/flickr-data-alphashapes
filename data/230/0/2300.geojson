@@ -1,0 +1,15 @@
+{
+  "id": 2300,
+  "type": "Feature",
+  "properties": {
+    "name":"Mortlach, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2300,
+    "woe:name":"Mortlach, Saskatchewan, Canada",
+    "woe:place_id":"DiBdl_ubApyu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.083038,50.450344,-106.044159,50.463745],
+  "geometry": {"alpha":0.00015,"bbox":[-106.08303833008,50.450344085693,-106.04415893555,50.463745117188],"coordinates":[[[[-106.070763,50.451218],[-106.083038,50.463406],[-106.067482,50.463745],[-106.067055,50.463661],[-106.056946,50.455948],[-106.056686,50.455917],[-106.044159,50.455753],[-106.056,50.455425],[-106.057373,50.455208],[-106.06424,50.452148],[-106.068535,50.450344],[-106.070763,50.451218]]]],"created":1292535667,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2300_20101216_396785bb78.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

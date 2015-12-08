@@ -1,0 +1,15 @@
+{
+  "id": 29370585,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Tejeras, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":29370585,
+    "woe:name":"Las Tejeras, Madrid, Spain",
+    "woe:place_id":"WsQ33nSbCJ8ZzX6.ZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.636217,40.053505,-3.619823,40.073868],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6362171173096,40.053504943848,-3.6198229789734,40.073867797852],"coordinates":[[[[-3.636217,40.06974],[-3.635272,40.073177],[-3.633728,40.073868],[-3.619823,40.072422],[-3.632354,40.053505],[-3.636217,40.06974]]]],"created":1292452962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/29370585_20101215_9942f1942a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

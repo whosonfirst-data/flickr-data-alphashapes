@@ -1,0 +1,15 @@
+{
+  "id": 726243,
+  "type": "Feature",
+  "properties": {
+    "name":"Vinadio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":726243,
+    "woe:name":"Vinadio, Piedmont, Italy",
+    "woe:place_id":"fEQ9ifWeA5rVK.Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.163,44.297775,7.18783,44.310215],
+  "geometry": {"alpha":0.00015,"bbox":[7.1630001068115,44.297775268555,7.1878299713135,44.310214996338],"coordinates":[[[[7.173728,44.310215],[7.178213,44.310101],[7.18783,44.306419],[7.176175,44.297775],[7.163,44.305668],[7.169952,44.307941],[7.173728,44.310215]]]],"created":1292545038,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/726243_20101217_755cd4b9ba.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

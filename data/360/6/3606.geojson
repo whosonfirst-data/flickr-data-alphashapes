@@ -1,0 +1,15 @@
+{
+  "id": 3606,
+  "type": "Feature",
+  "properties": {
+    "name":"Amqui, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3606,
+    "woe:name":"Amqui, Quebec, Canada",
+    "woe:place_id":"P84LSfeaB5wV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.452293,48.458809,-67.419319,48.493217],
+  "geometry": {"alpha":0.00015,"bbox":[-67.452293395996,48.458808898926,-67.419319152832,48.493217468262],"coordinates":[[[[-67.425926,48.464725],[-67.429962,48.458809],[-67.436302,48.466461],[-67.438942,48.472672],[-67.447899,48.491753],[-67.452293,48.493217],[-67.450859,48.492073],[-67.447899,48.491753],[-67.435455,48.47884],[-67.419319,48.469395],[-67.425926,48.464725]]]],"created":1292547407,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/3606_20101217_0b8464c492.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

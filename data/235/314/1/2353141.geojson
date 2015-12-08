@@ -1,0 +1,15 @@
+{
+  "id": 2353141,
+  "type": "Feature",
+  "properties": {
+    "name":"Alice, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2353141,
+    "woe:name":"Alice, Colorado, United States",
+    "woe:place_id":"uEIZN02bApnPJ_PG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.572517,39.75029,-105.548401,39.772129],
+  "geometry": {"alpha":0.00015,"bbox":[-105.57251739502,39.750289916992,-105.54840087891,39.772129058838],"coordinates":[[[[-105.55146,39.750687],[-105.551918,39.750916],[-105.554024,39.751808],[-105.562225,39.755554],[-105.563957,39.756145],[-105.565735,39.757088],[-105.572517,39.759232],[-105.560844,39.772129],[-105.558357,39.763577],[-105.556641,39.756691],[-105.548401,39.750751],[-105.549431,39.75029],[-105.55146,39.750687]]]],"created":1292534139,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2353141_20101216_cfac3fd0e3.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

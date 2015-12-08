@@ -1,0 +1,15 @@
+{
+  "id": 23418208,
+  "type": "Feature",
+  "properties": {
+    "name":"Laymantown, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":23418208,
+    "woe:name":"Laymantown, Virginia, United States",
+    "woe:place_id":"c3E0MGebAphKHjz24g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.848907,37.360981,-79.838737,37.376373],
+  "geometry": {"alpha":0.00015,"bbox":[-79.848907470703,37.360980987549,-79.838737487793,37.376373291016],"coordinates":[[[[-79.847443,37.362537],[-79.848679,37.360981],[-79.848907,37.363182],[-79.838737,37.376373],[-79.839409,37.369644],[-79.847443,37.362537]]]],"created":1292480706,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/23418208_20101216_1c5a56bb28.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

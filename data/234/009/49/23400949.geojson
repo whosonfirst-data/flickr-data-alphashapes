@@ -1,0 +1,15 @@
+{
+  "id": 23400949,
+  "type": "Feature",
+  "properties": {
+    "name":"Monetville, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400949,
+    "woe:name":"Monetville, Ontario, Canada",
+    "woe:place_id":"P_TOsSKbApiq3lDveQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.361,46.155102,-80.353661,46.162518],
+  "geometry": {"alpha":0.00015,"bbox":[-80.361000061035,46.155101776123,-80.353660583496,46.162517547607],"coordinates":[[[[-80.360184,46.160782],[-80.361,46.161137],[-80.3601,46.162518],[-80.353661,46.155102],[-80.360184,46.160782]]]],"created":1292521463,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/23400949_20101216_d62b006bfd.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2354525,
+  "type": "Feature",
+  "properties": {
+    "name":"Ancramdale, New York, United States",
+    "placetype":"locality",
+    "woe:id":2354525,
+    "woe:name":"Ancramdale, New York, United States",
+    "woe:place_id":"NdhjXLKbApkgrqLJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.607285,42.018196,-73.591469,42.035522],
+  "geometry": {"alpha":0.00015,"bbox":[-73.607284545898,42.018196105957,-73.591468811035,42.035522460938],"coordinates":[[[[-73.592262,42.018627],[-73.607285,42.027142],[-73.591919,42.035522],[-73.593636,42.024193],[-73.591469,42.018196],[-73.591835,42.018341],[-73.592262,42.018627]]]],"created":1292518568,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2354525_20101216_cc2423e3c9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

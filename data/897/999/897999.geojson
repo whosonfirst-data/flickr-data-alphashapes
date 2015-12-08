@@ -1,0 +1,15 @@
+{
+  "id": 897999,
+  "type": "Feature",
+  "properties": {
+    "name":"Magnarp, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":897999,
+    "woe:name":"Magnarp, Skane, Sweden",
+    "woe:place_id":"utOHmB2RCJunAoM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.784266,56.295815,12.794137,56.301228],
+  "geometry": {"alpha":0.00015,"bbox":[12.784266471863,56.29581451416,12.794137001038,56.30122756958],"coordinates":[[[[12.790306,56.295815],[12.790017,56.29599],[12.784996,56.298443],[12.784266,56.299953],[12.791336,56.301228],[12.794137,56.300537],[12.790306,56.295815]]]],"created":1292527409,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/897999_20101216_ba3fd7bfd4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

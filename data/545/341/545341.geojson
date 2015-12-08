@@ -1,0 +1,15 @@
+{
+  "id": 545341,
+  "type": "Feature",
+  "properties": {
+    "name":"Hart, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545341,
+    "woe:name":"Hart, Upper Austria, Austria",
+    "woe:place_id":"VQAaf3ucBZmjG6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.254662,48.262165,14.264545,48.270756],
+  "geometry": {"alpha":0.00015,"bbox":[14.254661560059,48.26216506958,14.264545440674,48.270755767822],"coordinates":[[[[14.254696,48.264118],[14.254662,48.265816],[14.257496,48.270756],[14.261337,48.270569],[14.264545,48.264881],[14.264513,48.264748],[14.258833,48.262165],[14.254696,48.264118]]]],"created":1292537162,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/545341_20101216_d5cf393305.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

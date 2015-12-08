@@ -1,0 +1,15 @@
+{
+  "id": 809616,
+  "type": "Feature",
+  "properties": {
+    "name":"Csehi, Zala, Hungary",
+    "placetype":"locality",
+    "woe:id":809616,
+    "woe:name":"Csehi, Zala, Hungary",
+    "woe:place_id":"ZkvYd_eRAZUUTmM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.672907,46.522038,16.678602,46.524075],
+  "geometry": {"alpha":0.00015,"bbox":[16.67290687561,46.522037506104,16.678602218628,46.524074554443],"coordinates":[[[[16.677853,46.522373],[16.677546,46.522167],[16.676619,46.522038],[16.673132,46.522984],[16.672907,46.523338],[16.678602,46.524075],[16.677853,46.522373]]]],"created":1292524089,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/809616_20101216_5d4a281ee6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

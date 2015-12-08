@@ -1,0 +1,15 @@
+{
+  "id": 55864043,
+  "type": "Feature",
+  "properties": {
+    "name":"Northam, Western Australia, Australia",
+    "placetype":"county",
+    "woe:id":55864043,
+    "woe:name":"Northam, Western Australia, Australia",
+    "woe:place_id":"U_47hp.cBJTAq1ZMEQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [116.652832,-31.66198,116.699524,-31.638184],
+  "geometry": {"alpha":0.0015,"bbox":[116.65283203125,-31.661979675293,116.69952392578,-31.63818359375],"coordinates":[[[[116.675491,-31.654623],[116.660141,-31.66198],[116.660141,-31.661934],[116.652832,-31.638184],[116.674301,-31.648897],[116.699524,-31.65309],[116.675491,-31.654623]]]],"created":1292549162,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/55864043_20101217_9201900663.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

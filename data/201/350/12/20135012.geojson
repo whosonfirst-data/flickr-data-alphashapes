@@ -1,0 +1,15 @@
+{
+  "id": 20135012,
+  "type": "Feature",
+  "properties": {
+    "name":"Parlasco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20135012,
+    "woe:name":"Parlasco, Lombardy, Italy",
+    "woe:place_id":"PwsqrUebAZ0s7bcxdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.34267,46.018661,9.347305,46.025574],
+  "geometry": {"alpha":0.00015,"bbox":[9.3426704406738,46.018661499023,9.3473052978516,46.025573730469],"coordinates":[[[[9.343872,46.018661],[9.343593,46.018757],[9.34267,46.020329],[9.347305,46.025574],[9.34447,46.018711],[9.343872,46.018661]]]],"created":1292462342,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/20135012_20101216_1e72f0958d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

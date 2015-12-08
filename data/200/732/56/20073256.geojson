@@ -1,0 +1,15 @@
+{
+  "id": 20073256,
+  "type": "Feature",
+  "properties": {
+    "name":"Port, Ireland",
+    "placetype":"locality",
+    "woe:id":20073256,
+    "woe:name":"Port, Ireland",
+    "woe:place_id":"gZP6z3abAZz2tmXgtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.302222,52.379948,-9.297909,52.38694],
+  "geometry": {"alpha":1e-05,"bbox":[-9.3022222518921,52.379947662354,-9.297908782959,52.386940002441],"coordinates":[[[[-9.298939,52.382057],[-9.301471,52.384426],[-9.302158,52.385319],[-9.302222,52.38694],[-9.301471,52.384426],[-9.298403,52.382305],[-9.297909,52.381905],[-9.298982,52.379948],[-9.298939,52.382057]]]],"created":1292538689,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/20073256_20101216_e4fc80cae9.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

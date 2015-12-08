@@ -1,0 +1,15 @@
+{
+  "id": 12635196,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Warngau, Germany",
+    "placetype":"locality",
+    "woe:id":12635196,
+    "woe:name":"Gemeinde Warngau, Germany",
+    "woe:place_id":"TFgJUcyYA5quOuwneg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.702799,47.825001,11.705333,47.826668],
+  "geometry": {"alpha":1e-05,"bbox":[11.702798843384,47.825000762939,11.705332756042,47.826667785645],"coordinates":[[[[11.702799,47.825443],[11.705333,47.826668],[11.704666,47.825001],[11.703833,47.825001],[11.7035,47.825001],[11.702799,47.825443]]]],"created":1292539386,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12635196_20101216_b73f50ba39.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

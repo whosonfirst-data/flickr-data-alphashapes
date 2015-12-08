@@ -1,0 +1,15 @@
+{
+  "id": 2442311,
+  "type": "Feature",
+  "properties": {
+    "name":"Louise, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2442311,
+    "woe:name":"Louise, Texas, United States",
+    "woe:place_id":"1qTxA1ybBZimonSf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.413956,29.107794,-96.398636,29.11475],
+  "geometry": {"alpha":0.00015,"bbox":[-96.413955688477,29.107793807983,-96.398635864258,29.114749908447],"coordinates":[[[[-96.409737,29.107794],[-96.413956,29.110325],[-96.404213,29.113823],[-96.398636,29.11475],[-96.406013,29.110289],[-96.408478,29.108665],[-96.409737,29.107794]]]],"created":1292551103,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2442311_20101217_14fc55d278.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

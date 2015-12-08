@@ -1,0 +1,15 @@
+{
+  "id": 2500626,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoutsville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2500626,
+    "woe:name":"Stoutsville, Missouri, United States",
+    "woe:place_id":"TWUG2L6bBJwp8pw_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.854713,39.511921,-91.833855,39.531387],
+  "geometry": {"alpha":0.00015,"bbox":[-91.854713439941,39.511920928955,-91.833854675293,39.531387329102],"coordinates":[[[[-91.849823,39.528934],[-91.843643,39.525097],[-91.833855,39.511921],[-91.849304,39.520527],[-91.854713,39.531387],[-91.849823,39.528934]]]],"created":1292541125,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2500626_20101216_a000be983b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

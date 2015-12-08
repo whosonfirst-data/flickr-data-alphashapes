@@ -1,0 +1,15 @@
+{
+  "id": 20101602,
+  "type": "Feature",
+  "properties": {
+    "name":"Engelswilen, Canton of Thurgau, Switzerland",
+    "placetype":"locality",
+    "woe:id":20101602,
+    "woe:name":"Engelswilen, Canton of Thurgau, Switzerland",
+    "woe:place_id":"YLjN54SbAZ1Eq2I7tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.149143,47.594044,9.149755,47.595531],
+  "geometry": {"alpha":0.00015,"bbox":[9.1491432189941,47.594043731689,9.149754524231,47.595531463623],"coordinates":[[[[9.149755,47.595531],[9.149487,47.59473],[9.149272,47.594124],[9.149143,47.594044],[9.149666,47.595501],[9.149755,47.595531]]]],"created":1292445485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/20101602_20101215_3cf133561f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

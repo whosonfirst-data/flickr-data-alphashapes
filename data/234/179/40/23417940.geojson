@@ -1,0 +1,15 @@
+{
+  "id": 23417940,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Hollow, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":23417940,
+    "woe:name":"Pine Hollow, Oregon, United States",
+    "woe:place_id":"ejB.b5GbApjlebjvOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.29483,45.242321,-121.29007,45.250637],
+  "geometry": {"alpha":0.00015,"bbox":[-121.29483032227,45.242321014404,-121.29006958008,45.250637054443],"coordinates":[[[[-121.29007,45.243015],[-121.29184,45.242741],[-121.294724,45.242321],[-121.29483,45.250637],[-121.29007,45.243015]]]],"created":1292550325,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/23417940_20101217_169ae5ffed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

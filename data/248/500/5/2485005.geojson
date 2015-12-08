@@ -1,0 +1,15 @@
+{
+  "id": 2485005,
+  "type": "Feature",
+  "properties": {
+    "name":"Rossie, New York, United States",
+    "placetype":"locality",
+    "woe:id":2485005,
+    "woe:name":"Rossie, New York, United States",
+    "woe:place_id":"kljKOBybBZS9KC_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.659599,44.378731,-75.651901,44.396076],
+  "geometry": {"alpha":0.00015,"bbox":[-75.659599304199,44.378730773926,-75.651901245117,44.396076202393],"coordinates":[[[[-75.656487,44.378731],[-75.659599,44.380589],[-75.655045,44.396076],[-75.651901,44.381622],[-75.652168,44.380646],[-75.656487,44.378731]]]],"created":1292469723,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2485005_20101216_0b80d622a5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

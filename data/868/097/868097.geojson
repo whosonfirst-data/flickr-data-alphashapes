@@ -1,0 +1,15 @@
+{
+  "id": 868097,
+  "type": "Feature",
+  "properties": {
+    "name":"Breazu, Iasi, Romania",
+    "placetype":"locality",
+    "woe:id":868097,
+    "woe:name":"Breazu, Iasi, Romania",
+    "woe:place_id":"V3CVb7GRB5QIqC0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.542381,47.190178,27.559204,47.20715],
+  "geometry": {"alpha":0.00015,"bbox":[27.542381286621,47.19017791748,27.559204101562,47.207149505615],"coordinates":[[[[27.554398,47.190178],[27.554312,47.190266],[27.542381,47.199162],[27.552423,47.20715],[27.559204,47.199162],[27.558346,47.191463],[27.554398,47.190178]]]],"created":1292497208,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/868097_20101216_8e428bbe70.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

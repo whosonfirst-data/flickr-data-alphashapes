@@ -1,0 +1,15 @@
+{
+  "id": 20141224,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giacomo, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20141224,
+    "woe:name":"San Giacomo, Marche, Italy",
+    "woe:place_id":"_4FEKpGbAZ0XxkA9kA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.843331,42.911179,13.85127,42.919521],
+  "geometry": {"alpha":0.00015,"bbox":[13.843331336975,42.911178588867,13.851269721985,42.919521331787],"coordinates":[[[[13.845552,42.915421],[13.843331,42.919521],[13.84657,42.91563],[13.85127,42.911179],[13.846035,42.914948],[13.845552,42.915421]]]],"created":1292462702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/20141224_20101216_ae2721e5e2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

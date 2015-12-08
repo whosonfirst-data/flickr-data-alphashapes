@@ -1,0 +1,15 @@
+{
+  "id": 23410848,
+  "type": "Feature",
+  "properties": {
+    "name":"Teichland, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":23410848,
+    "woe:name":"Teichland, Brandenburg, Germany",
+    "woe:place_id":"tbYTXlSbApiVj65TMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.420455,51.797363,14.4365,51.810966],
+  "geometry": {"alpha":0.00015,"bbox":[14.420454978943,51.79736328125,14.436499595642,51.810966491699],"coordinates":[[[[14.4355,51.797665],[14.432945,51.797363],[14.420455,51.809723],[14.421358,51.810966],[14.436333,51.797832],[14.4365,51.797832],[14.4355,51.797665]]]],"created":1292514184,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23410848_20101216_16c6264351.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

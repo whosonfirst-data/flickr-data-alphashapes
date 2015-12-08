@@ -1,0 +1,15 @@
+{
+  "id": 465365,
+  "type": "Feature",
+  "properties": {
+    "name":"Estancia la Pampa, Mendoza, Argentina",
+    "placetype":"locality",
+    "woe:id":465365,
+    "woe:name":"Estancia la Pampa, Mendoza, Argentina",
+    "woe:place_id":"a2j3mFCdB5nuI4E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.223663,-33.45837,-69.22245,-33.434879],
+  "geometry": {"alpha":0.00015,"bbox":[-69.223663330078,-33.45837020874,-69.222450256348,-33.434879302979],"coordinates":[[[[-69.223,-33.452168],[-69.222672,-33.45282],[-69.22245,-33.45837],[-69.223663,-33.452],[-69.222961,-33.434879],[-69.223,-33.452168]]]],"created":1292542157,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/465365_20101216_8b0a6f65fd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

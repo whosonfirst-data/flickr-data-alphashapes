@@ -1,0 +1,15 @@
+{
+  "id": 716779,
+  "type": "Feature",
+  "properties": {
+    "name":"La Caletta, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":716779,
+    "woe:name":"La Caletta, Sardinia, Italy",
+    "woe:place_id":"jFcrixqeAJqBuug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.745409,40.603527,9.755945,40.611866],
+  "geometry": {"alpha":0.00015,"bbox":[9.7454090118408,40.603527069092,9.7559452056885,40.611865997314],"coordinates":[[[[9.746246,40.611347],[9.753799,40.611866],[9.755945,40.610825],[9.750537,40.603527],[9.747362,40.605621],[9.745409,40.607552],[9.746246,40.611347]]]],"created":1292547344,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/716779_20101217_1c22793103.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

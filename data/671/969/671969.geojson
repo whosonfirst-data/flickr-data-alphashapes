@@ -1,0 +1,15 @@
+{
+  "id": 671969,
+  "type": "Feature",
+  "properties": {
+    "name":"Lindenberg, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":671969,
+    "woe:name":"Lindenberg, Brandenburg, Germany",
+    "woe:place_id":"Wc6dKXSfBp3TsFM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.128027,53.033375,12.147874,53.039818],
+  "geometry": {"alpha":0.00015,"bbox":[12.12802696228,53.033374786377,12.147873878479,53.039817810059],"coordinates":[[[[12.129601,53.033375],[12.128027,53.03355],[12.130622,53.039818],[12.147874,53.037521],[12.135601,53.035744],[12.133026,53.034969],[12.129601,53.033375]]]],"created":1292523937,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/671969_20101216_1e55265225.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

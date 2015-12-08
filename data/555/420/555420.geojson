@@ -1,0 +1,15 @@
+{
+  "id": 555420,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyngby, Nordjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":555420,
+    "woe:name":"Lyngby, Nordjylland, Denmark",
+    "woe:place_id":"39WYDMucBJm.RfM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.289442,56.869167,8.312531,56.889923],
+  "geometry": {"alpha":0.00015,"bbox":[8.2894420623779,56.869167327881,8.3125314712524,56.889923095703],"coordinates":[[[[8.290128,56.87888],[8.289442,56.880054],[8.298368,56.889923],[8.30017,56.886688],[8.312531,56.869244],[8.3125,56.869167],[8.294076,56.878223],[8.290128,56.87888]]]],"created":1292542840,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/555420_20101216_30c1612412.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

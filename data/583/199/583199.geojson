@@ -1,0 +1,15 @@
+{
+  "id": 583199,
+  "type": "Feature",
+  "properties": {
+    "name":"Casseneuil, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":583199,
+    "woe:name":"Casseneuil, Aquitaine, France",
+    "woe:place_id":"A3N7QyKcCZ8T3Fo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.618324,44.438053,0.624288,44.446159],
+  "geometry": {"alpha":0.00015,"bbox":[0.61832398176193,44.438053131104,0.62428802251816,44.446159362793],"coordinates":[[[[0.621392,44.438705],[0.618324,44.446159],[0.624288,44.441933],[0.622186,44.438053],[0.621821,44.438332],[0.621392,44.438705]]]],"created":1292521759,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/583199_20101216_4cd9dcaf5d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20532,
+  "type": "Feature",
+  "properties": {
+    "name":"Four Winds, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20532,
+    "woe:name":"Four Winds, England, United Kingdom",
+    "woe:place_id":"3o_bJimbAZngrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.660692,50.509087,-4.644641,50.52161],
+  "geometry": {"alpha":0.00015,"bbox":[-4.6606922149658,50.509086608887,-4.6446409225464,50.52161026001],"coordinates":[[[[-4.660692,50.509087],[-4.660643,50.515175],[-4.644641,50.52161],[-4.651722,50.514244],[-4.654254,50.510807],[-4.660692,50.509087]]]],"created":1292458146,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20532_20101216_cb59fcb9e7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

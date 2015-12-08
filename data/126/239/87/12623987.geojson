@@ -1,0 +1,15 @@
+{
+  "id": 12623987,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schriesheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623987,
+    "woe:name":"Gemeinde Schriesheim, Germany",
+    "woe:place_id":"GRkBVs2YA5qiC69DBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.664779,49.474106,8.671131,49.480061],
+  "geometry": {"alpha":1e-05,"bbox":[8.6647787094116,49.474105834961,8.6711311340332,49.480060577393],"coordinates":[[[[8.668186,49.475388],[8.671131,49.474705],[8.670144,49.474106],[8.666839,49.474148],[8.664779,49.480061],[8.668186,49.475388]]]],"created":1292542063,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12623987_20101216_c2f68b4c1d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

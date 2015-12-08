@@ -1,0 +1,15 @@
+{
+  "id": 55863739,
+  "type": "Feature",
+  "properties": {
+    "name":"Coburg East, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":55863739,
+    "woe:name":"Coburg East, Victoria, Australia",
+    "woe:place_id":"2vPvevqcBJQJRGKeJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.96759,-37.757088,145.002701,-37.738686],
+  "geometry": {"alpha":0.00015,"bbox":[144.96759033203,-37.75708770752,145.00270080566,-37.73868560791],"coordinates":[[[[144.979477,-37.755199],[144.96759,-37.741428],[144.984512,-37.738686],[145.002701,-37.745876],[145.000992,-37.755787],[144.998428,-37.757088],[144.979477,-37.755199]]]],"created":1292532963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/55863739_20101216_3f77ebe62f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

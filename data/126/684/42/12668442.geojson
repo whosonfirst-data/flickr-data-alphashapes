@@ -1,0 +1,15 @@
+{
+  "id": 12668442,
+  "type": "Feature",
+  "properties": {
+    "name":"Portet-sur-Garonne, France",
+    "placetype":"locality",
+    "woe:id":12668442,
+    "woe:name":"Portet-sur-Garonne, France",
+    "woe:place_id":"8RUIocKYA5q61urdlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.388236,43.527164,1.389405,43.528362],
+  "geometry": {"alpha":1e-05,"bbox":[1.3882360458374,43.527164459229,1.3894050121307,43.52836227417],"coordinates":[[[[1.389126,43.528],[1.389405,43.52784],[1.388568,43.527313],[1.388236,43.527164],[1.388429,43.528362],[1.389126,43.528]]]],"created":1292461564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12668442_20101216_006b7523dd.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12623383,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Waldkirch, Germany",
+    "placetype":"locality",
+    "woe:id":12623383,
+    "woe:name":"Gemeinde Waldkirch, Germany",
+    "woe:place_id":"0O6.t3.YA5rTiaIjFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.955989,48.090923,7.963371,48.100666],
+  "geometry": {"alpha":1e-05,"bbox":[7.9559888839722,48.090923309326,7.9633708000183,48.100666046143],"coordinates":[[[[7.960796,48.097916],[7.963371,48.092873],[7.960109,48.090923],[7.959251,48.096657],[7.955989,48.100666],[7.960796,48.097916]]]],"created":1292530471,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12623383_20101216_2300ab1a4b.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

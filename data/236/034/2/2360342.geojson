@@ -1,0 +1,15 @@
+{
+  "id": 2360342,
+  "type": "Feature",
+  "properties": {
+    "name":"Baynesville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2360342,
+    "woe:name":"Baynesville, Maryland, United States",
+    "woe:place_id":"PlXhTC2bApo9YanW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.57209,39.39669,-76.55928,39.401264],
+  "geometry": {"alpha":0.00015,"bbox":[-76.572090148926,39.396690368652,-76.559280395508,39.401264190674],"coordinates":[[[[-76.563499,39.399502],[-76.55928,39.398438],[-76.563606,39.397179],[-76.566223,39.39669],[-76.57209,39.401264],[-76.563499,39.399502]]]],"created":1247967362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2437/shapefiles/2360342_20090719_27ac04029d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

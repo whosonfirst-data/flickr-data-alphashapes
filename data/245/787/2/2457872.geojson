@@ -1,0 +1,15 @@
+{
+  "id": 2457872,
+  "type": "Feature",
+  "properties": {
+    "name":"Nestoctin, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2457872,
+    "woe:name":"Nestoctin, Oregon, United States",
+    "woe:place_id":"dl8__SqbBZlmvRce",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.818886,45.376945,-123.800018,45.393566],
+  "geometry": {"alpha":0.00015,"bbox":[-123.81888580322,45.376945495605,-123.80001831055,45.393566131592],"coordinates":[[[[-123.800018,45.388432],[-123.800117,45.388241],[-123.818886,45.376945],[-123.803818,45.393566],[-123.800247,45.389771],[-123.800018,45.388432]]]],"created":1292507162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2457872_20101216_ce0418963b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

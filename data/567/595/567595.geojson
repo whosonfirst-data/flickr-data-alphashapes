@@ -1,0 +1,15 @@
+{
+  "id": 567595,
+  "type": "Feature",
+  "properties": {
+    "name":"Koirakoski, Eastern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":567595,
+    "woe:name":"Koirakoski, Eastern Finland, Finland",
+    "woe:place_id":"nVYVId6cB5sqpjI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.780647,63.555477,27.7852,63.560238],
+  "geometry": {"alpha":0.00015,"bbox":[27.780647277832,63.555477142334,27.785200119019,63.560237884521],"coordinates":[[[[27.780991,63.559216],[27.7852,63.560238],[27.784998,63.555515],[27.784842,63.555477],[27.783442,63.555477],[27.780647,63.558662],[27.780991,63.559216]]]],"created":1292530508,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/567595_20101216_5662cf4c68.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

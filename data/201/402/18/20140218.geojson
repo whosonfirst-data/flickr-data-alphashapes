@@ -1,0 +1,15 @@
+{
+  "id": 20140218,
+  "type": "Feature",
+  "properties": {
+    "name":"Rostio, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20140218,
+    "woe:name":"Rostio, Liguria, Italy",
+    "woe:place_id":"4cq9gq.bAZ1.2nDQqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.306063,44.320908,9.321899,44.325813],
+  "geometry": {"alpha":0.00015,"bbox":[9.3060626983643,44.320907592773,9.3218994140625,44.325813293457],"coordinates":[[[[9.306063,44.321819],[9.306578,44.321915],[9.321899,44.325813],[9.307801,44.320908],[9.306685,44.321407],[9.306063,44.321819]]]],"created":1292454907,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20140218_20101215_5b1b117950.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

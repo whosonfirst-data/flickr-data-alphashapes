@@ -1,0 +1,15 @@
+{
+  "id": 28587226,
+  "type": "Feature",
+  "properties": {
+    "name":"Sloping Main, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":28587226,
+    "woe:name":"Sloping Main, Tasmania, Australia",
+    "woe:place_id":"tbNfmkebCZmYkqVmRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.704315,-42.989662,147.723541,-42.955166],
+  "geometry": {"alpha":0.00015,"bbox":[147.70431518555,-42.98966217041,147.72354125977,-42.955165863037],"coordinates":[[[[147.706024,-42.955795],[147.704315,-42.955166],[147.709122,-42.96999],[147.723541,-42.975639],[147.715668,-42.989662],[147.709122,-42.96999],[147.706024,-42.955795]]]],"created":1247878802,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2508/shapefiles/28587226_20090718_91e586103f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1098642,
+  "type": "Feature",
+  "properties": {
+    "name":"St Marys, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1098642,
+    "woe:name":"St Marys, Tasmania, Australia",
+    "woe:place_id":"1gnO3V6YAZXPKGzJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.185135,-41.587715,148.191147,-41.57449],
+  "geometry": {"alpha":0.00015,"bbox":[148.1851348877,-41.587715148926,148.19114685059,-41.574489593506],"coordinates":[[[[148.185303,-41.578342],[148.189606,-41.57449],[148.191147,-41.581039],[148.18985,-41.585464],[148.185135,-41.587715],[148.185638,-41.579689],[148.185303,-41.578342]]]],"created":1292546748,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/1098642_20101217_70d0b69d88.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

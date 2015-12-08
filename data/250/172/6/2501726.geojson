@@ -1,0 +1,15 @@
+{
+  "id": 2501726,
+  "type": "Feature",
+  "properties": {
+    "name":"Summit, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2501726,
+    "woe:name":"Summit, Kansas, United States",
+    "woe:place_id":"bc2f9k2bBJzRxFx_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.360695,39.866451,-96.351257,39.873615],
+  "geometry": {"alpha":0.00015,"bbox":[-96.360694885254,39.866451263428,-96.351257324219,39.873615264893],"coordinates":[[[[-96.351257,39.873615],[-96.352287,39.870995],[-96.360695,39.866451],[-96.357307,39.870914],[-96.351257,39.873615]]]],"created":1292456784,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2501726_20101215_6598c0310e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681364,
+  "type": "Feature",
+  "properties": {
+    "name":"Ribera, Italy",
+    "placetype":"locality",
+    "woe:id":12681364,
+    "woe:name":"Ribera, Italy",
+    "woe:place_id":"AFzh0zeYA5rm5NTBDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.272514,37.388664,13.27629,37.391571],
+  "geometry": {"alpha":1e-05,"bbox":[13.272514343262,37.388664245605,13.27628993988,37.391571044922],"coordinates":[[[[13.272771,37.390278],[13.272514,37.391438],[13.27629,37.391571],[13.27525,37.389477],[13.275014,37.389118],[13.274456,37.388664],[13.272771,37.390278]]]],"created":1292542661,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12681364_20101216_0e559c839c.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

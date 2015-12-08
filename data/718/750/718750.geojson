@@ -1,0 +1,15 @@
+{
+  "id": 718750,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Sta Maria, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":718750,
+    "woe:name":"Monte Sta Maria, Umbria, Italy",
+    "woe:place_id":"HptBiHaeAJQLS7Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.151908,43.43692,12.16444,43.460705],
+  "geometry": {"alpha":0.00015,"bbox":[12.151907920837,43.436920166016,12.164440155029,43.460704803467],"coordinates":[[[[12.162573,43.43692],[12.157402,43.439457],[12.151908,43.441078],[12.163753,43.460705],[12.16444,43.438587],[12.162573,43.43692]]]],"created":1234791136,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3551/shapefiles/718750_20090216_be6fe3ffb3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

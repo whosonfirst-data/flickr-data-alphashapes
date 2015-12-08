@@ -1,0 +1,15 @@
+{
+  "id": 12678390,
+  "type": "Feature",
+  "properties": {
+    "name":"Poggio Catino, Italy",
+    "placetype":"locality",
+    "woe:id":12678390,
+    "woe:name":"Poggio Catino, Italy",
+    "woe:place_id":"QqH_C1mYA5rNM2A6Gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.688479,42.287086,12.692331,42.296421],
+  "geometry": {"alpha":1e-05,"bbox":[12.688479423523,42.287086486816,12.692331314087,42.296421051025],"coordinates":[[[[12.692331,42.296421],[12.692127,42.291279],[12.688479,42.287086],[12.691826,42.291344],[12.689605,42.296181],[12.692331,42.296421]]]],"created":1247960525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2488/shapefiles/12678390_20090718_80edeec5ab.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

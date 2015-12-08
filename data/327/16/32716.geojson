@@ -1,0 +1,15 @@
+{
+  "id": 32716,
+  "type": "Feature",
+  "properties": {
+    "name":"Pwllmeyric, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32716,
+    "woe:name":"Pwllmeyric, Wales, United Kingdom",
+    "woe:place_id":"dgX.UpWaA5sN1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.708988,51.624744,-2.690749,51.632935],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7089879512787,51.624744415283,-2.6907489299774,51.632934570312],"coordinates":[[[[-2.705469,51.624744],[-2.708988,51.626862],[-2.700834,51.628166],[-2.692337,51.632935],[-2.690749,51.626289],[-2.705469,51.624744]]]],"created":1292522703,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/32716_20101216_1fa46b73b6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

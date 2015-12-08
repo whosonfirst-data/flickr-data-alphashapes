@@ -1,0 +1,15 @@
+{
+  "id": 2396808,
+  "type": "Feature",
+  "properties": {
+    "name":"Echo, California, United States",
+    "placetype":"locality",
+    "woe:id":2396808,
+    "woe:name":"Echo, California, United States",
+    "woe:place_id":"299Ei9SbApVbmU57",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.815674,35.290539,-116.802368,35.303288],
+  "geometry": {"alpha":0.00015,"bbox":[-116.81567382812,35.290538787842,-116.80236816406,35.303287506104],"coordinates":[[[[-116.805412,35.300022],[-116.802368,35.290539],[-116.815674,35.301247],[-116.806229,35.303288],[-116.80555,35.300713],[-116.805412,35.300022]]]],"created":1292521155,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2396808_20101216_1d8f4e26b1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

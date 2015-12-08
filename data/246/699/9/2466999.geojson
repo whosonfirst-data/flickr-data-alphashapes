@@ -1,0 +1,15 @@
+{
+  "id": 2466999,
+  "type": "Feature",
+  "properties": {
+    "name":"Ovid, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2466999,
+    "woe:name":"Ovid, Colorado, United States",
+    "woe:place_id":"OLCNySObBZrY5neA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.391945,40.959515,-102.382965,40.962093],
+  "geometry": {"alpha":0.00015,"bbox":[-102.39194488525,40.95951461792,-102.38296508789,40.962093353271],"coordinates":[[[[-102.390419,40.962093],[-102.382965,40.960781],[-102.383026,40.95953],[-102.383026,40.959515],[-102.391945,40.960945],[-102.390419,40.962093]]]],"created":1292454557,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2466999_20101215_245a1ffd4b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

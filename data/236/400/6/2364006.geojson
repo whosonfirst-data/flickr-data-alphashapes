@@ -1,0 +1,15 @@
+{
+  "id": 2364006,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Hill, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2364006,
+    "woe:name":"Big Hill, Virginia, United States",
+    "woe:place_id":"e8bErUmbAprdgUj6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.682404,36.644192,-81.655907,36.650085],
+  "geometry": {"alpha":0.00015,"bbox":[-81.682403564453,36.644191741943,-81.655906677246,36.650085449219],"coordinates":[[[[-81.676231,36.647484],[-81.682404,36.647995],[-81.678543,36.648727],[-81.672691,36.650085],[-81.655907,36.644192],[-81.672279,36.645798],[-81.676231,36.647484]]]],"created":1292493242,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2364006_20101216_c73211680a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

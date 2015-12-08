@@ -1,0 +1,15 @@
+{
+  "id": 2433877,
+  "type": "Feature",
+  "properties": {
+    "name":"Krakow, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2433877,
+    "woe:name":"Krakow, Wisconsin, United States",
+    "woe:place_id":"OZ3adw2bBZ8kHWYT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.282684,44.753326,-88.274811,44.758205],
+  "geometry": {"alpha":0.00015,"bbox":[-88.282684326172,44.753326416016,-88.274810791016,44.758205413818],"coordinates":[[[[-88.278404,44.755085],[-88.282684,44.758205],[-88.275383,44.755615],[-88.274811,44.753326],[-88.278404,44.755085]]]],"created":1292537400,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2433877_20101216_cd5bd5fea8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

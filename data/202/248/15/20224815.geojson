@@ -1,0 +1,15 @@
+{
+  "id": 20224815,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Amor, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20224815,
+    "woe:name":"Monte Amor, Valencia, Spain",
+    "woe:place_id":"nLQyvjSbAZ7vxvoC.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.445461,39.66901,-0.426406,39.676277],
+  "geometry": {"alpha":0.00015,"bbox":[-0.44546100497246,39.669010162354,-0.42640599608421,39.676277160645],"coordinates":[[[[-0.428037,39.67152],[-0.426406,39.669407],[-0.426921,39.66901],[-0.445117,39.670761],[-0.445461,39.676277],[-0.428037,39.67152]]]],"created":1292432521,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20224815_20101215_abf52d2ef6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

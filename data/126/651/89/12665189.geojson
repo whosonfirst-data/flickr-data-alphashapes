@@ -1,0 +1,15 @@
+{
+  "id": 12665189,
+  "type": "Feature",
+  "properties": {
+    "name":"Susville, France",
+    "placetype":"locality",
+    "woe:id":12665189,
+    "woe:name":"Susville, France",
+    "woe:place_id":"1R9CBWGYA5oQqyBAxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.777349,44.924149,5.778816,44.926441],
+  "geometry": {"alpha":1e-05,"bbox":[5.7773489952087,44.92414855957,5.7788162231445,44.926441192627],"coordinates":[[[[5.778153,44.925755],[5.778801,44.924515],[5.778816,44.924149],[5.777349,44.926441],[5.778153,44.925755]]]],"created":1292513586,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12665189_20101216_262bfc58a0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

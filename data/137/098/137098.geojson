@@ -1,0 +1,15 @@
+{
+  "id": 137098,
+  "type": "Feature",
+  "properties": {
+    "name":"Popola, Yucatan, Mexico",
+    "placetype":"locality",
+    "woe:id":137098,
+    "woe:name":"Popola, Yucatan, Mexico",
+    "woe:place_id":"CRTmCYeYApu6BNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.204765,20.740631,-88.202812,20.753145],
+  "geometry": {"alpha":0.00015,"bbox":[-88.204765319824,20.740631103516,-88.202812194824,20.753145217896],"coordinates":[[[[-88.202812,20.741335],[-88.203079,20.740631],[-88.204765,20.742628],[-88.202904,20.753145],[-88.202812,20.741335]]]],"created":1292544077,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/137098_20101217_99008a539b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683883,
+  "type": "Feature",
+  "properties": {
+    "name":"Lichtensteig, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683883,
+    "woe:name":"Lichtensteig, Switzerland",
+    "woe:place_id":"pFgQhj2YA5o04SPCIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.086401,47.323006,9.092645,47.324776],
+  "geometry": {"alpha":1e-05,"bbox":[9.0864009857178,47.32300567627,9.0926446914673,47.324775695801],"coordinates":[[[[9.087067,47.323463],[9.086401,47.324776],[9.087753,47.324337],[9.092645,47.32399],[9.088236,47.323006],[9.087067,47.323463]]]],"created":1292449081,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12683883_20101215_b1bbd8b5c2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

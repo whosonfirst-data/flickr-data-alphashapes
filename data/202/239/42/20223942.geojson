@@ -1,0 +1,15 @@
+{
+  "id": 20223942,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Bayas, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20223942,
+    "woe:name":"Las Bayas, Valencia, Spain",
+    "woe:place_id":"6QL5Lz6bAZ5lgnTyAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.647866,38.220112,-0.6427,38.234398],
+  "geometry": {"alpha":0.00015,"bbox":[-0.64786601066589,38.220111846924,-0.64270001649857,38.234397888184],"coordinates":[[[[-0.642989,38.220295],[-0.642871,38.227257],[-0.647866,38.234234],[-0.647694,38.234398],[-0.642871,38.227257],[-0.6427,38.220112],[-0.642989,38.220295]]]],"created":1292480585,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20223942_20101216_c143380e27.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

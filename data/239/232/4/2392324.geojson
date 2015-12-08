@@ -1,0 +1,15 @@
+{
+  "id": 2392324,
+  "type": "Feature",
+  "properties": {
+    "name":"Dixie, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2392324,
+    "woe:name":"Dixie, North Carolina, United States",
+    "woe:place_id":"QmtPNZibApWrf_lw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.955528,35.655178,-77.932205,35.665386],
+  "geometry": {"alpha":0.00015,"bbox":[-77.955528259277,35.655178070068,-77.932205200195,35.665386199951],"coordinates":[[[[-77.936325,35.665386],[-77.932205,35.663433],[-77.932205,35.65897],[-77.944382,35.655178],[-77.955528,35.663853],[-77.936325,35.665386]]]],"created":1234570085,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3022/shapefiles/2392324_20090214_af2f0f6c30.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

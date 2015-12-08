@@ -1,0 +1,15 @@
+{
+  "id": 20162196,
+  "type": "Feature",
+  "properties": {
+    "name":"Holzhausen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":20162196,
+    "woe:name":"Holzhausen, Hesse, Germany",
+    "woe:place_id":"qe7hElKbAZ0z4GKKVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.672021,50.253124,8.684005,50.265862],
+  "geometry": {"alpha":0.00015,"bbox":[8.6720209121704,50.253124237061,8.6840047836304,50.26586151123],"coordinates":[[[[8.684005,50.260868],[8.680658,50.253124],[8.680636,50.253124],[8.672021,50.253555],[8.677482,50.265862],[8.684005,50.260868]]]],"created":1248038644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2590/shapefiles/20162196_20090719_69e4e405f7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

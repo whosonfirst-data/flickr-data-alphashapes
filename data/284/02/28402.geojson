@@ -1,0 +1,15 @@
+{
+  "id": 28402,
+  "type": "Feature",
+  "properties": {
+    "name":"Marsh Baldon, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28402,
+    "woe:name":"Marsh Baldon, England, United Kingdom",
+    "woe:place_id":"CQcxh5GbCZh8VA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.19229,51.690819,-1.183776,51.694267],
+  "geometry": {"alpha":0.00015,"bbox":[-1.1922899484634,51.690818786621,-1.1837760210037,51.694267272949],"coordinates":[[[[-1.19217,51.690819],[-1.19229,51.690842],[-1.189441,51.694267],[-1.183776,51.694054],[-1.19163,51.690948],[-1.19217,51.690819]]]],"created":1292521665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/28402_20101216_1b29120b8a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

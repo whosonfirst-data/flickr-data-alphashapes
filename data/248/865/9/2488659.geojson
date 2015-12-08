@@ -1,0 +1,15 @@
+{
+  "id": 2488659,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandy Plains, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2488659,
+    "woe:name":"Sandy Plains, North Carolina, United States",
+    "woe:place_id":"6GYXgq6bBZTwpZ3O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.365601,35.268833,-81.363335,35.271812],
+  "geometry": {"alpha":0.00015,"bbox":[-81.365600585938,35.2688331604,-81.363334655762,35.271812438965],"coordinates":[[[[-81.364838,35.268833],[-81.365219,35.268997],[-81.365601,35.271812],[-81.36367,35.270664],[-81.363335,35.270164],[-81.364838,35.268833]]]],"created":1292550183,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2488659_20101217_b93268ea25.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

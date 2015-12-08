@@ -1,0 +1,15 @@
+{
+  "id": 20222553,
+  "type": "Feature",
+  "properties": {
+    "name":"El Estany, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20222553,
+    "woe:name":"El Estany, Valencia, Spain",
+    "woe:place_id":"N42OUk6bAZ5JOB3MSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.240669,39.12653,-0.231056,39.134853],
+  "geometry": {"alpha":0.00015,"bbox":[-0.24066899716854,39.126529693604,-0.23105600476265,39.134853363037],"coordinates":[[[[-0.232236,39.12653],[-0.233289,39.126862],[-0.240669,39.130859],[-0.240325,39.134853],[-0.236935,39.134819],[-0.234146,39.133255],[-0.231056,39.12793],[-0.231742,39.12664],[-0.232236,39.12653]]]],"created":1292541728,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20222553_20101216_e89237abdb.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

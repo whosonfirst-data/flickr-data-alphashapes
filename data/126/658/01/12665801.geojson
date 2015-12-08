@@ -1,0 +1,15 @@
+{
+  "id": 12665801,
+  "type": "Feature",
+  "properties": {
+    "name":"Longwy, France",
+    "placetype":"locality",
+    "woe:id":12665801,
+    "woe:name":"Longwy, France",
+    "woe:place_id":"HkoTSxKYA5o26a9f7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.762017,49.51852,5.768165,49.525627],
+  "geometry": {"alpha":1e-05,"bbox":[5.7620167732239,49.518520355225,5.7681651115417,49.52562713623],"coordinates":[[[[5.762168,49.522594],[5.762017,49.524113],[5.762333,49.525002],[5.763015,49.52504],[5.764936,49.525627],[5.766309,49.524288],[5.768165,49.520695],[5.762672,49.51852],[5.762543,49.522034],[5.762168,49.522594]]]],"created":1292453230,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12665801_20101215_639ec7768b.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

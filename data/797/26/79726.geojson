@@ -1,0 +1,15 @@
+{
+  "id": 79726,
+  "type": "Feature",
+  "properties": {
+    "name":"San Luis, La Paz, El Salvador",
+    "placetype":"locality",
+    "woe:id":79726,
+    "woe:name":"San Luis, La Paz, El Salvador",
+    "woe:place_id":"FWe5r9.eCJsbug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.065132,13.441549,-89.051056,13.451733],
+  "geometry": {"alpha":0.00015,"bbox":[-89.065132141113,13.441549301147,-89.051055908203,13.451732635498],"coordinates":[[[[-89.05674,13.444867],[-89.065132,13.441549],[-89.059639,13.445055],[-89.051056,13.451733],[-89.055161,13.44584],[-89.056099,13.445076],[-89.05674,13.444867]]]],"created":1292528797,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/79726_20101216_ac26d132b8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

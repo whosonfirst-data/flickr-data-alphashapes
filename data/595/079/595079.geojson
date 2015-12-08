@@ -1,0 +1,15 @@
+{
+  "id": 595079,
+  "type": "Feature",
+  "properties": {
+    "name":"Hure, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":595079,
+    "woe:name":"Hure, Aquitaine, France",
+    "woe:place_id":"tgTlQg6cCJlqB9E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.010557,44.54417,-0.002059,44.546562],
+  "geometry": {"alpha":0.00015,"bbox":[-0.010556999593973,44.544170379639,-0.0020590000785887,44.546562194824],"coordinates":[[[[-0.010406,44.54417],[-0.010557,44.544468],[-0.009527,44.544445],[-0.002059,44.546562],[-0.008926,44.5443],[-0.010406,44.54417]]]],"created":1292450673,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/595079_20101215_b46a7aaec6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

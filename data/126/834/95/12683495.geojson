@@ -1,0 +1,15 @@
+{
+  "id": 12683495,
+  "type": "Feature",
+  "properties": {
+    "name":"Frenkendorf, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683495,
+    "woe:name":"Frenkendorf, Switzerland",
+    "woe:place_id":"FKL61MqYA5ofLsvsHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.711286,47.500095,7.718238,47.505173],
+  "geometry": {"alpha":1e-05,"bbox":[7.7112860679626,47.500095367432,7.7182378768921,47.505172729492],"coordinates":[[[[7.714891,47.503025],[7.718238,47.502186],[7.715063,47.501984],[7.711286,47.500095],[7.71326,47.505173],[7.714891,47.503025]]]],"created":1292535378,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12683495_20101216_80fff2ddab.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

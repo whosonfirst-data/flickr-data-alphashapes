@@ -1,0 +1,15 @@
+{
+  "id": 108248,
+  "type": "Feature",
+  "properties": {
+    "name":"Appleton, Saint Elizabeth, Jamaica",
+    "placetype":"locality",
+    "woe:id":108248,
+    "woe:name":"Appleton, Saint Elizabeth, Jamaica",
+    "woe:place_id":"m7TXyBeYAZTdU6I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.735306,18.164278,-77.725349,18.16877],
+  "geometry": {"alpha":0.00015,"bbox":[-77.735305786133,18.164278030396,-77.72534942627,18.168769836426],"coordinates":[[[[-77.729095,18.164278],[-77.733299,18.1667],[-77.735306,18.167789],[-77.725349,18.16877],[-77.726967,18.164928],[-77.729095,18.164278]]]],"created":1292537127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/108248_20101216_a70d009ddc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

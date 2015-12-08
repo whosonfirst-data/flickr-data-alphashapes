@@ -1,0 +1,15 @@
+{
+  "id": 20225154,
+  "type": "Feature",
+  "properties": {
+    "name":"Parque Coimbra, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":20225154,
+    "woe:name":"Parque Coimbra, Madrid, Spain",
+    "woe:place_id":"JXhtzNybAZ4b8OtjeA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.928577,40.300213,-3.919973,40.310963],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9285769462585,40.300212860107,-3.9199728965759,40.310962677002],"coordinates":[[[[-3.928577,40.305023],[-3.924189,40.309689],[-3.922505,40.310963],[-3.919973,40.30846],[-3.928127,40.300213],[-3.928577,40.305023]]]],"created":1247940848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2623/shapefiles/20225154_20090718_f4ee33742b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

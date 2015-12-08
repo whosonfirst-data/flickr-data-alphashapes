@@ -1,0 +1,15 @@
+{
+  "id": 151042,
+  "type": "Feature",
+  "properties": {
+    "name":"Xalitzintla, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":151042,
+    "woe:name":"Xalitzintla, Puebla, Mexico",
+    "woe:place_id":"hDCZp1uYBJ2v50k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.565987,19.078539,-98.54277,19.098619],
+  "geometry": {"alpha":0.00015,"bbox":[-98.565986633301,19.078538894653,-98.542770385742,19.09861946106],"coordinates":[[[[-98.55114,19.093916],[-98.547707,19.098619],[-98.54277,19.078539],[-98.557777,19.080599],[-98.565987,19.084831],[-98.55114,19.093916]]]],"created":1292530398,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/151042_20101216_968aefc366.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

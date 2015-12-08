@@ -1,0 +1,15 @@
+{
+  "id": 468079,
+  "type": "Feature",
+  "properties": {
+    "name":"Trinidad, Flores, Uruguay",
+    "placetype":"locality",
+    "woe:id":468079,
+    "woe:name":"Trinidad, Flores, Uruguay",
+    "woe:place_id":"O_MbRNGdB5QHGsk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-56.90139,-33.544392,-56.896305,-33.515739],
+  "geometry": {"alpha":0.00015,"bbox":[-56.901390075684,-33.54439163208,-56.896305084229,-33.515739440918],"coordinates":[[[[-56.896305,-33.537746],[-56.896648,-33.538891],[-56.90139,-33.544392],[-56.900768,-33.531235],[-56.900253,-33.515739],[-56.898537,-33.528946],[-56.896305,-33.537746]]]],"created":1292545937,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/468079_20101217_25c74d6fdc.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 457999,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Luzia, Paraiba, Brazil",
+    "placetype":"locality",
+    "woe:id":457999,
+    "woe:name":"Santa Luzia, Paraiba, Brazil",
+    "woe:place_id":"5eZk25mdBJtV3B8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-36.926594,-6.871978,-36.918697,-6.866396],
+  "geometry": {"alpha":0.00015,"bbox":[-36.926593780518,-6.8719778060913,-36.918697357178,-6.8663959503174],"coordinates":[[[[-36.920494,-6.866396],[-36.920071,-6.866545],[-36.918697,-6.871466],[-36.923847,-6.871978],[-36.926594,-6.868484],[-36.920494,-6.866396]]]],"created":1292526163,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/457999_20101216_65a87d4656.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

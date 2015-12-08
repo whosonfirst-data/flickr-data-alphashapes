@@ -1,0 +1,15 @@
+{
+  "id": 1094460,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackwall, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1094460,
+    "woe:name":"Blackwall, New South Wales, Australia",
+    "woe:place_id":"YmZzcNCYAZU.C2ma",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.312973,-33.506676,151.333649,-33.499035],
+  "geometry": {"alpha":0.00015,"bbox":[151.31297302246,-33.506675720215,151.33364868164,-33.499034881592],"coordinates":[[[[151.328049,-33.506676],[151.312973,-33.506618],[151.319824,-33.502934],[151.332031,-33.499035],[151.333649,-33.503613],[151.328461,-33.506599],[151.328049,-33.506676]]]],"created":1248141127,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3428/shapefiles/1094460_20090721_079b8d356a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

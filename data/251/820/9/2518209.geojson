@@ -1,0 +1,15 @@
+{
+  "id": 2518209,
+  "type": "Feature",
+  "properties": {
+    "name":"Westford, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2518209,
+    "woe:name":"Westford, Pennsylvania, United States",
+    "woe:place_id":"L_wRgAebBJ0ZLWCs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.494926,41.537903,-80.478584,41.552109],
+  "geometry": {"alpha":0.00015,"bbox":[-80.494926452637,41.537902832031,-80.478584289551,41.552108764648],"coordinates":[[[[-80.494926,41.5452],[-80.489571,41.552109],[-80.478584,41.552074],[-80.484406,41.537903],[-80.485756,41.53894],[-80.494926,41.5452]]]],"created":1292531662,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2518209_20101216_88268d3831.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

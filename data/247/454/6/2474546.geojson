@@ -1,0 +1,15 @@
+{
+  "id": 2474546,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Adams Station, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2474546,
+    "woe:name":"Point Adams Station, Oregon, United States",
+    "woe:place_id":"imrHk1SbBZvvN7WE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.946724,46.189381,-123.928169,46.199257],
+  "geometry": {"alpha":0.00015,"bbox":[-123.94672393799,46.189380645752,-123.92816925049,46.199256896973],"coordinates":[[[[-123.946724,46.190052],[-123.946136,46.199257],[-123.940025,46.197063],[-123.928169,46.191929],[-123.929001,46.189381],[-123.946724,46.190052]]]],"created":1292448701,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2474546_20101215_0fc0a9993f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

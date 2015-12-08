@@ -1,0 +1,15 @@
+{
+  "id": 12676871,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolzano Novarese, Italy",
+    "placetype":"locality",
+    "woe:id":12676871,
+    "woe:name":"Bolzano Novarese, Italy",
+    "woe:place_id":"c7VOCCuYA5oZg_9OzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.44222,45.762245,8.448135,45.764889],
+  "geometry": {"alpha":1e-05,"bbox":[8.4422197341919,45.762245178223,8.4481353759766,45.764888763428],"coordinates":[[[[8.445396,45.764019],[8.44222,45.762245],[8.444366,45.76453],[8.445053,45.764889],[8.448135,45.763321],[8.445396,45.764019]]]],"created":1292534716,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12676871_20101216_4cb8ca5ccb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

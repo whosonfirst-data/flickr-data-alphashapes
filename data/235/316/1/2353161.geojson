@@ -1,0 +1,15 @@
+{
+  "id": 2353161,
+  "type": "Feature",
+  "properties": {
+    "name":"Aliceville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2353161,
+    "woe:name":"Aliceville, Illinois, United States",
+    "woe:place_id":"cT998YibApkWgQrk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.904945,41.576054,-89.896332,41.578403],
+  "geometry": {"alpha":0.00015,"bbox":[-89.904945373535,41.576053619385,-89.896331787109,41.5784034729],"coordinates":[[[[-89.904671,41.576054],[-89.904739,41.576073],[-89.904945,41.578403],[-89.896332,41.576141],[-89.904671,41.576054]]]],"created":1292448221,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2353161_20101215_7cd4163124.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

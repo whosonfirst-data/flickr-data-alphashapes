@@ -1,0 +1,15 @@
+{
+  "id": 739963,
+  "type": "Feature",
+  "properties": {
+    "name":"Costa, Braga, Portugal",
+    "placetype":"locality",
+    "woe:id":739963,
+    "woe:name":"Costa, Braga, Portugal",
+    "woe:place_id":"vekx7fWeApWzGt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.274979,41.43195,-8.268585,41.434345],
+  "geometry": {"alpha":0.00015,"bbox":[-8.2749786376953,41.431949615479,-8.2685852050781,41.434345245361],"coordinates":[[[[-8.270548,41.432125],[-8.274979,41.434345],[-8.274518,41.434235],[-8.269014,41.432896],[-8.268585,41.432873],[-8.269979,41.43195],[-8.270548,41.432125]]]],"created":1292439829,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/739963_20101215_e24257af5a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

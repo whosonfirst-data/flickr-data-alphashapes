@@ -1,0 +1,15 @@
+{
+  "id": 2357344,
+  "type": "Feature",
+  "properties": {
+    "name":"Audubon Hills, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2357344,
+    "woe:name":"Audubon Hills, Tennessee, United States",
+    "woe:place_id":"RX0DwW6bApl.P36M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.160233,35.847534,-84.148537,35.855827],
+  "geometry": {"alpha":0.00015,"bbox":[-84.160232543945,35.847534179688,-84.148536682129,35.855827331543],"coordinates":[[[[-84.151123,35.849037],[-84.153473,35.848003],[-84.15509,35.847534],[-84.160233,35.855827],[-84.148537,35.853161],[-84.151123,35.849037]]]],"created":1292459467,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2357344_20101216_e511ff1df0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

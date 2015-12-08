@@ -1,0 +1,15 @@
+{
+  "id": 2524583,
+  "type": "Feature",
+  "properties": {
+    "name":"Yarnell, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2524583,
+    "woe:name":"Yarnell, Oregon, United States",
+    "woe:place_id":"TGw6uc6bBJ6rGKus",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.96508,44.084255,-122.954002,44.089806],
+  "geometry": {"alpha":0.00015,"bbox":[-122.96508026123,44.084255218506,-122.95400238037,44.089805603027],"coordinates":[[[[-122.96508,44.084255],[-122.963364,44.089806],[-122.954002,44.088917],[-122.955826,44.087975],[-122.96508,44.084255]]]],"created":1292456886,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2524583_20101215_557a6b278c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

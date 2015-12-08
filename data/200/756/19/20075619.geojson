@@ -1,0 +1,15 @@
+{
+  "id": 20075619,
+  "type": "Feature",
+  "properties": {
+    "name":"Rossenges, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075619,
+    "woe:name":"Rossenges, Switzerland",
+    "woe:place_id":"uxWGpLCbAZwUedjH5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.795301,46.668404,6.798648,46.669876],
+  "geometry": {"alpha":1e-05,"bbox":[6.7953009605408,46.668403625488,6.7986478805542,46.669876098633],"coordinates":[[[[6.79676,46.668522],[6.795301,46.668816],[6.795644,46.669876],[6.798477,46.668758],[6.798648,46.668404],[6.796889,46.668491],[6.79676,46.668522]]]],"created":1292483349,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/20075619_20101216_fbfddce115.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

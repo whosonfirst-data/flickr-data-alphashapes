@@ -1,0 +1,15 @@
+{
+  "id": 718672,
+  "type": "Feature",
+  "properties": {
+    "name":"Montauto, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":718672,
+    "woe:name":"Montauto, Tuscany, Italy",
+    "woe:place_id":"lhL3GQieAJQaT7c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.047439,43.439751,11.051774,43.443306],
+  "geometry": {"alpha":0.00015,"bbox":[11.047438621521,43.439750671387,11.051774024963,43.443305969238],"coordinates":[[[[11.051409,43.441109],[11.051774,43.440098],[11.050239,43.439751],[11.048898,43.440269],[11.047439,43.441811],[11.049413,43.443306],[11.051409,43.441109]]]],"created":1292522962,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/718672_20101216_d4a241e63a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

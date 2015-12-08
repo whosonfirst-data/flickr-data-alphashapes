@@ -1,0 +1,15 @@
+{
+  "id": 713247,
+  "type": "Feature",
+  "properties": {
+    "name":"Castel Rigone, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":713247,
+    "woe:name":"Castel Rigone, Umbria, Italy",
+    "woe:place_id":"FCkSEzueAJ9_zss",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.221603,43.196606,12.230873,43.201172],
+  "geometry": {"alpha":0.00015,"bbox":[12.221603393555,43.196605682373,12.23087310791,43.201171875],"coordinates":[[[[12.221603,43.196606],[12.222118,43.198418],[12.222633,43.201172],[12.228023,43.200962],[12.230873,43.199543],[12.2234,43.197849],[12.221603,43.196606]]]],"created":1292475372,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/713247_20101216_174e6637f1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

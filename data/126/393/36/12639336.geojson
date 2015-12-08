@@ -1,0 +1,15 @@
+{
+  "id": 12639336,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonneval, France",
+    "placetype":"locality",
+    "woe:id":12639336,
+    "woe:name":"Bonneval, France",
+    "woe:place_id":"G6BHC5KYA5rxQwHnRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.386122,48.179001,1.392581,48.181248],
+  "geometry": {"alpha":1e-05,"bbox":[1.3861219882965,48.179000854492,1.3925809860229,48.181247711182],"coordinates":[[[[1.387517,48.179703],[1.392581,48.179001],[1.38771,48.179165],[1.38683,48.179783],[1.386122,48.180386],[1.386573,48.181248],[1.387517,48.179703]]]],"created":1292537563,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12639336_20101216_e4631d2d13.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

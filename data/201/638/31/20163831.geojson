@@ -1,0 +1,15 @@
+{
+  "id": 20163831,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwarzenacker, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":20163831,
+    "woe:name":"Schwarzenacker, Saarland, Germany",
+    "woe:place_id":"OUXSHF2bAZ0dIM9I.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.314738,49.282463,7.320553,49.285835],
+  "geometry": {"alpha":0.00015,"bbox":[7.3147377967834,49.28246307373,7.3205528259277,49.285835266113],"coordinates":[[[[7.317924,49.282463],[7.31602,49.282879],[7.314738,49.283337],[7.319641,49.285835],[7.320553,49.283691],[7.317924,49.282463]]]],"created":1292522518,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20163831_20101216_4754681b4e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2645,
+  "type": "Feature",
+  "properties": {
+    "name":"Island Lake, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2645,
+    "woe:name":"Island Lake, Manitoba, Canada",
+    "woe:place_id":"7_2btg.bB5ia",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.658203,53.880161,-94.650818,53.892605],
+  "geometry": {"alpha":0.00015,"bbox":[-94.658203125,53.8801612854,-94.650817871094,53.892604827881],"coordinates":[[[[-94.651505,53.882133],[-94.650818,53.880161],[-94.655113,53.880665],[-94.658203,53.892605],[-94.651505,53.882133]]]],"created":1292544062,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2645_20101217_622759ecf5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

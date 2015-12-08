@@ -1,0 +1,15 @@
+{
+  "id": 29334558,
+  "type": "Feature",
+  "properties": {
+    "name":"Zorzino, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":29334558,
+    "woe:name":"Zorzino, Lombardy, Italy",
+    "woe:place_id":"u8RVFombCJ.QQowJZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.043413,45.780209,10.050623,45.782749],
+  "geometry": {"alpha":0.00015,"bbox":[10.043413162231,45.780208587646,10.050622940063,45.782749176025],"coordinates":[[[[10.043561,45.781143],[10.043413,45.781723],[10.048906,45.782749],[10.050623,45.780209],[10.044711,45.781055],[10.043561,45.781143]]]],"created":1247825522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3656/shapefiles/29334558_20090717_86769298d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

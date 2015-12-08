@@ -1,0 +1,15 @@
+{
+  "id": 772856,
+  "type": "Feature",
+  "properties": {
+    "name":"San Fernando, Balearic Islands, Spain",
+    "placetype":"locality",
+    "woe:id":772856,
+    "woe:name":"San Fernando, Balearic Islands, Spain",
+    "woe:place_id":".J03EZWeBp6uat0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.457061,38.679146,1.483583,38.701588],
+  "geometry": {"alpha":0.00015,"bbox":[1.4570610523224,38.679145812988,1.4835829734802,38.701587677002],"coordinates":[[[[1.457061,38.697838],[1.461524,38.700649],[1.476287,38.701588],[1.483583,38.679146],[1.467189,38.688457],[1.457662,38.687435],[1.457061,38.697838]]]],"created":1292526306,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/772856_20101216_687e5be580.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

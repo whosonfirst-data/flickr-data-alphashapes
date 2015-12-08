@@ -1,0 +1,15 @@
+{
+  "id": 20108609,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Croce, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20108609,
+    "woe:name":"Santa Croce, Lombardy, Italy",
+    "woe:place_id":"FVBw4h2bAZ1VoMLrhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.564113,46.140949,9.570636,46.149277],
+  "geometry": {"alpha":0.00015,"bbox":[9.564112663269,46.140949249268,9.5706357955933,46.149276733398],"coordinates":[[[[9.564306,46.145306],[9.564113,46.148144],[9.567546,46.1488],[9.570636,46.149277],[9.566645,46.140949],[9.564306,46.145306]]]],"created":1292457227,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20108609_20101215_bc85a1b9c5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2461328,
+  "type": "Feature",
+  "properties": {
+    "name":"North Merrick, New York, United States",
+    "placetype":"locality",
+    "woe:id":2461328,
+    "woe:name":"North Merrick, New York, United States",
+    "woe:place_id":"flo70TGbBZoJ5mt6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.573097,40.677902,-73.553467,40.693378],
+  "geometry": {"alpha":0.00015,"bbox":[-73.573097229004,40.67790222168,-73.553466796875,40.693378448486],"coordinates":[[[[-73.553467,40.690205],[-73.558151,40.677902],[-73.573097,40.691368],[-73.567307,40.693378],[-73.563293,40.691929],[-73.553467,40.690205]]]],"created":1292444930,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2461328_20101215_eb5f3dd90e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

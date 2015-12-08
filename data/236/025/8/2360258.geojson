@@ -1,0 +1,15 @@
+{
+  "id": 2360258,
+  "type": "Feature",
+  "properties": {
+    "name":"Bay View, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2360258,
+    "woe:name":"Bay View, Maryland, United States",
+    "woe:place_id":"LzFKdQibApr0j3pM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.957832,39.640404,-75.953186,39.648872],
+  "geometry": {"alpha":0.00015,"bbox":[-75.957832336426,39.640403747559,-75.953186035156,39.648872375488],"coordinates":[[[[-75.956177,39.640404],[-75.957832,39.64119],[-75.957176,39.642567],[-75.955597,39.648872],[-75.953186,39.642033],[-75.956177,39.640404]]]],"created":1292535234,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2360258_20101216_5408e59903.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

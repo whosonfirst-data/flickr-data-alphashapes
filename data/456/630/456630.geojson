@@ -1,0 +1,15 @@
+{
+  "id": 456630,
+  "type": "Feature",
+  "properties": {
+    "name":"Alagoa Grande, Paraiba, Brazil",
+    "placetype":"locality",
+    "woe:id":456630,
+    "woe:name":"Alagoa Grande, Paraiba, Brazil",
+    "woe:place_id":"0vVlL0GdBJpFxNM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-35.605316,-7.086583,-35.587463,-7.064096],
+  "geometry": {"alpha":0.00015,"bbox":[-35.605316162109,-7.0865831375122,-35.587463378906,-7.0640959739685],"coordinates":[[[[-35.601238,-7.077922],[-35.605316,-7.064096],[-35.595703,-7.072273],[-35.587463,-7.086583],[-35.599461,-7.08194],[-35.601238,-7.077922]]]],"created":1292547258,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/456630_20101217_28bf84c00a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

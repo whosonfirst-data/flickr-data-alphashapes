@@ -1,0 +1,15 @@
+{
+  "id": 868440,
+  "type": "Feature",
+  "properties": {
+    "name":"Bundorf, Brasov, Romania",
+    "placetype":"locality",
+    "woe:id":868440,
+    "woe:name":"Bundorf, Brasov, Romania",
+    "woe:place_id":"E.3fLfWRB5TQuKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.049515,46.076801,25.056637,46.105137],
+  "geometry": {"alpha":0.00015,"bbox":[25.049514770508,46.076801300049,25.056636810303,46.105136871338],"coordinates":[[[[25.056637,46.092957],[25.055351,46.090675],[25.054665,46.079422],[25.049515,46.076801],[25.054493,46.090435],[25.054665,46.105137],[25.056637,46.092957]]]],"created":1292525331,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/868440_20101216_34b5b23c6b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

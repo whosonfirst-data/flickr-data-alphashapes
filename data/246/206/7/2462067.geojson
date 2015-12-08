@@ -1,0 +1,15 @@
+{
+  "id": 2462067,
+  "type": "Feature",
+  "properties": {
+    "name":"Northville, Connecticut, United States",
+    "placetype":"locality",
+    "woe:id":2462067,
+    "woe:name":"Northville, Connecticut, United States",
+    "woe:place_id":"yj8aA72bBZoLZqv3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.396996,41.618553,-73.382622,41.640072],
+  "geometry": {"alpha":0.00015,"bbox":[-73.396995544434,41.618553161621,-73.382621765137,41.640071868896],"coordinates":[[[[-73.389473,41.639862],[-73.382622,41.638195],[-73.388756,41.638348],[-73.395706,41.618553],[-73.396996,41.640072],[-73.389473,41.639862]]]],"created":1248230172,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2479/shapefiles/2462067_20090722_10526e23c8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

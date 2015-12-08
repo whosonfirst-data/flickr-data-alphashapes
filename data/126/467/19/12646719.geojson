@@ -1,0 +1,15 @@
+{
+  "id": 12646719,
+  "type": "Feature",
+  "properties": {
+    "name":"La Veuve, France",
+    "placetype":"locality",
+    "woe:id":12646719,
+    "woe:name":"La Veuve, France",
+    "woe:place_id":"g.2sRsWYA5rlxSj_hg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.321666,49.040665,4.326499,49.044498],
+  "geometry": {"alpha":1e-05,"bbox":[4.321665763855,49.040664672852,4.3264989852905,49.044498443604],"coordinates":[[[[4.324166,49.044498],[4.324333,49.044498],[4.326499,49.043999],[4.324333,49.044334],[4.321666,49.040665],[4.3235,49.044498],[4.324166,49.044498]]]],"created":1292529245,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12646719_20101216_7138c719c1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

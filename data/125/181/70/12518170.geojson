@@ -1,0 +1,15 @@
+{
+  "id": 12518170,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518170,
+    "woe:name":"Valley Airport, United Kingdom",
+    "woe:place_id":".LxUINWYA5mzuYSWeg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.538898,53.254173,-4.53495,53.256432],
+  "geometry": {"alpha":1e-05,"bbox":[-4.5388979911804,53.254173278809,-4.5349497795105,53.25643157959],"coordinates":[[[[-4.535293,53.256432],[-4.53495,53.256176],[-4.535465,53.255562],[-4.536838,53.254173],[-4.538898,53.254688],[-4.538555,53.255047],[-4.535293,53.256432]]]],"created":1292543774,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12518170_20101216_35a02ec70a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

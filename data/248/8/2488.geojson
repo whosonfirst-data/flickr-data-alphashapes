@@ -1,0 +1,15 @@
+{
+  "id": 2488,
+  "type": "Feature",
+  "properties": {
+    "name":"Russell, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2488,
+    "woe:name":"Russell, Manitoba, Canada",
+    "woe:place_id":"MQzo45abBZRZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.291199,50.772388,-101.27935,50.776417],
+  "geometry": {"alpha":0.00015,"bbox":[-101.29119873047,50.772388458252,-101.27935028076,50.776416778564],"coordinates":[[[[-101.288452,50.772945],[-101.288795,50.772945],[-101.291199,50.776417],[-101.27935,50.772633],[-101.284378,50.772388],[-101.288452,50.772945]]]],"created":1292521665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2488_20101216_e80169a219.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

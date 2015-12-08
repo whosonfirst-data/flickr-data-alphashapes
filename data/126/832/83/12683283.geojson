@@ -1,0 +1,15 @@
+{
+  "id": 12683283,
+  "type": "Feature",
+  "properties": {
+    "name":"Dachsen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683283,
+    "woe:name":"Dachsen, Switzerland",
+    "woe:place_id":"1m4tbN2YA5rRZCxc0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.618356,47.656715,8.621346,47.659081],
+  "geometry": {"alpha":1e-05,"bbox":[8.6183557510376,47.656715393066,8.6213464736938,47.659080505371],"coordinates":[[[[8.618431,47.656715],[8.618356,47.659081],[8.618824,47.658878],[8.621346,47.657581],[8.618431,47.656715]]]],"created":1292517663,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12683283_20101216_2bf5459950.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602354,
+  "type": "Feature",
+  "properties": {
+    "name":"Verlaine, Belgium",
+    "placetype":"locality",
+    "woe:id":12602354,
+    "woe:name":"Verlaine, Belgium",
+    "woe:place_id":"zqLuwZOYA5oeWKrm0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.28408,50.60841,5.2928,50.610722],
+  "geometry": {"alpha":1e-05,"bbox":[5.2840800285339,50.608409881592,5.292799949646,50.610721588135],"coordinates":[[[[5.28953,50.60841],[5.28408,50.610722],[5.289573,50.608543],[5.292697,50.608887],[5.292755,50.608849],[5.2928,50.608818],[5.28953,50.60841]]]],"created":1247949725,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2480/shapefiles/12602354_20090718_a93da8b2dc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

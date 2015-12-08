@@ -1,0 +1,15 @@
+{
+  "id": 1589251,
+  "type": "Feature",
+  "properties": {
+    "name":"Bloemhof, North-west, South Africa",
+    "placetype":"locality",
+    "woe:id":1589251,
+    "woe:name":"Bloemhof, North-west, South Africa",
+    "woe:place_id":"cngT4KWYBJRqS3jS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.596428,-27.652149,25.607758,-27.640348],
+  "geometry": {"alpha":0.00015,"bbox":[25.59642791748,-27.652149200439,25.607757568359,-27.640348434448],"coordinates":[[[[25.596428,-27.650385],[25.597286,-27.646128],[25.597458,-27.640348],[25.607758,-27.643389],[25.6026,-27.652149],[25.596428,-27.650385]]]],"created":1292459041,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/1589251_20101216_aff491fcab.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

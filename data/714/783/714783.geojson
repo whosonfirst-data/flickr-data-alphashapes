@@ -1,0 +1,15 @@
+{
+  "id": 714783,
+  "type": "Feature",
+  "properties": {
+    "name":"Costanzana, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":714783,
+    "woe:name":"Costanzana, Piedmont, Italy",
+    "woe:place_id":"gHhFxMeeAJhW3E4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.36523,45.234634,8.371774,45.239162],
+  "geometry": {"alpha":0.00015,"bbox":[8.3652296066284,45.234634399414,8.3717737197876,45.239162445068],"coordinates":[[[[8.371654,45.234993],[8.371774,45.234634],[8.367566,45.234844],[8.367148,45.23558],[8.36523,45.239162],[8.370083,45.235764],[8.371654,45.234993]]]],"created":1247981895,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2519/shapefiles/714783_20090719_b158d089ce.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

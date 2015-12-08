@@ -1,0 +1,15 @@
+{
+  "id": 720150,
+  "type": "Feature",
+  "properties": {
+    "name":"Pereta, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":720150,
+    "woe:name":"Pereta, Tuscany, Italy",
+    "woe:place_id":"HVBxh1eeA5xWtls",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.314072,42.642876,11.324184,42.651447],
+  "geometry": {"alpha":0.00015,"bbox":[11.314071655273,42.642875671387,11.324184417725,42.651447296143],"coordinates":[[[[11.324184,42.644585],[11.32083,42.644718],[11.314072,42.642876],[11.31566,42.643761],[11.322269,42.651447],[11.323814,42.645954],[11.324184,42.644585]]]],"created":1292521856,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/720150_20101216_f6bcec4e8b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

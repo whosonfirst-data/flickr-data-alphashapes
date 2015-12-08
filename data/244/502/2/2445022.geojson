@@ -1,0 +1,15 @@
+{
+  "id": 2445022,
+  "type": "Feature",
+  "properties": {
+    "name":"Manson, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2445022,
+    "woe:name":"Manson, Texas, United States",
+    "woe:place_id":"S2s0PsqbBZj0Pn_C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.545403,28.956558,-96.539322,28.961815],
+  "geometry": {"alpha":0.00015,"bbox":[-96.545402526855,28.956558227539,-96.539321899414,28.961814880371],"coordinates":[[[[-96.54184,28.958212],[-96.545105,28.956558],[-96.545403,28.961815],[-96.54287,28.960915],[-96.539322,28.960257],[-96.54184,28.958212]]]],"created":1248152898,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2654/shapefiles/2445022_20090721_b99c95f424.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

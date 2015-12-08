@@ -1,0 +1,15 @@
+{
+  "id": 28745255,
+  "type": "Feature",
+  "properties": {
+    "name":"Porter, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745255,
+    "woe:name":"Porter, Pennsylvania, United States",
+    "woe:place_id":"7VNhq1qbCZttacsKvg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.530289,41.015675,-77.4935,41.042049],
+  "geometry": {"alpha":0.00015,"bbox":[-77.530288696289,41.015674591064,-77.493499755859,41.042049407959],"coordinates":[[[[-77.515694,41.038837],[-77.509552,41.040974],[-77.507698,41.042049],[-77.4935,41.039001],[-77.509552,41.040974],[-77.517334,41.033165],[-77.529991,41.015675],[-77.530289,41.016068],[-77.528442,41.030376],[-77.515694,41.038837]]]],"created":1292528647,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/28745255_20101216_54e89ff1de.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

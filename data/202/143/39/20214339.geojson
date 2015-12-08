@@ -1,0 +1,15 @@
+{
+  "id": 20214339,
+  "type": "Feature",
+  "properties": {
+    "name":"La Roche, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":20214339,
+    "woe:name":"La Roche, Burgundy, France",
+    "woe:place_id":"iPdM0A6bAZ7bDvDhQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.866873,47.33696,2.885666,47.350338],
+  "geometry": {"alpha":0.00015,"bbox":[2.8668730258942,47.336959838867,2.8856658935547,47.350337982178],"coordinates":[[[[2.866873,47.338531],[2.866916,47.350338],[2.885666,47.348831],[2.868804,47.338242],[2.868118,47.33696],[2.866873,47.338531]]]],"created":1292452312,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20214339_20101215_8d6d5bcf9a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

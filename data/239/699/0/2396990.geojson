@@ -1,0 +1,15 @@
+{
+  "id": 2396990,
+  "type": "Feature",
+  "properties": {
+    "name":"Eden, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2396990,
+    "woe:name":"Eden, Washington, United States",
+    "woe:place_id":"fJJmN.ObApVStELx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.679665,46.287834,-123.678169,46.29512],
+  "geometry": {"alpha":0.00015,"bbox":[-123.67966461182,46.28783416748,-123.67816925049,46.295120239258],"coordinates":[[[[-123.679016,46.29512],[-123.678497,46.289833],[-123.678169,46.287834],[-123.679665,46.292168],[-123.679016,46.29512]]]],"created":1234485844,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3502/shapefiles/2396990_20090213_4e8f692b7b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

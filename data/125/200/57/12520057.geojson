@@ -1,0 +1,15 @@
+{
+  "id": 12520057,
+  "type": "Feature",
+  "properties": {
+    "name":"Half Moon Bay Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520057,
+    "woe:name":"Half Moon Bay Airport, United States",
+    "woe:place_id":"DjIn_yqYA5kYs6Xwag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.498749,37.51384,-122.49585,37.515579],
+  "geometry": {"alpha":1e-05,"bbox":[-122.4987487793,37.51383972168,-122.49584960938,37.515579223633],"coordinates":[[[[-122.498413,37.515102],[-122.496536,37.515579],[-122.49585,37.51384],[-122.498749,37.51387],[-122.498413,37.515102]]]],"created":1292519988,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12520057_20101216_c85be44b9a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

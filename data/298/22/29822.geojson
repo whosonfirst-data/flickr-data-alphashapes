@@ -1,0 +1,15 @@
+{
+  "id": 29822,
+  "type": "Feature",
+  "properties": {
+    "name":"Netherfield, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29822,
+    "woe:name":"Netherfield, England, United Kingdom",
+    "woe:place_id":"w8fWoDabCJQCWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.42602,50.941772,0.444431,50.965454],
+  "geometry": {"alpha":0.00015,"bbox":[0.42601999640465,50.941772460938,0.44443100690842,50.965454101562],"coordinates":[[[[0.437049,50.944855],[0.435837,50.942139],[0.435161,50.942097],[0.428295,50.941772],[0.42602,50.963913],[0.444431,50.965454],[0.437049,50.944855]]]],"created":1292458180,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/29822_20101216_b7d2130ca6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

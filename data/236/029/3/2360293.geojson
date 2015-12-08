@@ -1,0 +1,15 @@
+{
+  "id": 2360293,
+  "type": "Feature",
+  "properties": {
+    "name":"Bayard, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2360293,
+    "woe:name":"Bayard, New Mexico, United States",
+    "woe:place_id":"DXPRNlibAprrt.c0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.134651,32.749924,-108.129112,32.764469],
+  "geometry": {"alpha":0.00015,"bbox":[-108.13465118408,32.749923706055,-108.12911224365,32.764469146729],"coordinates":[[[[-108.131065,32.761353],[-108.129112,32.758839],[-108.134651,32.749924],[-108.133278,32.756962],[-108.133621,32.764469],[-108.131065,32.761353]]]],"created":1292538646,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2360293_20101216_9eecc2cc68.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

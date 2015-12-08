@@ -1,0 +1,15 @@
+{
+  "id": 20110193,
+  "type": "Feature",
+  "properties": {
+    "name":"Asciano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20110193,
+    "woe:name":"Asciano, Tuscany, Italy",
+    "woe:place_id":"lbAhrAebAZ37SYJ2bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.455121,43.739384,10.465679,43.749023],
+  "geometry": {"alpha":0.00015,"bbox":[10.455121040344,43.73938369751,10.465679168701,43.7490234375],"coordinates":[[[[10.462932,43.749023],[10.465679,43.748314],[10.459724,43.739384],[10.455121,43.741451],[10.459928,43.746174],[10.462932,43.749023]]]],"created":1292480164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/20110193_20101216_56598df2df.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

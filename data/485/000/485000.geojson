@@ -1,0 +1,15 @@
+{
+  "id": 485000,
+  "type": "Feature",
+  "properties": {
+    "name":"Alwernia, Lesser Poland, Poland",
+    "placetype":"locality",
+    "woe:id":485000,
+    "woe:name":"Alwernia, Lesser Poland, Poland",
+    "woe:place_id":"B0ZeKiydCZkkVX0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.554119,50.096798,19.582958,50.107479],
+  "geometry": {"alpha":0.00015,"bbox":[19.554119110107,50.096797943115,19.582958221436,50.107479095459],"coordinates":[[[[19.565964,50.107479],[19.570232,50.103104],[19.582958,50.100983],[19.568195,50.096798],[19.554119,50.099552],[19.565964,50.107479]]]],"created":1248102016,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2567/shapefiles/485000_20090720_cff028e103.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

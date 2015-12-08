@@ -1,0 +1,15 @@
+{
+  "id": 20140250,
+  "type": "Feature",
+  "properties": {
+    "name":"Rotzo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20140250,
+    "woe:name":"Rotzo, Veneto, Italy",
+    "woe:place_id":"yzeOUbybAZ3ysQ0IAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.388874,45.856602,11.40973,45.886421],
+  "geometry": {"alpha":0.00015,"bbox":[11.388874053955,45.856601715088,11.409729957581,45.886421203613],"coordinates":[[[[11.406555,45.856602],[11.388874,45.857979],[11.390075,45.877579],[11.397628,45.886421],[11.40973,45.876293],[11.406555,45.856602]]]],"created":1292518949,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20140250_20101216_d14534faed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

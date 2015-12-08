@@ -1,0 +1,15 @@
+{
+  "id": 3456,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Apollinaire, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3456,
+    "woe:name":"St.-Apollinaire, Quebec, Canada",
+    "woe:place_id":"lnKXALOaBZn1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.51825,46.599552,-71.499641,46.61977],
+  "geometry": {"alpha":0.00015,"bbox":[-71.518249511719,46.599552154541,-71.499641418457,46.619770050049],"coordinates":[[[[-71.510696,46.615372],[-71.516167,46.616665],[-71.51825,46.618317],[-71.504234,46.61977],[-71.504517,46.619144],[-71.499641,46.599552],[-71.510696,46.615372]]]],"created":1292550365,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/3456_20101217_3b1baf0329.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

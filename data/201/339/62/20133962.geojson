@@ -1,0 +1,15 @@
+{
+  "id": 20133962,
+  "type": "Feature",
+  "properties": {
+    "name":"Ogliano, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20133962,
+    "woe:name":"Ogliano, Veneto, Italy",
+    "woe:place_id":"nS38jP6bAZ13LDul8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.296619,45.908436,12.305974,45.926914],
+  "geometry": {"alpha":0.00015,"bbox":[12.296619415283,45.908435821533,12.305974006653,45.926914215088],"coordinates":[[[[12.30297,45.926914],[12.304472,45.924072],[12.305974,45.920124],[12.298593,45.9086],[12.296619,45.908436],[12.301683,45.92614],[12.30297,45.926914]]]],"created":1292454963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20133962_20101215_bc052bac67.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

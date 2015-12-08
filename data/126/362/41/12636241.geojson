@@ -1,0 +1,15 @@
+{
+  "id": 12636241,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Trebbin, Germany",
+    "placetype":"locality",
+    "woe:id":12636241,
+    "woe:name":"Gemeinde Trebbin, Germany",
+    "woe:place_id":"3l16xZuYA5qhLCAJww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.148617,52.202255,13.156252,52.208553],
+  "geometry": {"alpha":1e-05,"bbox":[13.148616790771,52.202255249023,13.156251907349,52.208553314209],"coordinates":[[[[13.152372,52.204136],[13.148617,52.202255],[13.148617,52.20303],[13.149604,52.208553],[13.151578,52.207973],[13.156252,52.204964],[13.152372,52.204136]]]],"created":1292540042,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12636241_20101216_fe6dca103b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

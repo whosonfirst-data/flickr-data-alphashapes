@@ -1,0 +1,15 @@
+{
+  "id": 12654317,
+  "type": "Feature",
+  "properties": {
+    "name":"Vieux-Charmont, France",
+    "placetype":"locality",
+    "woe:id":12654317,
+    "woe:name":"Vieux-Charmont, France",
+    "woe:place_id":"GYD7do.YA5rtdW57tQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.847369,47.529255,6.849803,47.530533],
+  "geometry": {"alpha":1e-05,"bbox":[6.8473691940308,47.52925491333,6.8498029708862,47.530532836914],"coordinates":[[[[6.847369,47.529568],[6.848087,47.530533],[6.849803,47.530415],[6.849803,47.530357],[6.848773,47.529255],[6.847369,47.529568]]]],"created":1292445353,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12654317_20101215_53dd208d50.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

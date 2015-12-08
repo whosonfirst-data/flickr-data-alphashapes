@@ -1,0 +1,15 @@
+{
+  "id": 2514609,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2514609,
+    "woe:name":"Washington, Kentucky, United States",
+    "woe:place_id":"60chBSqbBJ2iFEw8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.814018,38.595486,-83.791824,38.631447],
+  "geometry": {"alpha":0.00015,"bbox":[-83.814018249512,38.595485687256,-83.79182434082,38.631446838379],"coordinates":[[[[-83.811707,38.614746],[-83.813599,38.62524],[-83.796204,38.631447],[-83.791824,38.627262],[-83.808884,38.6134],[-83.814018,38.595486],[-83.811707,38.614746]]]],"created":1292540452,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2514609_20101216_bd70809d35.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

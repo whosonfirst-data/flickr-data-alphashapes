@@ -1,0 +1,15 @@
+{
+  "id": 2509417,
+  "type": "Feature",
+  "properties": {
+    "name":"Tyro, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2509417,
+    "woe:name":"Tyro, Kansas, United States",
+    "woe:place_id":"e_MPWZ6bBJyL9Vbb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.824043,37.032845,-95.81945,37.057983],
+  "geometry": {"alpha":0.00015,"bbox":[-95.824043273926,37.032844543457,-95.819450378418,37.057983398438],"coordinates":[[[[-95.824043,37.035843],[-95.821892,37.057983],[-95.822922,37.036167],[-95.81945,37.034096],[-95.821854,37.032845],[-95.824043,37.035843]]]],"created":1292518740,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2509417_20101216_1a64fda1a2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

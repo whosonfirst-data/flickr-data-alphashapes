@@ -1,0 +1,15 @@
+{
+  "id": 754786,
+  "type": "Feature",
+  "properties": {
+    "name":"Bot, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":754786,
+    "woe:name":"Bot, Catalonia, Spain",
+    "woe:place_id":"rsWMkXyeBJimxhc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.375595,41.004517,0.389757,41.012028],
+  "geometry": {"alpha":0.00015,"bbox":[0.37559500336647,41.004516601562,0.38975700736046,41.012027740479],"coordinates":[[[[0.379629,41.010345],[0.382804,41.011124],[0.386924,41.012028],[0.389757,41.004517],[0.382102,41.008141],[0.375595,41.009186],[0.379629,41.010345]]]],"created":1292530636,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/754786_20101216_cea73eb310.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

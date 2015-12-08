@@ -1,0 +1,15 @@
+{
+  "id": 2444711,
+  "type": "Feature",
+  "properties": {
+    "name":"Mandana, New York, United States",
+    "placetype":"locality",
+    "woe:id":2444711,
+    "woe:name":"Mandana, New York, United States",
+    "woe:place_id":"QBEMwlWbBZjCEBne",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.368233,42.84568,-76.367661,42.846184],
+  "geometry": {"alpha":0.00015,"bbox":[-76.368232727051,42.845680236816,-76.367660522461,42.846183776855],"coordinates":[[[[-76.367661,42.846142],[-76.36776,42.845985],[-76.368233,42.84568],[-76.368065,42.846119],[-76.367676,42.846184],[-76.367661,42.846142]]]],"created":1292526421,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2444711_20101216_baec0bfa38.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

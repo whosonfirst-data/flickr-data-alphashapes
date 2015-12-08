@@ -1,0 +1,15 @@
+{
+  "id": 2434317,
+  "type": "Feature",
+  "properties": {
+    "name":"La Posta, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2434317,
+    "woe:name":"La Posta, Colorado, United States",
+    "woe:place_id":"CaujHFubBZ_6Oc5c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.872009,37.104343,-107.856384,37.137878],
+  "geometry": {"alpha":0.00015,"bbox":[-107.87200927734,37.104343414307,-107.85638427734,37.137878417969],"coordinates":[[[[-107.864929,37.122311],[-107.872009,37.137878],[-107.859261,37.131344],[-107.856384,37.122276],[-107.867584,37.104343],[-107.864929,37.122311]]]],"created":1292456704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2434317_20101215_ca577448bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

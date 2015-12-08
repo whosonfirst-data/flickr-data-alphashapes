@@ -1,0 +1,15 @@
+{
+  "id": 2457540,
+  "type": "Feature",
+  "properties": {
+    "name":"Needmore, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2457540,
+    "woe:name":"Needmore, Missouri, United States",
+    "woe:place_id":"TXetGQSbBZnYMPiZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.729431,37.603844,-93.725006,37.606174],
+  "geometry": {"alpha":0.00015,"bbox":[-93.729431152344,37.603843688965,-93.725006103516,37.606174468994],"coordinates":[[[[-93.725906,37.606174],[-93.725006,37.604748],[-93.725395,37.604591],[-93.727455,37.603844],[-93.729431,37.60553],[-93.725906,37.606174]]]],"created":1292512743,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2457540_20101216_cddbfd1a28.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

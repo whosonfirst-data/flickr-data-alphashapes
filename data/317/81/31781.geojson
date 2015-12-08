@@ -1,0 +1,15 @@
+{
+  "id": 31781,
+  "type": "Feature",
+  "properties": {
+    "name":"Pensby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31781,
+    "woe:name":"Pensby, England, United Kingdom",
+    "woe:place_id":"Ner9BHOaAJtv1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.100891,53.344402,-3.091406,53.349834],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1008911132812,53.344402313232,-3.0914061069489,53.349834442139],"coordinates":[[[[-3.091557,53.348866],[-3.091406,53.346451],[-3.095397,53.344402],[-3.100891,53.347477],[-3.095655,53.349834],[-3.091557,53.348866]]]],"created":1292520549,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/31781_20101216_e527db216b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

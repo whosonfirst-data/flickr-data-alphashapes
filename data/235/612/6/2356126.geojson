@@ -1,0 +1,15 @@
+{
+  "id": 2356126,
+  "type": "Feature",
+  "properties": {
+    "name":"Arno, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2356126,
+    "woe:name":"Arno, Texas, United States",
+    "woe:place_id":"Ye3ZWwabApnaNLXR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.6306,31.664486,-103.62442,31.66938],
+  "geometry": {"alpha":0.00015,"bbox":[-103.63059997559,31.664485931396,-103.62442016602,31.669380187988],"coordinates":[[[[-103.627167,31.66938],[-103.62545,31.669308],[-103.62442,31.664486],[-103.629913,31.66577],[-103.6306,31.666353],[-103.627167,31.66938]]]],"created":1292451565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2356126_20101215_b27d58a038.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745570,
+  "type": "Feature",
+  "properties": {
+    "name":"Delaware, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745570,
+    "woe:name":"Delaware, Pennsylvania, United States",
+    "woe:place_id":"4m6V55qbCZsI794zxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.239265,40.551758,-77.236801,40.564526],
+  "geometry": {"alpha":0.00015,"bbox":[-77.239265441895,40.5517578125,-77.236801147461,40.564525604248],"coordinates":[[[[-77.236801,40.552155],[-77.238945,40.551758],[-77.239265,40.551937],[-77.237206,40.564526],[-77.236801,40.552155]]]],"created":1292457752,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/28745570_20101216_a14f1a63f3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

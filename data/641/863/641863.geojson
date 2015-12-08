@@ -1,0 +1,15 @@
+{
+  "id": 641863,
+  "type": "Feature",
+  "properties": {
+    "name":"Bubenreuth, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":641863,
+    "woe:name":"Bubenreuth, Bavaria, Germany",
+    "woe:place_id":"0j4quj6fBZ24dtE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.998687,49.619831,11.03096,49.633411],
+  "geometry": {"alpha":0.00015,"bbox":[10.998686790466,49.619831085205,11.030960083008,49.633411407471],"coordinates":[[[[11.009277,49.633316],[11.018342,49.630337],[11.03096,49.619831],[11.012678,49.62495],[10.998687,49.622276],[11.008777,49.633411],[11.009277,49.633316]]]],"created":1292540177,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/641863_20101216_3b2f405e05.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

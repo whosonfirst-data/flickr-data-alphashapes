@@ -1,0 +1,15 @@
+{
+  "id": 22912,
+  "type": "Feature",
+  "properties": {
+    "name":"Hedenham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22912,
+    "woe:name":"Hedenham, England, United Kingdom",
+    "woe:place_id":"iS8P5pSbA5Wt_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.395333,52.48576,1.411571,52.490334],
+  "geometry": {"alpha":0.00015,"bbox":[1.3953330516815,52.485759735107,1.4115710258484,52.490333557129],"coordinates":[[[[1.405305,52.487274],[1.395333,52.486668],[1.399383,52.488632],[1.402945,52.490334],[1.404533,52.489838],[1.411571,52.48576],[1.405305,52.487274]]]],"created":1292465528,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/22912_20101216_e717ed8e51.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2518604,
+  "type": "Feature",
+  "properties": {
+    "name":"Westville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2518604,
+    "woe:name":"Westville, Ohio, United States",
+    "woe:place_id":"jbMdIyubBJ0RG7dn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.888855,40.124622,-83.879242,40.136173],
+  "geometry": {"alpha":0.00015,"bbox":[-83.888854980469,40.124622344971,-83.879241943359,40.136173248291],"coordinates":[[[[-83.886108,40.125671],[-83.886108,40.126724],[-83.888855,40.136173],[-83.879242,40.131973],[-83.880615,40.124622],[-83.886108,40.125671]]]],"created":1292454593,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2518604_20101215_bfb4965a22.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

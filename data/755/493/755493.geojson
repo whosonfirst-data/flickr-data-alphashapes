@@ -1,0 +1,15 @@
+{
+  "id": 755493,
+  "type": "Feature",
+  "properties": {
+    "name":"Caldevilla, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":755493,
+    "woe:name":"Caldevilla, Asturias, Spain",
+    "woe:place_id":"MR1Fe1WeBJmuA8k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.24637,43.349773,-5.213527,43.359791],
+  "geometry": {"alpha":0.00029296875,"bbox":[-5.2463698387146,43.349773406982,-5.2135272026062,43.359790802002],"coordinates":[[[[-5.239448,43.349773],[-5.24637,43.359791],[-5.228955,43.357086],[-5.213527,43.355389],[-5.214214,43.351894],[-5.239448,43.349773]]]],"created":1292443845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/755493_20101215_00aca03025.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

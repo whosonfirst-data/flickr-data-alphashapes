@@ -1,0 +1,15 @@
+{
+  "id": 2443804,
+  "type": "Feature",
+  "properties": {
+    "name":"Mackville, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2443804,
+    "woe:name":"Mackville, Vermont, United States",
+    "woe:place_id":"zbHp5kSbBZiLZsPu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.351913,44.447254,-72.345711,44.457218],
+  "geometry": {"alpha":0.00015,"bbox":[-72.351913452148,44.447254180908,-72.345710754395,44.457218170166],"coordinates":[[[[-72.348274,44.447254],[-72.351913,44.447475],[-72.348114,44.457218],[-72.345711,44.449005],[-72.345871,44.448811],[-72.348274,44.447254]]]],"created":1292454423,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2443804_20101215_d0af1d9daf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26804664,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolivar, Monagas, Venezuela",
+    "placetype":"county",
+    "woe:id":26804664,
+    "woe:name":"Bolivar, Monagas, Venezuela",
+    "woe:place_id":"pA5t2HmbB5Sj59enog",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-63.100899,10.107299,-63.058777,10.131116],
+  "geometry": {"alpha":0.0015,"bbox":[-63.100898742676,10.107298851013,-63.058776855469,10.131115913391],"coordinates":[[[[-63.100899,10.107299],[-63.100662,10.109824],[-63.096542,10.122329],[-63.058777,10.131116],[-63.093281,10.109317],[-63.100899,10.107299]]]],"created":1292480945,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/26804664_20101216_c26ee975f2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28747639,
+  "type": "Feature",
+  "properties": {
+    "name":"Ewing, California, United States",
+    "placetype":"locality",
+    "woe:id":28747639,
+    "woe:name":"Ewing, California, United States",
+    "woe:place_id":"RWwfRsKbCZua0zf1uQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.335121,38.918625,-121.317131,38.93758],
+  "geometry": {"alpha":0.00015,"bbox":[-121.33512115479,38.91862487793,-121.31713104248,38.937580108643],"coordinates":[[[[-121.335121,38.924461],[-121.329742,38.931908],[-121.317131,38.93758],[-121.327858,38.927433],[-121.327217,38.918625],[-121.335121,38.924461]]]],"created":1292442361,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28747639_20101215_dd5e4015fd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

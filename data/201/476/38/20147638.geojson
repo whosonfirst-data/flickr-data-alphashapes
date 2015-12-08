@@ -1,0 +1,15 @@
+{
+  "id": 20147638,
+  "type": "Feature",
+  "properties": {
+    "name":"Vasco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20147638,
+    "woe:name":"Vasco, Piedmont, Italy",
+    "woe:place_id":"gRkjeoabAZ0H03EzyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.819433,44.355461,7.828209,44.358284],
+  "geometry": {"alpha":0.00015,"bbox":[7.8194332122803,44.355461120605,7.8282089233398,44.358283996582],"coordinates":[[[[7.828209,44.356155],[7.828,44.355999],[7.827329,44.355461],[7.819433,44.357639],[7.820377,44.358284],[7.826921,44.356236],[7.828209,44.356155]]]],"created":1292462529,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20147638_20101216_2db280343b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20223865,
+  "type": "Feature",
+  "properties": {
+    "name":"La Torre, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20223865,
+    "woe:name":"La Torre, Catalonia, Spain",
+    "woe:place_id":"EkyuREibAZ42jYUjxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.193046,41.968296,1.220512,41.982655],
+  "geometry": {"alpha":0.00015,"bbox":[1.1930459737778,41.968296051025,1.2205120325089,41.982654571533],"coordinates":[[[[1.193046,41.968296],[1.193389,41.980419],[1.199054,41.979053],[1.213645,41.980675],[1.220512,41.982655],[1.208667,41.973656],[1.193046,41.968296]]]],"created":1292480642,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/20223865_20101216_8783f18109.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

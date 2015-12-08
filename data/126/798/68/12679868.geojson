@@ -1,0 +1,15 @@
+{
+  "id": 12679868,
+  "type": "Feature",
+  "properties": {
+    "name":"Selva dei Molini, Italy",
+    "placetype":"locality",
+    "woe:id":12679868,
+    "woe:name":"Selva dei Molini, Italy",
+    "woe:place_id":"40zdy9iYA5rjLRMuYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.885576,46.916729,11.893815,46.927643],
+  "geometry": {"alpha":1e-05,"bbox":[11.885576248169,46.916728973389,11.893815040588,46.927642822266],"coordinates":[[[[11.892185,46.927643],[11.893815,46.924416],[11.889352,46.922131],[11.885576,46.91914],[11.886619,46.916729],[11.889352,46.922131],[11.892185,46.927643]]]],"created":1239594725,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3394/shapefiles/12679868_20090413_7611057ef2.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

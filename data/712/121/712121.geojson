@@ -1,0 +1,15 @@
+{
+  "id": 712121,
+  "type": "Feature",
+  "properties": {
+    "name":"Capocasale, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":712121,
+    "woe:name":"Capocasale, Calabria, Italy",
+    "woe:place_id":"RDeA6wyeAJ7FcMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.252623,39.237846,16.260323,39.255783],
+  "geometry": {"alpha":0.00015,"bbox":[16.25262260437,39.237846374512,16.260322570801,39.255783081055],"coordinates":[[[[16.255566,39.24456],[16.252623,39.237846],[16.255421,39.245098],[16.256504,39.24741],[16.258907,39.255783],[16.260323,39.248905],[16.255566,39.24456]]]],"created":1292523970,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/712121_20101216_193407a136.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

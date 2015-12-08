@@ -1,0 +1,15 @@
+{
+  "id": 159,
+  "type": "Feature",
+  "properties": {
+    "name":"Brechin, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":159,
+    "woe:name":"Brechin, Ontario, Canada",
+    "woe:place_id":"XIpsJ1eYBJU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.219215,44.54723,-79.201424,44.550938],
+  "geometry": {"alpha":0.00015,"bbox":[-79.219215393066,44.547229766846,-79.20142364502,44.550937652588],"coordinates":[[[[-79.215286,44.548275],[-79.201424,44.548702],[-79.215424,44.54723],[-79.219215,44.550938],[-79.215286,44.548275]]]],"created":1248200057,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3521/shapefiles/159_20090721_9af1715cba.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

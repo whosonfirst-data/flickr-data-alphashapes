@@ -1,0 +1,15 @@
+{
+  "id": 20539,
+  "type": "Feature",
+  "properties": {
+    "name":"Fowlis, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20539,
+    "woe:name":"Fowlis, Scotland, United Kingdom",
+    "woe:place_id":"ls14.SKbAZnUVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.13145,56.48695,-3.099861,56.502941],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1314499378204,56.486949920654,-3.099860906601,56.502941131592],"coordinates":[[[[-3.099861,56.489223],[-3.100929,56.48695],[-3.112317,56.4879],[-3.13145,56.49939],[-3.1184,56.502941],[-3.103895,56.4897],[-3.099861,56.489223]]]],"created":1292508794,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/20539_20101216_acffb878a2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

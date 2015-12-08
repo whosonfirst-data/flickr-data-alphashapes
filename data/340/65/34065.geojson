@@ -1,0 +1,15 @@
+{
+  "id": 34065,
+  "type": "Feature",
+  "properties": {
+    "name":"Sarn, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34065,
+    "woe:name":"Sarn, Wales, United Kingdom",
+    "woe:place_id":"Rh.TS7CaBZzEeg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.179833,52.509567,-3.171347,52.512165],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1798329353333,52.509567260742,-3.1713469028473,52.51216506958],"coordinates":[[[[-3.175681,52.509567],[-3.179833,52.510578],[-3.177623,52.512165],[-3.173525,52.51107],[-3.171347,52.510445],[-3.175681,52.509567]]]],"created":1292540716,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/34065_20101216_7fc8ebb985.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26804821,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jose, Venezuela",
+    "placetype":"locality",
+    "woe:id":26804821,
+    "woe:name":"San Jose, Venezuela",
+    "woe:place_id":"ett8mYqbB5Q9KJG2eA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.526711,10.765702,-71.525734,10.766133],
+  "geometry": {"alpha":1e-05,"bbox":[-71.526710510254,10.76570224762,-71.525733947754,10.766133308411],"coordinates":[[[[-71.526581,10.765702],[-71.526672,10.765758],[-71.526711,10.765902],[-71.526619,10.765919],[-71.525948,10.766102],[-71.525734,10.766133],[-71.526581,10.765702]]]],"created":1292452584,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/26804821_20101215_5da019b4e2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20210806,
+  "type": "Feature",
+  "properties": {
+    "name":"La Croisette, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210806,
+    "woe:name":"La Croisette, Rhone-Alpes, France",
+    "woe:place_id":"58TJgGKbAZ5IUMcmHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.166849,46.118107,6.182062,46.133976],
+  "geometry": {"alpha":0.00015,"bbox":[6.1668491363525,46.118106842041,6.1820621490479,46.133975982666],"coordinates":[[[[6.174359,46.11834],[6.172267,46.118835],[6.166849,46.119404],[6.172256,46.123581],[6.176719,46.131432],[6.182062,46.133976],[6.175003,46.118107],[6.174359,46.11834]]]],"created":1292522463,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20210806_20101216_536688e09e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

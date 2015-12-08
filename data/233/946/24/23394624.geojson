@@ -1,0 +1,15 @@
+{
+  "id": 23394624,
+  "type": "Feature",
+  "properties": {
+    "name":"Shigawake, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394624,
+    "woe:name":"Shigawake, Quebec, Canada",
+    "woe:place_id":"mfPm5YSbAp8f0w5u_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.085754,48.091953,-65.070045,48.098404],
+  "geometry": {"alpha":0.00015,"bbox":[-65.085754394531,48.091953277588,-65.070045471191,48.098403930664],"coordinates":[[[[-65.079063,48.094536],[-65.070045,48.098404],[-65.072708,48.092068],[-65.085754,48.091953],[-65.084724,48.092644],[-65.079063,48.094536]]]],"created":1292502423,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23394624_20101216_d54601dfa9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

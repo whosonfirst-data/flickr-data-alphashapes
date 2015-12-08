@@ -1,0 +1,15 @@
+{
+  "id": 578347,
+  "type": "Feature",
+  "properties": {
+    "name":"Indre, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":578347,
+    "woe:name":"Indre, Pays de la Loire, France",
+    "woe:place_id":"x6oDUHScBpQdeKY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.673805,47.194786,-1.670265,47.197788],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6738049983978,47.194786071777,-1.6702649593353,47.197788238525],"coordinates":[[[[-1.673805,47.197498],[-1.67344,47.197788],[-1.672153,47.196884],[-1.670265,47.195576],[-1.672668,47.194786],[-1.673805,47.197498]]]],"created":1247829125,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2439/shapefiles/578347_20090717_032e4b3211.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

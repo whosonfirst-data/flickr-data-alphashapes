@@ -1,0 +1,15 @@
+{
+  "id": 12695676,
+  "type": "Feature",
+  "properties": {
+    "name":"Guadasequies, Spain",
+    "placetype":"locality",
+    "woe:id":12695676,
+    "woe:name":"Guadasequies, Spain",
+    "woe:place_id":"qFyEknKYA5ofwnWYFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.485458,38.930988,-0.478205,38.934044],
+  "geometry": {"alpha":1e-05,"bbox":[-0.48545798659325,38.930988311768,-0.47820499539375,38.934043884277],"coordinates":[[[[-0.480975,38.933926],[-0.478205,38.932941],[-0.481853,38.930988],[-0.485458,38.932037],[-0.484943,38.934044],[-0.480975,38.933926]]]],"created":1292462347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12695676_20101216_de5ec8d8c5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

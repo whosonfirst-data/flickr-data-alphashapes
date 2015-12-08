@@ -1,0 +1,15 @@
+{
+  "id": 2500041,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockbridge, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2500041,
+    "woe:name":"Stockbridge, Vermont, United States",
+    "woe:place_id":"StNDZsmbBJzW8ZMv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.712044,43.764206,-72.699654,43.778622],
+  "geometry": {"alpha":0.00015,"bbox":[-72.712043762207,43.764205932617,-72.699653625488,43.778621673584],"coordinates":[[[[-72.700729,43.778622],[-72.699654,43.778111],[-72.711983,43.764206],[-72.712044,43.764275],[-72.700729,43.778622]]]],"created":1292525643,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2500041_20101216_0bc0cc1f5d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

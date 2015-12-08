@@ -1,0 +1,15 @@
+{
+  "id": 2359200,
+  "type": "Feature",
+  "properties": {
+    "name":"Barefoot, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2359200,
+    "woe:name":"Barefoot, Kentucky, United States",
+    "woe:place_id":"dliC6WCbApkq2lPz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.094208,38.420647,-84.082245,38.434933],
+  "geometry": {"alpha":0.00015,"bbox":[-84.094207763672,38.42064666748,-84.082244873047,38.43493270874],"coordinates":[[[[-84.083344,38.43301],[-84.092102,38.420647],[-84.094208,38.423302],[-84.084236,38.434933],[-84.082245,38.433296],[-84.083344,38.43301]]]],"created":1292536111,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2359200_20101216_481992befa.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

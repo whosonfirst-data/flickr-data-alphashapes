@@ -1,0 +1,15 @@
+{
+  "id": 2407410,
+  "type": "Feature",
+  "properties": {
+    "name":"Fremont Center, New York, United States",
+    "placetype":"locality",
+    "woe:id":2407410,
+    "woe:name":"Fremont Center, New York, United States",
+    "woe:place_id":"A7V0BCebBZy6fKsb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.108887,41.856159,-75.097908,41.859276],
+  "geometry": {"alpha":0.00015,"bbox":[-75.10888671875,41.856159210205,-75.09790802002,41.859275817871],"coordinates":[[[[-75.097992,41.858944],[-75.108887,41.856159],[-75.098427,41.859276],[-75.097908,41.859093],[-75.097992,41.858944]]]],"created":1292547989,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2407410_20101217_dd38bb8937.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

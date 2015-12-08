@@ -1,0 +1,15 @@
+{
+  "id": 2472246,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Knoll, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2472246,
+    "woe:name":"Pine Knoll, Maryland, United States",
+    "woe:place_id":"IdnJHXebBZtpfz8_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.980484,39.560093,-76.965538,39.56707],
+  "geometry": {"alpha":0.00015,"bbox":[-76.980484008789,39.560092926025,-76.965538024902,39.567070007324],"coordinates":[[[[-76.977585,39.560806],[-76.980484,39.565437],[-76.976929,39.56707],[-76.972137,39.564064],[-76.965538,39.560093],[-76.977585,39.560806]]]],"created":1292535844,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2472246_20101216_1dace4f5fa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

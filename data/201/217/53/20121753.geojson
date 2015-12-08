@@ -1,0 +1,15 @@
+{
+  "id": 20121753,
+  "type": "Feature",
+  "properties": {
+    "name":"Cona, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20121753,
+    "woe:name":"Cona, Veneto, Italy",
+    "woe:place_id":"1a3jFiybAZ0SxV3RXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.941447,45.617722,10.949113,45.620041],
+  "geometry": {"alpha":0.00015,"bbox":[10.941447257996,45.617721557617,10.949112892151,45.620040893555],"coordinates":[[[[10.949113,45.617779],[10.949113,45.617775],[10.949083,45.617722],[10.941447,45.620041],[10.949091,45.617786],[10.949113,45.617779]]]],"created":1292457259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/20121753_20101215_97e1f5f6a5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

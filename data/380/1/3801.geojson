@@ -1,0 +1,15 @@
+{
+  "id": 3801,
+  "type": "Feature",
+  "properties": {
+    "name":"Oxford, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":3801,
+    "woe:name":"Oxford, Nova Scotia, Canada",
+    "woe:place_id":"3bczLm.aCZxj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.886871,45.721279,-63.863354,45.740032],
+  "geometry": {"alpha":0.00015,"bbox":[-63.886871337891,45.721279144287,-63.863353729248,45.740032196045],"coordinates":[[[[-63.865414,45.732845],[-63.875713,45.726673],[-63.879745,45.724426],[-63.886871,45.721279],[-63.879318,45.731949],[-63.876228,45.738178],[-63.873669,45.738667],[-63.865841,45.738834],[-63.863354,45.740032],[-63.865414,45.732845]]]],"created":1292540876,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/3801_20101216_a299fff60b.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

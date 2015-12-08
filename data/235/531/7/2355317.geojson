@@ -1,0 +1,15 @@
+{
+  "id": 2355317,
+  "type": "Feature",
+  "properties": {
+    "name":"Appleton, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2355317,
+    "woe:name":"Appleton, Missouri, United States",
+    "woe:place_id":"vP5NhzybAplWiweS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.715042,37.596516,-89.712379,37.598728],
+  "geometry": {"alpha":0.00015,"bbox":[-89.715042114258,37.596515655518,-89.712379455566,37.598728179932],"coordinates":[[[[-89.712379,37.596928],[-89.712631,37.596516],[-89.713585,37.597523],[-89.715042,37.598728],[-89.713669,37.59832],[-89.712379,37.596928]]]],"created":1292468469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2355317_20101216_eab137e079.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

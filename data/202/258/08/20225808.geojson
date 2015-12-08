@@ -1,0 +1,15 @@
+{
+  "id": 20225808,
+  "type": "Feature",
+  "properties": {
+    "name":"San Isidro, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20225808,
+    "woe:name":"San Isidro, Valencia, Spain",
+    "woe:place_id":"VIGqNkCbAZ5.Z1GqEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.841999,38.1679,-0.838394,38.171494],
+  "geometry": {"alpha":0.00015,"bbox":[-0.84199899435043,38.167900085449,-0.83839398622513,38.171493530273],"coordinates":[[[[-0.841999,38.169113],[-0.841462,38.171459],[-0.84026,38.171494],[-0.838394,38.1679],[-0.841999,38.169113]]]],"created":1234717815,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3164/shapefiles/20225808_20090215_7a38a74f8b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

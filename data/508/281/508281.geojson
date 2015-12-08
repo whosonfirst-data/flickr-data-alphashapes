@@ -1,0 +1,15 @@
+{
+  "id": 508281,
+  "type": "Feature",
+  "properties": {
+    "name":"Mostki, Lubusz, Poland",
+    "placetype":"locality",
+    "woe:id":508281,
+    "woe:name":"Mostki, Lubusz, Poland",
+    "woe:place_id":"OGEf9hGcAZQUYpk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.38043,52.265427,15.392532,52.270046],
+  "geometry": {"alpha":0.00015,"bbox":[15.380430221558,52.265426635742,15.392532348633,52.270046234131],"coordinates":[[[[15.381975,52.270046],[15.392532,52.270046],[15.390129,52.265427],[15.381631,52.268208],[15.381288,52.268471],[15.38043,52.269997],[15.381975,52.270046]]]],"created":1292515685,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/508281_20101216_692ec3e6cb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

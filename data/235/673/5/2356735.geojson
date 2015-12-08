@@ -1,0 +1,15 @@
+{
+  "id": 2356735,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashton, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2356735,
+    "woe:name":"Ashton, Michigan, United States",
+    "woe:place_id":"OvRzYGqbApkQzCmx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.534393,43.973553,-85.53244,43.974148],
+  "geometry": {"alpha":0.00015,"bbox":[-85.534393310547,43.973552703857,-85.532440185547,43.974147796631],"coordinates":[[[[-85.534111,43.974148],[-85.53244,43.973625],[-85.532509,43.973553],[-85.53376,43.973591],[-85.534393,43.974056],[-85.534111,43.974148]]]],"created":1292468468,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2356735_20101216_993eca7ce1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

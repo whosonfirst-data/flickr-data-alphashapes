@@ -1,0 +1,15 @@
+{
+  "id": 55874843,
+  "type": "Feature",
+  "properties": {
+    "name":"Ivanovskoe, Moskva, Russia",
+    "placetype":"locality",
+    "woe:id":55874843,
+    "woe:name":"Ivanovskoe, Moskva, Russia",
+    "woe:place_id":"NMnKpG2cBJSDLjASAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [37.826614,55.772423,37.832451,55.781204],
+  "geometry": {"alpha":0.00015,"bbox":[37.826614379883,55.772422790527,37.832450866699,55.781204223633],"coordinates":[[[[37.829613,55.780804],[37.829678,55.780773],[37.832451,55.778889],[37.831078,55.772423],[37.826614,55.781204],[37.829613,55.780804]]]],"created":1292457936,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/55874843_20101216_b3838096ea.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

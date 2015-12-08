@@ -1,0 +1,15 @@
+{
+  "id": 13343,
+  "type": "Feature",
+  "properties": {
+    "name":"Bottesford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13343,
+    "woe:name":"Bottesford, England, United Kingdom",
+    "woe:place_id":"rU6ZuSGYAp.K7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.656089,53.551521,-0.64211,53.561726],
+  "geometry": {"alpha":0.00015,"bbox":[-0.65608900785446,53.55152130127,-0.64210999011993,53.561725616455],"coordinates":[[[[-0.65113,53.55946],[-0.64211,53.551521],[-0.650339,53.55442],[-0.656003,53.555912],[-0.656089,53.561726],[-0.65113,53.55946]]]],"created":1292438015,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/13343_20101215_7df3ffdf0f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

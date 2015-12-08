@@ -1,0 +1,15 @@
+{
+  "id": 26797536,
+  "type": "Feature",
+  "properties": {
+    "name":"Fresno, Tolima, Colombia",
+    "placetype":"county",
+    "woe:id":26797536,
+    "woe:name":"Fresno, Tolima, Colombia",
+    "woe:place_id":"gN0SZh6bB5tUEs3ziA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-75.080566,5.154205,-75.037132,5.164805],
+  "geometry": {"alpha":0.0015,"bbox":[-75.08056640625,5.1542048454285,-75.037132263184,5.1648049354553],"coordinates":[[[[-75.039368,5.162069],[-75.038254,5.157539],[-75.037132,5.154205],[-75.080566,5.164805],[-75.047607,5.163437],[-75.039368,5.162069]]]],"created":1292481004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/26797536_20101216_f8397ea96c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

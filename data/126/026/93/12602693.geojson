@@ -1,0 +1,15 @@
+{
+  "id": 12602693,
+  "type": "Feature",
+  "properties": {
+    "name":"Jurbise, Belgium",
+    "placetype":"locality",
+    "woe:id":12602693,
+    "woe:name":"Jurbise, Belgium",
+    "woe:place_id":"A45TcDqYA5ofwIUXOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.859752,50.508842,3.861511,50.509327],
+  "geometry": {"alpha":1e-05,"bbox":[3.8597519397736,50.508842468262,3.8615109920502,50.509326934814],"coordinates":[[[[3.860321,50.508842],[3.859752,50.509327],[3.861136,50.509129],[3.861511,50.508881],[3.860321,50.508842]]]],"created":1248143653,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2447/shapefiles/12602693_20090721_98dd8a18aa.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

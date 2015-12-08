@@ -1,0 +1,15 @@
+{
+  "id": 2492130,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelby, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2492130,
+    "woe:name":"Shelby, Indiana, United States",
+    "woe:place_id":"z3FqhJubBZVf5cRt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.348045,41.193058,-87.345459,41.196514],
+  "geometry": {"alpha":0.00015,"bbox":[-87.348045349121,41.193058013916,-87.345458984375,41.196514129639],"coordinates":[[[[-87.348045,41.193058],[-87.347862,41.193531],[-87.345901,41.196514],[-87.345459,41.19558],[-87.347588,41.193272],[-87.348045,41.193058]]]],"created":1292500995,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2492130_20101216_d8c7869546.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

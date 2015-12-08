@@ -1,0 +1,15 @@
+{
+  "id": 23395600,
+  "type": "Feature",
+  "properties": {
+    "name":"Cleveland, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395600,
+    "woe:name":"Cleveland, Quebec, Canada",
+    "woe:place_id":"p2FCTBKbAp.p86hprQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.127769,45.664726,-72.103188,45.695553],
+  "geometry": {"alpha":0.00015,"bbox":[-72.127769470215,45.664726257324,-72.103187561035,45.695552825928],"coordinates":[[[[-72.127747,45.664749],[-72.117989,45.683853],[-72.117172,45.684177],[-72.107819,45.695553],[-72.103188,45.680878],[-72.117905,45.68375],[-72.127731,45.664726],[-72.127769,45.664726],[-72.127747,45.664749]]]],"created":1292546661,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/23395600_20101217_0bbf8c077b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

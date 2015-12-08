@@ -1,0 +1,15 @@
+{
+  "id": 2385980,
+  "type": "Feature",
+  "properties": {
+    "name":"Country Roads, Charlotte, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2385980,
+    "woe:name":"Country Roads, Charlotte, NC, US, United States",
+    "woe:place_id":"nT7_BvabApQRCl0s",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.76487,35.123573,-80.763229,35.125347],
+  "geometry": {"alpha":1e-05,"bbox":[-80.764869689941,35.123573303223,-80.763229370117,35.125347137451],"coordinates":[[[[-80.763702,35.123573],[-80.76487,35.125347],[-80.76403,35.124985],[-80.763229,35.12376],[-80.763702,35.123573]]]],"created":1292549448,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2385980_20101217_55c356bef3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

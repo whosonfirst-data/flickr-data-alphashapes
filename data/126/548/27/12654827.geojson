@@ -1,0 +1,15 @@
+{
+  "id": 12654827,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris 4e Arrondissement, France",
+    "placetype":"locality",
+    "woe:id":12654827,
+    "woe:name":"Paris 4e Arrondissement, France",
+    "woe:place_id":"43gEjViYA5raKK0HDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.350022,48.850502,2.360113,48.856274],
+  "geometry": {"alpha":1e-05,"bbox":[2.3500220775604,48.85050201416,2.3601129055023,48.856273651123],"coordinates":[[[[2.355365,48.852856],[2.360113,48.850578],[2.360027,48.850502],[2.355355,48.852291],[2.350022,48.852989],[2.355333,48.856274],[2.355365,48.852856]]]],"created":1292522318,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12654827_20101216_30a51be435.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

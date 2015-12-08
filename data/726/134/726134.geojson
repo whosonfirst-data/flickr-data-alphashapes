@@ -1,0 +1,15 @@
+{
+  "id": 726134,
+  "type": "Feature",
+  "properties": {
+    "name":"Villalvernia, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":726134,
+    "woe:name":"Villalvernia, Piedmont, Italy",
+    "woe:place_id":"gLOTczqeA5oYtHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.855538,44.810604,8.858757,44.818134],
+  "geometry": {"alpha":0.00015,"bbox":[8.8555383682251,44.810604095459,8.858757019043,44.818134307861],"coordinates":[[[[8.858413,44.818073],[8.858757,44.817768],[8.855721,44.810604],[8.855538,44.810688],[8.856525,44.817097],[8.857727,44.818134],[8.858413,44.818073]]]],"created":1292521857,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/726134_20101216_1b228299ab.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

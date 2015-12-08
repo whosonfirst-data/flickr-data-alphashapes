@@ -1,0 +1,15 @@
+{
+  "id": 768682,
+  "type": "Feature",
+  "properties": {
+    "name":"Oles, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":768682,
+    "woe:name":"Oles, Asturias, Spain",
+    "woe:place_id":"BnSRQ2qeB5TXoeo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.4333,43.533298,-5.423142,43.538372],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4333000183105,43.533298492432,-5.4231419563293,43.538372039795],"coordinates":[[[[-5.4282,43.534248],[-5.4333,43.533298],[-5.4264,43.538372],[-5.42612,43.538239],[-5.423142,43.536774],[-5.4282,43.534248]]]],"created":1292458745,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/768682_20101216_2206720051.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

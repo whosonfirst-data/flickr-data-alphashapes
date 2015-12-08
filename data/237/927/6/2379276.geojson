@@ -1,0 +1,15 @@
+{
+  "id": 2379276,
+  "type": "Feature",
+  "properties": {
+    "name":"Chester, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2379276,
+    "woe:name":"Chester, Ohio, United States",
+    "woe:place_id":"25nhTU2bApuSCw5J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.925209,39.087372,-81.921318,39.104153],
+  "geometry": {"alpha":0.00015,"bbox":[-81.92520904541,39.087371826172,-81.921318054199,39.104152679443],"coordinates":[[[[-81.921913,39.087818],[-81.921951,39.087803],[-81.925209,39.087372],[-81.921318,39.104153],[-81.921974,39.087925],[-81.921913,39.087818]]]],"created":1247789522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3259/shapefiles/2379276_20090717_7d70e09d3d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

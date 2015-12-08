@@ -1,0 +1,15 @@
+{
+  "id": 2413181,
+  "type": "Feature",
+  "properties": {
+    "name":"Grantville, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2413181,
+    "woe:name":"Grantville, Kansas, United States",
+    "woe:place_id":"UYpEviCbBZ2iurpn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.618904,39.089382,-95.591095,39.094364],
+  "geometry": {"alpha":0.00015,"bbox":[-95.61890411377,39.089382171631,-95.591094970703,39.09436416626],"coordinates":[[[[-95.618904,39.091908],[-95.608093,39.093117],[-95.596161,39.094364],[-95.591095,39.089382],[-95.60955,39.091099],[-95.618904,39.091908]]]],"created":1292485868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2413181_20101216_d2053703f0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

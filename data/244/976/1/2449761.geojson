@@ -1,0 +1,15 @@
+{
+  "id": 2449761,
+  "type": "Feature",
+  "properties": {
+    "name":"Merry Point, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2449761,
+    "woe:name":"Merry Point, Virginia, United States",
+    "woe:place_id":"ZDpo2K6bBZj1aQI9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.466286,37.696129,-76.450935,37.716282],
+  "geometry": {"alpha":0.00015,"bbox":[-76.466285705566,37.696128845215,-76.45093536377,37.716281890869],"coordinates":[[[[-76.466286,37.706093],[-76.460983,37.709324],[-76.450935,37.716282],[-76.454155,37.70277],[-76.461624,37.696129],[-76.466286,37.706093]]]],"created":1292538107,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2449761_20101216_2bfb2750cb.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

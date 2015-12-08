@@ -1,0 +1,15 @@
+{
+  "id": 20170311,
+  "type": "Feature",
+  "properties": {
+    "name":"Varste, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":20170311,
+    "woe:name":"Varste, North Rhine-Westphalia, Germany",
+    "woe:place_id":"UPysyjubAZ2Volvejw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.04903,51.04158,8.05558,51.045017],
+  "geometry": {"alpha":0.00015,"bbox":[8.0490303039551,51.041580200195,8.0555801391602,51.045017242432],"coordinates":[[[[8.052372,51.044209],[8.054689,51.044868],[8.05558,51.045017],[8.052678,51.04158],[8.04903,51.043606],[8.052372,51.044209]]]],"created":1292533400,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/20170311_20101216_6dd0b0f745.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

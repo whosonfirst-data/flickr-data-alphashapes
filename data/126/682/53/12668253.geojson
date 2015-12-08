@@ -1,0 +1,15 @@
+{
+  "id": 12668253,
+  "type": "Feature",
+  "properties": {
+    "name":"Pintac, France",
+    "placetype":"locality",
+    "woe:id":12668253,
+    "woe:name":"Pintac, France",
+    "woe:place_id":"wbXcdvqYA5oQeik5eA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.005455,43.274769,0.014505,43.286575],
+  "geometry": {"alpha":1e-05,"bbox":[0.0054549998603761,43.274768829346,0.014504999853671,43.286575317383],"coordinates":[[[[0.005472,43.2798],[0.005664,43.283955],[0.006952,43.286575],[0.010771,43.284233],[0.011544,43.280331],[0.014505,43.276016],[0.00985,43.275684],[0.009012,43.274769],[0.006544,43.276226],[0.005455,43.277222],[0.005472,43.2798]]]],"created":1292542295,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12668253_20101216_acd0721d1b.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

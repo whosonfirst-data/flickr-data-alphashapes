@@ -1,0 +1,15 @@
+{
+  "id": 714938,
+  "type": "Feature",
+  "properties": {
+    "name":"Curtarolo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":714938,
+    "woe:name":"Curtarolo, Veneto, Italy",
+    "woe:place_id":"izpMHU6eAJhU7dU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.823402,45.517532,11.839485,45.532688],
+  "geometry": {"alpha":0.00015,"bbox":[11.823402404785,45.517532348633,11.839485168457,45.532688140869],"coordinates":[[[[11.831245,45.517532],[11.823402,45.521156],[11.830558,45.525593],[11.839485,45.532688],[11.833546,45.522457],[11.832275,45.517654],[11.831245,45.517532]]]],"created":1292549104,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/714938_20101217_50110b05f8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

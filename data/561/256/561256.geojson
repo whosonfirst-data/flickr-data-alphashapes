@@ -1,0 +1,15 @@
+{
+  "id": 561256,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilkelly, Mayo, Ireland",
+    "placetype":"locality",
+    "woe:id":561256,
+    "woe:name":"Kilkelly, Mayo, Ireland",
+    "woe:place_id":"0xCsDbycB51SGLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.852748,53.867832,-8.837167,53.871964],
+  "geometry": {"alpha":0.00015,"bbox":[-8.8527479171753,53.867832183838,-8.8371667861938,53.871963500977],"coordinates":[[[[-8.849573,53.869987],[-8.852748,53.871861],[-8.848972,53.871964],[-8.837167,53.867832],[-8.849573,53.869987]]]],"created":1292541948,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/561256_20101216_4a990192f6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

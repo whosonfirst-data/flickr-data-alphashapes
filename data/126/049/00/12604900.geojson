@@ -1,0 +1,15 @@
+{
+  "id": 12604900,
+  "type": "Feature",
+  "properties": {
+    "name":"Lipovice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12604900,
+    "woe:name":"Lipovice, Czech Republic",
+    "woe:place_id":"Ctg8NuqYA5qh.x9wSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.984926,49.103916,13.987158,49.105377],
+  "geometry": {"alpha":1e-05,"bbox":[13.984926223755,49.103916168213,13.987157821655,49.105377197266],"coordinates":[[[[13.985441,49.105377],[13.986814,49.104816],[13.987158,49.103916],[13.985613,49.104027],[13.985098,49.104141],[13.984926,49.104252],[13.985441,49.105377]]]],"created":1292461146,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12604900_20101216_47926ae041.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

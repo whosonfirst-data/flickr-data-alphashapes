@@ -1,0 +1,15 @@
+{
+  "id": 2492140,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelby Springs, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2492140,
+    "woe:name":"Shelby Springs, Alabama, United States",
+    "woe:place_id":"Zvi79yGbBZX0ELfj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.688065,33.129547,-86.681152,33.140175],
+  "geometry": {"alpha":0.00015,"bbox":[-86.688064575195,33.129547119141,-86.68115234375,33.140174865723],"coordinates":[[[[-86.681595,33.129547],[-86.688065,33.140175],[-86.684822,33.13866],[-86.68161,33.133095],[-86.681152,33.130497],[-86.681595,33.129547]]]],"created":1292537347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2492140_20101216_9cb89df543.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

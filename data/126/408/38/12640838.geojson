@@ -1,0 +1,15 @@
+{
+  "id": 12640838,
+  "type": "Feature",
+  "properties": {
+    "name":"Chambolle-Musigny, France",
+    "placetype":"locality",
+    "woe:id":12640838,
+    "woe:name":"Chambolle-Musigny, France",
+    "woe:place_id":"1tAJlHuYA5omyWa0Tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.950799,47.186184,4.956464,47.191113],
+  "geometry": {"alpha":1e-05,"bbox":[4.9507989883423,47.186183929443,4.9564638137817,47.191112518311],"coordinates":[[[[4.950799,47.187202],[4.952344,47.188835],[4.956464,47.191113],[4.955477,47.188881],[4.95303,47.186184],[4.950799,47.187202]]]],"created":1292539610,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12640838_20101216_db6a9ce15c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 906472,
+  "type": "Feature",
+  "properties": {
+    "name":"Strandbaden, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":906472,
+    "woe:name":"Strandbaden, Skane, Sweden",
+    "woe:place_id":"WgZKtKyQAZqrMu0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.540249,56.21841,12.545882,56.223221],
+  "geometry": {"alpha":0.00015,"bbox":[12.54024887085,56.218410491943,12.545882225037,56.223220825195],"coordinates":[[[[12.541204,56.223221],[12.541687,56.223076],[12.542953,56.222168],[12.545882,56.21841],[12.540936,56.221748],[12.540249,56.222954],[12.541204,56.223221]]]],"created":1292521964,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/906472_20101216_98d71e525f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12635144,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Finsing, Germany",
+    "placetype":"locality",
+    "woe:id":12635144,
+    "woe:name":"Gemeinde Finsing, Germany",
+    "woe:place_id":"arAhibOYA5rlg6Pieg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.765198,48.221615,11.767387,48.224628],
+  "geometry": {"alpha":1e-05,"bbox":[11.765197753906,48.221614837646,11.767387390137,48.224628448486],"coordinates":[[[[11.765542,48.223579],[11.765198,48.224098],[11.767387,48.224628],[11.766314,48.221615],[11.765542,48.223579]]]],"created":1292548235,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12635144_20101217_da0eb51588.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

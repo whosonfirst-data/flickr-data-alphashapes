@@ -1,0 +1,15 @@
+{
+  "id": 624343,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Germain, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":624343,
+    "woe:name":"St-Germain, Auvergne, France",
+    "woe:place_id":"yauK186fA5iRtwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.967266,45.038139,3.978767,45.039928],
+  "geometry": {"alpha":0.00015,"bbox":[3.9672660827637,45.038139343262,3.9787669181824,45.039928436279],"coordinates":[[[[3.967266,45.039566],[3.968296,45.039928],[3.978767,45.039082],[3.968982,45.038139],[3.967266,45.039566]]]],"created":1292466423,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/624343_20101216_2c1714767d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

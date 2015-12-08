@@ -1,0 +1,15 @@
+{
+  "id": 12649671,
+  "type": "Feature",
+  "properties": {
+    "name":"Morlanne, France",
+    "placetype":"locality",
+    "woe:id":12649671,
+    "woe:name":"Morlanne, France",
+    "woe:place_id":"84Pjv_iYA5pWWU4Fgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.536613,43.512177,-0.529403,43.514324],
+  "geometry": {"alpha":1e-05,"bbox":[-0.53661298751831,43.512176513672,-0.5294029712677,43.514324188232],"coordinates":[[[[-0.529403,43.513515],[-0.53215,43.512177],[-0.536613,43.514324],[-0.531377,43.513824],[-0.529403,43.513515]]]],"created":1234575006,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3112/shapefiles/12649671_20090214_587ba0e389.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12660643,
+  "type": "Feature",
+  "properties": {
+    "name":"Dourges, France",
+    "placetype":"locality",
+    "woe:id":12660643,
+    "woe:name":"Dourges, France",
+    "woe:place_id":"9yhw4rGYA5rpdgTxZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.981007,50.447994,2.983474,50.45126],
+  "geometry": {"alpha":1e-05,"bbox":[2.9810070991516,50.447994232178,2.9834740161896,50.451259613037],"coordinates":[[[[2.982831,50.45126],[2.983474,50.45023],[2.983388,50.447994],[2.982766,50.448418],[2.981007,50.448936],[2.982037,50.451122],[2.982831,50.45126]]]],"created":1247889366,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3491/shapefiles/12660643_20090718_5f9d2d9905.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

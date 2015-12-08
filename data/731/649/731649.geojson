@@ -1,0 +1,15 @@
+{
+  "id": 731649,
+  "type": "Feature",
+  "properties": {
+    "name":"Mesch, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":731649,
+    "woe:name":"Mesch, Limburg, Netherlands",
+    "woe:place_id":"09oJMFWeAp3IbZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.724391,50.761421,5.740098,50.774681],
+  "geometry": {"alpha":0.00015,"bbox":[5.7243909835815,50.761421203613,5.7400979995728,50.774681091309],"coordinates":[[[[5.731709,50.763474],[5.728597,50.763039],[5.724391,50.761421],[5.732116,50.774681],[5.740098,50.772972],[5.740013,50.76947],[5.731709,50.763474]]]],"created":1292453668,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/731649_20101215_2dc78a3862.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

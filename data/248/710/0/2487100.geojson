@@ -1,0 +1,15 @@
+{
+  "id": 2487100,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Omer, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2487100,
+    "woe:name":"St. Omer, Indiana, United States",
+    "woe:place_id":"OeJ_74ybBZRXdnPH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.604889,39.42532,-85.5868,39.44265],
+  "geometry": {"alpha":0.00015,"bbox":[-85.604888916016,39.425319671631,-85.586799621582,39.442649841309],"coordinates":[[[[-85.604889,39.44265],[-85.597221,39.436615],[-85.5868,39.43314],[-85.586929,39.42532],[-85.597618,39.436424],[-85.604889,39.44265]]]],"created":1226544010,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3276/shapefiles/2487100_20081113_473e5e2dff.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

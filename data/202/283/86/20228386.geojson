@@ -1,0 +1,15 @@
+{
+  "id": 20228386,
+  "type": "Feature",
+  "properties": {
+    "name":"Rial, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20228386,
+    "woe:name":"Rial, Galicia, Spain",
+    "woe:place_id":"RX6hgkqbAZ5Im8pong",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.769922,42.623158,-8.76769,42.626823],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7699222564697,42.623157501221,-8.767689704895,42.626823425293],"coordinates":[[[[-8.769911,42.623947],[-8.769922,42.624432],[-8.76872,42.626823],[-8.76769,42.624172],[-8.767948,42.623158],[-8.769911,42.623947]]]],"created":1292445665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20228386_20101215_3ed79b04ae.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

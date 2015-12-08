@@ -1,0 +1,15 @@
+{
+  "id": 10941,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardheisker, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10941,
+    "woe:name":"Ardheisker, Scotland, United Kingdom",
+    "woe:place_id":"uQeN.s2YAZWDkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.399978,57.59631,-7.384799,57.607162],
+  "geometry": {"alpha":0.00015,"bbox":[-7.3999781608582,57.596309661865,-7.3847990036011,57.607162475586],"coordinates":[[[[-7.384799,57.599972],[-7.385273,57.599491],[-7.387447,57.597507],[-7.399978,57.59631],[-7.390365,57.607162],[-7.384799,57.599972]]]],"created":1292518115,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/10941_20101216_7be92357e6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

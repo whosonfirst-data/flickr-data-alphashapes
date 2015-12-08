@@ -1,0 +1,15 @@
+{
+  "id": 455343,
+  "type": "Feature",
+  "properties": {
+    "name":"Vila da Grama, Rio de Janeiro, Brazil",
+    "placetype":"locality",
+    "woe:id":455343,
+    "woe:name":"Vila da Grama, Rio de Janeiro, Brazil",
+    "woe:place_id":"HX1pbbWdBJkDe3M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-42.09034,-22.241993,-42.085018,-22.227852],
+  "geometry": {"alpha":0.00015,"bbox":[-42.090339660645,-22.241992950439,-42.085018157959,-22.227851867676],"coordinates":[[[[-42.086391,-22.229679],[-42.085018,-22.241993],[-42.087936,-22.236115],[-42.09034,-22.231346],[-42.085876,-22.227852],[-42.086391,-22.229679]]]],"created":1292491268,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/455343_20101216_f56a99b698.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

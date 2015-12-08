@@ -1,0 +1,15 @@
+{
+  "id": 625342,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Loup, Franche-Comte, France",
+    "placetype":"locality",
+    "woe:id":625342,
+    "woe:name":"St-Loup, Franche-Comte, France",
+    "woe:place_id":"R6LJ8dmfA5m1kSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.272777,47.883427,6.282119,47.888622],
+  "geometry": {"alpha":0.00015,"bbox":[6.2727770805359,47.88342666626,6.2821187973022,47.888622283936],"coordinates":[[[[6.278192,47.888622],[6.281433,47.885036],[6.282119,47.883427],[6.272777,47.885555],[6.278192,47.888622]]]],"created":1292407323,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/625342_20101215_0eb90a32fd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

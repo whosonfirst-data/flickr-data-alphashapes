@@ -1,0 +1,15 @@
+{
+  "id": 2501093,
+  "type": "Feature",
+  "properties": {
+    "name":"Stumptown, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2501093,
+    "woe:name":"Stumptown, Oregon, United States",
+    "woe:place_id":"x3qjmt6bBJyrc13s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.126663,44.080711,-123.095108,44.095242],
+  "geometry": {"alpha":0.00015,"bbox":[-123.12666320801,44.080711364746,-123.09510803223,44.095241546631],"coordinates":[[[[-123.108894,44.081181],[-123.111549,44.08102],[-123.117172,44.080711],[-123.118797,44.084255],[-123.119232,44.084873],[-123.126663,44.095242],[-123.116783,44.092312],[-123.109039,44.093979],[-123.095108,44.092148],[-123.10881,44.081409],[-123.108894,44.081181]]]],"created":1248108386,"edges":11,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2596/shapefiles/2501093_20090720_bbfae35c73.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

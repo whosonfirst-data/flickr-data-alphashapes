@@ -1,0 +1,15 @@
+{
+  "id": 28,
+  "type": "Feature",
+  "properties": {
+    "name":"Aston-Jonction, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":28,
+    "woe:name":"Aston-Jonction, Quebec, Canada",
+    "woe:place_id":"e2Javh.bCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.254311,46.199547,-72.247986,46.203182],
+  "geometry": {"alpha":0.00015,"bbox":[-72.25431060791,46.199546813965,-72.247985839844,46.203182220459],"coordinates":[[[[-72.248451,46.20232],[-72.247986,46.201668],[-72.250237,46.199547],[-72.254311,46.203182],[-72.248451,46.20232]]]],"created":1292438011,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/28_20101215_74043ef3f1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

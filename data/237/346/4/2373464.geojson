@@ -1,0 +1,15 @@
+{
+  "id": 2373464,
+  "type": "Feature",
+  "properties": {
+    "name":"Calverton, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2373464,
+    "woe:name":"Calverton, Virginia, United States",
+    "woe:place_id":"4tX7aPqbApvf.p1O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.678101,38.627743,-77.661713,38.654072],
+  "geometry": {"alpha":0.00015,"bbox":[-77.678100585938,38.627742767334,-77.661712646484,38.654071807861],"coordinates":[[[[-77.670166,38.633465],[-77.673103,38.636223],[-77.678101,38.654072],[-77.668701,38.63578],[-77.661713,38.627743],[-77.670166,38.633465]]]],"created":1292526475,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2373464_20101216_a1a6e9e057.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

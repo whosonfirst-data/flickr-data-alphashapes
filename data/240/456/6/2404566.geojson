@@ -1,0 +1,15 @@
+{
+  "id": 2404566,
+  "type": "Feature",
+  "properties": {
+    "name":"Florida, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2404566,
+    "woe:name":"Florida, New Mexico, United States",
+    "woe:place_id":"nqDrDv6bBZzyPwlq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.902466,34.073421,-106.890747,34.092667],
+  "geometry": {"alpha":0.00015,"bbox":[-106.90246582031,34.073421478271,-106.89074707031,34.092666625977],"coordinates":[[[[-106.895897,34.092667],[-106.890747,34.085579],[-106.891136,34.073421],[-106.902466,34.087921],[-106.898682,34.091049],[-106.895897,34.092667]]]],"created":1292525507,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2404566_20101216_cd8e2f8219.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 753370,
+  "type": "Feature",
+  "properties": {
+    "name":"Ayora, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":753370,
+    "woe:name":"Ayora, Valencia, Spain",
+    "woe:place_id":"Ahr.Sn.eBJ.byHI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.062755,39.054619,-1.050996,39.073078],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0627549886703,39.054618835449,-1.0509959459305,39.073078155518],"coordinates":[[[[-1.060309,39.057232],[-1.061661,39.061249],[-1.062755,39.066246],[-1.056404,39.073078],[-1.050996,39.068581],[-1.053719,39.06097],[-1.052876,39.054619],[-1.059858,39.056335],[-1.060309,39.057232]]]],"created":1292524587,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/753370_20101216_06b1c0512d.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

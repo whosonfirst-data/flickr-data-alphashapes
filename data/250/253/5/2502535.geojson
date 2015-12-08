@@ -1,0 +1,15 @@
+{
+  "id": 2502535,
+  "type": "Feature",
+  "properties": {
+    "name":"Sunshine, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2502535,
+    "woe:name":"Sunshine, Arizona, United States",
+    "woe:place_id":"4zH895abBJxLsUth",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.054436,35.110569,-111.031006,35.121311],
+  "geometry": {"alpha":0.000234375,"bbox":[-111.05443572998,35.110569000244,-111.03100585938,35.121311187744],"coordinates":[[[[-111.031006,35.110569],[-111.032379,35.110573],[-111.040756,35.111477],[-111.044868,35.111118],[-111.047798,35.111851],[-111.053139,35.112492],[-111.054436,35.112747],[-111.051521,35.121311],[-111.031952,35.112328],[-111.031006,35.110569]]]],"created":1292512989,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2502535_20101216_e114ab97b2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

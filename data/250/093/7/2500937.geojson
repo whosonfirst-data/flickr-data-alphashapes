@@ -1,0 +1,15 @@
+{
+  "id": 2500937,
+  "type": "Feature",
+  "properties": {
+    "name":"Stringtown, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2500937,
+    "woe:name":"Stringtown, Ohio, United States",
+    "woe:place_id":"1HJn3yybBJyfoEEm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.816803,39.675285,-83.814865,39.678345],
+  "geometry": {"alpha":0.00015,"bbox":[-83.816802978516,39.675285339355,-83.814865112305,39.678344726562],"coordinates":[[[[-83.816628,39.675285],[-83.816803,39.675301],[-83.81498,39.678345],[-83.814865,39.678291],[-83.816628,39.675285]]]],"created":1292538965,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2500937_20101216_a037abc55a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1488459,
+  "type": "Feature",
+  "properties": {
+    "name":"Roma, Maseru, Lesotho",
+    "placetype":"locality",
+    "woe:id":1488459,
+    "woe:name":"Roma, Maseru, Lesotho",
+    "woe:place_id":"d.KPtJSYBZRjBSto",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.713528,-29.465389,27.731461,-29.449837],
+  "geometry": {"alpha":0.00015,"bbox":[27.713527679443,-29.465389251709,27.731460571289,-29.449836730957],"coordinates":[[[[27.728376,-29.463165],[27.724514,-29.46142],[27.713528,-29.449837],[27.727518,-29.458858],[27.731461,-29.465389],[27.728376,-29.463165]]]],"created":1292549052,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/1488459_20101217_db9c318ee3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

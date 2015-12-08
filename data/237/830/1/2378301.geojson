@@ -1,0 +1,15 @@
+{
+  "id": 2378301,
+  "type": "Feature",
+  "properties": {
+    "name":"Charleston, New York, United States",
+    "placetype":"locality",
+    "woe:id":2378301,
+    "woe:name":"Charleston, New York, United States",
+    "woe:place_id":"defD.LWbAptt_3V8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.347916,42.841736,-74.338303,42.851555],
+  "geometry": {"alpha":0.00015,"bbox":[-74.347915649414,42.841735839844,-74.338302612305,42.851554870605],"coordinates":[[[[-74.342422,42.851555],[-74.338303,42.849792],[-74.347916,42.841736],[-74.345016,42.848579],[-74.344749,42.848846],[-74.342422,42.851555]]]],"created":1292448257,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2378301_20101215_69742c8e78.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

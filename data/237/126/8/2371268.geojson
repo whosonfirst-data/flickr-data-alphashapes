@@ -1,0 +1,15 @@
+{
+  "id": 2371268,
+  "type": "Feature",
+  "properties": {
+    "name":"Bucksville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2371268,
+    "woe:name":"Bucksville, Alabama, United States",
+    "woe:place_id":"Ps6JwuCbApuTJfD.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.093475,33.273567,-87.083206,33.280945],
+  "geometry": {"alpha":0.00015,"bbox":[-87.093475341797,33.273567199707,-87.083206176758,33.280944824219],"coordinates":[[[[-87.093437,33.279041],[-87.093475,33.280945],[-87.085884,33.278526],[-87.083206,33.273567],[-87.092224,33.274818],[-87.093437,33.279041]]]],"created":1292522062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2371268_20101216_07c4028962.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

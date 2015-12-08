@@ -1,0 +1,15 @@
+{
+  "id": 636480,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Oberdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":636480,
+    "woe:name":"Bad Oberdorf, Bavaria, Germany",
+    "woe:place_id":"tVTk0uKfApq7xkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.378646,47.499287,10.38665,47.515694],
+  "geometry": {"alpha":0.00015,"bbox":[10.378645896912,47.499286651611,10.386650085449,47.515693664551],"coordinates":[[[[10.384483,47.503983],[10.386521,47.500664],[10.38665,47.499287],[10.383678,47.503246],[10.378646,47.509781],[10.379505,47.515694],[10.384483,47.503983]]]],"created":1292453561,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/636480_20101215_4bcc899d8f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

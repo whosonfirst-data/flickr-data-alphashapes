@@ -1,0 +1,15 @@
+{
+  "id": 27828,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Town, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27828,
+    "woe:name":"Lower Town, England, United Kingdom",
+    "woe:place_id":"EiGtefibBpT4lA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.305336,49.9622,-6.299862,49.967888],
+  "geometry": {"alpha":0.00015,"bbox":[-6.3053359985352,49.962200164795,-6.299861907959,49.967887878418],"coordinates":[[[[-6.305336,49.965523],[-6.304779,49.966969],[-6.299862,49.967888],[-6.300125,49.965816],[-6.300058,49.9622],[-6.304628,49.964043],[-6.305336,49.965523]]]],"created":1292543523,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/27828_20101216_29b89b30f6.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2385125,
+  "type": "Feature",
+  "properties": {
+    "name":"Corner, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2385125,
+    "woe:name":"Corner, Virginia, United States",
+    "woe:place_id":"JpyI9EabApTZU6.y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.054932,36.959782,-82.049164,36.964149],
+  "geometry": {"alpha":0.00015,"bbox":[-82.054931640625,36.959781646729,-82.049163818359,36.964149475098],"coordinates":[[[[-82.049484,36.962166],[-82.049164,36.961334],[-82.051964,36.959934],[-82.054932,36.959782],[-82.053619,36.962215],[-82.051201,36.964149],[-82.049484,36.962166]]]],"created":1292539778,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2385125_20101216_42d420875b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

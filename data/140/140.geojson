@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "type": "Feature",
+  "properties": {
+    "name":"Bois-des-Filion, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":140,
+    "woe:name":"Bois-des-Filion, Quebec, Canada",
+    "woe:place_id":"WwCSAFeYBZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.793793,45.663517,-73.732941,45.682259],
+  "geometry": {"alpha":0.00015,"bbox":[-73.793792724609,45.663516998291,-73.732940673828,45.682258605957],"coordinates":[[[[-73.756538,45.663517],[-73.736717,45.668083],[-73.732941,45.682259],[-73.751724,45.675091],[-73.769341,45.675179],[-73.784477,45.664341],[-73.793793,45.665165],[-73.787354,45.681747],[-73.780273,45.681],[-73.769341,45.675179],[-73.751724,45.675091],[-73.732941,45.682259],[-73.736717,45.668083],[-73.756538,45.663517]]]],"created":1292544009,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/140_20101217_27bbcae5ef.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

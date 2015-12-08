@@ -1,0 +1,15 @@
+{
+  "id": 12628619,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Birlenbach, Germany",
+    "placetype":"locality",
+    "woe:id":12628619,
+    "woe:name":"Gemeinde Birlenbach, Germany",
+    "woe:place_id":"NP1xTcSYA5qBuAwZCg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.993391,50.356178,7.995566,50.356312],
+  "geometry": {"alpha":1e-05,"bbox":[7.9933910369873,50.356178283691,7.9955658912659,50.356311798096],"coordinates":[[[[7.993825,50.356178],[7.993391,50.356312],[7.995552,50.356281],[7.995566,50.356274],[7.993825,50.356178]]]],"created":1292454751,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12628619_20101215_8fe4664371.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

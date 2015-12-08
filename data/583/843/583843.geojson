@@ -1,0 +1,15 @@
+{
+  "id": 583843,
+  "type": "Feature",
+  "properties": {
+    "name":"Chaillac, Limousin, France",
+    "placetype":"locality",
+    "woe:id":583843,
+    "woe:name":"Chaillac, Limousin, France",
+    "woe:place_id":"9_J17U.cCZ85QTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.863349,45.864521,0.877876,45.877724],
+  "geometry": {"alpha":0.00015,"bbox":[0.86334902048111,45.864521026611,0.87787598371506,45.877723693848],"coordinates":[[[[0.870602,45.876331],[0.87264,45.877724],[0.877876,45.872559],[0.872426,45.864521],[0.863349,45.864933],[0.870602,45.876331]]]],"created":1292474763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/583843_20101216_172837f5c4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

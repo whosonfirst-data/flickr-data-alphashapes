@@ -1,0 +1,15 @@
+{
+  "id": 12646759,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vineuse, France",
+    "placetype":"locality",
+    "woe:id":12646759,
+    "woe:name":"La Vineuse, France",
+    "woe:place_id":"dKmZGPyYA5rUJB6qXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.604387,46.456516,4.606103,46.457314],
+  "geometry": {"alpha":1e-05,"bbox":[4.604386806488,46.456516265869,4.6061029434204,46.457313537598],"coordinates":[[[[4.60576,46.457314],[4.606103,46.457226],[4.604816,46.456516],[4.604387,46.456722],[4.60576,46.457314]]]],"created":1292445299,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12646759_20101215_a4d0a6b713.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

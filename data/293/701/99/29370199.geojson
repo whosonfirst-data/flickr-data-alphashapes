@@ -1,0 +1,15 @@
+{
+  "id": 29370199,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant Esteve, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":29370199,
+    "woe:name":"Sant Esteve, Catalonia, Spain",
+    "woe:place_id":"fp4jmNObCJ__t2P.ew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.143634,41.858822,3.155479,41.86285],
+  "geometry": {"alpha":0.00015,"bbox":[3.1436340808868,41.858821868896,3.1554789543152,41.862850189209],"coordinates":[[[[3.143634,41.858822],[3.145093,41.85997],[3.153719,41.86256],[3.155479,41.86285],[3.149471,41.859844],[3.143634,41.858822]]]],"created":1247844964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2476/shapefiles/29370199_20090717_c3d2b1b7c5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

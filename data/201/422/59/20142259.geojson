@@ -1,0 +1,15 @@
+{
+  "id": 20142259,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant'anna, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20142259,
+    "woe:name":"Sant'anna, Lombardy, Italy",
+    "woe:place_id":"CodJui.bAZ0JMcuutw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.108524,45.938377,9.110927,45.941124],
+  "geometry": {"alpha":0.00015,"bbox":[9.1085243225098,45.938377380371,9.1109266281128,45.941123962402],"coordinates":[[[[9.109554,45.941124],[9.110927,45.940666],[9.110348,45.939705],[9.108524,45.938377],[9.108524,45.940407],[9.109554,45.941124]]]],"created":1292546143,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/20142259_20101217_d07af12e88.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

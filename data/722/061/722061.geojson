@@ -1,0 +1,15 @@
+{
+  "id": 722061,
+  "type": "Feature",
+  "properties": {
+    "name":"Rossano Veneto, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722061,
+    "woe:name":"Rossano Veneto, Veneto, Italy",
+    "woe:place_id":"394IJHOeA5409qo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.801204,45.699066,11.821289,45.715767],
+  "geometry": {"alpha":0.00015,"bbox":[11.801203727722,45.699066162109,11.8212890625,45.715766906738],"coordinates":[[[[11.805152,45.708096],[11.809701,45.709579],[11.821289,45.715767],[11.810774,45.70435],[11.809937,45.699066],[11.801204,45.707977],[11.805152,45.708096]]]],"created":1292540925,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/722061_20101216_ef71993d73.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

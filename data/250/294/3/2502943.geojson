@@ -1,0 +1,15 @@
+{
+  "id": 2502943,
+  "type": "Feature",
+  "properties": {
+    "name":"Swanson Heights, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2502943,
+    "woe:name":"Swanson Heights, Georgia, United States",
+    "woe:place_id":"lNxV8YabBJzewsUc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.481834,34.033833,-84.480659,34.034927],
+  "geometry": {"alpha":0.00015,"bbox":[-84.481834411621,34.033832550049,-84.480659484863,34.034927368164],"coordinates":[[[[-84.481567,34.03421],[-84.480659,34.034927],[-84.480835,34.034],[-84.48143,34.033848],[-84.481834,34.033833],[-84.481567,34.03421]]]],"created":1292447340,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2502943_20101215_037be87e3b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12635051,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bichl, Germany",
+    "placetype":"locality",
+    "woe:id":12635051,
+    "woe:name":"Gemeinde Bichl, Germany",
+    "woe:place_id":"9P8WUtWYA5qLj_EMOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.444037,47.711643,11.4519,47.714619],
+  "geometry": {"alpha":1e-05,"bbox":[11.444037437439,47.711643218994,11.451899528503,47.714618682861],"coordinates":[[[[11.445997,47.713135],[11.444037,47.714619],[11.446291,47.714115],[11.447874,47.713245],[11.4519,47.712978],[11.447221,47.711643],[11.445997,47.713135]]]],"created":1292543402,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12635051_20101216_2667688182.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

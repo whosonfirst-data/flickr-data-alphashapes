@@ -1,0 +1,15 @@
+{
+  "id": 12523821,
+  "type": "Feature",
+  "properties": {
+    "name":"Lorraine Airport, France",
+    "placetype":"locality",
+    "woe:id":12523821,
+    "woe:name":"Lorraine Airport, France",
+    "woe:place_id":"09Y9EgmYA5k02F456A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.236661,48.97876,6.242573,48.982708],
+  "geometry": {"alpha":1e-05,"bbox":[6.2366609573364,48.978759765625,6.2425727844238,48.982707977295],"coordinates":[[[[6.240534,48.982708],[6.242573,48.981148],[6.240674,48.980576],[6.236661,48.97876],[6.23988,48.982021],[6.240534,48.982708]]]],"created":1292445124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12523821_20101215_b42cdd0644.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 611604,
+  "type": "Feature",
+  "properties": {
+    "name":"Dijon, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":611604,
+    "woe:name":"Dijon, Burgundy, France",
+    "woe:place_id":"XIaezVWfAJ3RCcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.090714,47.311348,5.097581,47.313717],
+  "geometry": {"alpha":0.00015,"bbox":[5.0907139778137,47.311347961426,5.097580909729,47.313716888428],"coordinates":[[[[5.097581,47.31147],[5.096744,47.311348],[5.090714,47.312225],[5.092844,47.313717],[5.095097,47.313484],[5.097581,47.31147]]]],"created":1247829483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3478/shapefiles/611604_20090717_f3dc1e08be.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

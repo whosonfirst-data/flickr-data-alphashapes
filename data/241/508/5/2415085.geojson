@@ -1,0 +1,15 @@
+{
+  "id": 2415085,
+  "type": "Feature",
+  "properties": {
+    "name":"Grimes, California, United States",
+    "placetype":"locality",
+    "woe:id":2415085,
+    "woe:name":"Grimes, California, United States",
+    "woe:place_id":"3jn5sxqbBZ23n42t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.89846,39.072109,-121.89267,39.075069],
+  "geometry": {"alpha":0.00015,"bbox":[-121.89846038818,39.072109222412,-121.89266967773,39.07506942749],"coordinates":[[[[-121.89743,39.072369],[-121.89846,39.072109],[-121.897087,39.073845],[-121.89267,39.075069],[-121.89386,39.074223],[-121.89743,39.072369]]]],"created":1292493544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2415085_20101216_a7d81debd7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

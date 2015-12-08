@@ -1,0 +1,15 @@
+{
+  "id": 711053,
+  "type": "Feature",
+  "properties": {
+    "name":"Boccea, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":711053,
+    "woe:name":"Boccea, Lazio, Italy",
+    "woe:place_id":"SU_IwpOeAJ12tKs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.29619,41.949406,12.314472,41.976463],
+  "geometry": {"alpha":0.00015,"bbox":[12.296190261841,41.949405670166,12.314472198486,41.976463317871],"coordinates":[[[[12.313785,41.970978],[12.314472,41.959427],[12.305717,41.949406],[12.29619,41.949917],[12.308732,41.964626],[12.306747,41.976463],[12.313785,41.970978]]]],"created":1292499009,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/711053_20101216_5a2c7ec4ae.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

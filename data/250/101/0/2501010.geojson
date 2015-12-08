@@ -1,0 +1,15 @@
+{
+  "id": 2501010,
+  "type": "Feature",
+  "properties": {
+    "name":"Strother, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2501010,
+    "woe:name":"Strother, South Carolina, United States",
+    "woe:place_id":"JLrMhaWbBJzBK7Rk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.396614,34.389416,-81.393333,34.394848],
+  "geometry": {"alpha":0.00015,"bbox":[-81.396614074707,34.389415740967,-81.393333435059,34.394847869873],"coordinates":[[[[-81.396156,34.392681],[-81.396263,34.393036],[-81.396614,34.394848],[-81.393333,34.394165],[-81.394012,34.389416],[-81.396156,34.392681]]]],"created":1292454561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2501010_20101215_29b745bcaa.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12623202,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wernau, Germany",
+    "placetype":"locality",
+    "woe:id":12623202,
+    "woe:name":"Gemeinde Wernau, Germany",
+    "woe:place_id":"F5nguZiYA5om7aihWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.399318,48.687786,9.408502,48.694473],
+  "geometry": {"alpha":1e-05,"bbox":[9.399317741394,48.687786102295,9.408501625061,48.694473266602],"coordinates":[[[[9.408502,48.694302],[9.404811,48.691811],[9.403266,48.687786],[9.401443,48.688919],[9.399318,48.692322],[9.404211,48.694473],[9.408502,48.694302]]]],"created":1292550740,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12623202_20101217_3d35e799ae.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

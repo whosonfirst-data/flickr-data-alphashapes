@@ -1,0 +1,15 @@
+{
+  "id": 12680888,
+  "type": "Feature",
+  "properties": {
+    "name":"Paliano, Italy",
+    "placetype":"locality",
+    "woe:id":12680888,
+    "woe:name":"Paliano, Italy",
+    "woe:place_id":"gV5IURSYA5oWljWo1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.007211,41.769665,13.013842,41.77681],
+  "geometry": {"alpha":1e-05,"bbox":[13.007210731506,41.769664764404,13.013841629028,41.776809692383],"coordinates":[[[[13.007769,41.772297],[13.007211,41.773808],[13.012157,41.77681],[13.013842,41.775585],[13.008885,41.772686],[13.010215,41.769665],[13.007769,41.772297]]]],"created":1292530961,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12680888_20101216_15d41438b6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

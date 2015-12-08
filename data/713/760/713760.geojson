@@ -1,0 +1,15 @@
+{
+  "id": 713760,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerchio, Abruzzi, Italy",
+    "placetype":"locality",
+    "woe:id":713760,
+    "woe:name":"Cerchio, Abruzzi, Italy",
+    "woe:place_id":"540au1.eAJ8mIyk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.597855,42.0578,13.609657,42.07032],
+  "geometry": {"alpha":0.00015,"bbox":[13.597854614258,42.057800292969,13.609657287598,42.070320129395],"coordinates":[[[[13.604013,42.065605],[13.609657,42.0578],[13.602447,42.057961],[13.598542,42.066299],[13.597855,42.066906],[13.599615,42.07032],[13.604013,42.065605]]]],"created":1292499012,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/713760_20101216_c32a5030ae.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

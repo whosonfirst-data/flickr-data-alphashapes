@@ -1,0 +1,15 @@
+{
+  "id": 20210501,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Planay, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210501,
+    "woe:name":"Le Planay, Rhone-Alpes, France",
+    "woe:place_id":"vQlOUVebAZ7VKBQxQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.659833,45.784103,6.677627,45.793167],
+  "geometry": {"alpha":0.00015,"bbox":[6.6598329544067,45.784103393555,6.6776270866394,45.793167114258],"coordinates":[[[[6.669167,45.784668],[6.663208,45.788593],[6.659833,45.793167],[6.666727,45.790897],[6.677627,45.792004],[6.673614,45.784103],[6.669167,45.784668]]]],"created":1292528508,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/20210501_20101216_c576b4743f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

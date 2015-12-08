@@ -1,0 +1,15 @@
+{
+  "id": 1102427,
+  "type": "Feature",
+  "properties": {
+    "name":"Great Western, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102427,
+    "woe:name":"Great Western, Victoria, Australia",
+    "woe:place_id":"PCAeXEiYAJzbB24Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.847931,-37.165241,142.867584,-37.149097],
+  "geometry": {"alpha":0.00015,"bbox":[142.8479309082,-37.165241241455,142.86758422852,-37.149097442627],"coordinates":[[[[142.853333,-37.155117],[142.847931,-37.149097],[142.852158,-37.150364],[142.855911,-37.152107],[142.858337,-37.155334],[142.867584,-37.165241],[142.853851,-37.156212],[142.853333,-37.155117]]]],"created":1292525342,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/1102427_20101216_16ab376a9b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

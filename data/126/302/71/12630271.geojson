@@ -1,0 +1,15 @@
+{
+  "id": 12630271,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Oyten, Germany",
+    "placetype":"locality",
+    "woe:id":12630271,
+    "woe:name":"Gemeinde Oyten, Germany",
+    "woe:place_id":"cFfzRAGYA5qbR7_4VA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.030718,53.053326,9.031062,53.053608],
+  "geometry": {"alpha":1e-05,"bbox":[9.0307178497314,53.053325653076,9.0310621261597,53.053607940674],"coordinates":[[[[9.030933,53.053608],[9.030976,53.053543],[9.031062,53.053326],[9.030718,53.053455],[9.030804,53.05357],[9.030933,53.053608]]]],"created":1292542256,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12630271_20101216_6f1cf6b169.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

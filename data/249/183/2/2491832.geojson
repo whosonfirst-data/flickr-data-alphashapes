@@ -1,0 +1,15 @@
+{
+  "id": 2491832,
+  "type": "Feature",
+  "properties": {
+    "name":"Sharpsburg, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2491832,
+    "woe:name":"Sharpsburg, Kentucky, United States",
+    "woe:place_id":"AyPRShKbBZWyBK0O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.944473,38.19529,-83.917519,38.207027],
+  "geometry": {"alpha":0.00015,"bbox":[-83.944473266602,38.195289611816,-83.917518615723,38.207027435303],"coordinates":[[[[-83.932114,38.203114],[-83.917519,38.207027],[-83.929985,38.199074],[-83.934341,38.199078],[-83.944473,38.19529],[-83.932114,38.203114]]]],"created":1292452044,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2491832_20101215_7e8e7f72c9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22582,
+  "type": "Feature",
+  "properties": {
+    "name":"Harwell, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22582,
+    "woe:name":"Harwell, England, United Kingdom",
+    "woe:place_id":"drXF6iObA5mGtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.308059,51.578457,-1.285443,51.602451],
+  "geometry": {"alpha":0.0001875,"bbox":[-1.3080589771271,51.578456878662,-1.2854429483414,51.602451324463],"coordinates":[[[[-1.289691,51.602451],[-1.285443,51.600346],[-1.288833,51.586136],[-1.289305,51.581135],[-1.308059,51.578457],[-1.292009,51.599281],[-1.289691,51.602451]]]],"created":1292545743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/22582_20101217_6abf57fc5e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

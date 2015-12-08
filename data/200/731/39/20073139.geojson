@@ -1,0 +1,15 @@
+{
+  "id": 20073139,
+  "type": "Feature",
+  "properties": {
+    "name":"Ballysimon, Ireland",
+    "placetype":"locality",
+    "woe:id":20073139,
+    "woe:name":"Ballysimon, Ireland",
+    "woe:place_id":"V79dq72bAZwrgANcUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.53775,52.654312,-8.533667,52.658268],
+  "geometry": {"alpha":1e-05,"bbox":[-8.5377502441406,52.654312133789,-8.5336666107178,52.658267974854],"coordinates":[[[[-8.534292,52.654312],[-8.53775,52.658268],[-8.534164,52.654667],[-8.533667,52.654667],[-8.534167,52.654331],[-8.534292,52.654312]]]],"created":1292513708,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20073139_20101216_b9a3b8f2e9.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

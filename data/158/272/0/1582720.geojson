@@ -1,0 +1,15 @@
+{
+  "id": 1582720,
+  "type": "Feature",
+  "properties": {
+    "name":"Kenton, Eastern Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1582720,
+    "woe:name":"Kenton, Eastern Cape, South Africa",
+    "woe:place_id":"GSNB8OaYBJQIO3ff",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.661093,-33.68996,26.677465,-33.67424],
+  "geometry": {"alpha":0.00015,"bbox":[26.661092758179,-33.689960479736,26.677465438843,-33.674240112305],"coordinates":[[[[26.661255,-33.689907],[26.661093,-33.68853],[26.665192,-33.675972],[26.677465,-33.67424],[26.670898,-33.682781],[26.668711,-33.68996],[26.661255,-33.689907]]]],"created":1292526371,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/1582720_20101216_05ec980596.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

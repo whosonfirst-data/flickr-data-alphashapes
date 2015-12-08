@@ -1,0 +1,15 @@
+{
+  "id": 23417963,
+  "type": "Feature",
+  "properties": {
+    "name":"Flying Hills, Reading, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":23417963,
+    "woe:name":"Flying Hills, Reading, PA, US, United States",
+    "woe:place_id":"d_rf71mbApgFohn9pg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.923637,40.265087,-75.919647,40.279854],
+  "geometry": {"alpha":0.00015,"bbox":[-75.923637390137,40.265087127686,-75.919647216797,40.279853820801],"coordinates":[[[[-75.922348,40.265087],[-75.923637,40.265747],[-75.92218,40.279854],[-75.919647,40.268097],[-75.920685,40.265461],[-75.922348,40.265087]]]],"created":1248256343,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2456/shapefiles/23417963_20090722_2cd9ddb4f8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

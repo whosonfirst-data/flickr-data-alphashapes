@@ -1,0 +1,15 @@
+{
+  "id": 595725,
+  "type": "Feature",
+  "properties": {
+    "name":"Juilly, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":595725,
+    "woe:name":"Juilly, Ile-de-France, France",
+    "woe:place_id":"PevUnpScCJnM9R8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.705277,49.010075,2.719287,49.014034],
+  "geometry": {"alpha":0.00015,"bbox":[2.705276966095,49.010074615479,2.7192869186401,49.01403427124],"coordinates":[[[[2.705277,49.010075],[2.705383,49.011795],[2.706589,49.01297],[2.707443,49.014034],[2.719287,49.011639],[2.705277,49.010075]]]],"created":1292544672,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/595725_20101217_0d7290665e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

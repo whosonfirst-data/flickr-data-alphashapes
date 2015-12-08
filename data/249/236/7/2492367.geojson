@@ -1,0 +1,15 @@
+{
+  "id": 2492367,
+  "type": "Feature",
+  "properties": {
+    "name":"Sheppardtown, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2492367,
+    "woe:name":"Sheppardtown, Mississippi, United States",
+    "woe:place_id":"rgJhaGCbBZX1b5nh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.310707,33.392128,-90.309677,33.394329],
+  "geometry": {"alpha":0.00015,"bbox":[-90.310707092285,33.392127990723,-90.309677124023,33.394329071045],"coordinates":[[[[-90.310181,33.392262],[-90.310707,33.393253],[-90.309677,33.394329],[-90.309952,33.392185],[-90.310043,33.392128],[-90.310181,33.392262]]]],"created":1292460849,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2492367_20101216_b6a79286c0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 21820,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenmeadow, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21820,
+    "woe:name":"Greenmeadow, Wales, United Kingdom",
+    "woe:place_id":"SNWbfZebAJQI4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.041238,51.647903,-3.032569,51.652523],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0412380695343,51.647903442383,-3.0325689315796,51.652523040771],"coordinates":[[[[-3.033599,51.648064],[-3.04,51.650002],[-3.041238,51.652523],[-3.033599,51.648277],[-3.032569,51.647903],[-3.033599,51.648064]]]],"created":1292453223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/21820_20101215_4ba7f698b1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

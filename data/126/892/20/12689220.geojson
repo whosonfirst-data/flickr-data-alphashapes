@@ -1,0 +1,15 @@
+{
+  "id": 12689220,
+  "type": "Feature",
+  "properties": {
+    "name":"El Burgo, Spain",
+    "placetype":"locality",
+    "woe:id":12689220,
+    "woe:name":"El Burgo, Spain",
+    "woe:place_id":"Dq4uycOYA5qdIG3ibA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.986142,36.79483,-4.985303,36.798481],
+  "geometry": {"alpha":1e-05,"bbox":[-4.9861421585083,36.794830322266,-4.9853029251099,36.798480987549],"coordinates":[[[[-4.985303,36.794865],[-4.985309,36.794853],[-4.98532,36.794846],[-4.985353,36.794834],[-4.985364,36.79483],[-4.98537,36.794834],[-4.985364,36.79491],[-4.986142,36.798481],[-4.985303,36.794865]]]],"created":1292531808,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12689220_20101216_52f72f3982.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

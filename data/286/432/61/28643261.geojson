@@ -1,0 +1,15 @@
+{
+  "id": 28643261,
+  "type": "Feature",
+  "properties": {
+    "name":"New Creek, West Coast, New Zealand",
+    "placetype":"locality",
+    "woe:id":28643261,
+    "woe:name":"New Creek, West Coast, New Zealand",
+    "woe:place_id":"kYomggSbCZrx0kWK2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [172.023468,-41.794498,172.034271,-41.775921],
+  "geometry": {"alpha":0.00015,"bbox":[172.02346801758,-41.794498443604,172.03427124023,-41.77592086792],"coordinates":[[[[172.034271,-41.784611],[172.023468,-41.794498],[172.025742,-41.78606],[172.031479,-41.775921],[172.033188,-41.777138],[172.034271,-41.784611]]]],"created":1292517964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/28643261_20101216_c6d6bf4620.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

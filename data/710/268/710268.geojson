@@ -1,0 +1,15 @@
+{
+  "id": 710268,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardauli, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":710268,
+    "woe:name":"Ardauli, Sardinia, Italy",
+    "woe:place_id":"KmQQ.3KeAJzRMCI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.896179,40.076725,8.915834,40.096458],
+  "geometry": {"alpha":0.00015,"bbox":[8.8961791992188,40.076725006104,8.9158344268799,40.096458435059],"coordinates":[[[[8.912,40.082001],[8.908195,40.076725],[8.90753,40.080139],[8.896179,40.096458],[8.913002,40.089695],[8.915834,40.087231],[8.912,40.082001]]]],"created":1292534530,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/710268_20101216_743d161e3e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

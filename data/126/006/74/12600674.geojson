@@ -1,0 +1,15 @@
+{
+  "id": 12600674,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad Ixtepec, Oaxaca, Mexico",
+    "placetype":"county",
+    "woe:id":12600674,
+    "woe:name":"Ciudad Ixtepec, Oaxaca, Mexico",
+    "woe:place_id":"CXJ1NliYA5rneVqsvQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-95.122543,16.549164,-95.07534,16.584867],
+  "geometry": {"alpha":0.0015,"bbox":[-95.122543334961,16.549163818359,-95.075340270996,16.584867477417],"coordinates":[[[[-95.121689,16.581907],[-95.122543,16.582811],[-95.121002,16.584867],[-95.07534,16.569073],[-95.087524,16.549164],[-95.121689,16.581907]]]],"created":1292545362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12600674_20101217_345ac74006.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

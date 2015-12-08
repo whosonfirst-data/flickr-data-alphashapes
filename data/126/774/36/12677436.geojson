@@ -1,0 +1,15 @@
+{
+  "id": 12677436,
+  "type": "Feature",
+  "properties": {
+    "name":"Mel, Italy",
+    "placetype":"locality",
+    "woe:id":12677436,
+    "woe:name":"Mel, Italy",
+    "woe:place_id":"oHaLGsmYA5peMzMTpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.080166,46.035332,12.082333,46.037167],
+  "geometry": {"alpha":1e-05,"bbox":[12.080165863037,46.035331726074,12.082332611084,46.037166595459],"coordinates":[[[[12.080666,46.036667],[12.080833,46.036835],[12.081999,46.037167],[12.082333,46.036167],[12.081833,46.035332],[12.080166,46.035831],[12.080666,46.036667]]]],"created":1292546865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12677436_20101217_6aac4b6522.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

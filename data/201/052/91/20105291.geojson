@@ -1,0 +1,15 @@
+{
+  "id": 20105291,
+  "type": "Feature",
+  "properties": {
+    "name":"Force, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20105291,
+    "woe:name":"Force, Marche, Italy",
+    "woe:place_id":"lm8zNKWbAZ3ROaUO5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.469066,42.954914,13.490395,42.965599],
+  "geometry": {"alpha":0.00015,"bbox":[13.469065666199,42.954914093018,13.490394592285,42.965599060059],"coordinates":[[[[13.490395,42.965599],[13.488807,42.963772],[13.488439,42.962299],[13.487777,42.954914],[13.469066,42.955418],[13.488439,42.962299],[13.490395,42.965599]]]],"created":1292532842,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/20105291_20101216_fc4a8e46ba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

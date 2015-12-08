@@ -1,0 +1,15 @@
+{
+  "id": 551001,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberkaltenbach, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":551001,
+    "woe:name":"Oberkaltenbach, Tyrol, Austria",
+    "woe:place_id":"8cZLJGacBJ06XJs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.828498,47.270447,11.837855,47.275734],
+  "geometry": {"alpha":0.00015,"bbox":[11.828497886658,47.270446777344,11.83785533905,47.275733947754],"coordinates":[[[[11.837825,47.270473],[11.837855,47.270447],[11.837825,47.270451],[11.828498,47.275734],[11.837825,47.270473]]]],"created":1234643890,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3020/shapefiles/551001_20090214_de4cf3c91e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

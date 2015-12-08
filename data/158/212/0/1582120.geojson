@@ -1,0 +1,15 @@
+{
+  "id": 1582120,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartbeespoort, North-west, South Africa",
+    "placetype":"locality",
+    "woe:id":1582120,
+    "woe:name":"Hartbeespoort, North-west, South Africa",
+    "woe:place_id":"3cTMmjWYBJQhCreL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.848797,-25.730129,27.857552,-25.722952],
+  "geometry": {"alpha":0.00015,"bbox":[27.848796844482,-25.730129241943,27.857551574707,-25.722951889038],"coordinates":[[[[27.852667,-25.728334],[27.848797,-25.725683],[27.856436,-25.722952],[27.857552,-25.728931],[27.85738,-25.730129],[27.852667,-25.728334]]]],"created":1292519784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/1582120_20101216_db29522b40.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

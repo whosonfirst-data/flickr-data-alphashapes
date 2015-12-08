@@ -1,0 +1,15 @@
+{
+  "id": 647403,
+  "type": "Feature",
+  "properties": {
+    "name":"Eitensheim, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":647403,
+    "woe:name":"Eitensheim, Bavaria, Germany",
+    "woe:place_id":"6A7z7wafBZvOaEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.319093,48.815907,11.332998,48.819736],
+  "geometry": {"alpha":0.00015,"bbox":[11.319092750549,48.815906524658,11.332998275757,48.819736480713],"coordinates":[[[[11.320019,48.819321],[11.319093,48.819736],[11.320348,48.819481],[11.332998,48.815907],[11.320019,48.819321]]]],"created":1292546524,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/647403_20101217_acd049dbc4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

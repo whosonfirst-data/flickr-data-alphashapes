@@ -1,0 +1,15 @@
+{
+  "id": 20098278,
+  "type": "Feature",
+  "properties": {
+    "name":"Hourlay, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":20098278,
+    "woe:name":"Hourlay, Luxemburg, Belgium",
+    "woe:place_id":"BK4LSmWbAZzefv3mlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.597019,50.35664,5.615665,50.374725],
+  "geometry": {"alpha":0.00015,"bbox":[5.5970191955566,50.356639862061,5.6156649589539,50.374725341797],"coordinates":[[[[5.615665,50.374725],[5.608005,50.35664],[5.60337,50.35696],[5.597019,50.358879],[5.599937,50.358494],[5.615665,50.374725]]]],"created":1292441607,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20098278_20101215_407256e941.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

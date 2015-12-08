@@ -1,0 +1,15 @@
+{
+  "id": 714376,
+  "type": "Feature",
+  "properties": {
+    "name":"Collelongo, Abruzzi, Italy",
+    "placetype":"locality",
+    "woe:id":714376,
+    "woe:name":"Collelongo, Abruzzi, Italy",
+    "woe:place_id":"bh58VqGeAJiz1U4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.581504,41.879108,13.605537,41.890743],
+  "geometry": {"alpha":0.00015,"bbox":[13.581503868103,41.879108428955,13.605537414551,41.890743255615],"coordinates":[[[[13.581993,41.88887],[13.586268,41.890743],[13.605537,41.886303],[13.587129,41.88485],[13.581504,41.879108],[13.581848,41.881321],[13.581993,41.88887]]]],"created":1292523650,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/714376_20101216_761abfc650.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

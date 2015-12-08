@@ -1,0 +1,15 @@
+{
+  "id": 2459502,
+  "type": "Feature",
+  "properties": {
+    "name":"Newlon Junction, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2459502,
+    "woe:name":"Newlon Junction, Montana, United States",
+    "woe:place_id":"D13Q2jubBZnULCYp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.214699,47.63821,-104.211212,47.639992],
+  "geometry": {"alpha":0.00015,"bbox":[-104.2146987915,47.638210296631,-104.2112121582,47.639991760254],"coordinates":[[[[-104.211212,47.639744],[-104.211395,47.639339],[-104.214699,47.63821],[-104.212234,47.639904],[-104.212067,47.639992],[-104.211212,47.639744]]]],"created":1229708773,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3132/shapefiles/2459502_20081219_7ab252864b.tar.gz"},"points":89,"type":"MultiPolygon"}
+}

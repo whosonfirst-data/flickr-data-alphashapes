@@ -1,0 +1,15 @@
+{
+  "id": 2501237,
+  "type": "Feature",
+  "properties": {
+    "name":"Sudlersville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2501237,
+    "woe:name":"Sudlersville, Maryland, United States",
+    "woe:place_id":"J16kX1CbBJy36F0P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.87793,39.183952,-75.848557,39.190952],
+  "geometry": {"alpha":0.00015,"bbox":[-75.8779296875,39.183952331543,-75.848556518555,39.190952301025],"coordinates":[[[[-75.85836,39.183952],[-75.877151,39.183987],[-75.87793,39.185871],[-75.861969,39.190952],[-75.848557,39.188126],[-75.85836,39.183952]]]],"created":1292527031,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2501237_20101216_cf8f52defa.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

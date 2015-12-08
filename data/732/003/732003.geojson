@@ -1,0 +1,15 @@
+{
+  "id": 732003,
+  "type": "Feature",
+  "properties": {
+    "name":"Nieuwerkerk, Zeeland, Netherlands",
+    "placetype":"locality",
+    "woe:id":732003,
+    "woe:name":"Nieuwerkerk, Zeeland, Netherlands",
+    "woe:place_id":"T30rcayeAp4KqDs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.994045,51.642944,4.013099,51.651299],
+  "geometry": {"alpha":0.00015,"bbox":[3.9940450191498,51.642944335938,4.013099193573,51.651298522949],"coordinates":[[[[4.01125,51.649025],[4.003593,51.642944],[3.994817,51.648129],[3.994045,51.649662],[4.00429,51.651299],[4.013099,51.649448],[4.01125,51.649025]]]],"created":1292528770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/732003_20101216_ba294039e4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

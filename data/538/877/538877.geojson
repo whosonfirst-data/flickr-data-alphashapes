@@ -1,0 +1,15 @@
+{
+  "id": 538877,
+  "type": "Feature",
+  "properties": {
+    "name":"Kittsee, Burgenland, Austria",
+    "placetype":"locality",
+    "woe:id":538877,
+    "woe:name":"Kittsee, Burgenland, Austria",
+    "woe:place_id":"IZjyfBWcApTjF60",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.084427,48.100567,17.111816,48.115971],
+  "geometry": {"alpha":0.00015,"bbox":[17.084426879883,48.100566864014,17.11181640625,48.115970611572],"coordinates":[[[[17.108637,48.102657],[17.111816,48.100567],[17.104414,48.102745],[17.084427,48.101471],[17.094511,48.108948],[17.096186,48.115971],[17.108637,48.102657]]]],"created":1292453493,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/538877_20101215_064c9a553b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

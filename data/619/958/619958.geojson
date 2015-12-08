@@ -1,0 +1,15 @@
+{
+  "id": 619958,
+  "type": "Feature",
+  "properties": {
+    "name":"Roquefort, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":619958,
+    "woe:name":"Roquefort, Aquitaine, France",
+    "woe:place_id":"UK7f.LWfAJVnRXY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.323925,44.01683,-0.317144,44.034973],
+  "geometry": {"alpha":0.00015,"bbox":[-0.32392498850822,44.016830444336,-0.31714400649071,44.034973144531],"coordinates":[[[[-0.322272,44.034664],[-0.321736,44.034973],[-0.317144,44.034882],[-0.323925,44.01683],[-0.323123,44.034157],[-0.322272,44.034664]]]],"created":1292523932,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/619958_20101216_aea21a0d2a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

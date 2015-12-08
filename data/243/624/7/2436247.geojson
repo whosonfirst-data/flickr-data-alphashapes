@@ -1,0 +1,15 @@
+{
+  "id": 2436247,
+  "type": "Feature",
+  "properties": {
+    "name":"Lane, California, United States",
+    "placetype":"locality",
+    "woe:id":2436247,
+    "woe:name":"Lane, California, United States",
+    "woe:place_id":"B4eoUUybBZ_UTmvy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.272408,38.00272,-121.247452,38.023521],
+  "geometry": {"alpha":0.00015,"bbox":[-121.27240753174,38.00271987915,-121.24745178223,38.02352142334],"coordinates":[[[[-121.256516,38.018295],[-121.247452,38.00272],[-121.257446,38.015522],[-121.272408,38.022064],[-121.258781,38.023521],[-121.256516,38.018295]]]],"created":1292486345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2436247_20101216_60fd1ebeee.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

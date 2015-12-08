@@ -1,0 +1,15 @@
+{
+  "id": 56065635,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Martinez, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":56065635,
+    "woe:name":"Los Martinez, Canary Islands, Spain",
+    "woe:place_id":"7sOmPW6cB5yhUbH64A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.534424,28.045868,-16.530775,28.053349],
+  "geometry": {"alpha":0.00015,"bbox":[-16.534423828125,28.045867919922,-16.53077507019,28.05334854126],"coordinates":[[[[-16.531506,28.051037],[-16.530775,28.050014],[-16.532352,28.045868],[-16.532761,28.048765],[-16.534424,28.053349],[-16.531506,28.051037]]]],"created":1292523848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/56065635_20101216_c6c7faca71.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

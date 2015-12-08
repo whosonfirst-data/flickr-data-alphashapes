@@ -1,0 +1,15 @@
+{
+  "id": 33323,
+  "type": "Feature",
+  "properties": {
+    "name":"Rigg, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33323,
+    "woe:name":"Rigg, Scotland, United Kingdom",
+    "woe:place_id":"aIVI3_OaAp_LIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.118743,54.973919,-3.106232,54.991749],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1187429428101,54.973918914795,-3.1062319278717,54.991748809814],"coordinates":[[[[-3.107,54.989666],[-3.118743,54.973919],[-3.1145,54.990002],[-3.113164,54.991158],[-3.10734,54.991749],[-3.106232,54.989655],[-3.107,54.989666]]]],"created":1292458319,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/33323_20101216_93c333309f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

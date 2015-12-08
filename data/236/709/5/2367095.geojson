@@ -1,0 +1,15 @@
+{
+  "id": 2367095,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2367095,
+    "woe:name":"Boston, Ohio, United States",
+    "woe:place_id":"rbH.vQabApq6N30W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.234848,40.074261,-82.215927,40.089245],
+  "geometry": {"alpha":0.00015,"bbox":[-82.234848022461,40.07426071167,-82.215927124023,40.089244842529],"coordinates":[[[[-82.218933,40.084442],[-82.215927,40.074261],[-82.222237,40.083225],[-82.234848,40.089115],[-82.234261,40.089245],[-82.218933,40.084442]]]],"created":1292524856,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2367095_20101216_29bd6a2f41.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

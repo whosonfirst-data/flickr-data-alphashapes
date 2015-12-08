@@ -1,0 +1,15 @@
+{
+  "id": 10802,
+  "type": "Feature",
+  "properties": {
+    "name":"Anderby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10802,
+    "woe:name":"Anderby, England, United Kingdom",
+    "woe:place_id":"lhiTWZCYAZQPFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.264663,53.240616,0.276546,53.265377],
+  "geometry": {"alpha":0.00015,"bbox":[0.26466301083565,53.240615844727,0.27654600143433,53.265377044678],"coordinates":[[[[0.274314,53.25407],[0.264663,53.265377],[0.276546,53.255123],[0.273284,53.240616],[0.274314,53.25407]]]],"created":1292518116,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/10802_20101216_cddcdc00df.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

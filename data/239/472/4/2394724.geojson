@@ -1,0 +1,15 @@
+{
+  "id": 2394724,
+  "type": "Feature",
+  "properties": {
+    "name":"Durham, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2394724,
+    "woe:name":"Durham, Oklahoma, United States",
+    "woe:place_id":"p25m.7ebApVHOvEV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.926208,35.841454,-99.924026,35.842907],
+  "geometry": {"alpha":0.00015,"bbox":[-99.926208496094,35.841453552246,-99.924026489258,35.842906951904],"coordinates":[[[[-99.924026,35.842907],[-99.92437,35.842396],[-99.925285,35.84169],[-99.925957,35.841454],[-99.926208,35.842377],[-99.924858,35.842796],[-99.924026,35.842907]]]],"created":1292460005,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2394724_20101216_8dd5348bd9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12651234,
+  "type": "Feature",
+  "properties": {
+    "name":"Torcy, France",
+    "placetype":"locality",
+    "woe:id":12651234,
+    "woe:name":"Torcy, France",
+    "woe:place_id":"TcnMaCGYA5psR11FMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.640774,48.851501,2.648391,48.863724],
+  "geometry": {"alpha":1e-05,"bbox":[2.6407740116119,48.851501464844,2.6483910083771,48.863723754883],"coordinates":[[[[2.644958,48.8634],[2.646063,48.863724],[2.646667,48.862999],[2.6475,48.859669],[2.648391,48.858166],[2.645344,48.855564],[2.646331,48.852291],[2.646166,48.851501],[2.644615,48.855003],[2.640774,48.859592],[2.642769,48.862652],[2.644958,48.8634]]]],"created":1292517724,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12651234_20101216_9eda985039.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

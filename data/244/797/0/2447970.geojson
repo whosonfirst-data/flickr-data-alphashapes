@@ -1,0 +1,15 @@
+{
+  "id": 2447970,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcgill, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2447970,
+    "woe:name":"Mcgill, Nevada, United States",
+    "woe:place_id":"1gl8npqbBZh0iW7e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.783783,39.402439,-114.774361,39.413208],
+  "geometry": {"alpha":0.00015,"bbox":[-114.78378295898,39.402439117432,-114.77436065674,39.413208007812],"coordinates":[[[[-114.780266,39.402439],[-114.783783,39.412209],[-114.779129,39.413208],[-114.776146,39.407715],[-114.774361,39.404621],[-114.780266,39.402439]]]],"created":1292546946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2447970_20101217_700a448592.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2351559,
+  "type": "Feature",
+  "properties": {
+    "name":"Aberdeen, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2351559,
+    "woe:name":"Aberdeen, West Virginia, United States",
+    "woe:place_id":"Qj3OUrObApnwdDKs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.339302,39.096325,-80.336517,39.097961],
+  "geometry": {"alpha":0.00015,"bbox":[-80.339302062988,39.096324920654,-80.336517333984,39.097961425781],"coordinates":[[[[-80.339249,39.097748],[-80.339302,39.097927],[-80.339142,39.097961],[-80.338898,39.097954],[-80.336517,39.09763],[-80.337616,39.096325],[-80.339249,39.097748]]]],"created":1292533646,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2351559_20101216_212068ca03.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

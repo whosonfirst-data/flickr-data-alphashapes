@@ -1,0 +1,15 @@
+{
+  "id": 20140608,
+  "type": "Feature",
+  "properties": {
+    "name":"Sada, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20140608,
+    "woe:name":"Sada, Piedmont, Italy",
+    "woe:place_id":"MMhiY6qbAZ1bN9pzlw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.389678,45.051105,7.397918,45.058167],
+  "geometry": {"alpha":0.00015,"bbox":[7.3896780014038,45.051105499268,7.3979182243347,45.058166503906],"coordinates":[[[[7.396802,45.051922],[7.396717,45.051758],[7.396545,45.051453],[7.395901,45.051254],[7.395772,45.05127],[7.392683,45.051453],[7.389678,45.051105],[7.390408,45.058167],[7.395944,45.055939],[7.397918,45.055576],[7.396802,45.051922]]]],"created":1292546653,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/20140608_20101217_5a24075dd8.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

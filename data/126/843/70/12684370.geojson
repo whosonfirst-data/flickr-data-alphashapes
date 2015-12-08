@@ -1,0 +1,15 @@
+{
+  "id": 12684370,
+  "type": "Feature",
+  "properties": {
+    "name":"Schmitten, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684370,
+    "woe:name":"Schmitten, Switzerland",
+    "woe:place_id":"gt_az6uYA5rfVXHBsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.670543,46.67506,9.673376,46.679298],
+  "geometry": {"alpha":1e-05,"bbox":[9.67054271698,46.675060272217,9.673376083374,46.679298400879],"coordinates":[[[[9.670543,46.67506],[9.670801,46.677826],[9.673376,46.679298],[9.671874,46.677475],[9.670543,46.67506]]]],"created":1226552524,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3156/shapefiles/12684370_20081113_a3996601af.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

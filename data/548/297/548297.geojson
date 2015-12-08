@@ -1,0 +1,15 @@
+{
+  "id": 548297,
+  "type": "Feature",
+  "properties": {
+    "name":"Ehrenhausen, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548297,
+    "woe:name":"Ehrenhausen, Styria, Austria",
+    "woe:place_id":"EXWrjCWcBZS_kWM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.582733,46.725521,15.587848,46.730328],
+  "geometry": {"alpha":0.00015,"bbox":[15.582733154297,46.725521087646,15.587847709656,46.730327606201],"coordinates":[[[[15.584696,46.725704],[15.582733,46.725979],[15.584964,46.727505],[15.585222,46.727711],[15.587848,46.730328],[15.586579,46.725521],[15.584696,46.725704]]]],"created":1292520416,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/548297_20101216_b0cf85900d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

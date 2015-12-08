@@ -1,0 +1,15 @@
+{
+  "id": 145553,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanalona, Sinaloa, Mexico",
+    "placetype":"locality",
+    "woe:id":145553,
+    "woe:name":"Sanalona, Sinaloa, Mexico",
+    "woe:place_id":"QBKRq0OYBZnwNcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.157898,24.806759,-107.131119,24.823353],
+  "geometry": {"alpha":0.00015,"bbox":[-107.15789794922,24.806758880615,-107.13111877441,24.823352813721],"coordinates":[[[[-107.131119,24.823353],[-107.140388,24.814861],[-107.151199,24.806759],[-107.157898,24.817432],[-107.138672,24.820393],[-107.131119,24.823353]]]],"created":1292465828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/145553_20101216_0b42d43821.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

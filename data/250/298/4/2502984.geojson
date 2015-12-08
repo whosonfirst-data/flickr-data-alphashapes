@@ -1,0 +1,15 @@
+{
+  "id": 2502984,
+  "type": "Feature",
+  "properties": {
+    "name":"Swartz Corner, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2502984,
+    "woe:name":"Swartz Corner, Idaho, United States",
+    "woe:place_id":"QiZScP.bBJwmqDZq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.574341,43.47765,-116.553436,43.492596],
+  "geometry": {"alpha":0.00015,"bbox":[-116.57434082031,43.477649688721,-116.5534362793,43.492595672607],"coordinates":[[[[-116.561317,43.492596],[-116.553436,43.486835],[-116.562508,43.47765],[-116.573692,43.478382],[-116.574341,43.48447],[-116.561317,43.492596]]]],"created":1292549879,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2502984_20101217_29c04e6db7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

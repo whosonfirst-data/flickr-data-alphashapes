@@ -1,0 +1,15 @@
+{
+  "id": 55998571,
+  "type": "Feature",
+  "properties": {
+    "name":"Campbell, St. Albert, AB, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55998571,
+    "woe:name":"Campbell, St. Albert, AB, CA, Canada",
+    "woe:place_id":"bd0NsqmcBJXfxBLOpw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-113.575012,53.643036,-113.571297,53.648201],
+  "geometry": {"alpha":1e-05,"bbox":[-113.57501220703,53.643035888672,-113.57129669189,53.64820098877],"coordinates":[[[[-113.575012,53.644741],[-113.573341,53.648201],[-113.571297,53.647346],[-113.574341,53.643036],[-113.575012,53.644741]]]],"created":1292524898,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/55998571_20101216_8eab0d6247.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

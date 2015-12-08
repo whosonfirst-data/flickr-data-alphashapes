@@ -1,0 +1,15 @@
+{
+  "id": 633200,
+  "type": "Feature",
+  "properties": {
+    "name":"Abberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":633200,
+    "woe:name":"Abberg, Bavaria, Germany",
+    "woe:place_id":"SJOS2JifAp8Msf8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.537919,47.7757,11.538708,47.777515],
+  "geometry": {"alpha":0.00015,"bbox":[11.537919044495,47.775699615479,11.538707733154,47.777515411377],"coordinates":[[[[11.537919,47.7757],[11.53805,47.776451],[11.538708,47.777515],[11.537941,47.775703],[11.537919,47.7757]]]],"created":1292443620,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/633200_20101215_83a2510e67.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

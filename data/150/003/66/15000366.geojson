@@ -1,0 +1,15 @@
+{
+  "id": 15000366,
+  "type": "Feature",
+  "properties": {
+    "name":"Felina, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":15000366,
+    "woe:name":"Felina, Emilia Romagna, Italy",
+    "woe:place_id":"i0fSiuCYBJzVF1Z9Bg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.455207,44.451759,10.457469,44.452778],
+  "geometry": {"alpha":0.00015,"bbox":[10.455206871033,44.451759338379,10.457468986511,44.452777862549],"coordinates":[[[[10.457455,44.452377],[10.457469,44.451759],[10.45701,44.451824],[10.455207,44.452778],[10.456323,44.452747],[10.457455,44.452377]]]],"created":1292534171,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/15000366_20101216_5ccdebac13.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

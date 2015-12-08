@@ -1,0 +1,15 @@
+{
+  "id": 28584191,
+  "type": "Feature",
+  "properties": {
+    "name":"Booral, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28584191,
+    "woe:name":"Booral, Queensland, Australia",
+    "woe:place_id":"YCKZryWbCZnGil2Fzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.907715,-25.301044,152.933182,-25.290936],
+  "geometry": {"alpha":0.00015,"bbox":[152.90771484375,-25.301044464111,152.9331817627,-25.290935516357],"coordinates":[[[[152.933182,-25.298826],[152.922821,-25.301044],[152.907715,-25.299957],[152.908401,-25.290936],[152.922821,-25.301044],[152.929581,-25.297766],[152.933182,-25.298826]]]],"created":1292514664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28584191_20101216_781feaebb5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

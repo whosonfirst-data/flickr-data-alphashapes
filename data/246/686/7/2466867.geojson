@@ -1,0 +1,15 @@
+{
+  "id": 2466867,
+  "type": "Feature",
+  "properties": {
+    "name":"Ouaquaga, New York, United States",
+    "placetype":"locality",
+    "woe:id":2466867,
+    "woe:name":"Ouaquaga, New York, United States",
+    "woe:place_id":"tmeNQWObBZpQo11l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.650925,42.116817,-75.646652,42.124966],
+  "geometry": {"alpha":0.00015,"bbox":[-75.650924682617,42.116817474365,-75.64665222168,42.124965667725],"coordinates":[[[[-75.650925,42.122013],[-75.650528,42.122643],[-75.649109,42.124966],[-75.64679,42.124268],[-75.646652,42.116817],[-75.650925,42.122013]]]],"created":1292536722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2466867_20101216_dd2187b6eb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

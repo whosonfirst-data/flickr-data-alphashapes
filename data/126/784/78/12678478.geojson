@@ -1,0 +1,15 @@
+{
+  "id": 12678478,
+  "type": "Feature",
+  "properties": {
+    "name":"Venafro, Italy",
+    "placetype":"locality",
+    "woe:id":12678478,
+    "woe:name":"Venafro, Italy",
+    "woe:place_id":"u8UQbFyYA5r7xTB1cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.04087,41.48357,14.048724,41.485691],
+  "geometry": {"alpha":1e-05,"bbox":[14.04086971283,41.483570098877,14.0487241745,41.485691070557],"coordinates":[[[[14.045388,41.485691],[14.048724,41.485435],[14.045033,41.48373],[14.044046,41.48357],[14.04087,41.484146],[14.045388,41.485691]]]],"created":1292513585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12678478_20101216_9fc02d913d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

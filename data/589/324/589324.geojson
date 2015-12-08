@@ -1,0 +1,15 @@
+{
+  "id": 589324,
+  "type": "Feature",
+  "properties": {
+    "name":"Durtal, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":589324,
+    "woe:name":"Durtal, Pays de la Loire, France",
+    "woe:place_id":"ltLO34KcCZV5EGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.252675,47.668739,-0.239982,47.674767],
+  "geometry": {"alpha":0.00015,"bbox":[-0.25267499685287,47.668739318848,-0.23998199403286,47.674766540527],"coordinates":[[[[-0.244209,47.669361],[-0.252342,47.668739],[-0.252675,47.674767],[-0.248565,47.674637],[-0.239982,47.674171],[-0.244209,47.669361]]]],"created":1292528878,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/589324_20101216_27e14660a3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

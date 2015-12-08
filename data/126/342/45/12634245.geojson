@@ -1,0 +1,15 @@
+{
+  "id": 12634245,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Vilseck, Germany",
+    "placetype":"locality",
+    "woe:id":12634245,
+    "woe:name":"Gemeinde Vilseck, Germany",
+    "woe:place_id":"yJAahMyYA5ovSH5wew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.803092,49.609154,11.810088,49.614796],
+  "geometry": {"alpha":1e-05,"bbox":[11.803092002869,49.609153747559,11.810088157654,49.614795684814],"coordinates":[[[[11.805667,49.609901],[11.808071,49.6106],[11.810088,49.614796],[11.809884,49.609444],[11.805152,49.609154],[11.803092,49.611431],[11.805667,49.609901]]]],"created":1292518153,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12634245_20101216_60e933d608.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

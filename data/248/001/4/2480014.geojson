@@ -1,0 +1,15 @@
+{
+  "id": 2480014,
+  "type": "Feature",
+  "properties": {
+    "name":"Reiffton, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2480014,
+    "woe:name":"Reiffton, Pennsylvania, United States",
+    "woe:place_id":"ldfoxB.bBZSqaFMu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.883514,40.306873,-75.868759,40.317802],
+  "geometry": {"alpha":0.00015,"bbox":[-75.883514404297,40.306873321533,-75.868759155273,40.317802429199],"coordinates":[[[[-75.868759,40.312714],[-75.869041,40.31155],[-75.869843,40.306873],[-75.883514,40.315529],[-75.874146,40.317802],[-75.868759,40.312714]]]],"created":1292541882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2480014_20101216_cf9738e3c1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

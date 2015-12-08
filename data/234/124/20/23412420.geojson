@@ -1,0 +1,15 @@
+{
+  "id": 23412420,
+  "type": "Feature",
+  "properties": {
+    "name":"Collemarino, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":23412420,
+    "woe:name":"Collemarino, Marche, Italy",
+    "woe:place_id":"Gw9NLeebApgyMwlcbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.428339,43.610973,13.438596,43.614033],
+  "geometry": {"alpha":0.00015,"bbox":[13.428339004517,43.610973358154,13.43859577179,43.614032745361],"coordinates":[[[[13.428876,43.611027],[13.428339,43.61116],[13.432196,43.613201],[13.436923,43.614033],[13.438596,43.610973],[13.428876,43.611027]]]],"created":1292517823,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/23412420_20101216_c87bd67fd5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1199426,
+  "type": "Feature",
+  "properties": {
+    "name":"Magdalena, Calabarzon, Philippines",
+    "placetype":"locality",
+    "woe:id":1199426,
+    "woe:name":"Magdalena, Calabarzon, Philippines",
+    "woe:place_id":"c78XgiSYAJVusoh5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.408539,14.183038,121.435745,14.204815],
+  "geometry": {"alpha":0.00015,"bbox":[121.40853881836,14.183037757874,121.43574523926,14.204814910889],"coordinates":[[[[121.434113,14.200654],[121.427956,14.183038],[121.428665,14.198],[121.408539,14.204815],[121.431198,14.203567],[121.435745,14.202069],[121.434113,14.200654]]]],"created":1292542215,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/1199426_20101216_cc83934f41.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

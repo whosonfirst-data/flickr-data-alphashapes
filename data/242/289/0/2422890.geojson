@@ -1,0 +1,15 @@
+{
+  "id": 2422890,
+  "type": "Feature",
+  "properties": {
+    "name":"Holbrook, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2422890,
+    "woe:name":"Holbrook, Pennsylvania, United States",
+    "woe:place_id":"Ttu7CK2bBZ76uvKp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.345779,39.807621,-80.332375,39.824818],
+  "geometry": {"alpha":0.00015,"bbox":[-80.345779418945,39.807621002197,-80.332374572754,39.824817657471],"coordinates":[[[[-80.345779,39.807621],[-80.337868,39.824818],[-80.336693,39.823952],[-80.333275,39.817867],[-80.332375,39.816116],[-80.345779,39.807621]]]],"created":1292528282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2422890_20101216_2f97f19607.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

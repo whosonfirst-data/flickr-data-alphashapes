@@ -1,0 +1,15 @@
+{
+  "id": 31711,
+  "type": "Feature",
+  "properties": {
+    "name":"Penn, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31711,
+    "woe:name":"Penn, England, United Kingdom",
+    "woe:place_id":"c5BbN_eaAJvu7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.687417,51.613647,-0.665187,51.632565],
+  "geometry": {"alpha":0.00015,"bbox":[-0.68741697072983,51.613647460938,-0.66518700122833,51.632564544678],"coordinates":[[[[-0.67744,51.631084],[-0.673942,51.632565],[-0.665187,51.619507],[-0.669565,51.613647],[-0.681924,51.617191],[-0.687417,51.630539],[-0.67744,51.631084]]]],"created":1292529650,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/31711_20101216_68d49eeca9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

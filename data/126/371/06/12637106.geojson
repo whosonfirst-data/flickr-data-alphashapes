@@ -1,0 +1,15 @@
+{
+  "id": 12637106,
+  "type": "Feature",
+  "properties": {
+    "name":"Angervilliers, France",
+    "placetype":"locality",
+    "woe:id":12637106,
+    "woe:name":"Angervilliers, France",
+    "woe:place_id":"X3YffPqYA5rhfY5Slw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.062339,48.5891,2.069549,48.594067],
+  "geometry": {"alpha":1e-05,"bbox":[2.0623390674591,48.589099884033,2.0695490837097,48.594066619873],"coordinates":[[[[2.063713,48.590801],[2.062339,48.591824],[2.063047,48.594067],[2.067146,48.591938],[2.069549,48.5891],[2.064743,48.590572],[2.063713,48.590801]]]],"created":1292508064,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12637106_20101216_227860f754.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

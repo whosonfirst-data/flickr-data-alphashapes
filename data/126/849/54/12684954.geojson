@@ -1,0 +1,15 @@
+{
+  "id": 12684954,
+  "type": "Feature",
+  "properties": {
+    "name":"Schupfart, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684954,
+    "woe:name":"Schupfart, Switzerland",
+    "woe:place_id":"maNEKzmYA5rEPvHiKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.949638,47.507832,7.956182,47.511749],
+  "geometry": {"alpha":1e-05,"bbox":[7.9496378898621,47.507831573486,7.9561820030212,47.511749267578],"coordinates":[[[[7.949638,47.509026],[7.952942,47.511749],[7.956182,47.507832],[7.950668,47.508503],[7.950453,47.508228],[7.949681,47.507896],[7.949638,47.509026]]]],"created":1292533417,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12684954_20101216_1b082ed572.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

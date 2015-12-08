@@ -1,0 +1,15 @@
+{
+  "id": 769185,
+  "type": "Feature",
+  "properties": {
+    "name":"Pajaritos, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":769185,
+    "woe:name":"Pajaritos, Galicia, Spain",
+    "woe:place_id":"lE5Lj3ueB5WCr84",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.051704,42.857719,-9.039688,42.865837],
+  "geometry": {"alpha":0.00015,"bbox":[-9.0517044067383,42.857719421387,-9.0396881103516,42.865837097168],"coordinates":[[[[-9.046726,42.865837],[-9.042134,42.863888],[-9.039688,42.860867],[-9.040374,42.858727],[-9.051704,42.857719],[-9.046726,42.865837]]]],"created":1292453711,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/769185_20101215_2648bb9c83.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

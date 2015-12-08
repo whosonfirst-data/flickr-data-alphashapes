@@ -1,0 +1,15 @@
+{
+  "id": 2450936,
+  "type": "Feature",
+  "properties": {
+    "name":"Milesburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2450936,
+    "woe:name":"Milesburg, Pennsylvania, United States",
+    "woe:place_id":"INBNh5ybBZkZ6ztD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.803375,40.931427,-77.785522,40.942497],
+  "geometry": {"alpha":0.00015,"bbox":[-77.803375244141,40.931427001953,-77.785522460938,40.942497253418],"coordinates":[[[[-77.797966,40.942497],[-77.785561,40.941879],[-77.785522,40.931427],[-77.803375,40.940212],[-77.797966,40.942497]]]],"created":1292527504,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2450936_20101216_db1077ce1e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

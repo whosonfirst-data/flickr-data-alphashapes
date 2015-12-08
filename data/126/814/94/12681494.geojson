@@ -1,0 +1,15 @@
+{
+  "id": 12681494,
+  "type": "Feature",
+  "properties": {
+    "name":"Rotello, Italy",
+    "placetype":"locality",
+    "woe:id":12681494,
+    "woe:name":"Rotello, Italy",
+    "woe:place_id":"OSmLbbGYA5qinT5miw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.002174,41.747524,15.006122,41.747749],
+  "geometry": {"alpha":1e-05,"bbox":[15.002174377441,41.747524261475,15.006121635437,41.747749328613],"coordinates":[[[[15.005972,41.747524],[15.004996,41.747566],[15.002174,41.747749],[15.004888,41.747665],[15.006122,41.747566],[15.005972,41.747524]]]],"created":1292452118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12681494_20101215_fac2da8228.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

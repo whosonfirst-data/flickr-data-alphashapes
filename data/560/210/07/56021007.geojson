@@ -1,0 +1,15 @@
+{
+  "id": 56021007,
+  "type": "Feature",
+  "properties": {
+    "name":"City Center, Des Moines, IA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":56021007,
+    "woe:name":"City Center, Des Moines, IA, US, United States",
+    "woe:place_id":"gy.quMKcB5z3vO5aVw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-93.621498,41.585911,-93.610725,41.591469],
+  "geometry": {"alpha":1e-05,"bbox":[-93.62149810791,41.585910797119,-93.610725402832,41.591468811035],"coordinates":[[[[-93.617508,41.58823],[-93.618164,41.589184],[-93.621117,41.59026],[-93.62149,41.59087],[-93.621498,41.591057],[-93.619652,41.591469],[-93.617249,41.59079],[-93.615448,41.591152],[-93.614044,41.590111],[-93.613503,41.589664],[-93.611366,41.588364],[-93.610725,41.586437],[-93.610748,41.58643],[-93.613373,41.585911],[-93.616028,41.586971],[-93.617165,41.587715],[-93.617508,41.58823]]]],"created":1292449108,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/56021007_20101215_b0a3f31fa4.tar.gz"},"points":78,"type":"MultiPolygon"}
+}

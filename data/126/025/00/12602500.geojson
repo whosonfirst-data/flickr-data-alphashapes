@@ -1,0 +1,15 @@
+{
+  "id": 12602500,
+  "type": "Feature",
+  "properties": {
+    "name":"Zele, Belgium",
+    "placetype":"locality",
+    "woe:id":12602500,
+    "woe:name":"Zele, Belgium",
+    "woe:place_id":"Q0MAA4CYA5r3sbNO8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.0277,51.065102,4.029278,51.067398],
+  "geometry": {"alpha":1e-05,"bbox":[4.0276999473572,51.065101623535,4.0292778015137,51.067398071289],"coordinates":[[[[4.0277,51.065399],[4.028205,51.066536],[4.029278,51.067398],[4.028377,51.065228],[4.028,51.065102],[4.0277,51.065399]]]],"created":1292545724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12602500_20101217_4a8e9750d4.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

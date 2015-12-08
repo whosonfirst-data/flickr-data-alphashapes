@@ -1,0 +1,15 @@
+{
+  "id": 20223166,
+  "type": "Feature",
+  "properties": {
+    "name":"Gerbe, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":20223166,
+    "woe:name":"Gerbe, Aragon, Spain",
+    "woe:place_id":"5hXy5jqbAZ7Uclmoag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.179901,42.383781,0.196552,42.395096],
+  "geometry": {"alpha":0.00015,"bbox":[0.17990100383759,42.383781433105,0.19655199348927,42.395095825195],"coordinates":[[[[0.188827,42.384163],[0.186338,42.383781],[0.179901,42.389488],[0.186252,42.389549],[0.196552,42.395096],[0.188827,42.384163]]]],"created":1292445619,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20223166_20101215_aa71c4b4a6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

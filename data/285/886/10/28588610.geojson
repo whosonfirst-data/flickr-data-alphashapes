@@ -1,0 +1,15 @@
+{
+  "id": 28588610,
+  "type": "Feature",
+  "properties": {
+    "name":"Freshwater Point, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28588610,
+    "woe:name":"Freshwater Point, Queensland, Australia",
+    "woe:place_id":"2w1HSkGbCZmShdoiKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.298706,-21.391705,149.314835,-21.385111],
+  "geometry": {"alpha":0.00015,"bbox":[149.29870605469,-21.391704559326,149.31483459473,-21.385110855103],"coordinates":[[[[149.314835,-21.38707],[149.314835,-21.387388],[149.31192,-21.391544],[149.298706,-21.391705],[149.311661,-21.385111],[149.314835,-21.38707]]]],"created":1292514725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/28588610_20101216_0723cd4a47.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

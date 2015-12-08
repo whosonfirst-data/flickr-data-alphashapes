@@ -1,0 +1,15 @@
+{
+  "id": 161795,
+  "type": "Feature",
+  "properties": {
+    "name":"Vazquez, Salinas, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":161795,
+    "woe:name":"Vazquez, Salinas, Puerto Rico",
+    "woe:place_id":"JUWLY1eYB52soFc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.223053,18.062801,-66.200836,18.092665],
+  "geometry": {"alpha":0.00015,"bbox":[-66.223052978516,18.062801361084,-66.200836181641,18.092664718628],"coordinates":[[[[-66.220009,18.079325],[-66.205673,18.092665],[-66.200836,18.083666],[-66.218216,18.069799],[-66.218307,18.069422],[-66.223053,18.062801],[-66.220009,18.079325]]]],"created":1292510409,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/161795_20101216_ec9d088081.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12630712,
+  "type": "Feature",
+  "properties": {
+    "name":"Boizenburg/elbe, Germany",
+    "placetype":"locality",
+    "woe:id":12630712,
+    "woe:name":"Boizenburg/elbe, Germany",
+    "woe:place_id":"TL3L0i6YA5r3.HiYOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.722312,53.379002,10.723833,53.379436],
+  "geometry": {"alpha":1e-05,"bbox":[10.722311973572,53.379001617432,10.723833084106,53.37943649292],"coordinates":[[[[10.722833,53.379002],[10.722312,53.379436],[10.723833,53.379333],[10.723833,53.379166],[10.722833,53.379002]]]],"created":1248158053,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2450/shapefiles/12630712_20090721_43f4b8a709.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

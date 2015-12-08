@@ -1,0 +1,15 @@
+{
+  "id": 28584539,
+  "type": "Feature",
+  "properties": {
+    "name":"Cleland, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":28584539,
+    "woe:name":"Cleland, South Australia, Australia",
+    "woe:place_id":"6bLI6xKbCZlUDtzFCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.702728,-34.974506,138.717911,-34.959904],
+  "geometry": {"alpha":0.00015,"bbox":[138.70272827148,-34.974506378174,138.7179107666,-34.959903717041],"coordinates":[[[[138.709457,-34.974506],[138.702728,-34.973328],[138.714188,-34.959904],[138.717911,-34.967571],[138.717834,-34.970161],[138.715744,-34.971237],[138.709457,-34.974506]]]],"created":1292526723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/28584539_20101216_b3080771b2.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28339748,
+  "type": "Feature",
+  "properties": {
+    "name":"Bar Harbor, New York, United States",
+    "placetype":"locality",
+    "woe:id":28339748,
+    "woe:name":"Bar Harbor, New York, United States",
+    "woe:place_id":"fJHCRNGbCZ_LU_yv6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.462273,40.679466,-73.444229,40.691376],
+  "geometry": {"alpha":0.00015,"bbox":[-73.462272644043,40.679466247559,-73.444229125977,40.691375732422],"coordinates":[[[[-73.448517,40.68145],[-73.456818,40.679466],[-73.462273,40.679676],[-73.45562,40.680897],[-73.446434,40.691376],[-73.444458,40.685326],[-73.444229,40.682789],[-73.448517,40.68145]]]],"created":1248189849,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3452/shapefiles/28339748_20090721_02db1cd0c1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

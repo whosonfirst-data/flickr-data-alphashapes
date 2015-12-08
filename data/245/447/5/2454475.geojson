@@ -1,0 +1,15 @@
+{
+  "id": 2454475,
+  "type": "Feature",
+  "properties": {
+    "name":"Moscow, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2454475,
+    "woe:name":"Moscow, Michigan, United States",
+    "woe:place_id":"ZoeKbM.bBZmsBbgM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.475403,42.062897,-84.463326,42.085293],
+  "geometry": {"alpha":0.00015,"bbox":[-84.475402832031,42.062896728516,-84.463325500488,42.085292816162],"coordinates":[[[[-84.463585,42.08437],[-84.463326,42.083454],[-84.475403,42.062897],[-84.469475,42.085293],[-84.464302,42.084332],[-84.463585,42.08437]]]],"created":1292477827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2454475_20101216_c159055345.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

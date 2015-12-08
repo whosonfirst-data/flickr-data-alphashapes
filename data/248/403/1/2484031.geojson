@@ -1,0 +1,15 @@
+{
+  "id": 2484031,
+  "type": "Feature",
+  "properties": {
+    "name":"Rolla, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2484031,
+    "woe:name":"Rolla, North Dakota, United States",
+    "woe:place_id":"LU6VxBKbBZTs_mhI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.626427,48.852955,-99.603592,48.864487],
+  "geometry": {"alpha":0.00015,"bbox":[-99.626426696777,48.852954864502,-99.603591918945,48.864486694336],"coordinates":[[[[-99.613937,48.855679],[-99.626427,48.864487],[-99.616173,48.860237],[-99.603592,48.863979],[-99.613144,48.852955],[-99.613937,48.855679]]]],"created":1292460545,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2484031_20101216_3154f1f2ef.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

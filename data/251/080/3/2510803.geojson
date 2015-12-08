@@ -1,0 +1,15 @@
+{
+  "id": 2510803,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley Falls, New York, United States",
+    "placetype":"locality",
+    "woe:id":2510803,
+    "woe:name":"Valley Falls, New York, United States",
+    "woe:place_id":"q57nnBqbBJ3iSvJl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.563629,42.89994,-73.562263,42.904346],
+  "geometry": {"alpha":0.00015,"bbox":[-73.563629150391,42.899940490723,-73.56226348877,42.904346466064],"coordinates":[[[[-73.5625,42.90345],[-73.562263,42.901321],[-73.562561,42.89994],[-73.563629,42.904346],[-73.5625,42.90345]]]],"created":1292537409,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2510803_20101216_84fcd98e0e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

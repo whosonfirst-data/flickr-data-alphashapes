@@ -1,0 +1,15 @@
+{
+  "id": 12653282,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Vallerin, France",
+    "placetype":"locality",
+    "woe:id":12653282,
+    "woe:name":"St.-Vallerin, France",
+    "woe:place_id":"NB7z2dqYA5qYeKZjJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.658374,46.684658,4.664897,46.689133],
+  "geometry": {"alpha":1e-05,"bbox":[4.6583738327026,46.684658050537,4.6648969650269,46.68913269043],"coordinates":[[[[4.658374,46.687897],[4.658374,46.689133],[4.659233,46.688366],[4.664897,46.687424],[4.660434,46.684658],[4.658374,46.687897]]]],"created":1292449018,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12653282_20101215_fa26a903ec.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

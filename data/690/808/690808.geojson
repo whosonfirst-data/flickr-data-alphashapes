@@ -1,0 +1,15 @@
+{
+  "id": 690808,
+  "type": "Feature",
+  "properties": {
+    "name":"Sallern, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":690808,
+    "woe:name":"Sallern, Bavaria, Germany",
+    "woe:place_id":"yG7DFxyfCJzMKcU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.100496,49.029751,12.10247,49.034824],
+  "geometry": {"alpha":0.00015,"bbox":[12.100496292114,49.029750823975,12.102470397949,49.034824371338],"coordinates":[[[[12.101416,49.034824],[12.10247,49.033928],[12.102341,49.033421],[12.102105,49.032452],[12.100625,49.029751],[12.100496,49.032604],[12.101416,49.034824]]]],"created":1292456025,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/690808_20101215_7cac09c59e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

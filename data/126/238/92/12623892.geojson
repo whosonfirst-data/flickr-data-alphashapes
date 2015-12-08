@@ -1,0 +1,15 @@
+{
+  "id": 12623892,
+  "type": "Feature",
+  "properties": {
+    "name":"Karlsdorf-neuthard, Germany",
+    "placetype":"locality",
+    "woe:id":12623892,
+    "woe:name":"Karlsdorf-neuthard, Germany",
+    "woe:place_id":"tePdUAWYA5qoy6ZUTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.548092,49.143833,8.551826,49.148479],
+  "geometry": {"alpha":1e-05,"bbox":[8.5480918884277,49.1438331604,8.5518255233765,49.14847946167],"coordinates":[[[[8.549423,49.148479],[8.551826,49.143833],[8.548865,49.143986],[8.548092,49.144226],[8.549423,49.148479]]]],"created":1292520082,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12623892_20101216_e3b9129cfe.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12124,
+  "type": "Feature",
+  "properties": {
+    "name":"Beach, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12124,
+    "woe:name":"Beach, Scotland, United Kingdom",
+    "woe:place_id":"3sgSOzWYA526Ww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.156463,56.336143,-6.098785,56.345753],
+  "geometry": {"alpha":0.000234375,"bbox":[-6.1564631462097,56.336143493652,-6.0987849235535,56.345752716064],"coordinates":[[[[-6.10385,56.343327],[-6.109259,56.341686],[-6.127967,56.342232],[-6.130199,56.340424],[-6.134276,56.34021],[-6.156463,56.336143],[-6.132774,56.345753],[-6.127967,56.342232],[-6.106512,56.338425],[-6.098785,56.337475],[-6.099128,56.339806],[-6.10385,56.343327]]]],"created":1292542824,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12124_20101216_4800913baa.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

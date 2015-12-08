@@ -1,0 +1,15 @@
+{
+  "id": 332520,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro, Jujuy, Argentina",
+    "placetype":"locality",
+    "woe:id":332520,
+    "woe:name":"San Pedro, Jujuy, Argentina",
+    "woe:place_id":"AmC9M0iaAp53HDM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.874611,-24.233503,-64.849548,-24.199373],
+  "geometry": {"alpha":0.00015,"bbox":[-64.874610900879,-24.233503341675,-64.849548339844,-24.199373245239],"coordinates":[[[[-64.870834,-24.216284],[-64.865852,-24.214327],[-64.849548,-24.199373],[-64.858643,-24.217379],[-64.866631,-24.225206],[-64.867401,-24.228102],[-64.874611,-24.233503],[-64.870491,-24.2173],[-64.870834,-24.216284]]]],"created":1292527051,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/332520_20101216_4c038baf8f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

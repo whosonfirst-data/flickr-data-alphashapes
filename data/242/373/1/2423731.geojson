@@ -1,0 +1,15 @@
+{
+  "id": 2423731,
+  "type": "Feature",
+  "properties": {
+    "name":"Homer, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2423731,
+    "woe:name":"Homer, Louisiana, United States",
+    "woe:place_id":"IOaIKACbBZ4XojOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.071877,32.791573,-93.0532,32.797737],
+  "geometry": {"alpha":0.00015,"bbox":[-93.071876525879,32.791572570801,-93.053199768066,32.797737121582],"coordinates":[[[[-93.055397,32.791637],[-93.055557,32.791573],[-93.055916,32.791603],[-93.059113,32.794994],[-93.071877,32.797737],[-93.05616,32.796844],[-93.0532,32.792786],[-93.055397,32.791637]]]],"created":1239542289,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3619/shapefiles/2423731_20090412_1b3b72d5a0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

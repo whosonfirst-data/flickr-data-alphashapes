@@ -1,0 +1,15 @@
+{
+  "id": 28586071,
+  "type": "Feature",
+  "properties": {
+    "name":"Medway, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28586071,
+    "woe:name":"Medway, New South Wales, Australia",
+    "woe:place_id":"GlTDeP2bCZk8yh15kA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.290665,-34.498352,150.314514,-34.476276],
+  "geometry": {"alpha":0.00015,"bbox":[150.29066467285,-34.498352050781,150.31451416016,-34.476276397705],"coordinates":[[[[150.290665,-34.493668],[150.290665,-34.4935],[150.299728,-34.490833],[150.314514,-34.476276],[150.306702,-34.498352],[150.290833,-34.493835],[150.290665,-34.493668]]]],"created":1292543187,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/28586071_20101216_ff55829637.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

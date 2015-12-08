@@ -1,0 +1,15 @@
+{
+  "id": 55965542,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vallesa II, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":55965542,
+    "woe:name":"La Vallesa II, Valencia, Spain",
+    "woe:place_id":".XovLFecBJXsz0xDKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.066175,38.661987,0.0685,38.662514],
+  "geometry": {"alpha":0.00015,"bbox":[0.066174998879433,38.661987304688,0.068499997258186,38.66251373291],"coordinates":[[[[0.06837,38.66251],[0.068402,38.662514],[0.0685,38.662498],[0.066175,38.661987],[0.068333,38.662498],[0.06837,38.66251]]]],"created":1292532378,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/55965542_20101216_eeef8a4eb3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

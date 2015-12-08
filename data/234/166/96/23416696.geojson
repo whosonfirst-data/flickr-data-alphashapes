@@ -1,0 +1,15 @@
+{
+  "id": 23416696,
+  "type": "Feature",
+  "properties": {
+    "name":"Kolonie, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":23416696,
+    "woe:name":"Kolonie, Brandenburg, Germany",
+    "woe:place_id":"tq7GLkybAphHscn9sQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.926101,53.186134,12.937259,53.197281],
+  "geometry": {"alpha":0.00015,"bbox":[12.926100730896,53.186134338379,12.937258720398,53.197280883789],"coordinates":[[[[12.935748,53.197273],[12.937259,53.186134],[12.926101,53.192665],[12.930049,53.196728],[12.934258,53.197136],[12.935743,53.197281],[12.935748,53.197273]]]],"created":1292463062,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/23416696_20101216_332d69f082.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20141522,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marcellino, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":20141522,
+    "woe:name":"San Marcellino, Campania, Italy",
+    "woe:place_id":"0.UC5febAZ0yLMMtkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.164166,40.970013,14.183006,40.986164],
+  "geometry": {"alpha":0.00015,"bbox":[14.1641664505,40.970012664795,14.183006286621,40.986164093018],"coordinates":[[[[14.183006,40.978439],[14.179723,40.97324],[14.174095,40.970013],[14.164166,40.976543],[14.170904,40.986164],[14.183006,40.978439]]]],"created":1292517767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20141522_20101216_2abcb0d2f3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

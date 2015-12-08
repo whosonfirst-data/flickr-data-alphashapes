@@ -1,0 +1,15 @@
+{
+  "id": 758029,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pelayo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":758029,
+    "woe:name":"San Pelayo, Galicia, Spain",
+    "woe:place_id":"ZpLcQ3OeBJQJpzU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.753013,43.210491,-8.743743,43.215183],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7530126571655,43.21049118042,-8.7437429428101,43.215183258057],"coordinates":[[[[-8.74649,43.215183],[-8.743743,43.211681],[-8.745117,43.211933],[-8.753013,43.210491],[-8.747434,43.214245],[-8.74649,43.215183]]]],"created":1292443863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/758029_20101215_78b53e2dc8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

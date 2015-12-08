@@ -1,0 +1,15 @@
+{
+  "id": 2395148,
+  "type": "Feature",
+  "properties": {
+    "name":"Eagleville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2395148,
+    "woe:name":"Eagleville, Missouri, United States",
+    "woe:place_id":"hVCBIuebApWS4wLt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.99099,40.462605,-93.976807,40.470333],
+  "geometry": {"alpha":0.00015,"bbox":[-93.990989685059,40.462604522705,-93.976806640625,40.470333099365],"coordinates":[[[[-93.99099,40.470333],[-93.988861,40.469662],[-93.98735,40.467575],[-93.976807,40.462605],[-93.986481,40.466003],[-93.99099,40.470333]]]],"created":1292517509,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2395148_20101216_0867cf3b79.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

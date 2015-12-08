@@ -1,0 +1,15 @@
+{
+  "id": 2496865,
+  "type": "Feature",
+  "properties": {
+    "name":"South View Acres, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2496865,
+    "woe:name":"South View Acres, Pennsylvania, United States",
+    "woe:place_id":"559M5VWbBZXTF2.C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.692917,39.908287,-76.689308,39.914707],
+  "geometry": {"alpha":0.00015,"bbox":[-76.692916870117,39.90828704834,-76.689308166504,39.914707183838],"coordinates":[[[[-76.689545,39.914707],[-76.689308,39.9147],[-76.689346,39.914497],[-76.691864,39.908287],[-76.692917,39.909355],[-76.689545,39.914707]]]],"created":1292535335,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2496865_20101216_6055bf6c2a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

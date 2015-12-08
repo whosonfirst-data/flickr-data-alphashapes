@@ -1,0 +1,15 @@
+{
+  "id": 24544203,
+  "type": "Feature",
+  "properties": {
+    "name":"Theodoros Ziakas, Greece",
+    "placetype":"locality",
+    "woe:id":24544203,
+    "woe:name":"Theodoros Ziakas, Greece",
+    "woe:place_id":"DA6PJN6bBZnQNJcAwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.283951,40.004192,21.286177,40.01059],
+  "geometry": {"alpha":1e-05,"bbox":[21.283950805664,40.004192352295,21.286176681519,40.010589599609],"coordinates":[[[[21.284988,40.004192],[21.283951,40.005001],[21.284294,40.01059],[21.286177,40.004944],[21.285707,40.004486],[21.284988,40.004192]]]],"created":1292527782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/24544203_20101216_5f1d7f1f3a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

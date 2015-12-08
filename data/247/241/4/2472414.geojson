@@ -1,0 +1,15 @@
+{
+  "id": 2472414,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Swamp Corner, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2472414,
+    "woe:name":"Pine Swamp Corner, Delaware, United States",
+    "woe:place_id":"OIFnZDGbBZvpuKlj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.684387,39.675613,-75.680267,39.676579],
+  "geometry": {"alpha":0.00015,"bbox":[-75.684387207031,39.67561340332,-75.680267333984,39.676578521729],"coordinates":[[[[-75.684151,39.675922],[-75.684387,39.676579],[-75.680267,39.675747],[-75.682068,39.675613],[-75.684044,39.675842],[-75.684151,39.675922]]]],"created":1292539476,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2472414_20101216_0228d1e898.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

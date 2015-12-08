@@ -1,0 +1,15 @@
+{
+  "id": 2352317,
+  "type": "Feature",
+  "properties": {
+    "name":"Ahsahka, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2352317,
+    "woe:name":"Ahsahka, Idaho, United States",
+    "woe:place_id":"7tYmflWbApnWDlIU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.349358,46.499874,-116.314575,46.513927],
+  "geometry": {"alpha":0.00015,"bbox":[-116.34935760498,46.49987411499,-116.31457519531,46.513927459717],"coordinates":[[[[-116.326546,46.505276],[-116.314575,46.499874],[-116.330879,46.502869],[-116.349358,46.505325],[-116.331398,46.513927],[-116.326546,46.505276]]]],"created":1248103097,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2620/shapefiles/2352317_20090720_c7b326c4f4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

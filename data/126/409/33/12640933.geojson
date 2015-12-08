@@ -1,0 +1,15 @@
+{
+  "id": 12640933,
+  "type": "Feature",
+  "properties": {
+    "name":"Champeix, France",
+    "placetype":"locality",
+    "woe:id":12640933,
+    "woe:name":"Champeix, France",
+    "woe:place_id":"wMP83SqYA5o2tDddkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.124677,45.585873,3.128957,45.589775],
+  "geometry": {"alpha":1e-05,"bbox":[3.1246769428253,45.585872650146,3.1289570331573,45.589775085449],"coordinates":[[[[3.124677,45.586044],[3.125824,45.586666],[3.12767,45.589775],[3.128871,45.588154],[3.128957,45.585873],[3.126382,45.586563],[3.124677,45.586044]]]],"created":1292479203,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12640933_20101216_cc18ea374c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

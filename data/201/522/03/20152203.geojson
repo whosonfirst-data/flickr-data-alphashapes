@@ -1,0 +1,15 @@
+{
+  "id": 20152203,
+  "type": "Feature",
+  "properties": {
+    "name":"Loithal, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20152203,
+    "woe:name":"Loithal, Bavaria, Germany",
+    "woe:place_id":"fuhX4ASbAZ3Hcyrgaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.823972,47.821011,12.826702,47.823112],
+  "geometry": {"alpha":0.00015,"bbox":[12.823971748352,47.8210105896,12.82670211792,47.823112487793],"coordinates":[[[[12.825036,47.822346],[12.826702,47.821011],[12.825708,47.82172],[12.825388,47.821999],[12.823972,47.823112],[12.825036,47.822346]]]],"created":1292488444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20152203_20101216_ab76d6dd69.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

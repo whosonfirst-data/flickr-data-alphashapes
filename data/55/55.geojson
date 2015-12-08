@@ -1,0 +1,15 @@
+{
+  "id": 55,
+  "type": "Feature",
+  "properties": {
+    "name":"Baine Harbour, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":55,
+    "woe:name":"Baine Harbour, Newfoundland and Labrador, Canada",
+    "woe:place_id":"_b4_c.icBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-54.899368,47.359409,-54.882374,47.364494],
+  "geometry": {"alpha":0.00015,"bbox":[-54.899368286133,47.359409332275,-54.882373809814,47.36449432373],"coordinates":[[[[-54.888382,47.361183],[-54.895935,47.359409],[-54.899368,47.361385],[-54.887951,47.362926],[-54.882374,47.364494],[-54.884518,47.361153],[-54.888382,47.361183]]]],"created":1292458107,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/55_20101216_bb0e9793ee.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

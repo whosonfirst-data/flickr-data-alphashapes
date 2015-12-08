@@ -1,0 +1,15 @@
+{
+  "id": 2509210,
+  "type": "Feature",
+  "properties": {
+    "name":"Twin Poplars, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2509210,
+    "woe:name":"Twin Poplars, Virginia, United States",
+    "woe:place_id":"pfIIXZmbBJxD0EpZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.831711,37.860149,-78.830391,37.86171],
+  "geometry": {"alpha":0.00015,"bbox":[-78.83171081543,37.860149383545,-78.830390930176,37.861709594727],"coordinates":[[[[-78.831535,37.860691],[-78.83168,37.860947],[-78.831711,37.86171],[-78.830391,37.860176],[-78.830673,37.860149],[-78.831535,37.860691]]]],"created":1234734971,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3398/shapefiles/2509210_20090215_5136ed30f6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

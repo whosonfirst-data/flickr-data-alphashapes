@@ -1,0 +1,15 @@
+{
+  "id": 2483112,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Glen, New York, United States",
+    "placetype":"locality",
+    "woe:id":2483112,
+    "woe:name":"Rock Glen, New York, United States",
+    "woe:place_id":"VpMESSibBZSjRiMd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.178261,42.685345,-78.177704,42.68618],
+  "geometry": {"alpha":0.00015,"bbox":[-78.178260803223,42.685344696045,-78.177703857422,42.686180114746],"coordinates":[[[[-78.177704,42.685436],[-78.177704,42.685406],[-78.177879,42.685345],[-78.178223,42.685959],[-78.178261,42.686085],[-78.177963,42.68618],[-78.177704,42.685436]]]],"created":1292500988,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2483112_20101216_18c386c17d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

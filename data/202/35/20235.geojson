@@ -1,0 +1,15 @@
+{
+  "id": 20235,
+  "type": "Feature",
+  "properties": {
+    "name":"Fishersgate, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20235,
+    "woe:name":"Fishersgate, England, United Kingdom",
+    "woe:place_id":"NFQZ9mibAZ6vtA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.234661,50.822365,-0.217323,50.832829],
+  "geometry": {"alpha":0.00015,"bbox":[-0.23466099798679,50.822364807129,-0.21732300519943,50.832828521729],"coordinates":[[[[-0.2217,50.828491],[-0.223052,50.827625],[-0.234661,50.822365],[-0.229682,50.828655],[-0.224533,50.831963],[-0.217323,50.832829],[-0.2217,50.828491]]]],"created":1292544809,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20235_20101217_4a0015180f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2472425,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Top, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2472425,
+    "woe:name":"Pine Top, Tennessee, United States",
+    "woe:place_id":"_boQvLWbBZuZQsQJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.88475,35.344753,-88.883087,35.347179],
+  "geometry": {"alpha":0.00015,"bbox":[-88.884750366211,35.344753265381,-88.883087158203,35.347179412842],"coordinates":[[[[-88.88475,35.346275],[-88.883652,35.346935],[-88.883087,35.347179],[-88.883575,35.345985],[-88.884071,35.344753],[-88.88475,35.346275]]]],"created":1292422083,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2472425_20101215_2f3a3a9052.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

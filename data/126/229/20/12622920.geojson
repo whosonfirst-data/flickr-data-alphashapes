@@ -1,0 +1,15 @@
+{
+  "id": 12622920,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Tiefenbach, Germany",
+    "placetype":"locality",
+    "woe:id":12622920,
+    "woe:name":"Gemeinde Tiefenbach, Germany",
+    "woe:place_id":"rrVXX36YA5oCk.mrwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.129002,48.516895,12.134217,48.522041],
+  "geometry": {"alpha":1e-05,"bbox":[12.129001617432,48.516895294189,12.134217262268,48.522041320801],"coordinates":[[[[12.133401,48.522041],[12.134217,48.520279],[12.133337,48.516895],[12.129002,48.517605],[12.131234,48.519844],[12.133401,48.522041]]]],"created":1247767683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2462/shapefiles/12622920_20090716_c64ef87e59.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

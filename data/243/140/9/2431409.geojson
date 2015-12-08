@@ -1,0 +1,15 @@
+{
+  "id": 2431409,
+  "type": "Feature",
+  "properties": {
+    "name":"Kendall, New York, United States",
+    "placetype":"locality",
+    "woe:id":2431409,
+    "woe:name":"Kendall, New York, United States",
+    "woe:place_id":"HaHJKqKbBZ9s6kJJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.978706,43.367558,-77.977295,43.368366],
+  "geometry": {"alpha":0.00015,"bbox":[-77.978706359863,43.367557525635,-77.977294921875,43.368366241455],"coordinates":[[[[-77.978638,43.368366],[-77.977295,43.368271],[-77.978638,43.367558],[-77.978706,43.368317],[-77.978638,43.368366]]]],"created":1292541666,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2431409_20101216_64c30af92f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 85116,
+  "type": "Feature",
+  "properties": {
+    "name":"Playa Grande, Quiche, Guatemala",
+    "placetype":"locality",
+    "woe:id":85116,
+    "woe:name":"Playa Grande, Quiche, Guatemala",
+    "woe:place_id":"QpUn50uRBJ10Zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.683037,15.915194,-90.670166,15.943173],
+  "geometry": {"alpha":0.00015,"bbox":[-90.683036804199,15.915193557739,-90.670166015625,15.943173408508],"coordinates":[[[[-90.670166,15.929638],[-90.683037,15.915194],[-90.671539,15.930628],[-90.674286,15.943173],[-90.670166,15.929638]]]],"created":1292491264,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/85116_20101216_6448f675bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

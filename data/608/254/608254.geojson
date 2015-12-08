@@ -1,0 +1,15 @@
+{
+  "id": 608254,
+  "type": "Feature",
+  "properties": {
+    "name":"Lissac, Limousin, France",
+    "placetype":"locality",
+    "woe:id":608254,
+    "woe:name":"Lissac, Limousin, France",
+    "woe:place_id":"VEFRCeWfAZRPn30",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.457233,45.099457,1.461095,45.103745],
+  "geometry": {"alpha":0.00015,"bbox":[1.4572329521179,45.099456787109,1.4610949754715,45.103744506836],"coordinates":[[[[1.460452,45.103745],[1.461095,45.102547],[1.460666,45.099457],[1.459765,45.099747],[1.457233,45.101639],[1.460452,45.103745]]]],"created":1292528888,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/608254_20101216_d1287100b2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

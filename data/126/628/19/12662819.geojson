@@ -1,0 +1,15 @@
+{
+  "id": 12662819,
+  "type": "Feature",
+  "properties": {
+    "name":"Holving, France",
+    "placetype":"locality",
+    "woe:id":12662819,
+    "woe:name":"Holving, France",
+    "woe:place_id":"cpmKPSCYA5qelbhczQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.948165,49.008598,6.952629,49.010628],
+  "geometry": {"alpha":1e-05,"bbox":[6.9481649398804,49.008598327637,6.9526290893555,49.010627746582],"coordinates":[[[[6.949968,49.008598],[6.949539,49.009388],[6.948165,49.010628],[6.950225,49.009727],[6.952629,49.00967],[6.949968,49.008598]]]],"created":1292452118,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12662819_20101215_95576848a5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

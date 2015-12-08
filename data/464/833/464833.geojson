@@ -1,0 +1,15 @@
+{
+  "id": 464833,
+  "type": "Feature",
+  "properties": {
+    "name":"Bosques, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":464833,
+    "woe:name":"Bosques, Buenos Aires, Argentina",
+    "woe:place_id":"m8WMniGdB5hc1qE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.276279,-34.810802,-58.265484,-34.805973],
+  "geometry": {"alpha":0.00015,"bbox":[-58.276279449463,-34.810802459717,-58.265483856201,-34.805973052979],"coordinates":[[[[-58.276279,-34.805973],[-58.273529,-34.806587],[-58.265484,-34.810802],[-58.273479,-34.806648],[-58.276279,-34.805973]]]],"created":1292525042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/464833_20101216_3ae5df4105.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

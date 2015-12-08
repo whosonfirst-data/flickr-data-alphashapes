@@ -1,0 +1,15 @@
+{
+  "id": 2381423,
+  "type": "Feature",
+  "properties": {
+    "name":"Clermont, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2381423,
+    "woe:name":"Clermont, Iowa, United States",
+    "woe:place_id":"5T4xIDWbApS.qS_d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.675415,42.996109,-91.648315,43.009064],
+  "geometry": {"alpha":0.00015,"bbox":[-91.675415039062,42.996109008789,-91.648315429688,43.009063720703],"coordinates":[[[[-91.655716,42.996189],[-91.675415,42.996109],[-91.655548,43.002232],[-91.648315,43.009064],[-91.652809,43.000496],[-91.655716,42.996189]]]],"created":1292532063,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2381423_20101216_e5cc5a75b0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

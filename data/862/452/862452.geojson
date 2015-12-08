@@ -1,0 +1,15 @@
+{
+  "id": 862452,
+  "type": "Feature",
+  "properties": {
+    "name":"Olderfjord, Finnmark Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":862452,
+    "woe:name":"Olderfjord, Finnmark Fylke, Norway",
+    "woe:place_id":"dds7npiRB54HCxo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.069471,70.472145,25.073332,70.475136],
+  "geometry": {"alpha":0.00015,"bbox":[25.069471359253,70.472145080566,25.073331832886,70.475135803223],"coordinates":[[[[25.070801,70.474068],[25.069471,70.475136],[25.072111,70.473747],[25.073071,70.472672],[25.073332,70.472145],[25.070801,70.474068]]]],"created":1292492648,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/862452_20101216_91bb9c3dfc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2468033,
+  "type": "Feature",
+  "properties": {
+    "name":"Pantertown, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2468033,
+    "woe:name":"Pantertown, Georgia, United States",
+    "woe:place_id":"tu5IuPObBZqbRYWm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.323341,34.988148,-84.318695,34.990425],
+  "geometry": {"alpha":0.00015,"bbox":[-84.323341369629,34.988147735596,-84.318695068359,34.990425109863],"coordinates":[[[[-84.321754,34.988148],[-84.322052,34.988388],[-84.323341,34.990425],[-84.318695,34.988503],[-84.319809,34.98843],[-84.321754,34.988148]]]],"created":1292440927,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2468033_20101215_926eb4d91f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 142556,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Tabasco, Mexico",
+    "placetype":"locality",
+    "woe:id":142556,
+    "woe:name":"San Francisco, Tabasco, Mexico",
+    "woe:place_id":"i0n91taYBZ5d9MQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.220284,18.275162,-93.202682,18.295698],
+  "geometry": {"alpha":0.00015,"bbox":[-93.220283508301,18.275161743164,-93.202682495117,18.295698165894],"coordinates":[[[[-93.202682,18.280785],[-93.203026,18.279642],[-93.214188,18.276464],[-93.216415,18.275568],[-93.220284,18.275162],[-93.212471,18.287386],[-93.211609,18.295698],[-93.202682,18.280785]]]],"created":1292520656,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/142556_20101216_2799c23cd8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

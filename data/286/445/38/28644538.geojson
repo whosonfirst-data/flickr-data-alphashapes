@@ -1,0 +1,15 @@
+{
+  "id": 28644538,
+  "type": "Feature",
+  "properties": {
+    "name":"Purau, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":28644538,
+    "woe:name":"Purau, Canterbury, New Zealand",
+    "woe:place_id":"h9UqsoqbCZrx6J4Edg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [172.801407,-43.592117,172.80719,-43.589531],
+  "geometry": {"alpha":0.00015,"bbox":[172.80140686035,-43.59211730957,172.80718994141,-43.589530944824],"coordinates":[[[[172.80719,-43.590961],[172.807144,-43.591217],[172.806931,-43.59127],[172.80336,-43.592117],[172.801407,-43.590324],[172.805664,-43.589531],[172.80719,-43.590961]]]],"created":1239520081,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3347/shapefiles/28644538_20090412_82053833a7.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

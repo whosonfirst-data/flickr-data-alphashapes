@@ -1,0 +1,15 @@
+{
+  "id": 553500,
+  "type": "Feature",
+  "properties": {
+    "name":"Gjerlev, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":553500,
+    "woe:name":"Gjerlev, Hovedstaden, Denmark",
+    "woe:place_id":"tLD947OcBJ8A2ss",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.009344,55.816807,12.03615,55.842552],
+  "geometry": {"alpha":0.00015,"bbox":[12.009344100952,55.816806793213,12.036149978638,55.842552185059],"coordinates":[[[[12.011682,55.822636],[12.012712,55.823189],[12.025909,55.842552],[12.027111,55.842216],[12.03615,55.82856],[12.015566,55.822334],[12.014719,55.816807],[12.009344,55.818645],[12.011682,55.822636]]]],"created":1292542876,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/553500_20101216_53125ca6d0.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

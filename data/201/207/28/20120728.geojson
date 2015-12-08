@@ -1,0 +1,15 @@
+{
+  "id": 20120728,
+  "type": "Feature",
+  "properties": {
+    "name":"Citerno, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20120728,
+    "woe:name":"Citerno, Tuscany, Italy",
+    "woe:place_id":"KOapazmbAZ2BJ6Kj1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.327129,43.794971,11.359112,43.818722],
+  "geometry": {"alpha":0.00015,"bbox":[11.327129364014,43.794971466064,11.359111785889,43.81872177124],"coordinates":[[[[11.333287,43.80838],[11.327129,43.818722],[11.338137,43.810059],[11.359112,43.808037],[11.342192,43.794971],[11.333287,43.80838]]]],"created":1292517763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/20120728_20101216_cd6c91ca28.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

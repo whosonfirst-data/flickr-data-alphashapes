@@ -1,0 +1,15 @@
+{
+  "id": 2508209,
+  "type": "Feature",
+  "properties": {
+    "name":"Troy, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2508209,
+    "woe:name":"Troy, North Carolina, United States",
+    "woe:place_id":"Qqk1ZJSbBJxDfcPO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.910431,35.354614,-79.875069,35.363297],
+  "geometry": {"alpha":0.00015,"bbox":[-79.910430908203,35.354614257812,-79.875068664551,35.363296508789],"coordinates":[[[[-79.895325,35.357975],[-79.910431,35.356857],[-79.895035,35.362007],[-79.875069,35.363297],[-79.886742,35.354614],[-79.895325,35.357975]]]],"created":1292528147,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2508209_20101216_dd110b2d11.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

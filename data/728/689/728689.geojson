@@ -1,0 +1,15 @@
+{
+  "id": 728689,
+  "type": "Feature",
+  "properties": {
+    "name":"Dichteren, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":728689,
+    "woe:name":"Dichteren, Gelderland, Netherlands",
+    "woe:place_id":"CstjSvaeA5Ri9zc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.256306,51.951881,6.269159,51.955719],
+  "geometry": {"alpha":0.00015,"bbox":[6.2563061714172,51.951881408691,6.2691588401794,51.955718994141],"coordinates":[[[[6.260167,51.953499],[6.269159,51.955719],[6.259667,51.952],[6.25795,51.951881],[6.256306,51.95277],[6.257507,51.953892],[6.260167,51.953499]]]],"created":1292532232,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/728689_20101216_844bffb01f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

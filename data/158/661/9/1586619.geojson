@@ -1,0 +1,15 @@
+{
+  "id": 1586619,
+  "type": "Feature",
+  "properties": {
+    "name":"Porterville, Western Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1586619,
+    "woe:name":"Porterville, Western Cape, South Africa",
+    "woe:place_id":"hECmUjeYBJQOtwFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.989868,-33.036297,19.000854,-33.004417],
+  "geometry": {"alpha":0.00015,"bbox":[18.989868164062,-33.036296844482,19.000854492188,-33.004417419434],"coordinates":[[[[18.995962,-33.012047],[19.000854,-33.03054],[18.989868,-33.036297],[18.991928,-33.014206],[18.994846,-33.009239],[18.996477,-33.004417],[18.995962,-33.012047]]]],"created":1292525144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/1586619_20101216_ec008186f1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

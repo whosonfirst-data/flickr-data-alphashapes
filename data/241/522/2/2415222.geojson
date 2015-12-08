@@ -1,0 +1,15 @@
+{
+  "id": 2415222,
+  "type": "Feature",
+  "properties": {
+    "name":"Groton, New York, United States",
+    "placetype":"locality",
+    "woe:id":2415222,
+    "woe:name":"Groton, New York, United States",
+    "woe:place_id":"oQm45VebBZ3U41Zm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.370613,42.562248,-76.36026,42.594746],
+  "geometry": {"alpha":0.00015,"bbox":[-76.370613098145,42.56224822998,-76.360260009766,42.594745635986],"coordinates":[[[[-76.36731,42.589249],[-76.367683,42.594746],[-76.36026,42.583588],[-76.362236,42.562248],[-76.370613,42.581718],[-76.36731,42.589249]]]],"created":1292545238,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2415222_20101217_2717098371.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

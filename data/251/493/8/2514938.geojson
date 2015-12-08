@@ -1,0 +1,15 @@
+{
+  "id": 2514938,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington Place, Wilson, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2514938,
+    "woe:name":"Washington Place, Wilson, NC, US, United States",
+    "woe:place_id":"0h3YLzabBJ1ivIG.",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-77.90873,35.721325,-77.905251,35.723396],
+  "geometry": {"alpha":1e-05,"bbox":[-77.908729553223,35.721324920654,-77.905250549316,35.72339630127],"coordinates":[[[[-77.908127,35.723396],[-77.905251,35.722649],[-77.905937,35.721325],[-77.906967,35.721588],[-77.90873,35.721516],[-77.908127,35.723396]]]],"created":1292454606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2514938_20101215_99c0eb0a42.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

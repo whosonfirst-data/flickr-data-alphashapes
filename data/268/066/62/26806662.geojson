@@ -1,0 +1,15 @@
+{
+  "id": 26806662,
+  "type": "Feature",
+  "properties": {
+    "name":"Santana, Sabana Grande, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806662,
+    "woe:name":"Santana, Sabana Grande, Puerto Rico",
+    "woe:place_id":"8kYVE.ObB5SSyDBDjQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-67.003815,18.059498,-66.912231,18.118444],
+  "geometry": {"alpha":0.0015,"bbox":[-67.003814697266,18.059497833252,-66.912231445312,18.118444442749],"coordinates":[[[[-66.945511,18.094715],[-66.956558,18.059498],[-67.003815,18.083149],[-66.966133,18.104576],[-66.912231,18.118444],[-66.945511,18.094715]]]],"created":1292522525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/26806662_20101216_18ce28f486.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

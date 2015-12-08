@@ -1,0 +1,15 @@
+{
+  "id": 20125166,
+  "type": "Feature",
+  "properties": {
+    "name":"Fossa, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":20125166,
+    "woe:name":"Fossa, Calabria, Italy",
+    "woe:place_id":"kgUjTsabAZ15NIXnew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.729946,39.612038,16.747284,39.616795],
+  "geometry": {"alpha":0.00015,"bbox":[16.729946136475,39.612037658691,16.747283935547,39.616794586182],"coordinates":[[[[16.739044,39.616795],[16.744537,39.616795],[16.747284,39.616268],[16.739044,39.612038],[16.729946,39.616268],[16.734259,39.616055],[16.739044,39.616795]]]],"created":1292445543,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20125166_20101215_bf67ac444f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2500853,
+  "type": "Feature",
+  "properties": {
+    "name":"Strayhorn Hills, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2500853,
+    "woe:name":"Strayhorn Hills, North Carolina, United States",
+    "woe:place_id":"BUM2AM2bBJw6nFHJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.062103,36.031834,-79.046471,36.049099],
+  "geometry": {"alpha":0.00015,"bbox":[-79.062103271484,36.031833648682,-79.04647064209,36.049098968506],"coordinates":[[[[-79.058907,36.041134],[-79.047318,36.049099],[-79.046471,36.046844],[-79.055687,36.03529],[-79.062103,36.031834],[-79.058907,36.041134]]]],"created":1292524348,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2500853_20101216_2700a8001a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

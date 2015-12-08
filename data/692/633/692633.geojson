@@ -1,0 +1,15 @@
+{
+  "id": 692633,
+  "type": "Feature",
+  "properties": {
+    "name":"Schnega, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":692633,
+    "woe:name":"Schnega, Lower Saxony, Germany",
+    "woe:place_id":"uamSFQSfCJ5RxhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.882022,52.889168,10.894027,52.898163],
+  "geometry": {"alpha":0.00015,"bbox":[10.882021903992,52.889167785645,10.894026756287,52.898162841797],"coordinates":[[[[10.894027,52.891697],[10.893988,52.889961],[10.887677,52.88966],[10.882022,52.889168],[10.883538,52.895954],[10.893647,52.898163],[10.894027,52.891697]]]],"created":1292527341,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/692633_20101216_8b2e3830dd.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

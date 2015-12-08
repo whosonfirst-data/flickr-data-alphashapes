@@ -1,0 +1,15 @@
+{
+  "id": 20223193,
+  "type": "Feature",
+  "properties": {
+    "name":"Golmar, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20223193,
+    "woe:name":"Golmar, Galicia, Spain",
+    "woe:place_id":"ynb0kxybAZ6T0yfgYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.065338,43.693569,-8.052978,43.703716],
+  "geometry": {"alpha":0.00015,"bbox":[-8.0653381347656,43.69356918335,-8.0529775619507,43.703716278076],"coordinates":[[[[-8.054351,43.693569],[-8.056926,43.696362],[-8.065338,43.700768],[-8.060617,43.703716],[-8.052978,43.69965],[-8.054351,43.693569]]]],"created":1292449273,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20223193_20101215_a32782ae40.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

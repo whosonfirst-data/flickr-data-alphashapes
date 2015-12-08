@@ -1,0 +1,15 @@
+{
+  "id": 12678428,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceccano, Italy",
+    "placetype":"locality",
+    "woe:id":12678428,
+    "woe:name":"Ceccano, Italy",
+    "woe:place_id":"HhlmHOGYA5pG7.oYOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.327317,41.567272,13.336114,41.573784],
+  "geometry": {"alpha":1e-05,"bbox":[13.327317237854,41.567272186279,13.336113929749,41.573783874512],"coordinates":[[[[13.333861,41.568409],[13.330682,41.567272],[13.327317,41.569706],[13.332166,41.573078],[13.332853,41.573784],[13.336114,41.570202],[13.333861,41.568409]]]],"created":1292531412,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12678428_20101216_7fe05b4a35.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

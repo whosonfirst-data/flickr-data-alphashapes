@@ -1,0 +1,15 @@
+{
+  "id": 2432112,
+  "type": "Feature",
+  "properties": {
+    "name":"Keystone, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2432112,
+    "woe:name":"Keystone, Nebraska, United States",
+    "woe:place_id":"3x_98K.bBZ9hs1fH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.653572,41.209766,-101.636497,41.224998],
+  "geometry": {"alpha":0.00015,"bbox":[-101.65357208252,41.209766387939,-101.63649749756,41.224998474121],"coordinates":[[[[-101.636665,41.224998],[-101.636497,41.224834],[-101.636665,41.224834],[-101.648964,41.209766],[-101.653572,41.218048],[-101.636665,41.224998]]]],"created":1292521148,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2432112_20101216_59ba95ac85.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

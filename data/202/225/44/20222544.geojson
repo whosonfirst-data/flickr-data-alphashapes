@@ -1,0 +1,15 @@
+{
+  "id": 20222544,
+  "type": "Feature",
+  "properties": {
+    "name":"El Dosel, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20222544,
+    "woe:name":"El Dosel, Valencia, Spain",
+    "woe:place_id":"md5MthqbAZ7zom5N7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.233373,39.191586,-0.223814,39.202927],
+  "geometry": {"alpha":0.00015,"bbox":[-0.23337300121784,39.191585540771,-0.22381399571896,39.202926635742],"coordinates":[[[[-0.224425,39.191669],[-0.2245,39.191711],[-0.233373,39.202927],[-0.224179,39.191727],[-0.223814,39.191586],[-0.224093,39.191593],[-0.224425,39.191669]]]],"created":1239400571,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3325/shapefiles/20222544_20090410_41f87aab1b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

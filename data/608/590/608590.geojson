@@ -1,0 +1,15 @@
+{
+  "id": 608590,
+  "type": "Feature",
+  "properties": {
+    "name":"Longuyon, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":608590,
+    "woe:name":"Longuyon, Lorraine, France",
+    "woe:place_id":"q8066.ifAZQqYQU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.582599,49.443336,5.602158,49.451164],
+  "geometry": {"alpha":0.00015,"bbox":[5.5825991630554,49.443336486816,5.6021580696106,49.451164245605],"coordinates":[[[[5.602158,49.448048],[5.601418,49.446079],[5.592598,49.443336],[5.582599,49.451164],[5.590667,49.449379],[5.599422,49.450272],[5.602158,49.448048]]]],"created":1292510768,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/608590_20101216_40b0742b9c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

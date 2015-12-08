@@ -1,0 +1,15 @@
+{
+  "id": 12672522,
+  "type": "Feature",
+  "properties": {
+    "name":"Villeneuve, France",
+    "placetype":"locality",
+    "woe:id":12672522,
+    "woe:name":"Villeneuve, France",
+    "woe:place_id":"L0QH3oiYA5qM3MSyoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.860401,43.892216,5.862901,43.895054],
+  "geometry": {"alpha":1e-05,"bbox":[5.8604011535645,43.89221572876,5.8629012107849,43.895053863525],"coordinates":[[[[5.860401,43.894436],[5.860766,43.895054],[5.862772,43.892712],[5.862901,43.892216],[5.861506,43.893291],[5.860401,43.894436]]]],"created":1292467566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12672522_20101216_a9045007c9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

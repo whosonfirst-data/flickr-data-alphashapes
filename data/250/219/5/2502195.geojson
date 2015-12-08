@@ -1,0 +1,15 @@
+{
+  "id": 2502195,
+  "type": "Feature",
+  "properties": {
+    "name":"Sunnyside, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2502195,
+    "woe:name":"Sunnyside, Georgia, United States",
+    "woe:place_id":"LHnTMhWbBJwRbxYy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.81118,34.924995,-83.789635,34.94519],
+  "geometry": {"alpha":0.00015,"bbox":[-83.811180114746,34.924995422363,-83.78963470459,34.945190429688],"coordinates":[[[[-83.793755,34.926895],[-83.804482,34.924995],[-83.81118,34.936607],[-83.792122,34.94519],[-83.789635,34.933865],[-83.793755,34.926895]]]],"created":1292519951,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2502195_20101216_c1c5b41eee.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

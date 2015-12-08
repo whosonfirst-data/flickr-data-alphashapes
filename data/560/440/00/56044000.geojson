@@ -1,0 +1,15 @@
+{
+  "id": 56044000,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilnius, Lithuania",
+    "placetype":"locality",
+    "woe:id":56044000,
+    "woe:name":"Vilnius, Lithuania",
+    "woe:place_id":"NiUxaxycB5xOFBURCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.252031,54.69606,25.261688,54.700027],
+  "geometry": {"alpha":1e-05,"bbox":[25.252031326294,54.696060180664,25.261688232422,54.70002746582],"coordinates":[[[[25.258942,54.69606],[25.257568,54.69606],[25.252031,54.698463],[25.256195,54.700027],[25.257568,54.698441],[25.261688,54.698441],[25.258942,54.69606]]]],"created":1292523221,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/56044000_20101216_fb00a105fb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

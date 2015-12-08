@@ -1,0 +1,15 @@
+{
+  "id": 4073,
+  "type": "Feature",
+  "properties": {
+    "name":"Glencoe, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4073,
+    "woe:name":"Glencoe, Ontario, Canada",
+    "woe:place_id":"fY8y2UidAZvl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.722313,42.744965,-81.706177,42.754261],
+  "geometry": {"alpha":0.00015,"bbox":[-81.722312927246,42.744964599609,-81.706176757812,42.754261016846],"coordinates":[[[[-81.709999,42.746887],[-81.722313,42.754261],[-81.713799,42.75182],[-81.706177,42.75029],[-81.706177,42.748901],[-81.707893,42.744965],[-81.709999,42.746887]]]],"created":1292521637,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/4073_20101216_747d37135e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

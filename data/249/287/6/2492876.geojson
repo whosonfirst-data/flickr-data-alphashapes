@@ -1,0 +1,15 @@
+{
+  "id": 2492876,
+  "type": "Feature",
+  "properties": {
+    "name":"Shipley, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2492876,
+    "woe:name":"Shipley, Iowa, United States",
+    "woe:place_id":"HY60tiqbBZUOipVK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.570663,41.962811,-93.553001,41.986332],
+  "geometry": {"alpha":0.00015,"bbox":[-93.570663452148,41.962810516357,-93.553001403809,41.986331939697],"coordinates":[[[[-93.553001,41.962811],[-93.559761,41.964691],[-93.570663,41.986332],[-93.554863,41.978737],[-93.553017,41.963104],[-93.553001,41.962811]]]],"created":1292456781,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2492876_20101215_9135eab7cb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

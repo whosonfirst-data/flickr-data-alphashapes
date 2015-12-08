@@ -1,0 +1,15 @@
+{
+  "id": 16200,
+  "type": "Feature",
+  "properties": {
+    "name":"Clawthorpe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":16200,
+    "woe:name":"Clawthorpe, England, United Kingdom",
+    "woe:place_id":"FpoXxGSYB56bCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.723751,54.187553,-2.710318,54.202618],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7237510681152,54.187553405762,-2.7103180885315,54.202617645264],"coordinates":[[[[-2.713623,54.198814],[-2.710876,54.202618],[-2.710318,54.196266],[-2.717957,54.188545],[-2.723751,54.187553],[-2.713623,54.198814]]]],"created":1292549613,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/16200_20101217_04c7bc135f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

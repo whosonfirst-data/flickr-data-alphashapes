@@ -1,0 +1,15 @@
+{
+  "id": 782244,
+  "type": "Feature",
+  "properties": {
+    "name":"Dino, Canton of Ticino, Switzerland",
+    "placetype":"locality",
+    "woe:id":782244,
+    "woe:name":"Dino, Canton of Ticino, Switzerland",
+    "woe:place_id":"w_WbpAqeCZ73R5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.97804,46.051788,8.98763,46.056458],
+  "geometry": {"alpha":0.00015,"bbox":[8.9780397415161,46.051788330078,8.9876298904419,46.056457519531],"coordinates":[[[[8.978919,46.051788],[8.97804,46.052402],[8.979563,46.056362],[8.981409,46.056458],[8.98763,46.054535],[8.981666,46.052265],[8.978919,46.051788]]]],"created":1248218540,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3435/shapefiles/782244_20090721_36b45e567d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 555760,
+  "type": "Feature",
+  "properties": {
+    "name":"Nielstrup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555760,
+    "woe:name":"Nielstrup, Sjaelland, Denmark",
+    "woe:place_id":"aJFF2uycBJnnamM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.001126,55.268246,12.013244,55.278473],
+  "geometry": {"alpha":0.00015,"bbox":[12.001126289368,55.268245697021,12.013243675232,55.278472900391],"coordinates":[[[[12.002419,55.270252],[12.013244,55.278473],[12.005127,55.269569],[12.003006,55.269001],[12.001126,55.268246],[12.002419,55.270252]]]],"created":1292510586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/555760_20101216_66bf1faef0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

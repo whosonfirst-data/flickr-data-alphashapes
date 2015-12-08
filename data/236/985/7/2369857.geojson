@@ -1,0 +1,15 @@
+{
+  "id": 2369857,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookgate, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2369857,
+    "woe:name":"Brookgate, South Carolina, United States",
+    "woe:place_id":"_MZNXnGbAprSrJqJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.972702,33.699886,-78.949966,33.718567],
+  "geometry": {"alpha":0.00015,"bbox":[-78.972702026367,33.699886322021,-78.949966430664,33.718566894531],"coordinates":[[[[-78.949966,33.707027],[-78.957024,33.699886],[-78.972702,33.70787],[-78.964577,33.718567],[-78.962303,33.717636],[-78.949966,33.707027]]]],"created":1292477103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2369857_20101216_f4bbb45fb5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

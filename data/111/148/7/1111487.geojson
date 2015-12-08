@@ -1,0 +1,15 @@
+{
+  "id": 1111487,
+  "type": "Feature",
+  "properties": {
+    "name":"Maebaru-shi, Fukuoka Prefecture, Japan",
+    "placetype":"locality",
+    "woe:id":1111487,
+    "woe:name":"Maebaru-shi, Fukuoka Prefecture, Japan",
+    "woe:place_id":"aMrN_6KYAJ0j2gc9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [130.181808,33.546116,130.201721,33.558563],
+  "geometry": {"alpha":0.00015,"bbox":[130.18180847168,33.546115875244,130.20172119141,33.558563232422],"coordinates":[[[[130.181808,33.546116],[130.182144,33.547401],[130.196564,33.556274],[130.201721,33.558563],[130.192444,33.546829],[130.181808,33.546116]]]],"created":1248052203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2476/shapefiles/1111487_20090720_74f90a2172.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20203,
+  "type": "Feature",
+  "properties": {
+    "name":"Finningham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20203,
+    "woe:name":"Finningham, England, United Kingdom",
+    "woe:place_id":"OJjy9vabAZ4GVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.025828,52.28167,1.027393,52.286011],
+  "geometry": {"alpha":0.00015,"bbox":[1.0258280038834,52.281669616699,1.0273929834366,52.286010742188],"coordinates":[[[[1.025828,52.281681],[1.025828,52.2817],[1.025848,52.286011],[1.027393,52.283386],[1.025828,52.28167],[1.025828,52.281681]]]],"created":1292438045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20203_20101215_813a57811e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

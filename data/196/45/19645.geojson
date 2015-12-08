@@ -1,0 +1,15 @@
+{
+  "id": 19645,
+  "type": "Feature",
+  "properties": {
+    "name":"Epping Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19645,
+    "woe:name":"Epping Green, England, United Kingdom",
+    "woe:place_id":"fFgzOyGYCJoP6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.037239,51.715328,0.056648,51.744141],
+  "geometry": {"alpha":0.00015,"bbox":[0.037239000201225,51.715328216553,0.056648001074791,51.744140625],"coordinates":[[[[0.056648,51.736755],[0.05433,51.735638],[0.052871,51.715328],[0.039844,51.735752],[0.037239,51.744141],[0.053493,51.736649],[0.056648,51.736755]]]],"created":1292465222,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/19645_20101216_f58dba0ba1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

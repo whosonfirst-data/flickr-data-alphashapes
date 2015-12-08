@@ -1,0 +1,15 @@
+{
+  "id": 1102001,
+  "type": "Feature",
+  "properties": {
+    "name":"Everton, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102001,
+    "woe:name":"Everton, Victoria, Australia",
+    "woe:place_id":"Qtp965mYAJyme1tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.531006,-36.435577,146.545425,-36.414028],
+  "geometry": {"alpha":0.00015,"bbox":[146.53100585938,-36.435577392578,146.54542541504,-36.414028167725],"coordinates":[[[[146.535645,-36.435577],[146.531006,-36.426876],[146.545425,-36.414028],[146.540451,-36.431847],[146.535645,-36.435577]]]],"created":1248140408,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2552/shapefiles/1102001_20090721_216186d9b8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

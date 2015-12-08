@@ -1,0 +1,15 @@
+{
+  "id": 2361077,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaverville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2361077,
+    "woe:name":"Beaverville, Illinois, United States",
+    "woe:place_id":"A2dkxs6bApow6Te2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.659225,40.945675,-87.651672,40.958092],
+  "geometry": {"alpha":0.00015,"bbox":[-87.659225463867,40.94567489624,-87.651672363281,40.95809173584],"coordinates":[[[[-87.654556,40.956089],[-87.651672,40.950863],[-87.653046,40.945675],[-87.659225,40.947231],[-87.655922,40.958092],[-87.654556,40.956089]]]],"created":1292548683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2361077_20101217_551f0fd921.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2452213,
+  "type": "Feature",
+  "properties": {
+    "name":"Mint Spring, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2452213,
+    "woe:name":"Mint Spring, Virginia, United States",
+    "woe:place_id":"DKCoFVWbBZkTpsJZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.108429,38.050758,-79.098473,38.084042],
+  "geometry": {"alpha":0.00015,"bbox":[-79.108428955078,38.050758361816,-79.098472595215,38.084041595459],"coordinates":[[[[-79.104652,38.077553],[-79.100189,38.084042],[-79.098473,38.071068],[-79.102852,38.050758],[-79.108429,38.073502],[-79.104652,38.077553]]]],"created":1292535328,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2452213_20101216_521f5d04c4.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

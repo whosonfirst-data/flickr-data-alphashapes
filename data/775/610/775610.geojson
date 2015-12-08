@@ -1,0 +1,15 @@
+{
+  "id": 775610,
+  "type": "Feature",
+  "properties": {
+    "name":"Toriezo, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":775610,
+    "woe:name":"Toriezo, Asturias, Spain",
+    "woe:place_id":"6DZCUaueBpmf3Bs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.006088,43.185135,-5.994917,43.186966],
+  "geometry": {"alpha":0.00015,"bbox":[-6.0060877799988,43.185134887695,-5.9949169158936,43.186965942383],"coordinates":[[[[-6.001367,43.185135],[-6.006088,43.185902],[-6.002483,43.186466],[-5.998363,43.186966],[-5.994917,43.185604],[-6.001367,43.185135]]]],"created":1292535188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/775610_20101216_9ef99a7420.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

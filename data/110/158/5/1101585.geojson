@@ -1,0 +1,15 @@
+{
+  "id": 1101585,
+  "type": "Feature",
+  "properties": {
+    "name":"Dargo, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101585,
+    "woe:name":"Dargo, Victoria, Australia",
+    "woe:place_id":"NERHpfeYAJzl7zEs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.218491,-37.03096,147.223663,-37.02462],
+  "geometry": {"alpha":0.00015,"bbox":[147.21849060059,-37.030960083008,147.22366333008,-37.024620056152],"coordinates":[[[[147.221603,-37.02462],[147.223663,-37.026127],[147.218491,-37.03096],[147.221298,-37.025787],[147.221603,-37.02462]]]],"created":1247911690,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3428/shapefiles/1101585_20090718_7089d81c00.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 31001,
+  "type": "Feature",
+  "properties": {
+    "name":"Oldbrook, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31001,
+    "woe:name":"Oldbrook, England, United Kingdom",
+    "woe:place_id":"23xC_KeaAJwEMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.763206,52.030781,-0.749816,52.039082],
+  "geometry": {"alpha":0.00015,"bbox":[-0.76320600509644,52.030780792236,-0.74981600046158,52.039081573486],"coordinates":[[[[-0.750123,52.033421],[-0.749816,52.032219],[-0.754022,52.030781],[-0.758417,52.031216],[-0.762404,52.032524],[-0.763206,52.03825],[-0.760674,52.039082],[-0.755395,52.036865],[-0.750123,52.033421]]]],"created":1292467581,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/31001_20101216_f38fcc851c.tar.gz"},"points":52,"type":"MultiPolygon"}
+}

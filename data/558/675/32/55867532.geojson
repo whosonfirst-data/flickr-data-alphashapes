@@ -1,0 +1,15 @@
+{
+  "id": 55867532,
+  "type": "Feature",
+  "properties": {
+    "name":"Alma Verde, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":55867532,
+    "woe:name":"Alma Verde, Faro, Portugal",
+    "woe:place_id":"ZiTw4RGcBJSwLQ5eww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.793997,37.091782,-8.783526,37.097908],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7939968109131,37.091781616211,-8.7835264205933,37.09790802002],"coordinates":[[[[-8.793997,37.096416],[-8.793697,37.097015],[-8.792152,37.097908],[-8.783526,37.091782],[-8.790349,37.093117],[-8.793997,37.096416]]]],"created":1292473326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/55867532_20101216_85a916bb59.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 716830,
+  "type": "Feature",
+  "properties": {
+    "name":"La Foce, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":716830,
+    "woe:name":"La Foce, Liguria, Italy",
+    "woe:place_id":"AfLJHsyeAJpmggI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.786999,44.120449,9.797058,44.129738],
+  "geometry": {"alpha":0.00015,"bbox":[9.7869987487793,44.120449066162,9.7970581054688,44.129737854004],"coordinates":[[[[9.795341,44.128998],[9.78826,44.120449],[9.786999,44.127331],[9.787273,44.127766],[9.791908,44.12846],[9.797058,44.129738],[9.795341,44.128998]]]],"created":1292450995,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/716830_20101215_bbdeaab93c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

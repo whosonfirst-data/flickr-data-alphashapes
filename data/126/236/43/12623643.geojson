@@ -1,0 +1,15 @@
+{
+  "id": 12623643,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hirrlingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623643,
+    "woe:name":"Gemeinde Hirrlingen, Germany",
+    "woe:place_id":"PEPO1dmYA5qlnzbFZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.9,48.405334,8.901166,48.406334],
+  "geometry": {"alpha":1e-05,"bbox":[8.8999996185303,48.405334472656,8.9011659622192,48.40633392334],"coordinates":[[[[8.900166,48.406334],[8.901166,48.405334],[8.900166,48.406166],[8.9,48.406334],[8.900166,48.406334]]]],"created":1292507647,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12623643_20101216_4529299d26.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

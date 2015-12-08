@@ -1,0 +1,15 @@
+{
+  "id": 20227691,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallegos, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":20227691,
+    "woe:name":"Gallegos, Asturias, Spain",
+    "woe:place_id":"BteEHKibAZ5.JrjZRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.82344,43.226444,-5.814514,43.232197],
+  "geometry": {"alpha":0.00015,"bbox":[-5.8234400749207,43.226444244385,-5.8145141601562,43.232196807861],"coordinates":[[[[-5.814514,43.231197],[-5.81623,43.226444],[-5.81814,43.227715],[-5.819106,43.228851],[-5.82344,43.232197],[-5.814514,43.231197]]]],"created":1292495529,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/20227691_20101216_c787324502.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

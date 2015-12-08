@@ -1,0 +1,15 @@
+{
+  "id": 56019475,
+  "type": "Feature",
+  "properties": {
+    "name":"Orange Orchard, Boulder, CO, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":56019475,
+    "woe:name":"Orange Orchard, Boulder, CO, US, United States",
+    "woe:place_id":"z9L3QbCcB5xWSov7XA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-105.239624,40.046597,-105.235168,40.05114],
+  "geometry": {"alpha":1e-05,"bbox":[-105.23962402344,40.0465965271,-105.23516845703,40.051139831543],"coordinates":[[[[-105.237793,40.050877],[-105.235168,40.049332],[-105.237038,40.046597],[-105.239624,40.05114],[-105.237793,40.050877]]]],"created":1292521627,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/56019475_20101216_e571c6f3fe.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

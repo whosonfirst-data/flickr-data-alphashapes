@@ -1,0 +1,15 @@
+{
+  "id": 2498628,
+  "type": "Feature",
+  "properties": {
+    "name":"Spurrs Corner, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2498628,
+    "woe:name":"Spurrs Corner, Maine, United States",
+    "woe:place_id":"k.T.3OabBZV.2opf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.555916,44.057087,-70.53875,44.060577],
+  "geometry": {"alpha":0.00015,"bbox":[-70.55591583252,44.05708694458,-70.538749694824,44.060577392578],"coordinates":[[[[-70.53875,44.060577],[-70.53875,44.059341],[-70.555832,44.057087],[-70.555916,44.057163],[-70.539604,44.059959],[-70.53875,44.060577]]]],"created":1292460781,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2498628_20101216_6b5a1e12e1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

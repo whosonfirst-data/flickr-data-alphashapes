@@ -1,0 +1,15 @@
+{
+  "id": 467559,
+  "type": "Feature",
+  "properties": {
+    "name":"Casalegno, Santa Fe, Argentina",
+    "placetype":"locality",
+    "woe:id":467559,
+    "woe:name":"Casalegno, Santa Fe, Argentina",
+    "woe:place_id":"CKTIm6edB5t2tFU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.127586,-32.267178,-61.124496,-32.25774],
+  "geometry": {"alpha":0.00015,"bbox":[-61.127586364746,-32.267177581787,-61.124496459961,-32.257740020752],"coordinates":[[[[-61.126041,-32.263111],[-61.127586,-32.25774],[-61.124668,-32.263618],[-61.124668,-32.264782],[-61.124496,-32.267178],[-61.126041,-32.263111]]]],"created":1292446923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/467559_20101215_4cf3fcea4c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

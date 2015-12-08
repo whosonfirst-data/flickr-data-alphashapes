@@ -1,0 +1,15 @@
+{
+  "id": 12623704,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Langenau, Germany",
+    "placetype":"locality",
+    "woe:id":12623704,
+    "woe:name":"Gemeinde Langenau, Germany",
+    "woe:place_id":"UtdiljuYA5oY0zZoOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.078926,48.473034,10.080299,48.474514],
+  "geometry": {"alpha":1e-05,"bbox":[10.078926086426,48.473033905029,10.080299377441,48.474514007568],"coordinates":[[[[10.079097,48.473717],[10.080299,48.474514],[10.079784,48.473034],[10.078926,48.473034],[10.079097,48.473717]]]],"created":1292533387,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12623704_20101216_5e62d2e0e7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

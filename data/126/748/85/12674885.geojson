@@ -1,0 +1,15 @@
+{
+  "id": 12674885,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Aussee, Austria",
+    "placetype":"locality",
+    "woe:id":12674885,
+    "woe:name":"Bad Aussee, Austria",
+    "woe:place_id":"ZhEVq8aYA5ogORtL4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.780975,47.609982,13.785996,47.611355],
+  "geometry": {"alpha":1e-05,"bbox":[13.780975341797,47.609981536865,13.785996437073,47.611354827881],"coordinates":[[[[13.783035,47.610386],[13.785996,47.611355],[13.783378,47.609982],[13.781661,47.610386],[13.780975,47.610909],[13.783035,47.610386]]]],"created":1292538356,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12674885_20101216_a494d2bfd1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2500569,
+  "type": "Feature",
+  "properties": {
+    "name":"Stormville, Stroudsburg, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2500569,
+    "woe:name":"Stormville, Stroudsburg, PA, US, United States",
+    "woe:place_id":"JIQJGCObBJygEPY5",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.262787,40.942631,-75.241928,40.960781],
+  "geometry": {"alpha":0.00015,"bbox":[-75.262786865234,40.942630767822,-75.241928100586,40.960781097412],"coordinates":[[[[-75.262375,40.946308],[-75.262787,40.960781],[-75.241928,40.948399],[-75.255402,40.942631],[-75.262375,40.946308]]]],"created":1234551484,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3369/shapefiles/2500569_20090213_c3b17f7c5b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

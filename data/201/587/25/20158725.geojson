@@ -1,0 +1,15 @@
+{
+  "id": 20158725,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Leonhard, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20158725,
+    "woe:name":"St. Leonhard, Bavaria, Germany",
+    "woe:place_id":"qHEuSoebAZ0ILfsRuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.183414,49.363998,10.193939,49.380962],
+  "geometry": {"alpha":0.00015,"bbox":[10.183414459229,49.363998413086,10.193939208984,49.380962371826],"coordinates":[[[[10.183939,49.376022],[10.183929,49.376945],[10.183414,49.38036],[10.184712,49.380962],[10.186107,49.380653],[10.186665,49.379047],[10.191535,49.371197],[10.193939,49.365829],[10.190345,49.363998],[10.183939,49.376022]]]],"created":1292536845,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/20158725_20101216_90650595b1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

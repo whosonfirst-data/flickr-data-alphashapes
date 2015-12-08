@@ -1,0 +1,15 @@
+{
+  "id": 2491870,
+  "type": "Feature",
+  "properties": {
+    "name":"Shattuc, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2491870,
+    "woe:name":"Shattuc, Illinois, United States",
+    "woe:place_id":"mxsVtWubBZUxxvE0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.197311,38.606441,-89.172592,38.620659],
+  "geometry": {"alpha":0.00015,"bbox":[-89.197311401367,38.606441497803,-89.172592163086,38.620658874512],"coordinates":[[[[-89.193108,38.60936],[-89.172592,38.606609],[-89.193192,38.606441],[-89.197311,38.612579],[-89.197006,38.620659],[-89.193108,38.60936]]]],"created":1292528020,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2491870_20101216_2a2224f5b5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

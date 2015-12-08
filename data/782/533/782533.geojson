@@ -1,0 +1,15 @@
+{
+  "id": 782533,
+  "type": "Feature",
+  "properties": {
+    "name":"Gelfingen, Canton of Lucerne, Switzerland",
+    "placetype":"locality",
+    "woe:id":782533,
+    "woe:name":"Gelfingen, Canton of Lucerne, Switzerland",
+    "woe:place_id":"metzdtGeCZ7UyyM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.254569,47.214436,8.275451,47.217587],
+  "geometry": {"alpha":0.00015,"bbox":[8.2545690536499,47.214435577393,8.2754507064819,47.217586517334],"coordinates":[[[[8.272361,47.217266],[8.275279,47.215721],[8.275451,47.215256],[8.267641,47.214436],[8.254569,47.217331],[8.271503,47.217587],[8.272361,47.217266]]]],"created":1292550938,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/782533_20101217_42ff16df50.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

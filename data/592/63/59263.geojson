@@ -1,0 +1,15 @@
+{
+  "id": 59263,
+  "type": "Feature",
+  "properties": {
+    "name":"Roble, Heredia, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59263,
+    "woe:name":"Roble, Heredia, Costa Rica",
+    "woe:place_id":"GmqfUMCcCJ76WQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.163513,10.075516,-84.14875,10.096219],
+  "geometry": {"alpha":0.00015,"bbox":[-84.163513183594,10.07551574707,-84.148750305176,10.096219062805],"coordinates":[[[[-84.163513,10.082023],[-84.161163,10.0865],[-84.14875,10.096219],[-84.151321,10.079656],[-84.160851,10.075516],[-84.163513,10.082023]]]],"created":1292519413,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/59263_20101216_f83f8cd953.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

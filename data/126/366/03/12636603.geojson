@@ -1,0 +1,15 @@
+{
+  "id": 12636603,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schirnding, Germany",
+    "placetype":"locality",
+    "woe:id":12636603,
+    "woe:name":"Gemeinde Schirnding, Germany",
+    "woe:place_id":".Wrguc.YA5pUIfikHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.260913,50.058338,12.263091,50.059418],
+  "geometry": {"alpha":1e-05,"bbox":[12.260912895203,50.058338165283,12.263091087341,50.059417724609],"coordinates":[[[[12.261278,50.058338],[12.260913,50.058819],[12.263091,50.059418],[12.262673,50.058784],[12.262051,50.058495],[12.261278,50.058338]]]],"created":1292454749,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12636603_20101215_28c5db4f75.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

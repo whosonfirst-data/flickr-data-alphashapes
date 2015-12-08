@@ -1,0 +1,15 @@
+{
+  "id": 109559,
+  "type": "Feature",
+  "properties": {
+    "name":"Newcastle, Saint Andrew, Jamaica",
+    "placetype":"locality",
+    "woe:id":109559,
+    "woe:name":"Newcastle, Saint Andrew, Jamaica",
+    "woe:place_id":"2WgKBgeYAZU_QvE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.722847,18.066698,-76.709633,18.07233],
+  "geometry": {"alpha":0.00015,"bbox":[-76.722846984863,18.066698074341,-76.709632873535,18.072330474854],"coordinates":[[[[-76.714325,18.07233],[-76.709633,18.070473],[-76.709976,18.068514],[-76.716698,18.066698],[-76.722847,18.069983],[-76.71434,18.072327],[-76.714325,18.07233]]]],"created":1292521696,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/109559_20101216_79e33dd103.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

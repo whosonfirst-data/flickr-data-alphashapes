@@ -1,0 +1,15 @@
+{
+  "id": 2509264,
+  "type": "Feature",
+  "properties": {
+    "name":"Two Egg, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2509264,
+    "woe:name":"Two Egg, Florida, United States",
+    "woe:place_id":"quq2m7SbBJzRxYcx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.078812,30.85284,-85.069542,30.855373],
+  "geometry": {"alpha":0.00015,"bbox":[-85.078811645508,30.852840423584,-85.069541931152,30.855373382568],"coordinates":[[[[-85.077202,30.85284],[-85.078812,30.854488],[-85.076752,30.855373],[-85.070229,30.854488],[-85.069542,30.85331],[-85.077202,30.85284]]]],"created":1292536728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2509264_20101216_0da1c4e9eb.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

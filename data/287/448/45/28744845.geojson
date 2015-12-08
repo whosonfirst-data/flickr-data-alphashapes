@@ -1,0 +1,15 @@
+{
+  "id": 28744845,
+  "type": "Feature",
+  "properties": {
+    "name":"South Valley, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744845,
+    "woe:name":"South Valley, New York, United States",
+    "woe:place_id":"ibSLxxWbCZs6a4T2uQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.969643,42.025181,-78.961014,42.029388],
+  "geometry": {"alpha":0.00015,"bbox":[-78.96964263916,42.02518081665,-78.961013793945,42.029388427734],"coordinates":[[[[-78.968224,42.028416],[-78.969643,42.029388],[-78.966743,42.028042],[-78.961014,42.025181],[-78.966721,42.027172],[-78.968224,42.028416]]]],"created":1292442330,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/28744845_20101215_cfa6066883.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

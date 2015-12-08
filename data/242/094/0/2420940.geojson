@@ -1,0 +1,15 @@
+{
+  "id": 2420940,
+  "type": "Feature",
+  "properties": {
+    "name":"Hicksbaugh, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2420940,
+    "woe:name":"Hicksbaugh, Texas, United States",
+    "woe:place_id":"aVMmJtabBZ4gJeSH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.34565,30.582432,-94.336761,30.603195],
+  "geometry": {"alpha":0.00015,"bbox":[-94.345649719238,30.582431793213,-94.336761474609,30.60319519043],"coordinates":[[[[-94.336761,30.584551],[-94.337463,30.582432],[-94.339546,30.582432],[-94.34565,30.603195],[-94.336998,30.584665],[-94.336761,30.584551]]]],"created":1292477468,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2420940_20101216_b6fd3fa9db.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

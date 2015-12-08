@@ -1,0 +1,15 @@
+{
+  "id": 20156292,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Rodach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20156292,
+    "woe:name":"Bad Rodach, Bavaria, Germany",
+    "woe:place_id":"UHlt5iubAZ1UP1F8lA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.766322,50.330566,10.77812,50.343365],
+  "geometry": {"alpha":0.00015,"bbox":[10.766322135925,50.33056640625,10.778120040894,50.343364715576],"coordinates":[[[[10.777914,50.340565],[10.768016,50.330566],[10.766322,50.331001],[10.76894,50.343365],[10.777244,50.342392],[10.77812,50.342171],[10.777914,50.340565]]]],"created":1292548787,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/20156292_20101217_2eb15d6323.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 888493,
+  "type": "Feature",
+  "properties": {
+    "name":"Drag, Kalmar, Sweden",
+    "placetype":"locality",
+    "woe:id":888493,
+    "woe:name":"Drag, Kalmar, Sweden",
+    "woe:place_id":"Mj.Q3WeRCZT7FmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.363277,56.741714,16.380287,56.759499],
+  "geometry": {"alpha":0.00015,"bbox":[16.363277435303,56.741714477539,16.38028717041,56.759498596191],"coordinates":[[[[16.380266,56.757271],[16.374563,56.755936],[16.363277,56.741714],[16.370035,56.759499],[16.38028,56.757275],[16.380287,56.757271],[16.380266,56.757271]]]],"created":1292506090,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/888493_20101216_bef79b2e36.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

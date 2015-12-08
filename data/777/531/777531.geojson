@@ -1,0 +1,15 @@
+{
+  "id": 777531,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilella Alta, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":777531,
+    "woe:name":"Vilella Alta, Catalonia, Spain",
+    "woe:place_id":"EQOGovieBpvUaqY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.775394,41.210171,0.794186,41.236462],
+  "geometry": {"alpha":0.00015,"bbox":[0.77539402246475,41.21017074585,0.7941859960556,41.236461639404],"coordinates":[[[[0.779685,41.227085],[0.794186,41.236462],[0.780486,41.220974],[0.780029,41.210171],[0.775394,41.213917],[0.776596,41.227989],[0.779685,41.227085]]]],"created":1292492231,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/777531_20101216_ab868b1f9c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 40096,
+  "type": "Feature",
+  "properties": {
+    "name":"Wharton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40096,
+    "woe:name":"Wharton, England, United Kingdom",
+    "woe:place_id":"X2MnP_.dAZxSFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.522907,53.191689,-2.49278,53.214874],
+  "geometry": {"alpha":0.00015,"bbox":[-2.5229070186615,53.191688537598,-2.4927799701691,53.214874267578],"coordinates":[[[[-2.516862,53.204838],[-2.522907,53.214874],[-2.50986,53.204823],[-2.49278,53.191689],[-2.509303,53.197781],[-2.516862,53.204838]]]],"created":1248271803,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2596/shapefiles/40096_20090722_db88be373e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

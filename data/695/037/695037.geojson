@@ -1,0 +1,15 @@
+{
+  "id": 695037,
+  "type": "Feature",
+  "properties": {
+    "name":"Silberborn, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":695037,
+    "woe:name":"Silberborn, Lower Saxony, Germany",
+    "woe:place_id":"oSkN6AOfCJk7HC4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.536615,51.765728,9.545831,51.779392],
+  "geometry": {"alpha":0.00015,"bbox":[9.5366153717041,51.765727996826,9.5458307266235,51.779392242432],"coordinates":[[[[9.545831,51.777905],[9.544407,51.765728],[9.54154,51.770256],[9.536615,51.774708],[9.540767,51.777321],[9.543342,51.779392],[9.545831,51.777905]]]],"created":1292532214,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/695037_20101216_fc4fc85598.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

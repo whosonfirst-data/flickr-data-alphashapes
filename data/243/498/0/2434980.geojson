@@ -1,0 +1,15 @@
+{
+  "id": 2434980,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Jem, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2434980,
+    "woe:name":"Lake Jem, Florida, United States",
+    "woe:place_id":"EHjxPr.bBZ9jHqnK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.682999,28.709999,-81.664124,28.73023],
+  "geometry": {"alpha":0.00015,"bbox":[-81.682998657227,28.709999084473,-81.664123535156,28.730230331421],"coordinates":[[[[-81.666161,28.73023],[-81.66481,28.729733],[-81.664124,28.720699],[-81.682999,28.709999],[-81.669876,28.728565],[-81.666161,28.73023]]]],"created":1234647484,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3510/shapefiles/2434980_20090214_58c194df5d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

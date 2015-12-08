@@ -1,0 +1,15 @@
+{
+  "id": 23393367,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaver Harbour, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393367,
+    "woe:name":"Beaver Harbour, New Brunswick, Canada",
+    "woe:place_id":"SlS1rBGbAp9aimgTyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.74881,45.062611,-66.733017,45.079338],
+  "geometry": {"alpha":0.00015,"bbox":[-66.748809814453,45.062610626221,-66.733016967773,45.07933807373],"coordinates":[[[[-66.737137,45.070972],[-66.733017,45.062611],[-66.739967,45.06826],[-66.742592,45.072079],[-66.74881,45.079338],[-66.737137,45.070972]]]],"created":1292529155,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/23393367_20101216_6a2663268f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

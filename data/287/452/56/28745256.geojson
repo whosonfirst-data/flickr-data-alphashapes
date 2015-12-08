@@ -1,0 +1,15 @@
+{
+  "id": 28745256,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745256,
+    "woe:name":"Valley, Pennsylvania, United States",
+    "woe:place_id":"LsN0B0mbCZugJwkMRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.667618,40.987152,-76.635391,41.018425],
+  "geometry": {"alpha":0.000234375,"bbox":[-76.667617797852,40.987152099609,-76.635391235352,41.018424987793],"coordinates":[[[[-76.666451,41.012791],[-76.667618,41.018425],[-76.665268,41.014133],[-76.644333,40.996666],[-76.635391,41.015785],[-76.637161,40.993519],[-76.651054,40.987152],[-76.665588,41.012714],[-76.666451,41.012791]]]],"created":1292549945,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/28745256_20101217_d509eeab1a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

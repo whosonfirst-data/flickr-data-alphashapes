@@ -1,0 +1,15 @@
+{
+  "id": 12624264,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Meinerzhagen, Germany",
+    "placetype":"locality",
+    "woe:id":12624264,
+    "woe:name":"Gemeinde Meinerzhagen, Germany",
+    "woe:place_id":"8rQGLiiYA5oER5pY5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.675491,51.146286,7.676275,51.146545],
+  "geometry": {"alpha":1e-05,"bbox":[7.6754908561707,51.146286010742,7.6762747764587,51.146545410156],"coordinates":[[[[7.675491,51.146442],[7.675708,51.146545],[7.676275,51.146332],[7.675983,51.146286],[7.675491,51.146442]]]],"created":1292531796,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12624264_20101216_db0e603f22.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

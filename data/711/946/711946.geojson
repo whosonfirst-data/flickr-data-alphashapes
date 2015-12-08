@@ -1,0 +1,15 @@
+{
+  "id": 711946,
+  "type": "Feature",
+  "properties": {
+    "name":"Camporovere, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":711946,
+    "woe:name":"Camporovere, Veneto, Italy",
+    "woe:place_id":"EKMsAAaeAJ0xclg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.480712,45.878059,11.491699,45.89407],
+  "geometry": {"alpha":0.00015,"bbox":[11.480711936951,45.878059387207,11.49169921875,45.894069671631],"coordinates":[[[[11.481399,45.881702],[11.491699,45.89407],[11.491699,45.888271],[11.485347,45.878059],[11.483759,45.87809],[11.480712,45.880688],[11.481399,45.881702]]]],"created":1292536532,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/711946_20101216_6848cc50e8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

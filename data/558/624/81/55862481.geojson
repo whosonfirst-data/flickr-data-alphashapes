@@ -1,0 +1,15 @@
+{
+  "id": 55862481,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Grove, Worcester, MA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55862481,
+    "woe:name":"Forest Grove, Worcester, MA, US, United States",
+    "woe:place_id":"YRNZ30mcBJTm9I9CRg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-71.818359,42.302032,-71.815117,42.305595],
+  "geometry": {"alpha":1e-05,"bbox":[-71.818359375,42.302032470703,-71.815116882324,42.305595397949],"coordinates":[[[[-71.817284,42.305595],[-71.815117,42.305405],[-71.818359,42.302032],[-71.81823,42.304855],[-71.817284,42.305595]]]],"created":1248238573,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2492/shapefiles/55862481_20090722_6de29ee486.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

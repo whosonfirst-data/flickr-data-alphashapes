@@ -1,0 +1,15 @@
+{
+  "id": 2517540,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodland Park, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2517540,
+    "woe:name":"Woodland Park, New Jersey, United States",
+    "woe:place_id":"z1AYPuSbBJ2oPvah",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.219437,40.88821,-74.191017,40.903889],
+  "geometry": {"alpha":0.00015,"bbox":[-74.219436645508,40.888210296631,-74.191017150879,40.903888702393],"coordinates":[[[[-74.199974,40.903889],[-74.199081,40.90276],[-74.191017,40.88821],[-74.19957,40.896629],[-74.219437,40.890915],[-74.199974,40.903889]]]],"created":1292543140,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2517540_20101216_457ed6948d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29348839,
+  "type": "Feature",
+  "properties": {
+    "name":"Aichele, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29348839,
+    "woe:name":"Aichele, Bavaria, Germany",
+    "woe:place_id":"uPvyHembCJ_sU3RO_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.156358,47.692028,11.160736,47.70742],
+  "geometry": {"alpha":0.00015,"bbox":[11.156357765198,47.692028045654,11.160736083984,47.707420349121],"coordinates":[[[[11.158494,47.707348],[11.160736,47.699017],[11.159019,47.692028],[11.158644,47.698414],[11.156358,47.703583],[11.158466,47.70742],[11.158494,47.707348]]]],"created":1292550039,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/29348839_20101217_ef988f7b78.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

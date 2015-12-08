@@ -1,0 +1,15 @@
+{
+  "id": 29336100,
+  "type": "Feature",
+  "properties": {
+    "name":"La Ca', Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":29336100,
+    "woe:name":"La Ca', Lombardy, Italy",
+    "woe:place_id":"Cb8rMjObCJ9LQxWPPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.1325,45.036411,9.143702,45.041695],
+  "geometry": {"alpha":0.00015,"bbox":[9.1324996948242,45.0364112854,9.1437015533447,45.041694641113],"coordinates":[[[[9.142599,45.040901],[9.143702,45.040668],[9.141311,45.036411],[9.134591,45.036564],[9.1325,45.041695],[9.142599,45.040901]]]],"created":1292457786,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/29336100_20101216_914f72bfee.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

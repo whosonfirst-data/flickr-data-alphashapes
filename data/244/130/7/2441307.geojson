@@ -1,0 +1,15 @@
+{
+  "id": 2441307,
+  "type": "Feature",
+  "properties": {
+    "name":"London Towne, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2441307,
+    "woe:name":"London Towne, Maryland, United States",
+    "woe:place_id":"wWvm0LibBZghvfzp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.542778,38.939449,-76.538605,38.942104],
+  "geometry": {"alpha":0.00015,"bbox":[-76.542778015137,38.939449310303,-76.538604736328,38.9421043396],"coordinates":[[[[-76.540939,38.941936],[-76.539284,38.941036],[-76.538605,38.940495],[-76.539429,38.940269],[-76.542778,38.939449],[-76.542603,38.942104],[-76.540939,38.941936]]]],"created":1292462163,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2441307_20101216_619291be88.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

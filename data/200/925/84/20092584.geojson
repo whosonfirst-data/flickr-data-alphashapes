@@ -1,0 +1,15 @@
+{
+  "id": 20092584,
+  "type": "Feature",
+  "properties": {
+    "name":"West End, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092584,
+    "woe:name":"West End, England, United Kingdom",
+    "woe:place_id":"qqxp.zGbAZw2tuR4bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.390457,51.731388,-1.368656,51.743931],
+  "geometry": {"alpha":0.00015,"bbox":[-1.390457034111,51.731388092041,-1.368656039238,51.74393081665],"coordinates":[[[[-1.369428,51.743931],[-1.368656,51.731388],[-1.370244,51.733459],[-1.390457,51.734257],[-1.373634,51.740318],[-1.369428,51.743931]]]],"created":1292522390,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/20092584_20101216_14bbce19cf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

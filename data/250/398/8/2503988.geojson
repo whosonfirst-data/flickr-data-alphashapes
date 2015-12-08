@@ -1,0 +1,15 @@
+{
+  "id": 2503988,
+  "type": "Feature",
+  "properties": {
+    "name":"Tanks, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2503988,
+    "woe:name":"Tanks, Oregon, United States",
+    "woe:place_id":"sEW7Nc6bBJyTLc.L",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.118065,45.781204,-118.108955,45.786259],
+  "geometry": {"alpha":0.00015,"bbox":[-118.11806488037,45.781204223633,-118.1089553833,45.78625869751],"coordinates":[[[[-118.108955,45.785496],[-118.110939,45.783569],[-118.116547,45.781204],[-118.118065,45.783226],[-118.109894,45.786259],[-118.108955,45.785496]]]],"created":1292549256,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2503988_20101217_3e0f8e7ed5.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

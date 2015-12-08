@@ -1,0 +1,15 @@
+{
+  "id": 20137210,
+  "type": "Feature",
+  "properties": {
+    "name":"Polaveno, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20137210,
+    "woe:name":"Polaveno, Lombardy, Italy",
+    "woe:place_id":"H91XOnWbAZ2NOUhdBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.111541,45.660366,10.122,45.666965],
+  "geometry": {"alpha":0.00015,"bbox":[10.111540794373,45.66036605835,10.121999740601,45.666965484619],"coordinates":[[[[10.111541,45.660366],[10.112571,45.666965],[10.121669,45.661747],[10.122,45.660999],[10.113601,45.661087],[10.111541,45.660366]]]],"created":1292457264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/20137210_20101215_8f4603e9eb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

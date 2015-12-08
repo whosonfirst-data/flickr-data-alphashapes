@@ -1,0 +1,15 @@
+{
+  "id": 2356593,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashland, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2356593,
+    "woe:name":"Ashland, Maryland, United States",
+    "woe:place_id":"RwXl_n6bApnLLW.H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.643745,39.494877,-76.637894,39.499859],
+  "geometry": {"alpha":0.00015,"bbox":[-76.643745422363,39.494876861572,-76.637893676758,39.499858856201],"coordinates":[[[[-76.643242,39.498138],[-76.643745,39.499859],[-76.642685,39.499172],[-76.637894,39.495846],[-76.641121,39.494877],[-76.643242,39.498138]]]],"created":1248138134,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2630/shapefiles/2356593_20090721_003f9db145.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

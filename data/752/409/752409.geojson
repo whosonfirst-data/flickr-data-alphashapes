@@ -1,0 +1,15 @@
+{
+  "id": 752409,
+  "type": "Feature",
+  "properties": {
+    "name":"Anaca, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":752409,
+    "woe:name":"Anaca, Basque Country, Spain",
+    "woe:place_id":"JkRLVy.eBJ7whm8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.820425,43.339413,-1.800727,43.341877],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8204250335693,43.339412689209,-1.8007270097733,43.341876983643],"coordinates":[[[[-1.810233,43.341457],[-1.820425,43.339817],[-1.810448,43.341877],[-1.810233,43.341721],[-1.800727,43.339413],[-1.810233,43.341457]]]],"created":1292447604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/752409_20101215_a131fd231f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

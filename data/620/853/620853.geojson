@@ -1,0 +1,15 @@
+{
+  "id": 620853,
+  "type": "Feature",
+  "properties": {
+    "name":"Samogneux, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":620853,
+    "woe:name":"Samogneux, Lorraine, France",
+    "woe:place_id":"SU5H3BGfA5ywaEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.335591,49.256783,5.338647,49.260471],
+  "geometry": {"alpha":0.00015,"bbox":[5.335590839386,49.256782531738,5.3386468887329,49.260471343994],"coordinates":[[[[5.335594,49.258636],[5.335591,49.258663],[5.338627,49.260471],[5.338647,49.26046],[5.338625,49.260185],[5.337402,49.256783],[5.335594,49.258636]]]],"created":1292450769,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/620853_20101215_06ff0e0cc8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

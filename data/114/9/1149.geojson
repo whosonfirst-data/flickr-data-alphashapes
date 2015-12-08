@@ -1,0 +1,15 @@
+{
+  "id": 1149,
+  "type": "Feature",
+  "properties": {
+    "name":"Otterburne, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":1149,
+    "woe:name":"Otterburne, Manitoba, Canada",
+    "woe:place_id":"QUPGNrmYAJjF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.051422,49.492661,-97.040863,49.502472],
+  "geometry": {"alpha":0.00015,"bbox":[-97.051422119141,49.492660522461,-97.040863037109,49.502471923828],"coordinates":[[[[-97.043777,49.502361],[-97.040863,49.499352],[-97.047554,49.492661],[-97.047897,49.495502],[-97.051422,49.502472],[-97.043777,49.502361]]]],"created":1292539767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1149_20101216_028d4470f0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

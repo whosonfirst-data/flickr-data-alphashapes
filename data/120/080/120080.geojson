@@ -1,0 +1,15 @@
+{
+  "id": 120080,
+  "type": "Feature",
+  "properties": {
+    "name":"El Desague, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":120080,
+    "woe:name":"El Desague, Nuevo Leon, Mexico",
+    "woe:place_id":"W0apjCCYA5wusMY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.876877,25.192514,-99.858856,25.212784],
+  "geometry": {"alpha":0.00015,"bbox":[-99.876876831055,25.192514419556,-99.858856201172,25.212783813477],"coordinates":[[[[-99.87619,25.194069],[-99.876877,25.199038],[-99.868294,25.212784],[-99.865593,25.21158],[-99.858856,25.192514],[-99.87619,25.194069]]]],"created":1292446861,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/120080_20101215_718f16e0e4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

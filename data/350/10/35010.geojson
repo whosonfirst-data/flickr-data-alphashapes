@@ -1,0 +1,15 @@
+{
+  "id": 35010,
+  "type": "Feature",
+  "properties": {
+    "name":"Slough, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35010,
+    "woe:name":"Slough, England, United Kingdom",
+    "woe:place_id":"6c_VfAOaBJxumQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.828824,51.658978,-0.823245,51.671597],
+  "geometry": {"alpha":0.00015,"bbox":[-0.82882398366928,51.658977508545,-0.8232449889183,51.6715965271],"coordinates":[[[[-0.828824,51.66819],[-0.826807,51.671089],[-0.826549,51.671597],[-0.823245,51.658978],[-0.828824,51.66819]]]],"created":1234664411,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3317/shapefiles/35010_20090215_66fcf6fd1b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

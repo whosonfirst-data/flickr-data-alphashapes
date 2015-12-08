@@ -1,0 +1,15 @@
+{
+  "id": 2491503,
+  "type": "Feature",
+  "properties": {
+    "name":"Shaker Crossing, New York, United States",
+    "placetype":"locality",
+    "woe:id":2491503,
+    "woe:name":"Shaker Crossing, New York, United States",
+    "woe:place_id":"O36tQw.bBZUenJkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.846962,42.732574,-77.843971,42.735775],
+  "geometry": {"alpha":0.00015,"bbox":[-77.846961975098,42.732574462891,-77.843971252441,42.735774993896],"coordinates":[[[[-77.846886,42.732574],[-77.846962,42.73489],[-77.843971,42.735775],[-77.844887,42.733906],[-77.846886,42.732574]]]],"created":1292422682,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2491503_20101215_431d4c424d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

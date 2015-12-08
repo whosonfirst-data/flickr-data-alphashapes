@@ -1,0 +1,15 @@
+{
+  "id": 28744571,
+  "type": "Feature",
+  "properties": {
+    "name":"North Mahoning, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744571,
+    "woe:name":"North Mahoning, Pennsylvania, United States",
+    "woe:place_id":"pdbYOHKbCZtewin3kg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.013313,40.860409,-79.001801,40.87429],
+  "geometry": {"alpha":0.00015,"bbox":[-79.013313293457,40.860408782959,-79.001800537109,40.874290466309],"coordinates":[[[[-79.013252,40.860474],[-79.013313,40.860699],[-79.001801,40.87429],[-79.012512,40.860451],[-79.012962,40.860409],[-79.013252,40.860474]]]],"created":1292530717,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/28744571_20101216_fe03f832b4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

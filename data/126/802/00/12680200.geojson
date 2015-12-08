@@ -1,0 +1,15 @@
+{
+  "id": 12680200,
+  "type": "Feature",
+  "properties": {
+    "name":"Martano, Italy",
+    "placetype":"locality",
+    "woe:id":12680200,
+    "woe:name":"Martano, Italy",
+    "woe:place_id":"I_n62MqYA5rH8VyOyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.298534,40.201847,18.303658,40.209343],
+  "geometry": {"alpha":1e-05,"bbox":[18.298534393311,40.201847076416,18.303657531738,40.209342956543],"coordinates":[[[[18.30187,40.201847],[18.300476,40.204182],[18.298534,40.209343],[18.301506,40.204575],[18.303658,40.202991],[18.30344,40.202911],[18.30187,40.201847]]]],"created":1292501702,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12680200_20101216_252f0a612c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

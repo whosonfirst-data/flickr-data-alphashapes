@@ -1,0 +1,15 @@
+{
+  "id": 12581936,
+  "type": "Feature",
+  "properties": {
+    "name":"Conchas, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":12581936,
+    "woe:name":"Conchas, Sao Paulo, Brazil",
+    "woe:place_id":"gNoPfRaYA5mtdHuYkg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-48.055916,-23.023184,-47.991112,-22.997271],
+  "geometry": {"alpha":0.0015,"bbox":[-48.05591583252,-23.023183822632,-47.991111755371,-22.997270584106],"coordinates":[[[[-48.01403,-23.023184],[-48.055916,-22.997271],[-48.0,-23.0],[-47.991112,-23.016468],[-48.001328,-23.018444],[-48.01403,-23.023184]]]],"created":1292464572,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12581936_20101216_ca7af4f85a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

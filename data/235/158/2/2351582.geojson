@@ -1,0 +1,15 @@
+{
+  "id": 2351582,
+  "type": "Feature",
+  "properties": {
+    "name":"Abernathy, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2351582,
+    "woe:name":"Abernathy, Alabama, United States",
+    "woe:place_id":"1rs_irGbApmoQLhX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.429512,33.646404,-85.404198,33.659855],
+  "geometry": {"alpha":0.00015,"bbox":[-85.429512023926,33.646404266357,-85.404197692871,33.659854888916],"coordinates":[[[[-85.423164,33.659855],[-85.414932,33.65546],[-85.404198,33.656548],[-85.417587,33.651672],[-85.429512,33.646404],[-85.423164,33.659855]]]],"created":1292550602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2351582_20101217_2f223b1e70.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

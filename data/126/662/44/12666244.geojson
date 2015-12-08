@@ -1,0 +1,15 @@
+{
+  "id": 12666244,
+  "type": "Feature",
+  "properties": {
+    "name":"Margon, France",
+    "placetype":"locality",
+    "woe:id":12666244,
+    "woe:name":"Margon, France",
+    "woe:place_id":"MB46jLeYA5qm57fR2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.301917,43.485847,3.307399,43.491226],
+  "geometry": {"alpha":1e-05,"bbox":[3.3019170761108,43.485847473145,3.3073990345001,43.491226196289],"coordinates":[[[[3.307013,43.487694],[3.306283,43.486649],[3.301917,43.485847],[3.305854,43.48774],[3.306198,43.48864],[3.307399,43.491226],[3.307013,43.487694]]]],"created":1292540337,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12666244_20101216_ddb50ea6fe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

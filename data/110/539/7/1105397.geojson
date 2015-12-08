@@ -1,0 +1,15 @@
+{
+  "id": 1105397,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosedale, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105397,
+    "woe:name":"Rosedale, Victoria, Australia",
+    "woe:place_id":"m6oRFpyYAJw_LxHz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.781555,-38.161827,146.789581,-38.151794],
+  "geometry": {"alpha":0.00015,"bbox":[146.78155517578,-38.161827087402,146.78958129883,-38.151794433594],"coordinates":[[[[146.781555,-38.152721],[146.78186,-38.152309],[146.789581,-38.151794],[146.788727,-38.155258],[146.786957,-38.157234],[146.783005,-38.161827],[146.781555,-38.152721]]]],"created":1292533147,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/1105397_20101216_8f3d75275c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

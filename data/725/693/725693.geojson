@@ -1,0 +1,15 @@
+{
+  "id": 725693,
+  "type": "Feature",
+  "properties": {
+    "name":"Vascon, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":725693,
+    "woe:name":"Vascon, Veneto, Italy",
+    "woe:place_id":"URf3AS6eA5mZfZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.287349,45.720249,12.294087,45.722717],
+  "geometry": {"alpha":0.00015,"bbox":[12.287348747253,45.720249176025,12.294087409973,45.722717285156],"coordinates":[[[[12.289506,45.72028],[12.289366,45.720303],[12.287349,45.722717],[12.291083,45.721729],[12.294001,45.720726],[12.294087,45.720249],[12.289506,45.72028]]]],"created":1292539676,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/725693_20101216_f1e90e80cc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

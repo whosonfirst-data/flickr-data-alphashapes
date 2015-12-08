@@ -1,0 +1,15 @@
+{
+  "id": 2420903,
+  "type": "Feature",
+  "properties": {
+    "name":"Hickory Woods, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2420903,
+    "woe:name":"Hickory Woods, Delaware, United States",
+    "woe:place_id":"CO3P5HKbBZ57.w07",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.706017,39.591534,-75.699997,39.594444],
+  "geometry": {"alpha":0.00015,"bbox":[-75.706016540527,39.591533660889,-75.699996948242,39.594444274902],"coordinates":[[[[-75.702492,39.594444],[-75.699997,39.593666],[-75.701118,39.592724],[-75.705238,39.591534],[-75.706017,39.592545],[-75.702492,39.594444]]]],"created":1292521177,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2420903_20101216_940ae9d833.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

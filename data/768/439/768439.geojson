@@ -1,0 +1,15 @@
+{
+  "id": 768439,
+  "type": "Feature",
+  "properties": {
+    "name":"Noceda, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":768439,
+    "woe:name":"Noceda, Galicia, Spain",
+    "woe:place_id":"rA0K.4KeB5T7cE8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.941497,42.693478,-8.927035,42.697479],
+  "geometry": {"alpha":0.00015,"bbox":[-8.9414968490601,42.693477630615,-8.9270353317261,42.697479248047],"coordinates":[[[[-8.941497,42.693478],[-8.939437,42.695557],[-8.927035,42.697479],[-8.933944,42.69455],[-8.935146,42.694611],[-8.941497,42.693478]]]],"created":1292451166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/768439_20101215_52a8408bb3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

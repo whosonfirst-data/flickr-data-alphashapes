@@ -1,0 +1,15 @@
+{
+  "id": 835164,
+  "type": "Feature",
+  "properties": {
+    "name":"Bozhentsi, Gabrovo, Bulgaria",
+    "placetype":"locality",
+    "woe:id":835164,
+    "woe:name":"Bozhentsi, Gabrovo, Bulgaria",
+    "woe:place_id":"gfQAOByRAplM5iQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.408115,42.866699,25.425797,42.885334],
+  "geometry": {"alpha":0.00015,"bbox":[25.408115386963,42.86669921875,25.425796508789,42.885334014893],"coordinates":[[[[25.424767,42.873951],[25.425797,42.871937],[25.4167,42.866699],[25.416527,42.867348],[25.408115,42.878479],[25.421118,42.885334],[25.424767,42.873951]]]],"created":1292550963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/835164_20101217_df633ae22b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

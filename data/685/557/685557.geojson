@@ -1,0 +1,15 @@
+{
+  "id": 685557,
+  "type": "Feature",
+  "properties": {
+    "name":"Polling, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685557,
+    "woe:name":"Polling, Bavaria, Germany",
+    "woe:place_id":"aIZKQzSfCZkvfNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.130352,47.80566,11.14048,47.813499],
+  "geometry": {"alpha":0.00015,"bbox":[11.130352020264,47.805660247803,11.140480041504,47.813499450684],"coordinates":[[[[11.130352,47.812233],[11.130588,47.812805],[11.133012,47.813499],[11.134643,47.811539],[11.14048,47.80566],[11.131221,47.810158],[11.130352,47.812233]]]],"created":1292536326,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/685557_20101216_214c356a3a.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

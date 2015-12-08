@@ -1,0 +1,15 @@
+{
+  "id": 23397633,
+  "type": "Feature",
+  "properties": {
+    "name":"Northbrook, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397633,
+    "woe:name":"Northbrook, Ontario, Canada",
+    "woe:place_id":"YLIhgb.bAp.c9uL2xg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.168655,44.722343,-77.159088,44.743626],
+  "geometry": {"alpha":0.00015,"bbox":[-77.168655395508,44.722343444824,-77.159088134766,44.743625640869],"coordinates":[[[[-77.168655,44.722343],[-77.162544,44.736332],[-77.163673,44.743626],[-77.159088,44.733429],[-77.168655,44.722343]]]],"created":1292536872,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/23397633_20101216_9d0e3dc0e3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

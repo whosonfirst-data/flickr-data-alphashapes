@@ -1,0 +1,15 @@
+{
+  "id": 29374350,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":29374350,
+    "woe:name":"Richmond, Nova Scotia, Canada",
+    "woe:place_id":"VS0Es4mbCJ.EnFfkcg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.870266,45.650227,-60.861382,45.657204],
+  "geometry": {"alpha":0.00015,"bbox":[-60.870265960693,45.650226593018,-60.861381530762,45.657203674316],"coordinates":[[[[-60.868893,45.654068],[-60.867115,45.657204],[-60.861382,45.654202],[-60.870266,45.650227],[-60.868893,45.654068]]]],"created":1248090252,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2591/shapefiles/29374350_20090720_5488866b68.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2452302,
+  "type": "Feature",
+  "properties": {
+    "name":"Mishawaka, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2452302,
+    "woe:name":"Mishawaka, Oregon, United States",
+    "woe:place_id":"vKK_ZDCbBZnZEXfz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.579575,45.865406,-123.573341,45.868198],
+  "geometry": {"alpha":0.00015,"bbox":[-123.57957458496,45.865406036377,-123.57334136963,45.868198394775],"coordinates":[[[[-123.579575,45.865406],[-123.577377,45.866493],[-123.574905,45.868198],[-123.573341,45.865704],[-123.579575,45.865406]]]],"created":1292546732,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2452302_20101217_f40d370ef5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

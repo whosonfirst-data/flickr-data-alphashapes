@@ -1,0 +1,15 @@
+{
+  "id": 2455891,
+  "type": "Feature",
+  "properties": {
+    "name":"Mountain View, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2455891,
+    "woe:name":"Mountain View, North Carolina, United States",
+    "woe:place_id":"HKADclubBZk3Yz5C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.084137,36.075462,-79.070267,36.080841],
+  "geometry": {"alpha":0.00015,"bbox":[-79.084136962891,36.075462341309,-79.070266723633,36.080841064453],"coordinates":[[[[-79.07177,36.080841],[-79.070267,36.080276],[-79.070526,36.079819],[-79.084137,36.075462],[-79.072517,36.080601],[-79.07177,36.080841]]]],"created":1292522968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2455891_20101216_86263572a8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

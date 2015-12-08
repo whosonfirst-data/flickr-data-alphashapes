@@ -1,0 +1,15 @@
+{
+  "id": 12630446,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hornburg, Germany",
+    "placetype":"locality",
+    "woe:id":12630446,
+    "woe:name":"Gemeinde Hornburg, Germany",
+    "woe:place_id":"_vu_.fGYA5oLaUhIfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.603523,52.028641,10.60642,52.031345],
+  "geometry": {"alpha":1e-05,"bbox":[10.603523254395,52.02864074707,10.606419563293,52.031345367432],"coordinates":[[[[10.60642,52.031345],[10.605604,52.029091],[10.605003,52.028641],[10.603523,52.030052],[10.604724,52.030846],[10.605068,52.030895],[10.60642,52.031345]]]],"created":1292541474,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12630446_20101216_820cdb1243.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

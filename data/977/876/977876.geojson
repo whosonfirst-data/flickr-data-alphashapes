@@ -1,0 +1,15 @@
+{
+  "id": 977876,
+  "type": "Feature",
+  "properties": {
+    "name":"Tourpes, Hainault, Belgium",
+    "placetype":"locality",
+    "woe:id":977876,
+    "woe:name":"Tourpes, Hainault, Belgium",
+    "woe:place_id":"6BtpK6aQBps11AQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.649861,50.570473,3.65216,50.573399],
+  "geometry": {"alpha":0.00015,"bbox":[3.6498610973358,50.570472717285,3.6521599292755,50.573398590088],"coordinates":[[[[3.651808,50.570473],[3.651703,50.570599],[3.649861,50.572437],[3.65216,50.573399],[3.651948,50.570587],[3.651809,50.570473],[3.651808,50.570473]]]],"created":1292540969,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/977876_20101216_900834ac81.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

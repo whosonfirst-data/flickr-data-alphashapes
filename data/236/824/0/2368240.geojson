@@ -1,0 +1,15 @@
+{
+  "id": 2368240,
+  "type": "Feature",
+  "properties": {
+    "name":"Brant, New York, United States",
+    "placetype":"locality",
+    "woe:id":2368240,
+    "woe:name":"Brant, New York, United States",
+    "woe:place_id":"iH2UghSbApotRWRM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.029587,42.593311,-79.016159,42.613823],
+  "geometry": {"alpha":0.00015,"bbox":[-79.029586791992,42.593311309814,-79.016159057617,42.613822937012],"coordinates":[[[[-79.018967,42.593311],[-79.029587,42.603264],[-79.025169,42.607399],[-79.021355,42.609577],[-79.017235,42.613449],[-79.016159,42.613823],[-79.018967,42.593311]]]],"created":1292538083,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2368240_20101216_ec8c090e7c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

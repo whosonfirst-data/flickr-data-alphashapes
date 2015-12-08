@@ -1,0 +1,15 @@
+{
+  "id": 2441697,
+  "type": "Feature",
+  "properties": {
+    "name":"Longpoint, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2441697,
+    "woe:name":"Longpoint, Texas, United States",
+    "woe:place_id":"vMGD_tGbBZjc2Gx1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.538063,30.231764,-96.518112,30.245573],
+  "geometry": {"alpha":0.00015,"bbox":[-96.538063049316,30.231763839722,-96.518112182617,30.245573043823],"coordinates":[[[[-96.521133,30.231846],[-96.521568,30.231764],[-96.538063,30.231855],[-96.530502,30.235332],[-96.518112,30.245573],[-96.521133,30.231846]]]],"created":1292528285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2441697_20101216_67da4d906b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

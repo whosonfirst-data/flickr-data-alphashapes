@@ -1,0 +1,15 @@
+{
+  "id": 29783,
+  "type": "Feature",
+  "properties": {
+    "name":"Nether Broughton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29783,
+    "woe:name":"Nether Broughton, England, United Kingdom",
+    "woe:place_id":"wzfAeFKbCJseUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.973663,52.827869,-0.968492,52.829174],
+  "geometry": {"alpha":0.00015,"bbox":[-0.97366297245026,52.827869415283,-0.96849197149277,52.829174041748],"coordinates":[[[[-0.973663,52.828232],[-0.972375,52.829174],[-0.969972,52.828983],[-0.968492,52.828621],[-0.97229,52.827869],[-0.973663,52.828232]]]],"created":1247919732,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2544/shapefiles/29783_20090718_f7fbdbc3c5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

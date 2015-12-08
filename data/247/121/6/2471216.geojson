@@ -1,0 +1,15 @@
+{
+  "id": 2471216,
+  "type": "Feature",
+  "properties": {
+    "name":"Philadelphia, New York, United States",
+    "placetype":"locality",
+    "woe:id":2471216,
+    "woe:name":"Philadelphia, New York, United States",
+    "woe:place_id":"hw7ktHybBZt_htK2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.729996,44.14711,-75.700951,44.172848],
+  "geometry": {"alpha":0.00015,"bbox":[-75.729995727539,44.147109985352,-75.700950622559,44.172847747803],"coordinates":[[[[-75.71125,44.153084],[-75.709358,44.160042],[-75.715881,44.172848],[-75.700951,44.162994],[-75.701637,44.14711],[-75.711334,44.152222],[-75.729996,44.148708],[-75.71125,44.153084]]]],"created":1292532002,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2471216_20101216_fe3f6c1b86.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

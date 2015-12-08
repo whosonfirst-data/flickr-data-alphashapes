@@ -1,0 +1,15 @@
+{
+  "id": 776733,
+  "type": "Feature",
+  "properties": {
+    "name":"Vall d'Alba, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":776733,
+    "woe:name":"Vall d'Alba, Valencia, Spain",
+    "woe:place_id":"0Eui69SeBpoPQwo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.050345,40.164635,-0.050175,40.164825],
+  "geometry": {"alpha":0.00015,"bbox":[-0.050344999879599,40.16463470459,-0.050174999982119,40.164825439453],"coordinates":[[[[-0.050345,40.164635],[-0.050344,40.164639],[-0.050177,40.164825],[-0.050175,40.164825],[-0.050341,40.164639],[-0.050345,40.164635]]]],"created":1292527416,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/776733_20101216_6dce1d05b8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

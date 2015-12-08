@@ -1,0 +1,15 @@
+{
+  "id": 19001,
+  "type": "Feature",
+  "properties": {
+    "name":"East Holme, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19001,
+    "woe:name":"East Holme, England, United Kingdom",
+    "woe:place_id":"F6RVih2YCJyUyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.149457,50.670708,-2.132549,50.684711],
+  "geometry": {"alpha":0.00015,"bbox":[-2.1494569778442,50.670707702637,-2.1325490474701,50.684711456299],"coordinates":[[[[-2.147655,50.670708],[-2.149457,50.673222],[-2.147773,50.673649],[-2.137527,50.684711],[-2.132549,50.678406],[-2.147655,50.670708]]]],"created":1292536460,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/19001_20101216_4fd03c6360.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

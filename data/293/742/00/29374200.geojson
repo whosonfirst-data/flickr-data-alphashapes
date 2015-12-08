@@ -1,0 +1,15 @@
+{
+  "id": 29374200,
+  "type": "Feature",
+  "properties": {
+    "name":"Montauban, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":29374200,
+    "woe:name":"Montauban, Quebec, Canada",
+    "woe:place_id":"pYytVp6bCJ8g7dYLPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.304543,46.883747,-72.291412,46.88718],
+  "geometry": {"alpha":0.00015,"bbox":[-72.304542541504,46.88374710083,-72.291412353516,46.887180328369],"coordinates":[[[[-72.304543,46.883747],[-72.301796,46.885979],[-72.291412,46.88718],[-72.301193,46.88504],[-72.304543,46.883747]]]],"created":1292496788,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/29374200_20101216_4495fe83a7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

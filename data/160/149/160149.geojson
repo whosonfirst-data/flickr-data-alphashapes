@@ -1,0 +1,15 @@
+{
+  "id": 160149,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Veraguas, Panama",
+    "placetype":"locality",
+    "woe:id":160149,
+    "woe:name":"San Francisco, Veraguas, Panama",
+    "woe:place_id":"hzOKqF2YB5znNBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.973358,8.246828,-80.972839,8.248017],
+  "geometry": {"alpha":0.00015,"bbox":[-80.973358154297,8.2468280792236,-80.972839355469,8.2480173110962],"coordinates":[[[[-80.973099,8.247763],[-80.973015,8.247848],[-80.972931,8.247933],[-80.972839,8.248017],[-80.972839,8.247508],[-80.973015,8.247253],[-80.973358,8.246828],[-80.973274,8.247168],[-80.973099,8.247763]]]],"created":1292443274,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/160149_20101215_c1332d523c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2402636,
+  "type": "Feature",
+  "properties": {
+    "name":"Faulkton, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2402636,
+    "woe:name":"Faulkton, South Dakota, United States",
+    "woe:place_id":"O0f9FGybBZwnYGSW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.134216,45.033001,-99.121773,45.035168],
+  "geometry": {"alpha":0.00015,"bbox":[-99.134216308594,45.033000946045,-99.121772766113,45.035167694092],"coordinates":[[[[-99.127502,45.033001],[-99.134216,45.035168],[-99.12706,45.033939],[-99.126465,45.03397],[-99.121773,45.033447],[-99.127502,45.033001]]]],"created":1247958490,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2608/shapefiles/2402636_20090718_0e1dd305fc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

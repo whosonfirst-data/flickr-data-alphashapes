@@ -1,0 +1,15 @@
+{
+  "id": 12680301,
+  "type": "Feature",
+  "properties": {
+    "name":"Mesagne, Italy",
+    "placetype":"locality",
+    "woe:id":12680301,
+    "woe:name":"Mesagne, Italy",
+    "woe:place_id":"Nr07w9yYA5o1hrPROQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.804008,40.558678,17.808708,40.562328],
+  "geometry": {"alpha":1e-05,"bbox":[17.804008483887,40.55867767334,17.808708190918,40.562328338623],"coordinates":[[[[17.808708,40.559834],[17.808151,40.558678],[17.807528,40.560291],[17.804008,40.561874],[17.806776,40.562328],[17.808708,40.559834]]]],"created":1226552164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3285/shapefiles/12680301_20081113_7ef6c992ba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2378218,
+  "type": "Feature",
+  "properties": {
+    "name":"Chapmanville, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2378218,
+    "woe:name":"Chapmanville, West Virginia, United States",
+    "woe:place_id":"8mk1J8ObApvH.KUW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.024017,37.95232,-82.00985,37.976528],
+  "geometry": {"alpha":0.00015,"bbox":[-82.024017333984,37.952320098877,-82.00984954834,37.976528167725],"coordinates":[[[[-82.023613,37.967522],[-82.024017,37.970108],[-82.016518,37.976528],[-82.0205,37.97123],[-82.00985,37.95232],[-82.023613,37.967522]]]],"created":1292533904,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2378218_20101216_5f66b4261a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

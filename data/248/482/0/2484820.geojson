@@ -1,0 +1,15 @@
+{
+  "id": 2484820,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosendorf, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2484820,
+    "woe:name":"Rosendorf, West Virginia, United States",
+    "woe:place_id":"CBsKmG2bBZQcaEwa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.582901,39.052383,-79.579979,39.064182],
+  "geometry": {"alpha":0.00015,"bbox":[-79.582901000977,39.052383422852,-79.579978942871,39.064182281494],"coordinates":[[[[-79.582359,39.054752],[-79.582901,39.052383],[-79.582603,39.054779],[-79.579979,39.064182],[-79.582352,39.054867],[-79.582359,39.054752]]]],"created":1292541113,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2484820_20101216_5529924274.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

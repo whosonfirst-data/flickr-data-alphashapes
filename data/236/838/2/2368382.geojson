@@ -1,0 +1,15 @@
+{
+  "id": 2368382,
+  "type": "Feature",
+  "properties": {
+    "name":"Breathedsville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2368382,
+    "woe:name":"Breathedsville, Maryland, United States",
+    "woe:place_id":"4RXyD3GbApr9NXdF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.712166,39.534973,-77.709183,39.541813],
+  "geometry": {"alpha":0.00015,"bbox":[-77.71216583252,39.534973144531,-77.709182739258,39.541812896729],"coordinates":[[[[-77.712166,39.540009],[-77.711365,39.541813],[-77.709625,39.538517],[-77.709183,39.534973],[-77.711449,39.538387],[-77.712166,39.540009]]]],"created":1292546708,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2368382_20101217_9d9f3ee7c0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

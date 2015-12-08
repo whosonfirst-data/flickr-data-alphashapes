@@ -1,0 +1,15 @@
+{
+  "id": 2467578,
+  "type": "Feature",
+  "properties": {
+    "name":"Palatine Bridge, New York, United States",
+    "placetype":"locality",
+    "woe:id":2467578,
+    "woe:name":"Palatine Bridge, New York, United States",
+    "woe:place_id":"Sm0odL6bBZowKxA4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.582748,42.909229,-74.569351,42.916302],
+  "geometry": {"alpha":0.00015,"bbox":[-74.582748413086,42.909229278564,-74.569351196289,42.916301727295],"coordinates":[[[[-74.569351,42.910843],[-74.573822,42.910358],[-74.577599,42.909229],[-74.582748,42.911179],[-74.573479,42.916302],[-74.569351,42.910843]]]],"created":1292460542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2467578_20101216_bc7c8448e6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

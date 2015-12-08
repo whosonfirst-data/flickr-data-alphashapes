@@ -1,0 +1,15 @@
+{
+  "id": 2458586,
+  "type": "Feature",
+  "properties": {
+    "name":"New Horizons, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2458586,
+    "woe:name":"New Horizons, Maryland, United States",
+    "woe:place_id":"oD.jP1ObBZkl9Opj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.107338,39.451836,-77.105354,39.452415],
+  "geometry": {"alpha":0.00015,"bbox":[-77.10733795166,39.451835632324,-77.105354309082,39.452415466309],"coordinates":[[[[-77.106598,39.451935],[-77.107338,39.452415],[-77.1063,39.452183],[-77.105377,39.451859],[-77.105354,39.451836],[-77.106598,39.451935]]]],"created":1292491571,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2458586_20101216_a55745e7b7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

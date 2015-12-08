@@ -1,0 +1,15 @@
+{
+  "id": 20096730,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberlisse, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":20096730,
+    "woe:name":"Oberlisse, Lower Austria, Austria",
+    "woe:place_id":"NOBKwp6bAZxqepLf5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.418421,48.283401,16.420547,48.285378],
+  "geometry": {"alpha":0.00015,"bbox":[16.418420791626,48.283401489258,16.420547485352,48.285377502441],"coordinates":[[[[16.41848,48.284012],[16.41856,48.284222],[16.418938,48.284508],[16.420547,48.285378],[16.419649,48.283401],[16.418421,48.28373],[16.41848,48.284012]]]],"created":1292454844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/20096730_20101215_3065228896.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

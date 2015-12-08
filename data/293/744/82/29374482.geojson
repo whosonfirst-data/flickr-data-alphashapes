@@ -1,0 +1,15 @@
+{
+  "id": 29374482,
+  "type": "Feature",
+  "properties": {
+    "name":"Black River, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":29374482,
+    "woe:name":"Black River, New Brunswick, Canada",
+    "woe:place_id":"IAZncKebCJ_BN6UTSA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.785873,45.254044,-65.773254,45.267334],
+  "geometry": {"alpha":0.00015,"bbox":[-65.785873413086,45.254043579102,-65.773254394531,45.267333984375],"coordinates":[[[[-65.773254,45.257427],[-65.7742,45.254044],[-65.775406,45.254288],[-65.776863,45.254467],[-65.785873,45.267334],[-65.773254,45.257427]]]],"created":1292442488,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/29374482_20101215_f166417000.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

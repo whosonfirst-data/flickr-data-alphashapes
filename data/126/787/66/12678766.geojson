@@ -1,0 +1,15 @@
+{
+  "id": 12678766,
+  "type": "Feature",
+  "properties": {
+    "name":"Coli, Italy",
+    "placetype":"locality",
+    "woe:id":12678766,
+    "woe:name":"Coli, Italy",
+    "woe:place_id":"wesj9dGYA5o79fWs3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.49723,44.821693,9.499934,44.822205],
+  "geometry": {"alpha":1e-05,"bbox":[9.4972295761108,44.82169342041,9.4999341964722,44.822204589844],"coordinates":[[[[9.49723,44.821693],[9.498785,44.822205],[9.499097,44.822075],[9.499934,44.8218],[9.49723,44.821693]]]],"created":1247796724,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3422/shapefiles/12678766_20090717_6b28eaa2bb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 549971,
+  "type": "Feature",
+  "properties": {
+    "name":"Stainz, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":549971,
+    "woe:name":"Stainz, Styria, Austria",
+    "woe:place_id":".EKhqoucBZVfuS4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.256404,46.887768,15.26315,46.897678],
+  "geometry": {"alpha":0.00015,"bbox":[15.256403923035,46.887767791748,15.263150215149,46.897678375244],"coordinates":[[[[15.26315,46.896961],[15.262885,46.894218],[15.259065,46.887768],[15.257949,46.888],[15.256404,46.895744],[15.26223,46.897678],[15.26315,46.896961]]]],"created":1292530855,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/549971_20101216_68b2c99ee4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

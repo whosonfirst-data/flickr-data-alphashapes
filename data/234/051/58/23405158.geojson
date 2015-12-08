@@ -1,0 +1,15 @@
+{
+  "id": 23405158,
+  "type": "Feature",
+  "properties": {
+    "name":"Arnold, Abbotsford, BC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":23405158,
+    "woe:name":"Arnold, Abbotsford, BC, CA, Canada",
+    "woe:place_id":"iVSRlBmbAphWiAIPFA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-122.1511,49.007832,-122.149597,49.010212],
+  "geometry": {"alpha":1e-05,"bbox":[-122.15110015869,49.007831573486,-122.14959716797,49.01021194458],"coordinates":[[[[-122.15007,49.008312],[-122.1511,49.010212],[-122.150093,49.008926],[-122.149597,49.007832],[-122.15007,49.008312]]]],"created":1247877003,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2442/shapefiles/23405158_20090718_b5cba12b86.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

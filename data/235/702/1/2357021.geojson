@@ -1,0 +1,15 @@
+{
+  "id": 2357021,
+  "type": "Feature",
+  "properties": {
+    "name":"Atlanta, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2357021,
+    "woe:name":"Atlanta, Michigan, United States",
+    "woe:place_id":"9ML0hpCbApnpcEw6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.150261,44.989571,-84.123169,45.015331],
+  "geometry": {"alpha":0.00015,"bbox":[-84.150260925293,44.989570617676,-84.123168945312,45.015331268311],"coordinates":[[[[-84.14257,45.003166],[-84.148232,44.989571],[-84.148666,44.993877],[-84.145958,45.001709],[-84.150261,45.011089],[-84.134842,45.015331],[-84.123169,45.005898],[-84.14257,45.003166]]]],"created":1292488568,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2357021_20101216_1d04c0461c.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

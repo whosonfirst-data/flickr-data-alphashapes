@@ -1,0 +1,15 @@
+{
+  "id": 2369628,
+  "type": "Feature",
+  "properties": {
+    "name":"Brockmans Corner, California, United States",
+    "placetype":"locality",
+    "woe:id":2369628,
+    "woe:name":"Brockmans Corner, California, United States",
+    "woe:place_id":"i2NLSSmbApr33rL2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.437424,37.372612,-118.421257,37.378342],
+  "geometry": {"alpha":0.00015,"bbox":[-118.43742370605,37.372611999512,-118.42125701904,37.378341674805],"coordinates":[[[[-118.421257,37.375874],[-118.429352,37.372612],[-118.437424,37.378342],[-118.427368,37.375683],[-118.421677,37.376743],[-118.421257,37.375874]]]],"created":1292551557,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2369628_20101217_bfbf1263f5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

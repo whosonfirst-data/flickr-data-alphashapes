@@ -1,0 +1,15 @@
+{
+  "id": 28644658,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawai, Bay of Plenty, New Zealand",
+    "placetype":"locality",
+    "woe:id":28644658,
+    "woe:name":"Hawai, Bay of Plenty, New Zealand",
+    "woe:place_id":"ODoq.CKbCZrieXIWBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [177.545929,-37.906704,177.552444,-37.890839],
+  "geometry": {"alpha":0.00015,"bbox":[177.54592895508,-37.906703948975,177.55244445801,-37.890838623047],"coordinates":[[[[177.549362,-37.90073],[177.548004,-37.906162],[177.547195,-37.906704],[177.545929,-37.895447],[177.552444,-37.890839],[177.549362,-37.90073]]]],"created":1292496491,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/28644658_20101216_48e2961dca.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

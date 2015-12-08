@@ -1,0 +1,15 @@
+{
+  "id": 2418165,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrisville Farmettes, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2418165,
+    "woe:name":"Harrisville Farmettes, Maryland, United States",
+    "woe:place_id":"6ETEoNmbBZ10wgG7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.19136,39.427906,-77.184998,39.428303],
+  "geometry": {"alpha":0.00015,"bbox":[-77.191360473633,39.427906036377,-77.184997558594,39.428302764893],"coordinates":[[[[-77.19136,39.42791],[-77.19136,39.428204],[-77.190659,39.428238],[-77.184998,39.428303],[-77.190804,39.427906],[-77.19136,39.42791]]]],"created":1292521732,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2418165_20101216_1ba31462f0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

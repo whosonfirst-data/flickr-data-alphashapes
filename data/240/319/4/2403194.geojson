@@ -1,0 +1,15 @@
+{
+  "id": 2403194,
+  "type": "Feature",
+  "properties": {
+    "name":"Fertile, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2403194,
+    "woe:name":"Fertile, Minnesota, United States",
+    "woe:place_id":"h0n4Qs6bBZyI0F4f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.292122,47.513012,-96.275764,47.535892],
+  "geometry": {"alpha":0.00015,"bbox":[-96.292121887207,47.513011932373,-96.275764465332,47.535892486572],"coordinates":[[[[-96.276726,47.532791],[-96.275764,47.529896],[-96.292122,47.513012],[-96.289673,47.528214],[-96.28109,47.535892],[-96.276726,47.532791]]]],"created":1292524445,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2403194_20101216_0c5f1faf2d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

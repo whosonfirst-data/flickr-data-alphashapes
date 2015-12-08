@@ -1,0 +1,15 @@
+{
+  "id": 12671939,
+  "type": "Feature",
+  "properties": {
+    "name":"Uzerche, France",
+    "placetype":"locality",
+    "woe:id":12671939,
+    "woe:name":"Uzerche, France",
+    "woe:place_id":"mrZUHbuYA5q7VMEjtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.561775,45.426556,1.566925,45.432671],
+  "geometry": {"alpha":1e-05,"bbox":[1.561774969101,45.426555633545,1.5669250488281,45.432670593262],"coordinates":[[[[1.565755,45.426556],[1.564865,45.427612],[1.561775,45.430984],[1.566925,45.432671],[1.566925,45.429779],[1.566796,45.427219],[1.565755,45.426556]]]],"created":1292530923,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12671939_20101216_63cf7ff626.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

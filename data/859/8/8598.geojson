@@ -1,0 +1,15 @@
+{
+  "id": 8598,
+  "type": "Feature",
+  "properties": {
+    "name":"Hussar, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8598,
+    "woe:name":"Hussar, Alberta, Canada",
+    "woe:place_id":"iOSur6mRBJVa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.707794,51.038559,-112.679726,51.045757],
+  "geometry": {"alpha":0.00015,"bbox":[-112.70779418945,51.038558959961,-112.67972564697,51.045757293701],"coordinates":[[[[-112.679855,51.039261],[-112.682648,51.038559],[-112.687622,51.0415],[-112.707794,51.041843],[-112.686226,51.045757],[-112.679726,51.041771],[-112.679855,51.039261]]]],"created":1292473808,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/8598_20101216_c4fcac11a0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

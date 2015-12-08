@@ -1,0 +1,15 @@
+{
+  "id": 2425024,
+  "type": "Feature",
+  "properties": {
+    "name":"Howell, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2425024,
+    "woe:name":"Howell, Kansas, United States",
+    "woe:place_id":"5nS8JgubBZ5S9sCD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.207932,37.789577,-100.196274,37.794559],
+  "geometry": {"alpha":0.00015,"bbox":[-100.20793151855,37.789577484131,-100.19627380371,37.79455947876],"coordinates":[[[[-100.196426,37.79113],[-100.196274,37.791023],[-100.197525,37.789684],[-100.19799,37.789577],[-100.207932,37.794559],[-100.196426,37.79113]]]],"created":1292530787,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2425024_20101216_7c1edc5b7a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

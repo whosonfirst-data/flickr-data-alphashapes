@@ -1,0 +1,15 @@
+{
+  "id": 2505454,
+  "type": "Feature",
+  "properties": {
+    "name":"The Rocks, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2505454,
+    "woe:name":"The Rocks, Kentucky, United States",
+    "woe:place_id":"ca2NLIKbBJwpW6KR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.117004,37.673428,-88.072929,37.681477],
+  "geometry": {"alpha":0.00015,"bbox":[-88.117004394531,37.673427581787,-88.072929382324,37.681476593018],"coordinates":[[[[-88.072929,37.676212],[-88.093872,37.674377],[-88.117004,37.673428],[-88.114258,37.681477],[-88.093872,37.674648],[-88.072929,37.676212]]]],"created":1239489130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3316/shapefiles/2505454_20090411_eedc6a4573.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

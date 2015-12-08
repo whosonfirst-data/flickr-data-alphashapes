@@ -1,0 +1,15 @@
+{
+  "id": 2469542,
+  "type": "Feature",
+  "properties": {
+    "name":"Peabody, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2469542,
+    "woe:name":"Peabody, Kentucky, United States",
+    "woe:place_id":"nJsGTVabBZq1Lg6x",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.592514,37.126862,-83.582397,37.14024],
+  "geometry": {"alpha":0.00015,"bbox":[-83.592514038086,37.126861572266,-83.582397460938,37.140239715576],"coordinates":[[[[-83.591652,37.140221],[-83.591484,37.140152],[-83.582397,37.126862],[-83.592514,37.138626],[-83.591835,37.14024],[-83.591652,37.140221]]]],"created":1247816766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3489/shapefiles/2469542_20090717_9b76a3fcb9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

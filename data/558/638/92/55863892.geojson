@@ -1,0 +1,15 @@
+{
+  "id": 55863892,
+  "type": "Feature",
+  "properties": {
+    "name":"Murilla, Queensland, Australia",
+    "placetype":"county",
+    "woe:id":55863892,
+    "woe:name":"Murilla, Queensland, Australia",
+    "woe:place_id":"y4B1A5ycBJQrGcVQ4g",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [150.165939,-26.6628,150.189438,-26.606001],
+  "geometry": {"alpha":0.0015,"bbox":[150.16593933105,-26.662799835205,150.18943786621,-26.606000900269],"coordinates":[[[[150.188492,-26.658695],[150.189438,-26.660614],[150.181732,-26.6628],[150.178482,-26.662762],[150.165939,-26.65114],[150.182007,-26.606001],[150.188492,-26.658695]]]],"created":1292543208,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/55863892_20101216_1300449402.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

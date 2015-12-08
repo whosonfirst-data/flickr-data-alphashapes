@@ -1,0 +1,15 @@
+{
+  "id": 12602785,
+  "type": "Feature",
+  "properties": {
+    "name":"Gistel, Belgium",
+    "placetype":"locality",
+    "woe:id":12602785,
+    "woe:name":"Gistel, Belgium",
+    "woe:place_id":"7K76OD6YA5oaQfrVRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.9843,51.132099,2.9874,51.136101],
+  "geometry": {"alpha":1e-05,"bbox":[2.9842998981476,51.132099151611,2.9874000549316,51.136100769043],"coordinates":[[[[2.9862,51.133301],[2.9843,51.132099],[2.9858,51.133701],[2.9874,51.136101],[2.9867,51.134201],[2.9862,51.133301]]]],"created":1248263769,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2456/shapefiles/12602785_20090722_077340cb0d.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

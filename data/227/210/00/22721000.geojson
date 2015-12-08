@@ -1,0 +1,15 @@
+{
+  "id": 22721000,
+  "type": "Feature",
+  "properties": {
+    "name":"Brooklyn, Melbourne, VIC, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":22721000,
+    "woe:name":"Brooklyn, Melbourne, VIC, AU, Australia",
+    "woe:place_id":"mo_u_GGbA5tyl9BcsQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [144.839462,-37.815601,144.844528,-37.809647],
+  "geometry": {"alpha":1e-05,"bbox":[144.83946228027,-37.815601348877,144.84452819824,-37.809646606445],"coordinates":[[[[144.844528,-37.809986],[144.844269,-37.809647],[144.840775,-37.811054],[144.840607,-37.815601],[144.839462,-37.810844],[144.839798,-37.81089],[144.840775,-37.811054],[144.844528,-37.809986]]]],"created":1292524732,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/22721000_20101216_eca6ca42cb.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

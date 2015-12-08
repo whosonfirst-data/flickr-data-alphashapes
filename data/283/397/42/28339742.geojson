@@ -1,0 +1,15 @@
+{
+  "id": 28339742,
+  "type": "Feature",
+  "properties": {
+    "name":"Lincoln, New York, United States",
+    "placetype":"locality",
+    "woe:id":28339742,
+    "woe:name":"Lincoln, New York, United States",
+    "woe:place_id":"6lxo0oWbCZ.InE8tdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.772408,43.038094,-75.761795,43.04195],
+  "geometry": {"alpha":0.00015,"bbox":[-75.772407531738,43.038093566895,-75.761795043945,43.04195022583],"coordinates":[[[[-75.770134,43.038094],[-75.772408,43.04076],[-75.766266,43.04195],[-75.761795,43.040237],[-75.770134,43.038094]]]],"created":1292534911,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/28339742_20101216_1e14987131.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

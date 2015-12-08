@@ -1,0 +1,15 @@
+{
+  "id": 12580470,
+  "type": "Feature",
+  "properties": {
+    "name":"Contenda, Parana, Brazil",
+    "placetype":"county",
+    "woe:id":12580470,
+    "woe:name":"Contenda, Parana, Brazil",
+    "woe:place_id":"KrF6hF2YA5n2MlhcGw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-49.595032,-25.698462,-49.525681,-25.659166],
+  "geometry": {"alpha":0.0015,"bbox":[-49.595031738281,-25.698461532593,-49.525680541992,-25.65916633606],"coordinates":[[[[-49.54937,-25.659166],[-49.525681,-25.663191],[-49.565163,-25.698462],[-49.576149,-25.688871],[-49.595032,-25.676186],[-49.54937,-25.659166]]]],"created":1292540518,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12580470_20101216_382a1bf150.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

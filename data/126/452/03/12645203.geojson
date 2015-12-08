@@ -1,0 +1,15 @@
+{
+  "id": 12645203,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillion, France",
+    "placetype":"locality",
+    "woe:id":12645203,
+    "woe:name":"Hillion, France",
+    "woe:place_id":"hQO.zlKYA5pU0KINjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.676544,48.514015,-2.673245,48.519192],
+  "geometry": {"alpha":1e-05,"bbox":[-2.6765439510345,48.514015197754,-2.6732449531555,48.519191741943],"coordinates":[[[[-2.673245,48.518105],[-2.675514,48.514896],[-2.676544,48.514015],[-2.675704,48.516785],[-2.6762,48.519192],[-2.673245,48.518105]]]],"created":1292541718,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12645203_20101216_f8b89ba033.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

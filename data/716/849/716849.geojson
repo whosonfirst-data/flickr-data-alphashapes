@@ -1,0 +1,15 @@
+{
+  "id": 716849,
+  "type": "Feature",
+  "properties": {
+    "name":"La Loggia, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":716849,
+    "woe:name":"La Loggia, Piedmont, Italy",
+    "woe:place_id":"vWi1FBKeAJqDYmE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.658672,44.953136,7.679443,44.960461],
+  "geometry": {"alpha":0.00015,"bbox":[7.6586718559265,44.953136444092,7.6794428825378,44.960460662842],"coordinates":[[[[7.670001,44.958542],[7.679443,44.953136],[7.667904,44.953506],[7.658672,44.956509],[7.660442,44.957478],[7.66785,44.960461],[7.670001,44.958542]]]],"created":1292528111,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/716849_20101216_cf9500feaa.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

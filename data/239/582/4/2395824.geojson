@@ -1,0 +1,15 @@
+{
+  "id": 2395824,
+  "type": "Feature",
+  "properties": {
+    "name":"East Leverett, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2395824,
+    "woe:name":"East Leverett, Massachusetts, United States",
+    "woe:place_id":"XAG74.mbApUSwJKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.490753,42.435112,-72.483757,42.438999],
+  "geometry": {"alpha":0.0006103515625,"bbox":[-72.490753173828,42.435111999512,-72.483757019043,42.438999176025],"coordinates":[[[[-72.485413,42.437527],[-72.488091,42.435112],[-72.490753,42.435589],[-72.48513,42.438343],[-72.483757,42.438999],[-72.485413,42.437527]]]],"created":1292524209,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2395824_20101216_0010ee3134.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

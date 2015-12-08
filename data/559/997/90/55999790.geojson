@@ -1,0 +1,15 @@
+{
+  "id": 55999790,
+  "type": "Feature",
+  "properties": {
+    "name":"Centre Ville, La Prairie, QC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999790,
+    "woe:name":"Centre Ville, La Prairie, QC, CA, Canada",
+    "woe:place_id":"8WQUeOKcBJUnLw7FSg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.500275,45.413876,-73.495613,45.414165],
+  "geometry": {"alpha":1e-05,"bbox":[-73.500274658203,45.413875579834,-73.495613098145,45.414165496826],"coordinates":[[[[-73.500275,45.413887],[-73.500252,45.414131],[-73.500145,45.414146],[-73.5,45.414165],[-73.499725,45.414165],[-73.495613,45.413876],[-73.499725,45.413887],[-73.5,45.413887],[-73.500275,45.413887]]]],"created":1292544830,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/55999790_20101217_5511ec9f82.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

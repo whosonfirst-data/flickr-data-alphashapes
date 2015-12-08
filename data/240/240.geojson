@@ -1,0 +1,15 @@
+{
+  "id": 240,
+  "type": "Feature",
+  "properties": {
+    "name":"Carleton Centre, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":240,
+    "woe:name":"Carleton Centre, Quebec, Canada",
+    "woe:place_id":"e9pWHIqbBZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.14164,48.101009,-66.118729,48.11047],
+  "geometry": {"alpha":0.00015,"bbox":[-66.141639709473,48.101009368896,-66.118728637695,48.110469818115],"coordinates":[[[[-66.132339,48.107437],[-66.129883,48.105297],[-66.118729,48.101009],[-66.129456,48.102272],[-66.132713,48.102501],[-66.138893,48.108578],[-66.14164,48.11047],[-66.135498,48.109165],[-66.132339,48.107437]]]],"created":1292519344,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/240_20101216_c7d7b39499.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

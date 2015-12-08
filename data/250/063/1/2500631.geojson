@@ -1,0 +1,15 @@
+{
+  "id": 2500631,
+  "type": "Feature",
+  "properties": {
+    "name":"Stovall, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2500631,
+    "woe:name":"Stovall, North Carolina, United States",
+    "woe:place_id":"XLfaY2mbBJwigDGC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.570625,36.446957,-78.569099,36.448006],
+  "geometry": {"alpha":0.00015,"bbox":[-78.570625305176,36.446956634521,-78.56909942627,36.44800567627],"coordinates":[[[[-78.570625,36.446957],[-78.570541,36.447533],[-78.569099,36.448006],[-78.569237,36.447624],[-78.569298,36.447594],[-78.570625,36.446957]]]],"created":1248020402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2562/shapefiles/2500631_20090719_bb466751ef.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

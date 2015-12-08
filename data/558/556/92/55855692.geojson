@@ -1,0 +1,15 @@
+{
+  "id": 55855692,
+  "type": "Feature",
+  "properties": {
+    "name":"Brompton, Sherbrooke, QC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55855692,
+    "woe:name":"Brompton, Sherbrooke, QC, CA, Canada",
+    "woe:place_id":"NriOvSucBJSZw.QNrg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-71.857109,45.482662,-71.856682,45.482941],
+  "geometry": {"alpha":1e-05,"bbox":[-71.857109069824,45.482662200928,-71.85668182373,45.482940673828],"coordinates":[[[[-71.857109,45.482861],[-71.857079,45.482895],[-71.856682,45.482941],[-71.857033,45.482662],[-71.857109,45.482861]]]],"created":1292531138,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/55855692_20101216_0cc86cb6d9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

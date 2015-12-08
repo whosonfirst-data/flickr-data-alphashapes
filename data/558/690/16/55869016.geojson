@@ -1,0 +1,15 @@
+{
+  "id": 55869016,
+  "type": "Feature",
+  "properties": {
+    "name":"Sydenham, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":55869016,
+    "woe:name":"Sydenham, Ontario, Canada",
+    "woe:place_id":"c2azQ1.cBJRKdLVOMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.602859,44.386753,-76.585304,44.410645],
+  "geometry": {"alpha":0.00015,"bbox":[-76.60285949707,44.386753082275,-76.585304260254,44.41064453125],"coordinates":[[[[-76.596848,44.406609],[-76.602859,44.410484],[-76.596809,44.410645],[-76.585304,44.407246],[-76.596161,44.386753],[-76.596848,44.406609]]]],"created":1292544058,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/55869016_20101217_7bf78c03fc.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

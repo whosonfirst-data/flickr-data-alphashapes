@@ -1,0 +1,15 @@
+{
+  "id": 689613,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosenfeld, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":689613,
+    "woe:name":"Rosenfeld, Saxony, Germany",
+    "woe:place_id":"AEa01NKfCZWp70M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.037837,51.592468,13.041971,51.601185],
+  "geometry": {"alpha":0.00015,"bbox":[13.037837028503,51.592468261719,13.041971206665,51.601184844971],"coordinates":[[[[13.041971,51.596336],[13.041573,51.592468],[13.037837,51.599384],[13.038843,51.601185],[13.039772,51.600807],[13.040239,51.600224],[13.041971,51.596336]]]],"created":1292450840,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/689613_20101215_4019f9454b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

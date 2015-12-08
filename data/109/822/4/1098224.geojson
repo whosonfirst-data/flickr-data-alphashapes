@@ -1,0 +1,15 @@
+{
+  "id": 1098224,
+  "type": "Feature",
+  "properties": {
+    "name":"Queens Beach, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1098224,
+    "woe:name":"Queens Beach, Queensland, Australia",
+    "woe:place_id":"wZOQwhOYAZUVzLmZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.215179,-19.984964,148.238174,-19.9652],
+  "geometry": {"alpha":0.00015,"bbox":[148.21517944336,-19.984964370728,148.23817443848,-19.965200424194],"coordinates":[[[[148.238174,-19.982141],[148.237839,-19.983351],[148.228134,-19.983835],[148.215179,-19.984964],[148.222824,-19.9652],[148.235352,-19.981817],[148.238174,-19.982141]]]],"created":1292454036,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/1098224_20101215_b1d6158c81.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

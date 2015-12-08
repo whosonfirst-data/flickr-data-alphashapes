@@ -1,0 +1,15 @@
+{
+  "id": 12693673,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilada, Spain",
+    "placetype":"locality",
+    "woe:id":12693673,
+    "woe:name":"Vilada, Spain",
+    "woe:place_id":"19GsWE.YA5rMInVAJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.890335,42.127003,1.903724,42.131554],
+  "geometry": {"alpha":1e-05,"bbox":[1.8903349637985,42.127002716064,1.9037239551544,42.131553649902],"coordinates":[[[[1.893768,42.130661],[1.898918,42.131554],[1.903724,42.129868],[1.90013,42.128429],[1.894454,42.128277],[1.890335,42.127003],[1.893768,42.130661]]]],"created":1292538136,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12693673_20101216_000d925640.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

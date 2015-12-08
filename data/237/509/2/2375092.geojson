@@ -1,0 +1,15 @@
+{
+  "id": 2375092,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlton, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2375092,
+    "woe:name":"Carlton, Pennsylvania, United States",
+    "woe:place_id":"E4ISveObApsWaYsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.009552,41.458809,-79.999954,41.465477],
+  "geometry": {"alpha":0.00015,"bbox":[-80.009552001953,41.458808898926,-79.999954223633,41.465476989746],"coordinates":[[[[-80.00695,41.465477],[-80.005936,41.465137],[-79.999954,41.458809],[-80.009102,41.461521],[-80.009552,41.462925],[-80.007355,41.46521],[-80.00695,41.465477]]]],"created":1292535308,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2375092_20101216_0fd3382149.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

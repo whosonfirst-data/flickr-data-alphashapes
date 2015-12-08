@@ -1,0 +1,15 @@
+{
+  "id": 3390,
+  "type": "Feature",
+  "properties": {
+    "name":"Normandin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3390,
+    "woe:name":"Normandin, Quebec, Canada",
+    "woe:place_id":"xlZvygeaApWO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.531052,48.835129,-72.518265,48.844158],
+  "geometry": {"alpha":0.00015,"bbox":[-72.531051635742,48.83512878418,-72.518264770508,48.844158172607],"coordinates":[[[[-72.525696,48.83778],[-72.529671,48.835129],[-72.531052,48.837605],[-72.531052,48.844158],[-72.518265,48.841331],[-72.525696,48.83778]]]],"created":1292519345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/3390_20101216_3bbe096785.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 567208,
+  "type": "Feature",
+  "properties": {
+    "name":"Keminmaa, Lapland, Finland",
+    "placetype":"locality",
+    "woe:id":567208,
+    "woe:name":"Keminmaa, Lapland, Finland",
+    "woe:place_id":"ZhRo7QicB5t_pos",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.522343,65.777748,24.545946,65.803482],
+  "geometry": {"alpha":0.00015,"bbox":[24.522342681885,65.77774810791,24.545946121216,65.803482055664],"coordinates":[[[[24.545946,65.792786],[24.535555,65.787224],[24.522343,65.777748],[24.5334,65.789001],[24.538307,65.803482],[24.545946,65.792786]]]],"created":1292538985,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/567208_20101216_ae056ffa69.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

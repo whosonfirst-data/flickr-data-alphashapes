@@ -1,0 +1,15 @@
+{
+  "id": 2497805,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring City, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2497805,
+    "woe:name":"Spring City, Utah, United States",
+    "woe:place_id":"z1WbM.SbBZXco0bm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.500671,39.465668,-111.490021,39.485195],
+  "geometry": {"alpha":0.00015,"bbox":[-111.50067138672,39.465667724609,-111.49002075195,39.485195159912],"coordinates":[[[[-111.500671,39.481869],[-111.496208,39.485195],[-111.495697,39.483376],[-111.490021,39.474686],[-111.499771,39.465668],[-111.500671,39.481869]]]],"created":1292527644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2497805_20101216_069103b29d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

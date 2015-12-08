@@ -1,0 +1,15 @@
+{
+  "id": 20070612,
+  "type": "Feature",
+  "properties": {
+    "name":"Pellegrini, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070612,
+    "woe:name":"Pellegrini, Buenos Aires, Argentina",
+    "woe:place_id":"fg8vLO2bAZz.LrMYhA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-63.170013,-36.268341,-63.162804,-36.263859],
+  "geometry": {"alpha":0.0015,"bbox":[-63.170013427734,-36.268341064453,-63.162803649902,-36.263858795166],"coordinates":[[[[-63.162804,-36.26725],[-63.165749,-36.268341],[-63.170013,-36.267044],[-63.166065,-36.263859],[-63.162804,-36.26725]]]],"created":1292545234,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20070612_20101217_75eb678ab2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

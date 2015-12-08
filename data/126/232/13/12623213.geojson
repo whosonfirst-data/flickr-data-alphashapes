@@ -1,0 +1,15 @@
+{
+  "id": 12623213,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Besigheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623213,
+    "woe:name":"Gemeinde Besigheim, Germany",
+    "woe:place_id":"8681sxyYA5qlWmnDvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.139337,48.994694,9.140367,49.0019],
+  "geometry": {"alpha":1e-05,"bbox":[9.1393365859985,48.994693756104,9.1403665542603,49.001899719238],"coordinates":[[[[9.139337,48.999702],[9.140281,49.0019],[9.140367,49.000084],[9.139852,48.994694],[9.139337,48.999702]]]],"created":1292479805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12623213_20101216_e49787d04a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

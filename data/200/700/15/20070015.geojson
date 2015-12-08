@@ -1,0 +1,15 @@
+{
+  "id": 20070015,
+  "type": "Feature",
+  "properties": {
+    "name":"Erdenet, MN, Mongolia",
+    "placetype":"region",
+    "woe:id":20070015,
+    "woe:name":"Erdenet, MN, Mongolia",
+    "woe:place_id":"zJaYkkubAZwoNPPFJQ",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [103.721924,48.942966,104.079323,49.052269],
+  "geometry": {"alpha":0.03,"bbox":[103.72192382812,48.942966461182,104.07932281494,49.052268981934],"coordinates":[[[[103.878822,48.967373],[104.079323,49.032803],[103.868004,48.942966],[103.721924,49.052269],[103.871269,48.969849],[103.878822,48.967373]]]],"created":1292479924,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/20070015_20101216_f73fd27c3e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

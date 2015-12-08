@@ -1,0 +1,15 @@
+{
+  "id": 20074662,
+  "type": "Feature",
+  "properties": {
+    "name":"Binche, Belgium",
+    "placetype":"locality",
+    "woe:id":20074662,
+    "woe:name":"Binche, Belgium",
+    "woe:place_id":"bCk9hMubAZykPYlVkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.161421,50.408836,4.166564,50.415298],
+  "geometry": {"alpha":1e-05,"bbox":[4.1614208221436,50.408836364746,4.1665639877319,50.415298461914],"coordinates":[[[[4.165159,50.410973],[4.161421,50.41465],[4.166564,50.415298],[4.165964,50.412727],[4.165427,50.409981],[4.165298,50.408836],[4.163829,50.408909],[4.165159,50.410973]]]],"created":1292521344,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/20074662_20101216_262131d551.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

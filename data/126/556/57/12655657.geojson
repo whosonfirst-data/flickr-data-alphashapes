@@ -1,0 +1,15 @@
+{
+  "id": 12655657,
+  "type": "Feature",
+  "properties": {
+    "name":"Assevillers, France",
+    "placetype":"locality",
+    "woe:id":12655657,
+    "woe:name":"Assevillers, France",
+    "woe:place_id":"Y__n9IaYA5oDCzJ3Vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.838399,49.88686,2.840491,49.888077],
+  "geometry": {"alpha":1e-05,"bbox":[2.8383989334106,49.886859893799,2.8404910564423,49.888076782227],"coordinates":[[[[2.840122,49.886906],[2.838399,49.887222],[2.838635,49.887585],[2.839128,49.888077],[2.840491,49.88686],[2.840122,49.886906]]]],"created":1292479621,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12655657_20101216_c6b80032d1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

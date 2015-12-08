@@ -1,0 +1,15 @@
+{
+  "id": 12628248,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Pommern, Germany",
+    "placetype":"locality",
+    "woe:id":12628248,
+    "woe:name":"Gemeinde Pommern, Germany",
+    "woe:place_id":"w4UP9viYA5pysMpPHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.276639,50.169395,7.281618,50.176128],
+  "geometry": {"alpha":1e-05,"bbox":[7.2766389846802,50.169395446777,7.2816181182861,50.176128387451],"coordinates":[[[[7.276639,50.176128],[7.28003,50.173683],[7.281618,50.170589],[7.279215,50.169395],[7.27783,50.172867],[7.276639,50.176128]]]],"created":1292551127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12628248_20101217_f466c1e254.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

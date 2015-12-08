@@ -1,0 +1,15 @@
+{
+  "id": 552210,
+  "type": "Feature",
+  "properties": {
+    "name":"Smalby, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":552210,
+    "woe:name":"Smalby, Sjaelland, Denmark",
+    "woe:place_id":"LoXtOBKcBJ4xGhU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.875126,54.77327,11.881713,54.785103],
+  "geometry": {"alpha":0.00015,"bbox":[11.87512588501,54.77326965332,11.881712913513,54.785102844238],"coordinates":[[[[11.875544,54.77327],[11.875126,54.774258],[11.876521,54.775108],[11.881713,54.785103],[11.877454,54.773895],[11.875544,54.77327]]]],"created":1234616411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3474/shapefiles/552210_20090214_8d874e2f61.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

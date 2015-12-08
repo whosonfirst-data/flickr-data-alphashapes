@@ -1,0 +1,15 @@
+{
+  "id": 55987160,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston - Edison, Detroit, MI, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55987160,
+    "woe:name":"Boston - Edison, Detroit, MI, US, United States",
+    "woe:place_id":"cnyi5wKcBJVojM8CMg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-83.10717,42.38065,-83.102661,42.384502],
+  "geometry": {"alpha":1e-05,"bbox":[-83.10717010498,42.38064956665,-83.102661132812,42.384502410889],"coordinates":[[[[-83.102661,42.382626],[-83.103447,42.38065],[-83.10717,42.384502],[-83.104317,42.384369],[-83.102661,42.382626]]]],"created":1292446624,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/55987160_20101215_8984262679.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

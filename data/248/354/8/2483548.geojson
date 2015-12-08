@@ -1,0 +1,15 @@
+{
+  "id": 2483548,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockville, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2483548,
+    "woe:name":"Rockville, West Virginia, United States",
+    "woe:place_id":"_AguWsubBZRPkUNE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.719116,39.620514,-79.704674,39.644627],
+  "geometry": {"alpha":0.00015,"bbox":[-79.719116210938,39.620513916016,-79.70467376709,39.644626617432],"coordinates":[[[[-79.704674,39.621689],[-79.704674,39.620514],[-79.717598,39.623421],[-79.719116,39.644627],[-79.717529,39.623447],[-79.704674,39.621689]]]],"created":1292440986,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2483548_20101215_6a0ab52255.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

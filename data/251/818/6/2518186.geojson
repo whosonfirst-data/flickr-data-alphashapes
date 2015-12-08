@@ -1,0 +1,15 @@
+{
+  "id": 2518186,
+  "type": "Feature",
+  "properties": {
+    "name":"Westfield, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2518186,
+    "woe:name":"Westfield, Wisconsin, United States",
+    "woe:place_id":"ABzDcHqbBJ2n8NZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.49437,43.884098,-89.485832,43.887688],
+  "geometry": {"alpha":0.00015,"bbox":[-89.494369506836,43.884098052979,-89.485832214355,43.887687683105],"coordinates":[[[[-89.493156,43.885838],[-89.486343,43.887688],[-89.485832,43.885212],[-89.492828,43.884098],[-89.49437,43.885853],[-89.493156,43.885838]]]],"created":1292537412,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2518186_20101216_939be17292.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

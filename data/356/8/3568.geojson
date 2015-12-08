@@ -1,0 +1,15 @@
+{
+  "id": 3568,
+  "type": "Feature",
+  "properties": {
+    "name":"Howick, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3568,
+    "woe:name":"Howick, Quebec, Canada",
+    "woe:place_id":"HAS3vciaBJoh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.861382,45.177197,-73.845291,45.196781],
+  "geometry": {"alpha":0.00015,"bbox":[-73.861381530762,45.177196502686,-73.845291137695,45.196781158447],"coordinates":[[[[-73.845695,45.183449],[-73.847351,45.177197],[-73.8507,45.181942],[-73.861382,45.196781],[-73.847862,45.187962],[-73.845291,45.187359],[-73.845695,45.183449]]]],"created":1292482504,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/3568_20101216_20736eee23.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

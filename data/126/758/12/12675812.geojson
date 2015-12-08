@@ -1,0 +1,15 @@
+{
+  "id": 12675812,
+  "type": "Feature",
+  "properties": {
+    "name":"Aggius, Italy",
+    "placetype":"locality",
+    "woe:id":12675812,
+    "woe:name":"Aggius, Italy",
+    "woe:place_id":"EMyiPxWYA5qimAgBQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.063892,40.929451,9.065051,40.931671],
+  "geometry": {"alpha":1e-05,"bbox":[9.063892364502,40.92945098877,9.0650510787964,40.931671142578],"coordinates":[[[[9.064407,40.931347],[9.065051,40.930344],[9.064879,40.929451],[9.063892,40.931671],[9.064407,40.931347]]]],"created":1239489607,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3395/shapefiles/12675812_20090411_87307f6b65.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

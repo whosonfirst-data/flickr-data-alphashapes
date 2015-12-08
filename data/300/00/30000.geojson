@@ -1,0 +1,15 @@
+{
+  "id": 30000,
+  "type": "Feature",
+  "properties": {
+    "name":"New Winton, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30000,
+    "woe:name":"New Winton, Scotland, United Kingdom",
+    "woe:place_id":"Fklkf9KaAZyIbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.918468,55.914871,-2.905669,55.928185],
+  "geometry": {"alpha":0.00015,"bbox":[-2.9184679985046,55.91487121582,-2.9056689739227,55.928184509277],"coordinates":[[[[-2.907793,55.921791],[-2.905669,55.914871],[-2.908887,55.915543],[-2.912492,55.918861],[-2.918468,55.928185],[-2.907793,55.921791]]]],"created":1292515448,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/30000_20101216_13a8c00ed1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

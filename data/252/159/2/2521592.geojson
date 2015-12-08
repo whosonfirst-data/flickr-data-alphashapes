@@ -1,0 +1,15 @@
+{
+  "id": 2521592,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilsonville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2521592,
+    "woe:name":"Wilsonville, Alabama, United States",
+    "woe:place_id":"IHAXN4abBJ6zoZ.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.482979,33.215137,-86.456223,33.237213],
+  "geometry": {"alpha":0.00015,"bbox":[-86.482978820801,33.215137481689,-86.45622253418,33.237213134766],"coordinates":[[[[-86.469795,33.223297],[-86.482979,33.234909],[-86.481712,33.237213],[-86.469002,33.224148],[-86.456223,33.215137],[-86.469795,33.223297]]]],"created":1292455469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2521592_20101215_d2d6d1740e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

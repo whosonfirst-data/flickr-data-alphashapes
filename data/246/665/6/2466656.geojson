@@ -1,0 +1,15 @@
+{
+  "id": 2466656,
+  "type": "Feature",
+  "properties": {
+    "name":"Ostander Creek, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2466656,
+    "woe:name":"Ostander Creek, Washington, United States",
+    "woe:place_id":"7.M35E.bBZqJymqV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.898689,46.191261,-122.892349,46.208481],
+  "geometry": {"alpha":0.00015,"bbox":[-122.89868927002,46.191261291504,-122.89234924316,46.208480834961],"coordinates":[[[[-122.892494,46.198318],[-122.892632,46.19791],[-122.895416,46.191261],[-122.898689,46.19709],[-122.892349,46.208481],[-122.892494,46.198318]]]],"created":1292421964,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2466656_20101215_eaaa42996e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

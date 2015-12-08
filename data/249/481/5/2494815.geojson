@@ -1,0 +1,15 @@
+{
+  "id": 2494815,
+  "type": "Feature",
+  "properties": {
+    "name":"Smelley, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2494815,
+    "woe:name":"Smelley, Alabama, United States",
+    "woe:place_id":"VLL4zLubBZVsL8qs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.069687,33.311611,-86.059021,33.315968],
+  "geometry": {"alpha":0.00015,"bbox":[-86.069686889648,33.311611175537,-86.059020996094,33.315967559814],"coordinates":[[[[-86.069687,33.311642],[-86.069618,33.31171],[-86.066681,33.314148],[-86.059021,33.315968],[-86.069557,33.311611],[-86.069687,33.311642]]]],"created":1292525623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2494815_20101216_043306d9a8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

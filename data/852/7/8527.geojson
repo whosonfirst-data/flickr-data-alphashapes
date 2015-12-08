@@ -1,0 +1,15 @@
+{
+  "id": 8527,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise Valley, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8527,
+    "woe:name":"Paradise Valley, Alberta, Canada",
+    "woe:place_id":"dpX8gWqRBJ6D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.309601,53.030914,-110.295364,53.033573],
+  "geometry": {"alpha":0.00015,"bbox":[-110.30960083008,53.030914306641,-110.29536437988,53.033573150635],"coordinates":[[[[-110.295815,53.03112],[-110.295952,53.030914],[-110.298698,53.032169],[-110.309601,53.033573],[-110.297462,53.033092],[-110.295364,53.032955],[-110.295815,53.03112]]]],"created":1292550695,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/8527_20101217_282952fbd5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

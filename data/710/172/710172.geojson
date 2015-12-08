@@ -1,0 +1,15 @@
+{
+  "id": 710172,
+  "type": "Feature",
+  "properties": {
+    "name":"Antella, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":710172,
+    "woe:name":"Antella, Tuscany, Italy",
+    "woe:place_id":"0b8GQ0GeAJwxTlE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.313139,43.717045,11.322548,43.728188],
+  "geometry": {"alpha":0.00015,"bbox":[11.313138961792,43.717044830322,11.322547912598,43.728187561035],"coordinates":[[[[11.322548,43.726776],[11.322162,43.725834],[11.313139,43.717045],[11.320552,43.728188],[11.322548,43.726776]]]],"created":1292534488,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/710172_20101216_0816e64a4c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55965862,
+  "type": "Feature",
+  "properties": {
+    "name":"Airdrie Airport, Canada",
+    "placetype":"locality",
+    "woe:id":55965862,
+    "woe:name":"Airdrie Airport, Canada",
+    "woe:place_id":"k.Mw.FqcBJU44lTWvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.93457,51.263474,-113.933327,51.26981],
+  "geometry": {"alpha":1e-05,"bbox":[-113.9345703125,51.263473510742,-113.93332672119,51.2698097229],"coordinates":[[[[-113.93457,51.263474],[-113.934227,51.265675],[-113.933655,51.26981],[-113.933327,51.266186],[-113.93457,51.263474]]]],"created":1292547605,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/55965862_20101217_eaa0b3ecaa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

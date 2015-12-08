@@ -1,0 +1,15 @@
+{
+  "id": 2280015,
+  "type": "Feature",
+  "properties": {
+    "name":"Khapari, Maharashtra, India",
+    "placetype":"locality",
+    "woe:id":2280015,
+    "woe:name":"Khapari, Maharashtra, India",
+    "woe:place_id":"FtCh0YebA5Qk7W5D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [79.051781,21.037964,79.062683,21.067362],
+  "geometry": {"alpha":0.00015,"bbox":[79.051780700684,21.037963867188,79.062683105469,21.067361831665],"coordinates":[[[[79.052589,21.05282],[79.062683,21.042349],[79.051781,21.037964],[79.052162,21.052626],[79.05249,21.052885],[79.060875,21.067362],[79.052589,21.05282]]]],"created":1292500201,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2280015_20101216_38c0300211.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

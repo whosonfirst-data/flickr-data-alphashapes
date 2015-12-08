@@ -1,0 +1,15 @@
+{
+  "id": 28745883,
+  "type": "Feature",
+  "properties": {
+    "name":"Laurel Hill, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":28745883,
+    "woe:name":"Laurel Hill, North Carolina, United States",
+    "woe:place_id":"qQkyiaObCZuPGvguKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.680038,35.453854,-82.666885,35.455914],
+  "geometry": {"alpha":0.00015,"bbox":[-82.680038452148,35.453853607178,-82.666885375977,35.455913543701],"coordinates":[[[[-82.677528,35.453854],[-82.680038,35.453949],[-82.673149,35.455635],[-82.666885,35.455914],[-82.670059,35.455357],[-82.677528,35.453854]]]],"created":1292543377,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/28745883_20101216_bc0fe1cf29.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

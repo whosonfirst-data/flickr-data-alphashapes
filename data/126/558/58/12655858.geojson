@@ -1,0 +1,15 @@
+{
+  "id": 12655858,
+  "type": "Feature",
+  "properties": {
+    "name":"Auriol, France",
+    "placetype":"locality",
+    "woe:id":12655858,
+    "woe:name":"Auriol, France",
+    "woe:place_id":"CR451_2YA5qeySG2mw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.635439,43.349033,5.637949,43.350864],
+  "geometry": {"alpha":1e-05,"bbox":[5.6354389190674,43.349033355713,5.6379489898682,43.3508644104],"coordinates":[[[[5.636919,43.349033],[5.636576,43.349541],[5.635439,43.350864],[5.637949,43.349998],[5.636919,43.349033]]]],"created":1292508064,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12655858_20101216_d5ae824dfd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

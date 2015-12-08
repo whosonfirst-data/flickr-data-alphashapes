@@ -1,0 +1,15 @@
+{
+  "id": 574183,
+  "type": "Feature",
+  "properties": {
+    "name":"Tuomala, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":574183,
+    "woe:name":"Tuomala, Southern Finland, Finland",
+    "woe:place_id":"MYUZHcGcBpgoyqM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.06424,60.429676,25.074577,60.443417],
+  "geometry": {"alpha":0.00015,"bbox":[25.064239501953,60.429676055908,25.074577331543,60.443416595459],"coordinates":[[[[25.070286,60.442665],[25.073397,60.443417],[25.074577,60.429676],[25.073376,60.430206],[25.064293,60.437401],[25.06424,60.437412],[25.070286,60.442665]]]],"created":1292540203,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/574183_20101216_ae39d8cc11.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

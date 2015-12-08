@@ -1,0 +1,15 @@
+{
+  "id": 2479647,
+  "type": "Feature",
+  "properties": {
+    "name":"Redmon, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2479647,
+    "woe:name":"Redmon, North Carolina, United States",
+    "woe:place_id":"1yRj4KCbBZvs5fYK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.710556,35.783283,-82.710037,35.794563],
+  "geometry": {"alpha":0.00015,"bbox":[-82.710556030273,35.783283233643,-82.710037231445,35.794563293457],"coordinates":[[[[-82.710327,35.794102],[-82.710037,35.793468],[-82.710052,35.783283],[-82.710358,35.793247],[-82.710556,35.794563],[-82.710327,35.794102]]]],"created":1292517513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2479647_20101216_a0e4d79edf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

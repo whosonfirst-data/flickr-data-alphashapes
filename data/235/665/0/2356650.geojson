@@ -1,0 +1,15 @@
+{
+  "id": 2356650,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashley, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2356650,
+    "woe:name":"Ashley, Michigan, United States",
+    "woe:place_id":"jy9N2UGbAplXA6n1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.479454,43.179459,-84.462891,43.190193],
+  "geometry": {"alpha":0.00015,"bbox":[-84.479454040527,43.179458618164,-84.462890625,43.19019317627],"coordinates":[[[[-84.474808,43.186481],[-84.462891,43.181149],[-84.467567,43.179459],[-84.476013,43.186367],[-84.479454,43.190193],[-84.477119,43.188446],[-84.474808,43.186481]]]],"created":1292512209,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2356650_20101216_fd85003f73.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

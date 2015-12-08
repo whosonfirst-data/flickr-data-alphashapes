@@ -1,0 +1,15 @@
+{
+  "id": 2445160,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Grove, California, United States",
+    "placetype":"locality",
+    "woe:id":2445160,
+    "woe:name":"Maple Grove, California, United States",
+    "woe:place_id":"IWEF9OKbBZhjuNmx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.906616,40.486595,-123.905243,40.490303],
+  "geometry": {"alpha":0.00015,"bbox":[-123.90661621094,40.486595153809,-123.90524291992,40.490303039551],"coordinates":[[[[-123.905243,40.486626],[-123.905304,40.486595],[-123.905441,40.486614],[-123.906616,40.487415],[-123.905869,40.490303],[-123.905243,40.486626]]]],"created":1292456759,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2445160_20101215_d4b40f6537.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

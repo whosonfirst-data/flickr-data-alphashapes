@@ -1,0 +1,15 @@
+{
+  "id": 725230,
+  "type": "Feature",
+  "properties": {
+    "name":"Trebbio, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":725230,
+    "woe:name":"Trebbio, Emilia Romagna, Italy",
+    "woe:place_id":"pXZMcM2eA5lsqXE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.394809,44.003143,12.406826,44.019608],
+  "geometry": {"alpha":0.00015,"bbox":[12.394808769226,44.003143310547,12.406826019287,44.019607543945],"coordinates":[[[[12.406729,44.00629],[12.403816,44.003143],[12.403671,44.003777],[12.394809,44.019608],[12.406826,44.015381],[12.406729,44.00629]]]],"created":1292537822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/725230_20101216_61760559fa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

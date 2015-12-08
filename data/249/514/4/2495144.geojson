@@ -1,0 +1,15 @@
+{
+  "id": 2495144,
+  "type": "Feature",
+  "properties": {
+    "name":"Smockville, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2495144,
+    "woe:name":"Smockville, Indiana, United States",
+    "woe:place_id":"homWtEubBZUDGIcH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.133041,39.657215,-87.132309,39.662537],
+  "geometry": {"alpha":0.00015,"bbox":[-87.133041381836,39.657215118408,-87.132308959961,39.662536621094],"coordinates":[[[[-87.132996,39.657215],[-87.133041,39.658073],[-87.13298,39.659447],[-87.132309,39.662537],[-87.132957,39.657795],[-87.132996,39.657215]]]],"created":1292422443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2495144_20101215_9f4f97bf06.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

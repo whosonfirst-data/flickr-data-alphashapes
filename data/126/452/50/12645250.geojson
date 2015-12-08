@@ -1,0 +1,15 @@
+{
+  "id": 12645250,
+  "type": "Feature",
+  "properties": {
+    "name":"Horbourg-Wihr, France",
+    "placetype":"locality",
+    "woe:id":12645250,
+    "woe:name":"Horbourg-Wihr, France",
+    "woe:place_id":"r1ree4SYA5qqUzreUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.404742,48.093372,7.407102,48.098358],
+  "geometry": {"alpha":1e-05,"bbox":[7.4047417640686,48.093372344971,7.4071021080017,48.098358154297],"coordinates":[[[[7.406029,48.093372],[7.404742,48.094921],[7.404956,48.098358],[7.407102,48.095482],[7.406029,48.093372]]]],"created":1292522162,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12645250_20101216_d999f1a05b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

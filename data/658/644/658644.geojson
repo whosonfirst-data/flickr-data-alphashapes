@@ -1,0 +1,15 @@
+{
+  "id": 658644,
+  "type": "Feature",
+  "properties": {
+    "name":"Heimstetten, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":658644,
+    "woe:name":"Heimstetten, Bavaria, Germany",
+    "woe:place_id":"z8PQRPOfBJRAfQ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.742839,48.155548,11.762065,48.16534],
+  "geometry": {"alpha":0.00015,"bbox":[11.742838859558,48.155548095703,11.762064933777,48.165340423584],"coordinates":[[[[11.756572,48.155548],[11.742839,48.16534],[11.75727,48.163864],[11.762065,48.161278],[11.759115,48.158478],[11.756572,48.155548]]]],"created":1292483767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/658644_20101216_5de2061086.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

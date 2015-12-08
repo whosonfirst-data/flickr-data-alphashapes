@@ -1,0 +1,15 @@
+{
+  "id": 12661633,
+  "type": "Feature",
+  "properties": {
+    "name":"Fos, France",
+    "placetype":"locality",
+    "woe:id":12661633,
+    "woe:name":"Fos, France",
+    "woe:place_id":"lZAcRjaYA5qJPR34XA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.738143,42.836662,0.73986,42.839645],
+  "geometry": {"alpha":1e-05,"bbox":[0.73814302682877,42.83666229248,0.73985999822617,42.839645385742],"coordinates":[[[[0.738669,42.838394],[0.738143,42.839344],[0.738229,42.839645],[0.73883,42.839218],[0.73986,42.838715],[0.738813,42.836662],[0.738669,42.838394]]]],"created":1292533410,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12661633_20101216_5ab0cf9637.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

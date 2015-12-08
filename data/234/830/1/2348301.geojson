@@ -1,0 +1,15 @@
+{
+  "id": 2348301,
+  "type": "Feature",
+  "properties": {
+    "name":"Cave, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348301,
+    "woe:name":"Cave, Canterbury, New Zealand",
+    "woe:place_id":"P4dB82SbAph2XPpV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [170.944168,-44.316479,170.959625,-44.309654],
+  "geometry": {"alpha":0.00015,"bbox":[170.94416809082,-44.316478729248,170.95962524414,-44.30965423584],"coordinates":[[[[170.950195,-44.309654],[170.950241,-44.309662],[170.952408,-44.310581],[170.959625,-44.310829],[170.947861,-44.315495],[170.944168,-44.316479],[170.950195,-44.309654]]]],"created":1292531055,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2348301_20101216_434415ced0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

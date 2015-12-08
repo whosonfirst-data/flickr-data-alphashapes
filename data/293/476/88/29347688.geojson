@@ -1,0 +1,15 @@
+{
+  "id": 29347688,
+  "type": "Feature",
+  "properties": {
+    "name":"Filze, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347688,
+    "woe:name":"Filze, Bavaria, Germany",
+    "woe:place_id":"t.5oKQ6bCJ9MkFuCiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.422619,47.813515,12.42923,47.834534],
+  "geometry": {"alpha":0.00015,"bbox":[12.422618865967,47.813514709473,12.429229736328,47.834533691406],"coordinates":[[[[12.42923,47.813774],[12.427889,47.813515],[12.426938,47.81366],[12.422619,47.834015],[12.425451,47.834534],[12.426609,47.834061],[12.42923,47.813774]]]],"created":1247930292,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2449/shapefiles/29347688_20090718_1c54008e89.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

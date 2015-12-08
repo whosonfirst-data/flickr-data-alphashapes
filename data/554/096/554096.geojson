@@ -1,0 +1,15 @@
+{
+  "id": 554096,
+  "type": "Feature",
+  "properties": {
+    "name":"Hjelm, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":554096,
+    "woe:name":"Hjelm, Sjaelland, Denmark",
+    "woe:place_id":"hh583gmcBJimRpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.738891,54.80756,11.742953,54.827286],
+  "geometry": {"alpha":0.00015,"bbox":[11.738890647888,54.807559967041,11.742953300476,54.827285766602],"coordinates":[[[[11.742928,54.80756],[11.738891,54.827286],[11.742953,54.80756],[11.742951,54.80756],[11.742943,54.80756],[11.742934,54.80756],[11.742928,54.80756]]]],"created":1292405405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/554096_20101215_4ebb818dc5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

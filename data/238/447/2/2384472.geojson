@@ -1,0 +1,15 @@
+{
+  "id": 2384472,
+  "type": "Feature",
+  "properties": {
+    "name":"Cooks Crossing, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2384472,
+    "woe:name":"Cooks Crossing, Georgia, United States",
+    "woe:place_id":"ZX7kA0ibApRh.grC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.48349,33.620529,-84.459801,33.636917],
+  "geometry": {"alpha":0.00015,"bbox":[-84.483489990234,33.620529174805,-84.459800720215,33.636917114258],"coordinates":[[[[-84.479713,33.621479],[-84.48349,33.631771],[-84.47319,33.629486],[-84.459801,33.636917],[-84.472923,33.620529],[-84.479713,33.621479]]]],"created":1292373244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2384472_20101215_1b951b6d19.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

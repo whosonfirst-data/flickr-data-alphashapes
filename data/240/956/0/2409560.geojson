@@ -1,0 +1,15 @@
+{
+  "id": 2409560,
+  "type": "Feature",
+  "properties": {
+    "name":"Gentry Corner, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2409560,
+    "woe:name":"Gentry Corner, Arkansas, United States",
+    "woe:place_id":"73C1KwKbBZxty5kM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.305862,34.958275,-92.27829,34.960526],
+  "geometry": {"alpha":0.00015,"bbox":[-92.305862426758,34.958274841309,-92.278289794922,34.960525512695],"coordinates":[[[[-92.291161,34.958981],[-92.305862,34.95853],[-92.291252,34.960526],[-92.27829,34.959122],[-92.288414,34.958275],[-92.291161,34.958981]]]],"created":1248261022,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2472/shapefiles/2409560_20090722_a2f13813bd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

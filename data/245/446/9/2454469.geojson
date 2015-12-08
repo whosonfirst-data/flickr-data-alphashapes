@@ -1,0 +1,15 @@
+{
+  "id": 2454469,
+  "type": "Feature",
+  "properties": {
+    "name":"Moscow, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2454469,
+    "woe:name":"Moscow, Indiana, United States",
+    "woe:place_id":"IjRvwuibBZkixctc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.557228,39.484882,-85.554535,39.48542],
+  "geometry": {"alpha":0.00015,"bbox":[-85.557228088379,39.484882354736,-85.554534912109,39.485420227051],"coordinates":[[[[-85.55513,39.484882],[-85.557228,39.485031],[-85.556572,39.485237],[-85.554535,39.48542],[-85.554932,39.484901],[-85.55513,39.484882]]]],"created":1292532536,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2454469_20101216_2bebcf40cc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

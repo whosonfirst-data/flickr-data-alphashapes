@@ -1,0 +1,15 @@
+{
+  "id": 12681469,
+  "type": "Feature",
+  "properties": {
+    "name":"Romano di Lombardia, Italy",
+    "placetype":"locality",
+    "woe:id":12681469,
+    "woe:name":"Romano di Lombardia, Italy",
+    "woe:place_id":"DwygOMGYA5oYGlytIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.751739,45.523849,9.755859,45.527878],
+  "geometry": {"alpha":1e-05,"bbox":[9.7517385482788,45.523849487305,9.755859375,45.527877807617],"coordinates":[[[[9.753799,45.527035],[9.755859,45.524387],[9.753981,45.523849],[9.753799,45.523907],[9.752769,45.524029],[9.751739,45.527878],[9.753799,45.527035]]]],"created":1292506443,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12681469_20101216_7158b91772.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

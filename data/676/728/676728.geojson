@@ -1,0 +1,15 @@
+{
+  "id": 676728,
+  "type": "Feature",
+  "properties": {
+    "name":"M\u00fcllrose, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":676728,
+    "woe:name":"M\u00fcllrose, Brandenburg, Germany",
+    "woe:place_id":"M44omQafBpqtHPU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.411315,52.232624,14.433975,52.251347],
+  "geometry": {"alpha":0.00015,"bbox":[14.411314964294,52.232624053955,14.433975219727,52.251346588135],"coordinates":[[[[14.415756,52.237946],[14.411315,52.251347],[14.41698,52.246407],[14.433975,52.237156],[14.422473,52.232624],[14.419727,52.234337],[14.415756,52.237946]]]],"created":1292540225,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/676728_20101216_46d3639fb0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

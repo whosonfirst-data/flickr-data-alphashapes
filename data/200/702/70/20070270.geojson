@@ -1,0 +1,15 @@
+{
+  "id": 20070270,
+  "type": "Feature",
+  "properties": {
+    "name":"Samaxi, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070270,
+    "woe:name":"Samaxi, AZ, Azerbaijan",
+    "woe:place_id":"6HN_rqabAZz23Ivm1A",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [48.570557,40.631348,48.67218,40.738934],
+  "geometry": {"alpha":0.03,"bbox":[48.570556640625,40.63134765625,48.672180175781,40.738933563232],"coordinates":[[[[48.636387,40.631348],[48.598793,40.644699],[48.58429,40.648605],[48.570557,40.680637],[48.636475,40.738934],[48.67218,40.65564],[48.636387,40.631348]]]],"created":1292542667,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20070270_20101216_424e077e38.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

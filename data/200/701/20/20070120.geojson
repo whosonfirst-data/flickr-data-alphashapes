@@ -1,0 +1,15 @@
+{
+  "id": 20070120,
+  "type": "Feature",
+  "properties": {
+    "name":"Jelgava, LV, Latvia",
+    "placetype":"region",
+    "woe:id":20070120,
+    "woe:name":"Jelgava, LV, Latvia",
+    "woe:place_id":"QWVBoLGbAZxka3dOTA",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [23.691105,56.474628,23.816986,56.669456],
+  "geometry": {"alpha":0.03,"bbox":[23.691104888916,56.474628448486,23.816986083984,56.669456481934],"coordinates":[[[[23.714975,56.664116],[23.744202,56.668114],[23.760595,56.669456],[23.79364,56.653206],[23.816986,56.634613],[23.708496,56.474628],[23.692965,56.645439],[23.691105,56.649742],[23.714975,56.664116]]]],"created":1292459284,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20070120_20101216_ba67e336c6.tar.gz"},"points":105,"type":"MultiPolygon"}
+}

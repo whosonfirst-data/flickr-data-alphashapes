@@ -1,0 +1,15 @@
+{
+  "id": 2403991,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Points, Wilson, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2403991,
+    "woe:name":"Five Points, Wilson, NC, US, United States",
+    "woe:place_id":"j2ic9bebBZwPBzfy",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-77.927444,35.703537,-77.92025,35.708508],
+  "geometry": {"alpha":1e-05,"bbox":[-77.927444458008,35.703536987305,-77.920249938965,35.708507537842],"coordinates":[[[[-77.927444,35.706841],[-77.924286,35.708508],[-77.923645,35.708012],[-77.92025,35.703537],[-77.925613,35.703835],[-77.927444,35.706841]]]],"created":1292540322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2403991_20101216_3cc13fc79a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 713934,
+  "type": "Feature",
+  "properties": {
+    "name":"Cheradi, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":713934,
+    "woe:name":"Cheradi, Puglia, Italy",
+    "woe:place_id":"NLyT.7meAJ_NKUM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.150602,40.449299,17.167768,40.473068],
+  "geometry": {"alpha":0.00015,"bbox":[17.150602340698,40.449298858643,17.167768478394,40.473068237305],"coordinates":[[[[17.160988,40.452679],[17.154465,40.449299],[17.150602,40.452888],[17.158327,40.471405],[17.167768,40.473068],[17.162811,40.454182],[17.160988,40.452679]]]],"created":1292537313,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/713934_20101216_5bcb3b1ef0.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

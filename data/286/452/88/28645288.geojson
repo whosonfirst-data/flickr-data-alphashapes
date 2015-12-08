@@ -1,0 +1,15 @@
+{
+  "id": 28645288,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise Beach, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28645288,
+    "woe:name":"Paradise Beach, Victoria, Australia",
+    "woe:place_id":"Fe_Hz0ubCZqDX7GeMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.400467,-38.219639,147.425537,-38.194481],
+  "geometry": {"alpha":0.00015,"bbox":[147.40046691895,-38.219638824463,147.42553710938,-38.194480895996],"coordinates":[[[[147.425537,-38.194481],[147.4245,-38.203114],[147.412613,-38.203671],[147.400467,-38.219639],[147.411652,-38.202244],[147.421753,-38.196709],[147.425537,-38.194481]]]],"created":1292521467,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/28645288_20101216_b425503432.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

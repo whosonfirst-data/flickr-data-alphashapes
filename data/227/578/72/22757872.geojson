@@ -1,0 +1,15 @@
+{
+  "id": 22757872,
+  "type": "Feature",
+  "properties": {
+    "name":"Chaussan, France",
+    "placetype":"locality",
+    "woe:id":22757872,
+    "woe:name":"Chaussan, France",
+    "woe:place_id":"Bd8sF56bA5v8Fw3TCg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.652178,45.650318,4.655097,45.656094],
+  "geometry": {"alpha":1e-05,"bbox":[4.6521778106689,45.650318145752,4.6550970077515,45.656093597412],"coordinates":[[[[4.655097,45.650318],[4.652929,45.651184],[4.652178,45.651215],[4.652575,45.656094],[4.654426,45.651474],[4.655097,45.650318]]]],"created":1292545822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/22757872_20101217_3ca3dcb244.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

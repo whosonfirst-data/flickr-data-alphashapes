@@ -1,0 +1,15 @@
+{
+  "id": 2467058,
+  "type": "Feature",
+  "properties": {
+    "name":"Owens Crossing, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2467058,
+    "woe:name":"Owens Crossing, West Virginia, United States",
+    "woe:place_id":"poVZEbSbBZo_kdMa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.280815,38.359447,-82.265282,38.373642],
+  "geometry": {"alpha":0.00015,"bbox":[-82.280815124512,38.359447479248,-82.265281677246,38.373641967773],"coordinates":[[[[-82.275406,38.370121],[-82.273766,38.373642],[-82.265572,38.371151],[-82.265282,38.368378],[-82.280815,38.359447],[-82.275406,38.370121]]]],"created":1292549882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2467058_20101217_c010d6987c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

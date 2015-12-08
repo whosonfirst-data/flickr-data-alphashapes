@@ -1,0 +1,15 @@
+{
+  "id": 868220,
+  "type": "Feature",
+  "properties": {
+    "name":"Buciumi, Iasi, Romania",
+    "placetype":"locality",
+    "woe:id":868220,
+    "woe:name":"Buciumi, Iasi, Romania",
+    "woe:place_id":"BsV0CtCRB5QSAiM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.633104,47.098991,27.652588,47.121075],
+  "geometry": {"alpha":0.00015,"bbox":[27.633104324341,47.098991394043,27.652587890625,47.121074676514],"coordinates":[[[[27.633104,47.113991],[27.636623,47.121075],[27.646065,47.105652],[27.652588,47.098991],[27.650078,47.103245],[27.646065,47.105652],[27.633104,47.113991]]]],"created":1292548578,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/868220_20101217_29275549cb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

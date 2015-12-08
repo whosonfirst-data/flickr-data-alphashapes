@@ -1,0 +1,15 @@
+{
+  "id": 2380163,
+  "type": "Feature",
+  "properties": {
+    "name":"Christy Acres, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2380163,
+    "woe:name":"Christy Acres, North Carolina, United States",
+    "woe:place_id":"Fimc2LSbApTfBjhz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.087303,36.1199,-80.085144,36.123074],
+  "geometry": {"alpha":0.00015,"bbox":[-80.087303161621,36.119899749756,-80.085144042969,36.123073577881],"coordinates":[[[[-80.085144,36.120544],[-80.087303,36.1199],[-80.087158,36.120457],[-80.086296,36.123074],[-80.085236,36.121056],[-80.085144,36.120544]]]],"created":1292523808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2380163_20101216_6208e75f1a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

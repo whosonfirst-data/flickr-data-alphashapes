@@ -1,0 +1,15 @@
+{
+  "id": 723393,
+  "type": "Feature",
+  "properties": {
+    "name":"S Antonino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":723393,
+    "woe:name":"S Antonino, Piedmont, Italy",
+    "woe:place_id":"59DNfPGeA5_plmc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.271018,45.103771,7.289439,45.111816],
+  "geometry": {"alpha":0.00015,"bbox":[7.2710180282593,45.103771209717,7.289439201355,45.11181640625],"coordinates":[[[[7.27591,45.109501],[7.277927,45.110058],[7.283935,45.111816],[7.289439,45.106422],[7.271018,45.103771],[7.27591,45.109501]]]],"created":1292499242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/723393_20101216_73fa92045b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

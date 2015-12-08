@@ -1,0 +1,15 @@
+{
+  "id": 665680,
+  "type": "Feature",
+  "properties": {
+    "name":"Kiekebusch, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":665680,
+    "woe:name":"Kiekebusch, Brandenburg, Germany",
+    "woe:place_id":"bcl5HCCfB5kMXN8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.538,52.345165,13.569316,52.35104],
+  "geometry": {"alpha":0.00015,"bbox":[13.538000106812,52.345165252686,13.569315910339,52.351039886475],"coordinates":[[[[13.5495,52.345333],[13.547166,52.345833],[13.538,52.347332],[13.553666,52.35104],[13.569316,52.346928],[13.551333,52.345165],[13.5495,52.345333]]]],"created":1292439302,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/665680_20101215_5e5f004504.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2470031,
+  "type": "Feature",
+  "properties": {
+    "name":"Pelican City, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2470031,
+    "woe:name":"Pelican City, Oregon, United States",
+    "woe:place_id":"KagXYMubBZtv._0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.827393,42.285183,-121.807953,42.315907],
+  "geometry": {"alpha":0.00015,"bbox":[-121.82739257812,42.285182952881,-121.80795288086,42.315906524658],"coordinates":[[[[-121.823959,42.285183],[-121.827393,42.300674],[-121.820526,42.315907],[-121.807953,42.300835],[-121.817047,42.291515],[-121.823959,42.285183]]]],"created":1239361804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3610/shapefiles/2470031_20090410_bbe51f1c13.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

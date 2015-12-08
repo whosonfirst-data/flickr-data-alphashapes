@@ -1,0 +1,15 @@
+{
+  "id": 717630,
+  "type": "Feature",
+  "properties": {
+    "name":"Maenza, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":717630,
+    "woe:name":"Maenza, Lazio, Italy",
+    "woe:place_id":"VFM7Hd.eAJsgG4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.17604,41.523296,13.186576,41.534218],
+  "geometry": {"alpha":0.00015,"bbox":[13.17603969574,41.523296356201,13.186575889587,41.534217834473],"coordinates":[[[[13.186576,41.525173],[13.184519,41.524658],[13.181254,41.523472],[13.180106,41.523296],[13.17604,41.526314],[13.180031,41.534218],[13.186576,41.525173]]]],"created":1292529818,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/717630_20101216_db1480736d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

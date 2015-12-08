@@ -1,0 +1,15 @@
+{
+  "id": 2426524,
+  "type": "Feature",
+  "properties": {
+    "name":"Idlewood, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2426524,
+    "woe:name":"Idlewood, Virginia, United States",
+    "woe:place_id":"fD4iQoWbBZ6iKQ1T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.654358,36.769253,-76.643524,36.786774],
+  "geometry": {"alpha":0.00015,"bbox":[-76.654357910156,36.7692527771,-76.643524169922,36.786773681641],"coordinates":[[[[-76.652573,36.769253],[-76.654358,36.770515],[-76.647148,36.786774],[-76.643524,36.773251],[-76.647728,36.77037],[-76.652573,36.769253]]]],"created":1292518627,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2426524_20101216_daf89e7e2e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

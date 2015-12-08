@@ -1,0 +1,15 @@
+{
+  "id": 2681,
+  "type": "Feature",
+  "properties": {
+    "name":"Nakina, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":2681,
+    "woe:name":"Nakina, Ontario, Canada",
+    "woe:place_id":"lF9RrBCbB5Q.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.722511,50.161392,-86.709206,50.182503],
+  "geometry": {"alpha":0.00015,"bbox":[-86.722511291504,50.161392211914,-86.709205627441,50.182502746582],"coordinates":[[[[-86.709206,50.182503],[-86.709656,50.180031],[-86.719208,50.161392],[-86.722511,50.180252],[-86.709206,50.182503]]]],"created":1292482503,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2681_20101216_640193dd13.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

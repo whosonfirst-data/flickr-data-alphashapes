@@ -1,0 +1,15 @@
+{
+  "id": 3734,
+  "type": "Feature",
+  "properties": {
+    "name":"Newport, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3734,
+    "woe:name":"Newport, Quebec, Canada",
+    "woe:place_id":"1fAp_gyaBp.i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.749809,48.25737,-64.742432,48.266796],
+  "geometry": {"alpha":0.00015,"bbox":[-64.749809265137,48.257369995117,-64.742431640625,48.266796112061],"coordinates":[[[[-64.743378,48.263767],[-64.742432,48.26194],[-64.749809,48.25737],[-64.746033,48.266796],[-64.743378,48.263767]]]],"created":1292482567,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/3734_20101216_daa64a53e4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

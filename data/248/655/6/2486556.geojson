@@ -1,0 +1,15 @@
+{
+  "id": 2486556,
+  "type": "Feature",
+  "properties": {
+    "name":"Sago, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2486556,
+    "woe:name":"Sago, Oregon, United States",
+    "woe:place_id":"zKxcMPqbBZRpwqme",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.882034,45.05703,-117.856522,45.077354],
+  "geometry": {"alpha":0.00015,"bbox":[-117.88203430176,45.057029724121,-117.85652160645,45.077354431152],"coordinates":[[[[-117.856522,45.077354],[-117.857292,45.065884],[-117.869484,45.05703],[-117.882034,45.069687],[-117.861069,45.075279],[-117.856522,45.077354]]]],"created":1292533984,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2486556_20101216_0ff7c2bb82.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

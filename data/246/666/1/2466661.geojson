@@ -1,0 +1,15 @@
+{
+  "id": 2466661,
+  "type": "Feature",
+  "properties": {
+    "name":"Osterburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2466661,
+    "woe:name":"Osterburg, Pennsylvania, United States",
+    "woe:place_id":"WVnEqCSbBZqbOclb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.542549,40.170719,-78.520287,40.177528],
+  "geometry": {"alpha":0.00015,"bbox":[-78.542549133301,40.170719146729,-78.520286560059,40.177528381348],"coordinates":[[[[-78.541214,40.176708],[-78.542549,40.176216],[-78.542458,40.177528],[-78.540977,40.177071],[-78.520287,40.170719],[-78.541214,40.176708]]]],"created":1292469846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2466661_20101216_8e2c281fc2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

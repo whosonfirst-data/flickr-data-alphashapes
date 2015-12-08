@@ -1,0 +1,15 @@
+{
+  "id": 23509366,
+  "type": "Feature",
+  "properties": {
+    "name":"State Farm, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":23509366,
+    "woe:name":"State Farm, Virginia, United States",
+    "woe:place_id":"ji7wyNabApnG_T9lGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.84597,37.635303,-77.821358,37.653179],
+  "geometry": {"alpha":0.00015,"bbox":[-77.845970153809,37.635303497314,-77.821357727051,37.653179168701],"coordinates":[[[[-77.832809,37.636257],[-77.838478,37.635303],[-77.84597,37.653179],[-77.831955,37.647133],[-77.825005,37.647285],[-77.821358,37.646484],[-77.832809,37.636257]]]],"created":1292452411,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/23509366_20101215_7918ca2db5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

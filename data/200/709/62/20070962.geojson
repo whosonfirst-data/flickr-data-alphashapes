@@ -1,0 +1,15 @@
+{
+  "id": 20070962,
+  "type": "Feature",
+  "properties": {
+    "name":"25 de Mayo, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070962,
+    "woe:name":"25 de Mayo, Buenos Aires, Argentina",
+    "woe:place_id":"3Osd9tGbAZz2Y6TH4A",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-60.190315,-35.43578,-60.160461,-35.423328],
+  "geometry": {"alpha":0.0015,"bbox":[-60.190315246582,-35.435779571533,-60.160461425781,-35.423328399658],"coordinates":[[[[-60.172119,-35.431023],[-60.190315,-35.43578],[-60.176754,-35.423328],[-60.160461,-35.431141],[-60.172119,-35.431023]]]],"created":1292500631,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20070962_20101216_8a6274b145.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

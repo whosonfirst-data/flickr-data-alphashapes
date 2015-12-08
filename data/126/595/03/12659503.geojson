@@ -1,0 +1,15 @@
+{
+  "id": 12659503,
+  "type": "Feature",
+  "properties": {
+    "name":"Meyreuil, France",
+    "placetype":"locality",
+    "woe:id":12659503,
+    "woe:name":"Meyreuil, France",
+    "woe:place_id":"7OBijLyYA5p3ywzWmw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.482692,43.469101,5.487606,43.473289],
+  "geometry": {"alpha":1e-05,"bbox":[5.4826917648315,43.469100952148,5.487606048584,43.473289489746],"coordinates":[[[[5.487606,43.46949],[5.487209,43.469101],[5.482692,43.469738],[5.483679,43.473289],[5.487606,43.46949]]]],"created":1248021246,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2488/shapefiles/12659503_20090719_ea5f17b51d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

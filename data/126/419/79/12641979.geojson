@@ -1,0 +1,15 @@
+{
+  "id": 12641979,
+  "type": "Feature",
+  "properties": {
+    "name":"Monbazillac, France",
+    "placetype":"locality",
+    "woe:id":12641979,
+    "woe:name":"Monbazillac, France",
+    "woe:place_id":"UAEAGNeYA5oirz1uhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.487174,44.792068,0.493322,44.797428],
+  "geometry": {"alpha":1e-05,"bbox":[0.48717400431633,44.792068481445,0.49332201480865,44.797428131104],"coordinates":[[[[0.492324,44.796455],[0.493268,44.796818],[0.493322,44.795963],[0.492775,44.793224],[0.48932,44.792068],[0.487174,44.797428],[0.492324,44.796455]]]],"created":1239534977,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3564/shapefiles/12641979_20090412_67384dbbf6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

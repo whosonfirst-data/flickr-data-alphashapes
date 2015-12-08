@@ -1,0 +1,15 @@
+{
+  "id": 678133,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuendorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":678133,
+    "woe:name":"Neuendorf, Bavaria, Germany",
+    "woe:place_id":".PmGJLSfBpQKkHI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.63355,50.03175,9.655609,50.040604],
+  "geometry": {"alpha":0.00015,"bbox":[9.6335496902466,50.031749725342,9.6556091308594,50.040603637695],"coordinates":[[[[9.650829,50.03175],[9.645963,50.034237],[9.63355,50.031857],[9.646194,50.036037],[9.655609,50.040604],[9.650829,50.03175]]]],"created":1292545182,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/678133_20101217_6dddf63d4b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

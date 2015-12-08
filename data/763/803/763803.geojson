@@ -1,0 +1,15 @@
+{
+  "id": 763803,
+  "type": "Feature",
+  "properties": {
+    "name":"La Parra, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":763803,
+    "woe:name":"La Parra, Castille and Leon, Spain",
+    "woe:place_id":"dNW6QeeeB59s3pk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.060405,40.22224,-5.054376,40.224369],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0604047775269,40.222240447998,-5.0543761253357,40.224369049072],"coordinates":[[[[-5.060405,40.224304],[-5.059547,40.224369],[-5.054483,40.222878],[-5.054376,40.222721],[-5.060405,40.22224],[-5.060405,40.224304]]]],"created":1292537855,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/763803_20101216_77a6fb4f68.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2406614,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox Lake Junction, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2406614,
+    "woe:name":"Fox Lake Junction, Wisconsin, United States",
+    "woe:place_id":"TOJUX7ObBZx.LDEo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.910461,43.525558,-88.910011,43.532207],
+  "geometry": {"alpha":0.00015,"bbox":[-88.910461425781,43.52555847168,-88.910011291504,43.532207489014],"coordinates":[[[[-88.910049,43.53215],[-88.910011,43.531998],[-88.910461,43.525558],[-88.910164,43.532021],[-88.910065,43.532207],[-88.910049,43.53215]]]],"created":1292541672,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2406614_20101216_f4d97bb529.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

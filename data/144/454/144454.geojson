@@ -1,0 +1,15 @@
+{
+  "id": 144454,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mateo Xoloc, Mexico, Mexico",
+    "placetype":"locality",
+    "woe:id":144454,
+    "woe:name":"San Mateo Xoloc, Mexico, Mexico",
+    "woe:place_id":"Tv8.dKKYBZgzzEM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.300568,19.695026,-99.298843,19.695358],
+  "geometry": {"alpha":0.00015,"bbox":[-99.300567626953,19.695026397705,-99.298843383789,19.695358276367],"coordinates":[[[[-99.29911,19.695026],[-99.300095,19.695057],[-99.300568,19.695057],[-99.299126,19.695358],[-99.298843,19.695232],[-99.29911,19.695026]]]],"created":1292541298,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/144454_20101216_dd67d9e67f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2371452,
+  "type": "Feature",
+  "properties": {
+    "name":"Buffalo, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2371452,
+    "woe:name":"Buffalo, Pennsylvania, United States",
+    "woe:place_id":"b_.c5vubAptMO_Tm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.349197,40.139668,-80.348763,40.139961],
+  "geometry": {"alpha":0.00015,"bbox":[-80.349197387695,40.139667510986,-80.348762512207,40.139961242676],"coordinates":[[[[-80.348763,40.139748],[-80.348793,40.139668],[-80.348801,40.139668],[-80.348808,40.139668],[-80.349197,40.139744],[-80.34903,40.139961],[-80.348763,40.139748]]]],"created":1247999169,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3509/shapefiles/2371452_20090719_27d3199031.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

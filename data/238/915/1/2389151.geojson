@@ -1,0 +1,15 @@
+{
+  "id": 2389151,
+  "type": "Feature",
+  "properties": {
+    "name":"Dan, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2389151,
+    "woe:name":"Dan, Kentucky, United States",
+    "woe:place_id":"NDorCD6bApR1Foc1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.479614,37.967747,-83.478027,37.967953],
+  "geometry": {"alpha":0.00015,"bbox":[-83.479614257812,37.967746734619,-83.47802734375,37.967952728271],"coordinates":[[[[-83.479271,37.967747],[-83.479614,37.967953],[-83.479095,37.967953],[-83.478027,37.967934],[-83.478371,37.967815],[-83.479187,37.967747],[-83.479271,37.967747]]]],"created":1292451669,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2389151_20101215_22366a1049.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20119222,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelnuovo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20119222,
+    "woe:name":"Castelnuovo, Veneto, Italy",
+    "woe:place_id":"iNXgaH6bAZ1OY4vvtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.683959,45.329159,11.687049,45.33284],
+  "geometry": {"alpha":0.00015,"bbox":[11.683959007263,45.329158782959,11.687048912048,45.33283996582],"coordinates":[[[[11.683959,45.332355],[11.684131,45.33284],[11.685333,45.33139],[11.687049,45.329159],[11.684753,45.331242],[11.683959,45.332355]]]],"created":1292534831,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/20119222_20101216_7771902816.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

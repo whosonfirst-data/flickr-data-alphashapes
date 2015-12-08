@@ -1,0 +1,15 @@
+{
+  "id": 2363016,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2363016,
+    "woe:name":"Berlin, North Dakota, United States",
+    "woe:place_id":"3Re0k1CbApr64nX4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.495224,46.374172,-98.48716,46.379917],
+  "geometry": {"alpha":0.00015,"bbox":[-98.495223999023,46.374172210693,-98.487159729004,46.379917144775],"coordinates":[[[[-98.487892,46.379799],[-98.48716,46.379917],[-98.48848,46.377491],[-98.495224,46.374172],[-98.487892,46.379799]]]],"created":1292535229,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2363016_20101216_796b44a296.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

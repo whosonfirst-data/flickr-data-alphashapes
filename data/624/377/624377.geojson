@@ -1,0 +1,15 @@
+{
+  "id": 624377,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Germain, Brittany, France",
+    "placetype":"locality",
+    "woe:id":624377,
+    "woe:name":"St-Germain, Brittany, France",
+    "woe:place_id":"WQBP.lufA5gmINc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.673526,48.248455,-1.655845,48.259712],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6735260486603,48.248455047607,-1.6558450460434,48.259712219238],"coordinates":[[[[-1.6569,48.24876],[-1.666831,48.248455],[-1.673526,48.259712],[-1.657218,48.257141],[-1.655845,48.250511],[-1.6569,48.24876]]]],"created":1292474881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/624377_20101216_2242d9d2d8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

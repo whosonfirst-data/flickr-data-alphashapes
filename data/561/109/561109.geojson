@@ -1,0 +1,15 @@
+{
+  "id": 561109,
+  "type": "Feature",
+  "properties": {
+    "name":"Hollymount, Mayo, Ireland",
+    "placetype":"locality",
+    "woe:id":561109,
+    "woe:name":"Hollymount, Mayo, Ireland",
+    "woe:place_id":"XefCShCcB52mm9s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.119682,53.662338,-9.113845,53.664272],
+  "geometry": {"alpha":0.00015,"bbox":[-9.1196823120117,53.662338256836,-9.113844871521,53.66427230835],"coordinates":[[[[-9.119682,53.662338],[-9.119682,53.662392],[-9.119682,53.662491],[-9.119368,53.664085],[-9.119338,53.664272],[-9.113845,53.662338],[-9.119682,53.662338]]]],"created":1292443505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/561109_20101215_1b6265d734.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

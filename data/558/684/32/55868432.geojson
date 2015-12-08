@@ -1,0 +1,15 @@
+{
+  "id": 55868432,
+  "type": "Feature",
+  "properties": {
+    "name":"Cabo, Madeira, Portugal",
+    "placetype":"locality",
+    "woe:id":55868432,
+    "woe:name":"Cabo, Madeira, Portugal",
+    "woe:place_id":"KHSOYTGcBJR.OYqdKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.233944,32.830662,-17.226906,32.831856],
+  "geometry": {"alpha":0.00015,"bbox":[-17.233943939209,32.830661773682,-17.226905822754,32.831855773926],"coordinates":[[[[-17.232,32.830662],[-17.233944,32.831856],[-17.230339,32.831711],[-17.226906,32.831566],[-17.231541,32.830704],[-17.232,32.830662]]]],"created":1292522637,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/55868432_20101216_8d47a88e2b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2455692,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Zion, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2455692,
+    "woe:name":"Mount Zion, Georgia, United States",
+    "woe:place_id":"84OWt2ibBZndNLDC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.17807,33.598125,-85.166229,33.610676],
+  "geometry": {"alpha":0.00015,"bbox":[-85.178070068359,33.598125457764,-85.166229248047,33.610675811768],"coordinates":[[[[-85.167091,33.602673],[-85.166229,33.598125],[-85.171806,33.602905],[-85.17807,33.610676],[-85.167107,33.603378],[-85.167091,33.602673]]]],"created":1292544644,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2455692_20101217_9b3bfe2bc8.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

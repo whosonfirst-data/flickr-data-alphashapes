@@ -1,0 +1,15 @@
+{
+  "id": 639099,
+  "type": "Feature",
+  "properties": {
+    "name":"Birkenfeld, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":639099,
+    "woe:name":"Birkenfeld, Thuringia, Germany",
+    "woe:place_id":"U.83_oqfApWypus",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.728921,50.408627,10.761795,50.425964],
+  "geometry": {"alpha":0.00015,"bbox":[10.728920936584,50.408626556396,10.761795043945,50.425964355469],"coordinates":[[[[10.744457,50.415901],[10.728921,50.425964],[10.744457,50.416229],[10.745315,50.415955],[10.761795,50.408627],[10.745487,50.413986],[10.744457,50.415901]]]],"created":1292533085,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/639099_20101216_86077a725c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

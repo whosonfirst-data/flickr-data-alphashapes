@@ -1,0 +1,15 @@
+{
+  "id": 2471786,
+  "type": "Feature",
+  "properties": {
+    "name":"Pilgrim, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2471786,
+    "woe:name":"Pilgrim, Texas, United States",
+    "woe:place_id":"wDLWjUmbBZvVZkQi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.547829,29.268692,-97.531387,29.2817],
+  "geometry": {"alpha":0.00015,"bbox":[-97.547828674316,29.268692016602,-97.531387329102,29.281700134277],"coordinates":[[[[-97.540314,29.268692],[-97.547829,29.272755],[-97.537819,29.278313],[-97.531387,29.2817],[-97.535904,29.270452],[-97.540314,29.268692]]]],"created":1292542087,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2471786_20101216_4a59b57f42.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

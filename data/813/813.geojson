@@ -1,0 +1,15 @@
+{
+  "id": 813,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanoraie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":813,
+    "woe:name":"Lanoraie, Quebec, Canada",
+    "woe:place_id":"qEoaCZORAJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.21489,45.959442,-73.2145,45.959499],
+  "geometry": {"alpha":0.00015,"bbox":[-73.214889526367,45.959442138672,-73.214500427246,45.959499359131],"coordinates":[[[[-73.214668,45.959499],[-73.2145,45.959499],[-73.214836,45.959442],[-73.21489,45.959442],[-73.214668,45.959499]]]],"created":1234759453,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3348/shapefiles/813_20090216_d43ff91b02.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

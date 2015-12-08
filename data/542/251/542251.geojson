@@ -1,0 +1,15 @@
+{
+  "id": 542251,
+  "type": "Feature",
+  "properties": {
+    "name":"Jedenspeigen, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":542251,
+    "woe:name":"Jedenspeigen, Lower Austria, Austria",
+    "woe:place_id":"NX42HCScBZ4Xp2U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.860838,48.503838,16.86594,48.505592],
+  "geometry": {"alpha":0.00015,"bbox":[16.860837936401,48.503837585449,16.865940093994,48.505592346191],"coordinates":[[[[16.864792,48.505592],[16.86594,48.505009],[16.865301,48.504776],[16.861546,48.503838],[16.860838,48.504948],[16.864445,48.505554],[16.864792,48.505592]]]],"created":1292453166,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/542251_20101215_77bc4ed68d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

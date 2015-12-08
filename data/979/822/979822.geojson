@@ -1,0 +1,15 @@
+{
+  "id": 979822,
+  "type": "Feature",
+  "properties": {
+    "name":"Oetrange, Luxemburg, Luxembourg",
+    "placetype":"locality",
+    "woe:id":979822,
+    "woe:name":"Oetrange, Luxemburg, Luxembourg",
+    "woe:place_id":"LdaK1GWQBpVTP1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.247615,49.593578,6.261434,49.601978],
+  "geometry": {"alpha":0.00015,"bbox":[6.2476148605347,49.593578338623,6.2614340782166,49.601978302002],"coordinates":[[[[6.261209,49.601337],[6.261434,49.596718],[6.26103,49.596802],[6.247615,49.593578],[6.257314,49.601978],[6.261209,49.601337]]]],"created":1234605002,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3527/shapefiles/979822_20090214_6e0fb6ab2c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

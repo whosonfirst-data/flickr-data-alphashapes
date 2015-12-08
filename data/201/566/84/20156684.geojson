@@ -1,0 +1,15 @@
+{
+  "id": 20156684,
+  "type": "Feature",
+  "properties": {
+    "name":"Oed, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20156684,
+    "woe:name":"Oed, Bavaria, Germany",
+    "woe:place_id":"cMrJjwubAZ2Xob1XLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.542264,47.885529,11.545257,47.898849],
+  "geometry": {"alpha":0.00015,"bbox":[11.54226398468,47.885528564453,11.545256614685,47.898849487305],"coordinates":[[[[11.54412,47.893887],[11.544313,47.890133],[11.543841,47.88599],[11.542554,47.885529],[11.542264,47.894409],[11.545257,47.898849],[11.54412,47.893887]]]],"created":1292454941,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/20156684_20101215_fbc91c8544.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

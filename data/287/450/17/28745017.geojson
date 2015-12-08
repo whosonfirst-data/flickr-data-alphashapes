@@ -1,0 +1,15 @@
+{
+  "id": 28745017,
+  "type": "Feature",
+  "properties": {
+    "name":"Brighton, New York, United States",
+    "placetype":"locality",
+    "woe:id":28745017,
+    "woe:name":"Brighton, New York, United States",
+    "woe:place_id":"8tMe3YqbCZs8QXBk0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.260025,44.431389,-74.240112,44.446739],
+  "geometry": {"alpha":0.00015,"bbox":[-74.260025024414,44.43138885498,-74.240112304688,44.446739196777],"coordinates":[[[[-74.25985,44.439907],[-74.260025,44.446739],[-74.240112,44.443066],[-74.240479,44.441162],[-74.245087,44.431389],[-74.25985,44.439907]]]],"created":1248015734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2473/shapefiles/28745017_20090719_a999967d08.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

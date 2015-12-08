@@ -1,0 +1,15 @@
+{
+  "id": 147205,
+  "type": "Feature",
+  "properties": {
+    "name":"Santo Domingo, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":147205,
+    "woe:name":"Santo Domingo, Chiapas, Mexico",
+    "woe:place_id":"1NNptJSYBZvY6Fg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.103882,15.025126,-92.077789,15.046098],
+  "geometry": {"alpha":0.00015,"bbox":[-92.103881835938,15.025126457214,-92.077789306641,15.046097755432],"coordinates":[[[[-92.102425,15.025126],[-92.094955,15.036648],[-92.090317,15.045352],[-92.077789,15.046098],[-92.094955,15.036648],[-92.103882,15.031737],[-92.102425,15.025126]]]],"created":1292541058,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/147205_20101216_e58441ccb2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

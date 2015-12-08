@@ -1,0 +1,15 @@
+{
+  "id": 689271,
+  "type": "Feature",
+  "properties": {
+    "name":"Rohr, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":689271,
+    "woe:name":"Rohr, Thuringia, Germany",
+    "woe:place_id":"HK65e2ifCZVNTMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.493659,50.575657,10.513338,50.583508],
+  "geometry": {"alpha":0.00015,"bbox":[10.49365901947,50.575656890869,10.513338088989,50.583507537842],"coordinates":[[[[10.513338,50.576546],[10.502488,50.575657],[10.494708,50.576012],[10.493659,50.578331],[10.501223,50.583508],[10.513333,50.576904],[10.513338,50.576546]]]],"created":1292533170,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/689271_20101216_df40e27f2d.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

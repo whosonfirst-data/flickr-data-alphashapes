@@ -1,0 +1,15 @@
+{
+  "id": 8381,
+  "type": "Feature",
+  "properties": {
+    "name":"Valleyview, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8381,
+    "woe:name":"Valleyview, Alberta, Canada",
+    "woe:place_id":"zoO4.HORApR5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.282745,55.038155,-117.26017,55.068501],
+  "geometry": {"alpha":0.00015,"bbox":[-117.28274536133,55.038154602051,-117.26016998291,55.068500518799],"coordinates":[[[[-117.27047,55.058117],[-117.282745,55.063721],[-117.276093,55.068501],[-117.268066,55.059544],[-117.26017,55.038155],[-117.27047,55.058117]]]],"created":1292520519,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/8381_20101216_4611639b2b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

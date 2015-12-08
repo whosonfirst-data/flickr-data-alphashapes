@@ -1,0 +1,15 @@
+{
+  "id": 29374577,
+  "type": "Feature",
+  "properties": {
+    "name":"Perth East, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":29374577,
+    "woe:name":"Perth East, Ontario, Canada",
+    "woe:place_id":"m7_10NSbCJ8_aLPtwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.860062,43.433537,-80.844612,43.461765],
+  "geometry": {"alpha":0.00015,"bbox":[-80.860061645508,43.433536529541,-80.844612121582,43.461765289307],"coordinates":[[[[-80.844612,43.444321],[-80.855255,43.433537],[-80.860062,43.443695],[-80.844955,43.461765],[-80.844612,43.444321]]]],"created":1292537705,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/29374577_20101216_b79c1c64a7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

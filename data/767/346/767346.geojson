@@ -1,0 +1,15 @@
+{
+  "id": 767346,
+  "type": "Feature",
+  "properties": {
+    "name":"La Mola, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":767346,
+    "woe:name":"La Mola, Valencia, Spain",
+    "woe:place_id":"1NMSXHaeB5tdiWc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.800285,38.402721,-0.788354,38.409683],
+  "geometry": {"alpha":0.00015,"bbox":[-0.8002849817276,38.402721405029,-0.78835397958755,38.409683227539],"coordinates":[[[[-0.794792,38.409683],[-0.793762,38.409584],[-0.792678,38.407917],[-0.788354,38.402721],[-0.797882,38.404774],[-0.800285,38.405445],[-0.794792,38.409683]]]],"created":1292453778,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/767346_20101215_a4b93e723b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

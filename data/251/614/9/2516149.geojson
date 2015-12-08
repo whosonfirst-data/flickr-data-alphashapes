@@ -1,0 +1,15 @@
+{
+  "id": 2516149,
+  "type": "Feature",
+  "properties": {
+    "name":"Welcome, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2516149,
+    "woe:name":"Welcome, Washington, United States",
+    "woe:place_id":"1uIoeKCbBJ2_BRr3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.161102,48.836178,-122.154205,48.851501],
+  "geometry": {"alpha":0.00015,"bbox":[-122.16110229492,48.836177825928,-122.15420532227,48.851501464844],"coordinates":[[[[-122.154205,48.838112],[-122.156036,48.836178],[-122.161102,48.842125],[-122.160759,48.851501],[-122.154205,48.838112]]]],"created":1234623847,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3532/shapefiles/2516149_20090214_c8ddc3dc7d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

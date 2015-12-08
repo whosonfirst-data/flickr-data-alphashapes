@@ -1,0 +1,15 @@
+{
+  "id": 12640023,
+  "type": "Feature",
+  "properties": {
+    "name":"Brou, France",
+    "placetype":"locality",
+    "woe:id":12640023,
+    "woe:name":"Brou, France",
+    "woe:place_id":"tRdDrmWYA5oKnxwI3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.15733,48.215042,1.161858,48.218475],
+  "geometry": {"alpha":1e-05,"bbox":[1.1573300361633,48.215042114258,1.1618579626083,48.218475341797],"coordinates":[[[[1.161128,48.218475],[1.161858,48.216831],[1.161343,48.216152],[1.161139,48.215836],[1.15733,48.215042],[1.161128,48.218475]]]],"created":1292445363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12640023_20101215_670da800ee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

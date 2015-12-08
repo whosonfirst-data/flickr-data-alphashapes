@@ -1,0 +1,15 @@
+{
+  "id": 1100463,
+  "type": "Feature",
+  "properties": {
+    "name":"Boggabri, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100463,
+    "woe:name":"Boggabri, New South Wales, Australia",
+    "woe:place_id":"bkdEMxuYAJx1hrOC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.03801,-30.71627,150.047974,-30.694464],
+  "geometry": {"alpha":0.00015,"bbox":[150.03800964355,-30.716270446777,150.04797363281,-30.694463729858],"coordinates":[[[[150.04039,-30.702728],[150.047974,-30.712555],[150.03801,-30.71627],[150.039764,-30.70332],[150.039246,-30.694464],[150.04039,-30.702728]]]],"created":1292454008,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/1100463_20101215_59f4973249.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

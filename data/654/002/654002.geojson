@@ -1,0 +1,15 @@
+{
+  "id": 654002,
+  "type": "Feature",
+  "properties": {
+    "name":"Grebin, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":654002,
+    "woe:name":"Grebin, Schleswig-Holstein, Germany",
+    "woe:place_id":"UGLnXT2fBJgpttQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.475592,54.192638,10.489878,54.19767],
+  "geometry": {"alpha":0.00015,"bbox":[10.475591659546,54.192638397217,10.489877700806,54.19766998291],"coordinates":[[[[10.488681,54.196842],[10.489878,54.19619],[10.488016,54.192638],[10.475592,54.19767],[10.486754,54.196465],[10.488681,54.196842]]]],"created":1292534099,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/654002_20101216_9827da3215.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 703365,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldau, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":703365,
+    "woe:name":"Waldau, Thuringia, Germany",
+    "woe:place_id":"aiaRUZ6eAZ9bcmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.820331,50.501347,10.822731,50.502113],
+  "geometry": {"alpha":0.00015,"bbox":[10.820330619812,50.501346588135,10.822731018066,50.502113342285],"coordinates":[[[[10.821015,50.502003],[10.822045,50.502113],[10.822731,50.501896],[10.822388,50.501347],[10.821015,50.501347],[10.820331,50.501472],[10.821015,50.502003]]]],"created":1292543589,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/703365_20101216_ecfb8e29ed.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

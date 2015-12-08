@@ -1,0 +1,15 @@
+{
+  "id": 2345915,
+  "type": "Feature",
+  "properties": {
+    "name":"Portland, JM, Jamaica",
+    "placetype":"region",
+    "woe:id":2345915,
+    "woe:name":"Portland, JM, Jamaica",
+    "woe:place_id":"eBv.zx6bApghK4JU",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-76.728516,17.88131,-76.245117,18.382545],
+  "geometry": {"alpha":0.03,"bbox":[-76.728515625,17.881309509277,-76.2451171875,18.382545471191],"coordinates":[[[[-76.717308,18.15011],[-76.699982,18.259399],[-76.699997,18.266701],[-76.565437,18.382545],[-76.398926,18.213697],[-76.304085,18.181816],[-76.24649,18.026403],[-76.245117,17.982651],[-76.404762,17.88131],[-76.603203,18.065086],[-76.720535,18.079151],[-76.728516,18.110613],[-76.717308,18.15011]]]],"created":1292430010,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2345915_20101215_d39a7c2b7c.tar.gz"},"points":437,"type":"MultiPolygon"}
+}

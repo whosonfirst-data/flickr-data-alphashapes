@@ -1,0 +1,15 @@
+{
+  "id": 2455419,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Royal, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2455419,
+    "woe:name":"Mount Royal, New Jersey, United States",
+    "woe:place_id":"nDW0taCbBZkqtj0C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.21257,39.789459,-75.199867,39.809826],
+  "geometry": {"alpha":0.00015,"bbox":[-75.21257019043,39.789459228516,-75.199867248535,39.809825897217],"coordinates":[[[[-75.21257,39.802364],[-75.212402,39.809822],[-75.212082,39.809826],[-75.199867,39.797325],[-75.202682,39.789459],[-75.21257,39.802364]]]],"created":1292524261,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2455419_20101216_7366290b96.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

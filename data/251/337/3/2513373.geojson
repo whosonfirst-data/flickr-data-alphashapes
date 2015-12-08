@@ -1,0 +1,15 @@
+{
+  "id": 2513373,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldo, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2513373,
+    "woe:name":"Waldo, Minnesota, United States",
+    "woe:place_id":"cwneQZCbBJ0WmdDI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.74115,47.052845,-91.73172,47.072926],
+  "geometry": {"alpha":0.00015,"bbox":[-91.741149902344,47.052845001221,-91.731719970703,47.072925567627],"coordinates":[[[[-91.740952,47.052845],[-91.74115,47.053352],[-91.740616,47.053555],[-91.73172,47.072926],[-91.740547,47.053516],[-91.740952,47.052845]]]],"created":1292454705,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2513373_20101215_aa3729e17f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

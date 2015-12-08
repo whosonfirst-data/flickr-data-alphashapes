@@ -1,0 +1,15 @@
+{
+  "id": 2500124,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockville, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2500124,
+    "woe:name":"Stockville, Nebraska, United States",
+    "woe:place_id":".oovCbqbBJweV66A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.405212,40.532238,-100.383263,40.537384],
+  "geometry": {"alpha":0.00015,"bbox":[-100.40521240234,40.532238006592,-100.38326263428,40.537384033203],"coordinates":[[[[-100.383263,40.532238],[-100.384331,40.53228],[-100.405212,40.537384],[-100.384308,40.534088],[-100.383263,40.532238]]]],"created":1234572485,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3512/shapefiles/2500124_20090214_5ec4e4f362.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

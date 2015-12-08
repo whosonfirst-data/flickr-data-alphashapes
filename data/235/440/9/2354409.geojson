@@ -1,0 +1,15 @@
+{
+  "id": 2354409,
+  "type": "Feature",
+  "properties": {
+    "name":"Amsterdam, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2354409,
+    "woe:name":"Amsterdam, Virginia, United States",
+    "woe:place_id":"5SSQRh6bAplCYHzh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.913094,37.423344,-79.895325,37.442768],
+  "geometry": {"alpha":0.00015,"bbox":[-79.913093566895,37.423343658447,-79.895324707031,37.442768096924],"coordinates":[[[[-79.910561,37.423344],[-79.913094,37.423889],[-79.904762,37.432751],[-79.895325,37.442768],[-79.900558,37.429512],[-79.910561,37.423344]]]],"created":1292451563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2354409_20101215_99a2c048c1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

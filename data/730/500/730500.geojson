@@ -1,0 +1,15 @@
+{
+  "id": 730500,
+  "type": "Feature",
+  "properties": {
+    "name":"IJzendijke, Zeeland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730500,
+    "woe:name":"IJzendijke, Zeeland, Netherlands",
+    "woe:place_id":"SWI1rQqeApxhMUo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.610725,51.312801,3.63583,51.340237],
+  "geometry": {"alpha":0.00015,"bbox":[3.6107249259949,51.312801361084,3.6358299255371,51.340236663818],"coordinates":[[[[3.610725,51.320957],[3.61271,51.328735],[3.632011,51.340237],[3.63583,51.32246],[3.628406,51.312801],[3.617935,51.313217],[3.610725,51.320957]]]],"created":1292535021,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/730500_20101216_193d3b14fc.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

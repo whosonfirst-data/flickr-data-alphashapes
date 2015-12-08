@@ -1,0 +1,15 @@
+{
+  "id": 1341,
+  "type": "Feature",
+  "properties": {
+    "name":"River John, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1341,
+    "woe:name":"River John, Nova Scotia, Canada",
+    "woe:place_id":"e27Q_v.YAph8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.087746,45.748482,-63.061234,45.755756],
+  "geometry": {"alpha":0.00015,"bbox":[-63.087745666504,45.748481750488,-63.061233520508,45.755756378174],"coordinates":[[[[-63.063324,45.755756],[-63.061234,45.754669],[-63.062897,45.748482],[-63.067738,45.752983],[-63.087746,45.749706],[-63.067875,45.753151],[-63.063324,45.755756]]]],"created":1292539274,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/1341_20101216_8f8741069c.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

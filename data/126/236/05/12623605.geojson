@@ -1,0 +1,15 @@
+{
+  "id": 12623605,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Weilheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623605,
+    "woe:name":"Gemeinde Weilheim, Germany",
+    "woe:place_id":"FjzyaI6YA5plwU30Tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.158528,47.669315,8.164386,47.674171],
+  "geometry": {"alpha":1e-05,"bbox":[8.1585283279419,47.669315338135,8.1643857955933,47.674171447754],"coordinates":[[[[8.158528,47.672146],[8.159322,47.672714],[8.164386,47.674171],[8.163013,47.669315],[8.158528,47.672146]]]],"created":1292548075,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12623605_20101217_eafa6d8064.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

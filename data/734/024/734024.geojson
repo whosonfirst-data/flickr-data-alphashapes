@@ -1,0 +1,15 @@
+{
+  "id": 734024,
+  "type": "Feature",
+  "properties": {
+    "name":"Uitwierde, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":734024,
+    "woe:name":"Uitwierde, Groningen, Netherlands",
+    "woe:place_id":"qhAsuA6eApjWW2k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.894974,53.341789,6.901345,53.34481],
+  "geometry": {"alpha":0.00015,"bbox":[6.89497423172,53.341789245605,6.9013447761536,53.34481048584],"coordinates":[[[[6.901345,53.344799],[6.901345,53.344669],[6.897096,53.341789],[6.895294,53.342518],[6.894974,53.344219],[6.901323,53.34481],[6.901345,53.344799]]]],"created":1292466963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/734024_20101216_78abb4cd12.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683016,
+  "type": "Feature",
+  "properties": {
+    "name":"Habkern, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683016,
+    "woe:name":"Habkern, Switzerland",
+    "woe:place_id":"iLIYXcGYA5prcsPrrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.906256,46.740551,7.908326,46.74485],
+  "geometry": {"alpha":1e-05,"bbox":[7.9062561988831,46.740550994873,7.9083261489868,46.744850158691],"coordinates":[[[[7.907039,46.743992],[7.906288,46.744743],[7.906256,46.74485],[7.908326,46.744118],[7.908096,46.740551],[7.907039,46.743992]]]],"created":1292542747,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12683016_20101216_5990650ee4.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

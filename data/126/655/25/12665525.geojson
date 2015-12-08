@@ -1,0 +1,15 @@
+{
+  "id": 12665525,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Vignes, France",
+    "placetype":"locality",
+    "woe:id":12665525,
+    "woe:name":"Les Vignes, France",
+    "woe:place_id":"pFlrHrWYA5pluVI5PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.235473,44.260921,3.236846,44.262936],
+  "geometry": {"alpha":1e-05,"bbox":[3.2354729175568,44.260921478271,3.2368459701538,44.262935638428],"coordinates":[[[[3.235516,44.260921],[3.235473,44.261551],[3.235623,44.262936],[3.236846,44.261185],[3.235516,44.260921]]]],"created":1292533413,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12665525_20101216_aa2f69d47a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

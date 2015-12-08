@@ -1,0 +1,15 @@
+{
+  "id": 15000432,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino in Strada, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":15000432,
+    "woe:name":"San Martino in Strada, Lombardy, Italy",
+    "woe:place_id":"j9MrTGOYBJxl64dJBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.525532,45.272499,9.529953,45.278664],
+  "geometry": {"alpha":0.00015,"bbox":[9.5255317687988,45.272499084473,9.5299530029297,45.278663635254],"coordinates":[[[[9.527335,45.277779],[9.529161,45.278664],[9.529953,45.272499],[9.527378,45.273918],[9.525532,45.276314],[9.527335,45.277779]]]],"created":1292517718,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/15000432_20101216_be15786031.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

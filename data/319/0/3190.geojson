@@ -1,0 +1,15 @@
+{
+  "id": 3190,
+  "type": "Feature",
+  "properties": {
+    "name":"Cartier, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3190,
+    "woe:name":"Cartier, Ontario, Canada",
+    "woe:place_id":"T0G0s1OaAJWU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.571426,46.696346,-81.550415,46.720852],
+  "geometry": {"alpha":0.00015,"bbox":[-81.571426391602,46.696346282959,-81.550415039062,46.720851898193],"coordinates":[[[[-81.559067,46.696346],[-81.571426,46.69973],[-81.568184,46.720852],[-81.56147,46.710854],[-81.55619,46.703175],[-81.550415,46.698433],[-81.559067,46.696346]]]],"created":1292510225,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/3190_20101216_09e2cb0c3b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

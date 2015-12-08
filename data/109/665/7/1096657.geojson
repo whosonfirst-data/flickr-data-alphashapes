@@ -1,0 +1,15 @@
+{
+  "id": 1096657,
+  "type": "Feature",
+  "properties": {
+    "name":"Kiora, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1096657,
+    "woe:name":"Kiora, New South Wales, Australia",
+    "woe:place_id":"SVJBGBCYAZV4CtHJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.039169,-35.935104,150.044662,-35.924461],
+  "geometry": {"alpha":0.00015,"bbox":[150.03916931152,-35.935104370117,150.04466247559,-35.924461364746],"coordinates":[[[[150.039169,-35.935104],[150.044083,-35.924461],[150.044662,-35.924644],[150.041183,-35.933723],[150.040497,-35.934357],[150.039597,-35.935001],[150.039169,-35.935104]]]],"created":1292447855,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/1096657_20101215_f9ab290343.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

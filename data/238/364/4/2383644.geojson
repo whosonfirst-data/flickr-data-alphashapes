@@ -1,0 +1,15 @@
+{
+  "id": 2383644,
+  "type": "Feature",
+  "properties": {
+    "name":"Columbus, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2383644,
+    "woe:name":"Columbus, Missouri, United States",
+    "woe:place_id":"yr0I6pubApSzm1MK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.908211,38.811001,-93.889832,38.83329],
+  "geometry": {"alpha":0.00015,"bbox":[-93.908210754395,38.811000823975,-93.889831542969,38.833290100098],"coordinates":[[[[-93.908211,38.820065],[-93.904266,38.83329],[-93.897743,38.827038],[-93.889832,38.811001],[-93.904823,38.817593],[-93.907013,38.819214],[-93.908211,38.820065]]]],"created":1292533326,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2383644_20101216_c4708a272a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

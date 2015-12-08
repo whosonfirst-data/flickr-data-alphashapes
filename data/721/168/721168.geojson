@@ -1,0 +1,15 @@
+{
+  "id": 721168,
+  "type": "Feature",
+  "properties": {
+    "name":"Pozzallo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721168,
+    "woe:name":"Pozzallo, Lombardy, Italy",
+    "woe:place_id":"8gAWfq2eA51bvbo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.337863,44.803883,9.351596,44.808483],
+  "geometry": {"alpha":0.00015,"bbox":[9.3378629684448,44.803882598877,9.3515958786011,44.808483123779],"coordinates":[[[[9.337863,44.808163],[9.339365,44.808483],[9.351081,44.807598],[9.351596,44.806015],[9.343614,44.803883],[9.337863,44.808163]]]],"created":1292363763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/721168_20101214_847e6d1929.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

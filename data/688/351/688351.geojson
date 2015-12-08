@@ -1,0 +1,15 @@
+{
+  "id": 688351,
+  "type": "Feature",
+  "properties": {
+    "name":"Rhinow, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":688351,
+    "woe:name":"Rhinow, Brandenburg, Germany",
+    "woe:place_id":"A7NXdX.fCZSvd.E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.335859,52.736343,12.358245,52.767567],
+  "geometry": {"alpha":0.00015,"bbox":[12.335859298706,52.736343383789,12.358244895935,52.767566680908],"coordinates":[[[[12.344169,52.752296],[12.350564,52.751595],[12.358245,52.744812],[12.335859,52.736343],[12.33962,52.752632],[12.336788,52.767567],[12.344169,52.752296]]]],"created":1292451676,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/688351_20101215_9cd53746fb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678275,
+  "type": "Feature",
+  "properties": {
+    "name":"Carano, Italy",
+    "placetype":"locality",
+    "woe:id":12678275,
+    "woe:name":"Carano, Italy",
+    "woe:place_id":"rfi.02.YA5rgQXHCpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.429214,46.296661,11.438055,46.306744],
+  "geometry": {"alpha":1e-05,"bbox":[11.429213523865,46.296661376953,11.438055038452,46.306743621826],"coordinates":[[[[11.433398,46.301094],[11.435008,46.306744],[11.436424,46.300636],[11.438055,46.296661],[11.433398,46.298389],[11.429214,46.301167],[11.433398,46.301094]]]],"created":1292546256,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12678275_20101217_6595c7d970.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

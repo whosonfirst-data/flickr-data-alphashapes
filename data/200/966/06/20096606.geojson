@@ -1,0 +1,15 @@
+{
+  "id": 20096606,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuseiersberg, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":20096606,
+    "woe:name":"Neuseiersberg, Styria, Austria",
+    "woe:place_id":"335HS8ibAZw9sjk0mw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.416564,46.9995,15.42989,47.00835],
+  "geometry": {"alpha":0.00015,"bbox":[15.416563987732,46.999500274658,15.429889678955,47.008350372314],"coordinates":[[[[15.42989,47.00222],[15.428924,47.00045],[15.419,46.9995],[15.416736,47.005623],[15.416564,47.00835],[15.42989,47.00222]]]],"created":1292517762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/20096606_20101216_d675f8630a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

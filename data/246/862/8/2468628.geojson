@@ -1,0 +1,15 @@
+{
+  "id": 2468628,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkland, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2468628,
+    "woe:name":"Parkland, Wisconsin, United States",
+    "woe:place_id":"am2UHQ6bBZobVMMT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.004829,46.645111,-91.998665,46.652737],
+  "geometry": {"alpha":0.00015,"bbox":[-92.004829406738,46.645111083984,-91.998664855957,46.652736663818],"coordinates":[[[[-91.998672,46.645115],[-91.998909,46.645695],[-92.004829,46.652737],[-92.000885,46.650791],[-91.998909,46.645695],[-91.998665,46.645111],[-91.998672,46.645115]]]],"created":1292477942,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2468628_20101216_0d262a9dcd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

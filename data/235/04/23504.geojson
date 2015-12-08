@@ -1,0 +1,15 @@
+{
+  "id": 23504,
+  "type": "Feature",
+  "properties": {
+    "name":"Hilton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23504,
+    "woe:name":"Hilton, England, United Kingdom",
+    "woe:place_id":"RCmLvqObApkdwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.117158,52.276981,-0.105228,52.280788],
+  "geometry": {"alpha":0.00015,"bbox":[-0.11715800315142,52.27698135376,-0.10522799938917,52.280788421631],"coordinates":[[[[-0.109798,52.277691],[-0.111236,52.277401],[-0.115013,52.276981],[-0.117158,52.280788],[-0.111579,52.279816],[-0.105228,52.279766],[-0.106612,52.278542],[-0.109798,52.277691]]]],"created":1292539538,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/23504_20101216_4842931eec.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

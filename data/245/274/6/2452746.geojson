@@ -1,0 +1,15 @@
+{
+  "id": 2452746,
+  "type": "Feature",
+  "properties": {
+    "name":"Mokae, Hawaii, United States",
+    "placetype":"locality",
+    "woe:id":2452746,
+    "woe:name":"Mokae, Hawaii, United States",
+    "woe:place_id":"RNUkd4qbBZk1oA5i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-155.99762,20.715708,-155.989716,20.721277],
+  "geometry": {"alpha":0.00015,"bbox":[-155.99761962891,20.715707778931,-155.98971557617,20.721277236938],"coordinates":[[[[-155.9935,20.721256],[-155.992828,20.721277],[-155.989716,20.719351],[-155.990814,20.715708],[-155.99762,20.718225],[-155.9935,20.721256]]]],"created":1292529992,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2452746_20101216_b53eec80a3.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

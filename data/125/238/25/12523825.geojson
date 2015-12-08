@@ -1,0 +1,15 @@
+{
+  "id": 12523825,
+  "type": "Feature",
+  "properties": {
+    "name":"Prunay Airport, France",
+    "placetype":"locality",
+    "woe:id":12523825,
+    "woe:name":"Prunay Airport, France",
+    "woe:place_id":"G7lpf6SYA5lFLjfluQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.038677,49.306656,4.044342,49.310833],
+  "geometry": {"alpha":1e-05,"bbox":[4.0386772155762,49.306655883789,4.0443420410156,49.310832977295],"coordinates":[[[[4.04241,49.310352],[4.043294,49.310833],[4.044342,49.308617],[4.038677,49.306656],[4.04241,49.310352]]]],"created":1292517732,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12523825_20101216_73ffc7a341.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

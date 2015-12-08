@@ -1,0 +1,15 @@
+{
+  "id": 20154135,
+  "type": "Feature",
+  "properties": {
+    "name":"Kuglstadt, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20154135,
+    "woe:name":"Kuglstadt, Bavaria, Germany",
+    "woe:place_id":"9JurBsKbAZ1la5D7MA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.976012,48.773643,13.008069,48.784161],
+  "geometry": {"alpha":0.00015,"bbox":[12.976012229919,48.773643493652,13.008069038391,48.784160614014],"coordinates":[[[[12.991676,48.775085],[12.976012,48.773643],[12.993704,48.784161],[12.994948,48.783737],[13.008069,48.782379],[12.991676,48.775085]]]],"created":1292541300,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20154135_20101216_4c8613c0b1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

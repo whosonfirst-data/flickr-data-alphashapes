@@ -1,0 +1,15 @@
+{
+  "id": 23413,
+  "type": "Feature",
+  "properties": {
+    "name":"Highmoor, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23413,
+    "woe:name":"Highmoor, England, United Kingdom",
+    "woe:place_id":"OSvXBCubApiMGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.990657,51.557701,-0.983952,51.565121],
+  "geometry": {"alpha":0.00015,"bbox":[-0.99065697193146,51.55770111084,-0.98395198583603,51.565120697021],"coordinates":[[[[-0.986845,51.56472],[-0.983952,51.563492],[-0.986323,51.558102],[-0.989112,51.557701],[-0.990486,51.560932],[-0.990657,51.565121],[-0.986845,51.56472]]]],"created":1292529646,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/23413_20101216_ceac3889f5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

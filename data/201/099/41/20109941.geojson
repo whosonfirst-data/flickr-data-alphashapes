@@ -1,0 +1,15 @@
+{
+  "id": 20109941,
+  "type": "Feature",
+  "properties": {
+    "name":"Aragno, Abruzzi, Italy",
+    "placetype":"locality",
+    "woe:id":20109941,
+    "woe:name":"Aragno, Abruzzi, Italy",
+    "woe:place_id":"4FPV3XObAZ2LVDG9zA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.446235,42.388218,13.468551,42.416615],
+  "geometry": {"alpha":0.00015,"bbox":[13.446234703064,42.388217926025,13.468550682068,42.416614532471],"coordinates":[[[[13.456192,42.396839],[13.446235,42.408627],[13.458938,42.416615],[13.457409,42.397022],[13.468551,42.388218],[13.456192,42.396839]]]],"created":1292502064,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20109941_20101216_b3e1a3061b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 752306,
+  "type": "Feature",
+  "properties": {
+    "name":"Altea la Vieja, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":752306,
+    "woe:name":"Altea la Vieja, Valencia, Spain",
+    "woe:place_id":"noYiHcSeBJ6znb4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.049266,38.629341,-0.043945,38.634842],
+  "geometry": {"alpha":0.00015,"bbox":[-0.049265999346972,38.629341125488,-0.043944999575615,38.634841918945],"coordinates":[[[[-0.047905,38.63298],[-0.043945,38.634842],[-0.046949,38.63179],[-0.049266,38.629341],[-0.048923,38.632496],[-0.047905,38.63298]]]],"created":1248030005,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2468/shapefiles/752306_20090719_3d575a2c1b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 24547203,
+  "type": "Feature",
+  "properties": {
+    "name":"Falkenstein/Harz, Germany",
+    "placetype":"locality",
+    "woe:id":24547203,
+    "woe:name":"Falkenstein/Harz, Germany",
+    "woe:place_id":"AZGn.OmbBZmVLjFGRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.287611,51.703201,11.288816,51.705181],
+  "geometry": {"alpha":1e-05,"bbox":[11.28761100769,51.703201293945,11.288816452026,51.705181121826],"coordinates":[[[[11.288552,51.705181],[11.288816,51.703201],[11.2878,51.703438],[11.287611,51.703564],[11.288552,51.705181]]]],"created":1292519043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/24547203_20101216_1cc4a43e83.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

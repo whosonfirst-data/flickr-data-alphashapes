@@ -1,0 +1,15 @@
+{
+  "id": 2463312,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakbluff, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2463312,
+    "woe:name":"Oakbluff, Maryland, United States",
+    "woe:place_id":"Ccfnwp.bBZqSkbjG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.548721,38.937618,-76.541191,38.941704],
+  "geometry": {"alpha":0.00015,"bbox":[-76.548721313477,38.937618255615,-76.541191101074,38.941703796387],"coordinates":[[[[-76.548721,38.938633],[-76.547874,38.939602],[-76.541191,38.941704],[-76.544868,38.938786],[-76.546532,38.937618],[-76.548721,38.938633]]]],"created":1292528667,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2463312_20101216_ecd20a74d5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

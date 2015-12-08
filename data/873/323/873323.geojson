@@ -1,0 +1,15 @@
+{
+  "id": 873323,
+  "type": "Feature",
+  "properties": {
+    "name":"Gruiul, Ilfov, Romania",
+    "placetype":"locality",
+    "woe:id":873323,
+    "woe:name":"Gruiul, Ilfov, Romania",
+    "woe:place_id":"T1MS7UyRBp_CM38",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.177916,44.723289,26.191063,44.740879],
+  "geometry": {"alpha":0.00015,"bbox":[26.17791557312,44.723289489746,26.191062927246,44.740879058838],"coordinates":[[[[26.181723,44.72797],[26.177916,44.729389],[26.191063,44.740879],[26.189175,44.725147],[26.190205,44.723289],[26.184834,44.726917],[26.181723,44.72797]]]],"created":1292539022,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/873323_20101216_c3f62000da.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

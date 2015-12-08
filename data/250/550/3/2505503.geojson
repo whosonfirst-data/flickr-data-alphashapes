@@ -1,0 +1,15 @@
+{
+  "id": 2505503,
+  "type": "Feature",
+  "properties": {
+    "name":"The Watson Place, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2505503,
+    "woe:name":"The Watson Place, Florida, United States",
+    "woe:place_id":"i4yskaabBJx5djLp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.283165,25.645935,-81.280846,25.649651],
+  "geometry": {"alpha":0.00015,"bbox":[-81.283164978027,25.645935058594,-81.28084564209,25.64965057373],"coordinates":[[[[-81.282135,25.645975],[-81.283165,25.645935],[-81.281487,25.648605],[-81.280846,25.649651],[-81.281792,25.646999],[-81.282135,25.645975]]]],"created":1248058441,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3488/shapefiles/2505503_20090720_7c8acdfbe1.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2451559,
+  "type": "Feature",
+  "properties": {
+    "name":"Mills Farm East, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2451559,
+    "woe:name":"Mills Farm East, Maryland, United States",
+    "woe:place_id":"bG7I__mbBZk69rIN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.241081,39.093845,-77.232643,39.098694],
+  "geometry": {"alpha":0.00015,"bbox":[-77.241081237793,39.093845367432,-77.232643127441,39.098693847656],"coordinates":[[[[-77.232643,39.098694],[-77.23291,39.09827],[-77.241081,39.093845],[-77.239769,39.09726],[-77.232643,39.098694]]]],"created":1234781769,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3363/shapefiles/2451559_20090216_59cfebc021.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

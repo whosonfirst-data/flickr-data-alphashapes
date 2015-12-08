@@ -1,0 +1,15 @@
+{
+  "id": 575543,
+  "type": "Feature",
+  "properties": {
+    "name":"Aillac, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":575543,
+    "woe:name":"Aillac, Aquitaine, France",
+    "woe:place_id":"0wZLKLycBpkWRns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.297073,44.836884,1.309969,44.853558],
+  "geometry": {"alpha":0.00015,"bbox":[1.2970730066299,44.836883544922,1.3099689483643,44.85355758667],"coordinates":[[[[1.300978,44.843636],[1.303725,44.853558],[1.305629,44.852737],[1.309969,44.849998],[1.308231,44.841385],[1.297073,44.836884],[1.300978,44.843636]]]],"created":1292550940,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/575543_20101217_2fa965894f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

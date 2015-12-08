@@ -1,0 +1,15 @@
+{
+  "id": 2404180,
+  "type": "Feature",
+  "properties": {
+    "name":"Flatbush, Saugerties, NY, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2404180,
+    "woe:name":"Flatbush, Saugerties, NY, US, United States",
+    "woe:place_id":"CHZjKambBZyTJopo",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.978798,42.016125,-73.974007,42.018944],
+  "geometry": {"alpha":1e-05,"bbox":[-73.978797912598,42.016124725342,-73.974006652832,42.018943786621],"coordinates":[[[[-73.976227,42.018944],[-73.974007,42.018177],[-73.976471,42.017841],[-73.978798,42.016125],[-73.976227,42.018944]]]],"created":1292518975,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2404180_20101216_dd76627d35.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

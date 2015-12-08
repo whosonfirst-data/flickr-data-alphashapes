@@ -1,0 +1,15 @@
+{
+  "id": 23396591,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Omer, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396591,
+    "woe:name":"St.-Omer, Quebec, Canada",
+    "woe:place_id":"hCLzHM.bAp_El1yGWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.281548,48.082264,-66.269188,48.093845],
+  "geometry": {"alpha":0.00015,"bbox":[-66.281547546387,48.082263946533,-66.269187927246,48.093845367432],"coordinates":[[[[-66.281548,48.082264],[-66.280518,48.092987],[-66.269188,48.093845],[-66.277428,48.085533],[-66.281548,48.082264]]]],"created":1292542035,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/23396591_20101216_48871759d8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2518631,
+  "type": "Feature",
+  "properties": {
+    "name":"Westwood, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2518631,
+    "woe:name":"Westwood, Kentucky, United States",
+    "woe:place_id":"NxBdaBKbBJ3EBM2R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.598557,38.258907,-85.570473,38.278175],
+  "geometry": {"alpha":0.00015,"bbox":[-85.598556518555,38.258907318115,-85.570472717285,38.278175354004],"coordinates":[[[[-85.595772,38.260406],[-85.598557,38.26408],[-85.587463,38.278175],[-85.570473,38.263538],[-85.58744,38.258907],[-85.595772,38.260406]]]],"created":1292454677,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2518631_20101215_d83c9ea68c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

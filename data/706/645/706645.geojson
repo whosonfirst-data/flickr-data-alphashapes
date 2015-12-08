@@ -1,0 +1,15 @@
+{
+  "id": 706645,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilhelmsthal, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":706645,
+    "woe:name":"Wilhelmsthal, Bavaria, Germany",
+    "woe:place_id":"ytjQKTieAZo1mdY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.384738,50.281651,11.385111,50.282085],
+  "geometry": {"alpha":0.00015,"bbox":[11.384737968445,50.281650543213,11.385110855103,50.282085418701],"coordinates":[[[[11.384738,50.281651],[11.384741,50.2817],[11.384961,50.281937],[11.385111,50.282085],[11.385072,50.281921],[11.38483,50.281666],[11.384738,50.281651]]]],"created":1292439719,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/706645_20101215_66b19d8668.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2439461,
+  "type": "Feature",
+  "properties": {
+    "name":"Lincoln, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2439461,
+    "woe:name":"Lincoln, Oregon, United States",
+    "woe:place_id":"1DrNaWGbBZ88Ovvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.086273,44.999985,-123.073479,45.021141],
+  "geometry": {"alpha":0.00015,"bbox":[-123.08627319336,44.999984741211,-123.07347869873,45.021141052246],"coordinates":[[[[-123.086273,45.018883],[-123.085175,45.021141],[-123.073479,45.01609],[-123.078117,44.999985],[-123.086273,45.018883]]]],"created":1247937962,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3039/shapefiles/2439461_20090718_a3c5dc191e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

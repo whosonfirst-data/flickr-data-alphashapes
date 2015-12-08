@@ -1,0 +1,15 @@
+{
+  "id": 759152,
+  "type": "Feature",
+  "properties": {
+    "name":"El Castro, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":759152,
+    "woe:name":"El Castro, Castille and Leon, Spain",
+    "woe:place_id":"s8OZ4teeBJUBLVo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.017173,42.70792,-7.005801,42.720657],
+  "geometry": {"alpha":0.00015,"bbox":[-7.0171728134155,42.707920074463,-7.0058012008667,42.720657348633],"coordinates":[[[[-7.005801,42.715805],[-7.005972,42.713848],[-7.007904,42.70792],[-7.017173,42.716244],[-7.010993,42.720657],[-7.005801,42.715805]]]],"created":1292499544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/759152_20101216_b3d81a2b64.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2404664,
+  "type": "Feature",
+  "properties": {
+    "name":"Floyd, New York, United States",
+    "placetype":"locality",
+    "woe:id":2404664,
+    "woe:name":"Floyd, New York, United States",
+    "woe:place_id":"KZIgmzObBZzAfQmm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.345474,43.209633,-75.328163,43.234783],
+  "geometry": {"alpha":0.00015,"bbox":[-75.345474243164,43.209632873535,-75.328163146973,43.234783172607],"coordinates":[[[[-75.33194,43.218468],[-75.328163,43.217587],[-75.3283,43.217106],[-75.338081,43.209633],[-75.345474,43.21619],[-75.343605,43.234783],[-75.33194,43.218468]]]],"created":1292518349,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2404664_20101216_ec37a739fd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

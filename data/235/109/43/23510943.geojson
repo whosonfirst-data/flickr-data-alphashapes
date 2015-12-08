@@ -1,0 +1,15 @@
+{
+  "id": 23510943,
+  "type": "Feature",
+  "properties": {
+    "name":"Zoar, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":23510943,
+    "woe:name":"Zoar, Indiana, United States",
+    "woe:place_id":"gr_IatubApnXQEALWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.092056,38.238068,-87.073967,38.247383],
+  "geometry": {"alpha":0.00015,"bbox":[-87.092056274414,38.238067626953,-87.07396697998,38.247383117676],"coordinates":[[[[-87.088928,38.238068],[-87.092056,38.247383],[-87.073967,38.247272],[-87.08091,38.240036],[-87.083115,38.238804],[-87.088928,38.238068]]]],"created":1292389324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23510943_20101215_8de5ed5e35.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

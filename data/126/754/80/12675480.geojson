@@ -1,0 +1,15 @@
+{
+  "id": 12675480,
+  "type": "Feature",
+  "properties": {
+    "name":"Hainzenberg, Austria",
+    "placetype":"locality",
+    "woe:id":12675480,
+    "woe:name":"Hainzenberg, Austria",
+    "woe:place_id":"so3NmCuYA5r1J18hPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.887421,47.220589,11.895146,47.227234],
+  "geometry": {"alpha":1e-05,"bbox":[11.887420654297,47.220588684082,11.895146369934,47.227233886719],"coordinates":[[[[11.892871,47.222],[11.891155,47.220589],[11.887421,47.225471],[11.887872,47.227234],[11.892743,47.223839],[11.895146,47.224728],[11.892871,47.222]]]],"created":1292539611,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12675480_20101216_90e2671530.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

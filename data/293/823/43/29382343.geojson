@@ -1,0 +1,15 @@
+{
+  "id": 29382343,
+  "type": "Feature",
+  "properties": {
+    "name":"Funchal, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":29382343,
+    "woe:name":"Funchal, Faro, Portugal",
+    "woe:place_id":"QElcANWbCJ_cU3w.bA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.711385,37.106998,-8.70655,37.111465],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7113847732544,37.106998443604,-8.7065496444702,37.111465454102],"coordinates":[[[[-8.710331,37.107975],[-8.711385,37.109783],[-8.708982,37.111465],[-8.707523,37.110435],[-8.70655,37.106998],[-8.710331,37.107975]]]],"created":1292546159,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/29382343_20101217_9ae30df904.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 56000035,
+  "type": "Feature",
+  "properties": {
+    "name":"Kati, Koulikoro, Mali",
+    "placetype":"county",
+    "woe:id":56000035,
+    "woe:name":"Kati, Koulikoro, Mali",
+    "woe:place_id":".mXzayKcB5yicdiblg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-8.113677,12.724409,-8.054351,12.80611],
+  "geometry": {"alpha":0.0015,"bbox":[-8.1136770248413,12.724409103394,-8.0543508529663,12.80611038208],"coordinates":[[[[-8.113677,12.759035],[-8.106193,12.80611],[-8.054351,12.783678],[-8.058471,12.7368],[-8.068256,12.724409],[-8.113677,12.759035]]]],"created":1292532917,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/56000035_20101216_616e4a473e.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

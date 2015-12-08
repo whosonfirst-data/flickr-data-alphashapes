@@ -1,0 +1,15 @@
+{
+  "id": 2498275,
+  "type": "Feature",
+  "properties": {
+    "name":"Springfield, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2498275,
+    "woe:name":"Springfield, Kentucky, United States",
+    "woe:place_id":"8E8g2UabBZUS_ax4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.233307,37.675125,-85.207642,37.700748],
+  "geometry": {"alpha":0.00015,"bbox":[-85.233306884766,37.67512512207,-85.207641601562,37.700748443604],"coordinates":[[[[-85.221664,37.68507],[-85.222656,37.68544],[-85.222832,37.686539],[-85.233307,37.700119],[-85.218307,37.698837],[-85.207642,37.700748],[-85.208755,37.69968],[-85.211334,37.697762],[-85.209961,37.675125],[-85.221664,37.68507]]]],"created":1292534945,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2498275_20101216_1523fbb5b3.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

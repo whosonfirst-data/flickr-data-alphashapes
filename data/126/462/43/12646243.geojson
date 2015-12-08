@@ -1,0 +1,15 @@
+{
+  "id": 12646243,
+  "type": "Feature",
+  "properties": {
+    "name":"La Fontenelle, France",
+    "placetype":"locality",
+    "woe:id":12646243,
+    "woe:name":"La Fontenelle, France",
+    "woe:place_id":"xza9POmYA5pgkFQvBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.01952,48.026733,1.01977,48.026958],
+  "geometry": {"alpha":1e-05,"bbox":[1.0195200443268,48.026733398438,1.019770026207,48.026958465576],"coordinates":[[[[1.019739,48.026943],[1.01977,48.026958],[1.019737,48.026924],[1.019582,48.026764],[1.019522,48.026733],[1.01952,48.026737],[1.01957,48.026855],[1.019613,48.026878],[1.019739,48.026943]]]],"created":1292454752,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12646243_20101215_b70500f020.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

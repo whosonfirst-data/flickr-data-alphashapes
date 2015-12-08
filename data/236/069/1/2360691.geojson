@@ -1,0 +1,15 @@
+{
+  "id": 2360691,
+  "type": "Feature",
+  "properties": {
+    "name":"Bear Creek, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2360691,
+    "woe:name":"Bear Creek, North Carolina, United States",
+    "woe:place_id":"kgYMCnObApoWPbsW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.408836,35.613419,-79.382225,35.621929],
+  "geometry": {"alpha":0.00015,"bbox":[-79.408836364746,35.613418579102,-79.382225036621,35.621929168701],"coordinates":[[[[-79.382225,35.621304],[-79.387177,35.617725],[-79.390213,35.613419],[-79.408836,35.621929],[-79.386002,35.619907],[-79.382225,35.621304]]]],"created":1234852100,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3515/shapefiles/2360691_20090217_a55ffd6cc1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

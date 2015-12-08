@@ -1,0 +1,15 @@
+{
+  "id": 2394459,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunkirk, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2394459,
+    "woe:name":"Dunkirk, Wisconsin, United States",
+    "woe:place_id":"gLE3VKCbApVVb2Vr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.21402,42.878574,-89.209976,42.883476],
+  "geometry": {"alpha":0.00015,"bbox":[-89.214019775391,42.878574371338,-89.209976196289,42.883476257324],"coordinates":[[[[-89.210548,42.87904],[-89.21386,42.882111],[-89.21402,42.883476],[-89.209976,42.881119],[-89.209976,42.878574],[-89.210548,42.87904]]]],"created":1292456658,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2394459_20101215_4eec3b9176.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

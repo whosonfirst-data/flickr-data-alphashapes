@@ -1,0 +1,15 @@
+{
+  "id": 2353345,
+  "type": "Feature",
+  "properties": {
+    "name":"Allenfarm, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2353345,
+    "woe:name":"Allenfarm, Texas, United States",
+    "woe:place_id":"6QPfgoubApkrznsd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.244865,30.400085,-96.240654,30.409773],
+  "geometry": {"alpha":0.00015,"bbox":[-96.24486541748,30.400085449219,-96.240653991699,30.409772872925],"coordinates":[[[[-96.243103,30.400709],[-96.244865,30.402193],[-96.242928,30.409773],[-96.240654,30.400652],[-96.24234,30.400085],[-96.242348,30.400087],[-96.243103,30.400709]]]],"created":1292532481,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2353345_20101216_70e0d9b3bf.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

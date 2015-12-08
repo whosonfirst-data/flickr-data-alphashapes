@@ -1,0 +1,15 @@
+{
+  "id": 2504582,
+  "type": "Feature",
+  "properties": {
+    "name":"Tekoa, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2504582,
+    "woe:name":"Tekoa, Tennessee, United States",
+    "woe:place_id":"ZHqhIqmbBJzkMkHt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.065323,35.984951,-84.060066,35.993301],
+  "geometry": {"alpha":0.00015,"bbox":[-84.065322875977,35.984951019287,-84.060066223145,35.993301391602],"coordinates":[[[[-84.060066,35.992905],[-84.06118,35.990524],[-84.065323,35.984951],[-84.061623,35.992786],[-84.060387,35.993301],[-84.060066,35.992905]]]],"created":1292450987,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2504582_20101215_3b4e9ddaf4.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

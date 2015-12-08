@@ -1,0 +1,15 @@
+{
+  "id": 557716,
+  "type": "Feature",
+  "properties": {
+    "name":"Storvorde, Nordjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":557716,
+    "woe:name":"Storvorde, Nordjylland, Denmark",
+    "woe:place_id":"KUq4mmacBJvzCUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.089569,56.991913,10.114288,57.023869],
+  "geometry": {"alpha":0.00015,"bbox":[10.089569091797,56.991912841797,10.114288330078,57.023868560791],"coordinates":[[[[10.098066,57.011791],[10.114288,57.023869],[10.107115,57.001183],[10.103833,56.991913],[10.092744,57.000481],[10.089569,57.008404],[10.098066,57.011791]]]],"created":1292450151,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/557716_20101215_091584ccf9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

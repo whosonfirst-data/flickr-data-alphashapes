@@ -1,0 +1,15 @@
+{
+  "id": 2432342,
+  "type": "Feature",
+  "properties": {
+    "name":"Kimball Lake, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2432342,
+    "woe:name":"Kimball Lake, Mississippi, United States",
+    "woe:place_id":"T1XZQKibBZ_OXx1h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.79496,33.766731,-90.770584,33.778576],
+  "geometry": {"alpha":0.00015,"bbox":[-90.794960021973,33.766731262207,-90.770584106445,33.778575897217],"coordinates":[[[[-90.791702,33.766731],[-90.79496,33.768162],[-90.781746,33.778576],[-90.770584,33.773296],[-90.791702,33.766731]]]],"created":1234571048,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3322/shapefiles/2432342_20090214_b0be87b169.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

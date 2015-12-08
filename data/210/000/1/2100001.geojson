@@ -1,0 +1,15 @@
+{
+  "id": 2100001,
+  "type": "Feature",
+  "properties": {
+    "name":"Ul'yanovka, Leningradskaya Oblast, Russia",
+    "placetype":"locality",
+    "woe:id":2100001,
+    "woe:name":"Ul'yanovka, Leningradskaya Oblast, Russia",
+    "woe:place_id":"QX38mhqbAJy9SosV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [30.801069,59.637123,30.820341,59.658836],
+  "geometry": {"alpha":0.00015,"bbox":[30.801069259644,59.63712310791,30.820341110229,59.658836364746],"coordinates":[[[[30.807896,59.649357],[30.801069,59.658836],[30.810986,59.655949],[30.820341,59.654278],[30.809956,59.637123],[30.807896,59.649357]]]],"created":1292519769,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2100001_20101216_4798b6ec8e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

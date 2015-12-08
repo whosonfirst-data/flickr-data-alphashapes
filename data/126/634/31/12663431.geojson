@@ -1,0 +1,15 @@
+{
+  "id": 12663431,
+  "type": "Feature",
+  "properties": {
+    "name":"La Celle-Dunoise, France",
+    "placetype":"locality",
+    "woe:id":12663431,
+    "woe:name":"La Celle-Dunoise, France",
+    "woe:place_id":"onq.GwaYA5oNXI9PzA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.769657,46.307926,1.772446,46.311729],
+  "geometry": {"alpha":1e-05,"bbox":[1.7696570158005,46.307926177979,1.7724460363388,46.311729431152],"coordinates":[[[[1.770515,46.311558],[1.770579,46.311729],[1.771008,46.311523],[1.772446,46.310921],[1.769657,46.307926],[1.770515,46.311558]]]],"created":1292532664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12663431_20101216_f51cc052ae.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

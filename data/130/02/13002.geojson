@@ -1,0 +1,15 @@
+{
+  "id": 13002,
+  "type": "Feature",
+  "properties": {
+    "name":"Blandy, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13002,
+    "woe:name":"Blandy, Scotland, United Kingdom",
+    "woe:place_id":"lJobyFaYApw2eg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.335651,58.503292,-4.327902,58.5065],
+  "geometry": {"alpha":0.00015,"bbox":[-4.3356509208679,58.50329208374,-4.32790184021,58.506500244141],"coordinates":[[[[-4.327902,58.5065],[-4.328002,58.506149],[-4.328586,58.504734],[-4.330329,58.503487],[-4.335651,58.503292],[-4.327902,58.5065]]]],"created":1292518131,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/13002_20101216_383a70c9cb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

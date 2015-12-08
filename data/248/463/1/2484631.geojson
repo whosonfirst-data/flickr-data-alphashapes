@@ -1,0 +1,15 @@
+{
+  "id": 2484631,
+  "type": "Feature",
+  "properties": {
+    "name":"Roseburg, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2484631,
+    "woe:name":"Roseburg, Indiana, United States",
+    "woe:place_id":"Bv6.bSebBZRQdctb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.729919,40.522202,-85.714958,40.524632],
+  "geometry": {"alpha":0.00015,"bbox":[-85.729919433594,40.522201538086,-85.714958190918,40.524631500244],"coordinates":[[[[-85.729721,40.522202],[-85.729919,40.523258],[-85.729065,40.524632],[-85.714958,40.523754],[-85.729721,40.522202]]]],"created":1292422205,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2484631_20101215_7ae57e6a63.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

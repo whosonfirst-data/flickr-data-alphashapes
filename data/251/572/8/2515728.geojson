@@ -1,0 +1,15 @@
+{
+  "id": 2515728,
+  "type": "Feature",
+  "properties": {
+    "name":"Weatherhill Farms, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2515728,
+    "woe:name":"Weatherhill Farms, Delaware, United States",
+    "woe:place_id":"cUphAoqbBJ0dMkd2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.69622,39.743366,-75.691483,39.750278],
+  "geometry": {"alpha":0.00015,"bbox":[-75.696220397949,39.743366241455,-75.691482543945,39.7502784729],"coordinates":[[[[-75.69622,39.746059],[-75.695053,39.747623],[-75.691483,39.750278],[-75.692223,39.743366],[-75.694084,39.743958],[-75.69622,39.746059]]]],"created":1292523347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2515728_20101216_002ca891b7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

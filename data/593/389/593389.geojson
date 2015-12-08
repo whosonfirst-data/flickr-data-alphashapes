@@ -1,0 +1,15 @@
+{
+  "id": 593389,
+  "type": "Feature",
+  "properties": {
+    "name":"Grand, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":593389,
+    "woe:name":"Grand, Lorraine, France",
+    "woe:place_id":"HKlSuKmcCJ__6N8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.484237,48.383633,5.488819,48.389992],
+  "geometry": {"alpha":0.00015,"bbox":[5.4842371940613,48.383632659912,5.4888191223145,48.389991760254],"coordinates":[[[[5.485022,48.383633],[5.484237,48.386127],[5.484932,48.389992],[5.485954,48.389774],[5.488819,48.385178],[5.485022,48.383633]]]],"created":1292544767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/593389_20101217_c0cf591302.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

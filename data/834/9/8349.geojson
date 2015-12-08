@@ -1,0 +1,15 @@
+{
+  "id": 8349,
+  "type": "Feature",
+  "properties": {
+    "name":"Watino, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8349,
+    "woe:name":"Watino, Alberta, Canada",
+    "woe:place_id":"oNnDdc2RApjz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.625809,55.713234,-117.603149,55.720863],
+  "geometry": {"alpha":0.00015,"bbox":[-117.62580871582,55.713233947754,-117.60314941406,55.720863342285],"coordinates":[[[[-117.603149,55.720863],[-117.625122,55.713234],[-117.625809,55.716862],[-117.625725,55.71928],[-117.603149,55.720863]]]],"created":1292453192,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/8349_20101215_a5bd27cd21.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

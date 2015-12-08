@@ -1,0 +1,15 @@
+{
+  "id": 12602788,
+  "type": "Feature",
+  "properties": {
+    "name":"Waregem, Belgium",
+    "placetype":"locality",
+    "woe:id":12602788,
+    "woe:name":"Waregem, Belgium",
+    "woe:place_id":"xKhK5m2YA5rtmQBUjA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.43187,50.886898,3.434697,50.890732],
+  "geometry": {"alpha":1e-05,"bbox":[3.4318699836731,50.886898040771,3.4346969127655,50.890731811523],"coordinates":[[[[3.433034,50.88744],[3.432283,50.886898],[3.43187,50.889885],[3.43209,50.890366],[3.433152,50.890732],[3.434697,50.890175],[3.433034,50.88744]]]],"created":1292522407,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12602788_20101216_7a19ca3235.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

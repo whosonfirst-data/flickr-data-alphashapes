@@ -1,0 +1,15 @@
+{
+  "id": 583111,
+  "type": "Feature",
+  "properties": {
+    "name":"Caro, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":583111,
+    "woe:name":"Caro, Aquitaine, France",
+    "woe:place_id":"n_epBWqcCZ8lyps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.221284,43.14782,-1.217551,43.154854],
+  "geometry": {"alpha":0.00015,"bbox":[-1.221284031868,43.147819519043,-1.2175509929657,43.154853820801],"coordinates":[[[[-1.217937,43.148125],[-1.218967,43.151005],[-1.221284,43.154854],[-1.217551,43.151161],[-1.217679,43.14782],[-1.217937,43.148125]]]],"created":1292498650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/583111_20101216_1a0e873e05.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

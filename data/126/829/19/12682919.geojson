@@ -1,0 +1,15 @@
+{
+  "id": 12682919,
+  "type": "Feature",
+  "properties": {
+    "name":"Bavois, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682919,
+    "woe:name":"Bavois, Switzerland",
+    "woe:place_id":"u5f9jtWYA5rCFLnykA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.564636,46.670998,6.570455,46.6805],
+  "geometry": {"alpha":1e-05,"bbox":[6.5646362304688,46.670997619629,6.5704550743103,46.680500030518],"coordinates":[[[[6.568901,46.67453],[6.5695,46.6805],[6.570455,46.674698],[6.569309,46.672234],[6.569051,46.670998],[6.564636,46.672897],[6.568901,46.67453]]]],"created":1292457886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12682919_20101216_13f71ec0e8.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

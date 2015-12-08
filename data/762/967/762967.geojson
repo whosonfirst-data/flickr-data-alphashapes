@@ -1,0 +1,15 @@
+{
+  "id": 762967,
+  "type": "Feature",
+  "properties": {
+    "name":"La Alcazaba, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":762967,
+    "woe:name":"La Alcazaba, Andalusia, Spain",
+    "woe:place_id":"bGfKGrieB55iWdM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.102264,36.748562,-3.090248,36.759792],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1022639274597,36.748561859131,-3.0902481079102,36.759792327881],"coordinates":[[[[-3.093895,36.748562],[-3.094346,36.749416],[-3.102264,36.759792],[-3.092479,36.749748],[-3.090248,36.748718],[-3.093895,36.748562]]]],"created":1292539561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/762967_20101216_53f2ebc6e2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

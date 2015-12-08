@@ -1,0 +1,15 @@
+{
+  "id": 20138215,
+  "type": "Feature",
+  "properties": {
+    "name":"Prati, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20138215,
+    "woe:name":"Prati, Lombardy, Italy",
+    "woe:place_id":"9Een3r2bAZ0OC8rIUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.432763,45.44577,10.435037,45.446453],
+  "geometry": {"alpha":0.00015,"bbox":[10.43276309967,45.445770263672,10.435036659241,45.446453094482],"coordinates":[[[[10.432806,45.446205],[10.432763,45.446346],[10.43295,45.446453],[10.433401,45.446304],[10.435037,45.44577],[10.432806,45.446205]]]],"created":1292445542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/20138215_20101215_3b4e2c461c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

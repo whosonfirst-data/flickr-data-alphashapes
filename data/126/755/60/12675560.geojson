@@ -1,0 +1,15 @@
+{
+  "id": 12675560,
+  "type": "Feature",
+  "properties": {
+    "name":"Rum, Austria",
+    "placetype":"locality",
+    "woe:id":12675560,
+    "woe:name":"Rum, Austria",
+    "woe:place_id":"7ygRpZiYA5p5WfRAtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.40408,47.318695,11.411102,47.32486],
+  "geometry": {"alpha":1e-05,"bbox":[11.40408039093,47.318695068359,11.411102294922,47.324859619141],"coordinates":[[[[11.41093,47.323444],[11.411102,47.322559],[11.407241,47.319218],[11.404666,47.318695],[11.40408,47.320911],[11.406555,47.32486],[11.41093,47.323444]]]],"created":1292537523,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12675560_20101216_9bf4b49337.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

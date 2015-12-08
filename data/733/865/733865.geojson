@@ -1,0 +1,15 @@
+{
+  "id": 733865,
+  "type": "Feature",
+  "properties": {
+    "name":"Tiendeveen, Drenthe, Netherlands",
+    "placetype":"locality",
+    "woe:id":733865,
+    "woe:name":"Tiendeveen, Drenthe, Netherlands",
+    "woe:place_id":"zm1PSKGeAp_.I50",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.538238,52.746685,6.56002,52.761696],
+  "geometry": {"alpha":0.00015,"bbox":[6.5382380485535,52.746685028076,6.5600199699402,52.761695861816],"coordinates":[[[[6.55715,52.761372],[6.56002,52.758141],[6.55853,52.75695],[6.543216,52.746685],[6.538238,52.74918],[6.549224,52.761696],[6.55715,52.761372]]]],"created":1292439830,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/733865_20101215_1bd414094e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

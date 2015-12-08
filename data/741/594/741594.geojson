@@ -1,0 +1,15 @@
+{
+  "id": 741594,
+  "type": "Feature",
+  "properties": {
+    "name":"Frossos, Aveiro, Portugal",
+    "placetype":"locality",
+    "woe:id":741594,
+    "woe:name":"Frossos, Aveiro, Portugal",
+    "woe:place_id":"wzp2uV2eBZ2lRm4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.545603,40.652641,-8.534359,40.660381],
+  "geometry": {"alpha":0.00015,"bbox":[-8.5456027984619,40.652641296387,-8.5343589782715,40.660381317139],"coordinates":[[[[-8.53775,40.659447],[-8.534359,40.652691],[-8.534445,40.652641],[-8.545603,40.659218],[-8.541516,40.660381],[-8.53775,40.659447]]]],"created":1292439824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/741594_20101215_784f8c1897.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

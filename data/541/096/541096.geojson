@@ -1,0 +1,15 @@
+{
+  "id": 541096,
+  "type": "Feature",
+  "properties": {
+    "name":"Altlengbach, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":541096,
+    "woe:name":"Altlengbach, Lower Austria, Austria",
+    "woe:place_id":"9RI7JZqcBZ1XUas",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.921034,48.152126,15.950946,48.168835],
+  "geometry": {"alpha":0.00015,"bbox":[15.921033859253,48.152126312256,15.950945854187,48.168834686279],"coordinates":[[[[15.93068,48.152126],[15.921034,48.154778],[15.930862,48.168835],[15.950946,48.159214],[15.949917,48.156582],[15.937385,48.153603],[15.93068,48.152126]]]],"created":1292446954,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/541096_20101215_41c4348542.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

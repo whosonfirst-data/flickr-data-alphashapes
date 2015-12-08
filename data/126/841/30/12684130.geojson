@@ -1,0 +1,15 @@
+{
+  "id": 12684130,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberkirch, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684130,
+    "woe:name":"Oberkirch, Switzerland",
+    "woe:place_id":"1lAsWICYA5qq3ypAfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.087224,47.161869,8.091699,47.16552],
+  "geometry": {"alpha":1e-05,"bbox":[8.0872240066528,47.161869049072,8.0916986465454,47.165519714355],"coordinates":[[[[8.087224,47.162369],[8.088016,47.162731],[8.091699,47.16552],[8.089621,47.161869],[8.088879,47.162125],[8.087224,47.162369]]]],"created":1292539391,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12684130_20101216_3b7ec43723.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12677391,
+  "type": "Feature",
+  "properties": {
+    "name":"Campagna Lupia, Italy",
+    "placetype":"locality",
+    "woe:id":12677391,
+    "woe:name":"Campagna Lupia, Italy",
+    "woe:place_id":"IUHhpRuYA5oFpatYgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.186884,45.324604,12.192419,45.330791],
+  "geometry": {"alpha":1e-05,"bbox":[12.186883926392,45.324604034424,12.192419052124,45.330791473389],"coordinates":[[[[12.187838,45.328678],[12.192419,45.330791],[12.189245,45.327988],[12.186884,45.324604],[12.187495,45.328075],[12.187442,45.328857],[12.187838,45.328678]]]],"created":1292548594,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12677391_20101217_c81a70973c.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

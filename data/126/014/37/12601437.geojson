@@ -1,0 +1,15 @@
+{
+  "id": 12601437,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaragoza, Puebla, Mexico",
+    "placetype":"county",
+    "woe:id":12601437,
+    "woe:name":"Zaragoza, Puebla, Mexico",
+    "woe:place_id":"cSnDBfOYA5ozCgUiqw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-97.572151,19.759596,-97.551552,19.779303],
+  "geometry": {"alpha":0.0015,"bbox":[-97.572151184082,19.759595870972,-97.551551818848,19.779302597046],"coordinates":[[[[-97.551552,19.770258],[-97.555161,19.759596],[-97.572151,19.761372],[-97.553955,19.779303],[-97.551727,19.770742],[-97.551552,19.770258]]]],"created":1292529141,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12601437_20101216_f418ef03bf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2405511,
+  "type": "Feature",
+  "properties": {
+    "name":"Forktown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2405511,
+    "woe:name":"Forktown, Tennessee, United States",
+    "woe:place_id":"t5eoU7ubBZxIccP0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.315094,36.182674,-86.291908,36.201557],
+  "geometry": {"alpha":0.00015,"bbox":[-86.315093994141,36.182674407959,-86.29190826416,36.201557159424],"coordinates":[[[[-86.298767,36.182674],[-86.315094,36.182838],[-86.302094,36.186977],[-86.291908,36.201557],[-86.297813,36.185776],[-86.298767,36.182674]]]],"created":1248178458,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2572/shapefiles/2405511_20090721_a9264f708a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

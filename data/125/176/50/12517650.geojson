@@ -1,0 +1,15 @@
+{
+  "id": 12517650,
+  "type": "Feature",
+  "properties": {
+    "name":"Kiruna Airport, Sweden",
+    "placetype":"locality",
+    "woe:id":12517650,
+    "woe:name":"Kiruna Airport, Sweden",
+    "woe:place_id":"dFTmYz.YA5ngZrRNZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.331358,67.824654,20.335472,67.826843],
+  "geometry": {"alpha":1e-05,"bbox":[20.331357955933,67.824653625488,20.335472106934,67.826843261719],"coordinates":[[[[20.333977,67.825996],[20.334406,67.826843],[20.335472,67.825592],[20.331358,67.824654],[20.333977,67.825996]]]],"created":1292548231,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12517650_20101217_b9794b9027.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

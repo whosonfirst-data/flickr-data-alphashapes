@@ -1,0 +1,15 @@
+{
+  "id": 2512733,
+  "type": "Feature",
+  "properties": {
+    "name":"Vistula, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2512733,
+    "woe:name":"Vistula, Indiana, United States",
+    "woe:place_id":"_txcBPKbBJ2wBX84",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.685249,41.750824,-85.677086,41.767334],
+  "geometry": {"alpha":0.00015,"bbox":[-85.685249328613,41.750823974609,-85.677085876465,41.767333984375],"coordinates":[[[[-85.678421,41.754921],[-85.679153,41.751751],[-85.68306,41.750824],[-85.685249,41.767334],[-85.677086,41.759342],[-85.678421,41.754921]]]],"created":1292456920,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2512733_20101215_a47f84d3ce.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

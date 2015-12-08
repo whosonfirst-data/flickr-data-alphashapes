@@ -1,0 +1,15 @@
+{
+  "id": 1094527,
+  "type": "Feature",
+  "properties": {
+    "name":"Bondoola, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1094527,
+    "woe:name":"Bondoola, Queensland, Australia",
+    "woe:place_id":"g5xm1MeYAZVN5yVE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.674835,-23.177168,150.689194,-23.169025],
+  "geometry": {"alpha":0.00015,"bbox":[150.67483520508,-23.177167892456,150.68919372559,-23.169025421143],"coordinates":[[[[150.689194,-23.169025],[150.684372,-23.174133],[150.676498,-23.177168],[150.675171,-23.176334],[150.674835,-23.176001],[150.683929,-23.173788],[150.689194,-23.169025]]]],"created":1292454005,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/1094527_20101215_6ce7ed8680.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

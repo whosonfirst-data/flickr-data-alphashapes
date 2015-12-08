@@ -1,0 +1,15 @@
+{
+  "id": 15002602,
+  "type": "Feature",
+  "properties": {
+    "name":"Edertal, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":15002602,
+    "woe:name":"Edertal, Hesse, Germany",
+    "woe:place_id":"nt9z0NyYBJzFwMpXNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.120197,51.202473,9.128437,51.206589],
+  "geometry": {"alpha":0.00015,"bbox":[9.1201972961426,51.202472686768,9.1284370422363,51.206588745117],"coordinates":[[[[9.120197,51.202473],[9.122085,51.204571],[9.12672,51.206589],[9.128437,51.206345],[9.121398,51.203281],[9.120197,51.202473]]]],"created":1292508303,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/15002602_20101216_7e4fcbba52.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

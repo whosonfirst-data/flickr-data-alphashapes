@@ -1,0 +1,15 @@
+{
+  "id": 1115836,
+  "type": "Feature",
+  "properties": {
+    "name":"Tono-machi, Japan",
+    "placetype":"locality",
+    "woe:id":1115836,
+    "woe:name":"Tono-machi, Japan",
+    "woe:place_id":"FZHYg.qYAJ0JlLQS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [133.049576,35.4678,133.054382,35.476467],
+  "geometry": {"alpha":1e-05,"bbox":[133.04957580566,35.467800140381,133.05438232422,35.476467132568],"coordinates":[[[[133.051468,35.47451],[133.050613,35.471714],[133.054382,35.4678],[133.052155,35.468079],[133.050613,35.471714],[133.049576,35.476467],[133.051468,35.47451]]]],"created":1292524147,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/1115836_20101216_45b779054d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

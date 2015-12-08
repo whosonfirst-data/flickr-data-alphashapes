@@ -1,0 +1,15 @@
+{
+  "id": 846551,
+  "type": "Feature",
+  "properties": {
+    "name":"Voikula, Saare County, Estonia",
+    "placetype":"locality",
+    "woe:id":846551,
+    "woe:name":"Voikula, Saare County, Estonia",
+    "woe:place_id":"Rj1_MAGRBZozQdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.427662,58.572037,23.430244,58.572063],
+  "geometry": {"alpha":0.00015,"bbox":[23.427661895752,58.572036743164,23.430244445801,58.572063446045],"coordinates":[[[[23.428663,58.572037],[23.427662,58.572063],[23.428541,58.572056],[23.429047,58.572056],[23.430244,58.572048],[23.429169,58.572048],[23.428663,58.572037]]]],"created":1292467506,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/846551_20101216_872104ca4f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

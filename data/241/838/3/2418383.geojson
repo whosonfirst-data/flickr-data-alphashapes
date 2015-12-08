@@ -1,0 +1,15 @@
+{
+  "id": 2418383,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartville, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2418383,
+    "woe:name":"Hartville, Wyoming, United States",
+    "woe:place_id":"3te9WNCbBZ2oRTxB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.728226,42.319019,-104.707085,42.327236],
+  "geometry": {"alpha":0.00015,"bbox":[-104.72822570801,42.319019317627,-104.70708465576,42.327236175537],"coordinates":[[[[-104.728226,42.327236],[-104.727753,42.327152],[-104.707085,42.320984],[-104.724709,42.319019],[-104.727303,42.324261],[-104.728226,42.327236]]]],"created":1292519889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2418383_20101216_fb1ae5c3da.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

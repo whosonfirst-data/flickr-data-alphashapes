@@ -1,0 +1,15 @@
+{
+  "id": 2476698,
+  "type": "Feature",
+  "properties": {
+    "name":"Princeton, California, United States",
+    "placetype":"locality",
+    "woe:id":2476698,
+    "woe:name":"Princeton, California, United States",
+    "woe:place_id":"euYH5EibBZtQklab",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.020424,39.398529,-121.995934,39.416168],
+  "geometry": {"alpha":0.00015,"bbox":[-122.02042388916,39.398529052734,-121.99593353271,39.416168212891],"coordinates":[[[[-122.020424,39.406662],[-122.006088,39.416168],[-122.004417,39.415424],[-121.995934,39.41473],[-121.996475,39.398529],[-122.013214,39.399128],[-122.020424,39.406662]]]],"created":1292532560,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2476698_20101216_427123d140.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

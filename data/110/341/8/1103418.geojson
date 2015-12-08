@@ -1,0 +1,15 @@
+{
+  "id": 1103418,
+  "type": "Feature",
+  "properties": {
+    "name":"Leonora, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1103418,
+    "woe:name":"Leonora, Western Australia, Australia",
+    "woe:place_id":"kWt2r.mYAJwqyXJd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.314812,-28.90139,121.336311,-28.873013],
+  "geometry": {"alpha":0.00015,"bbox":[121.31481170654,-28.901390075684,121.33631134033,-28.873012542725],"coordinates":[[[[121.329056,-28.885199],[121.314812,-28.875042],[121.326996,-28.873013],[121.336311,-28.87369],[121.330742,-28.885],[121.331917,-28.90139],[121.329056,-28.885199]]]],"created":1292533222,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/1103418_20101216_d796ab40f5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

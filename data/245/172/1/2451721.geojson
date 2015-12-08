@@ -1,0 +1,15 @@
+{
+  "id": 2451721,
+  "type": "Feature",
+  "properties": {
+    "name":"Milo, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2451721,
+    "woe:name":"Milo, Idaho, United States",
+    "woe:place_id":"DO8AgcGbBZkrUBBp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.863335,43.597176,-111.847664,43.603001],
+  "geometry": {"alpha":0.00015,"bbox":[-111.86333465576,43.597175598145,-111.84766387939,43.603000640869],"coordinates":[[[[-111.852837,43.597176],[-111.863335,43.597656],[-111.85421,43.599785],[-111.848373,43.602707],[-111.847664,43.603001],[-111.852837,43.597176]]]],"created":1292532540,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2451721_20101216_6d9622bec1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

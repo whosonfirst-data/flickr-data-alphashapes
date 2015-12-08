@@ -1,0 +1,15 @@
+{
+  "id": 2433203,
+  "type": "Feature",
+  "properties": {
+    "name":"Kitalou, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2433203,
+    "woe:name":"Kitalou, Texas, United States",
+    "woe:place_id":"4vs3lDCbBZ8qhkpZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.718338,33.652924,-101.714859,33.65469],
+  "geometry": {"alpha":0.00015,"bbox":[-101.7183380127,33.652923583984,-101.71485900879,33.654689788818],"coordinates":[[[[-101.714859,33.654335],[-101.718338,33.652924],[-101.716621,33.653851],[-101.714859,33.65469],[-101.714859,33.654335]]]],"created":1292444823,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2433203_20101215_e552a25754.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

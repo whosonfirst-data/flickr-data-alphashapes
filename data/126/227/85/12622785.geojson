@@ -1,0 +1,15 @@
+{
+  "id": 12622785,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Riedering, Germany",
+    "placetype":"locality",
+    "woe:id":12622785,
+    "woe:name":"Gemeinde Riedering, Germany",
+    "woe:place_id":"NHRFsXmYA5pcbtEvoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.226098,47.85714,12.22701,47.858021],
+  "geometry": {"alpha":1e-05,"bbox":[12.226098060608,47.857139587402,12.227009773254,47.858020782471],"coordinates":[[[[12.22701,47.857391],[12.2266,47.85714],[12.226366,47.857162],[12.226098,47.85767],[12.226302,47.858021],[12.226822,47.857635],[12.22701,47.857391]]]],"created":1292520054,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12622785_20101216_5e24487069.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23418097,
+  "type": "Feature",
+  "properties": {
+    "name":"North Pearsall, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23418097,
+    "woe:name":"North Pearsall, Texas, United States",
+    "woe:place_id":"5FNcKV6bApjCGnXGiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.095459,28.943501,-99.075272,28.96402],
+  "geometry": {"alpha":0.00015,"bbox":[-99.095458984375,28.943500518799,-99.075271606445,28.964019775391],"coordinates":[[[[-99.095459,28.948725],[-99.094139,28.94993],[-99.079193,28.96402],[-99.075272,28.953197],[-99.087852,28.943501],[-99.095459,28.948725]]]],"created":1292502606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/23418097_20101216_98886ff97d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

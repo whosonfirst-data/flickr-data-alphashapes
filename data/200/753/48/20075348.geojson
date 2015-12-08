@@ -1,0 +1,15 @@
+{
+  "id": 20075348,
+  "type": "Feature",
+  "properties": {
+    "name":"Kopstal, Luxembourg",
+    "placetype":"locality",
+    "woe:id":20075348,
+    "woe:name":"Kopstal, Luxembourg",
+    "woe:place_id":"238g9.mbAZyS7YxppA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.096955,49.657295,6.102519,49.660362],
+  "geometry": {"alpha":1e-05,"bbox":[6.0969548225403,49.657295227051,6.1025190353394,49.660362243652],"coordinates":[[[[6.097953,49.658321],[6.098785,49.659073],[6.102041,49.660362],[6.102256,49.660133],[6.102519,49.659878],[6.099772,49.657669],[6.097455,49.657532],[6.096955,49.657295],[6.097953,49.658321]]]],"created":1292542055,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20075348_20101216_6b3770758d.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

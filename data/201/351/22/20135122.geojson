@@ -1,0 +1,15 @@
+{
+  "id": 20135122,
+  "type": "Feature",
+  "properties": {
+    "name":"Passarera, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20135122,
+    "woe:name":"Passarera, Lombardy, Italy",
+    "woe:place_id":"FmXn0RGbAZ3yGybIDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.637584,45.313747,9.647626,45.325417],
+  "geometry": {"alpha":0.00015,"bbox":[9.637583732605,45.313747406006,9.6476259231567,45.325416564941],"coordinates":[[[[9.647626,45.324402],[9.646832,45.322498],[9.637584,45.313747],[9.644064,45.323788],[9.647369,45.325417],[9.647626,45.324402]]]],"created":1292538691,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20135122_20101216_eca0bccf1f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

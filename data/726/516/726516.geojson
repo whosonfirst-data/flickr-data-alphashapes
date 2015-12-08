@@ -1,0 +1,15 @@
+{
+  "id": 726516,
+  "type": "Feature",
+  "properties": {
+    "name":"Arnasco, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":726516,
+    "woe:name":"Arnasco, Liguria, Italy",
+    "woe:place_id":"032zBfieA5qPwq0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.104584,44.067226,8.123166,44.083763],
+  "geometry": {"alpha":0.00015,"bbox":[8.1045837402344,44.067226409912,8.1231660842896,44.083763122559],"coordinates":[[[[8.109283,44.07032],[8.105378,44.07769],[8.104584,44.083763],[8.119722,44.083508],[8.123166,44.076824],[8.118944,44.067226],[8.109283,44.07032]]]],"created":1292539630,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/726516_20101216_2dc75a4c1e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

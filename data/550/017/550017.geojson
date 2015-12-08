@@ -1,0 +1,15 @@
+{
+  "id": 550017,
+  "type": "Feature",
+  "properties": {
+    "name":"Straden, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550017,
+    "woe:name":"Straden, Styria, Austria",
+    "woe:place_id":"H.cz4CecBJyID68",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.862884,46.802467,15.875072,46.817665],
+  "geometry": {"alpha":0.00015,"bbox":[15.86288356781,46.802467346191,15.875071525574,46.817665100098],"coordinates":[[[[15.86812,46.805874],[15.862884,46.812515],[15.874833,46.817665],[15.875072,46.802467],[15.86812,46.805874]]]],"created":1292547787,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/550017_20101217_7670e4636e.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

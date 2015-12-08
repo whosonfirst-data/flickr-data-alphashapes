@@ -1,0 +1,15 @@
+{
+  "id": 26797002,
+  "type": "Feature",
+  "properties": {
+    "name":"Bosconia, Cesar, Colombia",
+    "placetype":"county",
+    "woe:id":26797002,
+    "woe:name":"Bosconia, Cesar, Colombia",
+    "woe:place_id":"E.7XrsObB5t34DlKrA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-73.886482,9.919873,-73.851364,9.973438],
+  "geometry": {"alpha":0.0015,"bbox":[-73.88648223877,9.9198732376099,-73.851364135742,9.9734382629395],"coordinates":[[[[-73.87207,9.930976],[-73.886482,9.973438],[-73.855591,9.941798],[-73.851364,9.919873],[-73.861771,9.924551],[-73.87207,9.930976]]]],"created":1292548386,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/26797002_20101217_009f74e2a3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

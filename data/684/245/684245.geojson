@@ -1,0 +1,15 @@
+{
+  "id": 684245,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkstein, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":684245,
+    "woe:name":"Parkstein, Bavaria, Germany",
+    "woe:place_id":"i0Q2H4.fCZje410",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.067623,49.729702,12.081592,49.733246],
+  "geometry": {"alpha":0.00015,"bbox":[12.067623138428,49.72970199585,12.08159160614,49.733245849609],"coordinates":[[[[12.070586,49.73185],[12.081592,49.731316],[12.069805,49.729736],[12.069618,49.729702],[12.06861,49.730389],[12.067623,49.733246],[12.070586,49.73185]]]],"created":1292546841,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/684245_20101217_96fc3c2249.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

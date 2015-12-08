@@ -1,0 +1,15 @@
+{
+  "id": 2457988,
+  "type": "Feature",
+  "properties": {
+    "name":"New Amsterdam, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2457988,
+    "woe:name":"New Amsterdam, Wisconsin, United States",
+    "woe:place_id":"5ir2.j.bBZmS8SFo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.352005,43.958302,-91.328789,43.975521],
+  "geometry": {"alpha":0.00015,"bbox":[-91.352005004883,43.958301544189,-91.328788757324,43.975521087646],"coordinates":[[[[-91.340248,43.959644],[-91.340218,43.959755],[-91.352005,43.975521],[-91.328789,43.970734],[-91.334167,43.958302],[-91.340248,43.959644]]]],"created":1292544323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2457988_20101217_d0b127a3bf.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105300,
+  "type": "Feature",
+  "properties": {
+    "name":"Reid River, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1105300,
+    "woe:name":"Reid River, Queensland, Australia",
+    "woe:place_id":"cbueYrWYAJzBbCLI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.830902,-19.767027,146.835312,-19.748026],
+  "geometry": {"alpha":0.00015,"bbox":[146.83090209961,-19.767026901245,146.83531188965,-19.748025894165],"coordinates":[[[[146.835312,-19.757038],[146.834732,-19.760572],[146.833817,-19.763817],[146.830902,-19.767027],[146.834122,-19.757137],[146.833633,-19.748026],[146.835312,-19.757038]]]],"created":1292447930,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/1105300_20101215_d1880eba6f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

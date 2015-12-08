@@ -1,0 +1,15 @@
+{
+  "id": 2523505,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodmoor, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2523505,
+    "woe:name":"Woodmoor, Maryland, United States",
+    "woe:place_id":"Kllecq6bBJ7_L4JY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.01725,39.021225,-77.007607,39.026917],
+  "geometry": {"alpha":0.00015,"bbox":[-77.017250061035,39.021224975586,-77.007606506348,39.026916503906],"coordinates":[[[[-77.014076,39.022808],[-77.01725,39.026917],[-77.013817,39.024651],[-77.009354,39.022919],[-77.007607,39.021225],[-77.014076,39.022808]]]],"created":1292533240,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2523505_20101216_d0b8452797.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

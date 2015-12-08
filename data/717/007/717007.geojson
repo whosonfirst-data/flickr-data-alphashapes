@@ -1,0 +1,15 @@
+{
+  "id": 717007,
+  "type": "Feature",
+  "properties": {
+    "name":"Landriano, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":717007,
+    "woe:name":"Landriano, Lombardy, Italy",
+    "woe:place_id":"6CrKg02eAJuVWZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.254007,45.299404,9.264006,45.319565],
+  "geometry": {"alpha":0.00015,"bbox":[9.2540073394775,45.299404144287,9.2640056610107,45.319564819336],"coordinates":[[[[9.264006,45.310444],[9.254007,45.299404],[9.258772,45.310341],[9.260272,45.314434],[9.261474,45.319565],[9.264006,45.310444]]]],"created":1292537859,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/717007_20101216_f6e0566b0e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12638138,
+  "type": "Feature",
+  "properties": {
+    "name":"Barneville-sur-Seine, France",
+    "placetype":"locality",
+    "woe:id":12638138,
+    "woe:name":"Barneville-sur-Seine, France",
+    "woe:place_id":"BNz8TDiYA5rj96aaZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.841827,49.387848,0.846118,49.391422],
+  "geometry": {"alpha":1e-05,"bbox":[0.84182697534561,49.387847900391,0.84611797332764,49.391422271729],"coordinates":[[[[0.84526,49.389973],[0.844402,49.387848],[0.841827,49.391144],[0.844573,49.391422],[0.846118,49.390923],[0.84526,49.389973]]]],"created":1292524511,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12638138_20101216_91888e8535.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2395502,
+  "type": "Feature",
+  "properties": {
+    "name":"East Dixfield, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2395502,
+    "woe:name":"East Dixfield, Maine, United States",
+    "woe:place_id":"SXyjlqybApW5wWNa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.320343,44.554436,-70.317909,44.555515],
+  "geometry": {"alpha":0.00015,"bbox":[-70.320343017578,44.55443572998,-70.317909240723,44.555515289307],"coordinates":[[[[-70.320206,44.554436],[-70.320343,44.554699],[-70.317909,44.555515],[-70.31868,44.554882],[-70.320206,44.554436]]]],"created":1234622042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3092/shapefiles/2395502_20090214_73a4ce1b06.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

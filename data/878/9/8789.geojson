@@ -1,0 +1,15 @@
+{
+  "id": 8789,
+  "type": "Feature",
+  "properties": {
+    "name":"Herronton, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8789,
+    "woe:name":"Herronton, Alberta, Canada",
+    "woe:place_id":"1FUWsKeRBpRE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.410492,50.661213,-113.40551,50.686016],
+  "geometry": {"alpha":0.00015,"bbox":[-113.41049194336,50.661212921143,-113.40550994873,50.686016082764],"coordinates":[[[[-113.40551,50.682808],[-113.407318,50.680416],[-113.407059,50.661213],[-113.410492,50.681339],[-113.407402,50.686016],[-113.407104,50.685543],[-113.40551,50.682808]]]],"created":1292544914,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/8789_20101217_c233963f8b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

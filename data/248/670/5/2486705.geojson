@@ -1,0 +1,15 @@
+{
+  "id": 2486705,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Claude Heights, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2486705,
+    "woe:name":"St. Claude Heights, Louisiana, United States",
+    "woe:place_id":"izwdsmqbBZTw6aAG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.997078,29.955566,-89.992546,29.964476],
+  "geometry": {"alpha":0.00015,"bbox":[-89.997077941895,29.95556640625,-89.992546081543,29.964475631714],"coordinates":[[[[-89.992546,29.964155],[-89.997078,29.955566],[-89.994453,29.962406],[-89.992928,29.964476],[-89.992577,29.96435],[-89.992546,29.964155]]]],"created":1292548958,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2486705_20101217_0fde81f2d6.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

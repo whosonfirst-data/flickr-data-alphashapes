@@ -1,0 +1,15 @@
+{
+  "id": 33897,
+  "type": "Feature",
+  "properties": {
+    "name":"Sally Port, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33897,
+    "woe:name":"Sally Port, England, United Kingdom",
+    "woe:place_id":"fhu8JqSaApTEBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.323533,49.914204,-6.315677,49.919342],
+  "geometry": {"alpha":0.00015,"bbox":[-6.3235330581665,49.914203643799,-6.3156771659851,49.919342041016],"coordinates":[[[[-6.315677,49.915989],[-6.316709,49.914204],[-6.321988,49.915005],[-6.323533,49.914978],[-6.321473,49.919342],[-6.316108,49.916191],[-6.315677,49.915989]]]],"created":1292523168,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/33897_20101216_509842ae02.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

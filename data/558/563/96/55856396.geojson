@@ -1,0 +1,15 @@
+{
+  "id": 55856396,
+  "type": "Feature",
+  "properties": {
+    "name":"Northeast, Regina, SK, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55856396,
+    "woe:name":"Northeast, Regina, SK, CA, Canada",
+    "woe:place_id":"MaMFwR.cBJSappDH4w",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-104.608627,50.466217,-104.605766,50.46862],
+  "geometry": {"alpha":1e-05,"bbox":[-104.60862731934,50.466217041016,-104.60576629639,50.468620300293],"coordinates":[[[[-104.606171,50.468575],[-104.605766,50.468445],[-104.606071,50.466217],[-104.608627,50.468304],[-104.606728,50.46862],[-104.606171,50.468575]]]],"created":1292549944,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/55856396_20101217_ac9e8d6c3d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

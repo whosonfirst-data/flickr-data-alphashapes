@@ -1,0 +1,15 @@
+{
+  "id": 298,
+  "type": "Feature",
+  "properties": {
+    "name":"Clyde River, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":298,
+    "woe:name":"Clyde River, Nova Scotia, Canada",
+    "woe:place_id":"bmZcprqbCJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.494308,43.654327,-65.484009,43.68364],
+  "geometry": {"alpha":0.00015,"bbox":[-65.49430847168,43.654327392578,-65.484008789062,43.683639526367],"coordinates":[[[[-65.484009,43.666504],[-65.4869,43.654327],[-65.490875,43.657875],[-65.486069,43.665016],[-65.485725,43.666504],[-65.494308,43.68364],[-65.484009,43.666504]]]],"created":1292473744,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/298_20101216_aba17e09a5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000003,
+  "type": "Feature",
+  "properties": {
+    "name":"Andelsbuch, Vorarlberg, Austria",
+    "placetype":"locality",
+    "woe:id":15000003,
+    "woe:name":"Andelsbuch, Vorarlberg, Austria",
+    "woe:place_id":"EWmd9ryYBJx4cG8OBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.879133,47.402302,9.904153,47.420364],
+  "geometry": {"alpha":0.00015,"bbox":[9.8791332244873,47.40230178833,9.9041528701782,47.420364379883],"coordinates":[[[[9.8792,47.402302],[9.879166,47.402332],[9.879133,47.402412],[9.88203,47.41264],[9.880743,47.420364],[9.895141,47.414246],[9.901239,47.417435],[9.904153,47.414063],[9.894272,47.412849],[9.8792,47.402302]]]],"created":1292535440,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/15000003_20101216_3e8787ae01.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

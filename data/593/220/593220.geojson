@@ -1,0 +1,15 @@
+{
+  "id": 593220,
+  "type": "Feature",
+  "properties": {
+    "name":"Goulles, Limousin, France",
+    "placetype":"locality",
+    "woe:id":593220,
+    "woe:name":"Goulles, Limousin, France",
+    "woe:place_id":"m6I529ucCJ9Y6Kc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.079334,45.031742,2.083368,45.046814],
+  "geometry": {"alpha":0.00015,"bbox":[2.0793340206146,45.031742095947,2.083368062973,45.046813964844],"coordinates":[[[[2.079334,45.042843],[2.07942,45.046814],[2.080278,45.043995],[2.080492,45.042976],[2.083368,45.031742],[2.081222,45.034229],[2.079334,45.042843]]]],"created":1292475065,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/593220_20101216_07bc7078fa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

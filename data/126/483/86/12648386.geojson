@@ -1,0 +1,15 @@
+{
+  "id": 12648386,
+  "type": "Feature",
+  "properties": {
+    "name":"Longueville, France",
+    "placetype":"locality",
+    "woe:id":12648386,
+    "woe:name":"Longueville, France",
+    "woe:place_id":"powhELyYA5qYvhYcIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.240261,48.516148,3.243649,48.520138],
+  "geometry": {"alpha":1e-05,"bbox":[3.2402610778809,48.516147613525,3.2436490058899,48.520137786865],"coordinates":[[[[3.240352,48.519955],[3.240261,48.520054],[3.240491,48.520138],[3.242168,48.519051],[3.243649,48.518509],[3.240795,48.516148],[3.240352,48.519955]]]],"created":1292529244,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12648386_20101216_9899f19b1c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

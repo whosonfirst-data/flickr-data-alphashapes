@@ -1,0 +1,15 @@
+{
+  "id": 12652182,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Antoine, France",
+    "placetype":"locality",
+    "woe:id":12652182,
+    "woe:name":"St.-Antoine, France",
+    "woe:place_id":"S0uUuueYA5rfRfmUdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.421761,45.012901,-0.419336,45.015968],
+  "geometry": {"alpha":1e-05,"bbox":[-0.42176100611687,45.012901306152,-0.41933599114418,45.015968322754],"coordinates":[[[[-0.419336,45.015438],[-0.419411,45.015179],[-0.420259,45.012901],[-0.421761,45.015968],[-0.41939,45.0159],[-0.419336,45.015438]]]],"created":1292487483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12652182_20101216_7987a95798.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

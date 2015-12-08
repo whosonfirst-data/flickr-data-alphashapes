@@ -1,0 +1,15 @@
+{
+  "id": 12676476,
+  "type": "Feature",
+  "properties": {
+    "name":"Camugnano, Italy",
+    "placetype":"locality",
+    "woe:id":12676476,
+    "woe:name":"Camugnano, Italy",
+    "woe:place_id":"1cUndxOYA5ozLvPm3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.101684,44.127151,11.109151,44.131001],
+  "geometry": {"alpha":1e-05,"bbox":[11.101683616638,44.127151489258,11.109150886536,44.131000518799],"coordinates":[[[[11.109151,44.127522],[11.106319,44.128723],[11.101684,44.127151],[11.103959,44.131001],[11.107864,44.128784],[11.109151,44.127522]]]],"created":1292518870,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12676476_20101216_f2d5a4d458.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

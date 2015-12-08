@@ -1,0 +1,15 @@
+{
+  "id": 782318,
+  "type": "Feature",
+  "properties": {
+    "name":"Elgg, Canton of Zurich, Switzerland",
+    "placetype":"locality",
+    "woe:id":782318,
+    "woe:name":"Elgg, Canton of Zurich, Switzerland",
+    "woe:place_id":"h3CTCu.eCZ4PINw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.864166,47.488903,8.877124,47.498501],
+  "geometry": {"alpha":0.00015,"bbox":[8.8641662597656,47.488903045654,8.8771238327026,47.498500823975],"coordinates":[[[[8.865166,47.498333],[8.877124,47.489426],[8.867168,47.488903],[8.864593,47.492386],[8.864166,47.498501],[8.865166,47.498333]]]],"created":1292505781,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/782318_20101216_b264a5bcc3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

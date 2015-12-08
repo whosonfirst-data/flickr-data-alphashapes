@@ -1,0 +1,15 @@
+{
+  "id": 717792,
+  "type": "Feature",
+  "properties": {
+    "name":"Mango, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":717792,
+    "woe:name":"Mango, Piedmont, Italy",
+    "woe:place_id":"XCIWxPaeAJsbsEk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.136749,44.684956,8.157691,44.704872],
+  "geometry": {"alpha":0.00015,"bbox":[8.1367492675781,44.684955596924,8.1576910018921,44.704872131348],"coordinates":[[[[8.147048,44.686108],[8.138937,44.691387],[8.136749,44.694527],[8.146836,44.704872],[8.157691,44.686764],[8.150181,44.684956],[8.147048,44.686108]]]],"created":1292524133,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/717792_20101216_97d4ee9103.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

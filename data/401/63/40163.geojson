@@ -1,0 +1,15 @@
+{
+  "id": 40163,
+  "type": "Feature",
+  "properties": {
+    "name":"Whinfell, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40163,
+    "woe:name":"Whinfell, England, United Kingdom",
+    "woe:place_id":"6_XTcQ6dAZ3UVw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.665755,54.37701,-2.657622,54.405743],
+  "geometry": {"alpha":0.00015,"bbox":[-2.665755033493,54.377010345459,-2.6576220989227,54.405742645264],"coordinates":[[[[-2.658348,54.405743],[-2.657622,54.396168],[-2.664294,54.37701],[-2.665755,54.377792],[-2.657844,54.396206],[-2.658348,54.405743]]]],"created":1292483166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/40163_20101216_1cb64e2c5d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

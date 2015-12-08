@@ -1,0 +1,15 @@
+{
+  "id": 12627547,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Dernbach, Germany",
+    "placetype":"locality",
+    "woe:id":12627547,
+    "woe:name":"Gemeinde Dernbach, Germany",
+    "woe:place_id":"fMXiOpOYA5qDq7TeOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.01929,49.251545,8.022615,49.252811],
+  "geometry": {"alpha":1e-05,"bbox":[8.0192899703979,49.251544952393,8.0226154327393,49.252811431885],"coordinates":[[[[8.022205,49.252811],[8.022615,49.251976],[8.01929,49.251545],[8.021016,49.25259],[8.021986,49.252773],[8.022205,49.252811]]]],"created":1292461262,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12627547_20101216_287501e29e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

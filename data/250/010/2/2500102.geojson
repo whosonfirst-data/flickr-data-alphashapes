@@ -1,0 +1,15 @@
+{
+  "id": 2500102,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockton, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2500102,
+    "woe:name":"Stockton, Wisconsin, United States",
+    "woe:place_id":"9ScGRsabBJwhnQ9M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.494041,44.511284,-89.467331,44.522518],
+  "geometry": {"alpha":0.00015,"bbox":[-89.494041442871,44.511283874512,-89.467330932617,44.522518157959],"coordinates":[[[[-89.47673,44.511517],[-89.47747,44.511284],[-89.494041,44.521793],[-89.477097,44.511875],[-89.467331,44.522518],[-89.476517,44.511684],[-89.47673,44.511517]]]],"created":1292460602,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2500102_20101216_ea958b5b97.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

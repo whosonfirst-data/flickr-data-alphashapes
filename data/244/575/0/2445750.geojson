@@ -1,0 +1,15 @@
+{
+  "id": 2445750,
+  "type": "Feature",
+  "properties": {
+    "name":"Marion, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2445750,
+    "woe:name":"Marion, Montana, United States",
+    "woe:place_id":"4hMmFrKbBZiklmVV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.665466,48.096886,-114.648682,48.106285],
+  "geometry": {"alpha":0.00015,"bbox":[-114.66546630859,48.096885681152,-114.64868164062,48.106285095215],"coordinates":[[[[-114.665466,48.101711],[-114.664566,48.101864],[-114.648682,48.106285],[-114.664307,48.096886],[-114.665466,48.101711]]]],"created":1234602606,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3437/shapefiles/2445750_20090214_eac5c76e1e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

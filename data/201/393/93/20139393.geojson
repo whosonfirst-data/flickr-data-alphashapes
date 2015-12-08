@@ -1,0 +1,15 @@
+{
+  "id": 20139393,
+  "type": "Feature",
+  "properties": {
+    "name":"Rigomagno, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20139393,
+    "woe:name":"Rigomagno, Tuscany, Italy",
+    "woe:place_id":"roZo37GbAZ1Nvllgiw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.681985,43.253956,11.69875,43.265499],
+  "geometry": {"alpha":0.00015,"bbox":[11.681984901428,43.253955841064,11.698749542236,43.26549911499],"coordinates":[[[[11.686,43.263],[11.693167,43.265499],[11.697692,43.262581],[11.69875,43.256134],[11.681985,43.253956],[11.683444,43.256252],[11.686,43.263]]]],"created":1292526784,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/20139393_20101216_573c652500.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

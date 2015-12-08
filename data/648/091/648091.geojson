@@ -1,0 +1,15 @@
+{
+  "id": 648091,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Englmar, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":648091,
+    "woe:name":"St. Englmar, Bavaria, Germany",
+    "woe:place_id":"GAZ4R4ifBZSQNRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.816839,48.993633,12.828168,49.005505],
+  "geometry": {"alpha":0.00015,"bbox":[12.81683921814,48.993633270264,12.828167915344,49.005504608154],"coordinates":[[[[12.822263,49.003803],[12.825593,49.003197],[12.828168,48.999592],[12.826194,48.998802],[12.818212,48.993633],[12.816839,49.005505],[12.822263,49.003803]]]],"created":1292519663,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/648091_20101216_068b02e2ee.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

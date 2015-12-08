@@ -1,0 +1,15 @@
+{
+  "id": 555085,
+  "type": "Feature",
+  "properties": {
+    "name":"Ladby, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555085,
+    "woe:name":"Ladby, Sjaelland, Denmark",
+    "woe:place_id":".11PH9ecBJnti88",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.713485,55.247032,11.727304,55.269264],
+  "geometry": {"alpha":0.00015,"bbox":[11.713484764099,55.247032165527,11.727304458618,55.269264221191],"coordinates":[[[[11.723828,55.259514],[11.713485,55.247032],[11.714,55.269264],[11.726936,55.265373],[11.727304,55.260571],[11.723828,55.259514]]]],"created":1292455864,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/555085_20101215_c8612161ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

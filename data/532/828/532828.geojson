@@ -1,0 +1,15 @@
+{
+  "id": 532828,
+  "type": "Feature",
+  "properties": {
+    "name":"Boljevci, Beograd, Serbia",
+    "placetype":"locality",
+    "woe:id":532828,
+    "woe:name":"Boljevci, Beograd, Serbia",
+    "woe:place_id":"NjPVbQScAp7YSIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.220165,44.709171,20.239735,44.740211],
+  "geometry": {"alpha":0.00015,"bbox":[20.220165252686,44.709171295166,20.239734649658,44.740211486816],"coordinates":[[[[20.231152,44.740211],[20.236816,44.731125],[20.239735,44.709171],[20.222021,44.716179],[20.220165,44.735516],[20.231152,44.740211]]]],"created":1292520631,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/532828_20101216_019f949c24.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

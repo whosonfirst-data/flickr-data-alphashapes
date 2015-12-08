@@ -1,0 +1,15 @@
+{
+  "id": 2524713,
+  "type": "Feature",
+  "properties": {
+    "name":"Yellowjacket, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2524713,
+    "woe:name":"Yellowjacket, Idaho, United States",
+    "woe:place_id":"YHV11HubBJ5bbk.l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.531174,44.978298,-114.522362,44.988743],
+  "geometry": {"alpha":0.00015,"bbox":[-114.53117370605,44.978298187256,-114.52236175537,44.988742828369],"coordinates":[[[[-114.529587,44.978333],[-114.531174,44.978298],[-114.529251,44.981388],[-114.524651,44.988743],[-114.522362,44.986313],[-114.529587,44.978333]]]],"created":1292543764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2524713_20101216_0510fa9ccf.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

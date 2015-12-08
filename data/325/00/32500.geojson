@@ -1,0 +1,15 @@
+{
+  "id": 32500,
+  "type": "Feature",
+  "properties": {
+    "name":"Poulton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32500,
+    "woe:name":"Poulton, England, United Kingdom",
+    "woe:place_id":"F15PZlmaA5m54Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.863595,51.696289,-1.85111,51.710903],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8635950088501,51.6962890625,-1.8511099815369,51.710903167725],"coordinates":[[[[-1.852719,51.710903],[-1.85111,51.707672],[-1.859693,51.696289],[-1.863595,51.699451],[-1.855831,51.708523],[-1.852719,51.710903]]]],"created":1292529717,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/32500_20101216_da6b25f26e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

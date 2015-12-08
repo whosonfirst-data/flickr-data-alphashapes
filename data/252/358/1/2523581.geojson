@@ -1,0 +1,15 @@
+{
+  "id": 2523581,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodrun, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2523581,
+    "woe:name":"Woodrun, North Carolina, United States",
+    "woe:place_id":"Gy_om16bBJ4xO4i_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.077431,35.323738,-80.069672,35.331844],
+  "geometry": {"alpha":0.00015,"bbox":[-80.077430725098,35.323738098145,-80.069671630859,35.331844329834],"coordinates":[[[[-80.07093,35.331135],[-80.069672,35.331097],[-80.07254,35.325508],[-80.075912,35.323738],[-80.077431,35.331844],[-80.07093,35.331135]]]],"created":1292454616,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2523581_20101215_5aa1542aa1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

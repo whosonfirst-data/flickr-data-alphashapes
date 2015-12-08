@@ -1,0 +1,15 @@
+{
+  "id": 380821,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Bernardina, Durazno, Uruguay",
+    "placetype":"locality",
+    "woe:id":380821,
+    "woe:name":"Santa Bernardina, Durazno, Uruguay",
+    "woe:place_id":"sWhWCBSaCZx9c6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-56.526031,-33.380497,-56.50629,-33.377201],
+  "geometry": {"alpha":0.00015,"bbox":[-56.526031494141,-33.38049697876,-56.506290435791,-33.377201080322],"coordinates":[[[[-56.52483,-33.380497],[-56.526031,-33.379135],[-56.517792,-33.377201],[-56.50629,-33.379421],[-56.520023,-33.379421],[-56.52483,-33.380497]]]],"created":1292519497,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/380821_20101216_75653dd505.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

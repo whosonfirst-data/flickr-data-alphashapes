@@ -1,0 +1,15 @@
+{
+  "id": 12634923,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Seeg, Germany",
+    "placetype":"locality",
+    "woe:id":12634923,
+    "woe:name":"Gemeinde Seeg, Germany",
+    "woe:place_id":"p_U6GEWYA5q.HczFBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.605239,47.655903,10.611419,47.664082],
+  "geometry": {"alpha":1e-05,"bbox":[10.60523891449,47.655902862549,10.61141872406,47.664081573486],"coordinates":[[[[10.605239,47.65868],[10.607,47.664082],[10.607383,47.663944],[10.611419,47.661686],[10.610303,47.659229],[10.608563,47.655903],[10.605239,47.65868]]]],"created":1292548235,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12634923_20101217_590a8b0a59.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

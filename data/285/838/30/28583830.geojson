@@ -1,0 +1,15 @@
+{
+  "id": 28583830,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbey, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":28583830,
+    "woe:name":"Abbey, Western Australia, Australia",
+    "woe:place_id":"p0r.q82bCZn3sDLgjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.247498,-33.667496,115.270439,-33.657993],
+  "geometry": {"alpha":0.00015,"bbox":[115.24749755859,-33.667495727539,115.27043914795,-33.65799331665],"coordinates":[[[[115.263168,-33.663334],[115.255333,-33.667496],[115.247498,-33.659401],[115.25705,-33.657993],[115.270271,-33.659924],[115.270439,-33.663139],[115.263168,-33.663334]]]],"created":1292519220,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/28583830_20101216_9bc4e6efd9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

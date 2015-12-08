@@ -1,0 +1,15 @@
+{
+  "id": 635665,
+  "type": "Feature",
+  "properties": {
+    "name":"Aschfeld, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":635665,
+    "woe:name":"Aschfeld, Bavaria, Germany",
+    "woe:place_id":"wbtYUC2fApkCwTM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.823322,50.005093,9.827613,50.005863],
+  "geometry": {"alpha":0.00015,"bbox":[9.8233222961426,50.00509262085,9.8276128768921,50.005863189697],"coordinates":[[[[9.824695,50.00581],[9.825038,50.005863],[9.827613,50.00581],[9.826583,50.005093],[9.826412,50.005093],[9.823322,50.005146],[9.824695,50.00581]]]],"created":1292475002,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/635665_20101216_a2a6d3cc81.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

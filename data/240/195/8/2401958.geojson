@@ -1,0 +1,15 @@
+{
+  "id": 2401958,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2401958,
+    "woe:name":"Fairville, Missouri, United States",
+    "woe:place_id":"mYT0r6ybBZyGGv.z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.280273,39.25811,-93.261566,39.269806],
+  "geometry": {"alpha":0.00015,"bbox":[-93.2802734375,39.258110046387,-93.261566162109,39.269805908203],"coordinates":[[[[-93.267914,39.269806],[-93.261566,39.260036],[-93.266541,39.25811],[-93.280273,39.265488],[-93.269806,39.268677],[-93.267914,39.269806]]]],"created":1292512570,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2401958_20101216_5888b475e7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

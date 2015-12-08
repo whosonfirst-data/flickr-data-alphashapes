@@ -1,0 +1,15 @@
+{
+  "id": 2463580,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakland, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2463580,
+    "woe:name":"Oakland, Iowa, United States",
+    "woe:place_id":"3Yx9ue2bBZpnf8RY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.403656,41.289146,-95.388832,41.314434],
+  "geometry": {"alpha":0.00015,"bbox":[-95.403656005859,41.28914642334,-95.388832092285,41.314434051514],"coordinates":[[[[-95.388832,41.307999],[-95.403656,41.289146],[-95.397324,41.309849],[-95.397308,41.310055],[-95.39695,41.314434],[-95.388832,41.307999]]]],"created":1292454488,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2463580_20101215_ef65e9d75f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

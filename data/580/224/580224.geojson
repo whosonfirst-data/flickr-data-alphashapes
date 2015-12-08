@@ -1,0 +1,15 @@
+{
+  "id": 580224,
+  "type": "Feature",
+  "properties": {
+    "name":"Blesle, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":580224,
+    "woe:name":"Blesle, Auvergne, France",
+    "woe:place_id":"IMtYu2ycCZzgSaY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.168182,45.315006,3.181271,45.325359],
+  "geometry": {"alpha":0.00015,"bbox":[3.1681818962097,45.315006256104,3.1812710762024,45.325359344482],"coordinates":[[[[3.168182,45.318386],[3.168182,45.322945],[3.170928,45.325359],[3.181271,45.315006],[3.168697,45.316788],[3.168182,45.318386]]]],"created":1292521019,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/580224_20101216_7dd63ede95.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

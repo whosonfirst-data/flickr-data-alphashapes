@@ -1,0 +1,15 @@
+{
+  "id": 23405203,
+  "type": "Feature",
+  "properties": {
+    "name":"Madeira Park, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":23405203,
+    "woe:name":"Madeira Park, British Columbia, Canada",
+    "woe:place_id":"oA0EcK.bApiAaRE3Yw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.033669,49.606956,-124.000626,49.626282],
+  "geometry": {"alpha":0.00015,"bbox":[-124.03366851807,49.606956481934,-124.00062561035,49.626281738281],"coordinates":[[[[-124.021912,49.626282],[-124.000626,49.623833],[-124.019165,49.620831],[-124.033669,49.606956],[-124.022598,49.622276],[-124.021912,49.626282]]]],"created":1292445784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/23405203_20101215_9a5ef31a81.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

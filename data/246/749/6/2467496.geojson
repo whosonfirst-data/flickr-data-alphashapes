@@ -1,0 +1,15 @@
+{
+  "id": 2467496,
+  "type": "Feature",
+  "properties": {
+    "name":"Paincourtville, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2467496,
+    "woe:name":"Paincourtville, Louisiana, United States",
+    "woe:place_id":"wOVHrPObBZo6pY4C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.064194,29.992407,-91.052788,30.003263],
+  "geometry": {"alpha":0.00015,"bbox":[-91.064193725586,29.992406845093,-91.052787780762,30.003263473511],"coordinates":[[[[-91.055008,29.992407],[-91.064194,30.003263],[-91.052788,30.001486],[-91.054062,29.99264],[-91.054169,29.992594],[-91.055008,29.992407]]]],"created":1292440926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2467496_20101215_d4d6441788.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

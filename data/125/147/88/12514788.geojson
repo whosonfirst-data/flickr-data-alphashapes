@@ -1,0 +1,15 @@
+{
+  "id": 12514788,
+  "type": "Feature",
+  "properties": {
+    "name":"Mohamed V Airport, Morocco",
+    "placetype":"locality",
+    "woe:id":12514788,
+    "woe:name":"Mohamed V Airport, Morocco",
+    "woe:place_id":"Nz5vmeqYA5kistODTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.583575,33.370415,-7.579986,33.37344],
+  "geometry": {"alpha":1e-05,"bbox":[-7.5835747718811,33.370414733887,-7.5799860954285,33.373439788818],"coordinates":[[[[-7.580794,33.37344],[-7.579986,33.373295],[-7.581008,33.370415],[-7.583575,33.371719],[-7.582519,33.373352],[-7.580794,33.37344]]]],"created":1247938923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2556/shapefiles/12514788_20090718_345fbe710a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12624325,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ahlen, Germany",
+    "placetype":"locality",
+    "woe:id":12624325,
+    "woe:name":"Gemeinde Ahlen, Germany",
+    "woe:place_id":"PUTaqpmYA5qBtGuI2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.888773,51.761253,7.893676,51.766563],
+  "geometry": {"alpha":1e-05,"bbox":[7.8887729644775,51.761253356934,7.8936758041382,51.766563415527],"coordinates":[[[[7.88934,51.765839],[7.89093,51.76651],[7.893676,51.766563],[7.891788,51.761253],[7.888773,51.762814],[7.88934,51.765839]]]],"created":1292525877,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12624325_20101216_5edf5a1511.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 731875,
+  "type": "Feature",
+  "properties": {
+    "name":"Andel, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":731875,
+    "woe:name":"Andel, North Brabant, Netherlands",
+    "woe:place_id":"NcxH1VKeAp3lvMM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.048346,51.779137,5.060508,51.805832],
+  "geometry": {"alpha":0.00015,"bbox":[5.0483460426331,51.779136657715,5.060507774353,51.80583190918],"coordinates":[[[[5.05267,51.783955],[5.048346,51.793884],[5.048497,51.794132],[5.060508,51.805832],[5.056521,51.786358],[5.060298,51.779137],[5.05267,51.783955]]]],"created":1292535733,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/731875_20101216_d0612b65a6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 123081,
+  "type": "Feature",
+  "properties": {
+    "name":"El Zapote, Guerrero, Mexico",
+    "placetype":"locality",
+    "woe:id":123081,
+    "woe:name":"El Zapote, Guerrero, Mexico",
+    "woe:place_id":"cIuFW0aYA5._.2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.252045,16.983494,-100.231361,16.992605],
+  "geometry": {"alpha":0.00015,"bbox":[-100.25204467773,16.983493804932,-100.23136138916,16.992605209351],"coordinates":[[[[-100.231361,16.992605],[-100.238396,16.983494],[-100.252045,16.985874],[-100.247925,16.987024],[-100.231361,16.992605]]]],"created":1239618379,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3298/shapefiles/123081_20090413_1ddf8213a6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

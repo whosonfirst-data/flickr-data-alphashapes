@@ -1,0 +1,15 @@
+{
+  "id": 15000256,
+  "type": "Feature",
+  "properties": {
+    "name":"Bernareggio, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":15000256,
+    "woe:name":"Bernareggio, Lombardy, Italy",
+    "woe:place_id":"eUq553eYBJw2P0B_qA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.383826,45.646999,9.407,45.653526],
+  "geometry": {"alpha":0.00015,"bbox":[9.3838262557983,45.646999359131,9.4069995880127,45.653526306152],"coordinates":[[[[9.407,45.646999],[9.406142,45.647602],[9.385499,45.649132],[9.383826,45.652657],[9.385328,45.653229],[9.406828,45.653526],[9.407,45.646999]]]],"created":1292544936,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/15000256_20101217_08483d2519.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

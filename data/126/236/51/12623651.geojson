@@ -1,0 +1,15 @@
+{
+  "id": 12623651,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ammerbuch, Germany",
+    "placetype":"locality",
+    "woe:id":12623651,
+    "woe:name":"Gemeinde Ammerbuch, Germany",
+    "woe:place_id":"DdV1OEOYA5p3ZJgwRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.986077,48.549709,8.988808,48.553238],
+  "geometry": {"alpha":1e-05,"bbox":[8.9860773086548,48.549709320068,8.9888076782227,48.553237915039],"coordinates":[[[[8.988808,48.552944],[8.988427,48.55125],[8.986488,48.549709],[8.986077,48.552963],[8.986387,48.553238],[8.988808,48.552944]]]],"created":1248184683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2666/shapefiles/12623651_20090721_ffe25f7f68.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

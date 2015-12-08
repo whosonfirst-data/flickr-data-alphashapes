@@ -1,0 +1,15 @@
+{
+  "id": 2360695,
+  "type": "Feature",
+  "properties": {
+    "name":"Bear Creek, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2360695,
+    "woe:name":"Bear Creek, Oregon, United States",
+    "woe:place_id":"43h5FRubApr0__lx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.302307,44.212872,-123.285957,44.225029],
+  "geometry": {"alpha":0.00015,"bbox":[-123.30230712891,44.212871551514,-123.28595733643,44.225028991699],"coordinates":[[[[-123.285957,44.222507],[-123.287415,44.21991],[-123.289261,44.215923],[-123.293747,44.212872],[-123.302307,44.225029],[-123.286758,44.222084],[-123.285957,44.222507]]]],"created":1248145217,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2450/shapefiles/2360695_20090721_c4036b2215.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

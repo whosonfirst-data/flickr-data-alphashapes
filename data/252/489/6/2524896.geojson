@@ -1,0 +1,15 @@
+{
+  "id": 2524896,
+  "type": "Feature",
+  "properties": {
+    "name":"Yorkshire, New York, United States",
+    "placetype":"locality",
+    "woe:id":2524896,
+    "woe:name":"Yorkshire, New York, United States",
+    "woe:place_id":"HPNRpYebBJ4GmAj6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.478531,42.525948,-78.454567,42.534107],
+  "geometry": {"alpha":0.00015,"bbox":[-78.478530883789,42.525947570801,-78.454566955566,42.534107208252],"coordinates":[[[[-78.467125,42.525948],[-78.478531,42.530186],[-78.473839,42.530319],[-78.469154,42.530231],[-78.454567,42.534107],[-78.467125,42.525948]]]],"created":1292548695,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2524896_20101217_06579ac4d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

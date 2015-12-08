@@ -1,0 +1,15 @@
+{
+  "id": 2428172,
+  "type": "Feature",
+  "properties": {
+    "name":"Jackson, Valdosta, GA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2428172,
+    "woe:name":"Jackson, Valdosta, GA, US, United States",
+    "woe:place_id":"pyordHKbBZ74bGse",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-83.273834,30.802794,-83.270424,30.807367],
+  "geometry": {"alpha":1e-05,"bbox":[-83.273834228516,30.802793502808,-83.27042388916,30.807367324829],"coordinates":[[[[-83.272461,30.807367],[-83.270844,30.806925],[-83.270424,30.805864],[-83.273834,30.802794],[-83.272461,30.807367]]]],"created":1234765810,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3358/shapefiles/2428172_20090216_26075e0e5e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103300,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Grace, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1103300,
+    "woe:name":"Lake Grace, Western Australia, Australia",
+    "woe:place_id":"M25Kjc6YAJztG5mi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [118.456818,-33.103691,118.481628,-33.09222],
+  "geometry": {"alpha":0.00015,"bbox":[118.45681762695,-33.103691101074,118.48162841797,-33.092220306396],"coordinates":[[[[118.460083,-33.101318],[118.456818,-33.099018],[118.470001,-33.09222],[118.481628,-33.09758],[118.469994,-33.103333],[118.465576,-33.103691],[118.460083,-33.101318]]]],"created":1292539070,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/1103300_20101216_d697ea1131.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

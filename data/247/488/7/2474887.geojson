@@ -1,0 +1,15 @@
+{
+  "id": 2474887,
+  "type": "Feature",
+  "properties": {
+    "name":"Pomonkey, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2474887,
+    "woe:name":"Pomonkey, Maryland, United States",
+    "woe:place_id":"P3rq5TubBZvCrRLE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.077759,38.595345,-77.072739,38.609894],
+  "geometry": {"alpha":0.00015,"bbox":[-77.077758789062,38.595344543457,-77.072738647461,38.609893798828],"coordinates":[[[[-77.076218,38.603489],[-77.072739,38.609894],[-77.074326,38.60347],[-77.074585,38.601578],[-77.077759,38.595345],[-77.076218,38.603489]]]],"created":1292533317,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2474887_20101216_79050a8063.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

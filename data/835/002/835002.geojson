@@ -1,0 +1,15 @@
+{
+  "id": 835002,
+  "type": "Feature",
+  "properties": {
+    "name":"Bliznatsi, Varna, Bulgaria",
+    "placetype":"locality",
+    "woe:id":835002,
+    "woe:name":"Bliznatsi, Varna, Bulgaria",
+    "woe:place_id":"g4mmG.uRApmfuwY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.922815,43.102413,27.924648,43.104839],
+  "geometry": {"alpha":0.00015,"bbox":[27.922815322876,43.10241317749,27.924648284912,43.104839324951],"coordinates":[[[[27.924393,43.103359],[27.924112,43.102413],[27.923265,43.102577],[27.922815,43.10323],[27.92304,43.104088],[27.924648,43.104839],[27.924393,43.103359]]]],"created":1239345482,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3644/shapefiles/835002_20090410_a10dd13c0f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

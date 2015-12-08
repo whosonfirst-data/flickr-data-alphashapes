@@ -1,0 +1,15 @@
+{
+  "id": 2459060,
+  "type": "Feature",
+  "properties": {
+    "name":"New Valley, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2459060,
+    "woe:name":"New Valley, Maryland, United States",
+    "woe:place_id":"B.Qc1fqbBZlNjMcP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.14946,39.656307,-76.140831,39.66024],
+  "geometry": {"alpha":0.00015,"bbox":[-76.149459838867,39.656307220459,-76.140830993652,39.66024017334],"coordinates":[[[[-76.145119,39.659664],[-76.144463,39.6595],[-76.140831,39.656307],[-76.144478,39.657875],[-76.14946,39.66024],[-76.145119,39.659664]]]],"created":1292522121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2459060_20101216_05affd93ca.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

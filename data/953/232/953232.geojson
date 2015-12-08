@@ -1,0 +1,15 @@
+{
+  "id": 953232,
+  "type": "Feature",
+  "properties": {
+    "name":"Khorevton, Thessalia, Greece",
+    "placetype":"locality",
+    "woe:id":953232,
+    "woe:name":"Khorevton, Thessalia, Greece",
+    "woe:place_id":"ZjP71hGQBJ.e4Mg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.120728,39.450031,23.125191,39.452782],
+  "geometry": {"alpha":0.00015,"bbox":[23.120727539062,39.450031280518,23.125190734863,39.452781677246],"coordinates":[[[[23.125191,39.451637],[23.125019,39.451172],[23.12295,39.450031],[23.121758,39.450974],[23.120728,39.452736],[23.122358,39.452782],[23.125191,39.451637]]]],"created":1292521033,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/953232_20101216_cfceef7648.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3321,
+  "type": "Feature",
+  "properties": {
+    "name":"Eganville, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3321,
+    "woe:name":"Eganville, Ontario, Canada",
+    "woe:place_id":"dH7aCA2aAp5K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.121536,45.527035,-77.097244,45.554585],
+  "geometry": {"alpha":0.00015,"bbox":[-77.121536254883,45.527034759521,-77.097244262695,45.554584503174],"coordinates":[[[[-77.098015,45.540321],[-77.099518,45.5341],[-77.117668,45.527035],[-77.116104,45.538158],[-77.121536,45.545914],[-77.11158,45.554585],[-77.099045,45.544109],[-77.097244,45.544247],[-77.098015,45.540321]]]],"created":1292469497,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/3321_20101216_771fa5b912.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

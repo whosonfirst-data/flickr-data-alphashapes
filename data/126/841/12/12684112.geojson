@@ -1,0 +1,15 @@
+{
+  "id": 12684112,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberbipp, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684112,
+    "woe:name":"Oberbipp, Switzerland",
+    "woe:place_id":"2ob6mcmYA5pCDcPP2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.68645,47.252819,7.688541,47.257446],
+  "geometry": {"alpha":1e-05,"bbox":[7.6864500045776,47.252819061279,7.6885409355164,47.257446289062],"coordinates":[[[[7.687854,47.257446],[7.688541,47.256573],[7.68833,47.252819],[7.68645,47.256351],[7.687854,47.257446]]]],"created":1292427604,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12684112_20101215_5e5c3e8772.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

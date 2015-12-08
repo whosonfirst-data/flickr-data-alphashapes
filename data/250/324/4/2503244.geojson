@@ -1,0 +1,15 @@
+{
+  "id": 2503244,
+  "type": "Feature",
+  "properties": {
+    "name":"Sycamore, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2503244,
+    "woe:name":"Sycamore, Tennessee, United States",
+    "woe:place_id":"20pwq7GbBJxrRYI0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.050224,36.317993,-87.049828,36.332928],
+  "geometry": {"alpha":0.00015,"bbox":[-87.050224304199,36.317993164062,-87.049827575684,36.332927703857],"coordinates":[[[[-87.050194,36.317993],[-87.050224,36.318398],[-87.049828,36.332928],[-87.049904,36.318607],[-87.050194,36.317993]]]],"created":1292529210,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2503244_20101216_545b98350f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

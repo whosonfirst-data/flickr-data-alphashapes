@@ -1,0 +1,15 @@
+{
+  "id": 12655281,
+  "type": "Feature",
+  "properties": {
+    "name":"Doussard, France",
+    "placetype":"locality",
+    "woe:id":12655281,
+    "woe:name":"Doussard, France",
+    "woe:place_id":"n.9fAQaYA5qwJpRrIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.219956,45.775665,6.223583,45.782368],
+  "geometry": {"alpha":1e-05,"bbox":[6.2199559211731,45.775665283203,6.2235832214355,45.782367706299],"coordinates":[[[[6.221952,45.781231],[6.219956,45.775665],[6.221201,45.781471],[6.223111,45.782249],[6.223583,45.782368],[6.221952,45.781231]]]],"created":1292551456,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12655281_20101217_540ed52e52.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

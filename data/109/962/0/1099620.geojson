@@ -1,0 +1,15 @@
+{
+  "id": 1099620,
+  "type": "Feature",
+  "properties": {
+    "name":"Worsley, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1099620,
+    "woe:name":"Worsley, Western Australia, Australia",
+    "woe:place_id":"CAQAYgKYAZUYOzdS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.021629,-33.345013,116.056221,-33.319916],
+  "geometry": {"alpha":0.00015,"bbox":[116.0216293335,-33.345012664795,116.0562210083,-33.319915771484],"coordinates":[[[[116.056221,-33.330025],[116.048241,-33.345013],[116.032791,-33.336121],[116.021629,-33.319916],[116.034508,-33.333969],[116.047722,-33.334831],[116.056221,-33.330025]]]],"created":1292533899,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/1099620_20101216_59b3db1e03.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

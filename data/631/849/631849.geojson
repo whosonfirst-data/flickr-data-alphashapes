@@ -1,0 +1,15 @@
+{
+  "id": 631849,
+  "type": "Feature",
+  "properties": {
+    "name":"Villeneuve, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":631849,
+    "woe:name":"Villeneuve, Aquitaine, France",
+    "woe:place_id":"Awj7E76fAp1vVQc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.218246,44.739365,0.239381,44.74527],
+  "geometry": {"alpha":0.00015,"bbox":[0.21824599802494,44.739364624023,0.23938100039959,44.745269775391],"coordinates":[[[[0.235884,44.739365],[0.234832,44.739784],[0.218246,44.744801],[0.234146,44.74527],[0.239381,44.740818],[0.235884,44.739365]]]],"created":1292538982,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/631849_20101216_dd6107ab9c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

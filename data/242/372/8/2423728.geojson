@@ -1,0 +1,15 @@
+{
+  "id": 2423728,
+  "type": "Feature",
+  "properties": {
+    "name":"Homer, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2423728,
+    "woe:name":"Homer, Texas, United States",
+    "woe:place_id":"_0aKCpKbBZ5tjlD4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.183952,30.960447,-94.173637,30.967457],
+  "geometry": {"alpha":0.00015,"bbox":[-94.183952331543,30.960447311401,-94.173637390137,30.967456817627],"coordinates":[[[[-94.173637,30.967457],[-94.174126,30.960447],[-94.183952,30.964823],[-94.175079,30.966642],[-94.174339,30.967072],[-94.173637,30.967457]]]],"created":1292448436,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2423728_20101215_755bd3bbc1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28338973,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamlin, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28338973,
+    "woe:name":"Hamlin, Michigan, United States",
+    "woe:place_id":"gzBKyHabCZ8i7.lQAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.670784,42.465206,-84.657455,42.481396],
+  "geometry": {"alpha":0.00015,"bbox":[-84.670783996582,42.46520614624,-84.657455444336,42.481395721436],"coordinates":[[[[-84.660576,42.466145],[-84.670784,42.472569],[-84.658989,42.481396],[-84.657455,42.473728],[-84.660004,42.465206],[-84.660576,42.466145]]]],"created":1292541300,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/28338973_20101216_38050a67e8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

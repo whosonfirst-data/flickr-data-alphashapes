@@ -1,0 +1,15 @@
+{
+  "id": 760583,
+  "type": "Feature",
+  "properties": {
+    "name":"Figuerosa, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":760583,
+    "woe:name":"Figuerosa, Catalonia, Spain",
+    "woe:place_id":"FiLpqi.eB5w0Ljk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.168091,41.694916,1.169185,41.696869],
+  "geometry": {"alpha":0.00015,"bbox":[1.1680910587311,41.694915771484,1.1691850423813,41.696868896484],"coordinates":[[[[1.168091,41.696362],[1.168413,41.696869],[1.169185,41.696091],[1.16911,41.694916],[1.16837,41.695499],[1.168091,41.696362]]]],"created":1292532231,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/760583_20101216_187dd066c3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

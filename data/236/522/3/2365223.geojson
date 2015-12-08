@@ -1,0 +1,15 @@
+{
+  "id": 2365223,
+  "type": "Feature",
+  "properties": {
+    "name":"Blaisdell, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2365223,
+    "woe:name":"Blaisdell, North Dakota, United States",
+    "woe:place_id":"cNqS7uqbAppcGfCU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.086334,48.325165,-102.060669,48.353512],
+  "geometry": {"alpha":0.00015,"bbox":[-102.08633422852,48.325164794922,-102.06066894531,48.353511810303],"coordinates":[[[[-102.073502,48.325165],[-102.084,48.339001],[-102.086334,48.353512],[-102.064278,48.351486],[-102.060669,48.336166],[-102.073502,48.325165]]]],"created":1292485628,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2365223_20101216_21b36d179b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

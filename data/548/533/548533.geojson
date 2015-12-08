@@ -1,0 +1,15 @@
+{
+  "id": 548533,
+  "type": "Feature",
+  "properties": {
+    "name":"Gratkorn, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548533,
+    "woe:name":"Gratkorn, Styria, Austria",
+    "woe:place_id":"vRvJJ7ycBZQyFOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.333909,47.124161,15.347921,47.134876],
+  "geometry": {"alpha":0.00015,"bbox":[15.333909034729,47.124160766602,15.34792137146,47.134876251221],"coordinates":[[[[15.337666,47.130501],[15.333909,47.133541],[15.336012,47.134518],[15.347385,47.134876],[15.347921,47.134556],[15.34551,47.124161],[15.337666,47.130501]]]],"created":1292551605,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/548533_20101217_6cf9dd8181.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

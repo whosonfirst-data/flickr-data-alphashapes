@@ -1,0 +1,15 @@
+{
+  "id": 2464055,
+  "type": "Feature",
+  "properties": {
+    "name":"Ocean Bay Park, New York, United States",
+    "placetype":"locality",
+    "woe:id":2464055,
+    "woe:name":"Ocean Bay Park, New York, United States",
+    "woe:place_id":"tV1jNGybBZrS5VjN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.148003,40.632454,-73.13549,40.650642],
+  "geometry": {"alpha":0.00015,"bbox":[-73.148002624512,40.632453918457,-73.13549041748,40.65064239502],"coordinates":[[[[-73.13549,40.650642],[-73.135895,40.64785],[-73.137016,40.632454],[-73.148003,40.645935],[-73.143082,40.646137],[-73.13549,40.650642]]]],"created":1239527052,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3374/shapefiles/2464055_20090412_a876662ec1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

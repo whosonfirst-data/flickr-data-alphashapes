@@ -1,0 +1,15 @@
+{
+  "id": 3021,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenboro, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3021,
+    "woe:name":"Glenboro, Manitoba, Canada",
+    "woe:place_id":"1DzoAbeaAZ4.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.290657,49.557011,-99.279877,49.561966],
+  "geometry": {"alpha":0.00015,"bbox":[-99.290657043457,49.557010650635,-99.279876708984,49.561965942383],"coordinates":[[[[-99.286469,49.561741],[-99.284821,49.561966],[-99.279877,49.561764],[-99.282417,49.55946],[-99.287033,49.557011],[-99.290657,49.561073],[-99.287392,49.561687],[-99.286469,49.561741]]]],"created":1292532964,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/3021_20101216_d55fcc2c2f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

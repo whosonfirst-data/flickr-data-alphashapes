@@ -1,0 +1,15 @@
+{
+  "id": 3571,
+  "type": "Feature",
+  "properties": {
+    "name":"Ormstown, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3571,
+    "woe:name":"Ormstown, Quebec, Canada",
+    "woe:place_id":"sHATUnuaBJv1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.014,45.120445,-73.981247,45.13168],
+  "geometry": {"alpha":0.00015,"bbox":[-74.013999938965,45.120445251465,-73.981246948242,45.131679534912],"coordinates":[[[[-73.991318,45.122059],[-73.9991,45.125866],[-74.014,45.123871],[-74.00116,45.129742],[-73.9888,45.13168],[-73.981247,45.126228],[-73.988487,45.120445],[-73.991318,45.122059]]]],"created":1292479517,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/3571_20101216_03dbf5b357.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

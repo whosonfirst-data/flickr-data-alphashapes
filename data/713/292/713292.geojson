@@ -1,0 +1,15 @@
+{
+  "id": 713292,
+  "type": "Feature",
+  "properties": {
+    "name":"Casteldelfino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":713292,
+    "woe:name":"Casteldelfino, Piedmont, Italy",
+    "woe:place_id":"MqZgQVaeAJ__8Ho",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.063825,44.566406,7.073626,44.593338],
+  "geometry": {"alpha":0.00015,"bbox":[7.0638251304626,44.56640625,7.0736260414124,44.593338012695],"coordinates":[[[[7.070506,44.589176],[7.063825,44.566406],[7.065142,44.58987],[7.067759,44.591759],[7.069948,44.593338],[7.073626,44.588821],[7.070506,44.589176]]]],"created":1292550654,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/713292_20101217_e744d36ae7.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

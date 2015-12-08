@@ -1,0 +1,15 @@
+{
+  "id": 2441018,
+  "type": "Feature",
+  "properties": {
+    "name":"Lodi, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2441018,
+    "woe:name":"Lodi, Indiana, United States",
+    "woe:place_id":"hqMoqnybBZh82C1C",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.422935,39.943436,-87.394478,39.950844],
+  "geometry": {"alpha":0.00015,"bbox":[-87.42293548584,39.943435668945,-87.394477844238,39.950843811035],"coordinates":[[[[-87.406364,39.95018],[-87.40374,39.950844],[-87.394478,39.943436],[-87.40448,39.94791],[-87.422935,39.944523],[-87.406364,39.95018]]]],"created":1292533943,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2441018_20101216_327a0e4481.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

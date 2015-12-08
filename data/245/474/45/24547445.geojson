@@ -1,0 +1,15 @@
+{
+  "id": 24547445,
+  "type": "Feature",
+  "properties": {
+    "name":"Strzegom, Poland",
+    "placetype":"locality",
+    "woe:id":24547445,
+    "woe:name":"Strzegom, Poland",
+    "woe:place_id":"quZPGsGbBZmUROq5rw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.330318,50.970158,16.340702,50.975723],
+  "geometry": {"alpha":1e-05,"bbox":[16.330318450928,50.970157623291,16.340702056885,50.975723266602],"coordinates":[[[[16.334608,50.970402],[16.330318,50.970158],[16.33139,50.971386],[16.335983,50.97356],[16.337528,50.975723],[16.340702,50.971928],[16.334608,50.970402]]]],"created":1292544905,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/24547445_20101217_1e05f449e0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

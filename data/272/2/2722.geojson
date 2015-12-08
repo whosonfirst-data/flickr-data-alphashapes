@@ -1,0 +1,15 @@
+{
+  "id": 2722,
+  "type": "Feature",
+  "properties": {
+    "name":"Aguanish, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":2722,
+    "woe:name":"Aguanish, Quebec, Canada",
+    "woe:place_id":"e6N7E0ebBp5M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.128372,50.227001,-62.107944,50.237133],
+  "geometry": {"alpha":0.00015,"bbox":[-62.128372192383,50.227001190186,-62.107944488525,50.237133026123],"coordinates":[[[[-62.110519,50.23447],[-62.107944,50.229801],[-62.109146,50.227001],[-62.118813,50.227325],[-62.128372,50.237133],[-62.110519,50.23447]]]],"created":1292443111,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2722_20101215_0997eeb450.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

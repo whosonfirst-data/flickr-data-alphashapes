@@ -1,0 +1,15 @@
+{
+  "id": 20223901,
+  "type": "Feature",
+  "properties": {
+    "name":"Laguna de Santiago, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20223901,
+    "woe:name":"Laguna de Santiago, Canary Islands, Spain",
+    "woe:place_id":"GWZg1m6bAZ4zYj3LpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.19532,28.031223,-17.179182,28.038879],
+  "geometry": {"alpha":0.00015,"bbox":[-17.195320129395,28.031223297119,-17.179182052612,28.038879394531],"coordinates":[[[[-17.180128,28.038879],[-17.179182,28.035395],[-17.19532,28.031223],[-17.192917,28.038046],[-17.180128,28.038879]]]],"created":1292539331,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20223901_20101216_e11faaefc8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 141928,
+  "type": "Feature",
+  "properties": {
+    "name":"San Bartolo, Baja California Sur, Mexico",
+    "placetype":"locality",
+    "woe:id":141928,
+    "woe:name":"San Bartolo, Baja California Sur, Mexico",
+    "woe:place_id":"UScLX0GYBZ37w10",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.821732,23.738077,-109.811623,23.74065],
+  "geometry": {"alpha":0.00015,"bbox":[-109.82173156738,23.738077163696,-109.81162261963,23.740650177002],"coordinates":[[[[-109.81163,23.738226],[-109.811623,23.738218],[-109.811905,23.738077],[-109.821732,23.74065],[-109.81163,23.738226]]]],"created":1247780527,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2497/shapefiles/141928_20090716_08fe4bddeb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

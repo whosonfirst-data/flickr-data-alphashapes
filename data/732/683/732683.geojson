@@ -1,0 +1,15 @@
+{
+  "id": 732683,
+  "type": "Feature",
+  "properties": {
+    "name":"Parrega, Friesland, Netherlands",
+    "placetype":"locality",
+    "woe:id":732683,
+    "woe:name":"Parrega, Friesland, Netherlands",
+    "woe:place_id":"59eYl_.eAp5c.R0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.4769,53.010918,5.481147,53.020222],
+  "geometry": {"alpha":0.00015,"bbox":[5.476900100708,53.010917663574,5.481146812439,53.020221710205],"coordinates":[[[[5.478744,53.019894],[5.480182,53.020222],[5.481147,53.018295],[5.4769,53.010918],[5.477158,53.013622],[5.477156,53.018799],[5.478744,53.019894]]]],"created":1292518364,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/732683_20101216_ef3b7afe06.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

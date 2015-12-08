@@ -1,0 +1,15 @@
+{
+  "id": 974600,
+  "type": "Feature",
+  "properties": {
+    "name":"Morville, Namur, Belgium",
+    "placetype":"locality",
+    "woe:id":974600,
+    "woe:name":"Morville, Namur, Belgium",
+    "woe:place_id":"m4BsBSuQBpgJ5j0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.741783,50.228588,4.763259,50.2393],
+  "geometry": {"alpha":0.00015,"bbox":[4.7417831420898,50.228588104248,4.763258934021,50.23929977417],"coordinates":[[[[4.744436,50.228661],[4.741783,50.230045],[4.741858,50.230438],[4.744755,50.228802],[4.763259,50.2393],[4.744758,50.228588],[4.744436,50.228661]]]],"created":1292451307,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/974600_20101215_b30af3bd80.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

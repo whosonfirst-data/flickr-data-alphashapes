@@ -1,0 +1,15 @@
+{
+  "id": 704124,
+  "type": "Feature",
+  "properties": {
+    "name":"Wasserlos, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":704124,
+    "woe:name":"Wasserlos, Bavaria, Germany",
+    "woe:place_id":"CTAm3dueAZjMVaI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.072647,50.070816,9.076466,50.074825],
+  "geometry": {"alpha":0.00015,"bbox":[9.0726470947266,50.070816040039,9.0764656066895,50.074825286865],"coordinates":[[[[9.075651,50.070908],[9.073698,50.071533],[9.072647,50.074684],[9.073162,50.074825],[9.075973,50.072392],[9.076466,50.070816],[9.075651,50.070908]]]],"created":1292508553,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/704124_20101216_cf4f826936.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

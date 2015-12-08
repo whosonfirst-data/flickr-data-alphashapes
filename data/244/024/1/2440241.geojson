@@ -1,0 +1,15 @@
+{
+  "id": 2440241,
+  "type": "Feature",
+  "properties": {
+    "name":"Little John, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2440241,
+    "woe:name":"Little John, Tennessee, United States",
+    "woe:place_id":"JRXUWe.bBZjMVAU8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.995361,35.291325,-89.971634,35.312252],
+  "geometry": {"alpha":0.00015,"bbox":[-89.995361328125,35.291324615479,-89.971633911133,35.312252044678],"coordinates":[[[[-89.991333,35.299576],[-89.992271,35.306477],[-89.971634,35.312252],[-89.989059,35.29665],[-89.995361,35.291325],[-89.991333,35.299576]]]],"created":1292538088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2440241_20101216_4cd8c02aab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

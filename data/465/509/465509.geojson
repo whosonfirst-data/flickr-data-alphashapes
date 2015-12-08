@@ -1,0 +1,15 @@
+{
+  "id": 465509,
+  "type": "Feature",
+  "properties": {
+    "name":"Guido, Mendoza, Argentina",
+    "placetype":"locality",
+    "woe:id":465509,
+    "woe:name":"Guido, Mendoza, Argentina",
+    "woe:place_id":"K.MZuSGdB5nJdtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.267593,-32.89566,-69.259529,-32.878578],
+  "geometry": {"alpha":0.00015,"bbox":[-69.267593383789,-32.895660400391,-69.25952911377,-32.878578186035],"coordinates":[[[[-69.267593,-32.878578],[-69.259697,-32.880596],[-69.259529,-32.883766],[-69.261246,-32.89566],[-69.266052,-32.894577],[-69.267593,-32.878578]]]],"created":1292520657,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/465509_20101216_67e1b62f68.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705503,
+  "type": "Feature",
+  "properties": {
+    "name":"Werneck, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":705503,
+    "woe:name":"Werneck, Bavaria, Germany",
+    "woe:place_id":"07tE68ueAZlQFOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.1,49.978832,10.10225,49.990002],
+  "geometry": {"alpha":0.00015,"bbox":[10.10000038147,49.978832244873,10.102250099182,49.990001678467],"coordinates":[[[[10.1005,49.978832],[10.1,49.990002],[10.10225,49.985359],[10.102167,49.9795],[10.1005,49.978832]]]],"created":1292475302,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/705503_20101216_fe791dfccf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

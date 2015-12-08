@@ -1,0 +1,15 @@
+{
+  "id": 12629345,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kanzem, Germany",
+    "placetype":"locality",
+    "woe:id":12629345,
+    "woe:name":"Gemeinde Kanzem, Germany",
+    "woe:place_id":"ISsiY9uYA5o8RqyUCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.570777,49.665073,6.577484,49.670502],
+  "geometry": {"alpha":1e-05,"bbox":[6.5707769393921,49.665073394775,6.5774841308594,49.670501708984],"coordinates":[[[[6.570777,49.666592],[6.572419,49.667053],[6.577484,49.670502],[6.57463,49.665073],[6.574115,49.665352],[6.570777,49.666592]]]],"created":1292550603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12629345_20101217_799f84804d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

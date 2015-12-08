@@ -1,0 +1,15 @@
+{
+  "id": 23394697,
+  "type": "Feature",
+  "properties": {
+    "name":"Abercorn, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394697,
+    "woe:name":"Abercorn, Quebec, Canada",
+    "woe:place_id":"qfgSURibAp9RRmYifw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.673882,44.997753,-72.663872,45.000404],
+  "geometry": {"alpha":0.00015,"bbox":[-72.673881530762,44.997753143311,-72.663871765137,45.00040435791],"coordinates":[[[[-72.663872,45.000099],[-72.66658,44.999008],[-72.673882,44.997753],[-72.664474,45.000404],[-72.663872,45.000099]]]],"created":1234876087,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3283/shapefiles/23394697_20090217_99995370c2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 152906,
+  "type": "Feature",
+  "properties": {
+    "name":"Jalapa, Nueva Segovia, Nicaragua",
+    "placetype":"locality",
+    "woe:id":152906,
+    "woe:name":"Jalapa, Nueva Segovia, Nicaragua",
+    "woe:place_id":"1bewnHSYBJ4AEDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.140022,13.90775,-86.117088,13.922487],
+  "geometry": {"alpha":0.00015,"bbox":[-86.140022277832,13.9077501297,-86.117088317871,13.922487258911],"coordinates":[[[[-86.130577,13.920071],[-86.124489,13.922487],[-86.117088,13.90775],[-86.140022,13.90974],[-86.135384,13.918155],[-86.130577,13.920071]]]],"created":1292541390,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/152906_20101216_fd8a2c4350.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

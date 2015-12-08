@@ -1,0 +1,15 @@
+{
+  "id": 638243,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":638243,
+    "woe:name":"Berlin, Schleswig-Holstein, Germany",
+    "woe:place_id":"FXldrhyfApQTjnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.441539,54.0345,10.449811,54.037193],
+  "geometry": {"alpha":0.00015,"bbox":[10.44153881073,54.03450012207,10.44981098175,54.03719329834],"coordinates":[[[[10.44612,54.036613],[10.446635,54.036434],[10.447568,54.036068],[10.449811,54.0345],[10.446029,54.035717],[10.44186,54.036369],[10.441539,54.0364],[10.443792,54.037193],[10.44612,54.036613]]]],"created":1292538449,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/638243_20101216_f5091a0f76.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2429652,
+  "type": "Feature",
+  "properties": {
+    "name":"Johnstons Corner, California, United States",
+    "placetype":"locality",
+    "woe:id":2429652,
+    "woe:name":"Johnstons Corner, California, United States",
+    "woe:place_id":"dP3U6LebBZ4Ptc1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.198875,34.825077,-117.175369,34.843834],
+  "geometry": {"alpha":0.00015,"bbox":[-117.19887542725,34.825077056885,-117.1753692627,34.84383392334],"coordinates":[[[[-117.178284,34.830502],[-117.175369,34.825077],[-117.18589,34.834068],[-117.198875,34.843834],[-117.185928,34.834305],[-117.178284,34.830502]]]],"created":1292522113,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2429652_20101216_70b67f0fd5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

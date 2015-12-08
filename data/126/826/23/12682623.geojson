@@ -1,0 +1,15 @@
+{
+  "id": 12682623,
+  "type": "Feature",
+  "properties": {
+    "name":"Pettenasco, Italy",
+    "placetype":"locality",
+    "woe:id":12682623,
+    "woe:name":"Pettenasco, Italy",
+    "woe:place_id":"Rx21T2aYA5o0CWielA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.402019,45.817554,8.407888,45.826645],
+  "geometry": {"alpha":1e-05,"bbox":[8.4020185470581,45.817554473877,8.4078884124756,45.826644897461],"coordinates":[[[[8.402019,45.821934],[8.403167,45.823055],[8.405055,45.826645],[8.405163,45.82325],[8.407888,45.817554],[8.404283,45.818153],[8.402019,45.821934]]]],"created":1292540734,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12682623_20101216_8047c87fb8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

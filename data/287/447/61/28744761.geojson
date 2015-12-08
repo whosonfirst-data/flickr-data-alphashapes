@@ -1,0 +1,15 @@
+{
+  "id": 28744761,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfield, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744761,
+    "woe:name":"Fairfield, Pennsylvania, United States",
+    "woe:place_id":"sFczr0.bCZupoPhqhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.150826,40.300655,-79.139626,40.322006],
+  "geometry": {"alpha":0.00015,"bbox":[-79.150825500488,40.30065536499,-79.139625549316,40.322006225586],"coordinates":[[[[-79.150169,40.30225],[-79.150826,40.302422],[-79.149185,40.302769],[-79.139626,40.322006],[-79.145248,40.300655],[-79.150169,40.30225]]]],"created":1292551280,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/28744761_20101217_a16a9bb9c8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

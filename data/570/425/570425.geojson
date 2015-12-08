@@ -1,0 +1,15 @@
+{
+  "id": 570425,
+  "type": "Feature",
+  "properties": {
+    "name":"Nousiainen, Western Finland, Finland",
+    "placetype":"locality",
+    "woe:id":570425,
+    "woe:name":"Nousiainen, Western Finland, Finland",
+    "woe:place_id":"2a83aN.cBpyrmPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.080721,60.588856,22.091957,60.600578],
+  "geometry": {"alpha":0.00029296875,"bbox":[22.080720901489,60.588855743408,22.091957092285,60.600578308105],"coordinates":[[[[22.091957,60.588856],[22.089525,60.592415],[22.08139,60.599197],[22.080721,60.600578],[22.085352,60.597038],[22.091593,60.5947],[22.091957,60.588856]]]],"created":1247909406,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2504/shapefiles/570425_20090718_c5a1db87aa.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

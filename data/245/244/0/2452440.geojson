@@ -1,0 +1,15 @@
+{
+  "id": 2452440,
+  "type": "Feature",
+  "properties": {
+    "name":"Mitchell Corner, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2452440,
+    "woe:name":"Mitchell Corner, Oregon, United States",
+    "woe:place_id":".FT.vEabBZmaJuVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.003441,44.937706,-122.983253,44.944073],
+  "geometry": {"alpha":0.00015,"bbox":[-123.00344085693,44.937705993652,-122.983253479,44.944072723389],"coordinates":[[[[-122.987595,44.943108],[-122.983353,44.944073],[-122.983253,44.94191],[-122.983704,44.937706],[-122.994324,44.938072],[-123.003441,44.939011],[-122.987595,44.943108]]]],"created":1292493907,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2452440_20101216_58bfe91b06.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

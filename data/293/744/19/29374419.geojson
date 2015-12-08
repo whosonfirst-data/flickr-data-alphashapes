@@ -1,0 +1,15 @@
+{
+  "id": 29374419,
+  "type": "Feature",
+  "properties": {
+    "name":"Tinker, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":29374419,
+    "woe:name":"Tinker, New Brunswick, Canada",
+    "woe:place_id":"H9KN02GbCJ8D.BfuSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.812164,46.789734,-67.791397,46.801762],
+  "geometry": {"alpha":0.00015,"bbox":[-67.812164306641,46.789733886719,-67.791397094727,46.801761627197],"coordinates":[[[[-67.796509,46.789734],[-67.812164,46.792332],[-67.791397,46.801762],[-67.792252,46.796268],[-67.794868,46.791851],[-67.796509,46.789734]]]],"created":1292526872,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/29374419_20101216_4df3ba87c9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12650108,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberbruck, France",
+    "placetype":"locality",
+    "woe:id":12650108,
+    "woe:name":"Oberbruck, France",
+    "woe:place_id":"ipvmJiCYA5pjpIJVtA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.903018,47.829174,6.909542,47.833729],
+  "geometry": {"alpha":1e-05,"bbox":[6.9030179977417,47.829174041748,6.9095420837402,47.833728790283],"coordinates":[[[[6.909542,47.832054],[6.90731,47.832748],[6.906623,47.832516],[6.903018,47.829174],[6.903362,47.833729],[6.906623,47.832516],[6.909542,47.832054]]]],"created":1292534749,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12650108_20101216_3915d3cc25.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

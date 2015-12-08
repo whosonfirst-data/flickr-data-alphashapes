@@ -1,0 +1,15 @@
+{
+  "id": 2381301,
+  "type": "Feature",
+  "properties": {
+    "name":"Clearwater, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2381301,
+    "woe:name":"Clearwater, South Carolina, United States",
+    "woe:place_id":"XWdDl7mbApSkq.cq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.899277,33.499783,-81.894775,33.504562],
+  "geometry": {"alpha":0.00015,"bbox":[-81.899276733398,33.499782562256,-81.894775390625,33.50456237793],"coordinates":[[[[-81.899277,33.504562],[-81.895523,33.503185],[-81.894775,33.500675],[-81.894867,33.499783],[-81.899094,33.50304],[-81.899277,33.504562]]]],"created":1292517424,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2381301_20101216_73233ccfbd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

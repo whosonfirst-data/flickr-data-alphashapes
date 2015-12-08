@@ -1,0 +1,15 @@
+{
+  "id": 2506724,
+  "type": "Feature",
+  "properties": {
+    "name":"Titus, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2506724,
+    "woe:name":"Titus, Georgia, United States",
+    "woe:place_id":"FG9GK5ibBJw6EXgV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.648842,34.930172,-83.636887,34.949242],
+  "geometry": {"alpha":0.00015,"bbox":[-83.64884185791,34.930171966553,-83.63688659668,34.949241638184],"coordinates":[[[[-83.645897,34.937328],[-83.636887,34.949242],[-83.645729,34.937126],[-83.645645,34.934124],[-83.648842,34.930172],[-83.645897,34.937328]]]],"created":1292454587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2506724_20101215_e10d8286e7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

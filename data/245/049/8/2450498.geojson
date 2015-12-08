@@ -1,0 +1,15 @@
+{
+  "id": 2450498,
+  "type": "Feature",
+  "properties": {
+    "name":"Midland Junction, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2450498,
+    "woe:name":"Midland Junction, Minnesota, United States",
+    "woe:place_id":"5nRfw2abBZm8TfQz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.998993,44.317337,-91.988953,44.333118],
+  "geometry": {"alpha":0.00015,"bbox":[-91.998992919922,44.317337036133,-91.988952636719,44.333118438721],"coordinates":[[[[-91.998055,44.317337],[-91.998306,44.318108],[-91.998993,44.329651],[-91.988953,44.333118],[-91.998138,44.317829],[-91.998055,44.317337]]]],"created":1292533326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2450498_20101216_2bf78b638b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

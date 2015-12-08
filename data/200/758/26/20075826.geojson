@@ -1,0 +1,15 @@
+{
+  "id": 20075826,
+  "type": "Feature",
+  "properties": {
+    "name":"Albugnano, Italy",
+    "placetype":"locality",
+    "woe:id":20075826,
+    "woe:name":"Albugnano, Italy",
+    "woe:place_id":"w1PGyyubAZwClHdjiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.958049,45.079216,7.967662,45.084064],
+  "geometry": {"alpha":1e-05,"bbox":[7.9580488204956,45.079216003418,7.967661857605,45.084064483643],"coordinates":[[[[7.963092,45.079613],[7.958049,45.080734],[7.963113,45.082672],[7.964916,45.084064],[7.967662,45.079216],[7.964975,45.07933],[7.963092,45.079613]]]],"created":1292550546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/20075826_20101217_672abf294c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

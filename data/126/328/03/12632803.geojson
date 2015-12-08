@@ -1,0 +1,15 @@
+{
+  "id": 12632803,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wolfhagen, Germany",
+    "placetype":"locality",
+    "woe:id":12632803,
+    "woe:name":"Gemeinde Wolfhagen, Germany",
+    "woe:place_id":"fYOX6qWYA5r9F1NSKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.141998,51.278774,9.145646,51.282372],
+  "geometry": {"alpha":1e-05,"bbox":[9.1419982910156,51.278774261475,9.1456460952759,51.282371520996],"coordinates":[[[[9.142073,51.280994],[9.141998,51.282372],[9.145646,51.281918],[9.144229,51.278774],[9.142138,51.280952],[9.142073,51.280994]]]],"created":1292541893,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12632803_20101216_cc175bf37a.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

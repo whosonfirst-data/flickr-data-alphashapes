@@ -1,0 +1,15 @@
+{
+  "id": 39000,
+  "type": "Feature",
+  "properties": {
+    "name":"Walkern, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39000,
+    "woe:name":"Walkern, England, United Kingdom",
+    "woe:place_id":"P6JH17yaCJxVTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.13102,51.907585,-0.110721,51.925953],
+  "geometry": {"alpha":0.00015,"bbox":[-0.13101999461651,51.907585144043,-0.1107209995389,51.925952911377],"coordinates":[[[[-0.126128,51.924129],[-0.121192,51.925953],[-0.117116,51.918373],[-0.110721,51.907585],[-0.13102,51.916096],[-0.129497,51.917671],[-0.126128,51.924129]]]],"created":1292518151,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/39000_20101216_26dab51393.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

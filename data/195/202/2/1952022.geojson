@@ -1,0 +1,15 @@
+{
+  "id": 1952022,
+  "type": "Feature",
+  "properties": {
+    "name":"Surakhany, Baki, Azerbaijan",
+    "placetype":"locality",
+    "woe:id":1952022,
+    "woe:name":"Surakhany, Baki, Azerbaijan",
+    "woe:place_id":"R3QysrWYCJnP32ae",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [50.040665,40.458378,50.057701,40.465363],
+  "geometry": {"alpha":0.00015,"bbox":[50.040664672852,40.458377838135,50.05770111084,40.465362548828],"coordinates":[[[[50.049591,40.46262],[50.049751,40.462528],[50.057701,40.458378],[50.049419,40.46236],[50.040665,40.46027],[50.041779,40.465363],[50.049591,40.46262]]]],"created":1292537820,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/1952022_20101216_0211961ff7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

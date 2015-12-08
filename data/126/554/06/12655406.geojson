@@ -1,0 +1,15 @@
+{
+  "id": 12655406,
+  "type": "Feature",
+  "properties": {
+    "name":"Arboras, France",
+    "placetype":"locality",
+    "woe:id":12655406,
+    "woe:name":"Arboras, France",
+    "woe:place_id":"wQuVzcaYA5oMpMOVYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.485584,43.742256,3.485986,43.743568],
+  "geometry": {"alpha":1e-05,"bbox":[3.4855840206146,43.742256164551,3.485985994339,43.74356842041],"coordinates":[[[[3.485799,43.742702],[3.485584,43.743568],[3.485755,43.743134],[3.485927,43.742577],[3.485986,43.742256],[3.485799,43.742702]]]],"created":1292523416,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12655406_20101216_c70a5fc737.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

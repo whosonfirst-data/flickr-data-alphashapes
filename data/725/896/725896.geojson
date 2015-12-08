@@ -1,0 +1,15 @@
+{
+  "id": 725896,
+  "type": "Feature",
+  "properties": {
+    "name":"Vicovaro, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":725896,
+    "woe:name":"Vicovaro, Lazio, Italy",
+    "woe:place_id":"RSLdOV2eA5kVqjI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.887477,42.00753,12.907283,42.018471],
+  "geometry": {"alpha":0.00015,"bbox":[12.887476921082,42.007530212402,12.907282829285,42.01847076416],"coordinates":[[[[12.892434,42.015919],[12.894515,42.017288],[12.904515,42.018471],[12.907283,42.016254],[12.89406,42.015629],[12.887477,42.00753],[12.892434,42.015919]]]],"created":1292545983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/725896_20101217_13459c358e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

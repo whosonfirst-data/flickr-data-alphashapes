@@ -1,0 +1,15 @@
+{
+  "id": 2422188,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillside, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2422188,
+    "woe:name":"Hillside, Washington, United States",
+    "woe:place_id":"nDsJfSybBZ45FkxO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.58342,47.102264,-122.573944,47.108768],
+  "geometry": {"alpha":0.00015,"bbox":[-122.5834197998,47.102264404297,-122.5739440918,47.108768463135],"coordinates":[[[[-122.58342,47.106056],[-122.579834,47.108002],[-122.577682,47.108768],[-122.573944,47.103668],[-122.578407,47.102264],[-122.58342,47.106056]]]],"created":1292374682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2422188_20101215_ff8bb353c2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

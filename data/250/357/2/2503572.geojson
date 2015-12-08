@@ -1,0 +1,15 @@
+{
+  "id": 2503572,
+  "type": "Feature",
+  "properties": {
+    "name":"Taft, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2503572,
+    "woe:name":"Taft, North Dakota, United States",
+    "woe:place_id":"8W6iKx6bBJwRWDF3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.07357,47.441467,-97.069695,47.460487],
+  "geometry": {"alpha":0.00015,"bbox":[-97.073570251465,47.441467285156,-97.069694519043,47.460487365723],"coordinates":[[[[-97.070236,47.454334],[-97.069695,47.441467],[-97.07357,47.45435],[-97.070152,47.460487],[-97.070152,47.460472],[-97.070236,47.454334]]]],"created":1292469905,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2503572_20101216_f6cb982e3b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

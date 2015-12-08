@@ -1,0 +1,15 @@
+{
+  "id": 2490540,
+  "type": "Feature",
+  "properties": {
+    "name":"Sedgwick, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2490540,
+    "woe:name":"Sedgwick, Colorado, United States",
+    "woe:place_id":"8B9DvoqbBZU6l_EI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.52536,40.901058,-102.505531,40.907608],
+  "geometry": {"alpha":0.00015,"bbox":[-102.52536010742,40.901058197021,-102.50553131104,40.907608032227],"coordinates":[[[[-102.518402,40.90456],[-102.516861,40.906116],[-102.505531,40.907608],[-102.518105,40.90406],[-102.52536,40.901058],[-102.518402,40.90456]]]],"created":1292512868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2490540_20101216_9a2e528f89.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

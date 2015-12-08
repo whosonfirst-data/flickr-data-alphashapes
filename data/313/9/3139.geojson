@@ -1,0 +1,15 @@
+{
+  "id": 3139,
+  "type": "Feature",
+  "properties": {
+    "name":"Fauquier, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3139,
+    "woe:name":"Fauquier, Ontario, Canada",
+    "woe:place_id":"oDoKaVWaAJ9r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.042038,49.311806,-82.03611,49.31382],
+  "geometry": {"alpha":0.00015,"bbox":[-82.042037963867,49.311805725098,-82.036109924316,49.313819885254],"coordinates":[[[[-82.036629,49.31382],[-82.03611,49.311806],[-82.039886,49.312084],[-82.042038,49.312786],[-82.041695,49.312805],[-82.036629,49.31382]]]],"created":1292446757,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/3139_20101215_7d0f50d8b2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

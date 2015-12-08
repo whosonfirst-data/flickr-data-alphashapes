@@ -1,0 +1,15 @@
+{
+  "id": 715375,
+  "type": "Feature",
+  "properties": {
+    "name":"Fellini, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":715375,
+    "woe:name":"Fellini, Puglia, Italy",
+    "woe:place_id":"BodP8QCeAJkk2Vw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.114052,39.935513,18.11832,39.940147],
+  "geometry": {"alpha":0.00015,"bbox":[18.114051818848,39.935512542725,18.118320465088,39.940147399902],"coordinates":[[[[18.116005,39.936626],[18.115425,39.937908],[18.114052,39.940147],[18.116455,39.93837],[18.117485,39.937645],[18.11832,39.935513],[18.116005,39.936626]]]],"created":1292523964,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/715375_20101216_d0581b761d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

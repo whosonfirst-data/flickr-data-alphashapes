@@ -1,0 +1,15 @@
+{
+  "id": 20075359,
+  "type": "Feature",
+  "properties": {
+    "name":"Wiltz, Luxembourg",
+    "placetype":"locality",
+    "woe:id":20075359,
+    "woe:name":"Wiltz, Luxembourg",
+    "woe:place_id":"8MgJpXqbAZz7nnMGYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.933089,49.957268,5.935084,49.965328],
+  "geometry": {"alpha":1e-05,"bbox":[5.9330887794495,49.95726776123,5.9350838661194,49.965328216553],"coordinates":[[[[5.933636,49.960625],[5.934269,49.957268],[5.933089,49.960239],[5.93311,49.960552],[5.935084,49.965328],[5.933636,49.960625]]]],"created":1292539924,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20075359_20101216_139ba7daa0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

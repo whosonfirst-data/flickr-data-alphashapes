@@ -1,0 +1,15 @@
+{
+  "id": 2435163,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Shores, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2435163,
+    "woe:name":"Lake Shores, South Carolina, United States",
+    "woe:place_id":"DTzCDNCbBZ9QinEo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.064995,34.273956,-82.053024,34.293816],
+  "geometry": {"alpha":0.00015,"bbox":[-82.064994812012,34.273956298828,-82.053024291992,34.293815612793],"coordinates":[[[[-82.063065,34.285156],[-82.063271,34.293816],[-82.053024,34.286652],[-82.053108,34.273956],[-82.064995,34.2761],[-82.063065,34.285156]]]],"created":1292519359,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2435163_20101216_683212c07a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

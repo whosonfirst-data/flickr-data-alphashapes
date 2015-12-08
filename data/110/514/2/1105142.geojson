@@ -1,0 +1,15 @@
+{
+  "id": 1105142,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Vincent, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105142,
+    "woe:name":"Port Vincent, South Australia, Australia",
+    "woe:place_id":"mSmdK.KYAJxBQEFT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [137.855072,-34.783356,137.874298,-34.772076],
+  "geometry": {"alpha":0.00015,"bbox":[137.85507202148,-34.783355712891,137.8742980957,-34.772075653076],"coordinates":[[[[137.858337,-34.779057],[137.855072,-34.772076],[137.859543,-34.775711],[137.861938,-34.777504],[137.874298,-34.783005],[137.861252,-34.783356],[137.858337,-34.779057]]]],"created":1292545248,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1105142_20101217_843dea2b99.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

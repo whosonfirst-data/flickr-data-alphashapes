@@ -1,0 +1,15 @@
+{
+  "id": 12665404,
+  "type": "Feature",
+  "properties": {
+    "name":"Saou, France",
+    "placetype":"locality",
+    "woe:id":12665404,
+    "woe:name":"Saou, France",
+    "woe:place_id":"6QVhqVWYA5o1aBsK1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.097064,44.645695,5.105428,44.652279],
+  "geometry": {"alpha":1e-05,"bbox":[5.0970640182495,44.645694732666,5.1054282188416,44.652278900146],"coordinates":[[[[5.099641,44.650272],[5.097064,44.652279],[5.101005,44.651009],[5.105428,44.6483],[5.101261,44.645695],[5.099641,44.650272]]]],"created":1292550723,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12665404_20101217_0b3fb2d4f0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2437909,
+  "type": "Feature",
+  "properties": {
+    "name":"Leesburg, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2437909,
+    "woe:name":"Leesburg, Indiana, United States",
+    "woe:place_id":"mQ24v2ebBZ91MmNM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.854889,41.323586,-85.844505,41.332031],
+  "geometry": {"alpha":0.00015,"bbox":[-85.854888916016,41.323585510254,-85.844505310059,41.33203125],"coordinates":[[[[-85.854889,41.332031],[-85.850266,41.331772],[-85.844505,41.323586],[-85.853516,41.331226],[-85.854889,41.332031]]]],"created":1248070811,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3518/shapefiles/2437909_20090720_b453070be4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

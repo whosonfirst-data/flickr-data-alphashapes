@@ -1,0 +1,15 @@
+{
+  "id": 2495880,
+  "type": "Feature",
+  "properties": {
+    "name":"Souris, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2495880,
+    "woe:name":"Souris, North Dakota, United States",
+    "woe:place_id":"vN.oHvqbBZVA5hn.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.682404,48.908516,-100.681374,48.912304],
+  "geometry": {"alpha":0.00015,"bbox":[-100.68240356445,48.908515930176,-100.68137359619,48.912303924561],"coordinates":[[[[-100.681374,48.909893],[-100.681778,48.908516],[-100.682404,48.912277],[-100.682274,48.912304],[-100.681755,48.910782],[-100.681374,48.909893]]]],"created":1292523339,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2495880_20101216_a7e2b936f8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

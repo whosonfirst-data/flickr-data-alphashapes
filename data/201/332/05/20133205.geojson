@@ -1,0 +1,15 @@
+{
+  "id": 20133205,
+  "type": "Feature",
+  "properties": {
+    "name":"Morre, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20133205,
+    "woe:name":"Morre, Umbria, Italy",
+    "woe:place_id":"wrLvtmObAZ016T_BmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.338333,42.703346,12.354033,42.709274],
+  "geometry": {"alpha":0.00015,"bbox":[12.338333129883,42.703346252441,12.354033470154,42.709274291992],"coordinates":[[[[12.339333,42.704666],[12.338333,42.70792],[12.344309,42.709274],[12.354033,42.704525],[12.343311,42.703346],[12.339333,42.704666]]]],"created":1292526985,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20133205_20101216_c86d1a593e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

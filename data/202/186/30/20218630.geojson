@@ -1,0 +1,15 @@
+{
+  "id": 20218630,
+  "type": "Feature",
+  "properties": {
+    "name":"Brighton, Picardie, France",
+    "placetype":"locality",
+    "woe:id":20218630,
+    "woe:name":"Brighton, Picardie, France",
+    "woe:place_id":"LrV1EDGbAZ4Sopa9Jg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.501865,50.194733,1.514225,50.199593],
+  "geometry": {"alpha":0.00015,"bbox":[1.501865029335,50.194732666016,1.5142250061035,50.199592590332],"coordinates":[[[[1.511311,50.194733],[1.501865,50.196735],[1.51225,50.199593],[1.514225,50.198002],[1.513195,50.195251],[1.511311,50.194733]]]],"created":1292549934,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20218630_20101217_054e03ceb9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

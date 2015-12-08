@@ -1,0 +1,15 @@
+{
+  "id": 2483853,
+  "type": "Feature",
+  "properties": {
+    "name":"Roebuck, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2483853,
+    "woe:name":"Roebuck, Virginia, United States",
+    "woe:place_id":"QGU08QSbBZTVoYvf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.092506,36.755966,-82.08297,36.776291],
+  "geometry": {"alpha":0.00015,"bbox":[-82.092506408691,36.755966186523,-82.082969665527,36.776290893555],"coordinates":[[[[-82.08297,36.757416],[-82.083054,36.755966],[-82.083984,36.756901],[-82.092506,36.776291],[-82.083153,36.757599],[-82.08297,36.757416]]]],"created":1292535328,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2483853_20101216_3d27a15ac7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

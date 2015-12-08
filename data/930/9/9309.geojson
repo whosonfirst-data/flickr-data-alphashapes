@@ -1,0 +1,15 @@
+{
+  "id": 9309,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Post, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9309,
+    "woe:name":"Lower Post, British Columbia, Canada",
+    "woe:place_id":"ETCmYHCQApzE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-128.496094,59.91674,-128.490601,59.925678],
+  "geometry": {"alpha":0.00015,"bbox":[-128.49609375,59.91674041748,-128.49060058594,59.925678253174],"coordinates":[[[[-128.496094,59.923798],[-128.495117,59.925678],[-128.490601,59.921902],[-128.491974,59.919365],[-128.49472,59.91674],[-128.496094,59.923538],[-128.496094,59.923798]]]],"created":1292541854,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/9309_20101216_a6fe4d2c49.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

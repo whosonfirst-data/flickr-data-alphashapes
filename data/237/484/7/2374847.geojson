@@ -1,0 +1,15 @@
+{
+  "id": 2374847,
+  "type": "Feature",
+  "properties": {
+    "name":"Carbondale, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2374847,
+    "woe:name":"Carbondale, Iowa, United States",
+    "woe:place_id":"lc5ZqFqbAptBjfzH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.514763,41.57539,-93.498962,41.600517],
+  "geometry": {"alpha":0.00015,"bbox":[-93.514762878418,41.575389862061,-93.498962402344,41.600517272949],"coordinates":[[[[-93.498962,41.593292],[-93.500862,41.582321],[-93.514763,41.57539],[-93.512138,41.579208],[-93.514763,41.600517],[-93.498962,41.593292]]]],"created":1239186489,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3537/shapefiles/2374847_20090408_441f573f54.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

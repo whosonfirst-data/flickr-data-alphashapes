@@ -1,0 +1,15 @@
+{
+  "id": 12687788,
+  "type": "Feature",
+  "properties": {
+    "name":"Arnedillo, Spain",
+    "placetype":"locality",
+    "woe:id":12687788,
+    "woe:name":"Arnedillo, Spain",
+    "woe:place_id":"x3dGrwCYA5q4YY8lzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.237434,42.2132,-2.231238,42.217075],
+  "geometry": {"alpha":1e-05,"bbox":[-2.2374339103699,42.213199615479,-2.2312378883362,42.2170753479],"coordinates":[[[[-2.235546,42.217075],[-2.231238,42.215698],[-2.234001,42.215042],[-2.237434,42.2132],[-2.237091,42.216568],[-2.235546,42.217075]]]],"created":1292529286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12687788_20101216_fc0e9e730f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23414034,
+  "type": "Feature",
+  "properties": {
+    "name":"Freixedo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":23414034,
+    "woe:name":"Freixedo, Galicia, Spain",
+    "woe:place_id":"tWsScVebAphTY.H1AA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.952226,42.752022,-8.948925,42.753834],
+  "geometry": {"alpha":0.00015,"bbox":[-8.9522256851196,42.752021789551,-8.9489250183105,42.753833770752],"coordinates":[[[[-8.951625,42.752022],[-8.952226,42.753662],[-8.951261,42.753834],[-8.94944,42.753819],[-8.948925,42.753567],[-8.951625,42.752022]]]],"created":1292445945,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/23414034_20101215_4d7971a014.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

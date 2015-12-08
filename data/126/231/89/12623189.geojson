@@ -1,0 +1,15 @@
+{
+  "id": 12623189,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neuffen, Germany",
+    "placetype":"locality",
+    "woe:id":12623189,
+    "woe:name":"Gemeinde Neuffen, Germany",
+    "woe:place_id":"LPA5HVmYA5o.4vGFGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.388054,48.554398,9.392452,48.561329],
+  "geometry": {"alpha":1e-05,"bbox":[9.388053894043,48.554397583008,9.3924522399902,48.561328887939],"coordinates":[[[[9.392452,48.555592],[9.39022,48.554398],[9.388054,48.559101],[9.390563,48.561329],[9.390306,48.559055],[9.392452,48.555592]]]],"created":1292544789,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12623189_20101217_c1f5aa26f6.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

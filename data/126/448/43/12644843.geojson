@@ -1,0 +1,15 @@
+{
+  "id": 12644843,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Georges, France",
+    "placetype":"locality",
+    "woe:id":12644843,
+    "woe:name":"St.-Georges, France",
+    "woe:place_id":"NPKc90KYA5omQnRurA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.122201,45.013382,3.137356,45.024178],
+  "geometry": {"alpha":4.0690104166667e-05,"bbox":[3.1222009658813,45.013381958008,3.1373560428619,45.02417755127],"coordinates":[[[[3.128432,45.0173],[3.12768,45.018661],[3.12415,45.022499],[3.122201,45.024178],[3.12341,45.023335],[3.124159,45.022495],[3.130494,45.018166],[3.137356,45.013382],[3.131058,45.015949],[3.128432,45.0173]]]],"created":1292536118,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12644843_20101216_ff0cd8fbf3.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

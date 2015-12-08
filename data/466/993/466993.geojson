@@ -1,0 +1,15 @@
+{
+  "id": 466993,
+  "type": "Feature",
+  "properties": {
+    "name":"Lincoln, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":466993,
+    "woe:name":"Lincoln, Buenos Aires, Argentina",
+    "woe:place_id":"yXNE5gedB5pk5p4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.536484,-34.863255,-61.530304,-34.861145],
+  "geometry": {"alpha":0.00015,"bbox":[-61.536483764648,-34.863254547119,-61.530303955078,-34.861145019531],"coordinates":[[[[-61.530304,-34.863186],[-61.532021,-34.863186],[-61.536484,-34.863255],[-61.535797,-34.861145],[-61.532707,-34.862411],[-61.530304,-34.863186]]]],"created":1239667565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3356/shapefiles/466993_20090414_15fb2f656a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

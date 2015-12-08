@@ -1,0 +1,15 @@
+{
+  "id": 2361348,
+  "type": "Feature",
+  "properties": {
+    "name":"Beechgrove, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2361348,
+    "woe:name":"Beechgrove, Tennessee, United States",
+    "woe:place_id":"IHszzjSbApqXCRvY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.255379,35.613487,-86.226929,35.637558],
+  "geometry": {"alpha":0.00015,"bbox":[-86.255378723145,35.613487243652,-86.226928710938,35.637557983398],"coordinates":[[[[-86.238167,35.626011],[-86.226929,35.613487],[-86.242836,35.615665],[-86.255379,35.629536],[-86.248466,35.637558],[-86.238167,35.626011]]]],"created":1292528218,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2361348_20101216_ae1127325e.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

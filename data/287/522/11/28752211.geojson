@@ -1,0 +1,15 @@
+{
+  "id": 28752211,
+  "type": "Feature",
+  "properties": {
+    "name":"East District, Taiwan",
+    "placetype":"locality",
+    "woe:id":28752211,
+    "woe:name":"East District, Taiwan",
+    "woe:place_id":"CxMphRCbCZvZvBAWEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.031715,24.823446,121.031799,24.823544],
+  "geometry": {"alpha":1e-05,"bbox":[121.03171539307,24.823446273804,121.03179931641,24.823543548584],"coordinates":[[[[121.031769,24.823544],[121.031776,24.823542],[121.031792,24.823513],[121.031799,24.823486],[121.031754,24.823463],[121.031715,24.823446],[121.031769,24.823544]]]],"created":1292446285,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/28752211_20101215_1e94b01b8d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12693385,
+  "type": "Feature",
+  "properties": {
+    "name":"Argentona, Spain",
+    "placetype":"locality",
+    "woe:id":12693385,
+    "woe:name":"Argentona, Spain",
+    "woe:place_id":"AyGnbLOYA5qkDZ4HhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.396382,41.549721,2.40366,41.557137],
+  "geometry": {"alpha":1e-05,"bbox":[2.3963820934296,41.54972076416,2.4036600589752,41.557136535645],"coordinates":[[[[2.397894,41.551113],[2.396382,41.549721],[2.396736,41.554325],[2.400941,41.557137],[2.40366,41.556412],[2.400341,41.552784],[2.397894,41.551113]]]],"created":1292542991,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12693385_20101216_30a984e60c.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

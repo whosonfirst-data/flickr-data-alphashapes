@@ -1,0 +1,15 @@
+{
+  "id": 29374128,
+  "type": "Feature",
+  "properties": {
+    "name":"Chisasibi, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":29374128,
+    "woe:name":"Chisasibi, Quebec, Canada",
+    "woe:place_id":"d9sELiybCJ8lu0w0YA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.400711,53.66354,-78.400696,53.663559],
+  "geometry": {"alpha":0.00015,"bbox":[-78.40071105957,53.663539886475,-78.400695800781,53.663558959961],"coordinates":[[[[-78.400696,53.663551],[-78.400696,53.66354],[-78.400703,53.66354],[-78.400711,53.663544],[-78.400703,53.663559],[-78.400696,53.663551]]]],"created":1292442487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/29374128_20101215_733150f06e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

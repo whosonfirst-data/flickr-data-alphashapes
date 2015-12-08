@@ -1,0 +1,15 @@
+{
+  "id": 448364,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Felicidade, Parana, Brazil",
+    "placetype":"locality",
+    "woe:id":448364,
+    "woe:name":"Santa Felicidade, Parana, Brazil",
+    "woe:place_id":"uipkd7idBZSIGqU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-49.333591,-25.405279,-49.327301,-25.385586],
+  "geometry": {"alpha":0.00015,"bbox":[-49.333591461182,-25.405279159546,-49.327301025391,-25.385585784912],"coordinates":[[[[-49.327732,-25.40464],[-49.328312,-25.405279],[-49.333591,-25.402809],[-49.330769,-25.385586],[-49.327301,-25.395729],[-49.327732,-25.40464]]]],"created":1292528054,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/448364_20101216_a93d9cdf0d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

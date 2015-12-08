@@ -1,0 +1,15 @@
+{
+  "id": 700572,
+  "type": "Feature",
+  "properties": {
+    "name":"Umrathshausen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":700572,
+    "woe:name":"Umrathshausen, Bavaria, Germany",
+    "woe:place_id":"SZ9knaOeAZwNmbM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.317068,47.805489,12.324653,47.808125],
+  "geometry": {"alpha":0.00015,"bbox":[12.317068099976,47.805488586426,12.324652671814,47.808124542236],"coordinates":[[[[12.318935,47.807995],[12.320866,47.808025],[12.324653,47.807602],[12.324192,47.805759],[12.318248,47.805489],[12.317068,47.808125],[12.318935,47.807995]]]],"created":1292524088,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/700572_20101216_162b79e2a4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

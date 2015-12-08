@@ -1,0 +1,15 @@
+{
+  "id": 12623399,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hornberg, Germany",
+    "placetype":"locality",
+    "woe:id":12623399,
+    "woe:name":"Gemeinde Hornberg, Germany",
+    "woe:place_id":"HwHPCBGYA5pUhnJB7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.226399,48.206608,8.231871,48.211624],
+  "geometry": {"alpha":1e-05,"bbox":[8.2263994216919,48.206607818604,8.2318706512451,48.211624145508],"coordinates":[[[[8.22701,48.211624],[8.227751,48.211617],[8.227987,48.21146],[8.228716,48.21109],[8.231871,48.206608],[8.226399,48.209274],[8.22701,48.211624]]]],"created":1292536863,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12623399_20101216_8123df029e.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12625116,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Milz, Germany",
+    "placetype":"locality",
+    "woe:id":12625116,
+    "woe:name":"Gemeinde Milz, Germany",
+    "woe:place_id":"zOZ3DzOYA5omRHd.Uw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.534498,50.378674,10.536729,50.379879],
+  "geometry": {"alpha":1e-05,"bbox":[10.534498214722,50.378673553467,10.536728858948,50.379878997803],"coordinates":[[[[10.534498,50.378674],[10.535528,50.379879],[10.536043,50.379551],[10.536214,50.37944],[10.536729,50.379112],[10.534498,50.378674]]]],"created":1292536854,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12625116_20101216_cbe7e6f305.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

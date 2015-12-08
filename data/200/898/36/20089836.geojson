@@ -1,0 +1,15 @@
+{
+  "id": 20089836,
+  "type": "Feature",
+  "properties": {
+    "name":"Anaheilt, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20089836,
+    "woe:name":"Anaheilt, Scotland, United Kingdom",
+    "woe:place_id":"6h07qhCbAZxtaT_0tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.570883,56.700642,-5.554146,56.708225],
+  "geometry": {"alpha":0.00015,"bbox":[-5.5708827972412,56.70064163208,-5.5541458129883,56.708225250244],"coordinates":[[[[-5.567836,56.708225],[-5.554146,56.707355],[-5.561485,56.704082],[-5.570583,56.700642],[-5.570883,56.703655],[-5.567836,56.708225]]]],"created":1292529485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/20089836_20101216_dc40d4a45e.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

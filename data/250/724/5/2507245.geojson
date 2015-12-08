@@ -1,0 +1,15 @@
+{
+  "id": 2507245,
+  "type": "Feature",
+  "properties": {
+    "name":"Tormey, California, United States",
+    "placetype":"locality",
+    "woe:id":2507245,
+    "woe:name":"Tormey, California, United States",
+    "woe:place_id":"6Zk2U_ObBJz0KvUX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.24559,38.049103,-122.243073,38.054951],
+  "geometry": {"alpha":0.00015,"bbox":[-122.24559020996,38.049102783203,-122.24307250977,38.054950714111],"coordinates":[[[[-122.24559,38.049557],[-122.245193,38.053139],[-122.243958,38.054951],[-122.243202,38.050987],[-122.243073,38.049103],[-122.24559,38.049557]]]],"created":1292451988,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2507245_20101215_615872f52d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

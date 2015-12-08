@@ -1,0 +1,15 @@
+{
+  "id": 12673975,
+  "type": "Feature",
+  "properties": {
+    "name":"Frankenfels, Austria",
+    "placetype":"locality",
+    "woe:id":12673975,
+    "woe:name":"Frankenfels, Austria",
+    "woe:place_id":"lfk.yrCYA5rImDiSWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.274853,47.948513,15.275636,47.950165],
+  "geometry": {"alpha":1e-05,"bbox":[15.274852752686,47.948513031006,15.275635719299,47.950164794922],"coordinates":[[[[15.274853,47.950005],[15.275346,47.950165],[15.275636,47.949081],[15.275132,47.948513],[15.274853,47.950005]]]],"created":1234916306,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3142/shapefiles/12673975_20090218_d655db0ac0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

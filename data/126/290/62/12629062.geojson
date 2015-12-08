@@ -1,0 +1,15 @@
+{
+  "id": 12629062,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kyllburg, Germany",
+    "placetype":"locality",
+    "woe:id":12629062,
+    "woe:name":"Gemeinde Kyllburg, Germany",
+    "woe:place_id":"5PpOvLGYA5oQQYM1CA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.595466,50.037449,6.598448,50.04187],
+  "geometry": {"alpha":1e-05,"bbox":[6.5954661369324,50.037448883057,6.5984477996826,50.041870117188],"coordinates":[[[[6.595466,50.041859],[6.595594,50.04187],[6.595873,50.041843],[6.598448,50.037449],[6.595659,50.041721],[6.595466,50.041859]]]],"created":1292518815,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12629062_20101216_19ed8eb47f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

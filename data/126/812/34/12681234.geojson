@@ -1,0 +1,15 @@
+{
+  "id": 12681234,
+  "type": "Feature",
+  "properties": {
+    "name":"Porto Ceresio, Italy",
+    "placetype":"locality",
+    "woe:id":12681234,
+    "woe:name":"Porto Ceresio, Italy",
+    "woe:place_id":"oyF7TZWYA5pEePUkOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.905953,45.904823,8.910416,45.910522],
+  "geometry": {"alpha":1e-05,"bbox":[8.9059534072876,45.904823303223,8.9104156494141,45.910522460938],"coordinates":[[[[8.908882,45.904823],[8.905953,45.905666],[8.908946,45.91003],[8.910416,45.910522],[8.908882,45.904823]]]],"created":1292487661,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12681234_20101216_1640f5aed6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

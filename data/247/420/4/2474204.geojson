@@ -1,0 +1,15 @@
+{
+  "id": 2474204,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleasanton, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2474204,
+    "woe:name":"Pleasanton, Iowa, United States",
+    "woe:place_id":"WNISRKubBZuQUH7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.767899,40.5886,-93.754066,40.603951],
+  "geometry": {"alpha":0.00015,"bbox":[-93.76789855957,40.588600158691,-93.754066467285,40.603950500488],"coordinates":[[[[-93.767899,40.598835],[-93.765388,40.59964],[-93.754066,40.603951],[-93.756355,40.595242],[-93.754471,40.5886],[-93.767899,40.598835]]]],"created":1292507227,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2474204_20101216_209b0a772a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

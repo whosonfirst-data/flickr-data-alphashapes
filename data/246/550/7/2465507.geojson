@@ -1,0 +1,15 @@
+{
+  "id": 2465507,
+  "type": "Feature",
+  "properties": {
+    "name":"Omaha, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2465507,
+    "woe:name":"Omaha, Illinois, United States",
+    "woe:place_id":"sISpcMmbBZoEYTkn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.306732,37.894363,-88.304176,37.911095],
+  "geometry": {"alpha":0.00015,"bbox":[-88.306732177734,37.89436340332,-88.304176330566,37.911094665527],"coordinates":[[[[-88.304543,37.911095],[-88.304306,37.911091],[-88.304176,37.910805],[-88.306732,37.894363],[-88.304863,37.910706],[-88.304543,37.911095]]]],"created":1292477946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2465507_20101216_6fe92887a6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2447489,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcbain, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2447489,
+    "woe:name":"Mcbain, Michigan, United States",
+    "woe:place_id":"scKy43ibBZhP2Xfo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.215454,44.190083,-85.209938,44.200603],
+  "geometry": {"alpha":0.00015,"bbox":[-85.215454101562,44.190082550049,-85.209938049316,44.200603485107],"coordinates":[[[[-85.209938,44.193722],[-85.210274,44.192574],[-85.215454,44.190083],[-85.214325,44.193913],[-85.21331,44.200603],[-85.209938,44.193722]]]],"created":1292529130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2447489_20101216_a43d3471a8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

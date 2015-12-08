@@ -1,0 +1,15 @@
+{
+  "id": 12676458,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro di Feletto, Italy",
+    "placetype":"locality",
+    "woe:id":12676458,
+    "woe:name":"San Pietro di Feletto, Italy",
+    "woe:place_id":"fBUdyz2YA5pCnjTl8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.259368,45.898609,12.263488,45.901806],
+  "geometry": {"alpha":1e-05,"bbox":[12.25936794281,45.898609161377,12.263487815857,45.901805877686],"coordinates":[[[[12.262115,45.901714],[12.262887,45.901806],[12.263488,45.898609],[12.259368,45.90052],[12.262115,45.901714]]]],"created":1292546228,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12676458_20101217_34b4a1272f.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

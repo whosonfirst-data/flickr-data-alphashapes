@@ -1,0 +1,15 @@
+{
+  "id": 539825,
+  "type": "Feature",
+  "properties": {
+    "name":"Lammersdorf, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":539825,
+    "woe:name":"Lammersdorf, Carinthia, Austria",
+    "woe:place_id":"FgjdjQucApUpzJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.5905,46.798164,13.595138,46.800583],
+  "geometry": {"alpha":0.00015,"bbox":[13.59049987793,46.798164367676,13.59513759613,46.800582885742],"coordinates":[[[[13.591805,46.800583],[13.595138,46.798332],[13.594722,46.798164],[13.591277,46.799389],[13.59125,46.799416],[13.5905,46.800472],[13.591805,46.800583]]]],"created":1292536466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/539825_20101216_4d35b3290c.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 769492,
+  "type": "Feature",
+  "properties": {
+    "name":"S Esteban, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":769492,
+    "woe:name":"S Esteban, Galicia, Spain",
+    "woe:place_id":"jWul5smeB5U5G5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.83238,42.454113,-6.820278,42.457153],
+  "geometry": {"alpha":0.00015,"bbox":[-6.8323798179626,42.454113006592,-6.8202781677246,42.457153320312],"coordinates":[[[[-6.821479,42.456203],[-6.820278,42.454746],[-6.822338,42.454113],[-6.83238,42.45446],[-6.823196,42.457153],[-6.821479,42.456203]]]],"created":1292411761,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/769492_20101215_e601baa8df.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

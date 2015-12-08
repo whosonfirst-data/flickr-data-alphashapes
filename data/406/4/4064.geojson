@@ -1,0 +1,15 @@
+{
+  "id": 4064,
+  "type": "Feature",
+  "properties": {
+    "name":"Norwich, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4064,
+    "woe:name":"Norwich, Ontario, Canada",
+    "woe:place_id":"zLW2ZdmdAZo6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.607498,42.981434,-80.579735,43.012333],
+  "geometry": {"alpha":0.00015,"bbox":[-80.607498168945,42.981433868408,-80.579734802246,43.01233291626],"coordinates":[[[[-80.603943,42.998623],[-80.607498,43.012333],[-80.597,43.007832],[-80.581627,42.98933],[-80.579735,42.987698],[-80.595467,42.981434],[-80.606689,42.986568],[-80.603943,42.998623]]]],"created":1292528898,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/4064_20101216_fb91b5b504.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

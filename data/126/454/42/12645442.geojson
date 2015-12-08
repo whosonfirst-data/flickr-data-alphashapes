@@ -1,0 +1,15 @@
+{
+  "id": 12645442,
+  "type": "Feature",
+  "properties": {
+    "name":"Jambville, France",
+    "placetype":"locality",
+    "woe:id":12645442,
+    "woe:name":"Jambville, France",
+    "woe:place_id":"JK7yvleYA5qZmsr7XQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.846969,49.040344,1.853599,49.050411],
+  "geometry": {"alpha":1e-05,"bbox":[1.8469690084457,49.040344238281,1.8535989522934,49.050411224365],"coordinates":[[[[1.85008,49.04282],[1.848106,49.042313],[1.846969,49.047966],[1.849651,49.049908],[1.851711,49.050411],[1.850595,49.045181],[1.853599,49.040344],[1.85008,49.04282]]]],"created":1248118802,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2616/shapefiles/12645442_20090720_c8fdef843a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

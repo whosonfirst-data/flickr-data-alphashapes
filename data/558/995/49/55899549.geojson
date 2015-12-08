@@ -1,0 +1,15 @@
+{
+  "id": 55899549,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Sauces, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":55899549,
+    "woe:name":"Los Sauces, Nuevo Leon, Mexico",
+    "woe:place_id":"W_5k4O2cBJRdZnXzvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.411125,25.657087,-100.40995,25.660278],
+  "geometry": {"alpha":0.00015,"bbox":[-100.41112518311,25.65708732605,-100.40995025635,25.660278320312],"coordinates":[[[[-100.411125,25.657087],[-100.41098,25.6576],[-100.40995,25.660278],[-100.410522,25.657421],[-100.411125,25.657087]]]],"created":1292446559,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/55899549_20101215_b42ba25d6f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

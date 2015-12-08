@@ -1,0 +1,15 @@
+{
+  "id": 23400628,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartington, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400628,
+    "woe:name":"Hartington, Ontario, Canada",
+    "woe:place_id":"YVlh76abAphVcnjHcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.633926,44.444016,-76.624596,44.470463],
+  "geometry": {"alpha":0.00015,"bbox":[-76.633926391602,44.44401550293,-76.62459564209,44.470462799072],"coordinates":[[[[-76.633926,44.458042],[-76.628395,44.470463],[-76.624596,44.455688],[-76.631439,44.444016],[-76.633926,44.458042]]]],"created":1292452507,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/23400628_20101215_40fdd4ceb7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

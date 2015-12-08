@@ -1,0 +1,15 @@
+{
+  "id": 2377497,
+  "type": "Feature",
+  "properties": {
+    "name":"Centerville, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2377497,
+    "woe:name":"Centerville, Wisconsin, United States",
+    "woe:place_id":"IUusaC6bAptPmBQF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.512665,44.888393,-92.503296,44.895664],
+  "geometry": {"alpha":0.00015,"bbox":[-92.512664794922,44.8883934021,-92.503295898438,44.895664215088],"coordinates":[[[[-92.512665,44.894665],[-92.512665,44.894833],[-92.510666,44.895664],[-92.503296,44.888393],[-92.512337,44.894501],[-92.512665,44.894665]]]],"created":1226633054,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3240/shapefiles/2377497_20081114_6cb7b4d7e4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

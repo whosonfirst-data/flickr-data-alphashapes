@@ -1,0 +1,15 @@
+{
+  "id": 20145063,
+  "type": "Feature",
+  "properties": {
+    "name":"Tana, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20145063,
+    "woe:name":"Tana, Piedmont, Italy",
+    "woe:place_id":"PjqgWIKbAZ1BM2eTiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.180437,44.804005,8.198804,44.811119],
+  "geometry": {"alpha":0.00015,"bbox":[8.1804370880127,44.804004669189,8.1988039016724,44.81111907959],"coordinates":[[[[8.198804,44.804127],[8.198375,44.804005],[8.180437,44.809975],[8.191935,44.811119],[8.198804,44.804127]]]],"created":1248076575,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2650/shapefiles/20145063_20090720_ba8354a7c7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

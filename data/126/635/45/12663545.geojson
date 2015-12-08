@@ -1,0 +1,15 @@
+{
+  "id": 12663545,
+  "type": "Feature",
+  "properties": {
+    "name":"La Varenne, France",
+    "placetype":"locality",
+    "woe:id":12663545,
+    "woe:name":"La Varenne, France",
+    "woe:place_id":".2Q4tCeYA5oXBsbiGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.315087,47.335274,-1.311954,47.338268],
+  "geometry": {"alpha":1e-05,"bbox":[-1.3150869607925,47.335273742676,-1.3119540214539,47.338268280029],"coordinates":[[[[-1.312597,47.336678],[-1.311954,47.336178],[-1.31278,47.335274],[-1.314153,47.336178],[-1.315087,47.337639],[-1.313681,47.338268],[-1.312597,47.336678]]]],"created":1292544335,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12663545_20101217_69f5637095.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

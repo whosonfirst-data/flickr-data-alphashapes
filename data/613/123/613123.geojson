@@ -1,0 +1,15 @@
+{
+  "id": 613123,
+  "type": "Feature",
+  "properties": {
+    "name":"Montsec, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":613123,
+    "woe:name":"Montsec, Lorraine, France",
+    "woe:place_id":"ammx5NOfAJ.FbbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.711517,48.889099,5.720443,48.901741],
+  "geometry": {"alpha":0.00015,"bbox":[5.7115168571472,48.889099121094,5.7204427719116,48.901741027832],"coordinates":[[[[5.720443,48.890736],[5.720443,48.889099],[5.718727,48.889324],[5.712888,48.889465],[5.712513,48.889511],[5.711517,48.889889],[5.71907,48.901741],[5.7201,48.891697],[5.720443,48.890736]]]],"created":1292543534,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/613123_20101216_9e106ee953.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

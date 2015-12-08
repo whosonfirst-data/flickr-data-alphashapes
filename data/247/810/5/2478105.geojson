@@ -1,0 +1,15 @@
+{
+  "id": 2478105,
+  "type": "Feature",
+  "properties": {
+    "name":"Radley, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2478105,
+    "woe:name":"Radley, Illinois, United States",
+    "woe:place_id":"Pt8m19ybBZskx2JO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.945984,41.663551,-88.924973,41.667236],
+  "geometry": {"alpha":0.00015,"bbox":[-88.945983886719,41.663551330566,-88.92497253418,41.667236328125],"coordinates":[[[[-88.945374,41.667236],[-88.924973,41.664032],[-88.924973,41.663776],[-88.924973,41.663551],[-88.945984,41.666302],[-88.945374,41.667236]]]],"created":1292445033,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2478105_20101215_709e35fec5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

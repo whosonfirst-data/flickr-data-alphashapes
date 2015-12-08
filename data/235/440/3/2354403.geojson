@@ -1,0 +1,15 @@
+{
+  "id": 2354403,
+  "type": "Feature",
+  "properties": {
+    "name":"Amsterdam, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2354403,
+    "woe:name":"Amsterdam, Missouri, United States",
+    "woe:place_id":"eumd.subApn0ba_V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.598595,38.341084,-94.585243,38.369251],
+  "geometry": {"alpha":0.00015,"bbox":[-94.598594665527,38.341083526611,-94.585243225098,38.369251251221],"coordinates":[[[[-94.597649,38.341084],[-94.598595,38.342731],[-94.590958,38.3498],[-94.585243,38.35754],[-94.586617,38.369251],[-94.586273,38.36898],[-94.585243,38.35754],[-94.588211,38.35051],[-94.5952,38.342548],[-94.597649,38.341084]]]],"created":1292459166,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2354403_20101216_70b763625e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

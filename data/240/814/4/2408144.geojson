@@ -1,0 +1,15 @@
+{
+  "id": 2408144,
+  "type": "Feature",
+  "properties": {
+    "name":"Fulton, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2408144,
+    "woe:name":"Fulton, Indiana, United States",
+    "woe:place_id":"fqcM9JKbBZxvXJQa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.263603,40.946182,-86.262169,40.948536],
+  "geometry": {"alpha":0.00015,"bbox":[-86.263603210449,40.946182250977,-86.262168884277,40.948535919189],"coordinates":[[[[-86.263603,40.946182],[-86.263329,40.946724],[-86.262756,40.948074],[-86.262169,40.948536],[-86.263062,40.94643],[-86.263603,40.946182]]]],"created":1292448542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2408144_20101215_a1dd8c82b1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

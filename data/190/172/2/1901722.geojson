@@ -1,0 +1,15 @@
+{
+  "id": 1901722,
+  "type": "Feature",
+  "properties": {
+    "name":"Kalkini, Dhaka, Bangladesh",
+    "placetype":"locality",
+    "woe:id":1901722,
+    "woe:name":"Kalkini, Dhaka, Bangladesh",
+    "woe:place_id":"FQuajESYCJyvwY52",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [90.267105,23.101837,90.269852,23.113207],
+  "geometry": {"alpha":0.00015,"bbox":[90.267105102539,23.101837158203,90.26985168457,23.113206863403],"coordinates":[[[[90.268806,23.111195],[90.269852,23.101837],[90.267105,23.101837],[90.267105,23.103733],[90.267174,23.112026],[90.268478,23.113207],[90.268806,23.111195]]]],"created":1292524156,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/1901722_20101216_4ce28902b7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

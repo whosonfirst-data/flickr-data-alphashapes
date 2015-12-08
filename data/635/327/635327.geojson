@@ -1,0 +1,15 @@
+{
+  "id": 635327,
+  "type": "Feature",
+  "properties": {
+    "name":"Apolda, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":635327,
+    "woe:name":"Apolda, Thuringia, Germany",
+    "woe:place_id":"Tlt2whefApn.Xhk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.490519,51.01926,11.517341,51.027576],
+  "geometry": {"alpha":0.00015,"bbox":[11.490518569946,51.019260406494,11.517340660095,51.027576446533],"coordinates":[[[[11.515302,51.023232],[11.517341,51.022266],[11.514401,51.02169],[11.507835,51.01926],[11.490519,51.020695],[11.508178,51.027576],[11.515302,51.023232]]]],"created":1292542861,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/635327_20101216_dbcc87ffb2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

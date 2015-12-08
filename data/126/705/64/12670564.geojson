@@ -1,0 +1,15 @@
+{
+  "id": 12670564,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Hippolyte-du-Fort, France",
+    "placetype":"locality",
+    "woe:id":12670564,
+    "woe:name":"St.-Hippolyte-du-Fort, France",
+    "woe:place_id":"k7ADZ6uYA5pyQScjJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.849678,43.962177,3.854387,43.965267],
+  "geometry": {"alpha":1e-05,"bbox":[3.8496780395508,43.962177276611,3.8543870449066,43.965267181396],"coordinates":[[[[3.854066,43.965267],[3.854387,43.964481],[3.854087,43.964317],[3.852424,43.962177],[3.849678,43.964218],[3.854066,43.965267]]]],"created":1292449048,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12670564_20101215_f04ffc44df.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

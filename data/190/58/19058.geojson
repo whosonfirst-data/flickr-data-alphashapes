@@ -1,0 +1,15 @@
+{
+  "id": 19058,
+  "type": "Feature",
+  "properties": {
+    "name":"East Newton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19058,
+    "woe:name":"East Newton, England, United Kingdom",
+    "woe:place_id":"BR5AiHqYCJyjBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.091713,53.833893,-0.087118,53.838448],
+  "geometry": {"alpha":0.00015,"bbox":[-0.09171299636364,53.833892822266,-0.087117999792099,53.838447570801],"coordinates":[[[[-0.088133,53.835533],[-0.087118,53.833893],[-0.091292,53.83707],[-0.091713,53.837513],[-0.091495,53.837589],[-0.089263,53.838448],[-0.088133,53.835533]]]],"created":1292458123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/19058_20101216_e283bf35f1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

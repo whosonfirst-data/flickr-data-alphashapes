@@ -1,0 +1,15 @@
+{
+  "id": 20100608,
+  "type": "Feature",
+  "properties": {
+    "name":"Veum, Ostfold, Norway",
+    "placetype":"locality",
+    "woe:id":20100608,
+    "woe:name":"Veum, Ostfold, Norway",
+    "woe:place_id":"f2am7dubAZ1edB1jdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.921826,59.247684,10.928478,59.250637],
+  "geometry": {"alpha":0.00015,"bbox":[10.92182636261,59.24768447876,10.928478240967,59.250637054443],"coordinates":[[[[10.925828,59.249779],[10.928478,59.248875],[10.925045,59.247684],[10.921826,59.250637],[10.925828,59.249779]]]],"created":1292538430,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/20100608_20101216_2e7434d61c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 725871,
+  "type": "Feature",
+  "properties": {
+    "name":"Vicari, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":725871,
+    "woe:name":"Vicari, Sicily, Italy",
+    "woe:place_id":"83BIogSeA5m2a8o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.562622,37.809242,13.589229,37.840969],
+  "geometry": {"alpha":0.00015,"bbox":[13.562622070312,37.809242248535,13.589228630066,37.840969085693],"coordinates":[[[[13.569,37.825001],[13.562622,37.829582],[13.577728,37.840157],[13.579916,37.840969],[13.580389,37.824699],[13.589229,37.813717],[13.573608,37.809242],[13.569,37.825001]]]],"created":1292491982,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/725871_20101216_789029f753.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

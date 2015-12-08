@@ -1,0 +1,15 @@
+{
+  "id": 23417567,
+  "type": "Feature",
+  "properties": {
+    "name":"Bel Air South, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":23417567,
+    "woe:name":"Bel Air South, Maryland, United States",
+    "woe:place_id":"Y0qxtNubApj2NhF6NQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.329918,39.486092,-76.311668,39.500271],
+  "geometry": {"alpha":0.00015,"bbox":[-76.329917907715,39.48609161377,-76.311668395996,39.500270843506],"coordinates":[[[[-76.312988,39.500271],[-76.311668,39.500168],[-76.311668,39.4925],[-76.329918,39.486092],[-76.32946,39.493675],[-76.312988,39.500271]]]],"created":1292530989,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/23417567_20101216_027063f0ff.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

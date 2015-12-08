@@ -1,0 +1,15 @@
+{
+  "id": 1582379,
+  "type": "Feature",
+  "properties": {
+    "name":"Humansdorp, Eastern Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1582379,
+    "woe:name":"Humansdorp, Eastern Cape, South Africa",
+    "woe:place_id":"OpLwsFeYBJS61Aj8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.763184,-34.032177,24.789104,-34.023926],
+  "geometry": {"alpha":0.00015,"bbox":[24.76318359375,-34.032176971436,24.78910446167,-34.02392578125],"coordinates":[[[[24.772282,-34.027054],[24.76799,-34.02734],[24.763184,-34.024208],[24.77005,-34.023926],[24.772797,-34.025917],[24.789104,-34.032177],[24.772282,-34.027054]]]],"created":1292499961,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/1582379_20101216_53b2d47497.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

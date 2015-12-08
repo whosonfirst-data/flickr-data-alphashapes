@@ -1,0 +1,15 @@
+{
+  "id": 12650511,
+  "type": "Feature",
+  "properties": {
+    "name":"Perrier, France",
+    "placetype":"locality",
+    "woe:id":12650511,
+    "woe:name":"Perrier, France",
+    "woe:place_id":"P7xc0iyYA5qtDsnJ6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.194274,45.546558,3.198748,45.54892],
+  "geometry": {"alpha":1e-05,"bbox":[3.1942739486694,45.546558380127,3.1987481117249,45.548919677734],"coordinates":[[[[3.198748,45.547348],[3.197654,45.546558],[3.195476,45.547115],[3.194274,45.54892],[3.198738,45.547958],[3.198748,45.547348]]]],"created":1292528457,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12650511_20101216_d99823774e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

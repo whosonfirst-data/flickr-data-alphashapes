@@ -1,0 +1,15 @@
+{
+  "id": 625790,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Mathieu, Limousin, France",
+    "placetype":"locality",
+    "woe:id":625790,
+    "woe:name":"St.-Mathieu, Limousin, France",
+    "woe:place_id":"EpimtZ2fA5nPpwo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.755696,45.705593,0.759397,45.712921],
+  "geometry": {"alpha":0.00015,"bbox":[0.75569599866867,45.705593109131,0.75939697027206,45.712921142578],"coordinates":[[[[0.758655,45.706451],[0.755696,45.712921],[0.758866,45.706902],[0.759397,45.705959],[0.758829,45.705593],[0.758655,45.706451]]]],"created":1292550425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/625790_20101217_9133d08fdf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 41234,
+  "type": "Feature",
+  "properties": {
+    "name":"Wrotham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":41234,
+    "woe:name":"Wrotham, England, United Kingdom",
+    "woe:place_id":"NHkyopadAJ5UyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.307617,51.308289,0.312938,51.311462],
+  "geometry": {"alpha":0.00015,"bbox":[0.30761700868607,51.308288574219,0.31293800473213,51.311462402344],"coordinates":[[[[0.30908,51.308289],[0.307617,51.311462],[0.312938,51.311192],[0.310835,51.308525],[0.3094,51.3083],[0.30908,51.308289]]]],"created":1247827926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2434/shapefiles/41234_20090717_2a62d57108.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

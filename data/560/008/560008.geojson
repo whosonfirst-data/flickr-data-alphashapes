@@ -1,0 +1,15 @@
+{
+  "id": 560008,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridgetown, Wexford, Ireland",
+    "placetype":"locality",
+    "woe:id":560008,
+    "woe:name":"Bridgetown, Wexford, Ireland",
+    "woe:place_id":"Vd7ES4acB5y43oE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.553859,52.215599,-6.544246,52.232147],
+  "geometry": {"alpha":0.00015,"bbox":[-6.5538592338562,52.215599060059,-6.5442461967468,52.232147216797],"coordinates":[[[[-6.553237,52.232147],[-6.547765,52.2299],[-6.544246,52.228008],[-6.553859,52.215599],[-6.552829,52.231583],[-6.553237,52.232147]]]],"created":1292525088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/560008_20101216_8bcf19bc5e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

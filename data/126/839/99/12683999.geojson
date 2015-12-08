@@ -1,0 +1,15 @@
+{
+  "id": 12683999,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-sur-Rolle, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683999,
+    "woe:name":"Mont-sur-Rolle, Switzerland",
+    "woe:place_id":"wbPeqACYA5raiXq9cg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.337738,46.470379,6.339626,46.474575],
+  "geometry": {"alpha":1e-05,"bbox":[6.3377380371094,46.470378875732,6.3396258354187,46.474575042725],"coordinates":[[[[6.338768,46.470379],[6.337738,46.471767],[6.33881,46.473423],[6.339626,46.474575],[6.339025,46.471207],[6.338768,46.470379]]]],"created":1292549514,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12683999_20101217_b3754b0c35.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

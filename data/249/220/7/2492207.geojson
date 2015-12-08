@@ -1,0 +1,15 @@
+{
+  "id": 2492207,
+  "type": "Feature",
+  "properties": {
+    "name":"Shell Point, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2492207,
+    "woe:name":"Shell Point, South Carolina, United States",
+    "woe:place_id":"VpWEoIybBZWXMYfY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.717796,32.373001,-80.714195,32.378731],
+  "geometry": {"alpha":0.00015,"bbox":[-80.717796325684,32.373001098633,-80.714195251465,32.378730773926],"coordinates":[[[[-80.715782,32.374016],[-80.716553,32.373001],[-80.717796,32.376282],[-80.714195,32.378731],[-80.714653,32.377312],[-80.715782,32.374016]]]],"created":1292544639,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2492207_20101217_a94b2a29ae.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

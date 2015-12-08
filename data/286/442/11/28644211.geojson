@@ -1,0 +1,15 @@
+{
+  "id": 28644211,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Wells, Auckland, New Zealand",
+    "placetype":"locality",
+    "woe:id":28644211,
+    "woe:name":"Point Wells, Auckland, New Zealand",
+    "woe:place_id":"CMhZOnWbCZoqgxPfIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [174.747849,-36.343201,174.765015,-36.322868],
+  "geometry": {"alpha":0.00015,"bbox":[174.74784851074,-36.343200683594,174.76501464844,-36.322868347168],"coordinates":[[[[174.747849,-36.343201],[174.751968,-36.322868],[174.755875,-36.327347],[174.765015,-36.32951],[174.747849,-36.343201]]]],"created":1292517954,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/28644211_20101216_e9cb22a0f5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

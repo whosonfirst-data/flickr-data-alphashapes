@@ -1,0 +1,15 @@
+{
+  "id": 2391250,
+  "type": "Feature",
+  "properties": {
+    "name":"Dentons, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2391250,
+    "woe:name":"Dentons, North Carolina, United States",
+    "woe:place_id":"3GzFmzqbApUhTcSo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.884285,35.255665,-83.873482,35.273441],
+  "geometry": {"alpha":0.00015,"bbox":[-83.884284973145,35.255664825439,-83.873481750488,35.273441314697],"coordinates":[[[[-83.87989,35.256222],[-83.881401,35.255665],[-83.884285,35.266785],[-83.874603,35.273441],[-83.873482,35.269379],[-83.87989,35.256222]]]],"created":1292542568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2391250_20101216_755c92d9f4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

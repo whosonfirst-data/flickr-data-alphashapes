@@ -1,0 +1,15 @@
+{
+  "id": 1105499,
+  "type": "Feature",
+  "properties": {
+    "name":"Scarsdale, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105499,
+    "woe:name":"Scarsdale, Victoria, Australia",
+    "woe:place_id":"lBpn16GYAJwmMO2G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.655106,-37.672211,143.662033,-37.656696],
+  "geometry": {"alpha":0.00015,"bbox":[143.65510559082,-37.672210693359,143.66203308105,-37.65669631958],"coordinates":[[[[143.659851,-37.656696],[143.660141,-37.65678],[143.660187,-37.656796],[143.662033,-37.666428],[143.655106,-37.672211],[143.659851,-37.656696]]]],"created":1292456347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/1105499_20101215_3278315b2d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

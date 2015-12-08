@@ -1,0 +1,15 @@
+{
+  "id": 2385237,
+  "type": "Feature",
+  "properties": {
+    "name":"Cornwells Heights, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2385237,
+    "woe:name":"Cornwells Heights, Pennsylvania, United States",
+    "woe:place_id":"ZMq2T_ibApQhXipi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.96376,40.074951,-74.945824,40.090401],
+  "geometry": {"alpha":0.00015,"bbox":[-74.963760375977,40.074951171875,-74.945823669434,40.090400695801],"coordinates":[[[[-74.96376,40.085865],[-74.962204,40.08812],[-74.958801,40.090401],[-74.945824,40.079433],[-74.948517,40.074951],[-74.96376,40.085865]]]],"created":1292477162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2385237_20101216_b5cb091c0a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

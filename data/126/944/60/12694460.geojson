@@ -1,0 +1,15 @@
+{
+  "id": 12694460,
+  "type": "Feature",
+  "properties": {
+    "name":"Valencia del Mombuey, Spain",
+    "placetype":"locality",
+    "woe:id":12694460,
+    "woe:name":"Valencia del Mombuey, Spain",
+    "woe:place_id":"H161FtCYA5r1fLYRoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.063973,38.177345,-7.061784,38.178627],
+  "geometry": {"alpha":1e-05,"bbox":[-7.0639729499817,38.177345275879,-7.0617837905884,38.17862701416],"coordinates":[[[[-7.063801,38.178627],[-7.061784,38.177448],[-7.06232,38.177345],[-7.063587,38.177769],[-7.063973,38.178291],[-7.063801,38.178627]]]],"created":1292428324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12694460_20101215_925ea85d29.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

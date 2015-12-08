@@ -1,0 +1,15 @@
+{
+  "id": 2448365,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcnulty, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2448365,
+    "woe:name":"Mcnulty, Oregon, United States",
+    "woe:place_id":"K3ohuzGbBZgZUaZW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.853241,45.827602,-122.82354,45.845722],
+  "geometry": {"alpha":0.00015,"bbox":[-122.8532409668,45.827602386475,-122.82353973389,45.845722198486],"coordinates":[[[[-122.834656,45.827602],[-122.853241,45.839325],[-122.837151,45.845722],[-122.82354,45.831192],[-122.834656,45.827602]]]],"created":1292531596,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2448365_20101216_f983b1f5f1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

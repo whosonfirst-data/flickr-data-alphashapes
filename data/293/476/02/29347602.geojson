@@ -1,0 +1,15 @@
+{
+  "id": 29347602,
+  "type": "Feature",
+  "properties": {
+    "name":"Schipfl, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347602,
+    "woe:name":"Schipfl, Bavaria, Germany",
+    "woe:place_id":"uwcw4GubCJ_jQsAt0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.549386,47.786434,12.551163,47.786591],
+  "geometry": {"alpha":0.00015,"bbox":[12.549386024475,47.786434173584,12.551162719727,47.786590576172],"coordinates":[[[[12.549465,47.786579],[12.549386,47.786587],[12.549631,47.786591],[12.550535,47.786579],[12.551163,47.786434],[12.549465,47.786579]]]],"created":1292489766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/29347602_20101216_c2367d2c15.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

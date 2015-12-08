@@ -1,0 +1,15 @@
+{
+  "id": 845207,
+  "type": "Feature",
+  "properties": {
+    "name":"Roka, Tartu County, Estonia",
+    "placetype":"locality",
+    "woe:id":845207,
+    "woe:name":"Roka, Tartu County, Estonia",
+    "woe:place_id":"I_4LCUGRBZmsD8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.300259,58.244312,27.30368,58.247494],
+  "geometry": {"alpha":0.00015,"bbox":[27.300258636475,58.244312286377,27.303680419922,58.247493743896],"coordinates":[[[[27.303591,58.247494],[27.30368,58.247257],[27.301975,58.244911],[27.300644,58.244312],[27.300259,58.244537],[27.302141,58.24667],[27.303591,58.247494]]]],"created":1292439995,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/845207_20101215_08aca1b5df.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

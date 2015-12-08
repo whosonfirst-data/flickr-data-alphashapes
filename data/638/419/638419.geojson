@@ -1,0 +1,15 @@
+{
+  "id": 638419,
+  "type": "Feature",
+  "properties": {
+    "name":"Berthelsdorf, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":638419,
+    "woe:name":"Berthelsdorf, Saxony, Germany",
+    "woe:place_id":"xiqd2D2fApToIS8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.345341,50.848007,13.372592,50.860386],
+  "geometry": {"alpha":0.00015,"bbox":[13.34534072876,50.848007202148,13.372591972351,50.860385894775],"coordinates":[[[[13.369411,50.854313],[13.345459,50.856594],[13.345341,50.857597],[13.369374,50.860386],[13.36976,50.855888],[13.372592,50.848007],[13.369411,50.854313]]]],"created":1292491742,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/638419_20101216_fc42fcf264.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 24547213,
+  "type": "Feature",
+  "properties": {
+    "name":"Gollenberg, Germany",
+    "placetype":"locality",
+    "woe:id":24547213,
+    "woe:name":"Gollenberg, Germany",
+    "woe:place_id":"8jaM7ZCbBZnKEwVWxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.381763,52.744812,12.386054,52.746372],
+  "geometry": {"alpha":1e-05,"bbox":[12.381763458252,52.744812011719,12.386054039001,52.7463722229],"coordinates":[[[[12.385883,52.745487],[12.386054,52.744812],[12.384338,52.744812],[12.382965,52.745228],[12.381763,52.746372],[12.384864,52.745312],[12.385883,52.745487]]]],"created":1292452256,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/24547213_20101215_ee73c2b32a.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

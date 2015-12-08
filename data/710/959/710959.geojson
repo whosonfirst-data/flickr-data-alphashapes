@@ -1,0 +1,15 @@
+{
+  "id": 710959,
+  "type": "Feature",
+  "properties": {
+    "name":"Biancareddu, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":710959,
+    "woe:name":"Biancareddu, Sardinia, Italy",
+    "woe:place_id":"kglwnlCeAJyvUck",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.175888,40.801075,8.198032,40.820534],
+  "geometry": {"alpha":0.00015,"bbox":[8.1758880615234,40.801074981689,8.1980323791504,40.820533752441],"coordinates":[[[[8.187711,40.812672],[8.198032,40.801075],[8.175888,40.802116],[8.184127,40.816929],[8.185157,40.82011],[8.189449,40.820534],[8.187711,40.812672]]]],"created":1292519550,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/710959_20101216_255a11506b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

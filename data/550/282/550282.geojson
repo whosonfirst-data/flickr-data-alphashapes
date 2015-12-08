@@ -1,0 +1,15 @@
+{
+  "id": 550282,
+  "type": "Feature",
+  "properties": {
+    "name":"Weinburg, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550282,
+    "woe:name":"Weinburg, Styria, Austria",
+    "woe:place_id":"Ke4Z0LGcBJzTKfE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.701844,46.754765,15.721242,46.77523],
+  "geometry": {"alpha":0.00015,"bbox":[15.701844215393,46.754764556885,15.721241950989,46.775230407715],"coordinates":[[[[15.70929,46.77523],[15.718367,46.766911],[15.721242,46.754765],[15.704494,46.760082],[15.701844,46.773979],[15.70929,46.77523]]]],"created":1292504886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/550282_20101216_86cf3cea2c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

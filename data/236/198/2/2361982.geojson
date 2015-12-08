@@ -1,0 +1,15 @@
+{
+  "id": 2361982,
+  "type": "Feature",
+  "properties": {
+    "name":"Belleville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2361982,
+    "woe:name":"Belleville, New York, United States",
+    "woe:place_id":".yl9GvCbAprCpa9i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.11937,43.78241,-76.106918,43.786934],
+  "geometry": {"alpha":0.00015,"bbox":[-76.119369506836,43.782409667969,-76.106918334961,43.786933898926],"coordinates":[[[[-76.11937,43.78241],[-76.113579,43.786934],[-76.113052,43.786774],[-76.108925,43.785805],[-76.106918,43.785053],[-76.11937,43.78241]]]],"created":1292440513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2361982_20101215_e598983052.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

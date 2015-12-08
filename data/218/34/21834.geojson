@@ -1,0 +1,15 @@
+{
+  "id": 21834,
+  "type": "Feature",
+  "properties": {
+    "name":"Greensted, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21834,
+    "woe:name":"Greensted, England, United Kingdom",
+    "woe:place_id":"742f3fabAJSrPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.219383,51.702564,0.227349,51.705383],
+  "geometry": {"alpha":0.00015,"bbox":[0.21938300132751,51.702564239502,0.22734899818897,51.705383300781],"coordinates":[[[[0.225305,51.705383],[0.227349,51.703678],[0.226142,51.703461],[0.222988,51.702724],[0.219383,51.702564],[0.225305,51.705383]]]],"created":1292538024,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/21834_20101216_e425f93855.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

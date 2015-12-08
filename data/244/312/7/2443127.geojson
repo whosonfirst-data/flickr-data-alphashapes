@@ -1,0 +1,15 @@
+{
+  "id": 2443127,
+  "type": "Feature",
+  "properties": {
+    "name":"Lupton, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2443127,
+    "woe:name":"Lupton, North Carolina, United States",
+    "woe:place_id":"X4YjI66bBZiL7R48",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.344337,34.940689,-76.326591,34.95068],
+  "geometry": {"alpha":0.00015,"bbox":[-76.344337463379,34.940689086914,-76.326591491699,34.950679779053],"coordinates":[[[[-76.326591,34.944626],[-76.326653,34.943081],[-76.336441,34.941956],[-76.338585,34.940689],[-76.344337,34.95068],[-76.326591,34.944626]]]],"created":1292420765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2443127_20101215_2b6622401c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678164,
+  "type": "Feature",
+  "properties": {
+    "name":"Castegnato, Italy",
+    "placetype":"locality",
+    "woe:id":12678164,
+    "woe:name":"Castegnato, Italy",
+    "woe:place_id":"ZNuKIaiYA5pI3hOIYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.111713,45.547108,10.118933,45.552086],
+  "geometry": {"alpha":1e-05,"bbox":[10.111713409424,45.547107696533,10.118932723999,45.552085876465],"coordinates":[[[[10.111713,45.55127],[10.114588,45.551926],[10.115237,45.552086],[10.118933,45.547108],[10.113693,45.54985],[10.111713,45.55127]]]],"created":1292549216,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12678164_20101217_31f2ed0a92.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

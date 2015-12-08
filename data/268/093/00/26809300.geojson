@@ -1,0 +1,15 @@
+{
+  "id": 26809300,
+  "type": "Feature",
+  "properties": {
+    "name":"Tilaran, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809300,
+    "woe:name":"Tilaran, Costa Rica",
+    "woe:place_id":"qFmAHUabB5T_82f2_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.924332,10.423461,-84.924164,10.423666],
+  "geometry": {"alpha":1e-05,"bbox":[-84.924331665039,10.423460960388,-84.924163818359,10.423666000366],"coordinates":[[[[-84.924255,10.423461],[-84.924332,10.423499],[-84.924217,10.423641],[-84.924164,10.423666],[-84.924164,10.423499],[-84.924255,10.423461]]]],"created":1292545828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/26809300_20101217_c89cfd4b47.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29371202,
+  "type": "Feature",
+  "properties": {
+    "name":"El Rojal, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":29371202,
+    "woe:name":"El Rojal, Galicia, Spain",
+    "woe:place_id":"jRJlNCabCJ_8wUaiGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.123499,43.483486,-8.121643,43.496891],
+  "geometry": {"alpha":0.00015,"bbox":[-8.123498916626,43.483486175537,-8.1216430664062,43.496891021729],"coordinates":[[[[-8.123499,43.495892],[-8.122844,43.496891],[-8.122801,43.496799],[-8.122501,43.495026],[-8.121643,43.483486],[-8.123499,43.495892]]]],"created":1292446384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/29371202_20101215_cbf4876208.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

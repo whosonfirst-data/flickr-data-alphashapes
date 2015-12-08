@@ -1,0 +1,15 @@
+{
+  "id": 720988,
+  "type": "Feature",
+  "properties": {
+    "name":"Pontelandolfo, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":720988,
+    "woe:name":"Pontelandolfo, Campania, Italy",
+    "woe:place_id":"btv06waeA5xPQ8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.687304,41.286869,14.693892,41.29335],
+  "geometry": {"alpha":0.00015,"bbox":[14.687303543091,41.286869049072,14.693891525269,41.293350219727],"coordinates":[[[[14.691252,41.287899],[14.687304,41.29335],[14.690244,41.293331],[14.693892,41.286869],[14.692357,41.286987],[14.691317,41.28783],[14.691252,41.287899]]]],"created":1292467082,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/720988_20101216_6769ff95c8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

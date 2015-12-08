@@ -1,0 +1,15 @@
+{
+  "id": 12666838,
+  "type": "Feature",
+  "properties": {
+    "name":"Mondonville, France",
+    "placetype":"locality",
+    "woe:id":12666838,
+    "woe:name":"Mondonville, France",
+    "woe:place_id":"ZDGitgyYA5rXIxPqAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.268835,43.663696,1.272107,43.666039],
+  "geometry": {"alpha":1e-05,"bbox":[1.2688349485397,43.663696289062,1.2721070051193,43.666038513184],"coordinates":[[[[1.271001,43.665623],[1.271613,43.666039],[1.272107,43.6656],[1.270585,43.664795],[1.269366,43.663719],[1.268835,43.663696],[1.271001,43.665623]]]],"created":1292542339,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12666838_20101216_cddaf0142a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

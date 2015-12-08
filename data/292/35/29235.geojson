@@ -1,0 +1,15 @@
+{
+  "id": 29235,
+  "type": "Feature",
+  "properties": {
+    "name":"Monkton Park, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29235,
+    "woe:name":"Monkton Park, England, United Kingdom",
+    "woe:place_id":"zKEhzYGbCJ66oA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.111864,51.454727,-2.104289,51.459408],
+  "geometry": {"alpha":0.00015,"bbox":[-2.1118640899658,51.454727172852,-2.1042890548706,51.459407806396],"coordinates":[[[[-2.111864,51.455399],[-2.111864,51.457748],[-2.110319,51.459408],[-2.104289,51.454727],[-2.107143,51.45541],[-2.111864,51.455399]]]],"created":1292450486,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/29235_20101215_d4fd717373.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

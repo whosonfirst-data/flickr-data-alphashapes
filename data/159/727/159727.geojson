@@ -1,0 +1,15 @@
+{
+  "id": 159727,
+  "type": "Feature",
+  "properties": {
+    "name":"Punta Chame, Panama, Panama",
+    "placetype":"locality",
+    "woe:id":159727,
+    "woe:name":"Punta Chame, Panama, Panama",
+    "woe:place_id":"AuWHkkmYBJUYza8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.713455,8.643904,-79.701004,8.649844],
+  "geometry": {"alpha":0.00015,"bbox":[-79.713455200195,8.6439037322998,-79.70100402832,8.6498441696167],"coordinates":[[[[-79.701004,8.648232],[-79.706665,8.643904],[-79.709732,8.646322],[-79.710258,8.64665],[-79.713455,8.649844],[-79.701004,8.648232]]]],"created":1292455740,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/159727_20101215_2b0c66e35d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

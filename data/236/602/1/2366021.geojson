@@ -1,0 +1,15 @@
+{
+  "id": 2366021,
+  "type": "Feature",
+  "properties": {
+    "name":"Bluewell, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2366021,
+    "woe:name":"Bluewell, West Virginia, United States",
+    "woe:place_id":"PxgXBlObAppsyAjT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.262482,37.312153,-81.258484,37.315056],
+  "geometry": {"alpha":0.00015,"bbox":[-81.262481689453,37.312152862549,-81.258483886719,37.315055847168],"coordinates":[[[[-81.26078,37.312992],[-81.26162,37.313519],[-81.262482,37.314014],[-81.262436,37.315056],[-81.258484,37.312153],[-81.26078,37.312992]]]],"created":1247885408,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2521/shapefiles/2366021_20090718_39d5978aaa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

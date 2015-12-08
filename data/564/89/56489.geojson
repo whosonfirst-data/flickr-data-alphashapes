@@ -1,0 +1,15 @@
+{
+  "id": 56489,
+  "type": "Feature",
+  "properties": {
+    "name":"Half Acre, Saint Lucy, Barbados",
+    "placetype":"locality",
+    "woe:id":56489,
+    "woe:name":"Half Acre, Saint Lucy, Barbados",
+    "woe:place_id":".8ynXEGcB5gLcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.616226,13.288187,-59.6101,13.290069],
+  "geometry": {"alpha":0.00015,"bbox":[-59.616226196289,13.288187026978,-59.61009979248,13.290068626404],"coordinates":[[[[-59.612675,13.288399],[-59.616226,13.288847],[-59.613018,13.290069],[-59.611816,13.289902],[-59.6101,13.288187],[-59.612675,13.288399]]]],"created":1292540147,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/56489_20101216_ea0c387f58.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

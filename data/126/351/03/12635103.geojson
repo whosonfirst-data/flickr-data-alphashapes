@@ -1,0 +1,15 @@
+{
+  "id": 12635103,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Olching, Germany",
+    "placetype":"locality",
+    "woe:id":12635103,
+    "woe:name":"Gemeinde Olching, Germany",
+    "woe:place_id":"JQY7rwiYA5rQUoUTWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.326904,48.219311,11.335272,48.221527],
+  "geometry": {"alpha":1e-05,"bbox":[11.326904296875,48.219310760498,11.335271835327,48.221527099609],"coordinates":[[[[11.331399,48.219585],[11.331329,48.21957],[11.326904,48.220703],[11.332,48.220833],[11.335101,48.221527],[11.335272,48.219311],[11.331399,48.219585]]]],"created":1292509993,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12635103_20101216_c9b36927e5.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

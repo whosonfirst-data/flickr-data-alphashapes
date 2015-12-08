@@ -1,0 +1,15 @@
+{
+  "id": 20141190,
+  "type": "Feature",
+  "properties": {
+    "name":"San Genesio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20141190,
+    "woe:name":"San Genesio, Piedmont, Italy",
+    "woe:place_id":"LLExstObAZ1QqGoB6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.894138,45.168159,7.8968,45.17149],
+  "geometry": {"alpha":0.00015,"bbox":[7.8941378593445,45.168159484863,7.8968000411987,45.171489715576],"coordinates":[[[[7.894245,45.168217],[7.894138,45.168468],[7.8968,45.17149],[7.894438,45.168316],[7.894288,45.168159],[7.894245,45.168217]]]],"created":1292457307,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/20141190_20101215_73c3d52576.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

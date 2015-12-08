@@ -1,0 +1,15 @@
+{
+  "id": 2356208,
+  "type": "Feature",
+  "properties": {
+    "name":"Arriba, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2356208,
+    "woe:name":"Arriba, New Mexico, United States",
+    "woe:place_id":"jaaCrQabApkCRSZ3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.209023,35.621056,-105.203003,35.628242],
+  "geometry": {"alpha":0.00015,"bbox":[-105.20902252197,35.621055603027,-105.20300292969,35.628242492676],"coordinates":[[[[-105.205376,35.6227],[-105.209023,35.62772],[-105.203079,35.628242],[-105.203087,35.621613],[-105.203003,35.621056],[-105.205376,35.6227]]]],"created":1292440524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2356208_20101215_b1fb29526d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

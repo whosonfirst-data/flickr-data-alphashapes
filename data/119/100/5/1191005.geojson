@@ -1,0 +1,15 @@
+{
+  "id": 1191005,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jose, Calabarzon, Philippines",
+    "placetype":"locality",
+    "woe:id":1191005,
+    "woe:name":"San Jose, Calabarzon, Philippines",
+    "woe:place_id":"DbiCoLWYAJUSOq21",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.9478,13.841413,120.967369,13.853413],
+  "geometry": {"alpha":0.00015,"bbox":[120.94779968262,13.84141254425,120.96736907959,13.853412628174],"coordinates":[[[[120.948486,13.853413],[120.949173,13.85208],[120.967369,13.841413],[120.950203,13.846163],[120.9478,13.851747],[120.948486,13.853413]]]],"created":1292492947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/1191005_20101216_54f44bf112.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

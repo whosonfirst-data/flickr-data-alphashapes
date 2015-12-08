@@ -1,0 +1,15 @@
+{
+  "id": 12629620,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Garlstorf, Germany",
+    "placetype":"locality",
+    "woe:id":12629620,
+    "woe:name":"Gemeinde Garlstorf, Germany",
+    "woe:place_id":"C0fRc36YA5q.CkJtfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.099117,53.234356,10.103902,53.238605],
+  "geometry": {"alpha":1e-05,"bbox":[10.099117279053,53.234355926514,10.103901863098,53.238605499268],"coordinates":[[[[10.099697,53.238228],[10.100984,53.237377],[10.103902,53.234356],[10.099139,53.23682],[10.099117,53.238605],[10.099697,53.238228]]]],"created":1292456224,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12629620_20101215_01d8d16b44.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

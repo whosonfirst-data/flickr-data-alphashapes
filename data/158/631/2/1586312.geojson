@@ -1,0 +1,15 @@
+{
+  "id": 1586312,
+  "type": "Feature",
+  "properties": {
+    "name":"Orania, Northern Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1586312,
+    "woe:name":"Orania, Northern Cape, South Africa",
+    "woe:place_id":"oP4NdJCYBJSBddTN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.40836,-29.833199,24.420719,-29.799986],
+  "geometry": {"alpha":0.00015,"bbox":[24.408359527588,-29.833198547363,24.420719146729,-29.79998588562],"coordinates":[[[[24.412071,-29.818222],[24.411879,-29.821806],[24.40836,-29.833199],[24.40976,-29.81776],[24.409475,-29.813093],[24.420719,-29.799986],[24.412071,-29.818222]]]],"created":1292532392,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/1586312_20101216_e86512d334.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

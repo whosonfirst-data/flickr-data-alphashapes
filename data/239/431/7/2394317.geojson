@@ -1,0 +1,15 @@
+{
+  "id": 2394317,
+  "type": "Feature",
+  "properties": {
+    "name":"Duncan, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2394317,
+    "woe:name":"Duncan, Arizona, United States",
+    "woe:place_id":"AvKZ_sObApUpevHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.115738,32.709599,-109.095428,32.733032],
+  "geometry": {"alpha":0.00015,"bbox":[-109.11573791504,32.70959854126,-109.0954284668,32.733032226562],"coordinates":[[[[-109.107178,32.720287],[-109.115738,32.733032],[-109.095833,32.727158],[-109.095428,32.726715],[-109.100754,32.715595],[-109.099899,32.709599],[-109.107178,32.720287]]]],"created":1292512623,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2394317_20101216_db07ae995b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

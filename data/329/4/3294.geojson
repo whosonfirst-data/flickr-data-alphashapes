@@ -1,0 +1,15 @@
+{
+  "id": 3294,
+  "type": "Feature",
+  "properties": {
+    "name":"Ville-Marie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3294,
+    "woe:name":"Ville-Marie, Quebec, Canada",
+    "woe:place_id":"MsYGd0OaA5VA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.444839,47.326839,-79.423256,47.337658],
+  "geometry": {"alpha":0.00015,"bbox":[-79.444839477539,47.326839447021,-79.42325592041,47.337657928467],"coordinates":[[[[-79.442268,47.330273],[-79.437675,47.333763],[-79.434929,47.337658],[-79.430595,47.335594],[-79.424973,47.334633],[-79.423256,47.331669],[-79.427376,47.329983],[-79.437759,47.326839],[-79.444839,47.329048],[-79.442268,47.330273]]]],"created":1292548827,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/3294_20101217_6603b52fd2.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

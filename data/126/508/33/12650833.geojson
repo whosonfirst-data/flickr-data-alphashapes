@@ -1,0 +1,15 @@
+{
+  "id": 12650833,
+  "type": "Feature",
+  "properties": {
+    "name":"Pont-Scorff, France",
+    "placetype":"locality",
+    "woe:id":12650833,
+    "woe:name":"Pont-Scorff, France",
+    "woe:place_id":"x1LU0RqYA5pjMpR1FA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.398702,47.833786,-3.393573,47.836147],
+  "geometry": {"alpha":1e-05,"bbox":[-3.3987019062042,47.833786010742,-3.3935730457306,47.83614730835],"coordinates":[[[[-3.393573,47.833786],[-3.398702,47.83527],[-3.396492,47.836147],[-3.394174,47.835514],[-3.393573,47.833786]]]],"created":1248121327,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2541/shapefiles/12650833_20090720_3b5c11a3ee.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

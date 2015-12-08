@@ -1,0 +1,15 @@
+{
+  "id": 12644746,
+  "type": "Feature",
+  "properties": {
+    "name":"Grandecourt, France",
+    "placetype":"locality",
+    "woe:id":12644746,
+    "woe:name":"Grandecourt, France",
+    "woe:place_id":"ov4YwcCYA5qzCVaBHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.853996,47.632908,5.857815,47.637344],
+  "geometry": {"alpha":1e-05,"bbox":[5.8539958000183,47.632907867432,5.8578147888184,47.637344360352],"coordinates":[[[[5.857686,47.633442],[5.857815,47.632977],[5.857461,47.632908],[5.857483,47.633369],[5.853996,47.636826],[5.855867,47.637344],[5.857686,47.633442]]]],"created":1292539678,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12644746_20101216_871cd96f4a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55859090,
+  "type": "Feature",
+  "properties": {
+    "name":"East Side, Fort Wayne, IN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55859090,
+    "woe:name":"East Side, Fort Wayne, IN, US, United States",
+    "woe:place_id":"Mrm8XgicBJQPxQ224A",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-85.108337,41.074497,-85.106621,41.077797],
+  "geometry": {"alpha":1e-05,"bbox":[-85.108337402344,41.0744972229,-85.106620788574,41.077796936035],"coordinates":[[[[-85.108337,41.077538],[-85.10791,41.077797],[-85.106834,41.077507],[-85.106621,41.074497],[-85.108337,41.077538]]]],"created":1292541403,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/55859090_20101216_c7ede36c8f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

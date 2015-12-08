@@ -1,0 +1,15 @@
+{
+  "id": 771142,
+  "type": "Feature",
+  "properties": {
+    "name":"Casa de Quintana, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":771142,
+    "woe:name":"Casa de Quintana, Madrid, Spain",
+    "woe:place_id":"Al.DwDGeBp1n0iY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.660507,40.430485,-3.632354,40.449036],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6605069637299,40.430484771729,-3.6323540210724,40.449035644531],"coordinates":[[[[-3.642311,40.430485],[-3.660507,40.434929],[-3.64746,40.442764],[-3.637161,40.449036],[-3.632354,40.432835],[-3.642311,40.430485]]]],"created":1292411764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/771142_20101215_dce01dd200.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

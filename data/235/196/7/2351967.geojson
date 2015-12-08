@@ -1,0 +1,15 @@
+{
+  "id": 2351967,
+  "type": "Feature",
+  "properties": {
+    "name":"Adamsville, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2351967,
+    "woe:name":"Adamsville, Kansas, United States",
+    "woe:place_id":"Qk0a5i.bAplHPOLl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.160042,37.154518,-97.150299,37.158775],
+  "geometry": {"alpha":0.00015,"bbox":[-97.160041809082,37.154518127441,-97.150299072266,37.15877532959],"coordinates":[[[[-97.160042,37.154518],[-97.15789,37.157852],[-97.1539,37.158043],[-97.150299,37.158775],[-97.157379,37.154896],[-97.160042,37.154518]]]],"created":1292456574,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2351967_20101215_c69ea2ef03.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

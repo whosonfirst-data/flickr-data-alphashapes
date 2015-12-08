@@ -1,0 +1,15 @@
+{
+  "id": 12665902,
+  "type": "Feature",
+  "properties": {
+    "name":"Lucey, France",
+    "placetype":"locality",
+    "woe:id":12665902,
+    "woe:name":"Lucey, France",
+    "woe:place_id":"yhU58ZyYA5osbCM9DQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.826873,45.772072,5.832731,45.77776],
+  "geometry": {"alpha":1e-05,"bbox":[5.8268728256226,45.772071838379,5.8327307701111,45.777759552002],"coordinates":[[[[5.82992,45.77776],[5.832731,45.775574],[5.830993,45.77219],[5.826873,45.772072],[5.827903,45.774529],[5.82992,45.77776]]]],"created":1292531780,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12665902_20101216_d7e070c380.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

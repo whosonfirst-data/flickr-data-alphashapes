@@ -1,0 +1,15 @@
+{
+  "id": 721076,
+  "type": "Feature",
+  "properties": {
+    "name":"Badino, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":721076,
+    "woe:name":"Badino, Lazio, Italy",
+    "woe:place_id":"JHJc7eOeA51bL2E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.194301,41.280869,13.20681,41.284515],
+  "geometry": {"alpha":0.00015,"bbox":[13.19430065155,41.280868530273,13.206809997559,41.284515380859],"coordinates":[[[[13.199257,41.281498],[13.194301,41.280869],[13.199961,41.284409],[13.205609,41.284515],[13.20681,41.283352],[13.202991,41.282433],[13.199257,41.281498]]]],"created":1292516585,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/721076_20101216_c842c1ebfd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

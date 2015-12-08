@@ -1,0 +1,15 @@
+{
+  "id": 2443155,
+  "type": "Feature",
+  "properties": {
+    "name":"Lusby Crossroads, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2443155,
+    "woe:name":"Lusby Crossroads, Maryland, United States",
+    "woe:place_id":"K3H871qbBZiBP7CL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.584579,38.98782,-76.578995,38.990437],
+  "geometry": {"alpha":0.00015,"bbox":[-76.584579467773,38.987819671631,-76.578994750977,38.990436553955],"coordinates":[[[[-76.584488,38.988235],[-76.584488,38.989151],[-76.584579,38.990402],[-76.578995,38.990437],[-76.580887,38.98782],[-76.584488,38.988235]]]],"created":1226540889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3018/shapefiles/2443155_20081113_a198dcb401.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

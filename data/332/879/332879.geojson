@@ -1,0 +1,15 @@
+{
+  "id": 332879,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlos, Salta, Argentina",
+    "placetype":"locality",
+    "woe:id":332879,
+    "woe:name":"San Carlos, Salta, Argentina",
+    "woe:place_id":"ghszMCKaAp61Sdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.93187,-25.905092,-65.912476,-25.893681],
+  "geometry": {"alpha":0.00015,"bbox":[-65.931869506836,-25.90509223938,-65.912475585938,-25.89368057251],"coordinates":[[[[-65.929726,-25.903612],[-65.93187,-25.905092],[-65.929688,-25.893681],[-65.928612,-25.895],[-65.912476,-25.904165],[-65.929726,-25.903612]]]],"created":1292458288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/332879_20101216_167aebd4bd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

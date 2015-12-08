@@ -1,0 +1,15 @@
+{
+  "id": 409600,
+  "type": "Feature",
+  "properties": {
+    "name":"Nuevo Imperial, Lima, Peru",
+    "placetype":"locality",
+    "woe:id":409600,
+    "woe:name":"Nuevo Imperial, Lima, Peru",
+    "woe:place_id":"gehsmBWdAZXnQ74",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.388794,-13.0795,-76.384506,-13.063425],
+  "geometry": {"alpha":0.00015,"bbox":[-76.388793945312,-13.079500198364,-76.384506225586,-13.063425064087],"coordinates":[[[[-76.387001,-13.0795],[-76.388794,-13.078391],[-76.384506,-13.063425],[-76.384506,-13.077304],[-76.387001,-13.0795]]]],"created":1292550063,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/409600_20101217_704de0ccb3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

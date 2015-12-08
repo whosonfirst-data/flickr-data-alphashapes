@@ -1,0 +1,15 @@
+{
+  "id": 633836,
+  "type": "Feature",
+  "properties": {
+    "name":"Albrechts, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":633836,
+    "woe:name":"Albrechts, Thuringia, Germany",
+    "woe:place_id":"C08Sym.fAp.YCeA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.635183,50.614182,10.64867,50.621971],
+  "geometry": {"alpha":0.00015,"bbox":[10.635183334351,50.614181518555,10.648670196533,50.621971130371],"coordinates":[[[[10.635313,50.616802],[10.635183,50.618591],[10.640806,50.621971],[10.64867,50.616821],[10.644207,50.614182],[10.635526,50.616741],[10.635313,50.616802]]]],"created":1292491507,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/633836_20101216_8040f9084a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

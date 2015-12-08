@@ -1,0 +1,15 @@
+{
+  "id": 25781,
+  "type": "Feature",
+  "properties": {
+    "name":"Langley Moor, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25781,
+    "woe:name":"Langley Moor, England, United Kingdom",
+    "woe:place_id":"WXywcAybBJuSzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.616127,54.755589,-1.607093,54.76038],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6161270141602,54.755588531494,-1.6070929765701,54.76037979126],"coordinates":[[[[-1.615376,54.755589],[-1.616127,54.756287],[-1.61499,54.75695],[-1.60793,54.76038],[-1.607093,54.757519],[-1.615376,54.755589]]]],"created":1292518142,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/25781_20101216_602080d781.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

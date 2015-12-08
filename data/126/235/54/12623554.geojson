@@ -1,0 +1,15 @@
+{
+  "id": 12623554,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bad Bellingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623554,
+    "woe:name":"Gemeinde Bad Bellingen, Germany",
+    "woe:place_id":"BmKXQOSYA5rXA2QXqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.527179,47.702309,7.53602,47.709732],
+  "geometry": {"alpha":1e-05,"bbox":[7.5271787643433,47.702308654785,7.5360198020935,47.709732055664],"coordinates":[[[[7.532458,47.705631],[7.533788,47.709732],[7.53602,47.70927],[7.532887,47.704506],[7.527179,47.702309],[7.532458,47.705631]]]],"created":1292523382,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12623554_20101216_44b71ed0c9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2345188,
+  "type": "Feature",
+  "properties": {
+    "name":"Salcedo, DO, Dominican Republic",
+    "placetype":"region",
+    "woe:id":2345188,
+    "woe:name":"Salcedo, DO, Dominican Republic",
+    "woe:place_id":"91opCA.bApjeOjK0",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-70.488281,19.298071,-70.224609,19.535849],
+  "geometry": {"alpha":0.03,"bbox":[-70.48828125,19.298070907593,-70.224609375,19.535848617554],"coordinates":[[[[-70.407257,19.424505],[-70.400391,19.435514],[-70.349922,19.526464],[-70.224609,19.535849],[-70.290527,19.342243],[-70.377045,19.311144],[-70.417931,19.298071],[-70.425797,19.300125],[-70.488281,19.311144],[-70.407257,19.424505]]]],"created":1292518547,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2345188_20101216_94f6af0ec1.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

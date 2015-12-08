@@ -1,0 +1,15 @@
+{
+  "id": 2445101,
+  "type": "Feature",
+  "properties": {
+    "name":"Manzanita, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2445101,
+    "woe:name":"Manzanita, Washington, United States",
+    "woe:place_id":"ef4RoW.bBZhxb1ph",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.476097,47.350338,-122.45945,47.356735],
+  "geometry": {"alpha":0.00015,"bbox":[-122.47609710693,47.350337982178,-122.45944976807,47.356735229492],"coordinates":[[[[-122.476036,47.353741],[-122.47541,47.356735],[-122.473007,47.356735],[-122.45945,47.350338],[-122.476097,47.351501],[-122.476036,47.353741]]]],"created":1292539814,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2445101_20101216_3991038a7b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

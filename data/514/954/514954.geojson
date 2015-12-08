@@ -1,0 +1,15 @@
+{
+  "id": 514954,
+  "type": "Feature",
+  "properties": {
+    "name":"Pyry, Masovian, Poland",
+    "placetype":"locality",
+    "woe:id":514954,
+    "woe:name":"Pyry, Masovian, Poland",
+    "woe:place_id":"36ZZ.S6cAJh2kpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.017532,52.135014,21.039505,52.162476],
+  "geometry": {"alpha":0.00015,"bbox":[21.017532348633,52.135013580322,21.039505004883,52.162475585938],"coordinates":[[[[21.034258,52.162476],[21.039505,52.152554],[21.035213,52.150345],[21.021051,52.135014],[21.017668,52.135334],[21.017532,52.149078],[21.034258,52.162476]]]],"created":1292530447,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/514954_20101216_11979c9f1f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

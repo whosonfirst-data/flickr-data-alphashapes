@@ -1,0 +1,15 @@
+{
+  "id": 20076218,
+  "type": "Feature",
+  "properties": {
+    "name":"Ranzanico, Italy",
+    "placetype":"locality",
+    "woe:id":20076218,
+    "woe:name":"Ranzanico, Italy",
+    "woe:place_id":"sRkGVkabAZxWxLtsKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.936103,45.785465,9.943914,45.78931],
+  "geometry": {"alpha":1e-05,"bbox":[9.9361028671265,45.785465240479,9.9439144134521,45.789310455322],"coordinates":[[[[9.943914,45.786201],[9.937992,45.785465],[9.936103,45.789192],[9.938507,45.789074],[9.941768,45.78931],[9.943491,45.789055],[9.943914,45.786201]]]],"created":1292520133,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20076218_20101216_cf859e0407.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12693830,
+  "type": "Feature",
+  "properties": {
+    "name":"Sales de Llierca, Spain",
+    "placetype":"locality",
+    "woe:id":12693830,
+    "woe:name":"Sales de Llierca, Spain",
+    "woe:place_id":"7F9HHBeYA5p9cVoJ7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.620518,42.271603,2.621462,42.273544],
+  "geometry": {"alpha":1e-05,"bbox":[2.6205179691315,42.271602630615,2.6214621067047,42.273544311523],"coordinates":[[[[2.620604,42.273544],[2.62099,42.273544],[2.621462,42.271603],[2.62114,42.272041],[2.620518,42.273514],[2.620604,42.273544]]]],"created":1248264011,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2512/shapefiles/12693830_20090722_7a380833e8.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

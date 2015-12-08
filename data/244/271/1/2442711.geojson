@@ -1,0 +1,15 @@
+{
+  "id": 2442711,
+  "type": "Feature",
+  "properties": {
+    "name":"Lowman, New York, United States",
+    "placetype":"locality",
+    "woe:id":2442711,
+    "woe:name":"Lowman, New York, United States",
+    "woe:place_id":"pTiYPx6bBZho4U2K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.711517,42.008999,-76.686531,42.027996],
+  "geometry": {"alpha":0.00015,"bbox":[-76.711517333984,42.00899887085,-76.686531066895,42.027996063232],"coordinates":[[[[-76.699158,42.026535],[-76.686531,42.027996],[-76.695557,42.008999],[-76.710075,42.026215],[-76.711517,42.027939],[-76.699158,42.026535]]]],"created":1292529955,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2442711_20101216_06c8fc5ec9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

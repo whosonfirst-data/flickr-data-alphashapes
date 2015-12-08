@@ -1,0 +1,15 @@
+{
+  "id": 2407202,
+  "type": "Feature",
+  "properties": {
+    "name":"Fredonia, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2407202,
+    "woe:name":"Fredonia, Texas, United States",
+    "woe:place_id":"RHt5G3qbBZyMQHPJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.115906,30.910767,-99.111702,30.935507],
+  "geometry": {"alpha":0.00015,"bbox":[-99.115905761719,30.910766601562,-99.111701965332,30.935506820679],"coordinates":[[[[-99.112473,30.931835],[-99.115906,30.910767],[-99.11573,30.931236],[-99.1147,30.935507],[-99.111702,30.93339],[-99.112473,30.931835]]]],"created":1292542284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2407202_20101216_d5d4986ddb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

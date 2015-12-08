@@ -1,0 +1,15 @@
+{
+  "id": 29339317,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":29339317,
+    "woe:name":"San Giovanni, Tuscany, Italy",
+    "woe:place_id":"X5tcxXSbCJ_avu8c0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.140565,43.678734,11.143752,43.682816],
+  "geometry": {"alpha":0.00015,"bbox":[11.140564918518,43.678733825684,11.143752098083,43.682815551758],"coordinates":[[[[11.143569,43.67923],[11.142926,43.678734],[11.140995,43.682148],[11.140565,43.682816],[11.143752,43.681007],[11.143569,43.67923]]]],"created":1292545864,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/29339317_20101217_375788b838.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

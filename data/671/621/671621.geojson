@@ -1,0 +1,15 @@
+{
+  "id": 671621,
+  "type": "Feature",
+  "properties": {
+    "name":"Lichtenstein, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":671621,
+    "woe:name":"Lichtenstein, Saxony, Germany",
+    "woe:place_id":"bHSkHaafBp2nmGo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.615802,50.748173,12.642173,50.761654],
+  "geometry": {"alpha":0.00015,"bbox":[12.615801811218,50.74817276001,12.642172813416,50.761653900146],"coordinates":[[[[12.627882,50.761654],[12.641229,50.760593],[12.642173,50.76046],[12.638141,50.748173],[12.626439,50.75135],[12.615802,50.756439],[12.627882,50.761654]]]],"created":1292494627,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/671621_20101216_80069c0197.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

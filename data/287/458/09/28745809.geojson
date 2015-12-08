@@ -1,0 +1,15 @@
+{
+  "id": 28745809,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Valley, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":28745809,
+    "woe:name":"Pine Valley, North Carolina, United States",
+    "woe:place_id":"4bbidMKbCZvqWHqKpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.909241,34.171612,-77.891335,34.18454],
+  "geometry": {"alpha":0.00015,"bbox":[-77.909240722656,34.171611785889,-77.891334533691,34.184539794922],"coordinates":[[[[-77.894096,34.18454],[-77.891335,34.176998],[-77.89196,34.171612],[-77.9058,34.17625],[-77.909241,34.179012],[-77.894096,34.18454]]]],"created":1292521682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/28745809_20101216_a3ee303caa.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

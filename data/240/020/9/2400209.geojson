@@ -1,0 +1,15 @@
+{
+  "id": 2400209,
+  "type": "Feature",
+  "properties": {
+    "name":"Esmond, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2400209,
+    "woe:name":"Esmond, Georgia, United States",
+    "woe:place_id":"MF10mjubBZy0cpKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.338425,33.26749,-84.331741,33.273712],
+  "geometry": {"alpha":0.00015,"bbox":[-84.338424682617,33.267490386963,-84.331741333008,33.273712158203],"coordinates":[[[[-84.335869,33.267891],[-84.336945,33.268654],[-84.338425,33.269962],[-84.331741,33.273712],[-84.334045,33.26749],[-84.335869,33.267891]]]],"created":1292542629,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2400209_20101216_c18ce348ce.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

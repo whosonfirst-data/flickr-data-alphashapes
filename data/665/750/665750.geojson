@@ -1,0 +1,15 @@
+{
+  "id": 665750,
+  "type": "Feature",
+  "properties": {
+    "name":"Kietz, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":665750,
+    "woe:name":"Kietz, Brandenburg, Germany",
+    "woe:place_id":"w1UpfASfB5kT4IM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.601345,52.559605,14.620313,52.570557],
+  "geometry": {"alpha":0.00015,"bbox":[14.601345062256,52.559604644775,14.620312690735,52.570556640625],"coordinates":[[[[14.615811,52.570557],[14.619433,52.565628],[14.619455,52.564453],[14.620313,52.559605],[14.601345,52.567585],[14.615811,52.570557]]]],"created":1292466846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/665750_20101216_4ed5692817.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

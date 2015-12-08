@@ -1,0 +1,15 @@
+{
+  "id": 20070151,
+  "type": "Feature",
+  "properties": {
+    "name":"Ekiti, NG, Nigeria",
+    "placetype":"region",
+    "woe:id":20070151,
+    "woe:name":"Ekiti, NG, Nigeria",
+    "woe:place_id":"DOLvluKbAZxy7ougXg",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [5.068473,7.606531,5.394287,7.811939],
+  "geometry": {"alpha":0.03,"bbox":[5.0684728622437,7.6065311431885,5.394287109375,7.8119387626648],"coordinates":[[[[5.219364,7.606531],[5.068473,7.811939],[5.338497,7.801341],[5.394287,7.710991],[5.339029,7.648729],[5.219364,7.606531]]]],"created":1292517688,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20070151_20101216_ca34cc21b2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

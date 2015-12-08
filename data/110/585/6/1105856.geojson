@@ -1,0 +1,15 @@
+{
+  "id": 1105856,
+  "type": "Feature",
+  "properties": {
+    "name":"Tarana, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1105856,
+    "woe:name":"Tarana, New South Wales, Australia",
+    "woe:place_id":"d8hytsmYAJwH3eyM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.900208,-33.54311,149.922867,-33.5205],
+  "geometry": {"alpha":0.00015,"bbox":[149.90020751953,-33.543109893799,149.92286682129,-33.520500183105],"coordinates":[[[[149.908218,-33.525089],[149.922867,-33.54311],[149.905502,-33.526669],[149.900208,-33.526657],[149.907761,-33.5205],[149.908203,-33.524124],[149.908218,-33.525089]]]],"created":1292534597,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/1105856_20101216_f1c1448660.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

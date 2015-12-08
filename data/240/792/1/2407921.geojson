@@ -1,0 +1,15 @@
+{
+  "id": 2407921,
+  "type": "Feature",
+  "properties": {
+    "name":"Fruit, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2407921,
+    "woe:name":"Fruit, Illinois, United States",
+    "woe:place_id":"HYXcEgmbBZxfG_J4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.877159,38.833618,-89.869446,38.844444],
+  "geometry": {"alpha":0.00015,"bbox":[-89.877159118652,38.833618164062,-89.869445800781,38.844444274902],"coordinates":[[[[-89.869446,38.844444],[-89.870003,38.84383],[-89.877159,38.833618],[-89.875031,38.841045],[-89.872971,38.842247],[-89.869446,38.844444]]]],"created":1292456645,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2407921_20101215_4ba60f886d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

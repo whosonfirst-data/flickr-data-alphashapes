@@ -1,0 +1,15 @@
+{
+  "id": 2379234,
+  "type": "Feature",
+  "properties": {
+    "name":"Cheshire, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2379234,
+    "woe:name":"Cheshire, Ohio, United States",
+    "woe:place_id":"4lc7DMCbAptgWK3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.122375,38.93523,-82.105026,38.952873],
+  "geometry": {"alpha":0.00015,"bbox":[-82.122375488281,38.935230255127,-82.105026245117,38.95287322998],"coordinates":[[[[-82.112328,38.951935],[-82.105026,38.952873],[-82.106583,38.935642],[-82.114861,38.93523],[-82.122375,38.945992],[-82.112328,38.951935]]]],"created":1292532484,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2379234_20101216_94ff7b9a3b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 625045,
+  "type": "Feature",
+  "properties": {
+    "name":"St Just, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":625045,
+    "woe:name":"St Just, Rhone-Alpes, France",
+    "woe:place_id":".5A7.nefA5nwbBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.869934,45.729488,3.892185,45.74147],
+  "geometry": {"alpha":0.00015,"bbox":[3.8699340820312,45.729488372803,3.8921849727631,45.741470336914],"coordinates":[[[[3.889911,45.731918],[3.892185,45.730701],[3.889524,45.729488],[3.869934,45.73716],[3.870191,45.74147],[3.889911,45.731918]]]],"created":1292515984,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/625045_20101216_a8b9f58522.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

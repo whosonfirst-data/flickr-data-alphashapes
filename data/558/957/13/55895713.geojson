@@ -1,0 +1,15 @@
+{
+  "id": 55895713,
+  "type": "Feature",
+  "properties": {
+    "name":"San Miguel El Alto, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":55895713,
+    "woe:name":"San Miguel El Alto, Jalisco, Mexico",
+    "woe:place_id":"cBwczzWcBJTRMF5M7A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.404335,21.030703,-102.402092,21.035955],
+  "geometry": {"alpha":0.00015,"bbox":[-102.40433502197,21.030702590942,-102.40209197998,21.035955429077],"coordinates":[[[[-102.40361,21.030712],[-102.404335,21.032915],[-102.403114,21.035839],[-102.402092,21.035955],[-102.402771,21.030703],[-102.40361,21.030712]]]],"created":1292449963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/55895713_20101215_42c9739ed4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

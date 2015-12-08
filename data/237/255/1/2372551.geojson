@@ -1,0 +1,15 @@
+{
+  "id": 2372551,
+  "type": "Feature",
+  "properties": {
+    "name":"Busti, New York, United States",
+    "placetype":"locality",
+    "woe:id":2372551,
+    "woe:name":"Busti, New York, United States",
+    "woe:place_id":"9iQeM.ybApuUA4Jr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.346352,42.099274,-79.326332,42.102833],
+  "geometry": {"alpha":0.00015,"bbox":[-79.346351623535,42.099273681641,-79.326332092285,42.102832794189],"coordinates":[[[[-79.32708,42.099453],[-79.327469,42.099323],[-79.346352,42.099274],[-79.326332,42.102833],[-79.32637,42.100777],[-79.32708,42.099453]]]],"created":1292551135,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2372551_20101217_7d5d1e44bf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

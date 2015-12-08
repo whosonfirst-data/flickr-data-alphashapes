@@ -1,0 +1,15 @@
+{
+  "id": 670411,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanze, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":670411,
+    "woe:name":"Lanze, Schleswig-Holstein, Germany",
+    "woe:place_id":"MYLJ4NafBpzlQlY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.583728,53.374649,10.594422,53.378616],
+  "geometry": {"alpha":0.00015,"bbox":[10.583727836609,53.374649047852,10.594422340393,53.378616333008],"coordinates":[[[[10.585575,53.374699],[10.583728,53.376717],[10.583953,53.378616],[10.594422,53.376038],[10.594052,53.375706],[10.585927,53.374649],[10.585575,53.374699]]]],"created":1292458445,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/670411_20101216_9f8fd046be.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 573290,
+  "type": "Feature",
+  "properties": {
+    "name":"Sonka, Lapland, Finland",
+    "placetype":"locality",
+    "woe:id":573290,
+    "woe:name":"Sonka, Lapland, Finland",
+    "woe:place_id":"pNfIj96cBp_6bTk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.219919,66.609665,25.242891,66.63073],
+  "geometry": {"alpha":0.00015,"bbox":[25.219919204712,66.609664916992,25.242891311646,66.630729675293],"coordinates":[[[[25.226999,66.609833],[25.226999,66.609665],[25.226667,66.610001],[25.219919,66.625763],[25.228085,66.63073],[25.242891,66.627098],[25.226999,66.609833]]]],"created":1292530492,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/573290_20101216_d8a61766c3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

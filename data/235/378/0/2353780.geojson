@@ -1,0 +1,15 @@
+{
+  "id": 2353780,
+  "type": "Feature",
+  "properties": {
+    "name":"Alsdorf, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2353780,
+    "woe:name":"Alsdorf, Texas, United States",
+    "woe:place_id":"q5cKq0ybApm9Lbup",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.584305,32.398048,-96.567444,32.409023],
+  "geometry": {"alpha":0.00015,"bbox":[-96.58430480957,32.398048400879,-96.567443847656,32.409023284912],"coordinates":[[[[-96.569054,32.409023],[-96.567444,32.405582],[-96.568588,32.405754],[-96.581261,32.398048],[-96.584305,32.4002],[-96.569054,32.409023]]]],"created":1292444486,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2353780_20101215_de212c4de0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

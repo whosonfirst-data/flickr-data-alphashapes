@@ -1,0 +1,15 @@
+{
+  "id": 586006,
+  "type": "Feature",
+  "properties": {
+    "name":"Cinq Ormes, Centre, France",
+    "placetype":"locality",
+    "woe:id":586006,
+    "woe:name":"Cinq Ormes, Centre, France",
+    "woe:place_id":"MCXRTEWcCZr6Vw4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.648529,48.438,1.653528,48.439243],
+  "geometry": {"alpha":0.00015,"bbox":[1.6485290527344,48.437999725342,1.6535279750824,48.43924331665],"coordinates":[[[[1.64884,48.438988],[1.648529,48.439243],[1.64929,48.439186],[1.653528,48.438396],[1.652412,48.438],[1.651382,48.438168],[1.64884,48.438988]]]],"created":1292528032,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/586006_20101216_0918362b95.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12665474,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Pilles, France",
+    "placetype":"locality",
+    "woe:id":12665474,
+    "woe:name":"Les Pilles, France",
+    "woe:place_id":"i6_R1caYA5rGOBoQng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.185605,44.379002,5.192279,44.381233],
+  "geometry": {"alpha":1e-05,"bbox":[5.1856050491333,44.379001617432,5.1922788619995,44.381233215332],"coordinates":[[[[5.191152,44.379002],[5.190541,44.379139],[5.185605,44.379505],[5.189151,44.381233],[5.192279,44.380566],[5.19215,44.380318],[5.191152,44.379002]]]],"created":1292494746,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12665474_20101216_5e097aabb2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

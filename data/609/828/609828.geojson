@@ -1,0 +1,15 @@
+{
+  "id": 609828,
+  "type": "Feature",
+  "properties": {
+    "name":"Marcheseuil, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":609828,
+    "woe:name":"Marcheseuil, Burgundy, France",
+    "woe:place_id":"GiBUvVyfAZURbsc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.333376,47.137142,4.353013,47.148071],
+  "geometry": {"alpha":0.00015,"bbox":[4.3333759307861,47.137142181396,4.3530130386353,47.148071289062],"coordinates":[[[[4.352777,47.148071],[4.353013,47.148037],[4.345092,47.137142],[4.333376,47.142811],[4.346981,47.14513],[4.352633,47.148033],[4.352777,47.148071]]]],"created":1292475004,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/609828_20101216_18e20540fc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

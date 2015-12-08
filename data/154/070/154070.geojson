@@ -1,0 +1,15 @@
+{
+  "id": 154070,
+  "type": "Feature",
+  "properties": {
+    "name":"San Rafael del Norte, Jinotega, Nicaragua",
+    "placetype":"locality",
+    "woe:id":154070,
+    "woe:name":"San Rafael del Norte, Jinotega, Nicaragua",
+    "woe:place_id":"Fgu4zSiYBJhTwFk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.116333,13.194657,-86.10778,13.223402],
+  "geometry": {"alpha":0.00015,"bbox":[-86.116333007812,13.194657325745,-86.107780456543,13.223402023315],"coordinates":[[[[-86.110664,13.214879],[-86.10778,13.203689],[-86.116333,13.194657],[-86.111008,13.214294],[-86.110664,13.223402],[-86.110664,13.214879]]]],"created":1292522876,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/154070_20101216_e7a85589aa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

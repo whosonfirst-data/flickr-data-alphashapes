@@ -1,0 +1,15 @@
+{
+  "id": 2421317,
+  "type": "Feature",
+  "properties": {
+    "name":"Highgate Falls, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2421317,
+    "woe:name":"Highgate Falls, Vermont, United States",
+    "woe:place_id":"3D9yTjWbBZ7y4Toj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.052261,44.931965,-73.041229,44.939041],
+  "geometry": {"alpha":0.00015,"bbox":[-73.052261352539,44.931964874268,-73.041229248047,44.939041137695],"coordinates":[[[[-73.048309,44.931965],[-73.052261,44.934181],[-73.04998,44.939041],[-73.044159,44.938778],[-73.041229,44.93224],[-73.048309,44.931965]]]],"created":1292542076,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2421317_20101216_573bd9ed90.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

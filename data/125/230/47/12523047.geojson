@@ -1,0 +1,15 @@
+{
+  "id": 12523047,
+  "type": "Feature",
+  "properties": {
+    "name":"Pulkuvo 2 Airport, Russia",
+    "placetype":"locality",
+    "woe:id":12523047,
+    "woe:name":"Pulkuvo 2 Airport, Russia",
+    "woe:place_id":"NEKs3p2YA5lzCgrtwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [30.309563,59.939262,30.315636,59.941216],
+  "geometry": {"alpha":1e-05,"bbox":[30.309562683105,59.939262390137,30.315635681152,59.941215515137],"coordinates":[[[[30.315636,59.939262],[30.312481,59.939491],[30.309563,59.940071],[30.313425,59.940395],[30.314905,59.941216],[30.315636,59.939262]]]],"created":1234828327,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3555/shapefiles/12523047_20090216_524d7cb6d8.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3487,
+  "type": "Feature",
+  "properties": {
+    "name":"Plessisville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3487,
+    "woe:name":"Plessisville, Quebec, Canada",
+    "woe:place_id":"3M9frcqaBZS_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.789024,46.217407,-71.761147,46.225304],
+  "geometry": {"alpha":0.00015,"bbox":[-71.789024353027,46.217407226562,-71.76114654541,46.225303649902],"coordinates":[[[[-71.764595,46.224365],[-71.764503,46.224274],[-71.761147,46.220287],[-71.773209,46.217407],[-71.789024,46.219425],[-71.783508,46.225304],[-71.764595,46.224365]]]],"created":1239524647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3379/shapefiles/3487_20090412_7a5fb47eea.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

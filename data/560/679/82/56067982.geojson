@@ -1,0 +1,15 @@
+{
+  "id": 56067982,
+  "type": "Feature",
+  "properties": {
+    "name":"Da Praia Grande, Santa Catarina, Brazil",
+    "placetype":"locality",
+    "woe:id":56067982,
+    "woe:name":"Da Praia Grande, Santa Catarina, Brazil",
+    "woe:place_id":"5dzXmd6cB5yAyvA1og",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-48.511848,-26.253855,-48.500862,-26.234158],
+  "geometry": {"alpha":0.00015,"bbox":[-48.511848449707,-26.253854751587,-48.500862121582,-26.234157562256],"coordinates":[[[[-48.511848,-26.253855],[-48.511848,-26.253084],[-48.50423,-26.234158],[-48.500862,-26.236149],[-48.509102,-26.252316],[-48.511848,-26.253855]]]],"created":1292438006,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/56067982_20101215_1068319378.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

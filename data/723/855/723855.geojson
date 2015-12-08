@@ -1,0 +1,15 @@
+{
+  "id": 723855,
+  "type": "Feature",
+  "properties": {
+    "name":"Scanzano, Abruzzi, Italy",
+    "placetype":"locality",
+    "woe:id":723855,
+    "woe:name":"Scanzano, Abruzzi, Italy",
+    "woe:place_id":"0mXVIwGeA58xx0I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.250026,42.105457,13.263244,42.113697],
+  "geometry": {"alpha":0.00015,"bbox":[13.250025749207,42.105457305908,13.263243675232,42.113697052002],"coordinates":[[[[13.25008,42.105457],[13.250144,42.105965],[13.250026,42.113697],[13.263244,42.108093],[13.251271,42.105846],[13.25008,42.105457]]]],"created":1292520825,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/723855_20101216_65d76cb493.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

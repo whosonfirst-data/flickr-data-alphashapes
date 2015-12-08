@@ -1,0 +1,15 @@
+{
+  "id": 12676482,
+  "type": "Feature",
+  "properties": {
+    "name":"Carona, Italy",
+    "placetype":"locality",
+    "woe:id":12676482,
+    "woe:name":"Carona, Italy",
+    "woe:place_id":"l_E4zlGYA5pLtWdsDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.82315,46.019264,9.827957,46.027599],
+  "geometry": {"alpha":1e-05,"bbox":[9.8231496810913,46.019264221191,9.8279571533203,46.027599334717],"coordinates":[[[[9.823344,46.019264],[9.82315,46.022835],[9.82521,46.021999],[9.827957,46.027599],[9.827613,46.021999],[9.823344,46.019264]]]],"created":1292525713,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12676482_20101216_17ed42e9ce.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

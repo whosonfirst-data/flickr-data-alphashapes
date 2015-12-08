@@ -1,0 +1,15 @@
+{
+  "id": 666480,
+  "type": "Feature",
+  "properties": {
+    "name":"Klein Lieskow, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":666480,
+    "woe:name":"Klein Lieskow, Brandenburg, Germany",
+    "woe:place_id":"iExS_jefB5qo6qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.432833,51.795334,14.436833,51.797501],
+  "geometry": {"alpha":0.00015,"bbox":[14.432832717896,51.795333862305,14.436833381653,51.797500610352],"coordinates":[[[[14.433666,51.795334],[14.432833,51.796497],[14.433,51.796665],[14.436666,51.797501],[14.436833,51.797333],[14.433833,51.795334],[14.433666,51.795334]]]],"created":1292453612,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/666480_20101215_95d8a1e30e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

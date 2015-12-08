@@ -1,0 +1,15 @@
+{
+  "id": 2454318,
+  "type": "Feature",
+  "properties": {
+    "name":"Morrisonville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2454318,
+    "woe:name":"Morrisonville, Illinois, United States",
+    "woe:place_id":"W81UNxibBZnUEVuE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.458656,39.415588,-89.450005,39.427078],
+  "geometry": {"alpha":0.00015,"bbox":[-89.458656311035,39.415588378906,-89.450004577637,39.42707824707],"coordinates":[[[[-89.458366,39.416336],[-89.45813,39.418308],[-89.458656,39.427078],[-89.45578,39.421452],[-89.450005,39.415588],[-89.458366,39.416336]]]],"created":1292486222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2454318_20101216_ccb054ee32.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

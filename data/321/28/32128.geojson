@@ -1,0 +1,15 @@
+{
+  "id": 32128,
+  "type": "Feature",
+  "properties": {
+    "name":"Plaistow, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32128,
+    "woe:name":"Plaistow, England, United Kingdom",
+    "woe:place_id":"W.Ru1FuaA536ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.583633,51.061798,-0.566568,51.079689],
+  "geometry": {"alpha":0.00015,"bbox":[-0.58363300561905,51.061798095703,-0.56656801700592,51.079689025879],"coordinates":[[[[-0.566568,51.068802],[-0.568628,51.061798],[-0.570087,51.06263],[-0.583633,51.064133],[-0.56805,51.079689],[-0.566568,51.068802]]]],"created":1292537476,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/32128_20101216_40d946aaaa.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 599932,
+  "type": "Feature",
+  "properties": {
+    "name":"La Salle, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":599932,
+    "woe:name":"La Salle, Rhone-Alpes, France",
+    "woe:place_id":"nEjBNAWcCJWjLnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.854682,44.850025,5.868759,44.8643],
+  "geometry": {"alpha":0.00015,"bbox":[5.854681968689,44.850025177002,5.8687591552734,44.86429977417],"coordinates":[[[[5.86319,44.8643],[5.864703,44.863945],[5.868759,44.850025],[5.854682,44.85733],[5.86215,44.863991],[5.86319,44.8643]]]],"created":1292406605,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/599932_20101215_bf9f5e70fa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

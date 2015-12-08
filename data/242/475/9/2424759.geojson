@@ -1,0 +1,15 @@
+{
+  "id": 2424759,
+  "type": "Feature",
+  "properties": {
+    "name":"Houston, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2424759,
+    "woe:name":"Houston, Mississippi, United States",
+    "woe:place_id":"UECWPcKbBZ7Mqr8f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.716141,32.408665,-88.699303,32.41328],
+  "geometry": {"alpha":0.00015,"bbox":[-88.71614074707,32.408664703369,-88.69930267334,32.413280487061],"coordinates":[[[[-88.707169,32.41],[-88.715134,32.410995],[-88.716141,32.41328],[-88.706001,32.411667],[-88.700668,32.412998],[-88.699303,32.409607],[-88.699997,32.408665],[-88.703003,32.409],[-88.706497,32.409664],[-88.707169,32.41]]]],"created":1292549752,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2424759_20101217_008b116370.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

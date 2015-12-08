@@ -1,0 +1,15 @@
+{
+  "id": 722308,
+  "type": "Feature",
+  "properties": {
+    "name":"Sambuco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":722308,
+    "woe:name":"Sambuco, Piedmont, Italy",
+    "woe:place_id":"N4dW6SueA546J1I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.063179,44.336037,7.077941,44.342266],
+  "geometry": {"alpha":0.00015,"bbox":[7.0631790161133,44.336036682129,7.0779409408569,44.342266082764],"coordinates":[[[[7.077941,44.337845],[7.077898,44.336037],[7.0738,44.337708],[7.066268,44.338398],[7.063179,44.342266],[7.073392,44.339748],[7.077941,44.337845]]]],"created":1292499131,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/722308_20101216_4319d5b359.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12684295,
+  "type": "Feature",
+  "properties": {
+    "name":"Rorbas, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684295,
+    "woe:name":"Rorbas, Switzerland",
+    "woe:place_id":"4jdPgwWYA5rnt0vNKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.554666,47.540222,8.554777,47.540611],
+  "geometry": {"alpha":1e-05,"bbox":[8.5546655654907,47.540222167969,8.5547771453857,47.54061126709],"coordinates":[[[[8.554666,47.540306],[8.554777,47.540611],[8.554777,47.540585],[8.554777,47.540554],[8.554777,47.54047],[8.554722,47.540222],[8.554666,47.540306]]]],"created":1292531774,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12684295_20101216_8672268485.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2426567,
+  "type": "Feature",
+  "properties": {
+    "name":"Igo, California, United States",
+    "placetype":"locality",
+    "woe:id":2426567,
+    "woe:name":"Igo, California, United States",
+    "woe:place_id":"xmMSHYqbBZ5jkFB8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.561417,40.489693,-122.540077,40.519299],
+  "geometry": {"alpha":0.00015,"bbox":[-122.56141662598,40.489692687988,-122.54007720947,40.519298553467],"coordinates":[[[[-122.546951,40.49683],[-122.550117,40.489693],[-122.561417,40.505966],[-122.550781,40.519299],[-122.540077,40.505798],[-122.546951,40.49683]]]],"created":1292531606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2426567_20101216_b88c963854.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

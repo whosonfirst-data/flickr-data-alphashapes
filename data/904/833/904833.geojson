@@ -1,0 +1,15 @@
+{
+  "id": 904833,
+  "type": "Feature",
+  "properties": {
+    "name":"Smedby, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":904833,
+    "woe:name":"Smedby, Stockholm, Sweden",
+    "woe:place_id":"wNbUDJGQAZjBPuE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.906759,59.508312,17.906996,59.508518],
+  "geometry": {"alpha":0.00015,"bbox":[17.906759262085,59.508312225342,17.906995773315,59.508518218994],"coordinates":[[[[17.906931,59.508499],[17.906996,59.508408],[17.906866,59.508312],[17.906759,59.508518],[17.906931,59.508499]]]],"created":1292414042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/904833_20101215_8ef054d64e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

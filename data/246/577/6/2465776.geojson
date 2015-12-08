@@ -1,0 +1,15 @@
+{
+  "id": 2465776,
+  "type": "Feature",
+  "properties": {
+    "name":"Opequon Farms, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2465776,
+    "woe:name":"Opequon Farms, Maryland, United States",
+    "woe:place_id":"pahc.2ibBZrS7mZR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.84156,39.529186,-77.831322,39.538799],
+  "geometry": {"alpha":0.00015,"bbox":[-77.84156036377,39.529186248779,-77.831321716309,39.538799285889],"coordinates":[[[[-77.841179,39.529186],[-77.84156,39.52972],[-77.838783,39.538799],[-77.831322,39.5383],[-77.838737,39.533138],[-77.841179,39.529186]]]],"created":1292377084,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2465776_20101215_7d67423526.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2348645,
+  "type": "Feature",
+  "properties": {
+    "name":"Granity, West Coast, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348645,
+    "woe:name":"Granity, West Coast, New Zealand",
+    "woe:place_id":"XbhZGvSbApg8Wfel",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [171.850891,-41.634689,171.861877,-41.621731],
+  "geometry": {"alpha":0.00015,"bbox":[171.85089111328,-41.634689331055,171.86187744141,-41.621730804443],"coordinates":[[[[171.850952,-41.632633],[171.851517,-41.626507],[171.860153,-41.621731],[171.861877,-41.63084],[171.859131,-41.631866],[171.850891,-41.634689],[171.850952,-41.632633]]]],"created":1292547362,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2348645_20101217_ea5fc44eb6.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

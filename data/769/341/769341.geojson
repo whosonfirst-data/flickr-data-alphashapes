@@ -1,0 +1,15 @@
+{
+  "id": 769341,
+  "type": "Feature",
+  "properties": {
+    "name":"Pandiello, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":769341,
+    "woe:name":"Pandiello, Asturias, Spain",
+    "woe:place_id":"Ye0cp1KeB5VxQhM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.891147,43.317932,-4.879217,43.326302],
+  "geometry": {"alpha":0.00015,"bbox":[-4.8911471366882,43.317932128906,-4.8792171478271,43.326301574707],"coordinates":[[[[-4.879217,43.324299],[-4.879251,43.322968],[-4.883422,43.317932],[-4.891147,43.318058],[-4.885311,43.326302],[-4.879217,43.324299]]]],"created":1292456168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/769341_20101215_da56e7d3ff.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28586215,
+  "type": "Feature",
+  "properties": {
+    "name":"Montecollum, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28586215,
+    "woe:name":"Montecollum, New South Wales, Australia",
+    "woe:place_id":"FZ0dpRibCZmbRnYL_w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.459,-28.597485,153.464417,-28.589092],
+  "geometry": {"alpha":0.00015,"bbox":[153.45899963379,-28.597484588623,153.46441650391,-28.589092254639],"coordinates":[[[[153.459,-28.591499],[153.459,-28.591333],[153.463379,-28.589458],[153.464355,-28.589092],[153.464417,-28.596655],[153.463989,-28.597485],[153.459,-28.591499]]]],"created":1292541322,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/28586215_20101216_93ed037067.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

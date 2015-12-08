@@ -1,0 +1,15 @@
+{
+  "id": 37361,
+  "type": "Feature",
+  "properties": {
+    "name":"Thornton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37361,
+    "woe:name":"Thornton, England, United Kingdom",
+    "woe:place_id":"74clMzSaBp_pXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.852127,53.890327,-0.841484,53.918594],
+  "geometry": {"alpha":0.00015,"bbox":[-0.85212701559067,53.890327453613,-0.84148401021957,53.918594360352],"coordinates":[[[[-0.843715,53.89048],[-0.85,53.900002],[-0.852127,53.918594],[-0.847663,53.917988],[-0.85,53.900002],[-0.841484,53.890327],[-0.843715,53.89048]]]],"created":1292547337,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/37361_20101217_d70b65e462.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

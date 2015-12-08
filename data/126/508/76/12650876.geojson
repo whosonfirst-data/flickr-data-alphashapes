@@ -1,0 +1,15 @@
+{
+  "id": 12650876,
+  "type": "Feature",
+  "properties": {
+    "name":"Porte-Joie, France",
+    "placetype":"locality",
+    "woe:id":12650876,
+    "woe:name":"Porte-Joie, France",
+    "woe:place_id":"BFean6uYA5p_TUDhSQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.251282,49.243603,1.255445,49.248058],
+  "geometry": {"alpha":1e-05,"bbox":[1.2512819766998,49.243602752686,1.2554450035095,49.248058319092],"coordinates":[[[[1.254673,49.243603],[1.251282,49.243938],[1.254175,49.247234],[1.255445,49.248058],[1.254501,49.244949],[1.254673,49.243603]]]],"created":1292472611,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12650876_20101216_d4b8b2c164.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

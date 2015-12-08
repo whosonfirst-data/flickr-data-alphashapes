@@ -1,0 +1,15 @@
+{
+  "id": 20110286,
+  "type": "Feature",
+  "properties": {
+    "name":"Aviatico, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20110286,
+    "woe:name":"Aviatico, Lombardy, Italy",
+    "woe:place_id":"DMsuBoybAZ1BXB2tjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.76633,45.800323,9.784355,45.806366],
+  "geometry": {"alpha":0.00015,"bbox":[9.7663297653198,45.800323486328,9.7843551635742,45.806365966797],"coordinates":[[[[9.7756,45.806366],[9.784355,45.802715],[9.777145,45.800323],[9.769689,45.801022],[9.76633,45.805946],[9.7756,45.806366]]]],"created":1292502247,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20110286_20101216_b607315f9a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

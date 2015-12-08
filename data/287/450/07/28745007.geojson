@@ -1,0 +1,15 @@
+{
+  "id": 28745007,
+  "type": "Feature",
+  "properties": {
+    "name":"Union Vale, New York, United States",
+    "placetype":"locality",
+    "woe:id":28745007,
+    "woe:name":"Union Vale, New York, United States",
+    "woe:place_id":"lBqMN.ybCZsoDHcW7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.675262,41.699577,-73.666077,41.71534],
+  "geometry": {"alpha":0.00015,"bbox":[-73.675262451172,41.699577331543,-73.666076660156,41.715339660645],"coordinates":[[[[-73.675262,41.713833],[-73.67363,41.71534],[-73.666077,41.699577],[-73.675171,41.713737],[-73.675262,41.713833]]]],"created":1292455327,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/28745007_20101215_ac0d3a6c37.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

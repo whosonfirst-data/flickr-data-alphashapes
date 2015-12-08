@@ -1,0 +1,15 @@
+{
+  "id": 722338,
+  "type": "Feature",
+  "properties": {
+    "name":"San Basilio, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722338,
+    "woe:name":"San Basilio, Veneto, Italy",
+    "woe:place_id":"JwyilR.eA56KU4s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.158946,44.941231,12.177486,44.951195],
+  "geometry": {"alpha":0.00015,"bbox":[12.158946037292,44.941230773926,12.177486419678,44.951194763184],"coordinates":[[[[12.163238,44.941715],[12.158946,44.943024],[12.164955,44.945362],[12.170104,44.951195],[12.177486,44.945938],[12.174224,44.941231],[12.163238,44.941715]]]],"created":1292520784,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/722338_20101216_c916a4540b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 135252,
+  "type": "Feature",
+  "properties": {
+    "name":"Olivar del Conde, Distrito Federal, Mexico",
+    "placetype":"locality",
+    "woe:id":135252,
+    "woe:name":"Olivar del Conde, Distrito Federal, Mexico",
+    "woe:place_id":"DWoAJtOYAplxnNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.230331,19.364555,-99.212723,19.375607],
+  "geometry": {"alpha":0.00015,"bbox":[-99.230331420898,19.364555358887,-99.21272277832,19.375606536865],"coordinates":[[[[-99.230049,19.371244],[-99.230331,19.371731],[-99.212723,19.375607],[-99.21624,19.364555],[-99.222466,19.368967],[-99.230049,19.371244]]]],"created":1292543589,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/135252_20101216_a59ebfb043.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2390117,
+  "type": "Feature",
+  "properties": {
+    "name":"Deanville, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2390117,
+    "woe:name":"Deanville, Texas, United States",
+    "woe:place_id":"UjFgm8abApUF7Nmq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.756172,30.432293,-96.752998,30.434534],
+  "geometry": {"alpha":0.00015,"bbox":[-96.756172180176,30.432292938232,-96.752998352051,30.434534072876],"coordinates":[[[[-96.752998,30.433271],[-96.753418,30.432293],[-96.753525,30.432293],[-96.753845,30.432392],[-96.756172,30.434534],[-96.752998,30.433271]]]],"created":1292528268,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2390117_20101216_5d6e4edf50.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

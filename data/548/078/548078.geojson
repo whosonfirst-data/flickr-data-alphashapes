@@ -1,0 +1,15 @@
+{
+  "id": 548078,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardning, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548078,
+    "woe:name":"Ardning, Styria, Austria",
+    "woe:place_id":"TwYK69OcBZQGh8I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.345569,47.577637,14.368825,47.591499],
+  "geometry": {"alpha":0.00015,"bbox":[14.345568656921,47.57763671875,14.368824958801,47.591499328613],"coordinates":[[[[14.350461,47.578003],[14.345569,47.579361],[14.351577,47.58469],[14.362833,47.591499],[14.368825,47.57803],[14.368152,47.577637],[14.350461,47.578003]]]],"created":1292453469,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/548078_20101215_383512f3dd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12591617,
+  "type": "Feature",
+  "properties": {
+    "name":"Sevnica, Sevnica, Slovenia",
+    "placetype":"county",
+    "woe:id":12591617,
+    "woe:name":"Sevnica, Sevnica, Slovenia",
+    "woe:place_id":"jpR_qYaYA5lPes83DQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [15.268592,45.989326,15.33348,46.070431],
+  "geometry": {"alpha":0.0015,"bbox":[15.268591880798,45.989326477051,15.333479881287,46.070430755615],"coordinates":[[[[15.312795,46.006741],[15.274429,45.989326],[15.269622,46.016037],[15.268592,46.017826],[15.299491,46.070431],[15.33348,46.024738],[15.312795,46.006741]]]],"created":1292477884,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12591617_20101216_206ec5b897.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

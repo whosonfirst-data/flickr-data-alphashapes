@@ -1,0 +1,15 @@
+{
+  "id": 20073616,
+  "type": "Feature",
+  "properties": {
+    "name":"Ballybay Urban, Ireland",
+    "placetype":"locality",
+    "woe:id":20073616,
+    "woe:name":"Ballybay Urban, Ireland",
+    "woe:place_id":"WTml38mbAZyoXu0c1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.903276,54.123241,-6.900444,54.128334],
+  "geometry": {"alpha":1e-05,"bbox":[-6.9032759666443,54.123241424561,-6.9004440307617,54.12833404541],"coordinates":[[[[-6.900787,54.126236],[-6.900444,54.12606],[-6.902418,54.123241],[-6.903276,54.128334],[-6.90216,54.127731],[-6.900787,54.126236]]]],"created":1292522366,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/20073616_20101216_49b7a85c29.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

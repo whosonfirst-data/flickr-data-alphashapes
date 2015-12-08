@@ -1,0 +1,15 @@
+{
+  "id": 845939,
+  "type": "Feature",
+  "properties": {
+    "name":"Torvandi, Tartu County, Estonia",
+    "placetype":"locality",
+    "woe:id":845939,
+    "woe:name":"Torvandi, Tartu County, Estonia",
+    "woe:place_id":"90WlcL.RBZmffJo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.69021,58.309284,26.707951,58.326477],
+  "geometry": {"alpha":0.00015,"bbox":[26.690210342407,58.309284210205,26.707950592041,58.326477050781],"coordinates":[[[[26.691767,58.310223],[26.707951,58.326477],[26.69195,58.310051],[26.69121,58.309284],[26.69021,58.310062],[26.690619,58.310238],[26.691767,58.310223]]]],"created":1292499485,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/845939_20101216_5cfd561c91.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

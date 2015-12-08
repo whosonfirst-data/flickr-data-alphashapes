@@ -1,0 +1,15 @@
+{
+  "id": 12663362,
+  "type": "Feature",
+  "properties": {
+    "name":"Valdeblore, France",
+    "placetype":"locality",
+    "woe:id":12663362,
+    "woe:name":"Valdeblore, France",
+    "woe:place_id":"KKwhfY2YA5q7zGHKqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.220249,44.067852,7.225527,44.07402],
+  "geometry": {"alpha":1e-05,"bbox":[7.2202491760254,44.067852020264,7.2255268096924,44.074020385742],"coordinates":[[[[7.223467,44.070999],[7.225227,44.07402],[7.225527,44.070057],[7.220249,44.067852],[7.223467,44.070999]]]],"created":1234945685,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3505/shapefiles/12663362_20090218_2075af2428.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2418743,
+  "type": "Feature",
+  "properties": {
+    "name":"Haven, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2418743,
+    "woe:name":"Haven, Kansas, United States",
+    "woe:place_id":"5dFykOGbBZ15026w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.793167,37.880165,-97.760292,37.897816],
+  "geometry": {"alpha":0.00015,"bbox":[-97.793167114258,37.880165100098,-97.760292053223,37.897815704346],"coordinates":[[[[-97.760292,37.890453],[-97.775261,37.880165],[-97.77626,37.882],[-97.793167,37.897816],[-97.77935,37.896393],[-97.760292,37.890453]]]],"created":1292469004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2418743_20101216_c551f4e3d0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

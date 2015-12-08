@@ -1,0 +1,15 @@
+{
+  "id": 2488239,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanatoga, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2488239,
+    "woe:name":"Sanatoga, Pennsylvania, United States",
+    "woe:place_id":"anOGEiObBZSpNK0h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.608467,40.238522,-75.592987,40.250053],
+  "geometry": {"alpha":0.00015,"bbox":[-75.608467102051,40.238521575928,-75.592987060547,40.250053405762],"coordinates":[[[[-75.594093,40.245468],[-75.592987,40.244812],[-75.593918,40.238522],[-75.608467,40.240486],[-75.598297,40.250053],[-75.594093,40.245468]]]],"created":1292517726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2488239_20101216_e6638bbe46.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

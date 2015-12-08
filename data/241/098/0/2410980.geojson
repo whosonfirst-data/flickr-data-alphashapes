@@ -1,0 +1,15 @@
+{
+  "id": 2410980,
+  "type": "Feature",
+  "properties": {
+    "name":"Glencoe, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2410980,
+    "woe:name":"Glencoe, Florida, United States",
+    "woe:place_id":"RDv.R1KbBZ3QXgBS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.012665,29.013807,-80.989754,29.030203],
+  "geometry": {"alpha":0.00015,"bbox":[-81.012664794922,29.013807296753,-80.989753723145,29.030202865601],"coordinates":[[[[-81.012665,29.016171],[-80.999542,29.030203],[-80.998634,29.028648],[-80.995285,29.023678],[-80.989754,29.013807],[-81.012665,29.016171]]]],"created":1292530793,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2410980_20101216_4ca37099e9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

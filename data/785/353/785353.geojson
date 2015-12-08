@@ -1,0 +1,15 @@
+{
+  "id": 785353,
+  "type": "Feature",
+  "properties": {
+    "name":"Egolzwil, Canton of Lucerne, Switzerland",
+    "placetype":"locality",
+    "woe:id":785353,
+    "woe:name":"Egolzwil, Canton of Lucerne, Switzerland",
+    "woe:place_id":"BysK2QieCZkxHuM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.993583,47.181576,8.0075,47.191833],
+  "geometry": {"alpha":0.00015,"bbox":[7.9935832023621,47.181575775146,8.0074996948242,47.191833496094],"coordinates":[[[[8.0075,47.184666],[8.007433,47.183792],[8.007488,47.181576],[8.002908,47.183739],[7.993583,47.191833],[8.0075,47.184666]]]],"created":1292520937,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/785353_20101216_6abf68df24.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2488596,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandy Creek, New York, United States",
+    "placetype":"locality",
+    "woe:id":2488596,
+    "woe:name":"Sandy Creek, New York, United States",
+    "woe:place_id":"69HEeOCbBZRwWdN_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.09288,43.627377,-76.079376,43.648571],
+  "geometry": {"alpha":0.00015,"bbox":[-76.092880249023,43.627376556396,-76.079376220703,43.648571014404],"coordinates":[[[[-76.086037,43.644234],[-76.09288,43.648571],[-76.083069,43.645111],[-76.079376,43.644337],[-76.083755,43.627377],[-76.086037,43.644234]]]],"created":1292528653,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2488596_20101216_43e058d16b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

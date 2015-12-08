@@ -1,0 +1,15 @@
+{
+  "id": 23395903,
+  "type": "Feature",
+  "properties": {
+    "name":"Havelock, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395903,
+    "woe:name":"Havelock, Quebec, Canada",
+    "woe:place_id":"uZzirGObAp9wuP7DKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.778214,45.033474,-73.757751,45.059456],
+  "geometry": {"alpha":0.00015,"bbox":[-73.778213500977,45.033473968506,-73.757751464844,45.059455871582],"coordinates":[[[[-73.757751,45.045471],[-73.758362,45.033474],[-73.765121,45.04541],[-73.778214,45.04562],[-73.7677,45.054119],[-73.760834,45.059456],[-73.757751,45.045471]]]],"created":1248063726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2533/shapefiles/23395903_20090720_1313b83f98.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

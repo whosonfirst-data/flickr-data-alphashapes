@@ -1,0 +1,15 @@
+{
+  "id": 2456693,
+  "type": "Feature",
+  "properties": {
+    "name":"Myers Park, Charlotte, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2456693,
+    "woe:name":"Myers Park, Charlotte, NC, US, United States",
+    "woe:place_id":"55josrObBZkmUsMm",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.841095,35.178684,-80.840752,35.178932],
+  "geometry": {"alpha":1e-05,"bbox":[-80.841094970703,35.178684234619,-80.840751647949,35.178932189941],"coordinates":[[[[-80.840973,35.178768],[-80.841026,35.17881],[-80.841095,35.178932],[-80.840843,35.178783],[-80.840752,35.178684],[-80.840973,35.178768]]]],"created":1292456772,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2456693_20101215_26f0d8f432.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

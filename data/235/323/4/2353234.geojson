@@ -1,0 +1,15 @@
+{
+  "id": 2353234,
+  "type": "Feature",
+  "properties": {
+    "name":"Allegany Grove, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2353234,
+    "woe:name":"Allegany Grove, Maryland, United States",
+    "woe:place_id":"yvYn32GbApmsQ9_l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.829948,39.636662,-78.812744,39.645351],
+  "geometry": {"alpha":0.00015,"bbox":[-78.829948425293,39.636661529541,-78.812744140625,39.645351409912],"coordinates":[[[[-78.828835,39.641499],[-78.818665,39.645351],[-78.812744,39.641552],[-78.822952,39.636662],[-78.829948,39.638985],[-78.828835,39.641499]]]],"created":1292468524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2353234_20101216_f16d7dee66.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

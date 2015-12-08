@@ -1,0 +1,15 @@
+{
+  "id": 12680280,
+  "type": "Feature",
+  "properties": {
+    "name":"Melzo, Italy",
+    "placetype":"locality",
+    "woe:id":12680280,
+    "woe:name":"Melzo, Italy",
+    "woe:place_id":"3N5bFyKYA5rWAaMG4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.415154,45.499165,9.422664,45.506046],
+  "geometry": {"alpha":1e-05,"bbox":[9.4151544570923,45.499164581299,9.4226636886597,45.506046295166],"coordinates":[[[[9.418791,45.500034],[9.415154,45.501308],[9.417493,45.503258],[9.41981,45.506046],[9.421806,45.505684],[9.421806,45.501842],[9.422664,45.499611],[9.422333,45.499165],[9.418791,45.500034]]]],"created":1248173044,"edges":9,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/12680280_20090721_35526562b0.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

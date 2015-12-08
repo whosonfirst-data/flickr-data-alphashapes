@@ -1,0 +1,15 @@
+{
+  "id": 23621,
+  "type": "Feature",
+  "properties": {
+    "name":"Holbeach, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23621,
+    "woe:name":"Holbeach, England, United Kingdom",
+    "woe:place_id":"e0RQULCbApoWuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.00339,52.802345,0.040297,52.812309],
+  "geometry": {"alpha":0.00015,"bbox":[0.0033899999689311,52.802345275879,0.040297001600266,52.812309265137],"coordinates":[[[[0.021286,52.802551],[0.011501,52.802345],[0.00339,52.804909],[0.010299,52.809868],[0.019912,52.812309],[0.040297,52.809975],[0.02459,52.804241],[0.021286,52.802551]]]],"created":1292547260,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23621_20101217_ec4e36b7db.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

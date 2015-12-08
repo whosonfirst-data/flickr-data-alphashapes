@@ -1,0 +1,15 @@
+{
+  "id": 1849,
+  "type": "Feature",
+  "properties": {
+    "name":"Valcourt, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1849,
+    "woe:name":"Valcourt, Quebec, Canada",
+    "woe:place_id":"heamoEGYCZgj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.318878,45.474094,-72.306862,45.500092],
+  "geometry": {"alpha":0.00015,"bbox":[-72.318878173828,45.474094390869,-72.306861877441,45.500091552734],"coordinates":[[[[-72.315834,45.491428],[-72.318878,45.500092],[-72.315941,45.497475],[-72.306862,45.494797],[-72.314758,45.474094],[-72.315834,45.491428]]]],"created":1292521324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/1849_20101216_ea2d6e8163.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

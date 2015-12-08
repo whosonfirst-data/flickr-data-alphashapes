@@ -1,0 +1,15 @@
+{
+  "id": 642341,
+  "type": "Feature",
+  "properties": {
+    "name":"Bukow, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":642341,
+    "woe:name":"Bukow, Brandenburg, Germany",
+    "woe:place_id":"NX2oSHqfBZ4LqHM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.70862,52.889168,13.717803,52.905613],
+  "geometry": {"alpha":0.00015,"bbox":[13.708620071411,52.889167785645,13.717803001404,52.905612945557],"coordinates":[[[[13.716166,52.889332],[13.716166,52.8895],[13.712482,52.900928],[13.70862,52.905613],[13.717803,52.89896],[13.7165,52.889168],[13.716166,52.889332]]]],"created":1292528891,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/642341_20101216_a5d1e069d8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

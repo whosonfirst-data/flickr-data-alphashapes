@@ -1,0 +1,15 @@
+{
+  "id": 650271,
+  "type": "Feature",
+  "properties": {
+    "name":"Frankfurt, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":650271,
+    "woe:name":"Frankfurt, Bavaria, Germany",
+    "woe:place_id":"k_YIDOKfBJxANy8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.523872,49.680264,10.527219,49.682442],
+  "geometry": {"alpha":0.00015,"bbox":[10.523872375488,49.680263519287,10.527218818665,49.682441711426],"coordinates":[[[[10.524859,49.680264],[10.523872,49.681541],[10.527155,49.682442],[10.527219,49.681889],[10.52624,49.680462],[10.524859,49.680264]]]],"created":1292539919,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/650271_20101216_af5456b7d0.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

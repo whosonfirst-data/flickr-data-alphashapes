@@ -1,0 +1,15 @@
+{
+  "id": 2351931,
+  "type": "Feature",
+  "properties": {
+    "name":"Adams Landing, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2351931,
+    "woe:name":"Adams Landing, Vermont, United States",
+    "woe:place_id":"veMM1FCbApknMrul",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.331383,44.735302,-73.316147,44.750877],
+  "geometry": {"alpha":0.00015,"bbox":[-73.331382751465,44.735301971436,-73.316146850586,44.750877380371],"coordinates":[[[[-73.322708,44.735302],[-73.331383,44.738808],[-73.328796,44.741901],[-73.316147,44.750877],[-73.316917,44.748501],[-73.322708,44.735302]]]],"created":1292529080,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2351931_20101216_1ac30b1a0a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

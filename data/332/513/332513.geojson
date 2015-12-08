@@ -1,0 +1,15 @@
+{
+  "id": 332513,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jorge, Santa Fe, Argentina",
+    "placetype":"locality",
+    "woe:id":332513,
+    "woe:name":"San Jorge, Santa Fe, Argentina",
+    "woe:place_id":"3xDH6pKaAp482ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.860752,-31.899347,-61.848564,-31.894175],
+  "geometry": {"alpha":0.00015,"bbox":[-61.860752105713,-31.899347305298,-61.848564147949,-31.894174575806],"coordinates":[[[[-61.855946,-31.894175],[-61.848564,-31.899347],[-61.857491,-31.897453],[-61.860752,-31.897381],[-61.855946,-31.894175]]]],"created":1292455738,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/332513_20101215_3686b1835e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2521126,
+  "type": "Feature",
+  "properties": {
+    "name":"Willow Glen, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2521126,
+    "woe:name":"Willow Glen, Alabama, United States",
+    "woe:place_id":"Zay31mCbBJ6KsirV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.833855,33.192379,-86.825615,33.210136],
+  "geometry": {"alpha":0.00015,"bbox":[-86.833854675293,33.192378997803,-86.825614929199,33.210136413574],"coordinates":[[[[-86.832314,33.198841],[-86.833855,33.200684],[-86.828232,33.210136],[-86.827797,33.197563],[-86.825615,33.192379],[-86.832314,33.198841]]]],"created":1292528363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2521126_20101216_e1098ae624.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

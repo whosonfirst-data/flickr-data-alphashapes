@@ -1,0 +1,15 @@
+{
+  "id": 2400124,
+  "type": "Feature",
+  "properties": {
+    "name":"Erramouspe Place, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2400124,
+    "woe:name":"Erramouspe Place, Wyoming, United States",
+    "woe:place_id":"k8Bk78GbBZwo6nXT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.845139,42.430592,-108.828033,42.442207],
+  "geometry": {"alpha":0.00015,"bbox":[-108.8451385498,42.430591583252,-108.82803344727,42.442207336426],"coordinates":[[[[-108.845139,42.431793],[-108.845001,42.432816],[-108.834686,42.442207],[-108.828033,42.43272],[-108.843391,42.430592],[-108.845139,42.431793]]]],"created":1292493427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2400124_20101216_94e8981467.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

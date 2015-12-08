@@ -1,0 +1,15 @@
+{
+  "id": 715,
+  "type": "Feature",
+  "properties": {
+    "name":"Inverness, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":715,
+    "woe:name":"Inverness, Quebec, Canada",
+    "woe:place_id":"xXIC58qeAJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.530525,46.233292,-71.499023,46.263264],
+  "geometry": {"alpha":0.00015,"bbox":[-71.53052520752,46.233291625977,-71.4990234375,46.263263702393],"coordinates":[[[[-71.503654,46.250088],[-71.517647,46.233292],[-71.514732,46.255489],[-71.51722,46.259289],[-71.525116,46.261543],[-71.530525,46.263264],[-71.524826,46.261047],[-71.522842,46.259457],[-71.514732,46.255489],[-71.503693,46.25095],[-71.503677,46.25095],[-71.499023,46.249199],[-71.503654,46.250088]]]],"created":1292528791,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/715_20101216_5693a13a01.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

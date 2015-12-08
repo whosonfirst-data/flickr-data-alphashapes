@@ -1,0 +1,15 @@
+{
+  "id": 2496948,
+  "type": "Feature",
+  "properties": {
+    "name":"South Zanesville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2496948,
+    "woe:name":"South Zanesville, Ohio, United States",
+    "woe:place_id":"riq9hNabBZXRnQgx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.021179,39.898911,-82.014923,39.912468],
+  "geometry": {"alpha":0.00015,"bbox":[-82.021179199219,39.898910522461,-82.014923095703,39.912467956543],"coordinates":[[[[-82.020569,39.90279],[-82.021179,39.906574],[-82.018387,39.912468],[-82.018059,39.909023],[-82.014923,39.898911],[-82.020569,39.90279]]]],"created":1292451991,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2496948_20101215_303a869103.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

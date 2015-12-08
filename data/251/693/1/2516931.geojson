@@ -1,0 +1,15 @@
+{
+  "id": 2516931,
+  "type": "Feature",
+  "properties": {
+    "name":"West Edmeston, New York, United States",
+    "placetype":"locality",
+    "woe:id":2516931,
+    "woe:name":"West Edmeston, New York, United States",
+    "woe:place_id":"b9bFpcKbBJ3dPCvm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.279305,42.763714,-75.276428,42.766533],
+  "geometry": {"alpha":0.00015,"bbox":[-75.279304504395,42.76371383667,-75.276428222656,42.766532897949],"coordinates":[[[[-75.276428,42.766533],[-75.27729,42.763714],[-75.279305,42.765633],[-75.277588,42.766483],[-75.276428,42.766533]]]],"created":1234573450,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3536/shapefiles/2516931_20090214_b4586977c1.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

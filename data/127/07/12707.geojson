@@ -1,0 +1,15 @@
+{
+  "id": 12707,
+  "type": "Feature",
+  "properties": {
+    "name":"Birkby, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12707,
+    "woe:name":"Birkby, England, United Kingdom",
+    "woe:place_id":"f7h0tsCYA5vR2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.478546,54.720951,-3.458676,54.731384],
+  "geometry": {"alpha":0.00015,"bbox":[-3.4785459041595,54.720951080322,-3.4586760997772,54.731384277344],"coordinates":[[[[-3.464212,54.731384],[-3.458676,54.731335],[-3.463525,54.72509],[-3.471035,54.720951],[-3.478546,54.727989],[-3.464212,54.731384]]]],"created":1292520512,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12707_20101216_67ac730f8f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

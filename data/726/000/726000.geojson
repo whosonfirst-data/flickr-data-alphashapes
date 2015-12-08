@@ -1,0 +1,15 @@
+{
+  "id": 726000,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa Cortese, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":726000,
+    "woe:name":"Villa Cortese, Lombardy, Italy",
+    "woe:place_id":"JwJNGA.eA5pD9rs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.881759,45.558895,8.895149,45.568272],
+  "geometry": {"alpha":0.00015,"bbox":[8.8817586898804,45.558895111084,8.895149230957,45.568271636963],"coordinates":[[[[8.895149,45.568272],[8.889656,45.563942],[8.882961,45.558895],[8.881759,45.56142],[8.887424,45.56815],[8.895149,45.568272]]]],"created":1292450999,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/726000_20101215_48594c806b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

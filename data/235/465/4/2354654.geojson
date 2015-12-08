@@ -1,0 +1,15 @@
+{
+  "id": 2354654,
+  "type": "Feature",
+  "properties": {
+    "name":"Andover, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2354654,
+    "woe:name":"Andover, Vermont, United States",
+    "woe:place_id":"k4peDUqbApneqIiv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.700996,43.277569,-72.697304,43.279018],
+  "geometry": {"alpha":0.00015,"bbox":[-72.700996398926,43.277568817139,-72.697303771973,43.2790184021],"coordinates":[[[[-72.700226,43.277977],[-72.700996,43.279018],[-72.699623,43.278706],[-72.697304,43.277706],[-72.697479,43.277569],[-72.700226,43.277977]]]],"created":1292550251,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2354654_20101217_5266602b03.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

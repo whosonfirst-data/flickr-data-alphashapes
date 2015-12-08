@@ -1,0 +1,15 @@
+{
+  "id": 322,
+  "type": "Feature",
+  "properties": {
+    "name":"Cook's Harbour, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":322,
+    "woe:name":"Cook's Harbour, Newfoundland and Labrador, Canada",
+    "woe:place_id":"H7LDoqyaA54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.916977,51.62505,-55.880325,51.633362],
+  "geometry": {"alpha":0.00015,"bbox":[-55.916976928711,51.625049591064,-55.880325317383,51.633361816406],"coordinates":[[[[-55.904789,51.628407],[-55.911396,51.62505],[-55.916977,51.633362],[-55.905647,51.629951],[-55.896378,51.632298],[-55.890541,51.632614],[-55.880325,51.626835],[-55.892487,51.627396],[-55.904789,51.628407]]]],"created":1292548472,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/322_20101217_e2fa7cf478.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

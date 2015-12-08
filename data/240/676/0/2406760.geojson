@@ -1,0 +1,15 @@
+{
+  "id": 2406760,
+  "type": "Feature",
+  "properties": {
+    "name":"Foxridge West, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2406760,
+    "woe:name":"Foxridge West, Maryland, United States",
+    "woe:place_id":"E7JrrB.bBZyLbMUd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.179924,39.566109,-76.173096,39.572666],
+  "geometry": {"alpha":0.00015,"bbox":[-76.17992401123,39.566108703613,-76.173095703125,39.572666168213],"coordinates":[[[[-76.173187,39.57235],[-76.173096,39.571812],[-76.177834,39.566109],[-76.179924,39.568226],[-76.178787,39.572666],[-76.173187,39.57235]]]],"created":1292523361,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2406760_20101216_e180d6a13e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

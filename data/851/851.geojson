@@ -1,0 +1,15 @@
+{
+  "id": 851,
+  "type": "Feature",
+  "properties": {
+    "name":"Lemoyne, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":851,
+    "woe:name":"Lemoyne, Quebec, Canada",
+    "woe:place_id":"2n4JI5WRBJ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.501389,45.49316,-73.479805,45.521126],
+  "geometry": {"alpha":0.00015,"bbox":[-73.501388549805,45.493160247803,-73.479804992676,45.521125793457],"coordinates":[[[[-73.481773,45.516277],[-73.481194,45.515713],[-73.479805,45.504482],[-73.481094,45.494297],[-73.481514,45.494064],[-73.490738,45.49316],[-73.501389,45.493591],[-73.499268,45.501431],[-73.497849,45.503956],[-73.494926,45.508495],[-73.486893,45.521126],[-73.481773,45.516277]]]],"created":1292551387,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/851_20101217_2f1182a56a.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

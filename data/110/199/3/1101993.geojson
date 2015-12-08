@@ -1,0 +1,15 @@
+{
+  "id": 1101993,
+  "type": "Feature",
+  "properties": {
+    "name":"Euston, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1101993,
+    "woe:name":"Euston, New South Wales, Australia",
+    "woe:place_id":"PCEZcxaYAJzApVhk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.743729,-34.579834,142.745499,-34.575348],
+  "geometry": {"alpha":0.00015,"bbox":[142.7437286377,-34.579833984375,142.74549865723,-34.575347900391],"coordinates":[[[[142.744507,-34.579834],[142.744171,-34.579334],[142.743729,-34.575348],[142.745499,-34.579666],[142.744659,-34.579834],[142.744507,-34.579834]]]],"created":1292523264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1101993_20101216_afe7554efb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

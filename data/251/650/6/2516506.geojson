@@ -1,0 +1,15 @@
+{
+  "id": 2516506,
+  "type": "Feature",
+  "properties": {
+    "name":"Wertzville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2516506,
+    "woe:name":"Wertzville, Pennsylvania, United States",
+    "woe:place_id":"2z5VFASbBJ0yCJt.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.037331,40.271732,-77.016174,40.286137],
+  "geometry": {"alpha":0.00015,"bbox":[-77.037330627441,40.271732330322,-77.016174316406,40.286136627197],"coordinates":[[[[-77.029289,40.275421],[-77.016861,40.286137],[-77.016174,40.285172],[-77.024216,40.27272],[-77.037331,40.271732],[-77.029289,40.275421]]]],"created":1292551544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2516506_20101217_2dddeb4690.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

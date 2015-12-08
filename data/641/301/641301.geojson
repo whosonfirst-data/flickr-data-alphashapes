@@ -1,0 +1,15 @@
+{
+  "id": 641301,
+  "type": "Feature",
+  "properties": {
+    "name":"Briest, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":641301,
+    "woe:name":"Briest, Brandenburg, Germany",
+    "woe:place_id":"svl3nqifBZ2fqZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.426439,52.442501,12.426525,52.442616],
+  "geometry": {"alpha":0.00015,"bbox":[12.426439285278,52.442501068115,12.426525115967,52.442615509033],"coordinates":[[[[12.426525,52.442551],[12.4265,52.442501],[12.426439,52.442604],[12.42648,52.442616],[12.426525,52.442574],[12.426525,52.442551]]]],"created":1247830324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2483/shapefiles/641301_20090717_ea59799be6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

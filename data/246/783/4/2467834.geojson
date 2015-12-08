@@ -1,0 +1,15 @@
+{
+  "id": 2467834,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmyra, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2467834,
+    "woe:name":"Palmyra, Nebraska, United States",
+    "woe:place_id":"5m1CR7mbBZrW8dh8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.396957,40.704498,-96.377609,40.720722],
+  "geometry": {"alpha":0.00015,"bbox":[-96.396957397461,40.704498291016,-96.37760925293,40.720722198486],"coordinates":[[[[-96.38942,40.704498],[-96.390511,40.704605],[-96.396957,40.709011],[-96.38443,40.720722],[-96.377609,40.712265],[-96.38942,40.704498]]]],"created":1292493967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2467834_20101216_7200c59d94.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 772915,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":772915,
+    "woe:name":"San Juan, Aragon, Spain",
+    "woe:place_id":"SQphCGSeBp4zVXE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.283927,42.447273,0.295944,42.451057],
+  "geometry": {"alpha":0.00015,"bbox":[0.28392699360847,42.447273254395,0.29594400525093,42.451057434082],"coordinates":[[[[0.284163,42.450813],[0.283927,42.450947],[0.286245,42.451057],[0.295944,42.450062],[0.29251,42.447273],[0.284163,42.450813]]]],"created":1292439876,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/772915_20101215_060ac65d03.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

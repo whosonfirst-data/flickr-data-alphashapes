@@ -1,0 +1,15 @@
+{
+  "id": 2452563,
+  "type": "Feature",
+  "properties": {
+    "name":"Mobile City, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2452563,
+    "woe:name":"Mobile City, Texas, United States",
+    "woe:place_id":"CMt9Nj.bBZkksF4E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.422882,32.920349,-96.410713,32.923637],
+  "geometry": {"alpha":0.00015,"bbox":[-96.422882080078,32.920349121094,-96.410713195801,32.923637390137],"coordinates":[[[[-96.410759,32.923637],[-96.410713,32.922256],[-96.413246,32.921635],[-96.416077,32.920349],[-96.422882,32.923401],[-96.410759,32.923637]]]],"created":1292444936,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2452563_20101215_7d39aabe6d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

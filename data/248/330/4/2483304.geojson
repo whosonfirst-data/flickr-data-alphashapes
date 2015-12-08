@@ -1,0 +1,15 @@
+{
+  "id": 2483304,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockdale, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2483304,
+    "woe:name":"Rockdale, Ohio, United States",
+    "woe:place_id":"YqSBdZebBZS8Gjxe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.4701,39.422668,-84.450455,39.44471],
+  "geometry": {"alpha":0.00015,"bbox":[-84.470100402832,39.422668457031,-84.450454711914,39.444709777832],"coordinates":[[[[-84.46109,39.44471],[-84.450455,39.436176],[-84.467697,39.422668],[-84.4701,39.437981],[-84.46302,39.443882],[-84.46109,39.44471]]]],"created":1292469841,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2483304_20101216_82d5a82c2d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

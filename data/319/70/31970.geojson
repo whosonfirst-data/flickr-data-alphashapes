@@ -1,0 +1,15 @@
+{
+  "id": 31970,
+  "type": "Feature",
+  "properties": {
+    "name":"Philadelphia, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31970,
+    "woe:name":"Philadelphia, England, United Kingdom",
+    "woe:place_id":"WchW222aAJXTig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.391594,54.879974,-1.38874,54.883286],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3915940523148,54.879974365234,-1.3887399435043,54.883285522461],"coordinates":[[[[-1.38904,54.883286],[-1.388826,54.88306],[-1.38874,54.881496],[-1.388955,54.879974],[-1.39007,54.881248],[-1.391594,54.883129],[-1.38904,54.883286]]]],"created":1292531212,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/31970_20101216_664c64a4a5.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

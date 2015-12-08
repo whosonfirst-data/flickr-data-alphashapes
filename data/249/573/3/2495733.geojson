@@ -1,0 +1,15 @@
+{
+  "id": 2495733,
+  "type": "Feature",
+  "properties": {
+    "name":"Somerville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2495733,
+    "woe:name":"Somerville, Ohio, United States",
+    "woe:place_id":"4qJD6GWbBZV_lCxP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.640366,39.561493,-84.636856,39.562798],
+  "geometry": {"alpha":0.00015,"bbox":[-84.640365600586,39.561492919922,-84.636856079102,39.562797546387],"coordinates":[[[[-84.636856,39.562202],[-84.640366,39.561493],[-84.637436,39.562798],[-84.637016,39.562458],[-84.636856,39.562202]]]],"created":1239617659,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3542/shapefiles/2495733_20090413_5d6470090a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

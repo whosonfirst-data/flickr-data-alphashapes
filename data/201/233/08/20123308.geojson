@@ -1,0 +1,15 @@
+{
+  "id": 20123308,
+  "type": "Feature",
+  "properties": {
+    "name":"Dercogna, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20123308,
+    "woe:name":"Dercogna, Liguria, Italy",
+    "woe:place_id":"Y8hHXhybAZ3rwhHXow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.030225,44.412174,9.041683,44.419529],
+  "geometry": {"alpha":0.00015,"bbox":[9.0302248001099,44.412174224854,9.0416831970215,44.419528961182],"coordinates":[[[[9.041683,44.414761],[9.040031,44.413658],[9.030225,44.412174],[9.030783,44.419529],[9.041576,44.415207],[9.041683,44.414761]]]],"created":1292530109,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20123308_20101216_878266104e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

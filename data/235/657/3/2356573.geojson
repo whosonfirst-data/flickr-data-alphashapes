@@ -1,0 +1,15 @@
+{
+  "id": 2356573,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashford, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2356573,
+    "woe:name":"Ashford, West Virginia, United States",
+    "woe:place_id":"q5oGopSbAplzC4WC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.676819,38.180065,-81.676468,38.180485],
+  "geometry": {"alpha":0.00015,"bbox":[-81.676818847656,38.180065155029,-81.676467895508,38.180484771729],"coordinates":[[[[-81.676498,38.180283],[-81.676468,38.180199],[-81.676514,38.180099],[-81.676819,38.180065],[-81.676582,38.180485],[-81.676498,38.180283]]]],"created":1292372162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2356573_20101215_14322bf817.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2421462,
+  "type": "Feature",
+  "properties": {
+    "name":"Highland Lake, New York, United States",
+    "placetype":"locality",
+    "woe:id":2421462,
+    "woe:name":"Highland Lake, New York, United States",
+    "woe:place_id":"ICY25cibBZ5MpQNe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.860321,41.493679,-74.813118,41.547573],
+  "geometry": {"alpha":0.5,"bbox":[-74.860321044922,41.493679046631,-74.813117980957,41.5475730896],"coordinates":[[[[-74.843796,41.544216],[-74.83596,41.547573],[-74.813118,41.522041],[-74.860321,41.493679],[-74.85508,41.525665],[-74.843796,41.544216]]]],"created":1248061689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3455/shapefiles/2421462_20090720_3224926e1e.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

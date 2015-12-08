@@ -1,0 +1,15 @@
+{
+  "id": 3524,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3524,
+    "woe:name":"Richmond, Quebec, Canada",
+    "woe:place_id":"4VsMc4SaBJ6D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.165741,45.652065,-72.13427,45.674492],
+  "geometry": {"alpha":0.00015,"bbox":[-72.165740966797,45.6520652771,-72.134269714355,45.674491882324],"coordinates":[[[[-72.165482,45.6521],[-72.165497,45.652096],[-72.165741,45.652065],[-72.160263,45.668285],[-72.15799,45.670624],[-72.150604,45.674492],[-72.141548,45.664806],[-72.13427,45.663811],[-72.13726,45.659168],[-72.140221,45.654774],[-72.144691,45.652527],[-72.159676,45.654812],[-72.165482,45.6521]]]],"created":1292542442,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/3524_20101216_2768f04d80.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

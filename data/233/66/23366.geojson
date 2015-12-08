@@ -1,0 +1,15 @@
+{
+  "id": 23366,
+  "type": "Feature",
+  "properties": {
+    "name":"Higher Sandygate, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23366,
+    "woe:name":"Higher Sandygate, England, United Kingdom",
+    "woe:place_id":"T6uEqfybAp.b.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.603644,50.556835,-3.598333,50.560989],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6036438941956,50.556835174561,-3.5983328819275,50.560989379883],"coordinates":[[[[-3.603601,50.558323],[-3.603644,50.558495],[-3.603343,50.558735],[-3.599921,50.560989],[-3.598333,50.556835],[-3.603601,50.558323]]]],"created":1292402281,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/23366_20101215_1d6e999da9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

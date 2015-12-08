@@ -1,0 +1,15 @@
+{
+  "id": 2393365,
+  "type": "Feature",
+  "properties": {
+    "name":"Dover, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2393365,
+    "woe:name":"Dover, Virginia, United States",
+    "woe:place_id":"Bz3VOb.bApWJnOND",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.682777,38.951241,-77.67215,38.974018],
+  "geometry": {"alpha":0.00015,"bbox":[-77.682777404785,38.951240539551,-77.672149658203,38.974018096924],"coordinates":[[[[-77.672935,38.958591],[-77.67215,38.956982],[-77.672676,38.951584],[-77.67646,38.951241],[-77.680489,38.952],[-77.682777,38.974018],[-77.672935,38.958591]]]],"created":1292542083,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2393365_20101216_debc27da37.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722314,
+  "type": "Feature",
+  "properties": {
+    "name":"Sampeire, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":722314,
+    "woe:name":"Sampeire, Piedmont, Italy",
+    "woe:place_id":"DDIsMt6eA57xndU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.160339,44.542038,7.180252,44.565033],
+  "geometry": {"alpha":0.00015,"bbox":[7.1603388786316,44.542037963867,7.1802520751953,44.565032958984],"coordinates":[[[[7.162742,44.564545],[7.169866,44.562923],[7.180252,44.565033],[7.167205,44.550724],[7.160339,44.542038],[7.165832,44.557449],[7.162742,44.564545]]]],"created":1292453647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/722314_20101215_9903e11475.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

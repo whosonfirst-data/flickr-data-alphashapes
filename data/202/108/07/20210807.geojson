@@ -1,0 +1,15 @@
+{
+  "id": 20210807,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Coin, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210807,
+    "woe:name":"Le Coin, Rhone-Alpes, France",
+    "woe:place_id":"NosK9rmbAZ6zHsMF7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.162933,46.115372,6.180903,46.134525],
+  "geometry": {"alpha":0.00015,"bbox":[6.1629328727722,46.115371704102,6.1809029579163,46.134525299072],"coordinates":[[[[6.165947,46.132],[6.174595,46.132488],[6.180903,46.134525],[6.173758,46.126556],[6.173629,46.115372],[6.162933,46.123211],[6.165947,46.132]]]],"created":1292480405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20210807_20101216_2398fe7842.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

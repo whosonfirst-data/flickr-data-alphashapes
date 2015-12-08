@@ -1,0 +1,15 @@
+{
+  "id": 12628925,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hilscheid, Germany",
+    "placetype":"locality",
+    "woe:id":12628925,
+    "woe:name":"Gemeinde Hilscheid, Germany",
+    "woe:place_id":"DlcZvYOYA5rRZsgo8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.02,49.734333,7.0205,49.734501],
+  "geometry": {"alpha":1e-05,"bbox":[7.0199999809265,49.73433303833,7.0205001831055,49.73450088501],"coordinates":[[[[7.020167,49.734333],[7.02,49.734333],[7.020333,49.734501],[7.0205,49.734333],[7.020333,49.734333],[7.020167,49.734333]]]],"created":1292487423,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12628925_20101216_ace18b5e9e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

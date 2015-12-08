@@ -1,0 +1,15 @@
+{
+  "id": 2442825,
+  "type": "Feature",
+  "properties": {
+    "name":"Lublin, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2442825,
+    "woe:name":"Lublin, Wisconsin, United States",
+    "woe:place_id":"bl4t9e2bBZgR80uG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.725784,45.076187,-90.700546,45.103092],
+  "geometry": {"alpha":0.00015,"bbox":[-90.725784301758,45.076187133789,-90.700546264648,45.103092193604],"coordinates":[[[[-90.707245,45.099941],[-90.700546,45.103092],[-90.708961,45.090855],[-90.725784,45.076187],[-90.710159,45.092548],[-90.707245,45.099941]]]],"created":1292543108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2442825_20101216_f1682a87c8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

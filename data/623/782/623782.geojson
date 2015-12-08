@@ -1,0 +1,15 @@
+{
+  "id": 623782,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Dier, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":623782,
+    "woe:name":"St-Dier, Auvergne, France",
+    "woe:place_id":"ex_HRv.fA58zeec",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.475456,45.673302,3.483202,45.692032],
+  "geometry": {"alpha":0.00015,"bbox":[3.4754559993744,45.673301696777,3.4832019805908,45.692031860352],"coordinates":[[[[3.483202,45.67551],[3.475456,45.673302],[3.478374,45.692032],[3.481979,45.68082],[3.483202,45.67551]]]],"created":1292491447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/623782_20101216_7a7f884262.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

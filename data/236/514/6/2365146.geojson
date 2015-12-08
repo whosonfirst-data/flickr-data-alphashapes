@@ -1,0 +1,15 @@
+{
+  "id": 2365146,
+  "type": "Feature",
+  "properties": {
+    "name":"Blaine, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2365146,
+    "woe:name":"Blaine, Missouri, United States",
+    "woe:place_id":"CiCcsLCbApovJzAO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.369438,37.923153,-94.357964,37.940601],
+  "geometry": {"alpha":0.00015,"bbox":[-94.369438171387,37.923152923584,-94.357963562012,37.940601348877],"coordinates":[[[[-94.369438,37.930431],[-94.368202,37.940601],[-94.367508,37.938328],[-94.357964,37.923153],[-94.365196,37.924599],[-94.369438,37.930431]]]],"created":1292448230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2365146_20101215_1aa323ffed.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

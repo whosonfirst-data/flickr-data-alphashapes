@@ -1,0 +1,15 @@
+{
+  "id": 28584010,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaumaris, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":28584010,
+    "woe:name":"Beaumaris, Tasmania, Australia",
+    "woe:place_id":"f1HKok6bCZlfMx3LQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.261871,-41.438736,148.276978,-41.414665],
+  "geometry": {"alpha":0.00015,"bbox":[148.26187133789,-41.438735961914,148.27697753906,-41.414665222168],"coordinates":[[[[148.268051,-41.419559],[148.276978,-41.414665],[148.276123,-41.416252],[148.275497,-41.425583],[148.269073,-41.438736],[148.261871,-41.437576],[148.268051,-41.419559]]]],"created":1292526960,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/28584010_20101216_0beeeea97a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

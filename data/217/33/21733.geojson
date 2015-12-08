@@ -1,0 +1,15 @@
+{
+  "id": 21733,
+  "type": "Feature",
+  "properties": {
+    "name":"Great Stukeley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21733,
+    "woe:name":"Great Stukeley, England, United Kingdom",
+    "woe:place_id":"Xc9lVqebAJsPjA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.215542,52.340118,-0.195522,52.357464],
+  "geometry": {"alpha":0.00015,"bbox":[-0.21554200351238,52.340118408203,-0.19552199542522,52.35746383667],"coordinates":[[[[-0.215542,52.340118],[-0.211572,52.357464],[-0.2108,52.356625],[-0.197131,52.346966],[-0.195522,52.344151],[-0.215542,52.340118]]]],"created":1247980456,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2442/shapefiles/21733_20090719_b7a3010ef8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

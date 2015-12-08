@@ -1,0 +1,15 @@
+{
+  "id": 12515591,
+  "type": "Feature",
+  "properties": {
+    "name":"Tuzla Airport, Romania",
+    "placetype":"locality",
+    "woe:id":12515591,
+    "woe:name":"Tuzla Airport, Romania",
+    "woe:place_id":"m6eVnUqYA5lhvXjNtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.614191,43.985046,28.615789,43.985806],
+  "geometry": {"alpha":1e-05,"bbox":[28.614191055298,43.985046386719,28.615789413452,43.985805511475],"coordinates":[[[[28.614288,43.985046],[28.614191,43.985085],[28.615479,43.985668],[28.615694,43.985806],[28.615789,43.985657],[28.614288,43.985046]]]],"created":1292456962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12515591_20101215_8931e2646f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

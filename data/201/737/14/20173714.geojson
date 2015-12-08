@@ -1,0 +1,15 @@
+{
+  "id": 20173714,
+  "type": "Feature",
+  "properties": {
+    "name":"Frauenberg, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":20173714,
+    "woe:name":"Frauenberg, Hesse, Germany",
+    "woe:place_id":"j7cb2CGbAZ3wm5F2iQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.772368,50.749054,8.793354,50.761108],
+  "geometry": {"alpha":0.00015,"bbox":[8.7723684310913,50.749053955078,8.7933540344238,50.761108398438],"coordinates":[[[[8.793354,50.761108],[8.787603,50.757393],[8.772625,50.749054],[8.772368,50.754749],[8.787088,50.757664],[8.793354,50.761108]]]],"created":1292525828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/20173714_20101216_c59e026fbf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

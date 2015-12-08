@@ -1,0 +1,15 @@
+{
+  "id": 28744329,
+  "type": "Feature",
+  "properties": {
+    "name":"Salem, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744329,
+    "woe:name":"Salem, Michigan, United States",
+    "woe:place_id":"8oy935ubCZtTMFK3ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.81781,42.683983,-85.795586,42.708744],
+  "geometry": {"alpha":0.00015,"bbox":[-85.817810058594,42.683982849121,-85.795585632324,42.708744049072],"coordinates":[[[[-85.815628,42.683983],[-85.81781,42.68824],[-85.815186,42.69342],[-85.816299,42.708744],[-85.795586,42.700069],[-85.801353,42.685669],[-85.815628,42.683983]]]],"created":1292459040,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/28744329_20101216_577a54ec2b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

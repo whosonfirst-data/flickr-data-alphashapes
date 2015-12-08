@@ -1,0 +1,15 @@
+{
+  "id": 2416205,
+  "type": "Feature",
+  "properties": {
+    "name":"Haleys Corner, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2416205,
+    "woe:name":"Haleys Corner, Virginia, United States",
+    "woe:place_id":"cbJr7mebBZ2vXXLe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.376366,37.839207,-77.366997,37.848663],
+  "geometry": {"alpha":0.00015,"bbox":[-77.376365661621,37.839206695557,-77.366996765137,37.848663330078],"coordinates":[[[[-77.368797,37.848663],[-77.36718,37.848152],[-77.366997,37.846333],[-77.370102,37.839207],[-77.376366,37.845444],[-77.368797,37.848663]]]],"created":1292448383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2416205_20101215_361e7c9a2c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

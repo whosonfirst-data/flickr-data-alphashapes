@@ -1,0 +1,15 @@
+{
+  "id": 2457257,
+  "type": "Feature",
+  "properties": {
+    "name":"Nathans Hill, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2457257,
+    "woe:name":"Nathans Hill, Maryland, United States",
+    "woe:place_id":"v5dFivSbBZkqrV7H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.202324,39.158016,-77.198158,39.164143],
+  "geometry": {"alpha":0.00015,"bbox":[-77.202323913574,39.158016204834,-77.19815826416,39.164142608643],"coordinates":[[[[-77.20153,39.162903],[-77.201096,39.164143],[-77.198158,39.16254],[-77.201553,39.158016],[-77.202324,39.160465],[-77.20153,39.162903]]]],"created":1292532729,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2457257_20101216_db0a93d168.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

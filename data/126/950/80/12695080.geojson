@@ -1,0 +1,15 @@
+{
+  "id": 12695080,
+  "type": "Feature",
+  "properties": {
+    "name":"Arama, Spain",
+    "placetype":"locality",
+    "woe:id":12695080,
+    "woe:name":"Arama, Spain",
+    "woe:place_id":"9PD8CQGYA5rrIk8Qtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.172052,43.054417,-2.16707,43.057461],
+  "geometry": {"alpha":1e-05,"bbox":[-2.1720519065857,43.054416656494,-2.1670699119568,43.057460784912],"coordinates":[[[[-2.170572,43.054417],[-2.171087,43.055389],[-2.172052,43.057461],[-2.16707,43.055656],[-2.169799,43.054623],[-2.170572,43.054417]]]],"created":1292471466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12695080_20101216_c696698510.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

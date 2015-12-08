@@ -1,0 +1,15 @@
+{
+  "id": 2495469,
+  "type": "Feature",
+  "properties": {
+    "name":"Snydertown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2495469,
+    "woe:name":"Snydertown, Pennsylvania, United States",
+    "woe:place_id":"BGLFQRSbBZVARBDH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.677361,40.867832,-76.665855,40.87822],
+  "geometry": {"alpha":0.00015,"bbox":[-76.677360534668,40.867832183838,-76.665855407715,40.878219604492],"coordinates":[[[[-76.668434,40.87822],[-76.665855,40.872894],[-76.667404,40.871986],[-76.677361,40.867832],[-76.669121,40.877956],[-76.668434,40.87822]]]],"created":1292448708,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2495469_20101215_37284a3cbc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

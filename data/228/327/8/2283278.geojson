@@ -1,0 +1,15 @@
+{
+  "id": 2283278,
+  "type": "Feature",
+  "properties": {
+    "name":"Nerul, Goa, India",
+    "placetype":"locality",
+    "woe:id":2283278,
+    "woe:name":"Nerul, Goa, India",
+    "woe:place_id":"OGch5PSbA5TOMC1d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [73.778343,15.490408,73.801514,15.510656],
+  "geometry": {"alpha":0.00015,"bbox":[73.778343200684,15.490407943726,73.801513671875,15.510656356812],"coordinates":[[[[73.792641,15.508609],[73.801514,15.502318],[73.78521,15.490408],[73.778343,15.502814],[73.780144,15.510656],[73.7883,15.509265],[73.792641,15.508609]]]],"created":1292548323,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2283278_20101217_9e641360c7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

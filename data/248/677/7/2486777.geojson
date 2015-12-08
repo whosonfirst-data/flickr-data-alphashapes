@@ -1,0 +1,15 @@
+{
+  "id": 2486777,
+  "type": "Feature",
+  "properties": {
+    "name":"St. George, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2486777,
+    "woe:name":"St. George, Georgia, United States",
+    "woe:place_id":"QhZo47ybBZSf.jcv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.050385,30.519234,-82.018768,30.536242],
+  "geometry": {"alpha":0.00015,"bbox":[-82.050384521484,30.519233703613,-82.018768310547,30.536241531372],"coordinates":[[[[-82.037308,30.521147],[-82.050385,30.519234],[-82.048645,30.536242],[-82.039459,30.535797],[-82.018768,30.52467],[-82.037308,30.521147]]]],"created":1292529186,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2486777_20101216_8b731cfc1a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

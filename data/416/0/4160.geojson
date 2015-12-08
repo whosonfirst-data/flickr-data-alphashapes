@@ -1,0 +1,15 @@
+{
+  "id": 4160,
+  "type": "Feature",
+  "properties": {
+    "name":"Tusket, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":4160,
+    "woe:name":"Tusket, Nova Scotia, Canada",
+    "woe:place_id":"sJPZRE2dAJrV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.990234,43.853951,-65.974228,43.864487],
+  "geometry": {"alpha":0.00015,"bbox":[-65.990234375,43.853950500488,-65.974227905273,43.864486694336],"coordinates":[[[[-65.974228,43.854832],[-65.974617,43.854088],[-65.974701,43.853951],[-65.975304,43.855389],[-65.990234,43.864113],[-65.98114,43.864487],[-65.974228,43.854832]]]],"created":1292532971,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/4160_20101216_9f2532e8ae.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

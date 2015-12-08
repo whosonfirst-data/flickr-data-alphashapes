@@ -1,0 +1,15 @@
+{
+  "id": 3618,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Godefroi, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3618,
+    "woe:name":"St.-Godefroi, Quebec, Canada",
+    "woe:place_id":"BSzS.FOaB53G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.118881,48.069134,-65.100304,48.078651],
+  "geometry": {"alpha":0.00015,"bbox":[-65.118881225586,48.069133758545,-65.100303649902,48.078651428223],"coordinates":[[[[-65.118881,48.074524],[-65.118881,48.075897],[-65.111839,48.077209],[-65.100304,48.078651],[-65.113045,48.069134],[-65.118881,48.074524]]]],"created":1292446805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/3618_20101215_66b9eb919d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2505158,
+  "type": "Feature",
+  "properties": {
+    "name":"The Colony, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2505158,
+    "woe:name":"The Colony, Georgia, United States",
+    "woe:place_id":"eKvAdqmbBJyIjvOS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.225807,32.995632,-83.196198,33.01424],
+  "geometry": {"alpha":0.00015,"bbox":[-83.225807189941,32.995632171631,-83.196197509766,33.014240264893],"coordinates":[[[[-83.197929,33.012287],[-83.196198,33.010319],[-83.197571,33.011253],[-83.215767,32.995632],[-83.225807,33.001637],[-83.209335,33.01424],[-83.197929,33.012287]]]],"created":1292522232,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2505158_20101216_d82b20cb5f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

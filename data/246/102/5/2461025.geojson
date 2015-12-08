@@ -1,0 +1,15 @@
+{
+  "id": 2461025,
+  "type": "Feature",
+  "properties": {
+    "name":"North Germantown, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2461025,
+    "woe:name":"North Germantown, Maryland, United States",
+    "woe:place_id":"p8O95fKbBZqtcnq9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.277275,39.173656,-77.268822,39.187061],
+  "geometry": {"alpha":0.00015,"bbox":[-77.277275085449,39.173656463623,-77.268821716309,39.187061309814],"coordinates":[[[[-77.273712,39.174786],[-77.274055,39.178246],[-77.277275,39.187061],[-77.270683,39.178795],[-77.268822,39.173656],[-77.273712,39.174786]]]],"created":1292539248,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2461025_20101216_14fa313fa0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

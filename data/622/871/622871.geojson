@@ -1,0 +1,15 @@
+{
+  "id": 622871,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Amant, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":622871,
+    "woe:name":"St-Amant, Poitou-Charentes, France",
+    "woe:place_id":"kTC4zamfA561ErQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.000517,45.744164,0.007175,45.748135],
+  "geometry": {"alpha":0.00015,"bbox":[0.00051699997857213,45.744163513184,0.0071749999187887,45.748134613037],"coordinates":[[[[0.005538,45.748135],[0.007175,45.744164],[0.001182,45.747387],[0.000517,45.747643],[0.005021,45.748032],[0.005538,45.748135]]]],"created":1292544622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/622871_20101217_691b769154.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

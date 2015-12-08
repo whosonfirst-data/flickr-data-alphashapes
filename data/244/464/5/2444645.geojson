@@ -1,0 +1,15 @@
+{
+  "id": 2444645,
+  "type": "Feature",
+  "properties": {
+    "name":"Manchester, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2444645,
+    "woe:name":"Manchester, Indiana, United States",
+    "woe:place_id":"aPO869WbBZiMpZyp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.024345,39.171227,-85.022125,39.173298],
+  "geometry": {"alpha":0.00015,"bbox":[-85.024345397949,39.171226501465,-85.022125244141,39.17329788208],"coordinates":[[[[-85.022911,39.172321],[-85.022125,39.171261],[-85.022331,39.171227],[-85.024345,39.173298],[-85.022911,39.172321]]]],"created":1292477704,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2444645_20101216_8e1535f688.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

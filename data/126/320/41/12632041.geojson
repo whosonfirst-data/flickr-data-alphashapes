@@ -1,0 +1,15 @@
+{
+  "id": 12632041,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Brunsmark, Germany",
+    "placetype":"locality",
+    "woe:id":12632041,
+    "woe:name":"Gemeinde Brunsmark, Germany",
+    "woe:place_id":"G4j6PRWYA5qnh3bNZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.749763,53.615318,10.750375,53.615631],
+  "geometry": {"alpha":1e-05,"bbox":[10.749762535095,53.61531829834,10.750374794006,53.615631103516],"coordinates":[[[[10.750105,53.615318],[10.749927,53.615337],[10.749763,53.615631],[10.750233,53.615444],[10.750375,53.615322],[10.750105,53.615318]]]],"created":1292529399,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12632041_20101216_17f4d1a4d8.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

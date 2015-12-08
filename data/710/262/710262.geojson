@@ -1,0 +1,15 @@
+{
+  "id": 710262,
+  "type": "Feature",
+  "properties": {
+    "name":"Arconate, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710262,
+    "woe:name":"Arconate, Lombardy, Italy",
+    "woe:place_id":"WjeP9bOeAJx4acM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.84099,45.538338,8.862361,45.541706],
+  "geometry": {"alpha":0.00015,"bbox":[8.8409900665283,45.53833770752,8.8623609542847,45.541706085205],"coordinates":[[[[8.848199,45.538601],[8.84099,45.540802],[8.847341,45.541706],[8.859272,45.540443],[8.862361,45.540863],[8.857383,45.538338],[8.848199,45.538601]]]],"created":1292447492,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/710262_20101215_f42f0b2861.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

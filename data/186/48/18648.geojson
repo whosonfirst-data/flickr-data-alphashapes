@@ -1,0 +1,15 @@
+{
+  "id": 18648,
+  "type": "Feature",
+  "properties": {
+    "name":"Duneton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18648,
+    "woe:name":"Duneton, England, United Kingdom",
+    "woe:place_id":"Q8frOxqYCZquog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.640854,50.936932,-0.62725,50.945881],
+  "geometry": {"alpha":0.00015,"bbox":[-0.64085400104523,50.936931610107,-0.62725001573563,50.945880889893],"coordinates":[[[[-0.628566,50.94294],[-0.629463,50.940788],[-0.640854,50.936932],[-0.636348,50.944424],[-0.634374,50.945827],[-0.62725,50.945881],[-0.628566,50.94294]]]],"created":1292531677,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/18648_20101216_ae352af0aa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

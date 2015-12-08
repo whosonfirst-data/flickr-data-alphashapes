@@ -1,0 +1,15 @@
+{
+  "id": 12652987,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Michel, France",
+    "placetype":"locality",
+    "woe:id":12652987,
+    "woe:name":"St.-Michel, France",
+    "woe:place_id":"hnE_RROYA5pU36Dhtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.252323,43.080437,-1.251695,43.081429],
+  "geometry": {"alpha":1e-05,"bbox":[-1.2523230314255,43.080436706543,-1.2516950368881,43.081428527832],"coordinates":[[[[-1.251695,43.080551],[-1.251695,43.080437],[-1.251845,43.080555],[-1.252323,43.081154],[-1.252098,43.081429],[-1.251895,43.0811],[-1.251695,43.080551]]]],"created":1292528423,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12652987_20101216_ee68e95561.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

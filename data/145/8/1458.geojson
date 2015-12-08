@@ -1,0 +1,15 @@
+{
+  "id": 1458,
+  "type": "Feature",
+  "properties": {
+    "name":"Lac-Etchemin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1458,
+    "woe:name":"Lac-Etchemin, Quebec, Canada",
+    "woe:place_id":"BU_mwGOYBZkq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.571091,46.414654,-70.552376,46.425808],
+  "geometry": {"alpha":0.00015,"bbox":[-70.571090698242,46.414653778076,-70.552375793457,46.425807952881],"coordinates":[[[[-70.552444,46.425793],[-70.571091,46.414654],[-70.55246,46.425808],[-70.552452,46.425808],[-70.552376,46.425789],[-70.552422,46.425789],[-70.552444,46.425793]]]],"created":1292534309,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/1458_20101216_5d2c32768f.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2511563,
+  "type": "Feature",
+  "properties": {
+    "name":"Velva, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2511563,
+    "woe:name":"Velva, North Dakota, United States",
+    "woe:place_id":"33j6JGCbBJ3tWyej",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.934143,48.05529,-100.926506,48.059494],
+  "geometry": {"alpha":0.00015,"bbox":[-100.93414306641,48.055290222168,-100.92650604248,48.059494018555],"coordinates":[[[[-100.930191,48.05529],[-100.934143,48.05835],[-100.929848,48.059494],[-100.926506,48.058693],[-100.929436,48.055759],[-100.930191,48.05529]]]],"created":1292445062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2511563_20101215_8cc50102ac.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

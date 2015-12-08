@@ -1,0 +1,15 @@
+{
+  "id": 2443043,
+  "type": "Feature",
+  "properties": {
+    "name":"Lumberport, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2443043,
+    "woe:name":"Lumberport, West Virginia, United States",
+    "woe:place_id":"2BL3RYmbBZjacUYy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.369278,39.361446,-80.368576,39.36227],
+  "geometry": {"alpha":0.00015,"bbox":[-80.369277954102,39.361446380615,-80.368576049805,39.362270355225],"coordinates":[[[[-80.369186,39.361668],[-80.368576,39.36227],[-80.36895,39.361465],[-80.369263,39.361446],[-80.369278,39.361542],[-80.369186,39.361668]]]],"created":1292513163,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2443043_20101216_09b9a678ed.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

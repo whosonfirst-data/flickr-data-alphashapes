@@ -1,0 +1,15 @@
+{
+  "id": 56022960,
+  "type": "Feature",
+  "properties": {
+    "name":"Shaughnessy Village, Montreal, QC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":56022960,
+    "woe:name":"Shaughnessy Village, Montreal, QC, CA, Canada",
+    "woe:place_id":"pVrWxaKcB5yGnynBcQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.582733,45.491375,-73.579498,45.496315],
+  "geometry": {"alpha":1e-05,"bbox":[-73.582733154297,45.491374969482,-73.579498291016,45.496315002441],"coordinates":[[[[-73.579521,45.495113],[-73.579498,45.495079],[-73.582535,45.491375],[-73.582733,45.496315],[-73.579521,45.495113]]]],"created":1292450186,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/56022960_20101215_a714586fdd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

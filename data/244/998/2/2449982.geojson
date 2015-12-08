@@ -1,0 +1,15 @@
+{
+  "id": 2449982,
+  "type": "Feature",
+  "properties": {
+    "name":"Mexico, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2449982,
+    "woe:name":"Mexico, Indiana, United States",
+    "woe:place_id":"xl1ypBibBZhbiel8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.13269,40.821857,-86.113976,40.837456],
+  "geometry": {"alpha":0.00015,"bbox":[-86.132690429688,40.821857452393,-86.113975524902,40.837455749512],"coordinates":[[[[-86.120262,40.830513],[-86.116158,40.830273],[-86.113976,40.828194],[-86.11908,40.822124],[-86.128754,40.821857],[-86.13269,40.837456],[-86.120262,40.830513]]]],"created":1292549159,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2449982_20101217_4cf4f266e6.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

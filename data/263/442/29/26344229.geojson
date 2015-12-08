@@ -1,0 +1,15 @@
+{
+  "id": 26344229,
+  "type": "Feature",
+  "properties": {
+    "name":"Island Trees, New York, United States",
+    "placetype":"locality",
+    "woe:id":26344229,
+    "woe:name":"Island Trees, New York, United States",
+    "woe:place_id":"aQ6_1RWbB5.984YDwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.49527,40.714985,-73.47937,40.726021],
+  "geometry": {"alpha":0.00015,"bbox":[-73.495269775391,40.714984893799,-73.479370117188,40.726020812988],"coordinates":[[[[-73.48819,40.725891],[-73.47937,40.720818],[-73.489639,40.714985],[-73.49527,40.719028],[-73.494522,40.726021],[-73.48819,40.725891]]]],"created":1292457771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/26344229_20101216_39d038e19d.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

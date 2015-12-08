@@ -1,0 +1,15 @@
+{
+  "id": 721101,
+  "type": "Feature",
+  "properties": {
+    "name":"Porto Salvo, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":721101,
+    "woe:name":"Porto Salvo, Lazio, Italy",
+    "woe:place_id":"HxTaEo.eA52YI.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.568587,41.215336,13.573265,41.218948],
+  "geometry": {"alpha":0.00015,"bbox":[13.568587303162,41.215335845947,13.573265075684,41.218948364258],"coordinates":[[[[13.569552,41.218948],[13.573265,41.215336],[13.569145,41.217274],[13.568587,41.218891],[13.569552,41.218948]]]],"created":1292451067,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/721101_20101215_45f6a5f239.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

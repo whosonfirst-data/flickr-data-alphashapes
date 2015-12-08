@@ -1,0 +1,15 @@
+{
+  "id": 29401483,
+  "type": "Feature",
+  "properties": {
+    "name":"Santovka, Slovakia",
+    "placetype":"locality",
+    "woe:id":29401483,
+    "woe:name":"Santovka, Slovakia",
+    "woe:place_id":"PZYuLHebCJigfIlQiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.769588,48.153763,18.7708,48.15435],
+  "geometry": {"alpha":1e-05,"bbox":[18.769588470459,48.153762817383,18.770799636841,48.154350280762],"coordinates":[[[[18.770338,48.153763],[18.769588,48.154171],[18.769991,48.15435],[18.770384,48.15435],[18.770763,48.154278],[18.7708,48.153992],[18.770338,48.153763]]]],"created":1292514912,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/29401483_20101216_89de94d653.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

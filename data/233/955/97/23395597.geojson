@@ -1,0 +1,15 @@
+{
+  "id": 23395597,
+  "type": "Feature",
+  "properties": {
+    "name":"Bristol, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395597,
+    "woe:name":"Bristol, Quebec, Canada",
+    "woe:place_id":"znq9GM2bAp8K1.aImg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.407677,45.509926,-76.402443,45.52066],
+  "geometry": {"alpha":0.00015,"bbox":[-76.407676696777,45.509925842285,-76.402442932129,45.520660400391],"coordinates":[[[[-76.404816,45.511158],[-76.407677,45.520302],[-76.407677,45.52066],[-76.404076,45.51643],[-76.402443,45.509956],[-76.402916,45.509926],[-76.404808,45.510571],[-76.404816,45.511158]]]],"created":1292535905,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/23395597_20101216_00d36c4081.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

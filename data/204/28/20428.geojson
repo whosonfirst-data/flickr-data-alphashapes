@@ -1,0 +1,15 @@
+{
+  "id": 20428,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20428,
+    "woe:name":"Forest Green, England, United Kingdom",
+    "woe:place_id":"ckUrCT6bAZjZXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.398983,51.156845,-0.385787,51.165134],
+  "geometry": {"alpha":0.00015,"bbox":[-0.39898300170898,51.156845092773,-0.38578701019287,51.165134429932],"coordinates":[[[[-0.395507,51.160774],[-0.389156,51.165134],[-0.386409,51.163898],[-0.385787,51.162708],[-0.393218,51.156845],[-0.398983,51.15974],[-0.395507,51.160774]]]],"created":1292454603,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/20428_20101215_76604dfe63.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

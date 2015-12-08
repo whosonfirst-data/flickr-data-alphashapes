@@ -1,0 +1,15 @@
+{
+  "id": 18008,
+  "type": "Feature",
+  "properties": {
+    "name":"Debden, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18008,
+    "woe:name":"Debden, England, United Kingdom",
+    "woe:place_id":"Cp1CRNCYCZw46w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.254144,51.961033,0.274658,51.993443],
+  "geometry": {"alpha":0.00015,"bbox":[0.25414401292801,51.961032867432,0.27465799450874,51.9934425354],"coordinates":[[[[0.262641,51.979591],[0.269079,51.991962],[0.271224,51.993443],[0.274658,51.992279],[0.271739,51.978851],[0.269765,51.974506],[0.254144,51.961033],[0.255775,51.975933],[0.262641,51.979591]]]],"created":1248028926,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2509/shapefiles/18008_20090719_cb76e0ab67.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

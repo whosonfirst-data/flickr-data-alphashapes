@@ -1,0 +1,15 @@
+{
+  "id": 29401881,
+  "type": "Feature",
+  "properties": {
+    "name":"Puchov, Slovakia",
+    "placetype":"locality",
+    "woe:id":29401881,
+    "woe:name":"Puchov, Slovakia",
+    "woe:place_id":"Wcxx8e6bCJhQcgo2og",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.328522,49.112537,18.329021,49.113247],
+  "geometry": {"alpha":1e-05,"bbox":[18.328521728516,49.112537384033,18.329021453857,49.113246917725],"coordinates":[[[[18.329021,49.113247],[18.328976,49.11301],[18.32893,49.1129],[18.328522,49.112537],[18.328526,49.112591],[18.328955,49.113174],[18.329021,49.113247]]]],"created":1234599968,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3440/shapefiles/29401881_20090214_f445c901b6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

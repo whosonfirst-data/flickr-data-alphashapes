@@ -1,0 +1,15 @@
+{
+  "id": 12645784,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rue-St.-Pierre, France",
+    "placetype":"locality",
+    "woe:id":12645784,
+    "woe:name":"La Rue-St.-Pierre, France",
+    "woe:place_id":"4UXrLnCYA5pBG6XunQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.246262,49.559807,1.254673,49.5704],
+  "geometry": {"alpha":1e-05,"bbox":[1.2462619543076,49.55980682373,1.2546730041504,49.570400238037],"coordinates":[[[[1.252066,49.569344],[1.254673,49.563721],[1.250681,49.564163],[1.247581,49.559948],[1.24742,49.559807],[1.246262,49.559879],[1.246819,49.562855],[1.249394,49.568031],[1.251647,49.569397],[1.252892,49.5704],[1.252591,49.569855],[1.252066,49.569344]]]],"created":1292536852,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12645784_20101216_434052b204.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

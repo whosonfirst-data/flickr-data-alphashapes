@@ -1,0 +1,15 @@
+{
+  "id": 2411366,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenwood, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2411366,
+    "woe:name":"Glenwood, Florida, United States",
+    "woe:place_id":"eW2bMvybBZ3cRb_s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.515015,30.645657,-81.510483,30.654408],
+  "geometry": {"alpha":0.00015,"bbox":[-81.515014648438,30.645656585693,-81.510482788086,30.654407501221],"coordinates":[[[[-81.510612,30.651093],[-81.510483,30.645657],[-81.513748,30.646181],[-81.515015,30.654408],[-81.514824,30.654219],[-81.510612,30.651093]]]],"created":1292477524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2411366_20101216_bfb879d276.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

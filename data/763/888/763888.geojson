@@ -1,0 +1,15 @@
+{
+  "id": 763888,
+  "type": "Feature",
+  "properties": {
+    "name":"La Poveda, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":763888,
+    "woe:name":"La Poveda, Madrid, Spain",
+    "woe:place_id":"akjmgkqeB5_K2Kc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.487944,40.310295,-3.473911,40.325653],
+  "geometry": {"alpha":0.00015,"bbox":[-3.4879438877106,40.31029510498,-3.4739110469818,40.325653076172],"coordinates":[[[[-3.480777,40.31916],[-3.473911,40.311161],[-3.476872,40.310295],[-3.480134,40.31279],[-3.487944,40.324055],[-3.485659,40.325653],[-3.480777,40.31916]]]],"created":1292533780,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/763888_20101216_a6c1255c33.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

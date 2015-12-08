@@ -1,0 +1,15 @@
+{
+  "id": 12683662,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemmiken, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683662,
+    "woe:name":"Hemmiken, Switzerland",
+    "woe:place_id":"7TO7272YA5pKSfX6Aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.868957,47.489639,7.875781,47.494038],
+  "geometry": {"alpha":1e-05,"bbox":[7.8689570426941,47.489639282227,7.8757810592651,47.494037628174],"coordinates":[[[[7.871433,47.490246],[7.869794,47.492435],[7.868957,47.493313],[7.871704,47.492645],[7.875781,47.494038],[7.872069,47.489639],[7.871433,47.490246]]]],"created":1292539250,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12683662_20101216_91c829efe4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

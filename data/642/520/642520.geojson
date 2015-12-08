@@ -1,0 +1,15 @@
+{
+  "id": 642520,
+  "type": "Feature",
+  "properties": {
+    "name":"Burgbernheim, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":642520,
+    "woe:name":"Burgbernheim, Bavaria, Germany",
+    "woe:place_id":"B6vg9_2fBZ6AZC0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.321227,49.438625,10.332713,49.450592],
+  "geometry": {"alpha":0.00015,"bbox":[10.321227073669,49.438625335693,10.332713127136,49.450592041016],"coordinates":[[[[10.321263,49.446384],[10.321227,49.446465],[10.321327,49.446568],[10.327749,49.450592],[10.330163,49.450245],[10.332713,49.438625],[10.321263,49.446384]]]],"created":1292516284,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/642520_20101216_a63f31291a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 547867,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwarzach, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":547867,
+    "woe:name":"Schwarzach, Salzburg, Austria",
+    "woe:place_id":"D2YhJUycBZthVoY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.147008,47.318249,13.156385,47.321815],
+  "geometry": {"alpha":0.00015,"bbox":[13.1470079422,47.318248748779,13.156385421753,47.321815490723],"coordinates":[[[[13.154288,47.318249],[13.153885,47.318562],[13.153424,47.318897],[13.147008,47.321815],[13.151149,47.321232],[13.156385,47.319344],[13.154288,47.318249]]]],"created":1292544450,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/547867_20101217_a85bc0e04c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

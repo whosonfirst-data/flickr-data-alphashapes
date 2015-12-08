@@ -1,0 +1,15 @@
+{
+  "id": 12623224,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hemmingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623224,
+    "woe:name":"Gemeinde Hemmingen, Germany",
+    "woe:place_id":"VRq954WYA5ogONu2ew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.019394,48.860733,9.027585,48.866917],
+  "geometry": {"alpha":1e-05,"bbox":[9.0193939208984,48.860733032227,9.0275850296021,48.866916656494],"coordinates":[[[[9.0275,48.866917],[9.027585,48.866749],[9.024581,48.863529],[9.024152,48.860817],[9.019394,48.860733],[9.02191,48.865505],[9.0275,48.866917]]]],"created":1292533306,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12623224_20101216_26ec15988e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

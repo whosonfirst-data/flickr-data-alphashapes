@@ -1,0 +1,15 @@
+{
+  "id": 844871,
+  "type": "Feature",
+  "properties": {
+    "name":"Pringi, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":844871,
+    "woe:name":"Pringi, Harju County, Estonia",
+    "woe:place_id":"KPr78aSRBZgKFQI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.79022,59.534676,24.818115,59.541977],
+  "geometry": {"alpha":0.00015,"bbox":[24.79022026062,59.534675598145,24.818115234375,59.541976928711],"coordinates":[[[[24.792023,59.541977],[24.794424,59.539104],[24.818115,59.538841],[24.794168,59.534676],[24.790478,59.534969],[24.79022,59.539452],[24.792023,59.541977]]]],"created":1292547325,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/844871_20101217_744b300b9a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

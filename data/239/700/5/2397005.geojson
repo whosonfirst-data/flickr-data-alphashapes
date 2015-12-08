@@ -1,0 +1,15 @@
+{
+  "id": 2397005,
+  "type": "Feature",
+  "properties": {
+    "name":"Eden Farms, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2397005,
+    "woe:name":"Eden Farms, Maryland, United States",
+    "woe:place_id":"iZcrLOKbApWUJqg1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.984589,39.590309,-76.980728,39.594593],
+  "geometry": {"alpha":0.00015,"bbox":[-76.984588623047,39.590309143066,-76.980728149414,39.594593048096],"coordinates":[[[[-76.984589,39.590309],[-76.98455,39.590408],[-76.983604,39.594593],[-76.980728,39.590725],[-76.984291,39.590343],[-76.984589,39.590309]]]],"created":1292444650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2397005_20101215_d0d4fb2e80.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

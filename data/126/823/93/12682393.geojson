@@ -1,0 +1,15 @@
+{
+  "id": 12682393,
+  "type": "Feature",
+  "properties": {
+    "name":"Verolavecchia, Italy",
+    "placetype":"locality",
+    "woe:id":12682393,
+    "woe:name":"Verolavecchia, Italy",
+    "woe:place_id":"FccmonqYA5ov2fl15w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.056111,45.332771,10.06345,45.33839],
+  "geometry": {"alpha":1e-05,"bbox":[10.056111335754,45.33277130127,10.063449859619,45.338390350342],"coordinates":[[[[10.058219,45.332924],[10.056111,45.333412],[10.05867,45.33839],[10.062103,45.334469],[10.06345,45.333687],[10.059058,45.332771],[10.058219,45.332924]]]],"created":1292545765,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/12682393_20101217_bca8319dc5.tar.gz"},"points":44,"type":"MultiPolygon"}
+}

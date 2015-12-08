@@ -1,0 +1,15 @@
+{
+  "id": 20108674,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Maria, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20108674,
+    "woe:name":"Santa Maria, Veneto, Italy",
+    "woe:place_id":"VvP0HymbAZ0zFdxy9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.222697,45.895744,12.234134,45.904224],
+  "geometry": {"alpha":0.00015,"bbox":[12.222697257996,45.89574432373,12.234133720398,45.904224395752],"coordinates":[[[[12.223663,45.895744],[12.222697,45.899567],[12.225036,45.902908],[12.233619,45.904224],[12.234134,45.897533],[12.223663,45.895744]]]],"created":1292449145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/20108674_20101215_bcf8c2c230.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

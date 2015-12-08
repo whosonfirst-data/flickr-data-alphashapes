@@ -1,0 +1,15 @@
+{
+  "id": 636646,
+  "type": "Feature",
+  "properties": {
+    "name":"Baiersdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":636646,
+    "woe:name":"Baiersdorf, Bavaria, Germany",
+    "woe:place_id":"DvtRumOfApqJ0gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.004223,49.657806,11.042633,49.668072],
+  "geometry": {"alpha":0.00015,"bbox":[11.004222869873,49.657806396484,11.042633056641,49.668071746826],"coordinates":[[[[11.032505,49.668072],[11.042633,49.667404],[11.042118,49.658073],[11.026411,49.658405],[11.004223,49.657806],[11.018761,49.665829],[11.032505,49.668072]]]],"created":1292505369,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/636646_20101216_e4dde60a7b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

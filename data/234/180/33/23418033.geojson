@@ -1,0 +1,15 @@
+{
+  "id": 23418033,
+  "type": "Feature",
+  "properties": {
+    "name":"Green Valley, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":23418033,
+    "woe:name":"Green Valley, South Dakota, United States",
+    "woe:place_id":"oAXMm5.bApi.Ak1b4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.069244,44.028126,-103.055191,44.052898],
+  "geometry": {"alpha":0.00015,"bbox":[-103.06924438477,44.028125762939,-103.05519104004,44.052898406982],"coordinates":[[[[-103.066071,44.052898],[-103.055191,44.042934],[-103.055191,44.028126],[-103.069244,44.03323],[-103.068497,44.033924],[-103.066071,44.052898]]]],"created":1292449403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/23418033_20101215_37281998ac.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

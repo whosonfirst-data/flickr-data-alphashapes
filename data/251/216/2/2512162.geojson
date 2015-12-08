@@ -1,0 +1,15 @@
+{
+  "id": 2512162,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2512162,
+    "woe:name":"Vienna, Maryland, United States",
+    "woe:place_id":"rhPiTN6bBJ0IViIJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.845963,38.480572,-75.815468,38.495441],
+  "geometry": {"alpha":0.00015,"bbox":[-75.845962524414,38.480571746826,-75.815467834473,38.495441436768],"coordinates":[[[[-75.823334,38.480572],[-75.829308,38.48217],[-75.845963,38.494652],[-75.826744,38.487968],[-75.82502,38.489044],[-75.819984,38.495441],[-75.815468,38.491394],[-75.821411,38.484165],[-75.823334,38.480572]]]],"created":1292543785,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2512162_20101216_46efd86ce7.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

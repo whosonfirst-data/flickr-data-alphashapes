@@ -1,0 +1,15 @@
+{
+  "id": 148868,
+  "type": "Feature",
+  "properties": {
+    "name":"Tepeaca, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":148868,
+    "woe:name":"Tepeaca, Puebla, Mexico",
+    "woe:place_id":"wzldZPCYBZRu3TM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.908783,18.964821,-97.901833,18.977564],
+  "geometry": {"alpha":0.00015,"bbox":[-97.908782958984,18.964820861816,-97.901832580566,18.977563858032],"coordinates":[[[[-97.901833,18.968128],[-97.905174,18.964821],[-97.905479,18.968229],[-97.908783,18.977564],[-97.902542,18.968821],[-97.901833,18.968128]]]],"created":1292442774,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/148868_20101215_7aeed5e65d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

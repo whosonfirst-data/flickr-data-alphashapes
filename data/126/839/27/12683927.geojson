@@ -1,0 +1,15 @@
+{
+  "id": 12683927,
+  "type": "Feature",
+  "properties": {
+    "name":"Magden, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683927,
+    "woe:name":"Magden, Switzerland",
+    "woe:place_id":"siSa4_CYA5rQUt.ABQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.797031,47.515419,7.800378,47.518475],
+  "geometry": {"alpha":1e-05,"bbox":[7.7970309257507,47.515419006348,7.8003778457642,47.518474578857],"coordinates":[[[[7.800378,47.515419],[7.800335,47.515652],[7.800035,47.516258],[7.797031,47.517895],[7.799949,47.518475],[7.800035,47.516258],[7.800378,47.515419]]]],"created":1292454812,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12683927_20101215_93c72105d4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

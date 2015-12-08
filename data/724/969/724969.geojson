@@ -1,0 +1,15 @@
+{
+  "id": 724969,
+  "type": "Feature",
+  "properties": {
+    "name":"Tombolo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":724969,
+    "woe:name":"Tombolo, Veneto, Italy",
+    "woe:place_id":"51AurFGeA5iEsYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.818842,45.629646,11.830349,45.647633],
+  "geometry": {"alpha":0.00015,"bbox":[11.818841934204,45.62964630127,11.830348968506,45.647632598877],"coordinates":[[[[11.830349,45.647141],[11.825612,45.641796],[11.818842,45.629646],[11.824067,45.644821],[11.825301,45.646942],[11.827855,45.647633],[11.830349,45.647141]]]],"created":1292450998,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/724969_20101215_d7aa145ae0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

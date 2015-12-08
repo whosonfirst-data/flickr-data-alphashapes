@@ -1,0 +1,15 @@
+{
+  "id": 20105006,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellange, Grevenmacher, Luxembourg",
+    "placetype":"locality",
+    "woe:id":20105006,
+    "woe:name":"Ellange, Grevenmacher, Luxembourg",
+    "woe:place_id":"dPwe7wmbAZ090Hy.pQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.299167,49.514473,6.309928,49.532253],
+  "geometry": {"alpha":0.00015,"bbox":[6.2991671562195,49.514472961426,6.3099279403687,49.532253265381],"coordinates":[[[[6.305605,49.52412],[6.309928,49.516071],[6.307143,49.514473],[6.299167,49.522484],[6.299564,49.532253],[6.305605,49.52412]]]],"created":1292441614,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20105006_20101215_dc1f0d68bb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

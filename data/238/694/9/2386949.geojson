@@ -1,0 +1,15 @@
+{
+  "id": 2386949,
+  "type": "Feature",
+  "properties": {
+    "name":"Crenshaw, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2386949,
+    "woe:name":"Crenshaw, Kentucky, United States",
+    "woe:place_id":"D1mDVnWbApQwA9vF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.464249,38.051537,-85.457321,38.060356],
+  "geometry": {"alpha":0.00015,"bbox":[-85.464248657227,38.051536560059,-85.457321166992,38.060356140137],"coordinates":[[[[-85.460968,38.05711],[-85.457321,38.060356],[-85.460503,38.051537],[-85.464249,38.054111],[-85.461006,38.057087],[-85.460968,38.05711]]]],"created":1292491563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2386949_20101216_a567d59b8e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 615736,
+  "type": "Feature",
+  "properties": {
+    "name":"Parrot, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":615736,
+    "woe:name":"Parrot, Auvergne, France",
+    "woe:place_id":"xQqu4UCfAJle0fk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.980469,45.345932,2.993066,45.353802],
+  "geometry": {"alpha":0.00015,"bbox":[2.9804689884186,45.345932006836,2.993066072464,45.353801727295],"coordinates":[[[[2.987788,45.3521],[2.990019,45.353638],[2.993066,45.353802],[2.986222,45.345932],[2.980469,45.347984],[2.982744,45.349312],[2.987788,45.3521]]]],"created":1292458411,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/615736_20101216_582deb5cb5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

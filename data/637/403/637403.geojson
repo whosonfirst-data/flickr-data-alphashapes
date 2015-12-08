@@ -1,0 +1,15 @@
+{
+  "id": 637403,
+  "type": "Feature",
+  "properties": {
+    "name":"Bedheim, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":637403,
+    "woe:name":"Bedheim, Thuringia, Germany",
+    "woe:place_id":"KvYFAASfApttEJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.651159,50.384277,10.654163,50.390995],
+  "geometry": {"alpha":0.00015,"bbox":[10.651159286499,50.38427734375,10.654163360596,50.390995025635],"coordinates":[[[[10.652961,50.390244],[10.654163,50.38974],[10.652807,50.384277],[10.652635,50.384933],[10.651159,50.390736],[10.651245,50.390995],[10.652961,50.390244]]]],"created":1292524467,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/637403_20101216_70cf1f21df.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

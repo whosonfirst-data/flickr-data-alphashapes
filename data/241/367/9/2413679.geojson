@@ -1,0 +1,15 @@
+{
+  "id": 2413679,
+  "type": "Feature",
+  "properties": {
+    "name":"Green Acres, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2413679,
+    "woe:name":"Green Acres, Illinois, United States",
+    "woe:place_id":"QKU4wCCbBZ3bq01X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.674103,39.879181,-89.664917,39.895332],
+  "geometry": {"alpha":0.00015,"bbox":[-89.674102783203,39.879180908203,-89.664916992188,39.895332336426],"coordinates":[[[[-89.674103,39.886723],[-89.673996,39.895332],[-89.66835,39.886295],[-89.66494,39.881496],[-89.664917,39.879181],[-89.674103,39.886723]]]],"created":1292451724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2413679_20101215_1b10fd705c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

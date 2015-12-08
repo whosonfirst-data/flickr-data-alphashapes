@@ -1,0 +1,15 @@
+{
+  "id": 12684664,
+  "type": "Feature",
+  "properties": {
+    "name":"Zofingen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684664,
+    "woe:name":"Zofingen, Switzerland",
+    "woe:place_id":"qEGlSBqYA5pNpJP06Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.943115,47.288055,7.944917,47.292736],
+  "geometry": {"alpha":1e-05,"bbox":[7.943115234375,47.288055419922,7.9449172019958,47.292736053467],"coordinates":[[[[7.943887,47.290298],[7.943115,47.292736],[7.944402,47.290405],[7.944917,47.289185],[7.943421,47.288055],[7.943233,47.288513],[7.943887,47.290298]]]],"created":1292470088,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12684664_20101216_a1363c02f0.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

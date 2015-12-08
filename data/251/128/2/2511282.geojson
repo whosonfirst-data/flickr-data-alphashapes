@@ -1,0 +1,15 @@
+{
+  "id": 2511282,
+  "type": "Feature",
+  "properties": {
+    "name":"Vanderbilt, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2511282,
+    "woe:name":"Vanderbilt, Michigan, United States",
+    "woe:place_id":"br.ZkXubBJ2pmsW_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.646912,45.162674,-84.633179,45.184925],
+  "geometry": {"alpha":0.00015,"bbox":[-84.646911621094,45.162673950195,-84.633178710938,45.184925079346],"coordinates":[[[[-84.641869,45.184925],[-84.637276,45.183479],[-84.633179,45.174294],[-84.646912,45.162674],[-84.640579,45.183468],[-84.641869,45.184925]]]],"created":1292542739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2511282_20101216_b833dab364.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

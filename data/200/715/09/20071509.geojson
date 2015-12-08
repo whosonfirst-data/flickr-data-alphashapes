@@ -1,0 +1,15 @@
+{
+  "id": 20071509,
+  "type": "Feature",
+  "properties": {
+    "name":"Ballygarvan, Ireland",
+    "placetype":"locality",
+    "woe:id":20071509,
+    "woe:name":"Ballygarvan, Ireland",
+    "woe:place_id":"Fyzpr8ObAZxLqgluKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.494663,51.842884,-8.488311,51.84737],
+  "geometry": {"alpha":1e-05,"bbox":[-8.4946632385254,51.842884063721,-8.4883108139038,51.847370147705],"coordinates":[[[[-8.489695,51.84684],[-8.488311,51.842884],[-8.491401,51.845322],[-8.494663,51.847019],[-8.491058,51.84737],[-8.490682,51.847271],[-8.489695,51.84684]]]],"created":1292526788,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20071509_20101216_bc541159ba.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

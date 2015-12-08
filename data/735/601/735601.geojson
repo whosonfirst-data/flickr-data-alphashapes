@@ -1,0 +1,15 @@
+{
+  "id": 735601,
+  "type": "Feature",
+  "properties": {
+    "name":"Alcaria Cova, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":735601,
+    "woe:name":"Alcaria Cova, Faro, Portugal",
+    "woe:place_id":"U9vr0yqeApnaEsc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.855911,37.087898,-7.82885,37.102287],
+  "geometry": {"alpha":0.00015,"bbox":[-7.8559107780457,37.087898254395,-7.8288497924805,37.10228729248],"coordinates":[[[[-7.855471,37.093056],[-7.855911,37.102287],[-7.832736,37.099209],[-7.82885,37.087898],[-7.851018,37.090683],[-7.855471,37.093056]]]],"created":1292532280,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/735601_20101216_3665a1bfac.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

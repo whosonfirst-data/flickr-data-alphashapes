@@ -1,0 +1,15 @@
+{
+  "id": 561335,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilmacthomas, Waterford, Ireland",
+    "placetype":"locality",
+    "woe:id":561335,
+    "woe:name":"Kilmacthomas, Waterford, Ireland",
+    "woe:place_id":"R.PNx0ScB51CG1I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.431092,52.197296,-7.4158,52.2117],
+  "geometry": {"alpha":0.00015,"bbox":[-7.4310917854309,52.197296142578,-7.4158000946045,52.211700439453],"coordinates":[[[[-7.425556,52.209709],[-7.4158,52.2117],[-7.421264,52.20182],[-7.426757,52.197296],[-7.431092,52.206055],[-7.425556,52.209709]]]],"created":1292486649,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/561335_20101216_96950b29bc.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

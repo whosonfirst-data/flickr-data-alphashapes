@@ -1,0 +1,15 @@
+{
+  "id": 481050,
+  "type": "Feature",
+  "properties": {
+    "name":"Orheiu, Orhei, Moldova",
+    "placetype":"locality",
+    "woe:id":481050,
+    "woe:name":"Orheiu, Orhei, Moldova",
+    "woe:place_id":"krfrAiadCZ3tIpc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.797913,47.367897,28.831558,47.394051],
+  "geometry": {"alpha":0.00015,"bbox":[28.797912597656,47.367897033691,28.831558227539,47.394050598145],"coordinates":[[[[28.831558,47.380627],[28.825378,47.367897],[28.813705,47.37487],[28.797913,47.388123],[28.804779,47.394051],[28.825893,47.39312],[28.831558,47.380627]]]],"created":1292536088,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/481050_20101216_77a5d9061e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

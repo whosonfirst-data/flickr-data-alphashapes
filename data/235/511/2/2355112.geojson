@@ -1,0 +1,15 @@
+{
+  "id": 2355112,
+  "type": "Feature",
+  "properties": {
+    "name":"Antioch, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2355112,
+    "woe:name":"Antioch, Texas, United States",
+    "woe:place_id":"H6O.E0ybApk4Gcmz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.488541,32.225533,-95.487877,32.225986],
+  "geometry": {"alpha":0.00015,"bbox":[-95.488540649414,32.225532531738,-95.48787689209,32.225986480713],"coordinates":[[[[-95.488197,32.225986],[-95.487877,32.225796],[-95.488228,32.225609],[-95.488541,32.225533],[-95.488197,32.225986]]]],"created":1226580962,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3198/shapefiles/2355112_20081113_9e1b7424fc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

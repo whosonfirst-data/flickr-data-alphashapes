@@ -1,0 +1,15 @@
+{
+  "id": 23394716,
+  "type": "Feature",
+  "properties": {
+    "name":"Mistissini, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394716,
+    "woe:name":"Mistissini, Quebec, Canada",
+    "woe:place_id":"e_sZgtqbAp_NrNgcbw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.878418,50.411144,-73.872925,50.419991],
+  "geometry": {"alpha":0.00015,"bbox":[-73.87841796875,50.411144256592,-73.872924804688,50.419990539551],"coordinates":[[[[-73.877953,50.419991],[-73.873444,50.419628],[-73.872925,50.413113],[-73.877563,50.411144],[-73.878418,50.414806],[-73.877953,50.419991]]]],"created":1292528585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/23394716_20101216_cce95ce71f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 600096,
+  "type": "Feature",
+  "properties": {
+    "name":"La Thuile, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":600096,
+    "woe:name":"La Thuile, Rhone-Alpes, France",
+    "woe:place_id":"TqdanYefAZz6ge0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.053069,45.529575,6.058101,45.535751],
+  "geometry": {"alpha":0.00015,"bbox":[6.0530691146851,45.5295753479,6.0581011772156,45.535751342773],"coordinates":[[[[6.053295,45.535751],[6.058101,45.535271],[6.057758,45.531487],[6.053989,45.529575],[6.053069,45.529705],[6.053295,45.535751]]]],"created":1292455909,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/600096_20101215_db67817355.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

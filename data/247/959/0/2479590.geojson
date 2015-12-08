@@ -1,0 +1,15 @@
+{
+  "id": 2479590,
+  "type": "Feature",
+  "properties": {
+    "name":"Redford, New York, United States",
+    "placetype":"locality",
+    "woe:id":2479590,
+    "woe:name":"Redford, New York, United States",
+    "woe:place_id":"TSWoozGbBZuKUfsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.796303,44.616684,-73.781433,44.62579],
+  "geometry": {"alpha":0.00015,"bbox":[-73.79630279541,44.616683959961,-73.781433105469,44.625789642334],"coordinates":[[[[-73.781433,44.624195],[-73.78392,44.617661],[-73.785553,44.616684],[-73.796303,44.62579],[-73.781433,44.624195]]]],"created":1292547961,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2479590_20101217_41f69bf545.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

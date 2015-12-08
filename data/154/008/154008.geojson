@@ -1,0 +1,15 @@
+{
+  "id": 154008,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marcos, Carazo, Nicaragua",
+    "placetype":"locality",
+    "woe:id":154008,
+    "woe:name":"San Marcos, Carazo, Nicaragua",
+    "woe:place_id":"w1omKTeYBJjviko",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.224991,11.8949,-86.187042,11.91724],
+  "geometry": {"alpha":0.00015,"bbox":[-86.224990844727,11.89490032196,-86.187042236328,11.917240142822],"coordinates":[[[[-86.209717,11.91724],[-86.203018,11.916148],[-86.187042,11.905062],[-86.20369,11.89925],[-86.224991,11.8949],[-86.21109,11.90733],[-86.210228,11.916736],[-86.209717,11.91724]]]],"created":1292543599,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/154008_20101216_2071e7e0f3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

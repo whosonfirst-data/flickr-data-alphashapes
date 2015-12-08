@@ -1,0 +1,15 @@
+{
+  "id": 2477362,
+  "type": "Feature",
+  "properties": {
+    "name":"Purling, New York, United States",
+    "placetype":"locality",
+    "woe:id":2477362,
+    "woe:name":"Purling, New York, United States",
+    "woe:place_id":"Q_1Px_KbBZtPjQuI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.008148,42.282516,-73.994057,42.292786],
+  "geometry": {"alpha":0.00015,"bbox":[-74.008148193359,42.282516479492,-73.99405670166,42.292785644531],"coordinates":[[[[-74.001526,42.282516],[-74.005882,42.284229],[-74.008148,42.2845],[-74.004417,42.285816],[-73.994057,42.292786],[-74.001526,42.282516]]]],"created":1292512805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2477362_20101216_a0499d744e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

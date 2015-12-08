@@ -1,0 +1,15 @@
+{
+  "id": 848765,
+  "type": "Feature",
+  "properties": {
+    "name":"Ledenice, Primorsko-Goranska, Croatia",
+    "placetype":"locality",
+    "woe:id":848765,
+    "woe:name":"Ledenice, Primorsko-Goranska, Croatia",
+    "woe:place_id":"KAv3_BSRBZShMAM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.833946,45.122475,14.851627,45.142094],
+  "geometry": {"alpha":0.00015,"bbox":[14.833946228027,45.12247467041,14.851627349854,45.142093658447],"coordinates":[[[[14.833946,45.132164],[14.840297,45.134464],[14.851627,45.142094],[14.848022,45.122475],[14.838409,45.126896],[14.833946,45.132164]]]],"created":1292440003,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/848765_20101215_900236056f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

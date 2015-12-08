@@ -1,0 +1,15 @@
+{
+  "id": 20130741,
+  "type": "Feature",
+  "properties": {
+    "name":"Marne, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20130741,
+    "woe:name":"Marne, Lombardy, Italy",
+    "woe:place_id":".6WYa4WbAZ3orrOSUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.556388,45.620827,9.5648,45.630123],
+  "geometry": {"alpha":0.00015,"bbox":[9.5563879013062,45.620826721191,9.5648002624512,45.630123138428],"coordinates":[[[[9.556719,45.623951],[9.556388,45.624844],[9.556388,45.624962],[9.5648,45.630123],[9.558727,45.620827],[9.556719,45.623951]]]],"created":1248001572,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2469/shapefiles/20130741_20090719_5d91c5a77b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

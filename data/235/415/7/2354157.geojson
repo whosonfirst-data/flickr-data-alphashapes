@@ -1,0 +1,15 @@
+{
+  "id": 2354157,
+  "type": "Feature",
+  "properties": {
+    "name":"Amber, New York, United States",
+    "placetype":"locality",
+    "woe:id":2354157,
+    "woe:name":"Amber, New York, United States",
+    "woe:place_id":"qOEc3BmbApm5HBH.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.305115,42.889801,-76.297516,42.897205],
+  "geometry": {"alpha":0.00015,"bbox":[-76.305114746094,42.889801025391,-76.297515869141,42.897205352783],"coordinates":[[[[-76.297516,42.891624],[-76.297852,42.889801],[-76.299187,42.89175],[-76.305115,42.897205],[-76.298195,42.892086],[-76.297516,42.891624]]]],"created":1292485501,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2354157_20101216_3224747ffa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

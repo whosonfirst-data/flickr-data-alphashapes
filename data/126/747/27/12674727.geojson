@@ -1,0 +1,15 @@
+{
+  "id": 12674727,
+  "type": "Feature",
+  "properties": {
+    "name":"Dorfgastein, Austria",
+    "placetype":"locality",
+    "woe:id":12674727,
+    "woe:name":"Dorfgastein, Austria",
+    "woe:place_id":"Kl10CcGYA5pAJK2tuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.101882,47.238667,13.105831,47.245792],
+  "geometry": {"alpha":1e-05,"bbox":[13.101881980896,47.238666534424,13.10583114624,47.245792388916],"coordinates":[[[[13.102124,47.245438],[13.102054,47.245792],[13.105332,47.243805],[13.105831,47.243755],[13.103,47.238667],[13.101882,47.243462],[13.102124,47.245438]]]],"created":1292519989,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12674727_20101216_c548045380.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

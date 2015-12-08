@@ -1,0 +1,15 @@
+{
+  "id": 730711,
+  "type": "Feature",
+  "properties": {
+    "name":"Keutenberg, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":730711,
+    "woe:name":"Keutenberg, Limburg, Netherlands",
+    "woe:place_id":"p6THrySeApwkCYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.871387,50.839077,5.873501,50.844322],
+  "geometry": {"alpha":0.00015,"bbox":[5.8713870048523,50.83907699585,5.8735008239746,50.84432220459],"coordinates":[[[[5.873501,50.844322],[5.873367,50.843426],[5.871387,50.839077],[5.87222,50.842499],[5.872916,50.843601],[5.873501,50.844322]]]],"created":1292523985,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/730711_20101216_c796ebe599.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

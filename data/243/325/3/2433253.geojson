@@ -1,0 +1,15 @@
+{
+  "id": 2433253,
+  "type": "Feature",
+  "properties": {
+    "name":"Kitty Fork, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2433253,
+    "woe:name":"Kitty Fork, North Carolina, United States",
+    "woe:place_id":"qqcnseGbBZ.0W2zi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.363678,35.042831,-78.352837,35.043629],
+  "geometry": {"alpha":0.00015,"bbox":[-78.363677978516,35.042831420898,-78.352836608887,35.043628692627],"coordinates":[[[[-78.352837,35.043167],[-78.352837,35.042999],[-78.353165,35.042831],[-78.363678,35.043629],[-78.352852,35.043251],[-78.352837,35.043167]]]],"created":1292528284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2433253_20101216_5cc61dedb6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

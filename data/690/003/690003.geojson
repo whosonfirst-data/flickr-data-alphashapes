@@ -1,0 +1,15 @@
+{
+  "id": 690003,
+  "type": "Feature",
+  "properties": {
+    "name":"Rothschwaige, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":690003,
+    "woe:name":"Rothschwaige, Bavaria, Germany",
+    "woe:place_id":"MKQhYh2fCJxVKtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.455135,48.232277,11.465864,48.247883],
+  "geometry": {"alpha":0.00015,"bbox":[11.455135345459,48.232276916504,11.465864181519,48.247882843018],"coordinates":[[[[11.455135,48.238625],[11.456165,48.247883],[11.465864,48.234879],[11.463128,48.232277],[11.455135,48.238625]]]],"created":1229379128,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3048/shapefiles/690003_20081215_3987589cd4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

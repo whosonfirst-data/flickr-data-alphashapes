@@ -1,0 +1,15 @@
+{
+  "id": 2441170,
+  "type": "Feature",
+  "properties": {
+    "name":"Lohman, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2441170,
+    "woe:name":"Lohman, Montana, United States",
+    "woe:place_id":"AZxcL66bBZiMp7_d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.423141,48.587933,-109.390289,48.592361],
+  "geometry": {"alpha":0.00015,"bbox":[-109.42314147949,48.58793258667,-109.39028930664,48.592361450195],"coordinates":[[[[-109.405869,48.590092],[-109.390289,48.592361],[-109.406502,48.58926],[-109.423141,48.587933],[-109.406082,48.590107],[-109.405869,48.590092]]]],"created":1292454460,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2441170_20101215_750611776a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

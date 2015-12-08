@@ -1,0 +1,15 @@
+{
+  "id": 2988,
+  "type": "Feature",
+  "properties": {
+    "name":"Brunkild, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2988,
+    "woe:name":"Brunkild, Manitoba, Canada",
+    "woe:place_id":"siFWoVybCJRT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.581253,49.590351,-97.573868,49.593742],
+  "geometry": {"alpha":0.00015,"bbox":[-97.581253051758,49.590351104736,-97.573867797852,49.593742370605],"coordinates":[[[[-97.573868,49.593742],[-97.578766,49.591965],[-97.581253,49.590351],[-97.577988,49.593327],[-97.573868,49.593742]]]],"created":1292520602,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2988_20101216_a530e44ac3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

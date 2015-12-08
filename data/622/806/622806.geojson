@@ -1,0 +1,15 @@
+{
+  "id": 622806,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Aignan, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":622806,
+    "woe:name":"St-Aignan, Pays de la Loire, France",
+    "woe:place_id":"svR37jmfA57kBs8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.676788,47.112312,-1.669578,47.118504],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6767879724503,47.112312316895,-1.6695779561996,47.118503570557],"coordinates":[[[[-1.676101,47.112312],[-1.676788,47.113365],[-1.670608,47.118504],[-1.669578,47.117802],[-1.674728,47.113598],[-1.676101,47.112312]]]],"created":1292474883,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/622806_20101216_4465489985.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

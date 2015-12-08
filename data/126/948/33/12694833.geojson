@@ -1,0 +1,15 @@
+{
+  "id": 12694833,
+  "type": "Feature",
+  "properties": {
+    "name":"Outeiro de Rei, Spain",
+    "placetype":"locality",
+    "woe:id":12694833,
+    "woe:name":"Outeiro de Rei, Spain",
+    "woe:place_id":"z5Xk2peYA5oRLOk1fg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.618589,43.113705,-7.613868,43.116116],
+  "geometry": {"alpha":1e-05,"bbox":[-7.618588924408,43.113704681396,-7.6138682365417,43.116115570068],"coordinates":[[[[-7.616701,43.114738],[-7.613868,43.116116],[-7.615971,43.114765],[-7.616164,43.114571],[-7.618589,43.113705],[-7.616701,43.114738]]]],"created":1292445400,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12694833_20101215_88b2fa1bef.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

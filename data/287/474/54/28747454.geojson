@@ -1,0 +1,15 @@
+{
+  "id": 28747454,
+  "type": "Feature",
+  "properties": {
+    "name":"Cairo Junction, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":28747454,
+    "woe:name":"Cairo Junction, Oregon, United States",
+    "woe:place_id":"jlp5kzybCZtxpwcn.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.008919,43.988628,-117.006134,43.988781],
+  "geometry": {"alpha":0.00015,"bbox":[-117.00891876221,43.988628387451,-117.0061340332,43.988780975342],"coordinates":[[[[-117.007683,43.988628],[-117.008919,43.988708],[-117.008018,43.988781],[-117.006668,43.988724],[-117.006134,43.988724],[-117.007683,43.988628]]]],"created":1292463841,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/28747454_20101216_80c4ea9e7d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

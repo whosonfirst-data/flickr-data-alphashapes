@@ -1,0 +1,15 @@
+{
+  "id": 20023,
+  "type": "Feature",
+  "properties": {
+    "name":"Felinfach, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20023,
+    "woe:name":"Felinfach, Wales, United Kingdom",
+    "woe:place_id":"0S0A8o.bAZzHjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.325338,51.989609,-3.312892,51.999783],
+  "geometry": {"alpha":0.00015,"bbox":[-3.3253378868103,51.989608764648,-3.312891960144,51.999782562256],"coordinates":[[[[-3.325252,51.989609],[-3.325338,51.990166],[-3.324737,51.990166],[-3.312892,51.999783],[-3.322806,51.990231],[-3.325252,51.989609]]]],"created":1292548480,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/20023_20101217_360c3d75ab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

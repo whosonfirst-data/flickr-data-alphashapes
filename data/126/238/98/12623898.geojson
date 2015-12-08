@@ -1,0 +1,15 @@
+{
+  "id": 12623898,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Waldbronn, Germany",
+    "placetype":"locality",
+    "woe:id":12623898,
+    "woe:name":"Gemeinde Waldbronn, Germany",
+    "woe:place_id":"9VQyCjSYA5r4DsNs2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.44913,48.923061,8.458957,48.927639],
+  "geometry": {"alpha":1e-05,"bbox":[8.4491300582886,48.92306137085,8.4589567184448,48.927639007568],"coordinates":[[[[8.453363,48.925896],[8.458957,48.927067],[8.453979,48.923767],[8.44913,48.923061],[8.451715,48.927639],[8.453363,48.925896]]]],"created":1292527973,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12623898_20101216_93eb0daa0c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15001119,
+  "type": "Feature",
+  "properties": {
+    "name":"Schlosswil, Canton of Berne, Switzerland",
+    "placetype":"locality",
+    "woe:id":15001119,
+    "woe:name":"Schlosswil, Canton of Berne, Switzerland",
+    "woe:place_id":"LVcjgeOYBJyJ8tcLEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.597539,46.907295,7.60889,46.914875],
+  "geometry": {"alpha":0.00015,"bbox":[7.5975389480591,46.907295227051,7.6088900566101,46.914875030518],"coordinates":[[[[7.604191,46.909409],[7.597539,46.914875],[7.60889,46.911694],[7.608032,46.908325],[7.607946,46.907295],[7.604191,46.909409]]]],"created":1292541702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/15001119_20101216_86ccb2d6ab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

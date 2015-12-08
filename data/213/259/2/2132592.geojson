@@ -1,0 +1,15 @@
+{
+  "id": 2132592,
+  "type": "Feature",
+  "properties": {
+    "name":"Yuyao, Zhejiang, China",
+    "placetype":"locality",
+    "woe:id":2132592,
+    "woe:name":"Yuyao, Zhejiang, China",
+    "woe:place_id":"OJiYcn6bAJ_10IRU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.148125,30.044132,121.152763,30.055574],
+  "geometry": {"alpha":0.00015,"bbox":[121.14812469482,30.044132232666,121.1527633667,30.055574417114],"coordinates":[[[[121.148643,30.050819],[121.148125,30.055574],[121.148727,30.054384],[121.152763,30.049536],[121.151733,30.044132],[121.148643,30.050819]]]],"created":1292550251,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2132592_20101217_9c180db3f8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

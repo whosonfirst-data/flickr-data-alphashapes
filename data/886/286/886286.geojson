@@ -1,0 +1,15 @@
+{
+  "id": 886286,
+  "type": "Feature",
+  "properties": {
+    "name":"Bie, Sodermanland, Sweden",
+    "placetype":"locality",
+    "woe:id":886286,
+    "woe:name":"Bie, Sodermanland, Sweden",
+    "woe:place_id":"LmN84X6RCZroZZU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.134167,59.088055,16.134722,59.088333],
+  "geometry": {"alpha":0.00015,"bbox":[16.134166717529,59.088054656982,16.134721755981,59.088333129883],"coordinates":[[[[16.134443,59.088055],[16.134167,59.088055],[16.134167,59.088333],[16.134443,59.088333],[16.134722,59.088333],[16.134722,59.088055],[16.134443,59.088055]]]],"created":1292542865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/886286_20101216_f5fe65948b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

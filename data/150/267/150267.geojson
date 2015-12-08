@@ -1,0 +1,15 @@
+{
+  "id": 150267,
+  "type": "Feature",
+  "properties": {
+    "name":"Tuxpan, Michoacan de Ocampo, Mexico",
+    "placetype":"locality",
+    "woe:id":150267,
+    "woe:name":"Tuxpan, Michoacan de Ocampo, Mexico",
+    "woe:place_id":"Mg_svaSYBJzkmRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.478897,19.571032,-100.458298,19.581141],
+  "geometry": {"alpha":0.00015,"bbox":[-100.47889709473,19.571031570435,-100.45829772949,19.581140518188],"coordinates":[[[[-100.469284,19.575804],[-100.458298,19.571032],[-100.469971,19.57192],[-100.478897,19.581141],[-100.469284,19.575804]]]],"created":1292534081,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/150267_20101216_bcb96b9c6d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

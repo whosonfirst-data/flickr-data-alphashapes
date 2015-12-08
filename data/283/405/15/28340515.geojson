@@ -1,0 +1,15 @@
+{
+  "id": 28340515,
+  "type": "Feature",
+  "properties": {
+    "name":"Return, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":28340515,
+    "woe:name":"Return, Virginia, United States",
+    "woe:place_id":"Powo3.WbCZ_ts2FMFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.11647,38.120117,-77.10717,38.126835],
+  "geometry": {"alpha":0.00015,"bbox":[-77.116470336914,38.1201171875,-77.10717010498,38.126834869385],"coordinates":[[[[-77.10717,38.126835],[-77.110565,38.120117],[-77.11261,38.121071],[-77.11647,38.125172],[-77.10717,38.126835]]]],"created":1292452582,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/28340515_20101215_26f3b9cc18.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 685256,
+  "type": "Feature",
+  "properties": {
+    "name":"Plankstadt, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":685256,
+    "woe:name":"Plankstadt, Baden-Wurttemberg, Germany",
+    "woe:place_id":"PkZNGbafCZkAp1w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.568992,49.384663,8.573026,49.38662],
+  "geometry": {"alpha":0.00015,"bbox":[8.5689916610718,49.384662628174,8.5730257034302,49.386619567871],"coordinates":[[[[8.570709,49.384663],[8.568992,49.386505],[8.568992,49.38662],[8.573026,49.38472],[8.570709,49.384663]]]],"created":1247997131,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2538/shapefiles/685256_20090719_5599e3abc6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

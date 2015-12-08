@@ -1,0 +1,15 @@
+{
+  "id": 3718,
+  "type": "Feature",
+  "properties": {
+    "name":"Port-Menier, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3718,
+    "woe:name":"Port-Menier, Quebec, Canada",
+    "woe:place_id":"1YOJyB2aBp3R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.368446,49.812069,-64.344437,49.826401],
+  "geometry": {"alpha":0.00015,"bbox":[-64.368446350098,49.812068939209,-64.344436645508,49.826400756836],"coordinates":[[[[-64.363403,49.816231],[-64.368446,49.826401],[-64.361,49.823475],[-64.344437,49.825665],[-64.346237,49.812069],[-64.358421,49.816113],[-64.363403,49.816231]]]],"created":1292465164,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/3718_20101216_ff725ddaba.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

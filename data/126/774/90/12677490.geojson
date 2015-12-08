@@ -1,0 +1,15 @@
+{
+  "id": 12677490,
+  "type": "Feature",
+  "properties": {
+    "name":"Cancellara, Italy",
+    "placetype":"locality",
+    "woe:id":12677490,
+    "woe:name":"Cancellara, Italy",
+    "woe:place_id":"kATlAVqYA5otQRfJdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.916121,40.730904,15.924704,40.734398],
+  "geometry": {"alpha":1e-05,"bbox":[15.916120529175,40.730903625488,15.924703598022,40.734397888184],"coordinates":[[[[15.922933,40.732243],[15.924704,40.730904],[15.923051,40.731293],[15.920262,40.732464],[15.916121,40.734398],[15.921592,40.733601],[15.922933,40.732243]]]],"created":1292452122,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12677490_20101215_92506a74ed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

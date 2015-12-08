@@ -1,0 +1,15 @@
+{
+  "id": 770,
+  "type": "Feature",
+  "properties": {
+    "name":"King's Cove, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":770,
+    "woe:name":"King's Cove, Newfoundland and Labrador, Canada",
+    "woe:place_id":"BiVq8gGeBpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.356133,48.549885,-53.321392,48.580212],
+  "geometry": {"alpha":0.00015,"bbox":[-53.356132507324,48.549884796143,-53.321392059326,48.580211639404],"coordinates":[[[[-53.340683,48.569767],[-53.334587,48.580212],[-53.321392,48.575668],[-53.329182,48.563488],[-53.33931,48.553066],[-53.352871,48.549885],[-53.356133,48.555679],[-53.347034,48.556931],[-53.340683,48.569767]]]],"created":1292533179,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/770_20101216_f4ab1a93c1.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

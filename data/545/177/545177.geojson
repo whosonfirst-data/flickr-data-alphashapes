@@ -1,0 +1,15 @@
+{
+  "id": 545177,
+  "type": "Feature",
+  "properties": {
+    "name":"Gmundnerberg, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545177,
+    "woe:name":"Gmundnerberg, Upper Austria, Austria",
+    "woe:place_id":"fU88.nGcBZk7V2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.74054,47.905899,13.742995,47.909424],
+  "geometry": {"alpha":0.00015,"bbox":[13.740539550781,47.905899047852,13.742995262146,47.909423828125],"coordinates":[[[[13.740974,47.905903],[13.74081,47.905899],[13.74054,47.90591],[13.742995,47.909424],[13.74127,47.906101],[13.74126,47.906071],[13.740974,47.905903]]]],"created":1292458317,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/545177_20101216_cc7b35e5ea.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

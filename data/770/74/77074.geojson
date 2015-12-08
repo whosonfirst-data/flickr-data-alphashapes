@@ -1,0 +1,15 @@
+{
+  "id": 77074,
+  "type": "Feature",
+  "properties": {
+    "name":"Coatepeque, Santa Ana, El Salvador",
+    "placetype":"locality",
+    "woe:id":77074,
+    "woe:name":"Coatepeque, Santa Ana, El Salvador",
+    "woe:place_id":"zYNUzmGeBpxfnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.511108,13.915072,-89.494629,13.942064],
+  "geometry": {"alpha":0.00015,"bbox":[-89.511108398438,13.915072441101,-89.49462890625,13.942064285278],"coordinates":[[[[-89.499893,13.92613],[-89.494629,13.915072],[-89.501495,13.923737],[-89.511108,13.934067],[-89.499435,13.942064],[-89.499893,13.92613]]]],"created":1292531722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/77074_20101216_66db292535.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

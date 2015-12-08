@@ -1,0 +1,15 @@
+{
+  "id": 22721221,
+  "type": "Feature",
+  "properties": {
+    "name":"Morning Bay, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22721221,
+    "woe:name":"Morning Bay, New South Wales, Australia",
+    "woe:place_id":"BfFUqwebA5vuDksOQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.248901,-33.625233,151.278,-33.599537],
+  "geometry": {"alpha":0.00015,"bbox":[151.24890136719,-33.625232696533,151.27799987793,-33.599536895752],"coordinates":[[[[151.257019,-33.610043],[151.248901,-33.599537],[151.259415,-33.602501],[151.272461,-33.607185],[151.278,-33.625233],[151.263245,-33.60815],[151.257019,-33.610043]]]],"created":1292541723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/22721221_20101216_92e232040f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 735826,
+  "type": "Feature",
+  "properties": {
+    "name":"Alfarelos, Coimbra, Portugal",
+    "placetype":"locality",
+    "woe:id":735826,
+    "woe:name":"Alfarelos, Coimbra, Portugal",
+    "woe:place_id":"EMwm.HaeApmB2z0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.660745,40.151325,-8.654823,40.161346],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6607446670532,40.15132522583,-8.6548233032227,40.161346435547],"coordinates":[[[[-8.659243,40.151356],[-8.660745,40.151703],[-8.657504,40.161346],[-8.654823,40.159943],[-8.654823,40.151325],[-8.659243,40.151356]]]],"created":1292443816,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/735826_20101215_2fddcbeebb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

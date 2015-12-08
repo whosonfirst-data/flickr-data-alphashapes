@@ -1,0 +1,15 @@
+{
+  "id": 774412,
+  "type": "Feature",
+  "properties": {
+    "name":"Serantes, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":774412,
+    "woe:name":"Serantes, Asturias, Spain",
+    "woe:place_id":"pTMSjzKeBpiTxNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.618026,43.491982,-5.612925,43.504677],
+  "geometry": {"alpha":0.00015,"bbox":[-5.6180257797241,43.491981506348,-5.6129250526428,43.504676818848],"coordinates":[[[[-5.613791,43.491982],[-5.613794,43.491985],[-5.618026,43.496605],[-5.61433,43.504677],[-5.612925,43.494373],[-5.613791,43.491982]]]],"created":1247811247,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2594/shapefiles/774412_20090717_0aa5586f19.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

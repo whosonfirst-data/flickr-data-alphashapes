@@ -1,0 +1,15 @@
+{
+  "id": 2161851,
+  "type": "Feature",
+  "properties": {
+    "name":"Maoming, Guangdong, China",
+    "placetype":"locality",
+    "woe:id":2161851,
+    "woe:name":"Maoming, Guangdong, China",
+    "woe:place_id":"mDQcybibAJrymQok",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [110.891319,21.659582,110.935646,21.675854],
+  "geometry": {"alpha":0.00015,"bbox":[110.8913192749,21.659582138062,110.93564605713,21.675853729248],"coordinates":[[[[110.914536,21.659582],[110.911446,21.663651],[110.891319,21.67061],[110.907494,21.672264],[110.915565,21.675854],[110.935646,21.664686],[110.914536,21.659582]]]],"created":1292519784,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2161851_20101216_9378619214.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

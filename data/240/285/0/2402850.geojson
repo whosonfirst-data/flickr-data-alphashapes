@@ -1,0 +1,15 @@
+{
+  "id": 2402850,
+  "type": "Feature",
+  "properties": {
+    "name":"Fellowship, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2402850,
+    "woe:name":"Fellowship, Georgia, United States",
+    "woe:place_id":"LYTBmKKbBZxQyBNt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.363564,31.043291,-83.362518,31.043972],
+  "geometry": {"alpha":0.00015,"bbox":[-83.363563537598,31.043291091919,-83.362518310547,31.043972015381],"coordinates":[[[[-83.362518,31.043972],[-83.362915,31.043621],[-83.363564,31.043291],[-83.363548,31.043907],[-83.362885,31.043943],[-83.362518,31.043972]]]],"created":1292451722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2402850_20101215_e8be10b34b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

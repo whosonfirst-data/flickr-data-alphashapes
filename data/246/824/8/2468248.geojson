@@ -1,0 +1,15 @@
+{
+  "id": 2468248,
+  "type": "Feature",
+  "properties": {
+    "name":"Pardue Mill, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2468248,
+    "woe:name":"Pardue Mill, Georgia, United States",
+    "woe:place_id":"kDweFDibBZqpSZU8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.592003,34.609165,-83.591164,34.612831],
+  "geometry": {"alpha":0.00015,"bbox":[-83.592002868652,34.60916519165,-83.591163635254,34.612831115723],"coordinates":[[[[-83.591164,34.612331],[-83.591499,34.609165],[-83.592003,34.612499],[-83.591835,34.612831],[-83.591667,34.612831],[-83.591164,34.612331]]]],"created":1292529966,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2468248_20101216_73745c1f4e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

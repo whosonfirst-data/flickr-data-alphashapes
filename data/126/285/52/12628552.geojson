@@ -1,0 +1,15 @@
+{
+  "id": 12628552,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Morshausen, Germany",
+    "placetype":"locality",
+    "woe:id":12628552,
+    "woe:name":"Gemeinde Morshausen, Germany",
+    "woe:place_id":"Uja_nCSYA5qtAaFeoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.4186,50.183121,7.419152,50.183777],
+  "geometry": {"alpha":1e-05,"bbox":[7.4186000823975,50.183120727539,7.4191517829895,50.183776855469],"coordinates":[[[[7.419011,50.183121],[7.418933,50.183163],[7.418908,50.183182],[7.4186,50.183777],[7.419152,50.183178],[7.419011,50.183121]]]],"created":1292470504,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12628552_20101216_e330c9ea1f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

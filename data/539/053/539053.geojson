@@ -1,0 +1,15 @@
+{
+  "id": 539053,
+  "type": "Feature",
+  "properties": {
+    "name":"Siegendorf, Burgenland, Austria",
+    "placetype":"locality",
+    "woe:id":539053,
+    "woe:name":"Siegendorf, Burgenland, Austria",
+    "woe:place_id":"L.3wpD2cApUltO4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.521345,47.771523,16.538719,47.782677],
+  "geometry": {"alpha":0.00015,"bbox":[16.52134513855,47.771522521973,16.538719177246,47.782676696777],"coordinates":[[[[16.530218,47.771523],[16.52833,47.772617],[16.527781,47.774536],[16.521345,47.782677],[16.538719,47.780159],[16.531506,47.774174],[16.530218,47.771523]]]],"created":1292541671,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/539053_20101216_d2acbd7723.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

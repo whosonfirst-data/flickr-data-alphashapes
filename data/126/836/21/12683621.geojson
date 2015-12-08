@@ -1,0 +1,15 @@
+{
+  "id": 12683621,
+  "type": "Feature",
+  "properties": {
+    "name":"Mur, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683621,
+    "woe:name":"Mur, Switzerland",
+    "woe:place_id":"J.CbNVCYA5q7mzHJrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.05672,46.93869,7.059861,46.941387],
+  "geometry": {"alpha":1e-05,"bbox":[7.0567197799683,46.938690185547,7.0598611831665,46.941387176514],"coordinates":[[[[7.058587,46.93869],[7.05672,46.938805],[7.059138,46.940693],[7.059861,46.941387],[7.058587,46.93869]]]],"created":1292479624,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12683621_20101216_9a264ffd72.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

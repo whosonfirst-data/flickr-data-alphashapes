@@ -1,0 +1,15 @@
+{
+  "id": 2437402,
+  "type": "Feature",
+  "properties": {
+    "name":"Layland, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2437402,
+    "woe:name":"Layland, West Virginia, United States",
+    "woe:place_id":"K1ejX1ObBZ_WQIQ9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.104164,37.849392,-81.092232,37.858318],
+  "geometry": {"alpha":0.00015,"bbox":[-81.104164123535,37.849391937256,-81.092231750488,37.858318328857],"coordinates":[[[[-81.100945,37.853924],[-81.104164,37.857506],[-81.099785,37.858318],[-81.092232,37.849392],[-81.09893,37.852661],[-81.100945,37.853924]]]],"created":1292451796,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2437402_20101215_4a77f1f3b2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

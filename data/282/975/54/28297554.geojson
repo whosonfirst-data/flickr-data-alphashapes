@@ -1,0 +1,15 @@
+{
+  "id": 28297554,
+  "type": "Feature",
+  "properties": {
+    "name":"Village Square, Canton, IL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":28297554,
+    "woe:name":"Village Square, Canton, IL, US, United States",
+    "woe:place_id":"V8yWGGmbCZ7bhefO0Q",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-90.011909,40.557487,-90.007782,40.559219],
+  "geometry": {"alpha":1e-05,"bbox":[-90.011909484863,40.557487487793,-90.007781982422,40.559219360352],"coordinates":[[[[-90.011787,40.559101],[-90.011856,40.559113],[-90.011909,40.5592],[-90.007782,40.559219],[-90.008476,40.557487],[-90.011787,40.559101]]]],"created":1292457764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28297554_20101216_278e658bb0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

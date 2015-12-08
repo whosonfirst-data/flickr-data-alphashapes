@@ -1,0 +1,15 @@
+{
+  "id": 8590,
+  "type": "Feature",
+  "properties": {
+    "name":"Oyen, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8590,
+    "woe:name":"Oyen, Alberta, Canada",
+    "woe:place_id":"S2HWtrORBJWi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.486336,51.343697,-110.472961,51.374001],
+  "geometry": {"alpha":0.00015,"bbox":[-110.48633575439,51.343696594238,-110.47296142578,51.374000549316],"coordinates":[[[[-110.484222,51.35656],[-110.486336,51.374001],[-110.472961,51.357491],[-110.47448,51.343697],[-110.480835,51.354168],[-110.483925,51.356373],[-110.484222,51.35656]]]],"created":1292535042,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/8590_20101216_e8bfd41fbc.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2360787,
+  "type": "Feature",
+  "properties": {
+    "name":"Bears Bluff, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2360787,
+    "woe:name":"Bears Bluff, South Carolina, United States",
+    "woe:place_id":"kZZIaGubApo8IIHR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.241264,32.641685,-80.235184,32.648495],
+  "geometry": {"alpha":0.00015,"bbox":[-80.241264343262,32.64168548584,-80.23518371582,32.648494720459],"coordinates":[[[[-80.238037,32.648273],[-80.237724,32.648495],[-80.235184,32.644855],[-80.241264,32.641685],[-80.238457,32.647541],[-80.238037,32.648273]]]],"created":1292545213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2360787_20101217_d9b9fb3685.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

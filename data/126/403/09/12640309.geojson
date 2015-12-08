@@ -1,0 +1,15 @@
+{
+  "id": 12640309,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambremer, France",
+    "placetype":"locality",
+    "woe:id":12640309,
+    "woe:name":"Cambremer, France",
+    "woe:place_id":"5U62vsiYA5rcUafzJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.047335,49.145164,0.053751,49.154148],
+  "geometry": {"alpha":1e-05,"bbox":[0.047334998846054,49.145164489746,0.05375099927187,49.154148101807],"coordinates":[[[[0.047833,49.145332],[0.048271,49.146233],[0.047636,49.151016],[0.047335,49.154148],[0.051927,49.150372],[0.053751,49.151466],[0.052803,49.150433],[0.051928,49.145332],[0.048614,49.145164],[0.047833,49.145332]]]],"created":1292529364,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12640309_20101216_d3a3dcf930.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

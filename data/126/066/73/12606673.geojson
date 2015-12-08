@@ -1,0 +1,15 @@
+{
+  "id": 12606673,
+  "type": "Feature",
+  "properties": {
+    "name":"Chlumec, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12606673,
+    "woe:name":"Chlumec, Czech Republic",
+    "woe:place_id":"6DI66miYA5qwJmopwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.911558,50.732605,13.911691,50.732754],
+  "geometry": {"alpha":1e-05,"bbox":[13.911558151245,50.732604980469,13.911690711975,50.732753753662],"coordinates":[[[[13.911691,50.732704],[13.911675,50.732613],[13.911558,50.732605],[13.911672,50.732754],[13.911691,50.732704]]]],"created":1292524540,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12606673_20101216_876f88ce35.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

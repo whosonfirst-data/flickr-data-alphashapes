@@ -1,0 +1,15 @@
+{
+  "id": 2708,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallix, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":2708,
+    "woe:name":"Gallix, Quebec, Canada",
+    "woe:place_id":"S38qO4CbBpz.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.570969,50.143246,-66.564789,50.146107],
+  "geometry": {"alpha":0.00015,"bbox":[-66.57096862793,50.143245697021,-66.564788818359,50.146106719971],"coordinates":[[[[-66.569595,50.143246],[-66.570969,50.144566],[-66.564789,50.146107],[-66.567535,50.143906],[-66.569595,50.143246]]]],"created":1292438020,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2708_20101215_e64e6969f8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12518112,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakenheath Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518112,
+    "woe:name":"Lakenheath Airport, United Kingdom",
+    "woe:place_id":"2Go0PZGYA5kfIDNQWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.576782,52.412891,0.581073,52.416031],
+  "geometry": {"alpha":1e-05,"bbox":[0.57678198814392,52.412891387939,0.58107298612595,52.416030883789],"coordinates":[[[[0.576782,52.415821],[0.581073,52.416031],[0.577468,52.412891],[0.576782,52.415718],[0.576782,52.415821]]]],"created":1292452010,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12518112_20101215_5bb367e303.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

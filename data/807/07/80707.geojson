@@ -1,0 +1,15 @@
+{
+  "id": 80707,
+  "type": "Feature",
+  "properties": {
+    "name":"La Plaine, Basse-Terre, Guadeloupe",
+    "placetype":"locality",
+    "woe:id":80707,
+    "woe:name":"La Plaine, Basse-Terre, Guadeloupe",
+    "woe:place_id":"f23JS8CRAZtG1g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.639137,16.026344,-61.626434,16.046473],
+  "geometry": {"alpha":0.00015,"bbox":[-61.639137268066,16.026344299316,-61.626434326172,16.046472549438],"coordinates":[[[[-61.639137,16.038223],[-61.639008,16.041952],[-61.626434,16.046473],[-61.634674,16.026344],[-61.639137,16.038223]]]],"created":1292538300,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/80707_20101216_78c63829ff.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

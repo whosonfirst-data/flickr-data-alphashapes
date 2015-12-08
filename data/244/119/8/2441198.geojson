@@ -1,0 +1,15 @@
+{
+  "id": 2441198,
+  "type": "Feature",
+  "properties": {
+    "name":"Lola City, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2441198,
+    "woe:name":"Lola City, Alabama, United States",
+    "woe:place_id":"g2_h3hGbBZhTDvZD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.625443,33.529552,-86.614151,33.546261],
+  "geometry": {"alpha":0.00015,"bbox":[-86.625442504883,33.529552459717,-86.614151000977,33.54626083374],"coordinates":[[[[-86.624062,33.532093],[-86.614151,33.546261],[-86.619431,33.529552],[-86.624725,33.530182],[-86.625443,33.531769],[-86.624062,33.532093]]]],"created":1292526475,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2441198_20101216_3f71ef287c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

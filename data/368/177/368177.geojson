@@ -1,0 +1,15 @@
+{
+  "id": 368177,
+  "type": "Feature",
+  "properties": {
+    "name":"Anserma, Caldas, Colombia",
+    "placetype":"locality",
+    "woe:id":368177,
+    "woe:name":"Anserma, Caldas, Colombia",
+    "woe:place_id":"dbhW9XaaB5TbZ3o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.790726,5.205151,-75.78157,5.243443],
+  "geometry": {"alpha":0.00015,"bbox":[-75.790725708008,5.2051510810852,-75.78157043457,5.2434430122375],"coordinates":[[[[-75.781631,5.228742],[-75.790726,5.231306],[-75.782318,5.243443],[-75.78157,5.22875],[-75.782318,5.205151],[-75.781631,5.228742]]]],"created":1292504586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/368177_20101216_f7afd999b1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103759,
+  "type": "Feature",
+  "properties": {
+    "name":"Maslin, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1103759,
+    "woe:name":"Maslin, South Australia, Australia",
+    "woe:place_id":"Y698kv.YAJx9dNaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [137.288925,-31.774321,137.290436,-31.773245],
+  "geometry": {"alpha":0.00015,"bbox":[137.2889251709,-31.774320602417,137.29043579102,-31.773244857788],"coordinates":[[[[137.290314,-31.773466],[137.290359,-31.773512],[137.290436,-31.773621],[137.290085,-31.774321],[137.288925,-31.77352],[137.289948,-31.773245],[137.290314,-31.773466]]]],"created":1292545610,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/1103759_20101217_8902f642fd.tar.gz"},"points":58,"type":"MultiPolygon"}
+}

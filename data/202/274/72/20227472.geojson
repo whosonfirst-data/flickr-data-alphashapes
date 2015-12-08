@@ -1,0 +1,15 @@
+{
+  "id": 20227472,
+  "type": "Feature",
+  "properties": {
+    "name":"Doade, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20227472,
+    "woe:name":"Doade, Galicia, Spain",
+    "woe:place_id":"a2QhzPebAZ7XTasYKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.321886,42.469074,-8.318324,42.477222],
+  "geometry": {"alpha":0.00015,"bbox":[-8.3218860626221,42.469074249268,-8.3183240890503,42.477222442627],"coordinates":[[[[-8.319482,42.470638],[-8.321886,42.47485],[-8.321714,42.477222],[-8.318367,42.469879],[-8.318324,42.469074],[-8.319482,42.470638]]]],"created":1292513943,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/20227472_20101216_227ddd5128.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2483004,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2483004,
+    "woe:name":"Rock, Michigan, United States",
+    "woe:place_id":"HkUs116bBZTFUXbW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.184052,46.068558,-87.166901,46.071205],
+  "geometry": {"alpha":0.00015,"bbox":[-87.184051513672,46.068557739258,-87.166900634766,46.07120513916],"coordinates":[[[[-87.184052,46.068558],[-87.184036,46.06916],[-87.167587,46.071205],[-87.166901,46.068882],[-87.184052,46.068558]]]],"created":1247817483,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2662/shapefiles/2483004_20090717_45b370d5cf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

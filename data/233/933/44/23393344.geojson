@@ -1,0 +1,15 @@
+{
+  "id": 23393344,
+  "type": "Feature",
+  "properties": {
+    "name":"Back Bay, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393344,
+    "woe:name":"Back Bay, New Brunswick, Canada",
+    "woe:place_id":"BSRzNfybAp8l3Sy1Zg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.891716,45.038261,-66.888542,45.041508],
+  "geometry": {"alpha":0.00015,"bbox":[-66.891716003418,45.038261413574,-66.888542175293,45.041507720947],"coordinates":[[[[-66.891205,45.040051],[-66.889572,45.041508],[-66.888542,45.039688],[-66.891716,45.038261],[-66.891205,45.040051]]]],"created":1292524638,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23393344_20101216_198e12923a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

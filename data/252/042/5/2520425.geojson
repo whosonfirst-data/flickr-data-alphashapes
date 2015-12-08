@@ -1,0 +1,15 @@
+{
+  "id": 2520425,
+  "type": "Feature",
+  "properties": {
+    "name":"Wildwood, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2520425,
+    "woe:name":"Wildwood, Michigan, United States",
+    "woe:place_id":"QeWz5VabBJ5usWXL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.966667,45.248596,-84.942383,45.256149],
+  "geometry": {"alpha":0.00015,"bbox":[-84.966667175293,45.248596191406,-84.9423828125,45.256149291992],"coordinates":[[[[-84.960815,45.248596],[-84.966667,45.253166],[-84.960793,45.248695],[-84.942383,45.256149],[-84.960815,45.248596]]]],"created":1292542625,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2520425_20101216_821d615226.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

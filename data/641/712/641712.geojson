@@ -1,0 +1,15 @@
+{
+  "id": 641712,
+  "type": "Feature",
+  "properties": {
+    "name":"Brungershausen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":641712,
+    "woe:name":"Brungershausen, Hesse, Germany",
+    "woe:place_id":"ISa8bmGfBZ3ThIk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.595428,50.864746,8.614354,50.878078],
+  "geometry": {"alpha":0.00015,"bbox":[8.5954284667969,50.86474609375,8.614354133606,50.878078460693],"coordinates":[[[[8.59723,50.864746],[8.595428,50.86578],[8.598432,50.877892],[8.603067,50.878078],[8.614354,50.87022],[8.608775,50.864964],[8.59723,50.864746]]]],"created":1292443637,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/641712_20101215_cedfc3695f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

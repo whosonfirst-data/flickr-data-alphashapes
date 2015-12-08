@@ -1,0 +1,15 @@
+{
+  "id": 55900244,
+  "type": "Feature",
+  "properties": {
+    "name":"Isla de Cedros, Baja California Sur, Mexico",
+    "placetype":"locality",
+    "woe:id":55900244,
+    "woe:name":"Isla de Cedros, Baja California Sur, Mexico",
+    "woe:place_id":"O4ostRicBJUuiMu3aA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.178131,28.112282,-115.175339,28.114647],
+  "geometry": {"alpha":0.00015,"bbox":[-115.17813110352,28.112281799316,-115.17533874512,28.114646911621],"coordinates":[[[[-115.175339,28.112867],[-115.17659,28.112375],[-115.178131,28.112282],[-115.176155,28.114647],[-115.175339,28.112867]]]],"created":1292452956,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/55900244_20101215_904656244e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

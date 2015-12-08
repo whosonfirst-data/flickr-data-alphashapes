@@ -1,0 +1,15 @@
+{
+  "id": 108340,
+  "type": "Feature",
+  "properties": {
+    "name":"Belmont, Saint James, Jamaica",
+    "placetype":"locality",
+    "woe:id":108340,
+    "woe:name":"Belmont, Saint James, Jamaica",
+    "woe:place_id":"1TKN8sCYAZQmXHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.910057,18.445578,-77.894783,18.45944],
+  "geometry": {"alpha":0.00015,"bbox":[-77.910057067871,18.44557762146,-77.89478302002,18.459440231323],"coordinates":[[[[-77.902069,18.457996],[-77.899933,18.457628],[-77.894783,18.454535],[-77.897011,18.448183],[-77.910057,18.445578],[-77.9077,18.45944],[-77.902069,18.457996]]]],"created":1292450466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/108340_20101215_f3f7583cf8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

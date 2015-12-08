@@ -1,0 +1,15 @@
+{
+  "id": 2355916,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2355916,
+    "woe:name":"Arlington, Ohio, United States",
+    "woe:place_id":"8yS02TubApkOYBuw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.660568,40.888844,-83.647797,40.903111],
+  "geometry": {"alpha":0.00015,"bbox":[-83.660568237305,40.888843536377,-83.647796630859,40.90311050415],"coordinates":[[[[-83.651833,40.888844],[-83.652664,40.889668],[-83.660568,40.903111],[-83.647797,40.89542],[-83.651833,40.888844]]]],"created":1292454125,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2355916_20101215_62c290907c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

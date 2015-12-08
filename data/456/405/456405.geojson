@@ -1,0 +1,15 @@
+{
+  "id": 456405,
+  "type": "Feature",
+  "properties": {
+    "name":"Penopolis, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":456405,
+    "woe:name":"Penopolis, Sao Paulo, Brazil",
+    "woe:place_id":"tC_5i.CdBJrpWqI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-50.084782,-21.427343,-50.062702,-21.410843],
+  "geometry": {"alpha":0.00015,"bbox":[-50.084781646729,-21.42734336853,-50.062702178955,-21.410842895508],"coordinates":[[[[-50.077702,-21.421221],[-50.072937,-21.411203],[-50.062702,-21.410843],[-50.073967,-21.419912],[-50.078945,-21.427343],[-50.084782,-21.426464],[-50.077702,-21.421221]]]],"created":1292520964,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/456405_20101216_63734ef9b4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

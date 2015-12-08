@@ -1,0 +1,15 @@
+{
+  "id": 1106505,
+  "type": "Feature",
+  "properties": {
+    "name":"Watervale, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1106505,
+    "woe:name":"Watervale, South Australia, Australia",
+    "woe:place_id":"G.DP6EyYAJy736qh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.640594,-33.973225,138.659058,-33.954666],
+  "geometry": {"alpha":0.00015,"bbox":[138.64059448242,-33.973224639893,138.65905761719,-33.954666137695],"coordinates":[[[[138.653168,-33.954666],[138.654694,-33.955746],[138.659058,-33.959019],[138.648666,-33.973225],[138.642792,-33.959133],[138.640594,-33.955177],[138.653168,-33.954666]]]],"created":1292459005,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/1106505_20101216_f889b59ee7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

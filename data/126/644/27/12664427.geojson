@@ -1,0 +1,15 @@
+{
+  "id": 12664427,
+  "type": "Feature",
+  "properties": {
+    "name":"Langogne, France",
+    "placetype":"locality",
+    "woe:id":12664427,
+    "woe:name":"Langogne, France",
+    "woe:place_id":"ui49CCeYA5oimsPIvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.851994,44.723083,3.857574,44.730637],
+  "geometry": {"alpha":1e-05,"bbox":[3.8519940376282,44.723083496094,3.8575739860535,44.73063659668],"coordinates":[[[[3.855664,44.725258],[3.854227,44.723083],[3.851994,44.72625],[3.853797,44.728443],[3.857574,44.730637],[3.856179,44.727264],[3.855664,44.725258]]]],"created":1292550536,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12664427_20101217_c1cb4c1bf5.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

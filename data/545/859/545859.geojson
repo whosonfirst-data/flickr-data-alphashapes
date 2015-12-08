@@ -1,0 +1,15 @@
+{
+  "id": 545859,
+  "type": "Feature",
+  "properties": {
+    "name":"Skt Florian, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545859,
+    "woe:name":"Skt Florian, Upper Austria, Austria",
+    "woe:place_id":"ilH9HSGcBZkH9cs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.369773,48.204285,14.38026,48.209332],
+  "geometry": {"alpha":0.00015,"bbox":[14.369772911072,48.204284667969,14.380260467529,48.209331512451],"coordinates":[[[[14.379043,48.205914],[14.371662,48.204285],[14.369773,48.205799],[14.3785,48.209332],[14.380116,48.206715],[14.38026,48.206402],[14.379043,48.205914]]]],"created":1292521546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/545859_20101216_9ecbd64b30.tar.gz"},"points":52,"type":"MultiPolygon"}
+}

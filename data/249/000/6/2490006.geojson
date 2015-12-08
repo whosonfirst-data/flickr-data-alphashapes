@@ -1,0 +1,15 @@
+{
+  "id": 2490006,
+  "type": "Feature",
+  "properties": {
+    "name":"Scotts, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2490006,
+    "woe:name":"Scotts, North Carolina, United States",
+    "woe:place_id":"NUuKW4ibBZVJ_kj9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.049896,35.858742,-81.042236,35.863186],
+  "geometry": {"alpha":0.00015,"bbox":[-81.049896240234,35.858741760254,-81.042236328125,35.863185882568],"coordinates":[[[[-81.04863,35.861717],[-81.049896,35.863049],[-81.04702,35.863186],[-81.042236,35.858742],[-81.04863,35.861717]]]],"created":1292526587,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2490006_20101216_d39c60e59e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

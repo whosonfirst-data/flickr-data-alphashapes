@@ -1,0 +1,15 @@
+{
+  "id": 2445728,
+  "type": "Feature",
+  "properties": {
+    "name":"Mariners Cove, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2445728,
+    "woe:name":"Mariners Cove, Maryland, United States",
+    "woe:place_id":"gso.9oebBZjHaYWV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.510162,38.985916,-76.5075,38.989304],
+  "geometry": {"alpha":0.00015,"bbox":[-76.510162353516,38.985916137695,-76.507499694824,38.989303588867],"coordinates":[[[[-76.510162,38.988235],[-76.508789,38.989304],[-76.5075,38.986942],[-76.507805,38.985916],[-76.510162,38.988235]]]],"created":1234844284,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3318/shapefiles/2445728_20090217_9bede7f6b0.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

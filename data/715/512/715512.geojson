@@ -1,0 +1,15 @@
+{
+  "id": 715512,
+  "type": "Feature",
+  "properties": {
+    "name":"Fiumedinisi, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":715512,
+    "woe:name":"Fiumedinisi, Sicily, Italy",
+    "woe:place_id":"nFltEk.eAJlfTWM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.373907,38.020691,15.381202,38.0294],
+  "geometry": {"alpha":0.00015,"bbox":[15.373907089233,38.020690917969,15.38120174408,38.029399871826],"coordinates":[[[[15.381202,38.025715],[15.380229,38.02393],[15.378284,38.022266],[15.373938,38.020691],[15.373907,38.0294],[15.374744,38.02914],[15.381202,38.025715]]]],"created":1292520907,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/715512_20101216_6a3937165d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

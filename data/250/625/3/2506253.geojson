@@ -1,0 +1,15 @@
+{
+  "id": 2506253,
+  "type": "Feature",
+  "properties": {
+    "name":"Tiegs Corner, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2506253,
+    "woe:name":"Tiegs Corner, Idaho, United States",
+    "woe:place_id":"cQVVI7.bBJzXC1PG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.491859,43.495903,-116.470421,43.509747],
+  "geometry": {"alpha":0.00015,"bbox":[-116.49185943604,43.495903015137,-116.4704208374,43.509746551514],"coordinates":[[[[-116.473785,43.496937],[-116.491859,43.509747],[-116.473038,43.497864],[-116.470421,43.498043],[-116.473831,43.495903],[-116.473785,43.496937]]]],"created":1292541728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2506253_20101216_568b11b0c9.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 667497,
+  "type": "Feature",
+  "properties": {
+    "name":"Klosterlechfeld, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":667497,
+    "woe:name":"Klosterlechfeld, Bavaria, Germany",
+    "woe:place_id":"lMKDmRGfB5voKno",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.829472,48.158253,10.831569,48.159042],
+  "geometry": {"alpha":0.00015,"bbox":[10.829471588135,48.158252716064,10.831568717957,48.159042358398],"coordinates":[[[[10.829736,48.158695],[10.829472,48.159042],[10.831569,48.158482],[10.831569,48.158424],[10.830952,48.158253],[10.830122,48.158504],[10.829736,48.158695]]]],"created":1292518267,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/667497_20101216_0fba5f4b97.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

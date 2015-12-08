@@ -1,0 +1,15 @@
+{
+  "id": 2447850,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcdonald, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2447850,
+    "woe:name":"Mcdonald, Utah, United States",
+    "woe:place_id":"Fd1e8D2bBZi4NYhK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.900429,41.087624,-111.897858,41.089481],
+  "geometry": {"alpha":0.00015,"bbox":[-111.90042877197,41.087623596191,-111.89785766602,41.08948135376],"coordinates":[[[[-111.898453,41.089458],[-111.897858,41.087704],[-111.897888,41.087624],[-111.900429,41.089054],[-111.898514,41.089481],[-111.898453,41.089458]]]],"created":1292526426,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2447850_20101216_26fb89d77d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

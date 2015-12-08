@@ -1,0 +1,15 @@
+{
+  "id": 13544,
+  "type": "Feature",
+  "properties": {
+    "name":"Bradley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13544,
+    "woe:name":"Bradley, England, United Kingdom",
+    "woe:place_id":"9l0i.geYApn6lw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.110309,51.165329,-1.080651,51.176651],
+  "geometry": {"alpha":0.00015,"bbox":[-1.1103090047836,51.165328979492,-1.0806510448456,51.176651000977],"coordinates":[[[[-1.092624,51.167934],[-1.108356,51.165329],[-1.110309,51.167961],[-1.095178,51.173679],[-1.080651,51.176651],[-1.084462,51.166656],[-1.092624,51.167934]]]],"created":1292511968,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/13544_20101216_57f59c3c54.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

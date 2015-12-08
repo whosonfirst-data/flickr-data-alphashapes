@@ -1,0 +1,15 @@
+{
+  "id": 2434558,
+  "type": "Feature",
+  "properties": {
+    "name":"LaFayette, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2434558,
+    "woe:name":"LaFayette, Alabama, United States",
+    "woe:place_id":"0KcriG2bBZ_oZdry",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.405052,32.881893,-85.400528,32.899818],
+  "geometry": {"alpha":0.00015,"bbox":[-85.405052185059,32.881893157959,-85.400527954102,32.89981842041],"coordinates":[[[[-85.400528,32.899483],[-85.400719,32.897587],[-85.405052,32.881893],[-85.404579,32.899021],[-85.400986,32.899818],[-85.400528,32.899483]]]],"created":1292539213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2434558_20101216_8f0e5119f7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

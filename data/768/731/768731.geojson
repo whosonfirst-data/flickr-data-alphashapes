@@ -1,0 +1,15 @@
+{
+  "id": 768731,
+  "type": "Feature",
+  "properties": {
+    "name":"Ollora, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":768731,
+    "woe:name":"Ollora, La Rioja, Spain",
+    "woe:place_id":"NZLBfY6eB5Q0I78",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.899532,42.326569,-2.893416,42.327347],
+  "geometry": {"alpha":0.00015,"bbox":[-2.8995320796967,42.326568603516,-2.893415927887,42.327346801758],"coordinates":[[[[-2.893416,42.327297],[-2.894361,42.326691],[-2.896742,42.326626],[-2.898545,42.326569],[-2.899532,42.327347],[-2.893416,42.327297]]]],"created":1292411885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/768731_20101215_fa296dcee6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

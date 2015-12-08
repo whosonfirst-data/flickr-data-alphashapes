@@ -1,0 +1,15 @@
+{
+  "id": 12681207,
+  "type": "Feature",
+  "properties": {
+    "name":"Ponte Gardena, Italy",
+    "placetype":"locality",
+    "woe:id":12681207,
+    "woe:name":"Ponte Gardena, Italy",
+    "woe:place_id":"NYCf1feYA5qlq8OIhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.520173,46.583714,11.525986,46.590832],
+  "geometry": {"alpha":1e-05,"bbox":[11.520173072815,46.583713531494,11.525985717773,46.590831756592],"coordinates":[[[[11.521224,46.586002],[11.525019,46.590832],[11.525986,46.587254],[11.52319,46.585709],[11.520173,46.583714],[11.521224,46.586002]]]],"created":1292525705,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12681207_20101216_1a2463aa0d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

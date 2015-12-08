@@ -1,0 +1,15 @@
+{
+  "id": 26235,
+  "type": "Feature",
+  "properties": {
+    "name":"Lidsing, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26235,
+    "woe:name":"Lidsing, England, United Kingdom",
+    "woe:place_id":"1QL4xd6bB56y9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.538244,51.299496,0.563735,51.330154],
+  "geometry": {"alpha":0.0001875,"bbox":[0.53824400901794,51.299495697021,0.56373500823975,51.330154418945],"coordinates":[[[[0.551569,51.301105],[0.538244,51.303547],[0.550088,51.327072],[0.559358,51.330154],[0.560989,51.326267],[0.563735,51.299496],[0.551569,51.301105]]]],"created":1292474046,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/26235_20101216_812ae63d2e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

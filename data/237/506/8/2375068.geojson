@@ -1,0 +1,15 @@
+{
+  "id": 2375068,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlsburg, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2375068,
+    "woe:name":"Carlsburg, Illinois, United States",
+    "woe:place_id":"9Q3pG2KbApvVjMez",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.733376,39.080463,-89.731644,39.080814],
+  "geometry": {"alpha":0.00015,"bbox":[-89.733375549316,39.080463409424,-89.731643676758,39.080814361572],"coordinates":[[[[-89.731644,39.08057],[-89.731903,39.080463],[-89.73243,39.08049],[-89.733376,39.080708],[-89.733353,39.080814],[-89.731644,39.08057]]]],"created":1292518623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2375068_20101216_baf611568c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

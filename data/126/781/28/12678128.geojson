@@ -1,0 +1,15 @@
+{
+  "id": 12678128,
+  "type": "Feature",
+  "properties": {
+    "name":"Casorate Sempione, Italy",
+    "placetype":"locality",
+    "woe:id":12678128,
+    "woe:name":"Casorate Sempione, Italy",
+    "woe:place_id":"se9_Y1qYA5orTI_p7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.767336,45.661976,8.768763,45.663742],
+  "geometry": {"alpha":1e-05,"bbox":[8.7673358917236,45.661975860596,8.768762588501,45.66374206543],"coordinates":[[[[8.768162,45.66312],[8.768763,45.661976],[8.768109,45.662701],[8.767969,45.662872],[8.767336,45.663742],[8.767873,45.663418],[8.768162,45.66312]]]],"created":1292542682,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12678128_20101216_2c402346ca.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

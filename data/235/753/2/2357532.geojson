@@ -1,0 +1,15 @@
+{
+  "id": 2357532,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2357532,
+    "woe:name":"Austin, Arkansas, United States",
+    "woe:place_id":"gLL2RMWbApkVt.sY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.983719,34.991306,-91.979485,34.999626],
+  "geometry": {"alpha":0.00015,"bbox":[-91.98371887207,34.991306304932,-91.979484558105,34.999626159668],"coordinates":[[[[-91.979492,34.992592],[-91.979485,34.992565],[-91.979485,34.992561],[-91.982399,34.991306],[-91.983376,34.998222],[-91.983719,34.999626],[-91.979492,34.992592]]]],"created":1292533919,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2357532_20101216_aab8ca1651.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

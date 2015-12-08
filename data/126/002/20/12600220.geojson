@@ -1,0 +1,15 @@
+{
+  "id": 12600220,
+  "type": "Feature",
+  "properties": {
+    "name":"San Gabriel, Jalisco, Mexico",
+    "placetype":"county",
+    "woe:id":12600220,
+    "woe:name":"San Gabriel, Jalisco, Mexico",
+    "woe:place_id":"hR6ynFqYA5rNm6F0AQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-103.646393,19.55785,-103.593353,19.622065],
+  "geometry": {"alpha":0.0015,"bbox":[-103.64639282227,19.557849884033,-103.59335327148,19.622064590454],"coordinates":[[[[-103.593353,19.593201],[-103.597298,19.588984],[-103.607765,19.56731],[-103.625107,19.55785],[-103.646393,19.572083],[-103.634033,19.601194],[-103.61618,19.622065],[-103.599998,19.6],[-103.593353,19.593201]]]],"created":1292459109,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12600220_20101216_0fb982b3e7.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

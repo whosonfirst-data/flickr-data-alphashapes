@@ -1,0 +1,15 @@
+{
+  "id": 2384934,
+  "type": "Feature",
+  "properties": {
+    "name":"Corbin City, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2384934,
+    "woe:name":"Corbin City, New Jersey, United States",
+    "woe:place_id":"atcqO6ubApRlzo4f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.775177,39.298477,-74.75264,39.319523],
+  "geometry": {"alpha":0.00015,"bbox":[-74.775177001953,39.298477172852,-74.752639770508,39.319522857666],"coordinates":[[[[-74.768768,39.305431],[-74.775177,39.303089],[-74.773682,39.319523],[-74.768097,39.307491],[-74.75264,39.298477],[-74.768768,39.305431]]]],"created":1292512387,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2384934_20101216_fd0301c1f4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

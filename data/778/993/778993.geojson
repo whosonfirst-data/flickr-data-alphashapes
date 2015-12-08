@@ -1,0 +1,15 @@
+{
+  "id": 778993,
+  "type": "Feature",
+  "properties": {
+    "name":"Yurre, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":778993,
+    "woe:name":"Yurre, Basque Country, Spain",
+    "woe:place_id":"W0nBpsaeBpSBidk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.794647,43.153976,-2.775764,43.165497],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7946469783783,43.15397644043,-2.7757639884949,43.165496826172],"coordinates":[[[[-2.779106,43.163212],[-2.776451,43.159615],[-2.775764,43.153976],[-2.794647,43.156609],[-2.782802,43.165497],[-2.779106,43.163212]]]],"created":1292519657,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/778993_20101216_4943a9a9b4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

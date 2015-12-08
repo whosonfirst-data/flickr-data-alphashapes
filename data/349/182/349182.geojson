@@ -1,0 +1,15 @@
+{
+  "id": 349182,
+  "type": "Feature",
+  "properties": {
+    "name":"Quetalco, Los Lagos Region, Chile",
+    "placetype":"locality",
+    "woe:id":349182,
+    "woe:name":"Quetalco, Los Lagos Region, Chile",
+    "woe:place_id":"uKt.H5uaBZXz75U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.550003,-42.349918,-73.526001,-42.325935],
+  "geometry": {"alpha":0.00015,"bbox":[-73.550003051758,-42.349918365479,-73.526000976562,-42.32593536377],"coordinates":[[[[-73.549347,-42.349918],[-73.550003,-42.333328],[-73.529091,-42.325935],[-73.526001,-42.33926],[-73.5466,-42.336212],[-73.549347,-42.349918]]]],"created":1292453342,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/349182_20101215_cf99043ea9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

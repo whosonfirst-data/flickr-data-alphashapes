@@ -1,0 +1,15 @@
+{
+  "id": 23394649,
+  "type": "Feature",
+  "properties": {
+    "name":"Calumet, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394649,
+    "woe:name":"Calumet, Quebec, Canada",
+    "woe:place_id":"zorXoKSbAp9qAX9EnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.638451,45.641468,-74.62429,45.655029],
+  "geometry": {"alpha":0.00015,"bbox":[-74.638450622559,45.641468048096,-74.624290466309,45.655029296875],"coordinates":[[[[-74.637161,45.641468],[-74.638451,45.655029],[-74.62738,45.652328],[-74.62429,45.651489],[-74.637161,45.641468]]]],"created":1239523802,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3619/shapefiles/23394649_20090412_38fc6f9085.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

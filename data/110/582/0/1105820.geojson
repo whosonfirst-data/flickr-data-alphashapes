@@ -1,0 +1,15 @@
+{
+  "id": 1105820,
+  "type": "Feature",
+  "properties": {
+    "name":"Tambo, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1105820,
+    "woe:name":"Tambo, Queensland, Australia",
+    "woe:place_id":"LMuIJMqYAJzSBNUB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.24791,-24.885105,146.259399,-24.881432],
+  "geometry": {"alpha":0.00015,"bbox":[146.2479095459,-24.885105133057,146.25939941406,-24.88143157959],"coordinates":[[[[146.258881,-24.881432],[146.258911,-24.881439],[146.259399,-24.882208],[146.254898,-24.882814],[146.24791,-24.885105],[146.250519,-24.88192],[146.258881,-24.881432]]]],"created":1292454032,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/1105820_20101215_34880ae1ef.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

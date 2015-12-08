@@ -1,0 +1,15 @@
+{
+  "id": 12636464,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hirschfeld, Germany",
+    "placetype":"locality",
+    "woe:id":12636464,
+    "woe:name":"Gemeinde Hirschfeld, Germany",
+    "woe:place_id":"HhWvxPCYA5plLpB1jA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.473001,50.641785,12.473458,50.642059],
+  "geometry": {"alpha":1e-05,"bbox":[12.473000526428,50.641784667969,12.4734582901,50.642059326172],"coordinates":[[[[12.473447,50.641811],[12.473458,50.641792],[12.473397,50.641785],[12.473001,50.64185],[12.473225,50.642059],[12.473447,50.641811]]]],"created":1292524566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12636464_20101216_088ff61d8b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12522320,
+  "type": "Feature",
+  "properties": {
+    "name":"Walnut Ridge Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522320,
+    "woe:name":"Walnut Ridge Regional Airport, United States",
+    "woe:place_id":"MmEpcC2YA5k8GIZ1kw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.928085,36.121582,-90.923904,36.125828],
+  "geometry": {"alpha":1e-05,"bbox":[-90.928085327148,36.12158203125,-90.923904418945,36.125827789307],"coordinates":[[[[-90.926582,36.125252],[-90.925621,36.125828],[-90.923904,36.121582],[-90.928085,36.124531],[-90.926582,36.125252]]]],"created":1292530028,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12522320_20101216_c9a1bba7bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

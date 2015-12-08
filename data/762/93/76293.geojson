@@ -1,0 +1,15 @@
+{
+  "id": 76293,
+  "type": "Feature",
+  "properties": {
+    "name":"Salcedo, Salcedo, Dominican Republic",
+    "placetype":"locality",
+    "woe:id":76293,
+    "woe:name":"Salcedo, Salcedo, Dominican Republic",
+    "woe:place_id":"F3I1ROSeB549KQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.407257,19.419649,-70.391121,19.426771],
+  "geometry": {"alpha":0.00015,"bbox":[-70.407257080078,19.419649124146,-70.391120910645,19.42677116394],"coordinates":[[[[-70.393181,19.420458],[-70.403137,19.419649],[-70.407257,19.424505],[-70.399704,19.426771],[-70.391121,19.421915],[-70.393181,19.420458]]]],"created":1292525392,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/76293_20101216_f8cbedb0e2.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

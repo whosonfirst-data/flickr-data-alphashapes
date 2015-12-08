@@ -1,0 +1,15 @@
+{
+  "id": 1101461,
+  "type": "Feature",
+  "properties": {
+    "name":"Croydon, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1101461,
+    "woe:name":"Croydon, Queensland, Australia",
+    "woe:place_id":"n2w1JIGYAJxWw7T4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.242905,-18.20896,142.255615,-18.192335],
+  "geometry": {"alpha":0.00015,"bbox":[142.24290466309,-18.208959579468,142.25561523438,-18.192335128784],"coordinates":[[[[142.242905,-18.201059],[142.24823,-18.192335],[142.255615,-18.20896],[142.244629,-18.206198],[142.243073,-18.202772],[142.242905,-18.201059]]]],"created":1292531462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/1101461_20101216_1b7816d1f8.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

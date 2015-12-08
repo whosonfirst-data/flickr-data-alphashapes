@@ -1,0 +1,15 @@
+{
+  "id": 28745488,
+  "type": "Feature",
+  "properties": {
+    "name":"Milford, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745488,
+    "woe:name":"Milford, Pennsylvania, United States",
+    "woe:place_id":"o9Y9CaibCZuHwsr_0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.420525,40.569183,-77.403763,40.600445],
+  "geometry": {"alpha":0.00015,"bbox":[-77.420524597168,40.569183349609,-77.403762817383,40.600444793701],"coordinates":[[[[-77.405655,40.571701],[-77.405754,40.570805],[-77.40641,40.569183],[-77.407402,40.570816],[-77.407608,40.587624],[-77.420525,40.599583],[-77.403763,40.600445],[-77.404747,40.588882],[-77.405655,40.571701]]]],"created":1292479693,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/28745488_20101216_bcbd33eb52.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

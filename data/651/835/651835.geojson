@@ -1,0 +1,15 @@
+{
+  "id": 651835,
+  "type": "Feature",
+  "properties": {
+    "name":"Gehren, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":651835,
+    "woe:name":"Gehren, Thuringia, Germany",
+    "woe:place_id":"_O1ixy.fBJ15P0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.001072,50.629482,11.021347,50.654877],
+  "geometry": {"alpha":0.00015,"bbox":[11.001071929932,50.629482269287,11.021347045898,50.654876708984],"coordinates":[[[[11.008075,50.647045],[11.021347,50.629482],[11.008043,50.64703],[11.001072,50.64835],[11.008472,50.649654],[11.015167,50.654877],[11.008075,50.647045]]]],"created":1292550671,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/651835_20101217_3ee4188e89.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

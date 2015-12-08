@@ -1,0 +1,15 @@
+{
+  "id": 81904,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad Pedro de Alvarado, Jutiapa, Guatemala",
+    "placetype":"locality",
+    "woe:id":81904,
+    "woe:name":"Ciudad Pedro de Alvarado, Jutiapa, Guatemala",
+    "woe:place_id":"XUVXZheRAJXxRg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.099564,13.858247,-90.083252,13.86858],
+  "geometry": {"alpha":0.00015,"bbox":[-90.099563598633,13.858246803284,-90.083251953125,13.868579864502],"coordinates":[[[[-90.086685,13.858247],[-90.099564,13.861413],[-90.083252,13.86858],[-90.086601,13.860247],[-90.086685,13.858247]]]],"created":1234538047,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3346/shapefiles/81904_20090213_3634a4de54.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

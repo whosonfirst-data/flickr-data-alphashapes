@@ -1,0 +1,15 @@
+{
+  "id": 2505881,
+  "type": "Feature",
+  "properties": {
+    "name":"Thornbrook, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2505881,
+    "woe:name":"Thornbrook, Maryland, United States",
+    "woe:place_id":"5jKNrxWbBJyY6iuL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.848053,39.29723,-76.839836,39.301651],
+  "geometry": {"alpha":0.00015,"bbox":[-76.848052978516,39.297229766846,-76.839836120605,39.301651000977],"coordinates":[[[[-76.840775,39.301651],[-76.839836,39.300247],[-76.841278,39.298122],[-76.845749,39.29723],[-76.848053,39.299179],[-76.840775,39.301651]]]],"created":1292550593,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2505881_20101217_0f477d012d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

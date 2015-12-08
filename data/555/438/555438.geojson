@@ -1,0 +1,15 @@
+{
+  "id": 555438,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyrsby, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555438,
+    "woe:name":"Lyrsby, Hovedstaden, Denmark",
+    "woe:place_id":"51jta1acBJnltdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.082855,55.094772,15.103797,55.137383],
+  "geometry": {"alpha":0.000234375,"bbox":[15.082855224609,55.094772338867,15.103796958923,55.137382507324],"coordinates":[[[[15.08765,55.096058],[15.087916,55.097641],[15.082855,55.126293],[15.089721,55.127567],[15.103797,55.137383],[15.103282,55.129372],[15.088047,55.125507],[15.098816,55.097992],[15.088348,55.094772],[15.08765,55.096058]]]],"created":1292520655,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/555438_20101216_b95f1e89c5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

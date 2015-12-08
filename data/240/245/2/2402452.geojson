@@ -1,0 +1,15 @@
+{
+  "id": 2402452,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmington, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2402452,
+    "woe:name":"Farmington, Tennessee, United States",
+    "woe:place_id":"xEnzDYibBZzTCwnM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.712341,35.497486,-86.698524,35.502605],
+  "geometry": {"alpha":0.00015,"bbox":[-86.712341308594,35.497486114502,-86.698524475098,35.502605438232],"coordinates":[[[[-86.698616,35.497665],[-86.698799,35.497486],[-86.712341,35.502605],[-86.698608,35.49844],[-86.698524,35.498035],[-86.698616,35.497665]]]],"created":1292451697,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2402452_20101215_84d869a191.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

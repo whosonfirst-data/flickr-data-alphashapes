@@ -1,0 +1,15 @@
+{
+  "id": 23396463,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Camille, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396463,
+    "woe:name":"St.-Camille, Quebec, Canada",
+    "woe:place_id":"7dmQXU.bAp_w5lIpAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.710854,45.683262,-71.700729,45.707298],
+  "geometry": {"alpha":0.00015,"bbox":[-71.71085357666,45.683261871338,-71.700729370117,45.707298278809],"coordinates":[[[[-71.701668,45.683426],[-71.70417,45.683262],[-71.710854,45.689632],[-71.700729,45.707298],[-71.701668,45.683426]]]],"created":1292522543,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/23396463_20101216_d4a77dc9a7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

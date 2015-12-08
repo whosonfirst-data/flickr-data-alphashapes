@@ -1,0 +1,15 @@
+{
+  "id": 145392,
+  "type": "Feature",
+  "properties": {
+    "name":"San Sebastian, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":145392,
+    "woe:name":"San Sebastian, Nuevo Leon, Mexico",
+    "woe:place_id":"p3BoJQyYBZksY8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.211449,25.629881,-100.185867,25.657774],
+  "geometry": {"alpha":0.5,"bbox":[-100.21144866943,25.629880905151,-100.18586730957,25.657773971558],"coordinates":[[[[-100.185867,25.657774],[-100.188362,25.646051],[-100.209488,25.629881],[-100.211449,25.65731],[-100.185867,25.657774]]]],"created":1247708652,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2542/shapefiles/145392_20090716_25aeb2e9c0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

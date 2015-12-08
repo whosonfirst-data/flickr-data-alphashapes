@@ -1,0 +1,15 @@
+{
+  "id": 20160503,
+  "type": "Feature",
+  "properties": {
+    "name":"Neuforchheim, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":20160503,
+    "woe:name":"Neuforchheim, Baden-Wurttemberg, Germany",
+    "woe:place_id":"GinkCzKbAZ0VWo9NwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.328323,48.961468,8.351755,48.978413],
+  "geometry": {"alpha":0.00015,"bbox":[8.3283233642578,48.96146774292,8.3517551422119,48.978412628174],"coordinates":[[[[8.338075,48.962585],[8.330574,48.961468],[8.329095,48.965961],[8.328323,48.967484],[8.341026,48.978413],[8.351755,48.96664],[8.341401,48.962208],[8.338075,48.962585]]]],"created":1292520178,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20160503_20101216_faee75bc2a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

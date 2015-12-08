@@ -1,0 +1,15 @@
+{
+  "id": 12511881,
+  "type": "Feature",
+  "properties": {
+    "name":"Toronto Downsview Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511881,
+    "woe:name":"Toronto Downsview Airport, Canada",
+    "woe:place_id":"iCA3dZWYA5mtPzg3bg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.475655,43.744003,-79.470802,43.747795],
+  "geometry": {"alpha":1e-05,"bbox":[-79.475654602051,43.744003295898,-79.470802307129,43.74779510498],"coordinates":[[[[-79.475655,43.747242],[-79.474907,43.747795],[-79.473297,43.747105],[-79.470802,43.744003],[-79.474579,43.746391],[-79.475655,43.747242]]]],"created":1292542805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12511881_20101216_78a50ed10c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

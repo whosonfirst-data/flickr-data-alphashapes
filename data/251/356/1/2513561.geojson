@@ -1,0 +1,15 @@
+{
+  "id": 2513561,
+  "type": "Feature",
+  "properties": {
+    "name":"Walkerville, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2513561,
+    "woe:name":"Walkerville, Montana, United States",
+    "woe:place_id":"4fG2Su.bBJ1UNPJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.545486,46.025394,-112.525467,46.031055],
+  "geometry": {"alpha":0.00015,"bbox":[-112.5454864502,46.025394439697,-112.52546691895,46.031055450439],"coordinates":[[[[-112.534042,46.031055],[-112.526093,46.03104],[-112.525467,46.025394],[-112.534843,46.027096],[-112.545486,46.029865],[-112.534042,46.031055]]]],"created":1292549154,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2513561_20101217_f3519ecb0e.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

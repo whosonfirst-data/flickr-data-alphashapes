@@ -1,0 +1,15 @@
+{
+  "id": 714560,
+  "type": "Feature",
+  "properties": {
+    "name":"Contignano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":714560,
+    "woe:name":"Contignano, Tuscany, Italy",
+    "woe:place_id":"s8.farieAJgVYZM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.697872,42.961197,11.718292,42.973064],
+  "geometry": {"alpha":0.000234375,"bbox":[11.697872161865,42.961196899414,11.718292236328,42.973064422607],"coordinates":[[[[11.698953,42.96273],[11.699066,42.967476],[11.697872,42.973064],[11.699027,42.97224],[11.718292,42.961197],[11.700617,42.961605],[11.698953,42.96273]]]],"created":1292505542,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/714560_20101216_37f178359a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

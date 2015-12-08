@@ -1,0 +1,15 @@
+{
+  "id": 876704,
+  "type": "Feature",
+  "properties": {
+    "name":"Salzburg, Sibiu, Romania",
+    "placetype":"locality",
+    "woe:id":876704,
+    "woe:name":"Salzburg, Sibiu, Romania",
+    "woe:place_id":"uBwkgOmRBppeuTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.0159,45.875401,24.073792,45.893353],
+  "geometry": {"alpha":0.00015,"bbox":[24.015899658203,45.875400543213,24.073791503906,45.893352508545],"coordinates":[[[[24.065901,45.875404],[24.065886,45.875401],[24.061937,45.876793],[24.040533,45.878803],[24.036455,45.877998],[24.0159,45.882778],[24.034996,45.892399],[24.049244,45.88929],[24.061604,45.880386],[24.073792,45.893353],[24.072075,45.882599],[24.065901,45.875404]]]],"created":1292542104,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/876704_20101216_dd41d5fc9e.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

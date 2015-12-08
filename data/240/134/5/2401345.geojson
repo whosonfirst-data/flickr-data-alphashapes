@@ -1,0 +1,15 @@
+{
+  "id": 2401345,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfax, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2401345,
+    "woe:name":"Fairfax, Minnesota, United States",
+    "woe:place_id":"N7_t4XKbBZzl5FGx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.720856,44.523586,-94.715652,44.530537],
+  "geometry": {"alpha":0.00015,"bbox":[-94.720855712891,44.523586273193,-94.71565246582,44.530536651611],"coordinates":[[[[-94.715652,44.523952],[-94.716042,44.523586],[-94.719139,44.524353],[-94.719467,44.525661],[-94.720856,44.530537],[-94.719078,44.527622],[-94.715652,44.523952]]]],"created":1292525480,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2401345_20101216_fff29fc144.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

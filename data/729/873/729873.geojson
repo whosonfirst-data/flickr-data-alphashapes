@@ -1,0 +1,15 @@
+{
+  "id": 729873,
+  "type": "Feature",
+  "properties": {
+    "name":"De Heide, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":729873,
+    "woe:name":"De Heide, Gelderland, Netherlands",
+    "woe:place_id":"79rle1SeA5VDRrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.812175,51.810101,5.833608,51.81778],
+  "geometry": {"alpha":0.00015,"bbox":[5.8121747970581,51.81010055542,5.8336081504822,51.817779541016],"coordinates":[[[[5.833107,51.810787],[5.833608,51.81052],[5.833591,51.810188],[5.833302,51.81012],[5.832497,51.810101],[5.812175,51.81778],[5.833107,51.810787]]]],"created":1292518358,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/729873_20101216_a512302f67.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

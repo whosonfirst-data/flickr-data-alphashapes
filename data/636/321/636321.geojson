@@ -1,0 +1,15 @@
+{
+  "id": 636321,
+  "type": "Feature",
+  "properties": {
+    "name":"Bach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":636321,
+    "woe:name":"Bach, Bavaria, Germany",
+    "woe:place_id":"d2tdFHOfAprIxNY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.291684,49.016479,12.305717,49.024361],
+  "geometry": {"alpha":0.00015,"bbox":[12.291684150696,49.016479492188,12.305717468262,49.024360656738],"coordinates":[[[[12.304308,49.020859],[12.304305,49.020859],[12.291684,49.016479],[12.30091,49.024361],[12.305717,49.02211],[12.304308,49.020859]]]],"created":1292522949,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/636321_20101216_f7d9493ae2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

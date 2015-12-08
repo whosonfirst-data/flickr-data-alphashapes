@@ -1,0 +1,15 @@
+{
+  "id": 2466027,
+  "type": "Feature",
+  "properties": {
+    "name":"Orchard Hill, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2466027,
+    "woe:name":"Orchard Hill, Georgia, United States",
+    "woe:place_id":"A66IW8abBZrQoLO2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.231712,33.185879,-84.210289,33.188133],
+  "geometry": {"alpha":0.00015,"bbox":[-84.231712341309,33.185878753662,-84.210289001465,33.188133239746],"coordinates":[[[[-84.211205,33.186733],[-84.231712,33.18787],[-84.211578,33.188133],[-84.210289,33.185963],[-84.210579,33.185879],[-84.211205,33.186733]]]],"created":1292445831,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2466027_20101215_6d3d97af1e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

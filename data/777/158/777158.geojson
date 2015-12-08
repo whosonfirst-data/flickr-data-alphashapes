@@ -1,0 +1,15 @@
+{
+  "id": 777158,
+  "type": "Feature",
+  "properties": {
+    "name":"Venta del Moro, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":777158,
+    "woe:name":"Venta del Moro, Valencia, Spain",
+    "woe:place_id":"ixAz50OeBps31Fo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.360223,39.482079,-1.35783,39.487415],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3602230548859,39.482078552246,-1.3578300476074,39.487415313721],"coordinates":[[[[-1.359246,39.482594],[-1.360223,39.483639],[-1.358528,39.487415],[-1.357841,39.485229],[-1.35783,39.482079],[-1.359246,39.482594]]]],"created":1292529074,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/777158_20101216_7dd631ffd5.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

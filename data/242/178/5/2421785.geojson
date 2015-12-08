@@ -1,0 +1,15 @@
+{
+  "id": 2421785,
+  "type": "Feature",
+  "properties": {
+    "name":"Hill City, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2421785,
+    "woe:name":"Hill City, Minnesota, United States",
+    "woe:place_id":"JVhnoVabBZ6PMY6P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.605576,46.990589,-93.582909,47.006245],
+  "geometry": {"alpha":0.00015,"bbox":[-93.605575561523,46.990589141846,-93.582908630371,47.006244659424],"coordinates":[[[[-93.589935,46.99424],[-93.595963,46.995708],[-93.605576,46.999924],[-93.602699,47.006245],[-93.59124,46.999134],[-93.582909,46.990589],[-93.589935,46.99424]]]],"created":1292531052,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2421785_20101216_753bfd87e5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

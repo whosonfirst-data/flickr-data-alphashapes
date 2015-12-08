@@ -1,0 +1,15 @@
+{
+  "id": 2462244,
+  "type": "Feature",
+  "properties": {
+    "name":"Norwalk, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2462244,
+    "woe:name":"Norwalk, Missouri, United States",
+    "woe:place_id":"4uCWWWubBZoi3HNU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.571671,36.618557,-93.564796,36.622295],
+  "geometry": {"alpha":0.00015,"bbox":[-93.571670532227,36.618556976318,-93.564796447754,36.622295379639],"coordinates":[[[[-93.568214,36.618877],[-93.571671,36.618557],[-93.568207,36.622295],[-93.565193,36.620193],[-93.564796,36.619602],[-93.568214,36.618877]]]],"created":1292456094,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2462244_20101215_ac6a5bc2a4.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

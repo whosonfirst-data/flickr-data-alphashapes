@@ -1,0 +1,15 @@
+{
+  "id": 148898,
+  "type": "Feature",
+  "properties": {
+    "name":"Tepeji, Hidalgo, Mexico",
+    "placetype":"locality",
+    "woe:id":148898,
+    "woe:name":"Tepeji, Hidalgo, Mexico",
+    "woe:place_id":"wzBN..eYBZTW1vc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.342499,19.905111,-99.341507,19.911625],
+  "geometry": {"alpha":0.00015,"bbox":[-99.342498779297,19.905111312866,-99.341506958008,19.911624908447],"coordinates":[[[[-99.341522,19.905134],[-99.34156,19.905113],[-99.341568,19.905111],[-99.342499,19.911625],[-99.341507,19.905144],[-99.341522,19.905134]]]],"created":1292515622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/148898_20101216_119ed6eb4d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

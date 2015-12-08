@@ -1,0 +1,15 @@
+{
+  "id": 2519939,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitman, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2519939,
+    "woe:name":"Whitman, Nebraska, United States",
+    "woe:place_id":"LrUXMqSbBJ2DYzTh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.523689,42.040783,-101.520279,42.050568],
+  "geometry": {"alpha":0.00015,"bbox":[-101.52368927002,42.040782928467,-101.52027893066,42.050567626953],"coordinates":[[[[-101.523605,42.041775],[-101.523689,42.041985],[-101.520279,42.050568],[-101.520538,42.041851],[-101.520752,42.040783],[-101.523605,42.041775]]]],"created":1292523407,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2519939_20101216_01c0df4e44.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

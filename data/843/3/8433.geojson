@@ -1,0 +1,15 @@
+{
+  "id": 8433,
+  "type": "Feature",
+  "properties": {
+    "name":"Niton Junction, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8433,
+    "woe:name":"Niton Junction, Alberta, Canada",
+    "woe:place_id":"eC.hZoeRBZ9b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.781029,53.61636,-115.761307,53.631355],
+  "geometry": {"alpha":0.00015,"bbox":[-115.78102874756,53.616359710693,-115.7613067627,53.631355285645],"coordinates":[[[[-115.768517,53.625809],[-115.762169,53.631355],[-115.761307,53.626011],[-115.766113,53.617813],[-115.769096,53.617508],[-115.781029,53.61636],[-115.768517,53.625809]]]],"created":1292446761,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/8433_20101215_b68a544885.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

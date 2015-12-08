@@ -1,0 +1,15 @@
+{
+  "id": 22592277,
+  "type": "Feature",
+  "properties": {
+    "name":"Verona Airport, Italy",
+    "placetype":"locality",
+    "woe:id":22592277,
+    "woe:name":"Verona Airport, Italy",
+    "woe:place_id":"PqksbuWbA5lLp.sVBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.899317,45.396816,10.907921,45.403572],
+  "geometry": {"alpha":1e-05,"bbox":[10.89931678772,45.396816253662,10.907920837402,45.40357208252],"coordinates":[[[[10.905475,45.403572],[10.907921,45.40313],[10.907106,45.402351],[10.906419,45.401958],[10.904788,45.39743],[10.899682,45.396816],[10.899317,45.397606],[10.903903,45.40163],[10.90496,45.403393],[10.905475,45.403572]]]],"created":1292542205,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/22592277_20101216_5aef0d064b.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

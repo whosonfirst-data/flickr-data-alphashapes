@@ -1,0 +1,15 @@
+{
+  "id": 2518414,
+  "type": "Feature",
+  "properties": {
+    "name":"Weston, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2518414,
+    "woe:name":"Weston, Oregon, United States",
+    "woe:place_id":"nOz5Bt6bBJ2M7QuI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.444664,45.808998,-118.413475,45.82349],
+  "geometry": {"alpha":0.00015,"bbox":[-118.44466400146,45.80899810791,-118.41347503662,45.823490142822],"coordinates":[[[[-118.415276,45.816605],[-118.42424,45.811581],[-118.444664,45.808998],[-118.429321,45.822464],[-118.413475,45.82349],[-118.415276,45.816605]]]],"created":1292523253,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2518414_20101216_5f68dbf78b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12635408,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Weibersbrunn, Germany",
+    "placetype":"locality",
+    "woe:id":12635408,
+    "woe:name":"Gemeinde Weibersbrunn, Germany",
+    "woe:place_id":"6_JPnUCYA5pJXNhpXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.394361,49.911011,9.397258,49.914989],
+  "geometry": {"alpha":1e-05,"bbox":[9.3943605422974,49.911010742188,9.3972578048706,49.914989471436],"coordinates":[[[[9.397258,49.91106],[9.395638,49.911011],[9.394361,49.914516],[9.394616,49.914909],[9.3947,49.914989],[9.397258,49.91106]]]],"created":1292520078,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12635408_20101216_77d23e5fe4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

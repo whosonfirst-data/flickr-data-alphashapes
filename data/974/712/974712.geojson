@@ -1,0 +1,15 @@
+{
+  "id": 974712,
+  "type": "Feature",
+  "properties": {
+    "name":"Namache, Namur, Belgium",
+    "placetype":"locality",
+    "woe:id":974712,
+    "woe:name":"Namache, Namur, Belgium",
+    "woe:place_id":"pHZWzXWQBpg9YjU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.993801,50.463097,5.002555,50.473061],
+  "geometry": {"alpha":0.00015,"bbox":[4.9938011169434,50.463096618652,5.0025548934937,50.47306060791],"coordinates":[[[[5.002555,50.472584],[4.999873,50.463097],[4.99629,50.465237],[4.99438,50.467907],[4.993801,50.470837],[5.001493,50.473061],[5.002555,50.472584]]]],"created":1292485089,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/974712_20101216_61a71777aa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

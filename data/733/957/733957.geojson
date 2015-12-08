@@ -1,0 +1,15 @@
+{
+  "id": 733957,
+  "type": "Feature",
+  "properties": {
+    "name":"Tuindorp, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":733957,
+    "woe:name":"Tuindorp, North Holland, Netherlands",
+    "woe:place_id":"c3F9VJ2eAp.NoXM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.548168,52.410797,4.561278,52.417168],
+  "geometry": {"alpha":0.00015,"bbox":[4.548168182373,52.410797119141,4.5612778663635,52.417167663574],"coordinates":[[[[4.551833,52.417168],[4.551944,52.417156],[4.561278,52.413551],[4.550845,52.411404],[4.548168,52.410797],[4.548683,52.414669],[4.551833,52.417168]]]],"created":1292527363,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/733957_20101216_6002e1dc59.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

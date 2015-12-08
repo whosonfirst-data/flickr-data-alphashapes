@@ -1,0 +1,15 @@
+{
+  "id": 26809025,
+  "type": "Feature",
+  "properties": {
+    "name":"La Cruz, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809025,
+    "woe:name":"La Cruz, Costa Rica",
+    "woe:place_id":"mrZ52d.bB5S6opTmng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.694046,11.083532,-85.690781,11.088459],
+  "geometry": {"alpha":1e-05,"bbox":[-85.694046020508,11.083532333374,-85.690780639648,11.088459014893],"coordinates":[[[[-85.693184,11.084332],[-85.694046,11.084416],[-85.693871,11.085343],[-85.694046,11.088459],[-85.692497,11.084922],[-85.690781,11.083532],[-85.693184,11.084332]]]],"created":1292536802,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/26809025_20101216_4c86223786.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

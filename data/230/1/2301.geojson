@@ -1,0 +1,15 @@
+{
+  "id": 2301,
+  "type": "Feature",
+  "properties": {
+    "name":"Herbert, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2301,
+    "woe:name":"Herbert, Saskatchewan, Canada",
+    "woe:place_id":"Y8DDZ2ebApxz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.226044,50.424107,-107.220474,50.432251],
+  "geometry": {"alpha":0.00015,"bbox":[-107.22604370117,50.4241065979,-107.22047424316,50.432250976562],"coordinates":[[[[-107.2239,50.424107],[-107.226044,50.428425],[-107.22364,50.432251],[-107.220474,50.425987],[-107.223602,50.42424],[-107.2239,50.424107]]]],"created":1247778846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2555/shapefiles/2301_20090716_4c5e60e7bf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

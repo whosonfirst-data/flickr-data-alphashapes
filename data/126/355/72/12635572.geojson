@@ -1,0 +1,15 @@
+{
+  "id": 12635572,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kitzingen, Germany",
+    "placetype":"locality",
+    "woe:id":12635572,
+    "woe:name":"Gemeinde Kitzingen, Germany",
+    "woe:place_id":"2EmKN0mYA5pm_qVm8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.157203,49.735863,10.163598,49.743065],
+  "geometry": {"alpha":1.25e-05,"bbox":[10.157202720642,49.735862731934,10.163598060608,49.743064880371],"coordinates":[[[[10.157203,49.738014],[10.160465,49.743065],[10.163598,49.74025],[10.161613,49.738071],[10.158861,49.735863],[10.157203,49.738014]]]],"created":1292550574,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12635572_20101217_039372bd06.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

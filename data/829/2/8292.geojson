@@ -1,0 +1,15 @@
+{
+  "id": 8292,
+  "type": "Feature",
+  "properties": {
+    "name":"Wrentham, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8292,
+    "woe:name":"Wrentham, Alberta, Canada",
+    "woe:place_id":"njCz3M2RA5UV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.177788,49.51416,-112.167747,49.517296],
+  "geometry": {"alpha":0.00015,"bbox":[-112.17778778076,49.51416015625,-112.16774749756,49.517295837402],"coordinates":[[[[-112.17485,49.51416],[-112.176414,49.514565],[-112.177788,49.515636],[-112.1735,49.517296],[-112.167747,49.516235],[-112.169121,49.51593],[-112.17485,49.51416]]]],"created":1292532964,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/8292_20101216_778aafc3bc.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

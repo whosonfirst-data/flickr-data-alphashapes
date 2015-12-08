@@ -1,0 +1,15 @@
+{
+  "id": 4165,
+  "type": "Feature",
+  "properties": {
+    "name":"Pubnico, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":4165,
+    "woe:name":"Pubnico, Nova Scotia, Canada",
+    "woe:place_id":"73XX996dAJp0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.794502,43.689598,-65.77652,43.706352],
+  "geometry": {"alpha":0.00015,"bbox":[-65.794502258301,43.689598083496,-65.776519775391,43.706352233887],"coordinates":[[[[-65.794502,43.689598],[-65.78373,43.706352],[-65.780983,43.705235],[-65.77652,43.703373],[-65.794502,43.689598]]]],"created":1292482687,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/4165_20101216_ffd24e7868.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

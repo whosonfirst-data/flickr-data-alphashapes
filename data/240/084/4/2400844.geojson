@@ -1,0 +1,15 @@
+{
+  "id": 2400844,
+  "type": "Feature",
+  "properties": {
+    "name":"Everett, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2400844,
+    "woe:name":"Everett, Pennsylvania, United States",
+    "woe:place_id":"N8lsMVObBZwOnYRY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.379997,40.003525,-78.367538,40.038719],
+  "geometry": {"alpha":0.00015,"bbox":[-78.379997253418,40.003524780273,-78.367538452148,40.038719177246],"coordinates":[[[[-78.378525,40.013416],[-78.373428,40.020821],[-78.370285,40.038719],[-78.367538,40.018677],[-78.370743,40.003525],[-78.379997,40.007999],[-78.378525,40.013416]]]],"created":1292535904,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2400844_20101216_72eb273347.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

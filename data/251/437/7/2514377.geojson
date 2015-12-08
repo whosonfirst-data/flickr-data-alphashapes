@@ -1,0 +1,15 @@
+{
+  "id": 2514377,
+  "type": "Feature",
+  "properties": {
+    "name":"Warren, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2514377,
+    "woe:name":"Warren, Minnesota, United States",
+    "woe:place_id":"FCpft36bBJ3UYe0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.781502,48.191612,-96.764145,48.197132],
+  "geometry": {"alpha":0.00015,"bbox":[-96.78150177002,48.191612243652,-96.764144897461,48.197132110596],"coordinates":[[[[-96.772369,48.197132],[-96.767319,48.196503],[-96.764145,48.191612],[-96.777199,48.193985],[-96.781502,48.194115],[-96.776825,48.195324],[-96.772369,48.197132]]]],"created":1292532607,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2514377_20101216_da3d02ecce.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

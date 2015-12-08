@@ -1,0 +1,15 @@
+{
+  "id": 12650631,
+  "type": "Feature",
+  "properties": {
+    "name":"Pineuilh, France",
+    "placetype":"locality",
+    "woe:id":12650631,
+    "woe:name":"Pineuilh, France",
+    "woe:place_id":"N5.PAzeYA5oOPzuv0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.225703,44.818001,0.2275,44.819702],
+  "geometry": {"alpha":1e-05,"bbox":[0.22570300102234,44.818000793457,0.22750000655651,44.819702148438],"coordinates":[[[[0.2275,44.818001],[0.227,44.818333],[0.225703,44.819702],[0.227167,44.818333],[0.2275,44.818001]]]],"created":1292454783,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12650631_20101215_72e4db1d0d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

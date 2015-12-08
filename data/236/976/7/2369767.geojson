@@ -1,0 +1,15 @@
+{
+  "id": 2369767,
+  "type": "Feature",
+  "properties": {
+    "name":"Brook Hollow, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2369767,
+    "woe:name":"Brook Hollow, North Carolina, United States",
+    "woe:place_id":"LV8Ie1GbAppF5DxD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.295883,36.067829,-79.270393,36.084949],
+  "geometry": {"alpha":0.00015,"bbox":[-79.295883178711,36.06782913208,-79.270393371582,36.084949493408],"coordinates":[[[[-79.275642,36.076881],[-79.270393,36.0704],[-79.282127,36.067829],[-79.295883,36.072063],[-79.287148,36.084949],[-79.275642,36.076881]]]],"created":1292525547,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2369767_20101216_68f2b1af5b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

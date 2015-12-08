@@ -1,0 +1,15 @@
+{
+  "id": 2356929,
+  "type": "Feature",
+  "properties": {
+    "name":"Athens, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2356929,
+    "woe:name":"Athens, Pennsylvania, United States",
+    "woe:place_id":"ABADDKWbApn4ATDh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.537628,41.93441,-76.518379,41.973656],
+  "geometry": {"alpha":0.00015,"bbox":[-76.537628173828,41.934410095215,-76.518379211426,41.973655700684],"coordinates":[[[[-76.518417,41.957333],[-76.518379,41.956169],[-76.521332,41.942001],[-76.525658,41.93441],[-76.536324,41.948982],[-76.537628,41.961403],[-76.528946,41.973656],[-76.520226,41.964706],[-76.518417,41.957333]]]],"created":1292546832,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2356929_20101217_6f3ca0ba2a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

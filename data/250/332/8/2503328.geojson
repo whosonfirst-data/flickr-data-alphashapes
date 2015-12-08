@@ -1,0 +1,15 @@
+{
+  "id": 2503328,
+  "type": "Feature",
+  "properties": {
+    "name":"Sylvan Beach, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2503328,
+    "woe:name":"Sylvan Beach, Texas, United States",
+    "woe:place_id":"UBdpbgSbBJx4ArYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.017975,29.651163,-95.005363,29.655462],
+  "geometry": {"alpha":0.00015,"bbox":[-95.017974853516,29.651163101196,-95.005363464355,29.655462265015],"coordinates":[[[[-95.010109,29.655462],[-95.008102,29.655397],[-95.005363,29.65276],[-95.010696,29.651163],[-95.017975,29.655249],[-95.010109,29.655462]]]],"created":1292529993,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2503328_20101216_4149eb5c03.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

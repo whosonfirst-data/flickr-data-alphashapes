@@ -1,0 +1,15 @@
+{
+  "id": 2381145,
+  "type": "Feature",
+  "properties": {
+    "name":"Clear Creek, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2381145,
+    "woe:name":"Clear Creek, Oregon, United States",
+    "woe:place_id":"AKh.OPabApR_zGds",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.351105,45.779976,-123.335831,45.803165],
+  "geometry": {"alpha":0.00015,"bbox":[-123.35110473633,45.779975891113,-123.33583068848,45.803165435791],"coordinates":[[[[-123.351105,45.780918],[-123.346252,45.782848],[-123.335831,45.803165],[-123.339386,45.779976],[-123.343895,45.780628],[-123.351105,45.780918]]]],"created":1292535888,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2381145_20101216_f7008b9647.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

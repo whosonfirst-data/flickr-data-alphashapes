@@ -1,0 +1,15 @@
+{
+  "id": 12510764,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Hedland Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510764,
+    "woe:name":"Port Hedland Airport, Australia",
+    "woe:place_id":"V53YT5CYA5k9KqbBLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [118.631569,-20.378101,118.635002,-20.375164],
+  "geometry": {"alpha":1e-05,"bbox":[118.63156890869,-20.378101348877,118.63500213623,-20.375164031982],"coordinates":[[[[118.634193,-20.375839],[118.631569,-20.378101],[118.63353,-20.37521],[118.635002,-20.375164],[118.634193,-20.375839]]]],"created":1292507589,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12510764_20101216_e8730e21db.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

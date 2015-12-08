@@ -1,0 +1,15 @@
+{
+  "id": 467,
+  "type": "Feature",
+  "properties": {
+    "name":"Emo, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":467,
+    "woe:name":"Emo, Ontario, Canada",
+    "woe:place_id":"4wR53cudB5s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.852402,48.625198,-93.8377,48.638496],
+  "geometry": {"alpha":0.00015,"bbox":[-93.852401733398,48.625198364258,-93.837699890137,48.638496398926],"coordinates":[[[[-93.852402,48.635048],[-93.840622,48.638496],[-93.83989,48.634724],[-93.839722,48.633591],[-93.8377,48.625198],[-93.850708,48.62746],[-93.852402,48.635048]]]],"created":1292536466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/467_20101216_9587c27da8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

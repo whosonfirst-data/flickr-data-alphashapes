@@ -1,0 +1,15 @@
+{
+  "id": 28340034,
+  "type": "Feature",
+  "properties": {
+    "name":"Africa, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28340034,
+    "woe:name":"Africa, Pennsylvania, United States",
+    "woe:place_id":"nlzSDk6bCZ9HI00riw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.898331,39.823666,-77.896667,39.827721],
+  "geometry": {"alpha":0.00015,"bbox":[-77.898330688477,39.823665618896,-77.896667480469,39.82772064209],"coordinates":[[[[-77.896667,39.824501],[-77.896667,39.824333],[-77.897835,39.823666],[-77.898331,39.823833],[-77.897873,39.827721],[-77.896667,39.824501]]]],"created":1292449474,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/28340034_20101215_62e237377f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

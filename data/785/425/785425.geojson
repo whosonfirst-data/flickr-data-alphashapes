@@ -1,0 +1,15 @@
+{
+  "id": 785425,
+  "type": "Feature",
+  "properties": {
+    "name":"Weiach, Canton of Zurich, Switzerland",
+    "placetype":"locality",
+    "woe:id":785425,
+    "woe:name":"Weiach, Canton of Zurich, Switzerland",
+    "woe:place_id":"5XfctAKeCZl490w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.436609,47.553501,8.4432,47.557755],
+  "geometry": {"alpha":0.00015,"bbox":[8.4366092681885,47.55350112915,8.4432001113892,47.557754516602],"coordinates":[[[[8.4395,47.557499],[8.4432,47.553501],[8.436609,47.556892],[8.436942,47.557755],[8.43941,47.55751],[8.4395,47.557499]]]],"created":1292519586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/785425_20101216_e1a53a5b43.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

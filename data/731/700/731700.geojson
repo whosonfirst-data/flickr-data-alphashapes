@@ -1,0 +1,15 @@
+{
+  "id": 731700,
+  "type": "Feature",
+  "properties": {
+    "name":"Hout, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":731700,
+    "woe:name":"Hout, North Brabant, Netherlands",
+    "woe:place_id":"zXdTGLaeAp2cD08",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.630943,51.464832,5.639,51.469173],
+  "geometry": {"alpha":0.00015,"bbox":[5.6309428215027,51.464832305908,5.6389999389648,51.469173431396],"coordinates":[[[[5.63487,51.469086],[5.635986,51.469173],[5.639,51.464832],[5.634377,51.465931],[5.630943,51.467911],[5.631222,51.467983],[5.63487,51.469086]]]],"created":1292539009,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/731700_20101216_aee148fc80.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

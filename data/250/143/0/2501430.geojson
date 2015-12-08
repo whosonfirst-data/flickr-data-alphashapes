@@ -1,0 +1,15 @@
+{
+  "id": 2501430,
+  "type": "Feature",
+  "properties": {
+    "name":"Sullivan, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2501430,
+    "woe:name":"Sullivan, Maine, United States",
+    "woe:place_id":"9de7drmbBJxZsVk4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.220421,44.509972,-68.193855,44.522213],
+  "geometry": {"alpha":0.00015,"bbox":[-68.220420837402,44.509971618652,-68.193855285645,44.522212982178],"coordinates":[[[[-68.193855,44.518112],[-68.198921,44.516735],[-68.220421,44.509972],[-68.204109,44.522213],[-68.199196,44.519215],[-68.193855,44.518112]]]],"created":1248315248,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3426/shapefiles/2501430_20090723_5e14a5bf1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

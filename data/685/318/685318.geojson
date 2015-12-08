@@ -1,0 +1,15 @@
+{
+  "id": 685318,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleinfeld, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685318,
+    "woe:name":"Pleinfeld, Bavaria, Germany",
+    "woe:place_id":"98sBXXSfCZkoSh0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.977167,49.105003,10.985013,49.106888],
+  "geometry": {"alpha":0.00015,"bbox":[10.977167129517,49.105003356934,10.985013008118,49.106887817383],"coordinates":[[[[10.985013,49.106888],[10.981607,49.105003],[10.977167,49.106167],[10.977333,49.106167],[10.985013,49.106888]]]],"created":1292520552,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/685318_20101216_53a719822a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

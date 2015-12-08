@@ -1,0 +1,15 @@
+{
+  "id": 3557,
+  "type": "Feature",
+  "properties": {
+    "name":"Alexandria, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3557,
+    "woe:name":"Alexandria, Ontario, Canada",
+    "woe:place_id":"GV.A7UGaBJmZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.643684,45.306278,-74.633347,45.318066],
+  "geometry": {"alpha":0.00015,"bbox":[-74.643684387207,45.30627822876,-74.633346557617,45.318065643311],"coordinates":[[[[-74.634247,45.313046],[-74.633347,45.310753],[-74.63356,45.310513],[-74.636223,45.306278],[-74.63974,45.308216],[-74.643684,45.317513],[-74.640015,45.318066],[-74.634247,45.313046]]]],"created":1292542447,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/3557_20101216_c5f71eab21.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28338779,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairgrounds, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":28338779,
+    "woe:name":"Fairgrounds, Louisiana, United States",
+    "woe:place_id":"h2OM2RibCZ9iCnTTUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.830688,32.454571,-93.823486,32.475208],
+  "geometry": {"alpha":0.00015,"bbox":[-93.830688476562,32.454570770264,-93.823486328125,32.475208282471],"coordinates":[[[[-93.830688,32.475178],[-93.830475,32.475208],[-93.823486,32.471264],[-93.828819,32.454571],[-93.826591,32.471203],[-93.830688,32.475178]]]],"created":1247862253,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2441/shapefiles/28338779_20090717_e3daab50c9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

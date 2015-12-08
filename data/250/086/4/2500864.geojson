@@ -1,0 +1,15 @@
+{
+  "id": 2500864,
+  "type": "Feature",
+  "properties": {
+    "name":"Street Road, New York, United States",
+    "placetype":"locality",
+    "woe:id":2500864,
+    "woe:name":"Street Road, New York, United States",
+    "woe:place_id":"xdurvLabBJw1HWJl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.449951,43.864826,-73.433563,43.884285],
+  "geometry": {"alpha":0.00015,"bbox":[-73.449951171875,43.864826202393,-73.433563232422,43.884284973145],"coordinates":[[[[-73.4496,43.879978],[-73.444611,43.87542],[-73.433563,43.871971],[-73.436691,43.864826],[-73.444611,43.87542],[-73.449951,43.884285],[-73.449661,43.880398],[-73.4496,43.879978]]]],"created":1292519942,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2500864_20101216_722e78d093.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

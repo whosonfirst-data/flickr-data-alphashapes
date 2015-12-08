@@ -1,0 +1,15 @@
+{
+  "id": 26808941,
+  "type": "Feature",
+  "properties": {
+    "name":"Cinco Esquinas, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26808941,
+    "woe:name":"Cinco Esquinas, Costa Rica",
+    "woe:place_id":"pUw2oPmbB5Tjsdff0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.090729,9.941798,-84.087296,9.947208],
+  "geometry": {"alpha":1e-05,"bbox":[-84.090728759766,9.941798210144,-84.087295532227,9.947208404541],"coordinates":[[[[-84.090729,9.942474],[-84.090042,9.944227],[-84.087296,9.947208],[-84.089355,9.942474],[-84.089355,9.941798],[-84.090729,9.942474]]]],"created":1292526889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/26808941_20101216_4751842ff6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

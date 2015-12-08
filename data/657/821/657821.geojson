@@ -1,0 +1,15 @@
+{
+  "id": 657821,
+  "type": "Feature",
+  "properties": {
+    "name":"Hattenheim, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":657821,
+    "woe:name":"Hattenheim, Hesse, Germany",
+    "woe:place_id":"01As1hifBJuqmco",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.051605,50.004978,8.071689,50.019432],
+  "geometry": {"alpha":0.00015,"bbox":[8.0516052246094,50.004978179932,8.0716886520386,50.019432067871],"coordinates":[[[[8.0583,50.014633],[8.071689,50.019432],[8.071517,50.004978],[8.061904,50.006855],[8.051605,50.010715],[8.054872,50.013317],[8.0583,50.014633]]]],"created":1292550071,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/657821_20101217_651d871cb7.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

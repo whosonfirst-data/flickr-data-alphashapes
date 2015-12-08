@@ -1,0 +1,15 @@
+{
+  "id": 2348163,
+  "type": "Feature",
+  "properties": {
+    "name":"Bendigo, Otago, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348163,
+    "woe:name":"Bendigo, Otago, New Zealand",
+    "woe:place_id":"Y2UwlhGbApi5bKVJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [169.330215,-44.944633,169.347382,-44.9245],
+  "geometry": {"alpha":0.00015,"bbox":[169.3302154541,-44.944633483887,169.3473815918,-44.924499511719],"coordinates":[[[[169.343262,-44.9245],[169.343857,-44.926311],[169.347382,-44.944633],[169.330215,-44.929443],[169.337769,-44.926647],[169.343262,-44.9245]]]],"created":1292477044,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2348163_20101216_729ebea45e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

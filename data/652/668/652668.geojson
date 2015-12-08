@@ -1,0 +1,15 @@
+{
+  "id": 652668,
+  "type": "Feature",
+  "properties": {
+    "name":"Gitter, Salzgitter, NI, DE, Germany",
+    "placetype":"neighbourhood",
+    "woe:id":652668,
+    "woe:name":"Gitter, Salzgitter, NI, DE, Germany",
+    "woe:place_id":"sKOvkOifBJ72KnA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [10.369205,52.04258,10.371758,52.04977],
+  "geometry": {"alpha":1e-05,"bbox":[10.369205474854,52.042579650879,10.371758460999,52.049770355225],"coordinates":[[[[10.371458,52.046539],[10.369205,52.04258],[10.369291,52.045799],[10.370149,52.047108],[10.371758,52.04977],[10.371458,52.046539]]]],"created":1292533088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/652668_20101216_163432b76f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

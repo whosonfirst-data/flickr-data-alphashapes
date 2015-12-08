@@ -1,0 +1,15 @@
+{
+  "id": 835743,
+  "type": "Feature",
+  "properties": {
+    "name":"Docha, Gabrovo, Bulgaria",
+    "placetype":"locality",
+    "woe:id":835743,
+    "woe:name":"Docha, Gabrovo, Bulgaria",
+    "woe:place_id":"NAB9WH6RApnlk40",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.430603,42.948132,25.448456,42.958023],
+  "geometry": {"alpha":0.00015,"bbox":[25.430603027344,42.948131561279,25.448455810547,42.958023071289],"coordinates":[[[[25.430603,42.958023],[25.448456,42.956673],[25.447426,42.951397],[25.437469,42.948132],[25.430775,42.949387],[25.430603,42.958023]]]],"created":1292549706,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/835743_20101217_182190b8d9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2433363,
+  "type": "Feature",
+  "properties": {
+    "name":"Klondike, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2433363,
+    "woe:name":"Klondike, Oregon, United States",
+    "woe:place_id":"YOUyA0ybBZ8_NfRq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.618896,45.568863,-120.589371,45.584972],
+  "geometry": {"alpha":0.00015,"bbox":[-120.61889648438,45.568862915039,-120.58937072754,45.584972381592],"coordinates":[[[[-120.589371,45.584011],[-120.603012,45.568863],[-120.618896,45.5756],[-120.597954,45.584972],[-120.589371,45.584011]]]],"created":1292460366,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2433363_20101216_f8a14395a2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29074246,
+  "type": "Feature",
+  "properties": {
+    "name":"Tumen, Sikkim, India",
+    "placetype":"locality",
+    "woe:id":29074246,
+    "woe:name":"Tumen, Sikkim, India",
+    "woe:place_id":"mcyAAR6bCJzdzadFZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [88.560036,27.288601,88.56208,27.290009],
+  "geometry": {"alpha":0.00015,"bbox":[88.560035705566,27.288600921631,88.562080383301,27.290008544922],"coordinates":[[[[88.560776,27.288765],[88.560036,27.289173],[88.561508,27.290009],[88.561996,27.289145],[88.56208,27.289009],[88.561928,27.288601],[88.560776,27.288765]]]],"created":1248108249,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3473/shapefiles/29074246_20090720_85ee190f0c.tar.gz"},"points":45,"type":"MultiPolygon"}
+}

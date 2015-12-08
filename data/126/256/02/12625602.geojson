@@ -1,0 +1,15 @@
+{
+  "id": 12625602,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bad Elster, Germany",
+    "placetype":"locality",
+    "woe:id":12625602,
+    "woe:name":"Gemeinde Bad Elster, Germany",
+    "woe:place_id":"DOcfzx6YA5reJJtlog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.240056,50.280701,12.244869,50.282612],
+  "geometry": {"alpha":1e-05,"bbox":[12.240056037903,50.280700683594,12.244869232178,50.282611846924],"coordinates":[[[[12.243319,50.282612],[12.244869,50.28072],[12.240056,50.280701],[12.243286,50.282551],[12.243319,50.282612]]]],"created":1292520256,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12625602_20101216_8eff93c271.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

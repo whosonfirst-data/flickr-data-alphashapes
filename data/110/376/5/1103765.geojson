@@ -1,0 +1,15 @@
+{
+  "id": 1103765,
+  "type": "Feature",
+  "properties": {
+    "name":"Mathoura, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1103765,
+    "woe:name":"Mathoura, New South Wales, Australia",
+    "woe:place_id":"xCA4_raYAJxobrkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.91745,-35.835365,144.919586,-35.834415],
+  "geometry": {"alpha":0.00015,"bbox":[144.91744995117,-35.83536529541,144.91958618164,-35.834415435791],"coordinates":[[[[144.919586,-35.834652],[144.919586,-35.834724],[144.917694,-35.835285],[144.91748,-35.835365],[144.91745,-35.835125],[144.919312,-35.834415],[144.919586,-35.834652]]]],"created":1248074765,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2652/shapefiles/1103765_20090720_713c97e21d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

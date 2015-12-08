@@ -1,0 +1,15 @@
+{
+  "id": 558800,
+  "type": "Feature",
+  "properties": {
+    "name":"Vistofte, Midtjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":558800,
+    "woe:name":"Vistofte, Midtjylland, Denmark",
+    "woe:place_id":"jsVL696cBJSD_dk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.508379,56.192547,10.515975,56.195911],
+  "geometry": {"alpha":0.00015,"bbox":[10.508378982544,56.192546844482,10.515974998474,56.195911407471],"coordinates":[[[[10.508379,56.193264],[10.508809,56.193859],[10.51313,56.195911],[10.515975,56.19257],[10.511212,56.192547],[10.508379,56.193264]]]],"created":1292438643,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/558800_20101215_94cefe7aaa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

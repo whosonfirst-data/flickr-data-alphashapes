@@ -1,0 +1,15 @@
+{
+  "id": 121625,
+  "type": "Feature",
+  "properties": {
+    "name":"El Porvenir, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":121625,
+    "woe:name":"El Porvenir, Chiapas, Mexico",
+    "woe:place_id":"kDcbU1uYA534avc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.311249,17.488056,-92.300949,17.507212],
+  "geometry": {"alpha":0.00015,"bbox":[-92.311248779297,17.488056182861,-92.30094909668,17.507211685181],"coordinates":[[[[-92.311249,17.489531],[-92.309875,17.507212],[-92.300949,17.490841],[-92.308846,17.488056],[-92.311249,17.489531]]]],"created":1234562761,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3462/shapefiles/121625_20090213_d3451d5b7d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

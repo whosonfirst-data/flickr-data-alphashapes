@@ -1,0 +1,15 @@
+{
+  "id": 2510108,
+  "type": "Feature",
+  "properties": {
+    "name":"University Heights, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2510108,
+    "woe:name":"University Heights, Georgia, United States",
+    "woe:place_id":"WPxGXt2bBJ37IbaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.353958,33.920357,-83.348206,33.926914],
+  "geometry": {"alpha":0.00015,"bbox":[-83.353958129883,33.920356750488,-83.348205566406,33.926914215088],"coordinates":[[[[-83.353958,33.920357],[-83.353065,33.924103],[-83.351189,33.926586],[-83.348206,33.926914],[-83.351601,33.92197],[-83.353958,33.920357]]]],"created":1292537407,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2510108_20101216_a664cfc88d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2384174,
+  "type": "Feature",
+  "properties": {
+    "name":"Conifer Place, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2384174,
+    "woe:name":"Conifer Place, Georgia, United States",
+    "woe:place_id":"Zsw9_2abApTbF3HO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.085274,33.490166,-82.078621,33.494595],
+  "geometry": {"alpha":0.00015,"bbox":[-82.085273742676,33.490165710449,-82.078620910645,33.494594573975],"coordinates":[[[[-82.079887,33.490685],[-82.085274,33.493992],[-82.079201,33.494595],[-82.078857,33.491859],[-82.078621,33.490166],[-82.079887,33.490685]]]],"created":1247900161,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2453/shapefiles/2384174_20090718_52fb7cd9b4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

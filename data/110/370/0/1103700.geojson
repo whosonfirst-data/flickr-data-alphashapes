@@ -1,0 +1,15 @@
+{
+  "id": 1103700,
+  "type": "Feature",
+  "properties": {
+    "name":"Marla, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1103700,
+    "woe:name":"Marla, South Australia, Australia",
+    "woe:place_id":"z0ct9jaYAJxr_VlG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [133.617828,-27.307875,133.626877,-27.299166],
+  "geometry": {"alpha":0.00015,"bbox":[133.61782836914,-27.307874679565,133.62687683105,-27.299165725708],"coordinates":[[[[133.622437,-27.304167],[133.617828,-27.299166],[133.624985,-27.301392],[133.626877,-27.301926],[133.625504,-27.307875],[133.623505,-27.306574],[133.622437,-27.304167]]]],"created":1292543000,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/1103700_20101216_64dfdb1885.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

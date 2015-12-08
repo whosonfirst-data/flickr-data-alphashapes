@@ -1,0 +1,15 @@
+{
+  "id": 28744218,
+  "type": "Feature",
+  "properties": {
+    "name":"Royalton, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744218,
+    "woe:name":"Royalton, Michigan, United States",
+    "woe:place_id":"l5.HBUWbCZsNzcD0VA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.434959,42.044209,-86.410561,42.061863],
+  "geometry": {"alpha":0.00015,"bbox":[-86.434959411621,42.044208526611,-86.41056060791,42.061862945557],"coordinates":[[[[-86.410561,42.051395],[-86.415131,42.047508],[-86.434959,42.044209],[-86.432449,42.05114],[-86.41642,42.061863],[-86.410561,42.051395]]]],"created":1292527861,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/28744218_20101216_4509fb52d3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

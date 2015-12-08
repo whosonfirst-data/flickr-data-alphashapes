@@ -1,0 +1,15 @@
+{
+  "id": 2449805,
+  "type": "Feature",
+  "properties": {
+    "name":"Mesa, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2449805,
+    "woe:name":"Mesa, New Mexico, United States",
+    "woe:place_id":"DSQEXombBZgLE.3d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.641899,33.953106,-104.64064,33.953892],
+  "geometry": {"alpha":0.00015,"bbox":[-104.64189910889,33.953105926514,-104.64064025879,33.95389175415],"coordinates":[[[[-104.641258,33.953106],[-104.641335,33.953167],[-104.641899,33.953892],[-104.64064,33.953453],[-104.641258,33.953106]]]],"created":1292536712,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2449805_20101216_5329b42918.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

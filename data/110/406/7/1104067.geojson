@@ -1,0 +1,15 @@
+{
+  "id": 1104067,
+  "type": "Feature",
+  "properties": {
+    "name":"Moora, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1104067,
+    "woe:name":"Moora, Western Australia, Australia",
+    "woe:place_id":"v2VKIAeYAJzWCXiO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.005325,-30.64127,116.008492,-30.633184],
+  "geometry": {"alpha":0.00015,"bbox":[116.00532531738,-30.641269683838,116.00849151611,-30.633184432983],"coordinates":[[[[116.005325,-30.641235],[116.006012,-30.633184],[116.008492,-30.638769],[116.006538,-30.64127],[116.005325,-30.641235]]]],"created":1292368803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/1104067_20101214_48c8991f76.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

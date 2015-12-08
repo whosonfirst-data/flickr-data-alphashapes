@@ -1,0 +1,15 @@
+{
+  "id": 2726,
+  "type": "Feature",
+  "properties": {
+    "name":"Pointe-Parent, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":2726,
+    "woe:name":"Pointe-Parent, Quebec, Canada",
+    "woe:place_id":".UUOg8mbBp4O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.810627,50.127182,-61.800156,50.135105],
+  "geometry": {"alpha":0.00015,"bbox":[-61.810626983643,50.127182006836,-61.800155639648,50.135105133057],"coordinates":[[[[-61.810024,50.129547],[-61.810627,50.13026],[-61.805992,50.135105],[-61.800156,50.128941],[-61.806763,50.127182],[-61.810024,50.129547]]]],"created":1247778725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3476/shapefiles/2726_20090716_331b8355d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

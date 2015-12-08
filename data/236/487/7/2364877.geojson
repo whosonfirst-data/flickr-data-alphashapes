@@ -1,0 +1,15 @@
+{
+  "id": 2364877,
+  "type": "Feature",
+  "properties": {
+    "name":"Black Oaks, California, United States",
+    "placetype":"locality",
+    "woe:id":2364877,
+    "woe:name":"Black Oaks, California, United States",
+    "woe:place_id":"wLAIQcibApre3LNq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.888252,38.823528,-122.882912,38.825649],
+  "geometry": {"alpha":0.00015,"bbox":[-122.8882522583,38.823528289795,-122.88291168213,38.825649261475],"coordinates":[[[[-122.882912,38.82365],[-122.883369,38.823528],[-122.883476,38.823589],[-122.888252,38.825649],[-122.883713,38.82383],[-122.882912,38.82365]]]],"created":1292451637,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2364877_20101215_be8bc077da.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

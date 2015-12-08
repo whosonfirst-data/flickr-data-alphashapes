@@ -1,0 +1,15 @@
+{
+  "id": 626289,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Paul, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":626289,
+    "woe:name":"St-Paul, Rhone-Alpes, France",
+    "woe:place_id":"PN1t83GfA5pFvfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.630569,46.376057,6.638574,46.377918],
+  "geometry": {"alpha":0.00015,"bbox":[6.6305689811707,46.376056671143,6.6385741233826,46.377918243408],"coordinates":[[[[6.638317,46.376293],[6.635291,46.376057],[6.630569,46.377918],[6.638574,46.377155],[6.638467,46.376286],[6.638317,46.376293]]]],"created":1292521764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/626289_20101216_1ce21546c5.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2367104,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2367104,
+    "woe:name":"Boston, Georgia, United States",
+    "woe:place_id":"dU5AiTubApp58DG0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.799248,30.775469,-83.777786,30.807249],
+  "geometry": {"alpha":0.00015,"bbox":[-83.799247741699,30.775468826294,-83.777786254883,30.807249069214],"coordinates":[[[[-83.787727,30.787489],[-83.785728,30.778713],[-83.785645,30.775469],[-83.799248,30.783875],[-83.793991,30.792458],[-83.797356,30.802603],[-83.781258,30.807249],[-83.777786,30.80592],[-83.785172,30.796556],[-83.785858,30.79287],[-83.787727,30.787489]]]],"created":1292537108,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2367104_20101216_8d8b7f6a98.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

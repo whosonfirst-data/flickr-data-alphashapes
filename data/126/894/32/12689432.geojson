@@ -1,0 +1,15 @@
+{
+  "id": 12689432,
+  "type": "Feature",
+  "properties": {
+    "name":"Bailo, Spain",
+    "placetype":"locality",
+    "woe:id":12689432,
+    "woe:name":"Bailo, Spain",
+    "woe:place_id":"gffh9W6YA5qVHS3qqg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.814018,42.500706,-0.811614,42.503239],
+  "geometry": {"alpha":1e-05,"bbox":[-0.81401801109314,42.500705718994,-0.81161397695541,42.503238677979],"coordinates":[[[[-0.813503,42.501022],[-0.814018,42.503239],[-0.813245,42.501686],[-0.811614,42.500706],[-0.813503,42.501022]]]],"created":1292470983,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12689432_20101216_46471c0de3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

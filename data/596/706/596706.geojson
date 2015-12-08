@@ -1,0 +1,15 @@
+{
+  "id": 596706,
+  "type": "Feature",
+  "properties": {
+    "name":"La Balme, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":596706,
+    "woe:name":"La Balme, Rhone-Alpes, France",
+    "woe:place_id":"hAt_8PWcCJrzwxU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.273304,45.900284,6.278099,45.902245],
+  "geometry": {"alpha":0.00015,"bbox":[6.2733039855957,45.900283813477,6.2780990600586,45.902244567871],"coordinates":[[[[6.274833,45.900665],[6.274073,45.900822],[6.273304,45.901417],[6.278099,45.902245],[6.277313,45.900284],[6.274833,45.900665]]]],"created":1292483523,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/596706_20101216_6e8d642a3f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

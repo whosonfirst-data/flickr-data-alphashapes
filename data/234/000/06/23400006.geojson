@@ -1,0 +1,15 @@
+{
+  "id": 23400006,
+  "type": "Feature",
+  "properties": {
+    "name":"Baltimore, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400006,
+    "woe:name":"Baltimore, Ontario, Canada",
+    "woe:place_id":"Ol5IRRebAphk9noCmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.148666,44.016705,-78.13768,44.029976],
+  "geometry": {"alpha":0.00015,"bbox":[-78.148666381836,44.016704559326,-78.137680053711,44.029975891113],"coordinates":[[[[-78.138588,44.016705],[-78.148666,44.023434],[-78.146568,44.024975],[-78.13768,44.029976],[-78.138588,44.016705]]]],"created":1229523732,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3151/shapefiles/23400006_20081217_158df765e0.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

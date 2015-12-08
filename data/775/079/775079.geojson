@@ -1,0 +1,15 @@
+{
+  "id": 775079,
+  "type": "Feature",
+  "properties": {
+    "name":"Taboada, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":775079,
+    "woe:name":"Taboada, Galicia, Spain",
+    "woe:place_id":"s.k9E62eBpnalOk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.763986,42.710411,-7.748537,42.722874],
+  "geometry": {"alpha":0.00015,"bbox":[-7.7639861106873,42.710411071777,-7.7485370635986,42.722873687744],"coordinates":[[[[-7.762087,42.722874],[-7.760725,42.718296],[-7.748537,42.710411],[-7.763986,42.710697],[-7.761669,42.718327],[-7.762087,42.722874]]]],"created":1292451126,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/775079_20101215_344aff6415.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

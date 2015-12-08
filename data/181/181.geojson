@@ -1,0 +1,15 @@
+{
+  "id": 181,
+  "type": "Feature",
+  "properties": {
+    "name":"Bryson, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":181,
+    "woe:name":"Bryson, Quebec, Canada",
+    "woe:place_id":"tKcWR_aYCZ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.631577,45.670113,-76.617966,45.685314],
+  "geometry": {"alpha":0.00015,"bbox":[-76.631576538086,45.670112609863,-76.617965698242,45.685314178467],"coordinates":[[[[-76.624298,45.671284],[-76.631577,45.67379],[-76.625519,45.685314],[-76.617966,45.679321],[-76.618996,45.670113],[-76.624298,45.671284]]]],"created":1248245526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2572/shapefiles/181_20090722_666bd27512.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20111876,
+  "type": "Feature",
+  "properties": {
+    "name":"Bodio, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20111876,
+    "woe:name":"Bodio, Lombardy, Italy",
+    "woe:place_id":"n2ujRLebAZ35UfGMNg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.747863,45.782101,8.76091,45.798649],
+  "geometry": {"alpha":0.00015,"bbox":[8.7478628158569,45.78210067749,8.7609100341797,45.798648834229],"coordinates":[[[[8.753786,45.796192],[8.76091,45.798649],[8.757605,45.782101],[8.749451,45.789444],[8.747863,45.79063],[8.753786,45.796192]]]],"created":1292549527,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/20111876_20101217_86f7a7e571.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

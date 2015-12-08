@@ -1,0 +1,15 @@
+{
+  "id": 2491124,
+  "type": "Feature",
+  "properties": {
+    "name":"Sewickley Heights, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2491124,
+    "woe:name":"Sewickley Heights, Pennsylvania, United States",
+    "woe:place_id":"Bk1NMFebBZXw2hRt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.16449,40.560501,-80.162453,40.561337],
+  "geometry": {"alpha":0.00015,"bbox":[-80.164489746094,40.560501098633,-80.162452697754,40.561336517334],"coordinates":[[[[-80.162483,40.561329],[-80.162453,40.561337],[-80.162491,40.561317],[-80.16449,40.560501],[-80.164314,40.560959],[-80.162483,40.561329]]]],"created":1292533981,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2491124_20101216_074ec53063.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2398517,
+  "type": "Feature",
+  "properties": {
+    "name":"Elkland, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2398517,
+    "woe:name":"Elkland, Missouri, United States",
+    "woe:place_id":"iCTbv7qbApVHhQoK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.044479,37.425354,-93.028366,37.445423],
+  "geometry": {"alpha":0.00015,"bbox":[-93.044479370117,37.425354003906,-93.028366088867,37.445423126221],"coordinates":[[[[-93.039604,37.445423],[-93.039604,37.443584],[-93.028366,37.425354],[-93.044029,37.442123],[-93.044479,37.442612],[-93.039604,37.445423]]]],"created":1292477344,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2398517_20101216_133bdfcda0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

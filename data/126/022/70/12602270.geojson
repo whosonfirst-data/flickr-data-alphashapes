@@ -1,0 +1,15 @@
+{
+  "id": 12602270,
+  "type": "Feature",
+  "properties": {
+    "name":"Gavere, Belgium",
+    "placetype":"locality",
+    "woe:id":12602270,
+    "woe:name":"Gavere, Belgium",
+    "woe:place_id":"EPvOdPWYA5rcEYwT4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.68521,50.935268,3.691068,50.936924],
+  "geometry": {"alpha":1e-05,"bbox":[3.6852099895477,50.9352684021,3.6910679340363,50.936923980713],"coordinates":[[[[3.685575,50.935268],[3.68521,50.935356],[3.685575,50.935513],[3.691068,50.936924],[3.685575,50.935268]]]],"created":1248207982,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2527/shapefiles/12602270_20090721_311be489e5.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

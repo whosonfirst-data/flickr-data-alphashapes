@@ -1,0 +1,15 @@
+{
+  "id": 277,
+  "type": "Feature",
+  "properties": {
+    "name":"Chelmsford, Capreol, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":277,
+    "woe:name":"Chelmsford, Capreol, ON, CA, Canada",
+    "woe:place_id":"aHVw30SbBps",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.197716,46.582844,-81.194115,46.585617],
+  "geometry": {"alpha":1e-05,"bbox":[-81.197715759277,46.582843780518,-81.194114685059,46.58561706543],"coordinates":[[[[-81.194115,46.583172],[-81.197632,46.582844],[-81.197632,46.583939],[-81.197716,46.585175],[-81.197548,46.585617],[-81.194115,46.583172]]]],"created":1292530564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/277_20101216_c998a7d44a.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

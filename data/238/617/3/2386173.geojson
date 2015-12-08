@@ -1,0 +1,15 @@
+{
+  "id": 2386173,
+  "type": "Feature",
+  "properties": {
+    "name":"Cove View, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2386173,
+    "woe:name":"Cove View, Maryland, United States",
+    "woe:place_id":"VM.sGv2bApS.uKds",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.214478,38.771526,-76.204453,38.777363],
+  "geometry": {"alpha":0.00015,"bbox":[-76.214477539062,38.77152633667,-76.204452514648,38.777362823486],"coordinates":[[[[-76.208855,38.772053],[-76.209488,38.771526],[-76.211884,38.773491],[-76.214478,38.775047],[-76.204453,38.777363],[-76.208855,38.772053]]]],"created":1292444686,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2386173_20101215_0ecc76b0aa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

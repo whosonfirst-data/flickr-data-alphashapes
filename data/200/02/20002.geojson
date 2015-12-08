@@ -1,0 +1,15 @@
+{
+  "id": 20002,
+  "type": "Feature",
+  "properties": {
+    "name":"Faxton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20002,
+    "woe:name":"Faxton, England, United Kingdom",
+    "woe:place_id":"Llohc8KbAZx3MQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.819339,52.369347,-0.803477,52.379524],
+  "geometry": {"alpha":0.00015,"bbox":[-0.81933897733688,52.369346618652,-0.80347698926926,52.379524230957],"coordinates":[[[[-0.809985,52.379524],[-0.809963,52.379509],[-0.803477,52.369347],[-0.81597,52.370239],[-0.819339,52.371616],[-0.813213,52.375809],[-0.811761,52.377205],[-0.810263,52.379314],[-0.809985,52.379524]]]],"created":1292527925,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20002_20101216_7768590958.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

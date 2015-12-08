@@ -1,0 +1,15 @@
+{
+  "id": 28645582,
+  "type": "Feature",
+  "properties": {
+    "name":"South Beach, West Coast, New Zealand",
+    "placetype":"locality",
+    "woe:id":28645582,
+    "woe:name":"South Beach, West Coast, New Zealand",
+    "woe:place_id":"RG0z6rSbCZosOdnf9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [171.162872,-42.498173,171.176376,-42.491341],
+  "geometry": {"alpha":0.00015,"bbox":[171.16287231445,-42.49817276001,171.17637634277,-42.491340637207],"coordinates":[[[[171.174545,-42.491528],[171.176376,-42.491844],[171.173508,-42.498173],[171.168365,-42.494377],[171.162872,-42.491341],[171.174545,-42.491528]]]],"created":1292550434,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/28645582_20101217_9072142a0b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

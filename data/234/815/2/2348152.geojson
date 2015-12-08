@@ -1,0 +1,15 @@
+{
+  "id": 2348152,
+  "type": "Feature",
+  "properties": {
+    "name":"Becks, Otago, New Zealand",
+    "placetype":"locality",
+    "woe:id":2348152,
+    "woe:name":"Becks, Otago, New Zealand",
+    "woe:place_id":"6TWh4V.bApjlnJv.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [169.727829,-45.06041,169.740646,-45.048664],
+  "geometry": {"alpha":0.00015,"bbox":[169.72782897949,-45.060409545898,169.7406463623,-45.048664093018],"coordinates":[[[[169.727829,-45.04977],[169.729248,-45.048664],[169.739883,-45.053757],[169.740646,-45.06041],[169.727844,-45.04977],[169.727829,-45.04977]]]],"created":1292459164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2348152_20101216_06dfe2f2d4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

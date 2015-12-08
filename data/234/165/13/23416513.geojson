@@ -1,0 +1,15 @@
+{
+  "id": 23416513,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":23416513,
+    "woe:name":"San Antonio, Canary Islands, Spain",
+    "woe:place_id":"C34kxwGbApjH3ZIt.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-15.409389,27.998159,-15.402166,28.010921],
+  "geometry": {"alpha":0.00015,"bbox":[-15.409388542175,27.998159408569,-15.402166366577,28.010921478271],"coordinates":[[[[-15.404376,28.010921],[-15.402166,28.009085],[-15.402317,28.008497],[-15.409389,27.998159],[-15.408217,28.010164],[-15.404376,28.010921]]]],"created":1292540465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/23416513_20101216_7e8cc8c811.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

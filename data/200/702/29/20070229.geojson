@@ -1,0 +1,15 @@
+{
+  "id": 20070229,
+  "type": "Feature",
+  "properties": {
+    "name":"Qax, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070229,
+    "woe:name":"Qax, AZ, Azerbaijan",
+    "woe:place_id":"4anTCg6bAZyeuouudw",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [46.899261,41.244774,47.120361,41.523872],
+  "geometry": {"alpha":0.03,"bbox":[46.899261474609,41.244773864746,47.120361328125,41.523872375488],"coordinates":[[[[46.922951,41.376358],[46.899261,41.43346],[46.994705,41.459904],[47.095985,41.523872],[47.120361,41.244774],[46.922951,41.376358]]]],"created":1292534824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20070229_20101216_6445ce62ae.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

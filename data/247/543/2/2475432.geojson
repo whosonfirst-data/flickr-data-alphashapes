@@ -1,0 +1,15 @@
+{
+  "id": 2475432,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Mayaca, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2475432,
+    "woe:name":"Port Mayaca, Florida, United States",
+    "woe:place_id":"uNQ0NhKbBZtyRrZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.621452,26.981913,-80.604401,26.996124],
+  "geometry": {"alpha":0.00015,"bbox":[-80.621452331543,26.981912612915,-80.604400634766,26.996124267578],"coordinates":[[[[-80.621452,26.985495],[-80.6213,26.987492],[-80.616302,26.996124],[-80.604401,26.987806],[-80.617546,26.981913],[-80.621452,26.985495]]]],"created":1292542632,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2475432_20101216_8fc0dd1dae.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

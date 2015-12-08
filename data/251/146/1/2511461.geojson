@@ -1,0 +1,15 @@
+{
+  "id": 2511461,
+  "type": "Feature",
+  "properties": {
+    "name":"Vaughan Court, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2511461,
+    "woe:name":"Vaughan Court, Ohio, United States",
+    "woe:place_id":"hQPXPuObBJ2XxuOY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.474731,40.371784,-82.466835,40.381271],
+  "geometry": {"alpha":0.00015,"bbox":[-82.474731445312,40.371784210205,-82.466835021973,40.381271362305],"coordinates":[[[[-82.467545,40.381271],[-82.466835,40.379929],[-82.471939,40.371784],[-82.474731,40.373882],[-82.467613,40.381081],[-82.467545,40.381271]]]],"created":1248162487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2555/shapefiles/2511461_20090721_a3ecc0c7bf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

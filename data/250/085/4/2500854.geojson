@@ -1,0 +1,15 @@
+{
+  "id": 2500854,
+  "type": "Feature",
+  "properties": {
+    "name":"Strayhorse, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2500854,
+    "woe:name":"Strayhorse, Arizona, United States",
+    "woe:place_id":"H5a9V3KbBJxL6NJ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.365204,33.565159,-109.35186,33.580982],
+  "geometry": {"alpha":0.00015,"bbox":[-109.36520385742,33.565158843994,-109.35186004639,33.580982208252],"coordinates":[[[[-109.353607,33.565163],[-109.353783,33.565159],[-109.356148,33.567825],[-109.365204,33.580982],[-109.35186,33.578156],[-109.353607,33.565163]]]],"created":1292531159,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2500854_20101216_121179866a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

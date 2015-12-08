@@ -1,0 +1,15 @@
+{
+  "id": 29338002,
+  "type": "Feature",
+  "properties": {
+    "name":"Lucignano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":29338002,
+    "woe:name":"Lucignano, Tuscany, Italy",
+    "woe:place_id":"lm.L2LibCJ_8MsJFIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.423292,43.377666,11.442604,43.388706],
+  "geometry": {"alpha":0.00015,"bbox":[11.423292160034,43.377666473389,11.442604064941,43.388706207275],"coordinates":[[[[11.43548,43.377666],[11.423292,43.381035],[11.437625,43.388706],[11.439205,43.387463],[11.442604,43.384838],[11.43548,43.377666]]]],"created":1292529356,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/29338002_20101216_91c2c07a3e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

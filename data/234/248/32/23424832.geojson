@@ -1,0 +1,15 @@
+{
+  "id": 23424832,
+  "type": "Feature",
+  "properties": {
+    "name":"Guam",
+    "placetype":"country",
+    "woe:id":23424832,
+    "woe:name":"Guam",
+    "woe:place_id":"HxUewXebApi7ODh1jg",
+    "woe:placetype":"country",
+    "woe:placetype_id":12
+},
+  "bbox": [144.414597,13.115592,145.163727,13.923403],
+  "geometry": {"alpha":0.175,"bbox":[144.41459655762,13.115592002869,145.16372680664,13.923402786255],"coordinates":[[[[144.714661,13.167748],[144.450989,13.143677],[144.414597,13.437041],[144.42627,13.5392],[144.420837,13.731334],[144.624023,13.923403],[144.887695,13.795406],[145.163727,13.555889],[144.906921,13.115592],[144.714661,13.167748]]]],"created":1292365269,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23424832_20101214_f56677c2c0.tar.gz"},"points":4097,"type":"MultiPolygon"}
+}

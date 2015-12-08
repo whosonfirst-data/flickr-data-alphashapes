@@ -1,0 +1,15 @@
+{
+  "id": 819624,
+  "type": "Feature",
+  "properties": {
+    "name":"Hodkovce, Kosicky, Slovakia",
+    "placetype":"locality",
+    "woe:id":819624,
+    "woe:name":"Hodkovce, Kosicky, Slovakia",
+    "woe:place_id":"ZU147JKRAJVYgcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.769009,48.991032,20.779091,49.00021],
+  "geometry": {"alpha":0.00015,"bbox":[20.769008636475,48.991031646729,20.779090881348,49.00020980835],"coordinates":[[[[20.779091,48.998837],[20.778408,48.991032],[20.769009,48.994072],[20.769823,48.997002],[20.775188,48.998493],[20.777935,49.00021],[20.779091,48.998837]]]],"created":1292527557,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/819624_20101216_7c5d26422f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

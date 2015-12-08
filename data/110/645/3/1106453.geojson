@@ -1,0 +1,15 @@
+{
+  "id": 1106453,
+  "type": "Feature",
+  "properties": {
+    "name":"Waroona, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1106453,
+    "woe:name":"Waroona, Western Australia, Australia",
+    "woe:place_id":"WXStI_eYAJyVPNrb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.910225,-32.843613,115.922066,-32.826805],
+  "geometry": {"alpha":0.00015,"bbox":[115.91022491455,-32.843612670898,115.92206573486,-32.826805114746],"coordinates":[[[[115.920609,-32.837624],[115.922066,-32.843613],[115.921494,-32.842953],[115.918037,-32.835964],[115.910225,-32.826805],[115.918549,-32.82753],[115.920609,-32.837624]]]],"created":1292543691,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/1106453_20101216_1131eb644e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

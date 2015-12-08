@@ -1,0 +1,15 @@
+{
+  "id": 642527,
+  "type": "Feature",
+  "properties": {
+    "name":"Burgebrach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":642527,
+    "woe:name":"Burgebrach, Bavaria, Germany",
+    "woe:place_id":"aFrR5QSfBZ7Xqjo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.7385,49.821835,10.749435,49.830563],
+  "geometry": {"alpha":0.00015,"bbox":[10.738499641418,49.821834564209,10.749435424805,49.830562591553],"coordinates":[[[[10.741333,49.828499],[10.7415,49.828499],[10.749435,49.830563],[10.746333,49.826332],[10.7385,49.821835],[10.740251,49.825855],[10.741333,49.828499]]]],"created":1292541541,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/642527_20101216_44c1baedbf.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

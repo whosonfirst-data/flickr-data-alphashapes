@@ -1,0 +1,15 @@
+{
+  "id": 703440,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldershof, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":703440,
+    "woe:name":"Waldershof, Bavaria, Germany",
+    "woe:place_id":"8VkBKuSeAZ_CVZ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.058353,49.971375,12.072601,49.983021],
+  "geometry": {"alpha":0.00015,"bbox":[12.058353424072,49.971374511719,12.072601318359,49.983020782471],"coordinates":[[[[12.062988,49.983021],[12.072601,49.981693],[12.072257,49.975624],[12.058353,49.971375],[12.062988,49.983021]]]],"created":1292528089,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/703440_20101216_09d906ebe3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 759341,
+  "type": "Feature",
+  "properties": {
+    "name":"El Guix, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":759341,
+    "woe:name":"El Guix, Catalonia, Spain",
+    "woe:place_id":"Ord.vPSeBJWmb_U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.831573,41.731979,1.835392,41.73336],
+  "geometry": {"alpha":0.00015,"bbox":[1.831573009491,41.731979370117,1.835391998291,41.733360290527],"coordinates":[[[[1.833665,41.73222],[1.833279,41.731979],[1.832152,41.73209],[1.831573,41.732628],[1.832828,41.733276],[1.835392,41.73336],[1.833665,41.73222]]]],"created":1292526284,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/759341_20101216_5fb2317928.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

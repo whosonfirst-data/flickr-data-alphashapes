@@ -1,0 +1,15 @@
+{
+  "id": 8607,
+  "type": "Feature",
+  "properties": {
+    "name":"Patricia, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8607,
+    "woe:name":"Patricia, Alberta, Canada",
+    "woe:place_id":"QpSEyrqRB5yW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.682892,50.699718,-111.665382,50.708172],
+  "geometry": {"alpha":0.00015,"bbox":[-111.6828918457,50.699718475342,-111.66538238525,50.708171844482],"coordinates":[[[[-111.669159,50.699718],[-111.676979,50.701111],[-111.682892,50.707329],[-111.677528,50.708172],[-111.665382,50.706024],[-111.669159,50.699718]]]],"created":1292545455,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/8607_20101217_d70a856825.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

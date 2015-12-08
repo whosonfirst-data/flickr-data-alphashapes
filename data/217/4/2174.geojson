@@ -1,0 +1,15 @@
+{
+  "id": 2174,
+  "type": "Feature",
+  "properties": {
+    "name":"Bruno, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2174,
+    "woe:name":"Bruno, Saskatchewan, Canada",
+    "woe:place_id":"mScY6T6bAJv7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.527122,52.261047,-105.514839,52.268314],
+  "geometry": {"alpha":0.00015,"bbox":[-105.52712249756,52.261047363281,-105.51483917236,52.268314361572],"coordinates":[[[[-105.523499,52.261047],[-105.527122,52.265362],[-105.522629,52.265701],[-105.514839,52.268314],[-105.519012,52.262276],[-105.523499,52.261047]]]],"created":1292542584,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2174_20101216_c50992c878.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

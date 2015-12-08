@@ -1,0 +1,15 @@
+{
+  "id": 2511313,
+  "type": "Feature",
+  "properties": {
+    "name":"Vandiver Heights, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2511313,
+    "woe:name":"Vandiver Heights, Georgia, United States",
+    "woe:place_id":"KQMXycSbBJ0CWj4J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.494156,34.022999,-84.485336,34.037441],
+  "geometry": {"alpha":0.00015,"bbox":[-84.494155883789,34.022998809814,-84.485336303711,34.037441253662],"coordinates":[[[[-84.491341,34.024635],[-84.494156,34.03537],[-84.493034,34.037441],[-84.485336,34.023998],[-84.485832,34.022999],[-84.491341,34.024635]]]],"created":1292534738,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2511313_20101216_e5e7ccd976.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

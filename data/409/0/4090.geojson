@@ -1,0 +1,15 @@
+{
+  "id": 4090,
+  "type": "Feature",
+  "properties": {
+    "name":"Kaladar, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4090,
+    "woe:name":"Kaladar, Ontario, Canada",
+    "woe:place_id":"5rTr25mdAZUm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.132774,44.640324,-77.104279,44.65461],
+  "geometry": {"alpha":0.00015,"bbox":[-77.132774353027,44.640323638916,-77.104278564453,44.654609680176],"coordinates":[[[[-77.120827,44.648094],[-77.122261,44.647228],[-77.124626,44.646187],[-77.132774,44.640324],[-77.125908,44.647652],[-77.125053,44.651558],[-77.120163,44.650398],[-77.104279,44.65461],[-77.119568,44.64941],[-77.120827,44.648094]]]],"created":1292538917,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/4090_20101216_d1b6639f60.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

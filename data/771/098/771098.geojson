@@ -1,0 +1,15 @@
+{
+  "id": 771098,
+  "type": "Feature",
+  "properties": {
+    "name":"Quejo, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":771098,
+    "woe:name":"Quejo, Cantabria, Spain",
+    "woe:place_id":"wPTiSaueBp2mkyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.550643,43.494003,-3.548059,43.49826],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5506429672241,43.494003295898,-3.5480589866638,43.498260498047],"coordinates":[[[[-3.549485,43.495041],[-3.550643,43.49826],[-3.548059,43.49667],[-3.54839,43.494003],[-3.54904,43.494492],[-3.549485,43.495041]]]],"created":1292447608,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/771098_20101215_2b39eb5ff3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1927,
+  "type": "Feature",
+  "properties": {
+    "name":"West Lorne, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1927,
+    "woe:name":"West Lorne, Ontario, Canada",
+    "woe:place_id":"rTeR.Y6YCJ6T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.600876,42.534107,-81.57074,42.541447],
+  "geometry": {"alpha":0.00015,"bbox":[-81.600875854492,42.534107208252,-81.570739746094,42.541446685791],"coordinates":[[[[-81.57074,42.541447],[-81.583786,42.534107],[-81.600876,42.541176],[-81.583954,42.536324],[-81.57074,42.541447]]]],"created":1248016210,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2487/shapefiles/1927_20090719_16e54073a4.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

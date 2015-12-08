@@ -1,0 +1,15 @@
+{
+  "id": 20161318,
+  "type": "Feature",
+  "properties": {
+    "name":"Finkenstein, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":20161318,
+    "woe:name":"Finkenstein, Brandenburg, Germany",
+    "woe:place_id":"S3NpCCWbAZ2bj4NCdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.836238,52.428123,13.840209,52.434486],
+  "geometry": {"alpha":0.00015,"bbox":[13.83623790741,52.428123474121,13.840209007263,52.43448638916],"coordinates":[[[[13.836894,52.428181],[13.836852,52.428123],[13.836572,52.428219],[13.836344,52.428337],[13.836261,52.428387],[13.836238,52.428402],[13.839275,52.432335],[13.840209,52.434486],[13.839704,52.432041],[13.836894,52.428181]]]],"created":1292539310,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/20161318_20101216_fef4f72293.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

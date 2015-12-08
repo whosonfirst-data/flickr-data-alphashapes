@@ -1,0 +1,15 @@
+{
+  "id": 12638964,
+  "type": "Feature",
+  "properties": {
+    "name":"Biltzheim, France",
+    "placetype":"locality",
+    "woe:id":12638964,
+    "woe:name":"Biltzheim, France",
+    "woe:place_id":"6W7uFx2YA5pQZFQAnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.387855,47.956135,7.389727,47.957954],
+  "geometry": {"alpha":1e-05,"bbox":[7.387855052948,47.956134796143,7.3897271156311,47.957954406738],"coordinates":[[[[7.389539,47.95647],[7.387855,47.957829],[7.388756,47.957954],[7.3897,47.957661],[7.3897,47.956806],[7.389727,47.956135],[7.389539,47.95647]]]],"created":1292524310,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12638964_20101216_a79291d151.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

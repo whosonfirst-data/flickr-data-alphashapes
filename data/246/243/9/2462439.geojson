@@ -1,0 +1,15 @@
+{
+  "id": 2462439,
+  "type": "Feature",
+  "properties": {
+    "name":"Novice, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2462439,
+    "woe:name":"Novice, Texas, United States",
+    "woe:place_id":"5odCYS2bBZpkgQ.5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.386993,33.786388,-95.379654,33.787956],
+  "geometry": {"alpha":0.00015,"bbox":[-95.386993408203,33.786388397217,-95.379653930664,33.787956237793],"coordinates":[[[[-95.385445,33.787956],[-95.383469,33.78783],[-95.379654,33.78791],[-95.386993,33.786388],[-95.385788,33.787582],[-95.385445,33.787956]]]],"created":1292421604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2462439_20101215_f18b88d031.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

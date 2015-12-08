@@ -1,0 +1,15 @@
+{
+  "id": 2392593,
+  "type": "Feature",
+  "properties": {
+    "name":"Dogcreek, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2392593,
+    "woe:name":"Dogcreek, Kentucky, United States",
+    "woe:place_id":"U5JvxgWbApXX0rbN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.13633,37.324127,-86.123009,37.338432],
+  "geometry": {"alpha":0.00015,"bbox":[-86.136329650879,37.324127197266,-86.123008728027,37.338432312012],"coordinates":[[[[-86.124146,37.333416],[-86.123009,37.327572],[-86.127853,37.324127],[-86.13633,37.336109],[-86.134186,37.338432],[-86.124146,37.333416]]]],"created":1292523294,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2392593_20101216_d4e1207a2e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

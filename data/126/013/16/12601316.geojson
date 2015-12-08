@@ -1,0 +1,15 @@
+{
+  "id": 12601316,
+  "type": "Feature",
+  "properties": {
+    "name":"Jonotla, Puebla, Mexico",
+    "placetype":"county",
+    "woe:id":12601316,
+    "woe:name":"Jonotla, Puebla, Mexico",
+    "woe:place_id":"VMDRiqGYA5rn32cIEA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-97.575241,20.029079,-97.547264,20.062702],
+  "geometry": {"alpha":0.0015,"bbox":[-97.575241088867,20.029079437256,-97.547264099121,20.062702178955],"coordinates":[[[[-97.575073,20.029079],[-97.575241,20.031096],[-97.575104,20.032164],[-97.55928,20.062702],[-97.547264,20.032387],[-97.575073,20.029079]]]],"created":1292453524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12601316_20101215_3138cf337d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

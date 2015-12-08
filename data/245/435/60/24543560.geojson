@@ -1,0 +1,15 @@
+{
+  "id": 24543560,
+  "type": "Feature",
+  "properties": {
+    "name":"Alexandroupoli, Greece",
+    "placetype":"locality",
+    "woe:id":24543560,
+    "woe:name":"Alexandroupoli, Greece",
+    "woe:place_id":"07J_5v.bBZm.9YYqXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.872288,40.843685,25.885334,40.848099],
+  "geometry": {"alpha":1e-05,"bbox":[25.872287750244,40.843685150146,25.885334014893,40.848098754883],"coordinates":[[[[25.876064,40.843945],[25.872288,40.843685],[25.876579,40.846279],[25.877266,40.848099],[25.880013,40.84602],[25.885334,40.84758],[25.881729,40.844593],[25.877266,40.84388],[25.876064,40.843945]]]],"created":1292455514,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/24543560_20101215_ea1577be92.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

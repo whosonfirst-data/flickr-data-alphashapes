@@ -1,0 +1,15 @@
+{
+  "id": 12690044,
+  "type": "Feature",
+  "properties": {
+    "name":"Pradilla de Ebro, Spain",
+    "placetype":"locality",
+    "woe:id":12690044,
+    "woe:name":"Pradilla de Ebro, Spain",
+    "woe:place_id":"OWi.OTOYA5rf.0FNZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.139834,41.863834,-1.133667,41.865665],
+  "geometry": {"alpha":1e-05,"bbox":[-1.1398340463638,41.863834381104,-1.1336669921875,41.865665435791],"coordinates":[[[[-1.139667,41.863998],[-1.134167,41.865665],[-1.133667,41.864498],[-1.139667,41.863834],[-1.139834,41.863998],[-1.139667,41.863998]]]],"created":1292461684,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12690044_20101216_dcc56ecf5e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

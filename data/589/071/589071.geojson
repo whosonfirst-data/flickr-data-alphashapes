@@ -1,0 +1,15 @@
+{
+  "id": 589071,
+  "type": "Feature",
+  "properties": {
+    "name":"Doucy, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":589071,
+    "woe:name":"Doucy, Rhone-Alpes, France",
+    "woe:place_id":"5nhZOkicCZUr1GA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.467862,45.501293,6.474466,45.523174],
+  "geometry": {"alpha":0.00015,"bbox":[6.4678621292114,45.501293182373,6.4744658470154,45.523174285889],"coordinates":[[[[6.469402,45.502014],[6.469573,45.502979],[6.467862,45.523174],[6.474466,45.503639],[6.47026,45.501293],[6.469402,45.502014]]]],"created":1292438762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/589071_20101215_1d78116d8a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

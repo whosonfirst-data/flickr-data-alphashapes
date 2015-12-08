@@ -1,0 +1,15 @@
+{
+  "id": 20091401,
+  "type": "Feature",
+  "properties": {
+    "name":"Bogend, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091401,
+    "woe:name":"Bogend, Scotland, United Kingdom",
+    "woe:place_id":"d64.PBGbAZyBX_O.cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.5485,55.537407,-4.530315,55.554417],
+  "geometry": {"alpha":0.00015,"bbox":[-4.5485000610352,55.537406921387,-4.5303149223328,55.554416656494],"coordinates":[[[[-4.537439,55.554417],[-4.530315,55.541016],[-4.537007,55.537407],[-4.5485,55.553501],[-4.537439,55.554417]]]],"created":1292385123,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20091401_20101215_70c1e8e52f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2343851,
+  "type": "Feature",
+  "properties": {
+    "name":"Cali, Bursa, Turkey",
+    "placetype":"locality",
+    "woe:id":2343851,
+    "woe:name":"Cali, Bursa, Turkey",
+    "woe:place_id":"aVs3.gubApjhBR.7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.958469,40.215607,28.977438,40.239101],
+  "geometry": {"alpha":0.00015,"bbox":[28.958469390869,40.215606689453,28.977437973022,40.239101409912],"coordinates":[[[[28.960615,40.221004],[28.958469,40.221073],[28.966236,40.239101],[28.967524,40.238342],[28.977438,40.229698],[28.977438,40.215607],[28.960615,40.221004]]]],"created":1292468466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2343851_20101216_4f88b1232f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

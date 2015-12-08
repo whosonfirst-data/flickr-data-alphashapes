@@ -1,0 +1,15 @@
+{
+  "id": 2439981,
+  "type": "Feature",
+  "properties": {
+    "name":"Lisbon, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2439981,
+    "woe:name":"Lisbon, Missouri, United States",
+    "woe:place_id":"7DTP1sCbBZ.diNDC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.905365,39.086136,-92.904846,39.092598],
+  "geometry": {"alpha":0.00015,"bbox":[-92.905364990234,39.086135864258,-92.904846191406,39.092597961426],"coordinates":[[[[-92.904854,39.088634],[-92.904846,39.086136],[-92.905106,39.086136],[-92.905197,39.089832],[-92.905365,39.092598],[-92.904854,39.088634]]]],"created":1292493783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2439981_20101216_ccb24671bc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

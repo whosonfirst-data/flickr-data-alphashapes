@@ -1,0 +1,15 @@
+{
+  "id": 12666903,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-Louis, France",
+    "placetype":"locality",
+    "woe:id":12666903,
+    "woe:name":"Mont-Louis, France",
+    "woe:place_id":"SnrjyG2YA5oiTeD38w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.116069,42.502983,2.123107,42.511101],
+  "geometry": {"alpha":1e-05,"bbox":[2.1160690784454,42.502983093262,2.1231069564819,42.511100769043],"coordinates":[[[[2.117271,42.508804],[2.11843,42.510166],[2.11958,42.511101],[2.122035,42.509769],[2.122378,42.509518],[2.123107,42.508915],[2.120389,42.507],[2.116069,42.502983],[2.117271,42.508804]]]],"created":1292530918,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12666903_20101216_65bf25b8cc.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

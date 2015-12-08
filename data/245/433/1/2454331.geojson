@@ -1,0 +1,15 @@
+{
+  "id": 2454331,
+  "type": "Feature",
+  "properties": {
+    "name":"Morristown, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2454331,
+    "woe:name":"Morristown, Vermont, United States",
+    "woe:place_id":"2PYl7SibBZlRRr3X",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.632881,44.55476,-72.613792,44.561188],
+  "geometry": {"alpha":0.00015,"bbox":[-72.632881164551,44.554759979248,-72.613792419434,44.561187744141],"coordinates":[[[[-72.626205,44.560352],[-72.622292,44.558186],[-72.613792,44.55476],[-72.628899,44.555614],[-72.632881,44.561188],[-72.626205,44.560352]]]],"created":1292536105,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2454331_20101216_97a111d71d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

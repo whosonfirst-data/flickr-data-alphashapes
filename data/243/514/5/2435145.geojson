@@ -1,0 +1,15 @@
+{
+  "id": 2435145,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Shore, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2435145,
+    "woe:name":"Lake Shore, Maryland, United States",
+    "woe:place_id":"umDcO5ObBZ8RwF_N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.503853,39.087536,-76.485947,39.112198],
+  "geometry": {"alpha":0.00015,"bbox":[-76.503852844238,39.087535858154,-76.485946655273,39.112197875977],"coordinates":[[[[-76.500977,39.112198],[-76.495163,39.108658],[-76.485947,39.107292],[-76.493469,39.087536],[-76.503853,39.096863],[-76.500977,39.112198]]]],"created":1292550803,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2435145_20101217_9bff864ec5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

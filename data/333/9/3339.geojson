@@ -1,0 +1,15 @@
+{
+  "id": 3339,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-Laurier, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3339,
+    "woe:name":"Mont-Laurier, Quebec, Canada",
+    "woe:place_id":"MyVsVfWaAp8z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.513733,46.541859,-75.468948,46.56311],
+  "geometry": {"alpha":0.00015,"bbox":[-75.513732910156,46.541858673096,-75.468948364258,46.563110351562],"coordinates":[[[[-75.503693,46.556168],[-75.50058,46.559422],[-75.484825,46.56311],[-75.468948,46.552368],[-75.48539,46.554832],[-75.493927,46.541859],[-75.513,46.542877],[-75.513733,46.543175],[-75.503693,46.556168]]]],"created":1292549977,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/3339_20101217_2a581e52fa.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

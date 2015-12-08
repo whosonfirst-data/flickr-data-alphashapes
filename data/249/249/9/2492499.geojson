@@ -1,0 +1,15 @@
+{
+  "id": 2492499,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherrard, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2492499,
+    "woe:name":"Sherrard, Illinois, United States",
+    "woe:place_id":"Zw3UFnGbBZWv60ZT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.513435,41.318817,-90.493057,41.323135],
+  "geometry": {"alpha":0.00015,"bbox":[-90.51343536377,41.318817138672,-90.493057250977,41.323135375977],"coordinates":[[[[-90.506592,41.321079],[-90.506569,41.321079],[-90.493057,41.323135],[-90.504509,41.318817],[-90.513435,41.319527],[-90.506592,41.321079]]]],"created":1292518713,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2492499_20101216_5394d00df9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

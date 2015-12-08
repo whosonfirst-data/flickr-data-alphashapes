@@ -1,0 +1,15 @@
+{
+  "id": 2402507,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmville, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2402507,
+    "woe:name":"Farmville, North Carolina, United States",
+    "woe:place_id":"GI_kauqbBZxkc1eL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.244751,35.570427,-79.229904,35.586575],
+  "geometry": {"alpha":0.00015,"bbox":[-79.244750976562,35.570426940918,-79.229904174805,35.586574554443],"coordinates":[[[[-79.241188,35.570511],[-79.241478,35.571438],[-79.244751,35.586575],[-79.229904,35.572472],[-79.241119,35.570427],[-79.241188,35.570511]]]],"created":1292548669,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2402507_20101217_c686bdc292.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2454832,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Carmel, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2454832,
+    "woe:name":"Mount Carmel, Maryland, United States",
+    "woe:place_id":"2q2Mh_mbBZn1COrN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.0121,38.556286,-77.004143,38.559998],
+  "geometry": {"alpha":0.00015,"bbox":[-77.012100219727,38.556285858154,-77.00414276123,38.559997558594],"coordinates":[[[[-77.007629,38.557877],[-77.008957,38.558369],[-77.0121,38.559509],[-77.009171,38.559998],[-77.004143,38.556286],[-77.007629,38.557877]]]],"created":1292477946,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2454832_20101216_92bafb8941.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

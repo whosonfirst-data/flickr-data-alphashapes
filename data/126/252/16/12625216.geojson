@@ -1,0 +1,15 @@
+{
+  "id": 12625216,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Mellingen, Germany",
+    "placetype":"locality",
+    "woe:id":12625216,
+    "woe:name":"Gemeinde Mellingen, Germany",
+    "woe:place_id":"erYk1SSYA5p7Ujo67A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.388303,50.935253,11.393803,50.941563],
+  "geometry": {"alpha":1e-05,"bbox":[11.38830280304,50.935253143311,11.393802642822,50.941562652588],"coordinates":[[[[11.388303,50.935253],[11.38984,50.937908],[11.393052,50.941563],[11.393803,50.940277],[11.38984,50.937908],[11.389255,50.935478],[11.388303,50.935253]]]],"created":1292545144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12625216_20101217_187aec0e31.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

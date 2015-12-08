@@ -1,0 +1,15 @@
+{
+  "id": 1746,
+  "type": "Feature",
+  "properties": {
+    "name":"Stanstead, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1746,
+    "woe:name":"Stanstead, Quebec, Canada",
+    "woe:place_id":"DKnbz.uYBpjE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.098595,45.00589,-72.087303,45.023293],
+  "geometry": {"alpha":0.00015,"bbox":[-72.098594665527,45.005889892578,-72.087303161621,45.023292541504],"coordinates":[[[[-72.097832,45.00589],[-72.098595,45.007839],[-72.094254,45.016327],[-72.088676,45.023293],[-72.088165,45.022099],[-72.087303,45.013542],[-72.087952,45.006744],[-72.08902,45.005974],[-72.095505,45.005936],[-72.097832,45.00589]]]],"created":1248131047,"edges":10,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2633/shapefiles/1746_20090720_3db048bbbe.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

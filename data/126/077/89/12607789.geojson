@@ -1,0 +1,15 @@
+{
+  "id": 12607789,
+  "type": "Feature",
+  "properties": {
+    "name":"Milovice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12607789,
+    "woe:name":"Milovice, Czech Republic",
+    "woe:place_id":"YS4keW6YA5og.6po6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.885753,50.236858,14.890768,50.244148],
+  "geometry": {"alpha":1e-05,"bbox":[14.885752677917,50.23685836792,14.890768051147,50.244148254395],"coordinates":[[[[14.885753,50.240829],[14.885825,50.241146],[14.888459,50.242928],[14.890768,50.244148],[14.890594,50.237984],[14.886611,50.236858],[14.885753,50.240829]]]],"created":1292547482,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12607789_20101217_e419885d7b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

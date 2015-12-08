@@ -1,0 +1,15 @@
+{
+  "id": 55999241,
+  "type": "Feature",
+  "properties": {
+    "name":"Orchard Beach, Keswick, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999241,
+    "woe:name":"Orchard Beach, Keswick, ON, CA, Canada",
+    "woe:place_id":"t_TfYhKcBJV4.ExyIg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.488129,44.252728,-79.487885,44.252914],
+  "geometry": {"alpha":1e-05,"bbox":[-79.488128662109,44.252727508545,-79.487884521484,44.252914428711],"coordinates":[[[[-79.487976,44.252914],[-79.487885,44.25275],[-79.487984,44.252743],[-79.488129,44.252728],[-79.487976,44.252914]]]],"created":1292446625,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/55999241_20101215_3d001836d1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

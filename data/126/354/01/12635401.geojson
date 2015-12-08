@@ -1,0 +1,15 @@
+{
+  "id": 12635401,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Mespelbrunn, Germany",
+    "placetype":"locality",
+    "woe:id":12635401,
+    "woe:name":"Gemeinde Mespelbrunn, Germany",
+    "woe:place_id":"tU.wVdGYA5p7JnV2MA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.28482,49.917629,9.289798,49.920059],
+  "geometry": {"alpha":1e-05,"bbox":[9.2848196029663,49.917629241943,9.2897977828979,49.920059204102],"coordinates":[[[[9.288597,49.918072],[9.28482,49.920059],[9.289798,49.919067],[9.289798,49.917629],[9.288768,49.91774],[9.288597,49.918072]]]],"created":1292455563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/12635401_20101215_6a231487d3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

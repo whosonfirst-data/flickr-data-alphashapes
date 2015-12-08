@@ -1,0 +1,15 @@
+{
+  "id": 754753,
+  "type": "Feature",
+  "properties": {
+    "name":"Borines, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":754753,
+    "woe:name":"Borines, Asturias, Spain",
+    "woe:place_id":"AnpS2taeBJiCc3E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.324592,43.390514,-5.313752,43.402691],
+  "geometry": {"alpha":0.00015,"bbox":[-5.3245921134949,43.390514373779,-5.3137521743774,43.402690887451],"coordinates":[[[[-5.318389,43.392132],[-5.323562,43.390514],[-5.324592,43.392326],[-5.313752,43.402691],[-5.317897,43.394321],[-5.318389,43.392132]]]],"created":1292535781,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/754753_20101216_ab41b0af3f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

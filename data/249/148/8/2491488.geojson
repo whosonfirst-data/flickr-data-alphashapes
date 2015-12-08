@@ -1,0 +1,15 @@
+{
+  "id": 2491488,
+  "type": "Feature",
+  "properties": {
+    "name":"Shaftsbury Center, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2491488,
+    "woe:name":"Shaftsbury Center, Vermont, United States",
+    "woe:place_id":"2lbt2bCbBZWuc.WB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.21946,42.976521,-73.196777,43.002232],
+  "geometry": {"alpha":0.00015,"bbox":[-73.219459533691,42.97652053833,-73.19677734375,43.0022315979],"coordinates":[[[[-73.206711,42.976521],[-73.21946,42.982407],[-73.206879,42.983868],[-73.196777,43.002232],[-73.205978,42.983795],[-73.206711,42.976521]]]],"created":1292539850,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2491488_20101216_a5222b6824.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

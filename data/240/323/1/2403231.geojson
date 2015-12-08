@@ -1,0 +1,15 @@
+{
+  "id": 2403231,
+  "type": "Feature",
+  "properties": {
+    "name":"Fickle Hill, California, United States",
+    "placetype":"locality",
+    "woe:id":2403231,
+    "woe:name":"Fickle Hill, California, United States",
+    "woe:place_id":"fK2ahv6bBZzJFofJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.054955,40.853878,-124.045815,40.875622],
+  "geometry": {"alpha":0.00015,"bbox":[-124.05495452881,40.85387802124,-124.04581451416,40.875621795654],"coordinates":[[[[-124.045815,40.865822],[-124.050232,40.853878],[-124.047279,40.865986],[-124.054955,40.875622],[-124.045815,40.865822]]]],"created":1234865546,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3434/shapefiles/2403231_20090217_4b7c0f72c7.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

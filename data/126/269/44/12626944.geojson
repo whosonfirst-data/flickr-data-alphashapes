@@ -1,0 +1,15 @@
+{
+  "id": 12626944,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Elend, Germany",
+    "placetype":"locality",
+    "woe:id":12626944,
+    "woe:name":"Gemeinde Elend, Germany",
+    "woe:place_id":"nflxZZ6YA5rOtupTAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.677337,51.764214,10.680234,51.765236],
+  "geometry": {"alpha":1e-05,"bbox":[10.67733669281,51.764213562012,10.680233955383,51.765235900879],"coordinates":[[[[10.67871,51.765236],[10.679655,51.765076],[10.680234,51.764214],[10.677337,51.764229],[10.677423,51.765076],[10.67871,51.765236]]]],"created":1292528411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12626944_20101216_5a208ddbcc.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

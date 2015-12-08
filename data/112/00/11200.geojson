@@ -1,0 +1,15 @@
+{
+  "id": 11200,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashorne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11200,
+    "woe:name":"Ashorne, England, United Kingdom",
+    "woe:place_id":"pVF.6XiYAJ4PnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.556797,52.231056,-1.542892,52.24115],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5567970275879,52.231056213379,-1.5428919792175,52.241149902344],"coordinates":[[[[-1.542892,52.24115],[-1.543192,52.236073],[-1.550445,52.231056],[-1.556797,52.234001],[-1.547613,52.236973],[-1.542892,52.24115]]]],"created":1292527926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/11200_20101216_b0bb50c423.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

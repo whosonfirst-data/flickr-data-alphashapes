@@ -1,0 +1,15 @@
+{
+  "id": 12678212,
+  "type": "Feature",
+  "properties": {
+    "name":"Castellalto, Italy",
+    "placetype":"locality",
+    "woe:id":12678212,
+    "woe:name":"Castellalto, Italy",
+    "woe:place_id":"hCTP9ICYA5rP8crCsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.880453,42.635979,13.886718,42.636959],
+  "geometry": {"alpha":1e-05,"bbox":[13.880453109741,42.63597869873,13.886717796326,42.636959075928],"coordinates":[[[[13.881225,42.636452],[13.880453,42.636444],[13.880882,42.636959],[13.881397,42.636848],[13.886718,42.635979],[13.881225,42.636452]]]],"created":1292517665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12678212_20101216_ab036d51de.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

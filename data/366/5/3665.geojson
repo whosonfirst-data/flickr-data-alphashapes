@@ -1,0 +1,15 @@
+{
+  "id": 3665,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Pascal, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3665,
+    "woe:name":"St.-Pascal, Quebec, Canada",
+    "woe:place_id":"IZCB3YGaB5pE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.827728,47.502129,-69.784981,47.541309],
+  "geometry": {"alpha":0.00015,"bbox":[-69.827728271484,47.502128601074,-69.784980773926,47.541309356689],"coordinates":[[[[-69.815758,47.528996],[-69.816399,47.5294],[-69.827728,47.541309],[-69.813782,47.530472],[-69.805069,47.526443],[-69.784981,47.53812],[-69.793221,47.518593],[-69.801765,47.509663],[-69.803864,47.506126],[-69.809616,47.502129],[-69.80867,47.505375],[-69.804955,47.526321],[-69.815758,47.528996]]]],"created":1292497567,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/3665_20101216_f1a7f659c1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

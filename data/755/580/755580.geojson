@@ -1,0 +1,15 @@
+{
+  "id": 755580,
+  "type": "Feature",
+  "properties": {
+    "name":"Camanzo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":755580,
+    "woe:name":"Camanzo, Galicia, Spain",
+    "woe:place_id":"J9WPT5eeBJnbxX4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.341455,42.774487,-8.321352,42.794586],
+  "geometry": {"alpha":0.00015,"bbox":[-8.3414554595947,42.774486541748,-8.3213520050049,42.794586181641],"coordinates":[[[[-8.32592,42.783684],[-8.321352,42.794586],[-8.323173,42.782928],[-8.337249,42.774487],[-8.341455,42.778393],[-8.32592,42.783684]]]],"created":1292467442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/755580_20101216_0f78af61e5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

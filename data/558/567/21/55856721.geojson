@@ -1,0 +1,15 @@
+{
+  "id": 55856721,
+  "type": "Feature",
+  "properties": {
+    "name":"VLA, Prince George, BC, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55856721,
+    "woe:name":"VLA, Prince George, BC, CA, Canada",
+    "woe:place_id":"9MIf3Z2cBJQY07SbcA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-122.758873,53.897991,-122.753197,53.902946],
+  "geometry": {"alpha":1e-05,"bbox":[-122.75887298584,53.89799118042,-122.75319671631,53.902946472168],"coordinates":[[[[-122.753197,53.902946],[-122.754341,53.897991],[-122.755104,53.901039],[-122.758873,53.902645],[-122.753197,53.902946]]]],"created":1292544164,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/55856721_20101217_c5b23c3656.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

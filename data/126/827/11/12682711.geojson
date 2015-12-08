@@ -1,0 +1,15 @@
+{
+  "id": 12682711,
+  "type": "Feature",
+  "properties": {
+    "name":"Giswil, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682711,
+    "woe:name":"Giswil, Switzerland",
+    "woe:place_id":"sJ3J6xuYA5qQFhduZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.184127,46.826786,8.189792,46.836887],
+  "geometry": {"alpha":1e-05,"bbox":[8.1841268539429,46.82678604126,8.1897916793823,46.836887359619],"coordinates":[[[[8.186891,46.836887],[8.189792,46.834595],[8.187341,46.829884],[8.1849,46.826786],[8.185329,46.831924],[8.184127,46.8353],[8.186891,46.836887]]]],"created":1292542712,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12682711_20101216_8b33ce1b31.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

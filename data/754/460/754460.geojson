@@ -1,0 +1,15 @@
+{
+  "id": 754460,
+  "type": "Feature",
+  "properties": {
+    "name":"Berrueco, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":754460,
+    "woe:name":"Berrueco, Aragon, Spain",
+    "woe:place_id":"MpfOTjWeBJh4qU8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.470794,40.975361,-1.462211,40.994801],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4707939624786,40.975360870361,-1.4622110128403,40.994800567627],"coordinates":[[[[-1.467876,40.990555],[-1.470794,40.992077],[-1.467018,40.994801],[-1.463413,40.988968],[-1.462211,40.975361],[-1.467876,40.990555]]]],"created":1292467685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/754460_20101216_3f6d7a2bdc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

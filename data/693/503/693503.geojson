@@ -1,0 +1,15 @@
+{
+  "id": 693503,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwaig, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":693503,
+    "woe:name":"Schwaig, Bavaria, Germany",
+    "woe:place_id":"I432BSafCJ_QbEs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.793994,48.340382,11.820473,48.35627],
+  "geometry": {"alpha":0.00015,"bbox":[11.79399394989,48.340381622314,11.820472717285,48.356269836426],"coordinates":[[[[11.802533,48.35627],[11.803264,48.352882],[11.820473,48.345867],[11.807041,48.34507],[11.794971,48.340382],[11.793994,48.343929],[11.794509,48.355335],[11.802533,48.35627]]]],"created":1292532606,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/693503_20101216_86e1998595.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

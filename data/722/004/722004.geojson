@@ -1,0 +1,15 @@
+{
+  "id": 722004,
+  "type": "Feature",
+  "properties": {
+    "name":"Rondissone, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":722004,
+    "woe:name":"Rondissone, Piedmont, Italy",
+    "woe:place_id":"xLBvGYyeA54KKgc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.9705,45.226547,7.981224,45.245766],
+  "geometry": {"alpha":0.00015,"bbox":[7.9704999923706,45.226547241211,7.9812240600586,45.245765686035],"coordinates":[[[[7.973097,45.237541],[7.9705,45.238804],[7.97367,45.243408],[7.981224,45.245766],[7.97882,45.226547],[7.973097,45.237541]]]],"created":1292521851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/722004_20101216_325a1c53c5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

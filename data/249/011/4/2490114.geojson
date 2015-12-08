@@ -1,0 +1,15 @@
+{
+  "id": 2490114,
+  "type": "Feature",
+  "properties": {
+    "name":"Scranton, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2490114,
+    "woe:name":"Scranton, South Carolina, United States",
+    "woe:place_id":"yKdFi0KbBZUJ5z_b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.749069,33.912701,-79.737999,33.928726],
+  "geometry": {"alpha":0.00015,"bbox":[-79.749069213867,33.912700653076,-79.737998962402,33.928726196289],"coordinates":[[[[-79.737999,33.928726],[-79.744179,33.912701],[-79.745758,33.917213],[-79.747749,33.920414],[-79.749069,33.922565],[-79.737999,33.928726]]]],"created":1292486462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2490114_20101216_ce4e934e06.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

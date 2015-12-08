@@ -1,0 +1,15 @@
+{
+  "id": 550221,
+  "type": "Feature",
+  "properties": {
+    "name":"Dorf Veitsch, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550221,
+    "woe:name":"Dorf Veitsch, Styria, Austria",
+    "woe:place_id":"8byy_YycBJw.8dw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.483008,47.576103,15.495464,47.58654],
+  "geometry": {"alpha":0.00015,"bbox":[15.483008384705,47.576103210449,15.495464324951,47.586540222168],"coordinates":[[[[15.494563,47.580845],[15.495464,47.580563],[15.494252,47.576103],[15.483008,47.579742],[15.487761,47.58654],[15.494563,47.580845]]]],"created":1292495655,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/550221_20101216_0ef03aa9c4.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

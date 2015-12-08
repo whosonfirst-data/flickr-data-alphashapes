@@ -1,0 +1,15 @@
+{
+  "id": 2499202,
+  "type": "Feature",
+  "properties": {
+    "name":"Starlite, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2499202,
+    "woe:name":"Starlite, South Carolina, United States",
+    "woe:place_id":"zgyfB8WbBZXUdlMd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.961685,33.920395,-80.951515,33.928371],
+  "geometry": {"alpha":0.00015,"bbox":[-80.961685180664,33.920394897461,-80.951515197754,33.928371429443],"coordinates":[[[[-80.961426,33.926376],[-80.961685,33.926624],[-80.959625,33.928371],[-80.959381,33.928173],[-80.951515,33.920395],[-80.961426,33.926376]]]],"created":1248170780,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2432/shapefiles/2499202_20090721_85e1bbcc6c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

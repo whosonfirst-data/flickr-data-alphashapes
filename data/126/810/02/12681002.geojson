@@ -1,0 +1,15 @@
+{
+  "id": 12681002,
+  "type": "Feature",
+  "properties": {
+    "name":"Pescina, Italy",
+    "placetype":"locality",
+    "woe:id":12681002,
+    "woe:name":"Pescina, Italy",
+    "woe:place_id":"AUzIWi.YA5oMK0O8ZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.667507,42.027493,13.673429,42.034504],
+  "geometry": {"alpha":1e-05,"bbox":[13.667507171631,42.027492523193,13.673428535461,42.034503936768],"coordinates":[[[[13.667507,42.027493],[13.669372,42.031666],[13.673429,42.034504],[13.671798,42.029278],[13.667507,42.027493]]]],"created":1292517816,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12681002_20101216_40c8ba2dcf.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

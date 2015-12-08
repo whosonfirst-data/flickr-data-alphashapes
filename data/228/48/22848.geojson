@@ -1,0 +1,15 @@
+{
+  "id": 22848,
+  "type": "Feature",
+  "properties": {
+    "name":"Heath, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22848,
+    "woe:name":"Heath, England, United Kingdom",
+    "woe:place_id":"bnL7MAubA5QlGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.332864,53.183662,-1.320054,53.199234],
+  "geometry": {"alpha":0.00015,"bbox":[-1.3328640460968,53.183662414551,-1.3200540542603,53.199234008789],"coordinates":[[[[-1.332843,53.199234],[-1.330697,53.199066],[-1.320054,53.199196],[-1.322135,53.183662],[-1.330289,53.191662],[-1.332864,53.194412],[-1.332843,53.199234]]]],"created":1292504349,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/22848_20101216_cbe6db8ee2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

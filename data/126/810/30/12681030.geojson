@@ -1,0 +1,15 @@
+{
+  "id": 12681030,
+  "type": "Feature",
+  "properties": {
+    "name":"Vadena, Italy",
+    "placetype":"locality",
+    "woe:id":12681030,
+    "woe:name":"Vadena, Italy",
+    "woe:place_id":"JpzWTfuYA5qeRTYJWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.287164,46.420849,11.290125,46.425522],
+  "geometry": {"alpha":1e-05,"bbox":[11.287163734436,46.420848846436,11.290124893188,46.425521850586],"coordinates":[[[[11.289782,46.424915],[11.290125,46.420849],[11.287368,46.422569],[11.287164,46.422653],[11.288727,46.425495],[11.290093,46.425522],[11.289782,46.424915]]]],"created":1292540943,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/12681030_20101216_1b156a4f05.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

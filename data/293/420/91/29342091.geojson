@@ -1,0 +1,15 @@
+{
+  "id": 29342091,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant'artemio, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":29342091,
+    "woe:name":"Sant'artemio, Veneto, Italy",
+    "woe:place_id":"idqfLKSbCJ_m7NFv9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.255721,45.68644,12.261246,45.696095],
+  "geometry": {"alpha":0.00015,"bbox":[12.255721092224,45.68643951416,12.261245727539,45.696094512939],"coordinates":[[[[12.255721,45.692513],[12.260441,45.695511],[12.261246,45.696095],[12.258231,45.691086],[12.25733,45.68644],[12.255721,45.692513]]]],"created":1248022453,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2603/shapefiles/29342091_20090719_5961f6e1e9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

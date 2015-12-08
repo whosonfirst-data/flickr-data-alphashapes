@@ -1,0 +1,15 @@
+{
+  "id": 12632810,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gilserberg, Germany",
+    "placetype":"locality",
+    "woe:id":12632810,
+    "woe:name":"Gemeinde Gilserberg, Germany",
+    "woe:place_id":"3cHCj7CYA5qX_W_2gg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.070468,50.950459,9.070602,50.950523],
+  "geometry": {"alpha":1e-05,"bbox":[9.0704679489136,50.950458526611,9.0706024169922,50.950523376465],"coordinates":[[[[9.070599,50.950523],[9.070602,50.950504],[9.070583,50.950481],[9.070542,50.950466],[9.070468,50.950459],[9.070599,50.950523]]]],"created":1292457124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12632810_20101215_a468c4d21e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

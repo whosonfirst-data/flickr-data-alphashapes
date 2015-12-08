@@ -1,0 +1,15 @@
+{
+  "id": 12590774,
+  "type": "Feature",
+  "properties": {
+    "name":"Taipalsaari, Finland",
+    "placetype":"locality",
+    "woe:id":12590774,
+    "woe:name":"Taipalsaari, Finland",
+    "woe:place_id":"f9EBR7KYA5nfMk651Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.057322,61.15892,28.062086,61.16066],
+  "geometry": {"alpha":1e-05,"bbox":[28.057321548462,61.158920288086,28.062086105347,61.160659790039],"coordinates":[[[[28.060089,61.158939],[28.057322,61.15892],[28.059553,61.16066],[28.062086,61.160435],[28.061592,61.159878],[28.060089,61.158939]]]],"created":1292467995,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12590774_20101216_9ee41b7273.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

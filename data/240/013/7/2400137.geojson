@@ -1,0 +1,15 @@
+{
+  "id": 2400137,
+  "type": "Feature",
+  "properties": {
+    "name":"Erskine Lakes, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2400137,
+    "woe:name":"Erskine Lakes, New Jersey, United States",
+    "woe:place_id":"ShbgGZWbBZzTANf8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.252792,41.097855,-74.228783,41.108654],
+  "geometry": {"alpha":0.00015,"bbox":[-74.252792358398,41.097854614258,-74.228782653809,41.108654022217],"coordinates":[[[[-74.249336,41.097855],[-74.252792,41.102062],[-74.243973,41.108654],[-74.228783,41.09824],[-74.24913,41.097893],[-74.249336,41.097855]]]],"created":1292540824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2400137_20101216_0138689c29.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12520571,
+  "type": "Feature",
+  "properties": {
+    "name":"Laredo International Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520571,
+    "woe:name":"Laredo International Airport, United States",
+    "woe:place_id":"pi6cFFWYA5lrWSxHPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.452316,27.555117,-99.450165,27.560101],
+  "geometry": {"alpha":1e-05,"bbox":[-99.45231628418,27.555116653442,-99.450164794922,27.56010055542],"coordinates":[[[[-99.452316,27.558636],[-99.451477,27.560101],[-99.450165,27.557409],[-99.451157,27.555117],[-99.451462,27.555574],[-99.452316,27.558636]]]],"created":1292453364,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12520571_20101215_f76fcdd589.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

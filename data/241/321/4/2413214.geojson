@@ -1,0 +1,15 @@
+{
+  "id": 2413214,
+  "type": "Feature",
+  "properties": {
+    "name":"Grape, California, United States",
+    "placetype":"locality",
+    "woe:id":2413214,
+    "woe:name":"Grape, California, United States",
+    "woe:place_id":"na13KSObBZ2qr3wG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.476669,34.101643,-117.46891,34.129288],
+  "geometry": {"alpha":0.00015,"bbox":[-117.47666931152,34.101642608643,-117.46891021729,34.129287719727],"coordinates":[[[[-117.469467,34.106377],[-117.476669,34.101643],[-117.473991,34.116245],[-117.47245,34.129288],[-117.46891,34.112587],[-117.469093,34.106514],[-117.469467,34.106377]]]],"created":1292528814,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2413214_20101216_b68834f1d2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

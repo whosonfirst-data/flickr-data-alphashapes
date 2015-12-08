@@ -1,0 +1,15 @@
+{
+  "id": 2492253,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelton, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2492253,
+    "woe:name":"Shelton, Nebraska, United States",
+    "woe:place_id":"1tvXCzGbBZVCfZfJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.733871,40.77755,-98.71804,40.78587],
+  "geometry": {"alpha":0.00015,"bbox":[-98.733871459961,40.777549743652,-98.718040466309,40.785869598389],"coordinates":[[[[-98.733871,40.77755],[-98.733742,40.777828],[-98.722374,40.78587],[-98.71804,40.78548],[-98.729584,40.777714],[-98.733871,40.77755]]]],"created":1292486464,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2492253_20101216_57300c8d09.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

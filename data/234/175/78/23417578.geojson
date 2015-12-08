@@ -1,0 +1,15 @@
+{
+  "id": 23417578,
+  "type": "Feature",
+  "properties": {
+    "name":"Greater Upper Marlboro, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":23417578,
+    "woe:name":"Greater Upper Marlboro, Maryland, United States",
+    "woe:place_id":"DOPsPXabApi.VgLX1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.749535,38.803799,-76.741905,38.826202],
+  "geometry": {"alpha":0.00015,"bbox":[-76.749534606934,38.803798675537,-76.741905212402,38.826202392578],"coordinates":[[[[-76.744041,38.812908],[-76.743835,38.803799],[-76.749535,38.810806],[-76.747742,38.826202],[-76.741905,38.824463],[-76.744041,38.812908]]]],"created":1292536389,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23417578_20101216_49415f9636.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

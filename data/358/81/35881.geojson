@@ -1,0 +1,15 @@
+{
+  "id": 35881,
+  "type": "Feature",
+  "properties": {
+    "name":"Stanford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35881,
+    "woe:name":"Stanford, England, United Kingdom",
+    "woe:place_id":"zMRbDZOaBJR2Pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.026535,51.095329,1.05297,51.108696],
+  "geometry": {"alpha":0.00015,"bbox":[1.0265350341797,51.095329284668,1.0529700517654,51.108695983887],"coordinates":[[[[1.05297,51.10239],[1.040267,51.095329],[1.039752,51.098927],[1.026535,51.108696],[1.041083,51.103317],[1.05297,51.10239]]]],"created":1292550015,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/35881_20101217_a5e773842a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

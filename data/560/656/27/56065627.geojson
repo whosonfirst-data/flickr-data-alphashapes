@@ -1,0 +1,15 @@
+{
+  "id": 56065627,
+  "type": "Feature",
+  "properties": {
+    "name":"Cruz Grande, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":56065627,
+    "woe:name":"Cruz Grande, Canary Islands, Spain",
+    "woe:place_id":"8LpLjlOcB5zGZq2YGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.356583,28.489212,-16.348343,28.493719],
+  "geometry": {"alpha":0.00015,"bbox":[-16.356582641602,28.489212036133,-16.348342895508,28.493719100952],"coordinates":[[[[-16.349243,28.493719],[-16.348343,28.489815],[-16.349716,28.489212],[-16.352655,28.489416],[-16.356583,28.489494],[-16.349243,28.493719]]]],"created":1292450185,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/56065627_20101215_63053e437e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

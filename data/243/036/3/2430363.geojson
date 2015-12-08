@@ -1,0 +1,15 @@
+{
+  "id": 2430363,
+  "type": "Feature",
+  "properties": {
+    "name":"Juntura, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2430363,
+    "woe:name":"Juntura, Oregon, United States",
+    "woe:place_id":"XAsVlcKbBZ82h3WX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.092331,43.745926,-118.060753,43.757896],
+  "geometry": {"alpha":0.00015,"bbox":[-118.09233093262,43.74592590332,-118.06075286865,43.75789642334],"coordinates":[[[[-118.07402,43.746422],[-118.075386,43.745926],[-118.092331,43.753666],[-118.076881,43.750034],[-118.060753,43.757896],[-118.07402,43.746422]]]],"created":1292533378,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2430363_20101216_8655543681.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

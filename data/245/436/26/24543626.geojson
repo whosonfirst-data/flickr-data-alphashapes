@@ -1,0 +1,15 @@
+{
+  "id": 24543626,
+  "type": "Feature",
+  "properties": {
+    "name":"Pefka, Greece",
+    "placetype":"locality",
+    "woe:id":24543626,
+    "woe:name":"Pefka, Greece",
+    "woe:place_id":"V85.8_mbBZlhtAaNPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.981339,40.659294,22.982475,40.664371],
+  "geometry": {"alpha":1e-05,"bbox":[22.981338500977,40.659294128418,22.982475280762,40.664371490479],"coordinates":[[[[22.982475,40.664371],[22.982191,40.664001],[22.982058,40.659294],[22.981789,40.659473],[22.981339,40.664021],[22.982475,40.664371]]]],"created":1292522530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/24543626_20101216_64f3a48f80.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

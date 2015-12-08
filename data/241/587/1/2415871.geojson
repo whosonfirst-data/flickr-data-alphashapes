@@ -1,0 +1,15 @@
+{
+  "id": 2415871,
+  "type": "Feature",
+  "properties": {
+    "name":"Hacienda, California, United States",
+    "placetype":"locality",
+    "woe:id":2415871,
+    "woe:name":"Hacienda, California, United States",
+    "woe:place_id":"dQK46ySbBZ0rUklT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.930573,38.507172,-122.92572,38.513248],
+  "geometry": {"alpha":0.00015,"bbox":[-122.93057250977,38.507171630859,-122.92572021484,38.513248443604],"coordinates":[[[[-122.92971,38.507172],[-122.930573,38.507977],[-122.928429,38.513248],[-122.92572,38.510712],[-122.927269,38.508659],[-122.92971,38.507172]]]],"created":1292536029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2415871_20101216_272e99b3d7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

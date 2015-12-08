@@ -1,0 +1,15 @@
+{
+  "id": 698225,
+  "type": "Feature",
+  "properties": {
+    "name":"Sugenheim, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":698225,
+    "woe:name":"Sugenheim, Bavaria, Germany",
+    "woe:place_id":"X7qPo3OfCJTTo54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.439801,49.598763,10.449457,49.601963],
+  "geometry": {"alpha":0.00015,"bbox":[10.439801216125,49.598762512207,10.449457168579,49.601963043213],"coordinates":[[[[10.44009,49.599052],[10.439801,49.59914],[10.440444,49.599308],[10.447365,49.601135],[10.449457,49.601963],[10.448169,49.598763],[10.44009,49.599052]]]],"created":1247866922,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3446/shapefiles/698225_20090717_a4123221a5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

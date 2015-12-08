@@ -1,0 +1,15 @@
+{
+  "id": 12685781,
+  "type": "Feature",
+  "properties": {
+    "name":"Zhangzhou, China",
+    "placetype":"locality",
+    "woe:id":12685781,
+    "woe:name":"Zhangzhou, China",
+    "woe:place_id":"huuznMGYA5rT2FdjfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [117.647781,24.512922,117.652245,24.524323],
+  "geometry": {"alpha":1e-05,"bbox":[117.64778137207,24.512922286987,117.65224456787,24.524322509766],"coordinates":[[[[117.650696,24.516983],[117.651474,24.512922],[117.647781,24.515888],[117.649498,24.520887],[117.647781,24.524323],[117.652245,24.523386],[117.649498,24.520887],[117.647781,24.515888],[117.651474,24.512922],[117.650696,24.516983]]]],"created":1292547590,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12685781_20101217_91287db3a4.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

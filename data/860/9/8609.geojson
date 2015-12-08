@@ -1,0 +1,15 @@
+{
+  "id": 8609,
+  "type": "Feature",
+  "properties": {
+    "name":"Milo, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8609,
+    "woe:name":"Milo, Alberta, Canada",
+    "woe:place_id":"stZwkbCRB5xz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.884499,50.56683,-112.876968,50.572445],
+  "geometry": {"alpha":0.00015,"bbox":[-112.88449859619,50.566829681396,-112.87696838379,50.572444915771],"coordinates":[[[[-112.877441,50.568069],[-112.876968,50.56683],[-112.884499,50.570965],[-112.884346,50.572445],[-112.879158,50.569553],[-112.877441,50.568069]]]],"created":1292459013,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/8609_20101216_21b3812e5d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12689345,
+  "type": "Feature",
+  "properties": {
+    "name":"Lebrija, Spain",
+    "placetype":"locality",
+    "woe:id":12689345,
+    "woe:name":"Lebrija, Spain",
+    "woe:place_id":"iYRw3L2YA5qWJBf.UA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.07943,36.923271,-6.074066,36.927612],
+  "geometry": {"alpha":1e-05,"bbox":[-6.079430103302,36.923271179199,-6.0740661621094,36.927612304688],"coordinates":[[[[-6.07811,36.92522],[-6.078808,36.92617],[-6.07943,36.927612],[-6.074066,36.926842],[-6.077499,36.923271],[-6.07811,36.92522]]]],"created":1226619610,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3032/shapefiles/12689345_20081113_5cb6ba8553.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

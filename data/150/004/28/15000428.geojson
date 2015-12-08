@@ -1,0 +1,15 @@
+{
+  "id": 15000428,
+  "type": "Feature",
+  "properties": {
+    "name":"S Vito, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":15000428,
+    "woe:name":"S Vito, Emilia Romagna, Italy",
+    "woe:place_id":"ElFa5iaYBJz9Ni2SGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.453861,44.079708,12.472014,44.100159],
+  "geometry": {"alpha":0.00015,"bbox":[12.453861236572,44.079708099365,12.472014427185,44.100158691406],"coordinates":[[[[12.461166,44.084999],[12.453861,44.099297],[12.461757,44.100159],[12.471435,44.083931],[12.472014,44.079708],[12.461166,44.084999]]]],"created":1292449128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/15000428_20101215_353b292d77.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

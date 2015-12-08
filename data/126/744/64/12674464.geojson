@@ -1,0 +1,15 @@
+{
+  "id": 12674464,
+  "type": "Feature",
+  "properties": {
+    "name":"Ebensee, Austria",
+    "placetype":"locality",
+    "woe:id":12674464,
+    "woe:name":"Ebensee, Austria",
+    "woe:place_id":"bJEoqIKYA5q0T7NLvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.716173,47.811916,13.723297,47.81641],
+  "geometry": {"alpha":1e-05,"bbox":[13.716173171997,47.811916351318,13.723297119141,47.816410064697],"coordinates":[[[[13.721923,47.815804],[13.723297,47.811916],[13.719863,47.813328],[13.716173,47.813847],[13.716259,47.815922],[13.721795,47.81641],[13.721923,47.815804]]]],"created":1292540303,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12674464_20101216_d6dfb5de24.tar.gz"},"points":43,"type":"MultiPolygon"}
+}

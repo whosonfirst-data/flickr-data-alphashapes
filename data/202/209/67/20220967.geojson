@@ -1,0 +1,15 @@
+{
+  "id": 20220967,
+  "type": "Feature",
+  "properties": {
+    "name":"Bor, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20220967,
+    "woe:name":"Bor, Catalonia, Spain",
+    "woe:place_id":"B.02DOSbAZ58vOUstw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.792316,42.325809,1.803195,42.347759],
+  "geometry": {"alpha":0.00015,"bbox":[1.7923159599304,42.32580947876,1.8031949996948,42.347759246826],"coordinates":[[[[1.798174,42.345577],[1.798348,42.346989],[1.800384,42.347759],[1.802308,42.346779],[1.803195,42.344921],[1.792316,42.325809],[1.798174,42.345577]]]],"created":1292488385,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20220967_20101216_411e662c27.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

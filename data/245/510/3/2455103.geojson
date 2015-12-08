@@ -1,0 +1,15 @@
+{
+  "id": 2455103,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Lookout, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2455103,
+    "woe:name":"Mount Lookout, West Virginia, United States",
+    "woe:place_id":"G_09VdqbBZmuY8pl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.90918,38.1562,-80.887367,38.182281],
+  "geometry": {"alpha":0.00015,"bbox":[-80.9091796875,38.156200408936,-80.887367248535,38.182281494141],"coordinates":[[[[-80.887367,38.182281],[-80.897141,38.168346],[-80.893707,38.159058],[-80.90918,38.1562],[-80.898758,38.169529],[-80.887367,38.182281]]]],"created":1292529959,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2455103_20101216_b9daeeb2ac.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

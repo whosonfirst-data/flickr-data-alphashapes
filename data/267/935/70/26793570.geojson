@@ -1,0 +1,15 @@
+{
+  "id": 26793570,
+  "type": "Feature",
+  "properties": {
+    "name":"El Espino, Panama",
+    "placetype":"locality",
+    "woe:id":26793570,
+    "woe:name":"El Espino, Panama",
+    "woe:place_id":"U07FNhmbB5vc6Z_MMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.035912,8.514477,-80.033325,8.516323],
+  "geometry": {"alpha":1e-05,"bbox":[-80.035911560059,8.514476776123,-80.033325195312,8.5163230895996],"coordinates":[[[[-80.033325,8.515775],[-80.033356,8.515755],[-80.035912,8.514477],[-80.03508,8.516108],[-80.034241,8.516323],[-80.033325,8.515775]]]],"created":1292537639,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/26793570_20101216_76102ba837.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 720012,
+  "type": "Feature",
+  "properties": {
+    "name":"Passo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":720012,
+    "woe:name":"Passo, Piedmont, Italy",
+    "woe:place_id":"0McU.RWeA5xSh4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.365058,46.315289,8.384885,46.32909],
+  "geometry": {"alpha":0.00015,"bbox":[8.3650579452515,46.315288543701,8.3848848342896,46.329090118408],"coordinates":[[[[8.379993,46.325119],[8.384885,46.321205],[8.381649,46.315289],[8.373212,46.317265],[8.372354,46.319073],[8.365058,46.32909],[8.379993,46.325119]]]],"created":1292475365,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/720012_20101216_3ae0879bc7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

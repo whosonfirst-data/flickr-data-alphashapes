@@ -1,0 +1,15 @@
+{
+  "id": 12678936,
+  "type": "Feature",
+  "properties": {
+    "name":"Cortazzone, Italy",
+    "placetype":"locality",
+    "woe:id":12678936,
+    "woe:name":"Cortazzone, Italy",
+    "woe:place_id":"tGeX2YeYA5qsykspAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.051304,44.979916,8.056261,44.985683],
+  "geometry": {"alpha":1e-05,"bbox":[8.0513038635254,44.979915618896,8.0562610626221,44.985683441162],"coordinates":[[[[8.052699,44.984364],[8.052999,44.984226],[8.056261,44.98336],[8.054866,44.979916],[8.052248,44.984077],[8.051304,44.985683],[8.052699,44.984364]]]],"created":1292551098,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12678936_20101217_22cb90b98b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

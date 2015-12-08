@@ -1,0 +1,15 @@
+{
+  "id": 2489340,
+  "type": "Feature",
+  "properties": {
+    "name":"Saville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2489340,
+    "woe:name":"Saville, Pennsylvania, United States",
+    "woe:place_id":"mEG8iVabBZTczntP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.390068,40.437916,-77.389183,40.439098],
+  "geometry": {"alpha":0.00015,"bbox":[-77.390068054199,40.437915802002,-77.389183044434,40.439098358154],"coordinates":[[[[-77.389763,40.439098],[-77.389305,40.439053],[-77.389183,40.438599],[-77.389687,40.437916],[-77.390068,40.43832],[-77.389763,40.439098]]]],"created":1248013201,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2495/shapefiles/2489340_20090719_43297ced77.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

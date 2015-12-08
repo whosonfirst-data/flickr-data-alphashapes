@@ -1,0 +1,15 @@
+{
+  "id": 2425522,
+  "type": "Feature",
+  "properties": {
+    "name":"Hume, New York, United States",
+    "placetype":"locality",
+    "woe:id":2425522,
+    "woe:name":"Hume, New York, United States",
+    "woe:place_id":"ASvXmuSbBZ5rij46",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.137009,42.47234,-78.13224,42.473362],
+  "geometry": {"alpha":0.00015,"bbox":[-78.137008666992,42.472339630127,-78.13224029541,42.473361968994],"coordinates":[[[[-78.135452,42.473362],[-78.134285,42.473167],[-78.13224,42.472668],[-78.137009,42.47234],[-78.13623,42.473122],[-78.135452,42.473362]]]],"created":1292522083,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2425522_20101216_7845dc24ef.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

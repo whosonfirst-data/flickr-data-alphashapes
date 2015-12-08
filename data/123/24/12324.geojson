@@ -1,0 +1,15 @@
+{
+  "id": 12324,
+  "type": "Feature",
+  "properties": {
+    "name":"Belmont Abbey, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12324,
+    "woe:name":"Belmont Abbey, England, United Kingdom",
+    "woe:place_id":"TLbmTQyYA5.Qnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.759113,52.036968,-2.750015,52.042461],
+  "geometry": {"alpha":0.00015,"bbox":[-2.759113073349,52.036968231201,-2.7500150203705,52.042461395264],"coordinates":[[[[-2.757868,52.036968],[-2.759113,52.039925],[-2.755851,52.042461],[-2.750015,52.039291],[-2.750594,52.03883],[-2.757868,52.036968]]]],"created":1292455546,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12324_20101215_55f06aa6a7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

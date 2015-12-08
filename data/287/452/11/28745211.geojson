@@ -1,0 +1,15 @@
+{
+  "id": 28745211,
+  "type": "Feature",
+  "properties": {
+    "name":"Southampton, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745211,
+    "woe:name":"Southampton, Pennsylvania, United States",
+    "woe:place_id":"rnOjYkKbCZu6VDR5Fg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.445129,40.049332,-77.432404,40.064568],
+  "geometry": {"alpha":0.00015,"bbox":[-77.445129394531,40.049331665039,-77.432403564453,40.064567565918],"coordinates":[[[[-77.432831,40.0495],[-77.445129,40.064568],[-77.432404,40.050121],[-77.432831,40.049332],[-77.432831,40.0495]]]],"created":1292481484,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/28745211_20101216_b284e75d6a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2475370,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Elizabeth, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2475370,
+    "woe:name":"Port Elizabeth, New Jersey, United States",
+    "woe:place_id":"hHiX4iebBZsLkLTp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.985947,39.307556,-74.980446,39.318138],
+  "geometry": {"alpha":0.00015,"bbox":[-74.985946655273,39.307556152344,-74.980445861816,39.318138122559],"coordinates":[[[[-74.983322,39.315807],[-74.980446,39.307556],[-74.982002,39.308788],[-74.984566,39.3153],[-74.985947,39.318138],[-74.983322,39.315807]]]],"created":1292477948,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2475370_20101216_2e1f94da6d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23395556,
+  "type": "Feature",
+  "properties": {
+    "name":"Pike River, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395556,
+    "woe:name":"Pike River, Quebec, Canada",
+    "woe:place_id":"fB0ghzubAp_e72pDDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.077019,45.119568,-73.067322,45.12405],
+  "geometry": {"alpha":0.00015,"bbox":[-73.077018737793,45.119567871094,-73.067321777344,45.124050140381],"coordinates":[[[[-73.067665,45.119568],[-73.074188,45.121506],[-73.077019,45.122959],[-73.071442,45.12405],[-73.067322,45.122353],[-73.067665,45.119568]]]],"created":1292551033,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/23395556_20101217_7f8ce8d880.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

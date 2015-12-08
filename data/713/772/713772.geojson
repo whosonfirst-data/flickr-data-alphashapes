@@ -1,0 +1,15 @@
+{
+  "id": 713772,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceres, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":713772,
+    "woe:name":"Ceres, Piedmont, Italy",
+    "woe:place_id":"cQyO05aeAJ8WFhw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.382941,45.307705,7.393841,45.321255],
+  "geometry": {"alpha":0.00015,"bbox":[7.3829407691956,45.307704925537,7.3938407897949,45.321254730225],"coordinates":[[[[7.385172,45.313423],[7.382941,45.320831],[7.384185,45.321255],[7.391052,45.31739],[7.393841,45.307705],[7.385172,45.313423]]]],"created":1292518261,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/713772_20101216_ef10a53f4d.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

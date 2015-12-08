@@ -1,0 +1,15 @@
+{
+  "id": 2365091,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackwell, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2365091,
+    "woe:name":"Blackwell, North Carolina, United States",
+    "woe:place_id":"0xP1IWabAprDizv2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.510506,36.471649,-79.490204,36.479897],
+  "geometry": {"alpha":0.00015,"bbox":[-79.51050567627,36.471649169922,-79.490203857422,36.47989654541],"coordinates":[[[[-79.504089,36.472237],[-79.510506,36.471649],[-79.506294,36.472813],[-79.505592,36.472813],[-79.490204,36.479897],[-79.504089,36.472237]]]],"created":1292522052,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2365091_20101216_3ce7d3f041.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

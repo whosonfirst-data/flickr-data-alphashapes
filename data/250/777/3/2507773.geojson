@@ -1,0 +1,15 @@
+{
+  "id": 2507773,
+  "type": "Feature",
+  "properties": {
+    "name":"Treharne, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2507773,
+    "woe:name":"Treharne, Oregon, United States",
+    "woe:place_id":"OhuuzIKbBJyeYdMN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.227287,45.835617,-123.220856,45.838665],
+  "geometry": {"alpha":0.00015,"bbox":[-123.22728729248,45.83561706543,-123.22085571289,45.838665008545],"coordinates":[[[[-123.222824,45.835617],[-123.227287,45.835976],[-123.221283,45.838665],[-123.220856,45.837246],[-123.22094,45.835857],[-123.222824,45.835617]]]],"created":1292441038,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2507773_20101215_d25c39e2fa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

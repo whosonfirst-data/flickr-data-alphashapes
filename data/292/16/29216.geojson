@@ -1,0 +1,15 @@
+{
+  "id": 29216,
+  "type": "Feature",
+  "properties": {
+    "name":"Monks Horton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29216,
+    "woe:name":"Monks Horton, England, United Kingdom",
+    "woe:place_id":"iLTWYgqbCJ75ig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.043529,51.118313,1.059751,51.127884],
+  "geometry": {"alpha":0.00015,"bbox":[1.0435290336609,51.118312835693,1.059751033783,51.127883911133],"coordinates":[[[[1.059751,51.119041],[1.059708,51.118999],[1.058936,51.118313],[1.043529,51.11861],[1.051468,51.122864],[1.054468,51.127884],[1.059751,51.119041]]]],"created":1292450464,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/29216_20101215_f4ffab8487.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

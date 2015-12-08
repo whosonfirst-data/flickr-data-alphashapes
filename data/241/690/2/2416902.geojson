@@ -1,0 +1,15 @@
+{
+  "id": 2416902,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamptons Crossroads, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2416902,
+    "woe:name":"Hamptons Crossroads, Tennessee, United States",
+    "woe:place_id":"l4nlXZibBZ2mr1AD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.531311,36.054478,-85.528351,36.058189],
+  "geometry": {"alpha":0.00015,"bbox":[-85.531311035156,36.05447769165,-85.528350830078,36.05818939209],"coordinates":[[[[-85.52861,36.056248],[-85.528931,36.055023],[-85.531311,36.054478],[-85.529984,36.058189],[-85.528351,36.057049],[-85.52861,36.056248]]]],"created":1292500863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2416902_20101216_2ab9fe069c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

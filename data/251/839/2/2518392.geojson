@@ -1,0 +1,15 @@
+{
+  "id": 2518392,
+  "type": "Feature",
+  "properties": {
+    "name":"Weston, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2518392,
+    "woe:name":"Weston, Illinois, United States",
+    "woe:place_id":"PpFFg5WbBJ3BIu0Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.623619,40.739452,-88.592888,40.747028],
+  "geometry": {"alpha":0.00015,"bbox":[-88.62361907959,40.739452362061,-88.592887878418,40.74702835083],"coordinates":[[[[-88.611557,40.741879],[-88.623619,40.747028],[-88.60714,40.74641],[-88.592888,40.740105],[-88.607742,40.739452],[-88.611557,40.741879]]]],"created":1292513106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2518392_20101216_335fb7085d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

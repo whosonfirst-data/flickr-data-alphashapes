@@ -1,0 +1,15 @@
+{
+  "id": 350039,
+  "type": "Feature",
+  "properties": {
+    "name":"Huara, Tarapaca Region, Chile",
+    "placetype":"locality",
+    "woe:id":350039,
+    "woe:name":"Huara, Tarapaca Region, Chile",
+    "woe:place_id":"buI3K0iaBJxXw7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.77211,-19.997971,-69.753807,-19.987223],
+  "geometry": {"alpha":0.00015,"bbox":[-69.772109985352,-19.997970581055,-69.753807067871,-19.987222671509],"coordinates":[[[[-69.76799,-19.990932],[-69.753807,-19.987223],[-69.766724,-19.997971],[-69.77211,-19.995771],[-69.770737,-19.992386],[-69.76799,-19.990932]]]],"created":1292519514,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/350039_20101216_abda67def4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23721,
+  "type": "Feature",
+  "properties": {
+    "name":"Holme on the Wolds, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23721,
+    "woe:name":"Holme on the Wolds, England, United Kingdom",
+    "woe:place_id":"J6EDNiKbApt3Pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.547943,53.900597,-0.528588,53.907372],
+  "geometry": {"alpha":0.00015,"bbox":[-0.54794299602509,53.900596618652,-0.52858799695969,53.907371520996],"coordinates":[[[[-0.530261,53.907372],[-0.528588,53.9011],[-0.529918,53.900597],[-0.53318,53.90181],[-0.547943,53.904541],[-0.530261,53.907372]]]],"created":1292483103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/23721_20101216_4470c607eb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

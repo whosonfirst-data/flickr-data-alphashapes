@@ -1,0 +1,15 @@
+{
+  "id": 12683829,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Landeron, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683829,
+    "woe:name":"Le Landeron, Switzerland",
+    "woe:place_id":"cYpN_2iYA5rmBJeBPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.041817,47.056515,7.049231,47.061703],
+  "geometry": {"alpha":1e-05,"bbox":[7.0418171882629,47.05651473999,7.0492310523987,47.061702728271],"coordinates":[[[[7.049118,47.058689],[7.049231,47.058605],[7.049086,47.058594],[7.045025,47.058517],[7.041817,47.056515],[7.042922,47.061703],[7.045025,47.058517],[7.049086,47.058594],[7.049231,47.058605],[7.049118,47.058689]]]],"created":1292540949,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12683829_20101216_49ebb4286d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

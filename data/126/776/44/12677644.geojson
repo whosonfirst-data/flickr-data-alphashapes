@@ -1,0 +1,15 @@
+{
+  "id": 12677644,
+  "type": "Feature",
+  "properties": {
+    "name":"Caravino, Italy",
+    "placetype":"locality",
+    "woe:id":12677644,
+    "woe:name":"Caravino, Italy",
+    "woe:place_id":"5plop3eYA5qmyYltyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.959229,45.389664,7.964315,45.392483],
+  "geometry": {"alpha":1e-05,"bbox":[7.9592289924622,45.389663696289,7.9643149375916,45.392482757568],"coordinates":[[[[7.960882,45.390797],[7.959229,45.391865],[7.961139,45.392273],[7.964315,45.392483],[7.963414,45.389664],[7.960882,45.390797]]]],"created":1292532366,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12677644_20101216_bdece1d99b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

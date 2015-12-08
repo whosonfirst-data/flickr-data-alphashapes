@@ -1,0 +1,15 @@
+{
+  "id": 2354555,
+  "type": "Feature",
+  "properties": {
+    "name":"Anderson, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2354555,
+    "woe:name":"Anderson, Oregon, United States",
+    "woe:place_id":"px.NmBibApkJihR6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.403481,45.460285,-122.388191,45.48489],
+  "geometry": {"alpha":0.00015,"bbox":[-122.40348052979,45.460285186768,-122.38819122314,45.484889984131],"coordinates":[[[[-122.403114,45.48251],[-122.403069,45.482719],[-122.399033,45.48489],[-122.399338,45.476761],[-122.388191,45.460285],[-122.403481,45.47448],[-122.403114,45.48251]]]],"created":1292524034,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2354555_20101216_2162a41763.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

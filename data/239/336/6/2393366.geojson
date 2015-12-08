@@ -1,0 +1,15 @@
+{
+  "id": 2393366,
+  "type": "Feature",
+  "properties": {
+    "name":"Dover, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2393366,
+    "woe:name":"Dover, Wisconsin, United States",
+    "woe:place_id":"fQ___p6bApUsxZFH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.14827,45.67205,-90.136406,45.674965],
+  "geometry": {"alpha":0.00015,"bbox":[-90.14826965332,45.672050476074,-90.136405944824,45.674964904785],"coordinates":[[[[-90.14106,45.672153],[-90.14827,45.672478],[-90.141426,45.674965],[-90.139679,45.674004],[-90.136406,45.67205],[-90.14106,45.672153]]]],"created":1292527480,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2393366_20101216_d1fe5a09e9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

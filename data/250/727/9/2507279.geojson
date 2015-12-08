@@ -1,0 +1,15 @@
+{
+  "id": 2507279,
+  "type": "Feature",
+  "properties": {
+    "name":"Torrey, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2507279,
+    "woe:name":"Torrey, Florida, United States",
+    "woe:place_id":"kILEYZGbBJwv1tKH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.842407,27.62244,-81.839325,27.627232],
+  "geometry": {"alpha":0.00015,"bbox":[-81.842407226562,27.622440338135,-81.839324951172,27.6272315979],"coordinates":[[[[-81.842407,27.62554],[-81.841942,27.626965],[-81.841835,27.627041],[-81.839325,27.627232],[-81.840698,27.62244],[-81.842407,27.62554]]]],"created":1292423043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2507279_20101215_8e43724b3b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

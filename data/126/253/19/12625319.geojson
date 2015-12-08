@@ -1,0 +1,15 @@
+{
+  "id": 12625319,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hainspitz, Germany",
+    "placetype":"locality",
+    "woe:id":12625319,
+    "woe:name":"Gemeinde Hainspitz, Germany",
+    "woe:place_id":"D9yCzx.YA5olMyg8aQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.829335,50.956036,11.835751,50.960358],
+  "geometry": {"alpha":1e-05,"bbox":[11.829335212708,50.956035614014,11.835750579834,50.960357666016],"coordinates":[[[[11.832253,50.956036],[11.829335,50.95863],[11.83485,50.960358],[11.835751,50.960144],[11.832125,50.956657],[11.832253,50.956036]]]],"created":1292531797,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12625319_20101216_4b367f7e25.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

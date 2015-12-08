@@ -1,0 +1,15 @@
+{
+  "id": 22755298,
+  "type": "Feature",
+  "properties": {
+    "name":"Saugues, France",
+    "placetype":"locality",
+    "woe:id":22755298,
+    "woe:name":"Saugues, France",
+    "woe:place_id":"LLdkrHWbA5uFkXC9ww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.525111,44.935234,3.528971,44.93956],
+  "geometry": {"alpha":1e-05,"bbox":[3.5251109600067,44.935234069824,3.5289709568024,44.939559936523],"coordinates":[[[[3.525111,44.935234],[3.526911,44.936459],[3.528971,44.93956],[3.527338,44.936226],[3.525111,44.935234]]]],"created":1292522502,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/22755298_20101216_908d792692.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

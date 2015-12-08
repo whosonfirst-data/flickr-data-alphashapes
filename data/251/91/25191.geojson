@@ -1,0 +1,15 @@
+{
+  "id": 25191,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingston, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25191,
+    "woe:name":"Kingston, Scotland, United Kingdom",
+    "woe:place_id":"7unqgnGbBJ2UiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.73714,56.018391,-2.732849,56.032925],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7371399402618,56.018390655518,-2.7328488826752,56.0329246521],"coordinates":[[[[-2.734565,56.028511],[-2.734093,56.027599],[-2.732849,56.018391],[-2.736282,56.029289],[-2.73714,56.032925],[-2.735939,56.031269],[-2.734565,56.028511]]]],"created":1292541997,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/25191_20101216_4edcd2b02e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

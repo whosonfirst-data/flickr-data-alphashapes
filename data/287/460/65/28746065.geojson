@@ -1,0 +1,15 @@
+{
+  "id": 28746065,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Blanco, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":28746065,
+    "woe:name":"Mount Blanco, Virginia, United States",
+    "woe:place_id":"glBuQx.bCZssMMjh4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.319504,37.367958,-77.299805,37.374523],
+  "geometry": {"alpha":0.00015,"bbox":[-77.31950378418,37.367958068848,-77.2998046875,37.374523162842],"coordinates":[[[[-77.319504,37.370342],[-77.313881,37.374523],[-77.299805,37.373959],[-77.304214,37.367958],[-77.310104,37.370975],[-77.319504,37.370342]]]],"created":1292526856,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/28746065_20101216_2c4b3e1c57.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

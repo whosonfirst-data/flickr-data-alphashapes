@@ -1,0 +1,15 @@
+{
+  "id": 768506,
+  "type": "Feature",
+  "properties": {
+    "name":"Noval, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":768506,
+    "woe:name":"Noval, Cantabria, Spain",
+    "woe:place_id":"K1zuZOieB5R8CKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.389024,43.391796,-3.378639,43.398857],
+  "geometry": {"alpha":0.00015,"bbox":[-3.3890240192413,43.391796112061,-3.3786389827728,43.398857116699],"coordinates":[[[[-3.383833,43.393333],[-3.389024,43.398811],[-3.385891,43.398857],[-3.378639,43.392403],[-3.379626,43.391796],[-3.383833,43.393333]]]],"created":1292499307,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/768506_20101216_840c2b96f0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

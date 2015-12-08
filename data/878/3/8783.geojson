@@ -1,0 +1,15 @@
+{
+  "id": 8783,
+  "type": "Feature",
+  "properties": {
+    "name":"De Winton, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8783,
+    "woe:name":"De Winton, Alberta, Canada",
+    "woe:place_id":"Nb20pz.RBpRh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.994141,50.814396,-113.975067,50.83733],
+  "geometry": {"alpha":0.00015,"bbox":[-113.994140625,50.814395904541,-113.97506713867,50.837329864502],"coordinates":[[[[-113.978348,50.834129],[-113.975067,50.825474],[-113.981262,50.817867],[-113.985725,50.814396],[-113.994141,50.814396],[-113.991394,50.83733],[-113.978348,50.834129]]]],"created":1248301094,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2652/shapefiles/8783_20090722_830af52394.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

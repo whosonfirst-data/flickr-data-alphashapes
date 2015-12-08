@@ -1,0 +1,15 @@
+{
+  "id": 22788,
+  "type": "Feature",
+  "properties": {
+    "name":"Hayton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22788,
+    "woe:name":"Hayton, England, United Kingdom",
+    "woe:place_id":"CleDhmubA5ucwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.765094,53.889114,-0.740333,53.914879],
+  "geometry": {"alpha":0.00015,"bbox":[-0.7650939822197,53.889114379883,-0.7403330206871,53.914878845215],"coordinates":[[[[-0.75634,53.899887],[-0.765094,53.90646],[-0.746684,53.914879],[-0.741577,53.905449],[-0.740333,53.893833],[-0.752563,53.889114],[-0.75634,53.899887]]]],"created":1292518128,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/22788_20101216_af9a8c645c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

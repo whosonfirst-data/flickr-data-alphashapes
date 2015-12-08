@@ -1,0 +1,15 @@
+{
+  "id": 641117,
+  "type": "Feature",
+  "properties": {
+    "name":"Breitungen, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":641117,
+    "woe:name":"Breitungen, Thuringia, Germany",
+    "woe:place_id":"vmoxGOyfBZ1niZ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.325002,50.747978,10.336966,50.764912],
+  "geometry": {"alpha":0.00015,"bbox":[10.325001716614,50.747978210449,10.336965560913,50.764911651611],"coordinates":[[[[10.330066,50.760242],[10.329723,50.764912],[10.33101,50.762222],[10.332641,50.758831],[10.336966,50.747978],[10.325002,50.748459],[10.330066,50.760242]]]],"created":1292528425,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/641117_20101216_40d3ae0660.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

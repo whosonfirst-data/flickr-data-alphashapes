@@ -1,0 +1,15 @@
+{
+  "id": 2371505,
+  "type": "Feature",
+  "properties": {
+    "name":"Buffalo Bend, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2371505,
+    "woe:name":"Buffalo Bend, Virginia, United States",
+    "woe:place_id":"OEpmfXybApsaBSgu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.475609,37.707932,-79.438011,37.727299],
+  "geometry": {"alpha":0.00015,"bbox":[-79.475608825684,37.707931518555,-79.438011169434,37.727298736572],"coordinates":[[[[-79.475609,37.707932],[-79.464928,37.727299],[-79.461662,37.723862],[-79.438011,37.722721],[-79.453255,37.711899],[-79.475609,37.707932]]]],"created":1247870282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3473/shapefiles/2371505_20090717_e42e015dbc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

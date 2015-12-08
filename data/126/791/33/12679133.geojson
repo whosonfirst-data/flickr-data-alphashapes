@@ -1,0 +1,15 @@
+{
+  "id": 12679133,
+  "type": "Feature",
+  "properties": {
+    "name":"Egna, Italy",
+    "placetype":"locality",
+    "woe:id":12679133,
+    "woe:name":"Egna, Italy",
+    "woe:place_id":"gBozoCOYA5pK_hKROw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.237468,46.27544,11.241395,46.279282],
+  "geometry": {"alpha":1e-05,"bbox":[11.237467765808,46.275440216064,11.241394996643,46.279281616211],"coordinates":[[[[11.241331,46.27544],[11.237468,46.279282],[11.241395,46.275494],[11.241395,46.275486],[11.241331,46.27544]]]],"created":1292479803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12679133_20101216_bed999ef52.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

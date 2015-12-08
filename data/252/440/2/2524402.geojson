@@ -1,0 +1,15 @@
+{
+  "id": 2524402,
+  "type": "Feature",
+  "properties": {
+    "name":"Wyopo, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2524402,
+    "woe:name":"Wyopo, Wyoming, United States",
+    "woe:place_id":"3Clqdn6bBJ6hM6QG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.692757,42.855896,-108.687897,42.861919],
+  "geometry": {"alpha":0.00015,"bbox":[-108.69275665283,42.855895996094,-108.68789672852,42.861919403076],"coordinates":[[[[-108.692757,42.85675],[-108.691147,42.859428],[-108.689018,42.86092],[-108.687897,42.861919],[-108.688774,42.855896],[-108.692757,42.85675]]]],"created":1292513104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2524402_20101216_8a69e950da.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

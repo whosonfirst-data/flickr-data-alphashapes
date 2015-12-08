@@ -1,0 +1,15 @@
+{
+  "id": 28746656,
+  "type": "Feature",
+  "properties": {
+    "name":"Corn Creek, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":28746656,
+    "woe:name":"Corn Creek, Kentucky, United States",
+    "woe:place_id":"8nWRMhObCZutsEIDMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.43074,38.611267,-85.427612,38.624733],
+  "geometry": {"alpha":0.00015,"bbox":[-85.430740356445,38.611267089844,-85.427612304688,38.624732971191],"coordinates":[[[[-85.43074,38.618969],[-85.430595,38.624733],[-85.428879,38.619743],[-85.427612,38.611427],[-85.4282,38.611267],[-85.43074,38.618969]]]],"created":1292457785,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/28746656_20101216_2aeac40cd4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

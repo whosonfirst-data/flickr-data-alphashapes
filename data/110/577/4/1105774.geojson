@@ -1,0 +1,15 @@
+{
+  "id": 1105774,
+  "type": "Feature",
+  "properties": {
+    "name":"Swanpool, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105774,
+    "woe:name":"Swanpool, Victoria, Australia",
+    "woe:place_id":"3ZXXP2SYAJzAPSFb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.998093,-36.748924,146.020233,-36.73719],
+  "geometry": {"alpha":0.00015,"bbox":[145.99809265137,-36.748924255371,146.0202331543,-36.737190246582],"coordinates":[[[[146.017822,-36.747414],[146.020233,-36.748924],[146.013626,-36.746998],[145.999374,-36.745762],[145.998093,-36.73719],[146.011566,-36.74535],[146.017822,-36.747414]]]],"created":1239594247,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3586/shapefiles/1105774_20090413_3cc6bb46fb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

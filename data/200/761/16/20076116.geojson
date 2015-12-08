@@ -1,0 +1,15 @@
+{
+  "id": 20076116,
+  "type": "Feature",
+  "properties": {
+    "name":"Montorfano, Italy",
+    "placetype":"locality",
+    "woe:id":20076116,
+    "woe:name":"Montorfano, Italy",
+    "woe:place_id":"v_Lm9_abAZwLlDLRCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.134445,45.783447,9.138221,45.787518],
+  "geometry": {"alpha":1e-05,"bbox":[9.1344451904297,45.783447265625,9.1382207870483,45.787517547607],"coordinates":[[[[9.138221,45.783447],[9.136505,45.784283],[9.134445,45.787518],[9.137706,45.78656],[9.138221,45.783447]]]],"created":1292543859,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/20076116_20101216_5c33544ace.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

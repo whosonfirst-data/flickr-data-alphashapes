@@ -1,0 +1,15 @@
+{
+  "id": 110800,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Pierre, Marin, Martinique",
+    "placetype":"locality",
+    "woe:id":110800,
+    "woe:name":"St.-Pierre, Marin, Martinique",
+    "woe:place_id":"ma4wJZ6YAJy75cA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.948715,14.54944,-60.873356,14.601524],
+  "geometry": {"alpha":0.000234375,"bbox":[-60.948715209961,14.549440383911,-60.873355865479,14.601524353027],"coordinates":[[[[-60.906487,14.58026],[-60.917645,14.576938],[-60.921764,14.54944],[-60.941334,14.552099],[-60.948715,14.570957],[-60.932064,14.56996],[-60.916615,14.579014],[-60.927429,14.600777],[-60.904083,14.589896],[-60.900135,14.590394],[-60.876617,14.601524],[-60.873356,14.586961],[-60.895157,14.585577],[-60.906487,14.58026]]]],"created":1292549615,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/110800_20101217_cececbdde1.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

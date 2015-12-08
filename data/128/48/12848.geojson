@@ -1,0 +1,15 @@
+{
+  "id": 12848,
+  "type": "Feature",
+  "properties": {
+    "name":"Blackburn, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12848,
+    "woe:name":"Blackburn, Scotland, United Kingdom",
+    "woe:place_id":"8EFDAPyYA5R5xA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.637161,55.870689,-3.614931,55.875504],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6371610164642,55.87068939209,-3.6149311065674,55.875503540039],"coordinates":[[[[-3.625831,55.875504],[-3.621969,55.87495],[-3.614931,55.872002],[-3.620027,55.872433],[-3.637161,55.870689],[-3.625831,55.875504]]]],"created":1292543466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12848_20101216_8ffc11997b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

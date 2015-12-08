@@ -1,0 +1,15 @@
+{
+  "id": 909341,
+  "type": "Feature",
+  "properties": {
+    "name":"Vesterbyn, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":909341,
+    "woe:name":"Vesterbyn, Dalarna, Sweden",
+    "woe:place_id":"M0W_vIaQAZXolsc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.176767,60.484623,16.181059,60.486172],
+  "geometry": {"alpha":0.00015,"bbox":[16.176767349243,60.484622955322,16.181058883667,60.486171722412],"coordinates":[[[[16.179686,60.485497],[16.181059,60.484798],[16.181015,60.484623],[16.179041,60.48484],[16.176767,60.485836],[16.178226,60.486172],[16.179686,60.485497]]]],"created":1292520960,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/909341_20101216_639f4e8fdf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

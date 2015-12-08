@@ -1,0 +1,15 @@
+{
+  "id": 1779,
+  "type": "Feature",
+  "properties": {
+    "name":"Sydney River, Sydney, NS, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":1779,
+    "woe:name":"Sydney River, Sydney, NS, CA, Canada",
+    "woe:place_id":"xISiF8OYBpuS",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-60.227638,46.109554,-60.221836,46.114376],
+  "geometry": {"alpha":1e-05,"bbox":[-60.227638244629,46.109554290771,-60.221836090088,46.114376068115],"coordinates":[[[[-60.223614,46.113201],[-60.221836,46.113171],[-60.222546,46.1096],[-60.225979,46.109554],[-60.227638,46.114376],[-60.223614,46.113201]]]],"created":1239561244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3578/shapefiles/1779_20090412_eb8118599b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

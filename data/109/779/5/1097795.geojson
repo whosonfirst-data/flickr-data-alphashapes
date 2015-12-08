@@ -1,0 +1,15 @@
+{
+  "id": 1097795,
+  "type": "Feature",
+  "properties": {
+    "name":"Nobby, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1097795,
+    "woe:name":"Nobby, Queensland, Australia",
+    "woe:place_id":"0nNjYzOYAZW_FMkO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.894333,-27.864271,151.905396,-27.848667],
+  "geometry": {"alpha":0.00015,"bbox":[151.89433288574,-27.86427116394,151.90539550781,-27.848667144775],"coordinates":[[[[151.903503,-27.852358],[151.905396,-27.853399],[151.903168,-27.862499],[151.895691,-27.864271],[151.894333,-27.848667],[151.897995,-27.850834],[151.903503,-27.852358]]]],"created":1292524167,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/1097795_20101216_8fae29dd83.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

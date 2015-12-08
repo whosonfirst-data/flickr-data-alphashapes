@@ -1,0 +1,15 @@
+{
+  "id": 29347315,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramsen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347315,
+    "woe:name":"Ramsen, Bavaria, Germany",
+    "woe:place_id":"dHEHMfqbCJ_9_ziI2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.720108,47.761253,12.735214,47.775791],
+  "geometry": {"alpha":0.00015,"bbox":[12.720108032227,47.761253356934,12.735214233398,47.775791168213],"coordinates":[[[[12.724166,47.762165],[12.720108,47.761253],[12.725944,47.772877],[12.735214,47.775791],[12.734484,47.7743],[12.733154,47.771175],[12.724166,47.762165]]]],"created":1292518003,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/29347315_20101216_7fa5459354.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

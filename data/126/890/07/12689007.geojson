@@ -1,0 +1,15 @@
+{
+  "id": 12689007,
+  "type": "Feature",
+  "properties": {
+    "name":"Villamena, Spain",
+    "placetype":"locality",
+    "woe:id":12689007,
+    "woe:name":"Villamena, Spain",
+    "woe:place_id":"53usc6qYA5pPkaXavA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.607292,36.976227,-3.602485,36.980614],
+  "geometry": {"alpha":1e-05,"bbox":[-3.6072919368744,36.976226806641,-3.6024849414825,36.980613708496],"coordinates":[[[[-3.605146,36.977257],[-3.606262,36.976227],[-3.607292,36.980614],[-3.602485,36.978008],[-3.605146,36.977257]]]],"created":1292536455,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12689007_20101216_fc7e62360f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

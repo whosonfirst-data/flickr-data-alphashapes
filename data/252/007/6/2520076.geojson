@@ -1,0 +1,15 @@
+{
+  "id": 2520076,
+  "type": "Feature",
+  "properties": {
+    "name":"Wichita, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2520076,
+    "woe:name":"Wichita, Oregon, United States",
+    "woe:place_id":"nlqE_wibBJ5TQM.m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.609779,45.444641,-122.599808,45.450226],
+  "geometry": {"alpha":0.00015,"bbox":[-122.60977935791,45.444641113281,-122.59980773926,45.450225830078],"coordinates":[[[[-122.601997,45.444641],[-122.609779,45.448238],[-122.605423,45.450226],[-122.599808,45.44796],[-122.601997,45.444641]]]],"created":1292537760,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2520076_20101216_bfe83c1e36.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

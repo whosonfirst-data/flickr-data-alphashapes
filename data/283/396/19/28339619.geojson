@@ -1,0 +1,15 @@
+{
+  "id": 28339619,
+  "type": "Feature",
+  "properties": {
+    "name":"Leh, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":28339619,
+    "woe:name":"Leh, New Jersey, United States",
+    "woe:place_id":"j.79uSGbCZ_uTLv26Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.40834,39.623077,-74.391777,39.634151],
+  "geometry": {"alpha":0.00015,"bbox":[-74.408340454102,39.623077392578,-74.391777038574,39.63415145874],"coordinates":[[[[-74.405594,39.623077],[-74.40834,39.624531],[-74.401901,39.631191],[-74.391777,39.634151],[-74.391861,39.629623],[-74.405594,39.623077]]]],"created":1292449478,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/28339619_20101215_1434b782f0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

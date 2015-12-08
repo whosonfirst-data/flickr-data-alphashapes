@@ -1,0 +1,15 @@
+{
+  "id": 21000,
+  "type": "Feature",
+  "properties": {
+    "name":"George Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21000,
+    "woe:name":"George Green, England, United Kingdom",
+    "woe:place_id":"IBNXVXCbAJxphA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.557084,51.520184,-0.538265,51.528496],
+  "geometry": {"alpha":0.00015,"bbox":[-0.55708402395248,51.520183563232,-0.53826498985291,51.528495788574],"coordinates":[[[[-0.556032,51.520191],[-0.557084,51.520199],[-0.556182,51.521988],[-0.552427,51.524647],[-0.54628,51.528477],[-0.546258,51.528496],[-0.54349,51.527336],[-0.538265,51.525173],[-0.544724,51.521416],[-0.547819,51.520187],[-0.548275,51.520184],[-0.551451,51.520271],[-0.556032,51.520191]]]],"created":1292488752,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/21000_20101216_fa796cb2d2.tar.gz"},"points":77,"type":"MultiPolygon"}
+}

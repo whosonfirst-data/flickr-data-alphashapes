@@ -1,0 +1,15 @@
+{
+  "id": 12681095,
+  "type": "Feature",
+  "properties": {
+    "name":"Pietrelcina, Italy",
+    "placetype":"locality",
+    "woe:id":12681095,
+    "woe:name":"Pietrelcina, Italy",
+    "woe:place_id":"yh3LKXSYA5rrU9AHrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.844074,41.196609,14.848623,41.200356],
+  "geometry": {"alpha":1e-05,"bbox":[14.844074249268,41.19660949707,14.848623275757,41.200355529785],"coordinates":[[[[14.844825,41.199589],[14.844074,41.200096],[14.847679,41.200356],[14.848623,41.196609],[14.845308,41.199211],[14.844825,41.199589]]]],"created":1292534090,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12681095_20101216_db7792f4b3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

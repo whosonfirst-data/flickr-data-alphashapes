@@ -1,0 +1,15 @@
+{
+  "id": 2445367,
+  "type": "Feature",
+  "properties": {
+    "name":"Mapleview, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2445367,
+    "woe:name":"Mapleview, Minnesota, United States",
+    "woe:place_id":"MXT3SP.bBZhNGc6a",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.980469,43.681946,-92.960106,43.690727],
+  "geometry": {"alpha":0.00015,"bbox":[-92.98046875,43.681945800781,-92.960105895996,43.690727233887],"coordinates":[[[[-92.980339,43.681946],[-92.980469,43.682213],[-92.979454,43.689621],[-92.960106,43.690727],[-92.972786,43.683918],[-92.980339,43.681946]]]],"created":1247855284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3535/shapefiles/2445367_20090717_848495ea9d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

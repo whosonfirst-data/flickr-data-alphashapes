@@ -1,0 +1,15 @@
+{
+  "id": 20151134,
+  "type": "Feature",
+  "properties": {
+    "name":"Hogsta, Bromma, Stockholm, SE, Sweden",
+    "placetype":"neighbourhood",
+    "woe:id":20151134,
+    "woe:name":"Hogsta, Bromma, Stockholm, SE, Sweden",
+    "woe:place_id":"k_YySc.bAZ1653gEYw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [17.844564,59.329479,17.852396,59.331505],
+  "geometry": {"alpha":1e-05,"bbox":[17.844564437866,59.329479217529,17.852396011353,59.331504821777],"coordinates":[[[[17.845358,59.331097],[17.846474,59.331131],[17.852396,59.331505],[17.847589,59.329479],[17.844564,59.331055],[17.845358,59.331097]]]],"created":1239578298,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3301/shapefiles/20151134_20090412_3eb656f2c2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

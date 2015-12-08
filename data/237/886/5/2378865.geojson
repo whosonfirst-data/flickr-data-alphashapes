@@ -1,0 +1,15 @@
+{
+  "id": 2378865,
+  "type": "Feature",
+  "properties": {
+    "name":"Chenequa, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2378865,
+    "woe:name":"Chenequa, Wisconsin, United States",
+    "woe:place_id":"Os0V4dKbApuA.ulR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.386124,43.122162,-88.369324,43.137016],
+  "geometry": {"alpha":0.00015,"bbox":[-88.386123657227,43.122161865234,-88.369323730469,43.137016296387],"coordinates":[[[[-88.382393,43.122162],[-88.386124,43.12664],[-88.38002,43.137016],[-88.369324,43.132278],[-88.370781,43.132183],[-88.382393,43.122162]]]],"created":1292535244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2378865_20101216_0e8e8ffca4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2372903,
+  "type": "Feature",
+  "properties": {
+    "name":"Cabinet, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2372903,
+    "woe:name":"Cabinet, Idaho, United States",
+    "woe:place_id":"7qjnwUmbApszToAF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.058884,48.085819,-116.046211,48.101009],
+  "geometry": {"alpha":0.00015,"bbox":[-116.05888366699,48.085819244385,-116.04621124268,48.101009368896],"coordinates":[[[[-116.05056,48.094246],[-116.046211,48.091927],[-116.057678,48.085819],[-116.058884,48.087883],[-116.056824,48.098259],[-116.05545,48.101009],[-116.05056,48.094246]]]],"created":1292538575,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2372903_20101216_9cbfc2c289.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

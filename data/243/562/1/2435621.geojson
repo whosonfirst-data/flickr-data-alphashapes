@@ -1,0 +1,15 @@
+{
+  "id": 2435621,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeview, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2435621,
+    "woe:name":"Lakeview, North Carolina, United States",
+    "woe:place_id":"VrFjPaCbBZ8ePQ_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.312637,35.238277,-79.303787,35.241508],
+  "geometry": {"alpha":0.00015,"bbox":[-79.312637329102,35.238277435303,-79.303787231445,35.241508483887],"coordinates":[[[[-79.307152,35.241508],[-79.306129,35.240337],[-79.303787,35.238277],[-79.312599,35.239124],[-79.312637,35.239178],[-79.307152,35.241508]]]],"created":1292451845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2435621_20101215_7fef1446fe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

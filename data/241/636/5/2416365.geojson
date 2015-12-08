@@ -1,0 +1,15 @@
+{
+  "id": 2416365,
+  "type": "Feature",
+  "properties": {
+    "name":"Hallock Landing, New York, United States",
+    "placetype":"locality",
+    "woe:id":2416365,
+    "woe:name":"Hallock Landing, New York, United States",
+    "woe:place_id":"0TU35j6bBZ3Z7sXH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.938919,40.960697,-72.93396,40.964222],
+  "geometry": {"alpha":0.00015,"bbox":[-72.938919067383,40.960697174072,-72.933959960938,40.964221954346],"coordinates":[[[[-72.93718,40.962448],[-72.938919,40.964222],[-72.937073,40.964157],[-72.936073,40.963463],[-72.93396,40.960697],[-72.93718,40.962448]]]],"created":1292536725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2416365_20101216_8e66f599fe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

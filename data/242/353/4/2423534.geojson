@@ -1,0 +1,15 @@
+{
+  "id": 2423534,
+  "type": "Feature",
+  "properties": {
+    "name":"Holmes City, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2423534,
+    "woe:name":"Holmes City, Minnesota, United States",
+    "woe:place_id":"s.aXRF.bBZ62Q8Ff",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.549347,45.84713,-95.531998,45.860226],
+  "geometry": {"alpha":0.00015,"bbox":[-95.549346923828,45.847129821777,-95.531997680664,45.86022567749],"coordinates":[[[[-95.53981,45.847305],[-95.549347,45.860226],[-95.542564,45.858669],[-95.531998,45.856293],[-95.538879,45.84713],[-95.53981,45.847305]]]],"created":1292533878,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2423534_20101216_bf0c62e285.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

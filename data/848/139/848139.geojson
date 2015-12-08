@@ -1,0 +1,15 @@
+{
+  "id": 848139,
+  "type": "Feature",
+  "properties": {
+    "name":"Colmo, Istarska, Croatia",
+    "placetype":"locality",
+    "woe:id":848139,
+    "woe:name":"Colmo, Istarska, Croatia",
+    "woe:place_id":"AVWZEd2RBZTJpkE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.04845,45.348164,14.051685,45.349915],
+  "geometry": {"alpha":0.00015,"bbox":[14.048450469971,45.348163604736,14.051685333252,45.349914550781],"coordinates":[[[[14.04845,45.34972],[14.051256,45.349915],[14.051685,45.349251],[14.051099,45.348438],[14.050606,45.348164],[14.048938,45.348164],[14.04845,45.34972]]]],"created":1292499486,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/848139_20101216_bce91572e4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

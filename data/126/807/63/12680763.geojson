@@ -1,0 +1,15 @@
+{
+  "id": 12680763,
+  "type": "Feature",
+  "properties": {
+    "name":"Ollolai, Italy",
+    "placetype":"locality",
+    "woe:id":12680763,
+    "woe:name":"Ollolai, Italy",
+    "woe:place_id":"6CA4EBCYA5oPP6UONg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.192026,40.157555,9.194912,40.161427],
+  "geometry": {"alpha":1e-05,"bbox":[9.1920261383057,40.157554626465,9.1949119567871,40.161426544189],"coordinates":[[[[9.192026,40.159245],[9.193582,40.161427],[9.194226,40.160267],[9.194912,40.159145],[9.192928,40.157555],[9.192026,40.159245]]]],"created":1292523489,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12680763_20101216_14a8673100.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

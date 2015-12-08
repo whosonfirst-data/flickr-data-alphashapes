@@ -1,0 +1,15 @@
+{
+  "id": 595002,
+  "type": "Feature",
+  "properties": {
+    "name":"Houry, Picardie, France",
+    "placetype":"locality",
+    "woe:id":595002,
+    "woe:name":"Houry, Picardie, France",
+    "woe:place_id":"qMuMAfycCJkDINI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.845257,49.77636,3.852553,49.777496],
+  "geometry": {"alpha":0.00015,"bbox":[3.8452570438385,49.776359558105,3.8525528907776,49.777496337891],"coordinates":[[[[3.848347,49.776592],[3.845257,49.77636],[3.846631,49.776718],[3.849806,49.777065],[3.852553,49.777496],[3.850922,49.777081],[3.848347,49.776592]]]],"created":1292443529,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/595002_20101215_24f5fef61b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

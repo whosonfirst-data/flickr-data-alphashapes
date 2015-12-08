@@ -1,0 +1,15 @@
+{
+  "id": 23404751,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandy Beach, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404751,
+    "woe:name":"Sandy Beach, Alberta, Canada",
+    "woe:place_id":"4Gz82q6bApjizkKoJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.047409,53.773064,-114.031906,53.801384],
+  "geometry": {"alpha":0.0001875,"bbox":[-114.04740905762,53.773063659668,-114.03190612793,53.801383972168],"coordinates":[[[[-114.042122,53.777733],[-114.042122,53.777782],[-114.047409,53.800732],[-114.042717,53.800041],[-114.034309,53.801384],[-114.041092,53.778542],[-114.031906,53.773064],[-114.042122,53.777733]]]],"created":1292462942,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/23404751_20101216_bfb1849eb3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

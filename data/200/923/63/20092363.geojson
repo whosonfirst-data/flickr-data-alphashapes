@@ -1,0 +1,15 @@
+{
+  "id": 20092363,
+  "type": "Feature",
+  "properties": {
+    "name":"Court Henry, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092363,
+    "woe:name":"Court Henry, Wales, United Kingdom",
+    "woe:place_id":"Lh1Co8ubAZzLqFaZNg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.099617,51.882668,-4.096097,51.891113],
+  "geometry": {"alpha":0.00015,"bbox":[-4.0996170043945,51.882667541504,-4.0960969924927,51.89111328125],"coordinates":[[[[-4.098672,51.884624],[-4.099617,51.887089],[-4.09893,51.891113],[-4.096097,51.883617],[-4.09766,51.882668],[-4.098672,51.884624]]]],"created":1292530926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20092363_20101216_015a5cf0ce.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

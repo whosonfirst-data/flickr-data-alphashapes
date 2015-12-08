@@ -1,0 +1,15 @@
+{
+  "id": 123620,
+  "type": "Feature",
+  "properties": {
+    "name":"Felipe Carrillo Puerto, Quintana Roo, Mexico",
+    "placetype":"locality",
+    "woe:id":123620,
+    "woe:name":"Felipe Carrillo Puerto, Quintana Roo, Mexico",
+    "woe:place_id":"0tEv.6uYA59jby4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.057823,19.573954,-88.034737,19.59796],
+  "geometry": {"alpha":0.00015,"bbox":[-88.057823181152,19.57395362854,-88.034736633301,19.597959518433],"coordinates":[[[[-88.045036,19.576611],[-88.048553,19.576612],[-88.057823,19.573954],[-88.05645,19.578068],[-88.049927,19.585669],[-88.03894,19.59796],[-88.034737,19.586315],[-88.034737,19.584131],[-88.045036,19.576611]]]],"created":1292547820,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/123620_20101217_961f55ff4a.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

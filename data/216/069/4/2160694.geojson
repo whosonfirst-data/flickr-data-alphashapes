@@ -1,0 +1,15 @@
+{
+  "id": 2160694,
+  "type": "Feature",
+  "properties": {
+    "name":"Gejiu, Yunnan, China",
+    "placetype":"locality",
+    "woe:id":2160694,
+    "woe:name":"Gejiu, Yunnan, China",
+    "woe:place_id":"JsskMFObAJrjthQD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [103.148399,23.362833,103.156471,23.388269],
+  "geometry": {"alpha":0.00015,"bbox":[103.14839935303,23.362833023071,103.15647125244,23.388269424438],"coordinates":[[[[103.15152,23.372499],[103.148399,23.381968],[103.153381,23.388269],[103.155952,23.37311],[103.156471,23.370747],[103.154503,23.362833],[103.15152,23.372499]]]],"created":1292530859,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2160694_20101216_27d704e1ec.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

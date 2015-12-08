@@ -1,0 +1,15 @@
+{
+  "id": 18350,
+  "type": "Feature",
+  "properties": {
+    "name":"Dorrington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18350,
+    "woe:name":"Dorrington, England, United Kingdom",
+    "woe:place_id":"1_jpypmYCZ.vkg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.788155,52.615524,-2.767384,52.62709],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7881550788879,52.615524291992,-2.7673840522766,52.627090454102],"coordinates":[[[[-2.778542,52.62709],[-2.773,52.621834],[-2.767384,52.615524],[-2.772245,52.619125],[-2.782785,52.621922],[-2.788155,52.622402],[-2.778542,52.62709]]]],"created":1292465222,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/18350_20101216_5358c12e85.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

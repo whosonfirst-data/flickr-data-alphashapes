@@ -1,0 +1,15 @@
+{
+  "id": 56019472,
+  "type": "Feature",
+  "properties": {
+    "name":"Mountain Pines, Boulder, CO, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":56019472,
+    "woe:name":"Mountain Pines, Boulder, CO, US, United States",
+    "woe:place_id":"B8mO20CcB5wg64Suug",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-105.39167,40.023998,-105.386093,40.028236],
+  "geometry": {"alpha":1e-05,"bbox":[-105.39167022705,40.023998260498,-105.38609313965,40.02823638916],"coordinates":[[[[-105.39167,40.023998],[-105.390984,40.028236],[-105.386093,40.024788],[-105.390472,40.024296],[-105.39167,40.023998]]]],"created":1292465166,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/56019472_20101216_d1df4b6a9d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2511773,
+  "type": "Feature",
+  "properties": {
+    "name":"Vermontville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511773,
+    "woe:name":"Vermontville, New York, United States",
+    "woe:place_id":"aKtZjnybBJ3ZUnxJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.065933,44.437855,-74.052055,44.451279],
+  "geometry": {"alpha":0.00015,"bbox":[-74.065933227539,44.437854766846,-74.052055358887,44.451278686523],"coordinates":[[[[-74.052055,44.443127],[-74.053345,44.437855],[-74.053345,44.438652],[-74.065933,44.451279],[-74.054077,44.443676],[-74.052055,44.443127]]]],"created":1292478606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2511773_20101216_b922b70e49.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

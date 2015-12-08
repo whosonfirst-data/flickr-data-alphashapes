@@ -1,0 +1,15 @@
+{
+  "id": 150581,
+  "type": "Feature",
+  "properties": {
+    "name":"Vasco de Quiroga, Distrito Federal, Mexico",
+    "placetype":"locality",
+    "woe:id":150581,
+    "woe:name":"Vasco de Quiroga, Distrito Federal, Mexico",
+    "woe:place_id":"iJ5XhiaYBJw_5_8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.08329,19.443607,-99.076767,19.455585],
+  "geometry": {"alpha":0.00015,"bbox":[-99.083290100098,19.443607330322,-99.076766967773,19.455585479736],"coordinates":[[[[-99.08329,19.446299],[-99.081573,19.455585],[-99.079666,19.451014],[-99.076767,19.443607],[-99.079514,19.444578],[-99.08329,19.446299]]]],"created":1234754887,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3352/shapefiles/150581_20090216_fffb780259.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

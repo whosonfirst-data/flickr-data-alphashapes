@@ -1,0 +1,15 @@
+{
+  "id": 657388,
+  "type": "Feature",
+  "properties": {
+    "name":"Harras, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":657388,
+    "woe:name":"Harras, Thuringia, Germany",
+    "woe:place_id":"D0vVL.ifBJv9zFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.855865,50.399654,10.858182,50.41404],
+  "geometry": {"alpha":0.00015,"bbox":[10.855864524841,50.399654388428,10.85818195343,50.414039611816],"coordinates":[[[[10.858097,50.408463],[10.856895,50.406384],[10.855865,50.399654],[10.856208,50.408134],[10.857753,50.41404],[10.858182,50.409939],[10.858097,50.408463]]]],"created":1292538226,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/657388_20101216_424d7cd611.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

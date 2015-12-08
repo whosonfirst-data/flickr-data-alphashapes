@@ -1,0 +1,15 @@
+{
+  "id": 2390582,
+  "type": "Feature",
+  "properties": {
+    "name":"Deerwood, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2390582,
+    "woe:name":"Deerwood, North Carolina, United States",
+    "woe:place_id":"WVDY5_2bApVjC8Pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.894089,35.309666,-77.880501,35.31588],
+  "geometry": {"alpha":0.00015,"bbox":[-77.894088745117,35.309665679932,-77.880500793457,35.315879821777],"coordinates":[[[[-77.893974,35.310963],[-77.894089,35.31097],[-77.89386,35.311237],[-77.888901,35.31588],[-77.880501,35.309666],[-77.893974,35.310963]]]],"created":1292524192,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2390582_20101216_553ab1597c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

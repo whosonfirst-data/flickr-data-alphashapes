@@ -1,0 +1,15 @@
+{
+  "id": 20130543,
+  "type": "Feature",
+  "properties": {
+    "name":"Marchesino, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20130543,
+    "woe:name":"Marchesino, Veneto, Italy",
+    "woe:place_id":"FFZ47sybAZ0q.SgMpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.988388,45.363014,10.996595,45.379581],
+  "geometry": {"alpha":0.00015,"bbox":[10.988388061523,45.363014221191,10.99659538269,45.379581451416],"coordinates":[[[[10.99549,45.363014],[10.991456,45.364735],[10.988388,45.379581],[10.996595,45.366982],[10.99549,45.363014]]]],"created":1292536153,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/20130543_20101216_53fbd7d8a7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

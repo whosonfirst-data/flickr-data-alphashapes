@@ -1,0 +1,15 @@
+{
+  "id": 610,
+  "type": "Feature",
+  "properties": {
+    "name":"Grosse Isle, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":610,
+    "woe:name":"Grosse Isle, Manitoba, Canada",
+    "woe:place_id":"SCmLnTafAJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.450104,50.061302,-97.440117,50.066837],
+  "geometry": {"alpha":0.00015,"bbox":[-97.450103759766,50.061302185059,-97.440116882324,50.066837310791],"coordinates":[[[[-97.441719,50.061317],[-97.442009,50.061539],[-97.444778,50.063751],[-97.450104,50.066837],[-97.443497,50.065323],[-97.440117,50.061302],[-97.441719,50.061317]]]],"created":1292537725,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/610_20101216_6d3d9a1d9e.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

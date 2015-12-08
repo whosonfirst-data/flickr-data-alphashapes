@@ -1,0 +1,15 @@
+{
+  "id": 2384182,
+  "type": "Feature",
+  "properties": {
+    "name":"Conklin, New York, United States",
+    "placetype":"locality",
+    "woe:id":2384182,
+    "woe:name":"Conklin, New York, United States",
+    "woe:place_id":"od0iqGabApSioyRo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.820427,42.020622,-75.80555,42.037819],
+  "geometry": {"alpha":0.00015,"bbox":[-75.820426940918,42.020622253418,-75.805549621582,42.037818908691],"coordinates":[[[[-75.808273,42.021049],[-75.820427,42.037819],[-75.806664,42.034851],[-75.806358,42.02282],[-75.80555,42.020622],[-75.808273,42.021049]]]],"created":1292493363,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2384182_20101216_190d595f67.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

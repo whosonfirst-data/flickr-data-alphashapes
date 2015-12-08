@@ -1,0 +1,15 @@
+{
+  "id": 20070620,
+  "type": "Feature",
+  "properties": {
+    "name":"Salto, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070620,
+    "woe:name":"Salto, Buenos Aires, Argentina",
+    "woe:place_id":"UcDWnrubAZyStjsbyA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-60.256233,-34.329826,-60.194092,-34.285801],
+  "geometry": {"alpha":0.0015,"bbox":[-60.256233215332,-34.32982635498,-60.194091796875,-34.285800933838],"coordinates":[[[[-60.254002,-34.301754],[-60.254517,-34.294098],[-60.256233,-34.285801],[-60.241814,-34.292538],[-60.194092,-34.329826],[-60.246792,-34.317352],[-60.254002,-34.301754]]]],"created":1292518066,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20070620_20101216_de9126cb1a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

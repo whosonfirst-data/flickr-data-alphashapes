@@ -1,0 +1,15 @@
+{
+  "id": 29000201,
+  "type": "Feature",
+  "properties": {
+    "name":"Kadachira, Kerala, India",
+    "placetype":"locality",
+    "woe:id":29000201,
+    "woe:name":"Kadachira, Kerala, India",
+    "woe:place_id":"2zUSPxqbCJynsXn8EQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [75.394447,11.840974,75.420456,11.865472],
+  "geometry": {"alpha":0.00015,"bbox":[75.39444732666,11.840973854065,75.420455932617,11.865471839905],"coordinates":[[[[75.401054,11.841646],[75.394447,11.849543],[75.39917,11.852567],[75.41584,11.865472],[75.420456,11.857943],[75.403801,11.840974],[75.401054,11.841646]]]],"created":1292503384,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/29000201_20101216_885dc9335f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

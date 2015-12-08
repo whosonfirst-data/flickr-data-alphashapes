@@ -1,0 +1,15 @@
+{
+  "id": 2356761,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashville, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2356761,
+    "woe:name":"Ashville, Florida, United States",
+    "woe:place_id":"pH7DypObApmlEBtu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.643036,30.652182,-83.64209,30.656223],
+  "geometry": {"alpha":0.00015,"bbox":[-83.643035888672,30.652181625366,-83.64208984375,30.656223297119],"coordinates":[[[[-83.64209,30.652569],[-83.642349,30.652182],[-83.642395,30.652311],[-83.643036,30.656223],[-83.64209,30.652569]]]],"created":1292454128,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2356761_20101215_24ee412a4b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

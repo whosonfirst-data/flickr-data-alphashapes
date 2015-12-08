@@ -1,0 +1,15 @@
+{
+  "id": 2455120,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Mitchell, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2455120,
+    "woe:name":"Mount Mitchell, North Carolina, United States",
+    "woe:place_id":"aEaz5.ObBZmL80OM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.575256,35.480522,-80.554077,35.50753],
+  "geometry": {"alpha":0.00015,"bbox":[-80.575256347656,35.480522155762,-80.554077148438,35.507530212402],"coordinates":[[[[-80.575256,35.504501],[-80.566177,35.50753],[-80.566093,35.507408],[-80.554077,35.49918],[-80.560509,35.480522],[-80.562599,35.496799],[-80.575256,35.504501]]]],"created":1292456862,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2455120_20101215_bc6ddd7510.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

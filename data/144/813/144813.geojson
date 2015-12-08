@@ -1,0 +1,15 @@
+{
+  "id": 144813,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablito, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":144813,
+    "woe:name":"San Pablito, Puebla, Mexico",
+    "woe:place_id":".WNZ7fCYBZhUo7M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.169022,20.295609,-98.158379,20.301325],
+  "geometry": {"alpha":0.00015,"bbox":[-98.169021606445,20.295608520508,-98.158378601074,20.30132484436],"coordinates":[[[[-98.158379,20.297943],[-98.158379,20.295609],[-98.169022,20.297298],[-98.165894,20.298639],[-98.159752,20.301325],[-98.158379,20.297943]]]],"created":1292446884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/144813_20101215_edea4e8c8e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

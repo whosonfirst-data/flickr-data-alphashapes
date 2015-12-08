@@ -1,0 +1,15 @@
+{
+  "id": 20070217,
+  "type": "Feature",
+  "properties": {
+    "name":"Astara, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070217,
+    "woe:name":"Astara, AZ, Azerbaijan",
+    "woe:place_id":"CNIeywObAZzKGlFKYw",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [48.717499,38.400871,48.834743,38.543488],
+  "geometry": {"alpha":0.03,"bbox":[48.717498779297,38.400871276855,48.834743499756,38.543487548828],"coordinates":[[[[48.740845,38.400871],[48.717499,38.406521],[48.750286,38.543488],[48.834743,38.472809],[48.823242,38.432076],[48.740845,38.400871]]]],"created":1292528541,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20070217_20101216_8aaf385168.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

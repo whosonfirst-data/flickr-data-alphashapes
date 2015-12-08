@@ -1,0 +1,15 @@
+{
+  "id": 12629465,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Pattensen, Germany",
+    "placetype":"locality",
+    "woe:id":12629465,
+    "woe:name":"Gemeinde Pattensen, Germany",
+    "woe:place_id":"nVb9fZOYA5oSH05ZTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.73173,52.240788,9.73293,52.24231],
+  "geometry": {"alpha":1e-05,"bbox":[9.7317304611206,52.240787506104,9.7329301834106,52.242309570312],"coordinates":[[[[9.731837,52.242104],[9.731945,52.24231],[9.732127,52.242126],[9.73293,52.240788],[9.73173,52.241871],[9.731837,52.242104]]]],"created":1292520077,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12629465_20101216_d098f6c64b.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

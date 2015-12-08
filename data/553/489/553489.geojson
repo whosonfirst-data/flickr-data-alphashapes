@@ -1,0 +1,15 @@
+{
+  "id": 553489,
+  "type": "Feature",
+  "properties": {
+    "name":"Gelsted, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":553489,
+    "woe:name":"Gelsted, Sjaelland, Denmark",
+    "woe:place_id":"zoiYzN2cBJ_DEYI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.734997,55.29287,11.755055,55.295731],
+  "geometry": {"alpha":0.00015,"bbox":[11.734996795654,55.292869567871,11.755055427551,55.29573059082],"coordinates":[[[[11.755044,55.292889],[11.755055,55.292885],[11.755044,55.292873],[11.755038,55.29287],[11.734997,55.295731],[11.755038,55.292889],[11.755044,55.292889]]]],"created":1234563726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/553489_20090213_6f4101aa25.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2423528,
+  "type": "Feature",
+  "properties": {
+    "name":"Holmes, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2423528,
+    "woe:name":"Holmes, Pennsylvania, United States",
+    "woe:place_id":"BAh5ZoybBZ5delFK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.315834,39.893578,-75.305038,39.897202],
+  "geometry": {"alpha":0.00015,"bbox":[-75.31583404541,39.893577575684,-75.305038452148,39.897201538086],"coordinates":[[[[-75.315834,39.897202],[-75.305038,39.893578],[-75.314903,39.895798],[-75.314972,39.895794],[-75.315834,39.897202]]]],"created":1292420042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2423528_20101215_8ef0ffaca0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

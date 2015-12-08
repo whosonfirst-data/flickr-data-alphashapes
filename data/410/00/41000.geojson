@@ -1,0 +1,15 @@
+{
+  "id": 41000,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodnesborough, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":41000,
+    "woe:name":"Woodnesborough, England, United Kingdom",
+    "woe:place_id":"atR9_9SdAJw2.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.307287,51.262611,1.319561,51.281673],
+  "geometry": {"alpha":0.00015,"bbox":[1.3072869777679,51.26261138916,1.3195610046387,51.281673431396],"coordinates":[[[[1.307287,51.262848],[1.30733,51.263096],[1.30759,51.263969],[1.314239,51.281673],[1.319561,51.27523],[1.311664,51.263527],[1.310806,51.262611],[1.307287,51.262848]]]],"created":1292543342,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/41000_20101216_c77003c311.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

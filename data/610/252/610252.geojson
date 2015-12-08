@@ -1,0 +1,15 @@
+{
+  "id": 610252,
+  "type": "Feature",
+  "properties": {
+    "name":"Marsanne, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":610252,
+    "woe:name":"Marsanne, Rhone-Alpes, France",
+    "woe:place_id":"2hEFP2KfAJz7sKk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.865226,44.643421,4.873638,44.650826],
+  "geometry": {"alpha":0.00015,"bbox":[4.8652257919312,44.643421173096,4.8736381530762,44.650825500488],"coordinates":[[[[4.873208,44.643421],[4.865226,44.650826],[4.873595,44.648262],[4.873638,44.648201],[4.873294,44.643848],[4.873208,44.643421]]]],"created":1292519528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/610252_20101216_39a4cb2dc0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

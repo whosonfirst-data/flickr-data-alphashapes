@@ -1,0 +1,15 @@
+{
+  "id": 12673141,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Laurent-Lolmie, France",
+    "placetype":"locality",
+    "woe:id":12673141,
+    "woe:name":"St.-Laurent-Lolmie, France",
+    "woe:place_id":"VZ_7sKiYA5rICRpkoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.216049,44.311073,1.219482,44.312119],
+  "geometry": {"alpha":1e-05,"bbox":[1.2160489559174,44.311073303223,1.2194819450378,44.312118530273],"coordinates":[[[[1.219482,44.311626],[1.217722,44.311073],[1.216049,44.312119],[1.21725,44.31181],[1.219482,44.311626]]]],"created":1292539305,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12673141_20101216_dc0dfd1ecf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

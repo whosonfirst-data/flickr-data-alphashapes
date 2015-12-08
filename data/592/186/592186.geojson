@@ -1,0 +1,15 @@
+{
+  "id": 592186,
+  "type": "Feature",
+  "properties": {
+    "name":"Fromental, Limousin, France",
+    "placetype":"locality",
+    "woe:id":592186,
+    "woe:name":"Fromental, Limousin, France",
+    "woe:place_id":"FCfgQaGcCJ4ecsk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.375694,46.156349,1.396636,46.168655],
+  "geometry": {"alpha":0.00015,"bbox":[1.3756940364838,46.156349182129,1.3966360092163,46.168655395508],"coordinates":[[[[1.376563,46.158855],[1.376037,46.160095],[1.375694,46.168655],[1.39537,46.159302],[1.396636,46.159977],[1.392259,46.156349],[1.376563,46.158855]]]],"created":1292450762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/592186_20101215_becf9a109b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

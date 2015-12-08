@@ -1,0 +1,15 @@
+{
+  "id": 724727,
+  "type": "Feature",
+  "properties": {
+    "name":"Taurisano, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":724727,
+    "woe:name":"Taurisano, Puglia, Italy",
+    "woe:place_id":"TpudmyKeA5iBI7U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.210526,39.95528,18.222412,39.958897],
+  "geometry": {"alpha":0.00015,"bbox":[18.210525512695,39.955280303955,18.222412109375,39.958896636963],"coordinates":[[[[18.214474,39.955692],[18.210526,39.95528],[18.212414,39.958897],[18.222412,39.958214],[18.216963,39.956364],[18.214569,39.955715],[18.214474,39.955692]]]],"created":1292533158,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/724727_20101216_bcbe1f0ff7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

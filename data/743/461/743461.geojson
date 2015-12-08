@@ -1,0 +1,15 @@
+{
+  "id": 743461,
+  "type": "Feature",
+  "properties": {
+    "name":"Merciana, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":743461,
+    "woe:name":"Merciana, Lisbon, Portugal",
+    "woe:place_id":"iiAI75SeBZ.YCMY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.113674,39.092831,-9.109811,39.095646],
+  "geometry": {"alpha":0.00015,"bbox":[-9.1136741638184,39.092830657959,-9.1098108291626,39.095645904541],"coordinates":[[[[-9.113137,39.092831],[-9.113674,39.093231],[-9.112858,39.093697],[-9.109811,39.095646],[-9.109811,39.095585],[-9.113137,39.092831]]]],"created":1292456107,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/743461_20101215_a85894d415.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

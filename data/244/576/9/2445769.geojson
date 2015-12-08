@@ -1,0 +1,15 @@
+{
+  "id": 2445769,
+  "type": "Feature",
+  "properties": {
+    "name":"Marion, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2445769,
+    "woe:name":"Marion, Alabama, United States",
+    "woe:place_id":"PAopRyWbBZj4FD2e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.338989,32.611172,-87.301781,32.638218],
+  "geometry": {"alpha":0.00015,"bbox":[-87.338989257812,32.611171722412,-87.301780700684,32.638217926025],"coordinates":[[[[-87.313866,32.633465],[-87.301781,32.631966],[-87.316147,32.619678],[-87.334724,32.611172],[-87.338989,32.631207],[-87.323456,32.638218],[-87.32019,32.637577],[-87.313866,32.633465]]]],"created":1292528827,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2445769_20101216_ba7d4ca7a8.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

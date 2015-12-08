@@ -1,0 +1,15 @@
+{
+  "id": 29339325,
+  "type": "Feature",
+  "properties": {
+    "name":"Ponzano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":29339325,
+    "woe:name":"Ponzano, Tuscany, Italy",
+    "woe:place_id":"ra.ceLObCJ96puY.HA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.947854,43.715645,10.95251,43.720325],
+  "geometry": {"alpha":0.00015,"bbox":[10.947854042053,43.715644836426,10.952509880066,43.720325469971],"coordinates":[[[[10.948863,43.71603],[10.947854,43.720203],[10.94839,43.720325],[10.949742,43.720264],[10.95251,43.71703],[10.949378,43.715645],[10.948863,43.71603]]]],"created":1292457788,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/29339325_20101216_375192aa43.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

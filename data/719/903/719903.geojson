@@ -1,0 +1,15 @@
+{
+  "id": 719903,
+  "type": "Feature",
+  "properties": {
+    "name":"Pancalieri, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":719903,
+    "woe:name":"Pancalieri, Piedmont, Italy",
+    "woe:place_id":"61JBD6WeAJWaoBM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.582969,44.82069,7.603912,44.83886],
+  "geometry": {"alpha":0.00015,"bbox":[7.5829691886902,44.820690155029,7.6039118766785,44.838859558105],"coordinates":[[[[7.588291,44.830811],[7.582969,44.837856],[7.595286,44.83886],[7.603912,44.832985],[7.603761,44.826057],[7.596702,44.82069],[7.588291,44.830811]]]],"created":1292516402,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/719903_20101216_0b14e9f271.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

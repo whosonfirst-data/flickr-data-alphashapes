@@ -1,0 +1,15 @@
+{
+  "id": 12662214,
+  "type": "Feature",
+  "properties": {
+    "name":"Goudargues, France",
+    "placetype":"locality",
+    "woe:id":12662214,
+    "woe:name":"Goudargues, France",
+    "woe:place_id":"b4v6nZaYA5rZYodBHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.465427,44.212803,4.470244,44.215847],
+  "geometry": {"alpha":1e-05,"bbox":[4.4654269218445,44.212802886963,4.4702439308167,44.215847015381],"coordinates":[[[[4.470244,44.214985],[4.468259,44.213554],[4.467583,44.212803],[4.465427,44.215187],[4.469558,44.215847],[4.470244,44.214985]]]],"created":1292534702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12662214_20101216_1e485c2843.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1619,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Sylvestre, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1619,
+    "woe:name":"St.-Sylvestre, Quebec, Canada",
+    "woe:place_id":"mVk_zPKYB520",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.228653,46.354069,-71.223999,46.365646],
+  "geometry": {"alpha":0.00015,"bbox":[-71.228652954102,46.354068756104,-71.223999023438,46.365646362305],"coordinates":[[[[-71.225052,46.365646],[-71.223999,46.354069],[-71.228653,46.36002],[-71.227966,46.364105],[-71.225052,46.365646]]]],"created":1292548573,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/1619_20101217_d40b446030.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

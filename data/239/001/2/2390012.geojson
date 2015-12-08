@@ -1,0 +1,15 @@
+{
+  "id": 2390012,
+  "type": "Feature",
+  "properties": {
+    "name":"De Soto City, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2390012,
+    "woe:name":"De Soto City, Florida, United States",
+    "woe:place_id":"I25Tb.GbApW7.0SU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.419334,27.429298,-81.400497,27.446419],
+  "geometry": {"alpha":0.00015,"bbox":[-81.419334411621,27.429298400879,-81.400497436523,27.446418762207],"coordinates":[[[[-81.418221,27.429298],[-81.419334,27.436832],[-81.419159,27.444611],[-81.400497,27.446419],[-81.407692,27.437538],[-81.418221,27.429298]]]],"created":1292538074,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2390012_20101216_0de0ccdf97.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

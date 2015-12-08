@@ -1,0 +1,15 @@
+{
+  "id": 12694873,
+  "type": "Feature",
+  "properties": {
+    "name":"Beariz, Spain",
+    "placetype":"locality",
+    "woe:id":12694873,
+    "woe:name":"Beariz, Spain",
+    "woe:place_id":"OIK.IgSYA5oT300aHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.309483,42.435318,-8.304934,42.438343],
+  "geometry": {"alpha":1e-05,"bbox":[-8.3094825744629,42.435317993164,-8.3049335479736,42.438343048096],"coordinates":[[[[-8.309483,42.438343],[-8.308153,42.438248],[-8.304934,42.438011],[-8.307187,42.435318],[-8.307638,42.435707],[-8.309483,42.438343]]]],"created":1292520133,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12694873_20101216_4d71c98a67.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

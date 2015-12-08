@@ -1,0 +1,15 @@
+{
+  "id": 2443863,
+  "type": "Feature",
+  "properties": {
+    "name":"Macquillis Corner, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2443863,
+    "woe:name":"Macquillis Corner, Maine, United States",
+    "woe:place_id":"jMmL8.CbBZhtEoph",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.167503,44.60231,-70.151688,44.626503],
+  "geometry": {"alpha":0.00015,"bbox":[-70.167503356934,44.602310180664,-70.15168762207,44.626502990723],"coordinates":[[[[-70.167442,44.624687],[-70.162727,44.626503],[-70.161072,44.624748],[-70.151688,44.60231],[-70.167503,44.620167],[-70.167442,44.624687]]]],"created":1292500863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2443863_20101216_70dc1e09d7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

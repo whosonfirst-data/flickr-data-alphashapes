@@ -1,0 +1,15 @@
+{
+  "id": 12690693,
+  "type": "Feature",
+  "properties": {
+    "name":"El Casar, Spain",
+    "placetype":"locality",
+    "woe:id":12690693,
+    "woe:name":"El Casar, Spain",
+    "woe:place_id":"tb1a9bKYA5rdisMFYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.433249,40.752728,-3.432662,40.75547],
+  "geometry": {"alpha":1e-05,"bbox":[-3.4332489967346,40.752727508545,-3.4326620101929,40.755470275879],"coordinates":[[[[-3.432662,40.752728],[-3.433032,40.753029],[-3.433249,40.753426],[-3.432808,40.75547],[-3.432662,40.752728]]]],"created":1292531794,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12690693_20101216_3b37875a2c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

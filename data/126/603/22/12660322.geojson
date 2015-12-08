@@ -1,0 +1,15 @@
+{
+  "id": 12660322,
+  "type": "Feature",
+  "properties": {
+    "name":"Cusy, France",
+    "placetype":"locality",
+    "woe:id":12660322,
+    "woe:name":"Cusy, France",
+    "woe:place_id":"io2CY4aYA5q3e612Cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.055945,45.761772,6.057436,45.765907],
+  "geometry": {"alpha":1e-05,"bbox":[6.0559449195862,45.761772155762,6.0574359893799,45.765907287598],"coordinates":[[[[6.057436,45.764641],[6.0569,45.761772],[6.055945,45.764027],[6.056041,45.765907],[6.057436,45.764641]]]],"created":1292541156,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12660322_20101216_a929da234e.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

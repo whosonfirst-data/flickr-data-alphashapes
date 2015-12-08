@@ -1,0 +1,15 @@
+{
+  "id": 22721071,
+  "type": "Feature",
+  "properties": {
+    "name":"Cranbourne West, Melbourne, VIC, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":22721071,
+    "woe:name":"Cranbourne West, Melbourne, VIC, AU, Australia",
+    "woe:place_id":"a0qxOuibA5sTcKFp1Q",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [145.255005,-38.102348,145.258362,-38.099983],
+  "geometry": {"alpha":1e-05,"bbox":[145.25500488281,-38.102348327637,145.25836181641,-38.099983215332],"coordinates":[[[[145.255295,-38.100018],[145.256714,-38.100044],[145.258362,-38.100506],[145.257401,-38.102348],[145.255005,-38.099983],[145.255295,-38.100018]]]],"created":1292532876,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/22721071_20101216_19992895c1.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

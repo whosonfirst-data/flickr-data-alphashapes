@@ -1,0 +1,15 @@
+{
+  "id": 2366417,
+  "type": "Feature",
+  "properties": {
+    "name":"Boles Acres, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2366417,
+    "woe:name":"Boles Acres, New Mexico, United States",
+    "woe:place_id":"3zIOa8KbApoYYwuc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.939705,32.786678,-105.932793,32.821541],
+  "geometry": {"alpha":0.00015,"bbox":[-105.93970489502,32.786678314209,-105.93279266357,32.82154083252],"coordinates":[[[[-105.935669,32.821541],[-105.932793,32.80423],[-105.936745,32.786678],[-105.935928,32.805275],[-105.939705,32.818043],[-105.935669,32.821541]]]],"created":1292550159,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2366417_20101217_dcc95671d6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20070239,
+  "type": "Feature",
+  "properties": {
+    "name":"Masalli, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070239,
+    "woe:name":"Masalli, AZ, Azerbaijan",
+    "woe:place_id":"rWrHByqbAZxM0Rv0Aw",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [48.530331,38.961811,48.554279,38.972782],
+  "geometry": {"alpha":0.03,"bbox":[48.530330657959,38.961811065674,48.554279327393,38.97278213501],"coordinates":[[[[48.530426,38.961811],[48.530331,38.961903],[48.530441,38.962048],[48.538815,38.96751],[48.554279,38.972782],[48.550011,38.970261],[48.530426,38.961811]]]],"created":1292488022,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/20070239_20101216_507be97625.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

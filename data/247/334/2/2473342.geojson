@@ -1,0 +1,15 @@
+{
+  "id": 2473342,
+  "type": "Feature",
+  "properties": {
+    "name":"Plainedge, New York, United States",
+    "placetype":"locality",
+    "woe:id":2473342,
+    "woe:name":"Plainedge, New York, United States",
+    "woe:place_id":"bNiXodWbBZtA5Y9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.487244,40.710426,-73.467148,40.725819],
+  "geometry": {"alpha":0.00015,"bbox":[-73.487243652344,40.710426330566,-73.467147827148,40.725818634033],"coordinates":[[[[-73.487244,40.717651],[-73.486732,40.725536],[-73.467148,40.725819],[-73.481453,40.71851],[-73.481964,40.710426],[-73.487244,40.717651]]]],"created":1292500984,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2473342_20101216_b799492258.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

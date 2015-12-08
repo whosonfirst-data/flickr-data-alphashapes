@@ -1,0 +1,15 @@
+{
+  "id": 582750,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambes, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":582750,
+    "woe:name":"Cambes, Basse-Normandie, France",
+    "woe:place_id":"dOcIP16cCZ5dC74",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.388062,49.226021,-0.381324,49.235069],
+  "geometry": {"alpha":0.00015,"bbox":[-0.38806200027466,49.226020812988,-0.38132399320602,49.235069274902],"coordinates":[[[[-0.388019,49.232941],[-0.388062,49.235069],[-0.386066,49.234077],[-0.381324,49.23151],[-0.385401,49.226021],[-0.388019,49.232941]]]],"created":1292498768,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/582750_20101216_5fe96de665.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

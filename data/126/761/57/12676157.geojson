@@ -1,0 +1,15 @@
+{
+  "id": 12676157,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa di Tirano, Italy",
+    "placetype":"locality",
+    "woe:id":12676157,
+    "woe:name":"Villa di Tirano, Italy",
+    "woe:place_id":"YjHUbKyYA5ppKE6VFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.15421,46.214138,10.157032,46.220177],
+  "geometry": {"alpha":1e-05,"bbox":[10.154210090637,46.214138031006,10.157032012939,46.220176696777],"coordinates":[[[[10.15613,46.217972],[10.157032,46.214138],[10.155465,46.217258],[10.155229,46.218006],[10.15421,46.220177],[10.156173,46.2188],[10.15613,46.217972]]]],"created":1292544795,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12676157_20101217_5ee8af253d.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

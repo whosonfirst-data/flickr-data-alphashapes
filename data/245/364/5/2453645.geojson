@@ -1,0 +1,15 @@
+{
+  "id": 2453645,
+  "type": "Feature",
+  "properties": {
+    "name":"Mooers, New York, United States",
+    "placetype":"locality",
+    "woe:id":2453645,
+    "woe:name":"Mooers, New York, United States",
+    "woe:place_id":"zZeDSB.bBZljqgSz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.587456,44.960636,-73.569565,44.967129],
+  "geometry": {"alpha":0.00015,"bbox":[-73.587455749512,44.960636138916,-73.569564819336,44.967128753662],"coordinates":[[[[-73.583344,44.960636],[-73.587456,44.961395],[-73.579933,44.967129],[-73.569565,44.96645],[-73.580002,44.962898],[-73.583344,44.960636]]]],"created":1248132489,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2529/shapefiles/2453645_20090720_c046172dc3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3174,
+  "type": "Feature",
+  "properties": {
+    "name":"Elk Lake, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3174,
+    "woe:name":"Elk Lake, Ontario, Canada",
+    "woe:place_id":"DURjmBWaAJuM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.332115,47.719131,-80.316856,47.732136],
+  "geometry": {"alpha":0.00015,"bbox":[-80.33211517334,47.719131469727,-80.316856384277,47.732135772705],"coordinates":[[[[-80.331474,47.719131],[-80.330826,47.729626],[-80.332115,47.732136],[-80.316856,47.724892],[-80.331474,47.719131]]]],"created":1292549357,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/3174_20101217_ac2afc8ed3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

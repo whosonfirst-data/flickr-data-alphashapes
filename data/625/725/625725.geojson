@@ -1,0 +1,15 @@
+{
+  "id": 625725,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Martin, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":625725,
+    "woe:name":"St-Martin, Ile-de-France, France",
+    "woe:place_id":"52rJSXGfA5nbqt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.684942,49.038418,1.694416,49.0406],
+  "geometry": {"alpha":0.00015,"bbox":[1.6849420070648,49.038417816162,1.6944160461426,49.040599822998],"coordinates":[[[[1.68877,49.0406],[1.689425,49.040508],[1.694416,49.038418],[1.689416,49.040394],[1.684942,49.040512],[1.68877,49.0406]]]],"created":1292447139,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/625725_20101215_707a1da0fe.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

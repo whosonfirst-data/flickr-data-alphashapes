@@ -1,0 +1,15 @@
+{
+  "id": 29334049,
+  "type": "Feature",
+  "properties": {
+    "name":"San Siro, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":29334049,
+    "woe:name":"San Siro, Lombardy, Italy",
+    "woe:place_id":"FvO4caibCJ8Z6WKOiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.257011,46.051388,9.258728,46.055859],
+  "geometry": {"alpha":0.00015,"bbox":[9.2570114135742,46.051387786865,9.2587280273438,46.055858612061],"coordinates":[[[[9.258191,46.051407],[9.257011,46.051552],[9.258126,46.055859],[9.258728,46.054054],[9.258413,46.051388],[9.258191,46.051407]]]],"created":1292482024,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/29334049_20101216_e222d8ae5b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

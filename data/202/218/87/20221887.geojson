@@ -1,0 +1,15 @@
+{
+  "id": 20221887,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad Quesada, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20221887,
+    "woe:name":"Ciudad Quesada, Valencia, Spain",
+    "woe:place_id":"ChewWMqbAZ4tjwUWQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.731277,38.052612,-0.722694,38.064716],
+  "geometry": {"alpha":0.00015,"bbox":[-0.73127698898315,38.052612304688,-0.72269397974014,38.064716339111],"coordinates":[[[[-0.729818,38.063667],[-0.727061,38.064354],[-0.722694,38.064716],[-0.731277,38.052612],[-0.729818,38.063667]]]],"created":1292539319,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/20221887_20101216_a64f306c3b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

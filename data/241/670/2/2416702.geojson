@@ -1,0 +1,15 @@
+{
+  "id": 2416702,
+  "type": "Feature",
+  "properties": {
+    "name":"Hammarlee, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2416702,
+    "woe:name":"Hammarlee, Maryland, United States",
+    "woe:place_id":"MFYVQPWbBZ0aOT6q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.606461,39.174999,-76.603699,39.185299],
+  "geometry": {"alpha":0.00015,"bbox":[-76.606460571289,39.174999237061,-76.603698730469,39.185298919678],"coordinates":[[[[-76.6064,39.1772],[-76.606461,39.185299],[-76.603699,39.175098],[-76.603798,39.174999],[-76.605103,39.176201],[-76.6064,39.1772]]]],"created":1292493844,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2416702_20101216_0e0843a0bc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

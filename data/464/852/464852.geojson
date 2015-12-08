@@ -1,0 +1,15 @@
+{
+  "id": 464852,
+  "type": "Feature",
+  "properties": {
+    "name":"Burzaco, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":464852,
+    "woe:name":"Burzaco, Buenos Aires, Argentina",
+    "woe:place_id":"Rr.IIIKdB5j8Gag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.406754,-34.8241,-58.393024,-34.796112],
+  "geometry": {"alpha":0.00015,"bbox":[-58.406753540039,-34.824100494385,-58.39302444458,-34.796112060547],"coordinates":[[[[-58.393024,-34.798203],[-58.394039,-34.802483],[-58.393845,-34.8241],[-58.406754,-34.805771],[-58.406754,-34.796112],[-58.393024,-34.798203]]]],"created":1292547657,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/464852_20101217_e3ac6f65ef.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

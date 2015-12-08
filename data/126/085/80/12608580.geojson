@@ -1,0 +1,15 @@
+{
+  "id": 12608580,
+  "type": "Feature",
+  "properties": {
+    "name":"Rostoklaty, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12608580,
+    "woe:name":"Rostoklaty, Czech Republic",
+    "woe:place_id":"TNncjt6YA5pFIF1BfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.805622,50.077305,14.810385,50.079121],
+  "geometry": {"alpha":1e-05,"bbox":[14.80562210083,50.077304840088,14.810384750366,50.079120635986],"coordinates":[[[[14.80854,50.077305],[14.805622,50.078846],[14.805793,50.079121],[14.808368,50.078735],[14.809055,50.078846],[14.810385,50.078777],[14.80854,50.077305]]]],"created":1292520055,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12608580_20101216_363cd33281.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

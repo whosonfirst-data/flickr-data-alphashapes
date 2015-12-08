@@ -1,0 +1,15 @@
+{
+  "id": 56056,
+  "type": "Feature",
+  "properties": {
+    "name":"Macuarima, Aruba",
+    "placetype":"locality",
+    "woe:id":56056,
+    "woe:name":"Macuarima, Aruba",
+    "woe:place_id":"gRToP1ScB5wcTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.974495,12.493314,-69.959732,12.507833],
+  "geometry": {"alpha":0.00015,"bbox":[-69.974494934082,12.493313789368,-69.959732055664,12.507832527161],"coordinates":[[[[-69.962311,12.50228],[-69.960251,12.501107],[-69.959732,12.497085],[-69.974495,12.493314],[-69.969498,12.5078],[-69.969498,12.507833],[-69.962311,12.50228]]]],"created":1292443357,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/56056_20101215_f18fed8069.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

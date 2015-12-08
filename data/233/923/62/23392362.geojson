@@ -1,0 +1,15 @@
+{
+  "id": 23392362,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellington, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23392362,
+    "woe:name":"Wellington, Nova Scotia, Canada",
+    "woe:place_id":"ZMf.fLKbAp_JOllYUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.625687,44.856964,-63.617813,44.877857],
+  "geometry": {"alpha":0.00015,"bbox":[-63.625686645508,44.856964111328,-63.617813110352,44.877857208252],"coordinates":[[[[-63.617813,44.856964],[-63.623028,44.860737],[-63.624485,44.864933],[-63.625687,44.870651],[-63.625626,44.873531],[-63.621269,44.877857],[-63.618221,44.859398],[-63.617813,44.856964]]]],"created":1292457426,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/23392362_20101215_f2ce6d380a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

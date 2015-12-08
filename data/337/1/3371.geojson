@@ -1,0 +1,15 @@
+{
+  "id": 3371,
+  "type": "Feature",
+  "properties": {
+    "name":"Limoges, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3371,
+    "woe:name":"Limoges, Ontario, Canada",
+    "woe:place_id":"YNinVwmaApvx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.250854,45.295811,-75.214462,45.33263],
+  "geometry": {"alpha":0.00015,"bbox":[-75.250854492188,45.295810699463,-75.214462280273,45.332630157471],"coordinates":[[[[-75.22467,45.3125],[-75.230515,45.295811],[-75.237648,45.30138],[-75.250854,45.318237],[-75.247009,45.329552],[-75.241066,45.33263],[-75.221497,45.322643],[-75.214462,45.31546],[-75.22467,45.3125]]]],"created":1292526729,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/3371_20101216_ca4419b441.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12623324,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Buggingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623324,
+    "woe:name":"Gemeinde Buggingen, Germany",
+    "woe:place_id":"7XaWGMSYA5rETXfoNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.62847,47.855518,7.629511,47.856876],
+  "geometry": {"alpha":1e-05,"bbox":[7.6284699440002,47.855518341064,7.6295108795166,47.856876373291],"coordinates":[[[[7.628513,47.855587],[7.629511,47.856876],[7.629339,47.856323],[7.62847,47.855518],[7.628513,47.855587]]]],"created":1292540528,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12623324_20101216_a47fe0528c.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

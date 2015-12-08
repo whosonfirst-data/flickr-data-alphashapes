@@ -1,0 +1,15 @@
+{
+  "id": 12654704,
+  "type": "Feature",
+  "properties": {
+    "name":"Vulvoz, France",
+    "placetype":"locality",
+    "woe:id":12654704,
+    "woe:name":"Vulvoz, France",
+    "woe:place_id":"BHSsJcqYA5qjPGdPwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.778229,46.32518,5.778487,46.325729],
+  "geometry": {"alpha":1e-05,"bbox":[5.7782292366028,46.325180053711,5.7784872055054,46.325729370117],"coordinates":[[[[5.778487,46.325684],[5.778229,46.32518],[5.778444,46.325729],[5.778465,46.325714],[5.778487,46.325684]]]],"created":1234553043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3431/shapefiles/12654704_20090213_847048525a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

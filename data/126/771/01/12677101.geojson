@@ -1,0 +1,15 @@
+{
+  "id": 12677101,
+  "type": "Feature",
+  "properties": {
+    "name":"Bresso, Italy",
+    "placetype":"locality",
+    "woe:id":12677101,
+    "woe:name":"Bresso, Italy",
+    "woe:place_id":"FPZz5xaYA5oh0gTTgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.185374,45.539539,9.190063,45.542007],
+  "geometry": {"alpha":1e-05,"bbox":[9.1853742599487,45.539539337158,9.1900634765625,45.542007446289],"coordinates":[[[[9.185374,45.541206],[9.185428,45.541309],[9.18766,45.542007],[9.190063,45.539539],[9.185568,45.541073],[9.185374,45.541164],[9.185374,45.541206]]]],"created":1292538673,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12677101_20101216_959f1034a6.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

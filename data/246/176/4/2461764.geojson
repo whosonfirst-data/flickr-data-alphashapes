@@ -1,0 +1,15 @@
+{
+  "id": 2461764,
+  "type": "Feature",
+  "properties": {
+    "name":"North Vinemont, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2461764,
+    "woe:name":"North Vinemont, Alabama, United States",
+    "woe:place_id":"2GsFmkKbBZoWfjBC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.857567,34.280624,-86.843918,34.294273],
+  "geometry": {"alpha":0.00015,"bbox":[-86.857566833496,34.280624389648,-86.84391784668,34.294273376465],"coordinates":[[[[-86.857567,34.281616],[-86.856453,34.293686],[-86.856705,34.294273],[-86.843918,34.291962],[-86.851814,34.280624],[-86.857567,34.281616]]]],"created":1292478006,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2461764_20101216_e65dee553e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

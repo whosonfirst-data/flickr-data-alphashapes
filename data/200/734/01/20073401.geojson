@@ -1,0 +1,15 @@
+{
+  "id": 20073401,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellavary, Ireland",
+    "placetype":"locality",
+    "woe:id":20073401,
+    "woe:name":"Bellavary, Ireland",
+    "woe:place_id":"7TSPmpubAZxw23FZLQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.129878,53.921162,-9.128569,53.922314],
+  "geometry": {"alpha":1e-05,"bbox":[-9.1298780441284,53.921161651611,-9.128568649292,53.922313690186],"coordinates":[[[[-9.128569,53.921371],[-9.128608,53.921162],[-9.129878,53.921185],[-9.129404,53.922314],[-9.129064,53.921932],[-9.128569,53.921371]]]],"created":1292541816,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20073401_20101216_77712950f1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

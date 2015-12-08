@@ -1,0 +1,15 @@
+{
+  "id": 29338247,
+  "type": "Feature",
+  "properties": {
+    "name":"Trevi, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":29338247,
+    "woe:name":"Trevi, Umbria, Italy",
+    "woe:place_id":"0ZcC6CabCJ9CfPBneg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.667429,42.574131,12.677621,42.58527],
+  "geometry": {"alpha":0.00015,"bbox":[12.667428970337,42.574131011963,12.677620887756,42.585269927979],"coordinates":[[[[12.676506,42.583927],[12.677621,42.583454],[12.677321,42.582539],[12.667429,42.574131],[12.672944,42.58527],[12.676506,42.583927]]]],"created":1292455331,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/29338247_20101215_7ef42fee23.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

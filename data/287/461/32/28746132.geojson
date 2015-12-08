@@ -1,0 +1,15 @@
+{
+  "id": 28746132,
+  "type": "Feature",
+  "properties": {
+    "name":"White Gate, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":28746132,
+    "woe:name":"White Gate, Virginia, United States",
+    "woe:place_id":"BlsT2hSbCZvfegCjGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.842033,37.184143,-80.82058,37.199841],
+  "geometry": {"alpha":0.00015,"bbox":[-80.84203338623,37.184143066406,-80.820579528809,37.199840545654],"coordinates":[[[[-80.824142,37.184143],[-80.824348,37.184254],[-80.842033,37.191536],[-80.835342,37.199841],[-80.82058,37.195877],[-80.824142,37.184143]]]],"created":1292551276,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/28746132_20101217_a64146b60b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

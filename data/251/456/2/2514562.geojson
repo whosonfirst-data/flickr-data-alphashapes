@@ -1,0 +1,15 @@
+{
+  "id": 2514562,
+  "type": "Feature",
+  "properties": {
+    "name":"Waseck, California, United States",
+    "placetype":"locality",
+    "woe:id":2514562,
+    "woe:name":"Waseck, California, United States",
+    "woe:place_id":"1W0IiA.bBJ2p7mwB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.75708,41.207367,-123.754196,41.208298],
+  "geometry": {"alpha":0.00015,"bbox":[-123.75708007812,41.207366943359,-123.75419616699,41.208297729492],"coordinates":[[[[-123.756783,41.207493],[-123.75708,41.20763],[-123.755463,41.208282],[-123.754196,41.208298],[-123.75473,41.207367],[-123.756783,41.207493]]]],"created":1292525694,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2514562_20101216_47b8afcd3c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

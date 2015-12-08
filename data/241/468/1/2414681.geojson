@@ -1,0 +1,15 @@
+{
+  "id": 2414681,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwood, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2414681,
+    "woe:name":"Greenwood, Georgia, United States",
+    "woe:place_id":"LNRXMPabBZ2i0UxV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.083611,34.889839,-85.070923,34.898472],
+  "geometry": {"alpha":0.00015,"bbox":[-85.083610534668,34.889839172363,-85.070922851562,34.898471832275],"coordinates":[[[[-85.072571,34.889839],[-85.075546,34.891563],[-85.083611,34.898472],[-85.075226,34.894283],[-85.070923,34.889874],[-85.072571,34.889839]]]],"created":1292535894,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2414681_20101216_729012467a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1226035,
+  "type": "Feature",
+  "properties": {
+    "name":"Mae Ramat, Tak, Thailand",
+    "placetype":"locality",
+    "woe:id":1226035,
+    "woe:name":"Mae Ramat, Tak, Thailand",
+    "woe:place_id":"I1Ok26KYA57M5c4r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [98.475952,16.982592,98.481445,16.987188],
+  "geometry": {"alpha":0.00015,"bbox":[98.475952148438,16.982591629028,98.4814453125,16.987188339233],"coordinates":[[[[98.481445,16.983906],[98.480072,16.983248],[98.478699,16.982592],[98.475952,16.983906],[98.478699,16.985874],[98.480072,16.987188],[98.481445,16.983906]]]],"created":1292468107,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/1226035_20101216_cf243d6805.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

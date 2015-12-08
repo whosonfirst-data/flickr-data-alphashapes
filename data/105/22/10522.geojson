@@ -1,0 +1,15 @@
+{
+  "id": 10522,
+  "type": "Feature",
+  "properties": {
+    "name":"Albury, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10522,
+    "woe:name":"Albury, England, United Kingdom",
+    "woe:place_id":"SEz1NZ2YAZkGDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.05989,51.740524,-1.043501,51.748501],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0598900318146,51.740524291992,-1.0435010194778,51.748500823975],"coordinates":[[[[-1.0518,51.740524],[-1.05989,51.740669],[-1.05192,51.740616],[-1.043501,51.748501],[-1.046791,51.743187],[-1.0518,51.740524]]]],"created":1292473810,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/10522_20101216_f509205848.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

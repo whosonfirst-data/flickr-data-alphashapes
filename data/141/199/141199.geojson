@@ -1,0 +1,15 @@
+{
+  "id": 141199,
+  "type": "Feature",
+  "properties": {
+    "name":"Salinas Victoria, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":141199,
+    "woe:name":"Salinas Victoria, Nuevo Leon, Mexico",
+    "woe:place_id":"LfRBZcaYBZ3Naeo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.289894,25.958662,-100.27771,25.96283],
+  "geometry": {"alpha":0.00015,"bbox":[-100.289894104,25.958662033081,-100.27770996094,25.962829589844],"coordinates":[[[[-100.289894,25.962366],[-100.28981,25.96283],[-100.27771,25.962366],[-100.278908,25.958662],[-100.289894,25.962366]]]],"created":1292524383,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/141199_20101216_8c415d1e5c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

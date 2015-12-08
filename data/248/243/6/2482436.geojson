@@ -1,0 +1,15 @@
+{
+  "id": 2482436,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverview Farms, California, United States",
+    "placetype":"locality",
+    "woe:id":2482436,
+    "woe:name":"Riverview Farms, California, United States",
+    "woe:place_id":"aM2t7GmbBZT3kOkC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.935211,32.841015,-116.927704,32.8461],
+  "geometry": {"alpha":0.00015,"bbox":[-116.93521118164,32.841014862061,-116.92770385742,32.846099853516],"coordinates":[[[[-116.929428,32.841591],[-116.931183,32.841015],[-116.935211,32.842709],[-116.932297,32.8461],[-116.927704,32.841953],[-116.929428,32.841591]]]],"created":1292534113,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2482436_20101216_eb0994f0b6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745617,
+  "type": "Feature",
+  "properties": {
+    "name":"Menallen, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745617,
+    "woe:name":"Menallen, Pennsylvania, United States",
+    "woe:place_id":"PWK.l6ebCZtkT.po_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.382332,39.99477,-77.370789,40.008999],
+  "geometry": {"alpha":0.00015,"bbox":[-77.382331848145,39.994770050049,-77.370788574219,40.00899887085],"coordinates":[[[[-77.382164,40.008499],[-77.382332,40.008835],[-77.382332,40.008999],[-77.381836,40.008499],[-77.370789,39.99477],[-77.382164,40.008499]]]],"created":1292536938,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/28745617_20101216_02b604e3f1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

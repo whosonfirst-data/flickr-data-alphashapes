@@ -1,0 +1,15 @@
+{
+  "id": 2379950,
+  "type": "Feature",
+  "properties": {
+    "name":"Chisolms, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2379950,
+    "woe:name":"Chisolms, South Carolina, United States",
+    "woe:place_id":"MDUWWACbApsdv0Hr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.680847,32.528488,-80.673294,32.531616],
+  "geometry": {"alpha":0.00015,"bbox":[-80.680847167969,32.52848815918,-80.673294067383,32.531616210938],"coordinates":[[[[-80.680206,32.529446],[-80.680847,32.531616],[-80.674149,32.531544],[-80.673294,32.53075],[-80.678787,32.528488],[-80.680206,32.529446]]]],"created":1292538069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2379950_20101216_afd2004094.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

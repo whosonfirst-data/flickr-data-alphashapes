@@ -1,0 +1,15 @@
+{
+  "id": 2429709,
+  "type": "Feature",
+  "properties": {
+    "name":"Joliet, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2429709,
+    "woe:name":"Joliet, Montana, United States",
+    "woe:place_id":"vr5ZJuGbBZ60Q2nH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.987968,45.478279,-108.969139,45.485928],
+  "geometry": {"alpha":0.00015,"bbox":[-108.98796844482,45.47827911377,-108.96913909912,45.485927581787],"coordinates":[[[[-108.970169,45.485001],[-108.969803,45.485668],[-108.969139,45.485928],[-108.970879,45.482521],[-108.987968,45.478279],[-108.970169,45.485001]]]],"created":1292451783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2429709_20101215_b308e6d246.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

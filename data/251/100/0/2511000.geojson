@@ -1,0 +1,15 @@
+{
+  "id": 2511000,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley View Acres, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2511000,
+    "woe:name":"Valley View Acres, West Virginia, United States",
+    "woe:place_id":"Lu_6XsqbBJ3h3q65",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.495377,39.197464,-81.482613,39.203156],
+  "geometry": {"alpha":0.00015,"bbox":[-81.495376586914,39.197463989258,-81.482612609863,39.203155517578],"coordinates":[[[[-81.483536,39.199589],[-81.482613,39.197498],[-81.484093,39.197464],[-81.495377,39.203156],[-81.483536,39.199589]]]],"created":1234613295,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3361/shapefiles/2511000_20090214_4f7f9bdd10.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

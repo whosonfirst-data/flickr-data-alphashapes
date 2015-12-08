@@ -1,0 +1,15 @@
+{
+  "id": 20227498,
+  "type": "Feature",
+  "properties": {
+    "name":"El Campillo, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":20227498,
+    "woe:name":"El Campillo, Madrid, Spain",
+    "woe:place_id":"tV3_CnSbAZ70d7JsPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.107856,40.621666,-4.093523,40.640789],
+  "geometry": {"alpha":0.00015,"bbox":[-4.107855796814,40.62166595459,-4.0935230255127,40.640789031982],"coordinates":[[[[-4.101334,40.623665],[-4.107856,40.640789],[-4.093523,40.63102],[-4.095334,40.621666],[-4.101334,40.623665]]]],"created":1292532786,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20227498_20101216_4898c65ba6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

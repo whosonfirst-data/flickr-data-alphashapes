@@ -1,0 +1,15 @@
+{
+  "id": 12683509,
+  "type": "Feature",
+  "properties": {
+    "name":"Furna, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683509,
+    "woe:name":"Furna, Switzerland",
+    "woe:place_id":"f_1Y19yYA5rxrDm9yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.65109,46.94503,9.652,46.945179],
+  "geometry": {"alpha":1e-05,"bbox":[9.6510896682739,46.945030212402,9.6520004272461,46.945178985596],"coordinates":[[[[9.65129,46.945099],[9.65109,46.945179],[9.65187,46.94511],[9.652,46.94503],[9.65129,46.945099]]]],"created":1226552522,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3166/shapefiles/12683509_20081113_d0660e0862.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

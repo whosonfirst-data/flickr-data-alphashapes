@@ -1,0 +1,15 @@
+{
+  "id": 637991,
+  "type": "Feature",
+  "properties": {
+    "name":"Bergen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":637991,
+    "woe:name":"Bergen, Bavaria, Germany",
+    "woe:place_id":"HAisw1ufApuIE6Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.574925,47.804192,12.588872,47.817364],
+  "geometry": {"alpha":0.00015,"bbox":[12.574925422668,47.804191589355,12.588871955872,47.817363739014],"coordinates":[[[[12.588872,47.809868],[12.585413,47.80695],[12.5845,47.806499],[12.574925,47.804192],[12.576609,47.807957],[12.583959,47.817364],[12.588851,47.810036],[12.588872,47.809868]]]],"created":1292542545,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/637991_20101216_51fb589ba0.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

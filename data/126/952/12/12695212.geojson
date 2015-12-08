@@ -1,0 +1,15 @@
+{
+  "id": 12695212,
+  "type": "Feature",
+  "properties": {
+    "name":"Igorre, Spain",
+    "placetype":"locality",
+    "woe:id":12695212,
+    "woe:name":"Igorre, Spain",
+    "woe:place_id":"DTxZoRCYA5pVJd8h5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.778991,43.162495,-2.771816,43.166],
+  "geometry": {"alpha":1e-05,"bbox":[-2.778990983963,43.162494659424,-2.7718160152435,43.166000366211],"coordinates":[[[[-2.777652,43.162495],[-2.778991,43.163246],[-2.777824,43.166],[-2.7771,43.164532],[-2.771816,43.164871],[-2.775227,43.162743],[-2.777652,43.162495]]]],"created":1248115204,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2536/shapefiles/12695212_20090720_cd123d3810.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

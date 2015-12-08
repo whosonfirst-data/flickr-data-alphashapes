@@ -1,0 +1,15 @@
+{
+  "id": 2500745,
+  "type": "Feature",
+  "properties": {
+    "name":"Stratford, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2500745,
+    "woe:name":"Stratford, Virginia, United States",
+    "woe:place_id":"vyL1KvGbBJzP.Z_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.842583,38.149914,-76.839386,38.1521],
+  "geometry": {"alpha":0.00015,"bbox":[-76.842582702637,38.149913787842,-76.839385986328,38.152099609375],"coordinates":[[[[-76.842583,38.150486],[-76.841606,38.151009],[-76.839386,38.1521],[-76.840569,38.149914],[-76.842583,38.150486]]]],"created":1292528983,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2500745_20101216_9d9453aeaf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

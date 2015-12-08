@@ -1,0 +1,15 @@
+{
+  "id": 12678745,
+  "type": "Feature",
+  "properties": {
+    "name":"Codevigo, Italy",
+    "placetype":"locality",
+    "woe:id":12678745,
+    "woe:name":"Codevigo, Italy",
+    "woe:place_id":"M4L2V_aYA5qUDTN1Cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.148818,45.266037,12.15414,45.273075],
+  "geometry": {"alpha":1e-05,"bbox":[12.148818016052,45.266036987305,12.154140472412,45.27307510376],"coordinates":[[[[12.152261,45.267529],[12.152402,45.267246],[12.152123,45.266937],[12.151093,45.266037],[12.150278,45.269268],[12.148818,45.270386],[12.15414,45.273075],[12.152261,45.267529]]]],"created":1292525943,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12678745_20101216_884924d368.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 40755,
+  "type": "Feature",
+  "properties": {
+    "name":"Wissington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40755,
+    "woe:name":"Wissington, England, United Kingdom",
+    "woe:place_id":"0FSKSPGdAZu7fg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.452156,52.533035,0.467605,52.553761],
+  "geometry": {"alpha":0.00015,"bbox":[0.45215600728989,52.53303527832,0.46760499477386,52.553760528564],"coordinates":[[[[0.452156,52.552479],[0.45619,52.553761],[0.456705,52.552456],[0.467605,52.533035],[0.453872,52.535542],[0.453701,52.546036],[0.452156,52.552479]]]],"created":1292443242,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/40755_20101215_77a2f3df1b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

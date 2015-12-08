@@ -1,0 +1,15 @@
+{
+  "id": 659734,
+  "type": "Feature",
+  "properties": {
+    "name":"Heubach, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":659734,
+    "woe:name":"Heubach, Hesse, Germany",
+    "woe:place_id":"5joCA.ifBJXCDBI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.963127,49.834854,8.985399,49.843296],
+  "geometry": {"alpha":0.00015,"bbox":[8.9631271362305,49.834854125977,8.9853992462158,49.843296051025],"coordinates":[[[[8.985377,49.836224],[8.985399,49.836155],[8.982353,49.834854],[8.963127,49.840858],[8.967847,49.843296],[8.985275,49.836369],[8.985377,49.836224]]]],"created":1292538449,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/659734_20101216_8cc6da1fef.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

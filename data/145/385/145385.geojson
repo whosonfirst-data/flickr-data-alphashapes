@@ -1,0 +1,15 @@
+{
+  "id": 145385,
+  "type": "Feature",
+  "properties": {
+    "name":"San Salvador, Distrito Federal, Mexico",
+    "placetype":"locality",
+    "woe:id":145385,
+    "woe:name":"San Salvador, Distrito Federal, Mexico",
+    "woe:place_id":"XoSUEnyYBZkSIE0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.114876,19.182787,-99.094467,19.211275],
+  "geometry": {"alpha":0.00015,"bbox":[-99.114875793457,19.182786941528,-99.094467163086,19.211275100708],"coordinates":[[[[-99.114876,19.201025],[-99.094467,19.211275],[-99.102921,19.197832],[-99.105606,19.182787],[-99.114876,19.201025]]]],"created":1248085806,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3457/shapefiles/145385_20090720_046e511497.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

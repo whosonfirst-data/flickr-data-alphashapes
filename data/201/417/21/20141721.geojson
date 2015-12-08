@@ -1,0 +1,15 @@
+{
+  "id": 20141721,
+  "type": "Feature",
+  "properties": {
+    "name":"San Novo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20141721,
+    "woe:name":"San Novo, Lombardy, Italy",
+    "woe:place_id":"nm6YO_6bAZ2CGnKeRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.06917,45.397243,9.106311,45.411575],
+  "geometry": {"alpha":0.00029296875,"bbox":[9.0691699981689,45.397243499756,9.1063108444214,45.411575317383],"coordinates":[[[[9.070158,45.397243],[9.078397,45.401192],[9.103861,45.411575],[9.105738,45.410866],[9.106311,45.410622],[9.095563,45.400257],[9.078397,45.401192],[9.075223,45.402271],[9.06917,45.401161],[9.070158,45.397243]]]],"created":1292452268,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/20141721_20101215_fe09bf58ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

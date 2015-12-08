@@ -1,0 +1,15 @@
+{
+  "id": 29347603,
+  "type": "Feature",
+  "properties": {
+    "name":"Reitl, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347603,
+    "woe:name":"Reitl, Bavaria, Germany",
+    "woe:place_id":"Te7t7V6bCJ9C2q5CNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.550715,47.786568,12.551901,47.788139],
+  "geometry": {"alpha":0.00015,"bbox":[12.550715446472,47.786567687988,12.551900863647,47.788139343262],"coordinates":[[[[12.550935,47.788139],[12.551025,47.787994],[12.551901,47.786781],[12.551756,47.786568],[12.551238,47.787022],[12.550715,47.788052],[12.550935,47.788139]]]],"created":1292452868,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/29347603_20101215_69cc21f58a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

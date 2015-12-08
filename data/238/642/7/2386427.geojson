@@ -1,0 +1,15 @@
+{
+  "id": 2386427,
+  "type": "Feature",
+  "properties": {
+    "name":"Coxville, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2386427,
+    "woe:name":"Coxville, Indiana, United States",
+    "woe:place_id":"qs8A6oCbApQcmhLO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.295647,39.65168,-87.290466,39.658569],
+  "geometry": {"alpha":0.00015,"bbox":[-87.29564666748,39.651679992676,-87.290466308594,39.658569335938],"coordinates":[[[[-87.294289,39.65168],[-87.295647,39.652756],[-87.29496,39.658569],[-87.292427,39.656414],[-87.290466,39.653908],[-87.294289,39.65168]]]],"created":1292493782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2386427_20101216_bf4187c10d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

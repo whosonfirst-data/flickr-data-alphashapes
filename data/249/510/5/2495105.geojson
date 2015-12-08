@@ -1,0 +1,15 @@
+{
+  "id": 2495105,
+  "type": "Feature",
+  "properties": {
+    "name":"Smithville, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2495105,
+    "woe:name":"Smithville, Mississippi, United States",
+    "woe:place_id":"LexNHLebBZUNL.kh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.395737,34.06945,-88.385849,34.073765],
+  "geometry": {"alpha":0.00015,"bbox":[-88.395736694336,34.069450378418,-88.385848999023,34.073764801025],"coordinates":[[[[-88.395737,34.06945],[-88.39222,34.070789],[-88.385849,34.073765],[-88.386497,34.071804],[-88.391388,34.070061],[-88.395737,34.06945]]]],"created":1292535340,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2495105_20101216_aa0e84e16d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

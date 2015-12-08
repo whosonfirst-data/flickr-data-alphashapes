@@ -1,0 +1,15 @@
+{
+  "id": 2381427,
+  "type": "Feature",
+  "properties": {
+    "name":"Clermont, New York, United States",
+    "placetype":"locality",
+    "woe:id":2381427,
+    "woe:name":"Clermont, New York, United States",
+    "woe:place_id":"NxK00BWbApTWGWR.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.841949,42.080189,-73.823318,42.09211],
+  "geometry": {"alpha":0.00015,"bbox":[-73.841949462891,42.080188751221,-73.823318481445,42.092109680176],"coordinates":[[[[-73.826065,42.086502],[-73.828583,42.083111],[-73.841949,42.080189],[-73.837738,42.09211],[-73.823318,42.089813],[-73.826065,42.086502]]]],"created":1292547378,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2381427_20101217_c9dc99b557.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

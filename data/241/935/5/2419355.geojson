@@ -1,0 +1,15 @@
+{
+  "id": 2419355,
+  "type": "Feature",
+  "properties": {
+    "name":"Healdton, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2419355,
+    "woe:name":"Healdton, Oklahoma, United States",
+    "woe:place_id":"oV5gYFWbBZ3afRYF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.488617,34.227375,-97.485245,34.234947],
+  "geometry": {"alpha":0.00015,"bbox":[-97.488616943359,34.227375030518,-97.485244750977,34.23494720459],"coordinates":[[[[-97.488617,34.234634],[-97.488403,34.234947],[-97.487007,34.233849],[-97.485245,34.232765],[-97.487106,34.227375],[-97.488617,34.234634]]]],"created":1292440683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1411/shapefiles/2419355_20101215_f6bbf0beb8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

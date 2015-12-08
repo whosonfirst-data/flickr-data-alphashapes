@@ -1,0 +1,15 @@
+{
+  "id": 750806,
+  "type": "Feature",
+  "properties": {
+    "name":"Vila Nova de Paiva, Viseu, Portugal",
+    "placetype":"locality",
+    "woe:id":750806,
+    "woe:name":"Vila Nova de Paiva, Viseu, Portugal",
+    "woe:place_id":"D1e0VtieBJyhHOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.73026,40.849644,-7.727506,40.852367],
+  "geometry": {"alpha":0.00015,"bbox":[-7.7302598953247,40.849643707275,-7.7275061607361,40.852367401123],"coordinates":[[[[-7.729375,40.851498],[-7.727895,40.852367],[-7.727506,40.852337],[-7.727938,40.851784],[-7.73026,40.849644],[-7.729375,40.851498]]]],"created":1292456100,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/750806_20101215_72e51b7ee9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

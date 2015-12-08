@@ -1,0 +1,15 @@
+{
+  "id": 29374513,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambridge 32, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":29374513,
+    "woe:name":"Cambridge 32, Nova Scotia, Canada",
+    "woe:place_id":"sXskN82bCJ8it_O30A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.658615,45.101673,-64.656883,45.107754],
+  "geometry": {"alpha":0.00015,"bbox":[-64.658615112305,45.101673126221,-64.656883239746,45.107753753662],"coordinates":[[[[-64.657181,45.102352],[-64.658615,45.107754],[-64.65712,45.102383],[-64.656883,45.101692],[-64.656906,45.101673],[-64.657181,45.102352]]]],"created":1292436302,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/29374513_20101215_4f7d54fbc1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

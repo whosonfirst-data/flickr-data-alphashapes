@@ -1,0 +1,15 @@
+{
+  "id": 2393527,
+  "type": "Feature",
+  "properties": {
+    "name":"Doyon, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2393527,
+    "woe:name":"Doyon, North Dakota, United States",
+    "woe:place_id":"tYPECfebApXJD0dc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.560066,48.052799,-98.529671,48.066666],
+  "geometry": {"alpha":0.00015,"bbox":[-98.560066223145,48.052799224854,-98.529670715332,48.066665649414],"coordinates":[[[[-98.529671,48.065834],[-98.536797,48.052799],[-98.560066,48.053299],[-98.550163,48.066666],[-98.546501,48.066334],[-98.529671,48.065834]]]],"created":1292506808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2393527_20101216_2d05b9f37a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 19622,
+  "type": "Feature",
+  "properties": {
+    "name":"Enham-Alamein, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19622,
+    "woe:name":"Enham-Alamein, England, United Kingdom",
+    "woe:place_id":"0xcziFqYCJqOZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.476303,51.237953,-1.472178,51.240002],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4763029813766,51.237953186035,-1.4721779823303,51.240001678467],"coordinates":[[[[-1.472501,51.239723],[-1.472178,51.239677],[-1.472778,51.239445],[-1.476303,51.237953],[-1.475278,51.240002],[-1.472501,51.239723]]]],"created":1292526999,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/19622_20101216_db471f65d8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 56014451,
+  "type": "Feature",
+  "properties": {
+    "name":"Petaling, Malaysia",
+    "placetype":"locality",
+    "woe:id":56014451,
+    "woe:name":"Petaling, Malaysia",
+    "woe:place_id":"333OJ.CcB5wjrrZDtA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [101.64389,3.013061,101.648613,3.018611],
+  "geometry": {"alpha":1e-05,"bbox":[101.64389038086,3.0130610466003,101.64861297607,3.0186109542847],"coordinates":[[[[101.647781,3.015],[101.646385,3.013061],[101.64389,3.013611],[101.645836,3.016669],[101.646667,3.018611],[101.648613,3.016111],[101.647781,3.015]]]],"created":1292529641,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/56014451_20101216_ae8aa184ca.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

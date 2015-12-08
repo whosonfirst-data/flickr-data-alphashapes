@@ -1,0 +1,15 @@
+{
+  "id": 12601605,
+  "type": "Feature",
+  "properties": {
+    "name":"Saric, Sonora, Mexico",
+    "placetype":"county",
+    "woe:id":12601605,
+    "woe:name":"Saric, Sonora, Mexico",
+    "woe:place_id":"PTmPj3eYA5oHWX.z5w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-111.564957,31.475817,-111.521919,31.495871],
+  "geometry": {"alpha":0.0015,"bbox":[-111.56495666504,31.475816726685,-111.52191925049,31.49587059021],"coordinates":[[[[-111.543671,31.491627],[-111.521919,31.475817],[-111.545731,31.479111],[-111.564957,31.495871],[-111.563667,31.495861],[-111.543671,31.491627]]]],"created":1248071526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2514/shapefiles/12601605_20090720_fa8bc04ec2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

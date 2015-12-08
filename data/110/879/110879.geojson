@@ -1,0 +1,15 @@
+{
+  "id": 110879,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond Hill, Saint Anthony, Montserrat",
+    "placetype":"locality",
+    "woe:id":110879,
+    "woe:name":"Richmond Hill, Saint Anthony, Montserrat",
+    "woe:place_id":"N.1HbPSYAJym_Ic",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.224846,16.708548,-62.201672,16.724001],
+  "geometry": {"alpha":0.00015,"bbox":[-62.22484588623,16.708547592163,-62.201671600342,16.724000930786],"coordinates":[[[[-62.224846,16.70863],[-62.224159,16.711178],[-62.21386,16.724001],[-62.201672,16.715452],[-62.214546,16.708548],[-62.222271,16.708902],[-62.224846,16.70863]]]],"created":1292520605,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/110879_20101216_22ae305ed8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

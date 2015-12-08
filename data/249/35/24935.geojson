@@ -1,0 +1,15 @@
+{
+  "id": 24935,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilcheran, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":24935,
+    "woe:name":"Kilcheran, Scotland, United Kingdom",
+    "woe:place_id":"HO5bJO.bBZXFFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.494709,56.469696,-5.488723,56.482025],
+  "geometry": {"alpha":0.0006103515625,"bbox":[-5.4947090148926,56.469696044922,-5.4887228012085,56.482025146484],"coordinates":[[[[-5.49075,56.472363],[-5.494365,56.469696],[-5.494709,56.474247],[-5.488723,56.482025],[-5.489306,56.47514],[-5.49075,56.472363]]]],"created":1247987769,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3517/shapefiles/24935_20090719_67693779f6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

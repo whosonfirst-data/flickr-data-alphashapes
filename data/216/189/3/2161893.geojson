@@ -1,0 +1,15 @@
+{
+  "id": 2161893,
+  "type": "Feature",
+  "properties": {
+    "name":"Sihui, Guangdong, China",
+    "placetype":"locality",
+    "woe:id":2161893,
+    "woe:name":"Sihui, Guangdong, China",
+    "woe:place_id":"lV7aJVObAJpmharl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [112.678284,23.344585,112.692772,23.360891],
+  "geometry": {"alpha":0.00015,"bbox":[112.67828369141,23.344585418701,112.69277191162,23.360891342163],"coordinates":[[[[112.690887,23.350733],[112.692085,23.347265],[112.692772,23.344585],[112.690201,23.347895],[112.678284,23.360891],[112.690887,23.350733]]]],"created":1292512083,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2161893_20101216_f694862095.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

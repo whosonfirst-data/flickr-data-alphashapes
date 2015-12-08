@@ -1,0 +1,15 @@
+{
+  "id": 729983,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemmen, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":729983,
+    "woe:name":"Hemmen, Gelderland, Netherlands",
+    "woe:place_id":"LKPskn.eA5UqQJo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.689963,51.917095,5.714478,51.940983],
+  "geometry": {"alpha":0.00015,"bbox":[5.6899628639221,51.917095184326,5.7144780158997,51.940982818604],"coordinates":[[[[5.698245,51.932491],[5.689963,51.917095],[5.696099,51.932545],[5.693549,51.938618],[5.714478,51.940983],[5.6989,51.933022],[5.698245,51.932491]]]],"created":1292447495,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/729983_20101215_55ee7abc77.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

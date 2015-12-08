@@ -1,0 +1,15 @@
+{
+  "id": 723688,
+  "type": "Feature",
+  "properties": {
+    "name":"S Stefano, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":723688,
+    "woe:name":"S Stefano, Veneto, Italy",
+    "woe:place_id":"AwLmNrmeA5.bP8I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.548875,46.551334,12.562522,46.568775],
+  "geometry": {"alpha":0.00015,"bbox":[12.548874855042,46.551334381104,12.562521934509,46.568775177002],"coordinates":[[[[12.548875,46.558521],[12.552394,46.56004],[12.559432,46.566414],[12.561492,46.568775],[12.562522,46.553783],[12.5495,46.551334],[12.548875,46.558521]]]],"created":1292535733,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/723688_20101216_69441d3304.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

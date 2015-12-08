@@ -1,0 +1,15 @@
+{
+  "id": 20222750,
+  "type": "Feature",
+  "properties": {
+    "name":"El Rieral, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20222750,
+    "woe:name":"El Rieral, Catalonia, Spain",
+    "woe:place_id":"Z.GvwaubAZ4AITp3Pg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.23355,41.640079,2.234516,41.640598],
+  "geometry": {"alpha":0.00015,"bbox":[2.2335500717163,41.640079498291,2.2345159053802,41.640598297119],"coordinates":[[[[2.233979,41.640079],[2.23355,41.640141],[2.234065,41.640598],[2.234516,41.640354],[2.234312,41.640148],[2.233979,41.640079]]]],"created":1292521415,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20222750_20101216_7319031f1a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

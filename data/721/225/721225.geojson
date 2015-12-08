@@ -1,0 +1,15 @@
+{
+  "id": 721225,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":721225,
+    "woe:name":"Villa, Piedmont, Italy",
+    "woe:place_id":"Teqb6HKeA50HD4U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.044827,44.881771,7.050186,44.893215],
+  "geometry": {"alpha":0.00015,"bbox":[7.0448269844055,44.881771087646,7.0501861572266,44.893215179443],"coordinates":[[[[7.049489,44.88863],[7.044827,44.881771],[7.046356,44.890415],[7.049789,44.893215],[7.050186,44.889866],[7.049489,44.88863]]]],"created":1248232573,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2623/shapefiles/721225_20090722_933c6fe426.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

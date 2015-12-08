@@ -1,0 +1,15 @@
+{
+  "id": 55880358,
+  "type": "Feature",
+  "properties": {
+    "name":"Westerson, Free State, South Africa",
+    "placetype":"locality",
+    "woe:id":55880358,
+    "woe:name":"Westerson, Free State, South Africa",
+    "woe:place_id":"vO3p0VGcBJQPmbmNHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.129999,-28.276335,29.150591,-28.268801],
+  "geometry": {"alpha":0.00015,"bbox":[29.129999160767,-28.276334762573,29.150590896606,-28.268800735474],"coordinates":[[[[29.129999,-28.27],[29.137501,-28.2712],[29.150591,-28.272032],[29.148832,-28.276335],[29.137501,-28.2712],[29.133699,-28.268801],[29.129999,-28.27]]]],"created":1292540053,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/55880358_20101216_737742d289.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

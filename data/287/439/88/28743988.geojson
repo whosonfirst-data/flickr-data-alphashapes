@@ -1,0 +1,15 @@
+{
+  "id": 28743988,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayfield, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28743988,
+    "woe:name":"Mayfield, Michigan, United States",
+    "woe:place_id":"tzGEBDObCZvqTKK9jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.300331,43.083588,-83.28727,43.088619],
+  "geometry": {"alpha":0.00015,"bbox":[-83.300331115723,43.083587646484,-83.287269592285,43.088619232178],"coordinates":[[[[-83.297935,43.086632],[-83.28727,43.088619],[-83.297913,43.083588],[-83.300331,43.085835],[-83.298851,43.086803],[-83.297935,43.086632]]]],"created":1292522591,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/28743988_20101216_344868f946.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

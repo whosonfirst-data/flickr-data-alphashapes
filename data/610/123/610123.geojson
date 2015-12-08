@@ -1,0 +1,15 @@
+{
+  "id": 610123,
+  "type": "Feature",
+  "properties": {
+    "name":"Marminhac, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":610123,
+    "woe:name":"Marminhac, Auvergne, France",
+    "woe:place_id":".cuK0BufAJzk6lw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.806222,45.093243,3.819633,45.110409],
+  "geometry": {"alpha":0.00015,"bbox":[3.8062219619751,45.093242645264,3.8196330070496,45.110408782959],"coordinates":[[[[3.808858,45.094582],[3.806222,45.110409],[3.816847,45.105091],[3.819633,45.093243],[3.808858,45.094582]]]],"created":1229495290,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3205/shapefiles/610123_20081217_bde1748160.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

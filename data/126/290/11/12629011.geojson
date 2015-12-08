@@ -1,0 +1,15 @@
+{
+  "id": 12629011,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bollendorf, Germany",
+    "placetype":"locality",
+    "woe:id":12629011,
+    "woe:name":"Gemeinde Bollendorf, Germany",
+    "woe:place_id":"83ZqcIeYA5rumYBBwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.376276,49.816719,6.378078,49.817993],
+  "geometry": {"alpha":1e-05,"bbox":[6.3762760162354,49.816719055176,6.3780779838562,49.817993164062],"coordinates":[[[[6.376276,49.816719],[6.376662,49.817738],[6.378078,49.817993],[6.37737,49.817577],[6.376276,49.816719]]]],"created":1292513228,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12629011_20101216_69a476bb4a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

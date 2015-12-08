@@ -1,0 +1,15 @@
+{
+  "id": 12510800,
+  "type": "Feature",
+  "properties": {
+    "name":"Townsville Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510800,
+    "woe:name":"Townsville Airport, Australia",
+    "woe:place_id":"rm8C_R6YA5mOMglm4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.760574,-19.231878,146.764832,-19.226097],
+  "geometry": {"alpha":1e-05,"bbox":[146.76057434082,-19.23187828064,146.76483154297,-19.226097106934],"coordinates":[[[[146.764664,-19.231058],[146.764832,-19.231627],[146.763031,-19.231878],[146.762619,-19.23167],[146.760651,-19.22933],[146.760574,-19.226097],[146.762756,-19.229198],[146.764664,-19.231058]]]],"created":1292550599,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12510800_20101217_0c42e1e234.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

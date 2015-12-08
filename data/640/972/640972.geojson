@@ -1,0 +1,15 @@
+{
+  "id": 640972,
+  "type": "Feature",
+  "properties": {
+    "name":"Breitbrunn, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":640972,
+    "woe:name":"Breitbrunn, Bavaria, Germany",
+    "woe:place_id":"QrNUCymfBZwqAmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.381291,47.862053,12.407684,47.887455],
+  "geometry": {"alpha":0.00015,"bbox":[12.381291389465,47.86205291748,12.407684326172,47.887454986572],"coordinates":[[[[12.395064,47.882782],[12.407684,47.887455],[12.399378,47.87994],[12.385497,47.862053],[12.384252,47.862904],[12.381291,47.867863],[12.395064,47.882782]]]],"created":1292551385,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/640972_20101217_ae478f1937.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

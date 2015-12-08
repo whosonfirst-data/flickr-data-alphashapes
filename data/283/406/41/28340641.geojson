@@ -1,0 +1,15 @@
+{
+  "id": 28340641,
+  "type": "Feature",
+  "properties": {
+    "name":"Sagehill, Washington, United States",
+    "placetype":"locality",
+    "woe:id":28340641,
+    "woe:name":"Sagehill, Washington, United States",
+    "woe:place_id":"iqg_XQubCZ.FhFvc6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.156708,46.667519,-119.150459,46.672646],
+  "geometry": {"alpha":0.00015,"bbox":[-119.15670776367,46.667518615723,-119.15045928955,46.672645568848],"coordinates":[[[[-119.155914,46.667969],[-119.156654,46.667519],[-119.156708,46.669796],[-119.156281,46.67004],[-119.150459,46.672646],[-119.155914,46.667969]]]],"created":1292537646,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/28340641_20101216_932b065bab.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

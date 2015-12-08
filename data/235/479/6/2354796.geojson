@@ -1,0 +1,15 @@
+{
+  "id": 2354796,
+  "type": "Feature",
+  "properties": {
+    "name":"Angostura, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2354796,
+    "woe:name":"Angostura, New Mexico, United States",
+    "woe:place_id":"B5pcFWabApkOsKOm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.554214,36.04184,-105.545372,36.044476],
+  "geometry": {"alpha":0.00015,"bbox":[-105.55421447754,36.041839599609,-105.54537200928,36.04447555542],"coordinates":[[[[-105.549637,36.042919],[-105.554214,36.043331],[-105.553574,36.043526],[-105.549225,36.044476],[-105.545372,36.04184],[-105.549637,36.042919]]]],"created":1292506565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2354796_20101216_0c8e7a046c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

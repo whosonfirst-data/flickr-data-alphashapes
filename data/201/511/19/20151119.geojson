@@ -1,0 +1,15 @@
+{
+  "id": 20151119,
+  "type": "Feature",
+  "properties": {
+    "name":"Hermanstorp, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151119,
+    "woe:name":"Hermanstorp, Stockholm, Sweden",
+    "woe:place_id":"uE.ANSWbAZ2o_tcz2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.117764,59.18224,18.118858,59.187523],
+  "geometry": {"alpha":0.00015,"bbox":[18.117763519287,59.182239532471,18.118858337402,59.187522888184],"coordinates":[[[[18.117922,59.187145],[18.118612,59.187523],[18.118858,59.18224],[18.118364,59.182476],[18.117764,59.183464],[18.117922,59.187145]]]],"created":1292449213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20151119_20101215_f893d17a64.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

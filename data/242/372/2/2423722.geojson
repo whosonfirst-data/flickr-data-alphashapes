@@ -1,0 +1,15 @@
+{
+  "id": 2423722,
+  "type": "Feature",
+  "properties": {
+    "name":"Homer, New York, United States",
+    "placetype":"locality",
+    "woe:id":2423722,
+    "woe:name":"Homer, New York, United States",
+    "woe:place_id":"9OWdqwGbBZ5ap3on",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.211105,42.621326,-76.172333,42.665833],
+  "geometry": {"alpha":0.00015,"bbox":[-76.21110534668,42.621326446533,-76.172332763672,42.665832519531],"coordinates":[[[[-76.176819,42.636162],[-76.181946,42.621326],[-76.188896,42.623425],[-76.207306,42.631401],[-76.211105,42.634518],[-76.2034,42.635345],[-76.190788,42.641663],[-76.188377,42.64362],[-76.180656,42.647621],[-76.17482,42.651272],[-76.172333,42.665833],[-76.174522,42.651447],[-76.175682,42.640793],[-76.176819,42.636162]]]],"created":1292501898,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2423722_20101216_0ce95ff041.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

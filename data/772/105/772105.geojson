@@ -1,0 +1,15 @@
+{
+  "id": 772105,
+  "type": "Feature",
+  "properties": {
+    "name":"Roda, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":772105,
+    "woe:name":"Roda, Catalonia, Spain",
+    "woe:place_id":"O5bV5VueBp4lzqw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.305455,41.977982,2.309961,41.984509],
+  "geometry": {"alpha":0.00015,"bbox":[2.3054549694061,41.977981567383,2.3099610805511,41.984508514404],"coordinates":[[[[2.30973,41.984509],[2.309961,41.983868],[2.306882,41.977982],[2.305455,41.981953],[2.305498,41.982269],[2.308502,41.983738],[2.30973,41.984509]]]],"created":1292467448,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/772105_20101216_57d9973164.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

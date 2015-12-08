@@ -1,0 +1,15 @@
+{
+  "id": 2516465,
+  "type": "Feature",
+  "properties": {
+    "name":"Wentworth, New Hampshire, United States",
+    "placetype":"locality",
+    "woe:id":2516465,
+    "woe:name":"Wentworth, New Hampshire, United States",
+    "woe:place_id":"paXQ87CbBJ2t7C3M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.912018,43.866558,-71.909081,43.874912],
+  "geometry": {"alpha":0.00015,"bbox":[-71.912017822266,43.866558074951,-71.909080505371,43.874912261963],"coordinates":[[[[-71.909081,43.868469],[-71.909897,43.866558],[-71.910172,43.869297],[-71.912018,43.874912],[-71.909279,43.869465],[-71.909081,43.868469]]]],"created":1239504853,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3653/shapefiles/2516465_20090412_4b9d22d30a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 719958,
+  "type": "Feature",
+  "properties": {
+    "name":"Parasacco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":719958,
+    "woe:name":"Parasacco, Lombardy, Italy",
+    "woe:place_id":"uFi6dSeeAJVcSqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.976516,45.219048,8.989562,45.236073],
+  "geometry": {"alpha":0.00015,"bbox":[8.9765157699585,45.219047546387,8.9895620346069,45.236072540283],"coordinates":[[[[8.989562,45.230171],[8.987503,45.219048],[8.978039,45.230968],[8.976516,45.231865],[8.977546,45.231865],[8.987288,45.236073],[8.989562,45.230171]]]],"created":1292491866,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/719958_20101216_ac31383aec.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

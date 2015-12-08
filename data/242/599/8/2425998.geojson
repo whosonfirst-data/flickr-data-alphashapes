@@ -1,0 +1,15 @@
+{
+  "id": 2425998,
+  "type": "Feature",
+  "properties": {
+    "name":"Huntsville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2425998,
+    "woe:name":"Huntsville, Ohio, United States",
+    "woe:place_id":"fkLOEhqbBZ6eLOdG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.807655,40.411404,-83.791351,40.416698],
+  "geometry": {"alpha":0.00015,"bbox":[-83.807655334473,40.411403656006,-83.791351318359,40.416698455811],"coordinates":[[[[-83.807144,40.414673],[-83.807655,40.414932],[-83.804565,40.416698],[-83.791351,40.411404],[-83.803024,40.413563],[-83.807144,40.414673]]]],"created":1292539802,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2425998_20101216_6d38301c3f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

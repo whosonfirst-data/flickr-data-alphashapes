@@ -1,0 +1,15 @@
+{
+  "id": 758263,
+  "type": "Feature",
+  "properties": {
+    "name":"Cotillo, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":758263,
+    "woe:name":"Cotillo, Cantabria, Spain",
+    "woe:place_id":"lJKNU_6eBJTSSQU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.005289,43.201672,-4.004259,43.203049],
+  "geometry": {"alpha":0.00015,"bbox":[-4.0052890777588,43.201671600342,-4.0042591094971,43.203048706055],"coordinates":[[[[-4.004259,43.201859],[-4.004344,43.201733],[-4.004602,43.201672],[-4.004688,43.201828],[-4.005289,43.203049],[-4.004259,43.201859]]]],"created":1292532228,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/758263_20101216_b271ae1b9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

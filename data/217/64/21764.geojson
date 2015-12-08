@@ -1,0 +1,15 @@
+{
+  "id": 21764,
+  "type": "Feature",
+  "properties": {
+    "name":"Great Yeldham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21764,
+    "woe:name":"Great Yeldham, England, United Kingdom",
+    "woe:place_id":"U77cMACbAJtK2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.560131,52.009544,0.56975,52.017796],
+  "geometry": {"alpha":0.00015,"bbox":[0.5601310133934,52.009544372559,0.56975001096725,52.017795562744],"coordinates":[[[[0.5635,52.017334],[0.56625,52.017441],[0.56975,52.017796],[0.565795,52.009544],[0.560131,52.012886],[0.560131,52.017429],[0.5635,52.017334]]]],"created":1292548920,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/21764_20101217_c6a7cbbc70.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

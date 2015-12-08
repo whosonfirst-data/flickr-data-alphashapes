@@ -1,0 +1,15 @@
+{
+  "id": 20228242,
+  "type": "Feature",
+  "properties": {
+    "name":"Parada, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20228242,
+    "woe:name":"Parada, Galicia, Spain",
+    "woe:place_id":"JQdol06bAZ7pz7O8Eg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.497753,42.501656,-8.478802,42.527863],
+  "geometry": {"alpha":0.00015,"bbox":[-8.4977531433105,42.501655578613,-8.4788017272949,42.527862548828],"coordinates":[[[[-8.497066,42.501656],[-8.497753,42.516968],[-8.493976,42.527863],[-8.478802,42.516251],[-8.486595,42.509563],[-8.497066,42.501656]]]],"created":1292452311,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/20228242_20101215_2b4cf3450d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

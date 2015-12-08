@@ -1,0 +1,15 @@
+{
+  "id": 1105173,
+  "type": "Feature",
+  "properties": {
+    "name":"Proserpine, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1105173,
+    "woe:name":"Proserpine, Queensland, Australia",
+    "woe:place_id":"olyWFIWYAJxAtv7i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.57515,-20.407467,148.593292,-20.399179],
+  "geometry": {"alpha":0.00015,"bbox":[148.57514953613,-20.407466888428,148.59329223633,-20.399179458618],"coordinates":[[[[148.57515,-20.399179],[148.579269,-20.40103],[148.583221,-20.403042],[148.593292,-20.405876],[148.589447,-20.406469],[148.578064,-20.407467],[148.57515,-20.399179]]]],"created":1292527418,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/1105173_20101216_821b139fce.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12635094,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hattenhofen, Germany",
+    "placetype":"locality",
+    "woe:id":12635094,
+    "woe:name":"Gemeinde Hattenhofen, Germany",
+    "woe:place_id":"UNWt_32YA5oLNFVF1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.094474,48.223415,11.096878,48.22456],
+  "geometry": {"alpha":1e-05,"bbox":[11.094473838806,48.223415374756,11.096878051758,48.224559783936],"coordinates":[[[[11.09456,48.224384],[11.094732,48.224457],[11.094839,48.224457],[11.096878,48.22456],[11.094474,48.223415],[11.09456,48.224384]]]],"created":1292507886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12635094_20101216_d3fe1831bc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

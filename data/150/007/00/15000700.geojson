@@ -1,0 +1,15 @@
+{
+  "id": 15000700,
+  "type": "Feature",
+  "properties": {
+    "name":"Kvitseid, Telemark Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":15000700,
+    "woe:name":"Kvitseid, Telemark Fylke, Norway",
+    "woe:place_id":"pcxpJiuYBJwDGCObgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.509254,59.350632,8.518524,59.359531],
+  "geometry": {"alpha":0.00015,"bbox":[8.5092544555664,59.350631713867,8.5185241699219,59.359531402588],"coordinates":[[[[8.512344,59.350697],[8.51037,59.350632],[8.509254,59.352795],[8.518524,59.359531],[8.512344,59.350697]]]],"created":1234528442,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3452/shapefiles/15000700_20090213_ce8b1d898e.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

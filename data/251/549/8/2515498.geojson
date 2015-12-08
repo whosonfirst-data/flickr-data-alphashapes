@@ -1,0 +1,15 @@
+{
+  "id": 2515498,
+  "type": "Feature",
+  "properties": {
+    "name":"Waverly, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2515498,
+    "woe:name":"Waverly, Missouri, United States",
+    "woe:place_id":"oaM3s3WbBJ3xnME9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.520432,39.209248,-93.507858,39.215694],
+  "geometry": {"alpha":0.00015,"bbox":[-93.520431518555,39.209247589111,-93.507858276367,39.21569442749],"coordinates":[[[[-93.516808,39.213459],[-93.512238,39.215694],[-93.507858,39.214191],[-93.510048,39.211273],[-93.520432,39.209248],[-93.516808,39.213459]]]],"created":1292470027,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2515498_20101216_3b0fa52a9f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

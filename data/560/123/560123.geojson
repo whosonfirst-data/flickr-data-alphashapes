@@ -1,0 +1,15 @@
+{
+  "id": 560123,
+  "type": "Feature",
+  "properties": {
+    "name":"Carbury, Kildare, Ireland",
+    "placetype":"locality",
+    "woe:id":560123,
+    "woe:name":"Carbury, Kildare, Ireland",
+    "woe:place_id":"eYL6QaKcB5xnv28",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.968336,53.351883,-6.961727,53.360798],
+  "geometry": {"alpha":0.00015,"bbox":[-6.9683361053467,53.35188293457,-6.961727142334,53.36079788208],"coordinates":[[[[-6.967391,53.358311],[-6.967821,53.359566],[-6.968336,53.360798],[-6.961727,53.355518],[-6.96619,53.351883],[-6.967391,53.358311]]]],"created":1292539525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/560123_20101216_3febd318e1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

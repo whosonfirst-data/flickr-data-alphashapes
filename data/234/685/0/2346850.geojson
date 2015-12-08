@@ -1,0 +1,15 @@
+{
+  "id": 2346850,
+  "type": "Feature",
+  "properties": {
+    "name":"Hormigueros, PR, Puerto Rico",
+    "placetype":"region",
+    "woe:id":2346850,
+    "woe:name":"Hormigueros, PR, Puerto Rico",
+    "woe:place_id":"BUCSOXObApjxXtOK",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-67.156204,18.090054,-67.06604,18.195435],
+  "geometry": {"alpha":0.03,"bbox":[-67.156204223633,18.09005355835,-67.066040039062,18.195434570312],"coordinates":[[[[-67.138756,18.116644],[-67.156204,18.129049],[-67.153931,18.195435],[-67.06604,18.119749],[-67.09951,18.090054],[-67.138756,18.116644]]]],"created":1292449312,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2346850_20101215_b0f362eb81.tar.gz"},"points":67,"type":"MultiPolygon"}
+}

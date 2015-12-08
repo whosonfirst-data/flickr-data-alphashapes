@@ -1,0 +1,15 @@
+{
+  "id": 24543748,
+  "type": "Feature",
+  "properties": {
+    "name":"Panormos, Greece",
+    "placetype":"locality",
+    "woe:id":24543748,
+    "woe:name":"Panormos, Greece",
+    "woe:place_id":"10r9iEGbBZmKd.rzEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.016212,37.649033,25.019302,37.651684],
+  "geometry": {"alpha":1e-05,"bbox":[25.016212463379,37.649032592773,25.019302368164,37.651683807373],"coordinates":[[[[25.016899,37.649033],[25.016212,37.649849],[25.017843,37.651684],[25.019302,37.649918],[25.016899,37.649033]]]],"created":1292548805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/24543748_20101217_650a7e0b07.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

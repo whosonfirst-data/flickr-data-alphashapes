@@ -1,0 +1,15 @@
+{
+  "id": 702459,
+  "type": "Feature",
+  "properties": {
+    "name":"Vockenrod, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":702459,
+    "woe:name":"Vockenrod, Hesse, Germany",
+    "woe:place_id":"OB7LhrOeAZ5bY78",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.216413,50.768387,9.241647,50.788033],
+  "geometry": {"alpha":0.00015,"bbox":[9.2164125442505,50.76838684082,9.2416467666626,50.788032531738],"coordinates":[[[[9.225511,50.788033],[9.234609,50.778156],[9.241647,50.773598],[9.231004,50.768387],[9.219846,50.770775],[9.216413,50.77631],[9.225511,50.788033]]]],"created":1234772412,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3160/shapefiles/702459_20090216_b880fddfa3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

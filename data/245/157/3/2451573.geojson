@@ -1,0 +1,15 @@
+{
+  "id": 2451573,
+  "type": "Feature",
+  "properties": {
+    "name":"Millsboro, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2451573,
+    "woe:name":"Millsboro, Pennsylvania, United States",
+    "woe:place_id":"F1bHQWibBZneW7q2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.015831,39.970806,-79.994087,39.992302],
+  "geometry": {"alpha":0.00015,"bbox":[-80.015830993652,39.970806121826,-79.994087219238,39.992301940918],"coordinates":[[[[-79.998596,39.992302],[-79.994087,39.985901],[-79.998665,39.986065],[-80.013428,39.970806],[-80.015831,39.980934],[-79.998596,39.992302]]]],"created":1292440884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2451573_20101215_8f96e4bc15.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 559650,
+  "type": "Feature",
+  "properties": {
+    "name":"Ballyboghill, Dublin, Ireland",
+    "placetype":"locality",
+    "woe:id":559650,
+    "woe:name":"Ballyboghill, Dublin, Ireland",
+    "woe:place_id":"yQFSl5mcBJUb5T8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.259288,53.552597,-6.257228,53.554176],
+  "geometry": {"alpha":0.00015,"bbox":[-6.2592878341675,53.552597045898,-6.257227897644,53.554176330566],"coordinates":[[[[-6.258258,53.553898],[-6.257228,53.553364],[-6.257314,53.552597],[-6.259288,53.553337],[-6.259288,53.554176],[-6.258258,53.553898]]]],"created":1292504882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/559650_20101216_1ab5fa41d3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

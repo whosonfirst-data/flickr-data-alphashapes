@@ -1,0 +1,15 @@
+{
+  "id": 12654459,
+  "type": "Feature",
+  "properties": {
+    "name":"Villenoy, France",
+    "placetype":"locality",
+    "woe:id":12654459,
+    "woe:name":"Villenoy, France",
+    "woe:place_id":"yBlMoo6YA5riwdF2CQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.876422,48.955311,2.880413,48.95948],
+  "geometry": {"alpha":1e-05,"bbox":[2.8764219284058,48.955310821533,2.8804130554199,48.959480285645],"coordinates":[[[[2.879791,48.95948],[2.880413,48.959438],[2.879544,48.958179],[2.879619,48.955311],[2.879072,48.955627],[2.876422,48.957916],[2.878417,48.95903],[2.879791,48.95948]]]],"created":1229499726,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3290/shapefiles/12654459_20081217_002d9b2729.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

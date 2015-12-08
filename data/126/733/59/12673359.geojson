@@ -1,0 +1,15 @@
+{
+  "id": 12673359,
+  "type": "Feature",
+  "properties": {
+    "name":"Port-des-Barques, France",
+    "placetype":"locality",
+    "woe:id":12673359,
+    "woe:name":"Port-des-Barques, France",
+    "woe:place_id":"3CHWt66YA5rI2cdWdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.097002,45.942078,-1.093139,45.948402],
+  "geometry": {"alpha":1e-05,"bbox":[-1.0970020294189,45.942077636719,-1.0931390523911,45.948402404785],"coordinates":[[[[-1.096572,45.942524],[-1.097002,45.943123],[-1.096401,45.948402],[-1.095199,45.943508],[-1.093139,45.942078],[-1.096572,45.942524]]]],"created":1292550792,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12673359_20101217_b239d32f41.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

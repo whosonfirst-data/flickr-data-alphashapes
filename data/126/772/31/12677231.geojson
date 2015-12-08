@@ -1,0 +1,15 @@
+{
+  "id": 12677231,
+  "type": "Feature",
+  "properties": {
+    "name":"Montagna in Valtellina, Italy",
+    "placetype":"locality",
+    "woe:id":12677231,
+    "woe:name":"Montagna in Valtellina, Italy",
+    "woe:place_id":"PURiLPuYA5qtthHuMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.900586,46.167301,9.906861,46.169964],
+  "geometry": {"alpha":1e-05,"bbox":[9.9005861282349,46.167301177979,9.9068613052368,46.16996383667],"coordinates":[[[[9.903917,46.169964],[9.906861,46.167858],[9.903491,46.167812],[9.900586,46.167301],[9.903917,46.169964]]]],"created":1292544362,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12677231_20101217_f09a7d7918.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

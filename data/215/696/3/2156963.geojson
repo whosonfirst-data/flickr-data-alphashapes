@@ -1,0 +1,15 @@
+{
+  "id": 2156963,
+  "type": "Feature",
+  "properties": {
+    "name":"Yulin, Shaanxi, China",
+    "placetype":"locality",
+    "woe:id":2156963,
+    "woe:name":"Yulin, Shaanxi, China",
+    "woe:place_id":"PkWI3HObAJltsO3.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [109.737625,38.281315,109.754791,38.302868],
+  "geometry": {"alpha":0.00015,"bbox":[109.73762512207,38.281314849854,109.75479125977,38.302867889404],"coordinates":[[[[109.738823,38.291218],[109.73848,38.291889],[109.737625,38.295864],[109.747925,38.302868],[109.754791,38.281315],[109.742317,38.288811],[109.738823,38.291218]]]],"created":1292533906,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2156963_20101216_ba590cd994.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

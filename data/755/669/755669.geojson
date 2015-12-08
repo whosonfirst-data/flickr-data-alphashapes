@@ -1,0 +1,15 @@
+{
+  "id": 755669,
+  "type": "Feature",
+  "properties": {
+    "name":"Campiellos, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":755669,
+    "woe:name":"Campiellos, Asturias, Spain",
+    "woe:place_id":"YBHHTNGeBJnbaXE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.469131,43.231407,-5.459861,43.233196],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4691309928894,43.231407165527,-5.4598608016968,43.233196258545],"coordinates":[[[[-5.459861,43.232071],[-5.460229,43.231789],[-5.461428,43.231407],[-5.469131,43.233196],[-5.462309,43.233143],[-5.459861,43.232071]]]],"created":1292447548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/755669_20101215_3af5a6c6c8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

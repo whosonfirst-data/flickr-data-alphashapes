@@ -1,0 +1,15 @@
+{
+  "id": 900259,
+  "type": "Feature",
+  "properties": {
+    "name":"Nyhamn, Vasternorrland, Sweden",
+    "placetype":"locality",
+    "woe:id":900259,
+    "woe:name":"Nyhamn, Vasternorrland, Sweden",
+    "woe:place_id":"CbJrqUuQAZyvrRI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.391357,62.318066,17.393665,62.327],
+  "geometry": {"alpha":0.00015,"bbox":[17.391357421875,62.318065643311,17.393665313721,62.326999664307],"coordinates":[[[[17.393246,62.320858],[17.393417,62.318691],[17.392302,62.318066],[17.391357,62.320797],[17.393665,62.327],[17.393246,62.320858]]]],"created":1292538146,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/900259_20101216_c15d6e09e3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

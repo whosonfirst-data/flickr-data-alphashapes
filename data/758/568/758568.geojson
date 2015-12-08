@@ -1,0 +1,15 @@
+{
+  "id": 758568,
+  "type": "Feature",
+  "properties": {
+    "name":"Culla, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":758568,
+    "woe:name":"Culla, Valencia, Spain",
+    "woe:place_id":"3EYKtQaeBJRUwhs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.171661,40.330448,-0.160503,40.341049],
+  "geometry": {"alpha":0.00015,"bbox":[-0.1716610044241,40.330448150635,-0.16050300002098,40.341049194336],"coordinates":[[[[-0.165159,40.338448],[-0.162906,40.336468],[-0.160503,40.330448],[-0.165169,40.336552],[-0.166275,40.337345],[-0.171661,40.341049],[-0.165159,40.338448]]]],"created":1292531434,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/758568_20101216_26514309d4.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

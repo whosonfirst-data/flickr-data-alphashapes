@@ -1,0 +1,15 @@
+{
+  "id": 129551,
+  "type": "Feature",
+  "properties": {
+    "name":"La Venta, Tabasco, Mexico",
+    "placetype":"locality",
+    "woe:id":129551,
+    "woe:name":"La Venta, Tabasco, Mexico",
+    "woe:place_id":"CpkZFBaYA5UVb6I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.05378,18.070961,-94.032326,18.111347],
+  "geometry": {"alpha":0.00015,"bbox":[-94.053779602051,18.070960998535,-94.032325744629,18.111347198486],"coordinates":[[[[-94.05378,18.100578],[-94.040306,18.111347],[-94.032326,18.101395],[-94.034729,18.088341],[-94.043739,18.070961],[-94.044853,18.093481],[-94.05378,18.100578]]]],"created":1292523936,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/129551_20101216_008f96cd69.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

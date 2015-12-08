@@ -1,0 +1,15 @@
+{
+  "id": 2354406,
+  "type": "Feature",
+  "properties": {
+    "name":"Amsterdam, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2354406,
+    "woe:name":"Amsterdam, Ohio, United States",
+    "woe:place_id":"iRc3x5.bApmG5sH0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.937103,40.470325,-80.911148,40.484535],
+  "geometry": {"alpha":0.00015,"bbox":[-80.937103271484,40.470325469971,-80.911148071289,40.484535217285],"coordinates":[[[[-80.924538,40.472183],[-80.937103,40.484535],[-80.915123,40.484146],[-80.911148,40.470325],[-80.924538,40.472183]]]],"created":1292532438,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2354406_20101216_c1286a6241.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

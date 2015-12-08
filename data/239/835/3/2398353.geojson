@@ -1,0 +1,15 @@
+{
+  "id": 2398353,
+  "type": "Feature",
+  "properties": {
+    "name":"Elizan Beach, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2398353,
+    "woe:name":"Elizan Beach, Washington, United States",
+    "woe:place_id":"2tFn9kWbApVkgHc_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.012459,47.111729,-122.997841,47.125641],
+  "geometry": {"alpha":0.00015,"bbox":[-123.01245880127,47.111728668213,-122.99784088135,47.125640869141],"coordinates":[[[[-123.003784,47.111729],[-123.005569,47.114319],[-123.012459,47.119835],[-122.99881,47.125641],[-122.997841,47.125484],[-123.003784,47.111729]]]],"created":1292544318,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2398353_20101217_9e81edbe8d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2401404,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfield, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2401404,
+    "woe:name":"Fairfield, Tennessee, United States",
+    "woe:place_id":"qW2ABjKbBZwdGmvE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.868362,35.759304,-83.849541,35.77636],
+  "geometry": {"alpha":0.00015,"bbox":[-83.868362426758,35.759304046631,-83.849540710449,35.776359558105],"coordinates":[[[[-83.868362,35.759304],[-83.867096,35.77636],[-83.849541,35.763161],[-83.864777,35.761765],[-83.868362,35.759304]]]],"created":1292456900,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2401404_20101215_494e62fb2c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

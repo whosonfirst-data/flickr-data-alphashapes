@@ -1,0 +1,15 @@
+{
+  "id": 12678898,
+  "type": "Feature",
+  "properties": {
+    "name":"Cordovado, Italy",
+    "placetype":"locality",
+    "woe:id":12678898,
+    "woe:name":"Cordovado, Italy",
+    "woe:place_id":"8pCD1wuYA5pmew2nqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.880847,45.84267,12.887649,45.845631],
+  "geometry": {"alpha":1e-05,"bbox":[12.880846977234,45.842670440674,12.887648582458,45.845630645752],"coordinates":[[[[12.88089,45.84457],[12.880847,45.844898],[12.881126,45.845112],[12.883014,45.845631],[12.887649,45.84267],[12.881619,45.843987],[12.88089,45.84457]]]],"created":1292536133,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12678898_20101216_2302b2ff84.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

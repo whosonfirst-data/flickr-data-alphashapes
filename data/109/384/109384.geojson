@@ -1,0 +1,15 @@
+{
+  "id": 109384,
+  "type": "Feature",
+  "properties": {
+    "name":"Mandeville, Manchester, Jamaica",
+    "placetype":"locality",
+    "woe:id":109384,
+    "woe:name":"Mandeville, Manchester, Jamaica",
+    "woe:place_id":"msu_C6qYAZW2EuI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.483826,18.048277,-77.475067,18.059048],
+  "geometry": {"alpha":0.00015,"bbox":[-77.483825683594,18.048276901245,-77.475067138672,18.059047698975],"coordinates":[[[[-77.481247,18.056192],[-77.476097,18.053499],[-77.475067,18.048277],[-77.482277,18.051214],[-77.483826,18.059048],[-77.481247,18.056192]]]],"created":1292519648,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/109384_20101216_a19f583f90.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

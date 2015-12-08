@@ -1,0 +1,15 @@
+{
+  "id": 2405186,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Hills, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2405186,
+    "woe:name":"Forest Hills, Kentucky, United States",
+    "woe:place_id":"4tE7QYGbBZyDLwVc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.274101,37.648323,-82.259613,37.660858],
+  "geometry": {"alpha":0.00015,"bbox":[-82.274101257324,37.648323059082,-82.259613037109,37.660858154297],"coordinates":[[[[-82.272598,37.652744],[-82.274033,37.654812],[-82.274101,37.657867],[-82.259613,37.660858],[-82.266655,37.648323],[-82.272598,37.652744]]]],"created":1247814846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3484/shapefiles/2405186_20090717_071cbbe2a2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12684673,
+  "type": "Feature",
+  "properties": {
+    "name":"Zuoz, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684673,
+    "woe:name":"Zuoz, Switzerland",
+    "woe:place_id":"rDUfxU2YA5pyVZArew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.956574,46.599655,9.963676,46.603813],
+  "geometry": {"alpha":1e-05,"bbox":[9.9565744400024,46.599655151367,9.9636764526367,46.603813171387],"coordinates":[[[[9.958848,46.600365],[9.956574,46.602325],[9.958677,46.602455],[9.960565,46.603813],[9.963676,46.599892],[9.960587,46.599655],[9.958848,46.600365]]]],"created":1292537937,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12684673_20101216_04fdec9df9.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

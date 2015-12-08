@@ -1,0 +1,15 @@
+{
+  "id": 2388928,
+  "type": "Feature",
+  "properties": {
+    "name":"Dallas, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2388928,
+    "woe:name":"Dallas, Wisconsin, United States",
+    "woe:place_id":"iFzjtjCbApSI5RIm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.821495,45.255314,-91.806564,45.260147],
+  "geometry": {"alpha":0.00015,"bbox":[-91.821495056152,45.255313873291,-91.806564331055,45.260147094727],"coordinates":[[[[-91.812057,45.259663],[-91.806564,45.255314],[-91.814117,45.256279],[-91.821495,45.259117],[-91.818985,45.259838],[-91.814117,45.260147],[-91.812057,45.259663]]]],"created":1292533933,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2388928_20101216_eff53608ae.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

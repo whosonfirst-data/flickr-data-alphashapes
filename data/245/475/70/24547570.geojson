@@ -1,0 +1,15 @@
+{
+  "id": 24547570,
+  "type": "Feature",
+  "properties": {
+    "name":"Gmina Gniezno, Poland",
+    "placetype":"locality",
+    "woe:id":24547570,
+    "woe:name":"Gmina Gniezno, Poland",
+    "woe:place_id":"nS.tSQ.bBZki2BLiwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.613487,52.576305,17.615589,52.576794],
+  "geometry": {"alpha":1e-05,"bbox":[17.613487243652,52.576305389404,17.615589141846,52.576793670654],"coordinates":[[[[17.613487,52.576748],[17.613916,52.576794],[17.615589,52.576584],[17.614603,52.576408],[17.61355,52.576305],[17.613487,52.576748]]]],"created":1292528524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/24547570_20101216_613012b24e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

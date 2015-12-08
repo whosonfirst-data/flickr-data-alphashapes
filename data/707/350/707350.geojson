@@ -1,0 +1,15 @@
+{
+  "id": 707350,
+  "type": "Feature",
+  "properties": {
+    "name":"Wittislingen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":707350,
+    "woe:name":"Wittislingen, Bavaria, Germany",
+    "woe:place_id":"wdPHR6ieAZt42ks",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.408342,48.617802,10.422967,48.625397],
+  "geometry": {"alpha":0.00015,"bbox":[10.40834236145,48.61780166626,10.422966957092,48.625396728516],"coordinates":[[[[10.411045,48.620464],[10.408342,48.625397],[10.422967,48.621677],[10.412668,48.617802],[10.411045,48.620464]]]],"created":1292466782,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/707350_20101216_07364b6269.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

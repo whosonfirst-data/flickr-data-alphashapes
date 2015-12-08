@@ -1,0 +1,15 @@
+{
+  "id": 903883,
+  "type": "Feature",
+  "properties": {
+    "name":"Gunnedet, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":903883,
+    "woe:name":"Gunnedet, Stockholm, Sweden",
+    "woe:place_id":"WeK40xSQAZ_ETgs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.59569,59.664143,18.600496,59.666351],
+  "geometry": {"alpha":0.00015,"bbox":[18.59568977356,59.664142608643,18.600496292114,59.666351318359],"coordinates":[[[[18.596441,59.66489],[18.59569,59.666351],[18.600496,59.665199],[18.597406,59.664143],[18.596657,59.664478],[18.596441,59.66489]]]],"created":1292458937,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/903883_20101216_52aa646170.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

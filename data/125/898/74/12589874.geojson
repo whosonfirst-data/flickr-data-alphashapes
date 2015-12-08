@@ -1,0 +1,15 @@
+{
+  "id": 12589874,
+  "type": "Feature",
+  "properties": {
+    "name":"Hand County, South Dakota, United States",
+    "placetype":"county",
+    "woe:id":12589874,
+    "woe:name":"Hand County, South Dakota, United States",
+    "woe:place_id":"67s7TeWYA5lP2Qvlnw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-99.025185,44.516399,-98.977913,44.539589],
+  "geometry": {"alpha":0.0015,"bbox":[-99.025184631348,44.516399383545,-98.977912902832,44.539588928223],"coordinates":[[[[-98.989647,44.516399],[-98.99408,44.521118],[-99.025185,44.534206],[-99.003296,44.539589],[-98.977913,44.519573],[-98.989647,44.516399]]]],"created":1292546106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12589874_20101217_0ca1729104.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

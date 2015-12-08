@@ -1,0 +1,15 @@
+{
+  "id": 1049692,
+  "type": "Feature",
+  "properties": {
+    "name":"La Roche, Loyaute, New Caledonia",
+    "placetype":"locality",
+    "woe:id":1049692,
+    "woe:name":"La Roche, Loyaute, New Caledonia",
+    "woe:place_id":"WllmUT.YAZixlmIr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [168.005844,-21.473568,168.033829,-21.458261],
+  "geometry": {"alpha":0.00015,"bbox":[168.00584411621,-21.473567962646,168.03382873535,-21.458261489868],"coordinates":[[[[168.016571,-21.469923],[168.005844,-21.458261],[168.020096,-21.467127],[168.033829,-21.473568],[168.018036,-21.470322],[168.016571,-21.469923]]]],"created":1292547319,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/1049692_20101217_62d75e4b5b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

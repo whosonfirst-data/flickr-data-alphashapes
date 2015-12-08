@@ -1,0 +1,15 @@
+{
+  "id": 20102671,
+  "type": "Feature",
+  "properties": {
+    "name":"Lausanne, Canton of Vaud, Switzerland",
+    "placetype":"locality",
+    "woe:id":20102671,
+    "woe:name":"Lausanne, Canton of Vaud, Switzerland",
+    "woe:place_id":"z_syJIqbAZ3Gwe1f6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.588363,46.517414,6.605529,46.527328],
+  "geometry": {"alpha":0.00015,"bbox":[6.5883631706238,46.517414093018,6.6055288314819,46.527328491211],"coordinates":[[[[6.589393,46.517769],[6.588363,46.523911],[6.589994,46.527328],[6.605529,46.525597],[6.59729,46.517414],[6.589393,46.517769]]]],"created":1292546213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/20102671_20101217_59ea000c4b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

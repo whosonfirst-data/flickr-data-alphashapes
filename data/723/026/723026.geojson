@@ -1,0 +1,15 @@
+{
+  "id": 723026,
+  "type": "Feature",
+  "properties": {
+    "name":"S Pietro, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":723026,
+    "woe:name":"S Pietro, Veneto, Italy",
+    "woe:place_id":"SN8GAraeA5_XBm8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.591876,46.546005,12.595524,46.548798],
+  "geometry": {"alpha":0.00015,"bbox":[12.591876029968,46.546005249023,12.595523834229,46.548797607422],"coordinates":[[[[12.595524,46.546227],[12.595353,46.546005],[12.595181,46.546124],[12.592134,46.54781],[12.591876,46.548798],[12.595524,46.546227]]]],"created":1292519558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/723026_20101216_7548a18bff.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

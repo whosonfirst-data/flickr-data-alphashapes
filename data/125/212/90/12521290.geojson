@@ -1,0 +1,15 @@
+{
+  "id": 12521290,
+  "type": "Feature",
+  "properties": {
+    "name":"La/palmdale Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12521290,
+    "woe:name":"La/palmdale Regional Airport, United States",
+    "woe:place_id":"_hg6x6OYA5l7KAdQVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.087837,34.602333,-118.085167,34.608734],
+  "geometry": {"alpha":1e-05,"bbox":[-118.08783721924,34.602333068848,-118.08516693115,34.608734130859],"coordinates":[[[[-118.085487,34.602859],[-118.085167,34.602333],[-118.087837,34.602665],[-118.087578,34.603294],[-118.085945,34.608734],[-118.085487,34.602859]]]],"created":1292528771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12521290_20101216_e5a650f842.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

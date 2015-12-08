@@ -1,0 +1,15 @@
+{
+  "id": 151165,
+  "type": "Feature",
+  "properties": {
+    "name":"Xochicalco, Guerrero, Mexico",
+    "placetype":"locality",
+    "woe:id":151165,
+    "woe:name":"Xochicalco, Guerrero, Mexico",
+    "woe:place_id":"TUUO_2uYBJ1b2iw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.177116,18.217285,-100.160118,18.242231],
+  "geometry": {"alpha":0.00015,"bbox":[-100.17711639404,18.21728515625,-100.16011810303,18.242231369019],"coordinates":[[[[-100.161491,18.23204],[-100.160118,18.217285],[-100.162094,18.219322],[-100.174538,18.221443],[-100.177116,18.242231],[-100.161491,18.23204]]]],"created":1292544081,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/151165_20101217_eacc4bda93.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

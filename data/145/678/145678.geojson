@@ -1,0 +1,15 @@
+{
+  "id": 145678,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Ana de Arriba, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":145678,
+    "woe:name":"Santa Ana de Arriba, Nuevo Leon, Mexico",
+    "woe:place_id":"VnVn8duYBZmKedI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.179245,25.554985,-100.167328,25.562187],
+  "geometry": {"alpha":0.00015,"bbox":[-100.17924499512,25.554985046387,-100.16732788086,25.562187194824],"coordinates":[[[[-100.172478,25.562187],[-100.167328,25.559011],[-100.172241,25.556147],[-100.176773,25.554985],[-100.179245,25.557619],[-100.172478,25.562187]]]],"created":1292453346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/145678_20101215_fc00dfdcb2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12624432,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Isselburg, Germany",
+    "placetype":"locality",
+    "woe:id":12624432,
+    "woe:name":"Gemeinde Isselburg, Germany",
+    "woe:place_id":"4vXPPOiYA5pQvQsC4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.424942,51.843018,6.426186,51.846489],
+  "geometry": {"alpha":1e-05,"bbox":[6.4249420166016,51.843017578125,6.4261860847473,51.846488952637],"coordinates":[[[[6.425971,51.843678],[6.425628,51.843018],[6.425092,51.844467],[6.424942,51.846489],[6.426186,51.844608],[6.425971,51.843678]]]],"created":1292530989,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12624432_20101216_1c5dcda3ed.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

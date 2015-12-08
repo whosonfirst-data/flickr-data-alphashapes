@@ -1,0 +1,15 @@
+{
+  "id": 658902,
+  "type": "Feature",
+  "properties": {
+    "name":"Helmarshausen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":658902,
+    "woe:name":"Helmarshausen, Hesse, Germany",
+    "woe:place_id":"6HxQvqqfBJRPaNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.457039,51.628464,9.463069,51.631123],
+  "geometry": {"alpha":0.00015,"bbox":[9.4570388793945,51.628463745117,9.4630689620972,51.631122589111],"coordinates":[[[[9.462082,51.630089],[9.463069,51.628464],[9.461867,51.628731],[9.457039,51.628765],[9.4594,51.631123],[9.462082,51.630089]]]],"created":1234759929,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3536/shapefiles/658902_20090216_2385b4e565.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

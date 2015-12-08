@@ -1,0 +1,15 @@
+{
+  "id": 759311,
+  "type": "Feature",
+  "properties": {
+    "name":"El Fresno, Extremadura, Spain",
+    "placetype":"locality",
+    "woe:id":759311,
+    "woe:name":"El Fresno, Extremadura, Spain",
+    "woe:place_id":"8cLkd.SeBJV2ioU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.582527,40.127308,-6.562271,40.138466],
+  "geometry": {"alpha":0.00015,"bbox":[-6.5825271606445,40.127307891846,-6.5622711181641,40.138465881348],"coordinates":[[[[-6.582291,40.131203],[-6.582527,40.137676],[-6.573944,40.138466],[-6.562271,40.127308],[-6.582279,40.131191],[-6.582291,40.131203]]]],"created":1292411524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/759311_20101215_4396264b83.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 45012,
+  "type": "Feature",
+  "properties": {
+    "name":"Milltown, Northern Ireland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":45012,
+    "woe:name":"Milltown, Northern Ireland, United Kingdom",
+    "woe:place_id":"WgGEqgmdBJyumQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.576368,54.506531,-6.56049,54.530445],
+  "geometry": {"alpha":0.00015,"bbox":[-6.576367855072,54.506530761719,-6.5604901313782,54.530445098877],"coordinates":[[[[-6.57051,54.530445],[-6.564331,54.517895],[-6.560898,54.509521],[-6.56049,54.506531],[-6.576368,54.517231],[-6.57051,54.530445]]]],"created":1292510469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/45012_20101216_90a3b736a5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

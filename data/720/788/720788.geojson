@@ -1,0 +1,15 @@
+{
+  "id": 720788,
+  "type": "Feature",
+  "properties": {
+    "name":"Poggiodomo, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":720788,
+    "woe:name":"Poggiodomo, Umbria, Italy",
+    "woe:place_id":"colLTv2eA5xcQwI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.92284,42.708141,12.934641,42.719681],
+  "geometry": {"alpha":0.00015,"bbox":[12.922840118408,42.708141326904,12.934640884399,42.719680786133],"coordinates":[[[[12.934641,42.713093],[12.932109,42.710335],[12.930457,42.708141],[12.923355,42.714733],[12.92284,42.719681],[12.932453,42.718388],[12.934641,42.713093]]]],"created":1292549956,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/720788_20101217_239b68d799.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

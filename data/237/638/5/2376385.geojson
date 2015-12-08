@@ -1,0 +1,15 @@
+{
+  "id": 2376385,
+  "type": "Feature",
+  "properties": {
+    "name":"Caulksville, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2376385,
+    "woe:name":"Caulksville, Arkansas, United States",
+    "woe:place_id":"DQF4uZCbApse0FkI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.878433,35.301765,-93.863022,35.307205],
+  "geometry": {"alpha":0.00015,"bbox":[-93.878433227539,35.301765441895,-93.863021850586,35.307205200195],"coordinates":[[[[-93.863945,35.307205],[-93.863022,35.301765],[-93.864014,35.301888],[-93.866158,35.302113],[-93.878433,35.30714],[-93.863945,35.307205]]]],"created":1292440536,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2376385_20101215_4f25231671.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

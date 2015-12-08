@@ -1,0 +1,15 @@
+{
+  "id": 2476922,
+  "type": "Feature",
+  "properties": {
+    "name":"Prospect Bay, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2476922,
+    "woe:name":"Prospect Bay, Maryland, United States",
+    "woe:place_id":"OUhv.3qbBZsM4zFj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.20208,38.918503,-76.200592,38.920666],
+  "geometry": {"alpha":0.00015,"bbox":[-76.202079772949,38.918502807617,-76.200592041016,38.920665740967],"coordinates":[[[[-76.200592,38.920361],[-76.201843,38.918503],[-76.20208,38.920017],[-76.201332,38.920666],[-76.200592,38.920471],[-76.200592,38.920361]]]],"created":1292532543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2476922_20101216_f6f56b6fbf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

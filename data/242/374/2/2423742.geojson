@@ -1,0 +1,15 @@
+{
+  "id": 2423742,
+  "type": "Feature",
+  "properties": {
+    "name":"Homerville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2423742,
+    "woe:name":"Homerville, Georgia, United States",
+    "woe:place_id":"Qs18yPGbBZ7Xwqov",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.760796,31.032066,-82.746628,31.036966],
+  "geometry": {"alpha":0.00015,"bbox":[-82.760795593262,31.032066345215,-82.746627807617,31.036966323853],"coordinates":[[[[-82.746628,31.036869],[-82.746849,31.036791],[-82.758224,31.032066],[-82.760796,31.034201],[-82.747826,31.036966],[-82.746628,31.036869]]]],"created":1292537403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2423742_20101216_68ee72503d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

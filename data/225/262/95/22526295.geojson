@@ -1,0 +1,15 @@
+{
+  "id": 22526295,
+  "type": "Feature",
+  "properties": {
+    "name":"San Bernardo, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":22526295,
+    "woe:name":"San Bernardo, Liguria, Italy",
+    "woe:place_id":"lMhjkjabA5m5XTTdvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.337249,44.173592,8.3433,44.187374],
+  "geometry": {"alpha":0.00015,"bbox":[8.3372488021851,44.17359161377,8.3432998657227,44.18737411499],"coordinates":[[[[8.341541,44.184666],[8.342635,44.183109],[8.3433,44.173592],[8.337249,44.186268],[8.339996,44.187374],[8.341541,44.184666]]]],"created":1292521421,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/22526295_20101216_d823736cdf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

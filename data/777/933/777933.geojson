@@ -1,0 +1,15 @@
+{
+  "id": 777933,
+  "type": "Feature",
+  "properties": {
+    "name":"Villamayor, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":777933,
+    "woe:name":"Villamayor, Asturias, Spain",
+    "woe:place_id":"wK_BKM.eBpu7SGY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.310173,43.357513,-5.303263,43.365154],
+  "geometry": {"alpha":0.00015,"bbox":[-5.310173034668,43.357513427734,-5.3032631874084,43.365154266357],"coordinates":[[[[-5.307362,43.359947],[-5.303993,43.365154],[-5.303263,43.362366],[-5.303993,43.357513],[-5.310173,43.357635],[-5.307362,43.359947]]]],"created":1292550965,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/777933_20101217_fbf0dbc82d.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

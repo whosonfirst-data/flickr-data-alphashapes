@@ -1,0 +1,15 @@
+{
+  "id": 625882,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Maurin, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":625882,
+    "woe:name":"St.-Maurin, Aquitaine, France",
+    "woe:place_id":"aBHf1gefA5kL6XQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.885601,44.202019,0.898046,44.212666],
+  "geometry": {"alpha":0.00015,"bbox":[0.88560098409653,44.202018737793,0.89804601669312,44.212665557861],"coordinates":[[[[0.897359,44.212666],[0.896759,44.207928],[0.898046,44.202019],[0.893583,44.208172],[0.885601,44.210632],[0.897359,44.212666]]]],"created":1292447140,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/625882_20101215_f5ed0462dc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

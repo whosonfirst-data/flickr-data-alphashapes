@@ -1,0 +1,15 @@
+{
+  "id": 749992,
+  "type": "Feature",
+  "properties": {
+    "name":"Vale de Lobos, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":749992,
+    "woe:name":"Vale de Lobos, Lisbon, Portugal",
+    "woe:place_id":"F9oRRDWeBZU_Ses",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.299089,38.820133,-9.285936,38.833839],
+  "geometry": {"alpha":0.00015,"bbox":[-9.2990894317627,38.820133209229,-9.2859363555908,38.833839416504],"coordinates":[[[[-9.286086,38.824947],[-9.285936,38.820133],[-9.286365,38.821453],[-9.299089,38.833347],[-9.298896,38.833839],[-9.286086,38.824947]]]],"created":1248271466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3441/shapefiles/749992_20090722_c7280a373c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

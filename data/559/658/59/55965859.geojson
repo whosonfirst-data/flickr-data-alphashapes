@@ -1,0 +1,15 @@
+{
+  "id": 55965859,
+  "type": "Feature",
+  "properties": {
+    "name":"Langley Municipal Airport, Canada",
+    "placetype":"locality",
+    "woe:id":55965859,
+    "woe:name":"Langley Municipal Airport, Canada",
+    "woe:place_id":"Q7KLm1ScBJVIi.0fGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.63192,49.098156,-122.624779,49.10117],
+  "geometry": {"alpha":1e-05,"bbox":[-122.63191986084,49.098155975342,-122.62477874756,49.101169586182],"coordinates":[[[[-122.625771,49.098942],[-122.63192,49.098156],[-122.625809,49.099121],[-122.625168,49.100784],[-122.624779,49.10117],[-122.625771,49.098942]]]],"created":1292537700,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/55965859_20101216_23ae565e77.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

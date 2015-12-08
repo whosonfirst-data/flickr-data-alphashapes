@@ -1,0 +1,15 @@
+{
+  "id": 456871,
+  "type": "Feature",
+  "properties": {
+    "name":"Brejo Grande, Sergipe, Brazil",
+    "placetype":"locality",
+    "woe:id":456871,
+    "woe:name":"Brejo Grande, Sergipe, Brazil",
+    "woe:place_id":"8oVDbtudBJrVb0M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-36.473236,-10.424339,-36.455383,-10.392988],
+  "geometry": {"alpha":0.00015,"bbox":[-36.473236083984,-10.424339294434,-36.455383300781,-10.392988204956],"coordinates":[[[[-36.466797,-10.408046],[-36.462593,-10.392988],[-36.455383,-10.40678],[-36.461563,-10.42054],[-36.473236,-10.424339],[-36.466797,-10.408046]]]],"created":1292550668,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/456871_20101217_ea8b89595b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

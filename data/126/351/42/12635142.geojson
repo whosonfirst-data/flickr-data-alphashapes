@@ -1,0 +1,15 @@
+{
+  "id": 12635142,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Eitting, Germany",
+    "placetype":"locality",
+    "woe:id":12635142,
+    "woe:name":"Gemeinde Eitting, Germany",
+    "woe:place_id":"G0FPq46YA5pGUb8KPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.820344,48.364853,11.821286,48.366856],
+  "geometry": {"alpha":1e-05,"bbox":[11.820343971252,48.364852905273,11.821286201477,48.366855621338],"coordinates":[[[[11.821216,48.364853],[11.820344,48.366856],[11.821283,48.365013],[11.821286,48.364925],[11.821244,48.364864],[11.821216,48.364853]]]],"created":1292537494,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12635142_20101216_671c51f3dc.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12679178,
+  "type": "Feature",
+  "properties": {
+    "name":"Fagnano Olona, Italy",
+    "placetype":"locality",
+    "woe:id":12679178,
+    "woe:name":"Fagnano Olona, Italy",
+    "woe:place_id":"DEM3QQiYA5r1HoPlYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.873777,45.664955,8.87942,45.671913],
+  "geometry": {"alpha":1e-05,"bbox":[8.8737773895264,45.66495513916,8.8794202804565,45.671913146973],"coordinates":[[[[8.87942,45.669605],[8.876352,45.664955],[8.875751,45.665871],[8.873777,45.669319],[8.874163,45.671913],[8.87942,45.669605]]]],"created":1292462285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12679178_20101216_5794e22420.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

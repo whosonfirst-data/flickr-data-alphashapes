@@ -1,0 +1,15 @@
+{
+  "id": 26810322,
+  "type": "Feature",
+  "properties": {
+    "name":"Puerto Lopez, Ecuador",
+    "placetype":"locality",
+    "woe:id":26810322,
+    "woe:name":"Puerto Lopez, Ecuador",
+    "woe:place_id":"to9bsgWbB5TdUDh42Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.796394,-1.497832,-80.790535,-1.491139],
+  "geometry": {"alpha":1e-05,"bbox":[-80.796394348145,-1.4978319406509,-80.790534973145,-1.4911390542984],"coordinates":[[[[-80.793198,-1.492521],[-80.793457,-1.491139],[-80.790535,-1.493542],[-80.792595,-1.497832],[-80.796394,-1.49741],[-80.794571,-1.496008],[-80.793198,-1.492521]]]],"created":1292526437,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/26810322_20101216_c2f07df725.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

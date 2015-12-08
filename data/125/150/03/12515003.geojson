@@ -1,0 +1,15 @@
+{
+  "id": 12515003,
+  "type": "Feature",
+  "properties": {
+    "name":"Miri Airport, Malaysia",
+    "placetype":"locality",
+    "woe:id":12515003,
+    "woe:name":"Miri Airport, Malaysia",
+    "woe:place_id":"qRmQAxiYA5koWMBVhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [113.983452,4.321591,113.985985,4.3251],
+  "geometry": {"alpha":1e-05,"bbox":[113.98345184326,4.3215909004211,113.98598480225,4.3250999450684],"coordinates":[[[[113.983452,4.3251],[113.984596,4.3241],[113.985985,4.321591],[113.9841,4.32296],[113.983452,4.3251]]]],"created":1292546780,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12515003_20101217_d88db09661.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

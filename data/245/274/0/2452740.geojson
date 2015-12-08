@@ -1,0 +1,15 @@
+{
+  "id": 2452740,
+  "type": "Feature",
+  "properties": {
+    "name":"Moira, New York, United States",
+    "placetype":"locality",
+    "woe:id":2452740,
+    "woe:name":"Moira, New York, United States",
+    "woe:place_id":"XYB7uLybBZnI3mxH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.56163,44.814129,-74.554863,44.81929],
+  "geometry": {"alpha":0.00015,"bbox":[-74.561630249023,44.814128875732,-74.554862976074,44.819290161133],"coordinates":[[[[-74.554947,44.818859],[-74.554863,44.818359],[-74.555443,44.814129],[-74.56163,44.817142],[-74.556999,44.81929],[-74.554947,44.818859]]]],"created":1292500806,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2452740_20101216_66b0994428.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

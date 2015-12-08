@@ -1,0 +1,15 @@
+{
+  "id": 12672476,
+  "type": "Feature",
+  "properties": {
+    "name":"Villegly, France",
+    "placetype":"locality",
+    "woe:id":12672476,
+    "woe:name":"Villegly, France",
+    "woe:place_id":"GXzQ1oeYA5qvZpnP4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.438664,43.283226,2.445917,43.287079],
+  "geometry": {"alpha":1e-05,"bbox":[2.4386639595032,43.283226013184,2.445916891098,43.287078857422],"coordinates":[[[[2.439565,43.287079],[2.440295,43.286247],[2.445917,43.286282],[2.440466,43.283348],[2.438862,43.283226],[2.438664,43.284843],[2.439565,43.287079]]]],"created":1292487618,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12672476_20101216_306db8bf2c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

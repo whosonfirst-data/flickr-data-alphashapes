@@ -1,0 +1,15 @@
+{
+  "id": 711236,
+  "type": "Feature",
+  "properties": {
+    "name":"Borgo Ticino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":711236,
+    "woe:name":"Borgo Ticino, Piedmont, Italy",
+    "woe:place_id":"72BPUBmeAJ1F1eU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.591308,45.685886,8.605041,45.699524],
+  "geometry": {"alpha":0.00015,"bbox":[8.5913076400757,45.685886383057,8.6050405502319,45.699523925781],"coordinates":[[[[8.605,45.688],[8.602895,45.685886],[8.591308,45.699524],[8.605041,45.691071],[8.605,45.688]]]],"created":1292530573,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/711236_20101216_38e0b99b43.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

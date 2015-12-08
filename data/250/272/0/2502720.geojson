@@ -1,0 +1,15 @@
+{
+  "id": 2502720,
+  "type": "Feature",
+  "properties": {
+    "name":"Sussex, Norfolk, VA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2502720,
+    "woe:name":"Sussex, Norfolk, VA, US, United States",
+    "woe:place_id":"Tx5AE9ybBJwrJMnn",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-76.289749,36.915314,-76.285423,36.922142],
+  "geometry": {"alpha":1e-05,"bbox":[-76.289749145508,36.915313720703,-76.285423278809,36.922142028809],"coordinates":[[[[-76.289749,36.915314],[-76.288216,36.916748],[-76.28717,36.922142],[-76.285423,36.921936],[-76.288208,36.916748],[-76.289749,36.915314]]]],"created":1292547936,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2502720_20101217_a99b96ea0a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

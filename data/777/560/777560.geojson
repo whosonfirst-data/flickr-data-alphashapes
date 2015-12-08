@@ -1,0 +1,15 @@
+{
+  "id": 777560,
+  "type": "Feature",
+  "properties": {
+    "name":"Villabasil, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":777560,
+    "woe:name":"Villabasil, Castille and Leon, Spain",
+    "woe:place_id":"aLfB41ueBptyUNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.298408,43.030453,-3.2977,43.032005],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2984080314636,43.030452728271,-3.2976999282837,43.032005310059],"coordinates":[[[[-3.298344,43.031128],[-3.298408,43.031357],[-3.298301,43.032005],[-3.2977,43.031319],[-3.298001,43.030453],[-3.298344,43.031128]]]],"created":1292443993,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/777560_20101215_b2c366fd78.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

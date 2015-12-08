@@ -1,0 +1,15 @@
+{
+  "id": 20220712,
+  "type": "Feature",
+  "properties": {
+    "name":"O Bagullo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20220712,
+    "woe:name":"O Bagullo, Galicia, Spain",
+    "woe:place_id":"LFI3wwabAZ5nanKchA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.046799,42.241974,-8.043194,42.244453],
+  "geometry": {"alpha":0.00015,"bbox":[-8.0467987060547,42.241973876953,-8.0431938171387,42.244453430176],"coordinates":[[[[-8.045715,42.244148],[-8.043194,42.243053],[-8.046691,42.241974],[-8.046799,42.244354],[-8.046219,42.244453],[-8.045715,42.244148]]]],"created":1292452311,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20220712_20101215_723f8c4126.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

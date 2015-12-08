@@ -1,0 +1,15 @@
+{
+  "id": 12676524,
+  "type": "Feature",
+  "properties": {
+    "name":"Baone, Italy",
+    "placetype":"locality",
+    "woe:id":12676524,
+    "woe:name":"Baone, Italy",
+    "woe:place_id":"SQuLQBCYA5qfeJK7yQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.702612,45.228027,11.703325,45.229313],
+  "geometry": {"alpha":1e-05,"bbox":[11.702611923218,45.22802734375,11.703325271606,45.229312896729],"coordinates":[[[[11.702617,45.228027],[11.702612,45.228985],[11.702628,45.229313],[11.703325,45.22839],[11.702617,45.228027]]]],"created":1248058706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2583/shapefiles/12676524_20090720_f5e1a70471.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

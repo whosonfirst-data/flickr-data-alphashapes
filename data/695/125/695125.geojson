@@ -1,0 +1,15 @@
+{
+  "id": 695125,
+  "type": "Feature",
+  "properties": {
+    "name":"Simonshofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":695125,
+    "woe:name":"Simonshofen, Bavaria, Germany",
+    "woe:place_id":"A5L2Sz6fCJmwuy8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.264934,49.549019,11.269311,49.552551],
+  "geometry": {"alpha":0.00015,"bbox":[11.264933586121,49.549018859863,11.269310951233,49.552551269531],"coordinates":[[[[11.269032,49.551357],[11.269311,49.551136],[11.268786,49.549397],[11.267852,49.549019],[11.264934,49.55183],[11.267369,49.552551],[11.269032,49.551357]]]],"created":1292450840,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/695125_20101215_f481ea0f7b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

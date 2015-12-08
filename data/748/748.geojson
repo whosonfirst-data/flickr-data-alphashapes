@@ -1,0 +1,15 @@
+{
+  "id": 748,
+  "type": "Feature",
+  "properties": {
+    "name":"Keene, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":748,
+    "woe:name":"Keene, Ontario, Canada",
+    "woe:place_id":"rB6ODtGeBZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.186691,44.237942,-78.161072,44.292278],
+  "geometry": {"alpha":0.0001875,"bbox":[-78.18669128418,44.237941741943,-78.161071777344,44.292278289795],"coordinates":[[[[-78.16964,44.2747],[-78.16613,44.264061],[-78.164185,44.243954],[-78.161072,44.241749],[-78.173645,44.238956],[-78.176132,44.237942],[-78.186691,44.25943],[-78.180115,44.273224],[-78.176132,44.284046],[-78.171501,44.292278],[-78.163818,44.28801],[-78.16964,44.2747]]]],"created":1292522407,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/748_20101216_58738c4579.tar.gz"},"points":91,"type":"MultiPolygon"}
+}

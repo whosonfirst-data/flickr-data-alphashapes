@@ -1,0 +1,15 @@
+{
+  "id": 2492920,
+  "type": "Feature",
+  "properties": {
+    "name":"Shirley, California, United States",
+    "placetype":"locality",
+    "woe:id":2492920,
+    "woe:name":"Shirley, California, United States",
+    "woe:place_id":"YIErT9SbBZWHWz30",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.655663,36.399525,-119.62944,36.419903],
+  "geometry": {"alpha":0.00015,"bbox":[-119.65566253662,36.399524688721,-119.62944030762,36.419902801514],"coordinates":[[[[-119.630127,36.419903],[-119.62944,36.411613],[-119.636131,36.409679],[-119.655663,36.399525],[-119.645706,36.415611],[-119.630127,36.419903]]]],"created":1292507588,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2492920_20101216_f3d3ea69e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

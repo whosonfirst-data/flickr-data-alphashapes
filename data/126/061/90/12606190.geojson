@@ -1,0 +1,15 @@
+{
+  "id": 12606190,
+  "type": "Feature",
+  "properties": {
+    "name":"Prace, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12606190,
+    "woe:name":"Prace, Czech Republic",
+    "woe:place_id":"Y76I7giYA5prSZNtnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.763119,49.128059,16.764793,49.133915],
+  "geometry": {"alpha":1e-05,"bbox":[16.763118743896,49.128059387207,16.764793395996,49.13391494751],"coordinates":[[[[16.763248,49.128059],[16.763119,49.129356],[16.763971,49.133915],[16.764793,49.129147],[16.763248,49.128059]]]],"created":1292521345,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12606190_20101216_6e2d1e2921.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

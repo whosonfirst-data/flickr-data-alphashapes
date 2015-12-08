@@ -1,0 +1,15 @@
+{
+  "id": 2404725,
+  "type": "Feature",
+  "properties": {
+    "name":"Flynn, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2404725,
+    "woe:name":"Flynn, Oregon, United States",
+    "woe:place_id":"925kqpCbBZwWrz0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.389534,44.534046,-123.380928,44.541515],
+  "geometry": {"alpha":0.00015,"bbox":[-123.38953399658,44.534046173096,-123.38092803955,44.541515350342],"coordinates":[[[[-123.385307,44.541515],[-123.384689,44.54137],[-123.380928,44.53904],[-123.383972,44.535522],[-123.389534,44.534046],[-123.385391,44.541363],[-123.385307,44.541515]]]],"created":1292539744,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2404725_20101216_1cff9776d4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

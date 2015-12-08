@@ -1,0 +1,15 @@
+{
+  "id": 2461815,
+  "type": "Feature",
+  "properties": {
+    "name":"North Wind, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2461815,
+    "woe:name":"North Wind, Maryland, United States",
+    "woe:place_id":"BNgzGfKbBZqVt0FT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.51091,39.407135,-76.506516,39.410141],
+  "geometry": {"alpha":0.00015,"bbox":[-76.51091003418,39.407135009766,-76.50651550293,39.410140991211],"coordinates":[[[[-76.51091,39.40934],[-76.510895,39.409473],[-76.510391,39.410141],[-76.506516,39.409904],[-76.506882,39.407135],[-76.51091,39.40934]]]],"created":1292507166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2461815_20101216_8ab82db40a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

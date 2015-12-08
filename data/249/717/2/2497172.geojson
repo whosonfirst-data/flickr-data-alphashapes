@@ -1,0 +1,15 @@
+{
+  "id": 2497172,
+  "type": "Feature",
+  "properties": {
+    "name":"Southview, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2497172,
+    "woe:name":"Southview, Pennsylvania, United States",
+    "woe:place_id":"e05iuJGbBZVhN.CD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.255707,40.32066,-80.237831,40.33289],
+  "geometry": {"alpha":0.00015,"bbox":[-80.255706787109,40.320659637451,-80.237831115723,40.332889556885],"coordinates":[[[[-80.237831,40.33289],[-80.239281,40.32066],[-80.242165,40.323086],[-80.242424,40.32336],[-80.255707,40.327782],[-80.237831,40.33289]]]],"created":1292486947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2497172_20101216_e13a7d3370.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

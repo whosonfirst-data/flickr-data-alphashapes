@@ -1,0 +1,15 @@
+{
+  "id": 28589096,
+  "type": "Feature",
+  "properties": {
+    "name":"Tatura East, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28589096,
+    "woe:name":"Tatura East, Victoria, Australia",
+    "woe:place_id":"Sd.lf2ibCZkJ4b3iHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.330826,-36.445667,145.331497,-36.443165],
+  "geometry": {"alpha":0.00015,"bbox":[145.33082580566,-36.445667266846,145.33149719238,-36.443164825439],"coordinates":[[[[145.331497,-36.443832],[145.331161,-36.445667],[145.330994,-36.445667],[145.330826,-36.444168],[145.330826,-36.443165],[145.331497,-36.443832]]]],"created":1292442297,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28589096_20101215_fd3db1937e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

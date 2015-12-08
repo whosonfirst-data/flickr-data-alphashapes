@@ -1,0 +1,15 @@
+{
+  "id": 12664750,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Caylar, France",
+    "placetype":"locality",
+    "woe:id":12664750,
+    "woe:name":"Le Caylar, France",
+    "woe:place_id":"Rjo_eP2YA5pJFNQkqQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.308059,43.865551,3.314214,43.869839],
+  "geometry": {"alpha":1e-05,"bbox":[3.3080589771271,43.865550994873,3.3142139911652,43.8698387146],"coordinates":[[[[3.308059,43.866455],[3.308905,43.868076],[3.309288,43.867825],[3.314214,43.869839],[3.311433,43.865551],[3.308059,43.866455]]]],"created":1292452086,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12664750_20101215_5cb1b60279.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

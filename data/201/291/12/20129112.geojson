@@ -1,0 +1,15 @@
+{
+  "id": 20129112,
+  "type": "Feature",
+  "properties": {
+    "name":"Levata, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20129112,
+    "woe:name":"Levata, Lombardy, Italy",
+    "woe:place_id":"r1lRjhabAZ22l54xTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.761022,45.10812,10.77,45.126659],
+  "geometry": {"alpha":0.00015,"bbox":[10.761021614075,45.1081199646,10.770000457764,45.126659393311],"coordinates":[[[[10.763854,45.122173],[10.761022,45.125866],[10.76924,45.126659],[10.77,45.119999],[10.762138,45.10812],[10.763854,45.122173]]]],"created":1292550760,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20129112_20101217_e36c903cf6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

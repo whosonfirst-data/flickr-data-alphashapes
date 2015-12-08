@@ -1,0 +1,15 @@
+{
+  "id": 12680764,
+  "type": "Feature",
+  "properties": {
+    "name":"Olmedo, Italy",
+    "placetype":"locality",
+    "woe:id":12680764,
+    "woe:name":"Olmedo, Italy",
+    "woe:place_id":"53hivqKYA5pwy4mzeA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.376688,40.649307,8.388018,40.653538],
+  "geometry": {"alpha":1e-05,"bbox":[8.37668800354,40.649307250977,8.3880176544189,40.653537750244],"coordinates":[[[[8.382809,40.650444],[8.388018,40.653538],[8.383356,40.649307],[8.380359,40.64962],[8.376688,40.649956],[8.379135,40.650688],[8.38068,40.653423],[8.382809,40.650444]]]],"created":1292547514,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12680764_20101217_cebe424576.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

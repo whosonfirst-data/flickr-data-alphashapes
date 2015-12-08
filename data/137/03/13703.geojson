@@ -1,0 +1,15 @@
+{
+  "id": 13703,
+  "type": "Feature",
+  "properties": {
+    "name":"Bratton Road, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13703,
+    "woe:name":"Bratton Road, England, United Kingdom",
+    "woe:place_id":"3vRn7jCYApudug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.546859,52.715031,-2.539555,52.723972],
+  "geometry": {"alpha":0.00015,"bbox":[-2.5468590259552,52.715030670166,-2.5395550727844,52.723972320557],"coordinates":[[[[-2.546816,52.715031],[-2.546859,52.715054],[-2.546038,52.723972],[-2.539555,52.718628],[-2.539751,52.718597],[-2.546816,52.715031]]]],"created":1292482629,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/13703_20101216_de251a12be.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

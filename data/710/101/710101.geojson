@@ -1,0 +1,15 @@
+{
+  "id": 710101,
+  "type": "Feature",
+  "properties": {
+    "name":"Amandola, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":710101,
+    "woe:name":"Amandola, Marche, Italy",
+    "woe:place_id":"ima0f5aeAJwk.4M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.338003,42.976521,13.367743,42.984966],
+  "geometry": {"alpha":0.00015,"bbox":[13.338003158569,42.97652053833,13.367742538452,42.984966278076],"coordinates":[[[[13.357111,42.979759],[13.350448,42.977024],[13.338003,42.976521],[13.346672,42.982296],[13.348045,42.98217],[13.356285,42.98275],[13.359289,42.982391],[13.367743,42.984966],[13.359546,42.980789],[13.357111,42.979759]]]],"created":1292525136,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/710101_20101216_0cd92ee502.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

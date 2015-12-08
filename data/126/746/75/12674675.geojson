@@ -1,0 +1,15 @@
+{
+  "id": 12674675,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Radegund, Austria",
+    "placetype":"locality",
+    "woe:id":12674675,
+    "woe:name":"St. Radegund, Austria",
+    "woe:place_id":"ShaFAd6YA5oz7YsuKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.785309,48.128017,12.7881,48.130238],
+  "geometry": {"alpha":1e-05,"bbox":[12.785308837891,48.128017425537,12.788100242615,48.130237579346],"coordinates":[[[[12.785309,48.128941],[12.785339,48.130238],[12.787581,48.129055],[12.7881,48.128017],[12.788075,48.128036],[12.785309,48.128941]]]],"created":1292523481,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12674675_20101216_f05dfac481.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

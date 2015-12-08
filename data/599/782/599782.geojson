@@ -1,0 +1,15 @@
+{
+  "id": 599782,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rochette, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":599782,
+    "woe:name":"La Rochette, Rhone-Alpes, France",
+    "woe:place_id":"NZEccNucCJUKPpg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.112003,45.460972,6.119427,45.470726],
+  "geometry": {"alpha":0.00015,"bbox":[6.1120028495789,45.460971832275,6.1194272041321,45.470726013184],"coordinates":[[[[6.119427,45.464615],[6.119384,45.461845],[6.114749,45.460972],[6.112003,45.470726],[6.119427,45.464615]]]],"created":1292537799,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/599782_20101216_13ce8bba16.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2465302,
+  "type": "Feature",
+  "properties": {
+    "name":"Olive, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2465302,
+    "woe:name":"Olive, Maryland, United States",
+    "woe:place_id":".TIAGnmbBZqfyYEo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.569092,39.311008,-77.554993,39.324837],
+  "geometry": {"alpha":0.00015,"bbox":[-77.569091796875,39.311008453369,-77.554992675781,39.324836730957],"coordinates":[[[[-77.568565,39.311008],[-77.569092,39.311504],[-77.568947,39.311546],[-77.554993,39.324837],[-77.568214,39.311111],[-77.568565,39.311008]]]],"created":1292500863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2465302_20101216_3613c1cd58.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

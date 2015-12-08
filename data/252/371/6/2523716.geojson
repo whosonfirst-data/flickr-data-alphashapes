@@ -1,0 +1,15 @@
+{
+  "id": 2523716,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodson, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2523716,
+    "woe:name":"Woodson, Texas, United States",
+    "woe:place_id":"eLzFwXCbBJ4bR6In",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.060547,33.012585,-99.032478,33.021149],
+  "geometry": {"alpha":0.00015,"bbox":[-99.060546875,33.012584686279,-99.03247833252,33.021148681641],"coordinates":[[[[-99.060547,33.012585],[-99.058472,33.021149],[-99.055092,33.016323],[-99.032478,33.01442],[-99.055008,33.015499],[-99.060547,33.012585]]]],"created":1292522258,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2523716_20101216_bcfd2a0cc4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

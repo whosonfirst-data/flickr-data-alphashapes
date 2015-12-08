@@ -1,0 +1,15 @@
+{
+  "id": 2455893,
+  "type": "Feature",
+  "properties": {
+    "name":"Mountain View, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2455893,
+    "woe:name":"Mountain View, Ohio, United States",
+    "woe:place_id":"WMx5hI.bBZl2n6z3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.360664,41.704834,-81.358246,41.707909],
+  "geometry": {"alpha":0.00015,"bbox":[-81.360664367676,41.704833984375,-81.358245849609,41.707908630371],"coordinates":[[[[-81.360664,41.705002],[-81.360664,41.705334],[-81.360283,41.707909],[-81.358246,41.706459],[-81.360336,41.704834],[-81.360664,41.705002]]]],"created":1292500745,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2455893_20101216_69861857f7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

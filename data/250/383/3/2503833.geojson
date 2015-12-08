@@ -1,0 +1,15 @@
+{
+  "id": 2503833,
+  "type": "Feature",
+  "properties": {
+    "name":"Tamarack, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2503833,
+    "woe:name":"Tamarack, Wisconsin, United States",
+    "woe:place_id":"PabhDIGbBJyK_lAt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.481102,44.186314,-91.459808,44.210739],
+  "geometry": {"alpha":0.00015,"bbox":[-91.481101989746,44.18631362915,-91.459808349609,44.210739135742],"coordinates":[[[[-91.460953,44.210739],[-91.459808,44.194019],[-91.481102,44.186314],[-91.479614,44.194176],[-91.468979,44.199013],[-91.460953,44.210739]]]],"created":1292469903,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2503833_20101216_30e6392672.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

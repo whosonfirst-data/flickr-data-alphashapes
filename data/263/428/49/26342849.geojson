@@ -1,0 +1,15 @@
+{
+  "id": 26342849,
+  "type": "Feature",
+  "properties": {
+    "name":"Badger, Alaska, United States",
+    "placetype":"locality",
+    "woe:id":26342849,
+    "woe:name":"Badger, Alaska, United States",
+    "woe:place_id":"PNQ6hS2bB5_Or6ToMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-147.521835,64.770355,-147.501328,64.790726],
+  "geometry": {"alpha":0.00015,"bbox":[-147.52183532715,64.770355224609,-147.50132751465,64.790725708008],"coordinates":[[[[-147.507156,64.784752],[-147.521835,64.770355],[-147.515823,64.790726],[-147.501328,64.789558],[-147.502319,64.783974],[-147.507156,64.784752]]]],"created":1292533525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/26342849_20101216_fbe17ff615.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

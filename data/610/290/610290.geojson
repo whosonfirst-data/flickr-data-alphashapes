@@ -1,0 +1,15 @@
+{
+  "id": 610290,
+  "type": "Feature",
+  "properties": {
+    "name":"Martainville, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":610290,
+    "woe:name":"Martainville, Haute-Normandie, France",
+    "woe:place_id":"3T4k95CfAJwu4.o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.283855,49.459232,1.293983,49.468571],
+  "geometry": {"alpha":0.00015,"bbox":[1.2838549613953,49.459232330322,1.2939829826355,49.468570709229],"coordinates":[[[[1.293983,49.460426],[1.293157,49.459232],[1.285829,49.460148],[1.283855,49.468571],[1.292867,49.461655],[1.293983,49.460426]]]],"created":1292528036,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/610290_20101216_9e98d9c62f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

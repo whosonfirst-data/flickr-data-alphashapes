@@ -1,0 +1,15 @@
+{
+  "id": 35780,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Thomas, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35780,
+    "woe:name":"St. Thomas, Wales, United Kingdom",
+    "woe:place_id":"X.iFO1qaBJt7pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.936367,51.614765,-3.928813,51.632191],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9363670349121,51.614765167236,-3.9288129806519,51.632190704346],"coordinates":[[[[-3.935594,51.62553],[-3.936367,51.632191],[-3.928899,51.626301],[-3.928813,51.619186],[-3.929328,51.614765],[-3.935594,51.62553]]]],"created":1292504461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/35780_20101216_b4f940c9cc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

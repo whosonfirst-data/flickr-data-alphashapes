@@ -1,0 +1,15 @@
+{
+  "id": 749228,
+  "type": "Feature",
+  "properties": {
+    "name":"Tavarede, Coimbra, Portugal",
+    "placetype":"locality",
+    "woe:id":749228,
+    "woe:name":"Tavarede, Coimbra, Portugal",
+    "woe:place_id":"Ze8s1POeBZUjmlM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.851872,40.164341,-8.847464,40.174545],
+  "geometry": {"alpha":0.00015,"bbox":[-8.8518724441528,40.1643409729,-8.8474636077881,40.174545288086],"coordinates":[[[[-8.847464,40.164398],[-8.851872,40.164341],[-8.851853,40.168194],[-8.85086,40.174545],[-8.847834,40.165001],[-8.847464,40.164398]]]],"created":1292451069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/749228_20101215_463c6b940b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

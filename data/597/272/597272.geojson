@@ -1,0 +1,15 @@
+{
+  "id": 597272,
+  "type": "Feature",
+  "properties": {
+    "name":"La Castagna, Corsica, France",
+    "placetype":"locality",
+    "woe:id":597272,
+    "woe:name":"La Castagna, Corsica, France",
+    "woe:place_id":"i3UmHOecCJuLZSs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.694305,41.793522,8.724517,41.803822],
+  "geometry": {"alpha":0.00015,"bbox":[8.6943054199219,41.793521881104,8.7245168685913,41.803821563721],"coordinates":[[[[8.713316,41.801647],[8.724517,41.803822],[8.713531,41.793522],[8.694305,41.795887],[8.709561,41.797871],[8.712501,41.801392],[8.713316,41.801647]]]],"created":1292528870,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/597272_20101216_ed5f656252.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1096991,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Cressbrook, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1096991,
+    "woe:name":"Lower Cressbrook, Queensland, Australia",
+    "woe:place_id":"Ko8oudeYAZVYPSi3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.458221,-27.099501,152.477493,-27.093582],
+  "geometry": {"alpha":0.00015,"bbox":[152.45822143555,-27.099500656128,152.47749328613,-27.09358215332],"coordinates":[[[[152.46283,-27.096472],[152.477493,-27.094944],[152.462967,-27.099501],[152.462921,-27.099501],[152.46106,-27.097055],[152.458221,-27.093582],[152.46283,-27.096472]]]],"created":1292440200,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/1096991_20101215_36f2d85da3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

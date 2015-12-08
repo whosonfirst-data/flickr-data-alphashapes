@@ -1,0 +1,15 @@
+{
+  "id": 597225,
+  "type": "Feature",
+  "properties": {
+    "name":"La Cabasserie, Centre, France",
+    "placetype":"locality",
+    "woe:id":597225,
+    "woe:name":"La Cabasserie, Centre, France",
+    "woe:place_id":"u.p_ot.cCJvQpOs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.299691,46.793213,1.305313,46.794712],
+  "geometry": {"alpha":0.00015,"bbox":[1.2996909618378,46.793212890625,1.3053129911423,46.79471206665],"coordinates":[[[[1.300892,46.793213],[1.299691,46.794357],[1.304798,46.794712],[1.305313,46.793476],[1.300892,46.793213]]]],"created":1292466246,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/597225_20101216_ff3f7baf70.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722255,
+  "type": "Feature",
+  "properties": {
+    "name":"Saline, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":722255,
+    "woe:name":"Saline, Lazio, Italy",
+    "woe:place_id":"dyEAV12eA572QB8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.714258,42.187428,11.725673,42.204044],
+  "geometry": {"alpha":0.00015,"bbox":[11.71425819397,42.187427520752,11.725672721863,42.204044342041],"coordinates":[[[[11.720609,42.204044],[11.725673,42.201946],[11.720766,42.187428],[11.716575,42.197811],[11.714258,42.199657],[11.718643,42.203152],[11.720609,42.204044]]]],"created":1292542926,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/722255_20101216_3a8c0ea116.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

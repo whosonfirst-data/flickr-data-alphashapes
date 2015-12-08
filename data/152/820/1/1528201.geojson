@@ -1,0 +1,15 @@
+{
+  "id": 1528201,
+  "type": "Feature",
+  "properties": {
+    "name":"Maseno, Nyanza, Kenya",
+    "placetype":"locality",
+    "woe:id":1528201,
+    "woe:name":"Maseno, Nyanza, Kenya",
+    "woe:place_id":"HBtNq32YBJ4FguSd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [34.591827,-0.001373,34.605331,0.003333],
+  "geometry": {"alpha":0.00015,"bbox":[34.591827392578,-0.0013729999773204,34.605331420898,0.0033330000005662],"coordinates":[[[[34.591827,-0.001373],[34.592514,0.000686],[34.605331,0.003333],[34.6045,0.001833],[34.600498,-0.0005],[34.600334,-0.0005],[34.591827,-0.001373]]]],"created":1292468226,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/1528201_20101216_0cb416cb4b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12632314,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ratekau, Germany",
+    "placetype":"locality",
+    "woe:id":12632314,
+    "woe:name":"Gemeinde Ratekau, Germany",
+    "woe:place_id":"41ch.HWYA5oW28KiVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.697357,53.983273,10.702893,53.988014],
+  "geometry": {"alpha":1e-05,"bbox":[10.697357177734,53.98327255249,10.702893257141,53.988014221191],"coordinates":[[[[10.698966,53.988014],[10.702893,53.985088],[10.700833,53.984371],[10.699074,53.98341],[10.697357,53.983273],[10.698966,53.988014]]]],"created":1239674414,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3376/shapefiles/12632314_20090414_426bbee70e.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

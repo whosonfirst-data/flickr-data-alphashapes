@@ -1,0 +1,15 @@
+{
+  "id": 651065,
+  "type": "Feature",
+  "properties": {
+    "name":"Fuchsstadt, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":651065,
+    "woe:name":"Fuchsstadt, Bavaria, Germany",
+    "woe:place_id":"jQtLSY.fBJ0DObQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.91559,50.100399,9.935541,50.119465],
+  "geometry": {"alpha":0.00015,"bbox":[9.9155902862549,50.100399017334,9.9355411529541,50.119464874268],"coordinates":[[[[9.919795,50.117882],[9.921083,50.119038],[9.935541,50.119465],[9.927434,50.115021],[9.9203,50.100399],[9.91559,50.107368],[9.919795,50.117882]]]],"created":1292453613,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/651065_20101215_84f3f3db95.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

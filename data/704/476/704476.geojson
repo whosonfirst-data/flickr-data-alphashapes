@@ -1,0 +1,15 @@
+{
+  "id": 704476,
+  "type": "Feature",
+  "properties": {
+    "name":"Weidach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":704476,
+    "woe:name":"Weidach, Bavaria, Germany",
+    "woe:place_id":"6YKeNSeeAZjpmAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.239601,47.411114,10.244064,47.416531],
+  "geometry": {"alpha":0.00015,"bbox":[10.239601135254,47.411113739014,10.244064331055,47.416530609131],"coordinates":[[[[10.240502,47.411114],[10.239601,47.411186],[10.241619,47.415543],[10.242561,47.416531],[10.244064,47.412666],[10.242261,47.411854],[10.240502,47.411114]]]],"created":1292543547,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/704476_20101216_7a2cab081f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

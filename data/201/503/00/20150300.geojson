@@ -1,0 +1,15 @@
+{
+  "id": 20150300,
+  "type": "Feature",
+  "properties": {
+    "name":"Lago Cavalische, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20150300,
+    "woe:name":"Lago Cavalische, Lombardy, Italy",
+    "woe:place_id":"OxmKa8GbAZ0zB9gITg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.273834,45.487438,9.279327,45.49509],
+  "geometry": {"alpha":0.00015,"bbox":[9.2738342285156,45.487438201904,9.2793273925781,45.495090484619],"coordinates":[[[[9.278702,45.49509],[9.278705,45.49509],[9.279327,45.492172],[9.277755,45.487438],[9.273834,45.490944],[9.278702,45.49509]]]],"created":1292522444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20150300_20101216_b9387248cf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

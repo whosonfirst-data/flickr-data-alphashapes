@@ -1,0 +1,15 @@
+{
+  "id": 12515114,
+  "type": "Feature",
+  "properties": {
+    "name":"Kristiansund Kvernberget Airport, Norway",
+    "placetype":"locality",
+    "woe:id":12515114,
+    "woe:name":"Kristiansund Kvernberget Airport, Norway",
+    "woe:place_id":"za3pylSYA5nu1P5KyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.8246,63.111065,7.827973,63.114697],
+  "geometry": {"alpha":1e-05,"bbox":[7.8246002197266,63.111064910889,7.8279728889465,63.114696502686],"coordinates":[[[[7.8246,63.111843],[7.825419,63.114697],[7.827973,63.113914],[7.825973,63.111843],[7.8246,63.111065],[7.8246,63.111843]]]],"created":1292507584,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12515114_20101216_29b362ae2b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

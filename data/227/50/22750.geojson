@@ -1,0 +1,15 @@
+{
+  "id": 22750,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22750,
+    "woe:name":"Hawton, England, United Kingdom",
+    "woe:place_id":"dag12IybA5sQHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.832514,53.049561,-0.825219,53.05143],
+  "geometry": {"alpha":0.00015,"bbox":[-0.83251398801804,53.049560546875,-0.82521897554398,53.051429748535],"coordinates":[[[[-0.832514,53.049561],[-0.831184,53.050499],[-0.828437,53.05143],[-0.825219,53.050812],[-0.830669,53.049778],[-0.832514,53.049561]]]],"created":1292450340,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/22750_20101215_8e275f1f73.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

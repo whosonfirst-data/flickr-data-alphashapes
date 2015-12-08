@@ -1,0 +1,15 @@
+{
+  "id": 22721402,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Vernon, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22721402,
+    "woe:name":"Mount Vernon, New South Wales, Australia",
+    "woe:place_id":"T9R_PmmbA5td4fT_cQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.853836,-33.851742,150.862259,-33.841148],
+  "geometry": {"alpha":0.00015,"bbox":[150.85383605957,-33.851741790771,150.86225891113,-33.841148376465],"coordinates":[[[[150.861511,-33.851742],[150.855667,-33.847832],[150.853836,-33.84219],[150.854034,-33.841148],[150.862259,-33.842583],[150.861511,-33.851742]]]],"created":1292488688,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/22721402_20101216_6c9d33310a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

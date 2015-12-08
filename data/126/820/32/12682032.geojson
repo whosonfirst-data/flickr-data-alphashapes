@@ -1,0 +1,15 @@
+{
+  "id": 12682032,
+  "type": "Feature",
+  "properties": {
+    "name":"Solaro, Italy",
+    "placetype":"locality",
+    "woe:id":12682032,
+    "woe:name":"Solaro, Italy",
+    "woe:place_id":"gdyQjC.YA5r3kE.Msg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.07658,45.611336,9.081916,45.620609],
+  "geometry": {"alpha":1e-05,"bbox":[9.0765800476074,45.611335754395,9.0819158554077,45.620609283447],"coordinates":[[[[9.079509,45.616199],[9.076766,45.619801],[9.07658,45.620098],[9.079599,45.620609],[9.081916,45.615837],[9.079073,45.611336],[9.079509,45.616199]]]],"created":1292525882,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12682032_20101216_c4d6a5ac23.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

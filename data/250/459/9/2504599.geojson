@@ -1,0 +1,15 @@
+{
+  "id": 2504599,
+  "type": "Feature",
+  "properties": {
+    "name":"Telford, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2504599,
+    "woe:name":"Telford, Utah, United States",
+    "woe:place_id":"RoWNyOibBJxtOXDR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.97049,40.9105,-111.941498,40.931866],
+  "geometry": {"alpha":0.00015,"bbox":[-111.97048950195,40.910499572754,-111.94149780273,40.931865692139],"coordinates":[[[[-111.97049,40.925022],[-111.956581,40.930099],[-111.948448,40.931866],[-111.941498,40.9105],[-111.958839,40.917339],[-111.97049,40.925022]]]],"created":1292548351,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2504599_20101217_2be93670ce.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

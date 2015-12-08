@@ -1,0 +1,15 @@
+{
+  "id": 2486881,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Johns, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2486881,
+    "woe:name":"St. Johns, Illinois, United States",
+    "woe:place_id":"ppQMSIKbBZQto6ry",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.241158,38.026863,-89.239883,38.03075],
+  "geometry": {"alpha":0.00015,"bbox":[-89.241157531738,38.026863098145,-89.239883422852,38.030750274658],"coordinates":[[[[-89.240829,38.029308],[-89.240547,38.03075],[-89.239883,38.028893],[-89.241158,38.026863],[-89.240913,38.028622],[-89.240829,38.029308]]]],"created":1292422323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2486881_20101215_f7bdc30364.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

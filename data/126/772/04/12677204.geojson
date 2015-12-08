@@ -1,0 +1,15 @@
+{
+  "id": 12677204,
+  "type": "Feature",
+  "properties": {
+    "name":"Popoli, Italy",
+    "placetype":"locality",
+    "woe:id":12677204,
+    "woe:name":"Popoli, Italy",
+    "woe:place_id":"qfv_4xeYA5quM9AX4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.828182,42.17215,13.833471,42.174164],
+  "geometry": {"alpha":1e-05,"bbox":[13.828182220459,42.172149658203,13.833471298218,42.174163818359],"coordinates":[[[[13.82904,42.173199],[13.833289,42.174164],[13.833471,42.173851],[13.832001,42.17215],[13.829383,42.172565],[13.828182,42.172943],[13.82904,42.173199]]]],"created":1292530072,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12677204_20101216_54a5db246c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

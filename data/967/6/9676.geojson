@@ -1,0 +1,15 @@
+{
+  "id": 9676,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrogate, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9676,
+    "woe:name":"Harrogate, British Columbia, Canada",
+    "woe:place_id":"8DeXJVCQB5ua",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.477051,50.969669,-116.442719,50.986099],
+  "geometry": {"alpha":0.00015,"bbox":[-116.47705078125,50.969669342041,-116.44271850586,50.986099243164],"coordinates":[[[[-116.446335,50.976501],[-116.442719,50.970535],[-116.456711,50.974022],[-116.477051,50.969669],[-116.459198,50.986099],[-116.456841,50.981842],[-116.446335,50.976501]]]],"created":1292519448,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/9676_20101216_4e87e26242.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

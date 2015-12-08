@@ -1,0 +1,15 @@
+{
+  "id": 11800,
+  "type": "Feature",
+  "properties": {
+    "name":"Bar Hill, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11800,
+    "woe:name":"Bar Hill, England, United Kingdom",
+    "woe:place_id":"RTYoqSyYAJRQUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.012788,52.247353,0.041456,52.262486],
+  "geometry": {"alpha":0.00015,"bbox":[0.012787999585271,52.247352600098,0.041455999016762,52.26248550415],"coordinates":[[[[0.012788,52.254013],[0.017166,52.262486],[0.024204,52.26012],[0.032358,52.253288],[0.041456,52.252659],[0.037422,52.249664],[0.029118,52.24823],[0.020256,52.247353],[0.016179,52.248329],[0.012788,52.254013]]]],"created":1292454162,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/11800_20101215_169910a0ba.tar.gz"},"points":101,"type":"MultiPolygon"}
+}

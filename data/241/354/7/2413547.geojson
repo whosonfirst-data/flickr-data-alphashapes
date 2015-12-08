@@ -1,0 +1,15 @@
+{
+  "id": 2413547,
+  "type": "Feature",
+  "properties": {
+    "name":"Graysville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2413547,
+    "woe:name":"Graysville, Alabama, United States",
+    "woe:place_id":"IaPAkRSbBZ2A8RXz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.990112,33.641899,-86.977684,33.645779],
+  "geometry": {"alpha":0.00015,"bbox":[-86.990112304688,33.641899108887,-86.977684020996,33.645778656006],"coordinates":[[[[-86.982491,33.645779],[-86.977943,33.643654],[-86.977684,33.642311],[-86.988884,33.641899],[-86.990112,33.641911],[-86.982491,33.645779]]]],"created":1292448388,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2413547_20101215_6cf227b03d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

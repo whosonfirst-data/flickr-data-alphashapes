@@ -1,0 +1,15 @@
+{
+  "id": 23403928,
+  "type": "Feature",
+  "properties": {
+    "name":"College Heights, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23403928,
+    "woe:name":"College Heights, Alberta, Canada",
+    "woe:place_id":"Bp0gwH2bApio4xmYrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.736694,52.481606,-113.715897,52.498981],
+  "geometry": {"alpha":0.00015,"bbox":[-113.73669433594,52.481605529785,-113.71589660645,52.49898147583],"coordinates":[[[[-113.73008,52.488079],[-113.736694,52.488998],[-113.730896,52.498981],[-113.715897,52.485695],[-113.716164,52.484215],[-113.71965,52.481606],[-113.73008,52.488079]]]],"created":1292524666,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/23403928_20101216_4819041abc.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

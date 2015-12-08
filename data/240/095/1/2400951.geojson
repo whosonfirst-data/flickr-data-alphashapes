@@ -1,0 +1,15 @@
+{
+  "id": 2400951,
+  "type": "Feature",
+  "properties": {
+    "name":"Everly, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2400951,
+    "woe:name":"Everly, Iowa, United States",
+    "woe:place_id":"rP_qBZqbBZwxBATx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.327293,43.157478,-95.322098,43.165623],
+  "geometry": {"alpha":0.00015,"bbox":[-95.327293395996,43.15747833252,-95.32209777832,43.165622711182],"coordinates":[[[[-95.322304,43.157478],[-95.327293,43.159134],[-95.322876,43.165623],[-95.322098,43.15773],[-95.322166,43.157509],[-95.322304,43.157478]]]],"created":1292459822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2400951_20101216_71f6d3807c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

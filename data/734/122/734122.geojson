@@ -1,0 +1,15 @@
+{
+  "id": 734122,
+  "type": "Feature",
+  "properties": {
+    "name":"Vechten, Utrecht, Netherlands",
+    "placetype":"locality",
+    "woe:id":734122,
+    "woe:name":"Vechten, Utrecht, Netherlands",
+    "woe:place_id":"FLcOKU.eAphDcco",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.157308,52.056076,5.172886,52.068348],
+  "geometry": {"alpha":0.00015,"bbox":[5.1573081016541,52.056076049805,5.1728858947754,52.068347930908],"coordinates":[[[[5.172843,52.062359],[5.172886,52.061661],[5.172681,52.060699],[5.166084,52.056076],[5.157308,52.068348],[5.171942,52.064259],[5.172843,52.062359]]]],"created":1292545610,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/734122_20101217_5252b6505c.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

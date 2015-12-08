@@ -1,0 +1,15 @@
+{
+  "id": 12683855,
+  "type": "Feature",
+  "properties": {
+    "name":"Forel, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683855,
+    "woe:name":"Forel, Switzerland",
+    "woe:place_id":"n9itpU.YA5oSbVwjsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.771697,46.517502,6.778907,46.523376],
+  "geometry": {"alpha":1e-05,"bbox":[6.7716970443726,46.517501831055,6.7789068222046,46.523376464844],"coordinates":[[[[6.772298,46.523376],[6.774423,46.523247],[6.775817,46.522255],[6.778907,46.519672],[6.775131,46.517502],[6.771697,46.52137],[6.772298,46.523376]]]],"created":1292487663,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12683855_20101216_f7f9edeb9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

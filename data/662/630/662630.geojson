@@ -1,0 +1,15 @@
+{
+  "id": 662630,
+  "type": "Feature",
+  "properties": {
+    "name":"Hub, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":662630,
+    "woe:name":"Hub, Bavaria, Germany",
+    "woe:place_id":"uzB1AiOfB57RubQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.763991,49.484875,11.766844,49.486759],
+  "geometry": {"alpha":0.00015,"bbox":[11.763991355896,49.484874725342,11.766843795776,49.486759185791],"coordinates":[[[[11.765916,49.485401],[11.764039,49.484875],[11.763991,49.485168],[11.764536,49.486347],[11.765709,49.486759],[11.766625,49.48671],[11.766844,49.486671],[11.765916,49.485401]]]],"created":1292528102,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/662630_20101216_fbcd326327.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

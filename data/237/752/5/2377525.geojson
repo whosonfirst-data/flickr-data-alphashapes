@@ -1,0 +1,15 @@
+{
+  "id": 2377525,
+  "type": "Feature",
+  "properties": {
+    "name":"Central, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2377525,
+    "woe:name":"Central, Illinois, United States",
+    "woe:place_id":"JL8okBebApuFuOKX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.405342,41.491405,-88.404312,41.500778],
+  "geometry": {"alpha":0.00015,"bbox":[-88.405342102051,41.491405487061,-88.404312133789,41.500778198242],"coordinates":[[[[-88.404587,41.500778],[-88.404312,41.497074],[-88.404404,41.493931],[-88.404404,41.491405],[-88.404556,41.494766],[-88.405342,41.499336],[-88.404587,41.500778]]]],"created":1292451637,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2377525_20101215_8b191c9095.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

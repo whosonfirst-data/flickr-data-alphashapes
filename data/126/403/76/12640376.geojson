@@ -1,0 +1,15 @@
+{
+  "id": 12640376,
+  "type": "Feature",
+  "properties": {
+    "name":"Canteleu, France",
+    "placetype":"locality",
+    "woe:id":12640376,
+    "woe:name":"Canteleu, France",
+    "woe:place_id":"xljDySmYA5p3wsgmRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.057326,49.44405,1.064085,49.445473],
+  "geometry": {"alpha":1e-05,"bbox":[1.0573259592056,49.444049835205,1.0640850067139,49.445472717285],"coordinates":[[[[1.057326,49.444145],[1.060738,49.445473],[1.061832,49.444748],[1.063184,49.44405],[1.064085,49.444077],[1.061832,49.444748],[1.057326,49.444145]]]],"created":1292523501,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12640376_20101216_36585de05a.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

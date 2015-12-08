@@ -1,0 +1,15 @@
+{
+  "id": 904156,
+  "type": "Feature",
+  "properties": {
+    "name":"Skansen, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":904156,
+    "woe:name":"Skansen, Stockholm, Sweden",
+    "woe:place_id":"6SY2s_WQAZg0JJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.66799,59.032604,17.694382,59.053093],
+  "geometry": {"alpha":0.00015,"bbox":[17.667989730835,59.032604217529,17.694381713867,59.053092956543],"coordinates":[[[[17.693224,59.053093],[17.692514,59.046227],[17.694382,59.032604],[17.677002,59.037197],[17.672924,59.045998],[17.66799,59.049984],[17.668386,59.050961],[17.677191,59.048359],[17.685413,59.050797],[17.693224,59.053093]]]],"created":1292532318,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/904156_20101216_ba57c007d6.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12692640,
+  "type": "Feature",
+  "properties": {
+    "name":"Navas de Oro, Spain",
+    "placetype":"locality",
+    "woe:id":12692640,
+    "woe:name":"Navas de Oro, Spain",
+    "woe:place_id":"oP82aXOYA5rLuMArBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.440439,41.191959,-4.438658,41.196026],
+  "geometry": {"alpha":1e-05,"bbox":[-4.4404392242432,41.191959381104,-4.4386582374573,41.196025848389],"coordinates":[[[[-4.440268,41.191959],[-4.440439,41.19212],[-4.440225,41.194866],[-4.438658,41.196026],[-4.438798,41.193748],[-4.440268,41.191959]]]],"created":1247916601,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2443/shapefiles/12692640_20090718_7857465427.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

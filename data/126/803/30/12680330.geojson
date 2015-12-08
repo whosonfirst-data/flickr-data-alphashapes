@@ -1,0 +1,15 @@
+{
+  "id": 12680330,
+  "type": "Feature",
+  "properties": {
+    "name":"Minervino Murge, Italy",
+    "placetype":"locality",
+    "woe:id":12680330,
+    "woe:name":"Minervino Murge, Italy",
+    "woe:place_id":"oxguGqCYA5pupBFOag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.079302,41.080799,16.082268,41.089207],
+  "geometry": {"alpha":1e-05,"bbox":[16.079301834106,41.080799102783,16.08226776123,41.089206695557],"coordinates":[[[[16.081388,41.082691],[16.079655,41.080799],[16.079865,41.082455],[16.079302,41.085838],[16.080336,41.089207],[16.082268,41.083622],[16.081388,41.082691]]]],"created":1292534854,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12680330_20101216_23440f73bb.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

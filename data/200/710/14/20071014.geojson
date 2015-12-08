@@ -1,0 +1,15 @@
+{
+  "id": 20071014,
+  "type": "Feature",
+  "properties": {
+    "name":"General Alvear, Mendoza, Argentina",
+    "placetype":"county",
+    "woe:id":20071014,
+    "woe:name":"General Alvear, Mendoza, Argentina",
+    "woe:place_id":"eV1AOmCbAZwewP8NGw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-67.710114,-35.022404,-67.682816,-34.949554],
+  "geometry": {"alpha":0.0015,"bbox":[-67.710113525391,-35.022403717041,-67.682815551758,-34.949554443359],"coordinates":[[[[-67.686768,-34.973892],[-67.683273,-34.98061],[-67.682816,-35.022404],[-67.697067,-34.982189],[-67.710114,-34.949554],[-67.686768,-34.973892]]]],"created":1292502004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/20071014_20101216_bacf65fb9c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

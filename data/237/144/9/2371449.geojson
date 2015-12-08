@@ -1,0 +1,15 @@
+{
+  "id": 2371449,
+  "type": "Feature",
+  "properties": {
+    "name":"Buffalo, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2371449,
+    "woe:name":"Buffalo, Ohio, United States",
+    "woe:place_id":"8L7Z5rGbApvYoeIU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.528305,39.893227,-81.518616,39.91621],
+  "geometry": {"alpha":0.000234375,"bbox":[-81.528305053711,39.893226623535,-81.518615722656,39.916210174561],"coordinates":[[[[-81.523445,39.894772],[-81.523445,39.894905],[-81.528305,39.906155],[-81.520569,39.915676],[-81.518616,39.91621],[-81.521385,39.893227],[-81.523445,39.894772]]]],"created":1292545668,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2371449_20101217_a51113a049.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

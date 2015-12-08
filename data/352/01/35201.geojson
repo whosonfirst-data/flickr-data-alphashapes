@@ -1,0 +1,15 @@
+{
+  "id": 35201,
+  "type": "Feature",
+  "properties": {
+    "name":"South Cliffe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35201,
+    "woe:name":"South Cliffe, England, United Kingdom",
+    "woe:place_id":"T5LOzrSaBJ7LAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.706853,53.784767,-0.691512,53.799992],
+  "geometry": {"alpha":0.00015,"bbox":[-0.70685297250748,53.784767150879,-0.69151198863983,53.799991607666],"coordinates":[[[[-0.706853,53.784767],[-0.702695,53.790512],[-0.697116,53.799992],[-0.691512,53.785454],[-0.705084,53.784985],[-0.706853,53.784767]]]],"created":1292453259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/35201_20101215_8e97dcf781.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

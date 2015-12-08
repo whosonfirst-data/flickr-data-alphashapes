@@ -1,0 +1,15 @@
+{
+  "id": 701980,
+  "type": "Feature",
+  "properties": {
+    "name":"Vacha, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":701980,
+    "woe:name":"Vacha, Thuringia, Germany",
+    "woe:place_id":"8hf1OQKeAZ0w9Yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.016698,50.826584,10.028758,50.833698],
+  "geometry": {"alpha":0.00015,"bbox":[10.016697883606,50.826583862305,10.028758049011,50.833698272705],"coordinates":[[[[10.023822,50.827408],[10.020314,50.826584],[10.016698,50.833698],[10.0267,50.832001],[10.028758,50.827389],[10.023822,50.827408]]]],"created":1292531372,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/701980_20101216_ecdb23cb4d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

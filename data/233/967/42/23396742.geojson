@@ -1,0 +1,15 @@
+{
+  "id": 23396742,
+  "type": "Feature",
+  "properties": {
+    "name":"Cap-Chat-Est, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396742,
+    "woe:name":"Cap-Chat-Est, Quebec, Canada",
+    "woe:place_id":"NRpP42ybAp.TMPiQqg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.676369,49.091404,-66.665985,49.108936],
+  "geometry": {"alpha":0.00015,"bbox":[-66.676368713379,49.091403961182,-66.665985107422,49.108936309814],"coordinates":[[[[-66.676369,49.099274],[-66.676025,49.108936],[-66.66864,49.101746],[-66.665985,49.091404],[-66.674652,49.09433],[-66.676369,49.099274]]]],"created":1292528515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/23396742_20101216_003353640c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

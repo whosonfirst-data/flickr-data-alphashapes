@@ -1,0 +1,15 @@
+{
+  "id": 2503949,
+  "type": "Feature",
+  "properties": {
+    "name":"Tanglewood, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2503949,
+    "woe:name":"Tanglewood, Maryland, United States",
+    "woe:place_id":"gaHaOFqbBJw67dsm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.541595,38.550346,-76.535149,38.576622],
+  "geometry": {"alpha":0.00015,"bbox":[-76.541595458984,38.550346374512,-76.535148620605,38.576622009277],"coordinates":[[[[-76.540268,38.551304],[-76.541595,38.563831],[-76.537796,38.576622],[-76.535149,38.558388],[-76.538765,38.550346],[-76.540268,38.551304]]]],"created":1292549780,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2503949_20101217_d177b3e5e7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

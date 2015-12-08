@@ -1,0 +1,15 @@
+{
+  "id": 661112,
+  "type": "Feature",
+  "properties": {
+    "name":"Hohenbrunn, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":661112,
+    "woe:name":"Hohenbrunn, Bavaria, Germany",
+    "woe:place_id":"ll_SgIifB51SnWY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.682758,48.030777,11.716951,48.055668],
+  "geometry": {"alpha":0.00015,"bbox":[11.682758331299,48.030776977539,11.716951370239,48.055667877197],"coordinates":[[[[11.69898,48.0467],[11.682758,48.030777],[11.691341,48.053101],[11.705654,48.055668],[11.705632,48.055508],[11.716951,48.041435],[11.702274,48.047993],[11.69898,48.0467]]]],"created":1292456294,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/661112_20101215_6a59b0c5a3.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

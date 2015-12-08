@@ -1,0 +1,15 @@
+{
+  "id": 2397699,
+  "type": "Feature",
+  "properties": {
+    "name":"Eightmile Corner, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2397699,
+    "woe:name":"Eightmile Corner, Michigan, United States",
+    "woe:place_id":"wlxc1VCbApV3glqR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.599266,46.424488,-85.586922,46.439514],
+  "geometry": {"alpha":0.00015,"bbox":[-85.599266052246,46.424488067627,-85.586921691895,46.439514160156],"coordinates":[[[[-85.589592,46.424488],[-85.599266,46.424679],[-85.594955,46.429169],[-85.591393,46.439514],[-85.586922,46.438122],[-85.589592,46.424488]]]],"created":1292526632,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2397699_20101216_36410cdb51.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

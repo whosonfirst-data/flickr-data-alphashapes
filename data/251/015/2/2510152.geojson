@@ -1,0 +1,15 @@
+{
+  "id": 2510152,
+  "type": "Feature",
+  "properties": {
+    "name":"University Park, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2510152,
+    "woe:name":"University Park, Pennsylvania, United States",
+    "woe:place_id":"0lavBSmbBJ31UZ67",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.876068,40.793724,-77.844826,40.841866],
+  "geometry": {"alpha":0.00015,"bbox":[-77.876068115234,40.793724060059,-77.844825744629,40.841865539551],"coordinates":[[[[-77.870041,40.79734],[-77.869186,40.799522],[-77.869034,40.806534],[-77.876068,40.821407],[-77.864227,40.834072],[-77.853241,40.841866],[-77.864227,40.830956],[-77.855331,40.813358],[-77.844826,40.816017],[-77.848259,40.810497],[-77.848083,40.798195],[-77.858398,40.794022],[-77.863754,40.793724],[-77.869507,40.795849],[-77.870041,40.79734]]]],"created":1292446809,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2510152_20101215_c465401a8f.tar.gz"},"points":169,"type":"MultiPolygon"}
+}

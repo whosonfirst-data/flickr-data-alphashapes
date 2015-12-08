@@ -1,0 +1,15 @@
+{
+  "id": 3081,
+  "type": "Feature",
+  "properties": {
+    "name":"Geraldton, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3081,
+    "woe:name":"Geraldton, Ontario, Canada",
+    "woe:place_id":"huX6WL6aAZRD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.956871,49.703499,-86.949318,49.725212],
+  "geometry": {"alpha":0.00015,"bbox":[-86.956871032715,49.703498840332,-86.949317932129,49.725212097168],"coordinates":[[[[-86.951981,49.721703],[-86.949318,49.725212],[-86.950607,49.721039],[-86.953995,49.703499],[-86.956871,49.703499],[-86.951981,49.721703]]]],"created":1248022689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2600/shapefiles/3081_20090719_9e1082c16b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

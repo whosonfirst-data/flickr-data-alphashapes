@@ -1,0 +1,15 @@
+{
+  "id": 26809259,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Cruz, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809259,
+    "woe:name":"Santa Cruz, Costa Rica",
+    "woe:place_id":"0582azebB5R6yXUNkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.768349,10.016524,-83.761139,10.0243],
+  "geometry": {"alpha":1.25e-05,"bbox":[-83.768348693848,10.01652431488,-83.761138916016,10.024299621582],"coordinates":[[[[-83.761139,10.0243],[-83.762169,10.019567],[-83.763618,10.019552],[-83.768349,10.016524],[-83.764915,10.019905],[-83.761139,10.0243]]]],"created":1292527592,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/26809259_20101216_c8ea19492c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

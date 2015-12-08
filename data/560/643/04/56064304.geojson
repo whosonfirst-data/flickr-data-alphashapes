@@ -1,0 +1,15 @@
+{
+  "id": 56064304,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jose, Mendoza, Argentina",
+    "placetype":"locality",
+    "woe:id":56064304,
+    "woe:name":"San Jose, Mendoza, Argentina",
+    "woe:place_id":"ipMZ1BacB5z0dRa__w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-68.822479,-32.894577,-68.816704,-32.882397],
+  "geometry": {"alpha":0.00015,"bbox":[-68.822479248047,-32.894577026367,-68.816703796387,-32.882396697998],"coordinates":[[[[-68.822479,-32.884056],[-68.821617,-32.882397],[-68.816704,-32.883301],[-68.820076,-32.894436],[-68.821793,-32.894577],[-68.822136,-32.888092],[-68.822479,-32.884056]]]],"created":1292467985,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/56064304_20101216_315cd0f26e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

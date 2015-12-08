@@ -1,0 +1,15 @@
+{
+  "id": 2488105,
+  "type": "Feature",
+  "properties": {
+    "name":"San Luis, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2488105,
+    "woe:name":"San Luis, New Mexico, United States",
+    "woe:place_id":"wTl2AeebBZTx1oya",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.088875,35.709934,-107.080963,35.716763],
+  "geometry": {"alpha":0.00015,"bbox":[-107.08887481689,35.709934234619,-107.08096313477,35.716762542725],"coordinates":[[[[-107.084335,35.71244],[-107.080963,35.716763],[-107.084526,35.711815],[-107.088875,35.709934],[-107.084335,35.71244]]]],"created":1292460667,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2488105_20101216_4d503a640b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2355192,
+  "type": "Feature",
+  "properties": {
+    "name":"Apache City, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2355192,
+    "woe:name":"Apache City, Colorado, United States",
+    "woe:place_id":"b5PKRY.bApl.rkda",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.837929,37.847027,-104.828964,37.870281],
+  "geometry": {"alpha":0.00015,"bbox":[-104.83792877197,37.847026824951,-104.8289642334,37.870281219482],"coordinates":[[[[-104.837204,37.851814],[-104.828964,37.862404],[-104.829056,37.870281],[-104.829483,37.869637],[-104.828964,37.862404],[-104.82962,37.857773],[-104.829483,37.848019],[-104.837929,37.847027],[-104.837204,37.851814]]]],"created":1292456577,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2355192_20101215_568d1283fb.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

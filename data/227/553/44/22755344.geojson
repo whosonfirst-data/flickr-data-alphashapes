@@ -1,0 +1,15 @@
+{
+  "id": 22755344,
+  "type": "Feature",
+  "properties": {
+    "name":"Allonne, France",
+    "placetype":"locality",
+    "woe:id":22755344,
+    "woe:name":"Allonne, France",
+    "woe:place_id":"HQ1XxCCbA5sQCGLpXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.11035,49.408405,2.11108,49.410892],
+  "geometry": {"alpha":1e-05,"bbox":[2.1103498935699,49.408405303955,2.1110799312592,49.410892486572],"coordinates":[[[[2.11108,49.408482],[2.111005,49.408405],[2.110427,49.408882],[2.11035,49.410892],[2.11108,49.408482]]]],"created":1292521445,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/22755344_20101216_15fe5577d5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

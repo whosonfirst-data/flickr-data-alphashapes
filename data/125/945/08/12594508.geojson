@@ -1,0 +1,15 @@
+{
+  "id": 12594508,
+  "type": "Feature",
+  "properties": {
+    "name":"Bosta, Baranya, Hungary",
+    "placetype":"county",
+    "woe:id":12594508,
+    "woe:name":"Bosta, Baranya, Hungary",
+    "woe:place_id":"gU5ZhmqYA5ky0DN5ag",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [18.240051,45.940765,18.263397,46.000179],
+  "geometry": {"alpha":0.0015,"bbox":[18.240051269531,45.940765380859,18.263397216797,46.000179290771],"coordinates":[[[[18.259449,45.983723],[18.263397,45.971195],[18.242798,45.940765],[18.240051,45.964336],[18.244514,46.000179],[18.250008,45.99231],[18.259449,45.983723]]]],"created":1292537534,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12594508_20101216_33db212eba.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 770968,
+  "type": "Feature",
+  "properties": {
+    "name":"Puerto Hierro, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":770968,
+    "woe:name":"Puerto Hierro, Canary Islands, Spain",
+    "woe:place_id":"uiFxsgSeBpx3nzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.905741,27.783562,-17.900656,27.790644],
+  "geometry": {"alpha":0.00015,"bbox":[-17.905740737915,27.783561706543,-17.90065574646,27.790643692017],"coordinates":[[[[-17.900656,27.78603],[-17.900677,27.785778],[-17.902287,27.783562],[-17.905741,27.786686],[-17.901192,27.790644],[-17.900656,27.78603]]]],"created":1292484784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/770968_20101216_043d59d7ea.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

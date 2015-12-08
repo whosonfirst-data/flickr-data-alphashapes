@@ -1,0 +1,15 @@
+{
+  "id": 12624513,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Enger, Germany",
+    "placetype":"locality",
+    "woe:id":12624513,
+    "woe:name":"Gemeinde Enger, Germany",
+    "woe:place_id":"fX5oAimYA5rl.VVNOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.578405,52.131218,8.578808,52.136971],
+  "geometry": {"alpha":1e-05,"bbox":[8.578405380249,52.131217956543,8.5788078308105,52.13697052002],"coordinates":[[[[8.578808,52.131275],[8.578669,52.131218],[8.578702,52.131268],[8.578405,52.136971],[8.5788,52.131298],[8.578808,52.131275]]]],"created":1248014411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2469/shapefiles/12624513_20090719_1917b50382.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

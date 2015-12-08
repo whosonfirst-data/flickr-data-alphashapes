@@ -1,0 +1,15 @@
+{
+  "id": 879939,
+  "type": "Feature",
+  "properties": {
+    "name":"Schinenii, Bacau, Romania",
+    "placetype":"locality",
+    "woe:id":879939,
+    "woe:name":"Schinenii, Bacau, Romania",
+    "woe:place_id":"8SqRYtyRBpUVKLI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.101727,46.197865,27.114611,46.217453],
+  "geometry": {"alpha":0.00015,"bbox":[27.101726531982,46.197864532471,27.114610671997,46.21745300293],"coordinates":[[[[27.11161,46.204056],[27.114611,46.197865],[27.101727,46.205185],[27.1022,46.217453],[27.103933,46.214771],[27.107801,46.208874],[27.11161,46.204056]]]],"created":1292542570,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/879939_20101216_1861b271f3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

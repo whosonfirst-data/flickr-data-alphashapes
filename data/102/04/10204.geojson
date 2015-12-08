@@ -1,0 +1,15 @@
+{
+  "id": 10204,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbotsley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10204,
+    "woe:name":"Abbotsley, England, United Kingdom",
+    "woe:place_id":"GWp1LM6YAZ7SmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.209651,52.183334,-0.182132,52.207603],
+  "geometry": {"alpha":0.00015,"bbox":[-0.20965099334717,52.183334350586,-0.18213200569153,52.20760345459],"coordinates":[[[[-0.199513,52.196953],[-0.182132,52.193718],[-0.190544,52.191402],[-0.2,52.183334],[-0.207023,52.19014],[-0.209083,52.194191],[-0.209651,52.200073],[-0.208645,52.207603],[-0.199513,52.196953]]]],"created":1292458141,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/10204_20101216_d8078d9466.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

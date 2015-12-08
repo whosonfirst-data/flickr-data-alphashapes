@@ -1,0 +1,15 @@
+{
+  "id": 775435,
+  "type": "Feature",
+  "properties": {
+    "name":"Tigalate, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":775435,
+    "woe:name":"Tigalate, Canary Islands, Spain",
+    "woe:place_id":"9PRxFQKeBpmeCs8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.83964,28.567551,-17.833498,28.583126],
+  "geometry": {"alpha":0.00015,"bbox":[-17.839639663696,28.56755065918,-17.833498001099,28.583126068115],"coordinates":[[[[-17.839394,28.568085],[-17.83964,28.56888],[-17.839361,28.571585],[-17.833498,28.583126],[-17.836775,28.567551],[-17.839394,28.568085]]]],"created":1234837581,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3394/shapefiles/775435_20090217_2b3b7865b3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12624403,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kerken, Germany",
+    "placetype":"locality",
+    "woe:id":12624403,
+    "woe:name":"Gemeinde Kerken, Germany",
+    "woe:place_id":"UDPNZ8GYA5odBJMIJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.411444,51.434883,6.415768,51.439457],
+  "geometry": {"alpha":1e-05,"bbox":[6.4114441871643,51.434883117676,6.4157681465149,51.439456939697],"coordinates":[[[[6.41145,51.438583],[6.411444,51.438591],[6.415768,51.439457],[6.414307,51.434883],[6.411719,51.438362],[6.41145,51.438583]]]],"created":1292541676,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12624403_20101216_53e4e80687.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1095740,
+  "type": "Feature",
+  "properties": {
+    "name":"Evelyn, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1095740,
+    "woe:name":"Evelyn, Queensland, Australia",
+    "woe:place_id":"KwXVE1WYAZUFdmXp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.484039,-17.430334,145.48613,-17.428053],
+  "geometry": {"alpha":0.00015,"bbox":[145.48403930664,-17.430334091187,145.48612976074,-17.428052902222],"coordinates":[[[[145.484039,-17.430334],[145.486023,-17.428053],[145.486053,-17.428053],[145.486099,-17.428053],[145.486115,-17.428053],[145.48613,-17.428053],[145.484039,-17.430334]]]],"created":1292535875,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/1095740_20101216_a5d27157dc.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

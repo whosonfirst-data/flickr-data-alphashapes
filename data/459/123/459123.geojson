@@ -1,0 +1,15 @@
+{
+  "id": 459123,
+  "type": "Feature",
+  "properties": {
+    "name":"Castilho, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":459123,
+    "woe:name":"Castilho, Sao Paulo, Brazil",
+    "woe:place_id":"h_CwEvydBJVHyGM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-51.502533,-20.877979,-51.486633,-20.863483],
+  "geometry": {"alpha":0.00015,"bbox":[-51.502532958984,-20.877979278564,-51.486633300781,-20.863483428955],"coordinates":[[[[-51.486633,-20.863483],[-51.488712,-20.874451],[-51.48983,-20.877979],[-51.502533,-20.871002],[-51.486633,-20.863483]]]],"created":1292491203,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/459123_20101216_427ce107f1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

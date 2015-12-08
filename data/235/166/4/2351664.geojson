@@ -1,0 +1,15 @@
+{
+  "id": 2351664,
+  "type": "Feature",
+  "properties": {
+    "name":"Academy, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2351664,
+    "woe:name":"Academy, Pennsylvania, United States",
+    "woe:place_id":"EFF7ZiubApk91EVv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.261795,39.887283,-75.260597,39.891785],
+  "geometry": {"alpha":0.00015,"bbox":[-75.261795043945,39.887283325195,-75.260597229004,39.891784667969],"coordinates":[[[[-75.261604,39.890396],[-75.261368,39.89135],[-75.26104,39.891785],[-75.260597,39.890079],[-75.260811,39.887283],[-75.261795,39.889069],[-75.261604,39.890396]]]],"created":1292535243,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2351664_20101216_860c352d4d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

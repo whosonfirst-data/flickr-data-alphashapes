@@ -1,0 +1,15 @@
+{
+  "id": 2463559,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakland, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2463559,
+    "woe:name":"Oakland, Texas, United States",
+    "woe:place_id":"4chA5oubBZo0fbXz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.831352,29.601782,-96.825943,29.604738],
+  "geometry": {"alpha":0.00015,"bbox":[-96.831352233887,29.601781845093,-96.825942993164,29.604738235474],"coordinates":[[[[-96.831352,29.601782],[-96.831337,29.603918],[-96.82811,29.60471],[-96.825943,29.604738],[-96.831352,29.601782]]]],"created":1292444933,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2463559_20101215_7624a891fe.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

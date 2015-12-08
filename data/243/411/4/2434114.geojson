@@ -1,0 +1,15 @@
+{
+  "id": 2434114,
+  "type": "Feature",
+  "properties": {
+    "name":"L'erable, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2434114,
+    "woe:name":"L'erable, Illinois, United States",
+    "woe:place_id":"vl1iAJmbBZ.DDXB.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.871399,40.869457,-87.864532,40.896904],
+  "geometry": {"alpha":0.00015,"bbox":[-87.871398925781,40.869457244873,-87.864532470703,40.896903991699],"coordinates":[[[[-87.864532,40.896904],[-87.865562,40.890255],[-87.865562,40.869457],[-87.871399,40.882889],[-87.866592,40.889896],[-87.864532,40.896904]]]],"created":1292448542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2434114_20101215_479dd28e81.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2515177,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterport, New York, United States",
+    "placetype":"locality",
+    "woe:id":2515177,
+    "woe:name":"Waterport, New York, United States",
+    "woe:place_id":"PLyXSH.bBJ1ahbTc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.250595,43.322353,-78.233856,43.338024],
+  "geometry": {"alpha":0.00015,"bbox":[-78.250595092773,43.322353363037,-78.233856201172,43.338024139404],"coordinates":[[[[-78.233856,43.338024],[-78.239868,43.326847],[-78.250595,43.322353],[-78.238876,43.334949],[-78.233856,43.338024]]]],"created":1247856607,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2582/shapefiles/2515177_20090717_123b6c0994.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2378892,
+  "type": "Feature",
+  "properties": {
+    "name":"Cheohee, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2378892,
+    "woe:name":"Cheohee, South Carolina, United States",
+    "woe:place_id":"ssbKL9mbApsEEIE6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.103104,34.868328,-83.090416,34.892559],
+  "geometry": {"alpha":0.00015,"bbox":[-83.103103637695,34.868328094482,-83.09041595459,34.892559051514],"coordinates":[[[[-83.103104,34.892559],[-83.097313,34.882778],[-83.090416,34.872253],[-83.094322,34.868328],[-83.098785,34.881847],[-83.103104,34.892559]]]],"created":1292532528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2378892_20101216_e905a52f13.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

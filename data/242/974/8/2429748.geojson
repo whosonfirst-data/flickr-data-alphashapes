@@ -1,0 +1,15 @@
+{
+  "id": 2429748,
+  "type": "Feature",
+  "properties": {
+    "name":"Jones, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2429748,
+    "woe:name":"Jones, Maryland, United States",
+    "woe:place_id":"IaSZYeubBZ4bgO5e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.529327,39.049477,-76.508316,39.056675],
+  "geometry": {"alpha":0.00015,"bbox":[-76.529327392578,39.049476623535,-76.508316040039,39.056674957275],"coordinates":[[[[-76.527679,39.055862],[-76.529327,39.056675],[-76.527969,39.056648],[-76.524391,39.054634],[-76.512909,39.05365],[-76.508316,39.053185],[-76.509102,39.049477],[-76.524391,39.054634],[-76.527679,39.055862]]]],"created":1247967967,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2485/shapefiles/2429748_20090719_efdbee8b6e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

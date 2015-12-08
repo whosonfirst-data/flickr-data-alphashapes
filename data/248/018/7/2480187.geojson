@@ -1,0 +1,15 @@
+{
+  "id": 2480187,
+  "type": "Feature",
+  "properties": {
+    "name":"Rennyson, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2480187,
+    "woe:name":"Rennyson, Pennsylvania, United States",
+    "woe:place_id":"dg6O2OmbBZS4_HNf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.462921,40.061848,-75.453049,40.067371],
+  "geometry": {"alpha":0.00015,"bbox":[-75.462921142578,40.061847686768,-75.453048706055,40.067371368408],"coordinates":[[[[-75.461227,40.065048],[-75.453911,40.067371],[-75.453049,40.065212],[-75.456802,40.061848],[-75.462921,40.062683],[-75.461227,40.065048]]]],"created":1292448694,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2480187_20101215_825ba35f68.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

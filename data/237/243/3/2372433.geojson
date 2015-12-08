@@ -1,0 +1,15 @@
+{
+  "id": 2372433,
+  "type": "Feature",
+  "properties": {
+    "name":"Burtonville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2372433,
+    "woe:name":"Burtonville, Virginia, United States",
+    "woe:place_id":"cFNNkW6bApuGiOQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.34967,38.273739,-78.332924,38.309814],
+  "geometry": {"alpha":0.00015,"bbox":[-78.349670410156,38.273738861084,-78.33292388916,38.309814453125],"coordinates":[[[[-78.341171,38.309814],[-78.332924,38.292027],[-78.335007,38.292377],[-78.34967,38.273739],[-78.342133,38.296402],[-78.341171,38.309814]]]],"created":1292485688,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2372433_20101216_d94dfafa2b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

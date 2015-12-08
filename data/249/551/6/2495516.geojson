@@ -1,0 +1,15 @@
+{
+  "id": 2495516,
+  "type": "Feature",
+  "properties": {
+    "name":"Soda Spring, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2495516,
+    "woe:name":"Soda Spring, Oregon, United States",
+    "woe:place_id":"npLhX9ibBZUnMNcr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.542534,42.115902,-122.527084,42.134895],
+  "geometry": {"alpha":0.00015,"bbox":[-122.54253387451,42.115901947021,-122.52708435059,42.134895324707],"coordinates":[[[[-122.531548,42.134735],[-122.527084,42.127254],[-122.540421,42.115902],[-122.542534,42.134514],[-122.533775,42.134895],[-122.531548,42.134735]]]],"created":1292534664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2495516_20101216_b88802e7f0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

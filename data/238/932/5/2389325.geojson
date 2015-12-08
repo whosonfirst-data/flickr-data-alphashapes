@@ -1,0 +1,15 @@
+{
+  "id": 2389325,
+  "type": "Feature",
+  "properties": {
+    "name":"Danville, Deposit, NY, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2389325,
+    "woe:name":"Danville, Deposit, NY, US, United States",
+    "woe:place_id":"18kYouabApRTrSPu",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.459785,42.017349,-75.458893,42.01862],
+  "geometry": {"alpha":1e-05,"bbox":[-75.459785461426,42.017349243164,-75.458892822266,42.018619537354],"coordinates":[[[[-75.45961,42.01862],[-75.458893,42.017349],[-75.459511,42.017773],[-75.459785,42.018085],[-75.45961,42.01862]]]],"created":1292538441,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2389325_20101216_08b2125c29.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

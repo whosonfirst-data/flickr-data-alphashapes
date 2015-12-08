@@ -1,0 +1,15 @@
+{
+  "id": 20119123,
+  "type": "Feature",
+  "properties": {
+    "name":"Castellina, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20119123,
+    "woe:name":"Castellina, Tuscany, Italy",
+    "woe:place_id":"ZxVjoG.bAZ3c842s.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.835523,43.9221,10.837755,43.92374],
+  "geometry": {"alpha":0.00015,"bbox":[10.835522651672,43.922100067139,10.837755203247,43.923740386963],"coordinates":[[[[10.837326,43.923492],[10.837755,43.923183],[10.837039,43.92223],[10.835523,43.9221],[10.835952,43.92374],[10.837326,43.923492]]]],"created":1292502124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/20119123_20101216_a3d46d7cae.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

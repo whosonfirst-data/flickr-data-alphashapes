@@ -1,0 +1,15 @@
+{
+  "id": 2409800,
+  "type": "Feature",
+  "properties": {
+    "name":"Germantown, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2409800,
+    "woe:name":"Germantown, Illinois, United States",
+    "woe:place_id":"l9OGhbWbBZztWwIo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.556381,38.550289,-89.535698,38.567158],
+  "geometry": {"alpha":0.00015,"bbox":[-89.556381225586,38.550289154053,-89.535697937012,38.567157745361],"coordinates":[[[[-89.536987,38.552193],[-89.53878,38.550289],[-89.556381,38.55283],[-89.541512,38.553635],[-89.535698,38.567158],[-89.536987,38.552193]]]],"created":1247967843,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3460/shapefiles/2409800_20090719_173c08a3ba.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

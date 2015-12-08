@@ -1,0 +1,15 @@
+{
+  "id": 2377310,
+  "type": "Feature",
+  "properties": {
+    "name":"Center Point, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2377310,
+    "woe:name":"Center Point, West Virginia, United States",
+    "woe:place_id":"y7P5KYObApvUfWpZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.634926,39.389412,-80.634056,39.389748],
+  "geometry": {"alpha":0.00015,"bbox":[-80.634925842285,39.38941192627,-80.634056091309,39.389747619629],"coordinates":[[[[-80.634171,39.389633],[-80.634071,39.38953],[-80.634056,39.389507],[-80.634926,39.389412],[-80.634865,39.389748],[-80.634171,39.389633]]]],"created":1292444549,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2377310_20101215_ee0e7e5bda.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

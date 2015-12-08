@@ -1,0 +1,15 @@
+{
+  "id": 2434735,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Barcroft, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2434735,
+    "woe:name":"Lake Barcroft, Virginia, United States",
+    "woe:place_id":"bt2gMjmbBZ9bx6OL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.157257,38.847046,-77.14402,38.855309],
+  "geometry": {"alpha":0.00015,"bbox":[-77.157257080078,38.847045898438,-77.144020080566,38.855308532715],"coordinates":[[[[-77.157257,38.850014],[-77.157242,38.853611],[-77.150375,38.855309],[-77.14402,38.84935],[-77.14872,38.847046],[-77.157257,38.850014]]]],"created":1292540583,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2434735_20101216_58fbbae39d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

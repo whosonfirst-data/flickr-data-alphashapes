@@ -1,0 +1,15 @@
+{
+  "id": 575703,
+  "type": "Feature",
+  "properties": {
+    "name":"Alex, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":575703,
+    "woe:name":"Alex, Rhone-Alpes, France",
+    "woe:place_id":"hRWBSq2cBpniSKI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.215171,45.880508,6.240385,45.891022],
+  "geometry": {"alpha":0.00015,"bbox":[6.2151708602905,45.880508422852,6.240385055542,45.891021728516],"coordinates":[[[[6.23953,45.891022],[6.240385,45.889366],[6.230106,45.880508],[6.215171,45.888813],[6.235427,45.890663],[6.23953,45.891022]]]],"created":1292546543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/575703_20101217_462da09ddc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

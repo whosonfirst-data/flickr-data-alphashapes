@@ -1,0 +1,15 @@
+{
+  "id": 9702,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Lake, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9702,
+    "woe:name":"Monte Lake, British Columbia, Canada",
+    "woe:place_id":"5zW8M3qQBpxF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.835258,50.486786,-119.830627,50.505783],
+  "geometry": {"alpha":0.00015,"bbox":[-119.83525848389,50.486785888672,-119.83062744141,50.505783081055],"coordinates":[[[[-119.833885,50.49279],[-119.830627,50.486786],[-119.835258,50.492355],[-119.834229,50.505783],[-119.833885,50.49279]]]],"created":1292544501,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/9702_20101217_d98054d982.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

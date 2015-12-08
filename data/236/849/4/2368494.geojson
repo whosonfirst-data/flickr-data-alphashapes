@@ -1,0 +1,15 @@
+{
+  "id": 2368494,
+  "type": "Feature",
+  "properties": {
+    "name":"Brendonwood, Indianapolis, IN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2368494,
+    "woe:name":"Brendonwood, Indianapolis, IN, US, United States",
+    "woe:place_id":"B.01dhabApoMnIP9",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-86.041748,39.851936,-86.039001,39.857044],
+  "geometry": {"alpha":1e-05,"bbox":[-86.041748046875,39.851936340332,-86.039001464844,39.857044219971],"coordinates":[[[[-86.041039,39.856632],[-86.040649,39.857044],[-86.039001,39.856339],[-86.041748,39.851936],[-86.04097,39.855991],[-86.041039,39.856632]]]],"created":1234518498,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3301/shapefiles/2368494_20090213_fb81a533be.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

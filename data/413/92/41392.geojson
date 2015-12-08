@@ -1,0 +1,15 @@
+{
+  "id": 41392,
+  "type": "Feature",
+  "properties": {
+    "name":"Yewlands, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":41392,
+    "woe:name":"Yewlands, England, United Kingdom",
+    "woe:place_id":"CCRf9wKdAJ8w_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.013561,51.752312,3.2e-05,51.758537],
+  "geometry": {"alpha":0.00015,"bbox":[-0.013561000116169,51.752311706543,3.1999999919208e-05,51.75853729248],"coordinates":[[[[-0.01081,51.75235],[-0.011469,51.752312],[-0.01178,51.753033],[-0.013561,51.755886],[3.2e-05,51.758537],[-0.01081,51.75235]]]],"created":1292520606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/41392_20101216_903168abc7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

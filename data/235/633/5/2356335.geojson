@@ -1,0 +1,15 @@
+{
+  "id": 2356335,
+  "type": "Feature",
+  "properties": {
+    "name":"Arthur, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2356335,
+    "woe:name":"Arthur, Nebraska, United States",
+    "woe:place_id":"AdI9oDabApnyftnG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.698738,41.568645,-101.68885,41.574215],
+  "geometry": {"alpha":0.00015,"bbox":[-101.69873809814,41.568645477295,-101.68885040283,41.574214935303],"coordinates":[[[[-101.69014,41.568966],[-101.698738,41.568645],[-101.690903,41.574215],[-101.68885,41.570965],[-101.69014,41.568966]]]],"created":1292485869,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2356335_20101216_c311383cb4.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 678844,
+  "type": "Feature",
+  "properties": {
+    "name":"Neunkirchen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":678844,
+    "woe:name":"Neunkirchen, Hesse, Germany",
+    "woe:place_id":"tdaVhUefBpRGocY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.771553,49.730637,8.779552,49.742413],
+  "geometry": {"alpha":0.00015,"bbox":[8.7715530395508,49.73063659668,8.7795524597168,49.742412567139],"coordinates":[[[[8.773784,49.732384],[8.773226,49.730637],[8.771553,49.7328],[8.778887,49.742378],[8.779552,49.742413],[8.773806,49.732468],[8.773784,49.732384]]]],"created":1292458585,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/678844_20101216_411f4ae118.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

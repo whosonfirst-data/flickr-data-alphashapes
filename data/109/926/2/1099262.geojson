@@ -1,0 +1,15 @@
+{
+  "id": 1099262,
+  "type": "Feature",
+  "properties": {
+    "name":"Wangat, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1099262,
+    "woe:name":"Wangat, New South Wales, Australia",
+    "woe:place_id":"CaMN5IKYAZX3jah9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.689835,-32.238335,151.693497,-32.237],
+  "geometry": {"alpha":0.00015,"bbox":[151.68983459473,-32.238334655762,151.6934967041,-32.236999511719],"coordinates":[[[[151.693497,-32.237167],[151.693161,-32.237331],[151.690002,-32.238335],[151.689835,-32.237831],[151.690826,-32.237499],[151.692993,-32.237],[151.693497,-32.237167]]]],"created":1247966768,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2136/shapefiles/1099262_20090719_ea830b2cab.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

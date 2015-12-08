@@ -1,0 +1,15 @@
+{
+  "id": 3573,
+  "type": "Feature",
+  "properties": {
+    "name":"Huntingdon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3573,
+    "woe:name":"Huntingdon, Quebec, Canada",
+    "woe:place_id":"wymlVfGaBJv9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.178528,45.072063,-74.158485,45.110302],
+  "geometry": {"alpha":0.00015,"bbox":[-74.178527832031,45.072063446045,-74.158485412598,45.110301971436],"coordinates":[[[[-74.164818,45.084309],[-74.165779,45.082333],[-74.174881,45.072063],[-74.178528,45.081036],[-74.178421,45.090946],[-74.171738,45.092655],[-74.158485,45.110302],[-74.161102,45.088684],[-74.164818,45.084309]]]],"created":1292549123,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/3573_20101217_b87e63e8eb.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

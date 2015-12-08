@@ -1,0 +1,15 @@
+{
+  "id": 2519155,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitcomb, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2519155,
+    "woe:name":"Whitcomb, Washington, United States",
+    "woe:place_id":"bMkdcGKbBJ3_sHdk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.776123,45.826256,-119.761963,45.835499],
+  "geometry": {"alpha":0.00015,"bbox":[-119.77612304688,45.82625579834,-119.76196289062,45.835498809814],"coordinates":[[[[-119.768272,45.832916],[-119.761963,45.835499],[-119.762306,45.832207],[-119.769989,45.826256],[-119.776123,45.831848],[-119.768272,45.832916]]]],"created":1292526545,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2519155_20101216_27cea1bfdc.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

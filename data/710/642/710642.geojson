@@ -1,0 +1,15 @@
+{
+  "id": 710642,
+  "type": "Feature",
+  "properties": {
+    "name":"Balzo, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":710642,
+    "woe:name":"Balzo, Marche, Italy",
+    "woe:place_id":"gRrQvr.eAJzF.tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.258094,42.815372,13.270797,42.824364],
+  "geometry": {"alpha":0.00015,"bbox":[13.258093833923,42.815372467041,13.270796775818,42.824363708496],"coordinates":[[[[13.265304,42.815804],[13.258094,42.818573],[13.264446,42.824364],[13.269013,42.819153],[13.270797,42.816307],[13.267022,42.815372],[13.265304,42.815804]]]],"created":1292532223,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/710642_20101216_76cc918f56.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

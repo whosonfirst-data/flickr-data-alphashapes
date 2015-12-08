@@ -1,0 +1,15 @@
+{
+  "id": 20131560,
+  "type": "Feature",
+  "properties": {
+    "name":"Menzino, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20131560,
+    "woe:name":"Menzino, Lombardy, Italy",
+    "woe:place_id":"qIWGkySbAZ040k66ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.071544,45.702103,10.075664,45.70438],
+  "geometry": {"alpha":0.00015,"bbox":[10.071543693542,45.702102661133,10.075663566589,45.7043800354],"coordinates":[[[[10.075407,45.703884],[10.075664,45.702236],[10.075321,45.702103],[10.071544,45.704201],[10.073089,45.70438],[10.074763,45.704109],[10.075407,45.703884]]]],"created":1292534154,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/20131560_20101216_1e7a497f6e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

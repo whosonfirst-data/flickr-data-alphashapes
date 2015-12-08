@@ -1,0 +1,15 @@
+{
+  "id": 55864251,
+  "type": "Feature",
+  "properties": {
+    "name":"Hobsons Bay, Victoria, Australia",
+    "placetype":"county",
+    "woe:id":55864251,
+    "woe:name":"Hobsons Bay, Victoria, Australia",
+    "woe:place_id":"UmfehZecBJQxD3u2FA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [144.838943,-38.041603,144.887695,-37.947174],
+  "geometry": {"alpha":0.0015,"bbox":[144.83894348145,-38.041603088379,144.8876953125,-37.947174072266],"coordinates":[[[[144.838943,-38.011311],[144.845123,-37.981552],[144.887695,-37.947174],[144.884262,-37.993458],[144.849243,-38.041603],[144.838943,-38.011311]]]],"created":1292397482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/55864251_20101215_6a86a9e14b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

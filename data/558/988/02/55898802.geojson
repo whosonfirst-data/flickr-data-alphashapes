@@ -1,0 +1,15 @@
+{
+  "id": 55898802,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jose, Monterrey, NL, MX, Mexico",
+    "placetype":"neighbourhood",
+    "woe:id":55898802,
+    "woe:name":"San Jose, Monterrey, NL, MX, Mexico",
+    "woe:place_id":"Q2VLizacBJQEEu.RGw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-100.339851,25.720154,-100.334641,25.723402],
+  "geometry": {"alpha":1e-05,"bbox":[-100.33985137939,25.720153808594,-100.33464050293,25.723402023315],"coordinates":[[[[-100.337494,25.720154],[-100.339851,25.720348],[-100.339165,25.720629],[-100.336891,25.723402],[-100.334641,25.722967],[-100.337494,25.720154]]]],"created":1292543444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/55898802_20101216_4bfe239e27.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

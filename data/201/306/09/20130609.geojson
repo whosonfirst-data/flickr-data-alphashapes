@@ -1,0 +1,15 @@
+{
+  "id": 20130609,
+  "type": "Feature",
+  "properties": {
+    "name":"Mareno di Piave, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20130609,
+    "woe:name":"Mareno di Piave, Veneto, Italy",
+    "woe:place_id":"hT351IebAZ2LlwuVEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.337646,45.839039,12.354211,45.860966],
+  "geometry": {"alpha":0.00015,"bbox":[12.337645530701,45.839038848877,12.354210853577,45.86096572876],"coordinates":[[[[12.350091,45.839039],[12.337646,45.845062],[12.337646,45.845543],[12.349877,45.860966],[12.354211,45.847179],[12.350091,45.839039]]]],"created":1292462528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20130609_20101216_6674651ced.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

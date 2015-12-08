@@ -1,0 +1,15 @@
+{
+  "id": 30508,
+  "type": "Feature",
+  "properties": {
+    "name":"North Luffenham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30508,
+    "woe:name":"North Luffenham, England, United Kingdom",
+    "woe:place_id":"PTF.sbOaAZlGMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.628817,52.614513,-0.615727,52.625664],
+  "geometry": {"alpha":0.00015,"bbox":[-0.62881702184677,52.614513397217,-0.61572700738907,52.625663757324],"coordinates":[[[[-0.61798,52.621078],[-0.615727,52.619438],[-0.628108,52.614513],[-0.628817,52.615997],[-0.622787,52.625664],[-0.61798,52.621078]]]],"created":1292474108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/30508_20101216_49f686a757.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

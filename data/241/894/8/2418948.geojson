@@ -1,0 +1,15 @@
+{
+  "id": 2418948,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawthorne, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2418948,
+    "woe:name":"Hawthorne, Texas, United States",
+    "woe:place_id":"A4JcelSbBZ1zNlOS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.406258,30.528696,-95.39386,30.54929],
+  "geometry": {"alpha":0.00015,"bbox":[-95.406257629395,30.528696060181,-95.393859863281,30.549289703369],"coordinates":[[[[-95.406258,30.528696],[-95.404243,30.532639],[-95.396515,30.54929],[-95.39386,30.53454],[-95.398148,30.532545],[-95.406258,30.528696]]]],"created":1292454326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2418948_20101215_52caa85947.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

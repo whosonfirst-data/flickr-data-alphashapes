@@ -1,0 +1,15 @@
+{
+  "id": 553084,
+  "type": "Feature",
+  "properties": {
+    "name":"Estrup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":553084,
+    "woe:name":"Estrup, Sjaelland, Denmark",
+    "woe:place_id":"KrpP8AKcBJ8YzSM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.735501,55.484104,11.740093,55.495583],
+  "geometry": {"alpha":0.00015,"bbox":[11.735501289368,55.484104156494,11.740093231201,55.495582580566],"coordinates":[[[[11.737861,55.494854],[11.738033,55.494747],[11.737947,55.494267],[11.740093,55.484104],[11.735501,55.495583],[11.737861,55.494854]]]],"created":1292542863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/553084_20101216_b997aeba67.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

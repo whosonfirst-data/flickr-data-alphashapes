@@ -1,0 +1,15 @@
+{
+  "id": 2468752,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkway Acres, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2468752,
+    "woe:name":"Parkway Acres, Virginia, United States",
+    "woe:place_id":"u_0p.smbBZrtYqWu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.976006,37.19622,-79.963333,37.205334],
+  "geometry": {"alpha":0.00015,"bbox":[-79.976005554199,37.196220397949,-79.963333129883,37.205333709717],"coordinates":[[[[-79.971336,37.205334],[-79.963333,37.204723],[-79.97448,37.198151],[-79.976006,37.19622],[-79.975746,37.20121],[-79.971336,37.205334]]]],"created":1292526577,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2468752_20101216_6d5e646796.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

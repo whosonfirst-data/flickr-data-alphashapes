@@ -1,0 +1,15 @@
+{
+  "id": 551728,
+  "type": "Feature",
+  "properties": {
+    "name":"Zug, Vorarlberg, Austria",
+    "placetype":"locality",
+    "woe:id":551728,
+    "woe:name":"Zug, Vorarlberg, Austria",
+    "woe:place_id":"x70XjI.cBJ2NTZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.108302,47.200329,10.116519,47.202019],
+  "geometry": {"alpha":0.00015,"bbox":[10.108302116394,47.200328826904,10.116518974304,47.202018737793],"coordinates":[[[[10.110061,47.200897],[10.10988,47.200829],[10.108709,47.200329],[10.108302,47.200493],[10.109333,47.201168],[10.116519,47.202019],[10.110061,47.200897]]]],"created":1292531352,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/551728_20101216_8a83155e82.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

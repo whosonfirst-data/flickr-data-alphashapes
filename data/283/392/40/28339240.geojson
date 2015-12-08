@@ -1,0 +1,15 @@
+{
+  "id": 28339240,
+  "type": "Feature",
+  "properties": {
+    "name":"Burke City, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":28339240,
+    "woe:name":"Burke City, Missouri, United States",
+    "woe:place_id":"nL.VrmWbCZ8z8ilYdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.307785,38.745247,-90.292404,38.756443],
+  "geometry": {"alpha":0.00015,"bbox":[-90.30778503418,38.745246887207,-90.292404174805,38.756443023682],"coordinates":[[[[-90.297684,38.756443],[-90.292404,38.749454],[-90.305298,38.745247],[-90.307785,38.753922],[-90.302185,38.754642],[-90.297684,38.756443]]]],"created":1292526257,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/28339240_20101216_beb2ac66a5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

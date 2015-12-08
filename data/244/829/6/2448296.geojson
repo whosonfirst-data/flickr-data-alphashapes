@@ -1,0 +1,15 @@
+{
+  "id": 2448296,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcmillan, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2448296,
+    "woe:name":"Mcmillan, Michigan, United States",
+    "woe:place_id":"xlHhGzGbBZiEJLsV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.628815,46.6735,-85.621429,46.678429],
+  "geometry": {"alpha":0.000234375,"bbox":[-85.628814697266,46.673500061035,-85.621429443359,46.678428649902],"coordinates":[[[[-85.627335,46.6735],[-85.628479,46.673985],[-85.628815,46.677711],[-85.627052,46.678429],[-85.621429,46.675472],[-85.627335,46.6735]]]],"created":1292533944,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2448296_20101216_678269ac80.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

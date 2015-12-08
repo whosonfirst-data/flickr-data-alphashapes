@@ -1,0 +1,15 @@
+{
+  "id": 12513629,
+  "type": "Feature",
+  "properties": {
+    "name":"Chennai International Airport, India",
+    "placetype":"locality",
+    "woe:id":12513629,
+    "woe:name":"Chennai International Airport, India",
+    "woe:place_id":"y_WVRCSYA5ltJcUKGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [80.161934,12.981166,80.167313,12.987078],
+  "geometry": {"alpha":1e-05,"bbox":[80.161933898926,12.981165885925,80.16731262207,12.987077713013],"coordinates":[[[[80.162163,12.981666],[80.161934,12.982588],[80.162773,12.987078],[80.166718,12.987078],[80.167023,12.982753],[80.167313,12.982189],[80.166893,12.981683],[80.162834,12.981166],[80.162163,12.981666]]]],"created":1292536110,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12513629_20101216_50772694c4.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

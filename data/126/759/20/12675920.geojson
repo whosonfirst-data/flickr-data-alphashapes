@@ -1,0 +1,15 @@
+{
+  "id": 12675920,
+  "type": "Feature",
+  "properties": {
+    "name":"Albinea, Italy",
+    "placetype":"locality",
+    "woe:id":12675920,
+    "woe:name":"Albinea, Italy",
+    "woe:place_id":"9KQ45cuYA5rJ7XGN_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.609359,44.581696,10.615968,44.58799],
+  "geometry": {"alpha":1e-05,"bbox":[10.609358787537,44.581695556641,10.615967750549,44.587989807129],"coordinates":[[[[10.613951,44.581696],[10.611505,44.58223],[10.609359,44.582672],[10.611805,44.58799],[10.614938,44.585819],[10.615968,44.581772],[10.613951,44.581696]]]],"created":1247985008,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2623/shapefiles/12675920_20090719_a96559f77f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

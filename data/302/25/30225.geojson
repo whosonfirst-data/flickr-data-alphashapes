@@ -1,0 +1,15 @@
+{
+  "id": 30225,
+  "type": "Feature",
+  "properties": {
+    "name":"Newton Burgoland, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30225,
+    "woe:name":"Newton Burgoland, England, United Kingdom",
+    "woe:place_id":"7NVA4l2aAZ6TeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.472468,52.668327,-1.454295,52.68549],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4724680185318,52.668327331543,-1.4542950391769,52.685489654541],"coordinates":[[[[-1.456031,52.676174],[-1.454295,52.673241],[-1.463167,52.668327],[-1.472468,52.68549],[-1.462554,52.680336],[-1.456031,52.676174]]]],"created":1292450357,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/30225_20101215_57dce93962.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

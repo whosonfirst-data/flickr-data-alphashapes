@@ -1,0 +1,15 @@
+{
+  "id": 577715,
+  "type": "Feature",
+  "properties": {
+    "name":"Azay-le-Rideau, Centre, France",
+    "placetype":"locality",
+    "woe:id":577715,
+    "woe:name":"Azay-le-Rideau, Centre, France",
+    "woe:place_id":"PzL1lKKcBpsaabs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.449066,47.253601,0.507001,47.277832],
+  "geometry": {"alpha":0.00015,"bbox":[0.44906601309776,47.253601074219,0.50700098276138,47.27783203125],"coordinates":[[[[0.466167,47.256943],[0.460031,47.258175],[0.450439,47.253601],[0.449066,47.267582],[0.449066,47.275501],[0.456619,47.277832],[0.468463,47.270554],[0.477132,47.270725],[0.492925,47.269138],[0.502624,47.268047],[0.507001,47.26429],[0.490694,47.261524],[0.485286,47.25832],[0.482282,47.255638],[0.471789,47.255398],[0.466167,47.256943]]]],"created":1292439077,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/577715_20101215_ba89f714a9.tar.gz"},"points":507,"type":"MultiPolygon"}
+}

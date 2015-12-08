@@ -1,0 +1,15 @@
+{
+  "id": 17000,
+  "type": "Feature",
+  "properties": {
+    "name":"Coull, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":17000,
+    "woe:name":"Coull, Scotland, United Kingdom",
+    "woe:place_id":".VGzC6GYBpyVYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.819538,57.111183,-2.798337,57.121799],
+  "geometry": {"alpha":0.00015,"bbox":[-2.8195381164551,57.111183166504,-2.7983369827271,57.121799468994],"coordinates":[[[[-2.806921,57.111404],[-2.807221,57.111183],[-2.80838,57.111359],[-2.8125,57.111359],[-2.819538,57.121799],[-2.798337,57.118896],[-2.806921,57.111404]]]],"created":1292490667,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/17000_20101216_765c3a1b28.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

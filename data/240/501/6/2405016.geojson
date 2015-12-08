@@ -1,0 +1,15 @@
+{
+  "id": 2405016,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2405016,
+    "woe:name":"Forest, Ohio, United States",
+    "woe:place_id":"g0091aubBZzC9A3T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.528366,40.79504,-83.507103,40.810467],
+  "geometry": {"alpha":0.00015,"bbox":[-83.528366088867,40.795040130615,-83.507102966309,40.810466766357],"coordinates":[[[[-83.507233,40.798824],[-83.507103,40.797874],[-83.51049,40.79504],[-83.514633,40.800167],[-83.528366,40.810467],[-83.512787,40.801762],[-83.507233,40.798824]]]],"created":1292522911,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2405016_20101216_4b4c3a7a37.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2508295,
+  "type": "Feature",
+  "properties": {
+    "name":"Trumbull, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2508295,
+    "woe:name":"Trumbull, Nebraska, United States",
+    "woe:place_id":"h9A2oAmbBJzg1a2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.281113,40.676212,-98.272659,40.684414],
+  "geometry": {"alpha":0.00015,"bbox":[-98.281112670898,40.676212310791,-98.272659301758,40.684413909912],"coordinates":[[[[-98.272781,40.679161],[-98.280258,40.676212],[-98.281113,40.684414],[-98.274246,40.680946],[-98.272659,40.679703],[-98.272781,40.679161]]]],"created":1292529189,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2508295_20101216_c8b30fec0c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

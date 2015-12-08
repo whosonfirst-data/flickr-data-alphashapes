@@ -1,0 +1,15 @@
+{
+  "id": 2403179,
+  "type": "Feature",
+  "properties": {
+    "name":"Ferry Landing Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2403179,
+    "woe:name":"Ferry Landing Woods, Maryland, United States",
+    "woe:place_id":"1y5Y7n2bBZz2VeZ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.710983,38.724072,-76.701202,38.727196],
+  "geometry": {"alpha":0.00015,"bbox":[-76.710983276367,38.724071502686,-76.701202392578,38.727195739746],"coordinates":[[[[-76.709908,38.727196],[-76.701202,38.724072],[-76.71019,38.726131],[-76.710983,38.72625],[-76.709908,38.727196]]]],"created":1234570444,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3376/shapefiles/2403179_20090214_5f56dfca3f.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

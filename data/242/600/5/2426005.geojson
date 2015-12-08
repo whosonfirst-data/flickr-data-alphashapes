@@ -1,0 +1,15 @@
+{
+  "id": 2426005,
+  "type": "Feature",
+  "properties": {
+    "name":"Huntsville, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2426005,
+    "woe:name":"Huntsville, Washington, United States",
+    "woe:place_id":"_E14KCObBZ7w3soD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.120628,46.276035,-118.111931,46.28587],
+  "geometry": {"alpha":0.00015,"bbox":[-118.12062835693,46.276035308838,-118.11193084717,46.285869598389],"coordinates":[[[[-118.113243,46.28587],[-118.111931,46.284691],[-118.115715,46.279797],[-118.120628,46.276035],[-118.113243,46.28587]]]],"created":1292375043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2426005_20101215_b7ceef9935.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

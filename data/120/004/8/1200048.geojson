@@ -1,0 +1,15 @@
+{
+  "id": 1200048,
+  "type": "Feature",
+  "properties": {
+    "name":"San Ramon, Bicol Region, Philippines",
+    "placetype":"locality",
+    "woe:id":1200048,
+    "woe:name":"San Ramon, Bicol Region, Philippines",
+    "woe:place_id":"I8FPSYmYA5xkdV0y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [124.029121,13.249469,124.055214,13.277957],
+  "geometry": {"alpha":0.00015,"bbox":[124.02912139893,13.249468803406,124.05521392822,13.277956962585],"coordinates":[[[[124.031181,13.26033],[124.039246,13.277957],[124.055214,13.262252],[124.047318,13.257657],[124.032722,13.255318],[124.029121,13.249469],[124.031181,13.26033]]]],"created":1292536686,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/1200048_20101216_d0d8e439e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

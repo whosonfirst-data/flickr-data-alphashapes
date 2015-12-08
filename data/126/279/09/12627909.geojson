@@ -1,0 +1,15 @@
+{
+  "id": 12627909,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Malberg, Germany",
+    "placetype":"locality",
+    "woe:id":12627909,
+    "woe:name":"Gemeinde Malberg, Germany",
+    "woe:place_id":"1llbGpqYA5puPkTyww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.823741,50.710587,7.827166,50.714664],
+  "geometry": {"alpha":1e-05,"bbox":[7.8237409591675,50.710586547852,7.8271660804749,50.714664459229],"coordinates":[[[[7.827,50.714664],[7.827166,50.714664],[7.827,50.7145],[7.826944,50.714443],[7.823741,50.710587],[7.826833,50.714664],[7.827,50.714664]]]],"created":1292457052,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12627909_20101215_c61428358b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

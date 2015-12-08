@@ -1,0 +1,15 @@
+{
+  "id": 23511179,
+  "type": "Feature",
+  "properties": {
+    "name":"East Newark, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":23511179,
+    "woe:name":"East Newark, New Jersey, United States",
+    "woe:place_id":"wg2RcPmbApmxluOk2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.16497,40.747257,-74.15538,40.755619],
+  "geometry": {"alpha":0.00015,"bbox":[-74.164970397949,40.747257232666,-74.155380249023,40.755619049072],"coordinates":[[[[-74.162781,40.749271],[-74.161362,40.750458],[-74.15538,40.755619],[-74.15538,40.755615],[-74.158401,40.748558],[-74.16497,40.747257],[-74.162781,40.749271]]]],"created":1292488687,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/23511179_20101216_c2f364cae2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

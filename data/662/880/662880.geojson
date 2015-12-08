@@ -1,0 +1,15 @@
+{
+  "id": 662880,
+  "type": "Feature",
+  "properties": {
+    "name":"Hunderdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":662880,
+    "woe:name":"Hunderdorf, Bavaria, Germany",
+    "woe:place_id":"MVa1ZoefB54R9go",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.728519,48.935696,12.74621,48.941219],
+  "geometry": {"alpha":0.00015,"bbox":[12.728519439697,48.935695648193,12.746210098267,48.941219329834],"coordinates":[[[[12.745869,48.93998],[12.74621,48.939777],[12.746117,48.939789],[12.745969,48.939816],[12.729206,48.935696],[12.728519,48.941219],[12.733669,48.940571],[12.745869,48.93998]]]],"created":1292528074,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/662880_20101216_61a36ba52d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20153539,
+  "type": "Feature",
+  "properties": {
+    "name":"Fahrnpoint, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153539,
+    "woe:name":"Fahrnpoint, Bavaria, Germany",
+    "woe:place_id":"QMm7DoibAZ1ED89peQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.411975,47.756985,12.440085,47.765434],
+  "geometry": {"alpha":0.00015,"bbox":[12.411974906921,47.756984710693,12.440085411072,47.765434265137],"coordinates":[[[[12.412147,47.756985],[12.411975,47.759293],[12.418155,47.764599],[12.430858,47.765434],[12.440085,47.764484],[12.429485,47.763847],[12.412147,47.756985]]]],"created":1292539027,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/20153539_20101216_12013feb81.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

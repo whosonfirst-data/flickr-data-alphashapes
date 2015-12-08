@@ -1,0 +1,15 @@
+{
+  "id": 12650447,
+  "type": "Feature",
+  "properties": {
+    "name":"Passonfontaine, France",
+    "placetype":"locality",
+    "woe:id":12650447,
+    "woe:name":"Passonfontaine, France",
+    "woe:place_id":"EymuuE6YA5qZ1gY3cA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.418676,47.101212,6.424942,47.105652],
+  "geometry": {"alpha":1e-05,"bbox":[6.4186758995056,47.101211547852,6.4249420166016,47.105651855469],"coordinates":[[[[6.419405,47.102135],[6.418676,47.105278],[6.420907,47.104382],[6.424255,47.105652],[6.424942,47.101212],[6.421208,47.102337],[6.419405,47.102135]]]],"created":1292531710,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12650447_20101216_157b942675.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

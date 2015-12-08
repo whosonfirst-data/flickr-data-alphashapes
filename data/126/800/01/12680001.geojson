@@ -1,0 +1,15 @@
+{
+  "id": 12680001,
+  "type": "Feature",
+  "properties": {
+    "name":"Lomello, Italy",
+    "placetype":"locality",
+    "woe:id":12680001,
+    "woe:name":"Lomello, Italy",
+    "woe:place_id":"2x99lBCYA5qVukyjXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.793729,45.118839,8.794341,45.122684],
+  "geometry": {"alpha":1e-05,"bbox":[8.7937288284302,45.118839263916,8.7943410873413,45.12268447876],"coordinates":[[[[8.794083,45.122093],[8.793729,45.122684],[8.794341,45.122292],[8.793869,45.118839],[8.794083,45.122093]]]],"created":1292527684,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12680001_20101216_8b625cd20d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 550690,
+  "type": "Feature",
+  "properties": {
+    "name":"Haus, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550690,
+    "woe:name":"Haus, Tyrol, Austria",
+    "woe:place_id":"Y1p7ynCcBJwsAzc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.836309,47.143147,11.864719,47.171162],
+  "geometry": {"alpha":0.00015,"bbox":[11.836309432983,47.143146514893,11.864719390869,47.171161651611],"coordinates":[[[[11.86371,47.166374],[11.86429,47.165775],[11.864719,47.143147],[11.854774,47.158775],[11.836309,47.171162],[11.857166,47.167076],[11.86371,47.166374]]]],"created":1248251897,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2604/shapefiles/550690_20090722_e552e17d89.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

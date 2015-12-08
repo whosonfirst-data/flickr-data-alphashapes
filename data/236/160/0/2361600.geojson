@@ -1,0 +1,15 @@
+{
+  "id": 2361600,
+  "type": "Feature",
+  "properties": {
+    "name":"Belfast, New York, United States",
+    "placetype":"locality",
+    "woe:id":2361600,
+    "woe:name":"Belfast, New York, United States",
+    "woe:place_id":"gfnce_GbApoA2eiD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.130173,42.318089,-78.106438,42.359306],
+  "geometry": {"alpha":0.00015,"bbox":[-78.130172729492,42.318088531494,-78.106437683105,42.359306335449],"coordinates":[[[[-78.112083,42.341236],[-78.121513,42.343437],[-78.130173,42.341957],[-78.127213,42.354294],[-78.125671,42.355686],[-78.121292,42.359306],[-78.113998,42.351166],[-78.108665,42.344364],[-78.110863,42.341702],[-78.106438,42.318089],[-78.112083,42.341236]]]],"created":1292545632,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2361600_20101217_27dca6ea6d.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

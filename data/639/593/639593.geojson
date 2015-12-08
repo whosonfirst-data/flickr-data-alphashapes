@@ -1,0 +1,15 @@
+{
+  "id": 639593,
+  "type": "Feature",
+  "properties": {
+    "name":"Blumenau, Munich, BY, DE, Germany",
+    "placetype":"neighbourhood",
+    "woe:id":639593,
+    "woe:name":"Blumenau, Munich, BY, DE, Germany",
+    "woe:place_id":"c7wNLoyfApVOzfA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [11.474919,48.122211,11.478709,48.129829],
+  "geometry": {"alpha":1e-05,"bbox":[11.474919319153,48.122211456299,11.478709220886,48.129829406738],"coordinates":[[[[11.478616,48.12566],[11.4766,48.129829],[11.478709,48.12571],[11.478163,48.122211],[11.474919,48.123573],[11.478616,48.12566]]]],"created":1292527670,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/639593_20101216_6fbc1bfb61.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

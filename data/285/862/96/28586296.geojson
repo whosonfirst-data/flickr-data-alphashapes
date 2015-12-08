@@ -1,0 +1,15 @@
+{
+  "id": 28586296,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Buller, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28586296,
+    "woe:name":"Mount Buller, Victoria, Australia",
+    "woe:place_id":"u8lyONWbCZksBintmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.379944,-37.194511,146.530838,-37.134865],
+  "geometry": {"alpha":0.0054931640625,"bbox":[146.37994384766,-37.194511413574,146.5308380127,-37.134864807129],"coordinates":[[[[146.453842,-37.145538],[146.43573,-37.154366],[146.379944,-37.194511],[146.420288,-37.143211],[146.44809,-37.134865],[146.530838,-37.154297],[146.453842,-37.145538]]]],"created":1292502664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/28586296_20101216_d89c206970.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

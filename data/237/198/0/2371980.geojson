@@ -1,0 +1,15 @@
+{
+  "id": 2371980,
+  "type": "Feature",
+  "properties": {
+    "name":"Burke, New York, United States",
+    "placetype":"locality",
+    "woe:id":2371980,
+    "woe:name":"Burke, New York, United States",
+    "woe:place_id":"wgY.1zCbApsylBzB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.176811,44.895645,-74.164665,44.919735],
+  "geometry": {"alpha":0.00015,"bbox":[-74.176811218262,44.895645141602,-74.164665222168,44.919734954834],"coordinates":[[[[-74.176811,44.90118],[-74.165085,44.919735],[-74.168777,44.901291],[-74.164665,44.895645],[-74.176811,44.90118]]]],"created":1292546090,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2371980_20101217_f2d1452133.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

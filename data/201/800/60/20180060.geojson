@@ -1,0 +1,15 @@
+{
+  "id": 20180060,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourg, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":20180060,
+    "woe:name":"Bourg, Pays de la Loire, France",
+    "woe:place_id":"HlNtGC.bAZ3fymqFbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.545024,47.600941,-0.542964,47.603241],
+  "geometry": {"alpha":0.00015,"bbox":[-0.5450239777565,47.600940704346,-0.54296398162842,47.603240966797],"coordinates":[[[[-0.544388,47.600941],[-0.544595,47.60146],[-0.545024,47.602894],[-0.544037,47.603241],[-0.542964,47.602905],[-0.544388,47.600941]]]],"created":1292502248,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/20180060_20101216_1352468d4a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

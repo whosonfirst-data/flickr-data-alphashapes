@@ -1,0 +1,15 @@
+{
+  "id": 711263,
+  "type": "Feature",
+  "properties": {
+    "name":"Borgoricco, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":711263,
+    "woe:name":"Borgoricco, Veneto, Italy",
+    "woe:place_id":"plI_vmWeAJ1870g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.957802,45.531487,11.968917,45.53915],
+  "geometry": {"alpha":0.00015,"bbox":[11.957801818848,45.53148651123,11.968916893005,45.539150238037],"coordinates":[[[[11.967673,45.535091],[11.968917,45.53299],[11.964797,45.531487],[11.957802,45.53915],[11.965141,45.536415],[11.967673,45.535091]]]],"created":1292451001,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/711263_20101215_8db973cd91.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

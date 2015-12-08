@@ -1,0 +1,15 @@
+{
+  "id": 723133,
+  "type": "Feature",
+  "properties": {
+    "name":"San Sicario, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":723133,
+    "woe:name":"San Sicario, Piedmont, Italy",
+    "woe:place_id":"6Y_sQv2eA58rhQY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.804914,44.957874,6.814677,44.960869],
+  "geometry": {"alpha":0.00015,"bbox":[6.8049139976501,44.957874298096,6.8146767616272,44.960868835449],"coordinates":[[[[6.807403,44.957874],[6.805515,44.958206],[6.804914,44.958603],[6.805858,44.958603],[6.814677,44.960869],[6.807403,44.957874]]]],"created":1292551238,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/723133_20101217_d76a85eafb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

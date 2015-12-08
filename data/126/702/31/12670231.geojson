@@ -1,0 +1,15 @@
+{
+  "id": 12670231,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Brice, France",
+    "placetype":"locality",
+    "woe:id":12670231,
+    "woe:name":"St.-Brice, France",
+    "woe:place_id":"6gKDljmYA5pieHvyag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.254917,45.687473,-0.249295,45.692554],
+  "geometry": {"alpha":1e-05,"bbox":[-0.25491699576378,45.687473297119,-0.2492949962616,45.692554473877],"coordinates":[[[[-0.251827,45.691612],[-0.249295,45.688747],[-0.253458,45.687473],[-0.254917,45.692554],[-0.251827,45.691612]]]],"created":1292520124,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12670231_20101216_7c4f344a9b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 898989,
+  "type": "Feature",
+  "properties": {
+    "name":"Myttinge, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":898989,
+    "woe:name":"Myttinge, Stockholm, Sweden",
+    "woe:place_id":"P3.8E2CRCJTTUAo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.410606,59.403801,18.42391,59.415436],
+  "geometry": {"alpha":0.00015,"bbox":[18.410606384277,59.403800964355,18.423910140991,59.415435791016],"coordinates":[[[[18.42391,59.407558],[18.410606,59.403801],[18.41081,59.404797],[18.41094,59.415215],[18.414116,59.415436],[18.418751,59.412464],[18.421309,59.410244],[18.423332,59.409],[18.42391,59.407558]]]],"created":1292529495,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/898989_20101216_88c361e59d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

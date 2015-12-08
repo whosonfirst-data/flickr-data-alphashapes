@@ -1,0 +1,15 @@
+{
+  "id": 137123,
+  "type": "Feature",
+  "properties": {
+    "name":"Portezuelo, Hidalgo, Mexico",
+    "placetype":"locality",
+    "woe:id":137123,
+    "woe:name":"Portezuelo, Hidalgo, Mexico",
+    "woe:place_id":"skfoDyWYAptmUEo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.308167,20.478601,-99.299538,20.483627],
+  "geometry": {"alpha":0.00015,"bbox":[-99.308166503906,20.478601455688,-99.299537658691,20.483627319336],"coordinates":[[[[-99.300568,20.478823],[-99.308167,20.483627],[-99.3004,20.47995],[-99.299797,20.479849],[-99.299538,20.478601],[-99.300568,20.478823]]]],"created":1292438214,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/137123_20101215_cef91938ba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

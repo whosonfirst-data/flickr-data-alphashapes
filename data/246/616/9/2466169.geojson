@@ -1,0 +1,15 @@
+{
+  "id": 2466169,
+  "type": "Feature",
+  "properties": {
+    "name":"Org, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2466169,
+    "woe:name":"Org, Minnesota, United States",
+    "woe:place_id":"401MMtKbBZpU4JV2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.663612,43.544689,-95.651001,43.566666],
+  "geometry": {"alpha":0.00015,"bbox":[-95.663612365723,43.544689178467,-95.651000976562,43.566665649414],"coordinates":[[[[-95.651436,43.544689],[-95.663612,43.550835],[-95.662498,43.552498],[-95.66111,43.554165],[-95.651001,43.566666],[-95.651436,43.544689]]]],"created":1292454544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2466169_20101215_bb851ef99c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

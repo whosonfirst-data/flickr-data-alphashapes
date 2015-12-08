@@ -1,0 +1,15 @@
+{
+  "id": 2379198,
+  "type": "Feature",
+  "properties": {
+    "name":"Chesapeake, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2379198,
+    "woe:name":"Chesapeake, West Virginia, United States",
+    "woe:place_id":"bo_9KRObApvDl.Ro",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.543961,38.218498,-81.526596,38.233883],
+  "geometry": {"alpha":0.00015,"bbox":[-81.543960571289,38.21849822998,-81.526596069336,38.233882904053],"coordinates":[[[[-81.526596,38.224461],[-81.533333,38.218498],[-81.537178,38.223835],[-81.543961,38.233829],[-81.54081,38.233883],[-81.526596,38.224461]]]],"created":1292448259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2379198_20101215_5188df1a0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

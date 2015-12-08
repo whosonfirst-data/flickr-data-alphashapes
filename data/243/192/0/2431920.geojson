@@ -1,0 +1,15 @@
+{
+  "id": 2431920,
+  "type": "Feature",
+  "properties": {
+    "name":"Kerrville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2431920,
+    "woe:name":"Kerrville, Missouri, United States",
+    "woe:place_id":"pk5yDsmbBZ_MKrOm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.700775,39.361244,-94.69854,39.383141],
+  "geometry": {"alpha":0.00015,"bbox":[-94.700775146484,39.36124420166,-94.698539733887,39.383140563965],"coordinates":[[[[-94.699402,39.38105],[-94.699219,39.380623],[-94.69854,39.361244],[-94.700706,39.381294],[-94.700775,39.383141],[-94.699402,39.38105]]]],"created":1292524602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2431920_20101216_cf965a2c58.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

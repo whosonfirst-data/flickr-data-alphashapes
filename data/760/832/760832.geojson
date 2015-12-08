@@ -1,0 +1,15 @@
+{
+  "id": 760832,
+  "type": "Feature",
+  "properties": {
+    "name":"Fotea, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":760832,
+    "woe:name":"Fotea, Andalusia, Spain",
+    "woe:place_id":"f6UDQE6eB5ys0IM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.359466,37.201347,-7.338628,37.221851],
+  "geometry": {"alpha":0.00015,"bbox":[-7.3594660758972,37.201347351074,-7.3386278152466,37.221851348877],"coordinates":[[[[-7.353179,37.220623],[-7.344325,37.221371],[-7.338628,37.221851],[-7.349381,37.204945],[-7.359466,37.201347],[-7.353179,37.220623]]]],"created":1292364963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/760832_20101214_c11e953371.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 11026,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlescote, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11026,
+    "woe:name":"Arlescote, England, United Kingdom",
+    "woe:place_id":"CmGcqxOYAJz3Bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.445886,52.128429,-1.436977,52.131065],
+  "geometry": {"alpha":0.00015,"bbox":[-1.445886015892,52.128429412842,-1.4369770288467,52.131065368652],"coordinates":[[[[-1.436977,52.131065],[-1.438522,52.128429],[-1.439895,52.128536],[-1.445886,52.129326],[-1.444015,52.130959],[-1.436977,52.131065]]]],"created":1292519487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/11026_20101216_76264c48a2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

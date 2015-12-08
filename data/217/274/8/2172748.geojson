@@ -1,0 +1,15 @@
+{
+  "id": 2172748,
+  "type": "Feature",
+  "properties": {
+    "name":"Zhumadian, Henan, China",
+    "placetype":"locality",
+    "woe:id":2172748,
+    "woe:name":"Zhumadian, Henan, China",
+    "woe:place_id":"37AMwoGbAJtlu4nM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [114.01516,32.974899,114.031219,32.989372],
+  "geometry": {"alpha":0.00015,"bbox":[114.01515960693,32.974899291992,114.03121948242,32.989372253418],"coordinates":[[[[114.01516,32.977962],[114.015213,32.978081],[114.025726,32.989372],[114.031219,32.980446],[114.028297,32.977924],[114.024696,32.974899],[114.01516,32.977962]]]],"created":1292506505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2172748_20101216_e739643367.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

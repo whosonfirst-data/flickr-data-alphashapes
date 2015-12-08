@@ -1,0 +1,15 @@
+{
+  "id": 2463504,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakland, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2463504,
+    "woe:name":"Oakland, Kentucky, United States",
+    "woe:place_id":"osLPfzmbBZoV2iik",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.256912,37.019276,-86.237778,37.034721],
+  "geometry": {"alpha":0.00015,"bbox":[-86.256912231445,37.019275665283,-86.237777709961,37.034721374512],"coordinates":[[[[-86.245163,37.025616],[-86.247833,37.023834],[-86.256912,37.019276],[-86.249886,37.033527],[-86.237778,37.034721],[-86.245163,37.025616]]]],"created":1292521220,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2463504_20101216_f8c240fe78.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

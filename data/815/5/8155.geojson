@@ -1,0 +1,15 @@
+{
+  "id": 8155,
+  "type": "Feature",
+  "properties": {
+    "name":"Bon Accord, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8155,
+    "woe:name":"Bon Accord, Alberta, Canada",
+    "woe:place_id":"s.F56OWRAJkf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.42086,53.832195,-113.395897,53.85273],
+  "geometry": {"alpha":0.00015,"bbox":[-113.42086029053,53.832195281982,-113.39589691162,53.852729797363],"coordinates":[[[[-113.41581,53.836826],[-113.410881,53.840424],[-113.395897,53.85273],[-113.404053,53.839512],[-113.410835,53.837296],[-113.42086,53.832195],[-113.41581,53.836826]]]],"created":1292536787,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/8155_20101216_338ef3364e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

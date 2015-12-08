@@ -1,0 +1,15 @@
+{
+  "id": 839186,
+  "type": "Feature",
+  "properties": {
+    "name":"Raykovo, Smolyan, Bulgaria",
+    "placetype":"locality",
+    "woe:id":839186,
+    "woe:name":"Raykovo, Smolyan, Bulgaria",
+    "woe:place_id":"jKSdaouRApWHaTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.719753,41.566975,24.735289,41.572369],
+  "geometry": {"alpha":0.00015,"bbox":[24.719753265381,41.566974639893,24.735288619995,41.572368621826],"coordinates":[[[[24.727434,41.572369],[24.731083,41.570766],[24.73488,41.569176],[24.735289,41.566975],[24.727306,41.570442],[24.719753,41.572113],[24.727434,41.572369]]]],"created":1292530806,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/839186_20101216_32fa9dcc54.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

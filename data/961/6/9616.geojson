@@ -1,0 +1,15 @@
+{
+  "id": 9616,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Bar Creek, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9616,
+    "woe:name":"Big Bar Creek, British Columbia, Canada",
+    "woe:place_id":"2YaHTqaQB512",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.134323,51.184723,-122.097931,51.203873],
+  "geometry": {"alpha":0.00015,"bbox":[-122.13432312012,51.184722900391,-122.0979309082,51.203872680664],"coordinates":[[[[-122.131577,51.184723],[-122.11853,51.190372],[-122.099304,51.203873],[-122.097931,51.190804],[-122.11853,51.190372],[-122.134323,51.186607],[-122.131577,51.184723]]]],"created":1292504404,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/9616_20101216_90a6698e15.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

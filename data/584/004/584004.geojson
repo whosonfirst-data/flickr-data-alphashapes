@@ -1,0 +1,15 @@
+{
+  "id": 584004,
+  "type": "Feature",
+  "properties": {
+    "name":"Chamberet, Limousin, France",
+    "placetype":"locality",
+    "woe:id":584004,
+    "woe:name":"Chamberet, Limousin, France",
+    "woe:place_id":"6z0YMQacCZjNJ3s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.707113,45.571575,1.737728,45.590736],
+  "geometry": {"alpha":0.00015,"bbox":[1.7071130275726,45.571575164795,1.7377279996872,45.59073638916],"coordinates":[[[[1.722106,45.587135],[1.737728,45.571575],[1.721119,45.583221],[1.707113,45.588009],[1.715927,45.590736],[1.722106,45.587135]]]],"created":1292542924,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/584004_20101216_561b577b37.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

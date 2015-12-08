@@ -1,0 +1,15 @@
+{
+  "id": 211,
+  "type": "Feature",
+  "properties": {
+    "name":"Canora, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":211,
+    "woe:name":"Canora, Saskatchewan, Canada",
+    "woe:place_id":"o5MyaRObAJ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.437897,51.626541,-102.430168,51.637623],
+  "geometry": {"alpha":0.00015,"bbox":[-102.43789672852,51.626541137695,-102.43016815186,51.637622833252],"coordinates":[[[[-102.437019,51.63464],[-102.431541,51.637623],[-102.430168,51.627075],[-102.437897,51.626541],[-102.437019,51.63464]]]],"created":1292453059,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/211_20101215_33c2435ed2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

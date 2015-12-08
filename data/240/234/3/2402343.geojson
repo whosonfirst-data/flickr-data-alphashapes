@@ -1,0 +1,15 @@
+{
+  "id": 2402343,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmbrook, Levittown, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2402343,
+    "woe:name":"Farmbrook, Levittown, PA, US, United States",
+    "woe:place_id":"QBh7OzWbBZyWeaWM",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-74.831825,40.137669,-74.826141,40.143581],
+  "geometry": {"alpha":1e-05,"bbox":[-74.831825256348,40.137668609619,-74.826141357422,40.143581390381],"coordinates":[[[[-74.831825,40.139286],[-74.830948,40.143581],[-74.827583,40.140541],[-74.826141,40.137669],[-74.831825,40.139286]]]],"created":1292493543,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2402343_20101216_9b068c67c7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2401392,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfield, New York, United States",
+    "placetype":"locality",
+    "woe:id":2401392,
+    "woe:name":"Fairfield, New York, United States",
+    "woe:place_id":"W1pQ_vWbBZwWH1B0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.913483,43.13195,-74.892479,43.14975],
+  "geometry": {"alpha":0.00015,"bbox":[-74.913482666016,43.131950378418,-74.892478942871,43.149749755859],"coordinates":[[[[-74.908478,43.132435],[-74.913483,43.137192],[-74.896461,43.14975],[-74.892479,43.13195],[-74.899681,43.134563],[-74.908478,43.132435]]]],"created":1292469064,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2401392_20101216_39665d8dca.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2503697,
+  "type": "Feature",
+  "properties": {
+    "name":"Tall Timber, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2503697,
+    "woe:name":"Tall Timber, Colorado, United States",
+    "woe:place_id":"mTfVwzWbBJzBz02r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.356308,40.011509,-105.339432,40.020252],
+  "geometry": {"alpha":0.00015,"bbox":[-105.3563079834,40.01150894165,-105.3394317627,40.020252227783],"coordinates":[[[[-105.353905,40.011509],[-105.356308,40.017361],[-105.348587,40.020252],[-105.339432,40.01561],[-105.348068,40.015553],[-105.353905,40.011509]]]],"created":1292460962,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2503697_20101216_6b4f56d2e4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

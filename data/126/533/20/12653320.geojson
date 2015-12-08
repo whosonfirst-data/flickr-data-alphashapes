@@ -1,0 +1,15 @@
+{
+  "id": 12653320,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Witz, France",
+    "placetype":"locality",
+    "woe:id":12653320,
+    "woe:name":"St.-Witz, France",
+    "woe:place_id":"HWtea6OYA5qf0KlW8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.55057,49.08646,2.555403,49.090763],
+  "geometry": {"alpha":1e-05,"bbox":[2.5505700111389,49.086460113525,2.5554029941559,49.090763092041],"coordinates":[[[[2.554888,49.089203],[2.555403,49.088795],[2.552627,49.08646],[2.55057,49.090763],[2.552647,49.089748],[2.554888,49.089203]]]],"created":1292454671,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12653320_20101215_f38541593d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

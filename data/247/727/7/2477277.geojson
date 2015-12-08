@@ -1,0 +1,15 @@
+{
+  "id": 2477277,
+  "type": "Feature",
+  "properties": {
+    "name":"Pumpville, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2477277,
+    "woe:name":"Pumpville, Texas, United States",
+    "woe:place_id":"2NXb.nabBZt5ip5p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.737862,29.942579,-101.735168,29.944633],
+  "geometry": {"alpha":0.00015,"bbox":[-101.7378616333,29.942579269409,-101.73516845703,29.944633483887],"coordinates":[[[[-101.736755,29.942776],[-101.737518,29.943592],[-101.737862,29.944633],[-101.735611,29.943071],[-101.735168,29.942579],[-101.736755,29.942776]]]],"created":1292551461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2477277_20101217_31c8d3884a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

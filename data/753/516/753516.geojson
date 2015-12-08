@@ -1,0 +1,15 @@
+{
+  "id": 753516,
+  "type": "Feature",
+  "properties": {
+    "name":"Ballestar, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":753516,
+    "woe:name":"Ballestar, Valencia, Spain",
+    "woe:place_id":"absCfaaeBJ8Polc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.170245,40.664005,0.175094,40.668903],
+  "geometry": {"alpha":0.00015,"bbox":[0.17024500668049,40.664005279541,0.17509399354458,40.66890335083],"coordinates":[[[[0.175094,40.664547],[0.174536,40.664299],[0.173292,40.664005],[0.170245,40.668903],[0.175094,40.664547]]]],"created":1292536582,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/753516_20101216_af7096641f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

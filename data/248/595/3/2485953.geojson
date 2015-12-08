@@ -1,0 +1,15 @@
+{
+  "id": 2485953,
+  "type": "Feature",
+  "properties": {
+    "name":"Russell, California, United States",
+    "placetype":"locality",
+    "woe:id":2485953,
+    "woe:name":"Russell, California, United States",
+    "woe:place_id":"sddrAXqbBZRC7TTo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.0942,38.236294,-122.089088,38.24081],
+  "geometry": {"alpha":0.00015,"bbox":[-122.09420013428,38.236293792725,-122.08908843994,38.240810394287],"coordinates":[[[[-122.091064,38.240276],[-122.089912,38.24081],[-122.089088,38.238754],[-122.0942,38.236294],[-122.093979,38.238045],[-122.093895,38.239342],[-122.091064,38.240276]]]],"created":1292478001,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2485953_20101216_b681ba5a8f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

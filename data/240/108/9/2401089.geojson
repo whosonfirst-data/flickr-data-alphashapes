@@ -1,0 +1,15 @@
+{
+  "id": 2401089,
+  "type": "Feature",
+  "properties": {
+    "name":"Exira, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2401089,
+    "woe:name":"Exira, Iowa, United States",
+    "woe:place_id":"YIaYrOWbBZy7vXW9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.887756,41.590832,-94.872169,41.596767],
+  "geometry": {"alpha":0.00015,"bbox":[-94.887756347656,41.590831756592,-94.872169494629,41.596767425537],"coordinates":[[[[-94.872169,41.591331],[-94.872337,41.590832],[-94.875893,41.591328],[-94.887756,41.590908],[-94.87561,41.596767],[-94.872169,41.591331]]]],"created":1292451698,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2401089_20101215_78cbf13173.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

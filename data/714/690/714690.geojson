@@ -1,0 +1,15 @@
+{
+  "id": 714690,
+  "type": "Feature",
+  "properties": {
+    "name":"Cortazzone, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":714690,
+    "woe:name":"Cortazzone, Piedmont, Italy",
+    "woe:place_id":"mesm6K6eAJifAIk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.052839,44.97752,8.068428,44.984291],
+  "geometry": {"alpha":0.00015,"bbox":[8.0528392791748,44.977519989014,8.0684280395508,44.98429107666],"coordinates":[[[[8.057055,44.97752],[8.052839,44.984291],[8.052999,44.984211],[8.061904,44.980705],[8.068428,44.98101],[8.063031,44.977558],[8.057055,44.97752]]]],"created":1292521950,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/714690_20101216_7a8401de12.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

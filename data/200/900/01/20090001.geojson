@@ -1,0 +1,15 @@
+{
+  "id": 20090001,
+  "type": "Feature",
+  "properties": {
+    "name":"Ham, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20090001,
+    "woe:name":"Ham, Scotland, United Kingdom",
+    "woe:place_id":"9VRW5jibAZxtuIrhYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.320446,58.642029,-3.298645,58.647518],
+  "geometry": {"alpha":0.00015,"bbox":[-3.3204460144043,58.642028808594,-3.2986450195312,58.647518157959],"coordinates":[[[[-3.309202,58.645084],[-3.314437,58.642029],[-3.320446,58.646626],[-3.310317,58.647518],[-3.308944,58.647163],[-3.298645,58.644794],[-3.309202,58.645084]]]],"created":1292479985,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20090001_20101216_3f6aab8827.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2216,
+  "type": "Feature",
+  "properties": {
+    "name":"Watrous, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2216,
+    "woe:name":"Watrous, Saskatchewan, Canada",
+    "woe:place_id":"Eb2xntabA53e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.475609,51.667072,-105.457764,51.677921],
+  "geometry": {"alpha":0.00015,"bbox":[-105.47560882568,51.667072296143,-105.45776367188,51.677921295166],"coordinates":[[[[-105.470001,51.669998],[-105.475609,51.673542],[-105.464088,51.677921],[-105.46257,51.675961],[-105.457764,51.667072],[-105.465485,51.668831],[-105.470001,51.669998]]]],"created":1292523842,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2216_20101216_620484a653.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 721868,
+  "type": "Feature",
+  "properties": {
+    "name":"Roccapalumba, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":721868,
+    "woe:name":"Roccapalumba, Sicily, Italy",
+    "woe:place_id":"4OOHQ1KeA53fd9Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.670768,37.788673,13.672828,37.793255],
+  "geometry": {"alpha":0.00015,"bbox":[13.670767784119,37.788673400879,13.672827720642,37.793254852295],"coordinates":[[[[13.672828,37.793167],[13.672657,37.792793],[13.672056,37.7911],[13.670768,37.788673],[13.672184,37.791828],[13.672528,37.793255],[13.672828,37.793167]]]],"created":1292541538,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/721868_20101216_2fec1bf061.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

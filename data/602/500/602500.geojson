@@ -1,0 +1,15 @@
+{
+  "id": 602500,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Chambon, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":602500,
+    "woe:name":"Le Chambon, Auvergne, France",
+    "woe:place_id":"FVTXZPWfAZ6Ti1Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.280548,45.054607,4.311447,45.069035],
+  "geometry": {"alpha":0.0001875,"bbox":[4.2805480957031,45.054607391357,4.3114471435547,45.069034576416],"coordinates":[[[[4.309387,45.054607],[4.311447,45.056545],[4.307928,45.069035],[4.2984,45.058758],[4.280548,45.062122],[4.281406,45.067883],[4.2984,45.058758],[4.307928,45.069035],[4.311447,45.056545],[4.309387,45.054607]]]],"created":1292466545,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/602500_20101216_a73f03ee8b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

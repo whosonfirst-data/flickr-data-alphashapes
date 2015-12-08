@@ -1,0 +1,15 @@
+{
+  "id": 2353427,
+  "type": "Feature",
+  "properties": {
+    "name":"Allenville, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2353427,
+    "woe:name":"Allenville, Missouri, United States",
+    "woe:place_id":"Ewl8_bObApnzn.gF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.767487,37.210663,-89.753151,37.224861],
+  "geometry": {"alpha":0.00015,"bbox":[-89.767486572266,37.210662841797,-89.753150939941,37.22486114502],"coordinates":[[[[-89.753151,37.224861],[-89.757782,37.220112],[-89.767357,37.210663],[-89.767487,37.21471],[-89.75753,37.221786],[-89.753151,37.224861]]]],"created":1292444538,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2353427_20101215_6a2c96559b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

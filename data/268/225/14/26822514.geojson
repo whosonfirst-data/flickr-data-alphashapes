@@ -1,0 +1,15 @@
+{
+  "id": 26822514,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Pauli, Germany",
+    "placetype":"locality",
+    "woe:id":26822514,
+    "woe:name":"St. Pauli, Germany",
+    "woe:place_id":"nlEKsICbB5Qh72ci0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.966852,53.545303,9.967668,53.545727],
+  "geometry": {"alpha":1e-05,"bbox":[9.9668521881104,53.545303344727,9.9676675796509,53.545726776123],"coordinates":[[[[9.967389,53.545349],[9.966852,53.545727],[9.967603,53.545364],[9.967668,53.545303],[9.967389,53.545349]]]],"created":1292452549,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/26822514_20101215_b5975cfd9f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745281,
+  "type": "Feature",
+  "properties": {
+    "name":"Susquehanna, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745281,
+    "woe:name":"Susquehanna, Pennsylvania, United States",
+    "woe:place_id":"PEbdd4mbCZs3sZbmYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.114838,41.217209,-77.103592,41.221859],
+  "geometry": {"alpha":0.00015,"bbox":[-77.114837646484,41.217208862305,-77.103591918945,41.221858978271],"coordinates":[[[[-77.113983,41.2211],[-77.114838,41.221859],[-77.11274,41.221535],[-77.10952,41.220661],[-77.10936,41.220608],[-77.103592,41.217209],[-77.11158,41.220631],[-77.113983,41.2211]]]],"created":1292489463,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/28745281_20101216_227a433b86.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

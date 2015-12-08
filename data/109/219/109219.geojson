@@ -1,0 +1,15 @@
+{
+  "id": 109219,
+  "type": "Feature",
+  "properties": {
+    "name":"Jones Pen, Westmoreland, Jamaica",
+    "placetype":"locality",
+    "woe:id":109219,
+    "woe:name":"Jones Pen, Westmoreland, Jamaica",
+    "woe:place_id":"1_OL.RKYAZVGo9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.323418,18.276873,-78.296814,18.296839],
+  "geometry": {"alpha":0.00015,"bbox":[-78.323417663574,18.276872634888,-78.296813964844,18.296838760376],"coordinates":[[[[-78.323418,18.286245],[-78.319817,18.296839],[-78.313293,18.291948],[-78.296814,18.276873],[-78.311401,18.278992],[-78.323418,18.286245]]]],"created":1292551655,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/109219_20101217_9ffc57d831.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

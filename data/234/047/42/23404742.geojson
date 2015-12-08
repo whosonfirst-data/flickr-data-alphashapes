@@ -1,0 +1,15 @@
+{
+  "id": 23404742,
+  "type": "Feature",
+  "properties": {
+    "name":"Birch Cove, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":23404742,
+    "woe:name":"Birch Cove, Alberta, Canada",
+    "woe:place_id":"J8sGti6bApiJjEvwQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.372368,53.988884,-114.369125,53.997738],
+  "geometry": {"alpha":0.00015,"bbox":[-114.37236785889,53.988883972168,-114.36912536621,53.997737884521],"coordinates":[[[[-114.369125,53.99461],[-114.370682,53.989548],[-114.371773,53.988907],[-114.372368,53.988884],[-114.370087,53.997738],[-114.369125,53.99461]]]],"created":1292543398,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/23404742_20101216_df424d1156.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

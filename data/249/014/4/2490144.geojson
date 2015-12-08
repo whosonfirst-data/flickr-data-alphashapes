@@ -1,0 +1,15 @@
+{
+  "id": 2490144,
+  "type": "Feature",
+  "properties": {
+    "name":"Scribner, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2490144,
+    "woe:name":"Scribner, Washington, United States",
+    "woe:place_id":"cL.rMr6bBZW0VA7n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.532249,47.510242,-117.518135,47.521156],
+  "geometry": {"alpha":0.00015,"bbox":[-117.53224945068,47.510242462158,-117.5181350708,47.521156311035],"coordinates":[[[[-117.52195,47.521027],[-117.518135,47.521156],[-117.518692,47.518272],[-117.519424,47.516685],[-117.532249,47.510242],[-117.52195,47.521027]]]],"created":1292546765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2490144_20101217_29f54a1618.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

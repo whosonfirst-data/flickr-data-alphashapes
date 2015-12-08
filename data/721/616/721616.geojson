@@ -1,0 +1,15 @@
+{
+  "id": 721616,
+  "type": "Feature",
+  "properties": {
+    "name":"Rezzago, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721616,
+    "woe:name":"Rezzago, Lombardy, Italy",
+    "woe:place_id":"u5OoUdyeA5280IE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.249018,45.861176,9.255877,45.868378],
+  "geometry": {"alpha":0.00015,"bbox":[9.2490177154541,45.861175537109,9.2558765411377,45.868377685547],"coordinates":[[[[9.249018,45.866146],[9.249286,45.867241],[9.249629,45.868378],[9.250659,45.867302],[9.255877,45.861176],[9.250488,45.865391],[9.249018,45.866146]]]],"created":1292453668,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/721616_20101215_7cd83c6c77.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

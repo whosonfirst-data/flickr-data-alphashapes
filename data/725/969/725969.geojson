@@ -1,0 +1,15 @@
+{
+  "id": 725969,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":725969,
+    "woe:name":"Villa, Lombardy, Italy",
+    "woe:place_id":"PLV6j2GeA5lYS9M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.172481,45.620972,10.198059,45.633247],
+  "geometry": {"alpha":0.00015,"bbox":[10.172480583191,45.620971679688,10.198059082031,45.633247375488],"coordinates":[[[[10.198059,45.633247],[10.192738,45.622696],[10.192759,45.620972],[10.172481,45.621361],[10.193768,45.630005],[10.198059,45.633247]]]],"created":1292450327,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/725969_20101215_86ee580bfd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

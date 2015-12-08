@@ -1,0 +1,15 @@
+{
+  "id": 20075821,
+  "type": "Feature",
+  "properties": {
+    "name":"Vezza d'Alba, Italy",
+    "placetype":"locality",
+    "woe:id":20075821,
+    "woe:name":"Vezza d'Alba, Italy",
+    "woe:place_id":"3QrJn9abAZz9dOGBaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.992811,44.76379,7.99339,44.765579],
+  "geometry": {"alpha":1e-05,"bbox":[7.9928112030029,44.763790130615,7.993390083313,44.765579223633],"coordinates":[[[[7.99339,44.764347],[7.992811,44.76379],[7.992982,44.764683],[7.992961,44.765579],[7.99339,44.764347]]]],"created":1234576443,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3349/shapefiles/20075821_20090214_7939d85b13.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20123115,
+  "type": "Feature",
+  "properties": {
+    "name":"Cusignano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20123115,
+    "woe:name":"Cusignano, Tuscany, Italy",
+    "woe:place_id":"254MiPKbAZ06XLK.vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.860671,43.650486,10.865135,43.653217],
+  "geometry": {"alpha":0.00015,"bbox":[10.860671043396,43.650485992432,10.865135192871,43.653217315674],"coordinates":[[[[10.863075,43.653217],[10.865135,43.652721],[10.864791,43.650982],[10.862045,43.650486],[10.860671,43.652222],[10.862388,43.653091],[10.863075,43.653217]]]],"created":1247927887,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2667/shapefiles/20123115_20090718_b66cf14c09.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12673617,
+  "type": "Feature",
+  "properties": {
+    "name":"Steuerberg, Austria",
+    "placetype":"locality",
+    "woe:id":12673617,
+    "woe:name":"Steuerberg, Austria",
+    "woe:place_id":"ufHuFLSYA5oHp9dbOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.095437,46.763817,14.099857,46.768459],
+  "geometry": {"alpha":1e-05,"bbox":[14.095437049866,46.763816833496,14.099857330322,46.768459320068],"coordinates":[[[[14.095673,46.765427],[14.095437,46.768459],[14.095931,46.765354],[14.099857,46.764347],[14.099643,46.763817],[14.095909,46.76503],[14.095673,46.765427]]]],"created":1292526661,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12673617_20101216_e70aa5a1de.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

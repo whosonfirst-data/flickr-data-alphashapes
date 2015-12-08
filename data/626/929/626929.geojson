@@ -1,0 +1,15 @@
+{
+  "id": 626929,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Seine, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":626929,
+    "woe:name":"St-Seine, Burgundy, France",
+    "woe:place_id":"vhV.4wifA5qIlgI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.777936,47.430923,4.800853,47.442776],
+  "geometry": {"alpha":0.00015,"bbox":[4.7779359817505,47.430923461914,4.8008527755737,47.442775726318],"coordinates":[[[[4.789744,47.44141],[4.800853,47.435402],[4.792345,47.430923],[4.784588,47.440277],[4.777936,47.441383],[4.787034,47.442776],[4.789744,47.44141]]]],"created":1292531376,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/626929_20101216_fc19ee1194.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

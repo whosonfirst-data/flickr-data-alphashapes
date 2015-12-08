@@ -1,0 +1,15 @@
+{
+  "id": 12511564,
+  "type": "Feature",
+  "properties": {
+    "name":"Bujumbura Airport, Burundi",
+    "placetype":"locality",
+    "woe:id":12511564,
+    "woe:name":"Bujumbura Airport, Burundi",
+    "woe:place_id":"NPg8EPWYA5k_R6DK3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.318186,-3.35494,29.323668,-3.352584],
+  "geometry": {"alpha":1e-05,"bbox":[29.318185806274,-3.3549399375916,29.323667526245,-3.3525838851929],"coordinates":[[[[29.323668,-3.35494],[29.321115,-3.353912],[29.318186,-3.352777],[29.319033,-3.352584],[29.323141,-3.35328],[29.323668,-3.35494]]]],"created":1292517544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12511564_20101216_bcf90bc7b6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

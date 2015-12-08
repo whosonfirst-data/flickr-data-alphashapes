@@ -1,0 +1,15 @@
+{
+  "id": 20220200,
+  "type": "Feature",
+  "properties": {
+    "name":"Sector Sur, Seville, Andalusia, ES, Spain",
+    "placetype":"neighbourhood",
+    "woe:id":20220200,
+    "woe:name":"Sector Sur, Seville, Andalusia, ES, Spain",
+    "woe:place_id":"SZn6Y9GbAZ6PgfIG3g",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-5.999908,37.354534,-5.983729,37.366337],
+  "geometry": {"alpha":1e-05,"bbox":[-5.9999079704285,37.35453414917,-5.9837288856506,37.36633682251],"coordinates":[[[[-5.985778,37.36327],[-5.983729,37.359337],[-5.985832,37.356342],[-5.986711,37.35601],[-5.989222,37.354782],[-5.990123,37.35965],[-5.990939,37.360588],[-5.996346,37.359413],[-5.999908,37.354588],[-5.996389,37.354534],[-5.996346,37.359413],[-5.996046,37.361629],[-5.994071,37.365791],[-5.990831,37.366337],[-5.986518,37.363331],[-5.985778,37.36327]]]],"created":1247955611,"edges":16,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3535/shapefiles/20220200_20090718_1b8f65c0a3.tar.gz"},"points":79,"type":"MultiPolygon"}
+}

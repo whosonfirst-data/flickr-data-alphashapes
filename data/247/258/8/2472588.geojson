@@ -1,0 +1,15 @@
+{
+  "id": 2472588,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinehurst, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2472588,
+    "woe:name":"Pinehurst, Maryland, United States",
+    "woe:place_id":"SxZGuHWbBZtwQbG0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.155998,38.382168,-75.148766,38.383499],
+  "geometry": {"alpha":0.00015,"bbox":[-75.15599822998,38.382167816162,-75.148765563965,38.383499145508],"coordinates":[[[[-75.148834,38.383167],[-75.148766,38.383076],[-75.148834,38.382999],[-75.149834,38.382168],[-75.155998,38.383499],[-75.148834,38.383167]]]],"created":1292519920,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2472588_20101216_f0e7f22446.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

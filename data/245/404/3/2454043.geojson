@@ -1,0 +1,15 @@
+{
+  "id": 2454043,
+  "type": "Feature",
+  "properties": {
+    "name":"Morgan Farms, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2454043,
+    "woe:name":"Morgan Farms, Utah, United States",
+    "woe:place_id":"sIx8eG6bBZlFOHr0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.935928,41.06461,-111.931168,41.067406],
+  "geometry": {"alpha":0.00015,"bbox":[-111.93592834473,41.064609527588,-111.93116760254,41.067405700684],"coordinates":[[[[-111.933624,41.06461],[-111.935928,41.065624],[-111.934593,41.067364],[-111.93438,41.067406],[-111.931168,41.066166],[-111.933624,41.06461]]]],"created":1292519910,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2454043_20101216_5e17eed985.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

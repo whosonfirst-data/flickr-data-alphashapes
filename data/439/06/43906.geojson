@@ -1,0 +1,15 @@
+{
+  "id": 43906,
+  "type": "Feature",
+  "properties": {
+    "name":"Summit, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":43906,
+    "woe:name":"Summit, England, United Kingdom",
+    "woe:place_id":"t8bs.TOdApWoGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.266445,53.628048,-2.243399,53.639347],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2664449214935,53.628047943115,-2.2433989048004,53.639347076416],"coordinates":[[[[-2.258977,53.639347],[-2.255394,53.639042],[-2.243399,53.63866],[-2.257046,53.632881],[-2.266445,53.628048],[-2.266337,53.637093],[-2.258977,53.639347]]]],"created":1292544833,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/43906_20101217_b05918b7f9.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

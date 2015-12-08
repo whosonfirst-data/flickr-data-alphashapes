@@ -1,0 +1,15 @@
+{
+  "id": 2421706,
+  "type": "Feature",
+  "properties": {
+    "name":"Highwood, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2421706,
+    "woe:name":"Highwood, Montana, United States",
+    "woe:place_id":"XiSRLFybBZ4G2TAn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.797165,47.583805,-110.786156,47.585918],
+  "geometry": {"alpha":0.00015,"bbox":[-110.79716491699,47.583805084229,-110.78615570068,47.585918426514],"coordinates":[[[[-110.790726,47.583805],[-110.797165,47.583855],[-110.790672,47.585918],[-110.786156,47.585567],[-110.789871,47.584061],[-110.790726,47.583805]]]],"created":1292534640,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2421706_20101216_b34febd822.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

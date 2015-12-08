@@ -1,0 +1,15 @@
+{
+  "id": 2366347,
+  "type": "Feature",
+  "properties": {
+    "name":"Boiling Springs, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2366347,
+    "woe:name":"Boiling Springs, South Carolina, United States",
+    "woe:place_id":"PHcfETubAppGP3_B",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.004959,35.040188,-81.970795,35.06081],
+  "geometry": {"alpha":0.00015,"bbox":[-82.004959106445,35.040187835693,-81.970794677734,35.060810089111],"coordinates":[[[[-81.985085,35.05431],[-81.970795,35.059158],[-81.979294,35.048691],[-81.995598,35.040188],[-82.004959,35.06081],[-81.985085,35.05431]]]],"created":1292551454,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2366347_20101217_93d8b6bd7f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

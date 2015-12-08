@@ -1,0 +1,15 @@
+{
+  "id": 20110420,
+  "type": "Feature",
+  "properties": {
+    "name":"Baggero, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20110420,
+    "woe:name":"Baggero, Lombardy, Italy",
+    "woe:place_id":"NOq6UUGbAZ1M8M7k0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.239909,45.770306,9.247838,45.771805],
+  "geometry": {"alpha":0.00015,"bbox":[9.2399091720581,45.770305633545,9.2478380203247,45.77180480957],"coordinates":[[[[9.240059,45.771324],[9.239909,45.771805],[9.241647,45.771595],[9.247838,45.771072],[9.241604,45.770306],[9.240059,45.771324]]]],"created":1292520185,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20110420_20101216_b1c3b61498.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2357525,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2357525,
+    "woe:name":"Austin, Pennsylvania, United States",
+    "woe:place_id":"9_qRHzObApm4OStV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.092995,41.630932,-78.084503,41.658611],
+  "geometry": {"alpha":0.00015,"bbox":[-78.092994689941,41.630931854248,-78.084503173828,41.658611297607],"coordinates":[[[[-78.084503,41.652431],[-78.084503,41.652428],[-78.08876,41.644073],[-78.092995,41.631233],[-78.092697,41.630932],[-78.091003,41.63105],[-78.08876,41.644073],[-78.086548,41.652832],[-78.08773,41.658611],[-78.084503,41.652431]]]],"created":1292539745,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2357525_20101216_acb8bd81a2.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

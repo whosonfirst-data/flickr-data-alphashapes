@@ -1,0 +1,15 @@
+{
+  "id": 2503561,
+  "type": "Feature",
+  "properties": {
+    "name":"Taegesville, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2503561,
+    "woe:name":"Taegesville, Wisconsin, United States",
+    "woe:place_id":"Mwj0JmybBJx5lJt.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.707832,45.033108,-89.700493,45.047512],
+  "geometry": {"alpha":0.00015,"bbox":[-89.707832336426,45.033107757568,-89.700492858887,45.047512054443],"coordinates":[[[[-89.704796,45.033108],[-89.706558,45.033157],[-89.707832,45.034863],[-89.700493,45.047512],[-89.704697,45.033562],[-89.704796,45.033108]]]],"created":1292527515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2503561_20101216_886f0ab220.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28588640,
+  "type": "Feature",
+  "properties": {
+    "name":"Golden Point, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28588640,
+    "woe:name":"Golden Point, Victoria, Australia",
+    "woe:place_id":"MHu_cy6bCZkz6K8zLg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.271179,-37.055588,144.27533,-37.051479],
+  "geometry": {"alpha":0.00015,"bbox":[144.27117919922,-37.055587768555,144.27532958984,-37.0514793396],"coordinates":[[[[144.27533,-37.051785],[144.275162,-37.052094],[144.271179,-37.055588],[144.275085,-37.051479],[144.27533,-37.051785]]]],"created":1292435439,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/28588640_20101215_160c99ec89.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

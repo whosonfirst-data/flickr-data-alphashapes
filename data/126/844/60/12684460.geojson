@@ -1,0 +1,15 @@
+{
+  "id": 12684460,
+  "type": "Feature",
+  "properties": {
+    "name":"Steinen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684460,
+    "woe:name":"Steinen, Switzerland",
+    "woe:place_id":"UdIltTeYA5oGB1nf8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.614997,47.037842,8.620645,47.039673],
+  "geometry": {"alpha":1e-05,"bbox":[8.6149969100952,47.037841796875,8.620644569397,47.039672851562],"coordinates":[[[[8.620645,47.03817],[8.617615,47.038879],[8.614997,47.037842],[8.617283,47.039673],[8.620636,47.038189],[8.620644,47.038174],[8.620645,47.03817]]]],"created":1292533412,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12684460_20101216_b3b4b68a56.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

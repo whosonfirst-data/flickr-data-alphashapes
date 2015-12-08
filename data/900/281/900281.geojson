@@ -1,0 +1,15 @@
+{
+  "id": 900281,
+  "type": "Feature",
+  "properties": {
+    "name":"Nykroppa, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":900281,
+    "woe:name":"Nykroppa, Varmland, Sweden",
+    "woe:place_id":"innIRgWQAZyuYkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.2892,59.613014,14.306538,59.623901],
+  "geometry": {"alpha":0.00015,"bbox":[14.289199829102,59.613014221191,14.306537628174,59.623901367188],"coordinates":[[[[14.305121,59.623901],[14.306538,59.617729],[14.301002,59.613014],[14.292504,59.61961],[14.2892,59.621513],[14.303061,59.623554],[14.305121,59.623901]]]],"created":1234567328,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3474/shapefiles/900281_20090213_8102600650.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

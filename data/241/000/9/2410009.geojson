@@ -1,0 +1,15 @@
+{
+  "id": 2410009,
+  "type": "Feature",
+  "properties": {
+    "name":"Gibson, New York, United States",
+    "placetype":"locality",
+    "woe:id":2410009,
+    "woe:name":"Gibson, New York, United States",
+    "woe:place_id":"c31IhOebBZ2NXKEf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.611572,40.726063,-73.568916,40.753662],
+  "geometry": {"alpha":0.00015,"bbox":[-73.611572265625,40.726062774658,-73.568916320801,40.753662109375],"coordinates":[[[[-73.607956,40.752922],[-73.607124,40.753662],[-73.595726,40.746597],[-73.592819,40.744003],[-73.579727,40.735355],[-73.577057,40.734089],[-73.569359,40.7323],[-73.568916,40.726063],[-73.577499,40.733475],[-73.591103,40.729404],[-73.593407,40.736549],[-73.611572,40.749077],[-73.607956,40.752922]]]],"created":1292548664,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2410009_20101217_d3a27f14d2.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 870105,
+  "type": "Feature",
+  "properties": {
+    "name":"Comando, Covasna, Romania",
+    "placetype":"locality",
+    "woe:id":870105,
+    "woe:name":"Comando, Covasna, Romania",
+    "woe:place_id":"GhqHCcGRBpyu5Gk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.27346,45.76527,26.279383,45.774227],
+  "geometry": {"alpha":0.00015,"bbox":[26.273460388184,45.765270233154,26.279382705688,45.774227142334],"coordinates":[[[[26.278782,45.770638],[26.279383,45.76527],[26.273804,45.771355],[26.27346,45.771534],[26.27655,45.772793],[26.279297,45.774227],[26.278782,45.770638]]]],"created":1292541605,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/870105_20101216_7a639cca1f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2516834,
+  "type": "Feature",
+  "properties": {
+    "name":"West Cobb, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2516834,
+    "woe:name":"West Cobb, Arkansas, United States",
+    "woe:place_id":"4.jgKYWbBJ2N2t3W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.791054,35.709339,-93.778526,35.724113],
+  "geometry": {"alpha":0.00015,"bbox":[-93.791053771973,35.709339141846,-93.778526306152,35.724113464355],"coordinates":[[[[-93.791054,35.712334],[-93.789597,35.715622],[-93.778526,35.724113],[-93.788567,35.709339],[-93.790154,35.711288],[-93.791054,35.712334]]]],"created":1292546142,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2516834_20101217_0b3a346d59.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

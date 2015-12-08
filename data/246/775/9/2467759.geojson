@@ -1,0 +1,15 @@
+{
+  "id": 2467759,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer Landing, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2467759,
+    "woe:name":"Palmer Landing, Louisiana, United States",
+    "woe:place_id":"DLPesaKbBZqsQGkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.688316,32.317165,-93.665077,32.334934],
+  "geometry": {"alpha":0.00015,"bbox":[-93.688316345215,32.317165374756,-93.665077209473,32.334934234619],"coordinates":[[[[-93.669777,32.319126],[-93.670357,32.318584],[-93.688316,32.317165],[-93.670837,32.319904],[-93.669907,32.334934],[-93.665077,32.326874],[-93.669777,32.319126]]]],"created":1292549473,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2467759_20101217_d26546b808.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

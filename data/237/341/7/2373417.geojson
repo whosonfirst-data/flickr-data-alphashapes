@@ -1,0 +1,15 @@
+{
+  "id": 2373417,
+  "type": "Feature",
+  "properties": {
+    "name":"Calumetville, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2373417,
+    "woe:name":"Calumetville, Wisconsin, United States",
+    "woe:place_id":"2dMQ1SWbAptBCWrf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.306267,43.927494,-88.298317,43.943272],
+  "geometry": {"alpha":0.00015,"bbox":[-88.306266784668,43.927494049072,-88.298316955566,43.943271636963],"coordinates":[[[[-88.30381,43.93457],[-88.298317,43.943272],[-88.299347,43.933258],[-88.306267,43.927494],[-88.306053,43.927933],[-88.30381,43.93457]]]],"created":1292485623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2373417_20101216_9c0a779df9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

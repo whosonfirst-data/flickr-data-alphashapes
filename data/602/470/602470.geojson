@@ -1,0 +1,15 @@
+{
+  "id": 602470,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Cendre, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":602470,
+    "woe:name":"Le Cendre, Auvergne, France",
+    "woe:place_id":"HpviBuWfAZ7mMS8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.181529,45.709896,3.200712,45.72665],
+  "geometry": {"alpha":0.00015,"bbox":[3.181529045105,45.709896087646,3.2007119655609,45.726650238037],"coordinates":[[[[3.198609,45.725956],[3.200712,45.709896],[3.181529,45.718773],[3.188095,45.722481],[3.196745,45.72665],[3.198609,45.725956]]]],"created":1292458445,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/602470_20101216_a5d74cca0d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

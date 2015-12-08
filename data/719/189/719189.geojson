@@ -1,0 +1,15 @@
+{
+  "id": 719189,
+  "type": "Feature",
+  "properties": {
+    "name":"Mozzecane, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":719189,
+    "woe:name":"Mozzecane, Veneto, Italy",
+    "woe:place_id":"szYazKueAJWmkvs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.814666,45.307613,10.825481,45.311192],
+  "geometry": {"alpha":0.00015,"bbox":[10.814665794373,45.307613372803,10.825481414795,45.311191558838],"coordinates":[[[[10.81501,45.308125],[10.814666,45.309181],[10.81501,45.309544],[10.825481,45.311192],[10.821361,45.308216],[10.816383,45.307613],[10.81501,45.308125]]]],"created":1292541538,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/719189_20101216_714401092d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1095509,
+  "type": "Feature",
+  "properties": {
+    "name":"Dora Creek, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1095509,
+    "woe:name":"Dora Creek, New South Wales, Australia",
+    "woe:place_id":"V2ubWI6YAZU0RLQI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.495728,-33.096863,151.502167,-33.080734],
+  "geometry": {"alpha":0.00015,"bbox":[151.49572753906,-33.096862792969,151.50216674805,-33.08073425293],"coordinates":[[[[151.502167,-33.083363],[151.501892,-33.08498],[151.498627,-33.096863],[151.498306,-33.084019],[151.495911,-33.080917],[151.495728,-33.080734],[151.502167,-33.083363]]]],"created":1292546636,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/1095509_20101217_06c279b609.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

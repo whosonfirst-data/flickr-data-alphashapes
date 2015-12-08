@@ -1,0 +1,15 @@
+{
+  "id": 20172939,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwanberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20172939,
+    "woe:name":"Schwanberg, Bavaria, Germany",
+    "woe:place_id":"1n99CEqbAZ1HEPWT3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.272419,49.724922,10.273225,49.725601],
+  "geometry": {"alpha":0.00015,"bbox":[10.27241897583,49.724922180176,10.273224830627,49.725601196289],"coordinates":[[[[10.272774,49.724922],[10.272419,49.725151],[10.273225,49.725601],[10.273032,49.72506],[10.27286,49.724964],[10.272774,49.724922]]]],"created":1292520220,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/20172939_20101216_70c8379e52.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2438680,
+  "type": "Feature",
+  "properties": {
+    "name":"Lewis, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2438680,
+    "woe:name":"Lewis, Iowa, United States",
+    "woe:place_id":"Nv7hiRqbBZ_6rfrf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.103661,41.303192,-95.086151,41.309029],
+  "geometry": {"alpha":0.00015,"bbox":[-95.103660583496,41.303192138672,-95.086151123047,41.309028625488],"coordinates":[[[[-95.09137,41.309029],[-95.086151,41.306828],[-95.089203,41.306473],[-95.10334,41.303192],[-95.103661,41.303795],[-95.093689,41.308277],[-95.09137,41.309029]]]],"created":1292486042,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2438680_20101216_80dc26f886.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2470426,
+  "type": "Feature",
+  "properties": {
+    "name":"Penwell, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2470426,
+    "woe:name":"Penwell, Texas, United States",
+    "woe:place_id":"Dcuq7fSbBZvNrv.8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.594452,31.733715,-102.582695,31.741568],
+  "geometry": {"alpha":0.00015,"bbox":[-102.5944519043,31.733715057373,-102.58269500732,31.741567611694],"coordinates":[[[[-102.592003,31.737635],[-102.594452,31.741568],[-102.591537,31.739861],[-102.582695,31.738314],[-102.587631,31.733715],[-102.592003,31.737635]]]],"created":1292546104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2470426_20101217_e4e3d17a61.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

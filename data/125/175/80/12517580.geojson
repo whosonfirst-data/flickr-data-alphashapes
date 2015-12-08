@@ -1,0 +1,15 @@
+{
+  "id": 12517580,
+  "type": "Feature",
+  "properties": {
+    "name":"Vitoria Airport, Spain",
+    "placetype":"locality",
+    "woe:id":12517580,
+    "woe:name":"Vitoria Airport, Spain",
+    "woe:place_id":"Irz8xLWYA5kKT5nMWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.729845,42.898571,-2.724105,42.901119],
+  "geometry": {"alpha":1e-05,"bbox":[-2.7298450469971,42.898571014404,-2.7241048812866,42.901119232178],"coordinates":[[[[-2.725253,42.898571],[-2.728879,42.898865],[-2.729845,42.901119],[-2.724459,42.899208],[-2.724105,42.899113],[-2.725253,42.898571]]]],"created":1292541161,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12517580_20101216_c235c3136f.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

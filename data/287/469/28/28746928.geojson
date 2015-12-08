@@ -1,0 +1,15 @@
+{
+  "id": 28746928,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake of the Woods, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":28746928,
+    "woe:name":"Lake of the Woods, Indiana, United States",
+    "woe:place_id":"8s.6Mr6bCZtfIvfBcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.227913,41.413391,-86.219971,41.414089],
+  "geometry": {"alpha":0.00015,"bbox":[-86.227912902832,41.413391113281,-86.219970703125,41.414089202881],"coordinates":[[[[-86.227829,41.413662],[-86.227913,41.413898],[-86.227722,41.414089],[-86.219971,41.413391],[-86.22776,41.413467],[-86.227829,41.413662]]]],"created":1292532910,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/28746928_20101216_47a15a3501.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

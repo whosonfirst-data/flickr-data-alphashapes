@@ -1,0 +1,15 @@
+{
+  "id": 20161721,
+  "type": "Feature",
+  "properties": {
+    "name":"Flughafen, Dresden, SN, DE, Germany",
+    "placetype":"neighbourhood",
+    "woe:id":20161721,
+    "woe:name":"Flughafen, Dresden, SN, DE, Germany",
+    "woe:place_id":"7Qp0KF.bAZ0h9ZW41g",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [13.755311,51.118179,13.766641,51.127888],
+  "geometry": {"alpha":1e-05,"bbox":[13.755311012268,51.118179321289,13.766640663147,51.12788772583],"coordinates":[[[[13.766598,51.124588],[13.766641,51.124523],[13.766598,51.124126],[13.762983,51.122524],[13.761759,51.121796],[13.759388,51.118179],[13.758573,51.122486],[13.755397,51.123779],[13.755311,51.124126],[13.759131,51.127888],[13.763208,51.125759],[13.764216,51.125793],[13.764742,51.125839],[13.765279,51.125553],[13.765316,51.125526],[13.766598,51.124588]]]],"created":1292525773,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/20161721_20101216_27d94a9244.tar.gz"},"points":45,"type":"MultiPolygon"}
+}

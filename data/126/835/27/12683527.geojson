@@ -1,0 +1,15 @@
+{
+  "id": 12683527,
+  "type": "Feature",
+  "properties": {
+    "name":"Gelterkinden, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683527,
+    "woe:name":"Gelterkinden, Switzerland",
+    "woe:place_id":"zJ0pVYGYA5qE.iWSMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.861887,47.457512,7.869,47.462273],
+  "geometry": {"alpha":1e-05,"bbox":[7.8618869781494,47.457511901855,7.8689999580383,47.462272644043],"coordinates":[[[[7.862341,47.462242],[7.862536,47.462273],[7.865309,47.461464],[7.869,47.459084],[7.864722,47.460335],[7.861887,47.457512],[7.862341,47.462242]]]],"created":1292537044,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12683527_20101216_69a390ca3d.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

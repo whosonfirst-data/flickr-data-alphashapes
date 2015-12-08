@@ -1,0 +1,15 @@
+{
+  "id": 755850,
+  "type": "Feature",
+  "properties": {
+    "name":"Canals, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":755850,
+    "woe:name":"Canals, Valencia, Spain",
+    "woe:place_id":"KiceFDueBJnOoVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.591802,38.95924,-0.576117,38.969353],
+  "geometry": {"alpha":0.00015,"bbox":[-0.59180200099945,38.959239959717,-0.57611697912216,38.969352722168],"coordinates":[[[[-0.584678,38.969353],[-0.576117,38.96373],[-0.585451,38.960159],[-0.586159,38.959618],[-0.591802,38.95924],[-0.590214,38.967316],[-0.584678,38.969353]]]],"created":1292534826,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/755850_20101216_5cf8e2852a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

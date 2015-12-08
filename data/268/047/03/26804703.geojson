@@ -1,0 +1,15 @@
+{
+  "id": 26804703,
+  "type": "Feature",
+  "properties": {
+    "name":"Francisco de Miranda, Tachira, Venezuela",
+    "placetype":"county",
+    "woe:id":26804703,
+    "woe:name":"Francisco de Miranda, Tachira, Venezuela",
+    "woe:place_id":"lab4eACbB5QrRNjGHQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-71.749306,7.913202,-71.721581,7.944571],
+  "geometry": {"alpha":0.0015,"bbox":[-71.749305725098,7.9132018089294,-71.721580505371,7.944571018219],"coordinates":[[[[-71.721581,7.93845],[-71.727158,7.935645],[-71.745872,7.914562],[-71.749306,7.913202],[-71.741066,7.944571],[-71.721581,7.93845]]]],"created":1292549698,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/26804703_20101217_03a69206f8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

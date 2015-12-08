@@ -1,0 +1,15 @@
+{
+  "id": 2434841,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Drive, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2434841,
+    "woe:name":"Lake Drive, Tennessee, United States",
+    "woe:place_id":"NFAhVEibBZ9Bw2nA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.434204,36.363003,-89.429222,36.376514],
+  "geometry": {"alpha":0.00015,"bbox":[-89.434204101562,36.3630027771,-89.429222106934,36.376514434814],"coordinates":[[[[-89.430252,36.366009],[-89.429222,36.363243],[-89.430344,36.363003],[-89.430595,36.366077],[-89.434204,36.376514],[-89.430252,36.366009]]]],"created":1248087614,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2668/shapefiles/2434841_20090720_c4b7bdd7f9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

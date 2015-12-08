@@ -1,0 +1,15 @@
+{
+  "id": 28645100,
+  "type": "Feature",
+  "properties": {
+    "name":"Grasstree Beach, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28645100,
+    "woe:name":"Grasstree Beach, Queensland, Australia",
+    "woe:place_id":"TPODNwWbCZpEJ3G.Zg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.299042,-21.370325,149.311066,-21.358135],
+  "geometry": {"alpha":0.00015,"bbox":[149.29904174805,-21.370325088501,149.31106567383,-21.358135223389],"coordinates":[[[[149.308472,-21.370325],[149.299042,-21.362291],[149.309189,-21.358984],[149.311066,-21.358135],[149.308823,-21.370213],[149.308472,-21.370325]]]],"created":1292519166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/28645100_20101216_b14a24cd5b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

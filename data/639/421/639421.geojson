@@ -1,0 +1,15 @@
+{
+  "id": 639421,
+  "type": "Feature",
+  "properties": {
+    "name":"Blaufelden, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":639421,
+    "woe:name":"Blaufelden, Baden-Wurttemberg, Germany",
+    "woe:place_id":"253n8emfApXV95E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.962625,49.2883,9.97661,49.306709],
+  "geometry": {"alpha":0.00015,"bbox":[9.9626245498657,49.288299560547,9.9766101837158,49.306709289551],"coordinates":[[[[9.975575,49.298576],[9.97661,49.296501],[9.968118,49.2883],[9.966359,49.298485],[9.962625,49.306709],[9.975575,49.298576]]]],"created":1292539532,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/639421_20101216_b1e8420b2e.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

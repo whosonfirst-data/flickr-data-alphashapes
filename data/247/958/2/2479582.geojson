@@ -1,0 +1,15 @@
+{
+  "id": 2479582,
+  "type": "Feature",
+  "properties": {
+    "name":"Redfield, Atlanta, GA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2479582,
+    "woe:name":"Redfield, Atlanta, GA, US, United States",
+    "woe:place_id":"1AI1BXubBZtPQlme",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-84.36808,33.953186,-84.349144,33.958595],
+  "geometry": {"alpha":0.00015,"bbox":[-84.36808013916,33.953186035156,-84.349143981934,33.958595275879],"coordinates":[[[[-84.365257,33.956158],[-84.36808,33.957546],[-84.361435,33.957886],[-84.349144,33.958595],[-84.354736,33.953186],[-84.365257,33.956158]]]],"created":1247937963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2592/shapefiles/2479582_20090718_580c58e431.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

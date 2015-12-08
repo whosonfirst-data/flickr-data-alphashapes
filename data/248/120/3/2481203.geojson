@@ -1,0 +1,15 @@
+{
+  "id": 2481203,
+  "type": "Feature",
+  "properties": {
+    "name":"Ridgeleigh, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2481203,
+    "woe:name":"Ridgeleigh, Maryland, United States",
+    "woe:place_id":"TF0KlWObBZT0ox7R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.565308,39.393188,-76.563026,39.397968],
+  "geometry": {"alpha":0.00015,"bbox":[-76.565307617188,39.393188476562,-76.563026428223,39.397968292236],"coordinates":[[[[-76.563026,39.396523],[-76.563049,39.393234],[-76.565308,39.393188],[-76.56488,39.397228],[-76.563705,39.397968],[-76.563026,39.396523]]]],"created":1292536039,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2481203_20101216_e10876ef74.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

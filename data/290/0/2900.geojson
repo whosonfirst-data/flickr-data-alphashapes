@@ -1,0 +1,15 @@
+{
+  "id": 2900,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoughton, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2900,
+    "woe:name":"Stoughton, Saskatchewan, Canada",
+    "woe:place_id":"sXgjajybCJzO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.030388,49.675625,-103.024117,49.67918],
+  "geometry": {"alpha":0.00015,"bbox":[-103.03038787842,49.675624847412,-103.02411651611,49.679180145264],"coordinates":[[[[-103.026009,49.67918],[-103.024117,49.677349],[-103.025665,49.675625],[-103.030388,49.678181],[-103.027351,49.679035],[-103.026009,49.67918]]]],"created":1292443114,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2900_20101215_26efc17dcd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

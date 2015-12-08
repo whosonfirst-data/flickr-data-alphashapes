@@ -1,0 +1,15 @@
+{
+  "id": 603811,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Neubourg, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":603811,
+    "woe:name":"Le Neubourg, Haute-Normandie, France",
+    "woe:place_id":"WXt9vwWfAZ.304A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.901,49.148029,0.912551,49.151325],
+  "geometry": {"alpha":0.00015,"bbox":[0.90100002288818,49.148029327393,0.91255098581314,49.15132522583],"coordinates":[[[[0.903388,49.151325],[0.905964,49.150974],[0.912551,49.149601],[0.909633,49.148029],[0.901,49.14843],[0.903388,49.151325]]]],"created":1292527045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/603811_20101216_3b1318481a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

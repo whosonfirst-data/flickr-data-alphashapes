@@ -1,0 +1,15 @@
+{
+  "id": 978399,
+  "type": "Feature",
+  "properties": {
+    "name":"Vivy, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":978399,
+    "woe:name":"Vivy, Luxemburg, Belgium",
+    "woe:place_id":"44hZq8aQBpRNyLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.06159,49.877819,5.06177,49.878139],
+  "geometry": {"alpha":0.00015,"bbox":[5.0615901947021,49.877819061279,5.0617699623108,49.87813949585],"coordinates":[[[[5.06159,49.87804],[5.061611,49.87812],[5.061711,49.878139],[5.061728,49.878101],[5.06177,49.877975],[5.061693,49.877819],[5.06159,49.87804]]]],"created":1292535209,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/978399_20101216_3c75513bf7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 903278,
+  "type": "Feature",
+  "properties": {
+    "name":"Samsala, Orebro, Sweden",
+    "placetype":"locality",
+    "woe:id":903278,
+    "woe:name":"Samsala, Orebro, Sweden",
+    "woe:place_id":"FrpdpKSQAZ8gFtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.150146,59.08918,15.153383,59.089355],
+  "geometry": {"alpha":0.00015,"bbox":[15.150145530701,59.089179992676,15.153383255005,59.08935546875],"coordinates":[[[[15.153383,59.08918],[15.150146,59.089355],[15.153375,59.089211],[15.153383,59.089195],[15.153383,59.08918]]]],"created":1292499904,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/903278_20101216_88f9466889.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

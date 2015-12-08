@@ -1,0 +1,15 @@
+{
+  "id": 28584008,
+  "type": "Feature",
+  "properties": {
+    "name":"Beatrice, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28584008,
+    "woe:name":"Beatrice, Queensland, Australia",
+    "woe:place_id":"J3eQbcKbCZmCucvQmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.609238,-17.552013,145.61142,-17.546303],
+  "geometry": {"alpha":0.00015,"bbox":[145.6092376709,-17.552013397217,145.61141967773,-17.54630279541],"coordinates":[[[[145.609329,-17.551992],[145.609283,-17.551916],[145.609238,-17.551769],[145.609253,-17.551662],[145.61142,-17.546303],[145.609344,-17.552013],[145.609329,-17.551992]]]],"created":1292517950,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/28584008_20101216_15e985bcaa.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

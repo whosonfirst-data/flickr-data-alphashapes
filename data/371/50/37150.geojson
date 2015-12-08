@@ -1,0 +1,15 @@
+{
+  "id": 37150,
+  "type": "Feature",
+  "properties": {
+    "name":"Thames Haven, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37150,
+    "woe:name":"Thames Haven, England, United Kingdom",
+    "woe:place_id":"4s7M4.aaBp2H6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.470352,51.444035,0.549271,51.509705],
+  "geometry": {"alpha":0.0006103515625,"bbox":[0.47035199403763,51.444034576416,0.54927098751068,51.509704589844],"coordinates":[[[[0.523395,51.452],[0.524296,51.4468],[0.512795,51.44994],[0.489149,51.444035],[0.485544,51.45163],[0.476703,51.475182],[0.470352,51.48138],[0.482475,51.486782],[0.511166,51.506832],[0.527,51.509705],[0.549271,51.486034],[0.523395,51.452]]]],"created":1292535090,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/37150_20101216_bd7a9e11ce.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

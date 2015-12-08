@@ -1,0 +1,15 @@
+{
+  "id": 624199,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Georges, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":624199,
+    "woe:name":"St-Georges, Poitou-Charentes, France",
+    "woe:place_id":"09K958KfA5jCVcM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.667333,46.277355,-0.653632,46.286758],
+  "geometry": {"alpha":0.00015,"bbox":[-0.66733300685883,46.277355194092,-0.65363198518753,46.286758422852],"coordinates":[[[[-0.653772,46.281094],[-0.653632,46.277355],[-0.654201,46.278629],[-0.667333,46.286758],[-0.653772,46.281094]]]],"created":1292361004,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/624199_20101214_a98e9ee590.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

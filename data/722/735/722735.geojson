@@ -1,0 +1,15 @@
+{
+  "id": 722735,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lorenzo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":722735,
+    "woe:name":"San Lorenzo, Piedmont, Italy",
+    "woe:place_id":"iskiCbaeA57DdKU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.407617,45.445198,7.41105,45.447937],
+  "geometry": {"alpha":0.00015,"bbox":[7.4076170921326,45.445198059082,7.4110498428345,45.447937011719],"coordinates":[[[[7.410449,45.446899],[7.410106,45.446522],[7.407617,45.445198],[7.408218,45.445923],[7.41105,45.447937],[7.410449,45.446899]]]],"created":1292410087,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/722735_20101215_c2ac7e93aa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 581113,
+  "type": "Feature",
+  "properties": {
+    "name":"Boulogne, Midi-Pyrenees, France",
+    "placetype":"locality",
+    "woe:id":581113,
+    "woe:name":"Boulogne, Midi-Pyrenees, France",
+    "woe:place_id":"bWWGiWCcCZ2DbcI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.60163,43.284298,0.60193,43.284515],
+  "geometry": {"alpha":0.00015,"bbox":[0.60162997245789,43.284297943115,0.60193002223969,43.284515380859],"coordinates":[[[[0.601758,43.284515],[0.601801,43.284515],[0.601823,43.2845],[0.601844,43.284485],[0.60193,43.284389],[0.601887,43.284298],[0.60163,43.284328],[0.601758,43.284515]]]],"created":1292475187,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/581113_20101216_c0197f3e64.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

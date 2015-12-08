@@ -1,0 +1,15 @@
+{
+  "id": 12663762,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Jean-sur-Mayenne, France",
+    "placetype":"locality",
+    "woe:id":12663762,
+    "woe:name":"St.-Jean-sur-Mayenne, France",
+    "woe:place_id":"QLdx93yYA5owwSZuwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.751769,48.130222,-0.749387,48.131783],
+  "geometry": {"alpha":1e-05,"bbox":[-0.75176900625229,48.130222320557,-0.74938702583313,48.131782531738],"coordinates":[[[[-0.749387,48.13121],[-0.750353,48.130222],[-0.751769,48.131039],[-0.749816,48.131783],[-0.749387,48.13121]]]],"created":1292528462,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12663762_20101216_ceb6296943.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

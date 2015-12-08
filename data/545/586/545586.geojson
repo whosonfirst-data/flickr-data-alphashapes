@@ -1,0 +1,15 @@
+{
+  "id": 545586,
+  "type": "Feature",
+  "properties": {
+    "name":"Kefermarkt, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545586,
+    "woe:name":"Kefermarkt, Upper Austria, Austria",
+    "woe:place_id":"DUyDscucBZmh704",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.533195,48.441444,14.541349,48.448788],
+  "geometry": {"alpha":0.00015,"bbox":[14.533194541931,48.441444396973,14.541349411011,48.448787689209],"coordinates":[[[[14.541349,48.447166],[14.54092,48.441444],[14.537229,48.441784],[14.533195,48.448788],[14.537487,48.448559],[14.540083,48.44846],[14.541349,48.447166]]]],"created":1292541135,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/545586_20101216_9f436829be.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

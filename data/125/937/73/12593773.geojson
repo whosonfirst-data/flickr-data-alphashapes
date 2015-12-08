@@ -1,0 +1,15 @@
+{
+  "id": 12593773,
+  "type": "Feature",
+  "properties": {
+    "name":"Apaj, Pest, Hungary",
+    "placetype":"county",
+    "woe:id":12593773,
+    "woe:name":"Apaj, Pest, Hungary",
+    "woe:place_id":"FRPGMbaYA5mjaBiiCg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [19.063082,47.081814,19.111404,47.162872],
+  "geometry": {"alpha":0.0015,"bbox":[19.063081741333,47.081813812256,19.111404418945,47.162872314453],"coordinates":[[[[19.068317,47.100044],[19.063339,47.154121],[19.063082,47.162872],[19.111404,47.12236],[19.111404,47.121891],[19.093552,47.081814],[19.068317,47.100044]]]],"created":1292445148,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12593773_20101215_99896b1d8f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

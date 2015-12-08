@@ -1,0 +1,15 @@
+{
+  "id": 130459,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Huertas, Durango, Mexico",
+    "placetype":"locality",
+    "woe:id":130459,
+    "woe:name":"Las Huertas, Durango, Mexico",
+    "woe:place_id":"Nbjg3qKYApxTK78",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.445892,25.571465,-103.423874,25.593775],
+  "geometry": {"alpha":0.00015,"bbox":[-103.44589233398,25.571464538574,-103.42387390137,25.593774795532],"coordinates":[[[[-103.436363,25.586266],[-103.423874,25.593775],[-103.430573,25.576115],[-103.430817,25.571465],[-103.445892,25.580847],[-103.436363,25.586266]]]],"created":1292541433,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/130459_20101216_b1f7de6672.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

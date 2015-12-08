@@ -1,0 +1,15 @@
+{
+  "id": 12600402,
+  "type": "Feature",
+  "properties": {
+    "name":"Temamatla, Mexico, Mexico",
+    "placetype":"county",
+    "woe:id":12600402,
+    "woe:name":"Temamatla, Mexico, Mexico",
+    "woe:place_id":"j8YWl6eYA5olfZHABQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-98.884933,19.177,-98.845863,19.240004],
+  "geometry": {"alpha":0.0015,"bbox":[-98.88493347168,19.177000045776,-98.845863342285,19.240003585815],"coordinates":[[[[-98.870773,19.206617],[-98.867668,19.177],[-98.877808,19.198593],[-98.884933,19.214235],[-98.845863,19.240004],[-98.870773,19.206617]]]],"created":1292513224,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12600402_20101216_ea78a6027f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

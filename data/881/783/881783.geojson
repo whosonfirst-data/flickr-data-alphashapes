@@ -1,0 +1,15 @@
+{
+  "id": 881783,
+  "type": "Feature",
+  "properties": {
+    "name":"Zeglina, Galati, Romania",
+    "placetype":"locality",
+    "woe:id":881783,
+    "woe:name":"Zeglina, Galati, Romania",
+    "woe:place_id":"caryfX2RCZ1qDAs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.024406,45.413876,28.037092,45.427582],
+  "geometry": {"alpha":0.00015,"bbox":[28.024406433105,45.413875579834,28.037092208862,45.427581787109],"coordinates":[[[[28.033161,45.416466],[28.031359,45.415653],[28.028526,45.413876],[28.024406,45.414841],[28.030874,45.419842],[28.037092,45.427582],[28.033161,45.416466]]]],"created":1292506322,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/881783_20101216_9fbf9fd8be.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

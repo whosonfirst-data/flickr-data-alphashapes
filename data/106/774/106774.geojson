@@ -1,0 +1,15 @@
+{
+  "id": 106774,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Choluteca, Honduras",
+    "placetype":"locality",
+    "woe:id":106774,
+    "woe:name":"San Francisco, Choluteca, Honduras",
+    "woe:place_id":"0QnaPBCYAZp3vOM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.914833,13.370247,-86.884003,13.380935],
+  "geometry": {"alpha":0.00015,"bbox":[-86.914833068848,13.370246887207,-86.884002685547,13.380934715271],"coordinates":[[[[-86.896706,13.370247],[-86.914833,13.376333],[-86.900482,13.380935],[-86.884003,13.375591],[-86.893616,13.372752],[-86.896706,13.370247]]]],"created":1292450405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/106774_20101215_37155a6475.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

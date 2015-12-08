@@ -1,0 +1,15 @@
+{
+  "id": 12648826,
+  "type": "Feature",
+  "properties": {
+    "name":"Marnay-sur-Seine, France",
+    "placetype":"locality",
+    "woe:id":12648826,
+    "woe:name":"Marnay-sur-Seine, France",
+    "woe:place_id":"7TQdC6aYA5qFGN1x6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.555493,48.509895,3.558293,48.514458],
+  "geometry": {"alpha":1e-05,"bbox":[3.5554931163788,48.509895324707,3.5582931041718,48.514457702637],"coordinates":[[[[3.558282,48.512283],[3.555493,48.509895],[3.556201,48.512646],[3.558272,48.514442],[3.558293,48.514458],[3.558282,48.512283]]]],"created":1292457065,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12648826_20101215_a9b4ecacf4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

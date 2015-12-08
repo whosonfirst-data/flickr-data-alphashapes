@@ -1,0 +1,15 @@
+{
+  "id": 482728,
+  "type": "Feature",
+  "properties": {
+    "name":"Petrovec, Petrovec Municipality, Macedonia",
+    "placetype":"locality",
+    "woe:id":482728,
+    "woe:name":"Petrovec, Petrovec Municipality, Macedonia",
+    "woe:place_id":"HSClO_edCZ7dFNY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.573866,41.950119,21.588758,41.960598],
+  "geometry": {"alpha":0.00015,"bbox":[21.573865890503,41.950119018555,21.588758468628,41.960597991943],"coordinates":[[[[21.583511,41.950119],[21.573866,41.959034],[21.576204,41.960598],[21.583683,41.959408],[21.586605,41.957523],[21.588758,41.956371],[21.583511,41.950119]]]],"created":1292539518,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/482728_20101216_3840dbd501.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

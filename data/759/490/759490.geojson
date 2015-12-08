@@ -1,0 +1,15 @@
+{
+  "id": 759490,
+  "type": "Feature",
+  "properties": {
+    "name":"El Palmar, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":759490,
+    "woe:name":"El Palmar, Murcia, Spain",
+    "woe:place_id":".hcw8PyeBJVLCG8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.168697,37.928543,-1.156139,37.947548],
+  "geometry": {"alpha":0.00015,"bbox":[-1.1686969995499,37.92854309082,-1.1561390161514,37.947547912598],"coordinates":[[[[-1.156997,37.943657],[-1.156139,37.941284],[-1.160259,37.928543],[-1.168697,37.939064],[-1.164121,37.947548],[-1.156997,37.943657]]]],"created":1292439838,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/759490_20101215_53b9ff916f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

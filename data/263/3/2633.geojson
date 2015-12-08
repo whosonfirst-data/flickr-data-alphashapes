@@ -1,0 +1,15 @@
+{
+  "id": 2633,
+  "type": "Feature",
+  "properties": {
+    "name":"Bethany, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2633,
+    "woe:name":"Bethany, Manitoba, Canada",
+    "woe:place_id":"tIbRzNGbB59P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.769203,50.312401,-99.746399,50.31464],
+  "geometry": {"alpha":0.00015,"bbox":[-99.769203186035,50.312400817871,-99.746398925781,50.314640045166],"coordinates":[[[[-99.746414,50.312607],[-99.746399,50.312401],[-99.751678,50.312645],[-99.769203,50.31464],[-99.750534,50.313995],[-99.747383,50.312878],[-99.746414,50.312607]]]],"created":1292531698,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2633_20101216_ec4342d9e0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

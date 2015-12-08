@@ -1,0 +1,15 @@
+{
+  "id": 2500172,
+  "type": "Feature",
+  "properties": {
+    "name":"Stollings, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2500172,
+    "woe:name":"Stollings, West Virginia, United States",
+    "woe:place_id":"Sc.KzPebBJzh4Cfp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.972801,37.825352,-81.955772,37.844032],
+  "geometry": {"alpha":0.00015,"bbox":[-81.972801208496,37.825351715088,-81.955772399902,37.844032287598],"coordinates":[[[[-81.970535,37.843964],[-81.965378,37.836163],[-81.955772,37.825352],[-81.970367,37.832565],[-81.972801,37.844032],[-81.970535,37.843964]]]],"created":1292378164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2500172_20101215_8ddc9989b2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

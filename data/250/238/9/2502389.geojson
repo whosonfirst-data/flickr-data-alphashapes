@@ -1,0 +1,15 @@
+{
+  "id": 2502389,
+  "type": "Feature",
+  "properties": {
+    "name":"Sunset, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2502389,
+    "woe:name":"Sunset, Washington, United States",
+    "woe:place_id":"lcAO0TqbBJz7nvFg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.405762,48.530338,-122.372086,48.546162],
+  "geometry": {"alpha":0.00015,"bbox":[-122.40576171875,48.530338287354,-122.37208557129,48.546161651611],"coordinates":[[[[-122.384819,48.545536],[-122.372086,48.538246],[-122.390343,48.530338],[-122.405762,48.546162],[-122.384819,48.545536]]]],"created":1247793004,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3500/shapefiles/2502389_20090717_35ae2762e4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

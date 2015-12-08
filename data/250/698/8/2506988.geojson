@@ -1,0 +1,15 @@
+{
+  "id": 2506988,
+  "type": "Feature",
+  "properties": {
+    "name":"Toluca, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2506988,
+    "woe:name":"Toluca, Montana, United States",
+    "woe:place_id":"93JnTzKbBJwjQYQm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.876503,45.74966,-107.851326,45.771832],
+  "geometry": {"alpha":0.00015,"bbox":[-107.87650299072,45.749660491943,-107.85132598877,45.771831512451],"coordinates":[[[[-107.863235,45.756207],[-107.851326,45.74966],[-107.86351,45.756115],[-107.876503,45.761501],[-107.875786,45.771832],[-107.863235,45.756207]]]],"created":1292456814,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2506988_20101215_bf1bc9b97f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

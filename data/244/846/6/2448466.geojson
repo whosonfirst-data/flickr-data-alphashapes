@@ -1,0 +1,15 @@
+{
+  "id": 2448466,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadedale, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2448466,
+    "woe:name":"Meadedale, Maryland, United States",
+    "woe:place_id":"6SXLcNybBZhr7OB3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.735001,39.084167,-76.712547,39.098328],
+  "geometry": {"alpha":0.00015,"bbox":[-76.735000610352,39.084167480469,-76.712547302246,39.098327636719],"coordinates":[[[[-76.718262,39.098328],[-76.71627,39.097794],[-76.712547,39.0896],[-76.735001,39.084167],[-76.735001,39.0853],[-76.718262,39.098328]]]],"created":1292440886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2448466_20101215_a7633218ab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

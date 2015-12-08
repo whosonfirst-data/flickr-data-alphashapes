@@ -1,0 +1,15 @@
+{
+  "id": 368983,
+  "type": "Feature",
+  "properties": {
+    "name":"Hobo, Huila, Colombia",
+    "placetype":"locality",
+    "woe:id":368983,
+    "woe:name":"Hobo, Huila, Colombia",
+    "woe:place_id":"o1vl5BiaB5S5XZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.463028,2.583791,-75.451355,2.60595],
+  "geometry": {"alpha":0.00015,"bbox":[-75.463027954102,2.5837910175323,-75.451354980469,2.6059501171112],"coordinates":[[[[-75.458221,2.597376],[-75.451355,2.583791],[-75.459648,2.59183],[-75.463028,2.60595],[-75.458221,2.597376]]]],"created":1292443278,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/368983_20101215_55995c52f6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

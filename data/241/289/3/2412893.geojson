@@ -1,0 +1,15 @@
+{
+  "id": 2412893,
+  "type": "Feature",
+  "properties": {
+    "name":"Grand View, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2412893,
+    "woe:name":"Grand View, Idaho, United States",
+    "woe:place_id":"zZBADbabBZ3FE9Hf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.097427,42.983196,-116.093559,43.011677],
+  "geometry": {"alpha":0.00015,"bbox":[-116.09742736816,42.983196258545,-116.09355926514,43.01167678833],"coordinates":[[[[-116.093559,42.991901],[-116.094292,42.989487],[-116.096489,42.983196],[-116.097427,42.983315],[-116.09639,42.99374],[-116.096649,43.011677],[-116.093559,42.991901]]]],"created":1292486043,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2412893_20101216_3951d37117.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

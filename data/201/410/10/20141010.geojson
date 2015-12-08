@@ -1,0 +1,15 @@
+{
+  "id": 20141010,
+  "type": "Feature",
+  "properties": {
+    "name":"San Clemente, Abruzzi, Italy",
+    "placetype":"locality",
+    "woe:id":20141010,
+    "woe:name":"San Clemente, Abruzzi, Italy",
+    "woe:place_id":"EReXGpKbAZ2_dWjqTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.927617,42.233856,13.930792,42.234524],
+  "geometry": {"alpha":0.00015,"bbox":[13.927617073059,42.233856201172,13.930791854858,42.234523773193],"coordinates":[[[[13.928174,42.234047],[13.927617,42.234333],[13.928475,42.234524],[13.930792,42.233856],[13.928174,42.234047]]]],"created":1292530141,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/20141010_20101216_cd39a93ab6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

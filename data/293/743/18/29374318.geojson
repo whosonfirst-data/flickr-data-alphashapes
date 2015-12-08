@@ -1,0 +1,15 @@
+{
+  "id": 29374318,
+  "type": "Feature",
+  "properties": {
+    "name":"Sorel-Tracy, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":29374318,
+    "woe:name":"Sorel-Tracy, Quebec, Canada",
+    "woe:place_id":"U4QmYPSbCJ_qZsPIWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.1147,46.039185,-73.094101,46.043568],
+  "geometry": {"alpha":0.00015,"bbox":[-73.114700317383,46.039184570312,-73.094100952148,46.043567657471],"coordinates":[[[[-73.097862,46.0392],[-73.097923,46.039185],[-73.097961,46.039234],[-73.1147,46.043568],[-73.094101,46.042973],[-73.097862,46.0392]]]],"created":1292452863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/29374318_20101215_c24c11deb7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

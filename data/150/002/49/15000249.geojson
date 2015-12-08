@@ -1,0 +1,15 @@
+{
+  "id": 15000249,
+  "type": "Feature",
+  "properties": {
+    "name":"Sezzadio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000249,
+    "woe:name":"Sezzadio, Piedmont, Italy",
+    "woe:place_id":"MHnLBrWYBJz4u771iw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.571352,44.782932,8.574829,44.790607],
+  "geometry": {"alpha":0.00015,"bbox":[8.5713520050049,44.782932281494,8.5748291015625,44.790607452393],"coordinates":[[[[8.571352,44.785717],[8.571363,44.786938],[8.574829,44.790607],[8.573112,44.782932],[8.571352,44.785717]]]],"created":1292487727,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/15000249_20101216_b5a843b7c8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

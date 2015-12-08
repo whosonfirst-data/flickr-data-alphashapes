@@ -1,0 +1,15 @@
+{
+  "id": 880810,
+  "type": "Feature",
+  "properties": {
+    "name":"Some\u015fu Rece, Cluj, Romania",
+    "placetype":"locality",
+    "woe:id":880810,
+    "woe:name":"Some\u015fu Rece, Cluj, Romania",
+    "woe:place_id":"Zo.XmgSRCZwtd5M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.351269,46.732273,23.369637,46.744331],
+  "geometry": {"alpha":0.00015,"bbox":[23.351268768311,46.732273101807,23.369636535645,46.744331359863],"coordinates":[[[[23.369637,46.743095],[23.366699,46.733299],[23.356247,46.732681],[23.351269,46.732273],[23.358479,46.735565],[23.364487,46.744331],[23.369637,46.743095]]]],"created":1292524129,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/880810_20101216_96c747cbb6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

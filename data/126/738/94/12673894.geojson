@@ -1,0 +1,15 @@
+{
+  "id": 12673894,
+  "type": "Feature",
+  "properties": {
+    "name":"Pernegg, Austria",
+    "placetype":"locality",
+    "woe:id":12673894,
+    "woe:name":"Pernegg, Austria",
+    "woe:place_id":"TAfYA3iYA5qWmZj2vA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.622301,48.729927,15.628738,48.735699],
+  "geometry": {"alpha":1e-05,"bbox":[15.622301101685,48.729927062988,15.62873840332,48.735698699951],"coordinates":[[[[15.628437,48.732178],[15.628738,48.730862],[15.626463,48.729927],[15.626034,48.7314],[15.622301,48.733719],[15.625991,48.735699],[15.628437,48.732178]]]],"created":1292506862,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12673894_20101216_d97a3397ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

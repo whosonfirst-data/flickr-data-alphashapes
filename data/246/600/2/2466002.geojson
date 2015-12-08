@@ -1,0 +1,15 @@
+{
+  "id": 2466002,
+  "type": "Feature",
+  "properties": {
+    "name":"Orchard Dale, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2466002,
+    "woe:name":"Orchard Dale, Oregon, United States",
+    "woe:place_id":"OkX0rfKbBZo9zOwf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.255356,45.608223,-123.225876,45.621719],
+  "geometry": {"alpha":0.00015,"bbox":[-123.25535583496,45.608222961426,-123.22587585449,45.621719360352],"coordinates":[[[[-123.242142,45.608223],[-123.255356,45.61908],[-123.251495,45.621719],[-123.227501,45.621498],[-123.225876,45.615913],[-123.242142,45.608223]]]],"created":1292440920,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2466002_20101215_8bafd85c3a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

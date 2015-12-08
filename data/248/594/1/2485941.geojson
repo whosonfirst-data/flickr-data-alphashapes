@@ -1,0 +1,15 @@
+{
+  "id": 2485941,
+  "type": "Feature",
+  "properties": {
+    "name":"Russell, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2485941,
+    "woe:name":"Russell, Oregon, United States",
+    "woe:place_id":"ZZJ4ewibBZRUdRF3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.460258,44.578838,-123.453369,44.580685],
+  "geometry": {"alpha":0.00015,"bbox":[-123.46025848389,44.578838348389,-123.45336914062,44.580684661865],"coordinates":[[[[-123.460251,44.580467],[-123.453369,44.580685],[-123.459808,44.578838],[-123.459999,44.579235],[-123.460258,44.58009],[-123.460251,44.580467]]]],"created":1292551513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2485941_20101217_63b47c80dc.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

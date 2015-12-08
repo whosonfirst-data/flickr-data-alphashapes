@@ -1,0 +1,15 @@
+{
+  "id": 12675319,
+  "type": "Feature",
+  "properties": {
+    "name":"Vorau, Austria",
+    "placetype":"locality",
+    "woe:id":12675319,
+    "woe:name":"Vorau, Austria",
+    "woe:place_id":"aQIp3oSYA5pALep00A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.885972,47.401604,15.887517,47.402763],
+  "geometry": {"alpha":1e-05,"bbox":[15.88597202301,47.40160369873,15.887516975403,47.402763366699],"coordinates":[[[[15.886659,47.402065],[15.885972,47.402763],[15.887088,47.402298],[15.887517,47.401604],[15.886659,47.402065]]]],"created":1239531491,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3391/shapefiles/12675319_20090412_2b4d9e9b3c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

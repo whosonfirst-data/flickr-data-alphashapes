@@ -1,0 +1,15 @@
+{
+  "id": 20220209,
+  "type": "Feature",
+  "properties": {
+    "name":"Rinedo, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20220209,
+    "woe:name":"Rinedo, Valencia, Spain",
+    "woe:place_id":"QP1dct.bAZ4jSF1qXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.344009,39.427631,-0.333677,39.428768],
+  "geometry": {"alpha":0.00015,"bbox":[-0.34400901198387,39.427631378174,-0.33367699384689,39.428768157959],"coordinates":[[[[-0.344009,39.427971],[-0.342636,39.428768],[-0.339363,39.428062],[-0.333677,39.427673],[-0.338108,39.427631],[-0.344009,39.427971]]]],"created":1234596963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3533/shapefiles/20220209_20090214_2ab85b98bf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

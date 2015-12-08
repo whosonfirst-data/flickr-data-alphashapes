@@ -1,0 +1,15 @@
+{
+  "id": 2444552,
+  "type": "Feature",
+  "properties": {
+    "name":"Maltaville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2444552,
+    "woe:name":"Maltaville, New York, United States",
+    "woe:place_id":"QCtOtDebBZiCDL1b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.789505,42.929592,-73.776413,42.948147],
+  "geometry": {"alpha":0.00015,"bbox":[-73.789505004883,42.929592132568,-73.776412963867,42.948146820068],"coordinates":[[[[-73.787216,42.941399],[-73.789505,42.948147],[-73.782379,42.944759],[-73.776413,42.929592],[-73.782837,42.933666],[-73.787216,42.941399]]]],"created":1292540995,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2444552_20101216_4ae451ff33.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

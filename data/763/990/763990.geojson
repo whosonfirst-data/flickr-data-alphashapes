@@ -1,0 +1,15 @@
+{
+  "id": 763990,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rierada, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":763990,
+    "woe:name":"La Rierada, Catalonia, Spain",
+    "woe:place_id":"JBwsh6CeB599fJY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.038564,41.434601,2.042427,41.437321],
+  "geometry": {"alpha":0.00015,"bbox":[2.0385639667511,41.434600830078,2.0424270629883,41.437320709229],"coordinates":[[[[2.040281,41.437321],[2.042427,41.435986],[2.040367,41.435005],[2.038908,41.434601],[2.038564,41.437191],[2.040281,41.437321]]]],"created":1292543559,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/763990_20101216_5fa3889317.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

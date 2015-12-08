@@ -1,0 +1,15 @@
+{
+  "id": 2467045,
+  "type": "Feature",
+  "properties": {
+    "name":"Owens, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2467045,
+    "woe:name":"Owens, Ohio, United States",
+    "woe:place_id":"iDg8qNabBZrSMlRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.141914,40.514256,-83.136909,40.525055],
+  "geometry": {"alpha":0.00015,"bbox":[-83.141914367676,40.514255523682,-83.136909484863,40.525054931641],"coordinates":[[[[-83.141914,40.522556],[-83.14183,40.525055],[-83.138779,40.522739],[-83.136909,40.516327],[-83.137962,40.514256],[-83.141914,40.522556]]]],"created":1292532851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2467045_20101216_3583e2cf39.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2363019,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2363019,
+    "woe:name":"Berlin, Oklahoma, United States",
+    "woe:place_id":"M073EqKbApqL1e2o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.592262,35.450043,-99.585915,35.451511],
+  "geometry": {"alpha":0.00015,"bbox":[-99.592262268066,35.450042724609,-99.585914611816,35.451511383057],"coordinates":[[[[-99.591232,35.451092],[-99.592262,35.451443],[-99.591064,35.451443],[-99.588486,35.451511],[-99.585915,35.451511],[-99.586082,35.450882],[-99.586258,35.450043],[-99.591232,35.451092]]]],"created":1292519830,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2363019_20101216_734512ae5e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

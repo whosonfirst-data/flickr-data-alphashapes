@@ -1,0 +1,15 @@
+{
+  "id": 2486981,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Louis, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2486981,
+    "woe:name":"St. Louis, Virginia, United States",
+    "woe:place_id":"jHgs5cmbBZTzPzj7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.81221,38.989559,-77.777863,39.009579],
+  "geometry": {"alpha":0.00015,"bbox":[-77.812210083008,38.989559173584,-77.777862548828,39.009578704834],"coordinates":[[[[-77.789093,39.003738],[-77.785179,39.004498],[-77.777863,39.008244],[-77.778366,38.989559],[-77.784744,38.989838],[-77.799553,38.998196],[-77.81221,39.000275],[-77.801743,39.009579],[-77.789093,39.003738]]]],"created":1292543979,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2486981_20101216_3f5d43bb81.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

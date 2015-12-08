@@ -1,0 +1,15 @@
+{
+  "id": 26809199,
+  "type": "Feature",
+  "properties": {
+    "name":"San Josecito, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809199,
+    "woe:name":"San Josecito, Costa Rica",
+    "woe:place_id":"8oOug5ebB5QH8R0nnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.125748,10.005367,-84.119392,10.00968],
+  "geometry": {"alpha":1e-05,"bbox":[-84.125747680664,10.005367279053,-84.11939239502,10.009679794312],"coordinates":[[[[-84.121254,10.009388],[-84.124031,10.005367],[-84.125748,10.007058],[-84.121292,10.00968],[-84.119392,10.009219],[-84.121254,10.009388]]]],"created":1292547192,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/26809199_20101217_b031725580.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12679501,
+  "type": "Feature",
+  "properties": {
+    "name":"San Giovanni a Piro, Italy",
+    "placetype":"locality",
+    "woe:id":12679501,
+    "woe:name":"San Giovanni a Piro, Italy",
+    "woe:place_id":"9.rYBnWYA5pP4hBWug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.491259,40.052643,15.497417,40.057644],
+  "geometry": {"alpha":1e-05,"bbox":[15.491258621216,40.052642822266,15.497417449951,40.057643890381],"coordinates":[[[[15.49158,40.053371],[15.492482,40.055279],[15.497417,40.057644],[15.493898,40.054653],[15.491259,40.052643],[15.49158,40.053371]]]],"created":1292530948,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/12679501_20101216_6ee29c9fb0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

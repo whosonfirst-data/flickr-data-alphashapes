@@ -1,0 +1,15 @@
+{
+  "id": 888784,
+  "type": "Feature",
+  "properties": {
+    "name":"Ekeby, Orebro, Sweden",
+    "placetype":"locality",
+    "woe:id":888784,
+    "woe:name":"Ekeby, Orebro, Sweden",
+    "woe:place_id":"AYmkOjuRCZRIuDI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.261082,59.156879,15.27386,59.166283],
+  "geometry": {"alpha":0.00015,"bbox":[15.261081695557,59.156879425049,15.273859977722,59.166282653809],"coordinates":[[[[15.261425,59.16515],[15.270212,59.166283],[15.272701,59.162498],[15.27386,59.158512],[15.261082,59.156879],[15.261425,59.16515]]]],"created":1292492709,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/888784_20101216_a2124ab7e8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29481,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Vernon, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":29481,
+    "woe:name":"Mount Vernon, Scotland, United Kingdom",
+    "woe:place_id":"3kUou96bCJhKyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.149742,55.84082,-4.132232,55.851036],
+  "geometry": {"alpha":0.00015,"bbox":[-4.1497421264648,55.8408203125,-4.1322321891785,55.851036071777],"coordinates":[[[[-4.132575,55.84082],[-4.135821,55.841049],[-4.138069,55.842747],[-4.149742,55.851036],[-4.136352,55.843857],[-4.132232,55.841106],[-4.132575,55.84082]]]],"created":1292490731,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/29481_20101216_3910c99e43.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

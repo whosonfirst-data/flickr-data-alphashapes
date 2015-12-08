@@ -1,0 +1,15 @@
+{
+  "id": 28587255,
+  "type": "Feature",
+  "properties": {
+    "name":"South End, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28587255,
+    "woe:name":"South End, Queensland, Australia",
+    "woe:place_id":"ltVAxFqbCZmPc2W0Tg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.298386,-23.761702,151.314224,-23.751596],
+  "geometry": {"alpha":0.00015,"bbox":[151.29838562012,-23.761701583862,151.31422424316,-23.751596450806],"coordinates":[[[[151.314224,-23.760885],[151.313766,-23.761093],[151.311493,-23.761702],[151.298386,-23.758245],[151.306793,-23.751596],[151.311432,-23.756281],[151.314224,-23.760885]]]],"created":1292524771,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/28587255_20101216_31f290ccbe.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

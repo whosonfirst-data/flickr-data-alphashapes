@@ -1,0 +1,15 @@
+{
+  "id": 578006,
+  "type": "Feature",
+  "properties": {
+    "name":"Bancigny, Picardie, France",
+    "placetype":"locality",
+    "woe:id":578006,
+    "woe:name":"Bancigny, Picardie, France",
+    "woe:place_id":"WALMKT6cBpS4iak",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.032497,49.800819,4.032926,49.801655],
+  "geometry": {"alpha":0.00015,"bbox":[4.0324969291687,49.800819396973,4.0329260826111,49.801654815674],"coordinates":[[[[4.032926,49.801292],[4.032765,49.800991],[4.032653,49.800819],[4.032497,49.801655],[4.032926,49.801292]]]],"created":1292453601,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/578006_20101215_e4e463cf0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

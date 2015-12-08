@@ -1,0 +1,15 @@
+{
+  "id": 888649,
+  "type": "Feature",
+  "properties": {
+    "name":"Eda, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":888649,
+    "woe:name":"Eda, Varmland, Sweden",
+    "woe:place_id":"enTXRmSRCZSQgs0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.3143,59.822903,12.32769,59.840458],
+  "geometry": {"alpha":0.00015,"bbox":[12.314299583435,59.822902679443,12.327690124512,59.84045791626],"coordinates":[[[[12.32769,59.834122],[12.319793,59.822903],[12.317218,59.830841],[12.3143,59.840458],[12.314643,59.840157],[12.32769,59.834122]]]],"created":1292506143,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/888649_20101216_b4fb4900a7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

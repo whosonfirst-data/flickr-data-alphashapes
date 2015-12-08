@@ -1,0 +1,15 @@
+{
+  "id": 55870282,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmas, Salinas, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":55870282,
+    "woe:name":"Palmas, Salinas, Puerto Rico",
+    "woe:place_id":"5gmormScBJQ9LL8uMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.218498,18.067165,-66.21666,18.076183],
+  "geometry": {"alpha":0.00015,"bbox":[-66.21849822998,18.067165374756,-66.216659545898,18.076183319092],"coordinates":[[[[-66.21666,18.076183],[-66.217209,18.071981],[-66.218498,18.067165],[-66.217247,18.071985],[-66.21666,18.076183]]]],"created":1292455375,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/55870282_20101215_7f6acb43cf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

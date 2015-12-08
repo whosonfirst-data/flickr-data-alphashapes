@@ -1,0 +1,15 @@
+{
+  "id": 3605,
+  "type": "Feature",
+  "properties": {
+    "name":"Val-Brillant, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3605,
+    "woe:name":"Val-Brillant, Quebec, Canada",
+    "woe:place_id":"6NiNL6GaB5xL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.551498,48.514896,-67.546371,48.53809],
+  "geometry": {"alpha":0.00015,"bbox":[-67.551498413086,48.514896392822,-67.546371459961,48.538089752197],"coordinates":[[[[-67.551498,48.53809],[-67.546371,48.533016],[-67.551323,48.514896],[-67.546753,48.532932],[-67.551498,48.53809]]]],"created":1292455542,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/3605_20101215_0a2295fab1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

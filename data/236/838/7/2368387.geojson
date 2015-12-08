@@ -1,0 +1,15 @@
+{
+  "id": 2368387,
+  "type": "Feature",
+  "properties": {
+    "name":"Breckenridge, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2368387,
+    "woe:name":"Breckenridge, Michigan, United States",
+    "woe:place_id":"BfJMa2.bApp7Ljwo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.490524,43.38908,-84.475937,43.41066],
+  "geometry": {"alpha":0.00015,"bbox":[-84.490524291992,43.389080047607,-84.475936889648,43.410659790039],"coordinates":[[[[-84.481781,43.408531],[-84.480537,43.408485],[-84.475937,43.406975],[-84.488983,43.38908],[-84.490524,43.41066],[-84.481781,43.408531]]]],"created":1292527469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2368387_20101216_2689d8379d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

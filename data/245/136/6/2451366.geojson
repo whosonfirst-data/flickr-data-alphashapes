@@ -1,0 +1,15 @@
+{
+  "id": 2451366,
+  "type": "Feature",
+  "properties": {
+    "name":"Millers Creek, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2451366,
+    "woe:name":"Millers Creek, North Carolina, United States",
+    "woe:place_id":"NWNqBCCbBZlNJJkG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.249603,36.180954,-81.230164,36.214016],
+  "geometry": {"alpha":0.00015,"bbox":[-81.249603271484,36.180953979492,-81.230163574219,36.214015960693],"coordinates":[[[[-81.238663,36.214016],[-81.230164,36.201065],[-81.245163,36.181904],[-81.249603,36.180954],[-81.242523,36.202175],[-81.238663,36.214016]]]],"created":1234860845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3605/shapefiles/2451366_20090217_69556f481e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

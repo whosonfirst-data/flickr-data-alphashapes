@@ -1,0 +1,15 @@
+{
+  "id": 43,
+  "type": "Feature",
+  "properties": {
+    "name":"Ayton, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":43,
+    "woe:name":"Ayton, Ontario, Canada",
+    "woe:place_id":"X2MkKH6dAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.929543,44.048363,-80.92598,44.052109],
+  "geometry": {"alpha":0.00015,"bbox":[-80.929542541504,44.048362731934,-80.925979614258,44.052108764648],"coordinates":[[[[-80.928726,44.049351],[-80.929543,44.052109],[-80.92598,44.051075],[-80.927353,44.048363],[-80.928726,44.049351]]]],"created":1247971812,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2601/shapefiles/43_20090719_3609c76b64.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

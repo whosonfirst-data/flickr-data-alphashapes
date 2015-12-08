@@ -1,0 +1,15 @@
+{
+  "id": 547423,
+  "type": "Feature",
+  "properties": {
+    "name":"Berndorf, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":547423,
+    "woe:name":"Berndorf, Salzburg, Austria",
+    "woe:place_id":"8fPzUU2cBZusN_k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.052652,48.002357,13.073902,48.010365],
+  "geometry": {"alpha":0.00015,"bbox":[13.052652359009,48.00235748291,13.073902130127,48.010364532471],"coordinates":[[[[13.073902,48.002357],[13.060683,48.004108],[13.052652,48.007961],[13.069852,48.008221],[13.070183,48.008461],[13.073213,48.010365],[13.073902,48.002357]]]],"created":1292438511,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/547423_20101215_3c61114ab9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

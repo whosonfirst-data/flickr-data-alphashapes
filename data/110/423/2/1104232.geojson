@@ -1,0 +1,15 @@
+{
+  "id": 1104232,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Tyson, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1104232,
+    "woe:name":"Mount Tyson, Queensland, Australia",
+    "woe:place_id":"HFVb6TmYAJwyxrKG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.565659,-27.574499,151.573639,-27.55303],
+  "geometry": {"alpha":0.00015,"bbox":[151.56565856934,-27.574499130249,151.57363891602,-27.553030014038],"coordinates":[[[[151.566833,-27.574499],[151.565659,-27.574333],[151.573639,-27.55303],[151.570496,-27.573999],[151.570328,-27.573999],[151.566833,-27.574499]]]],"created":1292456346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/1104232_20101215_b710e2c963.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

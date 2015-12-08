@@ -1,0 +1,15 @@
+{
+  "id": 723800,
+  "type": "Feature",
+  "properties": {
+    "name":"Saviano, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":723800,
+    "woe:name":"Saviano, Campania, Italy",
+    "woe:place_id":"NRqf8MueA5_xXpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.507145,40.908585,14.514892,40.913963],
+  "geometry": {"alpha":0.00015,"bbox":[14.507144927979,40.908584594727,14.514891624451,40.913963317871],"coordinates":[[[[14.51178,40.908875],[14.507972,40.908585],[14.507617,40.909328],[14.507145,40.913673],[14.514892,40.913963],[14.513679,40.911915],[14.51178,40.908875]]]],"created":1292499186,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/723800_20101216_183922812f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

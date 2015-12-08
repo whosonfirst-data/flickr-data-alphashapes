@@ -1,0 +1,15 @@
+{
+  "id": 28744452,
+  "type": "Feature",
+  "properties": {
+    "name":"Orleans, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744452,
+    "woe:name":"Orleans, New York, United States",
+    "woe:place_id":"5gKFNs.bCZuTtW3Nyw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.056976,44.338093,-76.040581,44.341759],
+  "geometry": {"alpha":0.00015,"bbox":[-76.056976318359,44.338092803955,-76.040580749512,44.341758728027],"coordinates":[[[[-76.041351,44.341759],[-76.040581,44.341038],[-76.050514,44.341335],[-76.050552,44.341335],[-76.056976,44.338093],[-76.050514,44.341335],[-76.041351,44.341759]]]],"created":1292525944,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/28744452_20101216_1a7eefe821.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

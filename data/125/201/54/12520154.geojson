@@ -1,0 +1,15 @@
+{
+  "id": 12520154,
+  "type": "Feature",
+  "properties": {
+    "name":"Helena Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520154,
+    "woe:name":"Helena Regional Airport, United States",
+    "woe:place_id":"8DqomXOYA5kCQ4GQww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.000092,46.602413,-111.997108,46.603432],
+  "geometry": {"alpha":1e-05,"bbox":[-112.00009155273,46.60241317749,-111.99710845947,46.60343170166],"coordinates":[[[[-111.99794,46.602413],[-112.000092,46.602505],[-111.998169,46.603004],[-111.997108,46.603432],[-111.99765,46.602581],[-111.99794,46.602413]]]],"created":1292496431,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12520154_20101216_5096f99d22.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683558,
+  "type": "Feature",
+  "properties": {
+    "name":"Glattfelden, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683558,
+    "woe:name":"Glattfelden, Switzerland",
+    "woe:place_id":"2tvGFSSYA5p3dPHvlw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.506961,47.551186,8.509168,47.553997],
+  "geometry": {"alpha":1e-05,"bbox":[8.5069608688354,47.55118560791,8.5091676712036,47.553997039795],"coordinates":[[[[8.506961,47.551472],[8.507816,47.553818],[8.508061,47.553997],[8.509168,47.551186],[8.506961,47.551472]]]],"created":1292517691,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12683558_20101216_a6302f9f2a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

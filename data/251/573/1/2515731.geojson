@@ -1,0 +1,15 @@
+{
+  "id": 2515731,
+  "type": "Feature",
+  "properties": {
+    "name":"Weatherly, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2515731,
+    "woe:name":"Weatherly, Maryland, United States",
+    "woe:place_id":"lM2259CbBJ1jWNKN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.466019,39.047859,-76.452141,39.066841],
+  "geometry": {"alpha":0.00015,"bbox":[-76.466018676758,39.047859191895,-76.452140808105,39.066841125488],"coordinates":[[[[-76.45314,39.048576],[-76.453041,39.048576],[-76.452141,39.047859],[-76.459435,39.048401],[-76.45993,39.048367],[-76.460983,39.049637],[-76.466019,39.066841],[-76.45314,39.048576]]]],"created":1292543519,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2515731_20101216_70912b7854.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

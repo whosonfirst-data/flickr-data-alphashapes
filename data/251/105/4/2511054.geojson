@@ -1,0 +1,15 @@
+{
+  "id": 2511054,
+  "type": "Feature",
+  "properties": {
+    "name":"Valleywood, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2511054,
+    "woe:name":"Valleywood, Maryland, United States",
+    "woe:place_id":"0Rcvvq.bBJ0XGAqk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.644699,39.445251,-76.640831,39.45118],
+  "geometry": {"alpha":0.00015,"bbox":[-76.64469909668,39.445251464844,-76.640830993652,39.451179504395],"coordinates":[[[[-76.642906,39.445251],[-76.644699,39.44804],[-76.642853,39.449715],[-76.640831,39.45118],[-76.642883,39.445328],[-76.642906,39.445251]]]],"created":1292530158,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2511054_20101216_f1b00a96d8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

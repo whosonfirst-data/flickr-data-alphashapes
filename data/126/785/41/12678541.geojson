@@ -1,0 +1,15 @@
+{
+  "id": 12678541,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervara di Roma, Italy",
+    "placetype":"locality",
+    "woe:id":12678541,
+    "woe:name":"Cervara di Roma, Italy",
+    "woe:place_id":"jWNIzK6YA5r86lugRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.066134,41.985332,13.068237,41.989368],
+  "geometry": {"alpha":1e-05,"bbox":[13.06613445282,41.985332489014,13.068237304688,41.989368438721],"coordinates":[[[[13.067378,41.988331],[13.066134,41.989258],[13.066349,41.989368],[13.067378,41.989098],[13.068065,41.988396],[13.068237,41.985332],[13.067378,41.988331]]]],"created":1292520125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12678541_20101216_4845091fa4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

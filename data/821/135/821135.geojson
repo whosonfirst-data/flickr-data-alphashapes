@@ -1,0 +1,15 @@
+{
+  "id": 821135,
+  "type": "Feature",
+  "properties": {
+    "name":"Miava, Trenciansky, Slovakia",
+    "placetype":"locality",
+    "woe:id":821135,
+    "woe:name":"Miava, Trenciansky, Slovakia",
+    "woe:place_id":"6GznyQaRA52Mgmc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.561237,48.736607,17.589796,48.758167],
+  "geometry": {"alpha":0.00015,"bbox":[17.561237335205,48.7366065979,17.589796066284,48.758167266846],"coordinates":[[[[17.561237,48.750107],[17.574005,48.758167],[17.589796,48.755058],[17.573044,48.747475],[17.56834,48.736607],[17.561708,48.742664],[17.561237,48.750107]]]],"created":1292475912,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/821135_20101216_5e815c9cef.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

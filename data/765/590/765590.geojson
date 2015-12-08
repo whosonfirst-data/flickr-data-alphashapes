@@ -1,0 +1,15 @@
+{
+  "id": 765590,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Artos, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":765590,
+    "woe:name":"Los Artos, Asturias, Spain",
+    "woe:place_id":"8ySkT0eeB5ltCoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.59417,43.30162,-5.592523,43.304554],
+  "geometry": {"alpha":0.00015,"bbox":[-5.5941700935364,43.301620483398,-5.5925230979919,43.304553985596],"coordinates":[[[[-5.594139,43.303051],[-5.59417,43.304554],[-5.592523,43.303185],[-5.593703,43.30162],[-5.594131,43.30302],[-5.594139,43.303051]]]],"created":1292484550,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/765590_20101216_706393a42d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

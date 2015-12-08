@@ -1,0 +1,15 @@
+{
+  "id": 12647522,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Passage, France",
+    "placetype":"locality",
+    "woe:id":12647522,
+    "woe:name":"Le Passage, France",
+    "woe:place_id":"mCxNXR6YA5o2bE25MA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.607144,44.201107,0.612047,44.207771],
+  "geometry": {"alpha":1e-05,"bbox":[0.60714399814606,44.201107025146,0.61204701662064,44.20777130127],"coordinates":[[[[0.612047,44.204494],[0.610771,44.201107],[0.607144,44.201836],[0.609,44.203205],[0.609333,44.207771],[0.611543,44.204681],[0.612047,44.204494]]]],"created":1292537507,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12647522_20101216_780829813c.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

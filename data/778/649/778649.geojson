@@ -1,0 +1,15 @@
+{
+  "id": 778649,
+  "type": "Feature",
+  "properties": {
+    "name":"Villaverde, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":778649,
+    "woe:name":"Villaverde, Asturias, Spain",
+    "woe:place_id":"S5i0k2yeBpQ_J9s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.398242,43.50349,-5.389164,43.511707],
+  "geometry": {"alpha":0.00015,"bbox":[-5.3982419967651,43.503490447998,-5.3891639709473,43.511707305908],"coordinates":[[[[-5.398063,43.50349],[-5.398242,43.504524],[-5.397548,43.511707],[-5.389164,43.507858],[-5.39257,43.506916],[-5.398063,43.50349]]]],"created":1292467268,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/778649_20101216_d6ba8468bd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2504004,
+  "type": "Feature",
+  "properties": {
+    "name":"Tanner, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2504004,
+    "woe:name":"Tanner, Alabama, United States",
+    "woe:place_id":"Yw1JDKKbBJx3Yvuf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.0009,34.718933,-86.999207,34.730537],
+  "geometry": {"alpha":0.00015,"bbox":[-87.000900268555,34.718933105469,-86.999206542969,34.730537414551],"coordinates":[[[[-87.0009,34.719425],[-87.0009,34.721264],[-87.000816,34.730537],[-86.999207,34.723297],[-87.000305,34.718933],[-87.0009,34.719425]]]],"created":1292537088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2504004_20101216_244d99d6c8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

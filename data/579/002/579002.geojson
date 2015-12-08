@@ -1,0 +1,15 @@
+{
+  "id": 579002,
+  "type": "Feature",
+  "properties": {
+    "name":"Beinheim, Alsace, France",
+    "placetype":"locality",
+    "woe:id":579002,
+    "woe:name":"Beinheim, Alsace, France",
+    "woe:place_id":"O6ms5G.cBpXPHLc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.067913,48.863712,8.097116,48.87273],
+  "geometry": {"alpha":0.00015,"bbox":[8.0679130554199,48.863712310791,8.0971164703369,48.872730255127],"coordinates":[[[[8.08995,48.866203],[8.08422,48.863712],[8.067913,48.867722],[8.083019,48.87273],[8.097116,48.869499],[8.08995,48.866203]]]],"created":1292527156,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/579002_20101216_0b2b50c47c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

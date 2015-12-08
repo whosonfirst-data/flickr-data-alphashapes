@@ -1,0 +1,15 @@
+{
+  "id": 685601,
+  "type": "Feature",
+  "properties": {
+    "name":"Pommersfelden, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685601,
+    "woe:name":"Pommersfelden, Bavaria, Germany",
+    "woe:place_id":"qp4PseqfCZmV2HI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.800933,49.762306,10.82336,49.771065],
+  "geometry": {"alpha":0.00015,"bbox":[10.800932884216,49.762306213379,10.823360443115,49.771064758301],"coordinates":[[[[10.82061,49.762306],[10.800933,49.765522],[10.814323,49.771065],[10.82282,49.76931],[10.82336,49.766029],[10.821447,49.762417],[10.82061,49.762306]]]],"created":1292539287,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/685601_20101216_0ec397aea8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

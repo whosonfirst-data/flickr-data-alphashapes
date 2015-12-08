@@ -1,0 +1,15 @@
+{
+  "id": 3013,
+  "type": "Feature",
+  "properties": {
+    "name":"Emerson, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3013,
+    "woe:name":"Emerson, Manitoba, Canada",
+    "woe:place_id":"CZWk18aaAZ0S",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.246857,48.997501,-97.204025,49.018059],
+  "geometry": {"alpha":0.00015,"bbox":[-97.246856689453,48.997501373291,-97.204025268555,49.018058776855],"coordinates":[[[[-97.236641,49.00111],[-97.246857,49.002743],[-97.239296,49.009655],[-97.229004,49.018059],[-97.209175,49.006348],[-97.204025,49.000126],[-97.204498,48.997501],[-97.221962,49.003082],[-97.228691,49.000484],[-97.236641,49.00111]]]],"created":1292545547,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/3013_20101217_11a8938c9e.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

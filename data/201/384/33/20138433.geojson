@@ -1,0 +1,15 @@
+{
+  "id": 20138433,
+  "type": "Feature",
+  "properties": {
+    "name":"Prestine, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20138433,
+    "woe:name":"Prestine, Lombardy, Italy",
+    "woe:place_id":"caIMf4.bAZ39kSQlbA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.308104,45.925304,10.328865,45.9342],
+  "geometry": {"alpha":0.00015,"bbox":[10.308103561401,45.925304412842,10.32886505127,45.934200286865],"coordinates":[[[[10.308104,45.930412],[10.309295,45.930618],[10.311387,45.930401],[10.328865,45.9342],[10.314188,45.925304],[10.310325,45.925842],[10.308104,45.930412]]]],"created":1292480164,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20138433_20101216_873340d007.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

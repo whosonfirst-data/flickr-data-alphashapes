@@ -1,0 +1,15 @@
+{
+  "id": 765400,
+  "type": "Feature",
+  "properties": {
+    "name":"Llueves, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":765400,
+    "woe:name":"Llueves, Asturias, Spain",
+    "woe:place_id":"bTfFaFmeB5mqQt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.137481,43.360134,-5.129928,43.361443],
+  "geometry": {"alpha":0.00015,"bbox":[-5.137481212616,43.360134124756,-5.12992811203,43.361442565918],"coordinates":[[[[-5.131645,43.361443],[-5.13113,43.361134],[-5.129928,43.360508],[-5.137481,43.360134],[-5.13216,43.361286],[-5.131645,43.361443]]]],"created":1292505911,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/765400_20101216_97505e0e50.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

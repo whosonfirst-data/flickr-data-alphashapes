@@ -1,0 +1,15 @@
+{
+  "id": 15000300,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervignano d'Adda, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":15000300,
+    "woe:name":"Cervignano d'Adda, Lombardy, Italy",
+    "woe:place_id":"tK253eOYBJyjzic2Cg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.424198,45.374504,9.425443,45.377209],
+  "geometry": {"alpha":0.00015,"bbox":[9.4241981506348,45.374504089355,9.4254426956177,45.377208709717],"coordinates":[[[[9.425443,45.374939],[9.425352,45.374672],[9.424965,45.374504],[9.424365,45.376381],[9.424198,45.377209],[9.425443,45.374939]]]],"created":1292452145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/15000300_20101215_15a98f0407.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

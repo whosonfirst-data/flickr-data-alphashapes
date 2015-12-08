@@ -1,0 +1,15 @@
+{
+  "id": 12519409,
+  "type": "Feature",
+  "properties": {
+    "name":"Montgomery Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12519409,
+    "woe:name":"Montgomery Regional Airport, United States",
+    "woe:place_id":"bIRJmUKYA5laj2DBsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.391418,32.300667,-86.386002,32.307644],
+  "geometry": {"alpha":1e-05,"bbox":[-86.391418457031,32.300666809082,-86.386001586914,32.307643890381],"coordinates":[[[[-86.391197,32.304718],[-86.390724,32.306675],[-86.389244,32.307644],[-86.390022,32.304741],[-86.386002,32.300667],[-86.391418,32.303349],[-86.391197,32.304718]]]],"created":1292486943,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12519409_20101216_af6e7cb948.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

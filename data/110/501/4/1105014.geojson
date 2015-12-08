@@ -1,0 +1,15 @@
+{
+  "id": 1105014,
+  "type": "Feature",
+  "properties": {
+    "name":"Pimpama, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1105014,
+    "woe:name":"Pimpama, Queensland, Australia",
+    "woe:place_id":"DmybFt2YAJwGPFV0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.284683,-27.825109,153.297043,-27.817822],
+  "geometry": {"alpha":0.00015,"bbox":[153.28468322754,-27.825109481812,153.29704284668,-27.817821502686],"coordinates":[[[[153.292236,-27.821075],[153.292465,-27.821213],[153.297043,-27.825109],[153.288925,-27.821716],[153.288895,-27.821701],[153.284683,-27.817822],[153.292236,-27.821075]]]],"created":1247997849,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2564/shapefiles/1105014_20090719_e15a07a43a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

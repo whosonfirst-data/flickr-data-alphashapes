@@ -1,0 +1,15 @@
+{
+  "id": 335,
+  "type": "Feature",
+  "properties": {
+    "name":"Cottrell's Cove, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":335,
+    "woe:name":"Cottrell's Cove, Newfoundland and Labrador, Canada",
+    "woe:place_id":"sTwHsrCaApk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.304489,49.472919,-55.285091,49.499126],
+  "geometry": {"alpha":0.00015,"bbox":[-55.304489135742,49.472919464111,-55.285091400146,49.499126434326],"coordinates":[[[[-55.295563,49.478607],[-55.304489,49.499126],[-55.285091,49.486805],[-55.287323,49.482288],[-55.28698,49.472919],[-55.295563,49.478607]]]],"created":1292482626,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/335_20101216_1d70beec0f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

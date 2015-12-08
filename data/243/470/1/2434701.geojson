@@ -1,0 +1,15 @@
+{
+  "id": 2434701,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2434701,
+    "woe:name":"Lake, Louisiana, United States",
+    "woe:place_id":"b2LwEFybBZ_PROe_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.877998,30.287382,-90.849937,30.313589],
+  "geometry": {"alpha":0.00015,"bbox":[-90.877998352051,30.287382125854,-90.849937438965,30.313589096069],"coordinates":[[[[-90.877998,30.304333],[-90.873169,30.307667],[-90.861992,30.313589],[-90.849937,30.304928],[-90.8685,30.297167],[-90.875816,30.287382],[-90.877998,30.304333]]]],"created":1292549309,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2434701_20101217_1a592c2855.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

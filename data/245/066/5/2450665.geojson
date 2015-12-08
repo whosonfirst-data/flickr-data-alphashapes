@@ -1,0 +1,15 @@
+{
+  "id": 2450665,
+  "type": "Feature",
+  "properties": {
+    "name":"Midway, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2450665,
+    "woe:name":"Midway, North Carolina, United States",
+    "woe:place_id":"oqBlVhGbBZk5CsTK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.124443,35.888107,-81.121674,35.890987],
+  "geometry": {"alpha":0.00015,"bbox":[-81.124443054199,35.888107299805,-81.121673583984,35.89098739624],"coordinates":[[[[-81.123901,35.888107],[-81.123947,35.888119],[-81.124443,35.888454],[-81.121674,35.890987],[-81.123604,35.888199],[-81.123901,35.888107]]]],"created":1292451849,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2450665_20101215_f06512aaaf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

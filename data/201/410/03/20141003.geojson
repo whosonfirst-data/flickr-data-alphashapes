@@ -1,0 +1,15 @@
+{
+  "id": 20141003,
+  "type": "Feature",
+  "properties": {
+    "name":"San Claudio, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20141003,
+    "woe:name":"San Claudio, Marche, Italy",
+    "woe:place_id":"44fn0IybAZ1Y.Dlihw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.498892,43.275471,13.504986,43.279564],
+  "geometry": {"alpha":0.00015,"bbox":[13.498891830444,43.275470733643,13.504985809326,43.279563903809],"coordinates":[[[[13.501167,43.276829],[13.498892,43.279564],[13.503634,43.277142],[13.504986,43.275471],[13.50191,43.275688],[13.501167,43.276829]]]],"created":1292513888,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20141003_20101216_dc65832820.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

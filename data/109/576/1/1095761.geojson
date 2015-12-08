@@ -1,0 +1,15 @@
+{
+  "id": 1095761,
+  "type": "Feature",
+  "properties": {
+    "name":"Falmouth, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1095761,
+    "woe:name":"Falmouth, Tasmania, Australia",
+    "woe:place_id":"fC4xDUWYAZX6nXpr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.263931,-41.509285,148.275177,-41.501343],
+  "geometry": {"alpha":0.00015,"bbox":[148.26393127441,-41.509284973145,148.27517700195,-41.501342773438],"coordinates":[[[[148.275177,-41.50864],[148.27449,-41.509285],[148.263931,-41.508144],[148.270538,-41.502888],[148.27475,-41.501343],[148.275177,-41.506519],[148.275177,-41.50864]]]],"created":1292519735,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/1095761_20101216_9af0979422.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2520331,
+  "type": "Feature",
+  "properties": {
+    "name":"Wildacres, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2520331,
+    "woe:name":"Wildacres, North Carolina, United States",
+    "woe:place_id":"toM.wkibBJ70P3Bm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.121765,35.824173,-82.106194,35.827122],
+  "geometry": {"alpha":0.00015,"bbox":[-82.121765136719,35.824172973633,-82.10619354248,35.827121734619],"coordinates":[[[[-82.106194,35.825432],[-82.106728,35.824825],[-82.121765,35.824173],[-82.108467,35.827122],[-82.107834,35.826622],[-82.106194,35.825432]]]],"created":1292459654,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2520331_20101216_5769ea65f0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

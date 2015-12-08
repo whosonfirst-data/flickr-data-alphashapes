@@ -1,0 +1,15 @@
+{
+  "id": 20108426,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20108426,
+    "woe:name":"San Pietro, Piedmont, Italy",
+    "woe:place_id":"IN4rzkObAZ0gSZj5Tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.340583,45.093399,7.35054,45.100304],
+  "geometry": {"alpha":0.00015,"bbox":[7.3405828475952,45.093399047852,7.3505401611328,45.100303649902],"coordinates":[[[[7.342472,45.098366],[7.344102,45.100304],[7.35054,45.095215],[7.345132,45.093399],[7.340583,45.094669],[7.342472,45.098366]]]],"created":1239637207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3585/shapefiles/20108426_20090413_a8b3345561.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 703544,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldow/brand, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":703544,
+    "woe:name":"Waldow/brand, Brandenburg, Germany",
+    "woe:place_id":"qnO1WGSeAZ9LSSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.686218,51.996876,13.690552,51.999519],
+  "geometry": {"alpha":0.00015,"bbox":[13.686218261719,51.996875762939,13.690551757812,51.999519348145],"coordinates":[[[[13.689994,51.997986],[13.690552,51.997292],[13.689994,51.996876],[13.689233,51.997124],[13.686218,51.999519],[13.689651,51.998356],[13.689994,51.997986]]]],"created":1292542119,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/703544_20101216_bcd83e7890.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

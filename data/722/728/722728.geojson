@@ -1,0 +1,15 @@
+{
+  "id": 722728,
+  "type": "Feature",
+  "properties": {
+    "name":"San Ligorio, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":722728,
+    "woe:name":"San Ligorio, Puglia, Italy",
+    "woe:place_id":"Vxt3uEOeA54Pud0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.203079,40.36562,18.226318,40.388855],
+  "geometry": {"alpha":0.00015,"bbox":[18.203079223633,40.365619659424,18.226318359375,40.388854980469],"coordinates":[[[[18.206266,40.376858],[18.214216,40.380486],[18.223228,40.388855],[18.226318,40.369827],[18.210848,40.36562],[18.203079,40.367897],[18.206266,40.376858]]]],"created":1292475365,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/722728_20101216_50892b2e3a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

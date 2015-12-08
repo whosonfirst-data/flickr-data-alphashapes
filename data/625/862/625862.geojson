@@ -1,0 +1,15 @@
+{
+  "id": 625862,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Maurice, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":625862,
+    "woe:name":"St-Maurice, Burgundy, France",
+    "woe:place_id":"0xGOPcGfA5n4JQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.250979,46.211823,4.255485,46.21595],
+  "geometry": {"alpha":0.00015,"bbox":[4.2509789466858,46.211822509766,4.2554850578308,46.215950012207],"coordinates":[[[[4.255485,46.21595],[4.255056,46.214821],[4.253436,46.212475],[4.250979,46.211823],[4.253082,46.215706],[4.254798,46.215923],[4.255485,46.21595]]]],"created":1292498822,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/625862_20101216_b3981e32e8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

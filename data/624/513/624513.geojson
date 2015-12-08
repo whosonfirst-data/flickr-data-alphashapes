@@ -1,0 +1,15 @@
+{
+  "id": 624513,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Herbot, Brittany, France",
+    "placetype":"locality",
+    "woe:id":624513,
+    "woe:name":"St.-Herbot, Brittany, France",
+    "woe:place_id":"wMrHEPufA5huLJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.810195,48.325584,-3.799999,48.333328],
+  "geometry": {"alpha":0.00015,"bbox":[-3.8101949691772,48.325584411621,-3.799998998642,48.33332824707],"coordinates":[[[[-3.810024,48.327724],[-3.808887,48.329277],[-3.799999,48.333328],[-3.809466,48.325584],[-3.810195,48.326012],[-3.810024,48.327724]]]],"created":1292543631,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/624513_20101216_5b3e266ca2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

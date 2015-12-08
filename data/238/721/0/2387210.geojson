@@ -1,0 +1,15 @@
+{
+  "id": 2387210,
+  "type": "Feature",
+  "properties": {
+    "name":"Crestwood Manor, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2387210,
+    "woe:name":"Crestwood Manor, Virginia, United States",
+    "woe:place_id":"1xIMcrqbApRckyoI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.195007,38.821571,-77.187408,38.829136],
+  "geometry": {"alpha":0.00015,"bbox":[-77.195007324219,38.821571350098,-77.187408447266,38.829135894775],"coordinates":[[[[-77.191322,38.822212],[-77.195007,38.825165],[-77.192139,38.829136],[-77.190582,38.828373],[-77.187408,38.821571],[-77.191322,38.822212]]]],"created":1292485689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2387210_20101216_0bcba6640d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

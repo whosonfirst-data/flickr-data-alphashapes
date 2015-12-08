@@ -1,0 +1,15 @@
+{
+  "id": 2471111,
+  "type": "Feature",
+  "properties": {
+    "name":"Peytona, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2471111,
+    "woe:name":"Peytona, Tennessee, United States",
+    "woe:place_id":"se1xqxWbBZsb.cC2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.504799,36.34911,-86.493019,36.362648],
+  "geometry": {"alpha":0.00015,"bbox":[-86.50479888916,36.349109649658,-86.493019104004,36.362648010254],"coordinates":[[[[-86.493019,36.362648],[-86.494705,36.35902],[-86.498383,36.349178],[-86.504799,36.34911],[-86.495087,36.362373],[-86.493019,36.362648]]]],"created":1292546290,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2471111_20101217_8f3078f200.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

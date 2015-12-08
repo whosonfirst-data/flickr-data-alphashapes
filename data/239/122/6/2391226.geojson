@@ -1,0 +1,15 @@
+{
+  "id": 2391226,
+  "type": "Feature",
+  "properties": {
+    "name":"Denton, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2391226,
+    "woe:name":"Denton, North Carolina, United States",
+    "woe:place_id":"ZdDPWJubApWhfNW9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.121147,35.629814,-80.112999,35.648159],
+  "geometry": {"alpha":0.00015,"bbox":[-80.121147155762,35.629814147949,-80.112998962402,35.6481590271],"coordinates":[[[[-80.113831,35.629814],[-80.121147,35.634312],[-80.117882,35.648159],[-80.113365,35.633389],[-80.112999,35.632839],[-80.113831,35.629814]]]],"created":1292518583,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2391226_20101216_d3d2216850.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

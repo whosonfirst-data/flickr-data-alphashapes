@@ -1,0 +1,15 @@
+{
+  "id": 2404298,
+  "type": "Feature",
+  "properties": {
+    "name":"Flemington, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2404298,
+    "woe:name":"Flemington, West Virginia, United States",
+    "woe:place_id":"hPLsk_KbBZzuiH5T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.132622,39.266144,-80.123741,39.266972],
+  "geometry": {"alpha":0.00015,"bbox":[-80.132621765137,39.266143798828,-80.123741149902,39.266971588135],"coordinates":[[[[-80.124519,39.266693],[-80.132622,39.266144],[-80.124626,39.266926],[-80.124458,39.266972],[-80.123741,39.266655],[-80.124519,39.266693]]]],"created":1292485870,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2404298_20101216_356bab31b0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

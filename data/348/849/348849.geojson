@@ -1,0 +1,15 @@
+{
+  "id": 348849,
+  "type": "Feature",
+  "properties": {
+    "name":"Paposo, Antofagasta Region, Chile",
+    "placetype":"locality",
+    "woe:id":348849,
+    "woe:name":"Paposo, Antofagasta Region, Chile",
+    "woe:place_id":"i9Sh5SiaBZToCwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.468269,-25.028011,-70.456284,-25.00831],
+  "geometry": {"alpha":0.00015,"bbox":[-70.468269348145,-25.028011322021,-70.456283569336,-25.008310317993],"coordinates":[[[[-70.456284,-25.027742],[-70.457764,-25.028011],[-70.457794,-25.028011],[-70.468269,-25.008806],[-70.461456,-25.00831],[-70.456284,-25.027742]]]],"created":1292403722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/348849_20101215_ac7a73620c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

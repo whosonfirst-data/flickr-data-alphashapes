@@ -1,0 +1,15 @@
+{
+  "id": 29399435,
+  "type": "Feature",
+  "properties": {
+    "name":"Bardejov, Slovakia",
+    "placetype":"locality",
+    "woe:id":29399435,
+    "woe:name":"Bardejov, Slovakia",
+    "woe:place_id":"KzGWuoebCJ9vDfmUMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.262171,49.329487,21.268488,49.333317],
+  "geometry": {"alpha":1e-05,"bbox":[21.262170791626,49.329486846924,21.268487930298,49.333316802979],"coordinates":[[[[21.265951,49.329971],[21.262171,49.330799],[21.262964,49.333317],[21.265755,49.33049],[21.268488,49.33091],[21.267221,49.329487],[21.265951,49.329971]]]],"created":1292521527,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/29399435_20101216_81f0768bd5.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

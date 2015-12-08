@@ -1,0 +1,15 @@
+{
+  "id": 26808890,
+  "type": "Feature",
+  "properties": {
+    "name":"Bejuco, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26808890,
+    "woe:name":"Bejuco, Costa Rica",
+    "woe:place_id":"NK7mZ7CbB5QnR6H4KA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.307205,9.802782,-85.298897,9.80811],
+  "geometry": {"alpha":1e-05,"bbox":[-85.307205200195,9.8027820587158,-85.298896789551,9.8081102371216],"coordinates":[[[[-85.304718,9.80811],[-85.298897,9.806127],[-85.299911,9.802782],[-85.304718,9.804812],[-85.307205,9.80608],[-85.304718,9.80811]]]],"created":1292451518,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/26808890_20101215_8558a57a72.tar.gz"},"points":36,"type":"MultiPolygon"}
+}

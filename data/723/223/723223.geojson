@@ -1,0 +1,15 @@
+{
+  "id": 723223,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vivaldo, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":723223,
+    "woe:name":"San Vivaldo, Tuscany, Italy",
+    "woe:place_id":"K.vnUJGeA5_uE8c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.891227,43.52412,10.902085,43.526711],
+  "geometry": {"alpha":0.00015,"bbox":[10.891226768494,43.524120330811,10.90208530426,43.526710510254],"coordinates":[[[[10.902085,43.526711],[10.900583,43.524654],[10.896679,43.52412],[10.891227,43.524281],[10.896087,43.525299],[10.90135,43.526531],[10.902085,43.526711]]]],"created":1292467085,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/723223_20101216_ba492b3e0d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2353017,
+  "type": "Feature",
+  "properties": {
+    "name":"Alexandria, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2353017,
+    "woe:name":"Alexandria, Pennsylvania, United States",
+    "woe:place_id":"WDd9dISbAplKHFEZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.111122,40.552559,-78.081734,40.587307],
+  "geometry": {"alpha":0.0001875,"bbox":[-78.111122131348,40.552558898926,-78.081733703613,40.587306976318],"coordinates":[[[[-78.10112,40.559006],[-78.095886,40.581905],[-78.090004,40.587307],[-78.081955,40.576019],[-78.081734,40.575417],[-78.099037,40.557129],[-78.111122,40.552559],[-78.10112,40.559006]]]],"created":1292538557,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2353017_20101216_659226c1c3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

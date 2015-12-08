@@ -1,0 +1,15 @@
+{
+  "id": 15000225,
+  "type": "Feature",
+  "properties": {
+    "name":"Frabosa Sottana, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000225,
+    "woe:name":"Frabosa Sottana, Piedmont, Italy",
+    "woe:place_id":"Duv4PkiYBJxtuLMumQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.786645,44.294765,7.799134,44.303051],
+  "geometry": {"alpha":0.00015,"bbox":[7.7866449356079,44.294765472412,7.7991337776184,44.303050994873],"coordinates":[[[[7.799134,44.303051],[7.797889,44.29879],[7.786645,44.294765],[7.796473,44.300571],[7.799134,44.303051]]]],"created":1247916127,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2629/shapefiles/15000225_20090718_e321651273.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

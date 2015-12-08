@@ -1,0 +1,15 @@
+{
+  "id": 2500648,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoverville, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2500648,
+    "woe:name":"Stoverville, Arkansas, United States",
+    "woe:place_id":"v4wuAlSbBJxwwIcj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.391853,36.015781,-93.382286,36.04174],
+  "geometry": {"alpha":0.00015,"bbox":[-93.39185333252,36.015781402588,-93.382286071777,36.04174041748],"coordinates":[[[[-93.39048,36.018349],[-93.391853,36.04174],[-93.382286,36.026611],[-93.386406,36.016876],[-93.389198,36.015781],[-93.39048,36.018349]]]],"created":1248293055,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2494/shapefiles/2500648_20090722_a03d920e5f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

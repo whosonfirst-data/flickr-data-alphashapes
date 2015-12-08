@@ -1,0 +1,15 @@
+{
+  "id": 500052,
+  "type": "Feature",
+  "properties": {
+    "name":"Kolno, Podlaskie, Poland",
+    "placetype":"locality",
+    "woe:id":500052,
+    "woe:name":"Kolno, Podlaskie, Poland",
+    "woe:place_id":"m21LOUacAZyevvQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.922052,53.408451,21.934246,53.415531],
+  "geometry": {"alpha":0.00015,"bbox":[21.922052383423,53.408451080322,21.934246063232,53.415531158447],"coordinates":[[[[21.93416,53.415531],[21.934246,53.415314],[21.931789,53.408451],[21.922659,53.410145],[21.922052,53.413624],[21.931135,53.41526],[21.93416,53.415531]]]],"created":1248290903,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2669/shapefiles/500052_20090722_b8d9d72782.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

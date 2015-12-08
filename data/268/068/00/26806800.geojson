@@ -1,0 +1,15 @@
+{
+  "id": 26806800,
+  "type": "Feature",
+  "properties": {
+    "name":"Espinosa, Vega Alta, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806800,
+    "woe:name":"Espinosa, Vega Alta, Puerto Rico",
+    "woe:place_id":"GVPU6PmbB5RQmJ7Trw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-66.333389,18.406004,-66.294762,18.417484],
+  "geometry": {"alpha":0.0015,"bbox":[-66.333389282227,18.406003952026,-66.294761657715,18.417484283447],"coordinates":[[[[-66.30867,18.406004],[-66.333389,18.41317],[-66.318787,18.413261],[-66.294762,18.417484],[-66.30867,18.406004]]]],"created":1234502405,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3299/shapefiles/26806800_20090213_4c6800f83f.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

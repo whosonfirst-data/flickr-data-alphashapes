@@ -1,0 +1,15 @@
+{
+  "id": 667870,
+  "type": "Feature",
+  "properties": {
+    "name":"Kolkwitz, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":667870,
+    "woe:name":"Kolkwitz, Brandenburg, Germany",
+    "woe:place_id":"3WZjU5KfB5tXNRY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.242916,51.750202,14.283771,51.765636],
+  "geometry": {"alpha":0.00015,"bbox":[14.242916107178,51.750202178955,14.283770561218,51.765636444092],"coordinates":[[[[14.26712,51.765636],[14.283771,51.75246],[14.261112,51.751743],[14.242916,51.750202],[14.261713,51.762688],[14.26712,51.765636]]]],"created":1234655162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3412/shapefiles/667870_20090214_7764f8c3c1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

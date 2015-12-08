@@ -1,0 +1,15 @@
+{
+  "id": 954,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcmasterville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":954,
+    "woe:name":"Mcmasterville, Quebec, Canada",
+    "woe:place_id":"KxDunnaQBJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.231041,45.545975,-73.229813,45.546814],
+  "geometry": {"alpha":0.00015,"bbox":[-73.23104095459,45.545974731445,-73.22981262207,45.546813964844],"coordinates":[[[[-73.230179,45.546474],[-73.229813,45.545975],[-73.23027,45.54623],[-73.231041,45.546814],[-73.230179,45.546474]]]],"created":1292548490,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/954_20101217_1d5683b0e8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

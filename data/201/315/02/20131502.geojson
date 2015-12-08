@@ -1,0 +1,15 @@
+{
+  "id": 20131502,
+  "type": "Feature",
+  "properties": {
+    "name":"Melo, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20131502,
+    "woe:name":"Melo, Tuscany, Italy",
+    "woe:place_id":"o0PmQXWbAZ1H3pYIrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.744649,44.120312,10.753726,44.144691],
+  "geometry": {"alpha":0.00015,"bbox":[10.744648933411,44.120311737061,10.753726005554,44.144691467285],"coordinates":[[[[10.744649,44.127411],[10.748834,44.130539],[10.75025,44.144691],[10.753726,44.132263],[10.750808,44.120312],[10.744649,44.127411]]]],"created":1292521409,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/20131502_20101216_e6b415ab22.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

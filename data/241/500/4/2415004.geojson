@@ -1,0 +1,15 @@
+{
+  "id": 2415004,
+  "type": "Feature",
+  "properties": {
+    "name":"Griffen, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2415004,
+    "woe:name":"Griffen, Iowa, United States",
+    "woe:place_id":"g2vYZPKbBZ2cRVwJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.819809,42.209831,-93.815025,42.216312],
+  "geometry": {"alpha":0.00015,"bbox":[-93.819808959961,42.209831237793,-93.81502532959,42.216312408447],"coordinates":[[[[-93.817802,42.20998],[-93.818169,42.209831],[-93.818298,42.209915],[-93.819809,42.216312],[-93.815025,42.210861],[-93.817802,42.20998]]]],"created":1292506982,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2415004_20101216_46f0977fa3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

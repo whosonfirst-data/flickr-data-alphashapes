@@ -1,0 +1,15 @@
+{
+  "id": 128039,
+  "type": "Feature",
+  "properties": {
+    "name":"La Libertad, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":128039,
+    "woe:name":"La Libertad, Chiapas, Mexico",
+    "woe:place_id":"tLBN6cGYA5Swzbw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.484276,17.175083,-91.484055,17.175583],
+  "geometry": {"alpha":0.00015,"bbox":[-91.484275817871,17.1750831604,-91.48405456543,17.175582885742],"coordinates":[[[[-91.484085,17.175528],[-91.484055,17.175304],[-91.484276,17.175083],[-91.484169,17.175583],[-91.484085,17.175528]]]],"created":1292474406,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/128039_20101216_8830e7d1d6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

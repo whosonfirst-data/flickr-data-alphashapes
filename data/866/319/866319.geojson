@@ -1,0 +1,15 @@
+{
+  "id": 866319,
+  "type": "Feature",
+  "properties": {
+    "name":"Arbore, Suceava, Romania",
+    "placetype":"locality",
+    "woe:id":866319,
+    "woe:name":"Arbore, Suceava, Romania",
+    "woe:place_id":"Mqrb1zqRB5pM8u0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.921469,47.725929,25.939407,47.7384],
+  "geometry": {"alpha":0.00015,"bbox":[25.921468734741,47.725929260254,25.939407348633,47.738399505615],"coordinates":[[[[25.933228,47.730202],[25.929001,47.73016],[25.921469,47.725929],[25.923615,47.7384],[25.9333,47.733299],[25.939407,47.730778],[25.933228,47.730202]]]],"created":1292529821,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/866319_20101216_4ce012129b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

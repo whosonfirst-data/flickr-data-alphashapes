@@ -1,0 +1,15 @@
+{
+  "id": 542060,
+  "type": "Feature",
+  "properties": {
+    "name":"Haugschlag, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":542060,
+    "woe:name":"Haugschlag, Lower Austria, Austria",
+    "woe:place_id":"HPdMheWcBZ4GHeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.048622,48.990978,15.055882,49.002743],
+  "geometry": {"alpha":0.00015,"bbox":[15.048622131348,48.990978240967,15.055882453918,49.002742767334],"coordinates":[[[[15.049672,48.994061],[15.048622,49.001812],[15.051612,49.002743],[15.055882,49.001423],[15.054874,48.996834],[15.055872,48.990978],[15.049672,48.994061]]]],"created":1292525562,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/542060_20101216_59233cdb25.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

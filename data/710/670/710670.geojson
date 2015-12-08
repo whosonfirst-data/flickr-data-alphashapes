@@ -1,0 +1,15 @@
+{
+  "id": 710670,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbaiana, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710670,
+    "woe:name":"Barbaiana, Lombardy, Italy",
+    "woe:place_id":"N1rATXKeAJwrqns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.015381,45.546814,9.019603,45.547752],
+  "geometry": {"alpha":0.00015,"bbox":[9.015380859375,45.546813964844,9.0196027755737,45.547752380371],"coordinates":[[[[9.016363,45.547672],[9.016605,45.547752],[9.019603,45.547626],[9.015381,45.546814],[9.015392,45.546856],[9.015919,45.547489],[9.016363,45.547672]]]],"created":1292491744,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/710670_20101216_5caf748830.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

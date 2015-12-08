@@ -1,0 +1,15 @@
+{
+  "id": 2445125,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Acre, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445125,
+    "woe:name":"Maple Acre, West Virginia, United States",
+    "woe:place_id":"_DNYlIGbBZguqDB4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.140549,37.284,-81.124664,37.303116],
+  "geometry": {"alpha":0.00015,"bbox":[-81.140548706055,37.284000396729,-81.124664306641,37.303115844727],"coordinates":[[[[-81.127853,37.285664],[-81.140549,37.303116],[-81.124763,37.291264],[-81.124664,37.290169],[-81.125504,37.284],[-81.127853,37.285664]]]],"created":1292451843,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2445125_20101215_427fe185d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

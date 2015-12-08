@@ -1,0 +1,15 @@
+{
+  "id": 2506950,
+  "type": "Feature",
+  "properties": {
+    "name":"Tolland, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2506950,
+    "woe:name":"Tolland, Massachusetts, United States",
+    "woe:place_id":"R4Ifv8KbBJxJw5VW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.009216,42.061752,-73.00264,42.081394],
+  "geometry": {"alpha":0.00015,"bbox":[-73.009216308594,42.061752319336,-73.002639770508,42.081394195557],"coordinates":[[[[-73.004837,42.063568],[-73.005783,42.062469],[-73.009216,42.061752],[-73.007118,42.064671],[-73.00264,42.081394],[-73.004837,42.063568]]]],"created":1292524071,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2506950_20101216_3e2a2cbd31.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

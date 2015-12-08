@@ -1,0 +1,15 @@
+{
+  "id": 23399910,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirkton, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23399910,
+    "woe:name":"Kirkton, Ontario, Canada",
+    "woe:place_id":"nSSDwHObAp8zjXX_YQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.324577,43.322884,-81.310059,43.334042],
+  "geometry": {"alpha":0.00015,"bbox":[-81.324577331543,43.322883605957,-81.31005859375,43.334041595459],"coordinates":[[[[-81.310059,43.328861],[-81.310287,43.322884],[-81.314621,43.32655],[-81.324577,43.334042],[-81.310059,43.328861]]]],"created":1292544872,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23399910_20101217_2c65ce2d81.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

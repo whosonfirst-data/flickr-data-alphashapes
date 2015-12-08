@@ -1,0 +1,15 @@
+{
+  "id": 2356955,
+  "type": "Feature",
+  "properties": {
+    "name":"Atherton, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2356955,
+    "woe:name":"Atherton, Indiana, United States",
+    "woe:place_id":"BLU7dI6bApnkqcJ2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.369759,39.591137,-87.363365,39.603935],
+  "geometry": {"alpha":0.00015,"bbox":[-87.369758605957,39.591136932373,-87.36336517334,39.603935241699],"coordinates":[[[[-87.363792,39.593056],[-87.367401,39.591137],[-87.369759,39.603935],[-87.363365,39.599075],[-87.363792,39.593056]]]],"created":1234817043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3430/shapefiles/2356955_20090216_bfce05b8dd.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

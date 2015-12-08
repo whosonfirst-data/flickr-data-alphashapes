@@ -1,0 +1,15 @@
+{
+  "id": 28745163,
+  "type": "Feature",
+  "properties": {
+    "name":"Easttown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745163,
+    "woe:name":"Easttown, Pennsylvania, United States",
+    "woe:place_id":"HR2OababCZvBZBY6HQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.456459,40.009281,-75.41127,40.047108],
+  "geometry": {"alpha":0.00015,"bbox":[-75.45645904541,40.009281158447,-75.411270141602,40.047107696533],"coordinates":[[[[-75.431267,40.025608],[-75.430946,40.033398],[-75.442131,40.04388],[-75.456459,40.028473],[-75.453041,40.047108],[-75.442299,40.044544],[-75.42382,40.045631],[-75.423027,40.031624],[-75.41127,40.025551],[-75.418999,40.024296],[-75.430557,40.009281],[-75.442436,40.011444],[-75.431267,40.025608]]]],"created":1292524969,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/28745163_20101216_65bc458e16.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

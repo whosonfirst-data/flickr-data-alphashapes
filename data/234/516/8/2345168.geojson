@@ -1,0 +1,15 @@
+{
+  "id": 2345168,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint Patrick, DM, Dominica",
+    "placetype":"region",
+    "woe:id":2345168,
+    "woe:name":"Saint Patrick, DM, Dominica",
+    "woe:place_id":"mfa3vDObAphKusIt",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-61.32534,15.072123,-61.089478,15.373501],
+  "geometry": {"alpha":0.03,"bbox":[-61.325340270996,15.072122573853,-61.089477539062,15.373500823975],"coordinates":[[[[-61.259594,15.373501],[-61.089478,15.305379],[-61.12793,15.231189],[-61.12793,15.072123],[-61.275814,15.207917],[-61.305084,15.256364],[-61.32534,15.31374],[-61.315384,15.363322],[-61.299591,15.364977],[-61.259594,15.373501]]]],"created":1292453760,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2345168_20101215_574fc552e2.tar.gz"},"points":77,"type":"MultiPolygon"}
+}

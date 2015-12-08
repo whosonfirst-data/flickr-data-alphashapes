@@ -1,0 +1,15 @@
+{
+  "id": 23391371,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Edward, North Sydney, NS, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":23391371,
+    "woe:name":"Point Edward, North Sydney, NS, CA, Canada",
+    "woe:place_id":"EI12_FibAp.EhdtsnA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-60.279835,46.16206,-60.276264,46.164257],
+  "geometry": {"alpha":1e-05,"bbox":[-60.279834747314,46.162059783936,-60.276264190674,46.164257049561],"coordinates":[[[[-60.279514,46.163158],[-60.277775,46.164257],[-60.276264,46.163181],[-60.279835,46.16206],[-60.279514,46.163158]]]],"created":1292445706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/23391371_20101215_29a1e6e4cb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

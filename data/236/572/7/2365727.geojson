@@ -1,0 +1,15 @@
+{
+  "id": 2365727,
+  "type": "Feature",
+  "properties": {
+    "name":"Bloxom, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2365727,
+    "woe:name":"Bloxom, Virginia, United States",
+    "woe:place_id":"UZPN89KbApp2f4T0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.626236,37.824074,-75.616249,37.832771],
+  "geometry": {"alpha":0.00015,"bbox":[-75.626235961914,37.824073791504,-75.616249084473,37.83277130127],"coordinates":[[[[-75.626236,37.824074],[-75.620399,37.832771],[-75.618599,37.832561],[-75.617294,37.832073],[-75.616249,37.831581],[-75.626236,37.824074]]]],"created":1229497685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3198/shapefiles/2365727_20081217_4e0527a3c4.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

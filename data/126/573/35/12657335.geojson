@@ -1,0 +1,15 @@
+{
+  "id": 12657335,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonnes, France",
+    "placetype":"locality",
+    "woe:id":12657335,
+    "woe:name":"Bonnes, France",
+    "woe:place_id":"Rp.KAGeYA5rRsjlLFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.149517,45.236111,0.152242,45.242928],
+  "geometry": {"alpha":1e-05,"bbox":[0.14951699972153,45.236110687256,0.15224200487137,45.24292755127],"coordinates":[[[[0.151287,45.236111],[0.151008,45.238213],[0.149517,45.242928],[0.152242,45.238491],[0.151287,45.236111]]]],"created":1234494002,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3533/shapefiles/12657335_20090213_a5d087d69c.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

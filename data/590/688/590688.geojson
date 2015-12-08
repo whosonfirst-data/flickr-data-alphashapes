@@ -1,0 +1,15 @@
+{
+  "id": 590688,
+  "type": "Feature",
+  "properties": {
+    "name":"Fay, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":590688,
+    "woe:name":"Fay, Ile-de-France, France",
+    "woe:place_id":"FM8IB4GcCJyz1Ok",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.657511,48.461597,2.663379,48.475624],
+  "geometry": {"alpha":0.00015,"bbox":[2.6575109958649,48.461597442627,2.6633789539337,48.475624084473],"coordinates":[[[[2.659807,48.464085],[2.657511,48.472687],[2.658562,48.475624],[2.663379,48.463318],[2.663326,48.461597],[2.659807,48.464085]]]],"created":1292521776,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/590688_20101216_bd4ce3b80c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

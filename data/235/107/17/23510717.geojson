@@ -1,0 +1,15 @@
+{
+  "id": 23510717,
+  "type": "Feature",
+  "properties": {
+    "name":"Haddam Neck, Connecticut, United States",
+    "placetype":"locality",
+    "woe:id":23510717,
+    "woe:name":"Haddam Neck, Connecticut, United States",
+    "woe:place_id":"PQm_q5mbApklmrmHOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.503998,41.491661,-72.480064,41.500992],
+  "geometry": {"alpha":0.00015,"bbox":[-72.503997802734,41.491661071777,-72.48006439209,41.500991821289],"coordinates":[[[[-72.480064,41.491661],[-72.481293,41.493931],[-72.503998,41.499088],[-72.480865,41.500992],[-72.481064,41.500221],[-72.480064,41.491661]]]],"created":1292517834,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/23510717_20101216_9d2d1b891e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

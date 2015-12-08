@@ -1,0 +1,15 @@
+{
+  "id": 12628247,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Roes, Germany",
+    "placetype":"locality",
+    "woe:id":12628247,
+    "woe:name":"Gemeinde Roes, Germany",
+    "woe:place_id":"ai7KZXuYA5rj12ijsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.28636,50.237049,7.292947,50.240517],
+  "geometry": {"alpha":1e-05,"bbox":[7.2863597869873,50.237049102783,7.2929468154907,50.240516662598],"coordinates":[[[[7.287197,50.237873],[7.289514,50.240517],[7.292947,50.237049],[7.288141,50.237324],[7.28636,50.237694],[7.287197,50.237873]]]],"created":1292494682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12628247_20101216_8baa7fec8a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

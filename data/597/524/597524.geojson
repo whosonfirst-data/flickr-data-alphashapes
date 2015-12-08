@@ -1,0 +1,15 @@
+{
+  "id": 597524,
+  "type": "Feature",
+  "properties": {
+    "name":"La Chapelle, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":597524,
+    "woe:name":"La Chapelle, Burgundy, France",
+    "woe:place_id":"hg9JUA6cCJug3mw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.780297,46.541431,4.796079,46.552841],
+  "geometry": {"alpha":0.00015,"bbox":[4.7802968025208,46.541431427002,4.796079158783,46.552841186523],"coordinates":[[[[4.796079,46.550652],[4.794073,46.549503],[4.786262,46.541431],[4.780297,46.544872],[4.79094,46.552471],[4.795188,46.552841],[4.796079,46.550652]]]],"created":1292531238,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/597524_20101216_f17f3728a4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

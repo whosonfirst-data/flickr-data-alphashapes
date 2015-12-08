@@ -1,0 +1,15 @@
+{
+  "id": 2479034,
+  "type": "Feature",
+  "properties": {
+    "name":"Raynor Heights, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2479034,
+    "woe:name":"Raynor Heights, Maryland, United States",
+    "woe:place_id":"bx9iRTGbBZsmoOYm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.66539,39.222206,-76.660591,39.228165],
+  "geometry": {"alpha":0.00015,"bbox":[-76.665390014648,39.222206115723,-76.660591125488,39.228164672852],"coordinates":[[[[-76.66539,39.227711],[-76.664169,39.228165],[-76.660591,39.224625],[-76.665199,39.222206],[-76.665169,39.224998],[-76.66539,39.227711]]]],"created":1292536712,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2479034_20101216_d1472c2ec3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2517929,
+  "type": "Feature",
+  "properties": {
+    "name":"West Wildwood, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2517929,
+    "woe:name":"West Wildwood, New Jersey, United States",
+    "woe:place_id":"B6Al8FybBJ2WUniq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.824234,38.994907,-74.815521,39.001442],
+  "geometry": {"alpha":0.00015,"bbox":[-74.824234008789,38.99490737915,-74.815521240234,39.001441955566],"coordinates":[[[[-74.816895,38.998909],[-74.815521,38.996506],[-74.815521,38.994907],[-74.824234,39.001442],[-74.823051,39.001167],[-74.816895,38.998909]]]],"created":1292532585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2517929_20101216_5f113fdeea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2523254,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodland Hills, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2523254,
+    "woe:name":"Woodland Hills, Iowa, United States",
+    "woe:place_id":"YNQ.rCKbBJ5S5RSM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.473404,41.547195,-93.468956,41.550198],
+  "geometry": {"alpha":0.00015,"bbox":[-93.473403930664,41.54719543457,-93.468955993652,41.550197601318],"coordinates":[[[[-93.472343,41.550198],[-93.468956,41.54884],[-93.473099,41.547195],[-93.473404,41.549038],[-93.472343,41.550198]]]],"created":1247873645,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3466/shapefiles/2523254_20090717_1ef266ee44.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

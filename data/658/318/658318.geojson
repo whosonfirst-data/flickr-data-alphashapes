@@ -1,0 +1,15 @@
+{
+  "id": 658318,
+  "type": "Feature",
+  "properties": {
+    "name":"Heftrich, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":658318,
+    "woe:name":"Heftrich, Hesse, Germany",
+    "woe:place_id":"3Z_NAnWfBJS499o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.325415,50.20826,8.346025,50.223286],
+  "geometry": {"alpha":0.00015,"bbox":[8.3254146575928,50.20825958252,8.3460254669189,50.223285675049],"coordinates":[[[[8.332335,50.220425],[8.325415,50.218971],[8.331911,50.223286],[8.346025,50.222931],[8.344684,50.20826],[8.335018,50.220028],[8.332335,50.220425]]]],"created":1292523936,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/658318_20101216_b49e1b6e29.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

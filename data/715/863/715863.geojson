@@ -1,0 +1,15 @@
+{
+  "id": 715863,
+  "type": "Feature",
+  "properties": {
+    "name":"Furci Siculo, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":715863,
+    "woe:name":"Furci Siculo, Sicily, Italy",
+    "woe:place_id":"zT3ru06eAJlVFyI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.373349,37.955067,15.383284,37.96373],
+  "geometry": {"alpha":0.00015,"bbox":[15.373349189758,37.955066680908,15.383283615112,37.963729858398],"coordinates":[[[[15.378456,37.961929],[15.381309,37.963013],[15.383048,37.96373],[15.383284,37.961102],[15.379433,37.958496],[15.373349,37.955067],[15.378456,37.961929]]]],"created":1292529323,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/715863_20101216_1689c7d9ae.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

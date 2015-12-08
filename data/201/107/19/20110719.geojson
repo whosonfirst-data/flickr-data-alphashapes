@@ -1,0 +1,15 @@
+{
+  "id": 20110719,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbara, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20110719,
+    "woe:name":"Barbara, Marche, Italy",
+    "woe:place_id":"hLTRdrKbAZ3rQDMPjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.024592,43.580482,13.028218,43.584618],
+  "geometry": {"alpha":0.00015,"bbox":[13.024592399597,43.58048248291,13.028218269348,43.584617614746],"coordinates":[[[[13.024592,43.581215],[13.025321,43.584618],[13.02618,43.583187],[13.028218,43.580482],[13.024592,43.581215]]]],"created":1292538261,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/20110719_20101216_fbf8ed170b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

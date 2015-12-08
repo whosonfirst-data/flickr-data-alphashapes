@@ -1,0 +1,15 @@
+{
+  "id": 2455300,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Pleasant, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2455300,
+    "woe:name":"Mount Pleasant, Michigan, United States",
+    "woe:place_id":"Fc2bEPebBZn9NkWi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.259155,42.458668,-86.236046,42.465107],
+  "geometry": {"alpha":0.00015,"bbox":[-86.259155273438,42.458667755127,-86.236045837402,42.465106964111],"coordinates":[[[[-86.251045,42.463913],[-86.236046,42.458973],[-86.256332,42.458668],[-86.259155,42.459942],[-86.254387,42.465107],[-86.251045,42.463913]]]],"created":1292547236,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2455300_20101217_514bf7dfd8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

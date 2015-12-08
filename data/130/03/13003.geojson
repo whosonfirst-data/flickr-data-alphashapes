@@ -1,0 +1,15 @@
+{
+  "id": 13003,
+  "type": "Feature",
+  "properties": {
+    "name":"Blanefield, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13003,
+    "woe:name":"Blanefield, Scotland, United Kingdom",
+    "woe:place_id":"MAT0rsuYApznsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.331359,55.977352,-4.309816,55.988396],
+  "geometry": {"alpha":0.00015,"bbox":[-4.3313589096069,55.977352142334,-4.3098158836365,55.988395690918],"coordinates":[[[[-4.319515,55.988396],[-4.315116,55.98753],[-4.309816,55.987289],[-4.322218,55.977352],[-4.331359,55.985661],[-4.320109,55.9883],[-4.319515,55.988396]]]],"created":1292453102,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/13003_20101215_b4c36d9a21.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

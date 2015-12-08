@@ -1,0 +1,15 @@
+{
+  "id": 711059,
+  "type": "Feature",
+  "properties": {
+    "name":"Boccioleto, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":711059,
+    "woe:name":"Boccioleto, Piedmont, Italy",
+    "woe:place_id":"mzK8COyeAJ1SVqo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.097438,45.816357,8.116836,45.833225],
+  "geometry": {"alpha":0.00015,"bbox":[8.0974378585815,45.816356658936,8.1168355941772,45.833225250244],"coordinates":[[[[8.112201,45.833225],[8.114433,45.832027],[8.116836,45.829338],[8.098297,45.816357],[8.097438,45.831192],[8.112201,45.833225]]]],"created":1292511069,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/711059_20101216_3c6bcb8e0c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

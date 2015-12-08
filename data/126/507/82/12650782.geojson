@@ -1,0 +1,15 @@
+{
+  "id": 12650782,
+  "type": "Feature",
+  "properties": {
+    "name":"Pomerol, France",
+    "placetype":"locality",
+    "woe:id":12650782,
+    "woe:name":"Pomerol, France",
+    "woe:place_id":"cjjA.tGYA5qjDu3M3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.197496,44.920464,-0.19005,44.930756],
+  "geometry": {"alpha":1e-05,"bbox":[-0.19749599695206,44.920463562012,-0.19005000591278,44.930755615234],"coordinates":[[[[-0.193219,44.930683],[-0.192818,44.925781],[-0.19005,44.920464],[-0.195007,44.923458],[-0.192818,44.925781],[-0.197496,44.929928],[-0.193762,44.930756],[-0.193269,44.930752],[-0.193219,44.930683]]]],"created":1292549166,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12650782_20101217_1f977c0bbd.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

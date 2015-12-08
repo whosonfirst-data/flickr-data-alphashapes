@@ -1,0 +1,15 @@
+{
+  "id": 778045,
+  "type": "Feature",
+  "properties": {
+    "name":"Villanueva, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":778045,
+    "woe:name":"Villanueva, Asturias, Spain",
+    "woe:place_id":"iVe8ndmeBpScZko",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.155776,43.148312,-6.139984,43.152069],
+  "geometry": {"alpha":0.00015,"bbox":[-6.1557760238647,43.14831161499,-6.1399841308594,43.152069091797],"coordinates":[[[[-6.140198,43.152069],[-6.139984,43.151066],[-6.140842,43.148312],[-6.155776,43.149094],[-6.141958,43.150471],[-6.140198,43.152069]]]],"created":1292411882,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/778045_20101215_1b5a33bab1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

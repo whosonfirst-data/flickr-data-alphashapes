@@ -1,0 +1,15 @@
+{
+  "id": 395655,
+  "type": "Feature",
+  "properties": {
+    "name":"Mapauri, Bolivar, Venezuela",
+    "placetype":"locality",
+    "woe:id":395655,
+    "woe:name":"Mapauri, Bolivar, Venezuela",
+    "woe:place_id":"ZhHmRlGaCJmXRnM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.095718,4.900552,-61.088634,4.914311],
+  "geometry": {"alpha":0.00015,"bbox":[-61.095718383789,4.9005517959595,-61.088634490967,4.9143109321594],"coordinates":[[[[-61.093033,4.906355],[-61.095718,4.914311],[-61.088703,4.908352],[-61.088634,4.907824],[-61.092224,4.900552],[-61.093033,4.906355]]]],"created":1292535122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/395655_20101216_55efd6ce82.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

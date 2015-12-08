@@ -1,0 +1,15 @@
+{
+  "id": 764606,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Casas, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":764606,
+    "woe:name":"Las Casas, Canary Islands, Spain",
+    "woe:place_id":"8M.v4k.eB5hZXkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.980799,27.708948,-17.95269,27.717421],
+  "geometry": {"alpha":0.00015,"bbox":[-17.980798721313,27.708948135376,-17.952690124512,27.717420578003],"coordinates":[[[[-17.972431,27.709063],[-17.980799,27.708948],[-17.980671,27.709101],[-17.975178,27.717363],[-17.95269,27.717421],[-17.972431,27.709063]]]],"created":1292532442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/764606_20101216_4ef74eec8c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

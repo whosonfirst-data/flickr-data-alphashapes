@@ -1,0 +1,15 @@
+{
+  "id": 23417865,
+  "type": "Feature",
+  "properties": {
+    "name":"Mack South, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":23417865,
+    "woe:name":"Mack South, Ohio, United States",
+    "woe:place_id":"XAXSQ4.bApgEspxngg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.682304,39.140125,-84.663483,39.152012],
+  "geometry": {"alpha":0.00015,"bbox":[-84.682304382324,39.140125274658,-84.663482666016,39.152011871338],"coordinates":[[[[-84.663483,39.143658],[-84.664207,39.140125],[-84.682304,39.141792],[-84.681114,39.152012],[-84.668907,39.146599],[-84.663483,39.143658]]]],"created":1292537558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/23417865_20101216_451ec75ff9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

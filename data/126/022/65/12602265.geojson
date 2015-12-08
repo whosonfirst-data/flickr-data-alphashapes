@@ -1,0 +1,15 @@
+{
+  "id": 12602265,
+  "type": "Feature",
+  "properties": {
+    "name":"Mouscron, Belgium",
+    "placetype":"locality",
+    "woe:id":12602265,
+    "woe:name":"Mouscron, Belgium",
+    "woe:place_id":"Z4YjthWYA5rGu_U.Zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.2135,50.743652,3.218436,50.747753],
+  "geometry": {"alpha":1e-05,"bbox":[3.2135000228882,50.74365234375,3.2184360027313,50.747753143311],"coordinates":[[[[3.215003,50.744335],[3.215067,50.744289],[3.218436,50.743786],[3.215475,50.743652],[3.213779,50.743706],[3.2135,50.747753],[3.215003,50.744335]]]],"created":1292543402,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12602265_20101216_5fa24b7600.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

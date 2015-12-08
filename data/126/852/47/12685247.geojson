@@ -1,0 +1,15 @@
+{
+  "id": 12685247,
+  "type": "Feature",
+  "properties": {
+    "name":"Ergisch, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685247,
+    "woe:name":"Ergisch, Switzerland",
+    "woe:place_id":"LTzrueeYA5pkoIJdrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.721666,46.254002,7.725105,46.258499],
+  "geometry": {"alpha":1e-05,"bbox":[7.7216658592224,46.254001617432,7.7251048088074,46.258499145508],"coordinates":[[[[7.725105,46.255135],[7.724,46.254002],[7.721666,46.255501],[7.721833,46.257668],[7.724333,46.258499],[7.725105,46.255135]]]],"created":1292546140,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12685247_20101217_0ba12df5bc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

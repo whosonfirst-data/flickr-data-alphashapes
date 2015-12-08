@@ -1,0 +1,15 @@
+{
+  "id": 673525,
+  "type": "Feature",
+  "properties": {
+    "name":"Maisach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":673525,
+    "woe:name":"Maisach, Bavaria, Germany",
+    "woe:place_id":"bUVbk9qfBp9M8zI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.252746,48.199963,11.277848,48.219955],
+  "geometry": {"alpha":0.00015,"bbox":[11.252745628357,48.199962615967,11.277848243713,48.219955444336],"coordinates":[[[[11.266736,48.219955],[11.277848,48.213871],[11.274375,48.202709],[11.252746,48.199963],[11.252917,48.21526],[11.262016,48.218723],[11.266736,48.219955]]]],"created":1292474582,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/673525_20101216_37e6ca722c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

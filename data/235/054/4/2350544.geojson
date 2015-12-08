@@ -1,0 +1,15 @@
+{
+  "id": 2350544,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelly Beach, Auckland, New Zealand",
+    "placetype":"locality",
+    "woe:id":2350544,
+    "woe:name":"Shelly Beach, Auckland, New Zealand",
+    "woe:place_id":"q040u9mbAplRpQIn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [174.338089,-36.610844,174.379929,-36.563358],
+  "geometry": {"alpha":0.0003662109375,"bbox":[174.33808898926,-36.610843658447,174.37992858887,-36.563358306885],"coordinates":[[[[174.379929,-36.570293],[174.378433,-36.599957],[174.352219,-36.594978],[174.338089,-36.610844],[174.347702,-36.590309],[174.371567,-36.563358],[174.378082,-36.569286],[174.379929,-36.570293]]]],"created":1292538047,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2350544_20101216_0ccdb71d34.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

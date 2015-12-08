@@ -1,0 +1,15 @@
+{
+  "id": 2500443,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoneybrook, Wilmington, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2500443,
+    "woe:name":"Stoneybrook, Wilmington, NC, US, United States",
+    "woe:place_id":"CG.8nOmbBJyEbG6i",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-77.77758,34.24189,-77.76947,34.245529],
+  "geometry": {"alpha":1e-05,"bbox":[-77.77758026123,34.241889953613,-77.769470214844,34.245529174805],"coordinates":[[[[-77.772171,34.245529],[-77.76947,34.24189],[-77.77359,34.242458],[-77.77758,34.244659],[-77.772171,34.245529]]]],"created":1292512990,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2500443_20101216_4621bee1e5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

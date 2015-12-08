@@ -1,0 +1,15 @@
+{
+  "id": 2445091,
+  "type": "Feature",
+  "properties": {
+    "name":"Manville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445091,
+    "woe:name":"Manville, Virginia, United States",
+    "woe:place_id":"0eoAq8SbBZi5Y0HC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.655701,36.661098,-82.641563,36.685543],
+  "geometry": {"alpha":0.00015,"bbox":[-82.655700683594,36.661098480225,-82.641563415527,36.685543060303],"coordinates":[[[[-82.650803,36.661098],[-82.655701,36.671001],[-82.645561,36.685543],[-82.641563,36.672169],[-82.642113,36.670467],[-82.650803,36.661098]]]],"created":1292454429,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2445091_20101215_2bd018a4eb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

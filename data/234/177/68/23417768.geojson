@@ -1,0 +1,15 @@
+{
+  "id": 23417768,
+  "type": "Feature",
+  "properties": {
+    "name":"Parc, New York, United States",
+    "placetype":"locality",
+    "woe:id":23417768,
+    "woe:name":"Parc, New York, United States",
+    "woe:place_id":"1jvX8h2bApgQTmb_BQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.459961,44.63726,-73.441132,44.67918],
+  "geometry": {"alpha":0.00029296875,"bbox":[-73.4599609375,44.637260437012,-73.441131591797,44.679180145264],"coordinates":[[[[-73.441353,44.637703],[-73.441589,44.63726],[-73.444717,44.640507],[-73.459961,44.665112],[-73.452896,44.67918],[-73.447556,44.67271],[-73.44133,44.669628],[-73.441132,44.638981],[-73.441353,44.637703]]]],"created":1292545788,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/23417768_20101217_0126171a6a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

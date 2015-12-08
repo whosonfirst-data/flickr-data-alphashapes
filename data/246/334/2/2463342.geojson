@@ -1,0 +1,15 @@
+{
+  "id": 2463342,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakdale, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2463342,
+    "woe:name":"Oakdale, Delaware, United States",
+    "woe:place_id":"RnbLBR6bBZrhrsF9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.701897,39.666222,-75.694801,39.668018],
+  "geometry": {"alpha":0.00015,"bbox":[-75.70189666748,39.666221618652,-75.694801330566,39.668018341064],"coordinates":[[[[-75.695801,39.668018],[-75.694923,39.667946],[-75.694801,39.667107],[-75.701897,39.666222],[-75.695801,39.668018]]]],"created":1234550284,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3472/shapefiles/2463342_20090213_30415c0e0d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

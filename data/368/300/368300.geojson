@@ -1,0 +1,15 @@
+{
+  "id": 368300,
+  "type": "Feature",
+  "properties": {
+    "name":"Dagua, Valle del Cauca, Colombia",
+    "placetype":"locality",
+    "woe:id":368300,
+    "woe:name":"Dagua, Valle del Cauca, Colombia",
+    "woe:place_id":"yDOnINqaB5RphCs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.696587,3.650002,-76.681549,3.671039],
+  "geometry": {"alpha":0.00015,"bbox":[-76.696586608887,3.6500020027161,-76.681549072266,3.6710391044617],"coordinates":[[[[-76.694527,3.671039],[-76.693497,3.665214],[-76.681549,3.650002],[-76.69281,3.652537],[-76.696587,3.66727],[-76.694527,3.671039]]]],"created":1292523759,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/368300_20101216_88cedc33c9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

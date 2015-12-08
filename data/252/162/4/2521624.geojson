@@ -1,0 +1,15 @@
+{
+  "id": 2521624,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilwon Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2521624,
+    "woe:name":"Wilwon Woods, Maryland, United States",
+    "woe:place_id":"dusNe3CbBJ4jFwno",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.944107,39.542324,-75.943657,39.546394],
+  "geometry": {"alpha":0.00015,"bbox":[-75.944107055664,39.542324066162,-75.943656921387,39.546394348145],"coordinates":[[[[-75.943886,39.545784],[-75.943863,39.546104],[-75.943657,39.546394],[-75.943756,39.544731],[-75.944107,39.542324],[-75.943886,39.545784]]]],"created":1247949614,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3435/shapefiles/2521624_20090718_c0e362c10c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

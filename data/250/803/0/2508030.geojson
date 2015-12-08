@@ -1,0 +1,15 @@
+{
+  "id": 2508030,
+  "type": "Feature",
+  "properties": {
+    "name":"Trinity, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2508030,
+    "woe:name":"Trinity, Texas, United States",
+    "woe:place_id":"WmtK9WGbBJyCh5II",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.379913,30.937126,-95.374458,30.955088],
+  "geometry": {"alpha":0.00015,"bbox":[-95.379913330078,30.937126159668,-95.374458312988,30.955087661743],"coordinates":[[[[-95.374458,30.947332],[-95.375107,30.94412],[-95.375061,30.937126],[-95.37693,30.945454],[-95.379913,30.955088],[-95.375534,30.950911],[-95.374458,30.947332]]]],"created":1292551535,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2508030_20101217_7c3314c1a2.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

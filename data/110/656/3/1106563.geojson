@@ -1,0 +1,15 @@
+{
+  "id": 1106563,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellington, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1106563,
+    "woe:name":"Wellington, New South Wales, Australia",
+    "woe:place_id":"3YitCMOYAJw._VS5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.941742,-32.56591,148.950745,-32.549168],
+  "geometry": {"alpha":0.00015,"bbox":[148.94174194336,-32.565910339355,148.95074462891,-32.549167633057],"coordinates":[[[[148.947662,-32.557667],[148.950745,-32.56591],[148.941742,-32.558315],[148.941833,-32.549168],[148.943832,-32.549835],[148.947052,-32.552238],[148.947662,-32.557667]]]],"created":1292525926,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1106563_20101216_ffc7235271.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

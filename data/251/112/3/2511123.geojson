@@ -1,0 +1,15 @@
+{
+  "id": 2511123,
+  "type": "Feature",
+  "properties": {
+    "name":"Van Buren Bay, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511123,
+    "woe:name":"Van Buren Bay, New York, United States",
+    "woe:place_id":"3QVIyRybBJ1Npj2p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.409477,42.447845,-79.400002,42.456001],
+  "geometry": {"alpha":0.00015,"bbox":[-79.409477233887,42.447845458984,-79.400001525879,42.456001281738],"coordinates":[[[[-79.409477,42.447845],[-79.408409,42.453228],[-79.400002,42.456001],[-79.406837,42.450005],[-79.409477,42.447845]]]],"created":1292551459,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2511123_20101217_455b9abb07.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 431043,
+  "type": "Feature",
+  "properties": {
+    "name":"Descalvado, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":431043,
+    "woe:name":"Descalvado, Sao Paulo, Brazil",
+    "woe:place_id":"GFUD1iKdAp1G2rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-47.625732,-21.913586,-47.619553,-21.898455],
+  "geometry": {"alpha":0.00015,"bbox":[-47.625732421875,-21.913585662842,-47.619552612305,-21.898454666138],"coordinates":[[[[-47.623329,-21.898933],[-47.620754,-21.898455],[-47.619553,-21.904268],[-47.622471,-21.913586],[-47.625732,-21.900366],[-47.623329,-21.898933]]]],"created":1248291737,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2421/shapefiles/431043_20090722_a612167920.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

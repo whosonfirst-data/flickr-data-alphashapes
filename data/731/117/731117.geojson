@@ -1,0 +1,15 @@
+{
+  "id": 731117,
+  "type": "Feature",
+  "properties": {
+    "name":"Langedijk, Friesland, Netherlands",
+    "placetype":"locality",
+    "woe:id":731117,
+    "woe:name":"Langedijk, Friesland, Netherlands",
+    "woe:place_id":"A08z8qqeAp3.450",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.281776,52.937775,6.295166,52.961979],
+  "geometry": {"alpha":0.00015,"bbox":[6.2817759513855,52.937774658203,6.295166015625,52.961978912354],"coordinates":[[[[6.282978,52.946827],[6.281776,52.948429],[6.283664,52.959599],[6.288986,52.961979],[6.294844,52.949196],[6.295166,52.937775],[6.282978,52.946827]]]],"created":1248004686,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3478/shapefiles/731117_20090719_ee41232c95.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

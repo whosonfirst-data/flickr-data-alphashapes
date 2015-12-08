@@ -1,0 +1,15 @@
+{
+  "id": 2523654,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodsburgh, New York, United States",
+    "placetype":"locality",
+    "woe:id":2523654,
+    "woe:name":"Woodsburgh, New York, United States",
+    "woe:place_id":"AS0UDvebBJ6Vs02d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.710365,40.618927,-73.69854,40.624115],
+  "geometry": {"alpha":0.00015,"bbox":[-73.71036529541,40.618927001953,-73.698539733887,40.624114990234],"coordinates":[[[[-73.69854,40.620987],[-73.69902,40.618927],[-73.707443,40.62093],[-73.710365,40.624115],[-73.69854,40.620987]]]],"created":1292530051,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2523654_20101216_44d5637bd3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

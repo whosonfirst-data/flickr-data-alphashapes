@@ -1,0 +1,15 @@
+{
+  "id": 12693637,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Maria de Miralles, Spain",
+    "placetype":"locality",
+    "woe:id":12693637,
+    "woe:name":"Santa Maria de Miralles, Spain",
+    "woe:place_id":"0euIkA2YA5oycd41ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.529472,41.501152,1.529491,41.50116],
+  "geometry": {"alpha":1e-05,"bbox":[1.5294719934464,41.501152038574,1.5294909477234,41.501159667969],"coordinates":[[[[1.529486,41.50116],[1.529488,41.50116],[1.529491,41.50116],[1.529477,41.501152],[1.529472,41.501152],[1.529486,41.50116]]]],"created":1292462222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12693637_20101216_c310bd1b0b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

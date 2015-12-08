@@ -1,0 +1,15 @@
+{
+  "id": 12665171,
+  "type": "Feature",
+  "properties": {
+    "name":"Vernet, France",
+    "placetype":"locality",
+    "woe:id":12665171,
+    "woe:name":"Vernet, France",
+    "woe:place_id":"qsfnmfyYA5piZ310WQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.425915,43.432674,1.426109,43.434067],
+  "geometry": {"alpha":1e-05,"bbox":[1.4259150028229,43.432674407959,1.426108956337,43.434066772461],"coordinates":[[[[1.426109,43.433662],[1.425969,43.432674],[1.425915,43.433273],[1.426033,43.434067],[1.426109,43.433662]]]],"created":1292445358,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12665171_20101215_44f712151b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2484240,
+  "type": "Feature",
+  "properties": {
+    "name":"Rome, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2484240,
+    "woe:name":"Rome, Indiana, United States",
+    "woe:place_id":"EVkaMAKbBZQyjhDl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.536903,37.920906,-86.523453,37.928921],
+  "geometry": {"alpha":0.00015,"bbox":[-86.536903381348,37.920906066895,-86.523452758789,37.92892074585],"coordinates":[[[[-86.523811,37.92289],[-86.523514,37.921745],[-86.523453,37.920906],[-86.536903,37.928696],[-86.533051,37.928921],[-86.523811,37.92289]]]],"created":1292501227,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2484240_20101216_cd0d66d931.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

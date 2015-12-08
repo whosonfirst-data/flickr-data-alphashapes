@@ -1,0 +1,15 @@
+{
+  "id": 2459776,
+  "type": "Feature",
+  "properties": {
+    "name":"Newtown Square, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2459776,
+    "woe:name":"Newtown Square, Maryland, United States",
+    "woe:place_id":"eeQGVBubBZmecg.j",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.063667,38.931446,-76.062164,38.940418],
+  "geometry": {"alpha":0.00015,"bbox":[-76.063667297363,38.931446075439,-76.062164306641,38.940418243408],"coordinates":[[[[-76.063667,38.939335],[-76.062981,38.940418],[-76.062767,38.939568],[-76.062164,38.933167],[-76.062508,38.931446],[-76.063667,38.939335]]]],"created":1292444991,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2459776_20101215_18fddea100.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 544427,
+  "type": "Feature",
+  "properties": {
+    "name":"Windpassing, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":544427,
+    "woe:name":"Windpassing, Lower Austria, Austria",
+    "woe:place_id":"Skm3IKKcBZjyoWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.038515,48.607994,16.054104,48.630196],
+  "geometry": {"alpha":0.00015,"bbox":[16.038515090942,48.60799407959,16.054103851318,48.630195617676],"coordinates":[[[[16.038515,48.619732],[16.039028,48.630196],[16.042324,48.630062],[16.054104,48.628952],[16.044342,48.607994],[16.042896,48.608639],[16.038515,48.619732]]]],"created":1292519514,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/544427_20101216_955d0971cf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

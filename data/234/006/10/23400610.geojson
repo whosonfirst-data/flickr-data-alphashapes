@@ -1,0 +1,15 @@
+{
+  "id": 23400610,
+  "type": "Feature",
+  "properties": {
+    "name":"Harcourt, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400610,
+    "woe:name":"Harcourt, Ontario, Canada",
+    "woe:place_id":"6RRD47.bApin11P2jA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.144722,45.114422,-78.122574,45.132648],
+  "geometry": {"alpha":0.00015,"bbox":[-78.144721984863,45.114421844482,-78.122573852539,45.132648468018],"coordinates":[[[[-78.133736,45.126595],[-78.122574,45.114422],[-78.139915,45.119568],[-78.144722,45.128105],[-78.138458,45.132648],[-78.133736,45.126595]]]],"created":1292543203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/23400610_20101216_27fe6e3cd1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

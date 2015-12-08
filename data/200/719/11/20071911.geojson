@@ -1,0 +1,15 @@
+{
+  "id": 20071911,
+  "type": "Feature",
+  "properties": {
+    "name":"Cranford, Ireland",
+    "placetype":"locality",
+    "woe:id":20071911,
+    "woe:name":"Cranford, Ireland",
+    "woe:place_id":"J.dIUnqbAZxGU8_0nA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.728656,55.125633,-7.725861,55.126572],
+  "geometry": {"alpha":1e-05,"bbox":[-7.7286558151245,55.125633239746,-7.7258610725403,55.126571655273],"coordinates":[[[[-7.728415,55.126095],[-7.727119,55.126572],[-7.726774,55.126453],[-7.725861,55.125633],[-7.728656,55.126007],[-7.728415,55.126095]]]],"created":1292452146,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20071911_20101215_b204ac1518.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

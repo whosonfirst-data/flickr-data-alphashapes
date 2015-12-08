@@ -1,0 +1,15 @@
+{
+  "id": 20070276,
+  "type": "Feature",
+  "properties": {
+    "name":"Xankandi, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070276,
+    "woe:name":"Xankandi, AZ, Azerbaijan",
+    "woe:place_id":"8JCcC62bAZze91aM7w",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [46.561089,39.804775,46.820984,40.058956],
+  "geometry": {"alpha":0.03,"bbox":[46.561088562012,39.804775238037,46.820983886719,40.05895614624],"coordinates":[[[[46.752491,39.812691],[46.632156,39.886559],[46.561089,40.058956],[46.720734,39.961861],[46.820984,39.931065],[46.761246,39.804775],[46.752491,39.812691]]]],"created":1292551163,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20070276_20101217_cc04510c50.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

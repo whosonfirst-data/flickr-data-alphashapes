@@ -1,0 +1,15 @@
+{
+  "id": 12681154,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro in Casale, Italy",
+    "placetype":"locality",
+    "woe:id":12681154,
+    "woe:name":"San Pietro in Casale, Italy",
+    "woe:place_id":"cBMQysuYA5rA9A1NAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.445479,44.66386,11.448753,44.665691],
+  "geometry": {"alpha":1e-05,"bbox":[11.445479393005,44.663860321045,11.448753356934,44.665691375732],"coordinates":[[[[11.448753,44.665691],[11.44794,44.66386],[11.445479,44.664745],[11.44875,44.665691],[11.448753,44.665691]]]],"created":1292538732,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12681154_20101216_39f31b8f14.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

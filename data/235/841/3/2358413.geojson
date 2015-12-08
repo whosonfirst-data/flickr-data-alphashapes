@@ -1,0 +1,15 @@
+{
+  "id": 2358413,
+  "type": "Feature",
+  "properties": {
+    "name":"Baker, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2358413,
+    "woe:name":"Baker, Minnesota, United States",
+    "woe:place_id":"okau_O.bApkF9Fze",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.518982,47.106354,-94.493622,47.141747],
+  "geometry": {"alpha":0.00015,"bbox":[-94.518981933594,47.106353759766,-94.493621826172,47.141746520996],"coordinates":[[[[-94.505249,47.106354],[-94.518982,47.124809],[-94.505936,47.141747],[-94.507828,47.123878],[-94.493713,47.115055],[-94.493622,47.115025],[-94.505249,47.106354]]]],"created":1292526425,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2358413_20101216_d355efb2aa.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

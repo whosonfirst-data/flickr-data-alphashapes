@@ -1,0 +1,15 @@
+{
+  "id": 14410,
+  "type": "Feature",
+  "properties": {
+    "name":"Bucklesham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":14410,
+    "woe:name":"Bucklesham, England, United Kingdom",
+    "woe:place_id":"6VEZWkOYBZj3BQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.263084,52.016796,1.28786,52.032112],
+  "geometry": {"alpha":0.00015,"bbox":[1.2630840539932,52.016796112061,1.2878600358963,52.032112121582],"coordinates":[[[[1.270294,52.031597],[1.28786,52.030731],[1.277847,52.017773],[1.27098,52.016796],[1.266345,52.023094],[1.263084,52.032112],[1.270294,52.031597]]]],"created":1292523877,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/14410_20101216_05dc87dcaf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

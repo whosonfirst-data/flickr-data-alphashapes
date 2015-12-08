@@ -1,0 +1,15 @@
+{
+  "id": 20228456,
+  "type": "Feature",
+  "properties": {
+    "name":"San Felices, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":20228456,
+    "woe:name":"San Felices, La Rioja, Spain",
+    "woe:place_id":"SeiF9YebAZ62CCaj6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.857561,42.63282,-2.852325,42.637337],
+  "geometry": {"alpha":0.00015,"bbox":[-2.8575611114502,42.632820129395,-2.852324962616,42.637336730957],"coordinates":[[[[-2.857561,42.636265],[-2.857475,42.637337],[-2.854449,42.635521],[-2.852325,42.63282],[-2.857561,42.636265]]]],"created":1292445820,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/20228456_20101215_f2ffe26b1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

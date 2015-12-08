@@ -1,0 +1,15 @@
+{
+  "id": 2495404,
+  "type": "Feature",
+  "properties": {
+    "name":"Snows Mill, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2495404,
+    "woe:name":"Snows Mill, Georgia, United States",
+    "woe:place_id":"OvDU74ybBZVyoYJv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.600037,33.826202,-83.588257,33.847305],
+  "geometry": {"alpha":0.00015,"bbox":[-83.600036621094,33.826202392578,-83.588256835938,33.847305297852],"coordinates":[[[[-83.588257,33.829102],[-83.588387,33.829071],[-83.600037,33.826202],[-83.590965,33.846325],[-83.589684,33.847305],[-83.588257,33.829102]]]],"created":1292546107,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2495404_20101217_dcdf9959f1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

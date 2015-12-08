@@ -1,0 +1,15 @@
+{
+  "id": 12660291,
+  "type": "Feature",
+  "properties": {
+    "name":"Cuon, France",
+    "placetype":"locality",
+    "woe:id":12660291,
+    "woe:name":"Cuon, France",
+    "woe:place_id":"E.EKHBuYA5qh30edNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.105142,47.487541,-0.097482,47.491398],
+  "geometry": {"alpha":1e-05,"bbox":[-0.10514199733734,47.48754119873,-0.09748200327158,47.491397857666],"coordinates":[[[[-0.097718,47.48867],[-0.097482,47.488323],[-0.099048,47.487976],[-0.103812,47.487541],[-0.105142,47.488209],[-0.100207,47.491398],[-0.097718,47.48867]]]],"created":1292530069,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12660291_20101216_19ac978326.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

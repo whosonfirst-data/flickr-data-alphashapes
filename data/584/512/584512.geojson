@@ -1,0 +1,15 @@
+{
+  "id": 584512,
+  "type": "Feature",
+  "properties": {
+    "name":"Chantonnay, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":584512,
+    "woe:name":"Chantonnay, Pays de la Loire, France",
+    "woe:place_id":"fJUpvHKcCZivDDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.054687,46.682716,-1.042327,46.693996],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0546870231628,46.682716369629,-1.0423270463943,46.693996429443],"coordinates":[[[[-1.053056,46.693996],[-1.052,46.690334],[-1.042327,46.682716],[-1.050567,46.682774],[-1.054687,46.688545],[-1.053056,46.693996]]]],"created":1292518265,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/584512_20101216_52a781e070.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

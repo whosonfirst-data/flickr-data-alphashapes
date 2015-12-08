@@ -1,0 +1,15 @@
+{
+  "id": 779329,
+  "type": "Feature",
+  "properties": {
+    "name":"Puentes Viejas, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":779329,
+    "woe:name":"Puentes Viejas, Madrid, Spain",
+    "woe:place_id":"JFzOxvmeBpWCuL0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.564376,40.946423,-3.55751,40.95916],
+  "geometry": {"alpha":0.00015,"bbox":[-3.564376115799,40.946422576904,-3.5575098991394,40.959159851074],"coordinates":[[[[-3.562387,40.946423],[-3.564376,40.94775],[-3.564119,40.948528],[-3.55751,40.95916],[-3.560298,40.947235],[-3.562387,40.946423]]]],"created":1292541704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/779329_20101216_234de9c95f.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

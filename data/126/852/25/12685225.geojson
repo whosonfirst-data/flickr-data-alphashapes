@@ -1,0 +1,15 @@
+{
+  "id": 12685225,
+  "type": "Feature",
+  "properties": {
+    "name":"Gretzenbach, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685225,
+    "woe:name":"Gretzenbach, Switzerland",
+    "woe:place_id":"RTFXekSYA5q2cHHwmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.990987,47.358013,7.991695,47.361996],
+  "geometry": {"alpha":1e-05,"bbox":[7.9909868240356,47.358013153076,7.9916949272156,47.361995697021],"coordinates":[[[[7.99118,47.359177],[7.990987,47.361996],[7.991652,47.358913],[7.991695,47.358013],[7.99118,47.359177]]]],"created":1234595404,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3409/shapefiles/12685225_20090214_c83751473b.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

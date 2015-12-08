@@ -1,0 +1,15 @@
+{
+  "id": 28745779,
+  "type": "Feature",
+  "properties": {
+    "name":"Cass, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":28745779,
+    "woe:name":"Cass, Georgia, United States",
+    "woe:place_id":"MvHPFqSbCZv1GDCqbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.879478,34.211494,-84.847923,34.228268],
+  "geometry": {"alpha":0.00015,"bbox":[-84.87947845459,34.211494445801,-84.847923278809,34.228267669678],"coordinates":[[[[-84.879478,34.211494],[-84.870239,34.223087],[-84.852043,34.228268],[-84.847923,34.222237],[-84.871307,34.216766],[-84.879478,34.211494]]]],"created":1292503384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/28745779_20101216_6386fe720d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

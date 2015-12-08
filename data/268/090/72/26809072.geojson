@@ -1,0 +1,15 @@
+{
+  "id": 26809072,
+  "type": "Feature",
+  "properties": {
+    "name":"Nicoya, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809072,
+    "woe:name":"Nicoya, Costa Rica",
+    "woe:place_id":"WPl05xWbB5TepBj.aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.458008,10.140748,-85.455696,10.145649],
+  "geometry": {"alpha":1e-05,"bbox":[-85.4580078125,10.140748023987,-85.455696105957,10.145648956299],"coordinates":[[[[-85.455696,10.145395],[-85.457321,10.140748],[-85.458008,10.142185],[-85.456291,10.145649],[-85.455696,10.145395]]]],"created":1292531741,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/26809072_20101216_095c447c3e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

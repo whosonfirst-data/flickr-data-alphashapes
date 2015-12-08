@@ -1,0 +1,15 @@
+{
+  "id": 20153006,
+  "type": "Feature",
+  "properties": {
+    "name":"Bayerwald, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153006,
+    "woe:name":"Bayerwald, Bavaria, Germany",
+    "woe:place_id":".DBy3jibAZ1E1.Ljcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.674844,47.617413,11.693744,47.622597],
+  "geometry": {"alpha":0.00015,"bbox":[11.674843788147,47.617412567139,11.69374370575,47.622596740723],"coordinates":[[[[11.674844,47.618252],[11.67984,47.622597],[11.693744,47.620396],[11.692757,47.618633],[11.675635,47.617413],[11.675229,47.617855],[11.674844,47.618252]]]],"created":1247951770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2599/shapefiles/20153006_20090718_eb68c480e5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28584265,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookwater, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28584265,
+    "woe:name":"Brookwater, Queensland, Australia",
+    "woe:place_id":"OzBp27qbCZmV6tqwZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.892715,-27.678511,152.903503,-27.660448],
+  "geometry": {"alpha":0.00015,"bbox":[152.8927154541,-27.678510665894,152.90350341797,-27.660448074341],"coordinates":[[[[152.892914,-27.668781],[152.892715,-27.660448],[152.897064,-27.661484],[152.903503,-27.670834],[152.90184,-27.677334],[152.901367,-27.678511],[152.892914,-27.668781]]]],"created":1292530268,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/28584265_20101216_5d856d6c97.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

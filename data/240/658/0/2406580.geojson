@@ -1,0 +1,15 @@
+{
+  "id": 2406580,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox Haven, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2406580,
+    "woe:name":"Fox Haven, Alabama, United States",
+    "woe:place_id":"LicJM9SbBZzSeB41",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.852585,33.268383,-86.845314,33.274071],
+  "geometry": {"alpha":0.00015,"bbox":[-86.852584838867,33.268383026123,-86.845314025879,33.274070739746],"coordinates":[[[[-86.852585,33.274071],[-86.85025,33.272125],[-86.845314,33.268383],[-86.851387,33.268833],[-86.852051,33.272106],[-86.852585,33.274071]]]],"created":1234773846,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3286/shapefiles/2406580_20090216_a0fc27d6d3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 664613,
+  "type": "Feature",
+  "properties": {
+    "name":"Kaltenberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":664613,
+    "woe:name":"Kaltenberg, Bavaria, Germany",
+    "woe:place_id":"NG_8H36fB5gy8SA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.992851,48.127487,10.997314,48.13142],
+  "geometry": {"alpha":0.00015,"bbox":[10.992851257324,48.127487182617,10.997314453125,48.131420135498],"coordinates":[[[[10.994889,48.127571],[10.992872,48.128254],[10.992851,48.130581],[10.993736,48.13142],[10.997142,48.128975],[10.997314,48.127487],[10.994889,48.127571]]]],"created":1292452685,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/664613_20101215_e240d6ea05.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678589,
+  "type": "Feature",
+  "properties": {
+    "name":"Chiampo, Italy",
+    "placetype":"locality",
+    "woe:id":12678589,
+    "woe:name":"Chiampo, Italy",
+    "woe:place_id":"h35HNa6YA5rJxEzEog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.275845,45.543789,11.279504,45.548199],
+  "geometry": {"alpha":1e-05,"bbox":[11.275844573975,45.543788909912,11.279503822327,45.548198699951],"coordinates":[[[[11.279182,45.547234],[11.279504,45.546703],[11.279354,45.543789],[11.276264,45.544891],[11.275845,45.545471],[11.276714,45.548199],[11.279182,45.547234]]]],"created":1239489488,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3606/shapefiles/12678589_20090411_45ece5660d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20075092,
+  "type": "Feature",
+  "properties": {
+    "name":"Mauriac, France",
+    "placetype":"locality",
+    "woe:id":20075092,
+    "woe:name":"Mauriac, France",
+    "woe:place_id":"h02V9ASbAZwgImAbYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.331268,45.217422,2.334938,45.219776],
+  "geometry": {"alpha":1e-05,"bbox":[2.3312680721283,45.217422485352,2.3349380493164,45.219776153564],"coordinates":[[[[2.331268,45.217422],[2.331569,45.219109],[2.334938,45.219776],[2.331676,45.217941],[2.331268,45.217422]]]],"created":1292461984,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/20075092_20101216_3cc1c8cd94.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

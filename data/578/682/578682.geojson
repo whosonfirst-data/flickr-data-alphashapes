@@ -1,0 +1,15 @@
+{
+  "id": 578682,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaulieu, Centre, France",
+    "placetype":"locality",
+    "woe:id":578682,
+    "woe:name":"Beaulieu, Centre, France",
+    "woe:place_id":"otP31u6cBpSE9Z0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.011428,47.128723,1.012673,47.129635],
+  "geometry": {"alpha":0.00015,"bbox":[1.0114279985428,47.128723144531,1.0126730203629,47.129634857178],"coordinates":[[[[1.012501,47.128754],[1.011428,47.129635],[1.012089,47.129341],[1.012673,47.128723],[1.012501,47.128754]]]],"created":1292538422,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/578682_20101216_01ddc3296f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 756404,
+  "type": "Feature",
+  "properties": {
+    "name":"Casablanca, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":756404,
+    "woe:name":"Casablanca, Canary Islands, Spain",
+    "woe:place_id":"SqRrlNueBJqH2UE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-15.590372,28.144566,-15.57725,28.148746],
+  "geometry": {"alpha":0.00015,"bbox":[-15.590372085571,28.144565582275,-15.577249526978,28.148746490479],"coordinates":[[[[-15.588328,28.14682],[-15.588762,28.146826],[-15.590372,28.146931],[-15.588054,28.148746],[-15.57725,28.144566],[-15.588328,28.14682]]]],"created":1292533123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/756404_20101216_744bc22772.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

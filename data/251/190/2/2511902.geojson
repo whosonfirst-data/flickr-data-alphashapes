@@ -1,0 +1,15 @@
+{
+  "id": 2511902,
+  "type": "Feature",
+  "properties": {
+    "name":"Versailles, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2511902,
+    "woe:name":"Versailles, Pennsylvania, United States",
+    "woe:place_id":"5.gLER6bBJ20oDhu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.840561,40.311131,-79.826485,40.315662],
+  "geometry": {"alpha":0.00015,"bbox":[-79.840560913086,40.311130523682,-79.826484680176,40.315662384033],"coordinates":[[[[-79.829575,40.314026],[-79.826485,40.315662],[-79.827621,40.311131],[-79.830353,40.311241],[-79.840561,40.312256],[-79.829575,40.314026]]]],"created":1292542742,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2511902_20101216_649a4802b5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

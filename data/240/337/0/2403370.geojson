@@ -1,0 +1,15 @@
+{
+  "id": 2403370,
+  "type": "Feature",
+  "properties": {
+    "name":"Fillmore, New York, United States",
+    "placetype":"locality",
+    "woe:id":2403370,
+    "woe:name":"Fillmore, New York, United States",
+    "woe:place_id":"hZiuJjybBZz.7glb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.118912,42.461651,-78.10675,42.470387],
+  "geometry": {"alpha":0.00015,"bbox":[-78.118911743164,42.461650848389,-78.106750488281,42.470386505127],"coordinates":[[[[-78.112663,42.461651],[-78.118912,42.465351],[-78.111504,42.470387],[-78.10675,42.463848],[-78.112335,42.461834],[-78.112663,42.461651]]]],"created":1292545029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2403370_20101217_20aabd2c58.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

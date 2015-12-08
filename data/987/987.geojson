@@ -1,0 +1,15 @@
+{
+  "id": 987,
+  "type": "Feature",
+  "properties": {
+    "name":"Millbrook, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":987,
+    "woe:name":"Millbrook, Ontario, Canada",
+    "woe:place_id":"l.gmdjCQCZs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.466393,44.132202,-78.43792,44.164719],
+  "geometry": {"alpha":0.00015,"bbox":[-78.46639251709,44.132202148438,-78.437919616699,44.16471862793],"coordinates":[[[[-78.438141,44.139908],[-78.43792,44.139229],[-78.456116,44.132202],[-78.464523,44.149448],[-78.466393,44.14991],[-78.453186,44.164719],[-78.451225,44.161518],[-78.447701,44.157276],[-78.44294,44.153713],[-78.440323,44.143307],[-78.438866,44.141243],[-78.438141,44.139908]]]],"created":1292533371,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/987_20101216_b2706fd757.tar.gz"},"points":52,"type":"MultiPolygon"}
+}

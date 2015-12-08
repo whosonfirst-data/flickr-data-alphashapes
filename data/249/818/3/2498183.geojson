@@ -1,0 +1,15 @@
+{
+  "id": 2498183,
+  "type": "Feature",
+  "properties": {
+    "name":"Springdale, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2498183,
+    "woe:name":"Springdale, Kentucky, United States",
+    "woe:place_id":"L7Xo4lGbBZUWdnhY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.461342,38.987137,-84.444176,39.00491],
+  "geometry": {"alpha":0.00015,"bbox":[-84.46134185791,38.98713684082,-84.444175720215,39.004909515381],"coordinates":[[[[-84.459961,38.987137],[-84.460533,38.99427],[-84.461342,39.00491],[-84.449257,38.996628],[-84.444176,38.993137],[-84.459961,38.987137]]]],"created":1292529989,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2498183_20101216_6c89033aee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2396560,
+  "type": "Feature",
+  "properties": {
+    "name":"Eastport, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2396560,
+    "woe:name":"Eastport, Idaho, United States",
+    "woe:place_id":"lv8_hsabApWqORIo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.181793,48.992012,-116.179649,49.001369],
+  "geometry": {"alpha":0.00015,"bbox":[-116.18179321289,48.992012023926,-116.17964935303,49.001369476318],"coordinates":[[[[-116.181206,49.00034],[-116.179649,49.001369],[-116.180992,48.992012],[-116.181793,48.998802],[-116.181404,48.99976],[-116.181206,49.00034]]]],"created":1292468826,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2396560_20101216_7cefa6038a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

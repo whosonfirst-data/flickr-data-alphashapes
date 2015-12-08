@@ -1,0 +1,15 @@
+{
+  "id": 20161515,
+  "type": "Feature",
+  "properties": {
+    "name":"Karlstein, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":20161515,
+    "woe:name":"Karlstein, Brandenburg, Germany",
+    "woe:place_id":"uvX2.PKbAZ1bdxcafw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.814449,53.418411,13.835906,53.43132],
+  "geometry": {"alpha":0.00015,"bbox":[13.814449310303,53.418411254883,13.835906028748,53.43132019043],"coordinates":[[[[13.835906,53.43132],[13.834748,53.42025],[13.814449,53.418411],[13.820178,53.425556],[13.820929,53.425697],[13.835906,53.43132]]]],"created":1292531792,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/20161515_20101216_aa86df2647.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

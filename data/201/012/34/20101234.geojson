@@ -1,0 +1,15 @@
+{
+  "id": 20101234,
+  "type": "Feature",
+  "properties": {
+    "name":"Chamblioux, Canton of Fribourg, Switzerland",
+    "placetype":"locality",
+    "woe:id":20101234,
+    "woe:name":"Chamblioux, Canton of Fribourg, Switzerland",
+    "woe:place_id":"EgB8himbAZ3eQ8SH2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.128163,46.806641,7.151241,46.81567],
+  "geometry": {"alpha":0.00015,"bbox":[7.1281628608704,46.806640625,7.1512408256531,46.815670013428],"coordinates":[[[[7.139739,46.814159],[7.14961,46.810661],[7.151241,46.806641],[7.139739,46.810867],[7.128163,46.807373],[7.133785,46.81567],[7.139739,46.814159]]]],"created":1292533484,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20101234_20101216_819bac68f6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

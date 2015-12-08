@@ -1,0 +1,15 @@
+{
+  "id": 20070447,
+  "type": "Feature",
+  "properties": {
+    "name":"Soroti, UG, Uganda",
+    "placetype":"region",
+    "woe:id":20070447,
+    "woe:name":"Soroti, UG, Uganda",
+    "woe:place_id":"8cEmaMGbAZzjkrdlew",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [33.485104,1.515936,33.681335,1.977146],
+  "geometry": {"alpha":0.03,"bbox":[33.485103607178,1.5159360170364,33.681335449219,1.9771460294724],"coordinates":[[[[33.681335,1.70263],[33.612671,1.515936],[33.516541,1.642231],[33.485104,1.843722],[33.486328,1.977146],[33.598938,1.80146],[33.681335,1.70263]]]],"created":1292458756,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/20070447_20101216_693f0e5b51.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

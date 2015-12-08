@@ -1,0 +1,15 @@
+{
+  "id": 22755824,
+  "type": "Feature",
+  "properties": {
+    "name":"Charly, France",
+    "placetype":"locality",
+    "woe:id":22755824,
+    "woe:name":"Charly, France",
+    "woe:place_id":"4G.KQlSbA5sF.pyMpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.791584,45.646278,4.795648,45.652328],
+  "geometry": {"alpha":1e-05,"bbox":[4.7915840148926,45.646278381348,4.7956480979919,45.652328491211],"coordinates":[[[[4.794866,45.649563],[4.795648,45.646278],[4.794958,45.647247],[4.794534,45.649323],[4.791584,45.652328],[4.795596,45.651745],[4.794866,45.649563]]]],"created":1292521426,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/22755824_20101216_934da33b24.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

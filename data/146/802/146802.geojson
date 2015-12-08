@@ -1,0 +1,15 @@
+{
+  "id": 146802,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Rosa, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":146802,
+    "woe:name":"Santa Rosa, San Luis Potosi, Mexico",
+    "woe:place_id":"l8ExvGuYBZp_OJs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.06707,21.997051,-99.051704,22.02566],
+  "geometry": {"alpha":0.00015,"bbox":[-99.067070007324,21.997051239014,-99.051704406738,22.025659561157],"coordinates":[[[[-99.06707,21.997051],[-99.05471,22.004253],[-99.051704,22.02566],[-99.053078,22.003538],[-99.06707,21.997051]]]],"created":1292491083,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/146802_20101216_28cf4539d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

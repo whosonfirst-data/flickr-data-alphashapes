@@ -1,0 +1,15 @@
+{
+  "id": 2449077,
+  "type": "Feature",
+  "properties": {
+    "name":"Melanchton, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2449077,
+    "woe:name":"Melanchton, North Carolina, United States",
+    "woe:place_id":"2E.JGmubBZjUynfF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.707527,35.820599,-79.683838,35.829617],
+  "geometry": {"alpha":0.00015,"bbox":[-79.707527160645,35.820598602295,-79.683837890625,35.829616546631],"coordinates":[[[[-79.685921,35.829079],[-79.683838,35.820599],[-79.707527,35.82143],[-79.688431,35.829617],[-79.686089,35.829357],[-79.685921,35.829079]]]],"created":1292532667,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2449077_20101216_c26307fb3d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

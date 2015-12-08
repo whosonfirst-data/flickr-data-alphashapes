@@ -1,0 +1,15 @@
+{
+  "id": 9637,
+  "type": "Feature",
+  "properties": {
+    "name":"D'arcy, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9637,
+    "woe:name":"D'arcy, British Columbia, Canada",
+    "woe:place_id":"EywfO22QB5.3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.488205,50.548561,-122.470779,50.560287],
+  "geometry": {"alpha":0.00015,"bbox":[-122.48820495605,50.548561096191,-122.47077941895,50.560287475586],"coordinates":[[[[-122.475456,50.55257],[-122.488205,50.548561],[-122.485458,50.560287],[-122.476189,50.559143],[-122.470779,50.555107],[-122.475067,50.552681],[-122.475456,50.55257]]]],"created":1292535030,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/9637_20101216_c92156dff6.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

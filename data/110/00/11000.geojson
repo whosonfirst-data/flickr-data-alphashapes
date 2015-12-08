@@ -1,0 +1,15 @@
+{
+  "id": 11000,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardwell, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11000,
+    "woe:name":"Ardwell, Scotland, United Kingdom",
+    "woe:place_id":"e1NRwMqYAJxILw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.03596,57.339863,-3.030928,57.354588],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0359599590302,57.339862823486,-3.0309278964996,57.354587554932],"coordinates":[[[[-3.030928,57.345127],[-3.035316,57.339863],[-3.03596,57.348152],[-3.034629,57.354588],[-3.030928,57.345127]]]],"created":1292401922,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/11000_20101215_0b75324933.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

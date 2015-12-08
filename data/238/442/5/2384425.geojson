@@ -1,0 +1,15 @@
+{
+  "id": 2384425,
+  "type": "Feature",
+  "properties": {
+    "name":"Cook, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2384425,
+    "woe:name":"Cook, Minnesota, United States",
+    "woe:place_id":"Gy.jHXybApTOf6zU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.688828,47.848118,-92.67749,47.854362],
+  "geometry": {"alpha":0.00015,"bbox":[-92.688827514648,47.848117828369,-92.677490234375,47.854362487793],"coordinates":[[[[-92.688828,47.852112],[-92.683632,47.854362],[-92.67749,47.852448],[-92.67865,47.848991],[-92.683846,47.848118],[-92.68882,47.849052],[-92.688828,47.852112]]]],"created":1292532539,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2384425_20101216_b2644dd677.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

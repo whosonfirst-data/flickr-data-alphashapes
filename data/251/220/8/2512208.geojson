@@ -1,0 +1,15 @@
+{
+  "id": 2512208,
+  "type": "Feature",
+  "properties": {
+    "name":"Viewmont, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2512208,
+    "woe:name":"Viewmont, North Carolina, United States",
+    "woe:place_id":"yEzuPFSbBJ04TMxX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.346992,35.739544,-81.33313,35.758438],
+  "geometry": {"alpha":0.00015,"bbox":[-81.346992492676,35.739543914795,-81.333129882812,35.758438110352],"coordinates":[[[[-81.33831,35.739544],[-81.346992,35.739868],[-81.3433,35.758438],[-81.335564,35.752293],[-81.33313,35.749432],[-81.33831,35.739544]]]],"created":1292547121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2512208_20101217_ce864b60d1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

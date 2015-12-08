@@ -1,0 +1,15 @@
+{
+  "id": 12617031,
+  "type": "Feature",
+  "properties": {
+    "name":"Lesko, Poland",
+    "placetype":"locality",
+    "woe:id":12617031,
+    "woe:name":"Lesko, Poland",
+    "woe:place_id":"Kd_.A5mYA5rZkSvnXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.333832,49.465221,22.336922,49.466675],
+  "geometry": {"alpha":1e-05,"bbox":[22.333831787109,49.465221405029,22.336921691895,49.466674804688],"coordinates":[[[[22.336063,49.465221],[22.335205,49.466003],[22.333832,49.466675],[22.333832,49.46656],[22.335205,49.466003],[22.336922,49.465641],[22.336063,49.465221]]]],"created":1292546437,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12617031_20101217_057f5466c6.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

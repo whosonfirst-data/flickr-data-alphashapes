@@ -1,0 +1,15 @@
+{
+  "id": 30203,
+  "type": "Feature",
+  "properties": {
+    "name":"Newton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30203,
+    "woe:name":"Newton, England, United Kingdom",
+    "woe:place_id":"9273i6KaAZ6fOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.313995,50.919525,-2.309103,50.922379],
+  "geometry": {"alpha":0.00015,"bbox":[-2.313994884491,50.919525146484,-2.309103012085,50.922378540039],"coordinates":[[[[-2.311688,50.92025],[-2.313179,50.919525],[-2.313995,50.922379],[-2.309875,50.921703],[-2.309103,50.921486],[-2.311688,50.92025]]]],"created":1248128652,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2524/shapefiles/30203_20090720_545fde1864.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

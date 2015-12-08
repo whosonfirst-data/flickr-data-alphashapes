@@ -1,0 +1,15 @@
+{
+  "id": 20120420,
+  "type": "Feature",
+  "properties": {
+    "name":"Chiuduno, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20120420,
+    "woe:name":"Chiuduno, Lombardy, Italy",
+    "woe:place_id":"j7Go5d6bAZ1ab6Vy3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.848299,45.635677,9.849972,45.650948],
+  "geometry": {"alpha":0.00015,"bbox":[9.8482990264893,45.635677337646,9.8499717712402,45.650947570801],"coordinates":[[[[9.848642,45.635677],[9.848299,45.636127],[9.849972,45.650948],[9.849929,45.636578],[9.8495,45.635708],[9.848642,45.635677]]]],"created":1292544886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20120420_20101217_e1268a0f90.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

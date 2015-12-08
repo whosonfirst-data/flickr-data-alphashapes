@@ -1,0 +1,15 @@
+{
+  "id": 20901,
+  "type": "Feature",
+  "properties": {
+    "name":"Garvestone, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20901,
+    "woe:name":"Garvestone, England, United Kingdom",
+    "woe:place_id":"DjYQk8abAZULGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.975025,52.626999,0.991001,52.63187],
+  "geometry": {"alpha":0.00015,"bbox":[0.97502499818802,52.626998901367,0.9910010099411,52.631870269775],"coordinates":[[[[0.991001,52.627541],[0.986666,52.626999],[0.979242,52.629833],[0.975025,52.63187],[0.988168,52.63184],[0.990571,52.630459],[0.991001,52.627541]]]],"created":1292523858,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20901_20101216_10e6bdbdfa.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

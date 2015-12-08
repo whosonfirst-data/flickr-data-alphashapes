@@ -1,0 +1,15 @@
+{
+  "id": 718850,
+  "type": "Feature",
+  "properties": {
+    "name":"Montegabbione, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":718850,
+    "woe:name":"Montegabbione, Umbria, Italy",
+    "woe:place_id":"CqsreaGeAJSIbNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.090729,42.905895,12.111053,42.932549],
+  "geometry": {"alpha":0.00015,"bbox":[12.090728759766,42.905895233154,12.111053466797,42.932548522949],"coordinates":[[[[12.090729,42.92149],[12.092567,42.921322],[12.111053,42.932549],[12.093544,42.917839],[12.092514,42.905895],[12.090729,42.92149]]]],"created":1292536565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/718850_20101216_049cd455f7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

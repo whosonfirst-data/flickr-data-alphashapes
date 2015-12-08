@@ -1,0 +1,15 @@
+{
+  "id": 2403577,
+  "type": "Feature",
+  "properties": {
+    "name":"Fish House, New York, United States",
+    "placetype":"locality",
+    "woe:id":2403577,
+    "woe:name":"Fish House, New York, United States",
+    "woe:place_id":"U0oFTB2bBZx9H3SZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.13044,43.142712,-74.128014,43.148342],
+  "geometry": {"alpha":0.00015,"bbox":[-74.130439758301,43.142711639404,-74.12801361084,43.148342132568],"coordinates":[[[[-74.129242,43.142712],[-74.13044,43.145687],[-74.128105,43.148342],[-74.128014,43.147842],[-74.128311,43.146809],[-74.129242,43.142712]]]],"created":1292533922,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2403577_20101216_05d0e5a737.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20121978,
+  "type": "Feature",
+  "properties": {
+    "name":"Convento, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20121978,
+    "woe:name":"Convento, Marche, Italy",
+    "woe:place_id":"o0FxivybAZ2AWVffLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.377099,43.191784,13.385682,43.199661],
+  "geometry": {"alpha":0.00015,"bbox":[13.37709903717,43.191783905029,13.385682106018,43.199661254883],"coordinates":[[[[13.385682,43.199661],[13.384609,43.191784],[13.377099,43.196812],[13.380779,43.19759],[13.385682,43.199661]]]],"created":1234529763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3391/shapefiles/20121978_20090213_36f2989aea.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

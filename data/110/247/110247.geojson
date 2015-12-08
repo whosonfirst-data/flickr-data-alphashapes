@@ -1,0 +1,15 @@
+{
+  "id": 110247,
+  "type": "Feature",
+  "properties": {
+    "name":"White Hill, Saint Elizabeth, Jamaica",
+    "placetype":"locality",
+    "woe:id":110247,
+    "woe:name":"White Hill, Saint Elizabeth, Jamaica",
+    "woe:place_id":"s619vQaYAJxhanY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.825645,18.142834,-77.807922,18.155865],
+  "geometry": {"alpha":0.00015,"bbox":[-77.825645446777,18.142833709717,-77.807922363281,18.155864715576],"coordinates":[[[[-77.82457,18.155231],[-77.807922,18.150419],[-77.819252,18.142834],[-77.824608,18.154737],[-77.825645,18.155865],[-77.82457,18.155231]]]],"created":1292535396,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/110247_20101216_33efb38235.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

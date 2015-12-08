@@ -1,0 +1,15 @@
+{
+  "id": 12658167,
+  "type": "Feature",
+  "properties": {
+    "name":"Caignac, France",
+    "placetype":"locality",
+    "woe:id":12658167,
+    "woe:name":"Caignac, France",
+    "woe:place_id":"Knszz12YA5qt48grnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.7045,43.318832,1.704999,43.3195],
+  "geometry": {"alpha":1e-05,"bbox":[1.7044999599457,43.318832397461,1.7049989700317,43.319499969482],"coordinates":[[[[1.704999,43.319],[1.704999,43.318832],[1.704833,43.319],[1.7045,43.319332],[1.7045,43.3195],[1.704833,43.319332],[1.704999,43.319]]]],"created":1292526637,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12658167_20101216_ec1a1ab208.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

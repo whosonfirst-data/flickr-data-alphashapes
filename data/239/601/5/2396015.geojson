@@ -1,0 +1,15 @@
+{
+  "id": 2396015,
+  "type": "Feature",
+  "properties": {
+    "name":"East Pembroke, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2396015,
+    "woe:name":"East Pembroke, Massachusetts, United States",
+    "woe:place_id":"xgW0JI.bApVYCqyq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.771568,42.072426,-70.758133,42.088684],
+  "geometry": {"alpha":0.00015,"bbox":[-70.77156829834,42.072425842285,-70.75813293457,42.088684082031],"coordinates":[[[[-70.771049,42.072426],[-70.771568,42.072933],[-70.769722,42.075386],[-70.770103,42.088684],[-70.758133,42.080357],[-70.771049,42.072426]]]],"created":1292530841,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2396015_20101216_1f2a119dea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

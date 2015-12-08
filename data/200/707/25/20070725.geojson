@@ -1,0 +1,15 @@
+{
+  "id": 20070725,
+  "type": "Feature",
+  "properties": {
+    "name":"San Javier, Misiones, Argentina",
+    "placetype":"county",
+    "woe:id":20070725,
+    "woe:name":"San Javier, Misiones, Argentina",
+    "woe:place_id":"JcgXO3CbAZwu6KnvKg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-55.36517,-27.900383,-55.347919,-27.891661],
+  "geometry": {"alpha":0.0015,"bbox":[-55.365169525146,-27.900382995605,-55.347919464111,-27.891660690308],"coordinates":[[[[-55.348518,-27.892344],[-55.36517,-27.900383],[-55.349548,-27.891661],[-55.347919,-27.892115],[-55.348518,-27.892344]]]],"created":1292513645,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20070725_20101216_b4ce5cca08.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

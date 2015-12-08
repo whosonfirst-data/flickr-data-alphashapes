@@ -1,0 +1,15 @@
+{
+  "id": 55863576,
+  "type": "Feature",
+  "properties": {
+    "name":"Rouen, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":55863576,
+    "woe:name":"Rouen, Haute-Normandie, France",
+    "woe:place_id":"atWFOICcBJTZT.Jbgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.087775,49.413807,1.092903,49.415474],
+  "geometry": {"alpha":0.00015,"bbox":[1.0877749919891,49.413806915283,1.0929030179977,49.415473937988],"coordinates":[[[[1.08784,49.413807],[1.087775,49.413857],[1.088032,49.415382],[1.092903,49.415474],[1.089191,49.41431],[1.08784,49.413807]]]],"created":1292535631,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/55863576_20101216_c40b315600.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

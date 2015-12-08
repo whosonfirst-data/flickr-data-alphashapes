@@ -1,0 +1,15 @@
+{
+  "id": 2439703,
+  "type": "Feature",
+  "properties": {
+    "name":"Linden Green Apartment, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2439703,
+    "woe:name":"Linden Green Apartment, Delaware, United States",
+    "woe:place_id":"hmKf25ibBZ.PrhIG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.690224,39.729336,-75.685287,39.734856],
+  "geometry": {"alpha":0.00015,"bbox":[-75.690223693848,39.729335784912,-75.685287475586,39.734855651855],"coordinates":[[[[-75.685287,39.730762],[-75.686615,39.729725],[-75.689278,39.729336],[-75.690224,39.733101],[-75.689995,39.734856],[-75.685287,39.730762]]]],"created":1292550898,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2439703_20101217_44a8021fb8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12676261,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca Susella, Italy",
+    "placetype":"locality",
+    "woe:id":12676261,
+    "woe:name":"Rocca Susella, Italy",
+    "woe:place_id":"qtF2TbyYA5qMNqqorg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.096121,44.911453,9.09993,44.915039],
+  "geometry": {"alpha":1e-05,"bbox":[9.0961208343506,44.91145324707,9.0999298095703,44.9150390625],"coordinates":[[[[9.09993,44.912342],[9.099758,44.911453],[9.096121,44.913246],[9.097194,44.915039],[9.099673,44.91288],[9.09993,44.912342]]]],"created":1292513643,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12676261_20101216_e4c3df8bb1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2358200,
+  "type": "Feature",
+  "properties": {
+    "name":"Badger Basin, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2358200,
+    "woe:name":"Badger Basin, Wyoming, United States",
+    "woe:place_id":"q8d9BPObAplpDPEO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.079002,44.936501,-109.075783,44.942596],
+  "geometry": {"alpha":0.00015,"bbox":[-109.07900238037,44.936500549316,-109.07578277588,44.942596435547],"coordinates":[[[[-109.076836,44.939499],[-109.079002,44.936501],[-109.078163,44.938],[-109.075783,44.942596],[-109.076836,44.939499]]]],"created":1292544963,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2358200_20101217_e64e0bdc3a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

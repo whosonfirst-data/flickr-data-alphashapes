@@ -1,0 +1,15 @@
+{
+  "id": 12682668,
+  "type": "Feature",
+  "properties": {
+    "name":"Vendrogno, Italy",
+    "placetype":"locality",
+    "woe:id":12682668,
+    "woe:name":"Vendrogno, Italy",
+    "woe:place_id":"7JMvN4KYA5oqN9ym_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.33295,46.058186,9.333361,46.060818],
+  "geometry": {"alpha":1e-05,"bbox":[9.3329496383667,46.058185577393,9.3333606719971,46.060817718506],"coordinates":[[[[9.333105,46.058979],[9.333361,46.058311],[9.333244,46.058247],[9.333119,46.058186],[9.33295,46.059528],[9.332986,46.060818],[9.333105,46.058979]]]],"created":1292530084,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12682668_20101216_25ab832f38.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

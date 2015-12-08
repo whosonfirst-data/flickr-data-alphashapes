@@ -1,0 +1,15 @@
+{
+  "id": 715343,
+  "type": "Feature",
+  "properties": {
+    "name":"Fauglia, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":715343,
+    "woe:name":"Fauglia, Tuscany, Italy",
+    "woe:place_id":"wSF1g9WeAJmpl04",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.499968,43.546867,10.527648,43.585178],
+  "geometry": {"alpha":0.0001875,"bbox":[10.499967575073,43.546867370605,10.527647972107,43.585178375244],"coordinates":[[[[10.516319,43.568825],[10.515289,43.571934],[10.508852,43.585178],[10.526232,43.576847],[10.527648,43.570442],[10.518379,43.553028],[10.519065,43.546867],[10.499968,43.550568],[10.516319,43.568825]]]],"created":1292527327,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/715343_20101216_76775b280a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

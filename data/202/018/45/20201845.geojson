@@ -1,0 +1,15 @@
+{
+  "id": 20201845,
+  "type": "Feature",
+  "properties": {
+    "name":"Calvese, Corsica, France",
+    "placetype":"locality",
+    "woe:id":20201845,
+    "woe:name":"Calvese, Corsica, France",
+    "woe:place_id":"2dFPcMabAZ5aCcjvBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.912143,41.746342,8.914933,41.749161],
+  "geometry": {"alpha":0.00015,"bbox":[8.9121427536011,41.746341705322,8.9149332046509,41.749160766602],"coordinates":[[[[8.912229,41.746407],[8.912143,41.747368],[8.912959,41.749161],[8.914933,41.74818],[8.912658,41.746342],[8.912229,41.746407]]]],"created":1292543415,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20201845_20101216_d992bb9fbb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

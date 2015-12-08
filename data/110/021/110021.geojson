@@ -1,0 +1,15 @@
+{
+  "id": 110021,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Valley, Hanover, Jamaica",
+    "placetype":"locality",
+    "woe:id":110021,
+    "woe:name":"Spring Valley, Hanover, Jamaica",
+    "woe:place_id":"DKv6LB6YAJygyXU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.265228,18.395496,-78.24823,18.414064],
+  "geometry": {"alpha":0.00015,"bbox":[-78.265228271484,18.395496368408,-78.248229980469,18.414064407349],"coordinates":[[[[-78.24823,18.411379],[-78.251411,18.408689],[-78.260422,18.395496],[-78.262482,18.397919],[-78.265228,18.410074],[-78.255119,18.41361],[-78.25132,18.414064],[-78.24823,18.411379]]]],"created":1292540859,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/110021_20101216_5b4e05d732.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

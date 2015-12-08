@@ -1,0 +1,15 @@
+{
+  "id": 2475659,
+  "type": "Feature",
+  "properties": {
+    "name":"Porthill, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2475659,
+    "woe:name":"Porthill, Idaho, United States",
+    "woe:place_id":"mI3qkSWbBZvPwBvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.517136,48.992233,-116.498055,49.002499],
+  "geometry": {"alpha":0.00015,"bbox":[-116.51713562012,48.992233276367,-116.49805450439,49.002498626709],"coordinates":[[[[-116.510056,48.995464],[-116.517136,48.992233],[-116.510178,49.000942],[-116.5,49.002499],[-116.498055,48.995712],[-116.510056,48.995464]]]],"created":1248132613,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3471/shapefiles/2475659_20090720_edae08ff23.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

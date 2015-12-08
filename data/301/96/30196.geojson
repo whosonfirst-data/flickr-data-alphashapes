@@ -1,0 +1,15 @@
+{
+  "id": 30196,
+  "type": "Feature",
+  "properties": {
+    "name":"Newton, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30196,
+    "woe:name":"Newton, Scotland, United Kingdom",
+    "woe:place_id":"GfU0.H.aAZ2PnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.142961,55.8018,-4.13412,55.819103],
+  "geometry": {"alpha":0.00015,"bbox":[-4.142961025238,55.80179977417,-4.1341199874878,55.819103240967],"coordinates":[[[[-4.142961,55.808273],[-4.13412,55.819103],[-4.137511,55.8018],[-4.142682,55.807987],[-4.142961,55.808273]]]],"created":1292536464,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/30196_20101216_55361e49f5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

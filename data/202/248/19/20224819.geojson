@@ -1,0 +1,15 @@
+{
+  "id": 20224819,
+  "type": "Feature",
+  "properties": {
+    "name":"Monteclaro, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":20224819,
+    "woe:name":"Monteclaro, Madrid, Spain",
+    "woe:place_id":"reuVtEGbAZ5iRObv9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.845365,40.431164,-3.834807,40.44574],
+  "geometry": {"alpha":0.00015,"bbox":[-3.8453650474548,40.431163787842,-3.8348069190979,40.445739746094],"coordinates":[[[[-3.843283,40.433491],[-3.845365,40.442215],[-3.841373,40.44574],[-3.834807,40.440853],[-3.837672,40.431164],[-3.843283,40.433491]]]],"created":1292523226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20224819_20101216_af6765a191.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 715099,
+  "type": "Feature",
+  "properties": {
+    "name":"Dosson, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":715099,
+    "woe:name":"Dosson, Veneto, Italy",
+    "woe:place_id":"xGPB.8aeAJkUp4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.249938,45.639656,12.2538,45.653999],
+  "geometry": {"alpha":0.00015,"bbox":[12.249938011169,45.639656066895,12.253800392151,45.653999328613],"coordinates":[[[[12.25336,45.63987],[12.25203,45.640755],[12.249938,45.653236],[12.2521,45.653999],[12.253779,45.639725],[12.2538,45.639656],[12.25336,45.63987]]]],"created":1292451001,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/715099_20101215_4e5359412b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

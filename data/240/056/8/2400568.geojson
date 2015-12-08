@@ -1,0 +1,15 @@
+{
+  "id": 2400568,
+  "type": "Feature",
+  "properties": {
+    "name":"Eureka, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2400568,
+    "woe:name":"Eureka, Alabama, United States",
+    "woe:place_id":"5orcLLubBZzfMiVq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.148651,33.568001,-86.143799,33.571095],
+  "geometry": {"alpha":0.00015,"bbox":[-86.148651123047,33.568000793457,-86.143798828125,33.571094512939],"coordinates":[[[[-86.148651,33.571007],[-86.148521,33.571095],[-86.143799,33.569717],[-86.147232,33.568001],[-86.148651,33.571007]]]],"created":1292419322,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2400568_20101215_df85d512fc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

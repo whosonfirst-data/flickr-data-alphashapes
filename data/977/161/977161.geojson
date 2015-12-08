@@ -1,0 +1,15 @@
+{
+  "id": 977161,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Denis, Hainault, Belgium",
+    "placetype":"locality",
+    "woe:id":977161,
+    "woe:name":"St.-Denis, Hainault, Belgium",
+    "woe:place_id":"u2npW1CQBpts9eM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.014816,50.49118,4.022583,50.499069],
+  "geometry": {"alpha":0.00015,"bbox":[4.0148158073425,50.491180419922,4.0225830078125,50.499069213867],"coordinates":[[[[4.022562,50.496441],[4.022583,50.496197],[4.022326,50.495876],[4.019901,50.494282],[4.014816,50.49118],[4.022111,50.499069],[4.022562,50.496441]]]],"created":1292458947,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/977161_20101216_8e83bab18a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

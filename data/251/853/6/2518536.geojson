@@ -1,0 +1,15 @@
+{
+  "id": 2518536,
+  "type": "Feature",
+  "properties": {
+    "name":"Westside, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2518536,
+    "woe:name":"Westside, Georgia, United States",
+    "woe:place_id":"JPF1rrubBJ0NTbOO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.844696,34.273548,-83.818298,34.288609],
+  "geometry": {"alpha":0.00015,"bbox":[-83.844696044922,34.273548126221,-83.818298339844,34.288608551025],"coordinates":[[[[-83.83152,34.279327],[-83.819557,34.288609],[-83.818298,34.288235],[-83.829803,34.273548],[-83.844696,34.276909],[-83.83152,34.279327]]]],"created":1292527581,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2518536_20101216_8ee3bf4c03.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

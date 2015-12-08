@@ -1,0 +1,15 @@
+{
+  "id": 2503695,
+  "type": "Feature",
+  "properties": {
+    "name":"Tall Pines, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2503695,
+    "woe:name":"Tall Pines, South Carolina, United States",
+    "woe:place_id":"N2V_fVqbBJwWhhTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.107498,32.99646,-80.101418,33.010464],
+  "geometry": {"alpha":0.00015,"bbox":[-80.107498168945,32.996459960938,-80.101417541504,33.0104637146],"coordinates":[[[[-80.101418,32.99646],[-80.107498,32.997868],[-80.103783,33.010464],[-80.102501,32.999722],[-80.101418,32.99646]]]],"created":1234678331,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3204/shapefiles/2503695_20090215_bb1ac17c77.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

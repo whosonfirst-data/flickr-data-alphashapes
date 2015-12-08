@@ -1,0 +1,15 @@
+{
+  "id": 2445420,
+  "type": "Feature",
+  "properties": {
+    "name":"Mappsburg, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445420,
+    "woe:name":"Mappsburg, Virginia, United States",
+    "woe:place_id":"XImWxPebBZhBfnwS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.77047,37.565441,-75.751045,37.577457],
+  "geometry": {"alpha":0.00015,"bbox":[-75.770469665527,37.565441131592,-75.751045227051,37.577457427979],"coordinates":[[[[-75.763824,37.577457],[-75.763565,37.577026],[-75.751045,37.569916],[-75.77047,37.565441],[-75.768555,37.576538],[-75.763824,37.577457]]]],"created":1292454424,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2445420_20101215_9ed08ee64c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

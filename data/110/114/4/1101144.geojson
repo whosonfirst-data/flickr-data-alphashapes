@@ -1,0 +1,15 @@
+{
+  "id": 1101144,
+  "type": "Feature",
+  "properties": {
+    "name":"Chittering, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1101144,
+    "woe:name":"Chittering, Western Australia, Australia",
+    "woe:place_id":"qYarE8uYAJz0Aa1e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.077934,-31.439281,116.092445,-31.425806],
+  "geometry": {"alpha":0.00015,"bbox":[116.07793426514,-31.439281463623,116.09244537354,-31.425806045532],"coordinates":[[[[116.080376,-31.428179],[116.080513,-31.425806],[116.084976,-31.432617],[116.092445,-31.439281],[116.078964,-31.438038],[116.077934,-31.434668],[116.080376,-31.428179]]]],"created":1292522003,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/1101144_20101216_b9fd35f722.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

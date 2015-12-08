@@ -1,0 +1,15 @@
+{
+  "id": 730921,
+  "type": "Feature",
+  "properties": {
+    "name":"Koudhoorn, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730921,
+    "woe:name":"Koudhoorn, Gelderland, Netherlands",
+    "woe:place_id":"X.sfWhSeApytmhk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.643367,52.232166,5.664666,52.24102],
+  "geometry": {"alpha":0.00015,"bbox":[5.6433668136597,52.232166290283,5.6646661758423,52.241020202637],"coordinates":[[[[5.657958,52.24102],[5.664666,52.232334],[5.664166,52.232166],[5.656542,52.237785],[5.643367,52.238995],[5.657958,52.24102]]]],"created":1292545983,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/730921_20101217_76c2c91063.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

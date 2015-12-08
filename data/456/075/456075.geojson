@@ -1,0 +1,15 @@
+{
+  "id": 456075,
+  "type": "Feature",
+  "properties": {
+    "name":"Batalha, Piaui, Brazil",
+    "placetype":"locality",
+    "woe:id":456075,
+    "woe:name":"Batalha, Piaui, Brazil",
+    "woe:place_id":"AX6dWFudBJoUQ8U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-42.090683,-4.036878,-42.079697,-4.009479],
+  "geometry": {"alpha":0.00015,"bbox":[-42.090682983398,-4.0368781089783,-42.079696655273,-4.0094790458679],"coordinates":[[[[-42.090683,-4.021124],[-42.079697,-4.009479],[-42.083817,-4.022494],[-42.085876,-4.036878],[-42.08725,-4.025918],[-42.090683,-4.021124]]]],"created":1234538647,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3406/shapefiles/456075_20090213_47644efa7a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

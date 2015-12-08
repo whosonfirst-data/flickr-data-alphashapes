@@ -1,0 +1,15 @@
+{
+  "id": 2486870,
+  "type": "Feature",
+  "properties": {
+    "name":"St. John, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2486870,
+    "woe:name":"St. John, North Dakota, United States",
+    "woe:place_id":"1TmJA4ybBZTXgp_K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.712479,48.940746,-99.707802,48.946045],
+  "geometry": {"alpha":0.00015,"bbox":[-99.712478637695,48.940746307373,-99.707801818848,48.946044921875],"coordinates":[[[[-99.711334,48.945171],[-99.708359,48.946045],[-99.707802,48.945362],[-99.710243,48.940746],[-99.712479,48.94379],[-99.711334,48.945171]]]],"created":1292469721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2486870_20101216_fb7e93b7f7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

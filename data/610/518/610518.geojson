@@ -1,0 +1,15 @@
+{
+  "id": 610518,
+  "type": "Feature",
+  "properties": {
+    "name":"Maubec, Midi-Pyrenees, France",
+    "placetype":"locality",
+    "woe:id":610518,
+    "woe:name":"Maubec, Midi-Pyrenees, France",
+    "woe:place_id":"MMHT1mCfAJz04qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.912251,43.805016,0.917658,43.815052],
+  "geometry": {"alpha":0.00015,"bbox":[0.91225099563599,43.805015563965,0.91765797138214,43.815052032471],"coordinates":[[[[0.916049,43.808517],[0.912251,43.815052],[0.9165,43.809879],[0.916972,43.807076],[0.917658,43.805016],[0.916049,43.808517]]]],"created":1292527244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/610518_20101216_15e8f047ec.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

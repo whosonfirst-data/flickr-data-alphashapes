@@ -1,0 +1,15 @@
+{
+  "id": 150269,
+  "type": "Feature",
+  "properties": {
+    "name":"Tuxpan, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":150269,
+    "woe:name":"Tuxpan, Jalisco, Mexico",
+    "woe:place_id":"DilvGCaYBJz7whM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.377998,19.550732,-103.370964,19.560631],
+  "geometry": {"alpha":0.00015,"bbox":[-103.37799835205,19.550731658936,-103.37096405029,19.56063079834],"coordinates":[[[[-103.377739,19.555584],[-103.377998,19.556393],[-103.377922,19.55761],[-103.370964,19.560631],[-103.371048,19.550732],[-103.377739,19.555584]]]],"created":1292541446,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/150269_20101216_28ed37b5e2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

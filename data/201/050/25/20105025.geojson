@@ -1,0 +1,15 @@
+{
+  "id": 20105025,
+  "type": "Feature",
+  "properties": {
+    "name":"Bavigne, Diekirch, Luxembourg",
+    "placetype":"locality",
+    "woe:id":20105025,
+    "woe:name":"Bavigne, Diekirch, Luxembourg",
+    "woe:place_id":"vmbEzambAZ3BgfH0ug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.846099,49.919849,5.848492,49.920944],
+  "geometry": {"alpha":0.00015,"bbox":[5.8460988998413,49.919849395752,5.8484921455383,49.920944213867],"coordinates":[[[[5.847795,49.919849],[5.846099,49.920944],[5.848492,49.920162],[5.848181,49.919998],[5.847795,49.919849]]]],"created":1292532767,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20105025_20101216_6dbec37913.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

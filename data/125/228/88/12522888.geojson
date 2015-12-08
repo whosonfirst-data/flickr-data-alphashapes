@@ -1,0 +1,15 @@
+{
+  "id": 12522888,
+  "type": "Feature",
+  "properties": {
+    "name":"Chu Lai Airport, Vietnam",
+    "placetype":"locality",
+    "woe:id":12522888,
+    "woe:name":"Chu Lai Airport, Vietnam",
+    "woe:place_id":"A6olnN.YA5mizRS2OA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [108.684998,15.409995,108.686028,15.411567],
+  "geometry": {"alpha":1e-05,"bbox":[108.68499755859,15.409995079041,108.68602752686,15.411566734314],"coordinates":[[[[108.685509,15.409995],[108.684998,15.411567],[108.685509,15.411236],[108.686028,15.410491],[108.685509,15.409995]]]],"created":1292513284,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12522888_20101216_f4cefd63c6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

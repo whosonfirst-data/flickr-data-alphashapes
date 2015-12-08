@@ -1,0 +1,15 @@
+{
+  "id": 12655712,
+  "type": "Feature",
+  "properties": {
+    "name":"Mialet, France",
+    "placetype":"locality",
+    "woe:id":12655712,
+    "woe:name":"Mialet, France",
+    "woe:place_id":"RSGU1rKYA5q3aomlSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.902292,44.126015,3.908042,44.130939],
+  "geometry": {"alpha":1e-05,"bbox":[3.9022920131683,44.126014709473,3.9080419540405,44.130939483643],"coordinates":[[[[3.902721,44.126595],[3.902292,44.127213],[3.902657,44.128769],[3.902378,44.130325],[3.90448,44.130939],[3.908042,44.126015],[3.903268,44.126431],[3.902721,44.126595]]]],"created":1292548179,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12655712_20101217_372de3378c.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23394369,
+  "type": "Feature",
+  "properties": {
+    "name":"Franklin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394369,
+    "woe:name":"Franklin, Quebec, Canada",
+    "woe:place_id":"KL897wObAp9Qzu4tvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.938675,45.002438,-73.933784,45.00444],
+  "geometry": {"alpha":0.00015,"bbox":[-73.938674926758,45.002437591553,-73.933784484863,45.004440307617],"coordinates":[[[[-73.934456,45.00444],[-73.933784,45.003864],[-73.933899,45.003559],[-73.934181,45.00309],[-73.934845,45.002808],[-73.938675,45.002438],[-73.936256,45.003956],[-73.934456,45.00444]]]],"created":1292531028,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/23394369_20101216_1060eb0c11.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

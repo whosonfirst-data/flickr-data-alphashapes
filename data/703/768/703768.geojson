@@ -1,0 +1,15 @@
+{
+  "id": 703768,
+  "type": "Feature",
+  "properties": {
+    "name":"Walsdorf, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":703768,
+    "woe:name":"Walsdorf, Hesse, Germany",
+    "woe:place_id":"amZFq9ueAZ8KCHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.273262,50.263912,8.296051,50.284294],
+  "geometry": {"alpha":0.00015,"bbox":[8.2732620239258,50.263912200928,8.2960510253906,50.284294128418],"coordinates":[[[[8.279485,50.272739],[8.291244,50.284294],[8.296051,50.281441],[8.283991,50.269993],[8.273262,50.263912],[8.279485,50.272739]]]],"created":1292484128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/703768_20101216_2d27ea9372.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

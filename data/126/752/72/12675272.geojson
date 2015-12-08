@@ -1,0 +1,15 @@
+{
+  "id": 12675272,
+  "type": "Feature",
+  "properties": {
+    "name":"Krottendorf, Austria",
+    "placetype":"locality",
+    "woe:id":12675272,
+    "woe:name":"Krottendorf, Austria",
+    "woe:place_id":"h1k1iTCYA5rszQkY7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.645078,47.211929,15.648136,47.213184],
+  "geometry": {"alpha":1e-05,"bbox":[15.645077705383,47.211929321289,15.648136138916,47.213184356689],"coordinates":[[[[15.647621,47.211929],[15.645078,47.213116],[15.645625,47.213184],[15.648136,47.212074],[15.647621,47.211929]]]],"created":1292456380,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12675272_20101215_176ee7ac75.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

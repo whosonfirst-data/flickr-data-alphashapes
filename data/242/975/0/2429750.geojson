@@ -1,0 +1,15 @@
+{
+  "id": 2429750,
+  "type": "Feature",
+  "properties": {
+    "name":"Jones, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2429750,
+    "woe:name":"Jones, Michigan, United States",
+    "woe:place_id":"Sic6kcybBZ64EDYM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.809402,41.889202,-85.79747,41.904087],
+  "geometry": {"alpha":0.00015,"bbox":[-85.80940246582,41.88920211792,-85.797470092773,41.90408706665],"coordinates":[[[[-85.800209,41.904087],[-85.798843,41.902691],[-85.79747,41.894859],[-85.808449,41.889202],[-85.809402,41.891094],[-85.800209,41.904087]]]],"created":1292545645,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2429750_20101217_d6d144700e.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

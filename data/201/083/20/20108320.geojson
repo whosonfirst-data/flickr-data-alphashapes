@@ -1,0 +1,15 @@
+{
+  "id": 20108320,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marco, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":20108320,
+    "woe:name":"San Marco, Marche, Italy",
+    "woe:place_id":"Hh5vPj6bAZ1ot3THAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.740463,43.211369,13.766126,43.224815],
+  "geometry": {"alpha":0.00015,"bbox":[13.740463256836,43.211368560791,13.766125679016,43.224815368652],"coordinates":[[[[13.75794,43.217819],[13.766126,43.211369],[13.76132,43.212933],[13.751106,43.215935],[13.745162,43.22319],[13.743553,43.224815],[13.740463,43.224693],[13.745162,43.22319],[13.75794,43.217819]]]],"created":1292541722,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20108320_20101216_bdfc9671a0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

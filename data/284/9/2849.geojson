@@ -1,0 +1,15 @@
+{
+  "id": 2849,
+  "type": "Feature",
+  "properties": {
+    "name":"Consul, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2849,
+    "woe:name":"Consul, Saskatchewan, Canada",
+    "woe:place_id":"apKoU1ebCZij",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.523476,49.293167,-109.515663,49.297031],
+  "geometry": {"alpha":0.00015,"bbox":[-109.52347564697,49.293167114258,-109.51566314697,49.297031402588],"coordinates":[[[[-109.523476,49.293167],[-109.520645,49.296024],[-109.515663,49.297031],[-109.520576,49.294289],[-109.523476,49.293167]]]],"created":1292443150,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2849_20101215_84554d542f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

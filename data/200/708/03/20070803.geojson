@@ -1,0 +1,15 @@
+{
+  "id": 20070803,
+  "type": "Feature",
+  "properties": {
+    "name":"Libertad, Chaco, Argentina",
+    "placetype":"county",
+    "woe:id":20070803,
+    "woe:name":"Libertad, Chaco, Argentina",
+    "woe:place_id":"uDi3ft.bAZyWvKM_ZQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-59.103012,-27.376644,-59.051514,-27.332735],
+  "geometry": {"alpha":0.0015,"bbox":[-59.103012084961,-27.376644134521,-59.051513671875,-27.332735061646],"coordinates":[[[[-59.089279,-27.372225],[-59.103012,-27.332735],[-59.069023,-27.344934],[-59.051514,-27.376644],[-59.087906,-27.374512],[-59.089279,-27.372225]]]],"created":1292526663,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20070803_20101216_323bece195.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

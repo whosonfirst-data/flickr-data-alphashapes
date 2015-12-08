@@ -1,0 +1,15 @@
+{
+  "id": 2472131,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Grove, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2472131,
+    "woe:name":"Pine Grove, Pennsylvania, United States",
+    "woe:place_id":"eZRYHjWbBZsyBujo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.37352,40.56831,-76.346878,40.590298],
+  "geometry": {"alpha":0.00015,"bbox":[-76.373519897461,40.568309783936,-76.346878051758,40.590297698975],"coordinates":[[[[-76.37352,40.590298],[-76.361588,40.585377],[-76.346878,40.56831],[-76.366737,40.56937],[-76.365738,40.572193],[-76.37352,40.590298]]]],"created":1292530664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2472131_20101216_3fddcc1a7b.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

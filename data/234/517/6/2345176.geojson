@@ -1,0 +1,15 @@
+{
+  "id": 2345176,
+  "type": "Feature",
+  "properties": {
+    "name":"Distrito Nacional, DO, Dominican Republic",
+    "placetype":"region",
+    "woe:id":2345176,
+    "woe:name":"Distrito Nacional, DO, Dominican Republic",
+    "woe:place_id":"RrqYreqbApgTZhyL",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-70.036469,17.98657,-69.534187,18.69243],
+  "geometry": {"alpha":0.046875,"bbox":[-70.036468505859,17.986570358276,-69.534187316895,18.692430496216],"coordinates":[[[[-69.993233,18.42354],[-70.036469,18.509726],[-70.026855,18.604601],[-69.945145,18.69243],[-69.89502,18.687878],[-69.873047,18.687878],[-69.840088,18.664461],[-69.609375,18.646244],[-69.535217,18.445742],[-69.534187,18.40649],[-69.697266,18.229351],[-69.949951,17.98657],[-70.004883,18.030973],[-69.949951,18.344097],[-69.993233,18.42354]]]],"created":1292363406,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2345176_20101214_7500e354f0.tar.gz"},"points":3640,"type":"MultiPolygon"}
+}

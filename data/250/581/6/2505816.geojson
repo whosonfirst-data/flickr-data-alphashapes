@@ -1,0 +1,15 @@
+{
+  "id": 2505816,
+  "type": "Feature",
+  "properties": {
+    "name":"Thompsons, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2505816,
+    "woe:name":"Thompsons, Texas, United States",
+    "woe:place_id":"PhN6ZsmbBJxv5VC8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.62191,29.477646,-95.597191,29.501171],
+  "geometry": {"alpha":0.00015,"bbox":[-95.621910095215,29.477645874023,-95.597190856934,29.501171112061],"coordinates":[[[[-95.606461,29.491011],[-95.602341,29.501171],[-95.597191,29.496986],[-95.605087,29.490414],[-95.62191,29.477646],[-95.606461,29.491011]]]],"created":1292499078,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2505816_20101216_70df0a39ca.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

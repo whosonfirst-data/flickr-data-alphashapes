@@ -1,0 +1,15 @@
+{
+  "id": 2478453,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramsay, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2478453,
+    "woe:name":"Ramsay, Michigan, United States",
+    "woe:place_id":"qyNtWsKbBZv13Whj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.019913,46.468132,-90.002106,46.476646],
+  "geometry": {"alpha":0.00015,"bbox":[-90.019912719727,46.468132019043,-90.002105712891,46.47664642334],"coordinates":[[[[-90.002144,46.473984],[-90.002106,46.473598],[-90.010986,46.468132],[-90.019913,46.476646],[-90.00399,46.473839],[-90.002144,46.473984]]]],"created":1292550961,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2478453_20101217_9e0a61581e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

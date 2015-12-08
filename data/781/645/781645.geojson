@@ -1,0 +1,15 @@
+{
+  "id": 781645,
+  "type": "Feature",
+  "properties": {
+    "name":"Argseeli, Canton of Uri, Switzerland",
+    "placetype":"locality",
+    "woe:id":781645,
+    "woe:name":"Argseeli, Canton of Uri, Switzerland",
+    "woe:place_id":"85ZHyv.eCZ3XW9Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.922262,46.895432,8.930255,46.9021],
+  "geometry": {"alpha":0.00015,"bbox":[8.9222621917725,46.895431518555,8.9302549362183,46.902099609375],"coordinates":[[[[8.922741,46.895432],[8.922262,46.89576],[8.922672,46.897358],[8.92588,46.899323],[8.930255,46.9021],[8.923906,46.89658],[8.922741,46.895432]]]],"created":1292443986,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/781645_20101215_44a61354dc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

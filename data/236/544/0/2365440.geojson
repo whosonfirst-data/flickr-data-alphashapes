@@ -1,0 +1,15 @@
+{
+  "id": 2365440,
+  "type": "Feature",
+  "properties": {
+    "name":"Blessing, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2365440,
+    "woe:name":"Blessing, Texas, United States",
+    "woe:place_id":"CMjlM8ebApoLliDM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.228729,28.86676,-96.213478,28.875492],
+  "geometry": {"alpha":0.00015,"bbox":[-96.228729248047,28.866760253906,-96.213478088379,28.875492095947],"coordinates":[[[[-96.217552,28.875128],[-96.217331,28.874666],[-96.213478,28.868954],[-96.222603,28.86676],[-96.228333,28.873501],[-96.228729,28.875492],[-96.217552,28.875128]]]],"created":1292524185,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2365440_20101216_2713df129d.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

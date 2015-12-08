@@ -1,0 +1,15 @@
+{
+  "id": 28276207,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashbrook, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28276207,
+    "woe:name":"Ashbrook, England, United Kingdom",
+    "woe:place_id":"rDvbeB6bCZ7UqZZtlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.246076,51.935616,-0.241355,51.940189],
+  "geometry": {"alpha":0.00015,"bbox":[-0.24607600271702,51.935615539551,-0.24135500192642,51.940189361572],"coordinates":[[[[-0.241355,51.937492],[-0.24195,51.935616],[-0.243222,51.935825],[-0.24584,51.939888],[-0.246076,51.940189],[-0.241355,51.937492]]]],"created":1292550758,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/28276207_20101217_a0f096b570.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

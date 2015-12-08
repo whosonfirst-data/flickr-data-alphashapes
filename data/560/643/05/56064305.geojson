@@ -1,0 +1,15 @@
+{
+  "id": 56064305,
+  "type": "Feature",
+  "properties": {
+    "name":"El Peligro, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":56064305,
+    "woe:name":"El Peligro, Buenos Aires, Argentina",
+    "woe:place_id":"3v0oqLucB5zucKRHlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.120045,-34.943165,-58.111332,-34.938423],
+  "geometry": {"alpha":0.00015,"bbox":[-58.120044708252,-34.943164825439,-58.111331939697,-34.938423156738],"coordinates":[[[[-58.111832,-34.942165],[-58.111332,-34.942333],[-58.1115,-34.943165],[-58.113335,-34.943165],[-58.120045,-34.938423],[-58.111832,-34.942165]]]],"created":1292520626,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/56064305_20101216_d9ce86aa87.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

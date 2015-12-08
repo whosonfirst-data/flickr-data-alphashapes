@@ -1,0 +1,15 @@
+{
+  "id": 711322,
+  "type": "Feature",
+  "properties": {
+    "name":"Bossare, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":711322,
+    "woe:name":"Bossare, Liguria, Italy",
+    "woe:place_id":"jr7kwIGeAJ2WSqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.519004,43.865368,7.521064,43.868031],
+  "geometry": {"alpha":0.00015,"bbox":[7.519003868103,43.865367889404,7.5210638046265,43.868030548096],"coordinates":[[[[7.51969,43.865646],[7.519004,43.866264],[7.519176,43.867195],[7.519562,43.868031],[7.521064,43.865398],[7.519991,43.865368],[7.51969,43.865646]]]],"created":1292530641,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/711322_20101216_6efd276da8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

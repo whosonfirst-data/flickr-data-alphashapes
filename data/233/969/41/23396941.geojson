@@ -1,0 +1,15 @@
+{
+  "id": 23396941,
+  "type": "Feature",
+  "properties": {
+    "name":"Shallow Lake, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23396941,
+    "woe:name":"Shallow Lake, Ontario, Canada",
+    "woe:place_id":"SXSgrOubAp_4K08KUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.080132,44.598625,-81.04734,44.614056],
+  "geometry": {"alpha":0.00015,"bbox":[-81.080131530762,44.598625183105,-81.047340393066,44.614055633545],"coordinates":[[[[-81.06073,44.603058],[-81.080132,44.614056],[-81.059921,44.608585],[-81.04734,44.598625],[-81.057816,44.60257],[-81.06073,44.603058]]]],"created":1292523587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/23396941_20101216_95658b563f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

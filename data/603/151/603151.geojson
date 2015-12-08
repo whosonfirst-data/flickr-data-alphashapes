@@ -1,0 +1,15 @@
+{
+  "id": 603151,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Grand, Centre, France",
+    "placetype":"locality",
+    "woe:id":603151,
+    "woe:name":"Le Grand, Centre, France",
+    "woe:place_id":"mBcu1DyfAZ_gRWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.788977,46.913277,0.805833,46.924988],
+  "geometry": {"alpha":0.00015,"bbox":[0.78897702693939,46.913276672363,0.80583298206329,46.924987792969],"coordinates":[[[[0.803375,46.922218],[0.805833,46.920166],[0.805666,46.9175],[0.804834,46.917278],[0.793075,46.913277],[0.788977,46.924988],[0.800971,46.921661],[0.803375,46.922218]]]],"created":1292536519,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/603151_20101216_891ba85822.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

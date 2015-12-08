@@ -1,0 +1,15 @@
+{
+  "id": 2499301,
+  "type": "Feature",
+  "properties": {
+    "name":"Statenville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2499301,
+    "woe:name":"Statenville, Georgia, United States",
+    "woe:place_id":"RA0wtZubBZVQ2rUr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.028519,30.702887,-83.024193,30.708084],
+  "geometry": {"alpha":0.00015,"bbox":[-83.028518676758,30.702886581421,-83.024192810059,30.708084106445],"coordinates":[[[[-83.028442,30.703661],[-83.028519,30.703873],[-83.026901,30.708084],[-83.024193,30.703339],[-83.026901,30.702887],[-83.028442,30.703661]]]],"created":1292539236,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2499301_20101216_ae2c61c557.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2391126,
+  "type": "Feature",
+  "properties": {
+    "name":"Denmark, New York, United States",
+    "placetype":"locality",
+    "woe:id":2391126,
+    "woe:name":"Denmark, New York, United States",
+    "woe:place_id":"tyA9EoybApVQ5x8f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.574669,43.877354,-75.556282,43.892395],
+  "geometry": {"alpha":0.00015,"bbox":[-75.574668884277,43.877353668213,-75.556282043457,43.892395019531],"coordinates":[[[[-75.556435,43.88102],[-75.556282,43.880527],[-75.556541,43.878178],[-75.569626,43.877354],[-75.574669,43.892395],[-75.556435,43.88102]]]],"created":1292506805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2391126_20101216_63d04560f6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

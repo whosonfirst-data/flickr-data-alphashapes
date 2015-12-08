@@ -1,0 +1,15 @@
+{
+  "id": 26395,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Berkhampsted, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26395,
+    "woe:name":"Little Berkhampsted, England, United Kingdom",
+    "woe:place_id":"ECbNwQGbB5_2vQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.132629,51.753895,-0.129251,51.756207],
+  "geometry": {"alpha":0.00015,"bbox":[-0.13262900710106,51.753894805908,-0.12925100326538,51.756206512451],"coordinates":[[[[-0.129346,51.75465],[-0.129743,51.753895],[-0.132629,51.754784],[-0.130634,51.756207],[-0.129251,51.755497],[-0.129346,51.75465]]]],"created":1292522805,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/26395_20101216_2b594a8c03.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2361150,
+  "type": "Feature",
+  "properties": {
+    "name":"Beckwith, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2361150,
+    "woe:name":"Beckwith, West Virginia, United States",
+    "woe:place_id":"GYvBflybApqmOvDC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.150772,38.100327,-81.146889,38.110542],
+  "geometry": {"alpha":0.00015,"bbox":[-81.150772094727,38.100326538086,-81.14688873291,38.110542297363],"coordinates":[[[[-81.149399,38.105114],[-81.149483,38.108696],[-81.146889,38.110542],[-81.148697,38.106121],[-81.150772,38.100327],[-81.149399,38.105114]]]],"created":1292500322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2361150_20101216_099a42dc3e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

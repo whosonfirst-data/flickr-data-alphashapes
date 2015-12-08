@@ -1,0 +1,15 @@
+{
+  "id": 2459345,
+  "type": "Feature",
+  "properties": {
+    "name":"Newburg, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2459345,
+    "woe:name":"Newburg, Pennsylvania, United States",
+    "woe:place_id":"HjAgR4abBZlEP5Mj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.523758,40.136333,-77.516655,40.145657],
+  "geometry": {"alpha":0.00015,"bbox":[-77.52375793457,40.136333465576,-77.516654968262,40.145656585693],"coordinates":[[[[-77.523758,40.136459],[-77.516655,40.145657],[-77.523048,40.136333],[-77.523392,40.136333],[-77.523758,40.136345],[-77.523758,40.136459]]]],"created":1292517482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2459345_20101216_6595b46c78.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2401013,
+  "type": "Feature",
+  "properties": {
+    "name":"Ewing, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2401013,
+    "woe:name":"Ewing, Ohio, United States",
+    "woe:place_id":"ERFlldubBZwRgK15",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.476128,39.492168,-82.464508,39.510445],
+  "geometry": {"alpha":0.00015,"bbox":[-82.476127624512,39.492168426514,-82.464508056641,39.510444641113],"coordinates":[[[[-82.476082,39.500984],[-82.476128,39.501331],[-82.464508,39.510445],[-82.469086,39.492168],[-82.476082,39.500984]]]],"created":1248150365,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2592/shapefiles/2401013_20090721_338469e135.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

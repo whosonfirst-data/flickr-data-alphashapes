@@ -1,0 +1,15 @@
+{
+  "id": 351818,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires, Medellin, Antioquia, CO, Colombia",
+    "placetype":"neighbourhood",
+    "woe:id":351818,
+    "woe:name":"Buenos Aires, Medellin, Antioquia, CO, Colombia",
+    "woe:place_id":"maEoKBWaBJ31NK0",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.558296,6.232541,-75.547653,6.241282],
+  "geometry": {"alpha":1e-05,"bbox":[-75.558296203613,6.2325410842896,-75.547653198242,6.2412819862366],"coordinates":[[[[-75.553322,6.236722],[-75.557312,6.232882],[-75.557785,6.237916],[-75.558296,6.238599],[-75.553421,6.241282],[-75.552979,6.239623],[-75.553368,6.237532],[-75.547653,6.235527],[-75.551086,6.232541],[-75.553322,6.236722]]]],"created":1292549652,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/351818_20101217_56827baef6.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

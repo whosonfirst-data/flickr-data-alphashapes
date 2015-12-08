@@ -1,0 +1,15 @@
+{
+  "id": 2412038,
+  "type": "Feature",
+  "properties": {
+    "name":"Goodenow, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2412038,
+    "woe:name":"Goodenow, Illinois, United States",
+    "woe:place_id":"tyx_MM2bBZ3FZIDM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.627884,41.400795,-87.603653,41.414604],
+  "geometry": {"alpha":0.00015,"bbox":[-87.627883911133,41.40079498291,-87.603652954102,41.414604187012],"coordinates":[[[[-87.618988,41.413139],[-87.627884,41.409672],[-87.627251,41.410789],[-87.617577,41.414604],[-87.603653,41.400795],[-87.618988,41.413139]]]],"created":1292449830,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2412038_20101215_a93ece9ee3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

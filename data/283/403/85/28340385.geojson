@@ -1,0 +1,15 @@
+{
+  "id": 28340385,
+  "type": "Feature",
+  "properties": {
+    "name":"East View, Texas, United States",
+    "placetype":"locality",
+    "woe:id":28340385,
+    "woe:name":"East View, Texas, United States",
+    "woe:place_id":"3koU1C6bCZ8LneJ5zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.879303,32.37648,-94.869347,32.38623],
+  "geometry": {"alpha":0.00015,"bbox":[-94.879302978516,32.376480102539,-94.869346618652,32.38623046875],"coordinates":[[[[-94.869347,32.380939],[-94.874237,32.377586],[-94.879303,32.37648],[-94.877411,32.384457],[-94.876602,32.38623],[-94.869347,32.380939]]]],"created":1292446010,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/28340385_20101215_f39c1a0e9c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12677121,
+  "type": "Feature",
+  "properties": {
+    "name":"Brisighella, Italy",
+    "placetype":"locality",
+    "woe:id":12677121,
+    "woe:name":"Brisighella, Italy",
+    "woe:place_id":"s5bcpa2YA5reqnwhlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.771678,44.223305,11.775627,44.225243],
+  "geometry": {"alpha":1e-05,"bbox":[11.771677970886,44.223304748535,11.77562713623,44.225242614746],"coordinates":[[[[11.772966,44.223305],[11.772236,44.223766],[11.771678,44.225243],[11.773583,44.224182],[11.775627,44.224537],[11.775283,44.223537],[11.772966,44.223305]]]],"created":1292521112,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12677121_20101216_d3dfb16cc0.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28744268,
+  "type": "Feature",
+  "properties": {
+    "name":"Hay, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744268,
+    "woe:name":"Hay, Michigan, United States",
+    "woe:place_id":"PVY0RLybCZvX_roVKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.329506,43.884529,-84.31749,43.898262],
+  "geometry": {"alpha":0.00015,"bbox":[-84.32950592041,43.88452911377,-84.317489624023,43.898262023926],"coordinates":[[[[-84.321609,43.885151],[-84.322388,43.886265],[-84.329506,43.898262],[-84.31749,43.885956],[-84.31852,43.884529],[-84.321609,43.885151]]]],"created":1234628170,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3338/shapefiles/28744268_20090214_46936d43a8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

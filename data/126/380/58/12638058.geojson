@@ -1,0 +1,15 @@
+{
+  "id": 12638058,
+  "type": "Feature",
+  "properties": {
+    "name":"Bantzenheim, France",
+    "placetype":"locality",
+    "woe:id":12638058,
+    "woe:name":"Bantzenheim, France",
+    "woe:place_id":"FGRpYbSYA5ryEV3iEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.50143,47.822727,7.508522,47.827774],
+  "geometry": {"alpha":1e-05,"bbox":[7.5014300346375,47.822727203369,7.5085220336914,47.827774047852],"coordinates":[[[[7.50143,47.825748],[7.503061,47.825687],[7.50768,47.827774],[7.508522,47.825821],[7.506279,47.824379],[7.501688,47.822727],[7.50143,47.825748]]]],"created":1292536775,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12638058_20101216_a0cc68635b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

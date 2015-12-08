@@ -1,0 +1,15 @@
+{
+  "id": 20224172,
+  "type": "Feature",
+  "properties": {
+    "name":"Lexartzu, Basque Country, Spain",
+    "placetype":"locality",
+    "woe:id":20224172,
+    "woe:name":"Lexartzu, Basque Country, Spain",
+    "woe:place_id":"zbbMwPmbAZ62LOJaww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.127155,43.037716,-3.110332,43.053333],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1271550655365,43.037715911865,-3.1103320121765,43.053333282471],"coordinates":[[[[-3.112821,43.048256],[-3.110332,43.043957],[-3.111362,43.042923],[-3.120117,43.037716],[-3.127155,43.053333],[-3.112821,43.048256]]]],"created":1292445623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/20224172_20101215_137afb2824.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

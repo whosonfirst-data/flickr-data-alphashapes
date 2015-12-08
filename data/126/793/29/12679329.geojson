@@ -1,0 +1,15 @@
+{
+  "id": 12679329,
+  "type": "Feature",
+  "properties": {
+    "name":"Isola Dovarese, Italy",
+    "placetype":"locality",
+    "woe:id":12679329,
+    "woe:name":"Isola Dovarese, Italy",
+    "woe:place_id":"SFHN2S6YA5oRC.XHMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.307922,45.175201,10.313072,45.178074],
+  "geometry": {"alpha":1e-05,"bbox":[10.307922363281,45.175201416016,10.31307220459,45.178073883057],"coordinates":[[[[10.313072,45.175995],[10.311269,45.175289],[10.309638,45.175201],[10.307922,45.177921],[10.31187,45.178074],[10.313072,45.175995]]]],"created":1292542298,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12679329_20101216_a225ac6568.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

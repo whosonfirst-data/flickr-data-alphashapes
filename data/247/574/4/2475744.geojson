@@ -1,0 +1,15 @@
+{
+  "id": 2475744,
+  "type": "Feature",
+  "properties": {
+    "name":"Portsmouth, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2475744,
+    "woe:name":"Portsmouth, Kentucky, United States",
+    "woe:place_id":"HQNYqoebBZv_67DX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.310806,37.533516,-83.300697,37.539143],
+  "geometry": {"alpha":0.00015,"bbox":[-83.310806274414,37.533515930176,-83.30069732666,37.539142608643],"coordinates":[[[[-83.308662,37.538563],[-83.307243,37.539143],[-83.304413,37.538189],[-83.300697,37.537064],[-83.310806,37.533516],[-83.308662,37.538563]]]],"created":1292549767,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2475744_20101217_9e173137d4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2418095,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrison, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2418095,
+    "woe:name":"Harrison, Florida, United States",
+    "woe:place_id":"HDo1QSGbBZ3LjzK9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.412804,28.955833,-82.385101,28.973],
+  "geometry": {"alpha":0.00015,"bbox":[-82.412803649902,28.955833435059,-82.385101318359,28.972999572754],"coordinates":[[[[-82.411819,28.971952],[-82.397003,28.973],[-82.385101,28.960089],[-82.401497,28.955833],[-82.41111,28.96452],[-82.412804,28.971785],[-82.411819,28.971952]]]],"created":1292547921,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2418095_20101217_247f8afd86.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

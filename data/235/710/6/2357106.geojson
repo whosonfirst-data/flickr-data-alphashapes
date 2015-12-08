@@ -1,0 +1,15 @@
+{
+  "id": 2357106,
+  "type": "Feature",
+  "properties": {
+    "name":"Atlantic, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2357106,
+    "woe:name":"Atlantic, Virginia, United States",
+    "woe:place_id":"TX17_RSbApkzsYdH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.507607,37.892803,-75.485512,37.906139],
+  "geometry": {"alpha":0.00015,"bbox":[-75.507606506348,37.892803192139,-75.485511779785,37.906139373779],"coordinates":[[[[-75.507446,37.893024],[-75.507607,37.900009],[-75.507278,37.900703],[-75.501717,37.906139],[-75.485512,37.892803],[-75.507446,37.893024]]]],"created":1292541012,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2357106_20101216_1a5bb5bd28.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

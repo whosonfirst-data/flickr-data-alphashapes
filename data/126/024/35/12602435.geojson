@@ -1,0 +1,15 @@
+{
+  "id": 12602435,
+  "type": "Feature",
+  "properties": {
+    "name":"Lierneux, Belgium",
+    "placetype":"locality",
+    "woe:id":12602435,
+    "woe:name":"Lierneux, Belgium",
+    "woe:place_id":"Dv7dXQ.YA5oiF3DfnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.742722,50.297195,5.745277,50.299805],
+  "geometry": {"alpha":1e-05,"bbox":[5.7427220344543,50.29719543457,5.745276927948,50.2998046875],"coordinates":[[[[5.744444,50.299747],[5.744555,50.299805],[5.744583,50.299694],[5.745277,50.297195],[5.742722,50.298527],[5.744444,50.299747]]]],"created":1248096369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2640/shapefiles/12602435_20090720_f7315eba97.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

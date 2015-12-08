@@ -1,0 +1,15 @@
+{
+  "id": 20123833,
+  "type": "Feature",
+  "properties": {
+    "name":"Faedo, Trentino-Alto Adige, Italy",
+    "placetype":"locality",
+    "woe:id":20123833,
+    "woe:name":"Faedo, Trentino-Alto Adige, Italy",
+    "woe:place_id":"cBYUakabAZ1.tdhRWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.15638,46.192131,11.191635,46.200092],
+  "geometry": {"alpha":0.00015,"bbox":[11.156379699707,46.19213104248,11.191635131836,46.200092315674],"coordinates":[[[[11.162,46.196999],[11.170349,46.197536],[11.191635,46.200092],[11.16949,46.192131],[11.159405,46.19252],[11.15638,46.192871],[11.162,46.196999]]]],"created":1292526800,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20123833_20101216_9bdec98135.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

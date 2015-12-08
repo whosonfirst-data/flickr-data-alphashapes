@@ -1,0 +1,15 @@
+{
+  "id": 685545,
+  "type": "Feature",
+  "properties": {
+    "name":"Polle, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":685545,
+    "woe:name":"Polle, Lower Saxony, Germany",
+    "woe:place_id":"500ij1CfCZnio5M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.402065,51.895782,9.411163,51.906418],
+  "geometry": {"alpha":0.00015,"bbox":[9.4020652770996,51.895782470703,9.4111633300781,51.90641784668],"coordinates":[[[[9.409554,51.895782],[9.40921,51.895855],[9.407472,51.896675],[9.402065,51.900753],[9.410905,51.906418],[9.411163,51.898155],[9.409554,51.895782]]]],"created":1292520293,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/685545_20101216_2c09e0384a.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

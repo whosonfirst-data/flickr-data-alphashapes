@@ -1,0 +1,15 @@
+{
+  "id": 26770,
+  "type": "Feature",
+  "properties": {
+    "name":"Llanbedr, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26770,
+    "woe:name":"Llanbedr, Wales, United Kingdom",
+    "woe:place_id":"jT9pYrKbB5uP4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.123207,51.868858,-3.101062,51.88253],
+  "geometry": {"alpha":0.00015,"bbox":[-3.1232070922852,51.868858337402,-3.1010620594025,51.882530212402],"coordinates":[[[[-3.105955,51.877178],[-3.101062,51.876015],[-3.110504,51.868858],[-3.123207,51.88253],[-3.11119,51.879246],[-3.105955,51.877178]]]],"created":1292542500,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/26770_20101216_7a1834bcfc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

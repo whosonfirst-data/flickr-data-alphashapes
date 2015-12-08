@@ -1,0 +1,15 @@
+{
+  "id": 39440,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellbrook, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":39440,
+    "woe:name":"Wellbrook, England, United Kingdom",
+    "woe:place_id":"AO.lY5eaCJjMAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.248072,51.014294,0.260844,51.02169],
+  "geometry": {"alpha":0.00015,"bbox":[0.24807199835777,51.014293670654,0.26084399223328,51.021690368652],"coordinates":[[[[0.25835,51.02169],[0.260844,51.020538],[0.260281,51.020424],[0.259299,51.020309],[0.258007,51.020233],[0.248072,51.014294],[0.25835,51.02169]]]],"created":1292538115,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/39440_20101216_b735ec33e2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

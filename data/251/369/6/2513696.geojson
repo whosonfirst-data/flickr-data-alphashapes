@@ -1,0 +1,15 @@
+{
+  "id": 2513696,
+  "type": "Feature",
+  "properties": {
+    "name":"Walloon Lake, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2513696,
+    "woe:name":"Walloon Lake, Michigan, United States",
+    "woe:place_id":"sbwQkK2bBJ1wNhDZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.947403,45.261814,-84.929253,45.268242],
+  "geometry": {"alpha":0.00015,"bbox":[-84.947402954102,45.261814117432,-84.929252624512,45.268241882324],"coordinates":[[[[-84.929649,45.265453],[-84.933037,45.261814],[-84.947403,45.262806],[-84.942253,45.268242],[-84.929253,45.265781],[-84.929649,45.265453]]]],"created":1239341778,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3653/shapefiles/2513696_20090410_544dfd9e39.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

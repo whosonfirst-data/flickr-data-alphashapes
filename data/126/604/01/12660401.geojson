@@ -1,0 +1,15 @@
+{
+  "id": 12660401,
+  "type": "Feature",
+  "properties": {
+    "name":"Daumeray, France",
+    "placetype":"locality",
+    "woe:id":12660401,
+    "woe:name":"Daumeray, France",
+    "woe:place_id":"qafLX4mYA5qAqZ2jgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.372075,47.669048,-0.371465,47.669331],
+  "geometry": {"alpha":1e-05,"bbox":[-0.37207499146461,47.669048309326,-0.37146499752998,47.669330596924],"coordinates":[[[[-0.371475,47.669277],[-0.371625,47.669048],[-0.372068,47.669285],[-0.372075,47.669289],[-0.371495,47.669331],[-0.371465,47.669292],[-0.371475,47.669277]]]],"created":1292522285,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12660401_20101216_f602449e3c.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

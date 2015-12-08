@@ -1,0 +1,15 @@
+{
+  "id": 28746941,
+  "type": "Feature",
+  "properties": {
+    "name":"Leeds Center, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":28746941,
+    "woe:name":"Leeds Center, Wisconsin, United States",
+    "woe:place_id":"JfM3YmKbCZtt_iyPPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.306145,43.332333,-89.292831,43.347527],
+  "geometry": {"alpha":0.00015,"bbox":[-89.306144714355,43.332332611084,-89.292831420898,43.347526550293],"coordinates":[[[[-89.304169,43.346512],[-89.306145,43.346901],[-89.304085,43.347527],[-89.303932,43.3466],[-89.292831,43.332333],[-89.304169,43.346512]]]],"created":1292509444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/28746941_20101216_ab43d3b705.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

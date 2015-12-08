@@ -1,0 +1,15 @@
+{
+  "id": 781570,
+  "type": "Feature",
+  "properties": {
+    "name":"Alle, Canton of Jura, Switzerland",
+    "placetype":"locality",
+    "woe:id":781570,
+    "woe:name":"Alle, Canton of Jura, Switzerland",
+    "woe:place_id":"hLb9aoSeCZ2ysC4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.128216,47.4217,7.142314,47.429859],
+  "geometry": {"alpha":0.00015,"bbox":[7.1282157897949,47.421699523926,7.1423139572144,47.429859161377],"coordinates":[[[[7.14136,47.429859],[7.142314,47.425213],[7.131671,47.4217],[7.128216,47.426167],[7.134021,47.427948],[7.140071,47.429382],[7.14136,47.429859]]]],"created":1292519718,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/781570_20101216_b164ef054d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

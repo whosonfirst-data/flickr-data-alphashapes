@@ -1,0 +1,15 @@
+{
+  "id": 782410,
+  "type": "Feature",
+  "properties": {
+    "name":"Farvagny, Canton of Fribourg, Switzerland",
+    "placetype":"locality",
+    "woe:id":782410,
+    "woe:name":"Farvagny, Canton of Fribourg, Switzerland",
+    "woe:place_id":"FnFD2gieCZ6WC5I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.063865,46.710796,7.079229,46.721504],
+  "geometry": {"alpha":0.00015,"bbox":[7.0638651847839,46.710796356201,7.0792288780212,46.721504211426],"coordinates":[[[[7.065419,46.721165],[7.079229,46.710796],[7.066054,46.716854],[7.065582,46.717415],[7.063865,46.721504],[7.065419,46.721165]]]],"created":1292451307,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/782410_20101215_d15fd16648.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2381630,
+  "type": "Feature",
+  "properties": {
+    "name":"Clifton, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2381630,
+    "woe:name":"Clifton, South Carolina, United States",
+    "woe:place_id":"HlRTQFybApSDXBuv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.823555,34.976913,-81.814072,34.984451],
+  "geometry": {"alpha":0.00015,"bbox":[-81.823554992676,34.976913452148,-81.814071655273,34.984451293945],"coordinates":[[[[-81.818962,34.979095],[-81.823555,34.984451],[-81.818275,34.982189],[-81.81559,34.979218],[-81.814072,34.976913],[-81.818962,34.979095]]]],"created":1247814243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2482/shapefiles/2381630_20090717_a5a8738eef.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

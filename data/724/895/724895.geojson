@@ -1,0 +1,15 @@
+{
+  "id": 724895,
+  "type": "Feature",
+  "properties": {
+    "name":"Ticchiano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":724895,
+    "woe:name":"Ticchiano, Tuscany, Italy",
+    "woe:place_id":"h3DT9h2eA5gc2WA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.149063,43.161865,11.161015,43.173512],
+  "geometry": {"alpha":0.00015,"bbox":[11.149063110352,43.161865234375,11.161014556885,43.173511505127],"coordinates":[[[[11.156616,43.168518],[11.157302,43.170021],[11.158246,43.173512],[11.161015,43.165852],[11.149063,43.161865],[11.156616,43.168518]]]],"created":1292491983,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/724895_20101216_98a212f4ba.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

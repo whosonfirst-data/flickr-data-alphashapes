@@ -1,0 +1,15 @@
+{
+  "id": 23391950,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenwood, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391950,
+    "woe:name":"Glenwood, Nova Scotia, Canada",
+    "woe:place_id":"3VUDalCbAp_DpGDTWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.886383,43.79266,-65.874451,43.805794],
+  "geometry": {"alpha":0.00015,"bbox":[-65.886383056641,43.792659759521,-65.874450683594,43.805793762207],"coordinates":[[[[-65.88372,43.794548],[-65.886383,43.805794],[-65.874451,43.793648],[-65.882431,43.79266],[-65.88372,43.794548]]]],"created":1292532809,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/23391950_20101216_c1fe5fb017.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

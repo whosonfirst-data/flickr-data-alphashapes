@@ -1,0 +1,15 @@
+{
+  "id": 123769,
+  "type": "Feature",
+  "properties": {
+    "name":"Fresno, Chihuahua, Mexico",
+    "placetype":"locality",
+    "woe:id":123769,
+    "woe:name":"Fresno, Chihuahua, Mexico",
+    "woe:place_id":"dCFPGhWYA5.4y.o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.192986,28.541702,-106.150589,28.558554],
+  "geometry": {"alpha":0.00015,"bbox":[-106.19298553467,28.541702270508,-106.15058898926,28.558553695679],"coordinates":[[[[-106.180885,28.558554],[-106.180458,28.558327],[-106.163376,28.55467],[-106.150589,28.556177],[-106.159256,28.542324],[-106.164474,28.541702],[-106.171791,28.551277],[-106.192986,28.544416],[-106.181999,28.557535],[-106.180885,28.558554]]]],"created":1292546570,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/123769_20101217_962cef5725.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12675056,
+  "type": "Feature",
+  "properties": {
+    "name":"Spital am Semmering, Austria",
+    "placetype":"locality",
+    "woe:id":12675056,
+    "woe:name":"Spital am Semmering, Austria",
+    "woe:place_id":"CW_hkIaYA5q4JPvXOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.789916,47.574123,15.792542,47.578842],
+  "geometry": {"alpha":1e-05,"bbox":[15.789916038513,47.574123382568,15.792542457581,47.578842163086],"coordinates":[[[[15.789916,47.574211],[15.79113,47.578842],[15.792542,47.575378],[15.791473,47.57444],[15.789969,47.574123],[15.789916,47.574211]]]],"created":1292456866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12675056_20101215_983edfbaaa.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 109962,
+  "type": "Feature",
+  "properties": {
+    "name":"Silver Sands, Trelawny, Jamaica",
+    "placetype":"locality",
+    "woe:id":109962,
+    "woe:name":"Silver Sands, Trelawny, Jamaica",
+    "woe:place_id":"bsnbXq.YAZUMdlY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.534637,18.483028,-77.521072,18.485308],
+  "geometry": {"alpha":0.00015,"bbox":[-77.534637451172,18.483028411865,-77.521072387695,18.485307693481],"coordinates":[[[[-77.521072,18.485308],[-77.525536,18.483028],[-77.532059,18.484085],[-77.534637,18.484737],[-77.528885,18.484982],[-77.521072,18.485308]]]],"created":1292498463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/109962_20101216_97bc53b1c9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

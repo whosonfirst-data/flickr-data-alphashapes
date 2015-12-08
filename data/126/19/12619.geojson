@@ -1,0 +1,15 @@
+{
+  "id": 12619,
+  "type": "Feature",
+  "properties": {
+    "name":"Billingford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12619,
+    "woe:name":"Billingford, England, United Kingdom",
+    "woe:place_id":"KxJWn_uYA5qqRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.179485,52.361343,1.181111,52.363022],
+  "geometry": {"alpha":0.00015,"bbox":[1.1794849634171,52.361343383789,1.1811109781265,52.363021850586],"coordinates":[[[[1.18103,52.363022],[1.181111,52.362556],[1.180515,52.362129],[1.179485,52.361343],[1.180129,52.362446],[1.180429,52.362812],[1.18103,52.363022]]]],"created":1292527934,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12619_20101216_976060ff3f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

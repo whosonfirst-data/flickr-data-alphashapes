@@ -1,0 +1,15 @@
+{
+  "id": 28745459,
+  "type": "Feature",
+  "properties": {
+    "name":"Penn, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745459,
+    "woe:name":"Penn, Pennsylvania, United States",
+    "woe:place_id":"885HilqbCZsTevx7Sw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.898331,40.819485,-76.889488,40.823437],
+  "geometry": {"alpha":0.00015,"bbox":[-76.898330688477,40.819484710693,-76.889488220215,40.823436737061],"coordinates":[[[[-76.894295,40.820938],[-76.898331,40.819485],[-76.895447,40.82209],[-76.892021,40.822838],[-76.889488,40.823437],[-76.894295,40.820938]]]],"created":1292481483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/28745459_20101216_c220accf51.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

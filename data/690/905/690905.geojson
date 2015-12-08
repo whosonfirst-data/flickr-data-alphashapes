@@ -1,0 +1,15 @@
+{
+  "id": 690905,
+  "type": "Feature",
+  "properties": {
+    "name":"Sand, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":690905,
+    "woe:name":"Sand, Bavaria, Germany",
+    "woe:place_id":"lR3MggGfCJwtWeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.658181,48.899033,12.681484,48.909996],
+  "geometry": {"alpha":0.00015,"bbox":[12.658181190491,48.899032592773,12.681484222412,48.909996032715],"coordinates":[[[[12.677192,48.899483],[12.676162,48.899033],[12.658181,48.909996],[12.677707,48.90332],[12.679596,48.902939],[12.681484,48.902473],[12.677192,48.899483]]]],"created":1292450834,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/690905_20101215_d3dd329faf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

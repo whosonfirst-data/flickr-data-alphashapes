@@ -1,0 +1,15 @@
+{
+  "id": 12645802,
+  "type": "Feature",
+  "properties": {
+    "name":"l'\u00c9toile, France",
+    "placetype":"locality",
+    "woe:id":12645802,
+    "woe:name":"l'\u00c9toile, France",
+    "woe:place_id":"wbxV3ziYA5qxDKCH9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.532624,46.711235,5.540285,46.714886],
+  "geometry": {"alpha":1e-05,"bbox":[5.5326237678528,46.711235046387,5.5402851104736,46.71488571167],"coordinates":[[[[5.535478,46.714825],[5.536336,46.714886],[5.540285,46.711235],[5.534663,46.712353],[5.532624,46.713081],[5.535478,46.714825]]]],"created":1292507885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12645802_20101216_2bd75a5dfe.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

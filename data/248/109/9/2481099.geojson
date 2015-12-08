@@ -1,0 +1,15 @@
+{
+  "id": 2481099,
+  "type": "Feature",
+  "properties": {
+    "name":"Ridge, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2481099,
+    "woe:name":"Ridge, Oregon, United States",
+    "woe:place_id":"grQO.LybBZRaohPD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.001801,45.297684,-118.984978,45.314945],
+  "geometry": {"alpha":0.00015,"bbox":[-119.00180053711,45.29768371582,-118.98497772217,45.314945220947],"coordinates":[[[[-118.988037,45.299667],[-118.997665,45.300167],[-119.001801,45.314945],[-118.987511,45.300369],[-118.984978,45.297684],[-118.988037,45.299667]]]],"created":1292494208,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2481099_20101216_00ef813b4d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

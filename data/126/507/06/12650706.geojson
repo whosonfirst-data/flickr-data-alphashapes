@@ -1,0 +1,15 @@
+{
+  "id": 12650706,
+  "type": "Feature",
+  "properties": {
+    "name":"Plomb, France",
+    "placetype":"locality",
+    "woe:id":12650706,
+    "woe:name":"Plomb, France",
+    "woe:place_id":"WatzQL.YA5rFdM8Osg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.291392,48.741722,-1.290159,48.742725],
+  "geometry": {"alpha":1e-05,"bbox":[-1.2913919687271,48.741722106934,-1.2901589870453,48.742725372314],"coordinates":[[[[-1.291392,48.742725],[-1.291389,48.742725],[-1.290159,48.741722],[-1.291384,48.742702],[-1.291387,48.742706],[-1.291392,48.742725]]]],"created":1292479622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12650706_20101216_4f96fb2d9e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

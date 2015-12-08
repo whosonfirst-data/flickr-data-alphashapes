@@ -1,0 +1,15 @@
+{
+  "id": 453092,
+  "type": "Feature",
+  "properties": {
+    "name":"Tanabi, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":453092,
+    "woe:name":"Tanabi, Sao Paulo, Brazil",
+    "woe:place_id":"zu.O6EidBJ8tL3c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-49.66391,-20.63032,-49.63419,-20.617743],
+  "geometry": {"alpha":0.00015,"bbox":[-49.663909912109,-20.630319595337,-49.634189605713,-20.617742538452],"coordinates":[[[[-49.652451,-20.629541],[-49.658409,-20.63032],[-49.66391,-20.62447],[-49.652645,-20.617743],[-49.63419,-20.618294],[-49.652451,-20.629541]]]],"created":1292531285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/453092_20101216_515b5a805d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

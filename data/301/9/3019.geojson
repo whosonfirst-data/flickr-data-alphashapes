@@ -1,0 +1,15 @@
+{
+  "id": 3019,
+  "type": "Feature",
+  "properties": {
+    "name":"Holland, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3019,
+    "woe:name":"Holland, Manitoba, Canada",
+    "woe:place_id":"78k.4LyaAZ32",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.898926,49.597469,-98.871887,49.601421],
+  "geometry": {"alpha":0.00015,"bbox":[-98.89892578125,49.597469329834,-98.871887207031,49.601421356201],"coordinates":[[[[-98.882957,49.598667],[-98.898926,49.598694],[-98.88253,49.599586],[-98.878242,49.601421],[-98.871887,49.598804],[-98.878967,49.5975],[-98.88073,49.597469],[-98.882957,49.598667]]]],"created":1292510051,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/3019_20101216_57c2ec3142.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

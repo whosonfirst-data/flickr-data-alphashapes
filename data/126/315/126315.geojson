@@ -1,0 +1,15 @@
+{
+  "id": 126315,
+  "type": "Feature",
+  "properties": {
+    "name":"La Albarrada, Colima, Mexico",
+    "placetype":"locality",
+    "woe:id":126315,
+    "woe:name":"La Albarrada, Colima, Mexico",
+    "woe:place_id":"K7pXw7WYA5qoU4k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.709908,19.247482,-103.706474,19.249084],
+  "geometry": {"alpha":0.00015,"bbox":[-103.70990753174,19.247482299805,-103.7064743042,19.249084472656],"coordinates":[[[[-103.707504,19.24884],[-103.706474,19.248516],[-103.707092,19.247511],[-103.708183,19.247482],[-103.709908,19.249084],[-103.707504,19.24884]]]],"created":1247750282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2670/shapefiles/126315_20090716_186636751b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

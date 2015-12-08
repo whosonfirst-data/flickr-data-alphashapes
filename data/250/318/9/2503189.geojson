@@ -1,0 +1,15 @@
+{
+  "id": 2503189,
+  "type": "Feature",
+  "properties": {
+    "name":"Swiss, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2503189,
+    "woe:name":"Swiss, North Carolina, United States",
+    "woe:place_id":"P2AKxFSbBJxutC7s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.472984,35.908344,-82.472702,35.909065],
+  "geometry": {"alpha":0.00015,"bbox":[-82.472984313965,35.908344268799,-82.472702026367,35.909065246582],"coordinates":[[[[-82.472839,35.908535],[-82.472984,35.909065],[-82.472702,35.908745],[-82.47271,35.908344],[-82.472839,35.908535]]]],"created":1292451993,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2503189_20101215_2ee3edb3b9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

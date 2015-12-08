@@ -1,0 +1,15 @@
+{
+  "id": 12223,
+  "type": "Feature",
+  "properties": {
+    "name":"Bedmond, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12223,
+    "woe:name":"Bedmond, England, United Kingdom",
+    "woe:place_id":"SM2EpWGYA56uaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.410989,51.722118,-0.405056,51.724762],
+  "geometry": {"alpha":0.00015,"bbox":[-0.41098898649216,51.722118377686,-0.40505599975586,51.724761962891],"coordinates":[[[[-0.410989,51.722935],[-0.410871,51.723412],[-0.410485,51.723518],[-0.405056,51.724762],[-0.40902,51.722118],[-0.410989,51.722935]]]],"created":1292450280,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12223_20101215_ce76c26bcc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

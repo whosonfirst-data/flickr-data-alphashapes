@@ -1,0 +1,15 @@
+{
+  "id": 560782,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunnamaggan, Kilkenny, Ireland",
+    "placetype":"locality",
+    "woe:id":560782,
+    "woe:name":"Dunnamaggan, Kilkenny, Ireland",
+    "woe:place_id":"UDRGI22cB5yVr50",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.339382,52.504753,-7.329382,52.514759],
+  "geometry": {"alpha":0.00015,"bbox":[-7.3393821716309,52.504753112793,-7.329381942749,52.514759063721],"coordinates":[[[[-7.329511,52.514759],[-7.329382,52.513348],[-7.338738,52.504753],[-7.339382,52.505318],[-7.329511,52.514759]]]],"created":1292518204,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/560782_20101216_7593fba859.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

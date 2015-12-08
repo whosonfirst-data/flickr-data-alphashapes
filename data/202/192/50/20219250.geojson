@@ -1,0 +1,15 @@
+{
+  "id": 20219250,
+  "type": "Feature",
+  "properties": {
+    "name":"Villeneuve, Centre, France",
+    "placetype":"locality",
+    "woe:id":20219250,
+    "woe:name":"Villeneuve, Centre, France",
+    "woe:place_id":"CF.3_cmbAZ42xYmCZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.003631,48.288219,2.007579,48.291088],
+  "geometry": {"alpha":0.00015,"bbox":[2.0036311149597,48.288219451904,2.0075790882111,48.291088104248],"coordinates":[[[[2.004039,48.291088],[2.007579,48.288219],[2.003631,48.291016],[2.003889,48.291061],[2.004039,48.291088]]]],"created":1292548890,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/20219250_20101217_e0c661d408.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

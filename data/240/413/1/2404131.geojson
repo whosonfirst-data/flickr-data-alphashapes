@@ -1,0 +1,15 @@
+{
+  "id": 2404131,
+  "type": "Feature",
+  "properties": {
+    "name":"Flat Rock, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2404131,
+    "woe:name":"Flat Rock, Idaho, United States",
+    "woe:place_id":"CLu.L.qbBZz6i14H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.343689,44.496811,-111.331459,44.506302],
+  "geometry": {"alpha":0.00015,"bbox":[-111.34368896484,44.496810913086,-111.33145904541,44.506301879883],"coordinates":[[[[-111.336479,44.501019],[-111.336052,44.500683],[-111.331459,44.496811],[-111.33876,44.497509],[-111.343689,44.506302],[-111.336479,44.501019]]]],"created":1292524350,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2404131_20101216_59435b9cf6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

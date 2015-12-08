@@ -1,0 +1,15 @@
+{
+  "id": 775100,
+  "type": "Feature",
+  "properties": {
+    "name":"Tagarina, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":775100,
+    "woe:name":"Tagarina, Valencia, Spain",
+    "woe:place_id":"eTMjqdyeBpl66Bg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.280838,38.629032,-0.250676,38.654415],
+  "geometry": {"alpha":0.00015,"bbox":[-0.28083801269531,38.62903213501,-0.25067600607872,38.654415130615],"coordinates":[[[[-0.280838,38.649857],[-0.275688,38.652538],[-0.273285,38.654415],[-0.265582,38.632126],[-0.250676,38.629032],[-0.267791,38.630684],[-0.280838,38.649857]]]],"created":1292545652,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/775100_20101217_1987e02fb4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

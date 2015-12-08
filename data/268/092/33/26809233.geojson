@@ -1,0 +1,15 @@
+{
+  "id": 26809233,
+  "type": "Feature",
+  "properties": {
+    "name":"San Rafael Arriba, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809233,
+    "woe:name":"San Rafael Arriba, Costa Rica",
+    "woe:place_id":"68ZrFZWbB5RPI5vqMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.085922,9.874496,-84.077339,9.882613],
+  "geometry": {"alpha":1e-05,"bbox":[-84.085922241211,9.8744964599609,-84.077339172363,9.8826131820679],"coordinates":[[[[-84.077339,9.876018],[-84.082832,9.874496],[-84.081802,9.878216],[-84.085922,9.882613],[-84.081116,9.879907],[-84.077339,9.876018]]]],"created":1247862491,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2565/shapefiles/26809233_20090717_be0c3e0431.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

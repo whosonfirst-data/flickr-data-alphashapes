@@ -1,0 +1,15 @@
+{
+  "id": 28744368,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairhaven, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744368,
+    "woe:name":"Fairhaven, Michigan, United States",
+    "woe:place_id":"bvia9vabCZvvMwFZKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.384514,43.84827,-83.378502,43.853222],
+  "geometry": {"alpha":0.00015,"bbox":[-83.38451385498,43.84827041626,-83.37850189209,43.853221893311],"coordinates":[[[[-83.384514,43.851116],[-83.384514,43.853222],[-83.378998,43.849003],[-83.378502,43.84827],[-83.384514,43.851116]]]],"created":1292509687,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/28744368_20101216_14465168a9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

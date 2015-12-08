@@ -1,0 +1,15 @@
+{
+  "id": 2507662,
+  "type": "Feature",
+  "properties": {
+    "name":"Transylvania, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2507662,
+    "woe:name":"Transylvania, Louisiana, United States",
+    "woe:place_id":"eNGIJYKbBJxPz0tR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.184464,32.676254,-91.178108,32.690388],
+  "geometry": {"alpha":0.00015,"bbox":[-91.184463500977,32.676254272461,-91.178108215332,32.69038772583],"coordinates":[[[[-91.182571,32.678516],[-91.184464,32.690243],[-91.178795,32.690388],[-91.178108,32.685837],[-91.181885,32.676254],[-91.182571,32.678516]]]],"created":1292478186,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2507662_20101216_bb72d1696c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

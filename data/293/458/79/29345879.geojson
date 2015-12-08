@@ -1,0 +1,15 @@
+{
+  "id": 29345879,
+  "type": "Feature",
+  "properties": {
+    "name":"Haibach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29345879,
+    "woe:name":"Haibach, Bavaria, Germany",
+    "woe:place_id":"nUNG2W2bCJ9wbZ3SnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.488378,48.570175,13.495159,48.575245],
+  "geometry": {"alpha":0.00015,"bbox":[13.488377571106,48.570175170898,13.49515914917,48.575244903564],"coordinates":[[[[13.495159,48.575245],[13.494966,48.573227],[13.49224,48.570175],[13.488378,48.571323],[13.49327,48.575104],[13.495159,48.575245]]]],"created":1292442483,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/29345879_20101215_ac4ae00398.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

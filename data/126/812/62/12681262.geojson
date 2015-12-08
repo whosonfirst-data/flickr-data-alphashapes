@@ -1,0 +1,15 @@
+{
+  "id": 12681262,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino in Passiria, Italy",
+    "placetype":"locality",
+    "woe:id":12681262,
+    "woe:name":"San Martino in Passiria, Italy",
+    "woe:place_id":"7AQxjq6YA5oT5ckfBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.242961,46.746681,11.246395,46.748329],
+  "geometry": {"alpha":1e-05,"bbox":[11.242960929871,46.746681213379,11.246395111084,46.748329162598],"coordinates":[[[[11.242961,46.748035],[11.243476,46.748329],[11.246395,46.746933],[11.245708,46.746681],[11.242961,46.748035]]]],"created":1292443975,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12681262_20101215_e085ea6fb7.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2349575,
+  "type": "Feature",
+  "properties": {
+    "name":"Momona, Otago, New Zealand",
+    "placetype":"locality",
+    "woe:id":2349575,
+    "woe:name":"Momona, Otago, New Zealand",
+    "woe:place_id":"eZsv13ibApi0AVPZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [170.192978,-45.925663,170.210327,-45.923035],
+  "geometry": {"alpha":0.00015,"bbox":[170.19297790527,-45.925662994385,170.21032714844,-45.923034667969],"coordinates":[[[[170.200409,-45.923477],[170.210327,-45.923035],[170.201401,-45.925663],[170.192978,-45.925125],[170.199509,-45.923813],[170.200409,-45.923477]]]],"created":1247813282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3418/shapefiles/2349575_20090717_8011246ef2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20211850,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellecombe, Franche-Comte, France",
+    "placetype":"locality",
+    "woe:id":20211850,
+    "woe:name":"Bellecombe, Franche-Comte, France",
+    "woe:place_id":"MptGPx2bAZ4lzssdBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.906524,46.302471,5.91854,46.315517],
+  "geometry": {"alpha":0.00015,"bbox":[5.906524181366,46.302471160889,5.9185400009155,46.315517425537],"coordinates":[[[[5.907468,46.314777],[5.91854,46.315517],[5.909614,46.309231],[5.906524,46.302471],[5.907554,46.306503],[5.907468,46.314777]]]],"created":1292488384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20211850_20101216_2ff8866d65.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

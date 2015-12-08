@@ -1,0 +1,15 @@
+{
+  "id": 2467752,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer Corner, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2467752,
+    "woe:name":"Palmer Corner, Vermont, United States",
+    "woe:place_id":"00VxSvibBZph0h73",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.379105,44.000347,-73.363876,44.0047],
+  "geometry": {"alpha":0.00015,"bbox":[-73.379104614258,44.000347137451,-73.363876342773,44.004699707031],"coordinates":[[[[-73.374596,44.000347],[-73.379105,44.003448],[-73.377434,44.0047],[-73.375252,44.004375],[-73.37471,44.004311],[-73.363876,44.000793],[-73.374596,44.000347]]]],"created":1292507289,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2467752_20101216_06cc304718.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2497804,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring City, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2497804,
+    "woe:name":"Spring City, Tennessee, United States",
+    "woe:place_id":"aMpY7LubBZUvDZ67",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.869041,35.687748,-84.853165,35.699818],
+  "geometry": {"alpha":0.00015,"bbox":[-84.869041442871,35.687747955322,-84.853164672852,35.699817657471],"coordinates":[[[[-84.854828,35.699818],[-84.853165,35.689278],[-84.869041,35.687748],[-84.859856,35.693745],[-84.854828,35.699818]]]],"created":1248071166,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2535/shapefiles/2497804_20090720_6889f3eb3e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20123120,
+  "type": "Feature",
+  "properties": {
+    "name":"Cussorgia, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":20123120,
+    "woe:name":"Cussorgia, Sardinia, Italy",
+    "woe:place_id":"3kX5tQibAZ2YEtEgJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.360595,39.115143,8.370208,39.121269],
+  "geometry": {"alpha":0.00015,"bbox":[8.3605947494507,39.115142822266,8.3702077865601,39.121269226074],"coordinates":[[[[8.366447,39.120876],[8.370208,39.116741],[8.366088,39.115143],[8.360595,39.117275],[8.365402,39.121269],[8.366447,39.120876]]]],"created":1292518948,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20123120_20101216_98f8fa409b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

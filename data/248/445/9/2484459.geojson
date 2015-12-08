@@ -1,0 +1,15 @@
+{
+  "id": 2484459,
+  "type": "Feature",
+  "properties": {
+    "name":"Roscoe, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2484459,
+    "woe:name":"Roscoe, Missouri, United States",
+    "woe:place_id":"QQT.pQqbBZSpeHOt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.809853,37.956821,-93.792984,37.97411],
+  "geometry": {"alpha":0.00015,"bbox":[-93.809852600098,37.95682144165,-93.792984008789,37.974109649658],"coordinates":[[[[-93.793976,37.959698],[-93.798737,37.956821],[-93.79985,37.959663],[-93.809853,37.97411],[-93.792984,37.962715],[-93.793976,37.959698]]]],"created":1292512982,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2484459_20101216_9d1379f124.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

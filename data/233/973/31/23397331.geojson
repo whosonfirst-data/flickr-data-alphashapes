@@ -1,0 +1,15 @@
+{
+  "id": 23397331,
+  "type": "Feature",
+  "properties": {
+    "name":"Selby, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397331,
+    "woe:name":"Selby, Ontario, Canada",
+    "woe:place_id":"xHHV2.ObAp_rr5rg9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.990295,44.280479,-76.979485,44.301521],
+  "geometry": {"alpha":0.00015,"bbox":[-76.990295410156,44.280479431152,-76.979484558105,44.30152130127],"coordinates":[[[[-76.983948,44.301521],[-76.98307,44.299644],[-76.979485,44.280479],[-76.990295,44.299034],[-76.983948,44.301521]]]],"created":1292527787,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/23397331_20101216_ffb524eeb7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

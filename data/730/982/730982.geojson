@@ -1,0 +1,15 @@
+{
+  "id": 730982,
+  "type": "Feature",
+  "properties": {
+    "name":"Krommeiniedijk, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730982,
+    "woe:name":"Krommeiniedijk, North Holland, Netherlands",
+    "woe:place_id":"ppg3lqieApy5mZ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.745391,52.5173,4.756371,52.520714],
+  "geometry": {"alpha":0.00015,"bbox":[4.7453908920288,52.5172996521,4.7563710212708,52.520713806152],"coordinates":[[[[4.754462,52.520714],[4.756371,52.518166],[4.751458,52.517826],[4.749794,52.51738],[4.745655,52.5173],[4.745391,52.517792],[4.754462,52.520714]]]],"created":1292451061,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/730982_20101215_7958985486.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

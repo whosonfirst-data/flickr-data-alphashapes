@@ -1,0 +1,15 @@
+{
+  "id": 718784,
+  "type": "Feature",
+  "properties": {
+    "name":"Montecarotto, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":718784,
+    "woe:name":"Montecarotto, Marche, Italy",
+    "woe:place_id":"nNnv.YGeAJQ1xlw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.052378,43.522747,13.074417,43.532372],
+  "geometry": {"alpha":0.00015,"bbox":[13.052377700806,43.522747039795,13.074417114258,43.532371520996],"coordinates":[[[[13.063784,43.526348],[13.063,43.526001],[13.052378,43.522747],[13.054847,43.532372],[13.062915,43.528263],[13.074417,43.529259],[13.063784,43.526348]]]],"created":1292528112,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/718784_20101216_5eaceecb51.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

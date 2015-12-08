@@ -1,0 +1,15 @@
+{
+  "id": 12602245,
+  "type": "Feature",
+  "properties": {
+    "name":"Schilde, Belgium",
+    "placetype":"locality",
+    "woe:id":12602245,
+    "woe:name":"Schilde, Belgium",
+    "woe:place_id":"NT0j1lyYA5r3VjpCdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.599301,51.235508,4.607584,51.241608],
+  "geometry": {"alpha":1e-05,"bbox":[4.5993008613586,51.235507965088,4.6075839996338,51.241607666016],"coordinates":[[[[4.602606,51.237495],[4.599301,51.24099],[4.602906,51.241608],[4.605567,51.239323],[4.60664,51.237995],[4.607584,51.235508],[4.602606,51.237495]]]],"created":1292549009,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12602245_20101217_c838c810e5.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

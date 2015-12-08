@@ -1,0 +1,15 @@
+{
+  "id": 486732,
+  "type": "Feature",
+  "properties": {
+    "name":"Bobrowice, Lubusz, Poland",
+    "placetype":"locality",
+    "woe:id":486732,
+    "woe:name":"Bobrowice, Lubusz, Poland",
+    "woe:place_id":"6P0mgb.dCZqhXM8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.086352,51.948284,15.107574,51.958652],
+  "geometry": {"alpha":0.00015,"bbox":[15.086352348328,51.94828414917,15.107574462891,51.958652496338],"coordinates":[[[[15.102081,51.958652],[15.107574,51.956535],[15.091438,51.948284],[15.086352,51.953033],[15.087318,51.952835],[15.101394,51.958389],[15.102081,51.958652]]]],"created":1292542503,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/486732_20101216_9ce028ffd9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

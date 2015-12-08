@@ -1,0 +1,15 @@
+{
+  "id": 976505,
+  "type": "Feature",
+  "properties": {
+    "name":"Roux, Hainault, Belgium",
+    "placetype":"locality",
+    "woe:id":976505,
+    "woe:name":"Roux, Hainault, Belgium",
+    "woe:place_id":"UwbDWPqQBpoNGak",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.378329,50.42923,4.395389,50.460487],
+  "geometry": {"alpha":0.00015,"bbox":[4.3783288002014,50.429229736328,4.3953890800476,50.460487365723],"coordinates":[[[[4.388759,50.436172],[4.389338,50.42923],[4.386806,50.437992],[4.386166,50.439999],[4.378329,50.460487],[4.395389,50.451054],[4.388759,50.436172]]]],"created":1292544193,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/976505_20101217_109724ed0b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

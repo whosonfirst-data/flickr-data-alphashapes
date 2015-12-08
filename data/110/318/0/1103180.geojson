@@ -1,0 +1,15 @@
+{
+  "id": 1103180,
+  "type": "Feature",
+  "properties": {
+    "name":"Koondrook, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103180,
+    "woe:name":"Koondrook, Victoria, Australia",
+    "woe:place_id":"SusbgamYAJwE2Wri",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.118134,-35.651489,144.133072,-35.623047],
+  "geometry": {"alpha":0.00015,"bbox":[144.11813354492,-35.651489257812,144.13307189941,-35.623046875],"coordinates":[[[[144.129471,-35.633511],[144.133072,-35.641045],[144.13208,-35.651489],[144.12912,-35.639091],[144.118484,-35.629326],[144.118134,-35.623047],[144.129471,-35.633511]]]],"created":1292458959,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/1103180_20101216_15fca2777b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 730600,
+  "type": "Feature",
+  "properties": {
+    "name":"Noordeinde, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730600,
+    "woe:name":"Noordeinde, Gelderland, Netherlands",
+    "woe:place_id":"0r8XHoKeApxGKuI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.827646,52.488163,5.888071,52.538887],
+  "geometry": {"alpha":0.00015,"bbox":[5.827645778656,52.488162994385,5.8880710601807,52.538887023926],"coordinates":[[[[5.879058,52.510632],[5.879487,52.511311],[5.888071,52.522903],[5.885324,52.528648],[5.881462,52.530636],[5.866184,52.51836],[5.852794,52.50499],[5.846378,52.493782],[5.838546,52.489365],[5.834469,52.488163],[5.827646,52.490906],[5.830993,52.497414],[5.845912,52.506718],[5.849275,52.517891],[5.859722,52.538612],[5.860277,52.538887],[5.866184,52.51836],[5.879058,52.510632]]]],"created":1292527233,"edges":18,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/730600_20101216_6fd803f5fd.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

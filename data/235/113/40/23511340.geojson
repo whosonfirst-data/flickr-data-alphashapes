@@ -1,0 +1,15 @@
+{
+  "id": 23511340,
+  "type": "Feature",
+  "properties": {
+    "name":"Scottsville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":23511340,
+    "woe:name":"Scottsville, South Carolina, United States",
+    "woe:place_id":"hMu9qAqbApkfXFTGzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.165092,33.925415,-80.158699,33.942825],
+  "geometry": {"alpha":0.00015,"bbox":[-80.165092468262,33.925415039062,-80.158699035645,33.942825317383],"coordinates":[[[[-80.160561,33.932816],[-80.158699,33.925415],[-80.16095,33.932697],[-80.165092,33.942825],[-80.160561,33.932816]]]],"created":1292529525,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/23511340_20101216_1fabdbe44f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

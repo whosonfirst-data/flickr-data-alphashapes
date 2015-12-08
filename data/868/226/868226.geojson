@@ -1,0 +1,15 @@
+{
+  "id": 868226,
+  "type": "Feature",
+  "properties": {
+    "name":"Buciumu, Brasov, Romania",
+    "placetype":"locality",
+    "woe:id":868226,
+    "woe:name":"Buciumu, Brasov, Romania",
+    "woe:place_id":"ZO4Xf9qRB5R70bY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.096352,45.740993,25.098869,45.744873],
+  "geometry": {"alpha":0.00015,"bbox":[25.096351623535,45.740993499756,25.09886932373,45.744873046875],"coordinates":[[[[25.098869,45.74474],[25.098866,45.744659],[25.096352,45.740993],[25.098413,45.744846],[25.098597,45.744873],[25.098869,45.74474]]]],"created":1292440040,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/868226_20101215_caf98a2b06.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

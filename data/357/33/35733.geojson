@@ -1,0 +1,15 @@
+{
+  "id": 35733,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Mellion, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35733,
+    "woe:name":"St. Mellion, England, United Kingdom",
+    "woe:place_id":"riV.Kk6aBJudcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.283294,50.465591,-4.269562,50.473083],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2832942008972,50.465591430664,-4.2695617675781,50.473083496094],"coordinates":[[[[-4.283294,50.472363],[-4.282007,50.473083],[-4.270909,50.468048],[-4.269562,50.465591],[-4.279432,50.46772],[-4.283294,50.472363]]]],"created":1292504404,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/35733_20101216_191185b644.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

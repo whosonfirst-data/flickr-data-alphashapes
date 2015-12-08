@@ -1,0 +1,15 @@
+{
+  "id": 606712,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Loges, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":606712,
+    "woe:name":"Les Loges, Haute-Normandie, France",
+    "woe:place_id":"2MDtiwafAZonsfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.308915,49.738701,0.312724,49.740292],
+  "geometry": {"alpha":0.00015,"bbox":[0.30891498923302,49.738700866699,0.31272399425507,49.740291595459],"coordinates":[[[[0.310063,49.739498],[0.308915,49.739651],[0.31002,49.740013],[0.311737,49.740292],[0.312724,49.738701],[0.310063,49.739498]]]],"created":1292518253,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/606712_20101216_4d41c9a56c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

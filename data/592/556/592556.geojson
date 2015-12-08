@@ -1,0 +1,15 @@
+{
+  "id": 592556,
+  "type": "Feature",
+  "properties": {
+    "name":"Geispolsheim, Alsace, France",
+    "placetype":"locality",
+    "woe:id":592556,
+    "woe:name":"Geispolsheim, Alsace, France",
+    "woe:place_id":"pI0BY3KcCJ4Qlzo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.638759,48.514687,7.651199,48.52047],
+  "geometry": {"alpha":0.00015,"bbox":[7.6387591362,48.514686584473,7.6511988639832,48.520469665527],"coordinates":[[[[7.651199,48.51598],[7.646977,48.516121],[7.638759,48.514687],[7.648544,48.518764],[7.65026,48.52047],[7.651199,48.51598]]]],"created":1292523371,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/592556_20101216_abf8fe9ce8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

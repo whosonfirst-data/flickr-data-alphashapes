@@ -1,0 +1,15 @@
+{
+  "id": 12689026,
+  "type": "Feature",
+  "properties": {
+    "name":"Berrocal, Spain",
+    "placetype":"locality",
+    "woe:id":12689026,
+    "woe:name":"Berrocal, Spain",
+    "woe:place_id":"rI4wV0WYA5pZnDp86A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.57566,37.509045,-6.573085,37.514492],
+  "geometry": {"alpha":1e-05,"bbox":[-6.5756602287292,37.509044647217,-6.5730848312378,37.514492034912],"coordinates":[[[[-6.573085,37.50959],[-6.574115,37.509045],[-6.574459,37.509724],[-6.57566,37.514492],[-6.57463,37.514084],[-6.573085,37.50959]]]],"created":1292452146,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12689026_20101215_57297dede3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

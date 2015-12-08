@@ -1,0 +1,15 @@
+{
+  "id": 12654065,
+  "type": "Feature",
+  "properties": {
+    "name":"Vauchignon, France",
+    "placetype":"locality",
+    "woe:id":12654065,
+    "woe:name":"Vauchignon, France",
+    "woe:place_id":"oYZNzVCYA5qKjwFIHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.643483,46.980736,4.649105,46.987629],
+  "geometry": {"alpha":1e-05,"bbox":[4.6434831619263,46.980735778809,4.6491050720215,46.987628936768],"coordinates":[[[[4.647474,46.987629],[4.649105,46.986607],[4.648933,46.985699],[4.64653,46.981892],[4.643483,46.980736],[4.645929,46.985813],[4.647474,46.987629]]]],"created":1292530928,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12654065_20101216_35d1c35169.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

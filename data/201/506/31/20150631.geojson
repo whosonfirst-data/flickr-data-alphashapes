@@ -1,0 +1,15 @@
+{
+  "id": 20150631,
+  "type": "Feature",
+  "properties": {
+    "name":"Aeroporto, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20150631,
+    "woe:name":"Aeroporto, Veneto, Italy",
+    "woe:place_id":"J.lFic6bAZ2ZqPuFjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.919036,45.458836,10.929851,45.474335],
+  "geometry": {"alpha":0.00015,"bbox":[10.91903591156,45.458835601807,10.929850578308,45.474334716797],"coordinates":[[[[10.929851,45.469482],[10.928778,45.458836],[10.92483,45.470573],[10.919036,45.474335],[10.929776,45.471664],[10.929776,45.471169],[10.929851,45.469482]]]],"created":1292538656,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/20150631_20101216_84da21f8b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

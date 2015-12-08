@@ -1,0 +1,15 @@
+{
+  "id": 20180576,
+  "type": "Feature",
+  "properties": {
+    "name":"Champigny, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":20180576,
+    "woe:name":"Champigny, Pays de la Loire, France",
+    "woe:place_id":"lRE2NE.bAZ1_AhfrfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.038795,47.209072,-0.015964,47.215137],
+  "geometry": {"alpha":0.00015,"bbox":[-0.038795001804829,47.209072113037,-0.015963999554515,47.215137481689],"coordinates":[[[[-0.021629,47.215137],[-0.015964,47.213737],[-0.023732,47.21104],[-0.038795,47.209072],[-0.021629,47.215137]]]],"created":1292471707,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20180576_20101216_4cfa1082a2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

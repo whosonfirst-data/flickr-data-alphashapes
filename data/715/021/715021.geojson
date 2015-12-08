@@ -1,0 +1,15 @@
+{
+  "id": 715021,
+  "type": "Feature",
+  "properties": {
+    "name":"Diso, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":715021,
+    "woe:name":"Diso, Puglia, Italy",
+    "woe:place_id":"rV1g5TyeAJmwEVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.388882,40.002281,18.394503,40.011444],
+  "geometry": {"alpha":0.00015,"bbox":[18.38888168335,40.002281188965,18.394502639771,40.011444091797],"coordinates":[[[[18.389225,40.007927],[18.389053,40.011444],[18.391756,40.01104],[18.393173,40.01046],[18.394503,40.002281],[18.388882,40.005329],[18.389225,40.007927]]]],"created":1292511185,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/715021_20101216_20fe9ba428.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

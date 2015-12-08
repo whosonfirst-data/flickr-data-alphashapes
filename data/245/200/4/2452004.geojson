@@ -1,0 +1,15 @@
+{
+  "id": 2452004,
+  "type": "Feature",
+  "properties": {
+    "name":"Mineralwells, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2452004,
+    "woe:name":"Mineralwells, West Virginia, United States",
+    "woe:place_id":"AtQNKBabBZnFlzQI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.537781,39.173325,-81.511169,39.195965],
+  "geometry": {"alpha":0.00015,"bbox":[-81.537780761719,39.173324584961,-81.511169433594,39.195964813232],"coordinates":[[[[-81.526688,39.195965],[-81.511169,39.183502],[-81.521774,39.183521],[-81.537781,39.173325],[-81.531235,39.194546],[-81.526688,39.195965]]]],"created":1292454459,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2452004_20101215_589b76f4af.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

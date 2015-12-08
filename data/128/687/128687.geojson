@@ -1,0 +1,15 @@
+{
+  "id": 128687,
+  "type": "Feature",
+  "properties": {
+    "name":"La Paz, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":128687,
+    "woe:name":"La Paz, Nuevo Leon, Mexico",
+    "woe:place_id":"DUmylQaYA5TIxaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.441002,24.927694,-100.434448,24.934166],
+  "geometry": {"alpha":0.00015,"bbox":[-100.44100189209,24.927694320679,-100.43444824219,24.93416595459],"coordinates":[[[[-100.437218,24.930883],[-100.434448,24.928267],[-100.435638,24.927694],[-100.441002,24.934166],[-100.437218,24.930883]]]],"created":1292540914,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/128687_20101216_3f2ec2d085.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

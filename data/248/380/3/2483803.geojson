@@ -1,0 +1,15 @@
+{
+  "id": 2483803,
+  "type": "Feature",
+  "properties": {
+    "name":"Rodessa, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2483803,
+    "woe:name":"Rodessa, Louisiana, United States",
+    "woe:place_id":"Kh1wr9abBZSjSUOq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.995377,32.959461,-93.973358,32.973778],
+  "geometry": {"alpha":0.00015,"bbox":[-93.995376586914,32.959461212158,-93.973358154297,32.973777770996],"coordinates":[[[[-93.995377,32.971592],[-93.992584,32.973778],[-93.992058,32.973602],[-93.973358,32.96133],[-93.9935,32.959461],[-93.995377,32.971592]]]],"created":1292494028,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2483803_20101216_edc7b67123.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2367093,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, New York, United States",
+    "placetype":"locality",
+    "woe:id":2367093,
+    "woe:name":"Boston, New York, United States",
+    "woe:place_id":"qXBgqFGbApqegWfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.768364,42.627983,-78.718712,42.657852],
+  "geometry": {"alpha":0.00015,"bbox":[-78.768363952637,42.627983093262,-78.718711853027,42.657852172852],"coordinates":[[[[-78.74601,42.652538],[-78.75563,42.652393],[-78.768364,42.640461],[-78.759613,42.630421],[-78.75563,42.652393],[-78.747223,42.657852],[-78.73513,42.655155],[-78.718712,42.644913],[-78.735634,42.627983],[-78.736435,42.642735],[-78.74601,42.652538]]]],"created":1292547314,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2367093_20101217_a72374623f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

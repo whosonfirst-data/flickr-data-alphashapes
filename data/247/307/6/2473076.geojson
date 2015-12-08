@@ -1,0 +1,15 @@
+{
+  "id": 2473076,
+  "type": "Feature",
+  "properties": {
+    "name":"Piqua, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2473076,
+    "woe:name":"Piqua, Kansas, United States",
+    "woe:place_id":"gAQRnsSbBZtXv3RG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.54158,37.918674,-95.528603,37.922058],
+  "geometry": {"alpha":0.00015,"bbox":[-95.541580200195,37.918674468994,-95.528602600098,37.922058105469],"coordinates":[[[[-95.537773,37.921196],[-95.534019,37.922058],[-95.528603,37.920139],[-95.538139,37.918674],[-95.54158,37.919582],[-95.537773,37.921196]]]],"created":1248031689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2605/shapefiles/2473076_20090719_6a1c3fceae.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

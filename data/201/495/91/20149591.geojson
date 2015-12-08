@@ -1,0 +1,15 @@
+{
+  "id": 20149591,
+  "type": "Feature",
+  "properties": {
+    "name":"Casabianca, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20149591,
+    "woe:name":"Casabianca, Piedmont, Italy",
+    "woe:place_id":"IGI7jjWbAZ3x150DUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.135579,44.915485,8.141319,44.920273],
+  "geometry": {"alpha":0.00015,"bbox":[8.1355791091919,44.91548538208,8.1413192749023,44.920272827148],"coordinates":[[[[8.138777,44.916252],[8.135579,44.918434],[8.140182,44.920273],[8.140697,44.919048],[8.141319,44.915485],[8.138777,44.916252]]]],"created":1292529429,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20149591_20101216_64509ff10f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2421356,
+  "type": "Feature",
+  "properties": {
+    "name":"Highland, Pittsburgh, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2421356,
+    "woe:name":"Highland, Pittsburgh, PA, US, United States",
+    "woe:place_id":"KMeNRwCbBZ5Ds3pX",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.06823,40.547775,-80.04232,40.568005],
+  "geometry": {"alpha":0.00015,"bbox":[-80.068229675293,40.547775268555,-80.042320251465,40.568004608154],"coordinates":[[[[-80.051018,40.568005],[-80.04232,40.553024],[-80.051987,40.553581],[-80.061729,40.547775],[-80.06823,40.552124],[-80.051018,40.568005]]]],"created":1234895658,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3213/shapefiles/2421356_20090217_912c85059b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2505159,
+  "type": "Feature",
+  "properties": {
+    "name":"The Colony, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2505159,
+    "woe:name":"The Colony, Maryland, United States",
+    "woe:place_id":"tJOi0yibBJy6frgs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.617706,39.408443,-76.611336,39.411777],
+  "geometry": {"alpha":0.00015,"bbox":[-76.617706298828,39.408443450928,-76.611335754395,39.411777496338],"coordinates":[[[[-76.616135,39.409866],[-76.61412,39.411777],[-76.611336,39.410484],[-76.614746,39.409069],[-76.617706,39.408443],[-76.616135,39.409866]]]],"created":1292545600,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2505159_20101217_21e9e20512.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

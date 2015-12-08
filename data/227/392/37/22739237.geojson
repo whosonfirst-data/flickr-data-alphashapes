@@ -1,0 +1,15 @@
+{
+  "id": 22739237,
+  "type": "Feature",
+  "properties": {
+    "name":"Saratoga, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22739237,
+    "woe:name":"Saratoga, New South Wales, Australia",
+    "woe:place_id":"hpFDymGbA5sKRszSNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.347198,-33.481422,151.355331,-33.47047],
+  "geometry": {"alpha":0.00015,"bbox":[151.34719848633,-33.481422424316,151.3553314209,-33.470470428467],"coordinates":[[[[151.354355,-33.47047],[151.355331,-33.473038],[151.353683,-33.475639],[151.349548,-33.481422],[151.347198,-33.471992],[151.354355,-33.47047]]]],"created":1247799727,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3510/shapefiles/22739237_20090717_5b04bbdce6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

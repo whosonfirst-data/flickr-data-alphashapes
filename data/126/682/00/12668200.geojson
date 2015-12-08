@@ -1,0 +1,15 @@
+{
+  "id": 12668200,
+  "type": "Feature",
+  "properties": {
+    "name":"Phalsbourg, France",
+    "placetype":"locality",
+    "woe:id":12668200,
+    "woe:name":"Phalsbourg, France",
+    "woe:place_id":"BLusq96YA5pDH5TLNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.257896,48.766754,7.262263,48.768185],
+  "geometry": {"alpha":1e-05,"bbox":[7.2578959465027,48.766754150391,7.2622628211975,48.768184661865],"coordinates":[[[[7.257971,48.766872],[7.257896,48.767136],[7.258014,48.768185],[7.258776,48.76759],[7.262263,48.766754],[7.258604,48.767136],[7.257971,48.766872]]]],"created":1292526640,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12668200_20101216_ed9d4fc23c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

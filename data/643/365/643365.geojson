@@ -1,0 +1,15 @@
+{
+  "id": 643365,
+  "type": "Feature",
+  "properties": {
+    "name":"Crock, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":643365,
+    "woe:name":"Crock, Thuringia, Germany",
+    "woe:place_id":"SURIQTqfBZ.ZDgM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.872173,50.447666,10.890455,50.453568],
+  "geometry": {"alpha":0.00015,"bbox":[10.872173309326,50.447666168213,10.890455245972,50.453567504883],"coordinates":[[[[10.888309,50.452969],[10.890455,50.451328],[10.885648,50.447666],[10.874748,50.44936],[10.872173,50.45018],[10.885906,50.453568],[10.888309,50.452969]]]],"created":1292529901,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/643365_20101216_4b7285c403.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

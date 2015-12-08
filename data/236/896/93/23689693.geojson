@@ -1,0 +1,15 @@
+{
+  "id": 23689693,
+  "type": "Feature",
+  "properties": {
+    "name":"East Vaughn, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":23689693,
+    "woe:name":"East Vaughn, New Mexico, United States",
+    "woe:place_id":"yRomYNybApqyiblcFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.202576,34.59515,-105.176537,34.615162],
+  "geometry": {"alpha":0.00015,"bbox":[-105.20257568359,34.595149993896,-105.17653656006,34.615161895752],"coordinates":[[[[-105.195412,34.599144],[-105.202576,34.601852],[-105.184799,34.615162],[-105.176537,34.595512],[-105.191856,34.59515],[-105.195412,34.599144]]]],"created":1292514127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/23689693_20101216_4861aa24bd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

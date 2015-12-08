@@ -1,0 +1,15 @@
+{
+  "id": 2435027,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Michigan Beach, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2435027,
+    "woe:name":"Lake Michigan Beach, Michigan, United States",
+    "woe:place_id":"WsqhZESbBZ9Gy5XK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.407471,42.219704,-86.368973,42.237286],
+  "geometry": {"alpha":0.00015,"bbox":[-86.407470703125,42.219703674316,-86.36897277832,42.237285614014],"coordinates":[[[[-86.376305,42.221222],[-86.383118,42.219704],[-86.407471,42.220383],[-86.384125,42.225719],[-86.368973,42.237286],[-86.376305,42.221222]]]],"created":1248234251,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2529/shapefiles/2435027_20090722_55d18529ec.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

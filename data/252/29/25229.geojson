@@ -1,0 +1,15 @@
+{
+  "id": 25229,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingswood, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25229,
+    "woe:name":"Kingswood, England, United Kingdom",
+    "woe:place_id":"rTeuIcKbBJ46ig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.629181,51.224949,0.646305,51.237095],
+  "geometry": {"alpha":0.00015,"bbox":[0.62918102741241,51.224948883057,0.64630502462387,51.23709487915],"coordinates":[[[[0.629181,51.225674],[0.62931,51.229591],[0.629568,51.237095],[0.646305,51.234085],[0.635232,51.228226],[0.629653,51.224949],[0.629181,51.225674]]]],"created":1292446820,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/25229_20101215_dbe7595e73.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

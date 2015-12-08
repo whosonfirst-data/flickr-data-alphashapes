@@ -1,0 +1,15 @@
+{
+  "id": 29371228,
+  "type": "Feature",
+  "properties": {
+    "name":"Areas, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":29371228,
+    "woe:name":"Areas, Galicia, Spain",
+    "woe:place_id":"G_BNfJubCJ.H3gYp7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.6277,42.171783,-8.626735,42.173328],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6276998519897,42.171783447266,-8.6267347335815,42.173328399658],"coordinates":[[[[-8.627604,42.172047],[-8.6277,42.173073],[-8.627003,42.173328],[-8.626735,42.171783],[-8.627572,42.172035],[-8.627604,42.172047]]]],"created":1292523731,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/29371228_20101216_3a6fd630c7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

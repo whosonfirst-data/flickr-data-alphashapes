@@ -1,0 +1,15 @@
+{
+  "id": 721234,
+  "type": "Feature",
+  "properties": {
+    "name":"Prata, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721234,
+    "woe:name":"Prata, Lombardy, Italy",
+    "woe:place_id":"gid5fs6eA50PN9E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.393969,46.303368,9.401421,46.314449],
+  "geometry": {"alpha":0.00015,"bbox":[9.3939685821533,46.303367614746,9.4014205932617,46.314449310303],"coordinates":[[[[9.394052,46.303368],[9.393969,46.303635],[9.397616,46.312332],[9.401421,46.314449],[9.397675,46.307434],[9.397522,46.306702],[9.394052,46.303368]]]],"created":1292439782,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/721234_20101215_0a2e749abc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

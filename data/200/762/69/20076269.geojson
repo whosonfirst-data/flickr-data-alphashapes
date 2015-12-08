@@ -1,0 +1,15 @@
+{
+  "id": 20076269,
+  "type": "Feature",
+  "properties": {
+    "name":"Pian Camuno, Italy",
+    "placetype":"locality",
+    "woe:id":20076269,
+    "woe:name":"Pian Camuno, Italy",
+    "woe:place_id":"AThSNFibAZxL9cPkog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.180892,45.827305,10.187244,45.830353],
+  "geometry": {"alpha":1e-05,"bbox":[10.180891990662,45.827304840088,10.187244415283,45.830352783203],"coordinates":[[[[10.186815,45.82856],[10.187244,45.827305],[10.186557,45.827362],[10.181493,45.828022],[10.180892,45.827843],[10.182609,45.830353],[10.186815,45.82856]]]],"created":1239575649,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3609/shapefiles/20076269_20090412_e4f9f9b820.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

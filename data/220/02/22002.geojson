@@ -1,0 +1,15 @@
+{
+  "id": 22002,
+  "type": "Feature",
+  "properties": {
+    "name":"Gulval, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22002,
+    "woe:name":"Gulval, England, United Kingdom",
+    "woe:place_id":"6wPCjaubA5x0BQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.526123,50.128666,-5.514278,50.142529],
+  "geometry": {"alpha":0.00015,"bbox":[-5.526123046875,50.128665924072,-5.5142779350281,50.142528533936],"coordinates":[[[[-5.517368,50.128666],[-5.519428,50.128723],[-5.526123,50.129822],[-5.526123,50.132023],[-5.515737,50.142529],[-5.514278,50.128941],[-5.517368,50.128666]]]],"created":1292548844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/22002_20101217_9e806a6da9.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

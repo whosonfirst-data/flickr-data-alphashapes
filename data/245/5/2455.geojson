@@ -1,0 +1,15 @@
+{
+  "id": 2455,
+  "type": "Feature",
+  "properties": {
+    "name":"Govan, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2455,
+    "woe:name":"Govan, Saskatchewan, Canada",
+    "woe:place_id":"_KJHJQibBZmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.99823,51.306873,-104.992432,51.311623],
+  "geometry": {"alpha":0.00015,"bbox":[-104.99822998047,51.306873321533,-104.99243164062,51.311622619629],"coordinates":[[[[-104.992432,51.310711],[-104.992455,51.306873],[-104.993546,51.307598],[-104.99823,51.310867],[-104.994965,51.311623],[-104.992432,51.310711]]]],"created":1292529620,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2455_20101216_985ebed206.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

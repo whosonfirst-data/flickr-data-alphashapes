@@ -1,0 +1,15 @@
+{
+  "id": 12694280,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Oliva, Spain",
+    "placetype":"locality",
+    "woe:id":12694280,
+    "woe:name":"Santa Oliva, Spain",
+    "woe:place_id":"N2Dhlu6YA5qUnATwog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.549478,41.25174,1.552825,41.254612],
+  "geometry": {"alpha":1e-05,"bbox":[1.5494780540466,41.251739501953,1.5528249740601,41.254611968994],"coordinates":[[[[1.549541,41.253548],[1.552825,41.254612],[1.552225,41.252808],[1.550937,41.25174],[1.549478,41.252033],[1.549541,41.253548]]]],"created":1292457190,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12694280_20101215_fc2fa9ee7a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

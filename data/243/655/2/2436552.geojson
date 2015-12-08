@@ -1,0 +1,15 @@
+{
+  "id": 2436552,
+  "type": "Feature",
+  "properties": {
+    "name":"Larchmont, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2436552,
+    "woe:name":"Larchmont, Virginia, United States",
+    "woe:place_id":"bdzGVtqbBZ9W9Fsh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.127792,38.883717,-77.12072,38.889797],
+  "geometry": {"alpha":0.00015,"bbox":[-77.127792358398,38.883716583252,-77.120719909668,38.889797210693],"coordinates":[[[[-77.127792,38.889481],[-77.127281,38.889797],[-77.125,38.889],[-77.12072,38.883717],[-77.127792,38.889481]]]],"created":1292448543,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2436552_20101215_b93b042c69.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

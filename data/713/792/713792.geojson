@@ -1,0 +1,15 @@
+{
+  "id": 713792,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceriano, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":713792,
+    "woe:name":"Ceriano, Lombardy, Italy",
+    "woe:place_id":"JY6w5CWeAJ9N04M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.072325,45.627857,9.093589,45.637058],
+  "geometry": {"alpha":0.00015,"bbox":[9.0723247528076,45.627857208252,9.0935888290405,45.637058258057],"coordinates":[[[[9.079449,45.632641],[9.072325,45.637058],[9.077796,45.635284],[9.087409,45.632828],[9.093589,45.634205],[9.092388,45.627857],[9.079449,45.632641]]]],"created":1292526250,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/713792_20101216_97db3c593e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

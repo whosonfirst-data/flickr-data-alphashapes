@@ -1,0 +1,15 @@
+{
+  "id": 12645242,
+  "type": "Feature",
+  "properties": {
+    "name":"Hommes, France",
+    "placetype":"locality",
+    "woe:id":12645242,
+    "woe:name":"Hommes, France",
+    "woe:place_id":"oDlhkzWYA5okm42qmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.276482,47.443779,0.279636,47.445621],
+  "geometry": {"alpha":1e-05,"bbox":[0.27648198604584,47.443778991699,0.27963599562645,47.445621490479],"coordinates":[[[[0.279636,47.444111],[0.279563,47.443848],[0.27793,47.443829],[0.276482,47.443779],[0.27822,47.445621],[0.279621,47.444164],[0.279636,47.444111]]]],"created":1292543704,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12645242_20101216_8d85c94c78.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

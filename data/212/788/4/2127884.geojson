@@ -1,0 +1,15 @@
+{
+  "id": 2127884,
+  "type": "Feature",
+  "properties": {
+    "name":"Dangtu, Anhui, China",
+    "placetype":"locality",
+    "woe:id":2127884,
+    "woe:name":"Dangtu, Anhui, China",
+    "woe:place_id":"E81sssybAJ46yqUe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [118.482895,31.551476,118.48983,31.559999],
+  "geometry": {"alpha":0.00015,"bbox":[118.48289489746,31.551475524902,118.48983001709,31.559999465942],"coordinates":[[[[118.484001,31.557501],[118.48983,31.559999],[118.48983,31.559834],[118.488235,31.551622],[118.485657,31.551476],[118.482895,31.55518],[118.484001,31.557501]]]],"created":1292512084,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2127884_20101216_eede9bf2d0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

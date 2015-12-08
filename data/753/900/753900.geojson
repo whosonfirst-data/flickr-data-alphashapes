@@ -1,0 +1,15 @@
+{
+  "id": 753900,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrio Moratalaz, Madrid, Madrid, ES, Spain",
+    "placetype":"neighbourhood",
+    "woe:id":753900,
+    "woe:name":"Barrio Moratalaz, Madrid, Madrid, ES, Spain",
+    "woe:place_id":"ncIAhVGeBJ8qOgA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-3.627253,40.400253,-3.614324,40.413658],
+  "geometry": {"alpha":1e-05,"bbox":[-3.6272530555725,40.400253295898,-3.614324092865,40.41365814209],"coordinates":[[[[-3.624439,40.400253],[-3.625334,40.400501],[-3.625667,40.401333],[-3.625016,40.404282],[-3.625445,40.408298],[-3.627076,40.409771],[-3.627253,40.413658],[-3.626934,40.413532],[-3.624173,40.411125],[-3.619995,40.411797],[-3.615875,40.413036],[-3.614324,40.41058],[-3.617645,40.411137],[-3.620853,40.407616],[-3.619834,40.404999],[-3.622226,40.404804],[-3.624439,40.400253]]]],"created":1292543576,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/753900_20101216_40013bce3a.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

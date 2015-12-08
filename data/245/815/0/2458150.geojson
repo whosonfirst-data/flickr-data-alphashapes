@@ -1,0 +1,15 @@
+{
+  "id": 2458150,
+  "type": "Feature",
+  "properties": {
+    "name":"New Castle, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2458150,
+    "woe:name":"New Castle, Kentucky, United States",
+    "woe:place_id":"_Z4U34mbBZlAMnc0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.170105,38.433044,-85.153603,38.445713],
+  "geometry": {"alpha":0.00015,"bbox":[-85.170104980469,38.433044433594,-85.153602600098,38.445713043213],"coordinates":[[[[-85.170105,38.433044],[-85.170029,38.433556],[-85.169792,38.434093],[-85.153946,38.445713],[-85.153603,38.443867],[-85.169289,38.43327],[-85.170105,38.433044]]]],"created":1292551138,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2458150_20101217_3eba9cb264.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

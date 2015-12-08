@@ -1,0 +1,15 @@
+{
+  "id": 725083,
+  "type": "Feature",
+  "properties": {
+    "name":"Torre Orsina, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":725083,
+    "woe:name":"Torre Orsina, Umbria, Italy",
+    "woe:place_id":"f1d87_ieA5lfu0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.731738,42.568569,12.741222,42.581875],
+  "geometry": {"alpha":0.00015,"bbox":[12.731738090515,42.56856918335,12.741222381592,42.581874847412],"coordinates":[[[[12.734978,42.568806],[12.734613,42.569279],[12.733996,42.571781],[12.731738,42.581875],[12.735214,42.572842],[12.741222,42.568569],[12.734978,42.568806]]]],"created":1292475314,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/725083_20101216_f05f864a79.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

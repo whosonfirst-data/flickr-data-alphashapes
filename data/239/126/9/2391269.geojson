@@ -1,0 +1,15 @@
+{
+  "id": 2391269,
+  "type": "Feature",
+  "properties": {
+    "name":"Denver, New York, United States",
+    "placetype":"locality",
+    "woe:id":2391269,
+    "woe:name":"Denver, New York, United States",
+    "woe:place_id":"_T1qRxibApVEBp1K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.573402,42.225117,-74.552063,42.241859],
+  "geometry": {"alpha":0.00015,"bbox":[-74.573402404785,42.225116729736,-74.552062988281,42.241859436035],"coordinates":[[[[-74.570602,42.234863],[-74.573402,42.237537],[-74.566612,42.238686],[-74.560226,42.240433],[-74.554298,42.241859],[-74.552063,42.241623],[-74.560547,42.240051],[-74.567299,42.230122],[-74.567902,42.225117],[-74.568069,42.22718],[-74.570602,42.234863]]]],"created":1292475794,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2391269_20101216_a0359bc79c.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

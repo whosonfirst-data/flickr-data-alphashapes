@@ -1,0 +1,15 @@
+{
+  "id": 2503521,
+  "type": "Feature",
+  "properties": {
+    "name":"Tacoma, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2503521,
+    "woe:name":"Tacoma, Ohio, United States",
+    "woe:place_id":"HeZDtQabBJzi9gMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.148262,39.985588,-81.145638,40.000069],
+  "geometry": {"alpha":0.00015,"bbox":[-81.148262023926,39.98558807373,-81.145637512207,40.000068664551],"coordinates":[[[[-81.145706,39.99744],[-81.145638,39.996742],[-81.148262,39.985588],[-81.147079,39.997505],[-81.147079,40.000069],[-81.145706,39.99744]]]],"created":1292517548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2503521_20101216_2da94dbf85.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

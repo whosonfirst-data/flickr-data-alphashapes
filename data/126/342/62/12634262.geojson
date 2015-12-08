@@ -1,0 +1,15 @@
+{
+  "id": 12634262,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Velburg, Germany",
+    "placetype":"locality",
+    "woe:id":12634262,
+    "woe:name":"Gemeinde Velburg, Germany",
+    "woe:place_id":"66JFWjuYA5qCf.q0uw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.631893,49.312954,11.632462,49.314716],
+  "geometry": {"alpha":1e-05,"bbox":[11.631893157959,49.312953948975,11.632461547852,49.314716339111],"coordinates":[[[[11.632011,49.313499],[11.631893,49.314716],[11.631989,49.314648],[11.632462,49.313099],[11.63214,49.312954],[11.632011,49.313499]]]],"created":1292549231,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12634262_20101217_faef0be497.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

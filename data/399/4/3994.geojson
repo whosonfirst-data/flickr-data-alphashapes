@@ -1,0 +1,15 @@
+{
+  "id": 3994,
+  "type": "Feature",
+  "properties": {
+    "name":"New Harbour, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":3994,
+    "woe:name":"New Harbour, Newfoundland and Labrador, Canada",
+    "woe:place_id":"5X3StkeaCJUI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.548737,47.585556,-53.534145,47.591579],
+  "geometry": {"alpha":0.00015,"bbox":[-53.548736572266,47.585556030273,-53.534145355225,47.591579437256],"coordinates":[[[[-53.539082,47.586887],[-53.534145,47.585556],[-53.542042,47.58625],[-53.548737,47.586571],[-53.545818,47.591579],[-53.539082,47.586887]]]],"created":1292510051,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/3994_20101216_bcace5506d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

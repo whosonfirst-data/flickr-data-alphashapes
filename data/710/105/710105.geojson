@@ -1,0 +1,15 @@
+{
+  "id": 710105,
+  "type": "Feature",
+  "properties": {
+    "name":"Amaseno, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":710105,
+    "woe:name":"Amaseno, Lazio, Italy",
+    "woe:place_id":"f6f0Y0meAJyLF.E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.324527,41.465515,13.345642,41.476433],
+  "geometry": {"alpha":0.00015,"bbox":[13.324526786804,41.465515136719,13.345642089844,41.476432800293],"coordinates":[[[[13.333454,41.465981],[13.324527,41.471352],[13.33362,41.46941],[13.345642,41.476433],[13.339676,41.468296],[13.336522,41.465515],[13.333454,41.465981]]]],"created":1292536483,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/710105_20101216_43e4286ef1.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

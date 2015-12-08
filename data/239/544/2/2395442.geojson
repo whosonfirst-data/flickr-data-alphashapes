@@ -1,0 +1,15 @@
+{
+  "id": 2395442,
+  "type": "Feature",
+  "properties": {
+    "name":"East Cleveland, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2395442,
+    "woe:name":"East Cleveland, Tennessee, United States",
+    "woe:place_id":"48I3RWKbApVdhl3Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.868492,35.155457,-84.862053,35.173141],
+  "geometry": {"alpha":0.00015,"bbox":[-84.868492126465,35.155456542969,-84.86205291748,35.173141479492],"coordinates":[[[[-84.868492,35.165512],[-84.862495,35.173141],[-84.862053,35.17284],[-84.865181,35.155457],[-84.868271,35.160774],[-84.868492,35.165512]]]],"created":1292506807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2395442_20101216_54fd76e011.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

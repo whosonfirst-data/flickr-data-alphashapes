@@ -1,0 +1,15 @@
+{
+  "id": 575818,
+  "type": "Feature",
+  "properties": {
+    "name":"Ally, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":575818,
+    "woe:name":"Ally, Auvergne, France",
+    "woe:place_id":"RBmTmn.cBpl.8LU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.306472,45.159042,3.314437,45.162128],
+  "geometry": {"alpha":0.00015,"bbox":[3.3064720630646,45.159042358398,3.3144369125366,45.162128448486],"coordinates":[[[[3.308,45.159164],[3.306472,45.160881],[3.307228,45.162128],[3.312189,45.161404],[3.314437,45.159042],[3.313751,45.159164],[3.308,45.159164]]]],"created":1292518210,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/575818_20101216_9a3cc6e149.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

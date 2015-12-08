@@ -1,0 +1,15 @@
+{
+  "id": 20070601,
+  "type": "Feature",
+  "properties": {
+    "name":"Laprida, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070601,
+    "woe:name":"Laprida, Buenos Aires, Argentina",
+    "woe:place_id":"yx5C8KabAZylYAXJGQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-60.860138,-37.562675,-60.791473,-37.46806],
+  "geometry": {"alpha":0.0015,"bbox":[-60.860137939453,-37.562675476074,-60.791473388672,-37.468059539795],"coordinates":[[[[-60.79628,-37.523888],[-60.796619,-37.46806],[-60.791473,-37.52232],[-60.798668,-37.545502],[-60.830956,-37.562675],[-60.860138,-37.532055],[-60.79628,-37.523888]]]],"created":1292525726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20070601_20101216_7bd76097ea.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

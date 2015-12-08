@@ -1,0 +1,15 @@
+{
+  "id": 2384180,
+  "type": "Feature",
+  "properties": {
+    "name":"Conkintown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2384180,
+    "woe:name":"Conkintown, Tennessee, United States",
+    "woe:place_id":"7Hipv9qbApRe4nzx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.679497,36.489574,-82.674866,36.49411],
+  "geometry": {"alpha":0.00015,"bbox":[-82.679496765137,36.489574432373,-82.674865722656,36.494110107422],"coordinates":[[[[-82.679497,36.493332],[-82.679497,36.4935],[-82.676064,36.49411],[-82.674866,36.492699],[-82.678169,36.489574],[-82.679497,36.493332]]]],"created":1292529902,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2384180_20101216_f6e2c3d250.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

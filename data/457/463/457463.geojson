@@ -1,0 +1,15 @@
+{
+  "id": 457463,
+  "type": "Feature",
+  "properties": {
+    "name":"Lagoa Vermelha, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":457463,
+    "woe:name":"Lagoa Vermelha, Rio Grande do Sul, Brazil",
+    "woe:place_id":"l3wIA82dBJsGznI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-51.529999,-28.22591,-51.518852,-28.203978],
+  "geometry": {"alpha":0.00015,"bbox":[-51.529998779297,-28.225910186768,-51.518852233887,-28.203977584839],"coordinates":[[[[-51.52026,-28.209566],[-51.518852,-28.21332],[-51.523476,-28.22591],[-51.529999,-28.212902],[-51.522617,-28.203978],[-51.52026,-28.209566]]]],"created":1292544106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/457463_20101217_0777674865.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

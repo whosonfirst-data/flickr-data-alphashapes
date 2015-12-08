@@ -1,0 +1,15 @@
+{
+  "id": 555208,
+  "type": "Feature",
+  "properties": {
+    "name":"Lille Ebberup, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555208,
+    "woe:name":"Lille Ebberup, Sjaelland, Denmark",
+    "woe:place_id":"LauEbtOcBJm6zg0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.483888,55.452263,11.495261,55.456081],
+  "geometry": {"alpha":0.00015,"bbox":[11.483887672424,55.452262878418,11.495261192322,55.456081390381],"coordinates":[[[[11.483888,55.452263],[11.484875,55.454231],[11.492943,55.456081],[11.495261,55.455498],[11.483888,55.452263]]]],"created":1234654806,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3380/shapefiles/555208_20090214_9bb92111fa.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

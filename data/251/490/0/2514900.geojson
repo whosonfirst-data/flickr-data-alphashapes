@@ -1,0 +1,15 @@
+{
+  "id": 2514900,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington Heights, Washington, GA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2514900,
+    "woe:name":"Washington Heights, Washington, GA, US, United States",
+    "woe:place_id":"PBLxQf2bBJ1mDV1M",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-82.74295,33.737072,-82.739906,33.738766],
+  "geometry": {"alpha":1e-05,"bbox":[-82.742950439453,33.737071990967,-82.739906311035,33.738765716553],"coordinates":[[[[-82.740547,33.738766],[-82.739906,33.737072],[-82.740417,33.737293],[-82.74295,33.737137],[-82.740547,33.738766]]]],"created":1292551621,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2514900_20101217_2f9204197e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

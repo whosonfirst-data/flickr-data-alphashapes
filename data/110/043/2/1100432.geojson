@@ -1,0 +1,15 @@
+{
+  "id": 1100432,
+  "type": "Feature",
+  "properties": {
+    "name":"Blinman, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1100432,
+    "woe:name":"Blinman, South Australia, Australia",
+    "woe:place_id":"pL3lZEyYAJxoRZjo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.663071,-31.104984,138.685913,-31.089397],
+  "geometry": {"alpha":0.00015,"bbox":[138.66307067871,-31.104984283447,138.68591308594,-31.08939743042],"coordinates":[[[[138.68042,-31.100203],[138.663071,-31.104984],[138.675613,-31.096893],[138.675873,-31.089397],[138.685913,-31.092062],[138.684875,-31.101599],[138.68042,-31.100203]]]],"created":1292538543,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/1100432_20101216_62c7a4ca49.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

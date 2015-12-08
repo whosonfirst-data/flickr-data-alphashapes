@@ -1,0 +1,15 @@
+{
+  "id": 2371134,
+  "type": "Feature",
+  "properties": {
+    "name":"Buckhorn, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2371134,
+    "woe:name":"Buckhorn, Alabama, United States",
+    "woe:place_id":"xYjfq5SbApvvq3U2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.497765,34.858467,-86.476822,34.880192],
+  "geometry": {"alpha":0.00015,"bbox":[-86.497764587402,34.858467102051,-86.476821899414,34.880191802979],"coordinates":[[[[-86.476822,34.859638],[-86.480728,34.858467],[-86.497765,34.858467],[-86.481812,34.859436],[-86.481842,34.880192],[-86.476822,34.859638]]]],"created":1248244082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2645/shapefiles/2371134_20090722_fe3802be85.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

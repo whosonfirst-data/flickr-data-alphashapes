@@ -1,0 +1,15 @@
+{
+  "id": 732010,
+  "type": "Feature",
+  "properties": {
+    "name":"Nieuweschild, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":732010,
+    "woe:name":"Nieuweschild, North Holland, Netherlands",
+    "woe:place_id":"eTcLd6yeAp7ZhsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.885191,53.072346,4.890275,53.074486],
+  "geometry": {"alpha":0.00015,"bbox":[4.8851909637451,53.072345733643,4.8902750015259,53.074485778809],"coordinates":[[[[4.886741,53.072472],[4.886222,53.072346],[4.885461,53.072536],[4.885191,53.073635],[4.890275,53.074486],[4.888427,53.073265],[4.886741,53.072472]]]],"created":1292528101,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/732010_20101216_180b88f281.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

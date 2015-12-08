@@ -1,0 +1,15 @@
+{
+  "id": 2494193,
+  "type": "Feature",
+  "properties": {
+    "name":"Siverly, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2494193,
+    "woe:name":"Siverly, Ohio, United States",
+    "woe:place_id":".rDUG32bBZW5r9Bx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.462563,39.365623,-82.460403,39.365952],
+  "geometry": {"alpha":0.00015,"bbox":[-82.462562561035,39.365623474121,-82.460403442383,39.365951538086],"coordinates":[[[[-82.460411,39.365807],[-82.460403,39.365799],[-82.460403,39.365795],[-82.462563,39.365623],[-82.46064,39.365952],[-82.460411,39.365807]]]],"created":1292536042,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2494193_20101216_3e83142f4c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

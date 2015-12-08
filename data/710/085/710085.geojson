@@ -1,0 +1,15 @@
+{
+  "id": 710085,
+  "type": "Feature",
+  "properties": {
+    "name":"Alto Nove, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":710085,
+    "woe:name":"Alto Nove, Veneto, Italy",
+    "woe:place_id":"MBeK_H.eAJwVNNU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.281513,46.055485,12.295589,46.070728],
+  "geometry": {"alpha":0.00015,"bbox":[12.281513214111,46.055484771729,12.295589447021,46.070728302002],"coordinates":[[[[12.290933,46.061596],[12.281513,46.055485],[12.282199,46.056793],[12.288894,46.070728],[12.295589,46.06823],[12.293186,46.06525],[12.290933,46.061596]]]],"created":1292491743,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/710085_20101216_ebbb56f019.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12642319,
+  "type": "Feature",
+  "properties": {
+    "name":"Courbouzon, France",
+    "placetype":"locality",
+    "woe:id":12642319,
+    "woe:name":"Courbouzon, France",
+    "woe:place_id":"S8bTreCYA5r1SuFLSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.557747,47.687462,1.558391,47.688255],
+  "geometry": {"alpha":1e-05,"bbox":[1.5577470064163,47.687461853027,1.5583909749985,47.688255310059],"coordinates":[[[[1.558044,47.687634],[1.557813,47.688061],[1.557747,47.688244],[1.557991,47.688255],[1.558391,47.687462],[1.558125,47.687592],[1.558044,47.687634]]]],"created":1292470564,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12642319_20101216_de681429e7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

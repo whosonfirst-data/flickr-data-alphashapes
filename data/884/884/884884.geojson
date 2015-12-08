@@ -1,0 +1,15 @@
+{
+  "id": 884884,
+  "type": "Feature",
+  "properties": {
+    "name":"Ankarsrum, Kalmar, Sweden",
+    "placetype":"locality",
+    "woe:id":884884,
+    "woe:name":"Ankarsrum, Kalmar, Sweden",
+    "woe:place_id":"hPO6Mo.RCZiXnCc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.318474,57.6973,16.351086,57.700478],
+  "geometry": {"alpha":0.00015,"bbox":[16.318473815918,57.697299957275,16.351085662842,57.700477600098],"coordinates":[[[[16.334522,57.699848],[16.338816,57.700478],[16.351086,57.6973],[16.337185,57.69902],[16.333666,57.698872],[16.318474,57.697498],[16.334522,57.699848]]]],"created":1292485207,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/884884_20101216_edcc0cc9d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

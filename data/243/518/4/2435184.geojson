@@ -1,0 +1,15 @@
+{
+  "id": 2435184,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Swan, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2435184,
+    "woe:name":"Lake Swan, Georgia, United States",
+    "woe:place_id":"DvSfkcybBZ.OQmsh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.825439,33.84383,-84.817024,33.849426],
+  "geometry": {"alpha":0.00015,"bbox":[-84.825439453125,33.843830108643,-84.817024230957,33.849426269531],"coordinates":[[[[-84.824478,33.846169],[-84.821579,33.847393],[-84.817024,33.849426],[-84.817024,33.848888],[-84.825439,33.84383],[-84.824478,33.846169]]]],"created":1292445103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2435184_20101215_47852f6713.tar.gz"},"points":81,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2512066,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2512066,
+    "woe:name":"Victoria, Georgia, United States",
+    "woe:place_id":"kVk6tr2bBJ3XsKyv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.601089,34.131256,-84.584518,34.149231],
+  "geometry": {"alpha":0.00015,"bbox":[-84.601089477539,34.131256103516,-84.584518432617,34.149230957031],"coordinates":[[[[-84.59272,34.131866],[-84.601089,34.145512],[-84.584518,34.149231],[-84.584946,34.145306],[-84.585197,34.131256],[-84.59272,34.131866]]]],"created":1292551129,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2512066_20101217_a5153647de.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1110490,
+  "type": "Feature",
+  "properties": {
+    "name":"Katsuyama, Japan",
+    "placetype":"locality",
+    "woe:id":1110490,
+    "woe:name":"Katsuyama, Japan",
+    "woe:place_id":"pWqVUaKYAJ0DIfxW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [135.536041,34.650509,135.540848,34.653896],
+  "geometry": {"alpha":1e-05,"bbox":[135.53604125977,34.650508880615,135.54084777832,34.653896331787],"coordinates":[[[[135.539917,34.653622],[135.540848,34.652836],[135.540405,34.651188],[135.538162,34.650509],[135.536041,34.653896],[135.539917,34.653622]]]],"created":1292415724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/1110490_20101215_ef2c2e2ec9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

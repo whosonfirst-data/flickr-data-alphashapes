@@ -1,0 +1,15 @@
+{
+  "id": 768847,
+  "type": "Feature",
+  "properties": {
+    "name":"Orbara, Navarre, Spain",
+    "placetype":"locality",
+    "woe:id":768847,
+    "woe:name":"Orbara, Navarre, Spain",
+    "woe:place_id":"b5QMWLOeB5TxWXE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.242442,42.966496,-1.236305,42.968983],
+  "geometry": {"alpha":0.00015,"bbox":[-1.2424420118332,42.966495513916,-1.2363049983978,42.968982696533],"coordinates":[[[[-1.242442,42.966496],[-1.242349,42.966751],[-1.241626,42.96685],[-1.236305,42.968983],[-1.241197,42.966694],[-1.242442,42.966496]]]],"created":1292467208,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/768847_20101216_c998673ed4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

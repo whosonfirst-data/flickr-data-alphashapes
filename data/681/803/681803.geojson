@@ -1,0 +1,15 @@
+{
+  "id": 681803,
+  "type": "Feature",
+  "properties": {
+    "name":"Obernach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":681803,
+    "woe:name":"Obernach, Bavaria, Germany",
+    "woe:place_id":"30pyXb6fCZ2otpk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.285877,47.56031,11.294631,47.566914],
+  "geometry": {"alpha":0.00015,"bbox":[11.285877227783,47.56031036377,11.294631004333,47.566913604736],"coordinates":[[[[11.294631,47.563553],[11.291027,47.56031],[11.285877,47.566914],[11.29373,47.564754],[11.294631,47.563553]]]],"created":1292498889,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/681803_20101216_e513094a36.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

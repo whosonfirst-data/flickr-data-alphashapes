@@ -1,0 +1,15 @@
+{
+  "id": 2428029,
+  "type": "Feature",
+  "properties": {
+    "name":"Ivorydale, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2428029,
+    "woe:name":"Ivorydale, Ohio, United States",
+    "woe:place_id":"9_llN9ubBZ62B1Rg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.500778,39.174061,-84.485359,39.186398],
+  "geometry": {"alpha":0.00015,"bbox":[-84.500778198242,39.174060821533,-84.485359191895,39.18639755249],"coordinates":[[[[-84.500778,39.174061],[-84.499886,39.180542],[-84.499199,39.186398],[-84.485359,39.181339],[-84.49649,39.177422],[-84.500778,39.174061]]]],"created":1292498348,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2428029_20101216_ea7e642d8f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

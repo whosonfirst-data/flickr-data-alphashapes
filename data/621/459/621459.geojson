@@ -1,0 +1,15 @@
+{
+  "id": 621459,
+  "type": "Feature",
+  "properties": {
+    "name":"Sayat, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":621459,
+    "woe:name":"Sayat, Auvergne, France",
+    "woe:place_id":"hmsbwLGfA52jD1c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.051452,45.826855,3.054199,45.829876],
+  "geometry": {"alpha":0.00015,"bbox":[3.051451921463,45.826854705811,3.0541989803314,45.829875946045],"coordinates":[[[[3.051452,45.827587],[3.053512,45.829277],[3.054199,45.829876],[3.052461,45.826855],[3.051452,45.827587]]]],"created":1229455563,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3200/shapefiles/621459_20081216_9ccbc842d9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

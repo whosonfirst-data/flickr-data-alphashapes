@@ -1,0 +1,15 @@
+{
+  "id": 4228,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Creek, Yukon Territory, Canada",
+    "placetype":"locality",
+    "woe:id":4228,
+    "woe:name":"Rock Creek, Yukon Territory, Canada",
+    "woe:place_id":"rOHywZmdA55P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-139.136047,64.039879,-139.123276,64.052673],
+  "geometry": {"alpha":0.00015,"bbox":[-139.13604736328,64.039878845215,-139.12327575684,64.052673339844],"coordinates":[[[[-139.127029,64.043198],[-139.136047,64.039879],[-139.128113,64.048996],[-139.123306,64.052673],[-139.123276,64.04583],[-139.123993,64.045464],[-139.127029,64.043198]]]],"created":1292546529,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/4228_20101217_34699916dd.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

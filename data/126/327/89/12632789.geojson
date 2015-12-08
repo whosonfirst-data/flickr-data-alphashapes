@@ -1,0 +1,15 @@
+{
+  "id": 12632789,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Immenhausen, Germany",
+    "placetype":"locality",
+    "woe:id":12632789,
+    "woe:name":"Gemeinde Immenhausen, Germany",
+    "woe:place_id":"IwZMxIeYA5o3rZPq9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.499225,51.423645,9.50468,51.425705],
+  "geometry": {"alpha":1e-05,"bbox":[9.4992246627808,51.423645019531,9.5046796798706,51.425704956055],"coordinates":[[[[9.500942,51.424728],[9.50468,51.424686],[9.501371,51.42379],[9.500041,51.423645],[9.499225,51.425705],[9.500942,51.424728]]]],"created":1292540563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12632789_20101216_28d87fc4db.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

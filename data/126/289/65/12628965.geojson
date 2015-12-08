@@ -1,0 +1,15 @@
+{
+  "id": 12628965,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Reil, Germany",
+    "placetype":"locality",
+    "woe:id":12628965,
+    "woe:name":"Gemeinde Reil, Germany",
+    "woe:place_id":"KDsE9a6YA5q5eSTGLg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.11708,50.019238,7.119162,50.021942],
+  "geometry": {"alpha":1e-05,"bbox":[7.1170802116394,50.019237518311,7.1191620826721,50.021942138672],"coordinates":[[[[7.117981,50.021942],[7.119054,50.019638],[7.119162,50.019238],[7.11708,50.021416],[7.117928,50.021912],[7.117981,50.021942]]]],"created":1292494806,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12628965_20101216_551c408715.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

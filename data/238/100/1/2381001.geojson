@@ -1,0 +1,15 @@
+{
+  "id": 2381001,
+  "type": "Feature",
+  "properties": {
+    "name":"Clay Hill, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2381001,
+    "woe:name":"Clay Hill, Pennsylvania, United States",
+    "woe:place_id":".ZasIHybApR19pVp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.667503,39.810501,-77.648514,39.825165],
+  "geometry": {"alpha":0.00015,"bbox":[-77.667503356934,39.810501098633,-77.648513793945,39.825164794922],"coordinates":[[[[-77.667503,39.810501],[-77.667503,39.810833],[-77.666931,39.815399],[-77.657288,39.825165],[-77.648514,39.81142],[-77.666603,39.81152],[-77.667503,39.810501]]]],"created":1292534652,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2381001_20101216_8abc2cd49b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

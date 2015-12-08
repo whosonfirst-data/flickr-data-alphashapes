@@ -1,0 +1,15 @@
+{
+  "id": 12628365,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Dattenberg, Germany",
+    "placetype":"locality",
+    "woe:id":12628365,
+    "woe:name":"Gemeinde Dattenberg, Germany",
+    "woe:place_id":"uTkufCGYA5pf3h2I3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.282666,50.551334,7.29,50.557335],
+  "geometry": {"alpha":1e-05,"bbox":[7.2826662063599,50.551334381104,7.289999961853,50.557334899902],"coordinates":[[[[7.29,50.551334],[7.29,50.551498],[7.285833,50.552666],[7.285,50.552502],[7.282666,50.557335],[7.285833,50.552666],[7.29,50.551334]]]],"created":1292445256,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12628365_20101215_1340fc3019.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

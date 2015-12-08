@@ -1,0 +1,15 @@
+{
+  "id": 28745225,
+  "type": "Feature",
+  "properties": {
+    "name":"Upper Leacock, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745225,
+    "woe:name":"Upper Leacock, Pennsylvania, United States",
+    "woe:place_id":"kdBjagmbCZufr9x7QA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.166359,40.073997,-76.153282,40.090164],
+  "geometry": {"alpha":0.00015,"bbox":[-76.166358947754,40.073997497559,-76.153282165527,40.09016418457],"coordinates":[[[[-76.165977,40.089134],[-76.166359,40.089607],[-76.163002,40.090164],[-76.153282,40.075668],[-76.162849,40.073997],[-76.165977,40.089134]]]],"created":1292551027,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/28745225_20101217_e2b17264d7.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

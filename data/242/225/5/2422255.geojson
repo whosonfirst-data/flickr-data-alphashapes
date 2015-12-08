@@ -1,0 +1,15 @@
+{
+  "id": 2422255,
+  "type": "Feature",
+  "properties": {
+    "name":"Hilltop, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2422255,
+    "woe:name":"Hilltop, Maryland, United States",
+    "woe:place_id":"3YqUodWbBZ7XZufM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.935539,39.382954,-76.934822,39.383472],
+  "geometry": {"alpha":0.00015,"bbox":[-76.935539245605,39.382953643799,-76.93482208252,39.383472442627],"coordinates":[[[[-76.935188,39.383461],[-76.93483,39.382969],[-76.934822,39.382954],[-76.935539,39.38319],[-76.935539,39.383472],[-76.935188,39.383461]]]],"created":1292517444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2422255_20101216_77d9297a57.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

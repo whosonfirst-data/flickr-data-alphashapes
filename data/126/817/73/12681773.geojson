@@ -1,0 +1,15 @@
+{
+  "id": 12681773,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Vincent, Italy",
+    "placetype":"locality",
+    "woe:id":12681773,
+    "woe:name":"St.-Vincent, Italy",
+    "woe:place_id":"_xHBHhGYA5rQqp3flQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.639875,45.749863,7.64996,45.75211],
+  "geometry": {"alpha":1e-05,"bbox":[7.6398749351501,45.749862670898,7.6499600410461,45.752109527588],"coordinates":[[[[7.647836,45.749863],[7.644939,45.751041],[7.639875,45.75211],[7.645261,45.751961],[7.648136,45.751549],[7.64996,45.751114],[7.647836,45.749863]]]],"created":1292548029,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12681773_20101217_d26c766a8e.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

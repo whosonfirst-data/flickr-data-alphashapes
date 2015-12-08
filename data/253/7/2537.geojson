@@ -1,0 +1,15 @@
+{
+  "id": 2537,
+  "type": "Feature",
+  "properties": {
+    "name":"Rapid City, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2537,
+    "woe:name":"Rapid City, Manitoba, Canada",
+    "woe:place_id":"CEGI5RGbBJ_r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.037712,50.121899,-100.030861,50.124096],
+  "geometry": {"alpha":0.00015,"bbox":[-100.03771209717,50.121898651123,-100.03086090088,50.124095916748],"coordinates":[[[[-100.037209,50.122337],[-100.037712,50.124096],[-100.03569,50.123653],[-100.030861,50.122833],[-100.035324,50.121899],[-100.037209,50.122337]]]],"created":1292526039,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2537_20101216_0173898df8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2390839,
+  "type": "Feature",
+  "properties": {
+    "name":"Dell, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2390839,
+    "woe:name":"Dell, Florida, United States",
+    "woe:place_id":"FA60iHqbApX4tj2K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.248383,30.125692,-83.225838,30.13711],
+  "geometry": {"alpha":0.00015,"bbox":[-83.248382568359,30.125692367554,-83.22583770752,30.13710975647],"coordinates":[[[[-83.225838,30.125957],[-83.226173,30.125896],[-83.227242,30.125692],[-83.227882,30.125919],[-83.248383,30.13711],[-83.227379,30.126865],[-83.225838,30.125957]]]],"created":1292527199,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2390839_20101216_5efd3b29ff.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

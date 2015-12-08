@@ -1,0 +1,15 @@
+{
+  "id": 905308,
+  "type": "Feature",
+  "properties": {
+    "name":"Solberga, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":905308,
+    "woe:name":"Solberga, Stockholm, Sweden",
+    "woe:place_id":"aEoYR8CQAZnWSUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.71331,59.237549,18.72765,59.245152],
+  "geometry": {"alpha":0.00015,"bbox":[18.713310241699,59.237548828125,18.727649688721,59.245151519775],"coordinates":[[[[18.721861,59.237598],[18.7218,59.237579],[18.72159,59.237549],[18.71331,59.245152],[18.72765,59.239948],[18.72757,59.23859],[18.721861,59.237598]]]],"created":1292458933,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/905308_20101216_843863b8c9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

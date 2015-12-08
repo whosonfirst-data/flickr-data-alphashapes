@@ -1,0 +1,15 @@
+{
+  "id": 722784,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marcel, Valle d'Aosta, Italy",
+    "placetype":"locality",
+    "woe:id":722784,
+    "woe:name":"San Marcel, Valle d'Aosta, Italy",
+    "woe:place_id":"t_XGieSeA57v9aM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.446327,45.714149,7.455,45.736412],
+  "geometry": {"alpha":0.00015,"bbox":[7.4463272094727,45.714149475098,7.4549999237061,45.73641204834],"coordinates":[[[[7.449333,45.722332],[7.446327,45.732365],[7.450983,45.736412],[7.455,45.723999],[7.451906,45.714149],[7.449333,45.722332]]]],"created":1292450942,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/722784_20101215_83f16fa68e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

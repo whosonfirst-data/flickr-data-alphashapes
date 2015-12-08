@@ -1,0 +1,15 @@
+{
+  "id": 763200,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerra, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":763200,
+    "woe:name":"Cerra, Asturias, Spain",
+    "woe:place_id":"bGZUvk.eB598O_s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.500974,43.532089,-5.491619,43.545998],
+  "geometry": {"alpha":0.00015,"bbox":[-5.5009741783142,43.532089233398,-5.4916191101074,43.545997619629],"coordinates":[[[[-5.495052,43.545937],[-5.492477,43.545998],[-5.491619,43.541454],[-5.500974,43.532089],[-5.495052,43.545937]]]],"created":1292520594,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/763200_20101216_9f9d59d46a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

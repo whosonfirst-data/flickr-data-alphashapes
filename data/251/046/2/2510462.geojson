@@ -1,0 +1,15 @@
+{
+  "id": 2510462,
+  "type": "Feature",
+  "properties": {
+    "name":"Urne, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2510462,
+    "woe:name":"Urne, Wisconsin, United States",
+    "woe:place_id":"RGUrbhKbBJ0BuBh8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.902863,44.484604,-91.889816,44.520958],
+  "geometry": {"alpha":0.00015,"bbox":[-91.902862548828,44.484603881836,-91.88981628418,44.520957946777],"coordinates":[[[[-91.894196,44.520958],[-91.889816,44.504768],[-91.892952,44.484604],[-91.902863,44.500607],[-91.894371,44.505566],[-91.894196,44.520958]]]],"created":1292520006,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2510462_20101216_89043dace9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

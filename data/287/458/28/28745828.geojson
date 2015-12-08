@@ -1,0 +1,15 @@
+{
+  "id": 28745828,
+  "type": "Feature",
+  "properties": {
+    "name":"Roberson Store, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":28745828,
+    "woe:name":"Roberson Store, North Carolina, United States",
+    "woe:place_id":"T05DK72bCZtF6PSI0A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.927345,35.775745,-76.911674,35.788925],
+  "geometry": {"alpha":0.00015,"bbox":[-76.927345275879,35.775745391846,-76.911674499512,35.788925170898],"coordinates":[[[[-76.920692,35.786625],[-76.911674,35.788925],[-76.920647,35.786346],[-76.927345,35.775745],[-76.920692,35.786625]]]],"created":1234829285,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3609/shapefiles/28745828_20090217_fbd08ea8ed.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

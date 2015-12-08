@@ -1,0 +1,15 @@
+{
+  "id": 12689762,
+  "type": "Feature",
+  "properties": {
+    "name":"La Portellada, Spain",
+    "placetype":"locality",
+    "woe:id":12689762,
+    "woe:name":"La Portellada, Spain",
+    "woe:place_id":"zNJ7E1CYA5pdl4ZZrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.079994,40.865471,0.083038,40.867054],
+  "geometry": {"alpha":1e-05,"bbox":[0.07999400049448,40.86547088623,0.083038002252579,40.867053985596],"coordinates":[[[[0.082675,40.865509],[0.079994,40.866016],[0.080509,40.867054],[0.083038,40.865471],[0.082675,40.865509]]]],"created":1292523482,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12689762_20101216_4c99545cd6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

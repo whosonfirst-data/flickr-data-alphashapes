@@ -1,0 +1,15 @@
+{
+  "id": 23512200,
+  "type": "Feature",
+  "properties": {
+    "name":"Basel, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":23512200,
+    "woe:name":"Basel, Baden-Wurttemberg, Germany",
+    "woe:place_id":"7QayEDubApl72188lQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.576832,47.534023,7.613761,47.595978],
+  "geometry": {"alpha":0.00029296875,"bbox":[7.576831817627,47.534023284912,7.6137609481812,47.595977783203],"coordinates":[[[[7.594213,47.562408],[7.608718,47.589725],[7.605972,47.593082],[7.604598,47.595978],[7.613439,47.59285],[7.608718,47.589725],[7.612302,47.559193],[7.613761,47.534023],[7.59917,47.543228],[7.592153,47.546204],[7.584471,47.546684],[7.577154,47.545654],[7.576832,47.545704],[7.579439,47.551785],[7.580223,47.56868],[7.594213,47.562408]]]],"created":1292531821,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23512200_20101216_f34e2e4a54.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

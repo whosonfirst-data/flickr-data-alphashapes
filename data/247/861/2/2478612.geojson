@@ -1,0 +1,15 @@
+{
+  "id": 2478612,
+  "type": "Feature",
+  "properties": {
+    "name":"Randolph, New York, United States",
+    "placetype":"locality",
+    "woe:id":2478612,
+    "woe:name":"Randolph, New York, United States",
+    "woe:place_id":"MUYV3M.bBZvqOzVp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.019722,42.152172,-78.988266,42.172119],
+  "geometry": {"alpha":0.00015,"bbox":[-79.019721984863,42.152172088623,-78.988265991211,42.172119140625],"coordinates":[[[[-79.002769,42.152172],[-79.019722,42.165234],[-79.00061,42.159275],[-78.988266,42.172119],[-78.991096,42.161686],[-79.002769,42.152172]]]],"created":1292526309,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2478612_20101216_4a9c3d906d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

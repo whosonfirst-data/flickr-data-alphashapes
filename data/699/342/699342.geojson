@@ -1,0 +1,15 @@
+{
+  "id": 699342,
+  "type": "Feature",
+  "properties": {
+    "name":"Thundorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":699342,
+    "woe:name":"Thundorf, Bavaria, Germany",
+    "woe:place_id":"CIqwEGSfCJWOSNs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.016154,48.757549,13.017087,48.759617],
+  "geometry": {"alpha":0.00015,"bbox":[13.016154289246,48.757549285889,13.017086982727,48.759616851807],"coordinates":[[[[13.016964,48.758923],[13.016695,48.758453],[13.016154,48.757549],[13.017087,48.759617],[13.016964,48.758923]]]],"created":1234732805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3178/shapefiles/699342_20090215_7de53cb1c0.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

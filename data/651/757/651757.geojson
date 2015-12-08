@@ -1,0 +1,15 @@
+{
+  "id": 651757,
+  "type": "Feature",
+  "properties": {
+    "name":"Gebirge, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":651757,
+    "woe:name":"Gebirge, Saxony, Germany",
+    "woe:place_id":"OFTnNmmfBJ3qo2Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.194408,50.627743,13.210833,50.638985],
+  "geometry": {"alpha":0.00015,"bbox":[13.194408416748,50.627742767334,13.210832595825,50.638984680176],"coordinates":[[[[13.208061,50.630569],[13.194408,50.638985],[13.209883,50.632568],[13.210833,50.627819],[13.210436,50.627743],[13.209922,50.628021],[13.208061,50.630569]]]],"created":1292543597,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/651757_20101216_9086dc254b.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

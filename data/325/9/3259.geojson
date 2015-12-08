@@ -1,0 +1,15 @@
+{
+  "id": 3259,
+  "type": "Feature",
+  "properties": {
+    "name":"Senneterre, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3259,
+    "woe:name":"Senneterre, Quebec, Canada",
+    "woe:place_id":"4PgiuZCaA5mv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.255684,48.38681,-77.237831,48.400772],
+  "geometry": {"alpha":0.00015,"bbox":[-77.255683898926,48.386810302734,-77.237831115723,48.400772094727],"coordinates":[[[[-77.244865,48.39043],[-77.252426,48.393192],[-77.255684,48.400772],[-77.244049,48.396664],[-77.242416,48.396919],[-77.238777,48.390285],[-77.237831,48.38681],[-77.244865,48.39043]]]],"created":1292548555,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/3259_20101217_d129c40fd2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

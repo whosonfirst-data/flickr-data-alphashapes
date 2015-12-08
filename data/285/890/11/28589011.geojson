@@ -1,0 +1,15 @@
+{
+  "id": 28589011,
+  "type": "Feature",
+  "properties": {
+    "name":"Sailors Hill, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28589011,
+    "woe:name":"Sailors Hill, Victoria, Australia",
+    "woe:place_id":"XYdW3hebCZkDQF2gag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.12001,-37.357979,144.137039,-37.347507],
+  "geometry": {"alpha":0.00015,"bbox":[144.12001037598,-37.357978820801,144.13703918457,-37.347507476807],"coordinates":[[[[144.13562,-37.356178],[144.135773,-37.357979],[144.129974,-37.357876],[144.12001,-37.349606],[144.123611,-37.349876],[144.137039,-37.347507],[144.13562,-37.356178]]]],"created":1292531407,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/28589011_20101216_a548be857c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

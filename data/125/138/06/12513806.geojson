@@ -1,0 +1,15 @@
+{
+  "id": 12513806,
+  "type": "Feature",
+  "properties": {
+    "name":"Bologna Airport, Italy",
+    "placetype":"locality",
+    "woe:id":12513806,
+    "woe:name":"Bologna Airport, Italy",
+    "woe:place_id":"ZPIjKGyYA5mot1PzIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.28858,44.527489,11.295897,44.534145],
+  "geometry": {"alpha":1e-05,"bbox":[11.288579940796,44.527488708496,11.295896530151,44.534145355225],"coordinates":[[[[11.294041,44.527489],[11.293773,44.527531],[11.292679,44.529373],[11.291756,44.530609],[11.28858,44.531223],[11.290512,44.534145],[11.291499,44.532616],[11.293601,44.530903],[11.295897,44.529667],[11.29436,44.527821],[11.294041,44.527489]]]],"created":1292527292,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12513806_20101216_7f513822b5.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

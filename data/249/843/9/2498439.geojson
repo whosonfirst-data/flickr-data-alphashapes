@@ -1,0 +1,15 @@
+{
+  "id": 2498439,
+  "type": "Feature",
+  "properties": {
+    "name":"Springmaid Beach, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2498439,
+    "woe:name":"Springmaid Beach, South Carolina, United States",
+    "woe:place_id":"gvtsVNKbBZWTuwBU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.920288,33.639488,-78.916115,33.66264],
+  "geometry": {"alpha":0.00015,"bbox":[-78.920288085938,33.639488220215,-78.916114807129,33.66263961792],"coordinates":[[[[-78.917542,33.66264],[-78.916115,33.655392],[-78.917198,33.639488],[-78.919601,33.657387],[-78.920288,33.661209],[-78.917542,33.66264]]]],"created":1292523343,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2498439_20101216_9955fc2cda.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

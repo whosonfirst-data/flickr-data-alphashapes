@@ -1,0 +1,15 @@
+{
+  "id": 550403,
+  "type": "Feature",
+  "properties": {
+    "name":"Zugtal, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550403,
+    "woe:name":"Zugtal, Styria, Austria",
+    "woe:place_id":"kN.he_ycBJzWDHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.47719,47.217415,14.483091,47.229446],
+  "geometry": {"alpha":0.00015,"bbox":[14.4771900177,47.217414855957,14.48309135437,47.229446411133],"coordinates":[[[[14.482909,47.21862],[14.483091,47.217869],[14.482533,47.217796],[14.480205,47.217564],[14.477865,47.217415],[14.47719,47.229446],[14.482909,47.21862]]]],"created":1292549954,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/550403_20101217_253d49d4a4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

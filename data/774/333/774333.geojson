@@ -1,0 +1,15 @@
+{
+  "id": 774333,
+  "type": "Feature",
+  "properties": {
+    "name":"Sella, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":774333,
+    "woe:name":"Sella, Valencia, Spain",
+    "woe:place_id":"gxdVe96eBpiRGTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.277061,38.608486,-0.26498,38.611504],
+  "geometry": {"alpha":0.00015,"bbox":[-0.27706098556519,38.608486175537,-0.26497998833656,38.611503601074],"coordinates":[[[[-0.273832,38.608486],[-0.276546,38.60976],[-0.277061,38.610027],[-0.275001,38.611103],[-0.26498,38.611504],[-0.272249,38.608772],[-0.273832,38.608486]]]],"created":1292551605,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/774333_20101217_ba65ea40aa.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

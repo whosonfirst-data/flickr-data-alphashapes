@@ -1,0 +1,15 @@
+{
+  "id": 2524709,
+  "type": "Feature",
+  "properties": {
+    "name":"Yellow Tavern, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2524709,
+    "woe:name":"Yellow Tavern, Virginia, United States",
+    "woe:place_id":"1.82RQibBJ6sExvU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.463913,37.624565,-77.44915,37.635509],
+  "geometry": {"alpha":0.00015,"bbox":[-77.463912963867,37.624565124512,-77.449150085449,37.635509490967],"coordinates":[[[[-77.463913,37.633537],[-77.459557,37.635509],[-77.452255,37.63533],[-77.44915,37.62888],[-77.457733,37.624565],[-77.463913,37.633537]]]],"created":1292494330,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2524709_20101216_6637b3b6b0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

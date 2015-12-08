@@ -1,0 +1,15 @@
+{
+  "id": 2436342,
+  "type": "Feature",
+  "properties": {
+    "name":"Langford Cove, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2436342,
+    "woe:name":"Langford Cove, Tennessee, United States",
+    "woe:place_id":"tCha__GbBZ96T.ss",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.570717,36.241745,-86.567802,36.249279],
+  "geometry": {"alpha":0.00015,"bbox":[-86.57071685791,36.241744995117,-86.567802429199,36.249279022217],"coordinates":[[[[-86.570236,36.247185],[-86.569458,36.249279],[-86.568993,36.246353],[-86.567802,36.241745],[-86.570717,36.245892],[-86.570236,36.247185]]]],"created":1292528289,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2436342_20101216_4a40427e21.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2517614,
+  "type": "Feature",
+  "properties": {
+    "name":"West Port Arthur, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2517614,
+    "woe:name":"West Port Arthur, Texas, United States",
+    "woe:place_id":"mTQtZzSbBJ0if8Pr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.958679,29.808847,-93.946838,29.828583],
+  "geometry": {"alpha":0.00015,"bbox":[-93.958679199219,29.808847427368,-93.946838378906,29.828582763672],"coordinates":[[[[-93.958679,29.809668],[-93.957481,29.828583],[-93.946838,29.813242],[-93.953812,29.809509],[-93.954391,29.808847],[-93.958679,29.809668]]]],"created":1292470025,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2517614_20101216_35c5398148.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

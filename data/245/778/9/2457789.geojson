@@ -1,0 +1,15 @@
+{
+  "id": 2457789,
+  "type": "Feature",
+  "properties": {
+    "name":"Neosho Falls, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2457789,
+    "woe:name":"Neosho Falls, Kansas, United States",
+    "woe:place_id":"ejzvNkubBZkCNFi7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.557625,38.004345,-95.552269,38.010906],
+  "geometry": {"alpha":0.00015,"bbox":[-95.557624816895,38.004344940186,-95.552268981934,38.010906219482],"coordinates":[[[[-95.552269,38.010906],[-95.552429,38.008808],[-95.557625,38.004345],[-95.555786,38.00771],[-95.55423,38.010532],[-95.552269,38.010906]]]],"created":1292544290,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2457789_20101217_c9a0c385b1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

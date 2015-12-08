@@ -1,0 +1,15 @@
+{
+  "id": 55999480,
+  "type": "Feature",
+  "properties": {
+    "name":"Sligo, Orangeville, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999480,
+    "woe:name":"Sligo, Orangeville, ON, CA, Canada",
+    "woe:place_id":"Wpi1wVCcBJUgUi5w4A",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.963303,43.806629,-79.958733,43.809414],
+  "geometry": {"alpha":1e-05,"bbox":[-79.963302612305,43.806629180908,-79.95873260498,43.809413909912],"coordinates":[[[[-79.959999,43.806931],[-79.963303,43.809414],[-79.960037,43.807156],[-79.958733,43.806629],[-79.959999,43.806931]]]],"created":1292529604,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/55999480_20101216_c30ae2083e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2442870,
+  "type": "Feature",
+  "properties": {
+    "name":"Lucerne, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2442870,
+    "woe:name":"Lucerne, Washington, United States",
+    "woe:place_id":"hpFe63GbBZhimUF7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.221664,47.640396,-122.212685,47.64278],
+  "geometry": {"alpha":0.00015,"bbox":[-122.22166442871,47.640396118164,-122.21268463135,47.642780303955],"coordinates":[[[[-122.217918,47.640541],[-122.218384,47.640396],[-122.221664,47.64278],[-122.220154,47.64249],[-122.212685,47.642334],[-122.217918,47.640541]]]],"created":1292440856,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2442870_20101215_0d3e41ac3a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

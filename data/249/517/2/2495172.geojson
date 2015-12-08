@@ -1,0 +1,15 @@
+{
+  "id": 2495172,
+  "type": "Feature",
+  "properties": {
+    "name":"Smokey Hollow, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2495172,
+    "woe:name":"Smokey Hollow, Virginia, United States",
+    "woe:place_id":"L14Z6CibBZUnf_aV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.767563,37.700085,-77.750885,37.712616],
+  "geometry": {"alpha":0.00015,"bbox":[-77.767562866211,37.700084686279,-77.750885009766,37.712615966797],"coordinates":[[[[-77.767365,37.700085],[-77.767563,37.701599],[-77.758354,37.712616],[-77.750885,37.700748],[-77.766197,37.700466],[-77.767365,37.700085]]]],"created":1292494267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2495172_20101216_c54c3e47db.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

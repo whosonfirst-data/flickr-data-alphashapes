@@ -1,0 +1,15 @@
+{
+  "id": 1023,
+  "type": "Feature",
+  "properties": {
+    "name":"Mooretown, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1023,
+    "woe:name":"Mooretown, Ontario, Canada",
+    "woe:place_id":"htRFkZeYAZ5q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.493248,42.833019,-82.466339,42.850548],
+  "geometry": {"alpha":0.00015,"bbox":[-82.49324798584,42.833019256592,-82.466339111328,42.850547790527],"coordinates":[[[[-82.466476,42.834705],[-82.472992,42.833019],[-82.479599,42.839031],[-82.488098,42.842743],[-82.493248,42.850548],[-82.484833,42.846832],[-82.475395,42.845387],[-82.467331,42.839844],[-82.466339,42.835056],[-82.466476,42.834705]]]],"created":1292537614,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1023_20101216_63e3fabd0f.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20105426,
+  "type": "Feature",
+  "properties": {
+    "name":"Laghi, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20105426,
+    "woe:name":"Laghi, Veneto, Italy",
+    "woe:place_id":"3idegiebAZ2_krrqtQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.269226,45.823982,11.29358,45.832012],
+  "geometry": {"alpha":0.00015,"bbox":[11.269226074219,45.82398223877,11.293580055237,45.832012176514],"coordinates":[[[[11.273088,45.823982],[11.269226,45.826168],[11.271457,45.827332],[11.274826,45.827663],[11.29358,45.832012],[11.274032,45.824074],[11.273088,45.823982]]]],"created":1292480284,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/20105426_20101216_2be95065d1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

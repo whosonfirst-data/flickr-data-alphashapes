@@ -1,0 +1,15 @@
+{
+  "id": 55969903,
+  "type": "Feature",
+  "properties": {
+    "name":"Sun West, Lodi, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55969903,
+    "woe:name":"Sun West, Lodi, CA, US, United States",
+    "woe:place_id":"G6cU1NGcBJUAfsQ45Q",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.307709,38.145763,-121.306679,38.147125],
+  "geometry": {"alpha":1e-05,"bbox":[-121.30770874023,38.145763397217,-121.30667877197,38.147125244141],"coordinates":[[[[-121.306725,38.146896],[-121.306999,38.145763],[-121.307709,38.146465],[-121.306679,38.147125],[-121.306725,38.146896]]]],"created":1292475977,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/55969903_20101216_4f4c5f2cf8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12632391,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Helmstorf, Germany",
+    "placetype":"locality",
+    "woe:id":12632391,
+    "woe:name":"Gemeinde Helmstorf, Germany",
+    "woe:place_id":"PZKgqHqYA5owXr905g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.58743,54.292736,10.589232,54.296124],
+  "geometry": {"alpha":1e-05,"bbox":[10.587430000305,54.292736053467,10.589232444763,54.296123504639],"coordinates":[[[[10.589232,54.296066],[10.587794,54.292736],[10.58743,54.293411],[10.588835,54.296124],[10.589232,54.296066]]]],"created":1234660205,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3412/shapefiles/12632391_20090215_18a6ed1460.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20076029,
+  "type": "Feature",
+  "properties": {
+    "name":"Casciago, Italy",
+    "placetype":"locality",
+    "woe:id":20076029,
+    "woe:name":"Casciago, Italy",
+    "woe:place_id":"dsB2sWKbAZymlIcN4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.785758,45.833344,8.791567,45.840309],
+  "geometry": {"alpha":1e-05,"bbox":[8.7857580184937,45.833343505859,8.7915668487549,45.840309143066],"coordinates":[[[[8.7891,45.835693],[8.789119,45.840031],[8.791401,45.840309],[8.791567,45.834545],[8.788976,45.83382],[8.785758,45.833344],[8.7891,45.835693]]]],"created":1292457225,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/20076029_20101215_22a63fbaa8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

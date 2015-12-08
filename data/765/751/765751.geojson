@@ -1,0 +1,15 @@
+{
+  "id": 765751,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Garres, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":765751,
+    "woe:name":"Los Garres, Murcia, Spain",
+    "woe:place_id":"TIuq_AmeB5kpIGI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.098632,37.943424,-1.090049,37.961151],
+  "geometry": {"alpha":0.00015,"bbox":[-1.098631978035,37.943424224854,-1.0900490283966,37.961151123047],"coordinates":[[[[-1.092646,37.961151],[-1.090049,37.960304],[-1.09035,37.957489],[-1.090865,37.943424],[-1.098632,37.951778],[-1.092646,37.961151]]]],"created":1292511542,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/765751_20101216_2d0ff13ac6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

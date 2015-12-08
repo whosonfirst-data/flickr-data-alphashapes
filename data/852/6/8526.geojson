@@ -1,0 +1,15 @@
+{
+  "id": 8526,
+  "type": "Feature",
+  "properties": {
+    "name":"Viking, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8526,
+    "woe:name":"Viking, Alberta, Canada",
+    "woe:place_id":"NZtuTC2RBJ5t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.79052,53.090649,-111.764603,53.103058],
+  "geometry": {"alpha":0.00015,"bbox":[-111.79051971436,53.090648651123,-111.76460266113,53.103057861328],"coordinates":[[[[-111.781769,53.09428],[-111.79052,53.097942],[-111.781082,53.100929],[-111.769722,53.103058],[-111.764603,53.091293],[-111.774818,53.090649],[-111.779022,53.091911],[-111.781769,53.09428]]]],"created":1292526950,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/8526_20101216_43d99d6720.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 767097,
+  "type": "Feature",
+  "properties": {
+    "name":"Meres, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":767097,
+    "woe:name":"Meres, Asturias, Spain",
+    "woe:place_id":"bKsoYvaeB5sVYV8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.752061,43.373219,-5.738296,43.381004],
+  "geometry": {"alpha":0.00015,"bbox":[-5.7520608901978,43.373218536377,-5.7382960319519,43.381004333496],"coordinates":[[[[-5.738296,43.375671],[-5.74242,43.373219],[-5.747909,43.375732],[-5.752061,43.378071],[-5.750162,43.381004],[-5.738296,43.375671]]]],"created":1292453482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/767097_20101215_13ff4d0a00.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

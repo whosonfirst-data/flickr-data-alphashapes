@@ -1,0 +1,15 @@
+{
+  "id": 738106,
+  "type": "Feature",
+  "properties": {
+    "name":"Canelas, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":738106,
+    "woe:name":"Canelas, Porto, Portugal",
+    "woe:place_id":"MFZpdKGeApTTW5U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.610448,41.079861,-8.584806,41.090141],
+  "geometry": {"alpha":0.00015,"bbox":[-8.610447883606,41.079860687256,-8.5848064422607,41.090141296387],"coordinates":[[[[-8.602466,41.080517],[-8.610448,41.085884],[-8.59295,41.090141],[-8.584806,41.083191],[-8.597917,41.081161],[-8.600031,41.079861],[-8.602466,41.080517]]]],"created":1292543560,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/738106_20101216_9c946eaf67.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12685152,
+  "type": "Feature",
+  "properties": {
+    "name":"Carona, Switzerland",
+    "placetype":"locality",
+    "woe:id":12685152,
+    "woe:name":"Carona, Switzerland",
+    "woe:place_id":"kAkeD0KYA5oT2TDnzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.928794,45.956757,8.933,45.963562],
+  "geometry": {"alpha":1e-05,"bbox":[8.9287939071655,45.956756591797,8.9329996109009,45.963562011719],"coordinates":[[[[8.933,45.956879],[8.928794,45.956757],[8.930168,45.959503],[8.93065,45.963562],[8.931509,45.960533],[8.933,45.956879]]]],"created":1292530188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12685152_20101216_ef0d61d6d4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

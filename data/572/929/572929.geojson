@@ -1,0 +1,15 @@
+{
+  "id": 572929,
+  "type": "Feature",
+  "properties": {
+    "name":"Savontalo, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":572929,
+    "woe:name":"Savontalo, Southern Finland, Finland",
+    "woe:place_id":"tHe7IEGcBp4j3k4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.701584,60.899055,26.706562,60.908615],
+  "geometry": {"alpha":0.00015,"bbox":[26.701583862305,60.899055480957,26.706562042236,60.908615112305],"coordinates":[[[[26.705704,60.905777],[26.702978,60.899662],[26.701584,60.899055],[26.705017,60.908154],[26.70536,60.908615],[26.706562,60.907486],[26.705704,60.905777]]]],"created":1292455898,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/572929_20101215_0c5cfe6d30.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

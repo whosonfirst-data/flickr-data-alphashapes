@@ -1,0 +1,15 @@
+{
+  "id": 654246,
+  "type": "Feature",
+  "properties": {
+    "name":"Grimm, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":654246,
+    "woe:name":"Grimm, Lower Saxony, Germany",
+    "woe:place_id":"U3R6szKfBJizCb8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.381028,53.245121,10.395845,53.255459],
+  "geometry": {"alpha":0.00015,"bbox":[10.381028175354,53.245121002197,10.395845413208,53.255458831787],"coordinates":[[[[10.395405,53.252266],[10.395748,53.249027],[10.395845,53.248493],[10.392304,53.245121],[10.381028,53.249321],[10.391435,53.255459],[10.395405,53.252266]]]],"created":1292450777,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/654246_20101215_8a025f6f7c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

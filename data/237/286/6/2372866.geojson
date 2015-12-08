@@ -1,0 +1,15 @@
+{
+  "id": 2372866,
+  "type": "Feature",
+  "properties": {
+    "name":"C Davis Place, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2372866,
+    "woe:name":"C Davis Place, New Mexico, United States",
+    "woe:place_id":"R4ZKDSWbApvdN20Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.101921,34.947338,-106.078316,34.969036],
+  "geometry": {"alpha":0.00015,"bbox":[-106.10192108154,34.947338104248,-106.07831573486,34.969036102295],"coordinates":[[[[-106.085571,34.969036],[-106.082001,34.962147],[-106.078316,34.947338],[-106.082329,34.962196],[-106.101921,34.968227],[-106.085571,34.969036]]]],"created":1292512327,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2372866_20101216_d4cb09fa94.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

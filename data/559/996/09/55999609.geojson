@@ -1,0 +1,15 @@
+{
+  "id": 55999609,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer, Burlington, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999609,
+    "woe:name":"Palmer, Burlington, ON, CA, Canada",
+    "woe:place_id":"oM8TUbGcBJWgjvIJag",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.806999,43.353397,-79.796844,43.359737],
+  "geometry": {"alpha":1.25e-05,"bbox":[-79.806999206543,43.353397369385,-79.796844482422,43.35973739624],"coordinates":[[[[-79.806099,43.35635],[-79.806999,43.35725],[-79.804604,43.359737],[-79.803268,43.359112],[-79.798332,43.357403],[-79.796844,43.358471],[-79.796951,43.35405],[-79.799934,43.353397],[-79.806099,43.35635]]]],"created":1292519448,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/55999609_20101216_7d2f99e5ce.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

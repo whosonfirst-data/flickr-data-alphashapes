@@ -1,0 +1,15 @@
+{
+  "id": 149606,
+  "type": "Feature",
+  "properties": {
+    "name":"Tlaltenango, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":149606,
+    "woe:name":"Tlaltenango, Puebla, Mexico",
+    "woe:place_id":"noCgYbuYBZWtfWk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.350983,19.171843,-98.321114,19.184732],
+  "geometry": {"alpha":0.00015,"bbox":[-98.350982666016,19.171842575073,-98.321113586426,19.184732437134],"coordinates":[[[[-98.328835,19.184084],[-98.321114,19.172167],[-98.332611,19.171843],[-98.336182,19.17309],[-98.350983,19.184732],[-98.328835,19.184084]]]],"created":1292525010,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/149606_20101216_4342148cc0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

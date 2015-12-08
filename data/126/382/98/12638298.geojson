@@ -1,0 +1,15 @@
+{
+  "id": 12638298,
+  "type": "Feature",
+  "properties": {
+    "name":"Bazenville, France",
+    "placetype":"locality",
+    "woe:id":12638298,
+    "woe:name":"Bazenville, France",
+    "woe:place_id":"qoP3TRKYA5oksMYIgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.601,49.299999,-0.600312,49.300541],
+  "geometry": {"alpha":1e-05,"bbox":[-0.60100001096725,49.299999237061,-0.60031199455261,49.300540924072],"coordinates":[[[[-0.600716,49.300533],[-0.600663,49.300541],[-0.600576,49.300476],[-0.600312,49.300194],[-0.6005,49.299999],[-0.600667,49.299999],[-0.600842,49.300171],[-0.601,49.300331],[-0.600716,49.300533]]]],"created":1292452056,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12638298_20101215_68b56afdd3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

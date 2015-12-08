@@ -1,0 +1,15 @@
+{
+  "id": 22526605,
+  "type": "Feature",
+  "properties": {
+    "name":"Costa, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":22526605,
+    "woe:name":"Costa, Veneto, Italy",
+    "woe:place_id":"ZfomuombA5kALilsuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.615186,45.768196,11.618469,45.768658],
+  "geometry": {"alpha":0.00015,"bbox":[11.61518573761,45.768196105957,11.618469238281,45.768657684326],"coordinates":[[[[11.616005,45.768574],[11.616766,45.768555],[11.618469,45.768658],[11.616363,45.768387],[11.615355,45.768196],[11.615186,45.768337],[11.616005,45.768574]]]],"created":1292517808,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/22526605_20101216_e5cdd6dd0c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2509145,
+  "type": "Feature",
+  "properties": {
+    "name":"Twin Lakes, Kent, OH, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2509145,
+    "woe:name":"Twin Lakes, Kent, OH, US, United States",
+    "woe:place_id":"Q.t1CAKbBJyBgb1m",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.345581,41.195007,-81.338226,41.199322],
+  "geometry": {"alpha":0.00015,"bbox":[-81.345581054688,41.195007324219,-81.338226318359,41.199321746826],"coordinates":[[[[-81.338654,41.196579],[-81.338226,41.19511],[-81.338898,41.195007],[-81.345581,41.195576],[-81.342773,41.199322],[-81.338654,41.196579]]]],"created":1247925490,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3523/shapefiles/2509145_20090718_c95999e291.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

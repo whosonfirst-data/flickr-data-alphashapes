@@ -1,0 +1,15 @@
+{
+  "id": 2398152,
+  "type": "Feature",
+  "properties": {
+    "name":"Eldorado Hills, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2398152,
+    "woe:name":"Eldorado Hills, Washington, United States",
+    "woe:place_id":"OOuXywWbApX08EPp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.773888,47.598927,-122.767067,47.617043],
+  "geometry": {"alpha":0.00015,"bbox":[-122.77388763428,47.598926544189,-122.76706695557,47.617042541504],"coordinates":[[[[-122.773247,47.598927],[-122.773888,47.603779],[-122.771339,47.608391],[-122.767838,47.617043],[-122.767067,47.599506],[-122.773247,47.598927]]]],"created":1292539927,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2398152_20101216_802d7b6fe1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

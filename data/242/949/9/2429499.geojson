@@ -1,0 +1,15 @@
+{
+  "id": 2429499,
+  "type": "Feature",
+  "properties": {
+    "name":"Johnson, New York, United States",
+    "placetype":"locality",
+    "woe:id":2429499,
+    "woe:name":"Johnson, New York, United States",
+    "woe:place_id":"QArUSOmbBZ4mJRL3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.521797,41.349243,-74.493706,41.370983],
+  "geometry": {"alpha":0.00015,"bbox":[-74.521797180176,41.349243164062,-74.493705749512,41.370983123779],"coordinates":[[[[-74.50663,41.366077],[-74.493706,41.370983],[-74.502495,41.358742],[-74.502579,41.358177],[-74.521797,41.349243],[-74.506592,41.36565],[-74.50663,41.366077]]]],"created":1292485988,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2429499_20101216_60eeef9def.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

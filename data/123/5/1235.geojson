@@ -1,0 +1,15 @@
+{
+  "id": 1235,
+  "type": "Feature",
+  "properties": {
+    "name":"Pool's Island, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":1235,
+    "woe:name":"Pool's Island, Newfoundland and Labrador, Canada",
+    "woe:place_id":"0RNWEIWYA58.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.61311,49.114948,-53.598175,49.124275],
+  "geometry": {"alpha":0.00015,"bbox":[-53.613109588623,49.114948272705,-53.598175048828,49.12427520752],"coordinates":[[[[-53.598175,49.119389],[-53.606586,49.114948],[-53.61311,49.124275],[-53.607445,49.12141],[-53.598175,49.119389]]]],"created":1292465165,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/1235_20101216_5ddb4024dd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

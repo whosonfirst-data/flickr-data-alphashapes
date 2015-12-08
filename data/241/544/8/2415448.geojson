@@ -1,0 +1,15 @@
+{
+  "id": 2415448,
+  "type": "Feature",
+  "properties": {
+    "name":"Guernsey, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2415448,
+    "woe:name":"Guernsey, Iowa, United States",
+    "woe:place_id":"ALxz4qibBZ0Ojd.z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.357552,41.695362,-92.348999,41.699322],
+  "geometry": {"alpha":0.00015,"bbox":[-92.357551574707,41.695362091064,-92.348999023438,41.699321746826],"coordinates":[[[[-92.350113,41.699322],[-92.348999,41.695667],[-92.357552,41.695362],[-92.356873,41.698692],[-92.351074,41.699158],[-92.350113,41.699322]]]],"created":1292440685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2415448_20101215_76d2d6dc3e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

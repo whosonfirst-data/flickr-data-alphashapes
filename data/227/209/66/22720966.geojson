@@ -1,0 +1,15 @@
+{
+  "id": 22720966,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Roadknight, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":22720966,
+    "woe:name":"Point Roadknight, Victoria, Australia",
+    "woe:place_id":"mWsWppabA5tzn.WC9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.175125,-38.429386,144.184402,-38.426159],
+  "geometry": {"alpha":0.00015,"bbox":[144.17512512207,-38.429386138916,144.18440246582,-38.426158905029],"coordinates":[[[[144.178223,-38.427235],[144.181046,-38.426159],[144.184402,-38.428108],[144.1819,-38.429066],[144.17804,-38.429386],[144.175125,-38.428982],[144.178223,-38.427235]]]],"created":1292537485,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/22720966_20101216_bf67355b62.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

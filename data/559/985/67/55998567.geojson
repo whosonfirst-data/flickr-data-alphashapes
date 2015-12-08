@@ -1,0 +1,15 @@
+{
+  "id": 55998567,
+  "type": "Feature",
+  "properties": {
+    "name":"Westboro, Sherwood Park, AB, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55998567,
+    "woe:name":"Westboro, Sherwood Park, AB, CA, Canada",
+    "woe:place_id":"Qk13MOScBJVcn6PERA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-113.330261,53.524399,-113.326118,53.526928],
+  "geometry": {"alpha":1e-05,"bbox":[-113.33026123047,53.524398803711,-113.32611846924,53.526927947998],"coordinates":[[[[-113.330177,53.524399],[-113.330261,53.526451],[-113.326118,53.526928],[-113.329277,53.525597],[-113.330177,53.524399]]]],"created":1292523844,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/55998567_20101216_b0a79786a7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

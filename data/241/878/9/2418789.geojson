@@ -1,0 +1,15 @@
+{
+  "id": 2418789,
+  "type": "Feature",
+  "properties": {
+    "name":"Haverhill, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2418789,
+    "woe:name":"Haverhill, Florida, United States",
+    "woe:place_id":"EWRHxAibBZ2vfRlK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.117195,26.683277,-80.108833,26.701145],
+  "geometry": {"alpha":0.00015,"bbox":[-80.117195129395,26.683277130127,-80.108833312988,26.701145172119],"coordinates":[[[[-80.111275,26.701145],[-80.108833,26.693832],[-80.112816,26.683277],[-80.117195,26.695278],[-80.11132,26.701069],[-80.111275,26.701145]]]],"created":1292460004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2418789_20101216_868c732ddc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

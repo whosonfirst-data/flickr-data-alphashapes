@@ -1,0 +1,15 @@
+{
+  "id": 2441225,
+  "type": "Feature",
+  "properties": {
+    "name":"Loma Linda, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2441225,
+    "woe:name":"Loma Linda, Arizona, United States",
+    "woe:place_id":"TlJjtDqbBZisimu6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.76004,32.437675,-110.744591,32.450207],
+  "geometry": {"alpha":0.00015,"bbox":[-110.7600402832,32.437675476074,-110.74459075928,32.450206756592],"coordinates":[[[[-110.752144,32.442276],[-110.76004,32.44561],[-110.754417,32.450207],[-110.744591,32.441986],[-110.747849,32.437675],[-110.752144,32.442276]]]],"created":1292465413,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2441225_20101216_199d6b1468.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12646481,
+  "type": "Feature",
+  "properties": {
+    "name":"Quincampoix, France",
+    "placetype":"locality",
+    "woe:id":12646481,
+    "woe:name":"Quincampoix, France",
+    "woe:place_id":"ALGVcpCYA5qKjptLWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.123094,49.471611,1.127954,49.474705],
+  "geometry": {"alpha":1e-05,"bbox":[1.1230939626694,49.471611022949,1.1279540061951,49.474704742432],"coordinates":[[[[1.123094,49.471611],[1.123094,49.474705],[1.123952,49.474174],[1.124553,49.473618],[1.127954,49.472752],[1.123094,49.471611]]]],"created":1292550787,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12646481_20101217_6fd9ac4dde.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

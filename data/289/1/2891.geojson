@@ -1,0 +1,15 @@
+{
+  "id": 2891,
+  "type": "Feature",
+  "properties": {
+    "name":"Oak Lake, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2891,
+    "woe:name":"Oak Lake, Manitoba, Canada",
+    "woe:place_id":"MoVsGTybCZVo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.638199,49.762695,-100.622749,49.770786],
+  "geometry": {"alpha":0.00015,"bbox":[-100.63819885254,49.7626953125,-100.62274932861,49.7707862854],"coordinates":[[[[-100.633873,49.76627],[-100.638199,49.769459],[-100.630127,49.770786],[-100.622749,49.762695],[-100.6315,49.76577],[-100.632362,49.765854],[-100.633873,49.76627]]]],"created":1292530293,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2891_20101216_9777daa33a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

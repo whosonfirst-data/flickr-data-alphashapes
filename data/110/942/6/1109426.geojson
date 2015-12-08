@@ -1,0 +1,15 @@
+{
+  "id": 1109426,
+  "type": "Feature",
+  "properties": {
+    "name":"Imabukucho, Japan",
+    "placetype":"locality",
+    "woe:id":1109426,
+    "woe:name":"Imabukucho, Japan",
+    "woe:place_id":"nJ_S9tyYAJzDPzsE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [129.71489,33.162918,129.720215,33.172043],
+  "geometry": {"alpha":1e-05,"bbox":[129.71488952637,33.16291809082,129.72021484375,33.17204284668],"coordinates":[[[[129.71489,33.16687],[129.71489,33.168594],[129.715744,33.172043],[129.720215,33.168018],[129.719528,33.165432],[129.718414,33.162918],[129.71489,33.16687]]]],"created":1292536039,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/1109426_20101216_a75f2a4967.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

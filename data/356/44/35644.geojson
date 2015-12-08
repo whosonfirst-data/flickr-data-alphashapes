@@ -1,0 +1,15 @@
+{
+  "id": 35644,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Georges, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35644,
+    "woe:name":"St. Georges, England, United Kingdom",
+    "woe:place_id":"EAEL.N.aBJodMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.442312,52.686241,-2.429029,52.697399],
+  "geometry": {"alpha":0.00015,"bbox":[-2.442312002182,52.686241149902,-2.4290289878845,52.697399139404],"coordinates":[[[[-2.43021,52.694981],[-2.431456,52.694683],[-2.442312,52.686241],[-2.440273,52.693447],[-2.431411,52.697399],[-2.429029,52.696674],[-2.43021,52.694981]]]],"created":1292517785,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/35644_20101216_86bd8325fb.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

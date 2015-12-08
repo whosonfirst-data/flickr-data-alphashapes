@@ -1,0 +1,15 @@
+{
+  "id": 2430339,
+  "type": "Feature",
+  "properties": {
+    "name":"Juniper Beach, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2430339,
+    "woe:name":"Juniper Beach, Washington, United States",
+    "woe:place_id":"xP24mwKbBZ9ZglN4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.41983,48.227997,-122.406235,48.233078],
+  "geometry": {"alpha":0.00015,"bbox":[-122.41983032227,48.227996826172,-122.40623474121,48.23307800293],"coordinates":[[[[-122.409966,48.227997],[-122.410179,48.228031],[-122.41983,48.233078],[-122.406235,48.230503],[-122.406364,48.230232],[-122.409966,48.227997]]]],"created":1292544715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2430339_20101217_53093b9bb6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

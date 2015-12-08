@@ -1,0 +1,15 @@
+{
+  "id": 12602345,
+  "type": "Feature",
+  "properties": {
+    "name":"Lierde, Belgium",
+    "placetype":"locality",
+    "woe:id":12602345,
+    "woe:name":"Lierde, Belgium",
+    "woe:place_id":"03hyBKKYA5rrhOA4jQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.825645,50.808754,3.834657,50.817554],
+  "geometry": {"alpha":1e-05,"bbox":[3.8256449699402,50.808753967285,3.8346569538116,50.817554473877],"coordinates":[[[[3.831481,50.813663],[3.834121,50.817554],[3.831557,50.813492],[3.832983,50.810017],[3.834486,50.809052],[3.834657,50.808754],[3.832983,50.810017],[3.830537,50.812767],[3.827254,50.815838],[3.825645,50.81662],[3.827362,50.815872],[3.831481,50.813663]]]],"created":1292519072,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12602345_20101216_ce61e540b0.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

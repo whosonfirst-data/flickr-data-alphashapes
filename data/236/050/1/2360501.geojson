@@ -1,0 +1,15 @@
+{
+  "id": 2360501,
+  "type": "Feature",
+  "properties": {
+    "name":"Beach City, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2360501,
+    "woe:name":"Beach City, Ohio, United States",
+    "woe:place_id":"5mzkOGybApoP_0xQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.588066,40.6376,-81.534348,40.682167],
+  "geometry": {"alpha":0.000457763671875,"bbox":[-81.588066101074,40.637599945068,-81.53434753418,40.682167053223],"coordinates":[[[[-81.552521,40.645912],[-81.534348,40.650688],[-81.548935,40.6376],[-81.554588,40.645935],[-81.575386,40.651417],[-81.580711,40.652908],[-81.586723,40.662556],[-81.586906,40.663166],[-81.588066,40.668175],[-81.568665,40.682167],[-81.568573,40.682022],[-81.552521,40.645912]]]],"created":1292538597,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2360501_20101216_dda7cf11e3.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

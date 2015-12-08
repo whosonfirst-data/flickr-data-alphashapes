@@ -1,0 +1,15 @@
+{
+  "id": 12625572,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Scheibenberg, Germany",
+    "placetype":"locality",
+    "woe:id":12625572,
+    "woe:name":"Gemeinde Scheibenberg, Germany",
+    "woe:place_id":"V0b_55CYA5oSe3fWiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.894837,50.535286,12.897348,50.536114],
+  "geometry": {"alpha":1e-05,"bbox":[12.894837379456,50.535285949707,12.897348403931,50.536113739014],"coordinates":[[[[12.894837,50.535286],[12.895116,50.535652],[12.895427,50.535751],[12.896908,50.536114],[12.897348,50.536057],[12.894837,50.535286]]]],"created":1292441301,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12625572_20101215_0a7347f59f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

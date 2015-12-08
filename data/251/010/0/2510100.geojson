@@ -1,0 +1,15 @@
+{
+  "id": 2510100,
+  "type": "Feature",
+  "properties": {
+    "name":"University Heights, Bethlehem, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2510100,
+    "woe:name":"University Heights, Bethlehem, PA, US, United States",
+    "woe:place_id":"XPOG3SubBJ3bJKXz",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.396751,40.606216,-75.392776,40.608929],
+  "geometry": {"alpha":1e-05,"bbox":[-75.396751403809,40.606216430664,-75.392776489258,40.60892868042],"coordinates":[[[[-75.394218,40.608929],[-75.392776,40.607819],[-75.396751,40.606216],[-75.394333,40.608501],[-75.394218,40.608929]]]],"created":1292529756,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2510100_20101216_6e1125c008.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

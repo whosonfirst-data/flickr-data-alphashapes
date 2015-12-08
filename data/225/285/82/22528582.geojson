@@ -1,0 +1,15 @@
+{
+  "id": 22528582,
+  "type": "Feature",
+  "properties": {
+    "name":"La Lonja, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":22528582,
+    "woe:name":"La Lonja, Buenos Aires, Argentina",
+    "woe:place_id":"9Afhr1WbA5mqwJpoOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.84919,-34.468567,-58.833759,-34.449642],
+  "geometry": {"alpha":0.00015,"bbox":[-58.849189758301,-34.468566894531,-58.833759307861,-34.449642181396],"coordinates":[[[[-58.83831,-34.468353],[-58.839855,-34.465595],[-58.84919,-34.449642],[-58.835476,-34.454323],[-58.833759,-34.468567],[-58.83831,-34.468353]]]],"created":1292545391,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/22528582_20101217_6b50d4db0b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20158030,
+  "type": "Feature",
+  "properties": {
+    "name":"Weigendorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20158030,
+    "woe:name":"Weigendorf, Bavaria, Germany",
+    "woe:place_id":"3Y8DPjmbAZ1QtmnBmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.550214,49.491123,11.565535,49.508141],
+  "geometry": {"alpha":0.00015,"bbox":[11.550213813782,49.491123199463,11.565534591675,49.508140563965],"coordinates":[[[[11.550214,49.497349],[11.550316,49.507042],[11.565535,49.508141],[11.556636,49.491123],[11.553419,49.49511],[11.550214,49.497349]]]],"created":1292386443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20158030_20101215_bd9866c3d8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

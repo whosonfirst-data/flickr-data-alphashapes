@@ -1,0 +1,15 @@
+{
+  "id": 12634451,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Herzogenaurach, Germany",
+    "placetype":"locality",
+    "woe:id":12634451,
+    "woe:name":"Gemeinde Herzogenaurach, Germany",
+    "woe:place_id":"yF76K.aYA5qhfCeroQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.866925,49.576077,10.870971,49.578663],
+  "geometry": {"alpha":1e-05,"bbox":[10.866925239563,49.576076507568,10.870970726013,49.578662872314],"coordinates":[[[[10.868268,49.576077],[10.866925,49.577847],[10.866932,49.577847],[10.870971,49.578663],[10.870067,49.576832],[10.868268,49.576077]]]],"created":1292535200,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12634451_20101216_01515755b8.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

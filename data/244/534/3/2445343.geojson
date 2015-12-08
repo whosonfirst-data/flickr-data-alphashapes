@@ -1,0 +1,15 @@
+{
+  "id": 2445343,
+  "type": "Feature",
+  "properties": {
+    "name":"Mapleton, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2445343,
+    "woe:name":"Mapleton, Michigan, United States",
+    "woe:place_id":"w_6fNlGbBZhCasTG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.189377,43.551231,-84.185654,43.564457],
+  "geometry": {"alpha":0.00015,"bbox":[-84.189376831055,43.551231384277,-84.185653686523,43.564456939697],"coordinates":[[[[-84.187119,43.564407],[-84.185654,43.563911],[-84.189377,43.551231],[-84.187248,43.564457],[-84.187119,43.564407]]]],"created":1292456730,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2445343_20101215_2a9c9c0aa7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

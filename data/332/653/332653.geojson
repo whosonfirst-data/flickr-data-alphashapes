@@ -1,0 +1,15 @@
+{
+  "id": 332653,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlos, Mendoza, Argentina",
+    "placetype":"locality",
+    "woe:id":332653,
+    "woe:name":"San Carlos, Mendoza, Argentina",
+    "woe:place_id":"Yrggo0uaAp67G9I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.075851,-33.792416,-69.062973,-33.777863],
+  "geometry": {"alpha":0.00015,"bbox":[-69.07585144043,-33.792415618896,-69.062973022461,-33.777862548828],"coordinates":[[[[-69.066238,-33.777863],[-69.062973,-33.78207],[-69.065033,-33.783283],[-69.075851,-33.792416],[-69.066238,-33.777863]]]],"created":1292529714,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/332653_20101216_963471c2f4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

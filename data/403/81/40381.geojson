@@ -1,0 +1,15 @@
+{
+  "id": 40381,
+  "type": "Feature",
+  "properties": {
+    "name":"Whixley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40381,
+    "woe:name":"Whixley, England, United Kingdom",
+    "woe:place_id":"O_0kTxKdAZ8qKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.385822,54.007061,-1.361618,54.026325],
+  "geometry": {"alpha":0.00015,"bbox":[-1.385822057724,54.007061004639,-1.3616180419922,54.02632522583],"coordinates":[[[[-1.378269,54.007061],[-1.384277,54.018158],[-1.385822,54.026325],[-1.376724,54.014427],[-1.372132,54.012737],[-1.361618,54.010731],[-1.378269,54.007061]]]],"created":1292537135,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/40381_20101216_510d96f82f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 543687,
+  "type": "Feature",
+  "properties": {
+    "name":"Schallaburg, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543687,
+    "woe:name":"Schallaburg, Lower Austria, Austria",
+    "woe:place_id":"QRdBuxOcBZ_j8tA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.351762,48.181568,15.35644,48.185776],
+  "geometry": {"alpha":0.00015,"bbox":[15.351761817932,48.181568145752,15.356439590454,48.185775756836],"coordinates":[[[[15.35408,48.185776],[15.35644,48.185345],[15.35614,48.18457],[15.354949,48.183449],[15.351762,48.181568],[15.353393,48.185776],[15.35408,48.185776]]]],"created":1292534589,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/543687_20101216_66d9d3761f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

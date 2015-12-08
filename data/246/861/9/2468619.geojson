@@ -1,0 +1,15 @@
+{
+  "id": 2468619,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkins Mills, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2468619,
+    "woe:name":"Parkins Mills, Virginia, United States",
+    "woe:place_id":"_Qb.ZTWbBZqAvUut",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.185921,39.089554,-78.164169,39.104397],
+  "geometry": {"alpha":0.00015,"bbox":[-78.185920715332,39.089553833008,-78.164169311523,39.104396820068],"coordinates":[[[[-78.164215,39.092503],[-78.171417,39.089554],[-78.185921,39.095364],[-78.181564,39.104397],[-78.164169,39.092667],[-78.164215,39.092503]]]],"created":1292544281,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2468619_20101217_8ef3db2461.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

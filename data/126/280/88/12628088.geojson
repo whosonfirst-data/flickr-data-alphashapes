@@ -1,0 +1,15 @@
+{
+  "id": 12628088,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Baumholder, Germany",
+    "placetype":"locality",
+    "woe:id":12628088,
+    "woe:name":"Gemeinde Baumholder, Germany",
+    "woe:place_id":"56CK87qYA5r0xAc4Mg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.337665,49.614658,7.343673,49.617939],
+  "geometry": {"alpha":1e-05,"bbox":[7.3376650810242,49.614658355713,7.3436732292175,49.617938995361],"coordinates":[[[[7.338695,49.614658],[7.337665,49.617939],[7.339553,49.616714],[7.343673,49.61694],[7.338695,49.614658]]]],"created":1292505245,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12628088_20101216_7521aaa898.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

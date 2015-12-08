@@ -1,0 +1,15 @@
+{
+  "id": 2508898,
+  "type": "Feature",
+  "properties": {
+    "name":"Turtle Lake, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2508898,
+    "woe:name":"Turtle Lake, North Dakota, United States",
+    "woe:place_id":"669UPPKbBJzy3hTf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.908463,47.511894,-100.886078,47.520519],
+  "geometry": {"alpha":0.00015,"bbox":[-100.90846252441,47.511894226074,-100.88607788086,47.520519256592],"coordinates":[[[[-100.891724,47.515984],[-100.908463,47.515064],[-100.893906,47.520519],[-100.886581,47.520042],[-100.886078,47.511894],[-100.891724,47.515984]]]],"created":1292543249,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2508898_20101216_c03e18e1fe.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

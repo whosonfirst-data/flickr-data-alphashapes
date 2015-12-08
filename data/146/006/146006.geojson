@@ -1,0 +1,15 @@
+{
+  "id": 146006,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Cruz, Nayarit, Mexico",
+    "placetype":"locality",
+    "woe:id":146006,
+    "woe:name":"Santa Cruz, Nayarit, Mexico",
+    "woe:place_id":"PT92BB6YBZqNvPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.203705,21.436293,-105.1866,21.463003],
+  "geometry": {"alpha":0.00015,"bbox":[-105.20370483398,21.436292648315,-105.18659973145,21.463003158569],"coordinates":[[[[-105.198982,21.446596],[-105.188858,21.463003],[-105.1866,21.443489],[-105.203362,21.436293],[-105.203705,21.439327],[-105.198982,21.446596]]]],"created":1239512414,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3353/shapefiles/146006_20090412_124d87266a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1102582,
+  "type": "Feature",
+  "properties": {
+    "name":"Hastings Point, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1102582,
+    "woe:name":"Hastings Point, New South Wales, Australia",
+    "woe:place_id":"riSXo1GYAJxlX0ZN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.57402,-28.368593,153.582687,-28.352205],
+  "geometry": {"alpha":0.00015,"bbox":[153.57402038574,-28.368593215942,153.58268737793,-28.352205276489],"coordinates":[[[[153.580795,-28.363535],[153.575653,-28.368593],[153.57402,-28.359947],[153.575134,-28.352205],[153.582687,-28.357868],[153.580795,-28.363535]]]],"created":1292457600,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/1102582_20101216_977393ef8f.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

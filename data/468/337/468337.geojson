@@ -1,0 +1,15 @@
+{
+  "id": 468337,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco de Yare, Miranda, Venezuela",
+    "placetype":"locality",
+    "woe:id":468337,
+    "woe:name":"San Francisco de Yare, Miranda, Venezuela",
+    "woe:place_id":"yTa1qG2dB5QJMog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.752586,10.166348,-66.74263,10.186539],
+  "geometry": {"alpha":0.00015,"bbox":[-66.752586364746,10.166348457336,-66.742630004883,10.186538696289],"coordinates":[[[[-66.744347,10.178767],[-66.744003,10.176401],[-66.747261,10.166348],[-66.752586,10.181839],[-66.74263,10.186539],[-66.744347,10.178767]]]],"created":1292536011,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/468337_20101216_001c85e1c4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

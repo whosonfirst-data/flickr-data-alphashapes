@@ -1,0 +1,15 @@
+{
+  "id": 467392,
+  "type": "Feature",
+  "properties": {
+    "name":"Ranchos, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":467392,
+    "woe:name":"Ranchos, Buenos Aires, Argentina",
+    "woe:place_id":"mcEwcfWdB5t0UNI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.320923,-35.515041,-58.314571,-35.507076],
+  "geometry": {"alpha":0.00015,"bbox":[-58.320922851562,-35.515041351318,-58.314571380615,-35.507076263428],"coordinates":[[[[-58.314571,-35.512527],[-58.320923,-35.515041],[-58.318932,-35.511379],[-58.31749,-35.507076],[-58.31646,-35.509312],[-58.314571,-35.512527]]]],"created":1292504641,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/467392_20101216_b396642ca7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

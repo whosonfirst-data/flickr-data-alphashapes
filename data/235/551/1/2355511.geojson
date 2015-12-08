@@ -1,0 +1,15 @@
+{
+  "id": 2355511,
+  "type": "Feature",
+  "properties": {
+    "name":"Arcadia, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2355511,
+    "woe:name":"Arcadia, Iowa, United States",
+    "woe:place_id":"EF_U0uybApmA8LhZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.058342,42.11134,-95.050789,42.124645],
+  "geometry": {"alpha":0.00015,"bbox":[-95.05834197998,42.111339569092,-95.050788879395,42.124645233154],"coordinates":[[[[-95.057312,42.11134],[-95.058342,42.118408],[-95.057144,42.124645],[-95.050789,42.115795],[-95.057312,42.11134]]]],"created":1292451614,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2355511_20101215_0b2849008a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

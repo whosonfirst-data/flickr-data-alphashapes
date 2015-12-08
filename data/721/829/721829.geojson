@@ -1,0 +1,15 @@
+{
+  "id": 721829,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca Imperiale, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":721829,
+    "woe:name":"Rocca Imperiale, Calabria, Italy",
+    "woe:place_id":"ee1tfRSeA51DAG8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.575966,40.103722,16.59193,40.120419],
+  "geometry": {"alpha":0.00015,"bbox":[16.575965881348,40.103721618652,16.591930389404,40.120418548584],"coordinates":[[[[16.57917,40.111092],[16.59193,40.105797],[16.585106,40.103722],[16.578508,40.109722],[16.575966,40.120419],[16.57917,40.111092]]]],"created":1292516347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/721829_20101216_6b56f3b9c9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20105714,
+  "type": "Feature",
+  "properties": {
+    "name":"Borghetto, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20105714,
+    "woe:name":"Borghetto, Piedmont, Italy",
+    "woe:place_id":"xchVRnSbAZ2dCzzhyg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.528652,45.680176,8.539123,45.686516],
+  "geometry": {"alpha":0.00015,"bbox":[8.5286521911621,45.68017578125,8.5391225814819,45.686515808105],"coordinates":[[[[8.53363,45.686516],[8.53775,45.685555],[8.539123,45.68148],[8.528695,45.680176],[8.528652,45.680649],[8.53363,45.686516]]]],"created":1292480287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20105714_20101216_c3da9fcd19.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2509562,
+  "type": "Feature",
+  "properties": {
+    "name":"Umpqua, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2509562,
+    "woe:name":"Umpqua, Oregon, United States",
+    "woe:place_id":"Etxnq8SbBJzgSWpO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.50766,43.343937,-123.501091,43.347588],
+  "geometry": {"alpha":0.00015,"bbox":[-123.50765991211,43.343936920166,-123.50109100342,43.347587585449],"coordinates":[[[[-123.506882,43.344124],[-123.50766,43.343937],[-123.506195,43.344528],[-123.501091,43.347588],[-123.504227,43.344906],[-123.506882,43.344124]]]],"created":1292543258,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2509562_20101216_ba36696628.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

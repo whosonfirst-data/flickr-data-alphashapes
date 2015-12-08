@@ -1,0 +1,15 @@
+{
+  "id": 2474012,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleasant Ridge, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2474012,
+    "woe:name":"Pleasant Ridge, Alabama, United States",
+    "woe:place_id":"0Z.GQ3ebBZvz1wuD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.727859,33.712093,-85.702148,33.719234],
+  "geometry": {"alpha":0.00015,"bbox":[-85.72785949707,33.712093353271,-85.7021484375,33.719234466553],"coordinates":[[[[-85.719925,33.712093],[-85.727348,33.71349],[-85.727859,33.716309],[-85.720398,33.719234],[-85.702148,33.717854],[-85.719925,33.712093]]]],"created":1292494025,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2474012_20101216_7f7a872e87.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

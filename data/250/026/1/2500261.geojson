@@ -1,0 +1,15 @@
+{
+  "id": 2500261,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoneboro, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2500261,
+    "woe:name":"Stoneboro, Pennsylvania, United States",
+    "woe:place_id":"nRvGsbSbBJxutLHe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.107498,41.317818,-80.088783,41.344139],
+  "geometry": {"alpha":0.00015,"bbox":[-80.107498168945,41.317817687988,-80.08878326416,41.344139099121],"coordinates":[[[[-80.092735,41.340858],[-80.088783,41.317818],[-80.099831,41.336071],[-80.106369,41.339252],[-80.107498,41.344139],[-80.093246,41.340988],[-80.092735,41.340858]]]],"created":1292538342,"edges":7,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1427/shapefiles/2500261_20101216_ffde900211.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

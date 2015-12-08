@@ -1,0 +1,15 @@
+{
+  "id": 2495690,
+  "type": "Feature",
+  "properties": {
+    "name":"Somerset, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2495690,
+    "woe:name":"Somerset, Ohio, United States",
+    "woe:place_id":"fy9jU.GbBZWiqm4.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.301414,39.804176,-82.295578,39.811775],
+  "geometry": {"alpha":0.00015,"bbox":[-82.301414489746,39.804176330566,-82.29557800293,39.81177520752],"coordinates":[[[[-82.299614,39.806526],[-82.300377,39.806797],[-82.301414,39.808472],[-82.298134,39.811775],[-82.295753,39.809727],[-82.295578,39.804176],[-82.299614,39.806526]]]],"created":1292550790,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2495690_20101217_96c388e497.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 688790,
+  "type": "Feature",
+  "properties": {
+    "name":"Ringelai, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":688790,
+    "woe:name":"Ringelai, Bavaria, Germany",
+    "woe:place_id":"abT7ShCfCZRpwSU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.501845,48.811455,13.507067,48.819065],
+  "geometry": {"alpha":0.00015,"bbox":[13.501845359802,48.811454772949,13.507066726685,48.819065093994],"coordinates":[[[[13.505081,48.81414],[13.504866,48.813713],[13.501845,48.811455],[13.505983,48.818565],[13.506291,48.819065],[13.507067,48.817001],[13.505081,48.81414]]]],"created":1292540917,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/688790_20101216_bfe1c8fc2c.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

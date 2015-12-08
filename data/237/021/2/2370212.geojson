@@ -1,0 +1,15 @@
+{
+  "id": 2370212,
+  "type": "Feature",
+  "properties": {
+    "name":"Brookwood Acres, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2370212,
+    "woe:name":"Brookwood Acres, Maryland, United States",
+    "woe:place_id":"ZR9jJQObApunT3Ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.978317,38.625801,-76.968567,38.643707],
+  "geometry": {"alpha":0.00015,"bbox":[-76.978317260742,38.625801086426,-76.968566894531,38.643707275391],"coordinates":[[[[-76.968567,38.643707],[-76.968582,38.643536],[-76.968971,38.630314],[-76.978317,38.625801],[-76.971306,38.641186],[-76.968567,38.643707]]]],"created":1292454262,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2370212_20101215_646b33f000.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

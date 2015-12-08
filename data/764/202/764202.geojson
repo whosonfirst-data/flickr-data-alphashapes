@@ -1,0 +1,15 @@
+{
+  "id": 764202,
+  "type": "Feature",
+  "properties": {
+    "name":"La Verada, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":764202,
+    "woe:name":"La Verada, Canary Islands, Spain",
+    "woe:place_id":"oO0817qeB5gXdOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.969437,28.782103,-17.965221,28.785112],
+  "geometry": {"alpha":0.00015,"bbox":[-17.969436645508,28.782102584839,-17.965221405029,28.785112380981],"coordinates":[[[[-17.965221,28.782442],[-17.965822,28.782103],[-17.968697,28.782705],[-17.969437,28.784515],[-17.965565,28.785112],[-17.965221,28.782442]]]],"created":1292520866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/764202_20101216_32df75fb4d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

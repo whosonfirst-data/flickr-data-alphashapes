@@ -1,0 +1,15 @@
+{
+  "id": 2373831,
+  "type": "Feature",
+  "properties": {
+    "name":"Camp Gravatt, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2373831,
+    "woe:name":"Camp Gravatt, South Carolina, United States",
+    "woe:place_id":"3eFMHd.bApu3EznN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.591873,33.733124,-81.585312,33.7407],
+  "geometry": {"alpha":0.00015,"bbox":[-81.591873168945,33.733123779297,-81.585311889648,33.740699768066],"coordinates":[[[[-81.5895,33.737736],[-81.587044,33.740685],[-81.585762,33.7407],[-81.585312,33.736851],[-81.591873,33.733124],[-81.5895,33.737736]]]],"created":1292464569,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2373831_20101216_d647e163d8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

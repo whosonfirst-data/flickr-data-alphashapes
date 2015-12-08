@@ -1,0 +1,15 @@
+{
+  "id": 20157033,
+  "type": "Feature",
+  "properties": {
+    "name":"Kreuth, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20157033,
+    "woe:name":"Kreuth, Bavaria, Germany",
+    "woe:place_id":"6OETt_ObAZ1fJUlHvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.14277,48.733078,11.147271,48.735279],
+  "geometry": {"alpha":0.00015,"bbox":[11.142769813538,48.73307800293,11.147271156311,48.735279083252],"coordinates":[[[[11.142904,48.733078],[11.14277,48.733349],[11.143387,48.734158],[11.144449,48.735279],[11.147271,48.734463],[11.143645,48.733089],[11.142904,48.733078]]]],"created":1247798762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2429/shapefiles/20157033_20090717_694107a709.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

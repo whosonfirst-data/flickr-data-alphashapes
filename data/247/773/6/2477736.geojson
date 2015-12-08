@@ -1,0 +1,15 @@
+{
+  "id": 2477736,
+  "type": "Feature",
+  "properties": {
+    "name":"Queen City Park, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2477736,
+    "woe:name":"Queen City Park, Vermont, United States",
+    "woe:place_id":"ahGmSy2bBZv6ioN.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.220665,44.439907,-73.217506,44.449875],
+  "geometry": {"alpha":0.00015,"bbox":[-73.220664978027,44.439907073975,-73.217506408691,44.44987487793],"coordinates":[[[[-73.22023,44.439907],[-73.220665,44.441349],[-73.219864,44.448742],[-73.219048,44.449875],[-73.217506,44.446251],[-73.22023,44.439907]]]],"created":1292460546,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2477736_20101216_11a1e2d0b1.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

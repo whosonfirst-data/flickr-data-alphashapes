@@ -1,0 +1,15 @@
+{
+  "id": 12511529,
+  "type": "Feature",
+  "properties": {
+    "name":"Topoli Airport, Bulgaria",
+    "placetype":"locality",
+    "woe:id":12511529,
+    "woe:name":"Topoli Airport, Bulgaria",
+    "woe:place_id":"hVo1t6uYA5m_KslEaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.827168,43.234947,27.829227,43.238323],
+  "geometry": {"alpha":1e-05,"bbox":[27.827167510986,43.23494720459,27.82922744751,43.23832321167],"coordinates":[[[[27.827339,43.234947],[27.827168,43.235199],[27.827253,43.235611],[27.829184,43.238323],[27.829227,43.236698],[27.827597,43.235088],[27.827339,43.234947]]]],"created":1292523360,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12511529_20101216_2bb90168b1.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

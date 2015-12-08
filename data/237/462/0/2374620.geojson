@@ -1,0 +1,15 @@
+{
+  "id": 2374620,
+  "type": "Feature",
+  "properties": {
+    "name":"Capay, California, United States",
+    "placetype":"locality",
+    "woe:id":2374620,
+    "woe:name":"Capay, California, United States",
+    "woe:place_id":"R5y1cDGbApsHNdOd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.075745,39.776684,-122.07373,39.779175],
+  "geometry": {"alpha":0.00015,"bbox":[-122.07574462891,39.776683807373,-122.07373046875,39.779174804688],"coordinates":[[[[-122.075745,39.777027],[-122.075447,39.778076],[-122.073746,39.779171],[-122.07373,39.779175],[-122.073898,39.776684],[-122.075745,39.777027]]]],"created":1292535460,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2374620_20101216_090d090f4b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

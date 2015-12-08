@@ -1,0 +1,15 @@
+{
+  "id": 12680199,
+  "type": "Feature",
+  "properties": {
+    "name":"Marta, Italy",
+    "placetype":"locality",
+    "woe:id":12680199,
+    "woe:name":"Marta, Italy",
+    "woe:place_id":"tVvCFTOYA5qZPOihzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.917634,42.535423,11.925659,42.538425],
+  "geometry": {"alpha":1e-05,"bbox":[11.917634010315,42.535423278809,11.925659179688,42.538425445557],"coordinates":[[[[11.923846,42.535423],[11.923255,42.535625],[11.917634,42.53656],[11.919479,42.538425],[11.923316,42.536537],[11.925659,42.538029],[11.923846,42.535423]]]],"created":1292532748,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12680199_20101216_279e4df7c8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2518590,
+  "type": "Feature",
+  "properties": {
+    "name":"Westville, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2518590,
+    "woe:name":"Westville, Mississippi, United States",
+    "woe:place_id":"Rm95qk6bBJ1uXclj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.417625,33.838448,-88.399086,33.858158],
+  "geometry": {"alpha":0.00015,"bbox":[-88.417625427246,33.838447570801,-88.399085998535,33.858158111572],"coordinates":[[[[-88.400375,33.841763],[-88.417625,33.838448],[-88.412987,33.858158],[-88.399086,33.852455],[-88.400505,33.84317],[-88.400375,33.841763]]]],"created":1247914444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2660/shapefiles/2518590_20090718_1b187427de.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

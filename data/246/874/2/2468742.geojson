@@ -1,0 +1,15 @@
+{
+  "id": 2468742,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2468742,
+    "woe:name":"Parkville, Pennsylvania, United States",
+    "woe:place_id":"7E_zPsmbBZp6J5fA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.980888,39.770893,-76.964493,39.784664],
+  "geometry": {"alpha":0.00015,"bbox":[-76.980888366699,39.770893096924,-76.964492797852,39.784664154053],"coordinates":[[[[-76.965279,39.784664],[-76.964493,39.783901],[-76.980179,39.770893],[-76.980888,39.771057],[-76.975021,39.783607],[-76.965279,39.784664]]]],"created":1292538100,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2468742_20101216_8f3f9b1686.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

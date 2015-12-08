@@ -1,0 +1,15 @@
+{
+  "id": 12512892,
+  "type": "Feature",
+  "properties": {
+    "name":"Strasbourg Airport, France",
+    "placetype":"locality",
+    "woe:id":12512892,
+    "woe:name":"Strasbourg Airport, France",
+    "woe:place_id":"OuC9oIWYA5mTEyuWPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.622795,48.539909,7.632579,48.549339],
+  "geometry": {"alpha":1.25e-05,"bbox":[7.6227951049805,48.539909362793,7.6325788497925,48.549339294434],"coordinates":[[[[7.622795,48.539909],[7.622838,48.540306],[7.625284,48.54184],[7.628,48.544498],[7.628116,48.54525],[7.632579,48.549339],[7.630261,48.544556],[7.629661,48.542408],[7.624597,48.539909],[7.622795,48.539909]]]],"created":1292538198,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12512892_20101216_aa767c0f1f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

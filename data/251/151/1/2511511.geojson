@@ -1,0 +1,15 @@
+{
+  "id": 2511511,
+  "type": "Feature",
+  "properties": {
+    "name":"Veazie, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2511511,
+    "woe:name":"Veazie, Washington, United States",
+    "woe:place_id":"SlEULg6bBJ3PLACd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.969742,47.242157,-121.94944,47.249691],
+  "geometry": {"alpha":0.00015,"bbox":[-121.96974182129,47.242156982422,-121.94944000244,47.249691009521],"coordinates":[[[[-121.960861,47.249538],[-121.952621,47.249172],[-121.94944,47.242706],[-121.958282,47.242157],[-121.969742,47.249691],[-121.960861,47.249538]]]],"created":1292537409,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2511511_20101216_1321925610.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2512875,
+  "type": "Feature",
+  "properties": {
+    "name":"Vya, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2512875,
+    "woe:name":"Vya, Nevada, United States",
+    "woe:place_id":"3GZ4_fCbBJ2.fbmc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.863327,41.571278,-119.847969,41.601837],
+  "geometry": {"alpha":0.00015,"bbox":[-119.86332702637,41.571277618408,-119.84796905518,41.601837158203],"coordinates":[[[[-119.847969,41.583252],[-119.8526,41.571278],[-119.863327,41.590218],[-119.86187,41.601837],[-119.849289,41.583729],[-119.847969,41.583252]]]],"created":1292544010,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2512875_20101217_e9d6f5fb5f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

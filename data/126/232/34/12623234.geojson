@@ -1,0 +1,15 @@
+{
+  "id": 12623234,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Oberstenfeld, Germany",
+    "placetype":"locality",
+    "woe:id":12623234,
+    "woe:name":"Gemeinde Oberstenfeld, Germany",
+    "woe:place_id":"qnbGWWiYA5p.bi4aCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.31853,49.023464,9.321641,49.024475],
+  "geometry": {"alpha":1e-05,"bbox":[9.3185300827026,49.023464202881,9.3216409683228,49.024475097656],"coordinates":[[[[9.31853,49.023525],[9.319517,49.024269],[9.321641,49.024475],[9.319217,49.023464],[9.31853,49.023525]]]],"created":1292522583,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12623234_20101216_19b6bb7ed6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

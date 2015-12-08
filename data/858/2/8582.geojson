@@ -1,0 +1,15 @@
+{
+  "id": 8582,
+  "type": "Feature",
+  "properties": {
+    "name":"Delia, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8582,
+    "woe:name":"Delia, Alberta, Canada",
+    "woe:place_id":"Sq2d9UWRBJQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.374855,51.630264,-112.371597,51.632774],
+  "geometry": {"alpha":0.00015,"bbox":[-112.3748550415,51.630264282227,-112.37159729004,51.632774353027],"coordinates":[[[[-112.373878,51.631264],[-112.374855,51.632404],[-112.374344,51.632774],[-112.371597,51.63147],[-112.371658,51.630264],[-112.373878,51.631264]]]],"created":1292535080,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/8582_20101216_4b925e783c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

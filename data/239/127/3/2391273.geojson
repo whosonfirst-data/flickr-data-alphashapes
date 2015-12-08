@@ -1,0 +1,15 @@
+{
+  "id": 2391273,
+  "type": "Feature",
+  "properties": {
+    "name":"Denver, Norman, OK, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2391273,
+    "woe:name":"Denver, Norman, OK, US, United States",
+    "woe:place_id":"vH0JiCebApW9aHGJ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-97.253983,35.208389,-97.2472,35.211475],
+  "geometry": {"alpha":1e-05,"bbox":[-97.253982543945,35.208389282227,-97.247200012207,35.211475372314],"coordinates":[[[[-97.25248,35.210808],[-97.2472,35.211475],[-97.252266,35.208389],[-97.253487,35.209591],[-97.253983,35.211266],[-97.25248,35.210808]]]],"created":1292484190,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2391273_20101216_511ba59b6e.tar.gz"},"points":47,"type":"MultiPolygon"}
+}

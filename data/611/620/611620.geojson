@@ -1,0 +1,15 @@
+{
+  "id": 611620,
+  "type": "Feature",
+  "properties": {
+    "name":"Mirecourt, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":611620,
+    "woe:name":"Mirecourt, Lorraine, France",
+    "woe:place_id":"siri6aCfAJ3bmy8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.121948,48.295593,6.146464,48.310143],
+  "geometry": {"alpha":0.00015,"bbox":[6.1219477653503,48.295593261719,6.1464638710022,48.31014251709],"coordinates":[[[[6.13655,48.305119],[6.146464,48.302052],[6.13633,48.295593],[6.130532,48.296169],[6.121948,48.301235],[6.128997,48.310143],[6.13655,48.305119]]]],"created":1292545322,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/611620_20101217_8ae700a47a.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23706762,
+  "type": "Feature",
+  "properties": {
+    "name":"Sindhupalchok, Nepal",
+    "placetype":"locality",
+    "woe:id":23706762,
+    "woe:name":"Sindhupalchok, Nepal",
+    "woe:place_id":"8OLrqFGbApuqVL.4sA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [85.979301,27.990194,85.984238,27.993093],
+  "geometry": {"alpha":1e-05,"bbox":[85.979301452637,27.990194320679,85.984237670898,27.993093490601],"coordinates":[[[[85.980705,27.992188],[85.981575,27.99243],[85.984238,27.993093],[85.982437,27.990194],[85.980545,27.990309],[85.979301,27.992088],[85.980705,27.992188]]]],"created":1292548084,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/23706762_20101217_b386d62875.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

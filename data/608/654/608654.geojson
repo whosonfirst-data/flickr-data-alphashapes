@@ -1,0 +1,15 @@
+{
+  "id": 608654,
+  "type": "Feature",
+  "properties": {
+    "name":"Lormes, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":608654,
+    "woe:name":"Lormes, Burgundy, France",
+    "woe:place_id":"cJ7uO6ifAZTbgKc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.813586,47.283653,3.819465,47.295067],
+  "geometry": {"alpha":0.00015,"bbox":[3.8135859966278,47.283653259277,3.8194649219513,47.295066833496],"coordinates":[[[[3.819465,47.290989],[3.818811,47.287598],[3.817802,47.283653],[3.813586,47.290234],[3.815946,47.292568],[3.819122,47.295067],[3.819465,47.290989]]]],"created":1292521836,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/608654_20101216_018e902c7e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

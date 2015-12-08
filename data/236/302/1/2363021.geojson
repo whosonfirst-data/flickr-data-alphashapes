@@ -1,0 +1,15 @@
+{
+  "id": 2363021,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2363021,
+    "woe:name":"Berlin, Pennsylvania, United States",
+    "woe:place_id":"prAM6L.bApoKjhYe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.973,39.902279,-78.958611,39.924877],
+  "geometry": {"alpha":0.00015,"bbox":[-78.972999572754,39.902278900146,-78.958610534668,39.924877166748],"coordinates":[[[[-78.95903,39.920898],[-78.958611,39.919792],[-78.973,39.902279],[-78.960876,39.921299],[-78.963158,39.924877],[-78.95903,39.920898]]]],"created":1292547937,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2363021_20101217_e6d49f49a6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

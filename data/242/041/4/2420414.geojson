@@ -1,0 +1,15 @@
+{
+  "id": 2420414,
+  "type": "Feature",
+  "properties": {
+    "name":"Heron Island, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2420414,
+    "woe:name":"Heron Island, Maine, United States",
+    "woe:place_id":"s5OqznabBZ5f0H5i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.586884,43.824493,-69.561653,43.840347],
+  "geometry": {"alpha":0.00015,"bbox":[-69.586883544922,43.824493408203,-69.561653137207,43.840347290039],"coordinates":[[[[-69.586884,43.833286],[-69.583542,43.840347],[-69.566971,43.833103],[-69.561653,43.824493],[-69.580452,43.826908],[-69.586884,43.833286]]]],"created":1292493663,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2420414_20101216_3d82b28044.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

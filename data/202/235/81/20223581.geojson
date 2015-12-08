@@ -1,0 +1,15 @@
+{
+  "id": 20223581,
+  "type": "Feature",
+  "properties": {
+    "name":"La Chismosa, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20223581,
+    "woe:name":"La Chismosa, Valencia, Spain",
+    "woe:place_id":"MGH6iLibAZ4xUYpePA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.753679,37.939919,-0.738573,37.953281],
+  "geometry": {"alpha":0.00015,"bbox":[-0.75367897748947,37.939918518066,-0.73857301473618,37.953281402588],"coordinates":[[[[-0.742392,37.939919],[-0.753679,37.940914],[-0.739903,37.953281],[-0.738573,37.941082],[-0.742392,37.939919]]]],"created":1292534712,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20223581_20101216_e116ec594f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

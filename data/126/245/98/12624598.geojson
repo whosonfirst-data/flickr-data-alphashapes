@@ -1,0 +1,15 @@
+{
+  "id": 12624598,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schleiden, Germany",
+    "placetype":"locality",
+    "woe:id":12624598,
+    "woe:name":"Gemeinde Schleiden, Germany",
+    "woe:place_id":"NkttjMqYA5oXAdnBJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.444666,50.581501,6.449532,50.588017],
+  "geometry": {"alpha":1e-05,"bbox":[6.4446659088135,50.58150100708,6.4495320320129,50.58801651001],"coordinates":[[[[6.447,50.586334],[6.447833,50.581501],[6.444666,50.582333],[6.446056,50.585907],[6.446,50.587666],[6.449532,50.588017],[6.447,50.586334]]]],"created":1292533138,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12624598_20101216_447a72f253.tar.gz"},"points":49,"type":"MultiPolygon"}
+}

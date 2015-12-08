@@ -1,0 +1,15 @@
+{
+  "id": 626658,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Quentin, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":626658,
+    "woe:name":"St-Quentin, Basse-Normandie, France",
+    "woe:place_id":"av_MO16fA5rLsvI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.763485,48.776585,-0.750331,48.785286],
+  "geometry": {"alpha":0.00015,"bbox":[-0.76348501443863,48.776584625244,-0.75033098459244,48.785285949707],"coordinates":[[[[-0.758249,48.785286],[-0.750331,48.780739],[-0.763485,48.776585],[-0.759429,48.784641],[-0.758678,48.785069],[-0.758249,48.785286]]]],"created":1292475126,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/626658_20101216_4629095599.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2400760,
+  "type": "Feature",
+  "properties": {
+    "name":"Evansville, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2400760,
+    "woe:name":"Evansville, Vermont, United States",
+    "woe:place_id":"33xEs.KbBZxKCF84",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.14241,44.786709,-72.130547,44.810642],
+  "geometry": {"alpha":0.00015,"bbox":[-72.14241027832,44.786708831787,-72.130546569824,44.810642242432],"coordinates":[[[[-72.14241,44.806198],[-72.132027,44.810642],[-72.130547,44.806793],[-72.133438,44.786709],[-72.1409,44.788982],[-72.14241,44.806198]]]],"created":1292534648,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2400760_20101216_0bdd003ec3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

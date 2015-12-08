@@ -1,0 +1,15 @@
+{
+  "id": 8413,
+  "type": "Feature",
+  "properties": {
+    "name":"Smith, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8413,
+    "woe:name":"Smith, Alberta, Canada",
+    "woe:place_id":"I6LtwV.RBZ12",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-114.043694,55.16573,-114.033623,55.16888],
+  "geometry": {"alpha":0.00015,"bbox":[-114.04369354248,55.165729522705,-114.0336227417,55.168880462646],"coordinates":[[[[-114.042786,55.165817],[-114.043694,55.16888],[-114.039116,55.168278],[-114.033623,55.16573],[-114.042786,55.165817]]]],"created":1292539559,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/8413_20101216_62a8fc2d0b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

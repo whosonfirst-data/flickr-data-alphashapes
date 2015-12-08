@@ -1,0 +1,15 @@
+{
+  "id": 731084,
+  "type": "Feature",
+  "properties": {
+    "name":"Lagedijk, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":731084,
+    "woe:name":"Lagedijk, North Holland, Netherlands",
+    "woe:place_id":"iRBxS3qeAp2KXwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.78093,52.795647,4.78265,52.797161],
+  "geometry": {"alpha":0.00015,"bbox":[4.7809300422668,52.79564666748,4.7826499938965,52.797161102295],"coordinates":[[[[4.781059,52.796326],[4.78093,52.796455],[4.78096,52.796944],[4.78159,52.797161],[4.78265,52.796886],[4.781888,52.795647],[4.781059,52.796326]]]],"created":1292447492,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/731084_20101215_246df7ba1b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

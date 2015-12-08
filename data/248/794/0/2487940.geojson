@@ -1,0 +1,15 @@
+{
+  "id": 2487940,
+  "type": "Feature",
+  "properties": {
+    "name":"San Diego, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2487940,
+    "woe:name":"San Diego, Texas, United States",
+    "woe:place_id":"MieMhFObBZQfb1vV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.239662,27.752823,-98.234261,27.77014],
+  "geometry": {"alpha":0.00015,"bbox":[-98.23966217041,27.752822875977,-98.234260559082,27.770139694214],"coordinates":[[[[-98.239662,27.764595],[-98.2388,27.77014],[-98.234261,27.762991],[-98.238716,27.752823],[-98.239487,27.761633],[-98.239594,27.764088],[-98.239662,27.764595]]]],"created":1292538096,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2487940_20101216_044fb20e0c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

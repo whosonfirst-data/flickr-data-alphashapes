@@ -1,0 +1,15 @@
+{
+  "id": 16231,
+  "type": "Feature",
+  "properties": {
+    "name":"Claythorpe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":16231,
+    "woe:name":"Claythorpe, England, United Kingdom",
+    "woe:place_id":"zmt9XvCYB57.0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.115034,53.288204,0.126256,53.291283],
+  "geometry": {"alpha":0.00015,"bbox":[0.11503399908543,53.288204193115,0.12625600397587,53.291282653809],"coordinates":[[[[0.121192,53.291283],[0.122222,53.291233],[0.126256,53.288525],[0.121112,53.28923],[0.115034,53.288204],[0.118231,53.290359],[0.121192,53.291283]]]],"created":1292455568,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/16231_20101215_b49605fcd7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2498971,
+  "type": "Feature",
+  "properties": {
+    "name":"Stanley, New York, United States",
+    "placetype":"locality",
+    "woe:id":2498971,
+    "woe:name":"Stanley, New York, United States",
+    "woe:place_id":"OeFRzNubBZUbUtsr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.11274,42.81171,-77.09304,42.846645],
+  "geometry": {"alpha":0.00015,"bbox":[-77.112739562988,42.811710357666,-77.093040466309,42.846645355225],"coordinates":[[[[-77.099068,42.824074],[-77.10952,42.81171],[-77.11274,42.816181],[-77.10305,42.826622],[-77.102219,42.846645],[-77.09304,42.825199],[-77.093048,42.825146],[-77.099068,42.824074]]]],"created":1292453752,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2498971_20101215_6e97934199.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

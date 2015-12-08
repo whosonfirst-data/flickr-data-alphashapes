@@ -1,0 +1,15 @@
+{
+  "id": 764757,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Manchas, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":764757,
+    "woe:name":"Las Manchas, Canary Islands, Spain",
+    "woe:place_id":"s0Cz8uSeB5hz71U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.768167,28.274652,-16.757584,28.284731],
+  "geometry": {"alpha":0.00015,"bbox":[-16.768167495728,28.274652481079,-16.757583618164,28.284730911255],"coordinates":[[[[-16.768167,28.278999],[-16.76651,28.282915],[-16.765995,28.284731],[-16.757584,28.278078],[-16.767855,28.274652],[-16.768167,28.278999]]]],"created":1292447607,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/764757_20101215_e0be1d15e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

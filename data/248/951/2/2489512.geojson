@@ -1,0 +1,15 @@
+{
+  "id": 2489512,
+  "type": "Feature",
+  "properties": {
+    "name":"Scalp Level, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2489512,
+    "woe:name":"Scalp Level, Pennsylvania, United States",
+    "woe:place_id":"eI0Gq5mbBZT0trYj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.845528,40.250938,-78.819908,40.270016],
+  "geometry": {"alpha":0.00015,"bbox":[-78.845527648926,40.250938415527,-78.81990814209,40.270015716553],"coordinates":[[[[-78.845528,40.250938],[-78.843384,40.252674],[-78.833534,40.270016],[-78.819908,40.256733],[-78.842354,40.25251],[-78.845528,40.250938]]]],"created":1234523165,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3421/shapefiles/2489512_20090213_4f01220f12.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

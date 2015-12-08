@@ -1,0 +1,15 @@
+{
+  "id": 12683998,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-la-Ville, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683998,
+    "woe:name":"Mont-la-Ville, Switzerland",
+    "woe:place_id":"O1MM_E2YA5rkaFzDgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.374902,46.656212,6.38075,46.656937],
+  "geometry": {"alpha":1e-05,"bbox":[6.3749017715454,46.656211853027,6.3807501792908,46.656936645508],"coordinates":[[[[6.380269,46.656517],[6.38075,46.656937],[6.380252,46.656406],[6.374902,46.656212],[6.380269,46.656517]]]],"created":1292532722,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12683998_20101216_92ed5c571a.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

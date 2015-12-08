@@ -1,0 +1,15 @@
+{
+  "id": 28744205,
+  "type": "Feature",
+  "properties": {
+    "name":"Markey, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28744205,
+    "woe:name":"Markey, Michigan, United States",
+    "woe:place_id":"FgvTm1WbCZsbTh.NfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.684334,44.338165,-84.669655,44.343739],
+  "geometry": {"alpha":0.00015,"bbox":[-84.68433380127,44.338165283203,-84.669654846191,44.343738555908],"coordinates":[[[[-84.673317,44.341259],[-84.669655,44.340672],[-84.674835,44.338165],[-84.684334,44.343739],[-84.673706,44.341381],[-84.673317,44.341259]]]],"created":1292481726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/28744205_20101216_b13ebb60e9.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

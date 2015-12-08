@@ -1,0 +1,15 @@
+{
+  "id": 2401360,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfax Forest, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2401360,
+    "woe:name":"Fairfax Forest, Virginia, United States",
+    "woe:place_id":"H_kr8GWbBZw.dur3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.254654,38.860027,-77.241302,38.883102],
+  "geometry": {"alpha":0.00015,"bbox":[-77.254653930664,38.860027313232,-77.241302490234,38.883102416992],"coordinates":[[[[-77.253113,38.860027],[-77.254654,38.863102],[-77.253754,38.864223],[-77.247444,38.883102],[-77.241302,38.879181],[-77.24839,38.86047],[-77.253113,38.860027]]]],"created":1292537433,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2401360_20101216_6c81b25a1d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 895110,
+  "type": "Feature",
+  "properties": {
+    "name":"Kaskar, Norrbotten, Sweden",
+    "placetype":"locality",
+    "woe:id":895110,
+    "woe:name":"Kaskar, Norrbotten, Sweden",
+    "woe:place_id":"tvfNwy6RCJl4yBo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.886353,65.90538,17.892298,65.920273],
+  "geometry": {"alpha":0.00015,"bbox":[17.886352539062,65.905380249023,17.892297744751,65.920272827148],"coordinates":[[[[17.887693,65.90538],[17.886633,65.905983],[17.886353,65.906235],[17.889433,65.920273],[17.892298,65.90773],[17.889034,65.905472],[17.887693,65.90538]]]],"created":1292549904,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/895110_20101217_b16b6750a2.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

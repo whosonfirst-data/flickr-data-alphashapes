@@ -1,0 +1,15 @@
+{
+  "id": 532100,
+  "type": "Feature",
+  "properties": {
+    "name":"Vodice, Ljubljana, Slovenia",
+    "placetype":"locality",
+    "woe:id":532100,
+    "woe:name":"Vodice, Ljubljana, Slovenia",
+    "woe:place_id":"HHZ7UlOcAp5N8Fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.472684,46.182987,14.499179,46.205971],
+  "geometry": {"alpha":0.00015,"bbox":[14.472683906555,46.182987213135,14.499178886414,46.20597076416],"coordinates":[[[[14.484786,46.203121],[14.48616,46.205971],[14.499179,46.189781],[14.489765,46.182987],[14.472684,46.195042],[14.484786,46.203121]]]],"created":1292456835,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/532100_20101215_de75bd67c2.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2351492,
+  "type": "Feature",
+  "properties": {
+    "name":"Abbeville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2351492,
+    "woe:name":"Abbeville, Alabama, United States",
+    "woe:place_id":"RTtv7eubApmrVsYq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.258003,31.554859,-85.24929,31.573271],
+  "geometry": {"alpha":0.00015,"bbox":[-85.258003234863,31.554859161377,-85.249290466309,31.573270797729],"coordinates":[[[[-85.249329,31.571131],[-85.24929,31.571081],[-85.253777,31.554859],[-85.258003,31.572521],[-85.25116,31.573271],[-85.249329,31.571131]]]],"created":1292523298,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2351492_20101216_5f3be199fe.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

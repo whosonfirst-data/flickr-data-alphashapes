@@ -1,0 +1,15 @@
+{
+  "id": 12638917,
+  "type": "Feature",
+  "properties": {
+    "name":"Bietlenheim, France",
+    "placetype":"locality",
+    "woe:id":12638917,
+    "woe:name":"Bietlenheim, France",
+    "woe:place_id":"pXF.Q.CYA5qSYrlHQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.7742,48.711182,7.777848,48.713676],
+  "geometry": {"alpha":1e-05,"bbox":[7.774199962616,48.711181640625,7.7778477668762,48.713676452637],"coordinates":[[[[7.777848,48.711182],[7.776367,48.711437],[7.7742,48.711777],[7.774608,48.713676],[7.77641,48.71339],[7.777848,48.711182]]]],"created":1292540495,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12638917_20101216_d009cf76ac.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

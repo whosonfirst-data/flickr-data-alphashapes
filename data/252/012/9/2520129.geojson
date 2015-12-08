@@ -1,0 +1,15 @@
+{
+  "id": 2520129,
+  "type": "Feature",
+  "properties": {
+    "name":"Wickham, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2520129,
+    "woe:name":"Wickham, West Virginia, United States",
+    "woe:place_id":"lzTVME.bBJ5YDO06",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.241386,37.769714,-81.219292,37.790428],
+  "geometry": {"alpha":0.00015,"bbox":[-81.241386413574,37.769714355469,-81.219291687012,37.790428161621],"coordinates":[[[[-81.223907,37.769714],[-81.241386,37.773319],[-81.222954,37.778854],[-81.219292,37.790428],[-81.22036,37.773869],[-81.223907,37.769714]]]],"created":1292527564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2520129_20101216_56385d6c8e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

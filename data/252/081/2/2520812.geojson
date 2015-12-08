@@ -1,0 +1,15 @@
+{
+  "id": 2520812,
+  "type": "Feature",
+  "properties": {
+    "name":"Williamsburg, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2520812,
+    "woe:name":"Williamsburg, Kansas, United States",
+    "woe:place_id":"Y6gXDyCbBJ4mkMQr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.49295,38.480133,-95.464493,38.492561],
+  "geometry": {"alpha":0.00015,"bbox":[-95.492950439453,38.480133056641,-95.464492797852,38.492561340332],"coordinates":[[[[-95.477371,38.492561],[-95.472374,38.488934],[-95.464493,38.480133],[-95.471474,38.480644],[-95.49295,38.483978],[-95.477371,38.492561]]]],"created":1292521269,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2520812_20101216_a7406b9c46.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

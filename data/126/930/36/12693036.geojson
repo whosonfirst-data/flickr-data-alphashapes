@@ -1,0 +1,15 @@
+{
+  "id": 12693036,
+  "type": "Feature",
+  "properties": {
+    "name":"Rueda, Spain",
+    "placetype":"locality",
+    "woe:id":12693036,
+    "woe:name":"Rueda, Spain",
+    "woe:place_id":"S2GU4S.YA5qvYZ79MA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.96376,41.40881,-4.959425,41.414925],
+  "geometry": {"alpha":1e-05,"bbox":[-4.9637598991394,41.408809661865,-4.9594249725342,41.414924621582],"coordinates":[[[[-4.960284,41.413925],[-4.959661,41.412449],[-4.959425,41.40881],[-4.960348,41.412895],[-4.96376,41.414925],[-4.960284,41.413925]]]],"created":1292528824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12693036_20101216_1342a831ed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

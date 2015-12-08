@@ -1,0 +1,15 @@
+{
+  "id": 22739369,
+  "type": "Feature",
+  "properties": {
+    "name":"South Bruny, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":22739369,
+    "woe:name":"South Bruny, Tasmania, Australia",
+    "woe:place_id":"LZpiS8abA5t0OmYMYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.278244,-43.36375,147.278687,-43.363285],
+  "geometry": {"alpha":0.00015,"bbox":[147.27824401855,-43.363750457764,147.27868652344,-43.363285064697],"coordinates":[[[[147.278244,-43.363598],[147.278595,-43.363285],[147.278687,-43.363689],[147.278503,-43.36372],[147.278244,-43.36375],[147.278244,-43.363598]]]],"created":1292530143,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/22739369_20101216_ca83a6f69f.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

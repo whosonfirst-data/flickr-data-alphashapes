@@ -1,0 +1,15 @@
+{
+  "id": 9686,
+  "type": "Feature",
+  "properties": {
+    "name":"Brisco, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9686,
+    "woe:name":"Brisco, British Columbia, Canada",
+    "woe:place_id":"ue6jvomQB5Sh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.199646,50.749817,-116.191406,50.769794],
+  "geometry": {"alpha":0.00015,"bbox":[-116.19964599609,50.749816894531,-116.19140625,50.769794464111],"coordinates":[[[[-116.19265,50.76313],[-116.191406,50.760567],[-116.196213,50.749817],[-116.197166,50.759335],[-116.199646,50.769794],[-116.197411,50.7673],[-116.19265,50.76313]]]],"created":1292450302,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/9686_20101215_fff64ec960.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

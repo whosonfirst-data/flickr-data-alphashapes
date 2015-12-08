@@ -1,0 +1,15 @@
+{
+  "id": 55971377,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington, San Jose, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971377,
+    "woe:name":"Washington, San Jose, CA, US, United States",
+    "woe:place_id":"53PzPxicBJXqUvy7xg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.888931,37.3181,-121.883499,37.324001],
+  "geometry": {"alpha":1e-05,"bbox":[-121.88893127441,37.318099975586,-121.88349914551,37.324001312256],"coordinates":[[[[-121.884834,37.322166],[-121.883499,37.3181],[-121.888931,37.319977],[-121.886261,37.322445],[-121.886002,37.324001],[-121.884834,37.322166]]]],"created":1292527136,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/55971377_20101216_e82730076e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

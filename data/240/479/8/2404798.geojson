@@ -1,0 +1,15 @@
+{
+  "id": 2404798,
+  "type": "Feature",
+  "properties": {
+    "name":"Folsom, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2404798,
+    "woe:name":"Folsom, Missouri, United States",
+    "woe:place_id":"DkWROW6bBZxj3kfq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.186966,38.736877,-92.184906,38.746052],
+  "geometry": {"alpha":0.00015,"bbox":[-92.186965942383,38.736877441406,-92.184906005859,38.74605178833],"coordinates":[[[[-92.186104,38.738018],[-92.186279,38.737747],[-92.186966,38.736877],[-92.186623,38.737747],[-92.184906,38.746052],[-92.186104,38.738018]]]],"created":1292500685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2404798_20101216_0459e6f3db.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

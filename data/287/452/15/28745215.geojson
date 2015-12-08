@@ -1,0 +1,15 @@
+{
+  "id": 28745215,
+  "type": "Feature",
+  "properties": {
+    "name":"Monroe, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745215,
+    "woe:name":"Monroe, Pennsylvania, United States",
+    "woe:place_id":"5VNM2KqbCZs4BGTR1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.0951,40.144421,-77.055275,40.190166],
+  "geometry": {"alpha":0.00015,"bbox":[-77.095100402832,40.144420623779,-77.055274963379,40.190166473389],"coordinates":[[[[-77.0951,40.159264],[-77.084885,40.177956],[-77.069832,40.190166],[-77.055275,40.184998],[-77.058838,40.167233],[-77.065269,40.169838],[-77.077499,40.168396],[-77.076515,40.145947],[-77.079796,40.146477],[-77.088402,40.144421],[-77.0951,40.159264]]]],"created":1292455618,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/28745215_20101215_b8fa014912.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

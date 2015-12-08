@@ -1,0 +1,15 @@
+{
+  "id": 12683901,
+  "type": "Feature",
+  "properties": {
+    "name":"Longirod, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683901,
+    "woe:name":"Longirod, Switzerland",
+    "woe:place_id":"xYgpiDuYA5r6QzWrWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.26255,46.503799,6.268815,46.507282],
+  "geometry": {"alpha":1e-05,"bbox":[6.2625498771667,46.503799438477,6.2688150405884,46.50728225708],"coordinates":[[[[6.268815,46.506546],[6.267099,46.505749],[6.2631,46.503799],[6.26255,46.507046],[6.264438,46.507282],[6.26873,46.507092],[6.268815,46.506546]]]],"created":1292542305,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12683901_20101216_ffd745c054.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

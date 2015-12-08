@@ -1,0 +1,15 @@
+{
+  "id": 2449201,
+  "type": "Feature",
+  "properties": {
+    "name":"Melrose, New York, United States",
+    "placetype":"locality",
+    "woe:id":2449201,
+    "woe:name":"Melrose, New York, United States",
+    "woe:place_id":"bNVqCL2bBZgKCjSZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.616241,42.852451,-73.604698,42.864628],
+  "geometry": {"alpha":0.00015,"bbox":[-73.616241455078,42.852451324463,-73.604698181152,42.864627838135],"coordinates":[[[[-73.604698,42.857059],[-73.605202,42.852451],[-73.60743,42.85294],[-73.616241,42.864628],[-73.606705,42.863239],[-73.604698,42.857059]]]],"created":1292520799,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2449201_20101216_4afbed203c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

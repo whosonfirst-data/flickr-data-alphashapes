@@ -1,0 +1,15 @@
+{
+  "id": 2435444,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeside, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2435444,
+    "woe:name":"Lakeside, Montana, United States",
+    "woe:place_id":"IhwW1KObBZ.t4dRi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.17186,48.107719,-104.169533,48.117802],
+  "geometry": {"alpha":0.00015,"bbox":[-104.17185974121,48.107719421387,-104.16953277588,48.11780166626],"coordinates":[[[[-104.169617,48.115372],[-104.169533,48.115074],[-104.170715,48.109131],[-104.17186,48.107719],[-104.170807,48.117802],[-104.169617,48.115372]]]],"created":1292493664,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2435444_20101216_0eb80dfdde.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

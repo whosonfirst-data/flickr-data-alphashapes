@@ -1,0 +1,15 @@
+{
+  "id": 723988,
+  "type": "Feature",
+  "properties": {
+    "name":"Sellano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":723988,
+    "woe:name":"Sellano, Umbria, Italy",
+    "woe:place_id":"sPN.sSOeA5_sJI4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.920694,42.88652,12.926616,42.89156],
+  "geometry": {"alpha":0.00015,"bbox":[12.920694351196,42.886520385742,12.926615715027,42.89155960083],"coordinates":[[[[12.9224,42.88652],[12.920866,42.888039],[12.920694,42.89156],[12.926616,42.889263],[12.926337,42.888763],[12.923955,42.887444],[12.9224,42.88652]]]],"created":1292475301,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/723988_20101216_8b4a765a0a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12665183,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Vigan, France",
+    "placetype":"locality",
+    "woe:id":12665183,
+    "woe:name":"Le Vigan, France",
+    "woe:place_id":"YTo.hjyYA5o.aOB_Ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.606004,43.983799,3.607635,43.991741],
+  "geometry": {"alpha":1e-05,"bbox":[3.6060039997101,43.983798980713,3.6076350212097,43.99174118042],"coordinates":[[[[3.606187,43.991741],[3.607635,43.990807],[3.607437,43.988979],[3.606471,43.988361],[3.606074,43.983799],[3.606004,43.988304],[3.606187,43.991741]]]],"created":1292518868,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12665183_20101216_b71dca744a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

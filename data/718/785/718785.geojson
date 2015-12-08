@@ -1,0 +1,15 @@
+{
+  "id": 718785,
+  "type": "Feature",
+  "properties": {
+    "name":"Montecassiano, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":718785,
+    "woe:name":"Montecassiano, Marche, Italy",
+    "woe:place_id":"cgXQDRWeAJS9eSk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.434777,43.362427,13.442799,43.365124],
+  "geometry": {"alpha":0.00015,"bbox":[13.434777259827,43.362426757812,13.442798614502,43.365123748779],"coordinates":[[[[13.436762,43.362862],[13.434777,43.364063],[13.435764,43.365124],[13.437995,43.365002],[13.439197,43.364502],[13.442799,43.362427],[13.436762,43.362862]]]],"created":1292522966,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/718785_20101216_30c1335fca.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

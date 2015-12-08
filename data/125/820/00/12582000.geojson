@@ -1,0 +1,15 @@
+{
+  "id": 12582000,
+  "type": "Feature",
+  "properties": {
+    "name":"Guariba, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":12582000,
+    "woe:name":"Guariba, Sao Paulo, Brazil",
+    "woe:place_id":"TmoewF2YA5mzkW1Qlw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-48.23204,-21.368965,-48.219467,-21.36305],
+  "geometry": {"alpha":0.0015,"bbox":[-48.232040405273,-21.368965148926,-48.219467163086,-21.363050460815],"coordinates":[[[[-48.220024,-21.368856],[-48.23204,-21.36305],[-48.219467,-21.368357],[-48.219528,-21.368965],[-48.220024,-21.368856]]]],"created":1292478663,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12582000_20101216_7bab556d63.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

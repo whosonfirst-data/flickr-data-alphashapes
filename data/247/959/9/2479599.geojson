@@ -1,0 +1,15 @@
+{
+  "id": 2479599,
+  "type": "Feature",
+  "properties": {
+    "name":"Redgranite, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2479599,
+    "woe:name":"Redgranite, Wisconsin, United States",
+    "woe:place_id":"4W43XsybBZsgBwwN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.106842,44.037193,-89.096695,44.047436],
+  "geometry": {"alpha":0.00015,"bbox":[-89.106842041016,44.03719329834,-89.096694946289,44.047435760498],"coordinates":[[[[-89.099289,44.045773],[-89.096695,44.043156],[-89.099167,44.040726],[-89.101303,44.037193],[-89.106842,44.047436],[-89.099289,44.045773]]]],"created":1248167419,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3423/shapefiles/2479599_20090721_3c1ff44e01.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

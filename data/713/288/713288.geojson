@@ -1,0 +1,15 @@
+{
+  "id": 713288,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelcivita, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":713288,
+    "woe:name":"Castelcivita, Campania, Italy",
+    "woe:place_id":"mvhFzjSeAJ9oZ5o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.216407,40.490631,15.233724,40.495575],
+  "geometry": {"alpha":0.00015,"bbox":[15.216406822205,40.490631103516,15.233723640442,40.495574951172],"coordinates":[[[[15.232536,40.495514],[15.233724,40.494282],[15.233,40.492001],[15.232715,40.490631],[15.216407,40.494614],[15.230848,40.495575],[15.232536,40.495514]]]],"created":1292549682,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/713288_20101217_f136fcb714.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

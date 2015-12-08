@@ -1,0 +1,15 @@
+{
+  "id": 12511671,
+  "type": "Feature",
+  "properties": {
+    "name":"Fredericton Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511671,
+    "woe:name":"Fredericton Airport, Canada",
+    "woe:place_id":"xnO9QreYA5lNsJciVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.534401,45.869694,-66.528786,45.873268],
+  "geometry": {"alpha":1e-05,"bbox":[-66.534400939941,45.869693756104,-66.528785705566,45.873268127441],"coordinates":[[[[-66.528786,45.872448],[-66.532516,45.869694],[-66.533493,45.870888],[-66.534401,45.873039],[-66.530884,45.872501],[-66.529579,45.873268],[-66.528786,45.872448]]]],"created":1292550184,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12511671_20101217_30661bfb13.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

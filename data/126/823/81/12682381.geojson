@@ -1,0 +1,15 @@
+{
+  "id": 12682381,
+  "type": "Feature",
+  "properties": {
+    "name":"Valle di Cadore, Italy",
+    "placetype":"locality",
+    "woe:id":12682381,
+    "woe:name":"Valle di Cadore, Italy",
+    "woe:place_id":"U8pjHT2YA5o8c4RRdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.278755,46.405987,12.281429,46.414665],
+  "geometry": {"alpha":1e-05,"bbox":[12.278755187988,46.405986785889,12.281429290771,46.414665222168],"coordinates":[[[[12.278755,46.407372],[12.279166,46.409664],[12.279968,46.414665],[12.281429,46.408928],[12.279539,46.405987],[12.278755,46.407372]]]],"created":1292533425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12682381_20101216_5cb65b6bb2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

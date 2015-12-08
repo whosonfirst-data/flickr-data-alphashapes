@@ -1,0 +1,15 @@
+{
+  "id": 2456799,
+  "type": "Feature",
+  "properties": {
+    "name":"Myton, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2456799,
+    "woe:name":"Myton, Utah, United States",
+    "woe:place_id":"LK0BZiSbBZlZAMIH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.071335,40.19492,-110.063087,40.198315],
+  "geometry": {"alpha":0.00015,"bbox":[-110.07133483887,40.194919586182,-110.06308746338,40.198314666748],"coordinates":[[[[-110.066528,40.197758],[-110.063087,40.19492],[-110.071335,40.196281],[-110.069321,40.198315],[-110.066528,40.197758]]]],"created":1292440884,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2456799_20101215_4bb01a16ae.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

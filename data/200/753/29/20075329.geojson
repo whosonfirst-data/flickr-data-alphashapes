@@ -1,0 +1,15 @@
+{
+  "id": 20075329,
+  "type": "Feature",
+  "properties": {
+    "name":"Chevreuse, France",
+    "placetype":"locality",
+    "woe:id":20075329,
+    "woe:name":"Chevreuse, France",
+    "woe:place_id":"9U06XX2bAZxryxicmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.019166,48.697079,2.021226,48.698891],
+  "geometry": {"alpha":1e-05,"bbox":[2.0191659927368,48.697078704834,2.0212259292603,48.698890686035],"coordinates":[[[[2.019746,48.698891],[2.021226,48.697617],[2.019166,48.697079],[2.019553,48.698185],[2.019746,48.698891]]]],"created":1292542688,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/20075329_20101216_ffd50cc2c2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

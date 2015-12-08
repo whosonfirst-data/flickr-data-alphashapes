@@ -1,0 +1,15 @@
+{
+  "id": 2353082,
+  "type": "Feature",
+  "properties": {
+    "name":"Alfred Station, New York, United States",
+    "placetype":"locality",
+    "woe:id":2353082,
+    "woe:name":"Alfred Station, New York, United States",
+    "woe:place_id":"7qquNCqbApk.e9GN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.767578,42.261459,-77.749519,42.27232],
+  "geometry": {"alpha":0.00015,"bbox":[-77.767578125,42.261459350586,-77.749519348145,42.272319793701],"coordinates":[[[[-77.760368,42.269497],[-77.756546,42.27232],[-77.749519,42.265572],[-77.755692,42.261459],[-77.761055,42.261921],[-77.767578,42.261517],[-77.760368,42.269497]]]],"created":1292456604,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2353082_20101215_263113667a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

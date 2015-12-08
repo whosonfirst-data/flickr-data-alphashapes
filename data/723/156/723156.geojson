@@ -1,0 +1,15 @@
+{
+  "id": 723156,
+  "type": "Feature",
+  "properties": {
+    "name":"San Terenzo, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":723156,
+    "woe:name":"San Terenzo, Liguria, Italy",
+    "woe:place_id":"2dqvt0GeA5.beX4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.894561,44.082275,9.899454,44.087059],
+  "geometry": {"alpha":0.00015,"bbox":[9.8945608139038,44.082275390625,9.8994541168213,44.087059020996],"coordinates":[[[[9.895591,44.087059],[9.895956,44.086666],[9.899454,44.083267],[9.89572,44.082275],[9.894561,44.085613],[9.894733,44.085983],[9.895591,44.087059]]]],"created":1292551212,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/723156_20101217_8e84815cb6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 705745,
+  "type": "Feature",
+  "properties": {
+    "name":"Westereiden, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":705745,
+    "woe:name":"Westereiden, North Rhine-Westphalia, Germany",
+    "woe:place_id":"A3bvusmeAZm5eYc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.406477,51.568581,8.412437,51.571037],
+  "geometry": {"alpha":0.00015,"bbox":[8.4064769744873,51.568580627441,8.4124374389648,51.57103729248],"coordinates":[[[[8.410978,51.56876],[8.407877,51.56916],[8.406477,51.571037],[8.410989,51.568935],[8.412437,51.568581],[8.410978,51.56876]]]],"created":1292540265,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/705745_20101216_47b67ed9bb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

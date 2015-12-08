@@ -1,0 +1,15 @@
+{
+  "id": 1913,
+  "type": "Feature",
+  "properties": {
+    "name":"Dover, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":1913,
+    "woe:name":"Dover, Newfoundland and Labrador, Canada",
+    "woe:place_id":"jMKc_siYCJ2d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.97361,48.868443,-53.960896,48.878059],
+  "geometry": {"alpha":0.00015,"bbox":[-53.973609924316,48.8684425354,-53.96089553833,48.878059387207],"coordinates":[[[[-53.961067,48.878036],[-53.960896,48.877304],[-53.965359,48.868443],[-53.97361,48.878059],[-53.963303,48.877342],[-53.961067,48.878036]]]],"created":1292504353,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/1913_20101216_f51df9559f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

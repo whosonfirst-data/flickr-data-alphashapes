@@ -1,0 +1,15 @@
+{
+  "id": 456663,
+  "type": "Feature",
+  "properties": {
+    "name":"Amparo, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":456663,
+    "woe:name":"Amparo, Sao Paulo, Brazil",
+    "woe:place_id":"WDMklrydBJoJGws",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-46.785278,-22.730433,-46.730175,-22.683989],
+  "geometry": {"alpha":0.00015,"bbox":[-46.785278320312,-22.730432510376,-46.730175018311,-22.683988571167],"coordinates":[[[[-46.760731,-22.696545],[-46.74614,-22.701296],[-46.730175,-22.700703],[-46.748543,-22.713331],[-46.765366,-22.730433],[-46.771545,-22.715309],[-46.785278,-22.712618],[-46.778412,-22.706522],[-46.775665,-22.697655],[-46.772766,-22.694229],[-46.765366,-22.683989],[-46.760731,-22.696545]]]],"created":1292452319,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/456663_20101215_b5320cc332.tar.gz"},"points":87,"type":"MultiPolygon"}
+}

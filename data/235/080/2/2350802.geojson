@@ -1,0 +1,15 @@
+{
+  "id": 2350802,
+  "type": "Feature",
+  "properties": {
+    "name":"Te Kaha, Bay of Plenty, New Zealand",
+    "placetype":"locality",
+    "woe:id":2350802,
+    "woe:name":"Te Kaha, Bay of Plenty, New Zealand",
+    "woe:place_id":"Tx.evd6bAplEdRbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [177.665741,-37.742485,177.694763,-37.729519],
+  "geometry": {"alpha":0.00015,"bbox":[177.6657409668,-37.742485046387,177.69476318359,-37.729518890381],"coordinates":[[[[177.684372,-37.734951],[177.68132,-37.742485],[177.675278,-37.740108],[177.665741,-37.734612],[177.68222,-37.730404],[177.694763,-37.729519],[177.684372,-37.734951]]]],"created":1292548304,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2350802_20101217_eea4fff54a.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

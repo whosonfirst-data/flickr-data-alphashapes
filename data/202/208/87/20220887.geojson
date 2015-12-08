@@ -1,0 +1,15 @@
+{
+  "id": 20220887,
+  "type": "Feature",
+  "properties": {
+    "name":"Beo, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":20220887,
+    "woe:name":"Beo, Galicia, Spain",
+    "woe:place_id":"nbR2YSqbAZ7kMo368Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.849573,43.315437,-8.843994,43.319931],
+  "geometry": {"alpha":0.00015,"bbox":[-8.849573135376,43.315437316895,-8.843994140625,43.319931030273],"coordinates":[[[[-8.846268,43.31958],[-8.843994,43.315437],[-8.847427,43.317654],[-8.849573,43.319431],[-8.846397,43.319931],[-8.846268,43.31958]]]],"created":1292455026,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20220887_20101215_aee260551f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

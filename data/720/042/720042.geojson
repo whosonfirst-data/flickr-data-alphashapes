@@ -1,0 +1,15 @@
+{
+  "id": 720042,
+  "type": "Feature",
+  "properties": {
+    "name":"Paterno, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":720042,
+    "woe:name":"Paterno, Marche, Italy",
+    "woe:place_id":"DAz9niieA5yKtUY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.399543,43.559994,13.409156,43.589218],
+  "geometry": {"alpha":0.00015,"bbox":[13.399542808533,43.559993743896,13.409155845642,43.589218139648],"coordinates":[[[[13.399543,43.563416],[13.400402,43.565468],[13.400917,43.566959],[13.403663,43.589218],[13.408813,43.570751],[13.409156,43.559994],[13.399543,43.563416]]]],"created":1292453664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/720042_20101215_c511b7c1b1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

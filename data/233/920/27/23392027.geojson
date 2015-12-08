@@ -1,0 +1,15 @@
+{
+  "id": 23392027,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Echo, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23392027,
+    "woe:name":"Lake Echo, Nova Scotia, Canada",
+    "woe:place_id":"8GV_2JibAp_SgoZ_LQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.401951,44.728199,-63.384846,44.739906],
+  "geometry": {"alpha":0.00015,"bbox":[-63.401950836182,44.728199005127,-63.384845733643,44.739906311035],"coordinates":[[[[-63.386906,44.728199],[-63.392513,44.731247],[-63.401951,44.732376],[-63.38562,44.739906],[-63.384846,44.739052],[-63.386906,44.728199]]]],"created":1292524637,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/23392027_20101216_9e2e2bb2d8.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

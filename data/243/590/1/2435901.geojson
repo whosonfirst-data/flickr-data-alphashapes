@@ -1,0 +1,15 @@
+{
+  "id": 2435901,
+  "type": "Feature",
+  "properties": {
+    "name":"Lamb, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2435901,
+    "woe:name":"Lamb, Kentucky, United States",
+    "woe:place_id":"f.3jlMCbBZ9CgRWz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.918198,36.740501,-85.907303,36.749969],
+  "geometry": {"alpha":0.00015,"bbox":[-85.918197631836,36.740501403809,-85.907302856445,36.749969482422],"coordinates":[[[[-85.907303,36.749969],[-85.907722,36.749161],[-85.918167,36.740501],[-85.918198,36.740551],[-85.907745,36.749172],[-85.907303,36.749969]]]],"created":1292500926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2435901_20101216_7958dcafcb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 588406,
+  "type": "Feature",
+  "properties": {
+    "name":"Damigny, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":588406,
+    "woe:name":"Damigny, Basse-Normandie, France",
+    "woe:place_id":"sEZgaTOcCZQWP38",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.069351,48.430649,0.084655,48.452888],
+  "geometry": {"alpha":0.00015,"bbox":[0.069351002573967,48.430648803711,0.084655001759529,48.45288848877],"coordinates":[[[[0.071936,48.44257],[0.07184,48.444118],[0.069351,48.452888],[0.076303,48.450096],[0.084655,48.430649],[0.071936,48.44257]]]],"created":1292543825,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/588406_20101216_4c39f18358.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

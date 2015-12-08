@@ -1,0 +1,15 @@
+{
+  "id": 703525,
+  "type": "Feature",
+  "properties": {
+    "name":"W\u00e4ldle, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":703525,
+    "woe:name":"W\u00e4ldle, Bavaria, Germany",
+    "woe:place_id":"WM8F6maeAZ9y97w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.113601,47.460033,10.131111,47.474171],
+  "geometry": {"alpha":0.00015,"bbox":[10.113600730896,47.460033416748,10.13111114502,47.474170684814],"coordinates":[[[[10.115726,47.468006],[10.115994,47.468128],[10.131111,47.474171],[10.118408,47.464779],[10.113601,47.460033],[10.115361,47.46524],[10.115726,47.468006]]]],"created":1292540865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/703525_20101216_48151543cf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

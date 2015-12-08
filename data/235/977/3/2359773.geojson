@@ -1,0 +1,15 @@
+{
+  "id": 2359773,
+  "type": "Feature",
+  "properties": {
+    "name":"Bascom, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2359773,
+    "woe:name":"Bascom, Ohio, United States",
+    "woe:place_id":"y1Lp2N.bApmxcLNs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.304581,41.132645,-83.281471,41.145309],
+  "geometry": {"alpha":0.00015,"bbox":[-83.304580688477,41.13264465332,-83.281471252441,41.145309448242],"coordinates":[[[[-83.285805,41.145309],[-83.281471,41.132645],[-83.285461,41.134338],[-83.304474,41.133659],[-83.304581,41.137272],[-83.285805,41.145309]]]],"created":1292477467,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2359773_20101216_d10df080a2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

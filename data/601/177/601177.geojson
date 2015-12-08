@@ -1,0 +1,15 @@
+{
+  "id": 601177,
+  "type": "Feature",
+  "properties": {
+    "name":"Landrer, Brittany, France",
+    "placetype":"locality",
+    "woe:id":601177,
+    "woe:name":"Landrer, Brittany, France",
+    "woe:place_id":"oSBYR9ufAZ0_pSY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.644556,48.02449,-4.630479,48.041019],
+  "geometry": {"alpha":0.00015,"bbox":[-4.6445560455322,48.024490356445,-4.6304788589478,48.041019439697],"coordinates":[[[[-4.632239,48.030186],[-4.630479,48.027733],[-4.633655,48.027245],[-4.644556,48.02449],[-4.633655,48.041019],[-4.632239,48.030186]]]],"created":1247895963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3464/shapefiles/601177_20090718_9f4de7cdc8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12605337,
+  "type": "Feature",
+  "properties": {
+    "name":"Studenec, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12605337,
+    "woe:name":"Studenec, Czech Republic",
+    "woe:place_id":"S2c1R32YA5oxI0dZ4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.063042,49.202007,16.063728,49.203594],
+  "geometry": {"alpha":1e-05,"bbox":[16.063041687012,49.202007293701,16.06372833252,49.203594207764],"coordinates":[[[[16.063042,49.203075],[16.063332,49.203594],[16.063385,49.202961],[16.063728,49.202007],[16.063042,49.203075]]]],"created":1292424724,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12605337_20101215_60597bb230.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

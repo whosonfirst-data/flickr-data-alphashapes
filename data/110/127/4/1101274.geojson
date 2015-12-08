@@ -1,0 +1,15 @@
+{
+  "id": 1101274,
+  "type": "Feature",
+  "properties": {
+    "name":"Conargo, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1101274,
+    "woe:name":"Conargo, New South Wales, Australia",
+    "woe:place_id":"dy4F9NGYAJzsvVHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.174713,-35.309521,145.181259,-35.30302],
+  "geometry": {"alpha":0.00015,"bbox":[145.17471313477,-35.309520721436,145.18125915527,-35.303020477295],"coordinates":[[[[145.180817,-35.30302],[145.180954,-35.303051],[145.181259,-35.303223],[145.178482,-35.309521],[145.174713,-35.30616],[145.180695,-35.303104],[145.180817,-35.30302]]]],"created":1292444252,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/1101274_20101215_96ca4f5263.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

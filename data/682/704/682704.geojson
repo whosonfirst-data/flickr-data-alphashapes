@@ -1,0 +1,15 @@
+{
+  "id": 682704,
+  "type": "Feature",
+  "properties": {
+    "name":"Obing, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":682704,
+    "woe:name":"Obing, Bavaria, Germany",
+    "woe:place_id":"_VAP9OGfCZ5iZqc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.389552,47.995075,12.410173,48.004021],
+  "geometry": {"alpha":0.00015,"bbox":[12.389552116394,47.99507522583,12.410173416138,48.004020690918],"coordinates":[[[[12.405506,48.001236],[12.408928,48.004021],[12.410173,48.002499],[12.408242,47.998966],[12.405195,47.998535],[12.389552,47.995075],[12.404487,48.000332],[12.405506,48.001236]]]],"created":1292441568,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/682704_20101215_39e98206bc.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

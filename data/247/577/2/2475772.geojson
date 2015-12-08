@@ -1,0 +1,15 @@
+{
+  "id": 2475772,
+  "type": "Feature",
+  "properties": {
+    "name":"Posen, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2475772,
+    "woe:name":"Posen, Michigan, United States",
+    "woe:place_id":".9WlWW2bBZvf7ywm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.698952,45.263458,-83.696114,45.276436],
+  "geometry": {"alpha":0.00015,"bbox":[-83.698951721191,45.263458251953,-83.696113586426,45.276435852051],"coordinates":[[[[-83.698891,45.264256],[-83.698952,45.267109],[-83.697525,45.276436],[-83.696114,45.263844],[-83.698868,45.263458],[-83.698891,45.264256]]]],"created":1292541164,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2475772_20101216_81455661cb.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

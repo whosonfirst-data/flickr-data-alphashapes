@@ -1,0 +1,15 @@
+{
+  "id": 2499903,
+  "type": "Feature",
+  "properties": {
+    "name":"Stilesboro Hills, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2499903,
+    "woe:name":"Stilesboro Hills, Georgia, United States",
+    "woe:place_id":"70dQ3vSbBZW9JZZJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.688004,33.994896,-84.665276,34.007668],
+  "geometry": {"alpha":0.00015,"bbox":[-84.688003540039,33.994895935059,-84.66527557373,34.007667541504],"coordinates":[[[[-84.67704,33.994896],[-84.687935,33.996532],[-84.688004,33.996784],[-84.672836,34.007668],[-84.665276,34.001656],[-84.67704,33.994896]]]],"created":1248285502,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2489/shapefiles/2499903_20090722_bf979e3d86.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

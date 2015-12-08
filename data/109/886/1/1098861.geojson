@@ -1,0 +1,15 @@
+{
+  "id": 1098861,
+  "type": "Feature",
+  "properties": {
+    "name":"Tennyson, Brisbane, QLD, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":1098861,
+    "woe:name":"Tennyson, Brisbane, QLD, AU, Australia",
+    "woe:place_id":"9BkABP2YAZWVowId",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [152.99295,-27.527376,152.9953,-27.523685],
+  "geometry": {"alpha":1e-05,"bbox":[152.99295043945,-27.527376174927,152.99530029297,-27.523685455322],"coordinates":[[[[152.993622,-27.524446],[152.993439,-27.523685],[152.9953,-27.524551],[152.994019,-27.525723],[152.99295,-27.527376],[152.993622,-27.524446]]]],"created":1248203657,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3469/shapefiles/1098861_20090721_db13215245.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

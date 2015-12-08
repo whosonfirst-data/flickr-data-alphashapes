@@ -1,0 +1,15 @@
+{
+  "id": 12672346,
+  "type": "Feature",
+  "properties": {
+    "name":"Vieille-Toulouse, France",
+    "placetype":"locality",
+    "woe:id":12672346,
+    "woe:name":"Vieille-Toulouse, France",
+    "woe:place_id":"vJ.SJpeYA5ol4DWKZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.418303,43.547012,1.423837,43.554741],
+  "geometry": {"alpha":1e-05,"bbox":[1.4183030128479,43.547012329102,1.4238369464874,43.554740905762],"coordinates":[[[[1.419236,43.547012],[1.418303,43.549858],[1.422364,43.54895],[1.423837,43.549389],[1.423738,43.554741],[1.422364,43.54895],[1.419236,43.547012]]]],"created":1292527178,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12672346_20101216_dab4c38bfd.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

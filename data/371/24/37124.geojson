@@ -1,0 +1,15 @@
+{
+  "id": 37124,
+  "type": "Feature",
+  "properties": {
+    "name":"Teston, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37124,
+    "woe:name":"Teston, England, United Kingdom",
+    "woe:place_id":"vARDAG6aBp0A4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.434389,51.250175,0.447607,51.256275],
+  "geometry": {"alpha":0.00015,"bbox":[0.43438899517059,51.250175476074,0.44760701060295,51.256275177002],"coordinates":[[[[0.447607,51.253052],[0.447113,51.251808],[0.446748,51.251198],[0.44619,51.250957],[0.445117,51.250687],[0.434389,51.250175],[0.438337,51.256275],[0.445826,51.254745],[0.447607,51.253052]]]],"created":1248181571,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2155/shapefiles/37124_20090721_b650059d70.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

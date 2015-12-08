@@ -1,0 +1,15 @@
+{
+  "id": 2493290,
+  "type": "Feature",
+  "properties": {
+    "name":"Shunk, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2493290,
+    "woe:name":"Shunk, Pennsylvania, United States",
+    "woe:place_id":"e52f3oGbBZXP3GJ3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.749626,41.533352,-76.741928,41.554325],
+  "geometry": {"alpha":0.00015,"bbox":[-76.749626159668,41.533351898193,-76.741928100586,41.55432510376],"coordinates":[[[[-76.749626,41.554325],[-76.741928,41.545765],[-76.745422,41.536835],[-76.744911,41.533352],[-76.745712,41.537525],[-76.749626,41.554325]]]],"created":1292523340,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2493290_20101216_3a8e3d4a34.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

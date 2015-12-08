@@ -1,0 +1,15 @@
+{
+  "id": 28586408,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Tassie, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28586408,
+    "woe:name":"Mount Tassie, Victoria, Australia",
+    "woe:place_id":"8_JU6z6bCZkXOOKfBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.563858,-38.361862,146.569229,-38.354542],
+  "geometry": {"alpha":0.00015,"bbox":[146.56385803223,-38.361862182617,146.56922912598,-38.354541778564],"coordinates":[[[[146.563858,-38.361786],[146.568481,-38.354542],[146.569229,-38.354725],[146.563919,-38.361862],[146.563858,-38.361786]]]],"created":1292435403,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/28586408_20101215_09e92db38e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

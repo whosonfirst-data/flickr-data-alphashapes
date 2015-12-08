@@ -1,0 +1,15 @@
+{
+  "id": 12685368,
+  "type": "Feature",
+  "properties": {
+    "name":"Suzhou, China",
+    "placetype":"locality",
+    "woe:id":12685368,
+    "woe:name":"Suzhou, China",
+    "woe:place_id":"f_.YZZ6YA5oCaxfTbA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.998726,33.638634,117.000275,33.645992],
+  "geometry": {"alpha":1e-05,"bbox":[116.99872589111,33.638633728027,117.0002746582,33.645992279053],"coordinates":[[[[117.000275,33.640491],[116.999069,33.638634],[116.998726,33.640778],[116.999756,33.645992],[117.000275,33.640491]]]],"created":1292546670,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12685368_20101217_a883e9a2af.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 368598,
+  "type": "Feature",
+  "properties": {
+    "name":"Toca, Boyaca, Colombia",
+    "placetype":"locality",
+    "woe:id":368598,
+    "woe:name":"Toca, Boyaca, Colombia",
+    "woe:place_id":"pvcKEbeaB5Qk27Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.201904,5.557459,-73.186798,5.570882],
+  "geometry": {"alpha":0.00015,"bbox":[-73.201904296875,5.5574588775635,-73.186798095703,5.5708818435669],"coordinates":[[[[-73.201904,5.570882],[-73.201218,5.570541],[-73.186798,5.565159],[-73.193207,5.557459],[-73.201218,5.569003],[-73.201904,5.570882]]]],"created":1292518177,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/368598_20101216_4a5553c5b0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

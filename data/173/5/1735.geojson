@@ -1,0 +1,15 @@
+{
+  "id": 1735,
+  "type": "Feature",
+  "properties": {
+    "name":"Sprague, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":1735,
+    "woe:name":"Sprague, Manitoba, Canada",
+    "woe:place_id":"jMwp8BKYBp9F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.607315,49.03207,-95.578995,49.042145],
+  "geometry": {"alpha":0.000457763671875,"bbox":[-95.607315063477,49.032070159912,-95.578994750977,49.042144775391],"coordinates":[[[[-95.587578,49.042145],[-95.585518,49.040569],[-95.578995,49.037304],[-95.587402,49.039612],[-95.607315,49.03207],[-95.587578,49.042145]]]],"created":1292527925,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/1735_20101216_1160c550ca.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

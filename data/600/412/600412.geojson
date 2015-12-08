@@ -1,0 +1,15 @@
+{
+  "id": 600412,
+  "type": "Feature",
+  "properties": {
+    "name":"La Ville, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":600412,
+    "woe:name":"La Ville, Rhone-Alpes, France",
+    "woe:place_id":"V_wTLT2fAZzprvM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.506811,44.865421,5.553073,44.89814],
+  "geometry": {"alpha":0.0001875,"bbox":[5.5068111419678,44.865421295166,5.5530729293823,44.898139953613],"coordinates":[[[[5.54861,44.892487],[5.540885,44.894794],[5.526509,44.87278],[5.52329,44.865421],[5.51917,44.881905],[5.506811,44.890415],[5.520114,44.882328],[5.540885,44.894794],[5.526509,44.87278],[5.52329,44.865421],[5.51917,44.881905],[5.506811,44.890415],[5.520114,44.882328],[5.540885,44.894794],[5.553073,44.89814],[5.54861,44.892487]]]],"created":1292505065,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/600412_20101216_5668ac29ac.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

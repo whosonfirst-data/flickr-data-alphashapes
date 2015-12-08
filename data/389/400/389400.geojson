@@ -1,0 +1,15 @@
+{
+  "id": 389400,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Delicias, Aragua, Venezuela",
+    "placetype":"locality",
+    "woe:id":389400,
+    "woe:name":"Las Delicias, Aragua, Venezuela",
+    "woe:place_id":"h3oncOiaCZX5J0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.489014,10.326994,-67.464294,10.339913],
+  "geometry": {"alpha":0.00015,"bbox":[-67.489013671875,10.326993942261,-67.464294433594,10.339913368225],"coordinates":[[[[-67.470818,10.326994],[-67.477852,10.334171],[-67.489014,10.338224],[-67.475449,10.335185],[-67.464294,10.339913],[-67.470818,10.326994]]]],"created":1292538458,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/389400_20101216_4e97523381.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

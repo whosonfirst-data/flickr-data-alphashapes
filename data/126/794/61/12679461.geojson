@@ -1,0 +1,15 @@
+{
+  "id": 12679461,
+  "type": "Feature",
+  "properties": {
+    "name":"Osini, Italy",
+    "placetype":"locality",
+    "woe:id":12679461,
+    "woe:name":"Osini, Italy",
+    "woe:place_id":"4GthH8iYA5q4lpSDNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.488754,39.832268,9.492187,39.835167],
+  "geometry": {"alpha":1e-05,"bbox":[9.4887542724609,39.83226776123,9.4921865463257,39.835166931152],"coordinates":[[[[9.490127,39.834114],[9.488754,39.835167],[9.488988,39.835125],[9.492187,39.833851],[9.491146,39.832676],[9.490814,39.832268],[9.490127,39.834114]]]],"created":1292551625,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12679461_20101217_2d096290db.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

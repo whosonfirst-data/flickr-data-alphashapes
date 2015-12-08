@@ -1,0 +1,15 @@
+{
+  "id": 1101206,
+  "type": "Feature",
+  "properties": {
+    "name":"Cobargo, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1101206,
+    "woe:name":"Cobargo, New South Wales, Australia",
+    "woe:place_id":"5n6qdKCYAJzrC2t0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.886307,-36.398281,149.905014,-36.386326],
+  "geometry": {"alpha":0.00015,"bbox":[149.8863067627,-36.398281097412,149.90501403809,-36.386325836182],"coordinates":[[[[149.887497,-36.38916],[149.886307,-36.386879],[149.889999,-36.386326],[149.905014,-36.398281],[149.888351,-36.392948],[149.887497,-36.38916]]]],"created":1248105970,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2613/shapefiles/1101206_20090720_709cc86d74.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

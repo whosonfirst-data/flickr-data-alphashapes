@@ -1,0 +1,15 @@
+{
+  "id": 20137285,
+  "type": "Feature",
+  "properties": {
+    "name":"Pomino, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20137285,
+    "woe:name":"Pomino, Tuscany, Italy",
+    "woe:place_id":"dsLHX2ubAZ1igeDoLw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.536674,43.798172,11.550536,43.820747],
+  "geometry": {"alpha":0.00015,"bbox":[11.536673545837,43.79817199707,11.550536155701,43.820747375488],"coordinates":[[[[11.549892,43.820393],[11.550536,43.81546],[11.536674,43.798172],[11.549205,43.816074],[11.549119,43.81942],[11.549506,43.820747],[11.549892,43.820393]]]],"created":1292548067,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/20137285_20101217_1a685dfefd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

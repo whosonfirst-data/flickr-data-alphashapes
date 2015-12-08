@@ -1,0 +1,15 @@
+{
+  "id": 1095763,
+  "type": "Feature",
+  "properties": {
+    "name":"Faraday, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1095763,
+    "woe:name":"Faraday, Victoria, Australia",
+    "woe:place_id":"Ura9BXCYAZWR_nXN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.273575,-37.053261,144.287399,-37.03017],
+  "geometry": {"alpha":0.00015,"bbox":[144.2735748291,-37.053260803223,144.28739929199,-37.030170440674],"coordinates":[[[[144.273575,-37.051712],[144.274353,-37.046749],[144.279846,-37.03017],[144.281296,-37.038803],[144.287399,-37.053261],[144.275116,-37.052299],[144.273575,-37.051712]]]],"created":1292537314,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/1095763_20101216_67425eab20.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

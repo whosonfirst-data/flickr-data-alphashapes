@@ -1,0 +1,15 @@
+{
+  "id": 23402603,
+  "type": "Feature",
+  "properties": {
+    "name":"Letellier, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":23402603,
+    "woe:name":"Letellier, Manitoba, Canada",
+    "woe:place_id":"bi6qZXybApjz6Kdbvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.305649,49.134216,-97.303101,49.143341],
+  "geometry": {"alpha":0.00015,"bbox":[-97.305648803711,49.134216308594,-97.303100585938,49.143341064453],"coordinates":[[[[-97.305649,49.135452],[-97.303848,49.143341],[-97.303101,49.135799],[-97.303589,49.134834],[-97.303848,49.134216],[-97.305649,49.135452]]]],"created":1292530228,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/23402603_20101216_a36d824b59.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

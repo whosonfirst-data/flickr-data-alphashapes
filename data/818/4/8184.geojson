@@ -1,0 +1,15 @@
+{
+  "id": 8184,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunmore, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8184,
+    "woe:name":"Dunmore, Alberta, Canada",
+    "woe:place_id":"DZ_tKaCRAJSF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.587006,49.944832,-110.56517,49.971802],
+  "geometry": {"alpha":0.00015,"bbox":[-110.58700561523,49.944831848145,-110.56517028809,49.971801757812],"coordinates":[[[[-110.586456,49.962399],[-110.587006,49.969826],[-110.56517,49.971802],[-110.573425,49.960358],[-110.577667,49.944832],[-110.586456,49.962399]]]],"created":1292527930,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/8184_20101216_446254f8c8.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

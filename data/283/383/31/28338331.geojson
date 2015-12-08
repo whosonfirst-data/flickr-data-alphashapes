@@ -1,0 +1,15 @@
+{
+  "id": 28338331,
+  "type": "Feature",
+  "properties": {
+    "name":"Kerrik, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":28338331,
+    "woe:name":"Kerrik, Illinois, United States",
+    "woe:place_id":"vS7V6UCbCZ9fGSirUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.00956,40.460163,-88.992622,40.478504],
+  "geometry": {"alpha":0.00015,"bbox":[-89.009559631348,40.460163116455,-88.992622375488,40.478504180908],"coordinates":[[[[-88.992935,40.478504],[-88.994255,40.476219],[-88.992622,40.460163],[-89.00956,40.461372],[-88.994576,40.47617],[-88.992935,40.478504]]]],"created":1292549168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/28338331_20101217_f2fd8ffb75.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

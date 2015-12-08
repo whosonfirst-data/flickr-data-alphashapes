@@ -1,0 +1,15 @@
+{
+  "id": 12522355,
+  "type": "Feature",
+  "properties": {
+    "name":"Watsonville Municipal Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522355,
+    "woe:name":"Watsonville Municipal Airport, United States",
+    "woe:place_id":"hqBx0GSYA5lIPSgbBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.792892,36.933804,-121.78656,36.937546],
+  "geometry": {"alpha":1e-05,"bbox":[-121.79289245605,36.93380355835,-121.78656005859,36.937545776367],"coordinates":[[[[-121.787025,36.937546],[-121.78656,36.937191],[-121.7883,36.933804],[-121.792892,36.934586],[-121.788673,36.936665],[-121.787025,36.937546]]]],"created":1234678326,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3491/shapefiles/12522355_20090215_58e07f0e44.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

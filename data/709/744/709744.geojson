@@ -1,0 +1,15 @@
+{
+  "id": 709744,
+  "type": "Feature",
+  "properties": {
+    "name":"Acaja, Puglia, Italy",
+    "placetype":"locality",
+    "woe:id":709744,
+    "woe:name":"Acaja, Puglia, Italy",
+    "woe:place_id":"IZV6hROeAZUCcLQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.290863,40.33506,18.297558,40.345562],
+  "geometry": {"alpha":0.00015,"bbox":[18.290863037109,40.335060119629,18.297557830811,40.345561981201],"coordinates":[[[[18.297428,40.335518],[18.297215,40.335358],[18.296013,40.33506],[18.29155,40.335293],[18.290863,40.345562],[18.297558,40.337383],[18.297428,40.335518]]]],"created":1292544582,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/709744_20101217_28af5442e6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

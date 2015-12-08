@@ -1,0 +1,15 @@
+{
+  "id": 23397345,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Bay, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397345,
+    "woe:name":"Spring Bay, Ontario, Canada",
+    "woe:place_id":"w9HRAAWbAp_DJ5Mfxw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.321327,45.759079,-82.293091,45.785843],
+  "geometry": {"alpha":0.00015,"bbox":[-82.321327209473,45.759078979492,-82.293090820312,45.785842895508],"coordinates":[[[[-82.303131,45.785843],[-82.293091,45.782368],[-82.311501,45.777519],[-82.321327,45.759079],[-82.314163,45.777611],[-82.303131,45.785843]]]],"created":1229611089,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3094/shapefiles/23397345_20081218_52d870b338.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

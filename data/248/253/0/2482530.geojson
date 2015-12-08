@@ -1,0 +1,15 @@
+{
+  "id": 2482530,
+  "type": "Feature",
+  "properties": {
+    "name":"Roaming Shores, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2482530,
+    "woe:name":"Roaming Shores, Ohio, United States",
+    "woe:place_id":"HfF6lwGbBZRIwJjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.832565,41.639694,-80.81543,41.651478],
+  "geometry": {"alpha":0.00015,"bbox":[-80.832565307617,41.639694213867,-80.8154296875,41.651477813721],"coordinates":[[[[-80.828606,41.647774],[-80.81543,41.648289],[-80.823151,41.639694],[-80.830109,41.644054],[-80.832565,41.651478],[-80.828606,41.647774]]]],"created":1292543765,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2482530_20101216_28b0f8e802.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

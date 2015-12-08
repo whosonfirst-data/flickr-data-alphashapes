@@ -1,0 +1,15 @@
+{
+  "id": 12684342,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Martin, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684342,
+    "woe:name":"St. Martin, Switzerland",
+    "woe:place_id":"hBzzT8iYA5r2Ep9qNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.185369,46.642776,9.185755,46.643616],
+  "geometry": {"alpha":1e-05,"bbox":[9.1853685379028,46.642776489258,9.185754776001,46.643615722656],"coordinates":[[[[9.185369,46.643135],[9.185377,46.643177],[9.185755,46.643616],[9.185555,46.642776],[9.185369,46.643135]]]],"created":1292533446,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12684342_20101216_f7f0f7da04.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

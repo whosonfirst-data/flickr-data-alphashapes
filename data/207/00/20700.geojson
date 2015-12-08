@@ -1,0 +1,15 @@
+{
+  "id": 20700,
+  "type": "Feature",
+  "properties": {
+    "name":"Frostenden, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20700,
+    "woe:name":"Frostenden, England, United Kingdom",
+    "woe:place_id":"syl24hKbAZtkaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.639029,52.361343,1.650695,52.378292],
+  "geometry": {"alpha":0.00015,"bbox":[1.6390290260315,52.361343383789,1.6506949663162,52.37829208374],"coordinates":[[[[1.639366,52.376858],[1.640665,52.378292],[1.64443,52.378166],[1.650695,52.371929],[1.64812,52.361343],[1.639029,52.36985],[1.639366,52.376858]]]],"created":1292532966,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20700_20101216_05f6b8540f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

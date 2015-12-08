@@ -1,0 +1,15 @@
+{
+  "id": 12521431,
+  "type": "Feature",
+  "properties": {
+    "name":"Pompano Beach Airpark, United States",
+    "placetype":"locality",
+    "woe:id":12521431,
+    "woe:name":"Pompano Beach Airpark, United States",
+    "woe:place_id":"WtC_TpyYA5nSWabOxA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.112305,26.240421,-80.109512,26.246466],
+  "geometry": {"alpha":1e-05,"bbox":[-80.1123046875,26.240421295166,-80.109512329102,26.246465682983],"coordinates":[[[[-80.112305,26.246466],[-80.110847,26.246157],[-80.109512,26.240421],[-80.112282,26.24152],[-80.112305,26.246466]]]],"created":1292548329,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12521431_20101217_ef16b70c51.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

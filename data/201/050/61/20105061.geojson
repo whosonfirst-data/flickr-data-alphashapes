@@ -1,0 +1,15 @@
+{
+  "id": 20105061,
+  "type": "Feature",
+  "properties": {
+    "name":"Colmar, Luxemburg, Luxembourg",
+    "placetype":"locality",
+    "woe:id":20105061,
+    "woe:name":"Colmar, Luxemburg, Luxembourg",
+    "woe:place_id":"ccjOYcKbAZ3rw2Hh6Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.088678,49.803566,6.10402,49.816719],
+  "geometry": {"alpha":0.00015,"bbox":[6.0886778831482,49.803565979004,6.1040201187134,49.816719055176],"coordinates":[[[[6.101016,49.815475],[6.10402,49.812843],[6.090888,49.803566],[6.088678,49.814735],[6.094665,49.816719],[6.101016,49.815475]]]],"created":1292532812,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20105061_20101216_d8ccae164e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

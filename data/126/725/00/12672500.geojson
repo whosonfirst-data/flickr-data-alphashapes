@@ -1,0 +1,15 @@
+{
+  "id": 12672500,
+  "type": "Feature",
+  "properties": {
+    "name":"Villemus, France",
+    "placetype":"locality",
+    "woe:id":12672500,
+    "woe:name":"Villemus, France",
+    "woe:place_id":"trwhwYGYA5p0q1sTMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.700775,43.858055,5.701455,43.859016],
+  "geometry": {"alpha":1e-05,"bbox":[5.7007751464844,43.858055114746,5.701455116272,43.859016418457],"coordinates":[[[[5.700791,43.858868],[5.700775,43.859016],[5.701047,43.858818],[5.701455,43.858223],[5.701111,43.858055],[5.700791,43.858868]]]],"created":1292479566,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12672500_20101216_c1b23d5346.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

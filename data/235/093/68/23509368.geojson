@@ -1,0 +1,15 @@
+{
+  "id": 23509368,
+  "type": "Feature",
+  "properties": {
+    "name":"Craftsbury Commom, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23509368,
+    "woe:name":"Craftsbury Commom, Vermont, United States",
+    "woe:place_id":"DH9D3SebAplKCXXbag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.377373,44.679935,-72.356689,44.687145],
+  "geometry": {"alpha":0.00015,"bbox":[-72.377372741699,44.679935455322,-72.356689453125,44.687145233154],"coordinates":[[[[-72.362473,44.679935],[-72.363144,44.68005],[-72.377373,44.685162],[-72.364197,44.686474],[-72.356689,44.687145],[-72.362473,44.679935]]]],"created":1292548105,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/23509368_20101217_40122a609f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

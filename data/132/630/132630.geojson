@@ -1,0 +1,15 @@
+{
+  "id": 132630,
+  "type": "Feature",
+  "properties": {
+    "name":"Macuspana, Tabasco, Mexico",
+    "placetype":"locality",
+    "woe:id":132630,
+    "woe:name":"Macuspana, Tabasco, Mexico",
+    "woe:place_id":"dV0_yomYAp5xWkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.605988,17.751139,-92.592819,17.766914],
+  "geometry": {"alpha":0.00015,"bbox":[-92.605987548828,17.751138687134,-92.592819213867,17.766914367676],"coordinates":[[[[-92.592819,17.756493],[-92.605988,17.751139],[-92.602386,17.766914],[-92.595001,17.765116],[-92.593498,17.76026],[-92.592819,17.756493]]]],"created":1292551685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/132630_20101217_19e5c66f0b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

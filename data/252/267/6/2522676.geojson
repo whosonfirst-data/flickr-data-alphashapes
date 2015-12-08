@@ -1,0 +1,15 @@
+{
+  "id": 2522676,
+  "type": "Feature",
+  "properties": {
+    "name":"Wolfe City, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2522676,
+    "woe:name":"Wolfe City, Texas, United States",
+    "woe:place_id":"0t2U7yWbBJ6KLMYD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.078697,33.361717,-96.060333,33.375374],
+  "geometry": {"alpha":0.00015,"bbox":[-96.07869720459,33.361717224121,-96.060333251953,33.375373840332],"coordinates":[[[[-96.07209,33.375374],[-96.060333,33.36937],[-96.069992,33.37019],[-96.078697,33.361717],[-96.073647,33.373283],[-96.07209,33.375374]]]],"created":1292522319,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2522676_20101216_dc9dc210cc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

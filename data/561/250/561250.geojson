@@ -1,0 +1,15 @@
+{
+  "id": 561250,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilglass, Sligo, Ireland",
+    "placetype":"locality",
+    "woe:id":561250,
+    "woe:name":"Kilglass, Sligo, Ireland",
+    "woe:place_id":"ihodrC6cB53dRc8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.08535,54.22649,-9.060115,54.239349],
+  "geometry": {"alpha":0.00015,"bbox":[-9.0853500366211,54.226490020752,-9.0601148605347,54.239349365234],"coordinates":[[[[-9.06772,54.226601],[-9.08535,54.237343],[-9.077453,54.239349],[-9.060115,54.232727],[-9.06745,54.22649],[-9.06772,54.226601]]]],"created":1292531860,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/561250_20101216_9084705d86.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

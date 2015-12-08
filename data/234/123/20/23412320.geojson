@@ -1,0 +1,15 @@
+{
+  "id": 23412320,
+  "type": "Feature",
+  "properties": {
+    "name":"Bagnarola, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":23412320,
+    "woe:name":"Bagnarola, Emilia Romagna, Italy",
+    "woe:place_id":"PIS3V3ybApiyOOIMxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.334685,44.152035,12.348675,44.16275],
+  "geometry": {"alpha":0.00015,"bbox":[12.334685325623,44.152034759521,12.34867477417,44.162750244141],"coordinates":[[[[12.335221,44.16275],[12.340129,44.159531],[12.348675,44.152096],[12.341594,44.152035],[12.334685,44.155731],[12.335221,44.16275]]]],"created":1292452406,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/23412320_20101215_a75585051d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

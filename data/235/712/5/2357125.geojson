@@ -1,0 +1,15 @@
+{
+  "id": 2357125,
+  "type": "Feature",
+  "properties": {
+    "name":"Atlas, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2357125,
+    "woe:name":"Atlas, Missouri, United States",
+    "woe:place_id":"6_EqrwSbApmVVwb7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.347221,37.110275,-94.344627,37.111927],
+  "geometry": {"alpha":0.00015,"bbox":[-94.347221374512,37.110275268555,-94.344627380371,37.111927032471],"coordinates":[[[[-94.344627,37.111927],[-94.344963,37.111759],[-94.347221,37.110275],[-94.347221,37.110554],[-94.34552,37.111855],[-94.345406,37.111862],[-94.344627,37.111927]]]],"created":1292520196,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2357125_20101216_f393690238.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

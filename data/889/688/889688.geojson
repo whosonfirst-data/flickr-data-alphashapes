@@ -1,0 +1,15 @@
+{
+  "id": 889688,
+  "type": "Feature",
+  "properties": {
+    "name":"Flaxenvik, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":889688,
+    "woe:name":"Flaxenvik, Stockholm, Sweden",
+    "woe:place_id":"9tMeoY2RCZVaqlw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.388796,59.468803,18.392826,59.476868],
+  "geometry": {"alpha":0.00015,"bbox":[18.388795852661,59.468803405762,18.392826080322,59.476867675781],"coordinates":[[[[18.392826,59.46946],[18.392679,59.469227],[18.388796,59.468803],[18.392143,59.476868],[18.392826,59.46946]]]],"created":1234604643,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3348/shapefiles/889688_20090214_42f6233245.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

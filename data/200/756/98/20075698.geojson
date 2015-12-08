@@ -1,0 +1,15 @@
+{
+  "id": 20075698,
+  "type": "Feature",
+  "properties": {
+    "name":"Moncrivello, Italy",
+    "placetype":"locality",
+    "woe:id":20075698,
+    "woe:name":"Moncrivello, Italy",
+    "woe:place_id":"MHi22sObAZxuosSvhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.010063,45.347244,8.011951,45.348225],
+  "geometry": {"alpha":1e-05,"bbox":[8.0100631713867,45.347244262695,8.0119514465332,45.348224639893],"coordinates":[[[[8.010063,45.348225],[8.011178,45.347561],[8.011951,45.347244],[8.010803,45.347328],[8.010063,45.348225]]]],"created":1248171015,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2477/shapefiles/20075698_20090721_0ac443a28e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

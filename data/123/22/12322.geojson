@@ -1,0 +1,15 @@
+{
+  "id": 12322,
+  "type": "Feature",
+  "properties": {
+    "name":"Belmesthorpe, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12322,
+    "woe:name":"Belmesthorpe, England, United Kingdom",
+    "woe:place_id":"uz4DLvWYA5.ZuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.468292,52.674717,-0.455667,52.683811],
+  "geometry": {"alpha":0.00015,"bbox":[-0.46829199790955,52.674716949463,-0.45566698908806,52.683811187744],"coordinates":[[[[-0.456748,52.680264],[-0.455667,52.676334],[-0.460739,52.676132],[-0.468292,52.674717],[-0.460932,52.683811],[-0.456748,52.680264]]]],"created":1292538364,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12322_20101216_a90424f9aa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

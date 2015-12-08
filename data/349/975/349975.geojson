@@ -1,0 +1,15 @@
+{
+  "id": 349975,
+  "type": "Feature",
+  "properties": {
+    "name":"Antuco, Biobio Region, Chile",
+    "placetype":"locality",
+    "woe:id":349975,
+    "woe:name":"Antuco, Biobio Region, Chile",
+    "woe:place_id":"aG7PggKaBZWoPNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.679092,-37.334679,-71.654205,-37.327579],
+  "geometry": {"alpha":0.00015,"bbox":[-71.679092407227,-37.334678649902,-71.654205322266,-37.327579498291],"coordinates":[[[[-71.672058,-37.32922],[-71.654205,-37.334679],[-71.673378,-37.330391],[-71.679092,-37.3284],[-71.673431,-37.327579],[-71.672058,-37.32922]]]],"created":1292550674,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/349975_20101217_bfc83d8795.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

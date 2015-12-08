@@ -1,0 +1,15 @@
+{
+  "id": 2482197,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverside, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2482197,
+    "woe:name":"Riverside, Oregon, United States",
+    "woe:place_id":"S8qmuU6bBZSGNvha",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.162399,44.631824,-123.148628,44.64814],
+  "geometry": {"alpha":0.00015,"bbox":[-123.16239929199,44.631824493408,-123.14862823486,44.648139953613],"coordinates":[[[[-123.160683,44.638084],[-123.162399,44.639343],[-123.162231,44.64814],[-123.160515,44.638126],[-123.148628,44.631824],[-123.160683,44.638084]]]],"created":1292422202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2482197_20101215_ff5dee1877.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

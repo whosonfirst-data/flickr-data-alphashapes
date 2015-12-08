@@ -1,0 +1,15 @@
+{
+  "id": 2407685,
+  "type": "Feature",
+  "properties": {
+    "name":"Friendship, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2407685,
+    "woe:name":"Friendship, South Carolina, United States",
+    "woe:place_id":"A5dTnVKbBZzxSrOD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.895866,34.90617,-80.881241,34.91853],
+  "geometry": {"alpha":0.00015,"bbox":[-80.895866394043,34.906169891357,-80.881240844727,34.918529510498],"coordinates":[[[[-80.895821,34.918144],[-80.895866,34.918312],[-80.895302,34.91853],[-80.881241,34.90617],[-80.895561,34.917923],[-80.895821,34.918144]]]],"created":1292545270,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2407685_20101217_e9d8ec09b2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12677469,
+  "type": "Feature",
+  "properties": {
+    "name":"Camporgiano, Italy",
+    "placetype":"locality",
+    "woe:id":12677469,
+    "woe:name":"Camporgiano, Italy",
+    "woe:place_id":"SQMlH3iYA5q66qRdQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.317524,44.138412,10.3182,44.138786],
+  "geometry": {"alpha":1e-05,"bbox":[10.317523956299,44.138412475586,10.318200111389,44.138786315918],"coordinates":[[[[10.318093,44.138412],[10.317524,44.138538],[10.317792,44.138672],[10.3182,44.138786],[10.318093,44.138412]]]],"created":1292535423,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12677469_20101216_2e1ca7d49c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

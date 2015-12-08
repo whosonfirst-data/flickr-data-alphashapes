@@ -1,0 +1,15 @@
+{
+  "id": 1102638,
+  "type": "Feature",
+  "properties": {
+    "name":"Heyfield, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102638,
+    "woe:name":"Heyfield, Victoria, Australia",
+    "woe:place_id":"R77MGWWYAJymMzOU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.773743,-37.991749,146.788498,-37.965584],
+  "geometry": {"alpha":0.00015,"bbox":[146.77374267578,-37.991748809814,146.7884979248,-37.96558380127],"coordinates":[[[[146.774933,-37.980198],[146.773743,-37.975597],[146.776306,-37.965584],[146.787292,-37.974716],[146.788498,-37.983513],[146.775482,-37.991749],[146.774933,-37.980198]]]],"created":1292544736,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/1102638_20101217_c9d7d5bae2.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

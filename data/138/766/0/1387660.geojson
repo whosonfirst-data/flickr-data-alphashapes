@@ -1,0 +1,15 @@
+{
+  "id": 1387660,
+  "type": "Feature",
+  "properties": {
+    "name":"Benin City, Edo, Nigeria",
+    "placetype":"locality",
+    "woe:id":1387660,
+    "woe:name":"Benin City, Edo, Nigeria",
+    "woe:place_id":"VJidLgqYApRHlfnX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.621566,6.326729,5.62648,6.342511],
+  "geometry": {"alpha":0.00015,"bbox":[5.6215658187866,6.3267288208008,5.6264801025391,6.342511177063],"coordinates":[[[[5.621566,6.34089],[5.624485,6.342511],[5.62648,6.339069],[5.625944,6.330995],[5.624313,6.326729],[5.62191,6.33253],[5.621566,6.34089]]]],"created":1292544230,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/1387660_20101217_ed017993cf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

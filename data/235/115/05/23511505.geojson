@@ -1,0 +1,15 @@
+{
+  "id": 23511505,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairfield Pond, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23511505,
+    "woe:name":"Fairfield Pond, Vermont, United States",
+    "woe:place_id":"avbzO1abApm56KEtSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.99939,44.852371,-72.993423,44.863533],
+  "geometry": {"alpha":0.00015,"bbox":[-72.999389648438,44.85237121582,-72.993423461914,44.86353302002],"coordinates":[[[[-72.994453,44.861542],[-72.994324,44.861984],[-72.993423,44.863533],[-72.993851,44.855625],[-72.99939,44.852371],[-72.994453,44.861542]]]],"created":1292457404,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/23511505_20101215_202ab9f540.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

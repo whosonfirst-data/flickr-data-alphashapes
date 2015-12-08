@@ -1,0 +1,15 @@
+{
+  "id": 28339848,
+  "type": "Feature",
+  "properties": {
+    "name":"Lawrence, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":28339848,
+    "woe:name":"Lawrence, Ohio, United States",
+    "woe:place_id":"QGWE5rGbCZ_j9PNG.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.590439,40.876076,-81.565163,40.89436],
+  "geometry": {"alpha":0.00015,"bbox":[-81.590438842773,40.876075744629,-81.565162658691,40.894359588623],"coordinates":[[[[-81.580009,40.876076],[-81.590439,40.887726],[-81.590385,40.89436],[-81.578056,40.883846],[-81.565163,40.884125],[-81.580009,40.876076]]]],"created":1292542013,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/28339848_20101216_f15abb5616.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

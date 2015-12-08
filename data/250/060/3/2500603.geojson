@@ -1,0 +1,15 @@
+{
+  "id": 2500603,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoudertown, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2500603,
+    "woe:name":"Stoudertown, Ohio, United States",
+    "woe:place_id":"5mwnibSbBJwDsvsb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.668106,39.874722,-82.667778,39.892822],
+  "geometry": {"alpha":0.00015,"bbox":[-82.668106079102,39.8747215271,-82.667778015137,39.892822265625],"coordinates":[[[[-82.667778,39.875],[-82.667778,39.874722],[-82.668053,39.875],[-82.668106,39.892822],[-82.667778,39.875]]]],"created":1292448715,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2500603_20101215_66e1953dd5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

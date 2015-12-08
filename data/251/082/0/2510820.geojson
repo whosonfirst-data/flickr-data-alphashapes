@@ -1,0 +1,15 @@
+{
+  "id": 2510820,
+  "type": "Feature",
+  "properties": {
+    "name":"Valley Forge, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2510820,
+    "woe:name":"Valley Forge, Alabama, United States",
+    "woe:place_id":"87UZ6O2bBJ3YyPYY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.837425,33.252892,-86.835785,33.254269],
+  "geometry": {"alpha":0.00015,"bbox":[-86.837425231934,33.252891540527,-86.835784912109,33.25426864624],"coordinates":[[[[-86.836174,33.252892],[-86.837425,33.25378],[-86.836166,33.254269],[-86.835815,33.253483],[-86.835785,33.253098],[-86.836174,33.252892]]]],"created":1292521034,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2510820_20101216_f6309438af.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3931,
+  "type": "Feature",
+  "properties": {
+    "name":"Lawn, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":3931,
+    "woe:name":"Lawn, Newfoundland and Labrador, Canada",
+    "woe:place_id":"5HofuK.aCJ9F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.541809,46.942879,-55.535973,46.951317],
+  "geometry": {"alpha":0.00015,"bbox":[-55.541809082031,46.942878723145,-55.535972595215,46.951316833496],"coordinates":[[[[-55.541466,46.94997],[-55.538635,46.951054],[-55.535973,46.951317],[-55.539063,46.946041],[-55.541809,46.942879],[-55.541466,46.94997]]]],"created":1292504228,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/3931_20101216_9161d2ec0e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

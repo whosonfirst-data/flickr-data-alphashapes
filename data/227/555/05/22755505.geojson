@@ -1,0 +1,15 @@
+{
+  "id": 22755505,
+  "type": "Feature",
+  "properties": {
+    "name":"Autreville, France",
+    "placetype":"locality",
+    "woe:id":22755505,
+    "woe:name":"Autreville, France",
+    "woe:place_id":"hnAveHmbA5tVJSrAEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.229787,49.591866,3.22998,49.591991],
+  "geometry": {"alpha":1e-05,"bbox":[3.2297871112823,49.591865539551,3.2299799919128,49.591991424561],"coordinates":[[[[3.229851,49.591866],[3.229787,49.5919],[3.229894,49.591991],[3.22998,49.591908],[3.229894,49.591866],[3.229851,49.591866]]]],"created":1292452338,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/22755505_20101215_b36c99d32f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

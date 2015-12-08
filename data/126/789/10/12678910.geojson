@@ -1,0 +1,15 @@
+{
+  "id": 12678910,
+  "type": "Feature",
+  "properties": {
+    "name":"Cormano, Italy",
+    "placetype":"locality",
+    "woe:id":12678910,
+    "woe:name":"Cormano, Italy",
+    "woe:place_id":"7MHpuAuYA5obUTB9_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.168305,45.543751,9.173133,45.550632],
+  "geometry": {"alpha":1e-05,"bbox":[9.1683053970337,45.543750762939,9.1731328964233,45.550632476807],"coordinates":[[[[9.172865,45.549496],[9.173133,45.548771],[9.170805,45.543751],[9.171609,45.548317],[9.168305,45.549969],[9.172296,45.550632],[9.172865,45.549496]]]],"created":1292551564,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12678910_20101217_2980ce7c81.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

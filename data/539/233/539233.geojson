@@ -1,0 +1,15 @@
+{
+  "id": 539233,
+  "type": "Feature",
+  "properties": {
+    "name":"Blelburg, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":539233,
+    "woe:name":"Blelburg, Carinthia, Austria",
+    "woe:place_id":"WlUHX8qcApUjldo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.793434,46.583405,14.79911,46.593479],
+  "geometry": {"alpha":0.00015,"bbox":[14.793434143066,46.583404541016,14.799110412598,46.593479156494],"coordinates":[[[[14.79911,46.590191],[14.797983,46.583405],[14.794936,46.584454],[14.793777,46.589657],[14.793434,46.592373],[14.796661,46.593479],[14.79911,46.590191]]]],"created":1292453152,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/539233_20101215_80e201d510.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2450975,
+  "type": "Feature",
+  "properties": {
+    "name":"Milford, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2450975,
+    "woe:name":"Milford, Illinois, United States",
+    "woe:place_id":"DsYDuyObBZlBc9x9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.698532,40.621838,-87.687737,40.63773],
+  "geometry": {"alpha":0.00015,"bbox":[-87.698532104492,40.621837615967,-87.68773651123,40.637729644775],"coordinates":[[[[-87.687737,40.626781],[-87.697594,40.621838],[-87.697678,40.62405],[-87.698532,40.630501],[-87.696457,40.63773],[-87.687737,40.626781]]]],"created":1292531590,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2450975_20101216_01de25c08e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

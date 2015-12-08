@@ -1,0 +1,15 @@
+{
+  "id": 2503786,
+  "type": "Feature",
+  "properties": {
+    "name":"Talmage, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2503786,
+    "woe:name":"Talmage, Nebraska, United States",
+    "woe:place_id":"6Obn0IybBJyfDDe6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.022911,40.531258,-96.021698,40.532692],
+  "geometry": {"alpha":0.00015,"bbox":[-96.022911071777,40.531257629395,-96.021697998047,40.532691955566],"coordinates":[[[[-96.022179,40.531414],[-96.022911,40.532391],[-96.022118,40.532692],[-96.021698,40.531414],[-96.021835,40.531258],[-96.022179,40.531414]]]],"created":1292422923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2503786_20101215_55beb7e1b3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

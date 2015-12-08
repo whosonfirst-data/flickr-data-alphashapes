@@ -1,0 +1,15 @@
+{
+  "id": 4050,
+  "type": "Feature",
+  "properties": {
+    "name":"Mitchell, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":4050,
+    "woe:name":"Mitchell, Ontario, Canada",
+    "woe:place_id":"cN0nrdudAZnx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.202652,43.454662,-81.180038,43.491039],
+  "geometry": {"alpha":0.00015,"bbox":[-81.202651977539,43.454662322998,-81.180038452148,43.491039276123],"coordinates":[[[[-81.197662,43.475391],[-81.188408,43.475895],[-81.180038,43.491039],[-81.187546,43.475689],[-81.192055,43.466373],[-81.193085,43.46563],[-81.199432,43.45689],[-81.200806,43.454662],[-81.202652,43.459553],[-81.20108,43.471127],[-81.197662,43.475391]]]],"created":1292457126,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/4050_20101215_ee56414f20.tar.gz"},"points":36,"type":"MultiPolygon"}
+}

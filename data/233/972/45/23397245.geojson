@@ -1,0 +1,15 @@
+{
+  "id": 23397245,
+  "type": "Feature",
+  "properties": {
+    "name":"Mountain, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397245,
+    "woe:name":"Mountain, Ontario, Canada",
+    "woe:place_id":"0markv2bAp8JQwWDoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.535812,45.014755,-75.512123,45.030346],
+  "geometry": {"alpha":0.00015,"bbox":[-75.53581237793,45.014755249023,-75.51212310791,45.030345916748],"coordinates":[[[[-75.529724,45.029877],[-75.512123,45.030346],[-75.52388,45.025417],[-75.535812,45.014755],[-75.529724,45.029877]]]],"created":1292545380,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/23397245_20101217_5cd1ceab76.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

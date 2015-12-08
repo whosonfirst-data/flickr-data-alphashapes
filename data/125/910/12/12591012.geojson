@@ -1,0 +1,15 @@
+{
+  "id": 12591012,
+  "type": "Feature",
+  "properties": {
+    "name":"Orimattila, Finland",
+    "placetype":"locality",
+    "woe:id":12591012,
+    "woe:name":"Orimattila, Finland",
+    "woe:place_id":"BtSIOJyYA5laKIMxAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.693201,60.797104,25.694136,60.797668],
+  "geometry": {"alpha":1e-05,"bbox":[25.693201065063,60.797103881836,25.694135665894,60.797668457031],"coordinates":[[[[25.693373,60.797585],[25.693769,60.797375],[25.694136,60.797104],[25.693556,60.797138],[25.693201,60.797626],[25.693201,60.797668],[25.693373,60.797585]]]],"created":1292550604,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12591012_20101217_f710c9c58a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

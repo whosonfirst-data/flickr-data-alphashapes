@@ -1,0 +1,15 @@
+{
+  "id": 1335,
+  "type": "Feature",
+  "properties": {
+    "name":"Ripon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1335,
+    "woe:name":"Ripon, Quebec, Canada",
+    "woe:place_id":"1DN6tduYAp.t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.121422,45.778057,-75.090477,45.793861],
+  "geometry": {"alpha":0.00015,"bbox":[-75.121421813965,45.778057098389,-75.090476989746,45.79386138916],"coordinates":[[[[-75.101166,45.782848],[-75.121422,45.780903],[-75.104599,45.786919],[-75.097046,45.793861],[-75.090477,45.793232],[-75.095154,45.778057],[-75.101166,45.782848]]]],"created":1292546948,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/1335_20101217_655db32aa0.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

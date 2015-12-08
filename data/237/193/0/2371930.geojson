@@ -1,0 +1,15 @@
+{
+  "id": 2371930,
+  "type": "Feature",
+  "properties": {
+    "name":"Bureau, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2371930,
+    "woe:name":"Bureau, Maryland, United States",
+    "woe:place_id":"a3UTaxqbApvm9_zx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.864426,38.808239,-75.83535,38.824612],
+  "geometry": {"alpha":0.00015,"bbox":[-75.86442565918,38.808238983154,-75.835350036621,38.824611663818],"coordinates":[[[[-75.864426,38.808239],[-75.864159,38.809616],[-75.846603,38.824062],[-75.83535,38.824612],[-75.851563,38.809315],[-75.864418,38.808239],[-75.864426,38.808239]]]],"created":1292544277,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2371930_20101217_aab9fb9145.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

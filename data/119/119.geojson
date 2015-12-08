@@ -1,0 +1,15 @@
+{
+  "id": 119,
+  "type": "Feature",
+  "properties": {
+    "name":"Birch Island, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":119,
+    "woe:name":"Birch Island, Ontario, Canada",
+    "woe:place_id":"T2TIM0iYAJU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.744286,46.034988,-81.733391,46.071445],
+  "geometry": {"alpha":0.00015,"bbox":[-81.744285583496,46.03498840332,-81.733390808105,46.071445465088],"coordinates":[[[[-81.744286,46.057507],[-81.743858,46.071445],[-81.739479,46.059891],[-81.739822,46.056911],[-81.733391,46.035526],[-81.735191,46.034988],[-81.742569,46.036003],[-81.744286,46.057507]]]],"created":1292531167,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/119_20101216_1e31f174a1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

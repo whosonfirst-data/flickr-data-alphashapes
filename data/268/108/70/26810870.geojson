@@ -1,0 +1,15 @@
+{
+  "id": 26810870,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa Elisa, Central, Paraguay",
+    "placetype":"county",
+    "woe:id":26810870,
+    "woe:name":"Villa Elisa, Central, Paraguay",
+    "woe:place_id":"Rn5qJOabB5Rox9fDZA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-57.619858,-25.391954,-57.554626,-25.370396],
+  "geometry": {"alpha":0.0015,"bbox":[-57.619857788086,-25.391954421997,-57.554626464844,-25.3703956604],"coordinates":[[[[-57.605438,-25.370396],[-57.554626,-25.376446],[-57.588959,-25.385595],[-57.619858,-25.391954],[-57.613678,-25.382805],[-57.605438,-25.370396]]]],"created":1292530563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/26810870_20101216_a7006b7b3f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

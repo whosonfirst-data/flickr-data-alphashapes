@@ -1,0 +1,15 @@
+{
+  "id": 608185,
+  "type": "Feature",
+  "properties": {
+    "name":"Lingolsheim, Alsace, France",
+    "placetype":"locality",
+    "woe:id":608185,
+    "woe:name":"Lingolsheim, Alsace, France",
+    "woe:place_id":"s1fUtxefAZScCqU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.675495,48.554016,7.683144,48.563885],
+  "geometry": {"alpha":0.00015,"bbox":[7.6754951477051,48.554016113281,7.6831440925598,48.563884735107],"coordinates":[[[[7.681288,48.554016],[7.679786,48.556614],[7.675495,48.563885],[7.683144,48.555798],[7.681288,48.554016]]]],"created":1234676410,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3266/shapefiles/608185_20090215_87ec821b61.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2467633,
+  "type": "Feature",
+  "properties": {
+    "name":"Palisade, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2467633,
+    "woe:name":"Palisade, Nevada, United States",
+    "woe:place_id":"3rLggKGbBZqDz1yl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.218666,40.595833,-116.19677,40.612553],
+  "geometry": {"alpha":0.00015,"bbox":[-116.21866607666,40.595832824707,-116.19676971436,40.612552642822],"coordinates":[[[[-116.198044,40.60535],[-116.218666,40.595833],[-116.198341,40.6059],[-116.198189,40.611526],[-116.19677,40.612553],[-116.198044,40.60535]]]],"created":1292460368,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2467633_20101216_5a254a9f40.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

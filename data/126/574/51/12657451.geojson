@@ -1,0 +1,15 @@
+{
+  "id": 12657451,
+  "type": "Feature",
+  "properties": {
+    "name":"Boudou, France",
+    "placetype":"locality",
+    "woe:id":12657451,
+    "woe:name":"Boudou, France",
+    "woe:place_id":"CHP6NDeYA5qmGobMPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.026363,44.091553,1.028938,44.096584],
+  "geometry": {"alpha":1e-05,"bbox":[1.0263630151749,44.091552734375,1.0289380550385,44.096584320068],"coordinates":[[[[1.028723,44.092049],[1.027479,44.091553],[1.026363,44.094982],[1.028938,44.096584],[1.028723,44.092049]]]],"created":1292530064,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12657451_20101216_5a20efe71c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

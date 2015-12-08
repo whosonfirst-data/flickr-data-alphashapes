@@ -1,0 +1,15 @@
+{
+  "id": 2356555,
+  "type": "Feature",
+  "properties": {
+    "name":"Asherton, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2356555,
+    "woe:name":"Asherton, Texas, United States",
+    "woe:place_id":"0V76l02bApndBp0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.761742,28.441034,-99.758347,28.442995],
+  "geometry": {"alpha":0.00015,"bbox":[-99.761741638184,28.441034317017,-99.758346557617,28.442995071411],"coordinates":[[[[-99.760147,28.442034],[-99.760727,28.44239],[-99.761742,28.442995],[-99.75946,28.442316],[-99.758347,28.441034],[-99.760147,28.442034]]]],"created":1292440515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2356555_20101215_76a5c2a580.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

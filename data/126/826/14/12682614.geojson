@@ -1,0 +1,15 @@
+{
+  "id": 12682614,
+  "type": "Feature",
+  "properties": {
+    "name":"Ossimo, Italy",
+    "placetype":"locality",
+    "woe:id":12682614,
+    "woe:name":"Ossimo, Italy",
+    "woe:place_id":"CH43VZuYA5qpdgqICA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.204882,45.965885,10.208101,45.968662],
+  "geometry": {"alpha":1e-05,"bbox":[10.204881668091,45.965885162354,10.208101272583,45.968662261963],"coordinates":[[[[10.208101,45.965885],[10.205526,45.966637],[10.205354,45.9669],[10.204882,45.968662],[10.208101,45.965885]]]],"created":1292528463,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12682614_20101216_801786435b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

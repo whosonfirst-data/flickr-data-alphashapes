@@ -1,0 +1,15 @@
+{
+  "id": 12654626,
+  "type": "Feature",
+  "properties": {
+    "name":"Vitrac, France",
+    "placetype":"locality",
+    "woe:id":12654626,
+    "woe:name":"Vitrac, France",
+    "woe:place_id":"1sdDbzGYA5opBrFniA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.220008,44.826412,1.22549,44.832745],
+  "geometry": {"alpha":1e-05,"bbox":[1.2200080156326,44.826412200928,1.2254899740219,44.832744598389],"coordinates":[[[[1.222658,44.826412],[1.220008,44.830498],[1.224632,44.832684],[1.22549,44.832745],[1.224396,44.827568],[1.224589,44.826595],[1.222658,44.826412]]]],"created":1248075732,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3513/shapefiles/12654626_20090720_4ec3c7d9f5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

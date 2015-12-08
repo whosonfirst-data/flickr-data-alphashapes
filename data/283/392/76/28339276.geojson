@@ -1,0 +1,15 @@
+{
+  "id": 28339276,
+  "type": "Feature",
+  "properties": {
+    "name":"Mississippi Test Facility, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":28339276,
+    "woe:name":"Mississippi Test Facility, Mississippi, United States",
+    "woe:place_id":"8YNNMXKbCZ8HSYn1bw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.430771,30.298018,-89.409309,30.312431],
+  "geometry": {"alpha":0.00015,"bbox":[-89.430770874023,30.298017501831,-89.409309387207,30.312431335449],"coordinates":[[[[-89.413261,30.302946],[-89.409309,30.298018],[-89.427124,30.301834],[-89.430771,30.312431],[-89.414635,30.30917],[-89.413261,30.302946]]]],"created":1292521449,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/28339276_20101216_d07be3985c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

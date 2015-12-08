@@ -1,0 +1,15 @@
+{
+  "id": 12657847,
+  "type": "Feature",
+  "properties": {
+    "name":"La Souterraine, France",
+    "placetype":"locality",
+    "woe:id":12657847,
+    "woe:name":"La Souterraine, France",
+    "woe:place_id":"xshKOVOYA5rZQ245pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.479892,46.236347,1.486415,46.240265],
+  "geometry": {"alpha":1e-05,"bbox":[1.4798920154572,46.236347198486,1.4864150285721,46.240264892578],"coordinates":[[[[1.484999,46.237225],[1.483197,46.236347],[1.479892,46.238201],[1.483111,46.240265],[1.486415,46.238632],[1.484999,46.237225]]]],"created":1239428766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3549/shapefiles/12657847_20090411_20fe06969f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 4234,
+  "type": "Feature",
+  "properties": {
+    "name":"Ross River, Yukon Territory, Canada",
+    "placetype":"locality",
+    "woe:id":4234,
+    "woe:name":"Ross River, Yukon Territory, Canada",
+    "woe:place_id":"tcDuj2OdA58M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-132.454605,61.967335,-132.439499,61.988129],
+  "geometry": {"alpha":0.00015,"bbox":[-132.45460510254,61.967334747314,-132.43949890137,61.988128662109],"coordinates":[[[[-132.449799,61.985428],[-132.447906,61.988129],[-132.445587,61.987926],[-132.439499,61.967335],[-132.452805,61.977966],[-132.454605,61.979095],[-132.449799,61.985428]]]],"created":1292531168,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/4234_20101216_af60117497.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

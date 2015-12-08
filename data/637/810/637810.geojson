@@ -1,0 +1,15 @@
+{
+  "id": 637810,
+  "type": "Feature",
+  "properties": {
+    "name":"Beratzhausen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":637810,
+    "woe:name":"Beratzhausen, Bavaria, Germany",
+    "woe:place_id":"YI2jQxKfApt6A0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.804723,49.0872,11.814684,49.10006],
+  "geometry": {"alpha":0.00015,"bbox":[11.80472278595,49.087200164795,11.814683914185,49.100059509277],"coordinates":[[[[11.812877,49.095127],[11.814684,49.0872],[11.807899,49.09264],[11.806397,49.096268],[11.804723,49.10006],[11.808521,49.097378],[11.812877,49.095127]]]],"created":1292542861,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/637810_20101216_a8f9ef1280.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1100091,
+  "type": "Feature",
+  "properties": {
+    "name":"Bambaroo, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100091,
+    "woe:name":"Bambaroo, Queensland, Australia",
+    "woe:place_id":"MwUSGhqYAJyl2L2j",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.125626,-18.886147,146.139618,-18.869255],
+  "geometry": {"alpha":0.00015,"bbox":[146.12562561035,-18.88614654541,146.13961791992,-18.869255065918],"coordinates":[[[[146.132584,-18.873154],[146.139618,-18.886147],[146.129837,-18.883549],[146.125626,-18.878431],[146.125717,-18.869255],[146.13121,-18.871204],[146.132584,-18.873154]]]],"created":1292527504,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1100091_20101216_83b5f9a018.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

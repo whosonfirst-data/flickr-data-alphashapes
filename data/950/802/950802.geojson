@@ -1,0 +1,15 @@
+{
+  "id": 950802,
+  "type": "Feature",
+  "properties": {
+    "name":"Kalarritai, Ipiros, Greece",
+    "placetype":"locality",
+    "woe:id":950802,
+    "woe:name":"Kalarritai, Ipiros, Greece",
+    "woe:place_id":"y4n5nSCQBJzVOIM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.117268,39.578571,21.12829,39.58466],
+  "geometry": {"alpha":0.00015,"bbox":[21.117267608643,39.57857131958,21.128290176392,39.584659576416],"coordinates":[[[[21.122417,39.583729],[21.125378,39.58466],[21.12829,39.582294],[21.127562,39.578598],[21.123962,39.578571],[21.117268,39.583069],[21.122417,39.583729]]]],"created":1292528179,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/950802_20101216_48103d4627.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

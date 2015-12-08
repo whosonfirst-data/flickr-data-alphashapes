@@ -1,0 +1,15 @@
+{
+  "id": 26822524,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadtteil Harvestehude, Germany",
+    "placetype":"locality",
+    "woe:id":26822524,
+    "woe:name":"Stadtteil Harvestehude, Germany",
+    "woe:place_id":"wlkC04GbB5SIw4friw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.977732,53.572052,9.981589,53.576084],
+  "geometry": {"alpha":1e-05,"bbox":[9.9777317047119,53.572052001953,9.9815893173218,53.576084136963],"coordinates":[[[[9.97954,53.575302],[9.981589,53.576084],[9.979835,53.573418],[9.978212,53.572052],[9.977732,53.573128],[9.97954,53.575302]]]],"created":1292434322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/26822524_20101215_ac4cb04a5a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

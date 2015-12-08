@@ -1,0 +1,15 @@
+{
+  "id": 736143,
+  "type": "Feature",
+  "properties": {
+    "name":"Amieira, Portalegre, Portugal",
+    "placetype":"locality",
+    "woe:id":736143,
+    "woe:name":"Amieira, Portalegre, Portugal",
+    "woe:place_id":"HAaaHTOeApqHUN8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.827243,39.508907,-7.814369,39.526287],
+  "geometry": {"alpha":0.00015,"bbox":[-7.8272428512573,39.508907318115,-7.8143692016602,39.526287078857],"coordinates":[[[[-7.814369,39.512383],[-7.816214,39.508907],[-7.827243,39.51318],[-7.824282,39.518276],[-7.817459,39.526287],[-7.814369,39.512383]]]],"created":1234542367,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3427/shapefiles/736143_20090213_1f4f99eedc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

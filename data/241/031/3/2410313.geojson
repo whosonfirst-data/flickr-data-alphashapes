@@ -1,0 +1,15 @@
+{
+  "id": 2410313,
+  "type": "Feature",
+  "properties": {
+    "name":"Gillsville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2410313,
+    "woe:name":"Gillsville, Georgia, United States",
+    "woe:place_id":".J.4CrKbBZ3n3CqW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.626167,34.290237,-83.609932,34.307686],
+  "geometry": {"alpha":0.00015,"bbox":[-83.626167297363,34.290237426758,-83.609931945801,34.307685852051],"coordinates":[[[[-83.626167,34.302998],[-83.609932,34.307686],[-83.610931,34.299213],[-83.611389,34.295452],[-83.61203,34.290237],[-83.626167,34.302998]]]],"created":1292506925,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2410313_20101216_a380ef8674.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

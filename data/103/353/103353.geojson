@@ -1,0 +1,15 @@
+{
+  "id": 103353,
+  "type": "Feature",
+  "properties": {
+    "name":"La Paz, La Paz, Honduras",
+    "placetype":"locality",
+    "woe:id":103353,
+    "woe:name":"La Paz, La Paz, Honduras",
+    "woe:place_id":"4APoPQaYAZ.HIoM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.690125,14.299151,-87.681198,14.332417],
+  "geometry": {"alpha":0.00015,"bbox":[-87.690124511719,14.299151420593,-87.681198120117,14.332416534424],"coordinates":[[[[-87.689606,14.319943],[-87.689781,14.32144],[-87.681198,14.332417],[-87.681625,14.318529],[-87.682144,14.299151],[-87.690125,14.312541],[-87.689606,14.319943]]]],"created":1292524219,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/103353_20101216_bd04079558.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

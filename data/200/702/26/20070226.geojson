@@ -1,0 +1,15 @@
+{
+  "id": 20070226,
+  "type": "Feature",
+  "properties": {
+    "name":"Goycay, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070226,
+    "woe:name":"Goycay, AZ, Azerbaijan",
+    "woe:place_id":"kKYkDUebAZwCAmC3xA",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [47.719116,40.42186,48.010254,40.663071],
+  "geometry": {"alpha":0.03,"bbox":[47.719116210938,40.421859741211,48.01025390625,40.663070678711],"coordinates":[[[[47.719116,40.663071],[47.735767,40.659153],[47.966309,40.580585],[48.010254,40.438583],[47.944336,40.42186],[47.753887,40.492779],[47.719116,40.663071]]]],"created":1292529346,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20070226_20101216_4ea32c2a75.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

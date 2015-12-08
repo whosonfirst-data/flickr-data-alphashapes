@@ -1,0 +1,15 @@
+{
+  "id": 555999,
+  "type": "Feature",
+  "properties": {
+    "name":"Nygaard, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555999,
+    "woe:name":"Nygaard, Sjaelland, Denmark",
+    "woe:place_id":"v5xm53ScBJktPdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.630734,55.898415,11.664991,55.939182],
+  "geometry": {"alpha":0.0003662109375,"bbox":[11.630734443665,55.898414611816,11.664991378784,55.939182281494],"coordinates":[[[[11.633148,55.929394],[11.630734,55.939182],[11.63083,55.939106],[11.64555,55.919968],[11.664991,55.911308],[11.651,55.898415],[11.643447,55.917465],[11.633148,55.929394]]]],"created":1292510642,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/555999_20101216_bc15b6178b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2353620,
+  "type": "Feature",
+  "properties": {
+    "name":"Almonesson, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2353620,
+    "woe:name":"Almonesson, New Jersey, United States",
+    "woe:place_id":"vuGRDcibApnogUVu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.098984,39.817364,-75.090134,39.832764],
+  "geometry": {"alpha":0.00015,"bbox":[-75.098983764648,39.817363739014,-75.090133666992,39.832763671875],"coordinates":[[[[-75.098984,39.81892],[-75.097992,39.832764],[-75.090134,39.828297],[-75.095345,39.817661],[-75.095612,39.817364],[-75.098984,39.81892]]]],"created":1248208099,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2434/shapefiles/2353620_20090721_98fbff69b8.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

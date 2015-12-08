@@ -1,0 +1,15 @@
+{
+  "id": 26809164,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809164,
+    "woe:name":"San Antonio, Costa Rica",
+    "woe:place_id":"oaghIH.bB5SUJQO4Ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.249634,9.973573,-84.248611,9.974357],
+  "geometry": {"alpha":1e-05,"bbox":[-84.249633789062,9.9735727310181,-84.248611450195,9.9743566513062],"coordinates":[[[[-84.248611,9.974336],[-84.249634,9.973573],[-84.249275,9.974178],[-84.248863,9.974357],[-84.248611,9.974336]]]],"created":1247892244,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3518/shapefiles/26809164_20090718_cf53502eb3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

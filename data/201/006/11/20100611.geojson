@@ -1,0 +1,15 @@
+{
+  "id": 20100611,
+  "type": "Feature",
+  "properties": {
+    "name":"Vikinghytten, Hordaland Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":20100611,
+    "woe:name":"Vikinghytten, Hordaland Fylke, Norway",
+    "woe:place_id":"6.nuAeybAZ38mJ6gGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.390682,60.404781,5.410466,60.422665],
+  "geometry": {"alpha":0.00015,"bbox":[5.390682220459,60.404781341553,5.4104661941528,60.422664642334],"coordinates":[[[[5.40081,60.41148],[5.390682,60.422665],[5.40802,60.418427],[5.410466,60.404781],[5.40081,60.41148]]]],"created":1292384883,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20100611_20101215_db23bba62d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

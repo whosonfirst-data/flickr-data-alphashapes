@@ -1,0 +1,15 @@
+{
+  "id": 687885,
+  "type": "Feature",
+  "properties": {
+    "name":"Reitwein, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":687885,
+    "woe:name":"Reitwein, Brandenburg, Germany",
+    "woe:place_id":"7cX9KqKfCZsPHpc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.571775,52.498455,14.580745,52.501228],
+  "geometry": {"alpha":0.00015,"bbox":[14.571775436401,52.498455047607,14.580744743347,52.50122833252],"coordinates":[[[[14.578197,52.500847],[14.580745,52.501228],[14.58023,52.500755],[14.57593,52.499424],[14.571775,52.498455],[14.575694,52.499516],[14.578197,52.500847]]]],"created":1247933762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2582/shapefiles/687885_20090718_eecab7cd06.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

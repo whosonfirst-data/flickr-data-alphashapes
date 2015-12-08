@@ -1,0 +1,15 @@
+{
+  "id": 12649052,
+  "type": "Feature",
+  "properties": {
+    "name":"Merceuil, France",
+    "placetype":"locality",
+    "woe:id":12649052,
+    "woe:name":"Merceuil, France",
+    "woe:place_id":"aGvAIweYA5p7sMDPcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.83628,46.960949,4.837085,46.964664],
+  "geometry": {"alpha":1e-05,"bbox":[4.8362798690796,46.960948944092,4.8370847702026,46.964664459229],"coordinates":[[[[4.836666,46.964664],[4.836666,46.9645],[4.836695,46.962936],[4.837085,46.960949],[4.83628,46.962429],[4.836333,46.9645],[4.836666,46.964664]]]],"created":1292513343,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12649052_20101216_ce7bec0156.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

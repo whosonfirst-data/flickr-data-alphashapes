@@ -1,0 +1,15 @@
+{
+  "id": 706363,
+  "type": "Feature",
+  "properties": {
+    "name":"Wiesenburg, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":706363,
+    "woe:name":"Wiesenburg, Brandenburg, Germany",
+    "woe:place_id":"UO826V.eAZoePvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.449269,52.110901,12.454444,52.116665],
+  "geometry": {"alpha":0.00015,"bbox":[12.449269294739,52.110900878906,12.45444393158,52.116664886475],"coordinates":[[[[12.453056,52.112015],[12.449269,52.115097],[12.45,52.116665],[12.453346,52.114727],[12.454444,52.113304],[12.45415,52.110901],[12.453056,52.112015]]]],"created":1292538482,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/706363_20101216_eee3094056.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

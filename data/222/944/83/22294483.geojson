@@ -1,0 +1,15 @@
+{
+  "id": 22294483,
+  "type": "Feature",
+  "properties": {
+    "name":"Westerland Airport, Germany",
+    "placetype":"locality",
+    "woe:id":22294483,
+    "woe:name":"Westerland Airport, Germany",
+    "woe:place_id":"Alwh4DGbA54lM7NuZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.320974,54.896881,8.327319,54.900887],
+  "geometry": {"alpha":1e-05,"bbox":[8.3209743499756,54.896881103516,8.3273191452026,54.900886535645],"coordinates":[[[[8.324,54.896881],[8.320974,54.900887],[8.324122,54.899765],[8.326758,54.899788],[8.327319,54.899662],[8.324,54.896881]]]],"created":1292523564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/22294483_20101216_a221c9dd07.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

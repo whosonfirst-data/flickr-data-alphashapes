@@ -1,0 +1,15 @@
+{
+  "id": 12522141,
+  "type": "Feature",
+  "properties": {
+    "name":"Tillamook Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522141,
+    "woe:name":"Tillamook Airport, United States",
+    "woe:place_id":"1iTxgmCYA5mPcxCGBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.805618,45.419556,-123.801323,45.423485],
+  "geometry": {"alpha":1e-05,"bbox":[-123.80561828613,45.419555664062,-123.80132293701,45.423484802246],"coordinates":[[[[-123.804611,45.419556],[-123.805618,45.421272],[-123.803101,45.422718],[-123.801758,45.423485],[-123.801323,45.422455],[-123.801765,45.420956],[-123.801842,45.419659],[-123.804611,45.419556]]]],"created":1292499855,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12522141_20101216_a9605e32fd.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

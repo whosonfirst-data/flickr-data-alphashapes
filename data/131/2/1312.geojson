@@ -1,0 +1,15 @@
+{
+  "id": 1312,
+  "type": "Feature",
+  "properties": {
+    "name":"Red Lake, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1312,
+    "woe:name":"Red Lake, Ontario, Canada",
+    "woe:place_id":"uh49v.KYAp05",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.82856,51.018295,-93.812599,51.034161],
+  "geometry": {"alpha":0.00015,"bbox":[-93.828559875488,51.018295288086,-93.812599182129,51.034160614014],"coordinates":[[[[-93.812859,51.024338],[-93.812599,51.023689],[-93.816544,51.02219],[-93.820938,51.018295],[-93.822556,51.018936],[-93.82856,51.034161],[-93.819656,51.025139],[-93.814529,51.024635],[-93.812859,51.024338]]]],"created":1292542592,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/1312_20101216_554a9d356f.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

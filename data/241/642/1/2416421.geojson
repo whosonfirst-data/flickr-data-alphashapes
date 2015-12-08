@@ -1,0 +1,15 @@
+{
+  "id": 2416421,
+  "type": "Feature",
+  "properties": {
+    "name":"Hallsboro, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2416421,
+    "woe:name":"Hallsboro, North Carolina, United States",
+    "woe:place_id":"5yyBLrGbBZ1fFYFW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.606888,34.322235,-78.598564,34.333858],
+  "geometry": {"alpha":0.00015,"bbox":[-78.606887817383,34.322235107422,-78.598564147949,34.33385848999],"coordinates":[[[[-78.599625,34.322311],[-78.599937,34.322578],[-78.606888,34.333858],[-78.598564,34.322483],[-78.599281,34.322235],[-78.599625,34.322311]]]],"created":1292519912,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2416421_20101216_25c60593bb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

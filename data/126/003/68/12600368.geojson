@@ -1,0 +1,15 @@
+{
+  "id": 12600368,
+  "type": "Feature",
+  "properties": {
+    "name":"Joquicingo, Mexico, Mexico",
+    "placetype":"county",
+    "woe:id":12600368,
+    "woe:name":"Joquicingo, Mexico, Mexico",
+    "woe:place_id":"zqAFX_iYA5pVGvpoEQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-99.499908,19.008579,-99.463165,19.037373],
+  "geometry": {"alpha":0.0015,"bbox":[-99.499908447266,19.00857925415,-99.463165283203,19.037372589111],"coordinates":[[[[-99.480858,19.014652],[-99.484634,19.022038],[-99.499908,19.037373],[-99.463165,19.022833],[-99.468643,19.008579],[-99.480858,19.014652]]]],"created":1292452037,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12600368_20101215_4c904e023c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

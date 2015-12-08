@@ -1,0 +1,15 @@
+{
+  "id": 2437229,
+  "type": "Feature",
+  "properties": {
+    "name":"Lawndale, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2437229,
+    "woe:name":"Lawndale, North Carolina, United States",
+    "woe:place_id":"qgYGt.ubBZ9Hk81A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.570053,35.414097,-81.56044,35.434937],
+  "geometry": {"alpha":0.00015,"bbox":[-81.570053100586,35.414096832275,-81.560440063477,35.434936523438],"coordinates":[[[[-81.561813,35.415005],[-81.561516,35.414097],[-81.568504,35.4174],[-81.570053,35.419937],[-81.56044,35.434937],[-81.561813,35.415005]]]],"created":1292539799,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2437229_20101216_266e2ef2df.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 685663,
+  "type": "Feature",
+  "properties": {
+    "name":"Poppenhausen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":685663,
+    "woe:name":"Poppenhausen, Hesse, Germany",
+    "woe:place_id":"DF_p99afCZl2ptA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.86495,50.488129,9.878211,50.490551],
+  "geometry": {"alpha":0.00015,"bbox":[9.8649501800537,50.488128662109,9.8782110214233,50.490550994873],"coordinates":[[[[9.868,50.488129],[9.86495,50.489407],[9.868125,50.490551],[9.875335,50.489407],[9.878211,50.488613],[9.868,50.488129]]]],"created":1292548017,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/685663_20101217_75c8acb584.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

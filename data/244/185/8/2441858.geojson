@@ -1,0 +1,15 @@
+{
+  "id": 2441858,
+  "type": "Feature",
+  "properties": {
+    "name":"Lookout Heights, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2441858,
+    "woe:name":"Lookout Heights, Kentucky, United States",
+    "woe:place_id":"qL1xvUWbBZiAoDMb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.546989,39.05798,-84.537636,39.066292],
+  "geometry": {"alpha":0.00015,"bbox":[-84.546989440918,39.05797958374,-84.537635803223,39.066291809082],"coordinates":[[[[-84.537636,39.063377],[-84.538422,39.06105],[-84.540054,39.06065],[-84.545341,39.05798],[-84.546989,39.066292],[-84.537636,39.063377]]]],"created":1292551111,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2441858_20101217_6dd03ba35a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

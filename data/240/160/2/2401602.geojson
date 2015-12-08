@@ -1,0 +1,15 @@
+{
+  "id": 2401602,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairmount, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2401602,
+    "woe:name":"Fairmount, Maryland, United States",
+    "woe:place_id":"SXRECF6bBZw8Ghgh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.617867,39.541195,-77.612915,39.543499],
+  "geometry": {"alpha":0.00015,"bbox":[-77.617866516113,39.541194915771,-77.612915039062,39.54349899292],"coordinates":[[[[-77.615974,39.541195],[-77.617867,39.541653],[-77.615829,39.543499],[-77.612915,39.541779],[-77.615974,39.541195]]]],"created":1247983447,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2506/shapefiles/2401602_20090719_7897a3871e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

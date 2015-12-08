@@ -1,0 +1,15 @@
+{
+  "id": 468110,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosario, Colonia, Uruguay",
+    "placetype":"locality",
+    "woe:id":468110,
+    "woe:name":"Rosario, Colonia, Uruguay",
+    "woe:place_id":"YOFhzW2dB5SJC1I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-57.34314,-34.323521,-57.319279,-34.315369],
+  "geometry": {"alpha":0.00015,"bbox":[-57.343139648438,-34.3235206604,-57.319278717041,-34.315368652344],"coordinates":[[[[-57.340992,-34.323521],[-57.34314,-34.31707],[-57.337387,-34.315369],[-57.319279,-34.319481],[-57.333954,-34.319977],[-57.340992,-34.323521]]]],"created":1247806203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2003/shapefiles/468110_20090717_97c136f2cb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

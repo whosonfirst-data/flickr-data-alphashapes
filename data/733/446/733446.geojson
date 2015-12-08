@@ -1,0 +1,15 @@
+{
+  "id": 733446,
+  "type": "Feature",
+  "properties": {
+    "name":"Smeerling, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":733446,
+    "woe:name":"Smeerling, Groningen, Netherlands",
+    "woe:place_id":"7mp3sSKeAp.Kp60",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.07792,53.016331,7.094979,53.025772],
+  "geometry": {"alpha":0.00015,"bbox":[7.077919960022,53.016330718994,7.0949788093567,53.025772094727],"coordinates":[[[[7.07792,53.023289],[7.081997,53.025772],[7.093648,53.022362],[7.094979,53.017067],[7.093691,53.016331],[7.082319,53.018551],[7.07792,53.023289]]]],"created":1292484730,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/733446_20101216_c8ac5d1def.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

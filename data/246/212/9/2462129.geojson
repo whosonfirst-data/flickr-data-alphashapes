@@ -1,0 +1,15 @@
+{
+  "id": 2462129,
+  "type": "Feature",
+  "properties": {
+    "name":"Northwood, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2462129,
+    "woe:name":"Northwood, Iowa, United States",
+    "woe:place_id":"Bd.ZbVSbBZqQQTvx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.222794,43.441601,-93.214584,43.462952],
+  "geometry": {"alpha":0.00015,"bbox":[-93.222793579102,43.441600799561,-93.214584350586,43.462951660156],"coordinates":[[[[-93.22097,43.445316],[-93.222794,43.462952],[-93.214584,43.447224],[-93.215645,43.441601],[-93.221741,43.443821],[-93.22097,43.445316]]]],"created":1292533884,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2462129_20101216_53af30ff3c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

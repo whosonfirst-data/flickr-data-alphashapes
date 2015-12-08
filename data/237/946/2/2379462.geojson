@@ -1,0 +1,15 @@
+{
+  "id": 2379462,
+  "type": "Feature",
+  "properties": {
+    "name":"Chestnut Ridge, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2379462,
+    "woe:name":"Chestnut Ridge, Maryland, United States",
+    "woe:place_id":"_Zahx9ebAptdgDR4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.672379,38.998989,-76.646118,39.012581],
+  "geometry": {"alpha":0.00015,"bbox":[-76.672378540039,38.998989105225,-76.646118164062,39.012580871582],"coordinates":[[[[-76.669975,39.001068],[-76.672379,39.004246],[-76.662025,39.007748],[-76.646118,39.012581],[-76.653893,38.998989],[-76.669975,39.001068]]]],"created":1292527451,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2379462_20101216_e0c77ed5bb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

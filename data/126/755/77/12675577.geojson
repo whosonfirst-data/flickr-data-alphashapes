@@ -1,0 +1,15 @@
+{
+  "id": 12675577,
+  "type": "Feature",
+  "properties": {
+    "name":"Tulfes, Austria",
+    "placetype":"locality",
+    "woe:id":12675577,
+    "woe:name":"Tulfes, Austria",
+    "woe:place_id":"W5H0C82YA5pO0fVDZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.541996,47.24017,11.544592,47.241665],
+  "geometry": {"alpha":1e-05,"bbox":[11.541996002197,47.240169525146,11.544591903687,47.241664886475],"coordinates":[[[[11.544141,47.241665],[11.544592,47.241642],[11.544055,47.241322],[11.542832,47.24017],[11.541996,47.240345],[11.542146,47.240456],[11.544141,47.241665]]]],"created":1292536863,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12675577_20101216_91ecbb6a19.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

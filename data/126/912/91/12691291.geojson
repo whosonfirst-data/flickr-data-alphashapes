@@ -1,0 +1,15 @@
+{
+  "id": 12691291,
+  "type": "Feature",
+  "properties": {
+    "name":"Pedro Bernardo, Spain",
+    "placetype":"locality",
+    "woe:id":12691291,
+    "woe:name":"Pedro Bernardo, Spain",
+    "woe:place_id":"h.Nqnp.YA5o5_0sMvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.914665,40.241276,-4.909687,40.249004],
+  "geometry": {"alpha":1e-05,"bbox":[-4.914665222168,40.241275787354,-4.9096870422363,40.249004364014],"coordinates":[[[[-4.913291,40.241276],[-4.914665,40.243763],[-4.912433,40.244156],[-4.909687,40.249004],[-4.910566,40.243732],[-4.913291,40.241276]]]],"created":1292531392,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12691291_20101216_270d8e89e9.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

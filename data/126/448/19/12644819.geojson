@@ -1,0 +1,15 @@
+{
+  "id": 12644819,
+  "type": "Feature",
+  "properties": {
+    "name":"Greucourt, France",
+    "placetype":"locality",
+    "woe:id":12644819,
+    "woe:name":"Greucourt, France",
+    "woe:place_id":"gGD19B6YA5rCjAIRZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.868544,47.535355,5.8754,47.538094],
+  "geometry": {"alpha":1e-05,"bbox":[5.8685441017151,47.535354614258,5.8754000663757,47.538093566895],"coordinates":[[[[5.872428,47.538094],[5.8754,47.53706],[5.874123,47.535484],[5.872728,47.535355],[5.871505,47.537193],[5.868544,47.538006],[5.872428,47.538094]]]],"created":1292441344,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12644819_20101215_76091daf57.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

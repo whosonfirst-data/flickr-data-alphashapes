@@ -1,0 +1,15 @@
+{
+  "id": 12649211,
+  "type": "Feature",
+  "properties": {
+    "name":"Minzac, France",
+    "placetype":"locality",
+    "woe:id":12649211,
+    "woe:name":"Minzac, France",
+    "woe:place_id":"ZQdG9u6YA5qpjGVWyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.030167,44.949001,0.031333,44.951168],
+  "geometry": {"alpha":1e-05,"bbox":[0.030167000368237,44.949001312256,0.03133299946785,44.951168060303],"coordinates":[[[[0.031333,44.950832],[0.031167,44.9505],[0.030167,44.949001],[0.031,44.951168],[0.031333,44.950832]]]],"created":1292426043,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12649211_20101215_bc688d918e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

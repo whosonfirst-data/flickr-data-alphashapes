@@ -1,0 +1,15 @@
+{
+  "id": 12634833,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Gundremmingen, Germany",
+    "placetype":"locality",
+    "woe:id":12634833,
+    "woe:name":"Gemeinde Gundremmingen, Germany",
+    "woe:place_id":"WQ05MPWYA5oXAQMkRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.399932,48.505913,10.406112,48.508957],
+  "geometry": {"alpha":1e-05,"bbox":[10.399931907654,48.505912780762,10.406111717224,48.50895690918],"coordinates":[[[[10.403687,48.508957],[10.40564,48.506741],[10.406112,48.505913],[10.400855,48.506184],[10.399932,48.507221],[10.403687,48.508957]]]],"created":1292517563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12634833_20101216_048d0a28de.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 109026,
+  "type": "Feature",
+  "properties": {
+    "name":"Greencastle, Saint Catherine, Jamaica",
+    "placetype":"locality",
+    "woe:id":109026,
+    "woe:name":"Greencastle, Saint Catherine, Jamaica",
+    "woe:place_id":"MMTLZ0SYAZXiUUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.885071,17.948851,-76.872871,17.957737],
+  "geometry": {"alpha":0.00015,"bbox":[-76.885070800781,17.948850631714,-76.872871398926,17.957736968994],"coordinates":[[[[-76.879745,17.949747],[-76.885071,17.954403],[-76.883522,17.95677],[-76.875,17.957737],[-76.872871,17.952511],[-76.875801,17.948851],[-76.879745,17.949747]]]],"created":1292550361,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/109026_20101217_103174142b.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

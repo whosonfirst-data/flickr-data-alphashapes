@@ -1,0 +1,15 @@
+{
+  "id": 12678813,
+  "type": "Feature",
+  "properties": {
+    "name":"Colmurano, Italy",
+    "placetype":"locality",
+    "woe:id":12678813,
+    "woe:name":"Colmurano, Italy",
+    "woe:place_id":"e2tOqZ2YA5rlVZtFtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.356167,43.163158,13.360748,43.165684],
+  "geometry": {"alpha":1e-05,"bbox":[13.3561668396,43.163158416748,13.360748291016,43.165683746338],"coordinates":[[[[13.356167,43.163158],[13.356606,43.164036],[13.356697,43.165684],[13.360748,43.165623],[13.358302,43.164814],[13.357486,43.163681],[13.356167,43.163158]]]],"created":1292521379,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12678813_20101216_a87f779122.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

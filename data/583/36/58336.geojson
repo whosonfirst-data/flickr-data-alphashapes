@@ -1,0 +1,15 @@
+{
+  "id": 58336,
+  "type": "Feature",
+  "properties": {
+    "name":"Florencia, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":58336,
+    "woe:name":"Florencia, Alajuela, Costa Rica",
+    "woe:place_id":"7T2D3rOcCZ8y_w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.488808,10.35109,-84.47834,10.37968],
+  "geometry": {"alpha":0.00015,"bbox":[-84.488807678223,10.351090431213,-84.478340148926,10.379679679871],"coordinates":[[[[-84.483299,10.3667],[-84.488808,10.37968],[-84.480743,10.370309],[-84.47834,10.367269],[-84.486061,10.35109],[-84.483299,10.3667]]]],"created":1292538925,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/58336_20101216_0d0376c3be.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

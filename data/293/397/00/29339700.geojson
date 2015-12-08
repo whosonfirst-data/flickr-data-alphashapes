@@ -1,0 +1,15 @@
+{
+  "id": 29339700,
+  "type": "Feature",
+  "properties": {
+    "name":"Vernazzano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":29339700,
+    "woe:name":"Vernazzano, Umbria, Italy",
+    "woe:place_id":"VkiQDhibCJ8EvcPLNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.083759,43.191975,12.101638,43.201672],
+  "geometry": {"alpha":0.00015,"bbox":[12.083759307861,43.191974639893,12.101637840271,43.201671600342],"coordinates":[[[[12.101638,43.200951],[12.098511,43.197926],[12.083759,43.191975],[12.0932,43.201672],[12.095149,43.201241],[12.101638,43.200951]]]],"created":1292395322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/29339700_20101215_9ace947210.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

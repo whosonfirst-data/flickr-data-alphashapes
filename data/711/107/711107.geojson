@@ -1,0 +1,15 @@
+{
+  "id": 711107,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonavicina, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":711107,
+    "woe:name":"Bonavicina, Veneto, Italy",
+    "woe:place_id":"LBly2NyeAJ056G8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.15271,45.234192,11.171808,45.247822],
+  "geometry": {"alpha":0.00015,"bbox":[11.152709960938,45.234191894531,11.171808242798,45.247821807861],"coordinates":[[[[11.158032,45.236496],[11.15271,45.240726],[11.154899,45.243229],[11.169834,45.247822],[11.171808,45.234699],[11.167945,45.234192],[11.158032,45.236496]]]],"created":1292499131,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/711107_20101216_97d32ecfd2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

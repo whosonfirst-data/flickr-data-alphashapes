@@ -1,0 +1,15 @@
+{
+  "id": 20110724,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbaresco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20110724,
+    "woe:name":"Barbaresco, Piedmont, Italy",
+    "woe:place_id":"LmmHvhybAZ1LEsLFrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.079938,44.715702,8.084673,44.72739],
+  "geometry": {"alpha":0.00015,"bbox":[8.0799379348755,44.715702056885,8.0846729278564,44.727390289307],"coordinates":[[[[8.080524,44.726223],[8.08061,44.726673],[8.081036,44.72739],[8.083481,44.722221],[8.084673,44.715702],[8.079938,44.72377],[8.080524,44.726223]]]],"created":1292535417,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20110724_20101216_b14496899a.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

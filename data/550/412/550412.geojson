@@ -1,0 +1,15 @@
+{
+  "id": 550412,
+  "type": "Feature",
+  "properties": {
+    "name":"Achensee, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550412,
+    "woe:name":"Achensee, Tyrol, Austria",
+    "woe:place_id":"XVyVBQicBJwvksE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.692714,47.494007,11.721296,47.511288],
+  "geometry": {"alpha":0.00015,"bbox":[11.692713737488,47.494007110596,11.721296310425,47.511287689209],"coordinates":[[[[11.709795,47.498676],[11.702671,47.494007],[11.701297,47.50317],[11.692714,47.511288],[11.706447,47.507954],[11.721296,47.504738],[11.709795,47.498676]]]],"created":1292548446,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/550412_20101217_0865dd74fb.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

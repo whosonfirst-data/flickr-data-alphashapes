@@ -1,0 +1,15 @@
+{
+  "id": 725000,
+  "type": "Feature",
+  "properties": {
+    "name":"Torella del Sannio, Molise, Italy",
+    "placetype":"locality",
+    "woe:id":725000,
+    "woe:name":"Torella del Sannio, Molise, Italy",
+    "woe:place_id":"iLveVyWeA5laEpk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.519339,41.63229,14.522394,41.642113],
+  "geometry": {"alpha":0.00015,"bbox":[14.519338607788,41.632289886475,14.522394180298,41.642112731934],"coordinates":[[[[14.519339,41.6367],[14.519687,41.642113],[14.520181,41.640728],[14.522394,41.63229],[14.519339,41.6367]]]],"created":1292450993,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/725000_20101215_d3f2c6533a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

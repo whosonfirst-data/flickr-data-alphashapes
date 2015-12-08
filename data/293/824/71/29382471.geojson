@@ -1,0 +1,15 @@
+{
+  "id": 29382471,
+  "type": "Feature",
+  "properties": {
+    "name":"Alta Mora, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":29382471,
+    "woe:name":"Alta Mora, Faro, Portugal",
+    "woe:place_id":"R.BU_4abCJ_bajlsLg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.601165,37.282452,-7.588205,37.289692],
+  "geometry": {"alpha":0.00015,"bbox":[-7.6011648178101,37.282451629639,-7.5882048606873,37.289691925049],"coordinates":[[[[-7.597045,37.289486],[-7.588205,37.285423],[-7.601165,37.282452],[-7.599105,37.289146],[-7.599105,37.289692],[-7.597045,37.289486]]]],"created":1292519226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/29382471_20101216_e1d4bb994a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

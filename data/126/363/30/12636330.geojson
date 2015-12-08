@@ -1,0 +1,15 @@
+{
+  "id": 12636330,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Riesa, Germany",
+    "placetype":"locality",
+    "woe:id":12636330,
+    "woe:name":"Gemeinde Riesa, Germany",
+    "woe:place_id":"r6RDqPGYA5q880bBbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.31206,51.298725,13.31633,51.303265],
+  "geometry": {"alpha":1e-05,"bbox":[13.31206035614,51.298725128174,13.316329956055,51.30326461792],"coordinates":[[[[13.312875,51.302784],[13.31633,51.303265],[13.316166,51.298725],[13.31206,51.302547],[13.312554,51.302814],[13.312875,51.302784]]]],"created":1292494746,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12636330_20101216_594a44a209.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

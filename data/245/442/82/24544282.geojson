@@ -1,0 +1,15 @@
+{
+  "id": 24544282,
+  "type": "Feature",
+  "properties": {
+    "name":"Innachorio, Greece",
+    "placetype":"locality",
+    "woe:id":24544282,
+    "woe:name":"Innachorio, Greece",
+    "woe:place_id":"1PRH71CbBZk2DjBPdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.543701,35.325844,23.551426,35.329849],
+  "geometry": {"alpha":1e-05,"bbox":[23.543701171875,35.325843811035,23.551425933838,35.329849243164],"coordinates":[[[[23.548851,35.326889],[23.551426,35.329849],[23.549194,35.326328],[23.543701,35.325844],[23.548851,35.326889]]]],"created":1234870816,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3509/shapefiles/24544282_20090217_e579a5ec1a.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

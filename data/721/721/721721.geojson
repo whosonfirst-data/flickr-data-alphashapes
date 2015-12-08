@@ -1,0 +1,15 @@
+{
+  "id": 721721,
+  "type": "Feature",
+  "properties": {
+    "name":"Pupafratta, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":721721,
+    "woe:name":"Pupafratta, Tuscany, Italy",
+    "woe:place_id":"SV323GWeA50TLKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.411434,43.813377,10.417571,43.825348],
+  "geometry": {"alpha":0.00015,"bbox":[10.411434173584,43.813377380371,10.41757106781,43.825347900391],"coordinates":[[[[10.411434,43.820595],[10.417571,43.825348],[10.417313,43.824371],[10.416026,43.821369],[10.41476,43.819611],[10.412249,43.813377],[10.411434,43.820595]]]],"created":1292499242,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/721721_20101216_8943104977.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

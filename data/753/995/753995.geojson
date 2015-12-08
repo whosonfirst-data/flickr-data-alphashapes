@@ -1,0 +1,15 @@
+{
+  "id": 753995,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrio Batoy, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":753995,
+    "woe:name":"Barrio Batoy, Valencia, Spain",
+    "woe:place_id":"5t.E_TKeBJ8X6Fs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.503911,38.680691,-0.499706,38.686447],
+  "geometry": {"alpha":0.00015,"bbox":[-0.50391101837158,38.680690765381,-0.49970600008965,38.686447143555],"coordinates":[[[[-0.5,38.6833],[-0.500564,38.681221],[-0.50182,38.680691],[-0.503911,38.686447],[-0.499706,38.684135],[-0.5,38.6833]]]],"created":1292499191,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/753995_20101216_64be74bf07.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

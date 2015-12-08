@@ -1,0 +1,15 @@
+{
+  "id": 464849,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires Chico, Chubut, Argentina",
+    "placetype":"locality",
+    "woe:id":464849,
+    "woe:name":"Buenos Aires Chico, Chubut, Argentina",
+    "woe:place_id":"d2RLHfudB5idD6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.228996,-42.069302,-71.212692,-42.065796],
+  "geometry": {"alpha":0.00015,"bbox":[-71.228996276855,-42.069301605225,-71.212692260742,-42.065795898438],"coordinates":[[[[-71.223846,-42.065796],[-71.212692,-42.066628],[-71.224365,-42.069302],[-71.228996,-42.067646],[-71.223846,-42.065796]]]],"created":1234509124,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3309/shapefiles/464849_20090213_ea60d88f07.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

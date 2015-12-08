@@ -1,0 +1,15 @@
+{
+  "id": 20151234,
+  "type": "Feature",
+  "properties": {
+    "name":"Koviksudde, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151234,
+    "woe:name":"Koviksudde, Stockholm, Sweden",
+    "woe:place_id":"FQSb6mWbAZ0dcirwgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.272495,59.357346,18.371647,59.379814],
+  "geometry": {"alpha":0.0016276041666667,"bbox":[18.272495269775,59.357345581055,18.371646881104,59.379814147949],"coordinates":[[[[18.368252,59.379814],[18.370066,59.378361],[18.370396,59.377975],[18.371647,59.373318],[18.362961,59.367142],[18.347725,59.363953],[18.307343,59.357346],[18.286057,59.365044],[18.272495,59.363907],[18.288116,59.374489],[18.298416,59.375538],[18.308489,59.375496],[18.367819,59.379787],[18.368252,59.379814]]]],"created":1292550740,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/20151234_20101217_350a356ebb.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

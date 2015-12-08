@@ -1,0 +1,15 @@
+{
+  "id": 2357517,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2357517,
+    "woe:name":"Austin, Mississippi, United States",
+    "woe:place_id":"Gmq3nmObApmW.5iL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.431831,34.643726,-90.430809,34.644123],
+  "geometry": {"alpha":0.00015,"bbox":[-90.431831359863,34.643726348877,-90.430809020996,34.644123077393],"coordinates":[[[[-90.431831,34.643726],[-90.431801,34.643909],[-90.430809,34.644123],[-90.431091,34.643967],[-90.43148,34.64381],[-90.431831,34.643726]]]],"created":1292444489,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2357517_20101215_e951e90455.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

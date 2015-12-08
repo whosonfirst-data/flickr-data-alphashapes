@@ -1,0 +1,15 @@
+{
+  "id": 2500088,
+  "type": "Feature",
+  "properties": {
+    "name":"Stockton, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2500088,
+    "woe:name":"Stockton, Iowa, United States",
+    "woe:place_id":"YPOH7GGbBJxeQCIp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.863113,41.630325,-90.837708,41.640591],
+  "geometry": {"alpha":0.00015,"bbox":[-90.86311340332,41.630325317383,-90.837707519531,41.640590667725],"coordinates":[[[[-90.848694,41.640591],[-90.837708,41.632668],[-90.842514,41.630325],[-90.863113,41.633663],[-90.848694,41.640591]]]],"created":1292508004,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2500088_20101216_3ee7213e8e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

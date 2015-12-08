@@ -1,0 +1,15 @@
+{
+  "id": 2323503,
+  "type": "Feature",
+  "properties": {
+    "name":"Hopa, Artvin, Turkey",
+    "placetype":"locality",
+    "woe:id":2323503,
+    "woe:name":"Hopa, Artvin, Turkey",
+    "woe:place_id":"H31mVtmbAp4S_hrX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [41.418629,41.387756,41.44455,41.411194],
+  "geometry": {"alpha":0.00015,"bbox":[41.418628692627,41.387756347656,41.444549560547,41.411193847656],"coordinates":[[[[41.435558,41.40694],[41.418629,41.393551],[41.42807,41.408615],[41.439571,41.410225],[41.442833,41.411194],[41.44455,41.387756],[41.435558,41.40694]]]],"created":1292517245,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2323503_20101216_48162a3835.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

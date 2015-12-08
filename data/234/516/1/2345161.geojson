@@ -1,0 +1,15 @@
+{
+  "id": 2345161,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint Andrew, DM, Dominica",
+    "placetype":"region",
+    "woe:id":2345161,
+    "woe:name":"Saint Andrew, DM, Dominica",
+    "woe:place_id":"YKhMoZibApjCI.qN",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-61.391602,15.48561,-61.21582,15.665354],
+  "geometry": {"alpha":0.03,"bbox":[-61.3916015625,15.48561000824,-61.2158203125,15.665353775024],"coordinates":[[[[-61.277969,15.532661],[-61.281567,15.516833],[-61.303368,15.505461],[-61.337612,15.498265],[-61.369457,15.48561],[-61.391602,15.559544],[-61.381817,15.599394],[-61.380615,15.654775],[-61.21582,15.665354],[-61.277969,15.532661]]]],"created":1292449196,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2345161_20101215_dab0b28f13.tar.gz"},"points":90,"type":"MultiPolygon"}
+}

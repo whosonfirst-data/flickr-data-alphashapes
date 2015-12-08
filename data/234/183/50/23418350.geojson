@@ -1,0 +1,15 @@
+{
+  "id": 23418350,
+  "type": "Feature",
+  "properties": {
+    "name":"Red Butte, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":23418350,
+    "woe:name":"Red Butte, Wyoming, United States",
+    "woe:place_id":"l35yFtWbApieMyeCdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.439583,42.799431,-106.415718,42.818508],
+  "geometry": {"alpha":0.00015,"bbox":[-106.43958282471,42.799430847168,-106.41571807861,42.818508148193],"coordinates":[[[[-106.415718,42.810829],[-106.42569,42.804974],[-106.439583,42.799431],[-106.435371,42.818508],[-106.42868,42.812782],[-106.415718,42.810829]]]],"created":1292539983,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/23418350_20101216_abc481ac51.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

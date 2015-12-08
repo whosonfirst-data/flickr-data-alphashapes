@@ -1,0 +1,15 @@
+{
+  "id": 731597,
+  "type": "Feature",
+  "properties": {
+    "name":"Meerland, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":731597,
+    "woe:name":"Meerland, Groningen, Netherlands",
+    "woe:place_id":"HmDMj0yeAp2URLY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.046613,53.164116,7.058629,53.181866],
+  "geometry": {"alpha":0.00015,"bbox":[7.0466132164001,53.164115905762,7.0586290359497,53.181865692139],"coordinates":[[[[7.046613,53.174458],[7.048072,53.181866],[7.053565,53.179138],[7.058629,53.164116],[7.048673,53.172604],[7.046613,53.174458]]]],"created":1292532222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/731597_20101216_a7f2f04c0b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

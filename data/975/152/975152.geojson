@@ -1,0 +1,15 @@
+{
+  "id": 975152,
+  "type": "Feature",
+  "properties": {
+    "name":"Oosthoven, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":975152,
+    "woe:name":"Oosthoven, Antwerp, Belgium",
+    "woe:place_id":"ZJlemXiQBpmvGco",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.960026,51.331402,4.9736,51.342625],
+  "geometry": {"alpha":0.00015,"bbox":[4.9600257873535,51.331401824951,4.9735999107361,51.342624664307],"coordinates":[[[[4.970283,51.338818],[4.9736,51.336399],[4.960026,51.331402],[4.960327,51.332756],[4.960327,51.342625],[4.967831,51.339691],[4.970283,51.338818]]]],"created":1292506325,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/975152_20101216_29e273912e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

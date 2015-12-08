@@ -1,0 +1,15 @@
+{
+  "id": 2519670,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitehall Beach, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2519670,
+    "woe:name":"Whitehall Beach, Maryland, United States",
+    "woe:place_id":"ZZWYigybBJ0UEDDO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.439041,39.001457,-76.438393,39.004829],
+  "geometry": {"alpha":0.00015,"bbox":[-76.439041137695,39.001457214355,-76.43839263916,39.004829406738],"coordinates":[[[[-76.438568,39.00148],[-76.439041,39.001659],[-76.438911,39.004829],[-76.438393,39.001545],[-76.438416,39.001457],[-76.438568,39.00148]]]],"created":1292530876,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2519670_20101216_328b16d7d4.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

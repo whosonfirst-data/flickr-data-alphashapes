@@ -1,0 +1,15 @@
+{
+  "id": 332900,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vicente, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":332900,
+    "woe:name":"San Vicente, Buenos Aires, Argentina",
+    "woe:place_id":"4nzjbGSaAp7QwFk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.436878,-35.027607,-58.412159,-35.012211],
+  "geometry": {"alpha":0.00015,"bbox":[-58.436878204346,-35.027606964111,-58.412158966064,-35.012210845947],"coordinates":[[[[-58.422718,-35.012211],[-58.412159,-35.019512],[-58.417397,-35.027607],[-58.436878,-35.02113],[-58.436131,-35.01939],[-58.422718,-35.012211]]]],"created":1292504527,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/332900_20101216_34da6fb121.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

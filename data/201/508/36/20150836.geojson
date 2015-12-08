@@ -1,0 +1,15 @@
+{
+  "id": 20150836,
+  "type": "Feature",
+  "properties": {
+    "name":"Bergvik, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":20150836,
+    "woe:name":"Bergvik, Varmland, Sweden",
+    "woe:place_id":"8oMKihebAZ29HGHp9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.413963,59.369461,13.42417,59.374577],
+  "geometry": {"alpha":0.00015,"bbox":[13.413963317871,59.36946105957,13.424169540405,59.374576568604],"coordinates":[[[[13.42417,59.370937],[13.42246,59.369461],[13.413963,59.374577],[13.422203,59.374535],[13.422688,59.374432],[13.42417,59.370937]]]],"created":1292526786,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20150836_20101216_e3b304de8d.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

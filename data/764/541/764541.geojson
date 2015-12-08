@@ -1,0 +1,15 @@
+{
+  "id": 764541,
+  "type": "Feature",
+  "properties": {
+    "name":"Barracas, Murcia, Spain",
+    "placetype":"locality",
+    "woe:id":764541,
+    "woe:name":"Barracas, Murcia, Spain",
+    "woe:place_id":"4M4PMjqeB5jBu6c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.781402,37.606617,-0.770416,37.61277],
+  "geometry": {"alpha":0.00015,"bbox":[-0.78140199184418,37.606616973877,-0.77041602134705,37.612770080566],"coordinates":[[[[-0.770416,37.60825],[-0.773367,37.607056],[-0.778473,37.607159],[-0.781402,37.606617],[-0.776188,37.61277],[-0.770416,37.60825]]]],"created":1292447596,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/764541_20101215_67d3e997f6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

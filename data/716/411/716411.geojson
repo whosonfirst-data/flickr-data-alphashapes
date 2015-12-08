@@ -1,0 +1,15 @@
+{
+  "id": 716411,
+  "type": "Feature",
+  "properties": {
+    "name":"Gromo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":716411,
+    "woe:name":"Gromo, Lombardy, Italy",
+    "woe:place_id":"6PXVqx6eAJqPPEM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.920225,45.956638,9.937906,45.97591],
+  "geometry": {"alpha":0.00015,"bbox":[9.9202251434326,45.956638336182,9.9379062652588,45.975910186768],"coordinates":[[[[9.93098,45.968979],[9.937906,45.967216],[9.927263,45.965603],[9.920225,45.956638],[9.924945,45.966244],[9.924259,45.97591],[9.93098,45.968979]]]],"created":1292523536,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/716411_20101216_b97197b90e.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

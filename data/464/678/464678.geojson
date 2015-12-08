@@ -1,0 +1,15 @@
+{
+  "id": 464678,
+  "type": "Feature",
+  "properties": {
+    "name":"Argentina, Santiago del Estero, Argentina",
+    "placetype":"locality",
+    "woe:id":464678,
+    "woe:name":"Argentina, Santiago del Estero, Argentina",
+    "woe:place_id":"e4dkkMedB5gAWhc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.289047,-29.537991,-62.277,-29.52552],
+  "geometry": {"alpha":0.00015,"bbox":[-62.289047241211,-29.537990570068,-62.277000427246,-29.525520324707],"coordinates":[[[[-62.277,-29.537001],[-62.277878,-29.537989],[-62.277882,-29.537991],[-62.289047,-29.527761],[-62.281837,-29.52552],[-62.277,-29.537001]]]],"created":1292510468,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/464678_20101216_d2f1bcb7aa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

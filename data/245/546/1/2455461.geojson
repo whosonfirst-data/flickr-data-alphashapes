@@ -1,0 +1,15 @@
+{
+  "id": 2455461,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Sterling, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2455461,
+    "woe:name":"Mount Sterling, Alabama, United States",
+    "woe:place_id":"yu2YebebBZlFWDYJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.168083,32.094505,-88.161766,32.113476],
+  "geometry": {"alpha":0.00015,"bbox":[-88.168083190918,32.094505310059,-88.161766052246,32.113475799561],"coordinates":[[[[-88.168083,32.0951],[-88.167969,32.095554],[-88.161766,32.113476],[-88.166885,32.095974],[-88.167633,32.094505],[-88.168083,32.0951]]]],"created":1292500810,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2455461_20101216_c58f55c8d3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

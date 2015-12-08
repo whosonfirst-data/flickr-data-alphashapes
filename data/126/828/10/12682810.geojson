@@ -1,0 +1,15 @@
+{
+  "id": 12682810,
+  "type": "Feature",
+  "properties": {
+    "name":"Arbaz, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682810,
+    "woe:name":"Arbaz, Switzerland",
+    "woe:place_id":"VqiIjfuYA5qy4Kj.OA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.380924,46.297493,7.387063,46.302361],
+  "geometry": {"alpha":1e-05,"bbox":[7.3809242248535,46.297492980957,7.3870630264282,46.302360534668],"coordinates":[[[[7.385816,46.301441],[7.387063,46.301487],[7.386997,46.301281],[7.386444,46.300476],[7.380924,46.297493],[7.38234,46.302361],[7.385816,46.301441]]]],"created":1292520125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12682810_20101216_24e6b83ef4.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18976,
+  "type": "Feature",
+  "properties": {
+    "name":"East Guldeford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18976,
+    "woe:name":"East Guldeford, England, United Kingdom",
+    "woe:place_id":"NBzH25aYCZVLTw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.744323,50.948261,0.760717,50.969238],
+  "geometry": {"alpha":0.00015,"bbox":[0.74432301521301,50.948261260986,0.76071697473526,50.96923828125],"coordinates":[[[[0.75694,50.959885],[0.755481,50.948261],[0.749473,50.956196],[0.744323,50.967075],[0.748271,50.969238],[0.760717,50.968861],[0.75694,50.959885]]]],"created":1292539730,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/18976_20101216_871995b765.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

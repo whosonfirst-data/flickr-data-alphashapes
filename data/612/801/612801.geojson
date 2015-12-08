@@ -1,0 +1,15 @@
+{
+  "id": 612801,
+  "type": "Feature",
+  "properties": {
+    "name":"Montigny, Picardie, France",
+    "placetype":"locality",
+    "woe:id":612801,
+    "woe:name":"Montigny, Picardie, France",
+    "woe:place_id":"mOB2nmyfAJ6iWyk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.44214,49.978825,2.447719,49.981915],
+  "geometry": {"alpha":0.00015,"bbox":[2.4421401023865,49.978824615479,2.4477190971375,49.981914520264],"coordinates":[[[[2.444715,49.979294],[2.44214,49.981915],[2.444372,49.980591],[2.447719,49.978825],[2.445831,49.979183],[2.444715,49.979294]]]],"created":1292528891,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/612801_20101216_625db6da1b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

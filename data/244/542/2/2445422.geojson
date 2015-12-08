@@ -1,0 +1,15 @@
+{
+  "id": 2445422,
+  "type": "Feature",
+  "properties": {
+    "name":"Maquam, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2445422,
+    "woe:name":"Maquam, Vermont, United States",
+    "woe:place_id":"q2dklpabBZiv061t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.216064,44.922607,-73.158562,44.942322],
+  "geometry": {"alpha":0.5,"bbox":[-73.216064453125,44.922607421875,-73.158561706543,44.942321777344],"coordinates":[[[[-73.214073,44.923805],[-73.216064,44.928288],[-73.186714,44.942322],[-73.158562,44.922607],[-73.214073,44.923805]]]],"created":1248062171,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2480/shapefiles/2445422_20090720_c6be48c10e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

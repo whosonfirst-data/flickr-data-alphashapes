@@ -1,0 +1,15 @@
+{
+  "id": 2650,
+  "type": "Feature",
+  "properties": {
+    "name":"Deer Lake, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":2650,
+    "woe:name":"Deer Lake, Ontario, Canada",
+    "woe:place_id":"kDqB8LqbB5n4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.076439,52.619621,-94.053436,52.652489],
+  "geometry": {"alpha":0.00015,"bbox":[-94.076438903809,52.619621276855,-94.053436279297,52.652488708496],"coordinates":[[[[-94.065796,52.632854],[-94.076439,52.630146],[-94.074036,52.635822],[-94.057899,52.652489],[-94.053436,52.633636],[-94.054466,52.619621],[-94.065796,52.632854]]]],"created":1292451054,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2650_20101215_cd89c2df49.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

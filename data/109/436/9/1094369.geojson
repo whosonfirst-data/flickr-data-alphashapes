@@ -1,0 +1,15 @@
+{
+  "id": 1094369,
+  "type": "Feature",
+  "properties": {
+    "name":"Benobble, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1094369,
+    "woe:name":"Benobble, Queensland, Australia",
+    "woe:place_id":"FXoBGYKYAZUd.Hlc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.159744,-27.997614,153.18692,-27.988489],
+  "geometry": {"alpha":0.00015,"bbox":[153.1597442627,-27.99761390686,153.18692016602,-27.988489151001],"coordinates":[[[[153.184433,-27.988489],[153.18692,-27.988565],[153.183121,-27.997614],[153.159744,-27.99663],[153.181595,-27.993683],[153.18306,-27.990417],[153.184433,-27.988489]]]],"created":1292520968,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/1094369_20101216_90982117b8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

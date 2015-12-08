@@ -1,0 +1,15 @@
+{
+  "id": 12683009,
+  "type": "Feature",
+  "properties": {
+    "name":"Boniswil, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683009,
+    "woe:name":"Boniswil, Switzerland",
+    "woe:place_id":"7pGQf3WYA5qVsKWGkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.192689,47.323055,8.194105,47.324368],
+  "geometry": {"alpha":1e-05,"bbox":[8.1926889419556,47.323055267334,8.1941051483154,47.324367523193],"coordinates":[[[[8.192689,47.324368],[8.194019,47.323364],[8.194105,47.323055],[8.192861,47.323742],[8.192689,47.324368]]]],"created":1292530141,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12683009_20101216_8d31cbc6a7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

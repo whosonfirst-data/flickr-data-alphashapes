@@ -1,0 +1,15 @@
+{
+  "id": 12521748,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Teresa Airport, United States",
+    "placetype":"locality",
+    "woe:id":12521748,
+    "woe:name":"Santa Teresa Airport, United States",
+    "woe:place_id":"_9qmTdaYA5lbDu5iMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.701492,31.875006,-106.698357,31.876705],
+  "geometry": {"alpha":1e-05,"bbox":[-106.70149230957,31.875005722046,-106.69835662842,31.876705169678],"coordinates":[[[[-106.70076,31.875078],[-106.701492,31.875935],[-106.700539,31.876705],[-106.698357,31.875006],[-106.70076,31.875078]]]],"created":1292494626,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12521748_20101216_6c723b5792.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

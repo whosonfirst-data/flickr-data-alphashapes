@@ -1,0 +1,15 @@
+{
+  "id": 20076172,
+  "type": "Feature",
+  "properties": {
+    "name":"Clusone, Italy",
+    "placetype":"locality",
+    "woe:id":20076172,
+    "woe:name":"Clusone, Italy",
+    "woe:place_id":"EWO0ivGbAZwqEn4iLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.948978,45.887138,9.951896,45.890965],
+  "geometry": {"alpha":1e-05,"bbox":[9.9489784240723,45.887138366699,9.9518957138062,45.890964508057],"coordinates":[[[[9.948978,45.890965],[9.951896,45.890965],[9.950523,45.889408],[9.949235,45.887138],[9.948978,45.890125],[9.948978,45.890965]]]],"created":1248067802,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3519/shapefiles/20076172_20090720_a3839c646c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

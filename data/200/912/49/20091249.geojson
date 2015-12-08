@@ -1,0 +1,15 @@
+{
+  "id": 20091249,
+  "type": "Feature",
+  "properties": {
+    "name":"Nethermill, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091249,
+    "woe:name":"Nethermill, Scotland, United Kingdom",
+    "woe:place_id":"MP3Bo9ObAZyVFWWjrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.421747,55.172333,-3.405487,55.187099],
+  "geometry": {"alpha":0.00015,"bbox":[-3.421746969223,55.172332763672,-3.4054870605469,55.187099456787],"coordinates":[[[[-3.421747,55.175755],[-3.409023,55.187099],[-3.405487,55.181122],[-3.409167,55.172333],[-3.420655,55.174824],[-3.421747,55.175755]]]],"created":1292530950,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20091249_20101216_0c0fd79969.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

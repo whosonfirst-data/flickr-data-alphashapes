@@ -1,0 +1,15 @@
+{
+  "id": 838,
+  "type": "Feature",
+  "properties": {
+    "name":"Lavaltrie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":838,
+    "woe:name":"Lavaltrie, Quebec, Canada",
+    "woe:place_id":"sYeK4EWRApQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.294197,45.871113,-73.27317,45.887138],
+  "geometry": {"alpha":0.00015,"bbox":[-73.29419708252,45.871112823486,-73.273170471191,45.887138366699],"coordinates":[[[[-73.27317,45.883331],[-73.273331,45.883167],[-73.282021,45.873154],[-73.294197,45.871113],[-73.291168,45.887138],[-73.277611,45.884563],[-73.273331,45.883499],[-73.27317,45.883331]]]],"created":1248101648,"edges":8,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2660/shapefiles/838_20090720_bc1673fcfc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

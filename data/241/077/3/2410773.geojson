@@ -1,0 +1,15 @@
+{
+  "id": 2410773,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Echo, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2410773,
+    "woe:name":"Glen Echo, Colorado, United States",
+    "woe:place_id":"D01qeB.bBZ2HICzb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.608765,40.696941,-105.582695,40.710693],
+  "geometry": {"alpha":0.00015,"bbox":[-105.60876464844,40.696941375732,-105.58269500732,40.710693359375],"coordinates":[[[[-105.584961,40.703938],[-105.582695,40.699276],[-105.590584,40.69772],[-105.608765,40.696941],[-105.592888,40.710693],[-105.584961,40.703938]]]],"created":1292519885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2410773_20101216_d5a011fcdb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

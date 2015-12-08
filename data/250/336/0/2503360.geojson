@@ -1,0 +1,15 @@
+{
+  "id": 2503360,
+  "type": "Feature",
+  "properties": {
+    "name":"Sylvan View, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2503360,
+    "woe:name":"Sylvan View, Maryland, United States",
+    "woe:place_id":"HPjnRO6bBJwCDtT2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.469231,39.090099,-76.462204,39.091862],
+  "geometry": {"alpha":0.00015,"bbox":[-76.469230651855,39.090099334717,-76.462203979492,39.091861724854],"coordinates":[[[[-76.469162,39.091412],[-76.469231,39.091862],[-76.462204,39.090839],[-76.466904,39.090099],[-76.469162,39.091412]]]],"created":1292542243,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2503360_20101216_ce6c8ce98f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

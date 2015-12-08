@@ -1,0 +1,15 @@
+{
+  "id": 20161055,
+  "type": "Feature",
+  "properties": {
+    "name":"Saspow, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":20161055,
+    "woe:name":"Saspow, Brandenburg, Germany",
+    "woe:place_id":"4cuxMrSbAZ1wifcclQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.344668,51.784653,14.348475,51.786068],
+  "geometry": {"alpha":0.00015,"bbox":[14.344668388367,51.784652709961,14.348475456238,51.786067962646],"coordinates":[[[[14.348475,51.785721],[14.348244,51.785324],[14.34705,51.784653],[14.344668,51.784832],[14.344775,51.785061],[14.347597,51.786068],[14.348475,51.785721]]]],"created":1292508841,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20161055_20101216_503287e9d1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

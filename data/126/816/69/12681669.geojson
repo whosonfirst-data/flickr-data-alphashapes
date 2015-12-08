@@ -1,0 +1,15 @@
+{
+  "id": 12681669,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Rinaldo, Italy",
+    "placetype":"locality",
+    "woe:id":12681669,
+    "woe:name":"Monte Rinaldo, Italy",
+    "woe:place_id":"5zYCmxeYA5q6zcGlYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.578608,43.027546,13.580453,43.028713],
+  "geometry": {"alpha":1e-05,"bbox":[13.578607559204,43.027545928955,13.580452919006,43.028713226318],"coordinates":[[[[13.578994,43.027546],[13.578608,43.028141],[13.579316,43.028713],[13.580453,43.028393],[13.580056,43.027962],[13.578994,43.027546]]]],"created":1292488323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12681669_20101216_0eb8af08cc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

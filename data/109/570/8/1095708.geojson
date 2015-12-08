@@ -1,0 +1,15 @@
+{
+  "id": 1095708,
+  "type": "Feature",
+  "properties": {
+    "name":"Etna Creek, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1095708,
+    "woe:name":"Etna Creek, Queensland, Australia",
+    "woe:place_id":"YPm2kQSYAZVKyID9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.488235,-23.16589,150.491364,-23.164751],
+  "geometry": {"alpha":0.00015,"bbox":[150.48823547363,-23.16588973999,150.49136352539,-23.164751052856],"coordinates":[[[[150.490204,-23.164764],[150.490784,-23.165045],[150.491364,-23.165611],[150.488235,-23.16589],[150.488892,-23.165396],[150.489944,-23.164751],[150.490204,-23.164764]]]],"created":1292524911,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/1095708_20101216_f8eeed73cc.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

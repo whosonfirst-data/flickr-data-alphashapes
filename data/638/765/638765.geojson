@@ -1,0 +1,15 @@
+{
+  "id": 638765,
+  "type": "Feature",
+  "properties": {
+    "name":"Bieber, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":638765,
+    "woe:name":"Bieber, Hesse, Germany",
+    "woe:place_id":"30NFJiKfApS7rs4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.802891,50.087162,8.822193,50.092651],
+  "geometry": {"alpha":0.00015,"bbox":[8.8028907775879,50.087162017822,8.822193145752,50.092651367188],"coordinates":[[[[8.802891,50.08717],[8.805466,50.092651],[8.808802,50.090546],[8.822193,50.090878],[8.819789,50.087162],[8.802891,50.08717]]]],"created":1292439066,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/638765_20101215_762bec7949.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

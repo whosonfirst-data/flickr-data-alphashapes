@@ -1,0 +1,15 @@
+{
+  "id": 2403812,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Forks, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2403812,
+    "woe:name":"Five Forks, Virginia, United States",
+    "woe:place_id":"VWarf5CbBZxPv_n_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.832039,36.769211,-80.807251,36.7845],
+  "geometry": {"alpha":0.00015,"bbox":[-80.832038879395,36.76921081543,-80.807250976562,36.78450012207],"coordinates":[[[[-80.809166,36.771999],[-80.807251,36.770092],[-80.824013,36.769211],[-80.832039,36.7845],[-80.82032,36.77388],[-80.809166,36.771999]]]],"created":1292485866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2403812_20101216_e0a85e5d2e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

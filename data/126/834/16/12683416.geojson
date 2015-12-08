@@ -1,0 +1,15 @@
+{
+  "id": 12683416,
+  "type": "Feature",
+  "properties": {
+    "name":"Eschlikon, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683416,
+    "woe:name":"Eschlikon, Switzerland",
+    "woe:place_id":"vcvJN52YA5qSTr7LIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.9568,47.4529,8.9604,47.455101],
+  "geometry": {"alpha":1e-05,"bbox":[8.9568004608154,47.452899932861,8.9603996276855,47.455101013184],"coordinates":[[[[8.9576,47.453499],[8.9569,47.454601],[8.9568,47.455101],[8.9588,47.4538],[8.9604,47.4529],[8.9576,47.453499]]]],"created":1292533418,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12683416_20101216_6497a890ee.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

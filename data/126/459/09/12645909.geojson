@@ -1,0 +1,15 @@
+{
+  "id": 12645909,
+  "type": "Feature",
+  "properties": {
+    "name":"La Bourboule, France",
+    "placetype":"locality",
+    "woe:id":12645909,
+    "woe:name":"La Bourboule, France",
+    "woe:place_id":"6Zd945GYA5oSo1iMxw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.729501,45.578056,2.736944,45.579594],
+  "geometry": {"alpha":1e-05,"bbox":[2.7295010089874,45.578056335449,2.7369439601898,45.579593658447],"coordinates":[[[[2.735,45.579166],[2.735277,45.579445],[2.736944,45.578056],[2.735,45.578888],[2.729501,45.579594],[2.735,45.579166]]]],"created":1234729684,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3168/shapefiles/12645909_20090215_657c0fe723.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

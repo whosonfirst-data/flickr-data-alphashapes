@@ -1,0 +1,15 @@
+{
+  "id": 26793150,
+  "type": "Feature",
+  "properties": {
+    "name":"Guabito, Panama",
+    "placetype":"locality",
+    "woe:id":26793150,
+    "woe:name":"Guabito, Panama",
+    "woe:place_id":"S5qFOSybB5tXZJCgbA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.614609,9.496132,-82.611176,9.500365],
+  "geometry": {"alpha":1e-05,"bbox":[-82.614608764648,9.4961318969727,-82.611175537109,9.5003652572632],"coordinates":[[[[-82.613922,9.496386],[-82.614609,9.500365],[-82.613754,9.499519],[-82.613388,9.498583],[-82.611176,9.496132],[-82.613922,9.496386]]]],"created":1292521442,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/26793150_20101216_75d3edcb5f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

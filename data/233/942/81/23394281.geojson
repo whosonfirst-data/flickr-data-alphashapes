@@ -1,0 +1,15 @@
+{
+  "id": 23394281,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Calixte, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394281,
+    "woe:name":"St.-Calixte, Quebec, Canada",
+    "woe:place_id":"LxYPn56bAp.NK.mBxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.853874,45.949955,-73.846146,45.957596],
+  "geometry": {"alpha":0.00015,"bbox":[-73.853874206543,45.949954986572,-73.846145629883,45.957595825195],"coordinates":[[[[-73.849884,45.950611],[-73.853874,45.949955],[-73.851128,45.957596],[-73.846146,45.952492],[-73.849884,45.950611]]]],"created":1292529148,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/23394281_20101216_1b532b27b9.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

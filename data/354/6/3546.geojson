@@ -1,0 +1,15 @@
+{
+  "id": 3546,
+  "type": "Feature",
+  "properties": {
+    "name":"Cookshire, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3546,
+    "woe:name":"Cookshire, Quebec, Canada",
+    "woe:place_id":"4JNo7t6aBJhr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.635437,45.410984,-71.624908,45.41349],
+  "geometry": {"alpha":0.00015,"bbox":[-71.635437011719,45.410984039307,-71.624908447266,45.41349029541],"coordinates":[[[[-71.632446,45.412865],[-71.630096,45.41264],[-71.624908,45.41349],[-71.625366,45.413155],[-71.628967,45.412251],[-71.635437,45.410984],[-71.632446,45.412865]]]],"created":1292450276,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/3546_20101215_a44a372a53.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

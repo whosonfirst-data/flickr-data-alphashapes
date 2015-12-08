@@ -1,0 +1,15 @@
+{
+  "id": 12519293,
+  "type": "Feature",
+  "properties": {
+    "name":"Columbus Municipal Airport, United States",
+    "placetype":"locality",
+    "woe:id":12519293,
+    "woe:name":"Columbus Municipal Airport, United States",
+    "woe:place_id":"eB2oFrWYA5mBzdgYNg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.896454,39.255032,-85.895966,39.256599],
+  "geometry": {"alpha":1e-05,"bbox":[-85.896453857422,39.255031585693,-85.895965576172,39.25659942627],"coordinates":[[[[-85.896378,39.255844],[-85.895981,39.256599],[-85.895966,39.256027],[-85.896454,39.255032],[-85.896378,39.255844]]]],"created":1292470265,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12519293_20101216_0885b89d40.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23414844,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":23414844,
+    "woe:name":"San Francisco, Galicia, Spain",
+    "woe:place_id":"CW7Wiq.bAphLR4s6mA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.0802,42.755077,-9.063463,42.762012],
+  "geometry": {"alpha":0.00015,"bbox":[-9.0802001953125,42.755077362061,-9.0634632110596,42.762012481689],"coordinates":[[[[-9.072818,42.758102],[-9.0802,42.755077],[-9.076595,42.759365],[-9.07166,42.762012],[-9.063463,42.759174],[-9.070587,42.758484],[-9.072818,42.758102]]]],"created":1292530125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/23414844_20101216_8ef8b85765.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

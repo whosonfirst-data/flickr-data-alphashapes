@@ -1,0 +1,15 @@
+{
+  "id": 2517571,
+  "type": "Feature",
+  "properties": {
+    "name":"West Pittsburg, California, United States",
+    "placetype":"locality",
+    "woe:id":2517571,
+    "woe:name":"West Pittsburg, California, United States",
+    "woe:place_id":"gicV_8ebBJ1K8WsS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.949554,38.021385,-121.926956,38.028622],
+  "geometry": {"alpha":0.00015,"bbox":[-121.94955444336,38.021385192871,-121.92695617676,38.028621673584],"coordinates":[[[[-121.949532,38.02639],[-121.945152,38.028488],[-121.926956,38.028622],[-121.94558,38.026501],[-121.949554,38.021385],[-121.949532,38.02639]]]],"created":1239404525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3623/shapefiles/2517571_20090410_b2f977b77f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

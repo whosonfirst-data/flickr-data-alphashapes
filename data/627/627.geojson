@@ -1,0 +1,15 @@
+{
+  "id": 627,
+  "type": "Feature",
+  "properties": {
+    "name":"Hanley, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":627,
+    "woe:name":"Hanley, Saskatchewan, Canada",
+    "woe:place_id":"UNkskqafA5s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.446617,51.625519,-106.438293,51.645695],
+  "geometry": {"alpha":0.00015,"bbox":[-106.44661712646,51.625518798828,-106.43829345703,51.645694732666],"coordinates":[[[[-106.438293,51.628567],[-106.438507,51.625519],[-106.443703,51.627769],[-106.446617,51.645695],[-106.438293,51.628567]]]],"created":1292438011,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/627_20101215_4cceddce35.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

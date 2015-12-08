@@ -1,0 +1,15 @@
+{
+  "id": 624825,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Jean, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":624825,
+    "woe:name":"St-Jean, Rhone-Alpes, France",
+    "woe:place_id":"pmPrgd.fA5itGcU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.285775,45.014313,5.303478,45.030891],
+  "geometry": {"alpha":0.00015,"bbox":[5.2857751846313,45.014312744141,5.3034777641296,45.030891418457],"coordinates":[[[[5.290603,45.020519],[5.303478,45.030891],[5.298285,45.014313],[5.292034,45.015816],[5.285775,45.019108],[5.2882,45.020763],[5.290603,45.020519]]]],"created":1292540660,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/624825_20101216_d83e53c923.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

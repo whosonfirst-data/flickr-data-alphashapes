@@ -1,0 +1,15 @@
+{
+  "id": 773266,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrio de S Pedro, Extremadura, Spain",
+    "placetype":"locality",
+    "woe:id":773266,
+    "woe:name":"Barrio de S Pedro, Extremadura, Spain",
+    "woe:place_id":"o83xzfmeBp9EDY0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.295458,39.368385,-7.283248,39.380688],
+  "geometry": {"alpha":0.00015,"bbox":[-7.2954578399658,39.368385314941,-7.2832479476929,39.380687713623],"coordinates":[[[[-7.294321,39.370022],[-7.294363,39.369888],[-7.295458,39.368385],[-7.29475,39.370235],[-7.283248,39.380688],[-7.294321,39.370022]]]],"created":1292475845,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/773266_20101216_262e8afaf0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

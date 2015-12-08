@@ -1,0 +1,15 @@
+{
+  "id": 1192198,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Ana, Central Luzon, Philippines",
+    "placetype":"locality",
+    "woe:id":1192198,
+    "woe:name":"Santa Ana, Central Luzon, Philippines",
+    "woe:place_id":"PAKDQbmYAJWlGPyL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.754852,15.090936,120.767555,15.105272],
+  "geometry": {"alpha":0.00015,"bbox":[120.75485229492,15.090935707092,120.76755523682,15.105272293091],"coordinates":[[[[120.767555,15.093007],[120.765663,15.090936],[120.765152,15.091101],[120.761032,15.099305],[120.754852,15.105272],[120.766701,15.1],[120.767555,15.093007]]]],"created":1292542968,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/1192198_20101216_a298923a41.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

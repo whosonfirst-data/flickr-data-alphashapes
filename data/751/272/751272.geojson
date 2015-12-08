@@ -1,0 +1,15 @@
+{
+  "id": 751272,
+  "type": "Feature",
+  "properties": {
+    "name":"Abedules, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":751272,
+    "woe:name":"Abedules, Asturias, Spain",
+    "woe:place_id":"m1HcMzSeBJ2VluM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.489044,43.531624,-5.475332,43.550934],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4890441894531,43.531623840332,-5.4753317832947,43.550933837891],"coordinates":[[[[-5.481028,43.550934],[-5.476341,43.550041],[-5.475332,43.536797],[-5.481491,43.531624],[-5.489044,43.545063],[-5.481028,43.550934]]]],"created":1292467081,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/751272_20101216_09471c06af.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

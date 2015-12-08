@@ -1,0 +1,15 @@
+{
+  "id": 692026,
+  "type": "Feature",
+  "properties": {
+    "name":"Schlaifhausen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":692026,
+    "woe:name":"Schlaifhausen, Bavaria, Germany",
+    "woe:place_id":"2KXhNbCfCJ5_sIc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.151294,49.710606,11.158161,49.720684],
+  "geometry": {"alpha":0.00015,"bbox":[11.151293754578,49.710605621338,11.15816116333,49.720684051514],"coordinates":[[[[11.152469,49.720432],[11.153976,49.720554],[11.154808,49.720684],[11.158161,49.710606],[11.151294,49.719585],[11.151707,49.719975],[11.152469,49.720432]]]],"created":1292491688,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/692026_20101216_25d526fbee.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12518068,
+  "type": "Feature",
+  "properties": {
+    "name":"Cranfield Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518068,
+    "woe:name":"Cranfield Airport, United Kingdom",
+    "woe:place_id":"IO.wb1GYA5me0diLlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.627937,52.065971,-0.617637,52.073597],
+  "geometry": {"alpha":1e-05,"bbox":[-0.62793701887131,52.065971374512,-0.61763697862625,52.073596954346],"coordinates":[[[[-0.626564,52.067581],[-0.627937,52.068058],[-0.626735,52.071461],[-0.624847,52.072437],[-0.62313,52.073597],[-0.617637,52.072647],[-0.623302,52.070774],[-0.624032,52.065971],[-0.626564,52.067581]]]],"created":1292450881,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12518068_20101215_b87db3e68c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2429843,
+  "type": "Feature",
+  "properties": {
+    "name":"Jones Valley, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2429843,
+    "woe:name":"Jones Valley, Maryland, United States",
+    "woe:place_id":"87LQl9abBZ4tmavV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.666199,39.382244,-76.661469,39.385727],
+  "geometry": {"alpha":0.00015,"bbox":[-76.666198730469,39.382244110107,-76.661468505859,39.385726928711],"coordinates":[[[[-76.661469,39.383873],[-76.66275,39.382244],[-76.666199,39.385727],[-76.664955,39.38512],[-76.661469,39.383873]]]],"created":1292500689,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2429843_20101216_b630e7a8a0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

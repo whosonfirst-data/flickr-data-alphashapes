@@ -1,0 +1,15 @@
+{
+  "id": 20150680,
+  "type": "Feature",
+  "properties": {
+    "name":"Lidatrop, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20150680,
+    "woe:name":"Lidatrop, Stockholm, Sweden",
+    "woe:place_id":"PUEdXjGbAZ2SgTMbow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.970007,58.94976,17.978609,58.964363],
+  "geometry": {"alpha":0.00015,"bbox":[17.970006942749,58.949760437012,17.978609085083,58.964363098145],"coordinates":[[[[17.978609,58.94976],[17.972055,58.951939],[17.970007,58.957169],[17.974115,58.964363],[17.978609,58.94976]]]],"created":1292495282,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/20150680_20101216_f137afdc78.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

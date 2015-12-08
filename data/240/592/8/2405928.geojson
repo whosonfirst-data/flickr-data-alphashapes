@@ -1,0 +1,15 @@
+{
+  "id": 2405928,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Robinson, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2405928,
+    "woe:name":"Fort Robinson, Pennsylvania, United States",
+    "woe:place_id":"ne8At7SbBZxOrxpV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.382027,40.358856,-77.372749,40.360409],
+  "geometry": {"alpha":0.00015,"bbox":[-77.382026672363,40.358856201172,-77.372749328613,40.360408782959],"coordinates":[[[[-77.380531,40.358856],[-77.381813,40.359657],[-77.382027,40.360409],[-77.373306,40.36005],[-77.372749,40.359303],[-77.380531,40.358856]]]],"created":1292543286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2405928_20101216_efdc83f8ef.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

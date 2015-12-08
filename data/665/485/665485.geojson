@@ -1,0 +1,15 @@
+{
+  "id": 665485,
+  "type": "Feature",
+  "properties": {
+    "name":"Kemtau, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":665485,
+    "woe:name":"Kemtau, Saxony, Germany",
+    "woe:place_id":"AjB7LP.fB5lBF24",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.958352,50.734646,12.966324,50.738544],
+  "geometry": {"alpha":0.00015,"bbox":[12.958352088928,50.734645843506,12.966323852539,50.738544464111],"coordinates":[[[[12.958352,50.736835],[12.960333,50.738335],[12.960852,50.738544],[12.966324,50.735462],[12.9637,50.735134],[12.958642,50.734646],[12.958352,50.736835]]]],"created":1292505366,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/665485_20101216_8624155526.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

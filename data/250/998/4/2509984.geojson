@@ -1,0 +1,15 @@
+{
+  "id": 2509984,
+  "type": "Feature",
+  "properties": {
+    "name":"Unionville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2509984,
+    "woe:name":"Unionville, Maryland, United States",
+    "woe:place_id":"NhKZ8w2bBJwcna2i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.139633,38.803028,-76.125809,38.828274],
+  "geometry": {"alpha":0.00015,"bbox":[-76.139633178711,38.803028106689,-76.12580871582,38.828273773193],"coordinates":[[[[-76.13607,38.803028],[-76.139633,38.821739],[-76.127441,38.828274],[-76.12764,38.811489],[-76.125809,38.80547],[-76.13607,38.803028]]]],"created":1292551506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2509984_20101217_0cfcff9533.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20150203,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbiano, Bologna, ER, IT, Italy",
+    "placetype":"neighbourhood",
+    "woe:id":20150203,
+    "woe:name":"Barbiano, Bologna, ER, IT, Italy",
+    "woe:place_id":"lHvCJS.bAZ06AVei1A",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [11.342353,44.450401,11.351398,44.461231],
+  "geometry": {"alpha":1e-05,"bbox":[11.342352867126,44.450401306152,11.351398468018,44.461231231689],"coordinates":[[[[11.351398,44.456604],[11.35128,44.455349],[11.348834,44.451488],[11.342782,44.450401],[11.348619,44.452591],[11.342353,44.452286],[11.346302,44.455563],[11.344413,44.461231],[11.348018,44.460739],[11.350421,44.45927],[11.351398,44.456604]]]],"created":1292520254,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/20150203_20101216_c4332e2021.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

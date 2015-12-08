@@ -1,0 +1,15 @@
+{
+  "id": 20123148,
+  "type": "Feature",
+  "properties": {
+    "name":"Dagnente, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20123148,
+    "woe:name":"Dagnente, Piedmont, Italy",
+    "woe:place_id":"BJM1fcCbAZ1KRkSEgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.534853,45.767761,8.550796,45.78207],
+  "geometry": {"alpha":0.00015,"bbox":[8.5348529815674,45.767761230469,8.5507955551147,45.782070159912],"coordinates":[[[[8.537063,45.781891],[8.550796,45.767761],[8.536546,45.779202],[8.536366,45.779579],[8.535153,45.781651],[8.534853,45.78207],[8.537063,45.781891]]]],"created":1292526796,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20123148_20101216_0fd24c411a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

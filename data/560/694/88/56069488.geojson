@@ -1,0 +1,15 @@
+{
+  "id": 56069488,
+  "type": "Feature",
+  "properties": {
+    "name":"Granja, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":56069488,
+    "woe:name":"Granja, Lisbon, Portugal",
+    "woe:place_id":".7sfgsecB5yJ3qTiiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.34267,38.826069,-9.327564,38.837158],
+  "geometry": {"alpha":0.00015,"bbox":[-9.3426704406738,38.826068878174,-9.327564239502,38.837158203125],"coordinates":[[[[-9.341576,38.837143],[-9.341297,38.836739],[-9.327564,38.826069],[-9.34267,38.83329],[-9.341812,38.837158],[-9.341576,38.837143]]]],"created":1292548472,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/56069488_20101217_7ae8ca28e5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

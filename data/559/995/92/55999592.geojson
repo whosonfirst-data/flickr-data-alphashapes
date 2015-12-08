@@ -1,0 +1,15 @@
+{
+  "id": 55999592,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria, Shelburne, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999592,
+    "woe:name":"Victoria, Shelburne, ON, CA, Canada",
+    "woe:place_id":"Cz3uHvecBJWg01VgaA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.878632,43.758217,-79.877296,43.759193],
+  "geometry": {"alpha":1e-05,"bbox":[-79.878631591797,43.75821685791,-79.877296447754,43.75919342041],"coordinates":[[[[-79.878502,43.758743],[-79.878159,43.759193],[-79.877296,43.758217],[-79.878632,43.758369],[-79.878502,43.758743]]]],"created":1292543452,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/55999592_20101216_198d3610da.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602623,
+  "type": "Feature",
+  "properties": {
+    "name":"Meise, Belgium",
+    "placetype":"locality",
+    "woe:id":12602623,
+    "woe:name":"Meise, Belgium",
+    "woe:place_id":".PCVi.6YA5qUr64giw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.325866,50.9342,4.329841,50.939823],
+  "geometry": {"alpha":1e-05,"bbox":[4.3258662223816,50.934200286865,4.3298411369324,50.939823150635],"coordinates":[[[[4.326553,50.939175],[4.327926,50.939823],[4.329299,50.938095],[4.329841,50.935459],[4.325866,50.9342],[4.326553,50.939175]]]],"created":1292537288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1389/shapefiles/12602623_20101216_b822e29e8a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

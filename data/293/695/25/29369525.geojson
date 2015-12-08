@@ -1,0 +1,15 @@
+{
+  "id": 29369525,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant Pau, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":29369525,
+    "woe:name":"Sant Pau, Valencia, Spain",
+    "woe:place_id":"clPpSpqbCJ.dT8t5GA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.007896,40.343239,-0.005836,40.346283],
+  "geometry": {"alpha":0.00015,"bbox":[-0.0078959995880723,40.343238830566,-0.005836000200361,40.346282958984],"coordinates":[[[[-0.007424,40.34396],[-0.007896,40.346149],[-0.005836,40.346283],[-0.006952,40.343239],[-0.007424,40.34396]]]],"created":1292473204,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/29369525_20101216_7512542932.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2507111,
+  "type": "Feature",
+  "properties": {
+    "name":"Tony, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2507111,
+    "woe:name":"Tony, Wisconsin, United States",
+    "woe:place_id":"XTaDHW2bBJwskwMh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.000443,45.472771,-90.992027,45.492786],
+  "geometry": {"alpha":0.00015,"bbox":[-91.000442504883,45.472770690918,-90.992027282715,45.492786407471],"coordinates":[[[[-91.000443,45.472771],[-90.997589,45.492786],[-90.99704,45.492268],[-90.992027,45.482784],[-91.000443,45.472771]]]],"created":1234490644,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3351/shapefiles/2507111_20090213_5c6e2c235d.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12645905,
+  "type": "Feature",
+  "properties": {
+    "name":"La Boulaye, France",
+    "placetype":"locality",
+    "woe:id":12645905,
+    "woe:name":"La Boulaye, France",
+    "woe:place_id":"VN1pJHyYA5qdPIAmoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.137039,46.754211,4.140729,46.756348],
+  "geometry": {"alpha":1e-05,"bbox":[4.1370391845703,46.754211425781,4.1407289505005,46.75634765625],"coordinates":[[[[4.139955,46.755844],[4.140729,46.754475],[4.137039,46.754211],[4.138197,46.756348],[4.139955,46.755844]]]],"created":1292539826,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12645905_20101216_b05dca2d50.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

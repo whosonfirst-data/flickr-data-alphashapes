@@ -1,0 +1,15 @@
+{
+  "id": 769493,
+  "type": "Feature",
+  "properties": {
+    "name":"Sta Eulalia, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":769493,
+    "woe:name":"Sta Eulalia, Galicia, Spain",
+    "woe:place_id":"d4LCIN2eB5UZ0X0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.398739,42.668552,-8.393297,42.674633],
+  "geometry": {"alpha":0.00015,"bbox":[-8.398738861084,42.668552398682,-8.3932971954346,42.674633026123],"coordinates":[[[[-8.393554,42.674633],[-8.393297,42.674515],[-8.395614,42.668552],[-8.398739,42.672981],[-8.394895,42.674595],[-8.393554,42.674633]]]],"created":1292545568,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/769493_20101217_e1a35dd6fb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

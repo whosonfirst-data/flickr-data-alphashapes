@@ -1,0 +1,15 @@
+{
+  "id": 651825,
+  "type": "Feature",
+  "properties": {
+    "name":"Gehofen, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":651825,
+    "woe:name":"Gehofen, Thuringia, Germany",
+    "woe:place_id":"Bd1O06OfBJ1XdnE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.312656,51.319771,11.323964,51.333614],
+  "geometry": {"alpha":0.00015,"bbox":[11.312656402588,51.319770812988,11.323964118958,51.333614349365],"coordinates":[[[[11.315488,51.321922],[11.312656,51.323002],[11.317977,51.333614],[11.323964,51.31979],[11.323921,51.319771],[11.315488,51.321922]]]],"created":1292491992,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/651825_20101216_c97882f13e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

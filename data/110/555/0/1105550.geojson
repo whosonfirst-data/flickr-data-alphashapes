@@ -1,0 +1,15 @@
+{
+  "id": 1105550,
+  "type": "Feature",
+  "properties": {
+    "name":"Shelley, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105550,
+    "woe:name":"Shelley, Victoria, Australia",
+    "woe:place_id":"7NzPtdWYAJz4z2bn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.532227,-36.183956,147.543045,-36.170254],
+  "geometry": {"alpha":0.00015,"bbox":[147.5322265625,-36.18395614624,147.54304504395,-36.170253753662],"coordinates":[[[[147.532242,-36.170269],[147.532227,-36.170254],[147.532257,-36.170277],[147.543045,-36.173428],[147.5354,-36.183956],[147.532242,-36.170269]]]],"created":1292525386,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/1105550_20101216_22912e46cc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

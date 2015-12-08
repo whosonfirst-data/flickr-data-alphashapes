@@ -1,0 +1,15 @@
+{
+  "id": 2354296,
+  "type": "Feature",
+  "properties": {
+    "name":"Amesville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2354296,
+    "woe:name":"Amesville, Ohio, United States",
+    "woe:place_id":"wgEUFQGbAplKxEvO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.960327,39.399921,-81.954834,39.400852],
+  "geometry": {"alpha":0.00015,"bbox":[-81.960327148438,39.399921417236,-81.954833984375,39.400852203369],"coordinates":[[[[-81.956207,39.400852],[-81.954834,39.400566],[-81.955666,39.400368],[-81.957008,39.400082],[-81.960327,39.399921],[-81.956207,39.400852]]]],"created":1292500145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2354296_20101216_aa4c8c33a9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

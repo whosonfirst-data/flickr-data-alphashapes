@@ -1,0 +1,15 @@
+{
+  "id": 22755218,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Jean-Lachalm, France",
+    "placetype":"locality",
+    "woe:id":22755218,
+    "woe:name":"St.-Jean-Lachalm, France",
+    "woe:place_id":"uqWgrJGbA5uIdrPAeA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.712218,44.953972,3.714402,44.96006],
+  "geometry": {"alpha":1e-05,"bbox":[3.7122180461884,44.953971862793,3.7144019603729,44.960060119629],"coordinates":[[[[3.713758,44.96006],[3.714402,44.960003],[3.713958,44.95924],[3.714399,44.953972],[3.712218,44.959492],[3.713758,44.96006]]]],"created":1247891528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2480/shapefiles/22755218_20090718_12d2932f1b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

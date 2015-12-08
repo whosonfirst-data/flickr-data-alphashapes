@@ -1,0 +1,15 @@
+{
+  "id": 2334646,
+  "type": "Feature",
+  "properties": {
+    "name":"Pazar, Rize, Turkey",
+    "placetype":"locality",
+    "woe:id":2334646,
+    "woe:name":"Pazar, Rize, Turkey",
+    "woe:place_id":"kgzy5KKbAp.XTar0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [40.90313,41.131737,40.916603,41.146152],
+  "geometry": {"alpha":0.00015,"bbox":[40.903129577637,41.131736755371,40.916603088379,41.146152496338],"coordinates":[[[[40.916603,41.143566],[40.90313,41.131737],[40.909737,41.144405],[40.913685,41.146152],[40.915745,41.145504],[40.916603,41.145054],[40.916603,41.143566]]]],"created":1292456524,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2334646_20101215_7733070d51.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

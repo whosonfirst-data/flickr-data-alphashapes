@@ -1,0 +1,15 @@
+{
+  "id": 37883,
+  "type": "Feature",
+  "properties": {
+    "name":"Town Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37883,
+    "woe:name":"Town Green, England, United Kingdom",
+    "woe:place_id":"LBwinf2aBpSZeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.911623,53.543316,-2.906591,53.546745],
+  "geometry": {"alpha":0.00015,"bbox":[-2.9116230010986,53.543315887451,-2.9065909385681,53.546745300293],"coordinates":[[[[-2.9076,53.545509],[-2.906591,53.543335],[-2.909188,53.543316],[-2.911623,53.543846],[-2.908372,53.546745],[-2.9076,53.545509]]]],"created":1292446862,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/37883_20101215_cf951963ab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

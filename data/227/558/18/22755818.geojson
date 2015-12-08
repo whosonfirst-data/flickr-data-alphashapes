@@ -1,0 +1,15 @@
+{
+  "id": 22755818,
+  "type": "Feature",
+  "properties": {
+    "name":"La Saulce, France",
+    "placetype":"locality",
+    "woe:id":22755818,
+    "woe:name":"La Saulce, France",
+    "woe:place_id":"Q1_u19qbA5tIsPYCUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.013641,44.423912,6.01716,44.429611],
+  "geometry": {"alpha":1e-05,"bbox":[6.0136408805847,44.42391204834,6.0171599388123,44.429611206055],"coordinates":[[[[6.016235,44.429081],[6.013641,44.423912],[6.014885,44.429153],[6.015594,44.429581],[6.01716,44.429611],[6.016235,44.429081]]]],"created":1292539324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/22755818_20101216_471974b890.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

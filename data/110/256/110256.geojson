@@ -1,0 +1,15 @@
+{
+  "id": 110256,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitehouse, Westmoreland, Jamaica",
+    "placetype":"locality",
+    "woe:id":110256,
+    "woe:name":"Whitehouse, Westmoreland, Jamaica",
+    "woe:place_id":"SsuiwPuYAJzRzrM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.967735,18.068188,-77.952118,18.092583],
+  "geometry": {"alpha":0.00015,"bbox":[-77.967735290527,18.068187713623,-77.952117919922,18.092582702637],"coordinates":[[[[-77.966705,18.081161],[-77.966698,18.0833],[-77.967735,18.092583],[-77.962418,18.089401],[-77.960526,18.08573],[-77.952118,18.07243],[-77.955719,18.068188],[-77.966705,18.081161]]]],"created":1292459078,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/110256_20101216_fbb1356e57.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20111935,
+  "type": "Feature",
+  "properties": {
+    "name":"Boleto, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20111935,
+    "woe:name":"Boleto, Piedmont, Italy",
+    "woe:place_id":"S8szCribAZ149CsLhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.367896,45.782158,8.374777,45.794819],
+  "geometry": {"alpha":0.00015,"bbox":[8.3678960800171,45.782157897949,8.37477684021,45.794818878174],"coordinates":[[[[8.374777,45.788403],[8.374199,45.788158],[8.367896,45.782158],[8.36935,45.792423],[8.369629,45.793488],[8.370723,45.794819],[8.374777,45.788403]]]],"created":1292549829,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/20111935_20101217_806d295313.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

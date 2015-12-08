@@ -1,0 +1,15 @@
+{
+  "id": 762601,
+  "type": "Feature",
+  "properties": {
+    "name":"Inestrillas, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":762601,
+    "woe:name":"Inestrillas, La Rioja, Spain",
+    "woe:place_id":"hSLET5OeB57nvto",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.987495,41.969849,-1.984105,41.971745],
+  "geometry": {"alpha":0.00015,"bbox":[-1.9874949455261,41.969848632812,-1.9841049909592,41.971744537354],"coordinates":[[[[-1.987495,41.971359],[-1.987152,41.971745],[-1.984105,41.970722],[-1.984959,41.969849],[-1.985864,41.969955],[-1.987495,41.971359]]]],"created":1292439841,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/762601_20101215_73268ec0db.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

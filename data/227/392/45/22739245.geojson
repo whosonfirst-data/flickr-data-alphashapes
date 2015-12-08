@@ -1,0 +1,15 @@
+{
+  "id": 22739245,
+  "type": "Feature",
+  "properties": {
+    "name":"Wagstaffe, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22739245,
+    "woe:name":"Wagstaffe, New South Wales, Australia",
+    "woe:place_id":"nkxSN3.bA5vidumnaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.332977,-33.527058,151.345886,-33.517677],
+  "geometry": {"alpha":0.00015,"bbox":[151.33297729492,-33.527057647705,151.34588623047,-33.517677307129],"coordinates":[[[[151.339767,-33.520069],[151.343628,-33.518604],[151.34581,-33.517677],[151.345886,-33.527058],[151.332977,-33.523991],[151.335983,-33.520359],[151.339767,-33.520069]]]],"created":1292538738,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/22739245_20101216_c719619ec0.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683497,
+  "type": "Feature",
+  "properties": {
+    "name":"Egerkingen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683497,
+    "woe:name":"Egerkingen, Switzerland",
+    "woe:place_id":"UdZE2sGYA5pveO8r0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.802588,47.317726,7.805485,47.319435],
+  "geometry": {"alpha":1e-05,"bbox":[7.8025879859924,47.317726135254,7.8054847717285,47.319435119629],"coordinates":[[[[7.804884,47.317726],[7.802588,47.317837],[7.803629,47.318314],[7.805485,47.319435],[7.804884,47.317726]]]],"created":1248121568,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2427/shapefiles/12683497_20090720_f4fe7778a3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

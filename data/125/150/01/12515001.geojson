@@ -1,0 +1,15 @@
+{
+  "id": 12515001,
+  "type": "Feature",
+  "properties": {
+    "name":"Malacca Airport, Malaysia",
+    "placetype":"locality",
+    "woe:id":12515001,
+    "woe:name":"Malacca Airport, Malaysia",
+    "woe:place_id":"2q8hS.2YA5npdBfGMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [102.248039,2.255819,102.251129,2.260569],
+  "geometry": {"alpha":1e-05,"bbox":[102.24803924561,2.2558190822601,102.25112915039,2.2605690956116],"coordinates":[[[[102.248039,2.260065],[102.249672,2.260569],[102.250343,2.259936],[102.251129,2.255819],[102.248039,2.260065]]]],"created":1292548628,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12515001_20101217_0eb691c01d.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

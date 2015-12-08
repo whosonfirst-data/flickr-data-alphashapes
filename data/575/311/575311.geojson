@@ -1,0 +1,15 @@
+{
+  "id": 575311,
+  "type": "Feature",
+  "properties": {
+    "name":"Abaucourt, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":575311,
+    "woe:name":"Abaucourt, Lorraine, France",
+    "woe:place_id":"HdE2aCOcBpkoUgY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.256027,48.895535,6.257915,48.897621],
+  "geometry": {"alpha":0.00015,"bbox":[6.2560272216797,48.895534515381,6.257915019989,48.897621154785],"coordinates":[[[[6.2574,48.897621],[6.257872,48.897587],[6.257915,48.897339],[6.257663,48.895535],[6.256027,48.896606],[6.257057,48.897621],[6.2574,48.897621]]]],"created":1292504947,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/575311_20101216_d596999eb2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

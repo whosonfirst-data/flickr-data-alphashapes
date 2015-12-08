@@ -1,0 +1,15 @@
+{
+  "id": 28339618,
+  "type": "Feature",
+  "properties": {
+    "name":"Dover, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":28339618,
+    "woe:name":"Dover, New Jersey, United States",
+    "woe:place_id":"yn6pb6mbCZ_RoOOp2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.203033,39.951332,-74.19175,39.960808],
+  "geometry": {"alpha":0.00015,"bbox":[-74.203033447266,39.951332092285,-74.191749572754,39.960807800293],"coordinates":[[[[-74.196724,39.951561],[-74.197365,39.951332],[-74.198021,39.953449],[-74.203033,39.960808],[-74.196251,39.955017],[-74.19175,39.953537],[-74.196724,39.951561]]]],"created":1292545147,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/28339618_20101217_522bea6310.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

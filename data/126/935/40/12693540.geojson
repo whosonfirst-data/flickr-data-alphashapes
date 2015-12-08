@@ -1,0 +1,15 @@
+{
+  "id": 12693540,
+  "type": "Feature",
+  "properties": {
+    "name":"Perafita, Spain",
+    "placetype":"locality",
+    "woe:id":12693540,
+    "woe:name":"Perafita, Spain",
+    "woe:place_id":"1hT_A.CYA5r7LedTpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.105104,42.041985,2.109031,42.045593],
+  "geometry": {"alpha":1e-05,"bbox":[2.105103969574,42.041984558105,2.1090309619904,42.045593261719],"coordinates":[[[[2.108345,42.04464],[2.109031,42.043682],[2.107014,42.042233],[2.106209,42.041985],[2.105104,42.042362],[2.108001,42.045593],[2.108345,42.04464]]]],"created":1292525716,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12693540_20101216_bc9371ef4d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

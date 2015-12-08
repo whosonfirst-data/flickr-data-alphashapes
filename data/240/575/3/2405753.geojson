@@ -1,0 +1,15 @@
+{
+  "id": 2405753,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Jennings, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2405753,
+    "woe:name":"Fort Jennings, Ohio, United States",
+    "woe:place_id":"a6ZaP3CbBZyM6c1Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.300453,40.902309,-84.288246,40.908371],
+  "geometry": {"alpha":0.00015,"bbox":[-84.300453186035,40.902309417725,-84.288246154785,40.90837097168],"coordinates":[[[[-84.292686,40.902374],[-84.300453,40.902309],[-84.295471,40.904762],[-84.294945,40.904987],[-84.288246,40.908371],[-84.292686,40.902374]]]],"created":1226583851,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3252/shapefiles/2405753_20081113_70fb049687.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 56041572,
+  "type": "Feature",
+  "properties": {
+    "name":"Fabrica, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":56041572,
+    "woe:name":"Fabrica, Faro, Portugal",
+    "woe:place_id":"AmHjKUOcB5yktoTBKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.56443,37.145676,-7.551555,37.158127],
+  "geometry": {"alpha":0.00015,"bbox":[-7.5644302368164,37.14567565918,-7.5515551567078,37.158126831055],"coordinates":[[[[-7.551555,37.154366],[-7.555847,37.147045],[-7.56443,37.145676],[-7.55928,37.152927],[-7.555847,37.158127],[-7.551555,37.154366]]]],"created":1292537145,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/56041572_20101216_1544d050f7.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

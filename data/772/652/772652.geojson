@@ -1,0 +1,15 @@
+{
+  "id": 772652,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":772652,
+    "woe:name":"San Antonio, Valencia, Spain",
+    "woe:place_id":"pdAKLv6eBp4iDwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.23818,38.522163,-0.238094,38.522518],
+  "geometry": {"alpha":0.00015,"bbox":[-0.23817999660969,38.522163391113,-0.23809400200844,38.522518157959],"coordinates":[[[[-0.238094,38.522182],[-0.238137,38.522163],[-0.23818,38.522484],[-0.238169,38.522518],[-0.238094,38.522182]]]],"created":1292443894,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/772652_20101215_833c2e1c4e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

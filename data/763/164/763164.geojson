@@ -1,0 +1,15 @@
+{
+  "id": 763164,
+  "type": "Feature",
+  "properties": {
+    "name":"La Cardonera, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":763164,
+    "woe:name":"La Cardonera, Canary Islands, Spain",
+    "woe:place_id":"LaFBiuGeB58euCc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.369286,28.305325,-16.362591,28.31715],
+  "geometry": {"alpha":0.00015,"bbox":[-16.369285583496,28.305324554443,-16.362590789795,28.317150115967],"coordinates":[[[[-16.369114,28.315147],[-16.369286,28.316923],[-16.368469,28.31715],[-16.368298,28.315035],[-16.362591,28.305325],[-16.369114,28.315147]]]],"created":1292411525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/763164_20101215_0dd1fba09e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2363728,
+  "type": "Feature",
+  "properties": {
+    "name":"Beverly, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2363728,
+    "woe:name":"Beverly, Ohio, United States",
+    "woe:place_id":"4XLMtDybApqZoAqm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.65136,39.54792,-81.633652,39.556946],
+  "geometry": {"alpha":0.00015,"bbox":[-81.651359558105,39.547920227051,-81.633651733398,39.556945800781],"coordinates":[[[[-81.64241,39.556206],[-81.633652,39.54792],[-81.636955,39.548134],[-81.641289,39.548183],[-81.65136,39.556946],[-81.643837,39.55629],[-81.64241,39.556206]]]],"created":1292544650,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2363728_20101217_847aa733fd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

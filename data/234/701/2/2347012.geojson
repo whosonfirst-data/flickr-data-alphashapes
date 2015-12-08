@@ -1,0 +1,15 @@
+{
+  "id": 2347012,
+  "type": "Feature",
+  "properties": {
+    "name":"Hiiraan, SO, Somalia",
+    "placetype":"region",
+    "woe:id":2347012,
+    "woe:name":"Hiiraan, SO, Somalia",
+    "woe:place_id":"R3thHsWbApgDkYDW",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [45.153809,4.580702,45.246162,4.754788],
+  "geometry": {"alpha":0.03,"bbox":[45.15380859375,4.5807018280029,45.246162414551,4.7547879219055],"coordinates":[[[[45.186768,4.707828],[45.153809,4.746149],[45.179214,4.754788],[45.246162,4.749534],[45.245991,4.737558],[45.245132,4.580702],[45.186768,4.707828]]]],"created":1292526258,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2347012_20101216_73dc3368e1.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

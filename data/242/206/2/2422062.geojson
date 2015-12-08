@@ -1,0 +1,15 @@
+{
+  "id": 2422062,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillsboro, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2422062,
+    "woe:name":"Hillsboro, Georgia, United States",
+    "woe:place_id":"wDWTzyubBZ5_yglR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.64119,33.176937,-83.638054,33.179684],
+  "geometry": {"alpha":0.00015,"bbox":[-83.641189575195,33.176937103271,-83.638053894043,33.179683685303],"coordinates":[[[[-83.639572,33.176945],[-83.640343,33.178066],[-83.64119,33.179684],[-83.638054,33.17815],[-83.639526,33.176937],[-83.639572,33.176945]]]],"created":1292448391,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2422062_20101215_cb8cfa3df6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

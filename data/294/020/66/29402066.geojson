@@ -1,0 +1,15 @@
+{
+  "id": 29402066,
+  "type": "Feature",
+  "properties": {
+    "name":"Hlohovec, Slovakia",
+    "placetype":"locality",
+    "woe:id":29402066,
+    "woe:name":"Hlohovec, Slovakia",
+    "woe:place_id":"SHuh2iWbCJhsZvpzlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.784817,48.416042,17.794247,48.422977],
+  "geometry": {"alpha":1e-05,"bbox":[17.784816741943,48.416042327881,17.794246673584,48.42297744751],"coordinates":[[[[17.784817,48.422977],[17.789225,48.420029],[17.794247,48.417496],[17.790941,48.416042],[17.789225,48.420029],[17.78944,48.42157],[17.784817,48.422977]]]],"created":1292509690,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/29402066_20101216_8461dae6b6.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

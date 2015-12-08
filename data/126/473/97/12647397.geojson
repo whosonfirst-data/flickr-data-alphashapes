@@ -1,0 +1,15 @@
+{
+  "id": 12647397,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Manoir, France",
+    "placetype":"locality",
+    "woe:id":12647397,
+    "woe:name":"Le Manoir, France",
+    "woe:place_id":"x1KobcyYA5rNhX3g.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.210985,49.299297,1.215469,49.307346],
+  "geometry": {"alpha":1e-05,"bbox":[1.2109849452972,49.299297332764,1.2154690027237,49.307346343994],"coordinates":[[[[1.214321,49.300419],[1.21313,49.299297],[1.210985,49.301689],[1.211242,49.307346],[1.21313,49.303104],[1.215469,49.301807],[1.214321,49.300419]]]],"created":1292551150,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12647397_20101217_17668f0f1f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

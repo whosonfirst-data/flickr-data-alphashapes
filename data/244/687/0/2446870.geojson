@@ -1,0 +1,15 @@
+{
+  "id": 2446870,
+  "type": "Feature",
+  "properties": {
+    "name":"Matovich, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2446870,
+    "woe:name":"Matovich, Maryland, United States",
+    "woe:place_id":"OUUR6bGbBZgSdZXa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.452583,39.291855,-77.440224,39.295086],
+  "geometry": {"alpha":0.00015,"bbox":[-77.452583312988,39.291854858398,-77.440223693848,39.295085906982],"coordinates":[[[[-77.441338,39.294918],[-77.440224,39.293289],[-77.441658,39.291855],[-77.44606,39.292397],[-77.452583,39.295086],[-77.441338,39.294918]]]],"created":1292526907,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2446870_20101216_31dc7b6122.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

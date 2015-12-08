@@ -1,0 +1,15 @@
+{
+  "id": 12665495,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Paul, France",
+    "placetype":"locality",
+    "woe:id":12665495,
+    "woe:name":"St.-Paul, France",
+    "woe:place_id":"LGO77eOYA5roSkKkHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.819749,45.660126,5.822753,45.664326],
+  "geometry": {"alpha":1e-05,"bbox":[5.819748878479,45.660125732422,5.8227529525757,45.664325714111],"coordinates":[[[[5.821691,45.660919],[5.820779,45.660248],[5.819749,45.660126],[5.821286,45.662888],[5.822753,45.664326],[5.821691,45.660919]]]],"created":1292454803,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12665495_20101215_2a823131df.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

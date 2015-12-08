@@ -1,0 +1,15 @@
+{
+  "id": 113705,
+  "type": "Feature",
+  "properties": {
+    "name":"Buena Vista, Baja California, Mexico",
+    "placetype":"locality",
+    "woe:id":113705,
+    "woe:name":"Buena Vista, Baja California, Mexico",
+    "woe:place_id":"e_zMe16YAJ8nVr4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.684845,32.476711,-116.678406,32.486668],
+  "geometry": {"alpha":0.00015,"bbox":[-116.6848449707,32.476711273193,-116.67840576172,32.486667633057],"coordinates":[[[[-116.684845,32.477348],[-116.680557,32.48267],[-116.678406,32.486668],[-116.680252,32.476711],[-116.684845,32.477348]]]],"created":1247805484,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2451/shapefiles/113705_20090717_04e6a9e0c6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

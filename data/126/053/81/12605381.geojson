@@ -1,0 +1,15 @@
+{
+  "id": 12605381,
+  "type": "Feature",
+  "properties": {
+    "name":"Vizovice, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12605381,
+    "woe:name":"Vizovice, Czech Republic",
+    "woe:place_id":"iQPKFcqYA5qKBk2PVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.839565,49.214077,17.84317,49.219055],
+  "geometry": {"alpha":1e-05,"bbox":[17.8395652771,49.21407699585,17.843170166016,49.219055175781],"coordinates":[[[[17.840122,49.214653],[17.839565,49.216],[17.84317,49.219055],[17.841024,49.214077],[17.840122,49.214653]]]],"created":1292549183,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12605381_20101217_c8d0cb5cfc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 456980,
+  "type": "Feature",
+  "properties": {
+    "name":"Carapebus, Rio de Janeiro, Brazil",
+    "placetype":"locality",
+    "woe:id":456980,
+    "woe:name":"Carapebus, Rio de Janeiro, Brazil",
+    "woe:place_id":"41ipwbidBJoc3MU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-41.664448,-22.188873,-41.658096,-22.182795],
+  "geometry": {"alpha":0.00015,"bbox":[-41.664447784424,-22.188873291016,-41.658096313477,-22.182794570923],"coordinates":[[[[-41.660843,-22.184067],[-41.658352,-22.182875],[-41.658096,-22.182795],[-41.658165,-22.188873],[-41.664448,-22.188358],[-41.662987,-22.185179],[-41.660843,-22.184067]]]],"created":1292521707,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/456980_20101216_9b9f6d1969.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

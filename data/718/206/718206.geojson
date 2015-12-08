@@ -1,0 +1,15 @@
+{
+  "id": 718206,
+  "type": "Feature",
+  "properties": {
+    "name":"Melle, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":718206,
+    "woe:name":"Melle, Piedmont, Italy",
+    "woe:place_id":"tOVmS1KeAJSN3Ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.319984,44.56118,7.335026,44.567234],
+  "geometry": {"alpha":0.00015,"bbox":[7.319983959198,44.561180114746,7.3350257873535,44.567234039307],"coordinates":[[[[7.331829,44.56118],[7.323074,44.563198],[7.319984,44.567234],[7.330284,44.564178],[7.332344,44.564667],[7.335026,44.561508],[7.331829,44.56118]]]],"created":1292534485,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/718206_20101216_dc1d866d56.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

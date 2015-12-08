@@ -1,0 +1,15 @@
+{
+  "id": 12623165,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Jettingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623165,
+    "woe:name":"Gemeinde Jettingen, Germany",
+    "woe:place_id":"BHlFOT2YA5p8tRWUBA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.813395,48.580128,8.81567,48.581604],
+  "geometry": {"alpha":1e-05,"bbox":[8.8133945465088,48.580127716064,8.8156700134277,48.581604003906],"coordinates":[[[[8.814468,48.580128],[8.814296,48.580128],[8.813395,48.580341],[8.81567,48.581604],[8.814468,48.580128]]]],"created":1292537110,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12623165_20101216_22f8e466b4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

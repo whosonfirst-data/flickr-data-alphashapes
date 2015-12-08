@@ -1,0 +1,15 @@
+{
+  "id": 20007,
+  "type": "Feature",
+  "properties": {
+    "name":"Fearn, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20007,
+    "woe:name":"Fearn, Scotland, United Kingdom",
+    "woe:place_id":"rE3BOVObAZynig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.905933,57.745464,-3.902466,57.750198],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9059329032898,57.745464324951,-3.9024660587311,57.750198364258],"coordinates":[[[[-3.905933,57.745464],[-3.905933,57.745499],[-3.9058,57.750198],[-3.902466,57.749214],[-3.90385,57.747581],[-3.905533,57.745949],[-3.905933,57.745464]]]],"created":1292544218,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20007_20101217_5c3931c0f1.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

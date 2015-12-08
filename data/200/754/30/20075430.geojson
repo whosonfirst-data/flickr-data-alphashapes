@@ -1,0 +1,15 @@
+{
+  "id": 20075430,
+  "type": "Feature",
+  "properties": {
+    "name":"Wolfisberg, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075430,
+    "woe:name":"Wolfisberg, Switzerland",
+    "woe:place_id":"eJDnKS2bAZwv8nNLww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.638341,47.279331,7.653666,47.283665],
+  "geometry": {"alpha":1e-05,"bbox":[7.6383409500122,47.279331207275,7.6536660194397,47.283664703369],"coordinates":[[[[7.649833,47.282166],[7.648666,47.281502],[7.642797,47.281052],[7.641166,47.279331],[7.638341,47.282295],[7.642666,47.281666],[7.648666,47.281502],[7.649833,47.282501],[7.653666,47.283665],[7.649833,47.282166]]]],"created":1292530087,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20075430_20101216_3302b2c559.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

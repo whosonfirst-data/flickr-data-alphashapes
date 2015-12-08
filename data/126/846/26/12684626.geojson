@@ -1,0 +1,15 @@
+{
+  "id": 12684626,
+  "type": "Feature",
+  "properties": {
+    "name":"Wiedlisbach, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684626,
+    "woe:name":"Wiedlisbach, Switzerland",
+    "woe:place_id":"H6JGR8KYA5q.2TOHnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.642042,47.250557,7.646559,47.256775],
+  "geometry": {"alpha":1e-05,"bbox":[7.6420421600342,47.250556945801,7.6465587615967,47.256774902344],"coordinates":[[[[7.642042,47.250557],[7.642772,47.252289],[7.644832,47.256775],[7.646559,47.25251],[7.645626,47.251343],[7.642042,47.250557]]]],"created":1239490333,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3642/shapefiles/12684626_20090411_83457b2655.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2418378,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartsville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2418378,
+    "woe:name":"Hartsville, Pennsylvania, United States",
+    "woe:place_id":"4.Ij7o2bBZ3hMgDW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.110588,40.224735,-75.084953,40.233494],
+  "geometry": {"alpha":0.00015,"bbox":[-75.11058807373,40.22473526001,-75.084953308105,40.233493804932],"coordinates":[[[[-75.103096,40.233494],[-75.101189,40.233219],[-75.084953,40.233383],[-75.095177,40.224735],[-75.110588,40.226219],[-75.103096,40.233494]]]],"created":1292539428,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2418378_20101216_cdd07caf0e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

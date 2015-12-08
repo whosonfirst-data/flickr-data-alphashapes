@@ -1,0 +1,15 @@
+{
+  "id": 719899,
+  "type": "Feature",
+  "properties": {
+    "name":"Pamparato, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":719899,
+    "woe:name":"Pamparato, Piedmont, Italy",
+    "woe:place_id":"nxi_vk2eAJVL3q4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.900671,44.274826,7.913589,44.283676],
+  "geometry": {"alpha":0.00015,"bbox":[7.900671005249,44.274826049805,7.9135890007019,44.283676147461],"coordinates":[[[[7.911186,44.277039],[7.900671,44.274826],[7.904319,44.283676],[7.908782,44.281094],[7.911465,44.278515],[7.913589,44.276424],[7.911186,44.277039]]]],"created":1292453647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/719899_20101215_bd32051787.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

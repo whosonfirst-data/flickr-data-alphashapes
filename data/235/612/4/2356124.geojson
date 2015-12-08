@@ -1,0 +1,15 @@
+{
+  "id": 2356124,
+  "type": "Feature",
+  "properties": {
+    "name":"Arno, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2356124,
+    "woe:name":"Arno, Tennessee, United States",
+    "woe:place_id":"mn1pz4abApkkbfeU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.752296,35.808712,-86.736305,35.820702],
+  "geometry": {"alpha":0.00015,"bbox":[-86.752296447754,35.808712005615,-86.736305236816,35.820701599121],"coordinates":[[[[-86.736305,35.816021],[-86.739571,35.808712],[-86.74839,35.814751],[-86.752296,35.820702],[-86.736961,35.815769],[-86.736305,35.816021]]]],"created":1292440526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2356124_20101215_a8f839db6d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

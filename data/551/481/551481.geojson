@@ -1,0 +1,15 @@
+{
+  "id": 551481,
+  "type": "Feature",
+  "properties": {
+    "name":"Buchboden, Vorarlberg, Austria",
+    "placetype":"locality",
+    "woe:id":551481,
+    "woe:name":"Buchboden, Vorarlberg, Austria",
+    "woe:place_id":"AU59.hKcBJ3coFU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.970244,47.274269,9.972208,47.277973],
+  "geometry": {"alpha":0.00015,"bbox":[9.9702444076538,47.274269104004,9.9722080230713,47.277973175049],"coordinates":[[[[9.971788,47.274487],[9.970244,47.277973],[9.972208,47.274525],[9.972108,47.274342],[9.971994,47.274269],[9.971788,47.274487]]]],"created":1292358124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/551481_20101214_08141ba619.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

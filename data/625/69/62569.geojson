@@ -1,0 +1,15 @@
+{
+  "id": 62569,
+  "type": "Feature",
+  "properties": {
+    "name":"Federal, Ciudad de la Habana, Cuba",
+    "placetype":"locality",
+    "woe:id":62569,
+    "woe:name":"Federal, Ciudad de la Habana, Cuba",
+    "woe:place_id":"7FznIJufA5nIaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.339096,23.088259,-82.321243,23.095522],
+  "geometry": {"alpha":0.00015,"bbox":[-82.339096069336,23.088258743286,-82.321243286133,23.09552192688],"coordinates":[[[[-82.325706,23.089048],[-82.339096,23.092838],[-82.321243,23.095522],[-82.32193,23.088259],[-82.325706,23.089048]]]],"created":1292446850,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/62569_20101215_a36d0bc6c7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

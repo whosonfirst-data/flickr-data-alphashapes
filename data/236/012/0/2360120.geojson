@@ -1,0 +1,15 @@
+{
+  "id": 2360120,
+  "type": "Feature",
+  "properties": {
+    "name":"Baumstown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2360120,
+    "woe:name":"Baumstown, Pennsylvania, United States",
+    "woe:place_id":"pkrP.MKbApqguqRV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.815666,40.279987,-75.794701,40.294891],
+  "geometry": {"alpha":0.00015,"bbox":[-75.81566619873,40.279987335205,-75.794700622559,40.294891357422],"coordinates":[[[[-75.804947,40.279987],[-75.815666,40.281849],[-75.799019,40.294891],[-75.798538,40.294647],[-75.794701,40.290928],[-75.804947,40.279987]]]],"created":1292547362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2360120_20101217_e47fc08755.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

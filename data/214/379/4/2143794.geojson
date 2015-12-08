@@ -1,0 +1,15 @@
+{
+  "id": 2143794,
+  "type": "Feature",
+  "properties": {
+    "name":"Barkol, Xinjiang, China",
+    "placetype":"locality",
+    "woe:id":2143794,
+    "woe:name":"Barkol, Xinjiang, China",
+    "woe:place_id":"MMImydebAJjurvFX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [92.970085,43.590958,92.997894,43.598976],
+  "geometry": {"alpha":0.00015,"bbox":[92.970085144043,43.590957641602,92.997894287109,43.598976135254],"coordinates":[[[[92.982101,43.592079],[92.970085,43.597672],[92.986908,43.598976],[92.997894,43.598915],[92.996864,43.592327],[92.990852,43.590958],[92.982101,43.592079]]]],"created":1247813046,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3505/shapefiles/2143794_20090717_5aaacd956b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

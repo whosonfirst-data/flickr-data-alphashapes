@@ -1,0 +1,15 @@
+{
+  "id": 2372059,
+  "type": "Feature",
+  "properties": {
+    "name":"Burlington, New York, United States",
+    "placetype":"locality",
+    "woe:id":2372059,
+    "woe:name":"Burlington, New York, United States",
+    "woe:place_id":"jEEgTo2bAptFYLmN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.146057,42.583897,-75.130531,42.59568],
+  "geometry": {"alpha":0.00015,"bbox":[-75.146057128906,42.583896636963,-75.130531311035,42.595680236816],"coordinates":[[[[-75.136009,42.583927],[-75.146057,42.588982],[-75.145294,42.59568],[-75.134071,42.595627],[-75.130531,42.583935],[-75.135025,42.583897],[-75.136009,42.583927]]]],"created":1292533215,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2372059_20101216_0f92546b43.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 820459,
+  "type": "Feature",
+  "properties": {
+    "name":"Krompachi, Kosicky, Slovakia",
+    "placetype":"locality",
+    "woe:id":820459,
+    "woe:name":"Krompachi, Kosicky, Slovakia",
+    "woe:place_id":"TXNsKH6RA5y6acw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.870934,48.910973,20.89621,48.92458],
+  "geometry": {"alpha":0.00015,"bbox":[20.870933532715,48.910972595215,20.896209716797,48.924579620361],"coordinates":[[[[20.881168,48.910973],[20.873787,48.914574],[20.870934,48.917309],[20.877928,48.92458],[20.884045,48.920483],[20.89621,48.92247],[20.881168,48.910973]]]],"created":1292530640,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/820459_20101216_1ce0561888.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

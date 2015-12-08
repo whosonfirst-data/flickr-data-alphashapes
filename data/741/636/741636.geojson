@@ -1,0 +1,15 @@
+{
+  "id": 741636,
+  "type": "Feature",
+  "properties": {
+    "name":"Faradouro, Aveiro, Portugal",
+    "placetype":"locality",
+    "woe:id":741636,
+    "woe:name":"Faradouro, Aveiro, Portugal",
+    "woe:place_id":"tinLAgieBZ3lBeM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.678641,40.870148,-8.670959,40.881302],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6786413192749,40.870147705078,-8.6709594726562,40.881301879883],"coordinates":[[[[-8.678641,40.873508],[-8.67495,40.881302],[-8.670959,40.873901],[-8.673706,40.871532],[-8.67825,40.870148],[-8.678641,40.873508]]]],"created":1248103096,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2593/shapefiles/741636_20090720_3d7fd60f8f.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

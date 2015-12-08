@@ -1,0 +1,15 @@
+{
+  "id": 12600637,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Aldamas, Nuevo Leon, Mexico",
+    "placetype":"county",
+    "woe:id":12600637,
+    "woe:name":"Los Aldamas, Nuevo Leon, Mexico",
+    "woe:place_id":"y4SnHeKYA5oZ4gDebQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-99.200531,26.046911,-99.178329,26.081993],
+  "geometry": {"alpha":0.0015,"bbox":[-99.200531005859,26.046911239624,-99.178329467773,26.081993103027],"coordinates":[[[[-99.20002,26.06881],[-99.183113,26.081377],[-99.178329,26.081993],[-99.195557,26.046911],[-99.200531,26.065109],[-99.20002,26.06881]]]],"created":1292526667,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12600637_20101216_f898e22dc2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

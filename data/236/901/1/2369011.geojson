@@ -1,0 +1,15 @@
+{
+  "id": 2369011,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridgewater, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2369011,
+    "woe:name":"Bridgewater, Vermont, United States",
+    "woe:place_id":"ffW2NZibAppPQ9gs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.639542,43.581074,-72.623573,43.591831],
+  "geometry": {"alpha":0.00015,"bbox":[-72.639541625977,43.581073760986,-72.623573303223,43.591831207275],"coordinates":[[[[-72.623573,43.587788],[-72.633186,43.581074],[-72.637825,43.582661],[-72.639542,43.591831],[-72.625336,43.5905],[-72.623573,43.587788]]]],"created":1248243606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2463/shapefiles/2369011_20090722_064b330cf6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2372842,
+  "type": "Feature",
+  "properties": {
+    "name":"Byron, New York, United States",
+    "placetype":"locality",
+    "woe:id":2372842,
+    "woe:name":"Byron, New York, United States",
+    "woe:place_id":"Kbam.uKbApuqqVRw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.067406,43.079617,-78.064301,43.081551],
+  "geometry": {"alpha":0.00015,"bbox":[-78.067405700684,43.079616546631,-78.064300537109,43.081550598145],"coordinates":[[[[-78.066383,43.079617],[-78.067406,43.080078],[-78.064835,43.081551],[-78.064301,43.080353],[-78.064606,43.079876],[-78.066383,43.079617]]]],"created":1292533218,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2372842_20101216_7cdf848968.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

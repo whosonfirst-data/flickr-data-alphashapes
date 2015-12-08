@@ -1,0 +1,15 @@
+{
+  "id": 29347258,
+  "type": "Feature",
+  "properties": {
+    "name":"Knogl, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347258,
+    "woe:name":"Knogl, Bavaria, Germany",
+    "woe:place_id":"qZkhMCabCJ9Cr0JO4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.664473,47.737347,12.665905,47.738625],
+  "geometry": {"alpha":0.00015,"bbox":[12.664472579956,47.73734664917,12.665904998779,47.738624572754],"coordinates":[[[[12.665506,47.738281],[12.665578,47.738255],[12.665905,47.737347],[12.665705,47.737396],[12.664473,47.738625],[12.66519,47.738384],[12.665506,47.738281]]]],"created":1292436280,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/29347258_20101215_3f20464e54.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

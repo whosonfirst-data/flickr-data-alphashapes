@@ -1,0 +1,15 @@
+{
+  "id": 26806692,
+  "type": "Feature",
+  "properties": {
+    "name":"Cupey, San Juan, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806692,
+    "woe:name":"Cupey, San Juan, Puerto Rico",
+    "woe:place_id":"QoWPJqubB5QKzqVtWA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-66.062462,18.346399,-66.045494,18.384405],
+  "geometry": {"alpha":0.0015,"bbox":[-66.062461853027,18.346399307251,-66.04549407959,18.384405136108],"coordinates":[[[[-66.053619,18.380865],[-66.045494,18.371223],[-66.056374,18.346888],[-66.062462,18.346399],[-66.058525,18.384405],[-66.053619,18.380865]]]],"created":1292530901,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/26806692_20101216_46a2a259bd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

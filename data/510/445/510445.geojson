@@ -1,0 +1,15 @@
+{
+  "id": 510445,
+  "type": "Feature",
+  "properties": {
+    "name":"Olesno, Opole, Poland",
+    "placetype":"locality",
+    "woe:id":510445,
+    "woe:name":"Olesno, Opole, Poland",
+    "woe:place_id":"R5Ca0hWcAJyGQ0c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.415253,50.873959,18.424404,50.882042],
+  "geometry": {"alpha":0.00015,"bbox":[18.415252685547,50.873958587646,18.424404144287,50.882041931152],"coordinates":[[[[18.420296,50.877586],[18.424404,50.882042],[18.424007,50.877464],[18.419716,50.873959],[18.415552,50.875366],[18.415253,50.8755],[18.420296,50.877586]]]],"created":1292515682,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/510445_20101216_70a6e17014.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

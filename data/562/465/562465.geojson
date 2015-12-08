@@ -1,0 +1,15 @@
+{
+  "id": 562465,
+  "type": "Feature",
+  "properties": {
+    "name":"Urlingford, Kilkenny, Ireland",
+    "placetype":"locality",
+    "woe:id":562465,
+    "woe:name":"Urlingford, Kilkenny, Ireland",
+    "woe:place_id":"VVDNx1ecB57.Yb0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.587675,52.71806,-7.574472,52.721035],
+  "geometry": {"alpha":0.00015,"bbox":[-7.5876750946045,52.718059539795,-7.574471950531,52.721035003662],"coordinates":[[[[-7.58259,52.720402],[-7.580909,52.721035],[-7.580308,52.720699],[-7.574472,52.718307],[-7.587675,52.71806],[-7.58259,52.720402]]]],"created":1292466128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/562465_20101216_8e98aa6b66.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

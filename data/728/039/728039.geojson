@@ -1,0 +1,15 @@
+{
+  "id": 728039,
+  "type": "Feature",
+  "properties": {
+    "name":"Broekhem, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":728039,
+    "woe:name":"Broekhem, Limburg, Netherlands",
+    "woe:place_id":"3v9NJYieA5RnzWk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.82035,50.869461,5.827903,50.871357],
+  "geometry": {"alpha":0.00015,"bbox":[5.8203501701355,50.86946105957,5.8279027938843,50.871356964111],"coordinates":[[[[5.82318,50.871132],[5.823863,50.870869],[5.827903,50.869461],[5.823587,50.869675],[5.82035,50.871357],[5.822018,50.871269],[5.82318,50.871132]]]],"created":1292533790,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/728039_20101216_934fb6550e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

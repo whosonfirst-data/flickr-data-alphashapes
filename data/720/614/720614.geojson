@@ -1,0 +1,15 @@
+{
+  "id": 720614,
+  "type": "Feature",
+  "properties": {
+    "name":"Pioraco, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":720614,
+    "woe:name":"Pioraco, Marche, Italy",
+    "woe:place_id":"aSe5JnGeA5yYWfk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.982406,43.169292,12.989401,43.182648],
+  "geometry": {"alpha":0.00015,"bbox":[12.982405662537,43.169292449951,12.989400863647,43.182647705078],"coordinates":[[[[12.988468,43.17955],[12.989401,43.178551],[12.983458,43.169292],[12.982406,43.179394],[12.984123,43.180645],[12.986526,43.182648],[12.988468,43.17955]]]],"created":1292544590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/720614_20101217_78dc695681.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

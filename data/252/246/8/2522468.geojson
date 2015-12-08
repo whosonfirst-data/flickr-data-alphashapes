@@ -1,0 +1,15 @@
+{
+  "id": 2522468,
+  "type": "Feature",
+  "properties": {
+    "name":"Wishkah, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2522468,
+    "woe:name":"Wishkah, Washington, United States",
+    "woe:place_id":"XM.2H4mbBJ7Q6ajx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.869324,47.033821,-123.850677,47.051235],
+  "geometry": {"alpha":0.00015,"bbox":[-123.86932373047,47.033821105957,-123.85067749023,47.051235198975],"coordinates":[[[[-123.869217,47.034477],[-123.86834,47.035355],[-123.850677,47.051235],[-123.867477,47.034363],[-123.869324,47.033821],[-123.869217,47.034477]]]],"created":1292527651,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2522468_20101216_2b255affc4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 10571,
+  "type": "Feature",
+  "properties": {
+    "name":"Aldingbourne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10571,
+    "woe:name":"Aldingbourne, England, United Kingdom",
+    "woe:place_id":"DPNh7ZaYAZkEHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.691623,50.835594,-0.68613,50.844185],
+  "geometry": {"alpha":0.00015,"bbox":[-0.6916229724884,50.835594177246,-0.68612998723984,50.844184875488],"coordinates":[[[[-0.691022,50.842422],[-0.691623,50.844185],[-0.690336,50.842518],[-0.68613,50.835594],[-0.688877,50.838196],[-0.691022,50.842422]]]],"created":1292438027,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/10571_20101215_43016ce325.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

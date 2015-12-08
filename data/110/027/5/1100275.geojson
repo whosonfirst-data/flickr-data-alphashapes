@@ -1,0 +1,15 @@
+{
+  "id": 1100275,
+  "type": "Feature",
+  "properties": {
+    "name":"Benaraby, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100275,
+    "woe:name":"Benaraby, Queensland, Australia",
+    "woe:place_id":"N1O6xb2YAJxOgAMa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.331161,-24.019167,151.336838,-24.003817],
+  "geometry": {"alpha":0.00015,"bbox":[151.33116149902,-24.019166946411,151.33683776855,-24.003816604614],"coordinates":[[[[151.336838,-24.019167],[151.331161,-24.018499],[151.334091,-24.003817],[151.335159,-24.005335],[151.336838,-24.019167]]]],"created":1292506385,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/1100275_20101216_a86345c78a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

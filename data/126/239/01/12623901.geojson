@@ -1,0 +1,15 @@
+{
+  "id": 12623901,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bietigheim, Germany",
+    "placetype":"locality",
+    "woe:id":12623901,
+    "woe:name":"Gemeinde Bietigheim, Germany",
+    "woe:place_id":"lc6fVz6YA5rU6R_XUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.252084,48.911392,8.252255,48.911594],
+  "geometry": {"alpha":1e-05,"bbox":[8.2520837783813,48.911392211914,8.2522554397583,48.911594390869],"coordinates":[[[[8.252223,48.911392],[8.252191,48.911392],[8.252084,48.911419],[8.252255,48.911594],[8.252234,48.911465],[8.252223,48.911392]]]],"created":1292478787,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12623901_20101216_60f33d3cc4.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

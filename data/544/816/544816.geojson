@@ -1,0 +1,15 @@
+{
+  "id": 544816,
+  "type": "Feature",
+  "properties": {
+    "name":"Breitenaich, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":544816,
+    "woe:name":"Breitenaich, Upper Austria, Austria",
+    "woe:place_id":"JR5UZ0CcBZhGHVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.974094,48.249523,14.008625,48.266281],
+  "geometry": {"alpha":0.00015,"bbox":[13.974094390869,48.249523162842,14.008625030518,48.26628112793],"coordinates":[[[[13.989994,48.265343],[14.008625,48.260334],[13.987597,48.249523],[13.974094,48.258453],[13.987355,48.265148],[13.989479,48.266281],[13.989994,48.265343]]]],"created":1292523910,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/544816_20101216_54762d80a7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

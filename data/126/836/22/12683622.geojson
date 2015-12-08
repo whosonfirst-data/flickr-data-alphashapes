@@ -1,0 +1,15 @@
+{
+  "id": 12683622,
+  "type": "Feature",
+  "properties": {
+    "name":"Guggisberg, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683622,
+    "woe:name":"Guggisberg, Switzerland",
+    "woe:place_id":"1KC2iPaYA5q3_h03rA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.344116,46.733265,7.348091,46.735626],
+  "geometry": {"alpha":1e-05,"bbox":[7.3441162109375,46.733264923096,7.3480911254883,46.735626220703],"coordinates":[[[[7.348036,46.734882],[7.344247,46.733349],[7.344116,46.733265],[7.34539,46.735626],[7.348091,46.734913],[7.348036,46.734882]]]],"created":1292520123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12683622_20101216_b0b3eec964.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

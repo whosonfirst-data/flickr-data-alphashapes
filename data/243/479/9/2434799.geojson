@@ -1,0 +1,15 @@
+{
+  "id": 2434799,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake City, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2434799,
+    "woe:name":"Lake City, Arkansas, United States",
+    "woe:place_id":"cywR3iqbBZ82dwmO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.448868,35.816399,-90.430443,35.820538],
+  "geometry": {"alpha":0.00015,"bbox":[-90.448867797852,35.816398620605,-90.430442810059,35.820537567139],"coordinates":[[[[-90.438293,35.820248],[-90.430443,35.816448],[-90.442101,35.816399],[-90.448868,35.820538],[-90.443886,35.82],[-90.438293,35.820248]]]],"created":1292522105,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2434799_20101216_890743f61b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 972621,
+  "type": "Feature",
+  "properties": {
+    "name":"La Gleize, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":972621,
+    "woe:name":"La Gleize, Liege, Belgium",
+    "woe:place_id":"jzoQci.QBp5CFV4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.842967,50.408844,5.849533,50.414207],
+  "geometry": {"alpha":0.00015,"bbox":[5.8429670333862,50.408843994141,5.8495330810547,50.414207458496],"coordinates":[[[[5.845799,50.413147],[5.846529,50.413364],[5.849533,50.414207],[5.849533,50.409721],[5.845413,50.408844],[5.842967,50.412468],[5.845799,50.413147]]]],"created":1292540126,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/972621_20101216_42c942b34d.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

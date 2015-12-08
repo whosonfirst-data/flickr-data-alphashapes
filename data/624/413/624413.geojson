@@ -1,0 +1,15 @@
+{
+  "id": 624413,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Gervais, Centre, France",
+    "placetype":"locality",
+    "woe:id":624413,
+    "woe:name":"St-Gervais, Centre, France",
+    "woe:place_id":"t5gSCQ.fA5gblqI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.351146,47.567795,1.370083,47.571335],
+  "geometry": {"alpha":0.00015,"bbox":[1.3511459827423,47.567794799805,1.3700829744339,47.571334838867],"coordinates":[[[[1.36062,47.568298],[1.370083,47.571335],[1.360759,47.567841],[1.359493,47.567795],[1.351146,47.568649],[1.36062,47.568298]]]],"created":1292491443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/624413_20101216_527027f12e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

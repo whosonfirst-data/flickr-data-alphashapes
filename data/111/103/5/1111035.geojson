@@ -1,0 +1,15 @@
+{
+  "id": 1111035,
+  "type": "Feature",
+  "properties": {
+    "name":"Komatsubaradori, Japan",
+    "placetype":"locality",
+    "woe:id":1111035,
+    "woe:name":"Komatsubaradori, Japan",
+    "woe:place_id":"Pe89LQCYAJ2dNi2J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [135.172089,34.229118,135.17836,34.233662],
+  "geometry": {"alpha":1e-05,"bbox":[135.17208862305,34.229118347168,135.17835998535,34.233661651611],"coordinates":[[[[135.173035,34.231529],[135.17836,34.229118],[135.172089,34.229687],[135.17244,34.233662],[135.173035,34.231529]]]],"created":1292518696,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/1111035_20101216_9ae4b4f918.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

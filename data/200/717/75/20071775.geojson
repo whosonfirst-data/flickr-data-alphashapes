@@ -1,0 +1,15 @@
+{
+  "id": 20071775,
+  "type": "Feature",
+  "properties": {
+    "name":"Matchy, Ireland",
+    "placetype":"locality",
+    "woe:id":20071775,
+    "woe:name":"Matchy, Ireland",
+    "woe:place_id":"fvapy9ibAZxa0weaQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.624444,51.936665,-8.618333,51.941387],
+  "geometry": {"alpha":1e-05,"bbox":[-8.6244440078735,51.936664581299,-8.618332862854,51.941387176514],"coordinates":[[[[-8.620833,51.9375],[-8.621666,51.936665],[-8.621944,51.9375],[-8.624444,51.941387],[-8.621388,51.940556],[-8.618333,51.938332],[-8.620833,51.9375]]]],"created":1292517763,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20071775_20101216_9a1633b9bc.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

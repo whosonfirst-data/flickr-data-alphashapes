@@ -1,0 +1,15 @@
+{
+  "id": 2421956,
+  "type": "Feature",
+  "properties": {
+    "name":"Hilldale, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2421956,
+    "woe:name":"Hilldale, South Carolina, United States",
+    "woe:place_id":"73BthyubBZ6XsdHn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.398689,33.892239,-80.393761,33.894943],
+  "geometry": {"alpha":0.00015,"bbox":[-80.39868927002,33.892238616943,-80.393760681152,33.894943237305],"coordinates":[[[[-80.398689,33.894623],[-80.398643,33.894943],[-80.396675,33.894642],[-80.393761,33.894775],[-80.397507,33.892239],[-80.398689,33.894623]]]],"created":1292541218,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2421956_20101216_f3c6be7e0c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2355188,
+  "type": "Feature",
+  "properties": {
+    "name":"Apache, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2355188,
+    "woe:name":"Apache, Arizona, United States",
+    "woe:place_id":"dCz7PhqbApmKPyem",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.138351,31.690189,-109.121124,31.708025],
+  "geometry": {"alpha":0.00015,"bbox":[-109.13835144043,31.690189361572,-109.12112426758,31.708024978638],"coordinates":[[[[-109.129105,31.695747],[-109.124664,31.702501],[-109.121124,31.708025],[-109.122475,31.707451],[-109.124664,31.702501],[-109.128784,31.695759],[-109.128998,31.695534],[-109.132698,31.690189],[-109.138351,31.693045],[-109.129105,31.695747]]]],"created":1292519803,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2355188_20101216_e4c7f6d8dd.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

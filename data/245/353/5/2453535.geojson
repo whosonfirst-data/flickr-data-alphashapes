@@ -1,0 +1,15 @@
+{
+  "id": 2453535,
+  "type": "Feature",
+  "properties": {
+    "name":"Montreal, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2453535,
+    "woe:name":"Montreal, Missouri, United States",
+    "woe:place_id":"S2q43yibBZke8vki",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.602516,37.956039,-92.576981,37.969372],
+  "geometry": {"alpha":0.00015,"bbox":[-92.602516174316,37.956039428711,-92.57698059082,37.969371795654],"coordinates":[[[[-92.592087,37.967747],[-92.576981,37.956039],[-92.592987,37.961456],[-92.602516,37.969372],[-92.592087,37.967747]]]],"created":1292448620,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2453535_20101215_df704d0577.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

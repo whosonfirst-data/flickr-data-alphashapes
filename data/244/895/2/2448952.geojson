@@ -1,0 +1,15 @@
+{
+  "id": 2448952,
+  "type": "Feature",
+  "properties": {
+    "name":"Medicine Mound, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2448952,
+    "woe:name":"Medicine Mound, Texas, United States",
+    "woe:place_id":"AS7Rb9GbBZjcW0.0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.610977,34.186359,-99.593315,34.198856],
+  "geometry": {"alpha":0.00015,"bbox":[-99.610977172852,34.186359405518,-99.593315124512,34.19885635376],"coordinates":[[[[-99.594368,34.187683],[-99.594948,34.186359],[-99.610977,34.194977],[-99.593315,34.198856],[-99.594376,34.187866],[-99.594368,34.187683]]]],"created":1292524261,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2448952_20101216_9a720c9db9.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12656124,
+  "type": "Feature",
+  "properties": {
+    "name":"Baixas, France",
+    "placetype":"locality",
+    "woe:id":12656124,
+    "woe:name":"Baixas, France",
+    "woe:place_id":"5czpC5uYA5pgKNbxpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.807908,42.748554,2.811244,42.751389],
+  "geometry": {"alpha":1e-05,"bbox":[2.8079080581665,42.748554229736,2.8112440109253,42.751388549805],"coordinates":[[[[2.808347,42.750549],[2.808573,42.750713],[2.811244,42.751389],[2.80986,42.749508],[2.809152,42.748554],[2.807908,42.750099],[2.808347,42.750549]]]],"created":1292525699,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12656124_20101216_6fc22057b7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

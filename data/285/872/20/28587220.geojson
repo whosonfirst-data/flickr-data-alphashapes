@@ -1,0 +1,15 @@
+{
+  "id": 28587220,
+  "type": "Feature",
+  "properties": {
+    "name":"Sippy Downs, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28587220,
+    "woe:name":"Sippy Downs, Queensland, Australia",
+    "woe:place_id":"wIK0wnKbCZmpN9SulA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.045563,-26.725372,153.065369,-26.710461],
+  "geometry": {"alpha":0.00015,"bbox":[153.04556274414,-26.725372314453,153.06536865234,-26.710460662842],"coordinates":[[[[153.062347,-26.718033],[153.065369,-26.725224],[153.060486,-26.725372],[153.051559,-26.722612],[153.045563,-26.710461],[153.062347,-26.718033]]]],"created":1248274702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2577/shapefiles/28587220_20090722_9e1a2ac6ef.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

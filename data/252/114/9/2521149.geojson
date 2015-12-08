@@ -1,0 +1,15 @@
+{
+  "id": 2521149,
+  "type": "Feature",
+  "properties": {
+    "name":"Willow Grove, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2521149,
+    "woe:name":"Willow Grove, Texas, United States",
+    "woe:place_id":"9gC2JcKbBJ6pHCku",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.280777,31.539,-97.264999,31.569029],
+  "geometry": {"alpha":0.00015,"bbox":[-97.280776977539,31.538999557495,-97.264999389648,31.56902885437],"coordinates":[[[[-97.273979,31.548405],[-97.280777,31.550053],[-97.277351,31.569029],[-97.265305,31.553522],[-97.264999,31.539],[-97.273979,31.548405]]]],"created":1292541668,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2521149_20101216_2d710d3434.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

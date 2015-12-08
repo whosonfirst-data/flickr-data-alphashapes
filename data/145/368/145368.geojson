@@ -1,0 +1,15 @@
+{
+  "id": 145368,
+  "type": "Feature",
+  "properties": {
+    "name":"San Roque, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":145368,
+    "woe:name":"San Roque, Nuevo Leon, Mexico",
+    "woe:place_id":"y2SlWCCYBZkE1Jg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.16983,25.593058,-100.160027,25.608334],
+  "geometry": {"alpha":0.00015,"bbox":[-100.16983032227,25.593057632446,-100.16002655029,25.608333587646],"coordinates":[[[[-100.169502,25.608334],[-100.169334,25.608],[-100.160027,25.593058],[-100.16983,25.608],[-100.169502,25.608334]]]],"created":1292482982,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/145368_20101216_ecf2261c0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

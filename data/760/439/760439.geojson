@@ -1,0 +1,15 @@
+{
+  "id": 760439,
+  "type": "Feature",
+  "properties": {
+    "name":"Faya, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":760439,
+    "woe:name":"Faya, Asturias, Spain",
+    "woe:place_id":"OK6Hrb2eB5zVISs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.566699,43.371365,-5.54655,43.388084],
+  "geometry": {"alpha":0.00015,"bbox":[-5.5666990280151,43.371364593506,-5.5465497970581,43.388084411621],"coordinates":[[[[-5.548363,43.371666],[-5.554447,43.371365],[-5.566699,43.383301],[-5.556421,43.388084],[-5.54655,43.381348],[-5.548363,43.371666]]]],"created":1292456190,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/760439_20101215_35fd9da982.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

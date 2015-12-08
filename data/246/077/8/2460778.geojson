@@ -1,0 +1,15 @@
+{
+  "id": 2460778,
+  "type": "Feature",
+  "properties": {
+    "name":"North Charleroi, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2460778,
+    "woe:name":"North Charleroi, Pennsylvania, United States",
+    "woe:place_id":"X_UKBQybBZp1TUSn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.922707,40.149864,-79.900002,40.162281],
+  "geometry": {"alpha":0.00015,"bbox":[-79.922706604004,40.149864196777,-79.900001525879,40.162281036377],"coordinates":[[[[-79.903389,40.157753],[-79.900002,40.149864],[-79.908264,40.150162],[-79.918884,40.150585],[-79.922707,40.162281],[-79.903389,40.157753]]]],"created":1292440890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2460778_20101215_76f59acfd8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

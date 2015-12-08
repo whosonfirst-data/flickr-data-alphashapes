@@ -1,0 +1,15 @@
+{
+  "id": 456122,
+  "type": "Feature",
+  "properties": {
+    "name":"Capivari, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":456122,
+    "woe:name":"Capivari, Sao Paulo, Brazil",
+    "woe:place_id":"GM62SsmdBJpqBxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-47.529915,-23.000708,-47.50145,-22.978525],
+  "geometry": {"alpha":0.00015,"bbox":[-47.529914855957,-23.000707626343,-47.501449584961,-22.978525161743],"coordinates":[[[[-47.510376,-22.99411],[-47.524517,-22.984749],[-47.525467,-22.983997],[-47.529915,-22.978525],[-47.515869,-22.983681],[-47.506405,-22.983267],[-47.50145,-22.992373],[-47.505913,-23.000708],[-47.50996,-22.99511],[-47.510376,-22.99411]]]],"created":1292537890,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/456122_20101216_a2942acb17.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

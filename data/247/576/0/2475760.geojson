@@ -1,0 +1,15 @@
+{
+  "id": 2475760,
+  "type": "Feature",
+  "properties": {
+    "name":"Portsmouth, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2475760,
+    "woe:name":"Portsmouth, Iowa, United States",
+    "woe:place_id":"Y_ZHVPGbBZspkNZB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.521904,41.649467,-95.518623,41.654701],
+  "geometry": {"alpha":0.00015,"bbox":[-95.521903991699,41.649467468262,-95.518623352051,41.65470123291],"coordinates":[[[[-95.521904,41.652569],[-95.521317,41.654701],[-95.518623,41.650494],[-95.519005,41.649467],[-95.521904,41.652569]]]],"created":1292448709,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2475760_20101215_426f5ac77e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

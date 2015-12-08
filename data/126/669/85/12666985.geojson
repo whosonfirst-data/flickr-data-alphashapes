@@ -1,0 +1,15 @@
+{
+  "id": 12666985,
+  "type": "Feature",
+  "properties": {
+    "name":"Montblanc, France",
+    "placetype":"locality",
+    "woe:id":12666985,
+    "woe:name":"Montblanc, France",
+    "woe:place_id":"sLwkOkqYA5rsEXhRwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.363189,43.395226,3.36924,43.399933],
+  "geometry": {"alpha":1e-05,"bbox":[3.3631889820099,43.395225524902,3.3692400455475,43.399932861328],"coordinates":[[[[3.369026,43.396019],[3.366279,43.396938],[3.363189,43.396069],[3.363919,43.399933],[3.366279,43.396938],[3.36924,43.395226],[3.369026,43.396019]]]],"created":1292528123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12666985_20101216_22da73534b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

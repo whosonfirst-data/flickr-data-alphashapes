@@ -1,0 +1,15 @@
+{
+  "id": 2353313,
+  "type": "Feature",
+  "properties": {
+    "name":"Allendale, California, United States",
+    "placetype":"locality",
+    "woe:id":2353313,
+    "woe:name":"Allendale, California, United States",
+    "woe:place_id":"ZHv2CeybApkdJfGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.944778,38.450573,-121.933311,38.475353],
+  "geometry": {"alpha":0.00015,"bbox":[-121.94477844238,38.450572967529,-121.9333114624,38.475353240967],"coordinates":[[[[-121.933311,38.467976],[-121.941963,38.450573],[-121.942024,38.463371],[-121.944031,38.470181],[-121.944778,38.475353],[-121.933311,38.467976]]]],"created":1247899445,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2553/shapefiles/2353313_20090718_ab439379cc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

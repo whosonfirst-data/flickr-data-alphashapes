@@ -1,0 +1,15 @@
+{
+  "id": 600239,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vachette, Provence-Alpes-Cote d'Azur, France",
+    "placetype":"locality",
+    "woe:id":600239,
+    "woe:name":"La Vachette, Provence-Alpes-Cote d'Azur, France",
+    "woe:place_id":"51INVkWfAZzSyGI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.67134,44.914005,6.675267,44.919415],
+  "geometry": {"alpha":0.00015,"bbox":[6.6713399887085,44.914005279541,6.6752672195435,44.919414520264],"coordinates":[[[[6.675267,44.916969],[6.672649,44.914005],[6.67134,44.916618],[6.674194,44.919415],[6.675267,44.916969]]]],"created":1292547736,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/600239_20101217_3e52dd9b84.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

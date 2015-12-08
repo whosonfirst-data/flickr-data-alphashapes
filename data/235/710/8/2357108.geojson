@@ -1,0 +1,15 @@
+{
+  "id": 2357108,
+  "type": "Feature",
+  "properties": {
+    "name":"Atlantic Beach, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2357108,
+    "woe:name":"Atlantic Beach, South Carolina, United States",
+    "woe:place_id":"OtP1qgybApnM2hwH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.721115,33.797318,-78.711548,33.80238],
+  "geometry": {"alpha":0.00015,"bbox":[-78.721115112305,33.797317504883,-78.711547851562,33.802379608154],"coordinates":[[[[-78.712234,33.80238],[-78.711548,33.801945],[-78.712517,33.801189],[-78.712593,33.801132],[-78.721115,33.797318],[-78.714378,33.801617],[-78.712234,33.80238]]]],"created":1292550340,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2357108_20101217_830d507817.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

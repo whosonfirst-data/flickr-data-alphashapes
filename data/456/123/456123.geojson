@@ -1,0 +1,15 @@
+{
+  "id": 456123,
+  "type": "Feature",
+  "properties": {
+    "name":"Carangola, Minas Gerais, Brazil",
+    "placetype":"locality",
+    "woe:id":456123,
+    "woe:name":"Carangola, Minas Gerais, Brazil",
+    "woe:place_id":"keESc0adBJogodI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-42.047424,-20.739418,-42.024723,-20.720795],
+  "geometry": {"alpha":0.00015,"bbox":[-42.047424316406,-20.739418029785,-42.024723052979,-20.720794677734],"coordinates":[[[[-42.031631,-20.733318],[-42.024723,-20.738611],[-42.027855,-20.739418],[-42.032146,-20.739418],[-42.037724,-20.738295],[-42.047424,-20.731712],[-42.039871,-20.720795],[-42.033691,-20.722078],[-42.031631,-20.733318]]]],"created":1292525765,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/456123_20101216_d49d7a5a4b.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

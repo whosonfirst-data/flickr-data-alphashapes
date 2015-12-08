@@ -1,0 +1,15 @@
+{
+  "id": 2351763,
+  "type": "Feature",
+  "properties": {
+    "name":"Acme, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2351763,
+    "woe:name":"Acme, Washington, United States",
+    "woe:place_id":"1vfAuMqbApntpWeY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.21936,48.697643,-122.195694,48.728737],
+  "geometry": {"alpha":0.00015,"bbox":[-122.21936035156,48.697643280029,-122.19569396973,48.728736877441],"coordinates":[[[[-122.204872,48.717979],[-122.21936,48.72472],[-122.215691,48.728737],[-122.204704,48.724377],[-122.198227,48.716988],[-122.195694,48.697643],[-122.203445,48.70937],[-122.204872,48.717979]]]],"created":1292538565,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2351763_20101216_c635050d4d.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 627149,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Trojan, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":627149,
+    "woe:name":"St.-Trojan, Aquitaine, France",
+    "woe:place_id":"g3lonAifA5tOy7I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.591673,45.089802,-0.580519,45.093719],
+  "geometry": {"alpha":0.00015,"bbox":[-0.59167301654816,45.08980178833,-0.5805190205574,45.093719482422],"coordinates":[[[[-0.591528,45.093452],[-0.591673,45.093719],[-0.59142,45.093704],[-0.585067,45.093506],[-0.580519,45.089802],[-0.591528,45.093452]]]],"created":1292522947,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/627149_20101216_cb5f4ea815.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

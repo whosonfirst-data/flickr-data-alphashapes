@@ -1,0 +1,15 @@
+{
+  "id": 456967,
+  "type": "Feature",
+  "properties": {
+    "name":"Capim Grosso, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":456967,
+    "woe:name":"Capim Grosso, Bahia, Brazil",
+    "woe:place_id":"IPxfI9ydBJoxpGs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-40.023193,-11.377135,-40.008858,-11.3598],
+  "geometry": {"alpha":0.00015,"bbox":[-40.023193359375,-11.377135276794,-40.008857727051,-11.359800338745],"coordinates":[[[[-40.010918,-11.376377],[-40.011261,-11.377135],[-40.023193,-11.36426],[-40.008858,-11.3598],[-40.010963,-11.376251],[-40.010918,-11.376377]]]],"created":1292526183,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/456967_20101216_86fb9ecc7f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

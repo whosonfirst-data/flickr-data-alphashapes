@@ -1,0 +1,15 @@
+{
+  "id": 725011,
+  "type": "Feature",
+  "properties": {
+    "name":"Tornadri, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":725011,
+    "woe:name":"Tornadri, Lombardy, Italy",
+    "woe:place_id":"B0PHDoCeA5mxHHs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.882631,46.276669,9.910354,46.294643],
+  "geometry": {"alpha":0.00015,"bbox":[9.8826313018799,46.276668548584,9.9103536605835,46.2946434021],"coordinates":[[[[9.901428,46.29002],[9.910354,46.279343],[9.902801,46.278629],[9.889167,46.276669],[9.882631,46.294643],[9.901428,46.29002]]]],"created":1292538498,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/725011_20101216_02df05def1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

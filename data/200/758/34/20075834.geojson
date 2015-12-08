@@ -1,0 +1,15 @@
+{
+  "id": 20075834,
+  "type": "Feature",
+  "properties": {
+    "name":"Capriglio, Italy",
+    "placetype":"locality",
+    "woe:id":20075834,
+    "woe:name":"Capriglio, Italy",
+    "woe:place_id":"8wlMtLGbAZwRiAMb6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.988176,45.007656,7.99023,45.013359],
+  "geometry": {"alpha":1e-05,"bbox":[7.988175868988,45.007656097412,7.9902300834656,45.013359069824],"coordinates":[[[[7.988262,45.008747],[7.988605,45.009113],[7.99015,45.013359],[7.99023,45.009411],[7.988219,45.007656],[7.988176,45.008232],[7.988262,45.008747]]]],"created":1292531848,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/20075834_20101216_b1670004d2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

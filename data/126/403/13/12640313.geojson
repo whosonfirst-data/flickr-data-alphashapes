@@ -1,0 +1,15 @@
+{
+  "id": 12640313,
+  "type": "Feature",
+  "properties": {
+    "name":"Camembert, France",
+    "placetype":"locality",
+    "woe:id":12640313,
+    "woe:name":"Camembert, France",
+    "woe:place_id":"UAFAqjGYA5oM396BgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.177444,48.891197,0.183506,48.895535],
+  "geometry": {"alpha":1e-05,"bbox":[0.17744399607182,48.89119720459,0.18350599706173,48.895534515381],"coordinates":[[[[0.17872,48.891197],[0.178442,48.891441],[0.177444,48.893639],[0.178699,48.894123],[0.182304,48.895535],[0.183506,48.892429],[0.180759,48.892513],[0.17872,48.891197]]]],"created":1292526604,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/12640313_20101216_141dbcdd80.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

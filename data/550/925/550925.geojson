@@ -1,0 +1,15 @@
+{
+  "id": 550925,
+  "type": "Feature",
+  "properties": {
+    "name":"Moos, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550925,
+    "woe:name":"Moos, Tyrol, Austria",
+    "woe:place_id":"1KX7bWScBJwvBs0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.253849,47.126797,10.265951,47.142796],
+  "geometry": {"alpha":0.00015,"bbox":[10.253849029541,47.126796722412,10.265951156616,47.142795562744],"coordinates":[[[[10.264148,47.129833],[10.265951,47.127323],[10.253849,47.126797],[10.25402,47.128315],[10.254535,47.142796],[10.264148,47.129833]]]],"created":1292538027,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/550925_20101216_9baeb194e2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

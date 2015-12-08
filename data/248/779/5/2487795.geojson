@@ -1,0 +1,15 @@
+{
+  "id": 2487795,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2487795,
+    "woe:name":"San Antonio, New Mexico, United States",
+    "woe:place_id":"FS.cUdSbBZRsH.gN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.227112,35.640469,-105.224892,35.644505],
+  "geometry": {"alpha":0.00015,"bbox":[-105.22711181641,35.640468597412,-105.2248916626,35.644504547119],"coordinates":[[[[-105.224892,35.640717],[-105.225151,35.640469],[-105.226181,35.640644],[-105.226448,35.640739],[-105.227112,35.644505],[-105.224892,35.640717]]]],"created":1292530510,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2487795_20101216_a931f9ec7e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2406902,
+  "type": "Feature",
+  "properties": {
+    "name":"Frankfort, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2406902,
+    "woe:name":"Frankfort, South Dakota, United States",
+    "woe:place_id":"0x.jg4ObBZwwpYFS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.358109,44.878925,-98.347862,44.889324],
+  "geometry": {"alpha":0.00015,"bbox":[-98.358108520508,44.878925323486,-98.347862243652,44.889324188232],"coordinates":[[[[-98.358109,44.889324],[-98.347862,44.879074],[-98.35656,44.878925],[-98.356735,44.879532],[-98.357079,44.884914],[-98.358109,44.889324]]]],"created":1292454305,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2406902_20101215_6c946017ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

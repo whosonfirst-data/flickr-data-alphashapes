@@ -1,0 +1,15 @@
+{
+  "id": 881609,
+  "type": "Feature",
+  "properties": {
+    "name":"Tecuci, Galati, Romania",
+    "placetype":"locality",
+    "woe:id":881609,
+    "woe:name":"Tecuci, Galati, Romania",
+    "woe:place_id":"1D4jtiyRCZ2vvfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.424707,45.833344,27.453461,45.867661],
+  "geometry": {"alpha":0.00015,"bbox":[27.42470741272,45.833343505859,27.453460693359,45.867660522461],"coordinates":[[[[27.43091,45.842999],[27.424707,45.848591],[27.425823,45.867661],[27.43681,45.851997],[27.453461,45.843033],[27.436466,45.833344],[27.43091,45.842999]]]],"created":1292524552,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/881609_20101216_43d46d221c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

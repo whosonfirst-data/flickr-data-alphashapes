@@ -1,0 +1,15 @@
+{
+  "id": 2358614,
+  "type": "Feature",
+  "properties": {
+    "name":"Baldwin, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2358614,
+    "woe:name":"Baldwin, Georgia, United States",
+    "woe:place_id":"cv.8VUebApnrMMQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.543953,34.490395,-83.52961,34.505447],
+  "geometry": {"alpha":0.00015,"bbox":[-83.543952941895,34.490394592285,-83.529609680176,34.505447387695],"coordinates":[[[[-83.537575,34.492107],[-83.543953,34.500118],[-83.53669,34.505447],[-83.536217,34.505344],[-83.533623,34.495213],[-83.52961,34.490395],[-83.537575,34.492107]]]],"created":1292451554,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2358614_20101215_4afd889bb9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2433648,
+  "type": "Feature",
+  "properties": {
+    "name":"Knoxville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2433648,
+    "woe:name":"Knoxville, Georgia, United States",
+    "woe:place_id":"i8rLRx6bBZ_vY6ns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.002922,32.720974,-83.994316,32.727146],
+  "geometry": {"alpha":0.00015,"bbox":[-84.002922058105,32.720973968506,-83.994316101074,32.727146148682],"coordinates":[[[[-83.996277,32.724781],[-83.994316,32.720974],[-83.999405,32.722744],[-84.002922,32.727146],[-83.996277,32.724781]]]],"created":1292534125,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2433648_20101216_e81d7e3ac6.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

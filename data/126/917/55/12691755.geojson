@@ -1,0 +1,15 @@
+{
+  "id": 12691755,
+  "type": "Feature",
+  "properties": {
+    "name":"Balboa, Spain",
+    "placetype":"locality",
+    "woe:id":12691755,
+    "woe:name":"Balboa, Spain",
+    "woe:place_id":"3Sd9QGSYA5rArtKLAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.924476,42.705963,-6.922545,42.712585],
+  "geometry": {"alpha":1e-05,"bbox":[-6.924476146698,42.705963134766,-6.9225449562073,42.712585449219],"coordinates":[[[[-6.923095,42.710594],[-6.924476,42.712585],[-6.923025,42.710648],[-6.922545,42.705963],[-6.923095,42.710594]]]],"created":1292524546,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12691755_20101216_db1e5139a0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 123534,
+  "type": "Feature",
+  "properties": {
+    "name":"Estanzuela, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":123534,
+    "woe:name":"Estanzuela, Jalisco, Mexico",
+    "woe:place_id":"zHp7kmeYA5.9VJ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.84758,20.666195,-103.816444,20.695345],
+  "geometry": {"alpha":0.00015,"bbox":[-103.84757995605,20.666194915771,-103.81644439697,20.695344924927],"coordinates":[[[[-103.837967,20.679525],[-103.824921,20.669247],[-103.816444,20.67181],[-103.816734,20.671862],[-103.824921,20.669247],[-103.837791,20.666195],[-103.841057,20.673664],[-103.84758,20.678965],[-103.841225,20.690044],[-103.836937,20.695345],[-103.838478,20.681614],[-103.837967,20.679525]]]],"created":1292542131,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/123534_20101216_5312688973.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 732410,
+  "type": "Feature",
+  "properties": {
+    "name":"Oostum, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":732410,
+    "woe:name":"Oostum, Groningen, Netherlands",
+    "woe:place_id":"yblCzNGeAp5ywJ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.481504,53.278713,6.503562,53.290874],
+  "geometry": {"alpha":0.00015,"bbox":[6.4815039634705,53.278713226318,6.5035619735718,53.290874481201],"coordinates":[[[[6.497576,53.280163],[6.481504,53.281433],[6.49521,53.283741],[6.503562,53.290874],[6.498928,53.280201],[6.499099,53.278713],[6.497576,53.280163]]]],"created":1292531412,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/732410_20101216_c53f21b254.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

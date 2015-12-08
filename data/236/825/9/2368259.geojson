@@ -1,0 +1,15 @@
+{
+  "id": 2368259,
+  "type": "Feature",
+  "properties": {
+    "name":"Branton Manor, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2368259,
+    "woe:name":"Branton Manor, Maryland, United States",
+    "woe:place_id":"xmtCHBybAprJdc4i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.901161,39.376583,-76.889107,39.396671],
+  "geometry": {"alpha":0.00015,"bbox":[-76.901161193848,39.376583099365,-76.889106750488,39.396671295166],"coordinates":[[[[-76.890564,39.376583],[-76.891014,39.377136],[-76.901161,39.396671],[-76.889832,39.378334],[-76.889107,39.377071],[-76.890564,39.376583]]]],"created":1292477105,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2368259_20101216_4a8b04fb2e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

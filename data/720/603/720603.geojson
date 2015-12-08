@@ -1,0 +1,15 @@
+{
+  "id": 720603,
+  "type": "Feature",
+  "properties": {
+    "name":"Piode, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":720603,
+    "woe:name":"Piode, Piedmont, Italy",
+    "woe:place_id":"g_pjQ.WeA5yAYJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.038215,45.765247,8.060874,45.776684],
+  "geometry": {"alpha":0.00015,"bbox":[8.0382146835327,45.765247344971,8.0608739852905,45.776683807373],"coordinates":[[[[8.048515,45.769318],[8.038215,45.776684],[8.050231,45.771233],[8.058289,45.770149],[8.060874,45.769917],[8.051261,45.765247],[8.048515,45.769318]]]],"created":1292535136,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/720603_20101216_88aace9f64.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 131528,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Angeles, Tamaulipas, Mexico",
+    "placetype":"locality",
+    "woe:id":131528,
+    "woe:name":"Los Angeles, Tamaulipas, Mexico",
+    "woe:place_id":"XRNdFtGYAp2F5qM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.994789,26.39926,-98.985313,26.402115],
+  "geometry": {"alpha":0.00015,"bbox":[-98.994789123535,26.399259567261,-98.985313415527,26.402114868164],"coordinates":[[[[-98.985512,26.399611],[-98.985313,26.39926],[-98.986275,26.399473],[-98.994789,26.402115],[-98.985512,26.399611]]]],"created":1292510402,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/131528_20101216_1f4fdb9311.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

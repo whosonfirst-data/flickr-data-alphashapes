@@ -1,0 +1,15 @@
+{
+  "id": 43344,
+  "type": "Feature",
+  "properties": {
+    "name":"Brunswick Park, London, England, GB, United Kingdom",
+    "placetype":"neighbourhood",
+    "woe:id":43344,
+    "woe:name":"Brunswick Park, London, England, GB, United Kingdom",
+    "woe:place_id":"BCaXQgGdAp._yg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-0.088684,51.472523,-0.082354,51.478951],
+  "geometry": {"alpha":1e-05,"bbox":[-0.088684000074863,51.472522735596,-0.082354001700878,51.478950500488],"coordinates":[[[[-0.087182,51.472855],[-0.086742,51.475128],[-0.088684,51.478951],[-0.085905,51.474949],[-0.082354,51.472523],[-0.087182,51.472855]]]],"created":1292536461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/43344_20101216_0f5ee9ce5b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

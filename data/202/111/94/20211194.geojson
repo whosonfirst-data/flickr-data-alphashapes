@@ -1,0 +1,15 @@
+{
+  "id": 20211194,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Denis, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20211194,
+    "woe:name":"St.-Denis, Rhone-Alpes, France",
+    "woe:place_id":"GLYCtBmbAZ6e8ussBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.47041,46.174095,6.483178,46.178699],
+  "geometry": {"alpha":0.00015,"bbox":[6.4704098701477,46.174095153809,6.4831781387329,46.178699493408],"coordinates":[[[[6.483178,46.175972],[6.483049,46.174721],[6.481032,46.174095],[6.476612,46.174126],[6.47041,46.178699],[6.483178,46.175972]]]],"created":1292452299,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20211194_20101215_2105f125de.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

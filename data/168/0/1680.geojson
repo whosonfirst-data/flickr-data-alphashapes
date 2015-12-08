@@ -1,0 +1,15 @@
+{
+  "id": 1680,
+  "type": "Feature",
+  "properties": {
+    "name":"Shebandowan, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1680,
+    "woe:name":"Shebandowan, Ontario, Canada",
+    "woe:place_id":"WVXjZvCYB5Qo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.114494,48.622471,-90.095459,48.635036],
+  "geometry": {"alpha":0.00015,"bbox":[-90.11449432373,48.622470855713,-90.095458984375,48.635036468506],"coordinates":[[[[-90.095985,48.635036],[-90.095459,48.634575],[-90.114494,48.622471],[-90.096123,48.635014],[-90.095985,48.635036]]]],"created":1248297609,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3431/shapefiles/1680_20090722_8cc5660bf5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

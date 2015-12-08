@@ -1,0 +1,15 @@
+{
+  "id": 597292,
+  "type": "Feature",
+  "properties": {
+    "name":"La Celle, Centre, France",
+    "placetype":"locality",
+    "woe:id":597292,
+    "woe:name":"La Celle, Centre, France",
+    "woe:place_id":"YPV3OWWcCJsGYpc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.442655,46.767467,2.450101,46.770878],
+  "geometry": {"alpha":0.00015,"bbox":[2.4426550865173,46.767467498779,2.4501008987427,46.770877838135],"coordinates":[[[[2.447891,46.768925],[2.448663,46.768837],[2.450101,46.768677],[2.446904,46.767467],[2.445788,46.768471],[2.442655,46.770878],[2.447891,46.768925]]]],"created":1292483642,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/597292_20101216_c18586f8ab.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12666190,
+  "type": "Feature",
+  "properties": {
+    "name":"Marcillac-Lanville, France",
+    "placetype":"locality",
+    "woe:id":12666190,
+    "woe:name":"Marcillac-Lanville, France",
+    "woe:place_id":"dICCKDqYA5ptwTovWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.01193,45.855099,0.012818,45.856899],
+  "geometry": {"alpha":1e-05,"bbox":[0.011930000036955,45.855098724365,0.012818000279367,45.856899261475],"coordinates":[[[[0.012702,45.855286],[0.01193,45.856899],[0.012681,45.855423],[0.012818,45.855099],[0.012702,45.855286]]]],"created":1292501704,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12666190_20101216_7c23404a36.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

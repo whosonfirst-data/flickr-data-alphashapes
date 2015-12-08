@@ -1,0 +1,15 @@
+{
+  "id": 635000,
+  "type": "Feature",
+  "properties": {
+    "name":"Amerang, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":635000,
+    "woe:name":"Amerang, Bavaria, Germany",
+    "woe:place_id":"qRSSoOmfApnpju8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.288293,47.981865,12.311682,48.000546],
+  "geometry": {"alpha":0.00015,"bbox":[12.288292884827,47.981864929199,12.311681747437,48.000545501709],"coordinates":[[[[12.30873,47.996208],[12.311682,47.991673],[12.310668,47.989368],[12.307262,47.982437],[12.306919,47.981865],[12.288293,47.984589],[12.303357,48.000546],[12.30873,47.996208]]]],"created":1292537068,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/635000_20101216_d497c4b52e.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12510867,
+  "type": "Feature",
+  "properties": {
+    "name":"Freeport International Airport, The Bahamas",
+    "placetype":"locality",
+    "woe:id":12510867,
+    "woe:name":"Freeport International Airport, The Bahamas",
+    "woe:place_id":"ZwCAzJ6YA5kJWbQK.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.705757,26.548014,-78.704041,26.550259],
+  "geometry": {"alpha":1e-05,"bbox":[-78.705757141113,26.548013687134,-78.704040527344,26.550258636475],"coordinates":[[[[-78.705757,26.548704],[-78.705368,26.550259],[-78.704041,26.548014],[-78.705284,26.548454],[-78.705757,26.548704]]]],"created":1292448732,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12510867_20101215_d18155db55.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

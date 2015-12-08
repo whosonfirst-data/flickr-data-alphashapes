@@ -1,0 +1,15 @@
+{
+  "id": 12683784,
+  "type": "Feature",
+  "properties": {
+    "name":"Krauchthal, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683784,
+    "woe:name":"Krauchthal, Switzerland",
+    "woe:place_id":"V1L5gNCYA5rrzThttw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.5515,46.994331,7.555418,47.002449],
+  "geometry": {"alpha":1e-05,"bbox":[7.5514998435974,46.994331359863,7.5554180145264,47.002449035645],"coordinates":[[[[7.555418,47.002449],[7.555213,46.998749],[7.5515,46.994331],[7.553,46.9995],[7.555418,47.002449]]]],"created":1292457182,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12683784_20101215_3294087729.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

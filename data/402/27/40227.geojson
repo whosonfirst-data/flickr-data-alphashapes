@@ -1,0 +1,15 @@
+{
+  "id": 40227,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitechapel, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":40227,
+    "woe:name":"Whitechapel, Scotland, United Kingdom",
+    "woe:place_id":"ye0jj.CdAZ5aGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.09956,58.440815,-3.0869,58.44331],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0995600223541,58.440814971924,-3.0868999958038,58.443309783936],"coordinates":[[[[-3.092136,58.44331],[-3.091334,58.442833],[-3.0869,58.440815],[-3.092737,58.442905],[-3.09956,58.44315],[-3.092136,58.44331]]]],"created":1292450402,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/40227_20101215_48156126e2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

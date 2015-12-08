@@ -1,0 +1,15 @@
+{
+  "id": 2414734,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwood, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2414734,
+    "woe:name":"Greenwood, Texas, United States",
+    "woe:place_id":"o9cZK7.bBZ1oGCSH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.881424,32.705379,-97.879463,32.7061],
+  "geometry": {"alpha":0.00015,"bbox":[-97.881423950195,32.705379486084,-97.879463195801,32.706100463867],"coordinates":[[[[-97.879814,32.705601],[-97.881424,32.705379],[-97.88018,32.705959],[-97.879883,32.7061],[-97.879463,32.705948],[-97.879814,32.705601]]]],"created":1248118086,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2646/shapefiles/2414734_20090720_4b1806f79f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

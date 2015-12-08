@@ -1,0 +1,15 @@
+{
+  "id": 2382463,
+  "type": "Feature",
+  "properties": {
+    "name":"Cocklebur Flat, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2382463,
+    "woe:name":"Cocklebur Flat, Oklahoma, United States",
+    "woe:place_id":"dmsIPVybApQTXU3M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.207344,36.803581,-95.178848,36.821308],
+  "geometry": {"alpha":0.00015,"bbox":[-95.207344055176,36.803581237793,-95.178848266602,36.821308135986],"coordinates":[[[[-95.198593,36.821308],[-95.19001,36.814507],[-95.178848,36.809078],[-95.196533,36.803581],[-95.207344,36.808598],[-95.198593,36.821308]]]],"created":1292485988,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2382463_20101216_16b6c2f00e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

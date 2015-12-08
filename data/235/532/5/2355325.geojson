@@ -1,0 +1,15 @@
+{
+  "id": 2355325,
+  "type": "Feature",
+  "properties": {
+    "name":"Appleton, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2355325,
+    "woe:name":"Appleton, Minnesota, United States",
+    "woe:place_id":"Fd_s_BqbApkg2qrX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.021103,45.197414,-96.017334,45.20586],
+  "geometry": {"alpha":0.00015,"bbox":[-96.021102905273,45.197414398193,-96.017333984375,45.205860137939],"coordinates":[[[[-96.018799,45.202904],[-96.017334,45.197414],[-96.021103,45.200401],[-96.018738,45.20586],[-96.018784,45.204521],[-96.018799,45.202904]]]],"created":1292550866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2355325_20101217_406a9bbb7c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

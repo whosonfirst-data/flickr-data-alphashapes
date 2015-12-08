@@ -1,0 +1,15 @@
+{
+  "id": 2222,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosetown, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2222,
+    "woe:name":"Rosetown, Saskatchewan, Canada",
+    "woe:place_id":"285WFoKbA57J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.008057,51.524338,-107.986275,51.569492],
+  "geometry": {"alpha":0.00015,"bbox":[-108.00805664062,51.524337768555,-107.98627471924,51.569492340088],"coordinates":[[[[-107.989899,51.54932],[-107.99131,51.548656],[-107.993889,51.548164],[-107.995087,51.524338],[-107.997925,51.546814],[-107.997665,51.549324],[-108.008057,51.561943],[-107.996117,51.569122],[-107.986336,51.569492],[-107.986275,51.554047],[-107.987968,51.550018],[-107.989899,51.54932]]]],"created":1292544512,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2222_20101217_f6559cdfa1.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

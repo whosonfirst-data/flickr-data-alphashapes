@@ -1,0 +1,15 @@
+{
+  "id": 2369008,
+  "type": "Feature",
+  "properties": {
+    "name":"Bridgewater, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2369008,
+    "woe:name":"Bridgewater, Pennsylvania, United States",
+    "woe:place_id":"fpWRfKGbApq3tbBm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.307655,40.693687,-80.292206,40.718582],
+  "geometry": {"alpha":0.00015,"bbox":[-80.307655334473,40.693687438965,-80.292205810547,40.71858215332],"coordinates":[[[[-80.292763,40.695293],[-80.293442,40.693687],[-80.307655,40.69886],[-80.300919,40.718582],[-80.292206,40.699383],[-80.292763,40.695293]]]],"created":1292535908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2369008_20101216_0948f2323e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

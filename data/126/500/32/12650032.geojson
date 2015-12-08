@@ -1,0 +1,15 @@
+{
+  "id": 12650032,
+  "type": "Feature",
+  "properties": {
+    "name":"Noizay, France",
+    "placetype":"locality",
+    "woe:id":12650032,
+    "woe:name":"Noizay, France",
+    "woe:place_id":"FTZiF4mYA5pmBSWlHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.876202,47.419464,0.87661,47.419579],
+  "geometry": {"alpha":1e-05,"bbox":[0.87620198726654,47.419464111328,0.87660998106003,47.419578552246],"coordinates":[[[[0.876202,47.419498],[0.876224,47.419563],[0.876524,47.419579],[0.87661,47.419514],[0.876331,47.419464],[0.876202,47.419498]]]],"created":1292549011,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12650032_20101217_5338f0a4b0.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

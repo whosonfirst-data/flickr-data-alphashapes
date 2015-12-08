@@ -1,0 +1,15 @@
+{
+  "id": 2472100,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Grove, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2472100,
+    "woe:name":"Pine Grove, Oregon, United States",
+    "woe:place_id":"sGwMrQqbBZuUk1yM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.513527,45.646328,-121.50856,45.656887],
+  "geometry": {"alpha":0.00015,"bbox":[-121.5135269165,45.646327972412,-121.50856018066,45.656887054443],"coordinates":[[[[-121.50856,45.654701],[-121.512566,45.646328],[-121.512932,45.647797],[-121.51265,45.65416],[-121.513527,45.656887],[-121.50856,45.654701]]]],"created":1292521219,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2472100_20101216_178c14e749.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12628896,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Burg, Germany",
+    "placetype":"locality",
+    "woe:id":12628896,
+    "woe:name":"Gemeinde Burg, Germany",
+    "woe:place_id":"8eH2AvmYA5rPSrC9ew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.119827,50.008068,7.124118,50.01601],
+  "geometry": {"alpha":1e-05,"bbox":[7.1198267936707,50.008068084717,7.1241178512573,50.016010284424],"coordinates":[[[[7.121908,50.008675],[7.119827,50.011047],[7.121543,50.01601],[7.124118,50.010277],[7.123818,50.008068],[7.123024,50.008274],[7.121908,50.008675]]]],"created":1292517629,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12628896_20101216_57bd8a25d0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

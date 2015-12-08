@@ -1,0 +1,15 @@
+{
+  "id": 2515,
+  "type": "Feature",
+  "properties": {
+    "name":"Grenfell, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2515,
+    "woe:name":"Grenfell, Saskatchewan, Canada",
+    "woe:place_id":"CdsfuWibBJ39",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.935684,50.405472,-102.918549,50.415409],
+  "geometry": {"alpha":0.00015,"bbox":[-102.9356842041,50.405471801758,-102.91854858398,50.415409088135],"coordinates":[[[[-102.930756,50.405472],[-102.932198,50.406219],[-102.935684,50.4137],[-102.929703,50.414097],[-102.918549,50.415409],[-102.926186,50.412811],[-102.930756,50.405472]]]],"created":1292482507,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2515_20101216_a65fe716ff.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

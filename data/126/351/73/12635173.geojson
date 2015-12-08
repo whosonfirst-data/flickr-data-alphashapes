@@ -1,0 +1,15 @@
+{
+  "id": 12635173,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kranzberg, Germany",
+    "placetype":"locality",
+    "woe:id":12635173,
+    "woe:name":"Gemeinde Kranzberg, Germany",
+    "woe:place_id":"6girQ.OYA5qnHWVo4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.604652,48.396526,11.608943,48.398945],
+  "geometry": {"alpha":1e-05,"bbox":[11.604652404785,48.39652633667,11.608942985535,48.398944854736],"coordinates":[[[[11.604824,48.397865],[11.604652,48.39798],[11.604824,48.398037],[11.608117,48.398945],[11.608943,48.396526],[11.604824,48.397865]]]],"created":1292507829,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12635173_20101216_22267e768f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

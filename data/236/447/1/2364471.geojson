@@ -1,0 +1,15 @@
+{
+  "id": 2364471,
+  "type": "Feature",
+  "properties": {
+    "name":"Bird City, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2364471,
+    "woe:name":"Bird City, Kansas, United States",
+    "woe:place_id":"aB9ifW.bAprIklr.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.550751,39.745853,-101.530151,39.758408],
+  "geometry": {"alpha":0.00015,"bbox":[-101.55075073242,39.745853424072,-101.53015136719,39.758407592773],"coordinates":[[[[-101.530151,39.750092],[-101.533585,39.745853],[-101.550751,39.758408],[-101.532768,39.75016],[-101.530151,39.750092]]]],"created":1292459113,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2364471_20101216_411c14d25e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

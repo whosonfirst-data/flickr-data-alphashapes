@@ -1,0 +1,15 @@
+{
+  "id": 23400165,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambray, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400165,
+    "woe:name":"Cambray, Ontario, Canada",
+    "woe:place_id":"qaAXOzGbApiLcYEKcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.796272,44.391186,-78.791725,44.392841],
+  "geometry": {"alpha":0.00015,"bbox":[-78.796272277832,44.391185760498,-78.791725158691,44.392841339111],"coordinates":[[[[-78.791985,44.392548],[-78.791725,44.39209],[-78.793976,44.391453],[-78.794983,44.391186],[-78.796272,44.392456],[-78.795563,44.392841],[-78.791985,44.392548]]]],"created":1292471763,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/23400165_20101216_30b2e259dd.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 602859,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Falgoux, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":602859,
+    "woe:name":"Le Falgoux, Auvergne, France",
+    "woe:place_id":"Q2UWsOGfAZ5RcN4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.610368,45.154442,2.623414,45.164066],
+  "geometry": {"alpha":0.00015,"bbox":[2.610368013382,45.154441833496,2.6234140396118,45.164066314697],"coordinates":[[[[2.622883,45.155128],[2.623414,45.154442],[2.622777,45.15472],[2.622706,45.154911],[2.610368,45.164066],[2.622883,45.155128]]]],"created":1292453554,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/602859_20101215_6cbdd73ce9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

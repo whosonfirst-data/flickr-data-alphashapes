@@ -1,0 +1,15 @@
+{
+  "id": 501163,
+  "type": "Feature",
+  "properties": {
+    "name":"Kopalino, Pomeranian, Poland",
+    "placetype":"locality",
+    "woe:id":501163,
+    "woe:name":"Kopalino, Pomeranian, Poland",
+    "woe:place_id":"O1m8XRWcAZ1MsH4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.816734,54.793621,17.830896,54.810677],
+  "geometry": {"alpha":0.00015,"bbox":[17.816734313965,54.793621063232,17.830896377563,54.810676574707],"coordinates":[[[[17.82085,54.80901],[17.823647,54.809345],[17.829437,54.810677],[17.830896,54.808994],[17.823343,54.793621],[17.816734,54.80677],[17.82085,54.80901]]]],"created":1292548487,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/501163_20101217_238accd451.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

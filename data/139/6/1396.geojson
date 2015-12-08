@@ -1,0 +1,15 @@
+{
+  "id": 1396,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Anselme, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1396,
+    "woe:name":"St.-Anselme, Quebec, Canada",
+    "woe:place_id":"QeMt3rWYApVo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.971916,46.618317,-70.949532,46.628963],
+  "geometry": {"alpha":0.00015,"bbox":[-70.97191619873,46.618316650391,-70.949531555176,46.628963470459],"coordinates":[[[[-70.957687,46.624359],[-70.949532,46.618317],[-70.956596,46.618801],[-70.971916,46.628963],[-70.957687,46.624359]]]],"created":1292558465,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/1396_20101217_542b47e341.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

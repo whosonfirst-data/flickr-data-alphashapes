@@ -1,0 +1,15 @@
+{
+  "id": 20092724,
+  "type": "Feature",
+  "properties": {
+    "name":"Horsham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092724,
+    "woe:name":"Horsham, England, United Kingdom",
+    "woe:place_id":"We.FuaubAZxvIOVXgg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.385462,52.209499,-2.374834,52.217999],
+  "geometry": {"alpha":0.00015,"bbox":[-2.3854620456696,52.209499359131,-2.3748340606689,52.217998504639],"coordinates":[[[[-2.381962,52.213734],[-2.385462,52.217464],[-2.380667,52.217999],[-2.374834,52.217667],[-2.374834,52.209499],[-2.381962,52.213734]]]],"created":1292441586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/20092724_20101215_dd52fec377.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

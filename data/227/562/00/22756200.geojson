@@ -1,0 +1,15 @@
+{
+  "id": 22756200,
+  "type": "Feature",
+  "properties": {
+    "name":"Couzon-au-Mont-d'Or, France",
+    "placetype":"locality",
+    "woe:id":22756200,
+    "woe:name":"Couzon-au-Mont-d'Or, France",
+    "woe:place_id":"WIDXZKabA5t_h62RWg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.821624,45.844353,4.825744,45.851944],
+  "geometry": {"alpha":1e-05,"bbox":[4.8216238021851,45.844352722168,4.8257441520691,45.851943969727],"coordinates":[[[[4.822311,45.847935],[4.824444,45.851944],[4.824542,45.846886],[4.825744,45.844353],[4.821624,45.845661],[4.822311,45.847935]]]],"created":1292523617,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/22756200_20101216_52380bcf89.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

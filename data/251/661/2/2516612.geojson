@@ -1,0 +1,15 @@
+{
+  "id": 2516612,
+  "type": "Feature",
+  "properties": {
+    "name":"West Amana, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2516612,
+    "woe:name":"West Amana, Iowa, United States",
+    "woe:place_id":"cNZSJbmbBJ3jSmrJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.973763,41.799854,-91.961357,41.807255],
+  "geometry": {"alpha":0.00015,"bbox":[-91.973762512207,41.799854278564,-91.961357116699,41.80725479126],"coordinates":[[[[-91.962929,41.807255],[-91.961357,41.805965],[-91.962692,41.805294],[-91.973763,41.799854],[-91.965179,41.807022],[-91.962929,41.807255]]]],"created":1292534004,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2516612_20101216_765e1b1ea5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

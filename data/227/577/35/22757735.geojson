@@ -1,0 +1,15 @@
+{
+  "id": 22757735,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Laurent-du-Verdon, France",
+    "placetype":"locality",
+    "woe:id":22757735,
+    "woe:name":"St.-Laurent-du-Verdon, France",
+    "woe:place_id":"y7TeYuubA5uy0Xi03Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.085996,43.718636,6.090202,43.723972],
+  "geometry": {"alpha":1e-05,"bbox":[6.0859961509705,43.718635559082,6.0902018547058,43.723972320557],"coordinates":[[[[6.089277,43.723347],[6.090202,43.720684],[6.087799,43.719193],[6.085996,43.718636],[6.087112,43.723972],[6.089277,43.723347]]]],"created":1292545555,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/22757735_20101217_784816bce7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

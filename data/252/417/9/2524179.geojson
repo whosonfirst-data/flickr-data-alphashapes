@@ -1,0 +1,15 @@
+{
+  "id": 2524179,
+  "type": "Feature",
+  "properties": {
+    "name":"Wrightsville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2524179,
+    "woe:name":"Wrightsville, Georgia, United States",
+    "woe:place_id":"be7RDVybBJ7yJqrF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.733444,32.722076,-82.717209,32.739925],
+  "geometry": {"alpha":0.00015,"bbox":[-82.733444213867,32.722076416016,-82.717208862305,32.739925384521],"coordinates":[[[[-82.717209,32.730068],[-82.717628,32.722076],[-82.733444,32.727978],[-82.725334,32.739925],[-82.720184,32.73444],[-82.717209,32.730068]]]],"created":1292545571,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2524179_20101217_32cb1398a9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

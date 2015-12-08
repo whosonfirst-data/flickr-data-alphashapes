@@ -1,0 +1,15 @@
+{
+  "id": 2467639,
+  "type": "Feature",
+  "properties": {
+    "name":"Palisades, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2467639,
+    "woe:name":"Palisades, Washington, United States",
+    "woe:place_id":"ZiPAly6bBZr_igQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.878342,47.456039,-119.873405,47.464657],
+  "geometry": {"alpha":0.00015,"bbox":[-119.8783416748,47.456039428711,-119.87340545654,47.464656829834],"coordinates":[[[[-119.873444,47.464657],[-119.873413,47.464375],[-119.873405,47.464134],[-119.873444,47.463528],[-119.878342,47.456039],[-119.873444,47.464657]]]],"created":1292546716,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2467639_20101217_a15c5e3213.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

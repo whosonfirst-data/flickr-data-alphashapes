@@ -1,0 +1,15 @@
+{
+  "id": 425825,
+  "type": "Feature",
+  "properties": {
+    "name":"Borebi, Sao Paulo, Brazil",
+    "placetype":"locality",
+    "woe:id":425825,
+    "woe:name":"Borebi, Sao Paulo, Brazil",
+    "woe:place_id":"7yaKrY.dA5nMgFY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-48.973274,-22.573439,-48.964691,-22.560122],
+  "geometry": {"alpha":0.00015,"bbox":[-48.973274230957,-22.573438644409,-48.964691162109,-22.560121536255],"coordinates":[[[[-48.964691,-22.560122],[-48.965378,-22.562977],[-48.973274,-22.573439],[-48.972073,-22.566622],[-48.965641,-22.560369],[-48.964691,-22.560122]]]],"created":1292474408,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/425825_20101216_47a477a70c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

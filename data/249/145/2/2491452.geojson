@@ -1,0 +1,15 @@
+{
+  "id": 2491452,
+  "type": "Feature",
+  "properties": {
+    "name":"Shadyside, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2491452,
+    "woe:name":"Shadyside, Michigan, United States",
+    "woe:place_id":"VSL91DKbBZU7QCHN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.537132,41.828625,-84.530075,41.83123],
+  "geometry": {"alpha":0.00015,"bbox":[-84.537132263184,41.828624725342,-84.530075073242,41.831230163574],"coordinates":[[[[-84.530075,41.829144],[-84.531685,41.828625],[-84.537132,41.830017],[-84.532936,41.83123],[-84.530075,41.829144]]]],"created":1234695006,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3577/shapefiles/2491452_20090215_39599bf296.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

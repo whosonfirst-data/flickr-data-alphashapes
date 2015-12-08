@@ -1,0 +1,15 @@
+{
+  "id": 684860,
+  "type": "Feature",
+  "properties": {
+    "name":"Pfarrkirchen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":684860,
+    "woe:name":"Pfarrkirchen, Bavaria, Germany",
+    "woe:place_id":"BRzzk6qfCZh1JYM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.931573,48.427784,12.942066,48.436176],
+  "geometry": {"alpha":0.00015,"bbox":[12.931572914124,48.427783966064,12.942066192627,48.436176300049],"coordinates":[[[[12.937871,48.430923],[12.932109,48.427784],[12.931573,48.428284],[12.93683,48.431999],[12.939276,48.433647],[12.942066,48.436176],[12.937871,48.430923]]]],"created":1248055924,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3478/shapefiles/684860_20090720_175a652064.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

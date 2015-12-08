@@ -1,0 +1,15 @@
+{
+  "id": 133841,
+  "type": "Feature",
+  "properties": {
+    "name":"Mocorito, Sinaloa, Mexico",
+    "placetype":"locality",
+    "woe:id":133841,
+    "woe:name":"Mocorito, Sinaloa, Mexico",
+    "woe:place_id":"7Hs_G72YAp.9NXo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.931061,25.479618,-107.920052,25.492249],
+  "geometry": {"alpha":0.00015,"bbox":[-107.93106079102,25.47961807251,-107.92005157471,25.492248535156],"coordinates":[[[[-107.923332,25.479618],[-107.931061,25.48667],[-107.921791,25.492249],[-107.920586,25.48171],[-107.920052,25.4802],[-107.923332,25.479618]]]],"created":1292522890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/133841_20101216_cfffdbeac2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

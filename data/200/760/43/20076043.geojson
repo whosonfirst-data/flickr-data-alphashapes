@@ -1,0 +1,15 @@
+{
+  "id": 20076043,
+  "type": "Feature",
+  "properties": {
+    "name":"Gerenzano, Italy",
+    "placetype":"locality",
+    "woe:id":20076043,
+    "woe:name":"Gerenzano, Italy",
+    "woe:place_id":"G6MQN22bAZzgGAGGTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.973255,45.630604,8.976602,45.633846],
+  "geometry": {"alpha":1e-05,"bbox":[8.9732551574707,45.630603790283,8.976601600647,45.633846282959],"coordinates":[[[[8.974113,45.630604],[8.973255,45.632404],[8.974542,45.633846],[8.976602,45.633785],[8.975658,45.631565],[8.974113,45.630604]]]],"created":1292537792,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20076043_20101216_14b5b93248.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

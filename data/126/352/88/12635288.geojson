@@ -1,0 +1,15 @@
+{
+  "id": 12635288,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Ahorn, Germany",
+    "placetype":"locality",
+    "woe:id":12635288,
+    "woe:name":"Gemeinde Ahorn, Germany",
+    "woe:place_id":"SgYJS62YA5pLyW6Qsw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.932512,50.213326,10.937919,50.218132],
+  "geometry": {"alpha":1e-05,"bbox":[10.932512283325,50.213325500488,10.937918663025,50.218132019043],"coordinates":[[[[10.93337,50.218132],[10.935402,50.216961],[10.937919,50.216785],[10.935773,50.216129],[10.934486,50.213326],[10.932512,50.215824],[10.93337,50.218132]]]],"created":1292523534,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12635288_20101216_9459203456.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

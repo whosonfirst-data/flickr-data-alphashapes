@@ -1,0 +1,15 @@
+{
+  "id": 2504154,
+  "type": "Feature",
+  "properties": {
+    "name":"Tarrant, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2504154,
+    "woe:name":"Tarrant, Alabama, United States",
+    "woe:place_id":"BXX23WObBJxK7wTF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.773621,33.56575,-86.754112,33.587276],
+  "geometry": {"alpha":0.00015,"bbox":[-86.773620605469,33.56575012207,-86.754112243652,33.58727645874],"coordinates":[[[[-86.754112,33.568867],[-86.760193,33.56575],[-86.773621,33.584736],[-86.767113,33.587276],[-86.755264,33.569481],[-86.754112,33.568867]]]],"created":1292530869,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2504154_20101216_f068061744.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

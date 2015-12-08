@@ -1,0 +1,15 @@
+{
+  "id": 725901,
+  "type": "Feature",
+  "properties": {
+    "name":"Vidor, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":725901,
+    "woe:name":"Vidor, Veneto, Italy",
+    "woe:place_id":"zmEa5iKeA5lN0Jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.036123,45.857784,12.041199,45.8657],
+  "geometry": {"alpha":0.00015,"bbox":[12.036123275757,45.85778427124,12.041198730469,45.865699768066],"coordinates":[[[[12.036123,45.863537],[12.036423,45.864792],[12.041199,45.8657],[12.041,45.865002],[12.038955,45.857784],[12.036123,45.863537]]]],"created":1292499249,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/725901_20101216_e414cba0cd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

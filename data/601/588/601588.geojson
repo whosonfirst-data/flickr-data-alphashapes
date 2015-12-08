@@ -1,0 +1,15 @@
+{
+  "id": 601588,
+  "type": "Feature",
+  "properties": {
+    "name":"Lascaux, Limousin, France",
+    "placetype":"locality",
+    "woe:id":601588,
+    "woe:name":"Lascaux, Limousin, France",
+    "woe:place_id":"NeSDowSfAZ3Tyas",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.355577,45.329334,1.368398,45.341286],
+  "geometry": {"alpha":0.00015,"bbox":[1.3555769920349,45.329334259033,1.3683979511261,45.341285705566],"coordinates":[[[[1.362304,45.340019],[1.363463,45.341286],[1.366767,45.340683],[1.368398,45.330971],[1.355577,45.329334],[1.362304,45.340019]]]],"created":1292540212,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/601588_20101216_dbbe847927.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

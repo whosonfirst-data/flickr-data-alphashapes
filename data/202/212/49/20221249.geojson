@@ -1,0 +1,15 @@
+{
+  "id": 20221249,
+  "type": "Feature",
+  "properties": {
+    "name":"Canapost, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20221249,
+    "woe:name":"Canapost, Catalonia, Spain",
+    "woe:place_id":"phrfZcmbAZ5uZtFPmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.067245,41.974575,3.07196,41.977741],
+  "geometry": {"alpha":0.00015,"bbox":[3.0672450065613,41.974575042725,3.0719599723816,41.977741241455],"coordinates":[[[[3.070335,41.97723],[3.07196,41.975319],[3.069305,41.974998],[3.067245,41.974575],[3.069477,41.977741],[3.070335,41.97723]]]],"created":1292538730,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/20221249_20101216_b99a5284f9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

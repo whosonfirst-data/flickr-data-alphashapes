@@ -1,0 +1,15 @@
+{
+  "id": 23393249,
+  "type": "Feature",
+  "properties": {
+    "name":"South Nelson, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393249,
+    "woe:name":"South Nelson, New Brunswick, Canada",
+    "woe:place_id":"K1UATc6bAp9jOn_vHQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.569496,46.96151,-65.55542,46.979225],
+  "geometry": {"alpha":0.00015,"bbox":[-65.569496154785,46.96150970459,-65.555419921875,46.979225158691],"coordinates":[[[[-65.556404,46.979225],[-65.55542,46.972286],[-65.569496,46.96151],[-65.562454,46.975979],[-65.556404,46.979225]]]],"created":1292541808,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/23393249_20101216_60765a35cb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

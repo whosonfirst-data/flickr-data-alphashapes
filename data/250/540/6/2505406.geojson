@@ -1,0 +1,15 @@
+{
+  "id": 2505406,
+  "type": "Feature",
+  "properties": {
+    "name":"The Pines, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2505406,
+    "woe:name":"The Pines, Maine, United States",
+    "woe:place_id":"3bm3qCybBJx6caFl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.997131,45.148693,-67.989235,45.169155],
+  "geometry": {"alpha":0.00015,"bbox":[-67.997131347656,45.148693084717,-67.989234924316,45.16915512085],"coordinates":[[[[-67.992805,45.169155],[-67.989235,45.160736],[-67.990005,45.159103],[-67.995758,45.148693],[-67.997131,45.166878],[-67.992805,45.169155]]]],"created":1292518784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2505406_20101216_43269a6d6d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

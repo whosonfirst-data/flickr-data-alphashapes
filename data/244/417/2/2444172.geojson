@@ -1,0 +1,15 @@
+{
+  "id": 2444172,
+  "type": "Feature",
+  "properties": {
+    "name":"Magnolia, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2444172,
+    "woe:name":"Magnolia, North Carolina, United States",
+    "woe:place_id":"tNUybIybBZinIV8L",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.055672,34.891808,-78.053246,34.896622],
+  "geometry": {"alpha":0.00015,"bbox":[-78.055671691895,34.891807556152,-78.053245544434,34.896621704102],"coordinates":[[[[-78.053711,34.895809],[-78.053246,34.893177],[-78.054512,34.891808],[-78.055672,34.896137],[-78.054298,34.896622],[-78.053711,34.895809]]]],"created":1292533982,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2444172_20101216_4cbe6bff3e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

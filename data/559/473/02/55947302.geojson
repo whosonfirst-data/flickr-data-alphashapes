@@ -1,0 +1,15 @@
+{
+  "id": 55947302,
+  "type": "Feature",
+  "properties": {
+    "name":"Khom, Lop Buri, Thailand",
+    "placetype":"locality",
+    "woe:id":55947302,
+    "woe:name":"Khom, Lop Buri, Thailand",
+    "woe:place_id":"kuB98YucBJXcSm_tNA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [101.000999,15.032833,101.001404,15.0329],
+  "geometry": {"alpha":0.00015,"bbox":[101.00099945068,15.032833099365,101.00140380859,15.032899856567],"coordinates":[[[[101.001404,15.0329],[101.001404,15.032899],[101.001335,15.032833],[101.000999,15.032833],[101.000999,15.0329],[101.001404,15.0329]]]],"created":1292435361,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/55947302_20101215_742409a149.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

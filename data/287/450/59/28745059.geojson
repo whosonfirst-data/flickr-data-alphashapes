@@ -1,0 +1,15 @@
+{
+  "id": 28745059,
+  "type": "Feature",
+  "properties": {
+    "name":"Washington, Maine, United States",
+    "placetype":"locality",
+    "woe:id":28745059,
+    "woe:name":"Washington, Maine, United States",
+    "woe:place_id":"6fUPF5ybCZuCEoKLsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.351082,44.649361,-70.326233,44.670208],
+  "geometry": {"alpha":0.00015,"bbox":[-70.351081848145,44.649360656738,-70.326232910156,44.670207977295],"coordinates":[[[[-70.340927,44.65797],[-70.340584,44.657909],[-70.326233,44.650337],[-70.343933,44.650246],[-70.345886,44.649361],[-70.347908,44.660046],[-70.351082,44.670208],[-70.340927,44.65797]]]],"created":1292519220,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/28745059_20101216_9506c95f42.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

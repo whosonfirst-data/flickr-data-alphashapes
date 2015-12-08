@@ -1,0 +1,15 @@
+{
+  "id": 2366323,
+  "type": "Feature",
+  "properties": {
+    "name":"Bohemia, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2366323,
+    "woe:name":"Bohemia, Louisiana, United States",
+    "woe:place_id":"EDGpyiWbApqVoN6V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.773407,29.515673,-89.742508,29.538441],
+  "geometry": {"alpha":0.00015,"bbox":[-89.773406982422,29.515672683716,-89.74250793457,29.538440704346],"coordinates":[[[[-89.742508,29.538441],[-89.753151,29.528061],[-89.767258,29.515673],[-89.773407,29.536276],[-89.753838,29.529255],[-89.742508,29.538441]]]],"created":1292521144,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2366323_20101216_c2cdd0e6cf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

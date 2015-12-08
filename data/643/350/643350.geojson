@@ -1,0 +1,15 @@
+{
+  "id": 643350,
+  "type": "Feature",
+  "properties": {
+    "name":"Creuzburg, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":643350,
+    "woe:name":"Creuzburg, Thuringia, Germany",
+    "woe:place_id":"feGI8rWfBZ8PDmw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.221104,51.049305,10.251703,51.055801],
+  "geometry": {"alpha":0.00015,"bbox":[10.221103668213,51.049304962158,10.251703262329,51.055801391602],"coordinates":[[[[10.244218,51.049305],[10.221104,51.051254],[10.242691,51.054775],[10.244879,51.055504],[10.249965,51.055801],[10.251703,51.049355],[10.244218,51.049305]]]],"created":1292522643,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/643350_20101216_2fbce3ea45.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 709883,
+  "type": "Feature",
+  "properties": {
+    "name":"Ailoche, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":709883,
+    "woe:name":"Ailoche, Piedmont, Italy",
+    "woe:place_id":"rFiFI9CeAZWa7sA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.225187,45.705925,8.234692,45.710739],
+  "geometry": {"alpha":0.00015,"bbox":[8.2251873016357,45.705924987793,8.234691619873,45.710739135742],"coordinates":[[[[8.228534,45.710739],[8.232589,45.71048],[8.234692,45.705925],[8.225187,45.706028],[8.226388,45.708679],[8.227676,45.71059],[8.228534,45.710739]]]],"created":1292484124,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/709883_20101216_b10aa32a8d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

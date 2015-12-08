@@ -1,0 +1,15 @@
+{
+  "id": 12694261,
+  "type": "Feature",
+  "properties": {
+    "name":"La Riba, Spain",
+    "placetype":"locality",
+    "woe:id":12694261,
+    "woe:name":"La Riba, Spain",
+    "woe:place_id":"LfIK9v6YA5qngyAmUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.155023,41.314167,1.16043,41.315208],
+  "geometry": {"alpha":1e-05,"bbox":[1.1550229787827,41.314167022705,1.1604299545288,41.315208435059],"coordinates":[[[[1.159166,41.314167],[1.155023,41.315048],[1.158875,41.315166],[1.16043,41.315208],[1.159166,41.314167]]]],"created":1292531777,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12694261_20101216_c5427c7816.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

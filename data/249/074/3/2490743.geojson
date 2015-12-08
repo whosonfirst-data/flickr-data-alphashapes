@@ -1,0 +1,15 @@
+{
+  "id": 2490743,
+  "type": "Feature",
+  "properties": {
+    "name":"Semans Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2490743,
+    "woe:name":"Semans Corner, New York, United States",
+    "woe:place_id":"TIfIPQGbBZVhl8Yg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.342033,42.663471,-77.327614,42.676945],
+  "geometry": {"alpha":0.00015,"bbox":[-77.34203338623,42.663471221924,-77.327613830566,42.676944732666],"coordinates":[[[[-77.335083,42.665398],[-77.342033,42.670113],[-77.327873,42.676945],[-77.327614,42.676388],[-77.331902,42.663471],[-77.335083,42.665398]]]],"created":1292525062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2490743_20101216_18d4d94e50.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

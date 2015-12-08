@@ -1,0 +1,15 @@
+{
+  "id": 2515500,
+  "type": "Feature",
+  "properties": {
+    "name":"Waverly, New York, United States",
+    "placetype":"locality",
+    "woe:id":2515500,
+    "woe:name":"Waverly, New York, United States",
+    "woe:place_id":"3aC1MaWbBJ3jlgIs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.562637,41.992878,-76.524925,42.016327],
+  "geometry": {"alpha":0.00015,"bbox":[-76.562637329102,41.992877960205,-76.524925231934,42.016326904297],"coordinates":[[[[-76.539772,41.992878],[-76.553444,42.000141],[-76.562637,42.012169],[-76.554749,42.016327],[-76.551117,42.014057],[-76.544151,42.012058],[-76.533279,42.013638],[-76.525612,42.01104],[-76.524925,42.002174],[-76.531929,41.997131],[-76.539772,41.992878]]]],"created":1292532263,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2515500_20101216_b55d200786.tar.gz"},"points":36,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 846148,
+  "type": "Feature",
+  "properties": {
+    "name":"Vaemla, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":846148,
+    "woe:name":"Vaemla, Harju County, Estonia",
+    "woe:place_id":"iK4v8PyRBZowTyo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.131353,59.272762,24.135738,59.276447],
+  "geometry": {"alpha":0.00015,"bbox":[24.131353378296,59.272762298584,24.135738372803,59.276447296143],"coordinates":[[[[24.131678,59.275036],[24.131353,59.27586],[24.131468,59.276447],[24.135738,59.272762],[24.133648,59.273937],[24.132311,59.274609],[24.131678,59.275036]]]],"created":1247786162,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2654/shapefiles/846148_20090716_82797a32e3.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

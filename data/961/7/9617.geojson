@@ -1,0 +1,15 @@
+{
+  "id": 9617,
+  "type": "Feature",
+  "properties": {
+    "name":"Louis Creek, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9617,
+    "woe:name":"Louis Creek, British Columbia, Canada",
+    "woe:place_id":"dSx3jW6QB50p",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.121902,51.147156,-120.116013,51.160248],
+  "geometry": {"alpha":0.00015,"bbox":[-120.12190246582,51.147155761719,-120.11601257324,51.160247802734],"coordinates":[[[[-120.118759,51.149902],[-120.121902,51.160248],[-120.12162,51.160206],[-120.117126,51.154102],[-120.116089,51.147392],[-120.116013,51.147156],[-120.118759,51.149902]]]],"created":1292482684,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/9617_20101216_3e93dbd8fd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

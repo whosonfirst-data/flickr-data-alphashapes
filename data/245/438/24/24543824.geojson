@@ -1,0 +1,15 @@
+{
+  "id": 24543824,
+  "type": "Feature",
+  "properties": {
+    "name":"Distomo, Greece",
+    "placetype":"locality",
+    "woe:id":24543824,
+    "woe:name":"Distomo, Greece",
+    "woe:place_id":"WeoleMObBZlvZmN64A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.745983,38.39455,22.747192,38.395542],
+  "geometry": {"alpha":1e-05,"bbox":[22.745983123779,38.394550323486,22.747192382812,38.395542144775],"coordinates":[[[[22.746733,38.394913],[22.746679,38.394882],[22.746077,38.39455],[22.745983,38.394978],[22.746735,38.395542],[22.747162,38.395351],[22.747192,38.39513],[22.746733,38.394913]]]],"created":1292525987,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/24543824_20101216_75ec593ba6.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

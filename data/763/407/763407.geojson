@@ -1,0 +1,15 @@
+{
+  "id": 763407,
+  "type": "Feature",
+  "properties": {
+    "name":"La Franca, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":763407,
+    "woe:name":"La Franca, Asturias, Spain",
+    "woe:place_id":"zDUZYsWeB59wYaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.54379,43.396385,-4.533662,43.399319],
+  "geometry": {"alpha":0.00015,"bbox":[-4.5437898635864,43.396385192871,-4.5336618423462,43.399318695068],"coordinates":[[[[-4.5407,43.396385],[-4.54379,43.397812],[-4.54215,43.399319],[-4.539756,43.398998],[-4.533662,43.399185],[-4.5407,43.396385]]]],"created":1292499246,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/763407_20101216_ce2cde82d4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

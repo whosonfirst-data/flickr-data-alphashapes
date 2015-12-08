@@ -1,0 +1,15 @@
+{
+  "id": 1629,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Zotique, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1629,
+    "woe:name":"St.-Zotique, Quebec, Canada",
+    "woe:place_id":"FNWxkcmYB57d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.285721,45.21373,-74.242859,45.259617],
+  "geometry": {"alpha":0.00015,"bbox":[-74.285720825195,45.213729858398,-74.242858886719,45.259616851807],"coordinates":[[[[-74.264488,45.226425],[-74.275986,45.21373],[-74.285721,45.229847],[-74.275391,45.242867],[-74.251183,45.245689],[-74.263489,45.259617],[-74.248474,45.255653],[-74.242859,45.258816],[-74.251183,45.245689],[-74.264488,45.226425]]]],"created":1248228844,"edges":10,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2656/shapefiles/1629_20090722_5e0dfcf328.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

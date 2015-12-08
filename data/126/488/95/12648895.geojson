@@ -1,0 +1,15 @@
+{
+  "id": 12648895,
+  "type": "Feature",
+  "properties": {
+    "name":"Massilly, France",
+    "placetype":"locality",
+    "woe:id":12648895,
+    "woe:name":"Massilly, France",
+    "woe:place_id":"9iVcM.WYA5pUe8rG2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.682579,46.490601,4.684295,46.491699],
+  "geometry": {"alpha":1e-05,"bbox":[4.6825790405273,46.490600585938,4.6842951774597,46.49169921875],"coordinates":[[[[4.683244,46.491699],[4.684295,46.490829],[4.683995,46.490601],[4.682579,46.491184],[4.683244,46.491699]]]],"created":1292501582,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12648895_20101216_0bf1e8856b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

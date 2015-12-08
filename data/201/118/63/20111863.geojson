@@ -1,0 +1,15 @@
+{
+  "id": 20111863,
+  "type": "Feature",
+  "properties": {
+    "name":"Bocco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20111863,
+    "woe:name":"Bocco, Lombardy, Italy",
+    "woe:place_id":"muxUopGbAZ21Z0BW3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.265508,44.727345,9.274349,44.734051],
+  "geometry": {"alpha":0.00015,"bbox":[9.2655076980591,44.727344512939,9.2743492126465,44.734050750732],"coordinates":[[[[9.265508,44.732742],[9.265594,44.733257],[9.271602,44.734051],[9.274349,44.727345],[9.267997,44.731613],[9.265508,44.732742]]]],"created":1292445513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/20111863_20101215_8ae52fd5f2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

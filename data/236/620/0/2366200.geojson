@@ -1,0 +1,15 @@
+{
+  "id": 2366200,
+  "type": "Feature",
+  "properties": {
+    "name":"Bobtown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2366200,
+    "woe:name":"Bobtown, Tennessee, United States",
+    "woe:place_id":"hEQ4cqWbAprX4j9l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.880333,35.160831,-85.879829,35.162167],
+  "geometry": {"alpha":0.00015,"bbox":[-85.880332946777,35.160831451416,-85.879829406738,35.162166595459],"coordinates":[[[[-85.880333,35.161167],[-85.879837,35.162167],[-85.879829,35.162167],[-85.880165,35.160831],[-85.880333,35.161167]]]],"created":1292454158,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2366200_20101215_17372eb865.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

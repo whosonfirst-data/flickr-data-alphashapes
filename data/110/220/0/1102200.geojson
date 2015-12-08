@@ -1,0 +1,15 @@
+{
+  "id": 1102200,
+  "type": "Feature",
+  "properties": {
+    "name":"Gibson, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1102200,
+    "woe:name":"Gibson, Western Australia, Australia",
+    "woe:place_id":"1M5wStKYAJyc.SL4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [121.819153,-33.685497,121.830421,-33.682827],
+  "geometry": {"alpha":0.00015,"bbox":[121.81915283203,-33.685497283936,121.83042144775,-33.68282699585],"coordinates":[[[[121.830421,-33.682827],[121.828247,-33.684238],[121.819153,-33.685497],[121.826485,-33.683659],[121.830109,-33.682877],[121.830421,-33.682827]]]],"created":1292458956,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/1102200_20101216_f8991c8290.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

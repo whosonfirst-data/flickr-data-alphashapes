@@ -1,0 +1,15 @@
+{
+  "id": 20003,
+  "type": "Feature",
+  "properties": {
+    "name":"Faygate, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20003,
+    "woe:name":"Faygate, England, United Kingdom",
+    "woe:place_id":"rOb8MiSbAZzTrw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.287704,51.076828,-0.261611,51.095921],
+  "geometry": {"alpha":0.00015,"bbox":[-0.28770399093628,51.07682800293,-0.26161101460457,51.095920562744],"coordinates":[[[[-0.2619,51.093735],[-0.263071,51.095921],[-0.264422,51.095631],[-0.26468,51.095516],[-0.271911,51.094036],[-0.285494,51.076828],[-0.287704,51.080666],[-0.271911,51.094036],[-0.261611,51.092739],[-0.2619,51.093735]]]],"created":1292517696,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/20003_20101216_d7a6509b82.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

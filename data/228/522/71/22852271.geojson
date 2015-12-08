@@ -1,0 +1,15 @@
+{
+  "id": 22852271,
+  "type": "Feature",
+  "properties": {
+    "name":"Roskilde Airport, Denmark",
+    "placetype":"locality",
+    "woe:id":22852271,
+    "woe:name":"Roskilde Airport, Denmark",
+    "woe:place_id":"RFcBxe.bA5QlS6c3kQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.124031,55.586784,12.131567,55.59288],
+  "geometry": {"alpha":1e-05,"bbox":[12.124031066895,55.586784362793,12.131567001343,55.592880249023],"coordinates":[[[[12.127919,55.590496],[12.130472,55.59288],[12.131567,55.591419],[12.130336,55.590008],[12.130333,55.590004],[12.128145,55.588306],[12.126502,55.586784],[12.125473,55.588531],[12.124786,55.589066],[12.124031,55.591206],[12.127919,55.590496]]]],"created":1292502192,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/22852271_20101216_652be96a03.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

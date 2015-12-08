@@ -1,0 +1,15 @@
+{
+  "id": 640460,
+  "type": "Feature",
+  "properties": {
+    "name":"Bosen, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":640460,
+    "woe:name":"Bosen, Saarland, Germany",
+    "woe:place_id":"pgHcMEmfBZwXnl8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.036945,49.558735,7.068328,49.58445],
+  "geometry": {"alpha":0.00015,"bbox":[7.0369448661804,49.558734893799,7.0683279037476,49.584449768066],"coordinates":[[[[7.057342,49.564972],[7.036945,49.565498],[7.051849,49.57069],[7.068328,49.58445],[7.066097,49.565918],[7.064037,49.558735],[7.057342,49.564972]]]],"created":1292533772,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/640460_20101216_1b8044a390.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

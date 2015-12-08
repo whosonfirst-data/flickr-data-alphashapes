@@ -1,0 +1,15 @@
+{
+  "id": 28338561,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Elk, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":28338561,
+    "woe:name":"Big Elk, Kansas, United States",
+    "woe:place_id":"z.5SJRKbCZ_dKa6lhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.738197,37.019062,-94.73455,37.032982],
+  "geometry": {"alpha":0.00015,"bbox":[-94.73819732666,37.019062042236,-94.734550476074,37.032981872559],"coordinates":[[[[-94.73455,37.025616],[-94.73455,37.025047],[-94.734695,37.019062],[-94.738197,37.022083],[-94.737854,37.032982],[-94.73455,37.025616]]]],"created":1292527865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/28338561_20101216_5b9539e9a6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

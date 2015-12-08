@@ -1,0 +1,15 @@
+{
+  "id": 1105875,
+  "type": "Feature",
+  "properties": {
+    "name":"Tarra Valley, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105875,
+    "woe:name":"Tarra Valley, Victoria, Australia",
+    "woe:place_id":"ueB7ek2YAJxrZjAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.550156,-38.477581,146.565796,-38.469048],
+  "geometry": {"alpha":0.00015,"bbox":[146.55015563965,-38.47758102417,146.56579589844,-38.469047546387],"coordinates":[[[[146.565796,-38.470871],[146.550156,-38.477581],[146.555298,-38.469662],[146.562256,-38.469048],[146.563797,-38.469048],[146.565796,-38.470871]]]],"created":1292458961,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/1105875_20101216_68167e02bd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

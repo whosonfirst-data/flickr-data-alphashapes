@@ -1,0 +1,15 @@
+{
+  "id": 28743912,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenleaf, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":28743912,
+    "woe:name":"Greenleaf, Michigan, United States",
+    "woe:place_id":"7dzd_9GbCZuFr4Om_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.030121,43.651108,-83.018234,43.65831],
+  "geometry": {"alpha":0.00015,"bbox":[-83.030120849609,43.651107788086,-83.01823425293,43.658309936523],"coordinates":[[[[-83.018234,43.656643],[-83.021538,43.651108],[-83.029465,43.652176],[-83.030121,43.656227],[-83.021149,43.65831],[-83.018234,43.656643]]]],"created":1292546668,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/28743912_20101217_96ca5abff2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12648359,
+  "type": "Feature",
+  "properties": {
+    "name":"Longeault, France",
+    "placetype":"locality",
+    "woe:id":12648359,
+    "woe:name":"Longeault, France",
+    "woe:place_id":"6mKAQ2mYA5qFl9fPrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.249655,47.230667,5.249941,47.230804],
+  "geometry": {"alpha":1e-05,"bbox":[5.2496547698975,47.230667114258,5.2499408721924,47.230804443359],"coordinates":[[[[5.249941,47.23077],[5.249655,47.230667],[5.249783,47.23074],[5.249888,47.230804],[5.249941,47.23077]]]],"created":1292441344,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12648359_20101215_a533482dc4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

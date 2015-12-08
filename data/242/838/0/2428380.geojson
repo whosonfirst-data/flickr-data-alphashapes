@@ -1,0 +1,15 @@
+{
+  "id": 2428380,
+  "type": "Feature",
+  "properties": {
+    "name":"Jacksonwald, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2428380,
+    "woe:name":"Jacksonwald, Pennsylvania, United States",
+    "woe:place_id":"TLvMmO2bBZ7CDxvV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.854446,40.313915,-75.845779,40.325115],
+  "geometry": {"alpha":0.00015,"bbox":[-75.854446411133,40.313915252686,-75.845779418945,40.325115203857],"coordinates":[[[[-75.854027,40.313915],[-75.854446,40.323605],[-75.845779,40.325115],[-75.846359,40.32465],[-75.848152,40.323711],[-75.854027,40.313915]]]],"created":1292541063,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2428380_20101216_ed3b5a4ef4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

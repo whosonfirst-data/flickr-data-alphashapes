@@ -1,0 +1,15 @@
+{
+  "id": 12630424,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Peine, Germany",
+    "placetype":"locality",
+    "woe:id":12630424,
+    "woe:name":"Gemeinde Peine, Germany",
+    "woe:place_id":"gm8vbm2YA5qCJxd3Fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.28198,52.306824,10.282344,52.307243],
+  "geometry": {"alpha":1e-05,"bbox":[10.281979560852,52.306823730469,10.282343864441,52.307243347168],"coordinates":[[[[10.282258,52.307041],[10.282344,52.306824],[10.28198,52.307243],[10.282065,52.30724],[10.282237,52.307102],[10.282258,52.307041]]]],"created":1292545206,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12630424_20101217_7cc2b4a8e7.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

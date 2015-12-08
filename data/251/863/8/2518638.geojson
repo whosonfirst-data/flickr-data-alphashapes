@@ -1,0 +1,15 @@
+{
+  "id": 2518638,
+  "type": "Feature",
+  "properties": {
+    "name":"Westwood, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2518638,
+    "woe:name":"Westwood, Michigan, United States",
+    "woe:place_id":"YGPJIvKbBJ1kNMfW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.04567,44.849499,-85.044167,44.851334],
+  "geometry": {"alpha":0.00015,"bbox":[-85.045669555664,44.849498748779,-85.044166564941,44.851333618164],"coordinates":[[[[-85.044334,44.850334],[-85.045502,44.849499],[-85.04567,44.851334],[-85.044167,44.850834],[-85.044167,44.850666],[-85.044334,44.850334]]]],"created":1292532586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2518638_20101216_303cd0cb0d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

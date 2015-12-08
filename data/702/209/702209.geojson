@@ -1,0 +1,15 @@
+{
+  "id": 702209,
+  "type": "Feature",
+  "properties": {
+    "name":"Verne, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":702209,
+    "woe:name":"Verne, North Rhine-Westphalia, Germany",
+    "woe:place_id":"5JkpDteeAZ6urbs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.561975,51.677948,8.573783,51.696712],
+  "geometry": {"alpha":0.00015,"bbox":[8.5619745254517,51.677947998047,8.5737829208374,51.696712493896],"coordinates":[[[[8.563842,51.688255],[8.573698,51.696712],[8.573783,51.677948],[8.561975,51.678223],[8.563842,51.688255]]]],"created":1292466842,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/702209_20101216_d72014becb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

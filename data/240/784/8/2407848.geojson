@@ -1,0 +1,15 @@
+{
+  "id": 2407848,
+  "type": "Feature",
+  "properties": {
+    "name":"Frogtown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2407848,
+    "woe:name":"Frogtown, Pennsylvania, United States",
+    "woe:place_id":"tk6D7cabBZw1oBGH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.850311,40.16861,-76.83873,40.180805],
+  "geometry": {"alpha":0.00015,"bbox":[-76.850311279297,40.168609619141,-76.838729858398,40.180805206299],"coordinates":[[[[-76.850311,40.179333],[-76.84874,40.180061],[-76.846146,40.180805],[-76.83873,40.179153],[-76.847992,40.16861],[-76.850311,40.179333]]]],"created":1292522310,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2407848_20101216_f88c42c69a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20120253,
+  "type": "Feature",
+  "properties": {
+    "name":"Chiaverano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20120253,
+    "woe:name":"Chiaverano, Piedmont, Italy",
+    "woe:place_id":"DeUxm06bAZ0hJZxZNw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.895736,45.496719,7.903718,45.502014],
+  "geometry": {"alpha":0.00015,"bbox":[7.8957362174988,45.496719360352,7.9037179946899,45.502014160156],"coordinates":[[[[7.903718,45.499249],[7.90359,45.496918],[7.895736,45.496719],[7.897659,45.500904],[7.902774,45.502014],[7.903718,45.499249]]]],"created":1292480406,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/20120253_20101216_6c5082e00c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

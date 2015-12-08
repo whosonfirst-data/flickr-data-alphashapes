@@ -1,0 +1,15 @@
+{
+  "id": 29353086,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonn, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":29353086,
+    "woe:name":"Bonn, North Rhine-Westphalia, Germany",
+    "woe:place_id":"Xvp362abCJ82ierh_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.218468,50.720001,7.229905,50.729794],
+  "geometry": {"alpha":0.00015,"bbox":[7.2184681892395,50.720001220703,7.229905128479,50.729793548584],"coordinates":[[[[7.22,50.720001],[7.218468,50.729794],[7.218574,50.729774],[7.229905,50.720615],[7.22321,50.72007],[7.22,50.720001]]]],"created":1292457792,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/29353086_20101216_00a8ffd597.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

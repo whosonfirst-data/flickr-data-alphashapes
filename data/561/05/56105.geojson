@@ -1,0 +1,15 @@
+{
+  "id": 56105,
+  "type": "Feature",
+  "properties": {
+    "name":"Shaba, Aruba",
+    "placetype":"locality",
+    "woe:id":56105,
+    "woe:name":"Shaba, Aruba",
+    "woe:place_id":"txYS2qOcB53IBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.024109,12.542499,-70.010376,12.560679],
+  "geometry": {"alpha":0.00015,"bbox":[-70.024108886719,12.542498588562,-70.010375976562,12.56067943573],"coordinates":[[[[-70.022736,12.559087],[-70.010376,12.560679],[-70.011749,12.543839],[-70.021362,12.542499],[-70.022736,12.544509],[-70.024109,12.546688],[-70.022736,12.559087]]]],"created":1292452187,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/56105_20101215_5095928e0d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

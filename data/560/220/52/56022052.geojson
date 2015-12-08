@@ -1,0 +1,15 @@
+{
+  "id": 56022052,
+  "type": "Feature",
+  "properties": {
+    "name":"Auburn, Rochester, MI, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":56022052,
+    "woe:name":"Auburn, Rochester, MI, US, United States",
+    "woe:place_id":"StNbKPScB5zJSAtS5A",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-83.199516,42.6408,-83.198586,42.642464],
+  "geometry": {"alpha":1e-05,"bbox":[-83.199516296387,42.640800476074,-83.198585510254,42.642463684082],"coordinates":[[[[-83.19944,42.642445],[-83.199409,42.642464],[-83.199165,42.641834],[-83.198586,42.640888],[-83.199516,42.6408],[-83.19944,42.642445]]]],"created":1292502497,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/56022052_20101216_d54910d0ed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

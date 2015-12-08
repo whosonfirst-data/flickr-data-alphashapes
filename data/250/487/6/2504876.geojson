@@ -1,0 +1,15 @@
+{
+  "id": 2504876,
+  "type": "Feature",
+  "properties": {
+    "name":"Terrapin Hill, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2504876,
+    "woe:name":"Terrapin Hill, Mississippi, United States",
+    "woe:place_id":"KhxTSUebBJxTdcU8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.069778,32.275486,-90.047935,32.29105],
+  "geometry": {"alpha":0.00015,"bbox":[-90.069778442383,32.275485992432,-90.04793548584,32.291049957275],"coordinates":[[[[-90.048409,32.280746],[-90.069778,32.29105],[-90.048325,32.281017],[-90.047935,32.281399],[-90.050041,32.275486],[-90.048409,32.280746]]]],"created":1292549283,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2504876_20101217_4238b229ed.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

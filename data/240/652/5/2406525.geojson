@@ -1,0 +1,15 @@
+{
+  "id": 2406525,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2406525,
+    "woe:name":"Fox, Illinois, United States",
+    "woe:place_id":"HSIXY9SbBZxYfqEq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.522728,41.63139,-88.51899,41.633118],
+  "geometry": {"alpha":0.00015,"bbox":[-88.522727966309,41.63138961792,-88.518989562988,41.633117675781],"coordinates":[[[[-88.521027,41.63139],[-88.522728,41.632645],[-88.522163,41.633118],[-88.51976,41.632347],[-88.51899,41.631874],[-88.521027,41.63139]]]],"created":1292451748,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2406525_20101215_3b6e247934.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

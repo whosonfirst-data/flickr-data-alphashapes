@@ -1,0 +1,15 @@
+{
+  "id": 2435705,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2435705,
+    "woe:name":"Lakeville, New York, United States",
+    "woe:place_id":"CLbNG.WbBZ.jBOIC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.746002,42.816666,-77.689819,42.849667],
+  "geometry": {"alpha":0.0001875,"bbox":[-77.746002197266,42.816665649414,-77.689819335938,42.849666595459],"coordinates":[[[[-77.745499,42.83556],[-77.743904,42.83522],[-77.721497,42.833164],[-77.710587,42.847904],[-77.691277,42.849667],[-77.689819,42.849571],[-77.693077,42.832405],[-77.693054,42.823566],[-77.694153,42.821495],[-77.701492,42.821156],[-77.713654,42.823349],[-77.72361,42.816666],[-77.745667,42.832001],[-77.746002,42.832001],[-77.745499,42.83556]]]],"created":1292451394,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2435705_20101215_ab811b6ff0.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

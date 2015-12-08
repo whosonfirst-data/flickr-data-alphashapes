@@ -1,0 +1,15 @@
+{
+  "id": 23396922,
+  "type": "Feature",
+  "properties": {
+    "name":"Zurich, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23396922,
+    "woe:name":"Zurich, Ontario, Canada",
+    "woe:place_id":"KyJi4zGbAp.kipyHRw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.640175,43.409039,-81.618324,43.422028],
+  "geometry": {"alpha":0.00015,"bbox":[-81.640174865723,43.409038543701,-81.618324279785,43.422027587891],"coordinates":[[[[-81.630821,43.420822],[-81.625862,43.422028],[-81.624832,43.421665],[-81.618324,43.420292],[-81.630478,43.409039],[-81.640175,43.419888],[-81.630821,43.420822]]]],"created":1292533248,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/23396922_20101216_39b3451fab.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

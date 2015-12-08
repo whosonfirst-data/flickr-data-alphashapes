@@ -1,0 +1,15 @@
+{
+  "id": 2435001,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Lillian, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2435001,
+    "woe:name":"Lake Lillian, Minnesota, United States",
+    "woe:place_id":"YHnvvAWbBZ_VFM.l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.88797,44.940563,-94.876663,44.959],
+  "geometry": {"alpha":0.00015,"bbox":[-94.887969970703,44.940563201904,-94.876663208008,44.958999633789],"coordinates":[[[[-94.88102,44.951195],[-94.880096,44.949841],[-94.876663,44.940563],[-94.88591,44.953167],[-94.88797,44.959],[-94.88102,44.951195]]]],"created":1292507170,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2435001_20101216_3ee28460ac.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

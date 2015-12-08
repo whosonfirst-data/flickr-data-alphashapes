@@ -1,0 +1,15 @@
+{
+  "id": 978521,
+  "type": "Feature",
+  "properties": {
+    "name":"Vresse, Namur, Belgium",
+    "placetype":"locality",
+    "woe:id":978521,
+    "woe:name":"Vresse, Namur, Belgium",
+    "woe:place_id":"P4DtG8OQBpQNnYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.91784,49.859344,4.943075,49.877766],
+  "geometry": {"alpha":0.00015,"bbox":[4.9178400039673,49.859344482422,4.9430751800537,49.877765655518],"coordinates":[[[[4.930372,49.873066],[4.933547,49.873177],[4.943075,49.868752],[4.929556,49.864548],[4.91784,49.859344],[4.920759,49.877766],[4.930372,49.873066]]]],"created":1292538575,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/978521_20101216_0a03c66066.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

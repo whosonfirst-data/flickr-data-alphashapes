@@ -1,0 +1,15 @@
+{
+  "id": 2367106,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2367106,
+    "woe:name":"Boston, Indiana, United States",
+    "woe:place_id":"HhA6hcKbApq4YsuG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.852348,39.740723,-84.844498,39.757748],
+  "geometry": {"alpha":0.00015,"bbox":[-84.852348327637,39.74072265625,-84.844497680664,39.757747650146],"coordinates":[[[[-84.844498,39.756294],[-84.852119,39.742214],[-84.851875,39.740723],[-84.851852,39.741116],[-84.852119,39.742214],[-84.852348,39.756428],[-84.847923,39.757748],[-84.844498,39.756294]]]],"created":1292444537,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2367106_20101215_7e93c0271e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

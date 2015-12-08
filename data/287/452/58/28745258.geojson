@@ -1,0 +1,15 @@
+{
+  "id": 28745258,
+  "type": "Feature",
+  "properties": {
+    "name":"Chapman, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745258,
+    "woe:name":"Chapman, Pennsylvania, United States",
+    "woe:place_id":"pGY3vribCZuKnPutoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.625626,41.324368,-77.623093,41.326248],
+  "geometry": {"alpha":0.00015,"bbox":[-77.625625610352,41.324367523193,-77.623092651367,41.326248168945],"coordinates":[[[[-77.62326,41.325939],[-77.623093,41.325874],[-77.623833,41.324867],[-77.625626,41.324368],[-77.624512,41.326248],[-77.62326,41.325939]]]],"created":1292538274,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/28745258_20101216_5b261124ac.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 18893,
+  "type": "Feature",
+  "properties": {
+    "name":"East Barcloy, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18893,
+    "woe:name":"East Barcloy, Scotland, United Kingdom",
+    "woe:place_id":"tIrIKxSYCZQIxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.757152,54.859665,-3.743247,54.866234],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7571520805359,54.859664916992,-3.7432470321655,54.866233825684],"coordinates":[[[[-3.754577,54.859665],[-3.757152,54.861664],[-3.747797,54.866234],[-3.743247,54.861691],[-3.746166,54.860603],[-3.754577,54.859665]]]],"created":1292504345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/18893_20101216_b5f2b99327.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

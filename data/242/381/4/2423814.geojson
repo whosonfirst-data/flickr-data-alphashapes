@@ -1,0 +1,15 @@
+{
+  "id": 2423814,
+  "type": "Feature",
+  "properties": {
+    "name":"Homewood, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2423814,
+    "woe:name":"Homewood, Pennsylvania, United States",
+    "woe:place_id":"PNMAPpGbBZ5wDZaY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.328384,40.810738,-80.321899,40.822903],
+  "geometry": {"alpha":0.00015,"bbox":[-80.328384399414,40.810737609863,-80.321899414062,40.822902679443],"coordinates":[[[[-80.328384,40.814232],[-80.327827,40.819981],[-80.325264,40.822903],[-80.321899,40.812714],[-80.327377,40.810738],[-80.328384,40.814232]]]],"created":1292441656,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2423814_20101215_baf3487544.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12683813,
+  "type": "Feature",
+  "properties": {
+    "name":"La Sarraz, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683813,
+    "woe:name":"La Sarraz, Switzerland",
+    "woe:place_id":"I6QrlAOYA5oUa4lB3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.513079,46.659378,6.516695,46.660439],
+  "geometry": {"alpha":1e-05,"bbox":[6.5130791664124,46.659378051758,6.516695022583,46.660438537598],"coordinates":[[[[6.514404,46.660126],[6.516695,46.659527],[6.514291,46.659451],[6.513293,46.659378],[6.513079,46.660439],[6.514404,46.660126]]]],"created":1292530074,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12683813_20101216_ba92de4557.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

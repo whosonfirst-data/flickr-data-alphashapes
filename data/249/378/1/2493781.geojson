@@ -1,0 +1,15 @@
+{
+  "id": 2493781,
+  "type": "Feature",
+  "properties": {
+    "name":"Silver Springs, New York, United States",
+    "placetype":"locality",
+    "woe:id":2493781,
+    "woe:name":"Silver Springs, New York, United States",
+    "woe:place_id":"OqSpmXKbBZVBzEPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.085709,42.658974,-78.083778,42.664009],
+  "geometry": {"alpha":0.00015,"bbox":[-78.085708618164,42.658973693848,-78.083778381348,42.664009094238],"coordinates":[[[[-78.085709,42.66053],[-78.085243,42.664009],[-78.083778,42.661831],[-78.085625,42.658974],[-78.085709,42.66053]]]],"created":1234636804,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3443/shapefiles/2493781_20090214_a3cea1a283.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

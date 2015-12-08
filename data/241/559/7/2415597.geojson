@@ -1,0 +1,15 @@
+{
+  "id": 2415597,
+  "type": "Feature",
+  "properties": {
+    "name":"Gulthrie Beach, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2415597,
+    "woe:name":"Gulthrie Beach, Kentucky, United States",
+    "woe:place_id":"yNsGE_KbBZ0betyK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.645401,38.329456,-85.641838,38.333626],
+  "geometry": {"alpha":0.00015,"bbox":[-85.645401000977,38.329456329346,-85.64183807373,38.333625793457],"coordinates":[[[[-85.642799,38.33157],[-85.641838,38.329456],[-85.642746,38.329796],[-85.643661,38.330563],[-85.645401,38.333626],[-85.642799,38.33157]]]],"created":1292539429,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2415597_20101216_19a36f29d7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

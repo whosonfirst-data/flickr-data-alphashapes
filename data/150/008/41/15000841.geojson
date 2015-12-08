@@ -1,0 +1,15 @@
+{
+  "id": 15000841,
+  "type": "Feature",
+  "properties": {
+    "name":"Beitstad, Nord-Trondelag, Norway",
+    "placetype":"locality",
+    "woe:id":15000841,
+    "woe:name":"Beitstad, Nord-Trondelag, Norway",
+    "woe:place_id":"_NReVIaYBJzm3plcYg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.390902,64.044601,11.391111,64.044769],
+  "geometry": {"alpha":0.00015,"bbox":[11.390901565552,64.04460144043,11.391111373901,64.044769287109],"coordinates":[[[[11.391111,64.044769],[11.390902,64.044601],[11.390961,64.044655],[11.391027,64.044716],[11.391111,64.044769]]]],"created":1292541173,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/15000841_20101216_d82e6dd3f8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

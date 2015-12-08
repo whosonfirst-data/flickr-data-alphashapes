@@ -1,0 +1,15 @@
+{
+  "id": 2351766,
+  "type": "Feature",
+  "properties": {
+    "name":"Acme Mill, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2351766,
+    "woe:name":"Acme Mill, Tennessee, United States",
+    "woe:place_id":"2qnV4NKbApn0dJk2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.5737,35.551186,-84.565285,35.58017],
+  "geometry": {"alpha":0.00015,"bbox":[-84.573699951172,35.55118560791,-84.565284729004,35.580169677734],"coordinates":[[[[-84.57045,35.579292],[-84.571465,35.563511],[-84.565285,35.551186],[-84.5737,35.560162],[-84.571465,35.563511],[-84.572777,35.578297],[-84.57209,35.58017],[-84.57045,35.579292]]]],"created":1292536067,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2351766_20101216_e3f3680079.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

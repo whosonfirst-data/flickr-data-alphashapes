@@ -1,0 +1,15 @@
+{
+  "id": 2516143,
+  "type": "Feature",
+  "properties": {
+    "name":"Welcome, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2516143,
+    "woe:name":"Welcome, Nevada, United States",
+    "woe:place_id":"yz9Tb2SbBJ1Ufv2T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.144058,41.087261,-115.115692,41.097935],
+  "geometry": {"alpha":0.00015,"bbox":[-115.14405822754,41.087261199951,-115.11569213867,41.0979347229],"coordinates":[[[[-115.125374,41.087261],[-115.144058,41.092888],[-115.130348,41.095078],[-115.115692,41.097935],[-115.123741,41.089535],[-115.125374,41.087261]]]],"created":1292454608,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2516143_20101215_e15f8114da.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

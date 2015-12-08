@@ -1,0 +1,15 @@
+{
+  "id": 20076252,
+  "type": "Feature",
+  "properties": {
+    "name":"Gavardo, Italy",
+    "placetype":"locality",
+    "woe:id":20076252,
+    "woe:name":"Gavardo, Italy",
+    "woe:place_id":"2A42lO6bAZxK437KnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.435531,45.5826,10.441625,45.587673],
+  "geometry": {"alpha":1e-05,"bbox":[10.435530662537,45.582599639893,10.441624641418,45.587673187256],"coordinates":[[[[10.438899,45.583771],[10.435531,45.586594],[10.440208,45.587673],[10.441625,45.5826],[10.438899,45.583771]]]],"created":1292525786,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20076252_20101216_056ec74bcf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

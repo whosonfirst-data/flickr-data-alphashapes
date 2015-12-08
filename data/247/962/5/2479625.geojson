@@ -1,0 +1,15 @@
+{
+  "id": 2479625,
+  "type": "Feature",
+  "properties": {
+    "name":"Redland, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2479625,
+    "woe:name":"Redland, Oregon, United States",
+    "woe:place_id":"eE3W6F2bBZsBPn9D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.506401,45.334499,-122.489532,45.35854],
+  "geometry": {"alpha":0.00015,"bbox":[-122.50640106201,45.334499359131,-122.4895324707,45.358539581299],"coordinates":[[[[-122.491425,45.34547],[-122.489662,45.342434],[-122.489532,45.334499],[-122.506401,45.344589],[-122.491203,45.35854],[-122.491425,45.34547]]]],"created":1292460544,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2479625_20101216_c06751780a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

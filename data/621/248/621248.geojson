@@ -1,0 +1,15 @@
+{
+  "id": 621248,
+  "type": "Feature",
+  "properties": {
+    "name":"Saurier, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":621248,
+    "woe:name":"Saurier, Auvergne, France",
+    "woe:place_id":"miDfsiKfA522fds",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.041152,45.534248,3.045101,45.539841],
+  "geometry": {"alpha":0.00015,"bbox":[3.0411520004272,45.534248352051,3.0451009273529,45.539840698242],"coordinates":[[[[3.044242,45.539841],[3.045101,45.537739],[3.042697,45.534248],[3.041152,45.535213],[3.044242,45.539841]]]],"created":1292483645,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/621248_20101216_0e65b1a1e5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

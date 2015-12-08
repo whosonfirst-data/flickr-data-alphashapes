@@ -1,0 +1,15 @@
+{
+  "id": 771018,
+  "type": "Feature",
+  "properties": {
+    "name":"Puigverd de Lleida, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":771018,
+    "woe:name":"Puigverd de Lleida, Catalonia, Spain",
+    "woe:place_id":"250JS3OeBp1YQMY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.72956,41.541992,0.734269,41.553745],
+  "geometry": {"alpha":0.00015,"bbox":[0.72956001758575,41.5419921875,0.73426902294159,41.553745269775],"coordinates":[[[[0.732747,41.543167],[0.72956,41.541992],[0.73059,41.545879],[0.732564,41.553745],[0.734269,41.544682],[0.732747,41.543167]]]],"created":1292526686,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/771018_20101216_8bc11df169.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

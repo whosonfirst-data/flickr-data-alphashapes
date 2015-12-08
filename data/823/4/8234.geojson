@@ -1,0 +1,15 @@
+{
+  "id": 8234,
+  "type": "Feature",
+  "properties": {
+    "name":"Lougheed, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8234,
+    "woe:name":"Lougheed, Alberta, Canada",
+    "woe:place_id":"pw5agrGRA5_J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.55397,52.744411,-111.544144,52.75967],
+  "geometry": {"alpha":0.00015,"bbox":[-111.55397033691,52.744411468506,-111.54414367676,52.759670257568],"coordinates":[[[[-111.544144,52.745567],[-111.544975,52.744411],[-111.546707,52.744537],[-111.547905,52.74501],[-111.55397,52.75967],[-111.544144,52.745567]]]],"created":1292526954,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/8234_20101216_e2c05e59b1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

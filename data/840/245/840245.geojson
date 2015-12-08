@@ -1,0 +1,15 @@
+{
+  "id": 840245,
+  "type": "Feature",
+  "properties": {
+    "name":"Tryavna, Gabrovo, Bulgaria",
+    "placetype":"locality",
+    "woe:id":840245,
+    "woe:name":"Tryavna, Gabrovo, Bulgaria",
+    "woe:place_id":"fYpfOVKRBZwYs1k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.488281,42.860085,25.516262,42.884029],
+  "geometry": {"alpha":0.00015,"bbox":[25.48828125,42.860084533691,25.516262054443,42.884029388428],"coordinates":[[[[25.499954,42.872314],[25.516262,42.861179],[25.499567,42.863571],[25.488281,42.860085],[25.495148,42.869926],[25.496758,42.884029],[25.499954,42.872314]]]],"created":1292501883,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/840245_20101216_349a52bf57.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12673794,
+  "type": "Feature",
+  "properties": {
+    "name":"Ravelsbach, Austria",
+    "placetype":"locality",
+    "woe:id":12673794,
+    "woe:name":"Ravelsbach, Austria",
+    "woe:place_id":"sqyI9D.YA5p_jj6hfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.873277,48.553883,15.873697,48.554058],
+  "geometry": {"alpha":1e-05,"bbox":[15.87327671051,48.553882598877,15.873697280884,48.554058074951],"coordinates":[[[[15.873653,48.554058],[15.873686,48.554016],[15.873697,48.553993],[15.873653,48.55389],[15.873277,48.553883],[15.873525,48.554039],[15.873653,48.554058]]]],"created":1292542291,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12673794_20101216_0b9ce355cd.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

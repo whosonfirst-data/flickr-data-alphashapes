@@ -1,0 +1,15 @@
+{
+  "id": 2492666,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherwood Shores, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2492666,
+    "woe:name":"Sherwood Shores, Alabama, United States",
+    "woe:place_id":"YCpfg42bBZWpE9Rv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.210976,33.682808,-86.209999,33.683018],
+  "geometry": {"alpha":0.00015,"bbox":[-86.210975646973,33.682807922363,-86.209999084473,33.683017730713],"coordinates":[[[[-86.210716,33.683018],[-86.209999,33.682999],[-86.210167,33.682835],[-86.210976,33.682808],[-86.210716,33.683018]]]],"created":1292546816,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2492666_20101217_082ffbb47d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 56066180,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":56066180,
+    "woe:name":"San Juan, Canary Islands, Spain",
+    "woe:place_id":"Nu9L4FicB5xhqUTYbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-13.597812,29.122099,-13.572621,29.132971],
+  "geometry": {"alpha":0.00015,"bbox":[-13.597811698914,29.122098922729,-13.57262134552,29.132970809937],"coordinates":[[[[-13.572621,29.124647],[-13.576698,29.12454],[-13.597812,29.122099],[-13.590774,29.132971],[-13.575067,29.125566],[-13.572621,29.124647]]]],"created":1292465106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/56066180_20101216_12d90a2a7e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

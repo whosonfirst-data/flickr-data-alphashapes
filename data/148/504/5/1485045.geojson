@@ -1,0 +1,15 @@
+{
+  "id": 1485045,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunkwa, Central, Ghana",
+    "placetype":"locality",
+    "woe:id":1485045,
+    "woe:name":"Dunkwa, Central, Ghana",
+    "woe:place_id":"0HLpeSyYBZRUPjog",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.790771,5.958668,-1.782875,5.971046],
+  "geometry": {"alpha":0.00015,"bbox":[-1.7907710075378,5.9586682319641,-1.7828749418259,5.9710459709167],"coordinates":[[[[-1.790771,5.958924],[-1.790771,5.96029],[-1.790256,5.971046],[-1.782875,5.962253],[-1.790428,5.958668],[-1.790771,5.958924]]]],"created":1292526362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/1485045_20101216_4a734a9a44.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

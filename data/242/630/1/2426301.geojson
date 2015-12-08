@@ -1,0 +1,15 @@
+{
+  "id": 2426301,
+  "type": "Feature",
+  "properties": {
+    "name":"Hyde Park, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2426301,
+    "woe:name":"Hyde Park, Vermont, United States",
+    "woe:place_id":"mrYWhfmbBZ5A6Lrr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.618813,44.592758,-72.616531,44.594151],
+  "geometry": {"alpha":0.00015,"bbox":[-72.618812561035,44.592758178711,-72.61653137207,44.594150543213],"coordinates":[[[[-72.618301,44.593658],[-72.618813,44.594044],[-72.618256,44.594151],[-72.616959,44.593994],[-72.616531,44.592758],[-72.618301,44.593658]]]],"created":1247900890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2546/shapefiles/2426301_20090718_0d0e40b1c7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

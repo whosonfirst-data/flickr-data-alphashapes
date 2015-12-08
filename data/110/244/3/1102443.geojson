@@ -1,0 +1,15 @@
+{
+  "id": 1102443,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwell Point, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1102443,
+    "woe:name":"Greenwell Point, New South Wales, Australia",
+    "woe:place_id":"Pc4Q5zeYAJzrHUIO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.727936,-34.917606,150.736771,-34.90522],
+  "geometry": {"alpha":0.00015,"bbox":[150.72793579102,-34.91760635376,150.73677062988,-34.905220031738],"coordinates":[[[[150.736771,-34.906971],[150.734314,-34.911274],[150.732758,-34.917606],[150.727936,-34.907909],[150.735336,-34.90522],[150.736771,-34.906971]]]],"created":1292537313,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/1102443_20101216_98b4b58fef.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

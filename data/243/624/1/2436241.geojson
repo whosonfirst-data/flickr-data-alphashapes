@@ -1,0 +1,15 @@
+{
+  "id": 2436241,
+  "type": "Feature",
+  "properties": {
+    "name":"Lane, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2436241,
+    "woe:name":"Lane, South Carolina, United States",
+    "woe:place_id":"otB.5libBZ8S0PCT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.881592,33.519135,-79.878792,33.529945],
+  "geometry": {"alpha":0.00015,"bbox":[-79.881591796875,33.519134521484,-79.878791809082,33.529945373535],"coordinates":[[[[-79.881592,33.519135],[-79.879875,33.529373],[-79.879532,33.529945],[-79.878799,33.52309],[-79.878792,33.522827],[-79.881592,33.519135]]]],"created":1292469301,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2436241_20101216_50ed5c4b16.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

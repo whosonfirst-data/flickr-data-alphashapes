@@ -1,0 +1,15 @@
+{
+  "id": 15789,
+  "type": "Feature",
+  "properties": {
+    "name":"Chelsworth, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":15789,
+    "woe:name":"Chelsworth, England, United Kingdom",
+    "woe:place_id":"wqLHk0GYBJuh1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.886666,52.085308,0.898582,52.103264],
+  "geometry": {"alpha":0.00015,"bbox":[0.88666599988937,52.085308074951,0.89858198165894,52.10326385498],"coordinates":[[[[0.892403,52.095032],[0.892295,52.085308],[0.886666,52.086666],[0.887489,52.095905],[0.894677,52.103264],[0.898582,52.101337],[0.892403,52.095032]]]],"created":1292548543,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/15789_20101217_a2b1f60b7d.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

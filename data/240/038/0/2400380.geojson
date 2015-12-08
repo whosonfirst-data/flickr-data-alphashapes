@@ -1,0 +1,15 @@
+{
+  "id": 2400380,
+  "type": "Feature",
+  "properties": {
+    "name":"Estrella, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2400380,
+    "woe:name":"Estrella, Colorado, United States",
+    "woe:place_id":"Tsa9p1abBZz9VURR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.947853,37.325535,-105.937195,37.342049],
+  "geometry": {"alpha":0.00015,"bbox":[-105.94785308838,37.325534820557,-105.93719482422,37.34204864502],"coordinates":[[[[-105.937195,37.326557],[-105.93924,37.327042],[-105.947853,37.325535],[-105.943138,37.332443],[-105.937729,37.342049],[-105.937195,37.326557]]]],"created":1292448375,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2400380_20101215_f6ee8470b2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

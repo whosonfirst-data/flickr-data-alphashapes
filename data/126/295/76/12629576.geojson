@@ -1,0 +1,15 @@
+{
+  "id": 12629576,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Rinteln, Germany",
+    "placetype":"locality",
+    "woe:id":12629576,
+    "woe:name":"Gemeinde Rinteln, Germany",
+    "woe:place_id":"rCzuR4WYA5qqirDloQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.124617,52.215515,9.125215,52.215809],
+  "geometry": {"alpha":1e-05,"bbox":[9.1246166229248,52.215515136719,9.1252145767212,52.215808868408],"coordinates":[[[[9.124635,52.215706],[9.125215,52.215809],[9.12514,52.215691],[9.124896,52.215591],[9.124617,52.215515],[9.124635,52.215706]]]],"created":1239514203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3543/shapefiles/12629576_20090412_cd09b3f7ae.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

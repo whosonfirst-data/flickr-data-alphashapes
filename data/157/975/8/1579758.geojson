@@ -1,0 +1,15 @@
+{
+  "id": 1579758,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin, Eastern Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":1579758,
+    "woe:name":"Berlin, Eastern Cape, South Africa",
+    "woe:place_id":"ex.u6pyYBJtnRjlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.567959,-32.887081,27.581699,-32.864594],
+  "geometry": {"alpha":0.00015,"bbox":[27.567958831787,-32.88708114624,27.581699371338,-32.864593505859],"coordinates":[[[[27.581699,-32.882702],[27.571907,-32.887081],[27.567959,-32.875984],[27.57431,-32.864594],[27.581699,-32.882702]]]],"created":1292538048,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/1579758_20101216_69e5c949cf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

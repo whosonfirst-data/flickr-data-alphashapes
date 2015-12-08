@@ -1,0 +1,15 @@
+{
+  "id": 1096532,
+  "type": "Feature",
+  "properties": {
+    "name":"Karnup, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1096532,
+    "woe:name":"Karnup, Western Australia, Australia",
+    "woe:place_id":"3ObxyICYAZWBEgwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.774612,-32.433655,115.787315,-32.416485],
+  "geometry": {"alpha":0.00015,"bbox":[115.77461242676,-32.433654785156,115.78731536865,-32.416484832764],"coordinates":[[[[115.785828,-32.428551],[115.786308,-32.42981],[115.787315,-32.431992],[115.787216,-32.433655],[115.785416,-32.429379],[115.774612,-32.416485],[115.785828,-32.428551]]]],"created":1292541587,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/1096532_20101216_d696a51ea9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

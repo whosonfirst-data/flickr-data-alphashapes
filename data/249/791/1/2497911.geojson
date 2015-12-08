@@ -1,0 +1,15 @@
+{
+  "id": 2497911,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring Hill, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2497911,
+    "woe:name":"Spring Hill, Arkansas, United States",
+    "woe:place_id":"NAVwKQKbBZXElqFc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.656303,33.549515,-93.649521,33.560741],
+  "geometry": {"alpha":0.00015,"bbox":[-93.656303405762,33.549514770508,-93.649520874023,33.560741424561],"coordinates":[[[[-93.651154,33.549515],[-93.654068,33.551033],[-93.656303,33.560741],[-93.649521,33.551125],[-93.649521,33.55098],[-93.651154,33.549515]]]],"created":1292454558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2497911_20101215_cd18673563.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23401615,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodview, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23401615,
+    "woe:name":"Woodview, Ontario, Canada",
+    "woe:place_id":"1oM.S7KbApgQUDfvDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.273079,44.298389,-78.268829,44.302536],
+  "geometry": {"alpha":0.00015,"bbox":[-78.273078918457,44.298389434814,-78.268829345703,44.302536010742],"coordinates":[[[[-78.270294,44.299282],[-78.271324,44.298481],[-78.272568,44.298389],[-78.273079,44.300877],[-78.268829,44.302536],[-78.270294,44.299282]]]],"created":1248124931,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2653/shapefiles/23401615_20090720_a67cf8d329.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

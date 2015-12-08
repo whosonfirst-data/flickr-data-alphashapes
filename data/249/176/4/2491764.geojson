@@ -1,0 +1,15 @@
+{
+  "id": 2491764,
+  "type": "Feature",
+  "properties": {
+    "name":"Sharon Colony, Charlotte, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2491764,
+    "woe:name":"Sharon Colony, Charlotte, NC, US, United States",
+    "woe:place_id":"2jeCoX6bBZUCO7ay",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.849892,35.140736,-80.844009,35.146011],
+  "geometry": {"alpha":1e-05,"bbox":[-80.849891662598,35.140735626221,-80.844009399414,35.146011352539],"coordinates":[[[[-80.84581,35.145809],[-80.844437,35.14539],[-80.844009,35.14077],[-80.848244,35.140736],[-80.849892,35.146011],[-80.84581,35.145809]]]],"created":1292531267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2491764_20101216_393f741a2f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

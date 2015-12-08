@@ -1,0 +1,15 @@
+{
+  "id": 666102,
+  "type": "Feature",
+  "properties": {
+    "name":"Kisdorf, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":666102,
+    "woe:name":"Kisdorf, Schleswig-Holstein, Germany",
+    "woe:place_id":"Wt4U47ifB5quZdo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.006077,53.798622,10.035391,53.820858],
+  "geometry": {"alpha":0.00015,"bbox":[10.006076812744,53.798622131348,10.035390853882,53.820858001709],"coordinates":[[[[10.006077,53.80125],[10.016098,53.814438],[10.035391,53.820858],[10.03232,53.804428],[10.016613,53.798622],[10.00612,53.801193],[10.006077,53.80125]]]],"created":1292536501,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/666102_20101216_75f4aefffa.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

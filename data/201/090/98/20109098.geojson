@@ -1,0 +1,15 @@
+{
+  "id": 20109098,
+  "type": "Feature",
+  "properties": {
+    "name":"Villanova, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20109098,
+    "woe:name":"Villanova, Veneto, Italy",
+    "woe:place_id":"eV_PLiebAZ25WpXkpg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.2095,46.441166,12.216324,46.447674],
+  "geometry": {"alpha":0.00015,"bbox":[12.209500312805,46.441165924072,12.216323852539,46.447673797607],"coordinates":[[[[12.21,46.441166],[12.2095,46.441334],[12.20993,46.443535],[12.211303,46.447674],[12.216324,46.442039],[12.214736,46.44173],[12.21,46.441166]]]],"created":1292471282,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20109098_20101216_93338544c1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

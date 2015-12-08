@@ -1,0 +1,15 @@
+{
+  "id": 670768,
+  "type": "Feature",
+  "properties": {
+    "name":"Lechbruck, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":670768,
+    "woe:name":"Lechbruck, Bavaria, Germany",
+    "woe:place_id":"lyATpSWfBpxhm8Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.792367,47.702549,10.806963,47.709572],
+  "geometry": {"alpha":0.00015,"bbox":[10.792366981506,47.702548980713,10.806962966919,47.709571838379],"coordinates":[[[[10.800158,47.707478],[10.806963,47.709572],[10.7975,47.704216],[10.792367,47.702549],[10.799872,47.70739],[10.800052,47.70747],[10.800158,47.707478]]]],"created":1292531405,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/670768_20101216_c6248a57a1.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

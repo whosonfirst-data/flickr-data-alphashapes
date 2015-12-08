@@ -1,0 +1,15 @@
+{
+  "id": 12652325,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Cirq, France",
+    "placetype":"locality",
+    "woe:id":12652325,
+    "woe:name":"St.-Cirq, France",
+    "woe:place_id":"whLWNjuYA5pjMbYBuQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.967226,44.924969,0.968235,44.925819],
+  "geometry": {"alpha":1e-05,"bbox":[0.96722602844238,44.924968719482,0.96823501586914,44.925819396973],"coordinates":[[[[0.967226,44.925789],[0.967284,44.925819],[0.967306,44.925819],[0.967315,44.925819],[0.967323,44.925819],[0.968235,44.924969],[0.967226,44.925789]]]],"created":1292525704,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/12652325_20101216_fe5cfda93e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

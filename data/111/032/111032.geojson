@@ -1,0 +1,15 @@
+{
+  "id": 111032,
+  "type": "Feature",
+  "properties": {
+    "name":"Acayucan, Veracruz-Llave, Mexico",
+    "placetype":"locality",
+    "woe:id":111032,
+    "woe:name":"Acayucan, Veracruz-Llave, Mexico",
+    "woe:place_id":"vudTTWmYAJ2fsrU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.923073,17.949911,-94.912262,17.957178],
+  "geometry": {"alpha":0.00015,"bbox":[-94.923072814941,17.949911117554,-94.912261962891,17.957178115845],"coordinates":[[[[-94.916466,17.949911],[-94.923073,17.957096],[-94.912262,17.957178],[-94.914146,17.951056],[-94.916466,17.949911]]]],"created":1234772164,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3426/shapefiles/111032_20090216_fa9c3c0a38.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

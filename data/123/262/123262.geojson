@@ -1,0 +1,15 @@
+{
+  "id": 123262,
+  "type": "Feature",
+  "properties": {
+    "name":"Epazoyucan, Hidalgo, Mexico",
+    "placetype":"locality",
+    "woe:id":123262,
+    "woe:name":"Epazoyucan, Hidalgo, Mexico",
+    "woe:place_id":"lbjaEEaYA59uzDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.640228,20.016701,-98.634735,20.022144],
+  "geometry": {"alpha":0.00015,"bbox":[-98.640228271484,20.016700744629,-98.634735107422,20.022144317627],"coordinates":[[[[-98.635025,20.017563],[-98.63755,20.016701],[-98.640228,20.022144],[-98.635078,20.019646],[-98.634735,20.018839],[-98.635025,20.017563]]]],"created":1292549650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/123262_20101217_7e81844ecd.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12630108,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Estorf, Germany",
+    "placetype":"locality",
+    "woe:id":12630108,
+    "woe:name":"Gemeinde Estorf, Germany",
+    "woe:place_id":"m06_fIGYA5pr_86Cnw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.146976,52.600376,9.149218,52.602493],
+  "geometry": {"alpha":1e-05,"bbox":[9.1469764709473,52.60037612915,9.1492176055908,52.602493286133],"coordinates":[[[[9.14821,52.600834],[9.146976,52.602493],[9.148306,52.600834],[9.149218,52.600376],[9.14821,52.600834]]]],"created":1292535375,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12630108_20101216_fb692fa879.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

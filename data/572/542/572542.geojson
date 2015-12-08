@@ -1,0 +1,15 @@
+{
+  "id": 572542,
+  "type": "Feature",
+  "properties": {
+    "name":"Saamainen, Eastern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":572542,
+    "woe:name":"Saamainen, Eastern Finland, Finland",
+    "woe:place_id":"xWqC50ecBp6RR6s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.756872,62.590317,27.764425,62.593418],
+  "geometry": {"alpha":0.00015,"bbox":[27.756872177124,62.590316772461,27.76442527771,62.593418121338],"coordinates":[[[[27.764381,62.592342],[27.764425,62.592159],[27.76395,62.59198],[27.756872,62.590317],[27.757215,62.593418],[27.764168,62.593197],[27.764381,62.592342]]]],"created":1292532710,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/572542_20101216_2edb45b537.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55848392,
+  "type": "Feature",
+  "properties": {
+    "name":"Trbovlje, SI, Slovenia",
+    "placetype":"region",
+    "woe:id":55848392,
+    "woe:name":"Trbovlje, SI, Slovenia",
+    "woe:place_id":"2CZRSnicBJSSsXfVmw",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [15.019683,46.096088,15.073242,46.170738],
+  "geometry": {"alpha":0.03,"bbox":[15.019682884216,46.096088409424,15.0732421875,46.170738220215],"coordinates":[[[[15.052256,46.156174],[15.053189,46.154324],[15.073242,46.096088],[15.019683,46.110374],[15.025606,46.170738],[15.042446,46.165489],[15.052256,46.156174]]]],"created":1292522431,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/55848392_20101216_376e744a5d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

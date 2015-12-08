@@ -1,0 +1,15 @@
+{
+  "id": 2373225,
+  "type": "Feature",
+  "properties": {
+    "name":"Calf Creek, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2373225,
+    "woe:name":"Calf Creek, Texas, United States",
+    "woe:place_id":"gHHvgEGbApt3wRwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.475334,30.9645,-99.467041,30.9832],
+  "geometry": {"alpha":0.00015,"bbox":[-99.47533416748,30.964500427246,-99.467041015625,30.983200073242],"coordinates":[[[[-99.470818,30.980736],[-99.467041,30.9832],[-99.468613,30.977777],[-99.475334,30.9645],[-99.470985,30.979816],[-99.470818,30.980736]]]],"created":1292454154,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2373225_20101215_5514796ee8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

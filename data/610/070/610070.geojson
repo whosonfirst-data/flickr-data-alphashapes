@@ -1,0 +1,15 @@
+{
+  "id": 610070,
+  "type": "Feature",
+  "properties": {
+    "name":"Maringues, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":610070,
+    "woe:name":"Maringues, Auvergne, France",
+    "woe:place_id":"dbGS48GfAJxsbWs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.316154,45.908047,3.336839,45.93486],
+  "geometry": {"alpha":0.00015,"bbox":[3.3161540031433,45.908046722412,3.3368389606476,45.934860229492],"coordinates":[[[[3.326873,45.923241],[3.318872,45.93486],[3.336839,45.924557],[3.331432,45.918556],[3.316154,45.908047],[3.326873,45.923241]]]],"created":1292538426,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/610070_20101216_6bca6f07df.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

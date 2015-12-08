@@ -1,0 +1,15 @@
+{
+  "id": 2379172,
+  "type": "Feature",
+  "properties": {
+    "name":"Cherryville, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2379172,
+    "woe:name":"Cherryville, Oregon, United States",
+    "woe:place_id":"h4FSG4CbApuZtxqt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.156212,45.366501,-122.152168,45.366833],
+  "geometry": {"alpha":0.00015,"bbox":[-122.15621185303,45.366500854492,-122.15216827393,45.366832733154],"coordinates":[[[[-122.154671,45.366833],[-122.152168,45.366665],[-122.154831,45.366501],[-122.156212,45.36665],[-122.154671,45.366833]]]],"created":1292540411,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2379172_20101216_a3e4a1430a.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

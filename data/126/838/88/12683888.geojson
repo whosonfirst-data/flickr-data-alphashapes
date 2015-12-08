@@ -1,0 +1,15 @@
+{
+  "id": 12683888,
+  "type": "Feature",
+  "properties": {
+    "name":"Liestal, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683888,
+    "woe:name":"Liestal, Switzerland",
+    "woe:place_id":"ncai_qKYA5rWd524wA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.731464,47.480396,7.737979,47.484577],
+  "geometry": {"alpha":1e-05,"bbox":[7.7314639091492,47.480396270752,7.7379789352417,47.484577178955],"coordinates":[[[[7.735662,47.482685],[7.731464,47.480396],[7.731864,47.484577],[7.734718,47.484322],[7.735683,47.484329],[7.737636,47.482407],[7.737979,47.481945],[7.735662,47.482685]]]],"created":1292543937,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12683888_20101216_c1c898dbb7.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 377,
+  "type": "Feature",
+  "properties": {
+    "name":"Deep Brook, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":377,
+    "woe:name":"Deep Brook, Nova Scotia, Canada",
+    "woe:place_id":"m8.0JzWaBps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.691376,44.616989,-65.673363,44.632137],
+  "geometry": {"alpha":0.00015,"bbox":[-65.691375732422,44.616989135742,-65.673362731934,44.632137298584],"coordinates":[[[[-65.688629,44.616989],[-65.691376,44.617355],[-65.690262,44.617966],[-65.676094,44.632137],[-65.673363,44.626499],[-65.684853,44.617111],[-65.688629,44.616989]]]],"created":1292490969,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/377_20101216_9d5b4baa44.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 716488,
+  "type": "Feature",
+  "properties": {
+    "name":"Guardea, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":716488,
+    "woe:name":"Guardea, Umbria, Italy",
+    "woe:place_id":"fCjJA2ueAJqPJUU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.293293,42.621346,12.303915,42.625496],
+  "geometry": {"alpha":0.00015,"bbox":[12.293292999268,42.62134552002,12.303915023804,42.625495910645],"coordinates":[[[[12.298851,42.625435],[12.303915,42.625496],[12.299623,42.621346],[12.295782,42.622932],[12.293293,42.623627],[12.295246,42.62537],[12.298851,42.625435]]]],"created":1292526227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/716488_20101216_a29f729dd9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

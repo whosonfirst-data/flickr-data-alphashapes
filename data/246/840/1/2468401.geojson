@@ -1,0 +1,15 @@
+{
+  "id": 2468401,
+  "type": "Feature",
+  "properties": {
+    "name":"Park Place, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2468401,
+    "woe:name":"Park Place, Georgia, United States",
+    "woe:place_id":"tmaZnZybBZoGs.cf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.779999,33.97187,-84.751106,33.985786],
+  "geometry": {"alpha":0.00015,"bbox":[-84.779998779297,33.971870422363,-84.751106262207,33.985786437988],"coordinates":[[[[-84.76651,33.97187],[-84.779999,33.978172],[-84.774628,33.985786],[-84.763351,33.976898],[-84.751106,33.976604],[-84.758057,33.973526],[-84.76651,33.97187]]]],"created":1292535283,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2468401_20101216_1ba2330a47.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

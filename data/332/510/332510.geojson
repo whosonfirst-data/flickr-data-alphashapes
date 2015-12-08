@@ -1,0 +1,15 @@
+{
+  "id": 332510,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":332510,
+    "woe:name":"San Francisco, Cordoba, Argentina",
+    "woe:place_id":"IlDW47iaAp6dxxI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.107601,-31.439795,-62.0755,-31.422216],
+  "geometry": {"alpha":0.00015,"bbox":[-62.107601165771,-31.439794540405,-62.075500488281,-31.422216415405],"coordinates":[[[[-62.082367,-31.427052],[-62.0755,-31.42749],[-62.076874,-31.431005],[-62.086487,-31.439795],[-62.08469,-31.42901],[-62.107601,-31.426392],[-62.088547,-31.422216],[-62.082367,-31.427052]]]],"created":1292550346,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/332510_20101217_0f8b3bf782.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

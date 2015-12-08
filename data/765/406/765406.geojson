@@ -1,0 +1,15 @@
+{
+  "id": 765406,
+  "type": "Feature",
+  "properties": {
+    "name":"Lo del Gato, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":765406,
+    "woe:name":"Lo del Gato, Canary Islands, Spain",
+    "woe:place_id":"Qa6.BlaeB5lo8yU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.226662,28.07305,-17.208838,28.087511],
+  "geometry": {"alpha":0.00015,"bbox":[-17.226661682129,28.073049545288,-17.208837509155,28.087511062622],"coordinates":[[[[-17.208838,28.077168],[-17.211084,28.07305],[-17.226662,28.081266],[-17.221361,28.087511],[-17.215521,28.079973],[-17.208838,28.077168]]]],"created":1292411764,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/765406_20101215_54559e428b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

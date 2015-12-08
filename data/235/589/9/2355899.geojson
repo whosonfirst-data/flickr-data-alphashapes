@@ -1,0 +1,15 @@
+{
+  "id": 2355899,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, Jacksonville, FL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2355899,
+    "woe:name":"Arlington, Jacksonville, FL, US, United States",
+    "woe:place_id":"9qBYSeebApkq9eNE",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.543747,30.34462,-81.539024,30.347805],
+  "geometry": {"alpha":1e-05,"bbox":[-81.543746948242,30.344619750977,-81.539024353027,30.347805023193],"coordinates":[[[[-81.539413,30.346216],[-81.539024,30.34462],[-81.542297,30.345291],[-81.543747,30.347805],[-81.539886,30.346546],[-81.539413,30.346216]]]],"created":1292448183,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2355899_20101215_0e850e37e1.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

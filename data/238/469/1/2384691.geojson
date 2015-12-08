@@ -1,0 +1,15 @@
+{
+  "id": 2384691,
+  "type": "Feature",
+  "properties": {
+    "name":"Coopersville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2384691,
+    "woe:name":"Coopersville, New York, United States",
+    "woe:place_id":"0FVe92abApSYeTCu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.408607,44.932419,-73.386528,44.962074],
+  "geometry": {"alpha":0.00015,"bbox":[-73.40860748291,44.932418823242,-73.386528015137,44.962074279785],"coordinates":[[[[-73.398888,44.940563],[-73.386528,44.932419],[-73.402435,44.938507],[-73.408607,44.942261],[-73.394333,44.962074],[-73.398888,44.940563]]]],"created":1292459704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2384691_20101216_eafa784497.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

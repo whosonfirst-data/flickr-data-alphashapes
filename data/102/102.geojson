@@ -1,0 +1,15 @@
+{
+  "id": 102,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellevue, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":102,
+    "woe:name":"Bellevue, Newfoundland and Labrador, Canada",
+    "woe:place_id":"pAxTLfiYAZ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.769321,47.620628,-53.730091,47.64119],
+  "geometry": {"alpha":0.00015,"bbox":[-53.76932144165,47.620628356934,-53.730091094971,47.641189575195],"coordinates":[[[[-53.740654,47.640583],[-53.733444,47.636215],[-53.730091,47.635319],[-53.734989,47.626125],[-53.737392,47.620628],[-53.748894,47.636246],[-53.769321,47.634624],[-53.753529,47.64119],[-53.740654,47.640583]]]],"created":1292525110,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/102_20101216_39846c8f5c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

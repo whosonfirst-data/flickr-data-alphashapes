@@ -1,0 +1,15 @@
+{
+  "id": 1100503,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonville, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100503,
+    "woe:name":"Bonville, New South Wales, Australia",
+    "woe:place_id":"phYUZ0iYAJymCnsb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.05191,-30.363989,153.062546,-30.353546],
+  "geometry": {"alpha":0.00015,"bbox":[153.05191040039,-30.363988876343,153.06254577637,-30.353546142578],"coordinates":[[[[153.059204,-30.356934],[153.05191,-30.363989],[153.059464,-30.356138],[153.062546,-30.353546],[153.059845,-30.356194],[153.059204,-30.356934]]]],"created":1292485205,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/1100503_20101216_1b9095609a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

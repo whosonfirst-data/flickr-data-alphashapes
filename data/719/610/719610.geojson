@@ -1,0 +1,15 @@
+{
+  "id": 719610,
+  "type": "Feature",
+  "properties": {
+    "name":"Orsomarso, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":719610,
+    "woe:name":"Orsomarso, Calabria, Italy",
+    "woe:place_id":"orc0jWWeAJU6JCg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.908374,39.796402,15.916893,39.802422],
+  "geometry": {"alpha":0.00015,"bbox":[15.908373832703,39.796401977539,15.916893005371,39.802421569824],"coordinates":[[[[15.90867,39.79982],[15.916893,39.802422],[15.913696,39.796402],[15.908846,39.798702],[15.908589,39.799156],[15.908374,39.799831],[15.90867,39.79982]]]],"created":1292537241,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/719610_20101216_028bbf1229.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

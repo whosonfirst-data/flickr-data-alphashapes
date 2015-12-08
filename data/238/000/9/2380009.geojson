@@ -1,0 +1,15 @@
+{
+  "id": 2380009,
+  "type": "Feature",
+  "properties": {
+    "name":"Choctaw Beach, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2380009,
+    "woe:name":"Choctaw Beach, Florida, United States",
+    "woe:place_id":"2tLWFgSbApRBcdwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.336662,30.473928,-86.329536,30.481522],
+  "geometry": {"alpha":0.00015,"bbox":[-86.33666229248,30.473928451538,-86.329536437988,30.481521606445],"coordinates":[[[[-86.336662,30.473928],[-86.336662,30.474714],[-86.329536,30.481522],[-86.330956,30.476788],[-86.336082,30.474155],[-86.336662,30.473928]]]],"created":1292456596,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2380009_20101215_2efa9dfb41.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 883216,
+  "type": "Feature",
+  "properties": {
+    "name":"Vorumloc, Sibiu, Romania",
+    "placetype":"locality",
+    "woe:id":883216,
+    "woe:name":"Vorumloc, Sibiu, Romania",
+    "woe:place_id":"bdgrWR.RCZ.Abpo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.27429,46.080257,24.280128,46.084187],
+  "geometry": {"alpha":0.00015,"bbox":[24.274290084839,46.080257415771,24.280128479004,46.084186553955],"coordinates":[[[[24.279613,46.080315],[24.27429,46.083233],[24.279785,46.084187],[24.280128,46.081684],[24.280128,46.080257],[24.279613,46.080315]]]],"created":1292537881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/883216_20101216_86d3b5463c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

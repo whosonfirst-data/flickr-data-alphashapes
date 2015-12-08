@@ -1,0 +1,15 @@
+{
+  "id": 2459326,
+  "type": "Feature",
+  "properties": {
+    "name":"Newbold, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2459326,
+    "woe:name":"Newbold, Wisconsin, United States",
+    "woe:place_id":"2wkEg2ObBZlR4FGt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.507248,45.690231,-89.489006,45.706059],
+  "geometry": {"alpha":0.00015,"bbox":[-89.507247924805,45.690231323242,-89.48900604248,45.706058502197],"coordinates":[[[[-89.491707,45.703182],[-89.489006,45.692989],[-89.499519,45.690231],[-89.507248,45.706059],[-89.499176,45.70306],[-89.491707,45.703182]]]],"created":1292451856,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2459326_20101215_af3da46f88.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

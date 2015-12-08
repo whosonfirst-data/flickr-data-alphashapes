@@ -1,0 +1,15 @@
+{
+  "id": 12652484,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Genouph, France",
+    "placetype":"locality",
+    "woe:id":12652484,
+    "woe:name":"St.-Genouph, France",
+    "woe:place_id":"wZUNPZCYA5oYtHsYpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.584678,47.376091,0.58618,47.378185],
+  "geometry": {"alpha":1e-05,"bbox":[0.58467799425125,47.376091003418,0.58617997169495,47.378185272217],"coordinates":[[[[0.584678,47.377979],[0.58485,47.378185],[0.58618,47.377373],[0.584936,47.376091],[0.584678,47.377979]]]],"created":1292530001,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12652484_20101216_54efa71ddf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

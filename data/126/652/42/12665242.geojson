@@ -1,0 +1,15 @@
+{
+  "id": 12665242,
+  "type": "Feature",
+  "properties": {
+    "name":"Lempaut, France",
+    "placetype":"locality",
+    "woe:id":12665242,
+    "woe:name":"Lempaut, France",
+    "woe:place_id":"BV1f.XeYA5qT_Tm_qA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.073154,43.53133,2.074999,43.53511],
+  "geometry": {"alpha":1e-05,"bbox":[2.0731539726257,43.531330108643,2.0749990940094,43.535110473633],"coordinates":[[[[2.073154,43.535046],[2.074098,43.53511],[2.074999,43.532291],[2.074828,43.53133],[2.073154,43.535046]]]],"created":1234625167,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3363/shapefiles/12665242_20090214_fb5015b532.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

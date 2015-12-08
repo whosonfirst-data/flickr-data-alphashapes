@@ -1,0 +1,15 @@
+{
+  "id": 12623370,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kenzingen, Germany",
+    "placetype":"locality",
+    "woe:id":12623370,
+    "woe:name":"Gemeinde Kenzingen, Germany",
+    "woe:place_id":"Df2ppWuYA5rGvVjYMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.802095,48.204411,7.804069,48.205784],
+  "geometry": {"alpha":1e-05,"bbox":[7.8020949363708,48.204410552979,7.8040690422058,48.205783843994],"coordinates":[[[[7.802696,48.20517],[7.802095,48.205784],[7.803339,48.205627],[7.804069,48.204483],[7.804069,48.204411],[7.802696,48.20517]]]],"created":1292542292,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/12623370_20101216_09c6183308.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

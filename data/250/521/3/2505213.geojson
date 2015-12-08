@@ -1,0 +1,15 @@
+{
+  "id": 2505213,
+  "type": "Feature",
+  "properties": {
+    "name":"The Farm, Graham, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2505213,
+    "woe:name":"The Farm, Graham, NC, US, United States",
+    "woe:place_id":".k_PAtmbBJyyXGLv",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.402527,36.057194,-79.397873,36.062374],
+  "geometry": {"alpha":1e-05,"bbox":[-79.402526855469,36.057193756104,-79.397872924805,36.06237411499],"coordinates":[[[[-79.402527,36.057228],[-79.400475,36.062374],[-79.397873,36.059811],[-79.400978,36.057613],[-79.402527,36.057194],[-79.402527,36.057228]]]],"created":1292518784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2505213_20101216_39b4035dc0.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

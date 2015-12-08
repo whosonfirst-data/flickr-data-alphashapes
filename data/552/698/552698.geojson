@@ -1,0 +1,15 @@
+{
+  "id": 552698,
+  "type": "Feature",
+  "properties": {
+    "name":"Brundby, Midtjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":552698,
+    "woe:name":"Brundby, Midtjylland, Denmark",
+    "woe:place_id":"NITAPYecBJ5c8fk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.590326,55.831081,10.591281,55.831535],
+  "geometry": {"alpha":0.00015,"bbox":[10.590326309204,55.831081390381,10.591280937195,55.831535339355],"coordinates":[[[[10.591281,55.831287],[10.590884,55.831081],[10.590326,55.831326],[10.590777,55.831535],[10.591281,55.831287]]]],"created":1234749731,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3292/shapefiles/552698_20090216_ea9d52d978.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

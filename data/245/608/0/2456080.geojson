@@ -1,0 +1,15 @@
+{
+  "id": 2456080,
+  "type": "Feature",
+  "properties": {
+    "name":"Moyock, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2456080,
+    "woe:name":"Moyock, North Carolina, United States",
+    "woe:place_id":"SadyWnObBZmQJaa0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.196587,36.550465,-76.192886,36.555515],
+  "geometry": {"alpha":0.00015,"bbox":[-76.196586608887,36.550464630127,-76.192886352539,36.555515289307],"coordinates":[[[[-76.19368,36.550465],[-76.196587,36.555515],[-76.194542,36.553394],[-76.193489,36.551777],[-76.192886,36.550587],[-76.19368,36.550465]]]],"created":1247983932,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3460/shapefiles/2456080_20090719_27670d4c22.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55999981,
+  "type": "Feature",
+  "properties": {
+    "name":"Abu Ghraib, Baghdad, Iraq",
+    "placetype":"county",
+    "woe:id":55999981,
+    "woe:name":"Abu Ghraib, Baghdad, Iraq",
+    "woe:place_id":"0czcFq.cBJU8lkAslg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [44.19817,33.293373,44.242168,33.316101],
+  "geometry": {"alpha":0.0015,"bbox":[44.198169708252,33.29337310791,44.242168426514,33.316101074219],"coordinates":[[[[44.242168,33.298977],[44.240677,33.293373],[44.221687,33.296101],[44.19817,33.314751],[44.198299,33.316101],[44.242168,33.298977]]]],"created":1292541389,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/55999981_20101216_983dfa2798.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

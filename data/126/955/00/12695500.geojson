@@ -1,0 +1,15 @@
+{
+  "id": 12695500,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant Mateu, Spain",
+    "placetype":"locality",
+    "woe:id":12695500,
+    "woe:name":"Sant Mateu, Spain",
+    "woe:place_id":"5Vw8AciYA5pTR6nPBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.178527,40.464188,0.182476,40.467373],
+  "geometry": {"alpha":1e-05,"bbox":[0.17852699756622,40.46418762207,0.18247599899769,40.467372894287],"coordinates":[[[[0.182476,40.466049],[0.181274,40.464188],[0.179353,40.465057],[0.178527,40.465233],[0.178589,40.46685],[0.182003,40.467373],[0.182476,40.466049]]]],"created":1292508184,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12695500_20101216_2c2cc5214b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

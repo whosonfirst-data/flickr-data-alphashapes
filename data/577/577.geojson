@@ -1,0 +1,15 @@
+{
+  "id": 577,
+  "type": "Feature",
+  "properties": {
+    "name":"Goldboro, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":577,
+    "woe:name":"Goldboro, Nova Scotia, Canada",
+    "woe:place_id":"tWwjAnGcBps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.658535,45.154079,-61.63792,45.188251],
+  "geometry": {"alpha":0.00015,"bbox":[-61.658535003662,45.154079437256,-61.637920379639,45.188251495361],"coordinates":[[[[-61.655273,45.184696],[-61.643559,45.188251],[-61.647034,45.182037],[-61.63792,45.164597],[-61.649437,45.154079],[-61.658535,45.164852],[-61.655273,45.184696]]]],"created":1292450186,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/577_20101215_231cec36f0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

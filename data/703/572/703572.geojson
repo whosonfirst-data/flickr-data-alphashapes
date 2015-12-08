@@ -1,0 +1,15 @@
+{
+  "id": 703572,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldshut, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":703572,
+    "woe:name":"Waldshut, Baden-Wurttemberg, Germany",
+    "woe:place_id":"CifvS3meAZ8Vx.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.19859,47.620975,8.216764,47.62838],
+  "geometry": {"alpha":0.00015,"bbox":[8.1985902786255,47.620975494385,8.2167644500732,47.628379821777],"coordinates":[[[[8.204383,47.62838],[8.214449,47.623699],[8.216764,47.622597],[8.209018,47.622597],[8.19859,47.620975],[8.204383,47.62838]]]],"created":1292443752,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/703572_20101215_db1e44a4c2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

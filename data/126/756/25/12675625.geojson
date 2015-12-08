@@ -1,0 +1,15 @@
+{
+  "id": 12675625,
+  "type": "Feature",
+  "properties": {
+    "name":"Lustenau, Austria",
+    "placetype":"locality",
+    "woe:id":12675625,
+    "woe:name":"Lustenau, Austria",
+    "woe:place_id":"ntgHPnaYA5pMkHvusw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.654085,47.44836,9.658269,47.449299],
+  "geometry": {"alpha":1e-05,"bbox":[9.6540851593018,47.448360443115,9.6582689285278,47.449298858643],"coordinates":[[[[9.658269,47.448811],[9.657078,47.44836],[9.654085,47.448769],[9.655652,47.449299],[9.658269,47.448811]]]],"created":1292522413,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12675625_20101216_71313c8c0f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

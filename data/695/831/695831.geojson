@@ -1,0 +1,15 @@
+{
+  "id": 695831,
+  "type": "Feature",
+  "properties": {
+    "name":"Spieshof, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":695831,
+    "woe:name":"Spieshof, Bavaria, Germany",
+    "woe:place_id":"HN7TBtmfCJlY_eQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.872315,49.305538,11.885833,49.318604],
+  "geometry": {"alpha":0.00015,"bbox":[11.872315406799,49.30553817749,11.88583278656,49.318603515625],"coordinates":[[[[11.873216,49.310883],[11.872315,49.311779],[11.873538,49.315388],[11.875791,49.318604],[11.885833,49.307735],[11.885533,49.305538],[11.873216,49.310883]]]],"created":1292450948,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/695831_20101215_7fca1ff131.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12515099,
+  "type": "Feature",
+  "properties": {
+    "name":"Alta Airport, Norway",
+    "placetype":"locality",
+    "woe:id":12515099,
+    "woe:name":"Alta Airport, Norway",
+    "woe:place_id":"F41I1C.YA5mE7VF2jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.367577,69.968643,23.374615,69.97229],
+  "geometry": {"alpha":1e-05,"bbox":[23.367576599121,69.968643188477,23.374614715576,69.972290039062],"coordinates":[[[[23.368607,69.968674],[23.367577,69.969963],[23.371437,69.97229],[23.374615,69.968643],[23.368607,69.968674]]]],"created":1292501345,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12515099_20101216_93b8701088.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

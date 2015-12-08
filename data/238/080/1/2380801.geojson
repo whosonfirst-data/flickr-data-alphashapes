@@ -1,0 +1,15 @@
+{
+  "id": 2380801,
+  "type": "Feature",
+  "properties": {
+    "name":"Clarks Mills, New York, United States",
+    "placetype":"locality",
+    "woe:id":2380801,
+    "woe:name":"Clarks Mills, New York, United States",
+    "woe:place_id":"7AquavmbApT0MYZ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.576385,43.110851,-73.563812,43.117523],
+  "geometry": {"alpha":0.00015,"bbox":[-73.576385498047,43.110851287842,-73.563812255859,43.117523193359],"coordinates":[[[[-73.573677,43.117462],[-73.563812,43.117523],[-73.569519,43.114079],[-73.576385,43.110851],[-73.574837,43.117085],[-73.573677,43.117462]]]],"created":1292440565,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2380801_20101215_1a0cf7ceb0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

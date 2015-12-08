@@ -1,0 +1,15 @@
+{
+  "id": 2458138,
+  "type": "Feature",
+  "properties": {
+    "name":"New Carrollton, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2458138,
+    "woe:name":"New Carrollton, Indiana, United States",
+    "woe:place_id":"GcL1_Z.bBZne8rlh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.365692,38.926781,-85.359329,38.932243],
+  "geometry": {"alpha":0.00015,"bbox":[-85.365692138672,38.926780700684,-85.359329223633,38.932243347168],"coordinates":[[[[-85.365692,38.932209],[-85.364639,38.932243],[-85.359329,38.926781],[-85.359421,38.926826],[-85.364883,38.9291],[-85.365692,38.932209]]]],"created":1292512746,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2458138_20101216_0d52619276.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

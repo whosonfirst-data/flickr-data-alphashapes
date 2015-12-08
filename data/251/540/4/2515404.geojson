@@ -1,0 +1,15 @@
+{
+  "id": 2515404,
+  "type": "Feature",
+  "properties": {
+    "name":"Wattsville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2515404,
+    "woe:name":"Wattsville, South Carolina, United States",
+    "woe:place_id":"9sCdh42bBJ2coasF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.002518,34.516235,-81.991478,34.524521],
+  "geometry": {"alpha":0.00015,"bbox":[-82.002517700195,34.516235351562,-81.991477966309,34.524520874023],"coordinates":[[[[-81.995827,34.522972],[-81.995132,34.523186],[-81.991478,34.524521],[-81.996407,34.52129],[-82.002518,34.516235],[-81.995827,34.522972]]]],"created":1292537491,"edges":6,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1408/shapefiles/2515404_20101216_d40d7a2113.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

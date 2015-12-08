@@ -1,0 +1,15 @@
+{
+  "id": 2483144,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Hill, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2483144,
+    "woe:name":"Rock Hill, Virginia, United States",
+    "woe:place_id":"96RvovabBZQ1ST3.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.848801,39.060665,-77.829079,39.07526],
+  "geometry": {"alpha":0.00015,"bbox":[-77.84880065918,39.060665130615,-77.829078674316,39.075260162354],"coordinates":[[[[-77.831779,39.062008],[-77.843567,39.060665],[-77.848801,39.069084],[-77.847557,39.07526],[-77.840096,39.073872],[-77.829079,39.062115],[-77.831779,39.062008]]]],"created":1292467391,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2483144_20101216_53e69e28f5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

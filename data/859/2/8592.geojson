@@ -1,0 +1,15 @@
+{
+  "id": 8592,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosebud, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8592,
+    "woe:name":"Rosebud, Alberta, Canada",
+    "woe:place_id":"L4kjVtiRBJU3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.959068,51.298264,-112.943916,51.312576],
+  "geometry": {"alpha":0.00015,"bbox":[-112.95906829834,51.298263549805,-112.9439163208,51.312576293945],"coordinates":[[[[-112.952499,51.300167],[-112.959068,51.312576],[-112.943916,51.30175],[-112.949753,51.299282],[-112.951965,51.298264],[-112.952499,51.300167]]]],"created":1292542828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/8592_20101216_d808f9cd86.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55960068,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleasant Creek, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":55960068,
+    "woe:name":"Pleasant Creek, West Virginia, United States",
+    "woe:place_id":"UaM1h1KcBJVloOYy3w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.053078,39.242615,-80.04982,39.248074],
+  "geometry": {"alpha":0.00015,"bbox":[-80.053077697754,39.242614746094,-80.049819946289,39.248073577881],"coordinates":[[[[-80.052597,39.242615],[-80.053078,39.243088],[-80.05159,39.246609],[-80.04982,39.248074],[-80.052536,39.242748],[-80.052597,39.242615]]]],"created":1292520454,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/55960068_20101216_65992b2132.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

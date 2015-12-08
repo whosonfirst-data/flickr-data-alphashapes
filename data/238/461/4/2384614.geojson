@@ -1,0 +1,15 @@
+{
+  "id": 2384614,
+  "type": "Feature",
+  "properties": {
+    "name":"Cooper, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2384614,
+    "woe:name":"Cooper, Illinois, United States",
+    "woe:place_id":"8DOHHQebApTyNwSL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.415001,40.622002,-89.401833,40.642876],
+  "geometry": {"alpha":0.00015,"bbox":[-89.415000915527,40.622001647949,-89.401832580566,40.642875671387],"coordinates":[[[[-89.402664,40.629166],[-89.402496,40.629002],[-89.401833,40.627998],[-89.410835,40.622002],[-89.415001,40.629501],[-89.409355,40.642876],[-89.402664,40.629166]]]],"created":1292468709,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2384614_20101216_5bba250579.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

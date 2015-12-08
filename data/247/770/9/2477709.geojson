@@ -1,0 +1,15 @@
+{
+  "id": 2477709,
+  "type": "Feature",
+  "properties": {
+    "name":"Quebeck, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2477709,
+    "woe:name":"Quebeck, Tennessee, United States",
+    "woe:place_id":"X_4mGFSbBZv7nLzM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.553581,35.805313,-85.530212,35.81691],
+  "geometry": {"alpha":0.00015,"bbox":[-85.553581237793,35.805313110352,-85.530212402344,35.816909790039],"coordinates":[[[[-85.530212,35.807285],[-85.532906,35.805313],[-85.534378,35.806145],[-85.553581,35.810921],[-85.537102,35.81691],[-85.530212,35.807285]]]],"created":1292444988,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2477709_20101215_1ba67c4e1d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

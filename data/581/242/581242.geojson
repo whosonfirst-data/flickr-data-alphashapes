@@ -1,0 +1,15 @@
+{
+  "id": 581242,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourgneuf, Ile-de-France, France",
+    "placetype":"locality",
+    "woe:id":581242,
+    "woe:name":"Bourgneuf, Ile-de-France, France",
+    "woe:place_id":"fd5CQLGcCZ1guI4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.010498,48.60434,2.018136,48.610271],
+  "geometry": {"alpha":0.00015,"bbox":[2.010498046875,48.604339599609,2.0181360244751,48.610271453857],"coordinates":[[[[2.017675,48.606609],[2.018136,48.606064],[2.016549,48.604431],[2.015991,48.60434],[2.010498,48.610271],[2.017675,48.606609]]]],"created":1292450673,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/581242_20101215_fa638f1eec.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12693523,
+  "type": "Feature",
+  "properties": {
+    "name":"Odena, Spain",
+    "placetype":"locality",
+    "woe:id":12693523,
+    "woe:name":"Odena, Spain",
+    "woe:place_id":"r7u1gHSYA5o.p2y5zA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.637306,41.591053,1.640138,41.593365],
+  "geometry": {"alpha":1e-05,"bbox":[1.6373059749603,41.591053009033,1.6401380300522,41.593364715576],"coordinates":[[[[1.63798,41.593067],[1.637306,41.593365],[1.638161,41.593143],[1.640138,41.591053],[1.63798,41.593067]]]],"created":1292530564,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12693523_20101216_ba16954ab2.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2392565,
+  "type": "Feature",
+  "properties": {
+    "name":"Doe Run, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2392565,
+    "woe:name":"Doe Run, Missouri, United States",
+    "woe:place_id":"opIBQW6bApXbmnba",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.505028,37.713463,-90.494385,37.72168],
+  "geometry": {"alpha":0.00015,"bbox":[-90.505027770996,37.71346282959,-90.494384765625,37.7216796875],"coordinates":[[[[-90.505028,37.713463],[-90.504768,37.714066],[-90.503471,37.714874],[-90.494385,37.72168],[-90.500694,37.71516],[-90.505028,37.713463]]]],"created":1292544739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2392565_20101217_8c302646b4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

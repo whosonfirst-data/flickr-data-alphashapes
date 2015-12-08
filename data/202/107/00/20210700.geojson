@@ -1,0 +1,15 @@
+{
+  "id": 20210700,
+  "type": "Feature",
+  "properties": {
+    "name":"La Combe, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20210700,
+    "woe:name":"La Combe, Rhone-Alpes, France",
+    "woe:place_id":"e_yKPv2bAZ5oeRD7Wg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.791166,45.55481,5.817947,45.587875],
+  "geometry": {"alpha":0.00015,"bbox":[5.7911658287048,45.554809570312,5.8179469108582,45.587875366211],"coordinates":[[[[5.797519,45.573437],[5.808677,45.587875],[5.817947,45.581848],[5.80842,45.569622],[5.806961,45.559795],[5.8043,45.55481],[5.802154,45.564064],[5.795416,45.570507],[5.791166,45.574665],[5.797519,45.573437]]]],"created":1292525826,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20210700_20101216_4c26a7441f.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

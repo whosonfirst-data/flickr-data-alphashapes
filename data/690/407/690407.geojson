@@ -1,0 +1,15 @@
+{
+  "id": 690407,
+  "type": "Feature",
+  "properties": {
+    "name":"Rumpenheim, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":690407,
+    "woe:name":"Rumpenheim, Hesse, Germany",
+    "woe:place_id":".x7sgPefCJy4MBs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.773697,50.126633,8.811722,50.146984],
+  "geometry": {"alpha":0.00015,"bbox":[8.7736968994141,50.12663269043,8.8117218017578,50.146984100342],"coordinates":[[[[8.801422,50.134556],[8.811722,50.136425],[8.802816,50.132004],[8.78889,50.126633],[8.773697,50.134872],[8.787002,50.146984],[8.801422,50.134556]]]],"created":1292529732,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/690407_20101216_78fcebdb9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

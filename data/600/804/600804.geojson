@@ -1,0 +1,15 @@
+{
+  "id": 600804,
+  "type": "Feature",
+  "properties": {
+    "name":"Laffaux, Picardie, France",
+    "placetype":"locality",
+    "woe:id":600804,
+    "woe:name":"Laffaux, Picardie, France",
+    "woe:place_id":"YA0grnifAZy9hmc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.425159,49.443783,3.427584,49.449509],
+  "geometry": {"alpha":0.00015,"bbox":[3.4251589775085,49.443782806396,3.4275839328766,49.449508666992],"coordinates":[[[[3.426597,49.445972],[3.425159,49.449509],[3.427166,49.448334],[3.427584,49.443943],[3.427562,49.443783],[3.426597,49.445972]]]],"created":1292525613,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/600804_20101216_0bc71e24b2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

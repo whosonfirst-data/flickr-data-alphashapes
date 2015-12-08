@@ -1,0 +1,15 @@
+{
+  "id": 2451970,
+  "type": "Feature",
+  "properties": {
+    "name":"Mineral Point, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2451970,
+    "woe:name":"Mineral Point, Missouri, United States",
+    "woe:place_id":"pm7CWrSbBZnI7S2z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.740601,37.904312,-90.735207,37.909683],
+  "geometry": {"alpha":0.00015,"bbox":[-90.740600585938,37.904312133789,-90.735206604004,37.909683227539],"coordinates":[[[[-90.735504,37.909683],[-90.735207,37.909092],[-90.735893,37.908501],[-90.740601,37.904312],[-90.736748,37.909195],[-90.735504,37.909683]]]],"created":1229566322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3133/shapefiles/2451970_20081218_1a891ff55a.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

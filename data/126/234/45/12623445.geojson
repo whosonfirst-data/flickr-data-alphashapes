@@ -1,0 +1,15 @@
+{
+  "id": 12623445,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Schiltach, Germany",
+    "placetype":"locality",
+    "woe:id":12623445,
+    "woe:name":"Gemeinde Schiltach, Germany",
+    "woe:place_id":"wJnBLO.YA5re_lwrCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.342056,48.288448,8.348665,48.293015],
+  "geometry": {"alpha":1e-05,"bbox":[8.3420562744141,48.28844833374,8.3486652374268,48.293014526367],"coordinates":[[[[8.343708,48.290047],[8.342399,48.288448],[8.342056,48.290504],[8.342056,48.291473],[8.346862,48.293015],[8.348665,48.29073],[8.343708,48.290047]]]],"created":1292533385,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12623445_20101216_ddbde4ffda.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

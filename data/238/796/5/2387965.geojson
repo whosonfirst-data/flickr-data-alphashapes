@@ -1,0 +1,15 @@
+{
+  "id": 2387965,
+  "type": "Feature",
+  "properties": {
+    "name":"Crystal Beach, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2387965,
+    "woe:name":"Crystal Beach, Vermont, United States",
+    "woe:place_id":"sEzyrSObApSSHePM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.199951,43.657928,-73.188515,43.676422],
+  "geometry": {"alpha":0.00015,"bbox":[-73.199951171875,43.657928466797,-73.188514709473,43.676422119141],"coordinates":[[[[-73.19133,43.658165],[-73.191505,43.657928],[-73.191353,43.658741],[-73.199951,43.676422],[-73.188599,43.660965],[-73.188515,43.6609],[-73.19133,43.658165]]]],"created":1292549750,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2387965_20101217_6757861862.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 721442,
+  "type": "Feature",
+  "properties": {
+    "name":"Querceta, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":721442,
+    "woe:name":"Querceta, Tuscany, Italy",
+    "woe:place_id":"Db7vYq.eA538PTM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.195484,43.969849,10.207097,43.97929],
+  "geometry": {"alpha":0.00015,"bbox":[10.195484161377,43.969848632812,10.207097053528,43.979290008545],"coordinates":[[[[10.198917,43.977684],[10.205719,43.97929],[10.207097,43.972095],[10.205504,43.969849],[10.199518,43.974819],[10.195484,43.976311],[10.198917,43.977684]]]],"created":1292533142,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/721442_20101216_5c5ffe266a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

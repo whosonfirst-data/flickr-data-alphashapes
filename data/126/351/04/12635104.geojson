@@ -1,0 +1,15 @@
+{
+  "id": 12635104,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Puchheim, Germany",
+    "placetype":"locality",
+    "woe:id":12635104,
+    "woe:name":"Gemeinde Puchheim, Germany",
+    "woe:place_id":"N9ZK57.YA5rY8w6GrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.335333,48.156502,11.339789,48.164394],
+  "geometry": {"alpha":1e-05,"bbox":[11.335332870483,48.15650177002,11.339789390564,48.164394378662],"coordinates":[[[[11.335894,48.161991],[11.336174,48.162308],[11.337203,48.164394],[11.339789,48.161713],[11.335916,48.161991],[11.335333,48.156502],[11.335894,48.161991]]]],"created":1292529250,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12635104_20101216_a0c2385d0d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2498262,
+  "type": "Feature",
+  "properties": {
+    "name":"Springfield, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2498262,
+    "woe:name":"Springfield, Florida, United States",
+    "woe:place_id":"OP0BkI6bBZXy_wU4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.625229,30.137926,-85.600746,30.174774],
+  "geometry": {"alpha":0.00015,"bbox":[-85.625228881836,30.137926101685,-85.600746154785,30.174774169922],"coordinates":[[[[-85.617378,30.153616],[-85.615768,30.161158],[-85.607269,30.174774],[-85.600746,30.168411],[-85.607208,30.159325],[-85.60128,30.137926],[-85.625229,30.142195],[-85.617378,30.153616]]]],"created":1292528404,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2498262_20101216_e67decb8c2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

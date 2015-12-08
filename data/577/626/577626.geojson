@@ -1,0 +1,15 @@
+{
+  "id": 577626,
+  "type": "Feature",
+  "properties": {
+    "name":"Avolsheim, Alsace, France",
+    "placetype":"locality",
+    "woe:id":577626,
+    "woe:name":"Avolsheim, Alsace, France",
+    "woe:place_id":"BMPbNZycBpsSH.Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.499456,48.561329,7.500808,48.56255],
+  "geometry": {"alpha":0.00015,"bbox":[7.4994559288025,48.561328887939,7.500807762146,48.562549591064],"coordinates":[[[[7.500637,48.561756],[7.50043,48.561588],[7.499713,48.561329],[7.499456,48.561668],[7.5004,48.56255],[7.500808,48.56197],[7.500637,48.561756]]]],"created":1292474764,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/577626_20101216_3d5875b715.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

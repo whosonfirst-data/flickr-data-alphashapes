@@ -1,0 +1,15 @@
+{
+  "id": 2427745,
+  "type": "Feature",
+  "properties": {
+    "name":"Irwinton, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2427745,
+    "woe:name":"Irwinton, Georgia, United States",
+    "woe:place_id":"C.tqUaObBZ56FM4V",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.177979,32.810589,-83.166878,32.816422],
+  "geometry": {"alpha":0.00015,"bbox":[-83.177978515625,32.81058883667,-83.166877746582,32.816421508789],"coordinates":[[[[-83.173874,32.810589],[-83.177979,32.816422],[-83.169853,32.814762],[-83.166878,32.81218],[-83.173218,32.810902],[-83.173874,32.810589]]]],"created":1292521207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2427745_20101216_ea2546cf3e.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

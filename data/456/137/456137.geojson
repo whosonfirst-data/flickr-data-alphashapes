@@ -1,0 +1,15 @@
+{
+  "id": 456137,
+  "type": "Feature",
+  "properties": {
+    "name":"Chaval, Ceara, Brazil",
+    "placetype":"locality",
+    "woe:id":456137,
+    "woe:name":"Chaval, Ceara, Brazil",
+    "woe:place_id":"SlE3zWGdBJohYaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-41.255035,-3.054553,-41.239929,-3.034069],
+  "geometry": {"alpha":0.00015,"bbox":[-41.255035400391,-3.0545530319214,-41.239929199219,-3.0340690612793],"coordinates":[[[[-41.255035,-3.047485],[-41.244736,-3.037668],[-41.243362,-3.034069],[-41.239929,-3.045897],[-41.241302,-3.054553],[-41.255035,-3.047485]]]],"created":1292458281,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/456137_20101216_aa8ba07064.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

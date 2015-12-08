@@ -1,0 +1,15 @@
+{
+  "id": 12668631,
+  "type": "Feature",
+  "properties": {
+    "name":"Puissalicon, France",
+    "placetype":"locality",
+    "woe:id":12668631,
+    "woe:name":"Puissalicon, France",
+    "woe:place_id":"JORW.hyYA5pQ.fKC7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.229379,43.457668,3.236466,43.459896],
+  "geometry": {"alpha":1e-05,"bbox":[3.2293789386749,43.457668304443,3.2364659309387,43.459896087646],"coordinates":[[[[3.233499,43.459896],[3.234958,43.459648],[3.236466,43.457668],[3.232641,43.45826],[3.229379,43.458214],[3.233499,43.459896]]]],"created":1292529287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12668631_20101216_3da0a1a0c8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

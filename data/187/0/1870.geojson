@@ -1,0 +1,15 @@
+{
+  "id": 1870,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria Harbour, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1870,
+    "woe:name":"Victoria Harbour, Ontario, Canada",
+    "woe:place_id":"m4AtUS2YCZut",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.808807,44.734844,-79.752975,44.769283],
+  "geometry": {"alpha":0.00015,"bbox":[-79.808807373047,44.734844207764,-79.752975463867,44.769283294678],"coordinates":[[[[-79.762589,44.769283],[-79.761169,44.768166],[-79.755333,44.749294],[-79.752975,44.738167],[-79.761772,44.739479],[-79.781235,44.743568],[-79.784576,44.74041],[-79.796707,44.734844],[-79.808807,44.747707],[-79.786469,44.751907],[-79.784943,44.756485],[-79.777992,44.768337],[-79.764,44.768246],[-79.762589,44.769283]]]],"created":1292540885,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1870_20101216_882830bcb4.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

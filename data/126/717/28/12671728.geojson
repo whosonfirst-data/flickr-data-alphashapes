@@ -1,0 +1,15 @@
+{
+  "id": 12671728,
+  "type": "Feature",
+  "properties": {
+    "name":"Tomblaine, France",
+    "placetype":"locality",
+    "woe:id":12671728,
+    "woe:name":"Tomblaine, France",
+    "woe:place_id":"FDPNhPuYA5pH8yifLQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.226542,48.691174,6.230632,48.692657],
+  "geometry": {"alpha":1e-05,"bbox":[6.2265419960022,48.691173553467,6.2306318283081,48.692657470703],"coordinates":[[[[6.227059,48.692657],[6.227144,48.692646],[6.230632,48.691174],[6.226542,48.692314],[6.22663,48.692467],[6.226748,48.692581],[6.227059,48.692657]]]],"created":1292534995,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12671728_20101216_9761c32a4d.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 723161,
+  "type": "Feature",
+  "properties": {
+    "name":"San Trovaso, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":723161,
+    "woe:name":"San Trovaso, Veneto, Italy",
+    "woe:place_id":"oFOBBm2eA5_o1JA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.223577,45.623642,12.229896,45.628445],
+  "geometry": {"alpha":0.00015,"bbox":[12.223576545715,45.623641967773,12.229895591736,45.628444671631],"coordinates":[[[[12.229896,45.626507],[12.229413,45.625008],[12.227439,45.623642],[12.223577,45.626583],[12.227096,45.628445],[12.229896,45.626507]]]],"created":1292475367,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/723161_20101216_fe15de06c9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

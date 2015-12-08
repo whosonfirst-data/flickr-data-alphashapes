@@ -1,0 +1,15 @@
+{
+  "id": 2447665,
+  "type": "Feature",
+  "properties": {
+    "name":"Mcconnel, California, United States",
+    "placetype":"locality",
+    "woe:id":2447665,
+    "woe:name":"Mcconnel, California, United States",
+    "woe:place_id":"vycGunWbBZi9y2tA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.356415,38.352165,-121.329018,38.367031],
+  "geometry": {"alpha":0.00015,"bbox":[-121.35641479492,38.352165222168,-121.32901763916,38.367031097412],"coordinates":[[[[-121.3405,38.352165],[-121.345085,38.355774],[-121.356415,38.356003],[-121.351974,38.367031],[-121.329018,38.365215],[-121.3405,38.352165]]]],"created":1292451842,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2447665_20101215_1a08e03d5b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

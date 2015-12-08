@@ -1,0 +1,15 @@
+{
+  "id": 12646093,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Loup, France",
+    "placetype":"locality",
+    "woe:id":12646093,
+    "woe:name":"St.-Loup, France",
+    "woe:place_id":"pr.nh1yYA5qwnrh7KQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.826305,47.273098,1.829545,47.276222],
+  "geometry": {"alpha":1e-05,"bbox":[1.8263050317764,47.273097991943,1.8295450210571,47.276222229004],"coordinates":[[[[1.827764,47.27425],[1.829545,47.273098],[1.82697,47.273106],[1.82682,47.273098],[1.826305,47.276222],[1.827764,47.27425]]]],"created":1292551058,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12646093_20101217_fb1e685107.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

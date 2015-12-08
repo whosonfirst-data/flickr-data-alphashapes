@@ -1,0 +1,15 @@
+{
+  "id": 555317,
+  "type": "Feature",
+  "properties": {
+    "name":"Kloster, Syddanmark, Denmark",
+    "placetype":"locality",
+    "woe:id":555317,
+    "woe:name":"Kloster, Syddanmark, Denmark",
+    "woe:place_id":"EIQ.LQ.cBJmhMfY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.459915,55.076942,9.466137,55.085133],
+  "geometry": {"alpha":0.00015,"bbox":[9.4599151611328,55.076942443848,9.466136932373,55.085132598877],"coordinates":[[[[9.460601,55.081757],[9.459915,55.082443],[9.460086,55.082542],[9.464528,55.085133],[9.466137,55.076942],[9.460601,55.081757]]]],"created":1292544129,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/555317_20101217_a80f95b994.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

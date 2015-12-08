@@ -1,0 +1,15 @@
+{
+  "id": 2453749,
+  "type": "Feature",
+  "properties": {
+    "name":"Mooreland, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2453749,
+    "woe:name":"Mooreland, Indiana, United States",
+    "woe:place_id":"DYnI5FObBZnRHOrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.254593,39.99617,-85.25116,40.007107],
+  "geometry": {"alpha":0.00015,"bbox":[-85.254592895508,39.996170043945,-85.251159667969,40.007106781006],"coordinates":[[[[-85.25119,40.001579],[-85.25116,40.000729],[-85.251427,39.99617],[-85.254593,40.007107],[-85.251328,40.002373],[-85.25119,40.001579]]]],"created":1292448604,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2453749_20101215_749efdf705.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

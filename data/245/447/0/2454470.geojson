@@ -1,0 +1,15 @@
+{
+  "id": 2454470,
+  "type": "Feature",
+  "properties": {
+    "name":"Moscow, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2454470,
+    "woe:name":"Moscow, Iowa, United States",
+    "woe:place_id":"HgBdSMybBZl7tO1h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.089386,41.573231,-91.078033,41.57616],
+  "geometry": {"alpha":0.00015,"bbox":[-91.089385986328,41.573230743408,-91.078033447266,41.576160430908],"coordinates":[[[[-91.089386,41.573231],[-91.088333,41.575409],[-91.078033,41.57616],[-91.079681,41.574333],[-91.082664,41.57391],[-91.089386,41.573231]]]],"created":1292517549,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2454470_20101216_118faa79cd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 713294,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelfalfi, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":713294,
+    "woe:name":"Castelfalfi, Tuscany, Italy",
+    "woe:place_id":"wu7r9HaeAJ9B8h4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.851745,43.542763,10.865306,43.553524],
+  "geometry": {"alpha":0.00015,"bbox":[10.851744651794,43.542762756348,10.865305900574,43.553524017334],"coordinates":[[[[10.854063,43.545563],[10.851745,43.553524],[10.862045,43.545811],[10.865306,43.542763],[10.865049,43.542839],[10.855672,43.545467],[10.854063,43.545563]]]],"created":1247910010,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3474/shapefiles/713294_20090718_4e60671f92.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

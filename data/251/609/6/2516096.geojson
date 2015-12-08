@@ -1,0 +1,15 @@
+{
+  "id": 2516096,
+  "type": "Feature",
+  "properties": {
+    "name":"Weissport, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2516096,
+    "woe:name":"Weissport, Pennsylvania, United States",
+    "woe:place_id":"zJNGGY6bBJ2zgBZ6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.7089,40.825218,-75.701088,40.83474],
+  "geometry": {"alpha":0.00015,"bbox":[-75.70890045166,40.825218200684,-75.70108795166,40.834739685059],"coordinates":[[[[-75.701088,40.828239],[-75.706276,40.825218],[-75.7089,40.83474],[-75.706444,40.833878],[-75.70507,40.833164],[-75.701088,40.828239]]]],"created":1292454592,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2516096_20101215_5dcb10f1ba.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2430949,
+  "type": "Feature",
+  "properties": {
+    "name":"Kearsarge, California, United States",
+    "placetype":"locality",
+    "woe:id":2430949,
+    "woe:name":"Kearsarge, California, United States",
+    "woe:place_id":"D66.t.qbBZ9q6CZX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.094788,36.811756,-118.084747,36.834293],
+  "geometry": {"alpha":0.00015,"bbox":[-118.09478759766,36.811756134033,-118.08474731445,36.834293365479],"coordinates":[[[[-118.092384,36.811756],[-118.094788,36.813545],[-118.093414,36.823303],[-118.084747,36.834293],[-118.09127,36.817356],[-118.092384,36.811756]]]],"created":1292542572,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2430949_20101216_9fa6c02dd8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

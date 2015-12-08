@@ -1,0 +1,15 @@
+{
+  "id": 151206,
+  "type": "Feature",
+  "properties": {
+    "name":"Xoloztoc, Guerrero, Mexico",
+    "placetype":"locality",
+    "woe:id":151206,
+    "woe:name":"Xoloztoc, Guerrero, Mexico",
+    "woe:place_id":"9SIaHlGYBJ0Greo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.723503,18.470409,-99.709427,18.485714],
+  "geometry": {"alpha":0.00015,"bbox":[-99.723503112793,18.470409393311,-99.709426879883,18.48571395874],"coordinates":[[[[-99.718697,18.470409],[-99.723503,18.480261],[-99.709427,18.485714],[-99.715088,18.478144],[-99.717834,18.471062],[-99.718697,18.470409]]]],"created":1292445840,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/151206_20101215_c1df597aaa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

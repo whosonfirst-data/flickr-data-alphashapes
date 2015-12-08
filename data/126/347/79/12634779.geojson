@@ -1,0 +1,15 @@
+{
+  "id": 12634779,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Meitingen, Germany",
+    "placetype":"locality",
+    "woe:id":12634779,
+    "woe:name":"Gemeinde Meitingen, Germany",
+    "woe:place_id":"U_47GO6YA5ooDBr_ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.808486,48.535488,10.812681,48.540897],
+  "geometry": {"alpha":1e-05,"bbox":[10.808485984802,48.535488128662,10.81268119812,48.540897369385],"coordinates":[[[[10.808486,48.53627],[10.809302,48.537094],[10.812681,48.540897],[10.81252,48.535488],[10.809431,48.535534],[10.808486,48.53627]]]],"created":1292478902,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12634779_20101216_1befcf6726.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

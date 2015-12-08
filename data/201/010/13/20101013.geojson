@@ -1,0 +1,15 @@
+{
+  "id": 20101013,
+  "type": "Feature",
+  "properties": {
+    "name":"Bourdonnette, Lausanne, VD, CH, Switzerland",
+    "placetype":"neighbourhood",
+    "woe:id":20101013,
+    "woe:name":"Bourdonnette, Lausanne, VD, CH, Switzerland",
+    "woe:place_id":"jnguzh.bAZ20ZU_BAQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [6.576333,46.517666,6.591666,46.531555],
+  "geometry": {"alpha":1e-05,"bbox":[6.5763330459595,46.517665863037,6.5916662216187,46.531555175781],"coordinates":[[[[6.582205,46.519909],[6.578643,46.517666],[6.577377,46.519863],[6.577355,46.524208],[6.576354,46.526268],[6.576333,46.526333],[6.577377,46.529518],[6.5789,46.531555],[6.58051,46.530937],[6.584297,46.530331],[6.587652,46.529629],[6.588363,46.52887],[6.589694,46.527023],[6.591666,46.526333],[6.589666,46.523666],[6.586432,46.522362],[6.584286,46.520794],[6.5825,46.52],[6.582205,46.519909]]]],"created":1292445621,"edges":19,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/20101013_20101215_505a652451.tar.gz"},"points":78,"type":"MultiPolygon"}
+}

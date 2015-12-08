@@ -1,0 +1,15 @@
+{
+  "id": 12518122,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Marston Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518122,
+    "woe:name":"Long Marston Airport, United Kingdom",
+    "woe:place_id":"WZms4qmYA5maRvhCmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.785106,52.144707,-1.779956,52.148235],
+  "geometry": {"alpha":1e-05,"bbox":[-1.7851059436798,52.144706726074,-1.7799559831619,52.148235321045],"coordinates":[[[[-1.78339,52.14576],[-1.783733,52.145496],[-1.785106,52.144707],[-1.783905,52.147472],[-1.779956,52.148235],[-1.78339,52.14576]]]],"created":1292459419,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12518122_20101216_6e6286c4e7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

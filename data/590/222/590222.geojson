@@ -1,0 +1,15 @@
+{
+  "id": 590222,
+  "type": "Feature",
+  "properties": {
+    "name":"Esvres, Centre, France",
+    "placetype":"locality",
+    "woe:id":590222,
+    "woe:name":"Esvres, Centre, France",
+    "woe:place_id":"oN1WjdicCJwZdxM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.778827,47.281326,0.788784,47.291134],
+  "geometry": {"alpha":0.00015,"bbox":[0.77882701158524,47.281326293945,0.78878402709961,47.291133880615],"coordinates":[[[[0.788784,47.290001],[0.787625,47.284798],[0.787925,47.281731],[0.778827,47.281326],[0.779353,47.291134],[0.786209,47.289707],[0.788784,47.290001]]]],"created":1292527703,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/590222_20101216_d249c453e9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

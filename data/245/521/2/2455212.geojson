@@ -1,0 +1,15 @@
+{
+  "id": 2455212,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Olive, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2455212,
+    "woe:name":"Mount Olive, West Virginia, United States",
+    "woe:place_id":"fb7laCGbBZkfBeLo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.273743,38.223099,-81.262001,38.234001],
+  "geometry": {"alpha":0.00015,"bbox":[-81.273742675781,38.223098754883,-81.262001037598,38.234001159668],"coordinates":[[[[-81.273743,38.223106],[-81.273643,38.223518],[-81.262001,38.234001],[-81.273026,38.223499],[-81.273285,38.223099],[-81.273743,38.223106]]]],"created":1292421244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2455212_20101215_1bf73e0121.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

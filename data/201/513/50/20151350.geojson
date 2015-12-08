@@ -1,0 +1,15 @@
+{
+  "id": 20151350,
+  "type": "Feature",
+  "properties": {
+    "name":"Lund 1, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":20151350,
+    "woe:name":"Lund 1, Skane, Sweden",
+    "woe:place_id":"PduIt2ibAZ2qYf2FXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.169174,55.728203,13.176126,55.732738],
+  "geometry": {"alpha":0.00015,"bbox":[13.169174194336,55.728202819824,13.176125526428,55.732738494873],"coordinates":[[[[13.176126,55.728607],[13.170311,55.728203],[13.169775,55.730759],[13.169174,55.732738],[13.176126,55.728607]]]],"created":1292539308,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20151350_20101216_89af17551c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

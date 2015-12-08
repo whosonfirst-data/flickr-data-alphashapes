@@ -1,0 +1,15 @@
+{
+  "id": 113873,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires, Sonora, Mexico",
+    "placetype":"locality",
+    "woe:id":113873,
+    "woe:name":"Buenos Aires, Sonora, Mexico",
+    "woe:place_id":"GLXCg.2YAJ8OH54",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.986977,27.959835,-110.976936,27.974089],
+  "geometry": {"alpha":0.00015,"bbox":[-110.98697662354,27.95983505249,-110.97693634033,27.974088668823],"coordinates":[[[[-110.985428,27.962111],[-110.986977,27.974089],[-110.976936,27.969236],[-110.984741,27.959835],[-110.985085,27.961124],[-110.985428,27.962111]]]],"created":1292450412,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/113873_20101215_1478624a22.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

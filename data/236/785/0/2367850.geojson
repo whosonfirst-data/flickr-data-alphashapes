@@ -1,0 +1,15 @@
+{
+  "id": 2367850,
+  "type": "Feature",
+  "properties": {
+    "name":"Bradford, Salt Lake City, UT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2367850,
+    "woe:name":"Bradford, Salt Lake City, UT, US, United States",
+    "woe:place_id":"gYXwjvybApr21mlK",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-111.876694,40.659786,-111.871162,40.663898],
+  "geometry": {"alpha":1e-05,"bbox":[-111.87669372559,40.659786224365,-111.87116241455,40.663898468018],"coordinates":[[[[-111.873146,40.663898],[-111.871162,40.662628],[-111.871971,40.662418],[-111.876694,40.659786],[-111.873146,40.663898]]]],"created":1234794259,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3652/shapefiles/2367850_20090216_5344064694.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

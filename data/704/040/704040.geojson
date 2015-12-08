@@ -1,0 +1,15 @@
+{
+  "id": 704040,
+  "type": "Feature",
+  "properties": {
+    "name":"Wartenberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":704040,
+    "woe:name":"Wartenberg, Bavaria, Germany",
+    "woe:place_id":"48Hr6cKeAZhY2tA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.970634,48.395473,11.996126,48.409153],
+  "geometry": {"alpha":0.00015,"bbox":[11.970634460449,48.395473480225,11.996126174927,48.409152984619],"coordinates":[[[[11.990203,48.401058],[11.970634,48.395473],[11.984667,48.409153],[11.996126,48.402695],[11.994785,48.401669],[11.990203,48.401058]]]],"created":1292528587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/704040_20101216_33e1eedb61.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55999163,
+  "type": "Feature",
+  "properties": {
+    "name":"Southwest Oakville, Oakville, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999163,
+    "woe:name":"Southwest Oakville, Oakville, ON, CA, Canada",
+    "woe:place_id":"V9UTn0icBJWylR1TKg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.701965,43.414677,-79.69442,43.433826],
+  "geometry": {"alpha":1e-05,"bbox":[-79.701965332031,43.41467666626,-79.69441986084,43.433826446533],"coordinates":[[[[-79.695625,43.432388],[-79.696297,43.432171],[-79.701965,43.433826],[-79.696991,43.431061],[-79.69754,43.425854],[-79.698235,43.420284],[-79.69561,43.420368],[-79.694672,43.420059],[-79.69442,43.414677],[-79.69561,43.420368],[-79.698235,43.420284],[-79.69754,43.425854],[-79.699417,43.426929],[-79.696991,43.431061],[-79.701965,43.433826],[-79.696297,43.432171],[-79.695625,43.432388]]]],"created":1292449628,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/55999163_20101215_5d2d239772.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

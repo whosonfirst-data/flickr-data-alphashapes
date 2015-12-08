@@ -1,0 +1,15 @@
+{
+  "id": 2441708,
+  "type": "Feature",
+  "properties": {
+    "name":"Longs Crossing, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2441708,
+    "woe:name":"Longs Crossing, Ohio, United States",
+    "woe:place_id":"tsHsDWabBZgh6kpT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.832596,40.821728,-80.826759,40.827255],
+  "geometry": {"alpha":0.00015,"bbox":[-80.832595825195,40.821727752686,-80.826759338379,40.827255249023],"coordinates":[[[[-80.827202,40.822945],[-80.826759,40.821861],[-80.827049,40.821728],[-80.82933,40.822643],[-80.832596,40.827255],[-80.827202,40.822945]]]],"created":1292538639,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2441708_20101216_9a7dbb5778.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

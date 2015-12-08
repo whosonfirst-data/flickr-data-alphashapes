@@ -1,0 +1,15 @@
+{
+  "id": 12590870,
+  "type": "Feature",
+  "properties": {
+    "name":"Siikajoki, Finland",
+    "placetype":"locality",
+    "woe:id":12590870,
+    "woe:name":"Siikajoki, Finland",
+    "woe:place_id":"9BxUWpmYA5mvHFIu4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.739838,64.831055,24.744473,64.836311],
+  "geometry": {"alpha":1e-05,"bbox":[24.739837646484,64.8310546875,24.744472503662,64.836311340332],"coordinates":[[[[24.739838,64.834267],[24.740868,64.836311],[24.744473,64.833977],[24.741383,64.831642],[24.740179,64.831055],[24.739838,64.834267]]]],"created":1292457814,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12590870_20101216_1871eba021.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

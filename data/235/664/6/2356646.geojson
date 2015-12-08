@@ -1,0 +1,15 @@
+{
+  "id": 2356646,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashleigh, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2356646,
+    "woe:name":"Ashleigh, Maryland, United States",
+    "woe:place_id":"1A3LKBibApmSLUU.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.162186,39.014599,-77.160507,39.019474],
+  "geometry": {"alpha":0.00015,"bbox":[-77.162185668945,39.014598846436,-77.160507202148,39.019474029541],"coordinates":[[[[-77.16153,39.014618],[-77.162186,39.01506],[-77.160515,39.019474],[-77.160507,39.019474],[-77.160767,39.014599],[-77.16153,39.014618]]]],"created":1292544676,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2356646_20101217_93dfd4eba8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

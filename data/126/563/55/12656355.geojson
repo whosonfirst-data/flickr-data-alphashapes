@@ -1,0 +1,15 @@
+{
+  "id": 12656355,
+  "type": "Feature",
+  "properties": {
+    "name":"Bassoues, France",
+    "placetype":"locality",
+    "woe:id":12656355,
+    "woe:name":"Bassoues, France",
+    "woe:place_id":"V6Bkeu2YA5oADubIEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.243673,43.578751,0.247728,43.581757],
+  "geometry": {"alpha":1e-05,"bbox":[0.24367299675941,43.578750610352,0.24772800505161,43.581756591797],"coordinates":[[[[0.244885,43.578751],[0.243673,43.579479],[0.24496,43.581757],[0.247728,43.579395],[0.247578,43.579285],[0.246527,43.579189],[0.244885,43.578751]]]],"created":1292546680,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12656355_20101217_a539463756.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

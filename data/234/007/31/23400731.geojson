@@ -1,0 +1,15 @@
+{
+  "id": 23400731,
+  "type": "Feature",
+  "properties": {
+    "name":"Kent Bridge, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400731,
+    "woe:name":"Kent Bridge, Ontario, Canada",
+    "woe:place_id":"UKtYYy2bApjtBZYQAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.050873,42.50893,-82.047188,42.513107],
+  "geometry": {"alpha":0.00015,"bbox":[-82.050872802734,42.508930206299,-82.047187805176,42.513107299805],"coordinates":[[[[-82.048813,42.511841],[-82.047783,42.513107],[-82.047188,42.508995],[-82.050873,42.50893],[-82.048813,42.511841]]]],"created":1292495703,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/23400731_20101216_3ea4e6c878.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

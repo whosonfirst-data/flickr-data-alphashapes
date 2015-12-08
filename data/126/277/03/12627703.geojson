@@ -1,0 +1,15 @@
+{
+  "id": 12627703,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hettenhausen, Germany",
+    "placetype":"locality",
+    "woe:id":12627703,
+    "woe:name":"Gemeinde Hettenhausen, Germany",
+    "woe:place_id":"v693XeSYA5r6lheZpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.555385,49.332958,7.557703,49.336098],
+  "geometry": {"alpha":1e-05,"bbox":[7.5553851127625,49.332958221436,7.5577030181885,49.336097717285],"coordinates":[[[[7.555439,49.335831],[7.555385,49.335922],[7.557703,49.336098],[7.55752,49.332958],[7.555643,49.335678],[7.555439,49.335831]]]],"created":1248021253,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2482/shapefiles/12627703_20090719_8b63d14631.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

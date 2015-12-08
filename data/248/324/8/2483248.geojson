@@ -1,0 +1,15 @@
+{
+  "id": 2483248,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Valley, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2483248,
+    "woe:name":"Rock Valley, Iowa, United States",
+    "woe:place_id":"JZ4RLN6bBZQlHLt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.302223,43.195988,-96.283882,43.206844],
+  "geometry": {"alpha":0.00015,"bbox":[-96.302223205566,43.195987701416,-96.283882141113,43.206844329834],"coordinates":[[[[-96.288109,43.206844],[-96.283882,43.202328],[-96.287857,43.197746],[-96.302223,43.195988],[-96.294739,43.205254],[-96.288109,43.206844]]]],"created":1292528376,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2483248_20101216_bddb8ea074.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

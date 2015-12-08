@@ -1,0 +1,15 @@
+{
+  "id": 4400,
+  "type": "Feature",
+  "properties": {
+    "name":"Snow Lake, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":4400,
+    "woe:name":"Snow Lake, Manitoba, Canada",
+    "woe:place_id":"dGa4M.GdBZxX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.025192,54.870434,-100.015038,54.884705],
+  "geometry": {"alpha":0.00015,"bbox":[-100.02519226074,54.870433807373,-100.01503753662,54.884704589844],"coordinates":[[[[-100.018158,54.87463],[-100.020905,54.878632],[-100.025192,54.884705],[-100.019531,54.884109],[-100.015038,54.874519],[-100.016525,54.870434],[-100.018158,54.87463]]]],"created":1292515328,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/4400_20101216_970455c5f1.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

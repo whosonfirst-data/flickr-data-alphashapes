@@ -1,0 +1,15 @@
+{
+  "id": 1100192,
+  "type": "Feature",
+  "properties": {
+    "name":"Baxter, Melbourne, VIC, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":1100192,
+    "woe:name":"Baxter, Melbourne, VIC, AU, Australia",
+    "woe:place_id":"EB2P8.GYAJxdPDdA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [145.179993,-38.207169,145.180695,-38.201504],
+  "geometry": {"alpha":1e-05,"bbox":[145.17999267578,-38.207168579102,145.18069458008,-38.201503753662],"coordinates":[[[[145.180664,-38.207001],[145.180496,-38.207169],[145.179993,-38.207169],[145.180695,-38.201504],[145.180664,-38.207001]]]],"created":1292535854,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/1100192_20101216_76e506a488.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

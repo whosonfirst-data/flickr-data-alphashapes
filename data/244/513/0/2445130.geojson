@@ -1,0 +1,15 @@
+{
+  "id": 2445130,
+  "type": "Feature",
+  "properties": {
+    "name":"Maple Beach, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2445130,
+    "woe:name":"Maple Beach, Washington, United States",
+    "woe:place_id":"R0Tbv9qbBZgCERER",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.050568,48.995029,-123.033226,49.005081],
+  "geometry": {"alpha":0.00015,"bbox":[-123.05056762695,48.995029449463,-123.03322601318,49.005081176758],"coordinates":[[[[-123.035461,49.005066],[-123.035332,49.005081],[-123.033226,49.00449],[-123.034164,48.998001],[-123.041252,48.995029],[-123.050568,48.998295],[-123.040352,49.004265],[-123.035461,49.005066]]]],"created":1292443715,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2445130_20101215_5c3993d986.tar.gz"},"points":45,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 720242,
+  "type": "Feature",
+  "properties": {
+    "name":"Petrignano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":720242,
+    "woe:name":"Petrignano, Umbria, Italy",
+    "woe:place_id":"T2iRC7SeA5yDvwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.530305,43.103428,12.5365,43.109165],
+  "geometry": {"alpha":0.00015,"bbox":[12.530304908752,43.103427886963,12.536499977112,43.10916519165],"coordinates":[[[[12.536333,43.109165],[12.5365,43.109165],[12.535572,43.104427],[12.53387,43.103428],[12.530305,43.105621],[12.534198,43.107796],[12.536333,43.109165]]]],"created":1292532441,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/720242_20101216_4177b41523.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

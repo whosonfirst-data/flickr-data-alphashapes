@@ -1,0 +1,15 @@
+{
+  "id": 1106129,
+  "type": "Feature",
+  "properties": {
+    "name":"Torrens Creek, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1106129,
+    "woe:name":"Torrens Creek, Queensland, Australia",
+    "woe:place_id":"meqqHnSYAJxSiXqr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.008972,-20.772898,145.027084,-20.767189],
+  "geometry": {"alpha":0.00015,"bbox":[145.00897216797,-20.772897720337,145.02708435059,-20.767189025879],"coordinates":[[[[145.01326,-20.771889],[145.008972,-20.772898],[145.013351,-20.771744],[145.018417,-20.769999],[145.027084,-20.767189],[145.019379,-20.770039],[145.01326,-20.771889]]]],"created":1292476326,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/1106129_20101216_2eef87683e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

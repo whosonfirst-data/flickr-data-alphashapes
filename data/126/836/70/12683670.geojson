@@ -1,0 +1,15 @@
+{
+  "id": 12683670,
+  "type": "Feature",
+  "properties": {
+    "name":"Herisau, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683670,
+    "woe:name":"Herisau, Switzerland",
+    "woe:place_id":"ncL0dnuYA5o.zqCINw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.275379,47.384289,9.281945,47.390156],
+  "geometry": {"alpha":1e-05,"bbox":[9.2753791809082,47.384288787842,9.2819452285767,47.390155792236],"coordinates":[[[[9.277181,47.390156],[9.281945,47.389088],[9.278147,47.384933],[9.275379,47.384289],[9.277181,47.390156]]]],"created":1248084984,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2593/shapefiles/12683670_20090720_99e3c6ecef.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

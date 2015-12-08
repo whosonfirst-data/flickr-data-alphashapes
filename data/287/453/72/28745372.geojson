@@ -1,0 +1,15 @@
+{
+  "id": 28745372,
+  "type": "Feature",
+  "properties": {
+    "name":"Spring, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745372,
+    "woe:name":"Spring, Pennsylvania, United States",
+    "woe:place_id":"ZWFKKt.bCZteKa4HDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.224701,40.375401,-77.213844,40.385979],
+  "geometry": {"alpha":0.00015,"bbox":[-77.224700927734,40.375400543213,-77.213844299316,40.38597869873],"coordinates":[[[[-77.213844,40.385452],[-77.214897,40.381973],[-77.216934,40.381107],[-77.221611,40.377789],[-77.223198,40.375893],[-77.224701,40.375401],[-77.221352,40.385979],[-77.213844,40.385452]]]],"created":1292537475,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/28745372_20101216_f40c9dc758.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

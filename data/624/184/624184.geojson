@@ -1,0 +1,15 @@
+{
+  "id": 624184,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Georges, Brittany, France",
+    "placetype":"locality",
+    "woe:id":624184,
+    "woe:name":"St-Georges, Brittany, France",
+    "woe:place_id":"3P4E8POfA5iNqvo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.506449,48.585106,-1.505298,48.585655],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5064489841461,48.585105895996,-1.5052980184555,48.585655212402],"coordinates":[[[[-1.506449,48.585373],[-1.506441,48.585419],[-1.505773,48.585567],[-1.505298,48.585655],[-1.505913,48.585201],[-1.506324,48.585106],[-1.506449,48.585373]]]],"created":1292510827,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/624184_20101216_14390fc3be.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

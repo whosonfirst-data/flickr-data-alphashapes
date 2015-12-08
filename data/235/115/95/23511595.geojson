@@ -1,0 +1,15 @@
+{
+  "id": 23511595,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleasant Lake, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":23511595,
+    "woe:name":"Pleasant Lake, Wisconsin, United States",
+    "woe:place_id":"YGPNZaybAploCXeNjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.554016,43.979179,-89.551361,43.986485],
+  "geometry": {"alpha":0.00015,"bbox":[-89.554016113281,43.979179382324,-89.551361083984,43.986484527588],"coordinates":[[[[-89.554016,43.979179],[-89.553963,43.979904],[-89.553207,43.986485],[-89.551361,43.984909],[-89.552963,43.979523],[-89.554016,43.979179]]]],"created":1292457253,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/23511595_20101215_c491f50e33.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

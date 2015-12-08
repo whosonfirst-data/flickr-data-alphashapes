@@ -1,0 +1,15 @@
+{
+  "id": 2410013,
+  "type": "Feature",
+  "properties": {
+    "name":"Gibson, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2410013,
+    "woe:name":"Gibson, Pennsylvania, United States",
+    "woe:place_id":"l7NN1z6bBZ197tax",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.659683,41.798416,-75.630737,41.821301],
+  "geometry": {"alpha":0.00015,"bbox":[-75.659683227539,41.798416137695,-75.630737304688,41.821300506592],"coordinates":[[[[-75.65136,41.821301],[-75.630737,41.814732],[-75.649193,41.804588],[-75.655678,41.798416],[-75.659683,41.819241],[-75.65136,41.821301]]]],"created":1292536683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2410013_20101216_100cf9c733.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

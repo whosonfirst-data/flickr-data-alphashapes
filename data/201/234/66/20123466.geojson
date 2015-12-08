@@ -1,0 +1,15 @@
+{
+  "id": 20123466,
+  "type": "Feature",
+  "properties": {
+    "name":"Donico, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20123466,
+    "woe:name":"Donico, Lombardy, Italy",
+    "woe:place_id":"KA_jFV6bAZ3HW.9AsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.070085,45.928646,10.083389,45.937901],
+  "geometry": {"alpha":0.00015,"bbox":[10.070084571838,45.928646087646,10.083389282227,45.937900543213],"coordinates":[[[[10.077037,45.937901],[10.083389,45.933605],[10.081554,45.930676],[10.075192,45.928646],[10.070085,45.936405],[10.077037,45.937901]]]],"created":1292529552,"edges":6,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1399/shapefiles/20123466_20101216_d5562c3c0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

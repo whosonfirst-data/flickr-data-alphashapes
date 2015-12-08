@@ -1,0 +1,15 @@
+{
+  "id": 2405262,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest Home Farms, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2405262,
+    "woe:name":"Forest Home Farms, Tennessee, United States",
+    "woe:place_id":"G7cUVjGbBZzJJh7f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.993851,35.984604,-86.987686,35.988838],
+  "geometry": {"alpha":0.00015,"bbox":[-86.993850708008,35.984603881836,-86.987686157227,35.988838195801],"coordinates":[[[[-86.993179,35.987381],[-86.990601,35.988838],[-86.987686,35.985786],[-86.991493,35.984604],[-86.993851,35.984795],[-86.993179,35.987381]]]],"created":1248135362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2434/shapefiles/2405262_20090721_ab9a529357.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

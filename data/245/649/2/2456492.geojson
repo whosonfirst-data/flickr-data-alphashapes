@@ -1,0 +1,15 @@
+{
+  "id": 2456492,
+  "type": "Feature",
+  "properties": {
+    "name":"Murray, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2456492,
+    "woe:name":"Murray, Idaho, United States",
+    "woe:place_id":"0V87DMebBZlYQRld",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.880592,47.622452,-115.850655,47.62965],
+  "geometry": {"alpha":0.00015,"bbox":[-115.88059234619,47.622451782227,-115.85065460205,47.629650115967],"coordinates":[[[[-115.858986,47.62965],[-115.853645,47.626667],[-115.850655,47.625717],[-115.858986,47.624908],[-115.880592,47.622452],[-115.86113,47.627918],[-115.858986,47.62965]]]],"created":1292500924,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2456492_20101216_0613eec54f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

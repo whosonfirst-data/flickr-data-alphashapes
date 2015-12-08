@@ -1,0 +1,15 @@
+{
+  "id": 1102232,
+  "type": "Feature",
+  "properties": {
+    "name":"Giru, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1102232,
+    "woe:name":"Giru, Queensland, Australia",
+    "woe:place_id":"4rDaMCuYAJwNM2bF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.100662,-19.521046,147.105927,-19.50996],
+  "geometry": {"alpha":0.00015,"bbox":[147.10066223145,-19.521045684814,147.10592651367,-19.509960174561],"coordinates":[[[[147.103668,-19.50996],[147.105927,-19.512951],[147.104782,-19.517282],[147.103928,-19.521046],[147.100662,-19.51704],[147.103668,-19.50996]]]],"created":1292522009,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/1102232_20101216_6dbee9cd64.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

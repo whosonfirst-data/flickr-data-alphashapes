@@ -1,0 +1,15 @@
+{
+  "id": 647649,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellingshausen, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":647649,
+    "woe:name":"Ellingshausen, Thuringia, Germany",
+    "woe:place_id":"03o0PWyfBZvl618",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.468597,50.545181,10.473339,50.546925],
+  "geometry": {"alpha":0.00015,"bbox":[10.468597412109,50.545181274414,10.473339080811,50.546924591064],"coordinates":[[[[10.471515,50.546925],[10.473232,50.546818],[10.473339,50.546734],[10.470829,50.545616],[10.468597,50.545181],[10.46997,50.546818],[10.471515,50.546925]]]],"created":1292527701,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/647649_20101216_bef3d7ff00.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

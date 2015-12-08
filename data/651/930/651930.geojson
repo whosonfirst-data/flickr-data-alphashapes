@@ -1,0 +1,15 @@
+{
+  "id": 651930,
+  "type": "Feature",
+  "properties": {
+    "name":"Geisenfeld, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":651930,
+    "woe:name":"Geisenfeld, Bavaria, Germany",
+    "woe:place_id":"GoI2q0WfBJ1x2wY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.608428,48.674145,11.625337,48.690876],
+  "geometry": {"alpha":0.00015,"bbox":[11.608428001404,48.674144744873,11.625336647034,48.69087600708],"coordinates":[[[[11.611561,48.679825],[11.609458,48.674145],[11.608428,48.688694],[11.625337,48.690876],[11.622333,48.686752],[11.611561,48.679825]]]],"created":1292458564,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/651930_20101216_bf0dcb10fb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12626331,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Spergau, Germany",
+    "placetype":"locality",
+    "woe:id":12626331,
+    "woe:name":"Gemeinde Spergau, Germany",
+    "woe:place_id":"cMWYopGYA5oIm7yShQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.013678,51.284599,12.015244,51.288391],
+  "geometry": {"alpha":1e-05,"bbox":[12.013677597046,51.284599304199,12.015243530273,51.288391113281],"coordinates":[[[[12.014751,51.285931],[12.015244,51.284599],[12.014493,51.285889],[12.014236,51.286964],[12.013678,51.288391],[12.014794,51.287205],[12.014751,51.285931]]]],"created":1292453598,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12626331_20101215_a9dbf81e77.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

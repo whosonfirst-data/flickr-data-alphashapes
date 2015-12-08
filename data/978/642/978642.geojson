@@ -1,0 +1,15 @@
+{
+  "id": 978642,
+  "type": "Feature",
+  "properties": {
+    "name":"Wanze, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":978642,
+    "woe:name":"Wanze, Liege, Belgium",
+    "woe:place_id":"s4ivIRCQBpTEEYI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.205888,50.521229,5.22652,50.536453],
+  "geometry": {"alpha":0.00015,"bbox":[5.2058877944946,50.521228790283,5.2265200614929,50.53645324707],"coordinates":[[[[5.211725,50.521229],[5.205888,50.530056],[5.212841,50.536453],[5.221595,50.535473],[5.22652,50.535007],[5.220394,50.523796],[5.211725,50.521229]]]],"created":1292549567,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/978642_20101217_cf6b63fbc1.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

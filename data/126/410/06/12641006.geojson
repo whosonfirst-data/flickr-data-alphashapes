@@ -1,0 +1,15 @@
+{
+  "id": 12641006,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-P\u00e9reuse, France",
+    "placetype":"locality",
+    "woe:id":12641006,
+    "woe:name":"St.-P\u00e9reuse, France",
+    "woe:place_id":"0Qf514GYA5rxtu5Q6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.810142,47.053833,3.810333,47.054001],
+  "geometry": {"alpha":1e-05,"bbox":[3.8101420402527,47.053833007812,3.8103330135345,47.054000854492],"coordinates":[[[[3.810166,47.053833],[3.810142,47.053848],[3.810166,47.054001],[3.810333,47.054001],[3.810333,47.053833],[3.810166,47.053833]]]],"created":1292513525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12641006_20101216_54a6293af6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 623804,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Doulchard, Centre, France",
+    "placetype":"locality",
+    "woe:id":623804,
+    "woe:name":"St.-Doulchard, Centre, France",
+    "woe:place_id":"f5.bGRefA59ybrI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.355709,47.087891,2.386779,47.110909],
+  "geometry": {"alpha":0.00015,"bbox":[2.3557090759277,47.087890625,2.3867790699005,47.110908508301],"coordinates":[[[[2.377381,47.097275],[2.360429,47.087891],[2.355709,47.106003],[2.360279,47.103798],[2.379999,47.110909],[2.386779,47.093967],[2.377381,47.097275]]]],"created":1292531375,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/623804_20101216_8bd66d5d3b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

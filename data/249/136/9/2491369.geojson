@@ -1,0 +1,15 @@
+{
+  "id": 2491369,
+  "type": "Feature",
+  "properties": {
+    "name":"Shady Grove, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2491369,
+    "woe:name":"Shady Grove, Tennessee, United States",
+    "woe:place_id":"W6NU3GmbBZXZxf6D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.357536,35.127708,-86.337639,35.134502],
+  "geometry": {"alpha":0.00015,"bbox":[-86.357536315918,35.127708435059,-86.33763885498,35.134502410889],"coordinates":[[[[-86.348381,35.134502],[-86.337639,35.128967],[-86.340454,35.129028],[-86.342346,35.129066],[-86.357536,35.127708],[-86.348381,35.134502]]]],"created":1292422322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2491369_20101215_9e2764defc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

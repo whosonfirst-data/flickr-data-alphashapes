@@ -1,0 +1,15 @@
+{
+  "id": 2410701,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Alden, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2410701,
+    "woe:name":"Glen Alden, Virginia, United States",
+    "woe:place_id":"vo7lJv2bBZ2lhX_i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.359245,38.847797,-77.354904,38.850208],
+  "geometry": {"alpha":0.00015,"bbox":[-77.359245300293,38.847797393799,-77.354904174805,38.850208282471],"coordinates":[[[[-77.35878,38.850208],[-77.354904,38.84959],[-77.355247,38.848396],[-77.359245,38.847797],[-77.3592,38.848431],[-77.35878,38.850208]]]],"created":1292451722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2410701_20101215_55e9e00b08.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

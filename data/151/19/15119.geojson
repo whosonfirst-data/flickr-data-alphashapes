@@ -1,0 +1,15 @@
+{
+  "id": 15119,
+  "type": "Feature",
+  "properties": {
+    "name":"Carbrooke, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":15119,
+    "woe:name":"Carbrooke, England, United Kingdom",
+    "woe:place_id":"9ajo1PSYBJ1Pbg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.863649,52.570457,0.877404,52.594692],
+  "geometry": {"alpha":0.00015,"bbox":[0.86364901065826,52.570457458496,0.87740397453308,52.594692230225],"coordinates":[[[[0.877017,52.583546],[0.877404,52.572178],[0.87425,52.570602],[0.872711,52.570457],[0.863649,52.579792],[0.869679,52.594692],[0.877017,52.583546]]]],"created":1292549980,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/15119_20101217_20bc9eb188.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

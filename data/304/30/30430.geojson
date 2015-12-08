@@ -1,0 +1,15 @@
+{
+  "id": 30430,
+  "type": "Feature",
+  "properties": {
+    "name":"Northchapel, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30430,
+    "woe:name":"Northchapel, England, United Kingdom",
+    "woe:place_id":"4x5vEdGaAZjRsw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.655059,51.039719,-0.637518,51.057041],
+  "geometry": {"alpha":0.00015,"bbox":[-0.6550589799881,51.03971862793,-0.63751798868179,51.057041168213],"coordinates":[[[[-0.6427,51.057041],[-0.637518,51.056034],[-0.643167,51.048],[-0.655059,51.039719],[-0.645961,51.055855],[-0.6427,51.057041]]]],"created":1292510349,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/30430_20101216_8ffc22f25f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

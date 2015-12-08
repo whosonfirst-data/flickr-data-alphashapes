@@ -1,0 +1,15 @@
+{
+  "id": 2491300,
+  "type": "Feature",
+  "properties": {
+    "name":"Shady Dale, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2491300,
+    "woe:name":"Shady Dale, Georgia, United States",
+    "woe:place_id":"y20S_7abBZXa_u0H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.595474,33.3964,-83.588753,33.404362],
+  "geometry": {"alpha":0.00015,"bbox":[-83.595474243164,33.39640045166,-83.588752746582,33.404361724854],"coordinates":[[[[-83.588753,33.401234],[-83.590797,33.3964],[-83.59108,33.396992],[-83.591141,33.397121],[-83.595474,33.404362],[-83.588753,33.401234]]]],"created":1292523358,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2491300_20101216_b8000b87d2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

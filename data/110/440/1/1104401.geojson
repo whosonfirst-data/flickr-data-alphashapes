@@ -1,0 +1,15 @@
+{
+  "id": 1104401,
+  "type": "Feature",
+  "properties": {
+    "name":"Murtoa, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1104401,
+    "woe:name":"Murtoa, Victoria, Australia",
+    "woe:place_id":"HjgU2wWYAJwcE9sw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [142.465042,-36.620152,142.478424,-36.615185],
+  "geometry": {"alpha":0.00015,"bbox":[142.46504211426,-36.620151519775,142.47842407227,-36.615184783936],"coordinates":[[[[142.470352,-36.615185],[142.478424,-36.617317],[142.474014,-36.620152],[142.465042,-36.618973],[142.46521,-36.618282],[142.470352,-36.615185]]]],"created":1292528194,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/1104401_20101216_286be56597.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

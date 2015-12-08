@@ -1,0 +1,15 @@
+{
+  "id": 12647858,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Fargeau, France",
+    "placetype":"locality",
+    "woe:id":12647858,
+    "woe:name":"St.-Fargeau, France",
+    "woe:place_id":"FklIqtGYA5pjsWnMPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.069305,47.639805,3.071239,47.642433],
+  "geometry": {"alpha":1e-05,"bbox":[3.0693049430847,47.639804840088,3.0712389945984,47.642433166504],"coordinates":[[[[3.069305,47.642433],[3.070507,47.642319],[3.071239,47.641232],[3.07115,47.639805],[3.069305,47.642433]]]],"created":1292548169,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12647858_20101217_74faaf5163.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

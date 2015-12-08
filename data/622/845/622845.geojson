@@ -1,0 +1,15 @@
+{
+  "id": 622845,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Amand, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":622845,
+    "woe:name":"St-Amand, Aquitaine, France",
+    "woe:place_id":"ze16pDSfA549ejg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.24257,45.059002,1.248149,45.069035],
+  "geometry": {"alpha":0.00015,"bbox":[1.2425700426102,45.059001922607,1.2481490373611,45.069034576416],"coordinates":[[[[1.248149,45.06525],[1.247399,45.059002],[1.245901,45.062061],[1.24257,45.067677],[1.244544,45.069035],[1.246261,45.06855],[1.248149,45.06525]]]],"created":1292536096,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/622845_20101216_fd326eb138.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

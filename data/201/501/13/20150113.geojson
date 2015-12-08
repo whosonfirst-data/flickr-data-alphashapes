@@ -1,0 +1,15 @@
+{
+  "id": 20150113,
+  "type": "Feature",
+  "properties": {
+    "name":"Saletto, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20150113,
+    "woe:name":"Saletto, Veneto, Italy",
+    "woe:place_id":"vZ4z93CbAZ2LpruiKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.855621,45.472591,11.864247,45.479572],
+  "geometry": {"alpha":0.00015,"bbox":[11.855621337891,45.472591400146,11.864247322083,45.479572296143],"coordinates":[[[[11.858239,45.476669],[11.860513,45.477444],[11.864247,45.479572],[11.860964,45.474773],[11.855621,45.472591],[11.857337,45.475193],[11.858239,45.476669]]]],"created":1292536844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20150113_20101216_954a499a93.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

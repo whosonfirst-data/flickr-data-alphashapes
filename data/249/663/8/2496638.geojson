@@ -1,0 +1,15 @@
+{
+  "id": 2496638,
+  "type": "Feature",
+  "properties": {
+    "name":"South Pomfret, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2496638,
+    "woe:name":"South Pomfret, Vermont, United States",
+    "woe:place_id":"tM7SkVGbBZX7BAD4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.550964,43.661663,-72.539238,43.66531],
+  "geometry": {"alpha":0.00015,"bbox":[-72.550964355469,43.66166305542,-72.539237976074,43.665309906006],"coordinates":[[[[-72.548729,43.661663],[-72.550964,43.662548],[-72.543961,43.665047],[-72.543312,43.66531],[-72.539238,43.665062],[-72.548729,43.661663]]]],"created":1247925362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2619/shapefiles/2496638_20090718_42d22831cc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

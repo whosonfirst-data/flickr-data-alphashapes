@@ -1,0 +1,15 @@
+{
+  "id": 547839,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Martin, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":547839,
+    "woe:name":"St. Martin, Salzburg, Austria",
+    "woe:place_id":"bqKrz9mcBZsycNc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.648667,47.093849,13.657894,47.121803],
+  "geometry": {"alpha":0.00015,"bbox":[13.64866733551,47.093849182129,13.657894134521,47.121803283691],"coordinates":[[[[13.654246,47.100166],[13.648667,47.121803],[13.657894,47.100861],[13.656005,47.093849],[13.654246,47.100166]]]],"created":1226449682,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3135/shapefiles/547839_20081112_b74c54b546.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28339615,
+  "type": "Feature",
+  "properties": {
+    "name":"Cedar Bonnet Island, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":28339615,
+    "woe:name":"Cedar Bonnet Island, New Jersey, United States",
+    "woe:place_id":"QJXaoXKbCZ8gpG9gzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.275047,39.704159,-74.251183,39.723549],
+  "geometry": {"alpha":0.00015,"bbox":[-74.275047302246,39.704158782959,-74.251182556152,39.72354888916],"coordinates":[[[[-74.251183,39.712238],[-74.252472,39.710358],[-74.263878,39.704159],[-74.275047,39.723549],[-74.256592,39.712467],[-74.251183,39.712238]]]],"created":1292390641,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/28339615_20101215_eced481417.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

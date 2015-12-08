@@ -1,0 +1,15 @@
+{
+  "id": 711557,
+  "type": "Feature",
+  "properties": {
+    "name":"Buscate, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":711557,
+    "woe:name":"Buscate, Lombardy, Italy",
+    "woe:place_id":"BMclIUmeAJ31bMY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.800048,45.532585,8.828544,45.552044],
+  "geometry": {"alpha":0.00015,"bbox":[8.8000478744507,45.532585144043,8.8285436630249,45.552043914795],"coordinates":[[[[8.81338,45.544361],[8.828544,45.533649],[8.81185,45.538235],[8.806304,45.532585],[8.800048,45.552044],[8.812408,45.545071],[8.81338,45.544361]]]],"created":1292530580,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/711557_20101216_69bec77b4c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

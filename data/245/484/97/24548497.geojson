@@ -1,0 +1,15 @@
+{
+  "id": 24548497,
+  "type": "Feature",
+  "properties": {
+    "name":"My\u015blenice, Poland",
+    "placetype":"locality",
+    "woe:id":24548497,
+    "woe:name":"My\u015blenice, Poland",
+    "woe:place_id":"CPPmQcKbBZnsajp_Nw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.946623,49.818909,19.95188,49.824253],
+  "geometry": {"alpha":1e-05,"bbox":[19.946622848511,49.818908691406,19.951879501343,49.824253082275],"coordinates":[[[[19.946623,49.822205],[19.948553,49.824253],[19.950485,49.820004],[19.95188,49.818909],[19.948425,49.819767],[19.946623,49.822205]]]],"created":1292528773,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/24548497_20101216_253dbd00d4.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 678666,
+  "type": "Feature",
+  "properties": {
+    "name":"Neukirchen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":678666,
+    "woe:name":"Neukirchen, Bavaria, Germany",
+    "woe:place_id":"Jqr_6dqfBpTNEYI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.752496,48.97377,12.755974,48.977219],
+  "geometry": {"alpha":0.00015,"bbox":[12.752495765686,48.973770141602,12.755973815918,48.97721862793],"coordinates":[[[[12.755974,48.974293],[12.752496,48.97377],[12.753902,48.977062],[12.754075,48.977219],[12.755974,48.974293]]]],"created":1234475764,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3404/shapefiles/678666_20090212_55a4f78d14.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

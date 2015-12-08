@@ -1,0 +1,15 @@
+{
+  "id": 2389852,
+  "type": "Feature",
+  "properties": {
+    "name":"Daysville Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2389852,
+    "woe:name":"Daysville Corner, New York, United States",
+    "woe:place_id":"J8VjXUSbApTHy.aJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.220398,43.551113,-76.212608,43.553448],
+  "geometry": {"alpha":0.00015,"bbox":[-76.220397949219,43.551113128662,-76.212608337402,43.553447723389],"coordinates":[[[[-76.213791,43.553337],[-76.212799,43.553448],[-76.212608,43.553276],[-76.213814,43.551113],[-76.220398,43.552528],[-76.213791,43.553337]]]],"created":1292537385,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2389852_20101216_0e21c556e3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

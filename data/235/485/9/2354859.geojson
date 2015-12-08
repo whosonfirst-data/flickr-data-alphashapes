@@ -1,0 +1,15 @@
+{
+  "id": 2354859,
+  "type": "Feature",
+  "properties": {
+    "name":"Annalore, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2354859,
+    "woe:name":"Annalore, Oregon, United States",
+    "woe:place_id":"ZfplPOybApnMqd30",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.14418,45.386875,-121.138298,45.410427],
+  "geometry": {"alpha":0.00015,"bbox":[-121.14418029785,45.386875152588,-121.13829803467,45.410427093506],"coordinates":[[[[-121.138298,45.410427],[-121.14109,45.397968],[-121.14418,45.386875],[-121.142548,45.396221],[-121.14109,45.397968],[-121.139488,45.410336],[-121.138298,45.410427]]]],"created":1292485627,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2354859_20101216_c9cdf1bccc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

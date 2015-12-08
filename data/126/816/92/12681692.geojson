@@ -1,0 +1,15 @@
+{
+  "id": 12681692,
+  "type": "Feature",
+  "properties": {
+    "name":"Caldogno, Italy",
+    "placetype":"locality",
+    "woe:id":12681692,
+    "woe:name":"Caldogno, Italy",
+    "woe:place_id":"De25hPSYA5ofHYd8Kw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.524422,45.586849,11.524958,45.587711],
+  "geometry": {"alpha":1e-05,"bbox":[11.524421691895,45.586849212646,11.52495765686,45.587711334229],"coordinates":[[[[11.524422,45.587688],[11.524465,45.587711],[11.524958,45.586849],[11.524701,45.587093],[11.524422,45.587688]]]],"created":1292542987,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12681692_20101216_550b64f7fe.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

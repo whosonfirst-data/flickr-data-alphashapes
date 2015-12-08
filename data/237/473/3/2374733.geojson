@@ -1,0 +1,15 @@
+{
+  "id": 2374733,
+  "type": "Feature",
+  "properties": {
+    "name":"Capitol View, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2374733,
+    "woe:name":"Capitol View, Virginia, United States",
+    "woe:place_id":"gYQI6hebApuO6t3M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.383682,37.466301,-77.362587,37.490532],
+  "geometry": {"alpha":0.00015,"bbox":[-77.383682250977,37.466300964355,-77.362586975098,37.490531921387],"coordinates":[[[[-77.383682,37.466301],[-77.383575,37.472267],[-77.379448,37.490532],[-77.362587,37.483372],[-77.377052,37.471996],[-77.383682,37.466301]]]],"created":1248140404,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2515/shapefiles/2374733_20090721_b52993d7ca.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

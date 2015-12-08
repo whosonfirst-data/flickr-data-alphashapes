@@ -1,0 +1,15 @@
+{
+  "id": 2395368,
+  "type": "Feature",
+  "properties": {
+    "name":"East Branch, New York, United States",
+    "placetype":"locality",
+    "woe:id":2395368,
+    "woe:name":"East Branch, New York, United States",
+    "woe:place_id":"wDR5YoqbApUxaay0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.137695,41.988586,-75.124664,41.994545],
+  "geometry": {"alpha":0.00015,"bbox":[-75.1376953125,41.988586425781,-75.124664306641,41.99454498291],"coordinates":[[[[-75.131836,41.989365],[-75.137138,41.988586],[-75.137695,41.989059],[-75.130699,41.994545],[-75.124664,41.988834],[-75.131836,41.989365]]]],"created":1292519865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2395368_20101216_b1b5c9bc47.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1562,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Malachie, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1562,
+    "woe:name":"St.-Malachie, Quebec, Canada",
+    "woe:place_id":"2iqWub2YBJrG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.771797,46.528339,-70.759506,46.535542],
+  "geometry": {"alpha":0.00015,"bbox":[-70.771797180176,46.528339385986,-70.759506225586,46.535541534424],"coordinates":[[[[-70.764786,46.53194],[-70.759506,46.528339],[-70.764732,46.531181],[-70.771797,46.535542],[-70.764786,46.53194]]]],"created":1292551268,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/1562_20101217_976e1a0edb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

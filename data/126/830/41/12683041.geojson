@@ -1,0 +1,15 @@
+{
+  "id": 12683041,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirchlindach, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683041,
+    "woe:name":"Kirchlindach, Switzerland",
+    "woe:place_id":"D123thCYA5qKOEUSJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.421108,46.981335,7.422691,46.985054],
+  "geometry": {"alpha":1e-05,"bbox":[7.4211077690125,46.981334686279,7.4226908683777,46.985054016113],"coordinates":[[[[7.422133,46.983082],[7.421108,46.985054],[7.422155,46.983131],[7.422691,46.981335],[7.422133,46.983082]]]],"created":1239528246,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3643/shapefiles/12683041_20090412_e56500201b.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

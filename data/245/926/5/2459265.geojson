@@ -1,0 +1,15 @@
+{
+  "id": 2459265,
+  "type": "Feature",
+  "properties": {
+    "name":"Newark, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2459265,
+    "woe:name":"Newark, Wisconsin, United States",
+    "woe:place_id":"ZaLukCabBZm_Blpp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.172249,42.510506,-89.169746,42.515953],
+  "geometry": {"alpha":0.00015,"bbox":[-89.172248840332,42.51050567627,-89.169746398926,42.515953063965],"coordinates":[[[[-89.169907,42.511452],[-89.169746,42.510506],[-89.170036,42.510696],[-89.171936,42.512867],[-89.172249,42.515953],[-89.169907,42.511452]]]],"created":1292493909,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2459265_20101216_824a904cd4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

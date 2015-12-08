@@ -1,0 +1,15 @@
+{
+  "id": 59168,
+  "type": "Feature",
+  "properties": {
+    "name":"Quebrada Grande, Guanacaste, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59168,
+    "woe:name":"Quebrada Grande, Guanacaste, Costa Rica",
+    "woe:place_id":"Kv.szXWcCJ3rLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.950409,10.428559,-84.922943,10.43852],
+  "geometry": {"alpha":0.00015,"bbox":[-84.950408935547,10.428559303284,-84.922943115234,10.438520431519],"coordinates":[[[[-84.9244,10.43852],[-84.922943,10.43852],[-84.932556,10.428559],[-84.950409,10.432611],[-84.93187,10.435987],[-84.9244,10.43852]]]],"created":1292540175,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/59168_20101216_677de53ef1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

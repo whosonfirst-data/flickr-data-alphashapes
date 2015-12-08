@@ -1,0 +1,15 @@
+{
+  "id": 775662,
+  "type": "Feature",
+  "properties": {
+    "name":"Torre, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":775662,
+    "woe:name":"Torre, Galicia, Spain",
+    "woe:place_id":"ROB0SvmeBpkF6ww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.724933,43.248203,-7.714644,43.254795],
+  "geometry": {"alpha":0.00015,"bbox":[-7.7249331474304,43.248203277588,-7.7146439552307,43.254795074463],"coordinates":[[[[-7.714694,43.254738],[-7.714644,43.254532],[-7.724933,43.248203],[-7.714719,43.254795],[-7.714694,43.254738]]]],"created":1234543563,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3424/shapefiles/775662_20090213_9278a55de3.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

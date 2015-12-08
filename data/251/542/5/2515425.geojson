@@ -1,0 +1,15 @@
+{
+  "id": 2515425,
+  "type": "Feature",
+  "properties": {
+    "name":"Waugh, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2515425,
+    "woe:name":"Waugh, Virginia, United States",
+    "woe:place_id":"DhR4OBWbBJ1kpBEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.359932,37.517212,-79.343521,37.534466],
+  "geometry": {"alpha":0.00015,"bbox":[-79.359931945801,37.517211914062,-79.343521118164,37.534465789795],"coordinates":[[[[-79.351761,37.524872],[-79.359932,37.534466],[-79.351082,37.526402],[-79.350174,37.525009],[-79.343521,37.517212],[-79.351761,37.524872]]]],"created":1292423284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2515425_20101215_9ae2d24be4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

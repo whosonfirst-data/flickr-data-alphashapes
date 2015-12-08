@@ -1,0 +1,15 @@
+{
+  "id": 600040,
+  "type": "Feature",
+  "properties": {
+    "name":"La Souterraine, Limousin, France",
+    "placetype":"locality",
+    "woe:id":600040,
+    "woe:name":"La Souterraine, Limousin, France",
+    "woe:place_id":"II2gJ.KfAZyqqbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.484355,46.228954,1.521263,46.247211],
+  "geometry": {"alpha":0.00015,"bbox":[1.4843549728394,46.228954315186,1.5212630033493,46.247211456299],"coordinates":[[[[1.491737,46.240711],[1.492424,46.240742],[1.4962,46.241127],[1.50724,46.242519],[1.521263,46.247211],[1.518166,46.230999],[1.496887,46.228954],[1.486729,46.232838],[1.484355,46.237934],[1.484527,46.239109],[1.491737,46.240711]]]],"created":1292528700,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/600040_20101216_93b04a9fd0.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

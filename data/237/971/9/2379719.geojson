@@ -1,0 +1,15 @@
+{
+  "id": 2379719,
+  "type": "Feature",
+  "properties": {
+    "name":"Chilcoot, California, United States",
+    "placetype":"locality",
+    "woe:id":2379719,
+    "woe:name":"Chilcoot, California, United States",
+    "woe:place_id":"Q.k_avCbApsc8kce",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.140404,39.797134,-120.135025,39.79792],
+  "geometry": {"alpha":0.00015,"bbox":[-120.14040374756,39.797134399414,-120.13502502441,39.797920227051],"coordinates":[[[[-120.140289,39.797745],[-120.140404,39.797867],[-120.139786,39.79792],[-120.135025,39.797134],[-120.139503,39.7976],[-120.140289,39.797745]]]],"created":1239542161,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3542/shapefiles/2379719_20090412_c6f3e5c6f6.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 567789,
+  "type": "Feature",
+  "properties": {
+    "name":"Kontiolahti, Eastern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":567789,
+    "woe:name":"Kontiolahti, Eastern Finland, Finland",
+    "woe:place_id":"KeKkA.ucB5vyOgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.837168,62.751545,29.857233,62.766273],
+  "geometry": {"alpha":0.00015,"bbox":[29.837167739868,62.751544952393,29.857233047485,62.766273498535],"coordinates":[[[[29.851398,62.766273],[29.857233,62.752972],[29.838287,62.751545],[29.837168,62.759998],[29.846075,62.764862],[29.850668,62.766167],[29.851398,62.766273]]]],"created":1292453500,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/567789_20101215_795aeb1c9a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 128247,
+  "type": "Feature",
+  "properties": {
+    "name":"La Mesa, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":128247,
+    "woe:name":"La Mesa, Jalisco, Mexico",
+    "woe:place_id":"TMkPCVeYA5QS6oM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.823128,20.360077,-104.816093,20.382284],
+  "geometry": {"alpha":0.00015,"bbox":[-104.82312774658,20.360076904297,-104.81609344482,20.382284164429],"coordinates":[[[[-104.821068,20.382204],[-104.816093,20.381319],[-104.81781,20.360077],[-104.823128,20.380274],[-104.823128,20.382284],[-104.821068,20.382204]]]],"created":1292522838,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/128247_20101216_7ecf9e3c0f.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745710,
+  "type": "Feature",
+  "properties": {
+    "name":"Plaza, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":28745710,
+    "woe:name":"Plaza, Georgia, United States",
+    "woe:place_id":"vcrc7fabCZvFs_b7WA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.413582,33.579578,-84.384247,33.628368],
+  "geometry": {"alpha":0.00015,"bbox":[-84.413581848145,33.579578399658,-84.384246826172,33.628368377686],"coordinates":[[[[-84.408325,33.595387],[-84.403664,33.612167],[-84.413582,33.628368],[-84.399834,33.615665],[-84.403175,33.611645],[-84.385643,33.594742],[-84.384247,33.589916],[-84.391159,33.579578],[-84.408646,33.592171],[-84.408325,33.595387]]]],"created":1292548403,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/28745710_20101217_3e73dd461c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

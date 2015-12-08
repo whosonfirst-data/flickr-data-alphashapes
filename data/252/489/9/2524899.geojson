@@ -1,0 +1,15 @@
+{
+  "id": 2524899,
+  "type": "Feature",
+  "properties": {
+    "name":"Yorkshire Acres, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2524899,
+    "woe:name":"Yorkshire Acres, Virginia, United States",
+    "woe:place_id":"7YN_M4WbBJ6CAX8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.448975,38.780365,-77.43988,38.78751],
+  "geometry": {"alpha":0.00015,"bbox":[-77.448974609375,38.780364990234,-77.439880371094,38.787509918213],"coordinates":[[[[-77.440178,38.780365],[-77.448975,38.783928],[-77.448669,38.786835],[-77.447006,38.78751],[-77.43988,38.784298],[-77.440178,38.780365]]]],"created":1292548746,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2524899_20101217_bf75fc4d11.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

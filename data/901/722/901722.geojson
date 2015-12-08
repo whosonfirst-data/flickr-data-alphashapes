@@ -1,0 +1,15 @@
+{
+  "id": 901722,
+  "type": "Feature",
+  "properties": {
+    "name":"Pantarholmen, Blekinge, Sweden",
+    "placetype":"locality",
+    "woe:id":901722,
+    "woe:name":"Pantarholmen, Blekinge, Sweden",
+    "woe:place_id":"ccp4fZCQAZ3LQbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.620498,56.126945,15.63,56.135529],
+  "geometry": {"alpha":0.00015,"bbox":[15.620497703552,56.126945495605,15.630000114441,56.135528564453],"coordinates":[[[[15.63,56.128613],[15.628056,56.126945],[15.620498,56.135029],[15.627365,56.135529],[15.63,56.128613]]]],"created":1292538548,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/901722_20101216_4d69c267b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23396580,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Martin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396580,
+    "woe:name":"St.-Martin, Quebec, Canada",
+    "woe:place_id":"Yz7hrSCbAp8WqlAS3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.64994,45.931,-70.649513,45.931622],
+  "geometry": {"alpha":0.00015,"bbox":[-70.649940490723,45.930999755859,-70.649513244629,45.931621551514],"coordinates":[[[[-70.649895,45.931],[-70.64994,45.931431],[-70.649895,45.931461],[-70.649513,45.931622],[-70.649895,45.931]]]],"created":1234597210,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3299/shapefiles/23396580_20090214_6a237ab189.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

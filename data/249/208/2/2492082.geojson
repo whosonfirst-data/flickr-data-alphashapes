@@ -1,0 +1,15 @@
+{
+  "id": 2492082,
+  "type": "Feature",
+  "properties": {
+    "name":"Sheffield, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2492082,
+    "woe:name":"Sheffield, Pennsylvania, United States",
+    "woe:place_id":"TCnkHxabBZXHj5k7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.03643,41.689964,-79.030884,41.70462],
+  "geometry": {"alpha":0.00015,"bbox":[-79.036430358887,41.689964294434,-79.030883789062,41.704620361328],"coordinates":[[[[-79.030884,41.699177],[-79.031006,41.697918],[-79.031525,41.689964],[-79.035599,41.703899],[-79.03643,41.70462],[-79.030968,41.702026],[-79.030884,41.699177]]]],"created":1292549836,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2492082_20101217_a8ced92ffb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12653315,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Vite, France",
+    "placetype":"locality",
+    "woe:id":12653315,
+    "woe:name":"St.-Vite, France",
+    "woe:place_id":"1jEfwN6YA5qjd0AA4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.944833,44.481834,0.947,44.484833],
+  "geometry": {"alpha":1e-05,"bbox":[0.94483298063278,44.481834411621,0.94700002670288,44.484832763672],"coordinates":[[[[0.945,44.482166],[0.944833,44.482834],[0.946166,44.484833],[0.947,44.481834],[0.945,44.482166]]]],"created":1292539887,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/12653315_20101216_3709d55cd9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

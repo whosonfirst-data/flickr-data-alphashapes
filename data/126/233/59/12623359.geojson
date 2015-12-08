@@ -1,0 +1,15 @@
+{
+  "id": 12623359,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde March, Germany",
+    "placetype":"locality",
+    "woe:id":12623359,
+    "woe:name":"Gemeinde March, Germany",
+    "woe:place_id":"osGQIVGYA5p0a.5b2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.78269,48.057819,7.78307,48.05806],
+  "geometry": {"alpha":1e-05,"bbox":[7.7826900482178,48.057819366455,7.7830700874329,48.058059692383],"coordinates":[[[[7.78281,48.058048],[7.78307,48.05806],[7.78269,48.057819],[7.78275,48.057949],[7.78281,48.058048]]]],"created":1292518806,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/12623359_20101216_653c1858f9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

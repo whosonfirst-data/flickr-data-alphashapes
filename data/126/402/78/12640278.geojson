@@ -1,0 +1,15 @@
+{
+  "id": 12640278,
+  "type": "Feature",
+  "properties": {
+    "name":"Calacuccia, France",
+    "placetype":"locality",
+    "woe:id":12640278,
+    "woe:name":"Calacuccia, France",
+    "woe:place_id":"cufNq6KYA5o1AlWhKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.016513,42.330505,9.020376,42.336868],
+  "geometry": {"alpha":1e-05,"bbox":[9.0165128707886,42.330505371094,9.0203762054443,42.336868286133],"coordinates":[[[[9.018917,42.334373],[9.016513,42.336849],[9.018822,42.336868],[9.019346,42.33469],[9.020376,42.330505],[9.018917,42.334373]]]],"created":1229562362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3228/shapefiles/12640278_20081218_4e0a7d09a1.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

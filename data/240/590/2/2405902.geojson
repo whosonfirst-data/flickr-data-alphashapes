@@ -1,0 +1,15 @@
+{
+  "id": 2405902,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Pitt, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2405902,
+    "woe:name":"Fort Pitt, Pennsylvania, United States",
+    "woe:place_id":"w_StlpubBZzfptQ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.013428,40.440659,-80.009132,40.446423],
+  "geometry": {"alpha":0.00015,"bbox":[-80.013427734375,40.440658569336,-80.009132385254,40.446422576904],"coordinates":[[[[-80.011192,40.442245],[-80.013428,40.4459],[-80.011368,40.446423],[-80.009132,40.44577],[-80.009537,40.440659],[-80.011192,40.442245]]]],"created":1292526737,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2405902_20101216_48ea81974c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

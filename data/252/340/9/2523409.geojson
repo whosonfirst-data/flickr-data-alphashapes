@@ -1,0 +1,15 @@
+{
+  "id": 2523409,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodlawn Beach, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2523409,
+    "woe:name":"Woodlawn Beach, Michigan, United States",
+    "woe:place_id":"p8tlB_mbBJ4cI3Hw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.38829,42.436825,-85.374779,42.441673],
+  "geometry": {"alpha":0.00015,"bbox":[-85.388290405273,42.436824798584,-85.374778747559,42.441673278809],"coordinates":[[[[-85.375832,42.441673],[-85.375557,42.441387],[-85.374779,42.440403],[-85.38829,42.436825],[-85.376175,42.441357],[-85.375832,42.441673]]]],"created":1292452010,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2523409_20101215_98412d80d9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

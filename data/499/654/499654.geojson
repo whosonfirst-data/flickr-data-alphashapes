@@ -1,0 +1,15 @@
+{
+  "id": 499654,
+  "type": "Feature",
+  "properties": {
+    "name":"Kluczbork, Opole, Poland",
+    "placetype":"locality",
+    "woe:id":499654,
+    "woe:name":"Kluczbork, Opole, Poland",
+    "woe:place_id":"ihMRwUSdCJWEpXY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.201836,50.971104,18.218164,50.982128],
+  "geometry": {"alpha":0.00015,"bbox":[18.201835632324,50.971103668213,18.21816444397,50.982128143311],"coordinates":[[[[18.218164,50.972988],[18.218121,50.972462],[18.214474,50.973278],[18.201836,50.971104],[18.202457,50.974209],[18.21044,50.982128],[18.218164,50.972988]]]],"created":1248010443,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3506/shapefiles/499654_20090719_5ce53c151f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

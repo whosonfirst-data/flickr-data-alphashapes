@@ -1,0 +1,15 @@
+{
+  "id": 20151795,
+  "type": "Feature",
+  "properties": {
+    "name":"Trolleholm, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":20151795,
+    "woe:name":"Trolleholm, Skane, Sweden",
+    "woe:place_id":"Jsklbs6bAZ2E8UDQuw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.254146,55.905731,13.263684,55.912849],
+  "geometry": {"alpha":0.00015,"bbox":[13.254145622253,55.905731201172,13.263684272766,55.91284942627],"coordinates":[[[[13.254618,55.906296],[13.254146,55.908539],[13.254833,55.912849],[13.261581,55.90905],[13.263684,55.908176],[13.258094,55.905731],[13.254618,55.906296]]]],"created":1292508666,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20151795_20101216_c07b43150e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

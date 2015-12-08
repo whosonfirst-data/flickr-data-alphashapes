@@ -1,0 +1,15 @@
+{
+  "id": 666663,
+  "type": "Feature",
+  "properties": {
+    "name":"Klein Wall, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":666663,
+    "woe:name":"Klein Wall, Brandenburg, Germany",
+    "woe:place_id":"nG7TXaGfB5qj2hw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.866977,52.409119,13.875066,52.417942],
+  "geometry": {"alpha":0.00015,"bbox":[13.866976737976,52.409118652344,13.875065803528,52.417942047119],"coordinates":[[[[13.866977,52.417942],[13.867921,52.417652],[13.871377,52.416664],[13.875066,52.409119],[13.874786,52.409389],[13.86814,52.416859],[13.866977,52.417942]]]],"created":1292545549,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/666663_20101217_dbf30eea56.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

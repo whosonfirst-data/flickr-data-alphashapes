@@ -1,0 +1,15 @@
+{
+  "id": 687196,
+  "type": "Feature",
+  "properties": {
+    "name":"Rechetsberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":687196,
+    "woe:name":"Rechetsberg, Bavaria, Germany",
+    "woe:place_id":"rUm6o.CfCZu9R6o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.069229,47.743515,11.071268,47.747807],
+  "geometry": {"alpha":0.00015,"bbox":[11.069229125977,47.743515014648,11.071268081665,47.747806549072],"coordinates":[[[[11.071268,47.747807],[11.070538,47.746494],[11.069465,47.743515],[11.069251,47.744091],[11.069229,47.744534],[11.070817,47.747604],[11.071268,47.747807]]]],"created":1247955368,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2626/shapefiles/687196_20090718_b7d5df99cd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

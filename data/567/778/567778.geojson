@@ -1,0 +1,15 @@
+{
+  "id": 567778,
+  "type": "Feature",
+  "properties": {
+    "name":"Konnunsuo, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":567778,
+    "woe:name":"Konnunsuo, Southern Finland, Finland",
+    "woe:place_id":"kosonPucB5teqxs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.538704,61.033604,28.551832,61.044498],
+  "geometry": {"alpha":0.00015,"bbox":[28.538703918457,61.033603668213,28.551832199097,61.044498443604],"coordinates":[[[[28.543268,61.034588],[28.538704,61.033604],[28.550333,61.044498],[28.550333,61.044334],[28.551714,61.038532],[28.551832,61.038166],[28.543268,61.034588]]]],"created":1292450671,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/567778_20101215_c9859f2012.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

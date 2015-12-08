@@ -1,0 +1,15 @@
+{
+  "id": 2515729,
+  "type": "Feature",
+  "properties": {
+    "name":"Weatherly, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2515729,
+    "woe:name":"Weatherly, Pennsylvania, United States",
+    "woe:place_id":"JCmK6dGbBJ0rNx9h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.845284,40.93206,-75.74691,40.966743],
+  "geometry": {"alpha":0.00081380208333333,"bbox":[-75.845283508301,40.932060241699,-75.746910095215,40.966743469238],"coordinates":[[[[-75.747124,40.946358],[-75.749527,40.951187],[-75.772232,40.966743],[-75.809525,40.93219],[-75.824203,40.933228],[-75.843201,40.93206],[-75.845284,40.933834],[-75.844116,40.944412],[-75.833557,40.951187],[-75.826775,40.950829],[-75.820145,40.945549],[-75.772232,40.966743],[-75.748245,40.936954],[-75.74691,40.944118],[-75.747124,40.946358]]]],"created":1292520733,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2515729_20101216_bdcdd75d26.tar.gz"},"points":55,"type":"MultiPolygon"}
+}

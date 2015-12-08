@@ -1,0 +1,15 @@
+{
+  "id": 555220,
+  "type": "Feature",
+  "properties": {
+    "name":"Lille Kongsmark, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555220,
+    "woe:name":"Lille Kongsmark, Sjaelland, Denmark",
+    "woe:place_id":"UAWxUw.cBJnsfB0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.202296,55.417263,11.206261,55.423557],
+  "geometry": {"alpha":0.00015,"bbox":[11.202296257019,55.417263031006,11.206260681152,55.423557281494],"coordinates":[[[[11.206204,55.421085],[11.206261,55.420921],[11.202296,55.417263],[11.203544,55.423557],[11.206204,55.421085]]]],"created":1292405404,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/555220_20101215_c6a807917d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

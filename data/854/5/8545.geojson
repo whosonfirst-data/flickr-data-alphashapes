@@ -1,0 +1,15 @@
+{
+  "id": 8545,
+  "type": "Feature",
+  "properties": {
+    "name":"Meeting Creek, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8545,
+    "woe:name":"Meeting Creek, Alberta, Canada",
+    "woe:place_id":"E1AwPzuRBJiP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.731583,52.680988,-112.716637,52.683876],
+  "geometry": {"alpha":0.00015,"bbox":[-112.7315826416,52.680988311768,-112.71663665771,52.683876037598],"coordinates":[[[[-112.729683,52.683876],[-112.728134,52.682938],[-112.716637,52.680988],[-112.727791,52.681404],[-112.72921,52.681496],[-112.731583,52.681961],[-112.729683,52.683876]]]],"created":1292458120,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/8545_20101216_ae0cae0b44.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12581027,
+  "type": "Feature",
+  "properties": {
+    "name":"Cordeiro, Rio de Janeiro, Brazil",
+    "placetype":"county",
+    "woe:id":12581027,
+    "woe:name":"Cordeiro, Rio de Janeiro, Brazil",
+    "woe:place_id":"R4iw5XCYA5lZdeQnqw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-42.377014,-22.033457,-42.360878,-22.016827],
+  "geometry": {"alpha":0.0015,"bbox":[-42.377014160156,-22.033456802368,-42.360877990723,-22.016826629639],"coordinates":[[[[-42.361908,-22.028206],[-42.374268,-22.032501],[-42.377014,-22.033457],[-42.369289,-22.016827],[-42.360878,-22.022476],[-42.361908,-22.028206]]]],"created":1292551427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12581027_20101217_a4c072285c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

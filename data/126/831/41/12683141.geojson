@@ -1,0 +1,15 @@
+{
+  "id": 12683141,
+  "type": "Feature",
+  "properties": {
+    "name":"Castel San Pietro, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683141,
+    "woe:name":"Castel San Pietro, Switzerland",
+    "woe:place_id":"v2jYE3WYA5oexwTxGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.001493,45.856976,9.007759,45.861443],
+  "geometry": {"alpha":1e-05,"bbox":[9.0014934539795,45.85697555542,9.0077590942383,45.861442565918],"coordinates":[[[[9.002351,45.85738],[9.001493,45.856976],[9.002351,45.860039],[9.002094,45.861443],[9.007759,45.860847],[9.005012,45.8578],[9.002351,45.85738]]]],"created":1248021364,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2649/shapefiles/12683141_20090719_5c1f9c6918.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

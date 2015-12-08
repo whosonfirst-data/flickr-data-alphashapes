@@ -1,0 +1,15 @@
+{
+  "id": 2474580,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Harbor, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2474580,
+    "woe:name":"Point Harbor, Mississippi, United States",
+    "woe:place_id":"os44xGibBZuNICAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.505257,33.573296,-88.49247,33.583099],
+  "geometry": {"alpha":0.00015,"bbox":[-88.505256652832,33.573295593262,-88.492469787598,33.583099365234],"coordinates":[[[[-88.505257,33.579105],[-88.494209,33.583099],[-88.49427,33.578693],[-88.49247,33.573296],[-88.505257,33.579105]]]],"created":1292460545,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2474580_20101216_9e724184f7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

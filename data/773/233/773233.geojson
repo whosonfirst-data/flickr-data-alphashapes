@@ -1,0 +1,15 @@
+{
+  "id": 773233,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablo, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":773233,
+    "woe:name":"San Pablo, Asturias, Spain",
+    "woe:place_id":"PuZB5XGeBp9al8M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.764303,43.531437,-5.749325,43.537102],
+  "geometry": {"alpha":0.00015,"bbox":[-5.7643032073975,43.531436920166,-5.749324798584,43.537101745605],"coordinates":[[[[-5.749325,43.53175],[-5.750398,43.531437],[-5.763681,43.533794],[-5.764303,43.537102],[-5.750656,43.532433],[-5.749325,43.53175]]]],"created":1247810527,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2515/shapefiles/773233_20090717_e7af98f230.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

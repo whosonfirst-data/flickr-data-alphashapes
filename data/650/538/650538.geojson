@@ -1,0 +1,15 @@
+{
+  "id": 650538,
+  "type": "Feature",
+  "properties": {
+    "name":"Fremersberg, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":650538,
+    "woe:name":"Fremersberg, Baden-Wurttemberg, Germany",
+    "woe:place_id":"146bdnafBJw0yIs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.199405,48.746017,8.207495,48.755508],
+  "geometry": {"alpha":0.00015,"bbox":[8.1994047164917,48.746017456055,8.2074947357178,48.755508422852],"coordinates":[[[[8.199405,48.753925],[8.200349,48.755508],[8.200521,48.755283],[8.207495,48.746017],[8.205488,48.746674],[8.199405,48.753925]]]],"created":1292443632,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/650538_20101215_cbe3f3f784.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

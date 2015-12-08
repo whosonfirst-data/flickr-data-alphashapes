@@ -1,0 +1,15 @@
+{
+  "id": 1911,
+  "type": "Feature",
+  "properties": {
+    "name":"Weedon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1911,
+    "woe:name":"Weedon, Quebec, Canada",
+    "woe:place_id":"TFpIDc.YCJ0_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.476845,45.686035,-71.457825,45.708679],
+  "geometry": {"alpha":0.00015,"bbox":[-71.476844787598,45.68603515625,-71.457824707031,45.708679199219],"coordinates":[[[[-71.476845,45.701675],[-71.475159,45.701714],[-71.470589,45.702522],[-71.46032,45.708679],[-71.459846,45.706196],[-71.461769,45.699871],[-71.457825,45.686035],[-71.4702,45.699444],[-71.472343,45.699642],[-71.476845,45.701675]]]],"created":1292523844,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/1911_20101216_5592bb2c9b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

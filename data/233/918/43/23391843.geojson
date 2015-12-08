@@ -1,0 +1,15 @@
+{
+  "id": 23391843,
+  "type": "Feature",
+  "properties": {
+    "name":"Clam Point, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23391843,
+    "woe:name":"Clam Point, Nova Scotia, Canada",
+    "woe:place_id":"xGU5sLmbAp.TSuUqLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.571213,43.482136,-65.559021,43.488609],
+  "geometry": {"alpha":0.00015,"bbox":[-65.571212768555,43.482135772705,-65.559020996094,43.488609313965],"coordinates":[[[[-65.559021,43.488049],[-65.559242,43.486805],[-65.561424,43.482136],[-65.571213,43.488548],[-65.56134,43.488609],[-65.559021,43.488049]]]],"created":1292471704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/23391843_20101216_41e156a36d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

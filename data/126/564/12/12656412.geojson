@@ -1,0 +1,15 @@
+{
+  "id": 12656412,
+  "type": "Feature",
+  "properties": {
+    "name":"Bazet, France",
+    "placetype":"locality",
+    "woe:id":12656412,
+    "woe:name":"Bazet, France",
+    "woe:place_id":"xZ_975.YA5pR6DjqMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.077247,43.282642,0.082526,43.289078],
+  "geometry": {"alpha":1e-05,"bbox":[0.077247001230717,43.282642364502,0.082525998353958,43.289077758789],"coordinates":[[[[0.082526,43.286701],[0.082515,43.286545],[0.080273,43.282642],[0.079221,43.285702],[0.077247,43.289078],[0.079607,43.286827],[0.082526,43.286701]]]],"created":1292518865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12656412_20101216_cfd7b41706.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

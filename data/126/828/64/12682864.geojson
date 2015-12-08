@@ -1,0 +1,15 @@
+{
+  "id": 12682864,
+  "type": "Feature",
+  "properties": {
+    "name":"Auvernier, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682864,
+    "woe:name":"Auvernier, Switzerland",
+    "woe:place_id":"DB9hjCqYA5q3jizzpg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.876261,46.970844,6.881801,46.976467],
+  "geometry": {"alpha":1e-05,"bbox":[6.8762612342834,46.970844268799,6.8818011283875,46.976467132568],"coordinates":[[[[6.881801,46.974407],[6.880213,46.97274],[6.876261,46.970844],[6.877355,46.97422],[6.878138,46.976467],[6.881801,46.974407]]]],"created":1292535390,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12682864_20101216_b3e4d8d3ac.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

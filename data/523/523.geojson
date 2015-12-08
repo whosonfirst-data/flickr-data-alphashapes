@@ -1,0 +1,15 @@
+{
+  "id": 523,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Albany, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":523,
+    "woe:name":"Fort Albany, Ontario, Canada",
+    "woe:place_id":"Yzc3jjOcA58",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.692879,52.201923,-81.68309,52.213024],
+  "geometry": {"alpha":0.00015,"bbox":[-81.692878723145,52.201923370361,-81.683090209961,52.213024139404],"coordinates":[[[[-81.689613,52.208134],[-81.68309,52.213024],[-81.683266,52.209709],[-81.692879,52.201923],[-81.692192,52.205975],[-81.689613,52.208134]]]],"created":1239431411,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3322/shapefiles/523_20090411_1a98ac8ee4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

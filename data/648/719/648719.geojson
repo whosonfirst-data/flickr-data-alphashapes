@@ -1,0 +1,15 @@
+{
+  "id": 648719,
+  "type": "Feature",
+  "properties": {
+    "name":"Escherndorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":648719,
+    "woe:name":"Escherndorf, Bavaria, Germany",
+    "woe:place_id":"kD3Dz2yfBZQyVn4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.17354,49.859081,10.188446,49.871628],
+  "geometry": {"alpha":0.00015,"bbox":[10.173540115356,49.859081268311,10.188446044922,49.871627807617],"coordinates":[[[[10.17354,49.861778],[10.175485,49.862553],[10.181246,49.866543],[10.188446,49.871628],[10.185012,49.859234],[10.176773,49.859081],[10.17354,49.861778]]]],"created":1292531346,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/648719_20101216_151f29f5c6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

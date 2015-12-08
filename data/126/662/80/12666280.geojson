@@ -1,0 +1,15 @@
+{
+  "id": 12666280,
+  "type": "Feature",
+  "properties": {
+    "name":"Marly, France",
+    "placetype":"locality",
+    "woe:id":12666280,
+    "woe:name":"Marly, France",
+    "woe:place_id":"J9xAehCYA5qQ0GK6cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.153116,49.077465,6.155948,49.078644],
+  "geometry": {"alpha":1e-05,"bbox":[6.1531162261963,49.077465057373,6.1559481620789,49.078643798828],"coordinates":[[[[6.153116,49.078644],[6.154532,49.077858],[6.155948,49.077465],[6.154403,49.077858],[6.153116,49.078644]]]],"created":1292538170,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12666280_20101216_f543569c53.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

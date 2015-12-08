@@ -1,0 +1,15 @@
+{
+  "id": 541126,
+  "type": "Feature",
+  "properties": {
+    "name":"Annaberg, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":541126,
+    "woe:name":"Annaberg, Lower Austria, Austria",
+    "woe:place_id":"w8ycUVucBZ3tCOI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.352706,47.866844,15.382061,47.882736],
+  "geometry": {"alpha":0.00015,"bbox":[15.352705955505,47.866844177246,15.382061004639,47.882736206055],"coordinates":[[[[15.366096,47.882736],[15.380516,47.879974],[15.382061,47.8699],[15.373563,47.866844],[15.368843,47.874214],[15.352706,47.876289],[15.366096,47.882736]]]],"created":1292542458,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/541126_20101216_bf4d234a61.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

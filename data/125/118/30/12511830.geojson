@@ -1,0 +1,15 @@
+{
+  "id": 12511830,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherbrooke Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511830,
+    "woe:name":"Sherbrooke Airport, Canada",
+    "woe:place_id":"lV1LqBKYA5n9I2v19w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.690941,45.438515,-71.686302,45.442066],
+  "geometry": {"alpha":1e-05,"bbox":[-71.690940856934,45.438514709473,-71.686302185059,45.442066192627],"coordinates":[[[[-71.688538,45.440952],[-71.688583,45.440903],[-71.690186,45.438663],[-71.690941,45.438515],[-71.690315,45.439041],[-71.688583,45.440903],[-71.688522,45.440941],[-71.686302,45.442066],[-71.688538,45.440952]]]],"created":1292459070,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12511830_20101216_d30849f0da.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

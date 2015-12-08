@@ -1,0 +1,15 @@
+{
+  "id": 2442863,
+  "type": "Feature",
+  "properties": {
+    "name":"Lucerne, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2442863,
+    "woe:name":"Lucerne, Indiana, United States",
+    "woe:place_id":"jkKrH_KbBZge9EIU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.447639,40.817348,-86.431587,40.835793],
+  "geometry": {"alpha":0.00015,"bbox":[-86.447639465332,40.817348480225,-86.431587219238,40.835792541504],"coordinates":[[[[-86.447639,40.820953],[-86.445633,40.823067],[-86.431587,40.835793],[-86.440079,40.822124],[-86.442101,40.817348],[-86.447639,40.820953]]]],"created":1292518628,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2442863_20101216_8bd9e2b5b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

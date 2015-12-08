@@ -1,0 +1,15 @@
+{
+  "id": 55864850,
+  "type": "Feature",
+  "properties": {
+    "name":"Town of Otsego, New York, United States",
+    "placetype":"locality",
+    "woe:id":55864850,
+    "woe:name":"Town of Otsego, New York, United States",
+    "woe:place_id":"xnRXo12cBJQRPGVMzA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.001518,42.653835,-74.88813,42.776707],
+  "geometry": {"alpha":0.0016276041666667,"bbox":[-75.001518249512,42.653835296631,-74.888130187988,42.776706695557],"coordinates":[[[[-74.9795,42.724403],[-74.977394,42.724586],[-74.973053,42.722515],[-74.908043,42.746887],[-74.90007,42.775364],[-74.898949,42.776505],[-74.898689,42.776707],[-74.88813,42.772346],[-74.906845,42.731628],[-74.933624,42.671329],[-74.934998,42.668301],[-74.95742,42.656986],[-74.964333,42.653835],[-74.989052,42.712833],[-75.001518,42.728855],[-74.9795,42.724403]]]],"created":1292533204,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/55864850_20101216_becdbf0885.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

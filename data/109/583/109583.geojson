@@ -1,0 +1,15 @@
+{
+  "id": 109583,
+  "type": "Feature",
+  "properties": {
+    "name":"Norwich, Portland, Jamaica",
+    "placetype":"locality",
+    "woe:id":109583,
+    "woe:name":"Norwich, Portland, Jamaica",
+    "woe:place_id":"xYL1CByYAZWTAS4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.465698,18.178064,-76.450935,18.194782],
+  "geometry": {"alpha":0.00015,"bbox":[-76.465698242188,18.178064346313,-76.45093536377,18.19478225708],"coordinates":[[[[-76.450935,18.185839],[-76.45343,18.179289],[-76.457291,18.178064],[-76.461578,18.182306],[-76.465698,18.184263],[-76.462097,18.187607],[-76.451797,18.194782],[-76.450935,18.185839]]]],"created":1292541373,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/109583_20101216_b2990b6f33.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

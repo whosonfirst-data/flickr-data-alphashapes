@@ -1,0 +1,15 @@
+{
+  "id": 2469799,
+  "type": "Feature",
+  "properties": {
+    "name":"Pebble Beach, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2469799,
+    "woe:name":"Pebble Beach, North Carolina, United States",
+    "woe:place_id":"ToLjX0KbBZpYju7a",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.038193,34.658978,-77.025444,34.671089],
+  "geometry": {"alpha":0.00015,"bbox":[-77.038192749023,34.658977508545,-77.025444030762,34.671089172363],"coordinates":[[[[-77.034157,34.659512],[-77.038193,34.668793],[-77.036774,34.671089],[-77.025444,34.66217],[-77.03363,34.658978],[-77.034157,34.659512]]]],"created":1248007211,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3505/shapefiles/2469799_20090719_accf80afd3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

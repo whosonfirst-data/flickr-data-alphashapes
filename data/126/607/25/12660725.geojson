@@ -1,0 +1,15 @@
+{
+  "id": 12660725,
+  "type": "Feature",
+  "properties": {
+    "name":"Eaunes, France",
+    "placetype":"locality",
+    "woe:id":12660725,
+    "woe:name":"Eaunes, France",
+    "woe:place_id":"YC3IcuOYA5rbNXW8YQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.352133,43.418358,1.354182,43.421883],
+  "geometry": {"alpha":1e-05,"bbox":[1.3521330356598,43.418357849121,1.3541820049286,43.421882629395],"coordinates":[[[[1.354182,43.421368],[1.353356,43.418983],[1.352133,43.418358],[1.353678,43.421383],[1.353635,43.421883],[1.354182,43.421368]]]],"created":1292526617,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12660725_20101216_fcd4b7bf3a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

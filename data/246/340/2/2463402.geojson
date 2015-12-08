@@ -1,0 +1,15 @@
+{
+  "id": 2463402,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakdale, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2463402,
+    "woe:name":"Oakdale, Louisiana, United States",
+    "woe:place_id":"WmsIOiabBZo3IjIf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.671799,30.812113,-92.659668,30.822727],
+  "geometry": {"alpha":0.00015,"bbox":[-92.671798706055,30.812112808228,-92.65966796875,30.822727203369],"coordinates":[[[[-92.660194,30.816055],[-92.659668,30.814535],[-92.662346,30.81333],[-92.671799,30.812113],[-92.671715,30.812181],[-92.66806,30.815729],[-92.664742,30.822727],[-92.660194,30.816055]]]],"created":1292543052,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2463402_20101216_b8e3734d4d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

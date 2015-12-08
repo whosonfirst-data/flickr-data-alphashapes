@@ -1,0 +1,15 @@
+{
+  "id": 12640139,
+  "type": "Feature",
+  "properties": {
+    "name":"Bullion, France",
+    "placetype":"locality",
+    "woe:id":12640139,
+    "woe:name":"Bullion, France",
+    "woe:place_id":"GvUStVCYA5r6zOqmCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.986252,48.616116,1.98904,48.628262],
+  "geometry": {"alpha":1e-05,"bbox":[1.986251950264,48.616115570068,1.989040017128,48.628261566162],"coordinates":[[[[1.98904,48.624058],[1.988916,48.620434],[1.986637,48.616116],[1.986771,48.62001],[1.986252,48.62566],[1.98658,48.628262],[1.98904,48.624058]]]],"created":1292551158,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12640139_20101217_f7ac207b15.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

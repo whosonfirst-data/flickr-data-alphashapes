@@ -1,0 +1,15 @@
+{
+  "id": 671034,
+  "type": "Feature",
+  "properties": {
+    "name":"Leinburg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":671034,
+    "woe:name":"Leinburg, Bavaria, Germany",
+    "woe:place_id":"Ql4e7POfBp29fjs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.284546,49.441666,11.309394,49.461674],
+  "geometry": {"alpha":0.0003662109375,"bbox":[11.284545898438,49.441665649414,11.309393882751,49.461673736572],"coordinates":[[[[11.308033,49.441681],[11.307952,49.441666],[11.285817,49.452736],[11.284546,49.461674],[11.295318,49.45306],[11.309394,49.453732],[11.308033,49.441681]]]],"created":1292484018,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/671034_20101216_3180288b81.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

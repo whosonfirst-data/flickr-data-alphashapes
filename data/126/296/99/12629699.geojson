@@ -1,0 +1,15 @@
+{
+  "id": 12629699,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Melbeck, Germany",
+    "placetype":"locality",
+    "woe:id":12629699,
+    "woe:name":"Gemeinde Melbeck, Germany",
+    "woe:place_id":"X_RpIXSYA5rCwabsdw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.38838,53.174519,10.390297,53.174858],
+  "geometry": {"alpha":1e-05,"bbox":[10.388380050659,53.174518585205,10.390296936035,53.174858093262],"coordinates":[[[[10.388758,53.174858],[10.390297,53.174519],[10.388883,53.174683],[10.38838,53.174847],[10.388758,53.174858]]]],"created":1292530454,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/12629699_20101216_dd0abb21aa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602432,
+  "type": "Feature",
+  "properties": {
+    "name":"Profondeville, Belgium",
+    "placetype":"locality",
+    "woe:id":12602432,
+    "woe:name":"Profondeville, Belgium",
+    "woe:place_id":"hcl59p6YA5rSWYqKUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.846086,50.390957,4.84718,50.391666],
+  "geometry": {"alpha":1e-05,"bbox":[4.846086025238,50.390956878662,4.847179889679,50.391666412354],"coordinates":[[[[4.846086,50.391666],[4.84718,50.391281],[4.847084,50.391209],[4.846515,50.390957],[4.846086,50.391666]]]],"created":1292536442,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/12602432_20101216_2c1c472b5c.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

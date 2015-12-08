@@ -1,0 +1,15 @@
+{
+  "id": 2472575,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinehill, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2472575,
+    "woe:name":"Pinehill, New Mexico, United States",
+    "woe:place_id":"QEZuok.bBZthfV3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.413086,35.054543,-108.394547,35.058384],
+  "geometry": {"alpha":0.00015,"bbox":[-108.4130859375,35.054542541504,-108.39454650879,35.05838394165],"coordinates":[[[[-108.396774,35.054543],[-108.413086,35.05698],[-108.401756,35.058384],[-108.399887,35.057537],[-108.394547,35.054783],[-108.396774,35.054543]]]],"created":1292521225,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2472575_20101216_4a3cb8af20.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

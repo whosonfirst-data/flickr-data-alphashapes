@@ -1,0 +1,15 @@
+{
+  "id": 20220234,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Cristo, Balearic Islands, Spain",
+    "placetype":"locality",
+    "woe:id":20220234,
+    "woe:name":"Monte Cristo, Balearic Islands, Spain",
+    "woe:place_id":"tj8y5PubAZ6FI2vWQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.418666,38.939651,1.423287,38.947334],
+  "geometry": {"alpha":0.00015,"bbox":[1.4186660051346,38.939651489258,1.4232870340347,38.947334289551],"coordinates":[[[[1.422729,38.939651],[1.418666,38.944],[1.419333,38.947334],[1.422592,38.944778],[1.423287,38.943657],[1.422729,38.939651]]]],"created":1292488625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/20220234_20101216_cce9978a38.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

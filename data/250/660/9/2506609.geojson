@@ -1,0 +1,15 @@
+{
+  "id": 2506609,
+  "type": "Feature",
+  "properties": {
+    "name":"Tinton, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2506609,
+    "woe:name":"Tinton, South Dakota, United States",
+    "woe:place_id":"QedPgMSbBJzR6f0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.075523,44.354748,-104.056145,44.380081],
+  "geometry": {"alpha":0.00015,"bbox":[-104.07552337646,44.354747772217,-104.05614471436,44.380081176758],"coordinates":[[[[-104.075356,44.354748],[-104.075523,44.354801],[-104.066574,44.365555],[-104.056145,44.380081],[-104.066406,44.365524],[-104.075356,44.354748]]]],"created":1292541153,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2506609_20101216_b1df867fde.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

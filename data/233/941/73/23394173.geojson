@@ -1,0 +1,15 @@
+{
+  "id": 23394173,
+  "type": "Feature",
+  "properties": {
+    "name":"Upham, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23394173,
+    "woe:name":"Upham, New Brunswick, Canada",
+    "woe:place_id":"WkwG6kObAp8tusySzA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.665283,45.488209,-65.663971,45.489742],
+  "geometry": {"alpha":0.00015,"bbox":[-65.665283203125,45.488208770752,-65.663970947266,45.489742279053],"coordinates":[[[[-65.664146,45.489094],[-65.664047,45.488991],[-65.663971,45.48875],[-65.664154,45.488209],[-65.665283,45.489742],[-65.664146,45.489094]]]],"created":1292445725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/23394173_20101215_9f7e21b18b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

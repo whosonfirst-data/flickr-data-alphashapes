@@ -1,0 +1,15 @@
+{
+  "id": 719850,
+  "type": "Feature",
+  "properties": {
+    "name":"Paliano, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":719850,
+    "woe:name":"Paliano, Lazio, Italy",
+    "woe:place_id":"_FdAcj6eAJVN0kk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.045921,41.800591,13.059347,41.811722],
+  "geometry": {"alpha":0.00015,"bbox":[13.045921325684,41.800590515137,13.05934715271,41.811721801758],"coordinates":[[[[13.053989,41.809582],[13.058377,41.805996],[13.059347,41.803082],[13.058484,41.800591],[13.049573,41.804329],[13.045921,41.811722],[13.053989,41.809582]]]],"created":1292533770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/719850_20101216_38e1078e32.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

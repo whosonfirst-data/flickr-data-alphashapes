@@ -1,0 +1,15 @@
+{
+  "id": 12653978,
+  "type": "Feature",
+  "properties": {
+    "name":"Valdoie, France",
+    "placetype":"locality",
+    "woe:id":12653978,
+    "woe:name":"Valdoie, France",
+    "woe:place_id":"L9A6k1SYA5pTNfMjow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.829633,47.672211,6.837288,47.675186],
+  "geometry": {"alpha":1e-05,"bbox":[6.8296332359314,47.672210693359,6.837287902832,47.675186157227],"coordinates":[[[[6.832386,47.675186],[6.832969,47.675011],[6.837288,47.672211],[6.832788,47.67448],[6.831944,47.674721],[6.829633,47.674259],[6.832386,47.675186]]]],"created":1292522790,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12653978_20101216_9fdf357f5a.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

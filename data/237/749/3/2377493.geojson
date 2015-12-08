@@ -1,0 +1,15 @@
+{
+  "id": 2377493,
+  "type": "Feature",
+  "properties": {
+    "name":"Centerville, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2377493,
+    "woe:name":"Centerville, Washington, United States",
+    "woe:place_id":"VeF2AzObApvrBAnu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.828323,45.750275,-120.822762,45.762569],
+  "geometry": {"alpha":0.00015,"bbox":[-120.82832336426,45.750274658203,-120.82276153564,45.76256942749],"coordinates":[[[[-120.823158,45.760437],[-120.822762,45.759026],[-120.825577,45.750935],[-120.828323,45.750275],[-120.825706,45.762569],[-120.823158,45.760437]]]],"created":1248091935,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2514/shapefiles/2377493_20090720_f09e2ab189.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

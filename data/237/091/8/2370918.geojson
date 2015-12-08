@@ -1,0 +1,15 @@
+{
+  "id": 2370918,
+  "type": "Feature",
+  "properties": {
+    "name":"Bryantown, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2370918,
+    "woe:name":"Bryantown, Maryland, United States",
+    "woe:place_id":"Q.437gSbApuqLh4i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.847649,38.5401,-76.821556,38.555351],
+  "geometry": {"alpha":0.00015,"bbox":[-76.847648620605,38.540100097656,-76.821556091309,38.555351257324],"coordinates":[[[[-76.843613,38.546757],[-76.847649,38.555351],[-76.828644,38.553684],[-76.821556,38.550781],[-76.836746,38.5401],[-76.843613,38.546757]]]],"created":1292493368,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/2370918_20101216_f3247c6036.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

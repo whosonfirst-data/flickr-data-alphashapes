@@ -1,0 +1,15 @@
+{
+  "id": 1100675,
+  "type": "Feature",
+  "properties": {
+    "name":"Brocklehurst, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100675,
+    "woe:name":"Brocklehurst, New South Wales, Australia",
+    "woe:place_id":"bA3QUtGYAJwAQSSH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.58577,-32.169956,148.586899,-32.168941],
+  "geometry": {"alpha":0.00015,"bbox":[148.58576965332,-32.169956207275,148.58689880371,-32.168941497803],"coordinates":[[[[148.586899,-32.169895],[148.586884,-32.16993],[148.586853,-32.169956],[148.58577,-32.168941],[148.586899,-32.169895]]]],"created":1234481642,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3523/shapefiles/1100675_20090212_7046440ece.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

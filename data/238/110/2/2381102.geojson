@@ -1,0 +1,15 @@
+{
+  "id": 2381102,
+  "type": "Feature",
+  "properties": {
+    "name":"Clayton, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2381102,
+    "woe:name":"Clayton, Alabama, United States",
+    "woe:place_id":"6cwKQYqbApS8INs3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.45015,31.875908,-85.449127,31.881321],
+  "geometry": {"alpha":0.00015,"bbox":[-85.450149536133,31.875907897949,-85.449127197266,31.881320953369],"coordinates":[[[[-85.450005,31.878218],[-85.45015,31.880583],[-85.450073,31.881321],[-85.449364,31.879442],[-85.449127,31.878168],[-85.449875,31.875908],[-85.450005,31.878218]]]],"created":1292550210,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2381102_20101217_28931445c6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

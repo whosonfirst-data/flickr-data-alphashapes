@@ -1,0 +1,15 @@
+{
+  "id": 2489013,
+  "type": "Feature",
+  "properties": {
+    "name":"Saranac, New York, United States",
+    "placetype":"locality",
+    "woe:id":2489013,
+    "woe:name":"Saranac, New York, United States",
+    "woe:place_id":"u5BPHQ2bBZTM30St",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.743492,44.65081,-73.732788,44.658939],
+  "geometry": {"alpha":0.00015,"bbox":[-73.743492126465,44.650810241699,-73.732788085938,44.658939361572],"coordinates":[[[[-73.74131,44.651085],[-73.743423,44.65081],[-73.743492,44.652168],[-73.732788,44.658939],[-73.74131,44.651085]]]],"created":1292521230,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2489013_20101216_14c3113821.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

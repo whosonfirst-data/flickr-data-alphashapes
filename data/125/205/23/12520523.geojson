@@ -1,0 +1,15 @@
+{
+  "id": 12520523,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Charles Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520523,
+    "woe:name":"Lake Charles Regional Airport, United States",
+    "woe:place_id":"l5bfsUOYA5lEqyD4Gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.219917,30.118731,-93.218224,30.122768],
+  "geometry": {"alpha":1e-05,"bbox":[-93.219917297363,30.118730545044,-93.218223571777,30.1227684021],"coordinates":[[[[-93.21962,30.12122],[-93.219917,30.122292],[-93.21907,30.122768],[-93.218933,30.12079],[-93.218224,30.118731],[-93.21962,30.12122]]]],"created":1292452009,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12520523_20101215_88a0fa530d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

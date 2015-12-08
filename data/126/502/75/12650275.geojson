@@ -1,0 +1,15 @@
+{
+  "id": 12650275,
+  "type": "Feature",
+  "properties": {
+    "name":"Orto, France",
+    "placetype":"locality",
+    "woe:id":12650275,
+    "woe:name":"Orto, France",
+    "woe:place_id":"1aNpssSYA5qkKVUllg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.934545,42.252789,8.941669,42.259335],
+  "geometry": {"alpha":1e-05,"bbox":[8.9345445632935,42.252788543701,8.9416694641113,42.259334564209],"coordinates":[[[[8.940038,42.255714],[8.934974,42.252789],[8.935489,42.255775],[8.934545,42.258255],[8.936519,42.259335],[8.939266,42.257111],[8.941669,42.256538],[8.940038,42.255714]]]],"created":1292538141,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12650275_20101216_544822d361.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

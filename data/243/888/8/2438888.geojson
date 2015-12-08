@@ -1,0 +1,15 @@
+{
+  "id": 2438888,
+  "type": "Feature",
+  "properties": {
+    "name":"Leyda, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2438888,
+    "woe:name":"Leyda, Ohio, United States",
+    "woe:place_id":"K2z1DrabBZ9QnyTc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.125,40.649109,-81.107147,40.663101],
+  "geometry": {"alpha":0.00015,"bbox":[-81.125,40.649108886719,-81.107147216797,40.663101196289],"coordinates":[[[[-81.10836,40.658253],[-81.107147,40.649109],[-81.112953,40.656982],[-81.113083,40.657097],[-81.125,40.663101],[-81.109879,40.661335],[-81.10836,40.658253]]]],"created":1292545282,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2438888_20101217_63eef68784.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

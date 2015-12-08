@@ -1,0 +1,15 @@
+{
+  "id": 744208,
+  "type": "Feature",
+  "properties": {
+    "name":"Montes Novos, Faro, Portugal",
+    "placetype":"locality",
+    "woe:id":744208,
+    "woe:name":"Montes Novos, Faro, Portugal",
+    "woe:place_id":"uUaz3QqeBZgg7e8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.920112,37.260117,-7.906723,37.278561],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9201121330261,37.260116577148,-7.9067230224609,37.278560638428],"coordinates":[[[[-7.906723,37.278561],[-7.907455,37.260117],[-7.908828,37.260529],[-7.920112,37.277195],[-7.919425,37.277603],[-7.906723,37.278561]]]],"created":1292525213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/744208_20101216_dbe0e14449.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

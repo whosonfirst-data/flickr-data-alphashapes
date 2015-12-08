@@ -1,0 +1,15 @@
+{
+  "id": 715832,
+  "type": "Feature",
+  "properties": {
+    "name":"Frigento, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":715832,
+    "woe:name":"Frigento, Campania, Italy",
+    "woe:place_id":"l9Gp7bqeAJmA6Co",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.099077,41.006199,15.102767,41.011803],
+  "geometry": {"alpha":0.00015,"bbox":[15.099077224731,41.006198883057,15.102766990662,41.01180267334],"coordinates":[[[[15.099077,41.008434],[15.099399,41.011803],[15.100536,41.011578],[15.102381,41.010914],[15.102767,41.009956],[15.101394,41.006199],[15.099077,41.008434]]]],"created":1292456045,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/715832_20101215_d504670cf6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

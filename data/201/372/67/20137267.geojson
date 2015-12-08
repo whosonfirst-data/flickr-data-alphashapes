@@ -1,0 +1,15 @@
+{
+  "id": 20137267,
+  "type": "Feature",
+  "properties": {
+    "name":"Pomaia, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20137267,
+    "woe:name":"Pomaia, Tuscany, Italy",
+    "woe:place_id":"8ZlS57ObAZ3NFUgCpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.550994,43.4286,10.567667,43.433975],
+  "geometry": {"alpha":0.00015,"bbox":[10.550993919373,43.428600311279,10.567667007446,43.433975219727],"coordinates":[[[[10.565414,43.433872],[10.567667,43.433475],[10.562756,43.430122],[10.55962,43.4286],[10.550994,43.43198],[10.563182,43.433975],[10.565414,43.433872]]]],"created":1292530991,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20137267_20101216_665707d450.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

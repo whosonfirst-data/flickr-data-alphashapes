@@ -1,0 +1,15 @@
+{
+  "id": 2437103,
+  "type": "Feature",
+  "properties": {
+    "name":"Laurelcrest, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2437103,
+    "woe:name":"Laurelcrest, Maryland, United States",
+    "woe:place_id":"lm3ErS2bBZ81KUyy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.494438,39.505203,-77.480453,39.522488],
+  "geometry": {"alpha":0.00015,"bbox":[-77.494438171387,39.50520324707,-77.480453491211,39.522487640381],"coordinates":[[[[-77.493927,39.508331],[-77.494438,39.51503],[-77.487015,39.522488],[-77.486916,39.51527],[-77.480453,39.505203],[-77.493927,39.508331]]]],"created":1292531587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2437103_20101216_e165f7de1a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

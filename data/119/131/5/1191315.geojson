@@ -1,0 +1,15 @@
+{
+  "id": 1191315,
+  "type": "Feature",
+  "properties": {
+    "name":"San Luis, Central Luzon, Philippines",
+    "placetype":"locality",
+    "woe:id":1191315,
+    "woe:name":"San Luis, Central Luzon, Philippines",
+    "woe:place_id":"n47gtPWYAJVLRzts",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [120.787125,15.031012,120.791069,15.044191],
+  "geometry": {"alpha":0.00015,"bbox":[120.78712463379,15.031011581421,120.79106903076,15.044191360474],"coordinates":[[[[120.791069,15.044191],[120.789185,15.040959],[120.787125,15.031012],[120.788155,15.040876],[120.791069,15.044191]]]],"created":1229446208,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3059/shapefiles/1191315_20081216_bd8f33da50.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

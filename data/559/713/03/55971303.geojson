@@ -1,0 +1,15 @@
+{
+  "id": 55971303,
+  "type": "Feature",
+  "properties": {
+    "name":"Rock Canyon, San Jose, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971303,
+    "woe:name":"Rock Canyon, San Jose, CA, US, United States",
+    "woe:place_id":"TrNTcDGcBJVIr64wzQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.832329,37.392502,-121.828049,37.397049],
+  "geometry": {"alpha":1e-05,"bbox":[-121.83232879639,37.392501831055,-121.82804870605,37.397048950195],"coordinates":[[[[-121.828667,37.392502],[-121.832329,37.392883],[-121.828163,37.396976],[-121.828049,37.397049],[-121.828667,37.392502]]]],"created":1292450022,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/55971303_20101215_f8719d0bc2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 721441,
+  "type": "Feature",
+  "properties": {
+    "name":"Quercegrossa, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":721441,
+    "woe:name":"Quercegrossa, Tuscany, Italy",
+    "woe:place_id":"Js7TGSOeA52OKWc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.300125,43.388332,11.320724,43.410286],
+  "geometry": {"alpha":0.00015,"bbox":[11.30012512207,43.388332366943,11.32072353363,43.410285949707],"coordinates":[[[[11.305618,43.396069],[11.300125,43.402054],[11.305618,43.410286],[11.318771,43.407753],[11.320724,43.388332],[11.309051,43.38958],[11.305618,43.396069]]]],"created":1292453329,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/721441_20101215_3bba856df9.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

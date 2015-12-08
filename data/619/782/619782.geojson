@@ -1,0 +1,15 @@
+{
+  "id": 619782,
+  "type": "Feature",
+  "properties": {
+    "name":"Rohrbach, Lorraine, France",
+    "placetype":"locality",
+    "woe:id":619782,
+    "woe:name":"Rohrbach, Lorraine, France",
+    "woe:place_id":"lHEuKqOfAJWT7d8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.259774,49.044708,7.273635,49.061581],
+  "geometry": {"alpha":0.00015,"bbox":[7.2597742080688,49.044708251953,7.2736349105835,49.061580657959],"coordinates":[[[[7.266963,49.059006],[7.273635,49.044708],[7.259774,49.051819],[7.262649,49.060368],[7.265825,49.061581],[7.266855,49.060032],[7.266963,49.059006]]]],"created":1292549592,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/619782_20101217_d8f04552ce.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

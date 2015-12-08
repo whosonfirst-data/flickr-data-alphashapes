@@ -1,0 +1,15 @@
+{
+  "id": 29347490,
+  "type": "Feature",
+  "properties": {
+    "name":"Achele, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347490,
+    "woe:name":"Achele, Bavaria, Germany",
+    "woe:place_id":"wLjVjA2bCJ.c1RGFQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.986131,47.661732,10.996005,47.665112],
+  "geometry": {"alpha":0.00015,"bbox":[10.986130714417,47.661731719971,10.996005058289,47.665111541748],"coordinates":[[[[10.986134,47.66444],[10.986135,47.66444],[10.986136,47.66444],[10.996005,47.665112],[10.987949,47.661732],[10.986131,47.664436],[10.986134,47.66444]]]],"created":1292449807,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/29347490_20101215_47e0917080.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

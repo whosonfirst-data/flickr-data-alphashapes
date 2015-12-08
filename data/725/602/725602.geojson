@@ -1,0 +1,15 @@
+{
+  "id": 725602,
+  "type": "Feature",
+  "properties": {
+    "name":"Vallinfreda, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":725602,
+    "woe:name":"Vallinfreda, Lazio, Italy",
+    "woe:place_id":"WnnxjfeeA5loRbs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.991611,42.08448,12.995624,42.0923],
+  "geometry": {"alpha":0.00015,"bbox":[12.991610527039,42.084480285645,12.995623588562,42.092300415039],"coordinates":[[[[12.99453,42.08448],[12.992899,42.084965],[12.991611,42.091709],[12.994594,42.0923],[12.995173,42.088612],[12.995624,42.084721],[12.99453,42.08448]]]],"created":1247809445,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2561/shapefiles/725602_20090717_a9c1534371.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

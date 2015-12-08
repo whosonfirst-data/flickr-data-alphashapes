@@ -1,0 +1,15 @@
+{
+  "id": 23418193,
+  "type": "Feature",
+  "properties": {
+    "name":"Walden, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23418193,
+    "woe:name":"Walden, Vermont, United States",
+    "woe:place_id":"lvI.V4KbApjzYtX2dA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.286049,44.501312,-72.272873,44.504417],
+  "geometry": {"alpha":0.00015,"bbox":[-72.28604888916,44.501312255859,-72.272872924805,44.504417419434],"coordinates":[[[[-72.28566,44.50362],[-72.286049,44.504417],[-72.272873,44.501312],[-72.285622,44.503559],[-72.28566,44.50362]]]],"created":1292551038,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/23418193_20101217_41d8bdd2f5.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

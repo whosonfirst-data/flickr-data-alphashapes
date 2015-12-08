@@ -1,0 +1,15 @@
+{
+  "id": 714111,
+  "type": "Feature",
+  "properties": {
+    "name":"Cinisello, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":714111,
+    "woe:name":"Cinisello, Lombardy, Italy",
+    "woe:place_id":"l5oY0baeAJh_nag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.216713,45.549999,9.242935,45.561268],
+  "geometry": {"alpha":0.00015,"bbox":[9.2167129516602,45.549999237061,9.2429351806641,45.561267852783],"coordinates":[[[[9.232978,45.558777],[9.240875,45.558624],[9.242935,45.552406],[9.241905,45.549999],[9.22484,45.550781],[9.216713,45.561268],[9.232978,45.558777]]]],"created":1292518270,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/714111_20101216_a45e66490e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

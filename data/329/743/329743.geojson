@@ -1,0 +1,15 @@
+{
+  "id": 329743,
+  "type": "Feature",
+  "properties": {
+    "name":"Lerkenlund, Saint Thomas Island, US Virgin Islands",
+    "placetype":"locality",
+    "woe:id":329743,
+    "woe:name":"Lerkenlund, Saint Thomas Island, US Virgin Islands",
+    "woe:place_id":"iup011CaA5XSV94",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.945831,18.360332,-64.942413,18.361694],
+  "geometry": {"alpha":0.00015,"bbox":[-64.945831298828,18.360332489014,-64.942413330078,18.361694335938],"coordinates":[[[[-64.945503,18.360332],[-64.945831,18.3605],[-64.945747,18.360806],[-64.945663,18.360832],[-64.942413,18.361694],[-64.945503,18.360332]]]],"created":1292520625,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/329743_20101216_371cbb23c7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

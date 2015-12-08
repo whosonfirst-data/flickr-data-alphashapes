@@ -1,0 +1,15 @@
+{
+  "id": 23400890,
+  "type": "Feature",
+  "properties": {
+    "name":"Marysville, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400890,
+    "woe:name":"Marysville, Ontario, Canada",
+    "woe:place_id":"93W8bnSbApjLNe9mkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.165138,44.222347,-77.124023,44.248764],
+  "geometry": {"alpha":0.0001875,"bbox":[-77.165138244629,44.222347259521,-77.1240234375,44.248764038086],"coordinates":[[[[-77.159554,44.222965],[-77.165138,44.224476],[-77.163246,44.228535],[-77.158356,44.230438],[-77.141617,44.231056],[-77.128143,44.248764],[-77.124023,44.236034],[-77.129173,44.235077],[-77.140869,44.230976],[-77.153976,44.223843],[-77.157837,44.222347],[-77.159554,44.222965]]]],"created":1292447610,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23400890_20101215_d8545b90d9.tar.gz"},"points":36,"type":"MultiPolygon"}
+}

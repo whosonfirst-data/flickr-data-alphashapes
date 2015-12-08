@@ -1,0 +1,15 @@
+{
+  "id": 2454485,
+  "type": "Feature",
+  "properties": {
+    "name":"Moscow, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2454485,
+    "woe:name":"Moscow, Wisconsin, United States",
+    "woe:place_id":"obNi.0KbBZloj6M9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.857819,42.831161,-89.836235,42.839722],
+  "geometry": {"alpha":0.00015,"bbox":[-89.857818603516,42.831161499023,-89.836235046387,42.839721679688],"coordinates":[[[[-89.845848,42.831161],[-89.857819,42.835442],[-89.848595,42.839722],[-89.836235,42.83733],[-89.841385,42.83519],[-89.845848,42.831161]]]],"created":1292486222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2454485_20101216_689673a4e8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20212623,
+  "type": "Feature",
+  "properties": {
+    "name":"Willerhof, Alsace, France",
+    "placetype":"locality",
+    "woe:id":20212623,
+    "woe:name":"Willerhof, Alsace, France",
+    "woe:place_id":"cC5PsF6bAZ5fiP0yVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.390955,47.528965,7.402572,47.534618],
+  "geometry": {"alpha":0.00015,"bbox":[7.3909549713135,47.528964996338,7.4025721549988,47.534618377686],"coordinates":[[[[7.391041,47.534607],[7.402572,47.528965],[7.391422,47.534],[7.391311,47.534107],[7.390955,47.534618],[7.391041,47.534607]]]],"created":1292441895,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/20212623_20101215_c3e0b296ab.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2352542,
+  "type": "Feature",
+  "properties": {
+    "name":"Aladdin, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2352542,
+    "woe:name":"Aladdin, Illinois, United States",
+    "woe:place_id":"OG2nAD.bAplmx4LC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.341705,39.694836,-91.327713,39.704281],
+  "geometry": {"alpha":0.00015,"bbox":[-91.341705322266,39.694835662842,-91.327713012695,39.704280853271],"coordinates":[[[[-91.341705,39.700821],[-91.341339,39.701069],[-91.327713,39.704281],[-91.332008,39.694836],[-91.335114,39.696911],[-91.341705,39.700821]]]],"created":1292444430,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2352542_20101215_02e53b9fb9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

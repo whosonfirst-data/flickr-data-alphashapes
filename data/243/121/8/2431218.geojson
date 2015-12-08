@@ -1,0 +1,15 @@
+{
+  "id": 2431218,
+  "type": "Feature",
+  "properties": {
+    "name":"Kellogg, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2431218,
+    "woe:name":"Kellogg, Louisiana, United States",
+    "woe:place_id":"qAbkqbebBZ8.V76I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.358406,29.905804,-90.343834,29.913876],
+  "geometry": {"alpha":0.00015,"bbox":[-90.358406066895,29.90580368042,-90.34383392334,29.913875579834],"coordinates":[[[[-90.34819,29.909901],[-90.358406,29.905804],[-90.358383,29.90909],[-90.35276,29.910007],[-90.343834,29.913876],[-90.34819,29.909901]]]],"created":1247958242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2544/shapefiles/2431218_20090718_99f23cccab.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

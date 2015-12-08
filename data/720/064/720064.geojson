@@ -1,0 +1,15 @@
+{
+  "id": 720064,
+  "type": "Feature",
+  "properties": {
+    "name":"Pavona, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":720064,
+    "woe:name":"Pavona, Lazio, Italy",
+    "woe:place_id":"6VSsu66eA5x4mQk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.609558,41.721176,12.621467,41.743652],
+  "geometry": {"alpha":0.00015,"bbox":[12.609558105469,41.721176147461,12.621466636658,41.74365234375],"coordinates":[[[[12.619469,41.725639],[12.617057,41.721176],[12.61077,41.724335],[12.609558,41.743652],[12.616682,41.73933],[12.621467,41.727551],[12.619469,41.725639]]]],"created":1292536507,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/720064_20101216_13a70cc08e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

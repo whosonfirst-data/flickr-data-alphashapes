@@ -1,0 +1,15 @@
+{
+  "id": 2366439,
+  "type": "Feature",
+  "properties": {
+    "name":"Bolivar, New York, United States",
+    "placetype":"locality",
+    "woe:id":2366439,
+    "woe:name":"Bolivar, New York, United States",
+    "woe:place_id":"lWfwedubApqG4wHn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.169594,42.066635,-78.158951,42.072964],
+  "geometry": {"alpha":0.00015,"bbox":[-78.169593811035,42.066635131836,-78.158950805664,42.0729637146],"coordinates":[[[[-78.169121,42.072941],[-78.159058,42.068092],[-78.158951,42.066635],[-78.167892,42.067581],[-78.169594,42.072964],[-78.169121,42.072941]]]],"created":1292477049,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2366439_20101216_6504f4aab9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

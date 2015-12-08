@@ -1,0 +1,15 @@
+{
+  "id": 29370001,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Campanillos, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":29370001,
+    "woe:name":"Los Campanillos, Valencia, Spain",
+    "woe:place_id":"QpmWY0CbCJ86c_JeVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.474815,39.410202,-0.472626,39.411942],
+  "geometry": {"alpha":0.00015,"bbox":[-0.47481501102448,39.410202026367,-0.47262600064278,39.41194152832],"coordinates":[[[[-0.474064,39.41103],[-0.472626,39.411942],[-0.473388,39.410202],[-0.473999,39.410278],[-0.474815,39.410648],[-0.474064,39.41103]]]],"created":1292450256,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/29370001_20101215_f7e3defeaf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

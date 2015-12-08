@@ -1,0 +1,15 @@
+{
+  "id": 12666733,
+  "type": "Feature",
+  "properties": {
+    "name":"Mirepoix, France",
+    "placetype":"locality",
+    "woe:id":12666733,
+    "woe:name":"Mirepoix, France",
+    "woe:place_id":"ztYO632YA5pgU5em5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.670487,43.743614,0.674544,43.744701],
+  "geometry": {"alpha":1e-05,"bbox":[0.67048698663712,43.743614196777,0.67454397678375,43.744701385498],"coordinates":[[[[0.674544,43.743916],[0.674543,43.743675],[0.670552,43.743614],[0.670487,43.743923],[0.67317,43.744701],[0.674544,43.743916]]]],"created":1292533405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/12666733_20101216_fc81cb2f5e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

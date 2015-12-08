@@ -1,0 +1,15 @@
+{
+  "id": 25944965,
+  "type": "Feature",
+  "properties": {
+    "name":"Metsola, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":25944965,
+    "woe:name":"Metsola, Southern Finland, Finland",
+    "woe:place_id":"sTqnqRybBJW84pmoDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.09243,60.349014,25.103674,60.353916],
+  "geometry": {"alpha":0.00015,"bbox":[25.092430114746,60.349014282227,25.103673934937,60.353916168213],"coordinates":[[[[25.099939,60.349575],[25.094748,60.352707],[25.09243,60.353916],[25.099382,60.352432],[25.103674,60.349789],[25.101786,60.349014],[25.099939,60.349575]]]],"created":1292463123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/25944965_20101216_bdc996db22.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

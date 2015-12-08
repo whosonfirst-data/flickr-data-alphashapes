@@ -1,0 +1,15 @@
+{
+  "id": 33888,
+  "type": "Feature",
+  "properties": {
+    "name":"Salford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33888,
+    "woe:name":"Salford, England, United Kingdom",
+    "woe:place_id":"4T16F9qaApQlzA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.649909,52.04023,-0.635983,52.05365],
+  "geometry": {"alpha":0.00015,"bbox":[-0.64990901947021,52.040229797363,-0.63598299026489,52.053649902344],"coordinates":[[[[-0.63755,52.046158],[-0.635983,52.043835],[-0.641069,52.04023],[-0.641498,52.041351],[-0.649909,52.05365],[-0.640667,52.047333],[-0.63755,52.046158]]]],"created":1292535354,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/33888_20101216_3544e0fe95.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

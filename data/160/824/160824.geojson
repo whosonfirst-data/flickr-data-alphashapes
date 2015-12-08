@@ -1,0 +1,15 @@
+{
+  "id": 160824,
+  "type": "Feature",
+  "properties": {
+    "name":"Collores, Jayuya, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":160824,
+    "woe:name":"Collores, Jayuya, Puerto Rico",
+    "woe:place_id":"NzWSFUeYB5xZ1es",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.596718,18.169624,-66.587105,18.172316],
+  "geometry": {"alpha":0.00015,"bbox":[-66.596717834473,18.169624328613,-66.587104797363,18.172315597534],"coordinates":[[[[-66.587105,18.171215],[-66.587105,18.169624],[-66.591225,18.169746],[-66.596718,18.170563],[-66.592064,18.172316],[-66.587105,18.171215]]]],"created":1247920324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2640/shapefiles/160824_20090718_c45b9c843e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

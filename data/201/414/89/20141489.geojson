@@ -1,0 +1,15 @@
+{
+  "id": 20141489,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lorenzo Della Costa, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20141489,
+    "woe:name":"San Lorenzo Della Costa, Liguria, Italy",
+    "woe:place_id":"ikV1nMybAZ2i4KVx7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.187059,44.339272,9.189891,44.346931],
+  "geometry": {"alpha":0.00015,"bbox":[9.1870594024658,44.33927154541,9.1898908615112,44.34693145752],"coordinates":[[[[9.188228,44.339272],[9.187059,44.33971],[9.189003,44.344696],[9.189891,44.346931],[9.189205,44.339748],[9.188228,44.339272]]]],"created":1292445569,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20141489_20101215_73e1ef7b5d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

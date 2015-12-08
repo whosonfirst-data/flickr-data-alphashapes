@@ -1,0 +1,15 @@
+{
+  "id": 729215,
+  "type": "Feature",
+  "properties": {
+    "name":"Eksel, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":729215,
+    "woe:name":"Eksel, Gelderland, Netherlands",
+    "woe:place_id":"shCetLieA5UDz5I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.414249,52.174034,6.432323,52.192955],
+  "geometry": {"alpha":0.00015,"bbox":[6.4142489433289,52.174034118652,6.4323229789734,52.19295501709],"coordinates":[[[[6.420156,52.175247],[6.414249,52.18465],[6.419105,52.184669],[6.432323,52.192955],[6.427087,52.174034],[6.421422,52.174141],[6.420156,52.175247]]]],"created":1292532315,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/729215_20101216_d91e47512c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

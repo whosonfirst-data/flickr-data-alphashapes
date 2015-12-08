@@ -1,0 +1,15 @@
+{
+  "id": 55858075,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrison Blvd, Boise, ID, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55858075,
+    "woe:name":"Harrison Blvd, Boise, ID, US, United States",
+    "woe:place_id":"dwaazdGcBJSgScqEYg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-116.209084,43.630898,-116.208229,43.636307],
+  "geometry": {"alpha":1e-05,"bbox":[-116.20908355713,43.630897521973,-116.20822906494,43.636306762695],"coordinates":[[[[-116.209084,43.633465],[-116.208527,43.636307],[-116.208229,43.632214],[-116.208488,43.630898],[-116.209084,43.633465]]]],"created":1292489764,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/55858075_20101216_ff8693cd17.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

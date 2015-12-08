@@ -1,0 +1,15 @@
+{
+  "id": 18107,
+  "type": "Feature",
+  "properties": {
+    "name":"Denver, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18107,
+    "woe:name":"Denver, England, United Kingdom",
+    "woe:place_id":"9UWCDYWYCZ3EXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.337829,52.575096,0.391623,52.590141],
+  "geometry": {"alpha":0.0006103515625,"bbox":[0.3378289937973,52.575096130371,0.3916229903698,52.590141296387],"coordinates":[[[[0.342636,52.583652],[0.342807,52.584122],[0.368385,52.58485],[0.381603,52.587147],[0.391623,52.589256],[0.381174,52.590141],[0.378856,52.589172],[0.370187,52.585712],[0.368385,52.58485],[0.364695,52.582764],[0.337829,52.575096],[0.342636,52.583652]]]],"created":1292540103,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/18107_20101216_1c154c41d3.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2405446,
+  "type": "Feature",
+  "properties": {
+    "name":"Forestville, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2405446,
+    "woe:name":"Forestville, Wisconsin, United States",
+    "woe:place_id":"PdzT_DebBZzXV2O3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.492004,44.675411,-87.468918,44.692516],
+  "geometry": {"alpha":0.00015,"bbox":[-87.492004394531,44.675411224365,-87.46891784668,44.692516326904],"coordinates":[[[[-87.479385,44.690159],[-87.468918,44.675411],[-87.479965,44.689251],[-87.492004,44.692516],[-87.480713,44.68996],[-87.479385,44.690159]]]],"created":1292469006,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2405446_20101216_2eba8e206b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

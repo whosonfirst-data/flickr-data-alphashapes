@@ -1,0 +1,15 @@
+{
+  "id": 31234,
+  "type": "Feature",
+  "properties": {
+    "name":"Overton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":31234,
+    "woe:name":"Overton, England, United Kingdom",
+    "woe:place_id":"wFMc4xWaAJ7i.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.623573,53.642296,-1.610183,53.646534],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6235729455948,53.642295837402,-1.6101830005646,53.646533966064],"coordinates":[[[[-1.618292,53.643974],[-1.621127,53.642796],[-1.623229,53.642296],[-1.623573,53.642628],[-1.621513,53.646469],[-1.610183,53.646534],[-1.618292,53.643974]]]],"created":1292548917,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/31234_20101217_f79272979c.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

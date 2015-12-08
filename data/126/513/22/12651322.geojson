@@ -1,0 +1,15 @@
+{
+  "id": 12651322,
+  "type": "Feature",
+  "properties": {
+    "name":"Rixheim, France",
+    "placetype":"locality",
+    "woe:id":12651322,
+    "woe:name":"Rixheim, France",
+    "woe:place_id":"8GS606.YA5rbAjeH.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.418561,47.740341,7.425041,47.745083],
+  "geometry": {"alpha":1e-05,"bbox":[7.4185609817505,47.740341186523,7.4250411987305,47.745082855225],"coordinates":[[[[7.421264,47.74342],[7.425041,47.741806],[7.421286,47.740765],[7.420041,47.740341],[7.418646,47.744576],[7.418561,47.745083],[7.421264,47.74342]]]],"created":1292530008,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/12651322_20101216_8c4b0f51bb.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

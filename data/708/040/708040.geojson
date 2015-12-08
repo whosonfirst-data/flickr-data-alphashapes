@@ -1,0 +1,15 @@
+{
+  "id": 708040,
+  "type": "Feature",
+  "properties": {
+    "name":"Worzeldorf, Nuremberg, BY, DE, Germany",
+    "placetype":"neighbourhood",
+    "woe:id":708040,
+    "woe:name":"Worzeldorf, Nuremberg, BY, DE, Germany",
+    "woe:place_id":"hbzZrtueAZQzNok",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [11.100053,49.37339,11.103744,49.380463],
+  "geometry": {"alpha":1e-05,"bbox":[11.100052833557,49.373390197754,11.103743553162,49.380462646484],"coordinates":[[[[11.103744,49.378796],[11.101797,49.377659],[11.101269,49.37339],[11.100053,49.377678],[11.102886,49.380463],[11.103744,49.378796]]]],"created":1292535187,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/708040_20101216_6c30940c4e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

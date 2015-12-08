@@ -1,0 +1,15 @@
+{
+  "id": 12634295,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Waldthurn, Germany",
+    "placetype":"locality",
+    "woe:id":12634295,
+    "woe:name":"Gemeinde Waldthurn, Germany",
+    "woe:place_id":"l0v_j8iYA5p8GbnzrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.330597,49.669662,12.333043,49.672905],
+  "geometry": {"alpha":1e-05,"bbox":[12.330596923828,49.669662475586,12.33304309845,49.672904968262],"coordinates":[[[[12.332561,49.670799],[12.333043,49.669662],[12.33123,49.670635],[12.330597,49.672905],[12.332067,49.671982],[12.332561,49.670799]]]],"created":1292542324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12634295_20101216_e60e74c5b8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

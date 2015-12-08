@@ -1,0 +1,15 @@
+{
+  "id": 12512863,
+  "type": "Feature",
+  "properties": {
+    "name":"Bricy Airport, France",
+    "placetype":"locality",
+    "woe:id":12512863,
+    "woe:name":"Bricy Airport, France",
+    "woe:place_id":"I_rgFvOYA5nBW8yclg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.766996,47.986301,1.771287,47.987652],
+  "geometry": {"alpha":1e-05,"bbox":[1.7669960260391,47.986301422119,1.7712869644165,47.987651824951],"coordinates":[[[[1.769828,47.987652],[1.771287,47.986301],[1.766996,47.986374],[1.768294,47.987396],[1.769828,47.987652]]]],"created":1292453522,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12512863_20101215_1ec421f99f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2492083,
+  "type": "Feature",
+  "properties": {
+    "name":"Sheffield, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2492083,
+    "woe:name":"Sheffield, Texas, United States",
+    "woe:place_id":"fP9mYFWbBZU02VFy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.814499,30.716749,-101.807556,30.719334],
+  "geometry": {"alpha":0.00015,"bbox":[-101.81449890137,30.716749191284,-101.80755615234,30.719333648682],"coordinates":[[[[-101.809959,30.717045],[-101.814499,30.719334],[-101.812332,30.718666],[-101.807556,30.716749],[-101.809959,30.717045]]]],"created":1292501105,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2492083_20101216_f3d1509738.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

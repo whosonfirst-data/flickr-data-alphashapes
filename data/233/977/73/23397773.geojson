@@ -1,0 +1,15 @@
+{
+  "id": 23397773,
+  "type": "Feature",
+  "properties": {
+    "name":"Dublin, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397773,
+    "woe:name":"Dublin, Ontario, Canada",
+    "woe:place_id":"fKrOmAObAp_CMVHn6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.303459,43.501904,-81.283699,43.51482],
+  "geometry": {"alpha":0.00015,"bbox":[-81.30345916748,43.501903533936,-81.283699035645,43.514820098877],"coordinates":[[[[-81.283699,43.505726],[-81.285019,43.504307],[-81.287796,43.502728],[-81.289383,43.501904],[-81.303459,43.51482],[-81.287323,43.507523],[-81.285355,43.506416],[-81.283699,43.505726]]]],"created":1292462943,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/23397773_20101216_75a5b3b216.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

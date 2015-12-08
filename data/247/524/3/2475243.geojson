@@ -1,0 +1,15 @@
+{
+  "id": 2475243,
+  "type": "Feature",
+  "properties": {
+    "name":"Poplar Springs, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2475243,
+    "woe:name":"Poplar Springs, Georgia, United States",
+    "woe:place_id":"pSFg4ribBZtFth2f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.303329,33.824223,-85.284119,33.832668],
+  "geometry": {"alpha":0.00015,"bbox":[-85.303329467773,33.824222564697,-85.284118652344,33.832668304443],"coordinates":[[[[-85.303169,33.8325],[-85.303329,33.832668],[-85.303169,33.832668],[-85.303001,33.832668],[-85.284119,33.824223],[-85.303169,33.8325]]]],"created":1292524385,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2475243_20101216_b84d99e4fd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

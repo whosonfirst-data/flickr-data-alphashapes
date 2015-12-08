@@ -1,0 +1,15 @@
+{
+  "id": 19000,
+  "type": "Feature",
+  "properties": {
+    "name":"East Hoathly, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":19000,
+    "woe:name":"East Hoathly, England, United Kingdom",
+    "woe:place_id":"oUoEjr2YCJxorg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.148508,50.912045,0.179901,50.946259],
+  "geometry": {"alpha":0.00015,"bbox":[0.14850799739361,50.912044525146,0.17990100383759,50.946258544922],"coordinates":[[[[0.170052,50.936817],[0.179901,50.93301],[0.172369,50.924004],[0.172176,50.91824],[0.161018,50.917645],[0.153594,50.912045],[0.148508,50.913166],[0.157091,50.920673],[0.148723,50.942131],[0.165266,50.946259],[0.170052,50.936817]]]],"created":1292458008,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/19000_20101216_0aa24e1ec5.tar.gz"},"points":47,"type":"MultiPolygon"}
+}

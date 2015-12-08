@@ -1,0 +1,15 @@
+{
+  "id": 55988283,
+  "type": "Feature",
+  "properties": {
+    "name":"Park Crossing, Charlotte, NC, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55988283,
+    "woe:name":"Park Crossing, Charlotte, NC, US, United States",
+    "woe:place_id":"gIqGbLKcBJWbFAmTPQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-80.858154,35.112736,-80.856125,35.117485],
+  "geometry": {"alpha":1e-05,"bbox":[-80.858154296875,35.112735748291,-80.85612487793,35.117485046387],"coordinates":[[[[-80.857559,35.117485],[-80.856125,35.116604],[-80.858154,35.112736],[-80.857399,35.116661],[-80.857658,35.117241],[-80.857559,35.117485]]]],"created":1292524380,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/55988283_20101216_a5ee019824.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

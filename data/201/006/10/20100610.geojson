@@ -1,0 +1,15 @@
+{
+  "id": 20100610,
+  "type": "Feature",
+  "properties": {
+    "name":"Viker, Ostfold, Norway",
+    "placetype":"locality",
+    "woe:id":20100610,
+    "woe:name":"Viker, Ostfold, Norway",
+    "woe:place_id":"I32A8NubAZ1Dbjv68g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.86355,59.175358,10.884103,59.188046],
+  "geometry": {"alpha":0.00015,"bbox":[10.863550186157,59.175357818604,10.88410282135,59.188045501709],"coordinates":[[[[10.867195,59.179623],[10.86355,59.18784],[10.87449,59.188046],[10.884103,59.175358],[10.867195,59.179623]]]],"created":1292445433,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/20100610_20101215_0bd8a39126.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

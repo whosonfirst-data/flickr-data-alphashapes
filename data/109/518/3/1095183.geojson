@@ -1,0 +1,15 @@
+{
+  "id": 1095183,
+  "type": "Feature",
+  "properties": {
+    "name":"Conondale, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1095183,
+    "woe:name":"Conondale, Queensland, Australia",
+    "woe:place_id":"af0oSXqYAZV5k4VD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.716629,-26.74297,152.736771,-26.722383],
+  "geometry": {"alpha":0.00015,"bbox":[152.71662902832,-26.742969512939,152.73677062988,-26.722383499146],"coordinates":[[[[152.717667,-26.729408],[152.716629,-26.728401],[152.717087,-26.722383],[152.718857,-26.728994],[152.736771,-26.740505],[152.720398,-26.74297],[152.717667,-26.729408]]]],"created":1292529843,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/1095183_20101216_e1905e1912.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 716928,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vergine, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":716928,
+    "woe:name":"La Vergine, Tuscany, Italy",
+    "woe:place_id":"kpIfBWGeAJpaYms",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.898222,43.93026,10.904574,43.937553],
+  "geometry": {"alpha":0.00015,"bbox":[10.898221969604,43.93025970459,10.904574394226,43.937553405762],"coordinates":[[[[10.900036,43.931759],[10.898437,43.933506],[10.898222,43.937553],[10.900121,43.934879],[10.904574,43.930508],[10.904392,43.93026],[10.900036,43.931759]]]],"created":1292528977,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/716928_20101216_20214d9b13.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

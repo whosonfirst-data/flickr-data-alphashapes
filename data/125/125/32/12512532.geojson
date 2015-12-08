@@ -1,0 +1,15 @@
+{
+  "id": 12512532,
+  "type": "Feature",
+  "properties": {
+    "name":"Karlovy Vary Airport, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12512532,
+    "woe:name":"Karlovy Vary Airport, Czech Republic",
+    "woe:place_id":"8rl13UOYA5lABJ.EFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.909332,50.199928,12.914856,50.203697],
+  "geometry": {"alpha":1e-05,"bbox":[12.909332275391,50.199928283691,12.914855957031,50.20369720459],"coordinates":[[[[12.913329,50.201328],[12.914856,50.199928],[12.912768,50.201317],[12.909332,50.203091],[12.90937,50.203114],[12.912788,50.203697],[12.913329,50.201328]]]],"created":1292518802,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12512532_20101216_8881791096.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

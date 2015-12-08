@@ -1,0 +1,15 @@
+{
+  "id": 2507000,
+  "type": "Feature",
+  "properties": {
+    "name":"Tom Johns Crossing, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2507000,
+    "woe:name":"Tom Johns Crossing, Kentucky, United States",
+    "woe:place_id":"KK1DJmqbBJwGlH3t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.014282,37.242832,-85.998573,37.249802],
+  "geometry": {"alpha":0.00015,"bbox":[-86.014282226562,37.242832183838,-85.998573303223,37.249801635742],"coordinates":[[[[-86.014282,37.24789],[-86.011703,37.249802],[-86.010651,37.249229],[-85.998573,37.242832],[-86.014282,37.24789]]]],"created":1292527568,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2507000_20101216_b0562c8cc5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

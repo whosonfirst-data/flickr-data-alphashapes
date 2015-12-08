@@ -1,0 +1,15 @@
+{
+  "id": 2446750,
+  "type": "Feature",
+  "properties": {
+    "name":"Masseyville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2446750,
+    "woe:name":"Masseyville, Georgia, United States",
+    "woe:place_id":"gMJQMUCbBZiaEiFo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.491859,34.69521,-85.485565,34.704613],
+  "geometry": {"alpha":0.00015,"bbox":[-85.491859436035,34.695209503174,-85.485565185547,34.704612731934],"coordinates":[[[[-85.491859,34.702751],[-85.485565,34.704613],[-85.487701,34.69521],[-85.488045,34.6954],[-85.49044,34.700809],[-85.491859,34.702751]]]],"created":1292508973,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2446750_20101216_1b29918faa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

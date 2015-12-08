@@ -1,0 +1,15 @@
+{
+  "id": 1467044,
+  "type": "Feature",
+  "properties": {
+    "name":"Gweru, Midlands, Zimbabwe",
+    "placetype":"locality",
+    "woe:id":1467044,
+    "woe:name":"Gweru, Midlands, Zimbabwe",
+    "woe:place_id":"WG3fnv6YBZqSDJhj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [29.799557,-19.463112,29.830971,-19.44199],
+  "geometry": {"alpha":0.00015,"bbox":[29.799556732178,-19.463111877441,29.83097076416,-19.441989898682],"coordinates":[[[[29.824448,-19.458176],[29.807625,-19.463112],[29.799557,-19.456961],[29.811401,-19.442636],[29.825134,-19.44199],[29.830971,-19.445955],[29.824448,-19.458176]]]],"created":1292543805,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/1467044_20101216_f500379f3a.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

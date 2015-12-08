@@ -1,0 +1,15 @@
+{
+  "id": 752391,
+  "type": "Feature",
+  "properties": {
+    "name":"Amoeiro, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":752391,
+    "woe:name":"Amoeiro, Galicia, Spain",
+    "woe:place_id":"EZ00Fu2eBJ4Cgxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.983798,42.403938,-7.976675,42.410213],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9837980270386,42.403938293457,-7.9766750335693,42.410213470459],"coordinates":[[[[-7.981395,42.405018],[-7.983798,42.403938],[-7.979679,42.409008],[-7.976675,42.410213],[-7.977619,42.406918],[-7.981395,42.405018]]]],"created":1292537839,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/752391_20101216_fd85d3150d.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

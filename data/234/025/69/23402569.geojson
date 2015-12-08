@@ -1,0 +1,15 @@
+{
+  "id": 23402569,
+  "type": "Feature",
+  "properties": {
+    "name":"Giroux, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":23402569,
+    "woe:name":"Giroux, Manitoba, Canada",
+    "woe:place_id":"KKSAzsKbApjA4Cv3NQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.568611,49.559349,-96.553688,49.574852],
+  "geometry": {"alpha":0.00015,"bbox":[-96.56861114502,49.559349060059,-96.553688049316,49.574851989746],"coordinates":[[[[-96.567078,49.572784],[-96.568611,49.574295],[-96.566093,49.574852],[-96.554375,49.566418],[-96.553688,49.559349],[-96.567078,49.572784]]]],"created":1239388446,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3311/shapefiles/23402569_20090410_9d515e59c4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

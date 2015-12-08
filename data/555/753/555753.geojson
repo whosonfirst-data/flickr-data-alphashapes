@@ -1,0 +1,15 @@
+{
+  "id": 555753,
+  "type": "Feature",
+  "properties": {
+    "name":"Nejede, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555753,
+    "woe:name":"Nejede, Hovedstaden, Denmark",
+    "woe:place_id":"V5WB1iWcBJlpb7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.183923,55.954197,12.19242,55.970592],
+  "geometry": {"alpha":0.00015,"bbox":[12.183922767639,55.954196929932,12.192420005798,55.970592498779],"coordinates":[[[[12.185018,55.970592],[12.185897,55.970436],[12.189331,55.960106],[12.19242,55.954197],[12.189502,55.957947],[12.183923,55.965942],[12.184651,55.970455],[12.185018,55.970592]]]],"created":1292550679,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/555753_20101217_4705b9bb4f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

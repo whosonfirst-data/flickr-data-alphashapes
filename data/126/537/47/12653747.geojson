@@ -1,0 +1,15 @@
+{
+  "id": 12653747,
+  "type": "Feature",
+  "properties": {
+    "name":"Tournavaux, France",
+    "placetype":"locality",
+    "woe:id":12653747,
+    "woe:name":"Tournavaux, France",
+    "woe:place_id":"jvNdNs.YA5rkhDWvsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.784771,49.87746,4.78491,49.877525],
+  "geometry": {"alpha":1e-05,"bbox":[4.7847709655762,49.877460479736,4.7849102020264,49.87752532959],"coordinates":[[[[4.78491,49.877487],[4.784889,49.87746],[4.784878,49.877464],[4.784824,49.877483],[4.784771,49.877518],[4.784803,49.877525],[4.78491,49.877487]]]],"created":1292445360,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12653747_20101215_bd9a9e8bda.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12645901,
+  "type": "Feature",
+  "properties": {
+    "name":"La Bouille, France",
+    "placetype":"locality",
+    "woe:id":12645901,
+    "woe:name":"La Bouille, France",
+    "woe:place_id":"_A1BjOKYA5pkhcseyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.925598,49.351185,0.936927,49.355766],
+  "geometry": {"alpha":1e-05,"bbox":[0.92559802532196,49.351184844971,0.93692702054977,49.355766296387],"coordinates":[[[[0.930061,49.351406],[0.925598,49.351185],[0.927143,49.355766],[0.929031,49.35342],[0.933151,49.352859],[0.934696,49.354874],[0.935211,49.353977],[0.936927,49.351574],[0.934352,49.352135],[0.932013,49.351898],[0.930061,49.351406]]]],"created":1292521348,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/12645901_20101216_2e76b66edf.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

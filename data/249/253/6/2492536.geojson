@@ -1,0 +1,15 @@
+{
+  "id": 2492536,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherwood, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2492536,
+    "woe:name":"Sherwood, Ohio, United States",
+    "woe:place_id":"PksQSP2bBZXFRh8n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.562454,41.2859,-84.552742,41.309406],
+  "geometry": {"alpha":0.00015,"bbox":[-84.562454223633,41.285900115967,-84.552742004395,41.309406280518],"coordinates":[[[[-84.552742,41.286015],[-84.553352,41.2859],[-84.553185,41.28968],[-84.562454,41.309406],[-84.552979,41.289761],[-84.552742,41.286015]]]],"created":1292501222,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2492536_20101216_972f63fa99.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

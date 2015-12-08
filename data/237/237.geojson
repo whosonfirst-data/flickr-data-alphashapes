@@ -1,0 +1,15 @@
+{
+  "id": 237,
+  "type": "Feature",
+  "properties": {
+    "name":"Cargill, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":237,
+    "woe:name":"Cargill, Ontario, Canada",
+    "woe:place_id":"GxrQddubAps",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.273605,44.212109,-81.266724,44.215553],
+  "geometry": {"alpha":0.00015,"bbox":[-81.27360534668,44.212108612061,-81.266723632812,44.215553283691],"coordinates":[[[[-81.273102,44.212402],[-81.267586,44.215553],[-81.266724,44.213062],[-81.272415,44.212109],[-81.273605,44.212219],[-81.273102,44.212402]]]],"created":1292550457,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/237_20101217_ec8bd604f5.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

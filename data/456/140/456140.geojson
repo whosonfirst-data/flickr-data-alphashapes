@@ -1,0 +1,15 @@
+{
+  "id": 456140,
+  "type": "Feature",
+  "properties": {
+    "name":"Cidade Gacha, Parana, Brazil",
+    "placetype":"locality",
+    "woe:id":456140,
+    "woe:name":"Cidade Gacha, Parana, Brazil",
+    "woe:place_id":"08fWmJmdBJqdcxU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-52.958221,-23.386538,-52.945431,-23.380314],
+  "geometry": {"alpha":0.00015,"bbox":[-52.958221435547,-23.38653755188,-52.945430755615,-23.380313873291],"coordinates":[[[[-52.956676,-23.380314],[-52.945431,-23.383228],[-52.949467,-23.386538],[-52.956848,-23.386223],[-52.958221,-23.385118],[-52.956676,-23.380314]]]],"created":1292546558,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/456140_20101217_b95fd74600.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

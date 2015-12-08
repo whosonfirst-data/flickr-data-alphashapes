@@ -1,0 +1,15 @@
+{
+  "id": 2500604,
+  "type": "Feature",
+  "properties": {
+    "name":"Stoufferstown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2500604,
+    "woe:name":"Stoufferstown, Pennsylvania, United States",
+    "woe:place_id":"YhOdEwWbBJzz6ACQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.633255,39.924351,-77.622231,39.932823],
+  "geometry": {"alpha":0.00015,"bbox":[-77.633255004883,39.924350738525,-77.622230529785,39.932823181152],"coordinates":[[[[-77.622231,39.925793],[-77.625786,39.924351],[-77.633255,39.928333],[-77.625008,39.932823],[-77.622231,39.925793]]]],"created":1292422923,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2500604_20101215_bb0fb0438b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

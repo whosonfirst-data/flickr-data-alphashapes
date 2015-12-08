@@ -1,0 +1,15 @@
+{
+  "id": 725645,
+  "type": "Feature",
+  "properties": {
+    "name":"Valverde, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":725645,
+    "woe:name":"Valverde, Sardinia, Italy",
+    "woe:place_id":"mB39xryeA5k61O8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.393511,40.547852,8.397159,40.551464],
+  "geometry": {"alpha":0.00015,"bbox":[8.3935108184814,40.5478515625,8.3971586227417,40.551464080811],"coordinates":[[[[8.396022,40.551437],[8.39644,40.551338],[8.397159,40.547852],[8.395614,40.548538],[8.393511,40.550819],[8.394477,40.551464],[8.396022,40.551437]]]],"created":1292518391,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/725645_20101216_96cb25388a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 111561,
+  "type": "Feature",
+  "properties": {
+    "name":"Agualeguas, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":111561,
+    "woe:name":"Agualeguas, Nuevo Leon, Mexico",
+    "woe:place_id":"pG.HFgWYAJ3cFfU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.544693,26.305851,-99.522911,26.319208],
+  "geometry": {"alpha":0.00015,"bbox":[-99.544692993164,26.305850982666,-99.522911071777,26.319208145142],"coordinates":[[[[-99.542656,26.318344],[-99.538162,26.315319],[-99.522911,26.305851],[-99.53965,26.314035],[-99.544693,26.319208],[-99.542656,26.318344]]]],"created":1292534465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/111561_20101216_d38e53264a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

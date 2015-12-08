@@ -1,0 +1,15 @@
+{
+  "id": 23396699,
+  "type": "Feature",
+  "properties": {
+    "name":"Mercier, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396699,
+    "woe:name":"Mercier, Quebec, Canada",
+    "woe:place_id":"vxht2g.bAp_37p3YoA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.769104,45.310863,-73.746101,45.337063],
+  "geometry": {"alpha":0.00015,"bbox":[-73.769104003906,45.310863494873,-73.746101379395,45.337062835693],"coordinates":[[[[-73.750275,45.316757],[-73.746101,45.310863],[-73.761108,45.313061],[-73.769104,45.324093],[-73.755341,45.337063],[-73.750275,45.316757]]]],"created":1292523614,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/23396699_20101216_03f0b6bf37.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

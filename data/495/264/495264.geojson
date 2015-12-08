@@ -1,0 +1,15 @@
+{
+  "id": 495264,
+  "type": "Feature",
+  "properties": {
+    "name":"Grodziec, Opole, Poland",
+    "placetype":"locality",
+    "woe:id":495264,
+    "woe:name":"Grodziec, Opole, Poland",
+    "woe:place_id":"IbNXe3KdCJnHung",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.279779,50.704449,18.286806,50.706024],
+  "geometry": {"alpha":0.00015,"bbox":[18.279779434204,50.704448699951,18.286806106567,50.706024169922],"coordinates":[[[[18.282183,50.704517],[18.28125,50.704449],[18.279779,50.70578],[18.286379,50.705982],[18.286551,50.705997],[18.286806,50.706024],[18.282183,50.704517]]]],"created":1292465828,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/495264_20101216_3ca5f5466f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

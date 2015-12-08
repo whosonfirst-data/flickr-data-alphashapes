@@ -1,0 +1,15 @@
+{
+  "id": 23394401,
+  "type": "Feature",
+  "properties": {
+    "name":"Lac-Simon, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394401,
+    "woe:name":"Lac-Simon, Quebec, Canada",
+    "woe:place_id":"VK3yqXKbAp_q25GJxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.095543,45.89613,-75.06945,45.912945],
+  "geometry": {"alpha":0.00015,"bbox":[-75.095542907715,45.896129608154,-75.069450378418,45.912944793701],"coordinates":[[[[-75.090691,45.903984],[-75.095543,45.89613],[-75.093079,45.905369],[-75.087433,45.912945],[-75.06945,45.912518],[-75.090691,45.903984]]]],"created":1292529433,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23394401_20101216_42809896a8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

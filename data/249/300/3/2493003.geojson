@@ -1,0 +1,15 @@
+{
+  "id": 2493003,
+  "type": "Feature",
+  "properties": {
+    "name":"Shoccoe, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2493003,
+    "woe:name":"Shoccoe, Mississippi, United States",
+    "woe:place_id":"8.oYL6.bBZUvdLJ0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.868332,32.579762,-89.853745,32.59296],
+  "geometry": {"alpha":0.00015,"bbox":[-89.86833190918,32.579761505127,-89.853744506836,32.592960357666],"coordinates":[[[[-89.85894,32.585026],[-89.861275,32.583778],[-89.868332,32.579762],[-89.860695,32.585384],[-89.853745,32.59296],[-89.85894,32.585026]]]],"created":1239628082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3645/shapefiles/2493003_20090413_d093ed9999.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

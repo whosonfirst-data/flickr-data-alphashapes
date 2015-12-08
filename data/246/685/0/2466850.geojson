@@ -1,0 +1,15 @@
+{
+  "id": 2466850,
+  "type": "Feature",
+  "properties": {
+    "name":"Ottoville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2466850,
+    "woe:name":"Ottoville, Ohio, United States",
+    "woe:place_id":"fSXCJAmbBZrftBsv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.341743,40.933147,-84.338264,40.935169],
+  "geometry": {"alpha":0.00015,"bbox":[-84.341743469238,40.93314743042,-84.338264465332,40.935169219971],"coordinates":[[[[-84.338341,40.935169],[-84.338264,40.935123],[-84.340675,40.933704],[-84.341743,40.933147],[-84.340698,40.933723],[-84.338341,40.935169]]]],"created":1292518707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2466850_20101216_6559868def.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

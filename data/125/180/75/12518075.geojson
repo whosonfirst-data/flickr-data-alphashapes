@@ -1,0 +1,15 @@
+{
+  "id": 12518075,
+  "type": "Feature",
+  "properties": {
+    "name":"Dunsfold Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518075,
+    "woe:name":"Dunsfold Airport, United Kingdom",
+    "woe:place_id":"VCOkZY6YA5l1unmpTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.539223,51.112682,-0.533008,51.119308],
+  "geometry": {"alpha":1e-05,"bbox":[-0.53922301530838,51.112682342529,-0.53300797939301,51.11930847168],"coordinates":[[[[-0.535583,51.119308],[-0.533008,51.117531],[-0.535326,51.116722],[-0.536098,51.112682],[-0.539223,51.115704],[-0.535583,51.119308]]]],"created":1292456959,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12518075_20101215_a6ee066aa6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

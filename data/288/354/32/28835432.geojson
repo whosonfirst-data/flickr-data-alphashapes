@@ -1,0 +1,15 @@
+{
+  "id": 28835432,
+  "type": "Feature",
+  "properties": {
+    "name":"Berrington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28835432,
+    "woe:name":"Berrington, England, United Kingdom",
+    "woe:place_id":"cpprdP6bCZS9h0Dhhw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.726283,52.266869,-2.714395,52.272594],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7262830734253,52.266868591309,-2.7143950462341,52.272594451904],"coordinates":[[[[-2.720833,52.26804],[-2.726283,52.266869],[-2.719631,52.272358],[-2.714395,52.272594],[-2.717914,52.269524],[-2.720833,52.26804]]]],"created":1292538597,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/28835432_20101216_d1115a0bd3.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

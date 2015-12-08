@@ -1,0 +1,15 @@
+{
+  "id": 691526,
+  "type": "Feature",
+  "properties": {
+    "name":"Scharzfeld, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":691526,
+    "woe:name":"Scharzfeld, Lower Saxony, Germany",
+    "woe:place_id":"X0LisCGfCJ3Ul5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.408666,51.621819,10.419931,51.648567],
+  "geometry": {"alpha":0.00015,"bbox":[10.408665657043,51.62181854248,10.419931411743,51.648567199707],"coordinates":[[[[10.408666,51.629166],[10.41388,51.648567],[10.419931,51.640579],[10.41727,51.626621],[10.414286,51.621819],[10.40894,51.628841],[10.408666,51.629166]]]],"created":1292498942,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/691526_20101216_eeb085ab97.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

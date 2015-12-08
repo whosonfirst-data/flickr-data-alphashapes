@@ -1,0 +1,15 @@
+{
+  "id": 556203,
+  "type": "Feature",
+  "properties": {
+    "name":"Osted, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":556203,
+    "woe:name":"Osted, Sjaelland, Denmark",
+    "woe:place_id":"DszfgrKcBJrPvxs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.95962,55.562138,11.963553,55.564121],
+  "geometry": {"alpha":0.00015,"bbox":[11.959620475769,55.56213760376,11.96355342865,55.564121246338],"coordinates":[[[[11.95968,55.56356],[11.95966,55.563709],[11.95962,55.564121],[11.963553,55.562138],[11.9597,55.563419],[11.95968,55.56356]]]],"created":1292546325,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/556203_20101217_d0379fc7c1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

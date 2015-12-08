@@ -1,0 +1,15 @@
+{
+  "id": 12515661,
+  "type": "Feature",
+  "properties": {
+    "name":"Isla Grande Airport, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":12515661,
+    "woe:name":"Isla Grande Airport, Puerto Rico",
+    "woe:place_id":"rtZVpfmYA5mRx9DtaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.101128,18.456018,-66.095665,18.458166],
+  "geometry": {"alpha":1e-05,"bbox":[-66.101127624512,18.456018447876,-66.095664978027,18.458166122437],"coordinates":[[[[-66.097733,18.456018],[-66.098213,18.456161],[-66.101128,18.456244],[-66.099243,18.457302],[-66.096504,18.458166],[-66.095665,18.457947],[-66.097733,18.456018]]]],"created":1292494327,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12515661_20101216_050cca58c6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

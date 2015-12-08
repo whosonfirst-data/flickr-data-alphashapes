@@ -1,0 +1,15 @@
+{
+  "id": 2371409,
+  "type": "Feature",
+  "properties": {
+    "name":"Buena Vista, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2371409,
+    "woe:name":"Buena Vista, Georgia, United States",
+    "woe:place_id":"wrA_.pqbApsmuPRe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.533958,32.307304,-84.51757,32.318745],
+  "geometry": {"alpha":0.00015,"bbox":[-84.533958435059,32.307304382324,-84.517570495605,32.318744659424],"coordinates":[[[[-84.518555,32.318745],[-84.51757,32.318386],[-84.521828,32.307304],[-84.533958,32.318546],[-84.520226,32.318329],[-84.518555,32.318745]]]],"created":1292532511,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2371409_20101216_7e1c2c4835.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

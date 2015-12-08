@@ -1,0 +1,15 @@
+{
+  "id": 160818,
+  "type": "Feature",
+  "properties": {
+    "name":"Coabey, Jayuya, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":160818,
+    "woe:name":"Coabey, Jayuya, Puerto Rico",
+    "woe:place_id":"ias9vReYB5wqWRE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.573196,18.207052,-66.55381,18.215042],
+  "geometry": {"alpha":0.00015,"bbox":[-66.573196411133,18.207052230835,-66.553810119629,18.215042114258],"coordinates":[[[[-66.56559,18.213968],[-66.560829,18.209579],[-66.55381,18.207052],[-66.561356,18.208481],[-66.573196,18.215042],[-66.56559,18.213968]]]],"created":1292546453,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/160818_20101217_d49e6d849b.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

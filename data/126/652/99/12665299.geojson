@@ -1,0 +1,15 @@
+{
+  "id": 12665299,
+  "type": "Feature",
+  "properties": {
+    "name":"Puget-Ville, France",
+    "placetype":"locality",
+    "woe:id":12665299,
+    "woe:name":"Puget-Ville, France",
+    "woe:place_id":"7.CsMIWYA5rdnPwXtg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.1695,43.271667,6.175666,43.273499],
+  "geometry": {"alpha":1e-05,"bbox":[6.169499874115,43.271667480469,6.1756658554077,43.273498535156],"coordinates":[[[[6.175333,43.273499],[6.175666,43.271667],[6.175,43.271832],[6.171,43.271667],[6.1695,43.272499],[6.171666,43.273167],[6.175333,43.273499]]]],"created":1292546827,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12665299_20101217_9cf85b1432.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

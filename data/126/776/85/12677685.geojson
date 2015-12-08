@@ -1,0 +1,15 @@
+{
+  "id": 12677685,
+  "type": "Feature",
+  "properties": {
+    "name":"Fosdinovo, Italy",
+    "placetype":"locality",
+    "woe:id":12677685,
+    "woe:name":"Fosdinovo, Italy",
+    "woe:place_id":"HHHYjZ2YA5rrg2sU_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.015926,44.132725,10.021934,44.138485],
+  "geometry": {"alpha":1e-05,"bbox":[10.015926361084,44.132724761963,10.021933555603,44.138484954834],"coordinates":[[[[10.019102,44.135059],[10.021934,44.138485],[10.019241,44.134716],[10.016913,44.132725],[10.015926,44.133312],[10.017127,44.135036],[10.019102,44.135059]]]],"created":1292544948,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12677685_20101217_93a0ed286f.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

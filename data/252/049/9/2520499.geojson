@@ -1,0 +1,15 @@
+{
+  "id": 2520499,
+  "type": "Feature",
+  "properties": {
+    "name":"Wildwood Springs, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2520499,
+    "woe:name":"Wildwood Springs, Georgia, United States",
+    "woe:place_id":"Un588k6bBJ4E2UUa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.412338,34.060764,-84.402756,34.074417],
+  "geometry": {"alpha":0.00015,"bbox":[-84.412338256836,34.060764312744,-84.402755737305,34.074417114258],"coordinates":[[[[-84.410751,34.065212],[-84.412338,34.074417],[-84.409462,34.068466],[-84.403069,34.063858],[-84.402756,34.060764],[-84.410751,34.065212]]]],"created":1248096130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2539/shapefiles/2520499_20090720_082cf48dd4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

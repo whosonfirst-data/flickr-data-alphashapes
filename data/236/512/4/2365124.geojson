@@ -1,0 +1,15 @@
+{
+  "id": 2365124,
+  "type": "Feature",
+  "properties": {
+    "name":"Bladenboro, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2365124,
+    "woe:name":"Bladenboro, North Carolina, United States",
+    "woe:place_id":"jIXlS86bApqtJEYJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.796272,34.512093,-78.786674,34.54538],
+  "geometry": {"alpha":0.00015,"bbox":[-78.796272277832,34.512092590332,-78.786674499512,34.545379638672],"coordinates":[[[[-78.792831,34.54538],[-78.786674,34.53587],[-78.795425,34.532616],[-78.792763,34.512093],[-78.796272,34.531925],[-78.792831,34.54538]]]],"created":1292535241,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2365124_20101216_33223cba20.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105511,
+  "type": "Feature",
+  "properties": {
+    "name":"Seaham, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1105511,
+    "woe:name":"Seaham, New South Wales, Australia",
+    "woe:place_id":"SnR4CA2YAJxaj0k5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.722488,-32.665825,151.730453,-32.648193],
+  "geometry": {"alpha":0.00015,"bbox":[151.72248840332,-32.665824890137,151.73045349121,-32.648193359375],"coordinates":[[[[151.72702,-32.665825],[151.722488,-32.663029],[151.722733,-32.648193],[151.727432,-32.661343],[151.730453,-32.66539],[151.72702,-32.665825]]]],"created":1292447924,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/1105511_20101215_a548bd8ef9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

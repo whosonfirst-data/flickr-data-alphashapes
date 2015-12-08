@@ -1,0 +1,15 @@
+{
+  "id": 2396140,
+  "type": "Feature",
+  "properties": {
+    "name":"East Schodack, New York, United States",
+    "placetype":"locality",
+    "woe:id":2396140,
+    "woe:name":"East Schodack, New York, United States",
+    "woe:place_id":"YyxaBMabApV8xDOa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.690453,42.539421,-73.67511,42.550251],
+  "geometry": {"alpha":0.00015,"bbox":[-73.690452575684,42.539421081543,-73.675109863281,42.55025100708],"coordinates":[[[[-73.685562,42.546757],[-73.67511,42.543659],[-73.680664,42.543247],[-73.690453,42.539421],[-73.689423,42.550251],[-73.685562,42.546757]]]],"created":1292459707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2396140_20101216_4eccb5a052.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

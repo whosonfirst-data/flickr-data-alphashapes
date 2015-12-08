@@ -1,0 +1,15 @@
+{
+  "id": 972865,
+  "type": "Feature",
+  "properties": {
+    "name":"Lamorteau, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":972865,
+    "woe:name":"Lamorteau, Luxemburg, Belgium",
+    "woe:place_id":"xDbCyCOQBp7E1vQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.478229,49.522408,5.482714,49.527187],
+  "geometry": {"alpha":0.00015,"bbox":[5.4782290458679,49.522407531738,5.482714176178,49.527187347412],"coordinates":[[[[5.478888,49.52639],[5.478944,49.526409],[5.482714,49.527187],[5.478765,49.522408],[5.478229,49.525181],[5.478529,49.525841],[5.478888,49.52639]]]],"created":1292522039,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/972865_20101216_030ddf872f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12689937,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Fayos, Spain",
+    "placetype":"locality",
+    "woe:id":12689937,
+    "woe:name":"Los Fayos, Spain",
+    "woe:place_id":"Ii6feVWYA5rT2s4xnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.786823,41.875504,-1.783379,41.880547],
+  "geometry": {"alpha":1e-05,"bbox":[-1.7868230342865,41.875503540039,-1.7833789587021,41.880546569824],"coordinates":[[[[-1.784591,41.87825],[-1.783379,41.880547],[-1.783604,41.878628],[-1.783733,41.876717],[-1.786823,41.875504],[-1.784591,41.87825]]]],"created":1292471227,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12689937_20101216_8af04e5ef8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

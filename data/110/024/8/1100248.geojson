@@ -1,0 +1,15 @@
+{
+  "id": 1100248,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellata, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100248,
+    "woe:name":"Bellata, New South Wales, Australia",
+    "woe:place_id":"AFluNqaYAJzgSdqI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.78923,-29.921614,149.792313,-29.914619],
+  "geometry": {"alpha":0.00015,"bbox":[149.78923034668,-29.921613693237,149.79231262207,-29.914619445801],"coordinates":[[[[149.78923,-29.916553],[149.790253,-29.915382],[149.791199,-29.914619],[149.792236,-29.916553],[149.792313,-29.92057],[149.790436,-29.921614],[149.78923,-29.916553]]]],"created":1292468041,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/1100248_20101216_e652c39531.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20141520,
+  "type": "Feature",
+  "properties": {
+    "name":"San Mamete, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20141520,
+    "woe:name":"San Mamete, Lombardy, Italy",
+    "woe:place_id":"IKOBki6bAZ3VwC6AGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.049386,46.024166,9.058367,46.026348],
+  "geometry": {"alpha":0.00015,"bbox":[9.0493860244751,46.024166107178,9.0583667755127,46.026348114014],"coordinates":[[[[9.053166,46.024166],[9.051854,46.0243],[9.049386,46.026348],[9.058367,46.026192],[9.056382,46.025337],[9.053166,46.024166]]]],"created":1292471524,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20141520_20101216_2fd47e62e9.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

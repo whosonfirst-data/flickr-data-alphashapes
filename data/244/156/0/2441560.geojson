@@ -1,0 +1,15 @@
+{
+  "id": 2441560,
+  "type": "Feature",
+  "properties": {
+    "name":"Long Island, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2441560,
+    "woe:name":"Long Island, Tennessee, United States",
+    "woe:place_id":"j5OnxqObBZh4A1ut",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.637825,34.984306,-85.588531,35.009472],
+  "geometry": {"alpha":0.0001875,"bbox":[-85.637825012207,34.984306335449,-85.588531494141,35.009471893311],"coordinates":[[[[-85.605469,34.984722],[-85.610939,34.984306],[-85.637825,34.984932],[-85.611351,34.990978],[-85.619286,35.004814],[-85.605125,35.009472],[-85.588585,34.998035],[-85.588531,34.998001],[-85.604485,34.985901],[-85.605469,34.984722]]]],"created":1292526476,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2441560_20101216_c10c4bd59e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

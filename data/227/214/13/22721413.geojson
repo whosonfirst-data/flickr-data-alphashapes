@@ -1,0 +1,15 @@
+{
+  "id": 22721413,
+  "type": "Feature",
+  "properties": {
+    "name":"Silverdale, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22721413,
+    "woe:name":"Silverdale, New South Wales, Australia",
+    "woe:place_id":"b__PypibA5v_rjvOjg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.623077,-33.947559,150.631821,-33.922279],
+  "geometry": {"alpha":0.00015,"bbox":[150.62307739258,-33.947559356689,150.63182067871,-33.92227935791],"coordinates":[[[[150.623077,-33.93396],[150.631821,-33.922279],[150.630661,-33.931316],[150.626251,-33.94289],[150.624451,-33.947559],[150.62384,-33.938618],[150.623077,-33.93396]]]],"created":1292551055,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/22721413_20101217_585b188520.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

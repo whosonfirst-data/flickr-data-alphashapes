@@ -1,0 +1,15 @@
+{
+  "id": 2471375,
+  "type": "Feature",
+  "properties": {
+    "name":"Phoenix, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2471375,
+    "woe:name":"Phoenix, Georgia, United States",
+    "woe:place_id":"0Lcb906bBZtmZtnr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.287865,33.333298,-83.285782,33.347305],
+  "geometry": {"alpha":0.00015,"bbox":[-83.287864685059,33.333297729492,-83.285781860352,33.347305297852],"coordinates":[[[[-83.286148,33.34623],[-83.285782,33.344955],[-83.287201,33.333298],[-83.287544,33.343765],[-83.287712,33.345486],[-83.287865,33.347305],[-83.286148,33.34623]]]],"created":1292531982,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2471375_20101216_eb97dc0dc2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

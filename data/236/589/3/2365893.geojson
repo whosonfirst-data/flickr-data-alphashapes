@@ -1,0 +1,15 @@
+{
+  "id": 2365893,
+  "type": "Feature",
+  "properties": {
+    "name":"Blue Ridge Shores, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2365893,
+    "woe:name":"Blue Ridge Shores, Virginia, United States",
+    "woe:place_id":"XlNnIaObApq10oVJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.016579,38.107578,-78.010994,38.116291],
+  "geometry": {"alpha":0.00015,"bbox":[-78.016578674316,38.107578277588,-78.01099395752,38.116291046143],"coordinates":[[[[-78.015457,38.107883],[-78.016029,38.10759],[-78.01606,38.10759],[-78.016579,38.107578],[-78.010994,38.116291],[-78.015457,38.107883]]]],"created":1292547361,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/2365893_20101217_ab1a62e1a7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

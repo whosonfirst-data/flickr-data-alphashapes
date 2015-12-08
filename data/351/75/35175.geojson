@@ -1,0 +1,15 @@
+{
+  "id": 35175,
+  "type": "Feature",
+  "properties": {
+    "name":"South Bank, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35175,
+    "woe:name":"South Bank, England, United Kingdom",
+    "woe:place_id":"ENoOihOaBJ3gOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.18103,54.56609,-1.160109,54.587582],
+  "geometry": {"alpha":0.00015,"bbox":[-1.1810300350189,54.566089630127,-1.1601090431213,54.587581634521],"coordinates":[[[[-1.166632,54.582943],[-1.160109,54.572411],[-1.178283,54.56609],[-1.18103,54.582012],[-1.168928,54.586349],[-1.16764,54.587582],[-1.166632,54.582943]]]],"created":1292532113,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/35175_20101216_6bcb9e3717.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

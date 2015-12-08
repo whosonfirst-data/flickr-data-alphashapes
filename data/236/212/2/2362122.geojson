@@ -1,0 +1,15 @@
+{
+  "id": 2362122,
+  "type": "Feature",
+  "properties": {
+    "name":"Belltown, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2362122,
+    "woe:name":"Belltown, Delaware, United States",
+    "woe:place_id":"o5ctWNibAppIlMBG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.181168,38.743122,-75.175026,38.748661],
+  "geometry": {"alpha":0.00015,"bbox":[-75.181167602539,38.74312210083,-75.175025939941,38.74866104126],"coordinates":[[[[-75.177834,38.743156],[-75.181168,38.746399],[-75.181122,38.746429],[-75.177803,38.748661],[-75.175026,38.744244],[-75.177719,38.743122],[-75.177834,38.743156]]]],"created":1292503686,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2362122_20101216_b184503de4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

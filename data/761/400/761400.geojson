@@ -1,0 +1,15 @@
+{
+  "id": 761400,
+  "type": "Feature",
+  "properties": {
+    "name":"Garcia, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":761400,
+    "woe:name":"Garcia, Catalonia, Spain",
+    "woe:place_id":"SM_emw2eB51dXWI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.63446,41.119324,0.657978,41.145664],
+  "geometry": {"alpha":0.00015,"bbox":[0.63445997238159,41.119323730469,0.65797799825668,41.145664215088],"coordinates":[[[[0.649909,41.128506],[0.63446,41.119324],[0.63755,41.128891],[0.646905,41.141983],[0.657978,41.145664],[0.649738,41.137814],[0.649909,41.128506]]]],"created":1292540244,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/761400_20101216_1388d12920.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12676369,
+  "type": "Feature",
+  "properties": {
+    "name":"San Genesio Atesino, Italy",
+    "placetype":"locality",
+    "woe:id":12676369,
+    "woe:name":"San Genesio Atesino, Italy",
+    "woe:place_id":"tS2dgy6YA5q8ChK2nA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.281386,46.584225,11.283684,46.588402],
+  "geometry": {"alpha":1e-05,"bbox":[11.281386375427,46.584224700928,11.283683776855,46.588401794434],"coordinates":[[[[11.283276,46.586864],[11.283684,46.588402],[11.283412,46.586864],[11.282408,46.584225],[11.281386,46.584904],[11.283276,46.586864]]]],"created":1292534100,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12676369_20101216_67c98d24b0.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

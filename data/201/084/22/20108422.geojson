@@ -1,0 +1,15 @@
+{
+  "id": 20108422,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20108422,
+    "woe:name":"San Pietro, Lombardy, Italy",
+    "woe:place_id":"Q7qWosibAZ2XQT.OPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.3745,46.454357,10.385856,46.461746],
+  "geometry": {"alpha":0.00015,"bbox":[10.374500274658,46.454357147217,10.385855674744,46.46174621582],"coordinates":[[[[10.38414,46.461746],[10.384311,46.459618],[10.385856,46.454357],[10.375471,46.456486],[10.3745,46.460499],[10.38414,46.461746]]]],"created":1292543857,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/20108422_20101216_94d8a9292b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

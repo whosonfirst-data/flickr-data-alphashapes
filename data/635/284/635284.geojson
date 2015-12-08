@@ -1,0 +1,15 @@
+{
+  "id": 635284,
+  "type": "Feature",
+  "properties": {
+    "name":"Anzenbach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":635284,
+    "woe:name":"Anzenbach, Bavaria, Germany",
+    "woe:place_id":"aiEU3TGfApnfLnE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.002533,47.639175,13.028583,47.654671],
+  "geometry": {"alpha":0.00015,"bbox":[13.002532958984,47.639175415039,13.028582572937,47.654670715332],"coordinates":[[[[13.003091,47.653694],[13.002533,47.654671],[13.011503,47.650124],[13.028583,47.64336],[13.008263,47.639175],[13.003671,47.643505],[13.003091,47.653694]]]],"created":1292505121,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/635284_20101216_1080ba29c3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

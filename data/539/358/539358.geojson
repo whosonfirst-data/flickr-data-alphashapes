@@ -1,0 +1,15 @@
+{
+  "id": 539358,
+  "type": "Feature",
+  "properties": {
+    "name":"Eichhorn, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":539358,
+    "woe:name":"Eichhorn, Carinthia, Austria",
+    "woe:place_id":"h4wbyT2cApXgIZ4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.867221,47.007534,12.870182,47.011696],
+  "geometry": {"alpha":0.00015,"bbox":[12.867220878601,47.0075340271,12.870182037354,47.011695861816],"coordinates":[[[[12.868788,47.011692],[12.869244,47.011696],[12.869816,47.011395],[12.870182,47.007534],[12.868938,47.007591],[12.867221,47.011219],[12.868788,47.011692]]]],"created":1292525228,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/539358_20101216_aa63a2c176.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

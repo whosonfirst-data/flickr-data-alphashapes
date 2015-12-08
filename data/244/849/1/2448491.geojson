@@ -1,0 +1,15 @@
+{
+  "id": 2448491,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadow, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2448491,
+    "woe:name":"Meadow, Utah, United States",
+    "woe:place_id":"AUj9qhCbBZhYJZLC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.421806,38.885921,-112.406189,38.90139],
+  "geometry": {"alpha":0.00015,"bbox":[-112.42180633545,38.885921478271,-112.40618896484,38.901390075684],"coordinates":[[[[-112.410133,38.894104],[-112.406189,38.885921],[-112.412712,38.888893],[-112.421806,38.899616],[-112.411392,38.90139],[-112.410133,38.894104]]]],"created":1292520059,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2448491_20101216_74c99d078b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

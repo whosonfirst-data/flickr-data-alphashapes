@@ -1,0 +1,15 @@
+{
+  "id": 12678181,
+  "type": "Feature",
+  "properties": {
+    "name":"Castel di Tora, Italy",
+    "placetype":"locality",
+    "woe:id":12678181,
+    "woe:name":"Castel di Tora, Italy",
+    "woe:place_id":"Ed_i89eYA5pB.x9apA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.957172,42.213261,12.966356,42.216599],
+  "geometry": {"alpha":1e-05,"bbox":[12.957172393799,42.213260650635,12.966356277466,42.216598510742],"coordinates":[[[[12.964897,42.215931],[12.96112,42.213261],[12.957172,42.216568],[12.96318,42.216187],[12.966356,42.216599],[12.964897,42.215931]]]],"created":1248001084,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/12678181_20090719_a55f3ec0ec.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

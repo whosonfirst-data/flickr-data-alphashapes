@@ -1,0 +1,15 @@
+{
+  "id": 2461863,
+  "type": "Feature",
+  "properties": {
+    "name":"Northbrook, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2461863,
+    "woe:name":"Northbrook, Tennessee, United States",
+    "woe:place_id":"ZNp2wpKbBZobWStT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.981903,36.050575,-83.981766,36.050701],
+  "geometry": {"alpha":0.00015,"bbox":[-83.981903076172,36.050575256348,-83.98176574707,36.050701141357],"coordinates":[[[[-83.981842,36.050575],[-83.981903,36.050583],[-83.981842,36.050701],[-83.981789,36.050686],[-83.981766,36.050659],[-83.981842,36.050575]]]],"created":1248007086,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2653/shapefiles/2461863_20090719_782e7f5c26.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

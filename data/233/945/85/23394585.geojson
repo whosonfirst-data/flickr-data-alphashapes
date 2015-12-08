@@ -1,0 +1,15 @@
+{
+  "id": 23394585,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Liboire, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394585,
+    "woe:name":"St.-Liboire, Quebec, Canada",
+    "woe:place_id":"4cACLaWbAp_VLg9Ttw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.764381,45.648438,-72.755569,45.655209],
+  "geometry": {"alpha":0.00015,"bbox":[-72.764381408691,45.6484375,-72.755569458008,45.655208587646],"coordinates":[[[[-72.756615,45.655209],[-72.755569,45.650864],[-72.761353,45.648438],[-72.764381,45.650414],[-72.759575,45.654137],[-72.756615,45.655209]]]],"created":1292535401,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/23394585_20101216_c161fc6fbc.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

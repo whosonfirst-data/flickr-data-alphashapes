@@ -1,0 +1,15 @@
+{
+  "id": 2395710,
+  "type": "Feature",
+  "properties": {
+    "name":"East Hills, New York, United States",
+    "placetype":"locality",
+    "woe:id":2395710,
+    "woe:name":"East Hills, New York, United States",
+    "woe:place_id":"KqVY9BKbApWFob8E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.641617,40.791607,-73.606285,40.815773],
+  "geometry": {"alpha":0.00015,"bbox":[-73.641616821289,40.791606903076,-73.606285095215,40.815773010254],"coordinates":[[[[-73.623589,40.791607],[-73.641617,40.791916],[-73.636208,40.801743],[-73.629341,40.809456],[-73.606285,40.815773],[-73.61953,40.801121],[-73.623589,40.791607]]]],"created":1292544717,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2395710_20101217_171e0a2c61.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

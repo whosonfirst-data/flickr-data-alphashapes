@@ -1,0 +1,15 @@
+{
+  "id": 969060,
+  "type": "Feature",
+  "properties": {
+    "name":"Douvrain, Hainault, Belgium",
+    "placetype":"locality",
+    "woe:id":969060,
+    "woe:name":"Douvrain, Hainault, Belgium",
+    "woe:place_id":"1ib8X.2QB5WYgR4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.840666,50.469501,3.8425,50.470001],
+  "geometry": {"alpha":0.00015,"bbox":[3.8406660556793,50.469501495361,3.8424999713898,50.470001220703],"coordinates":[[[[3.840666,50.469501],[3.840666,50.469666],[3.8425,50.470001],[3.841666,50.469666],[3.841166,50.469501],[3.840666,50.469501]]]],"created":1292456303,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/969060_20101215_6e2f8ff7e3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

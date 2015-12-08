@@ -1,0 +1,15 @@
+{
+  "id": 2226,
+  "type": "Feature",
+  "properties": {
+    "name":"Kenaston, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2226,
+    "woe:name":"Kenaston, Saskatchewan, Canada",
+    "woe:place_id":"SWvgR2ybA57z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.277931,51.49934,-106.266846,51.512814],
+  "geometry": {"alpha":0.00015,"bbox":[-106.27793121338,51.499340057373,-106.26684570312,51.512813568115],"coordinates":[[[[-106.271736,51.499634],[-106.272636,51.4995],[-106.274612,51.49934],[-106.277931,51.503044],[-106.266846,51.512814],[-106.270248,51.502132],[-106.271736,51.499634]]]],"created":1292465169,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2226_20101216_978dca9958.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

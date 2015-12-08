@@ -1,0 +1,15 @@
+{
+  "id": 2544,
+  "type": "Feature",
+  "properties": {
+    "name":"Rivers, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2544,
+    "woe:name":"Rivers, Manitoba, Canada",
+    "woe:place_id":"uHO_BdybBJi8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.244003,50.027832,-100.231659,50.034981],
+  "geometry": {"alpha":0.00015,"bbox":[-100.2440032959,50.02783203125,-100.23165893555,50.034980773926],"coordinates":[[[[-100.235802,50.028751],[-100.244003,50.027832],[-100.236855,50.034981],[-100.231659,50.030045],[-100.235802,50.028751]]]],"created":1292522688,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2544_20101216_cc1597a3bb.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

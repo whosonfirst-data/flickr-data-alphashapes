@@ -1,0 +1,15 @@
+{
+  "id": 12627702,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Herschberg, Germany",
+    "placetype":"locality",
+    "woe:id":12627702,
+    "woe:name":"Gemeinde Herschberg, Germany",
+    "woe:place_id":"hpwjxa6YA5rL4SbSzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.572326,49.290928,7.574215,49.294567],
+  "geometry": {"alpha":1e-05,"bbox":[7.5723261833191,49.290927886963,7.5742149353027,49.294567108154],"coordinates":[[[[7.574043,49.294567],[7.574215,49.294121],[7.572326,49.290928],[7.573614,49.294064],[7.573872,49.294346],[7.574043,49.294567]]]],"created":1292537422,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12627702_20101216_9a3f06b63a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

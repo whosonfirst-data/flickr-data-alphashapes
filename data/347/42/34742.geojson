@@ -1,0 +1,15 @@
+{
+  "id": 34742,
+  "type": "Feature",
+  "properties": {
+    "name":"Shotton, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":34742,
+    "woe:name":"Shotton, Wales, United Kingdom",
+    "woe:place_id":"9BYYCQSaBZukAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.047826,53.210361,-3.030767,53.230289],
+  "geometry": {"alpha":0.00015,"bbox":[-3.047826051712,53.210361480713,-3.0307669639587,53.230289459229],"coordinates":[[[[-3.038186,53.21394],[-3.047826,53.210361],[-3.045616,53.230289],[-3.030767,53.21991],[-3.033127,53.217739],[-3.034329,53.216183],[-3.038186,53.21394]]]],"created":1292523861,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/34742_20101216_97ab0190ec.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

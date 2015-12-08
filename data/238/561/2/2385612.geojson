@@ -1,0 +1,15 @@
+{
+  "id": 2385612,
+  "type": "Feature",
+  "properties": {
+    "name":"Cottonville, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2385612,
+    "woe:name":"Cottonville, Alabama, United States",
+    "woe:place_id":"9ymR1VWbApTUw8Ye",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.336914,34.448296,-86.335014,34.457516],
+  "geometry": {"alpha":0.00015,"bbox":[-86.3369140625,34.448295593262,-86.335014343262,34.457515716553],"coordinates":[[[[-86.336082,34.448296],[-86.336914,34.454201],[-86.335236,34.457516],[-86.335014,34.449734],[-86.335434,34.448582],[-86.336082,34.448296]]]],"created":1292485685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2385612_20101216_213dafec44.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

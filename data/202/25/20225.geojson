@@ -1,0 +1,15 @@
+{
+  "id": 20225,
+  "type": "Feature",
+  "properties": {
+    "name":"Fishbourne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20225,
+    "woe:name":"Fishbourne, England, United Kingdom",
+    "woe:place_id":"0T60OPabAZ6xng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.829896,50.819519,-0.803589,50.840851],
+  "geometry": {"alpha":0.00015,"bbox":[-0.82989597320557,50.819519042969,-0.80358898639679,50.840850830078],"coordinates":[[[[-0.819296,50.839767],[-0.812172,50.840851],[-0.803589,50.837872],[-0.805864,50.822433],[-0.815434,50.819519],[-0.824317,50.832615],[-0.829896,50.836842],[-0.823459,50.839878],[-0.819296,50.839767]]]],"created":1292459056,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/20225_20101216_5f330b9ccb.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

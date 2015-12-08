@@ -1,0 +1,15 @@
+{
+  "id": 3722,
+  "type": "Feature",
+  "properties": {
+    "name":"Petit-Cap, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3722,
+    "woe:name":"Petit-Cap, Quebec, Canada",
+    "woe:place_id":"HmOsfJCaBp4W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.456703,49.02301,-64.435844,49.038712],
+  "geometry": {"alpha":0.00015,"bbox":[-64.456703186035,49.023010253906,-64.435844421387,49.038711547852],"coordinates":[[[[-64.435844,49.025486],[-64.442879,49.02301],[-64.456703,49.038712],[-64.437904,49.028416],[-64.435844,49.025486]]]],"created":1292455630,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/3722_20101215_4753a0cae2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

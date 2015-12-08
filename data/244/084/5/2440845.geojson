@@ -1,0 +1,15 @@
+{
+  "id": 2440845,
+  "type": "Feature",
+  "properties": {
+    "name":"Lockport, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2440845,
+    "woe:name":"Lockport, Louisiana, United States",
+    "woe:place_id":"0xlHM1WbBZiyi0UB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.544113,29.64266,-90.537247,29.648773],
+  "geometry": {"alpha":0.00015,"bbox":[-90.54411315918,29.642660140991,-90.537246704102,29.648773193359],"coordinates":[[[[-90.539383,29.648773],[-90.538376,29.64826],[-90.538055,29.647085],[-90.537247,29.64266],[-90.544113,29.64296],[-90.539383,29.648773]]]],"created":1248071527,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3512/shapefiles/2440845_20090720_ce2d19c6c4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

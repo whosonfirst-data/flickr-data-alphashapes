@@ -1,0 +1,15 @@
+{
+  "id": 2357520,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2357520,
+    "woe:name":"Austin, Montana, United States",
+    "woe:place_id":"2RfeYaibAplm8W9r",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.245682,46.644382,-112.218048,46.647724],
+  "geometry": {"alpha":0.00015,"bbox":[-112.2456817627,46.644382476807,-112.2180480957,46.647724151611],"coordinates":[[[[-112.229225,46.647724],[-112.218048,46.645412],[-112.229233,46.647606],[-112.245682,46.644382],[-112.229225,46.647724]]]],"created":1292485806,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2357520_20101216_8628d9fa15.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

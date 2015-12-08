@@ -1,0 +1,15 @@
+{
+  "id": 12634628,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Finning, Germany",
+    "placetype":"locality",
+    "woe:id":12634628,
+    "woe:name":"Gemeinde Finning, Germany",
+    "woe:place_id":"iQ1BILiYA5phtkZKbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.018738,48.017807,11.018755,48.017822],
+  "geometry": {"alpha":1e-05,"bbox":[11.018737792969,48.017807006836,11.018754959106,48.017822265625],"coordinates":[[[[11.018738,48.017822],[11.018752,48.017822],[11.018755,48.017822],[11.018741,48.017807],[11.018738,48.017818],[11.018738,48.017822]]]],"created":1292445296,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12634628_20101215_de7a76306c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

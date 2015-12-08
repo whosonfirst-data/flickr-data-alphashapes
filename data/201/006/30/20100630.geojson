@@ -1,0 +1,15 @@
+{
+  "id": 20100630,
+  "type": "Feature",
+  "properties": {
+    "name":"La Grandelle, Canton of Geneva, Switzerland",
+    "placetype":"locality",
+    "woe:id":20100630,
+    "woe:name":"La Grandelle, Canton of Geneva, Switzerland",
+    "woe:place_id":"UM3hNcubAZ3CN3pjtA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.164933,46.204735,6.192255,46.210606],
+  "geometry": {"alpha":0.00015,"bbox":[6.1649332046509,46.204734802246,6.1922550201416,46.210605621338],"coordinates":[[[[6.184444,46.204735],[6.164933,46.208855],[6.185388,46.210606],[6.192255,46.206551],[6.191525,46.205673],[6.184444,46.204735]]]],"created":1292454905,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/20100630_20101215_51b303185e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

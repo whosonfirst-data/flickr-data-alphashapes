@@ -1,0 +1,15 @@
+{
+  "id": 20100433,
+  "type": "Feature",
+  "properties": {
+    "name":"Sj\u00f8skogen, Akershus Fylke, Norway",
+    "placetype":"locality",
+    "woe:id":20100433,
+    "woe:name":"Sj\u00f8skogen, Akershus Fylke, Norway",
+    "woe:place_id":"g.qmGKGbAZ0gwlw5BA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.765111,59.747253,10.778274,59.759319],
+  "geometry": {"alpha":0.00015,"bbox":[10.765110969543,59.747253417969,10.778273582458,59.75931930542],"coordinates":[[[[10.776869,59.759319],[10.778274,59.758556],[10.777426,59.747253],[10.765111,59.754276],[10.776869,59.759319]]]],"created":1234496885,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3297/shapefiles/20100433_20090213_e012e23784.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

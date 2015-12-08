@@ -1,0 +1,15 @@
+{
+  "id": 12690192,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan de la Rambla, Spain",
+    "placetype":"locality",
+    "woe:id":12690192,
+    "woe:name":"San Juan de la Rambla, Spain",
+    "woe:place_id":"YHMCG6SYA5o.ahZnZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-16.632895,28.358625,-16.630383,28.35887],
+  "geometry": {"alpha":1e-05,"bbox":[-16.632894515991,28.358625411987,-16.630382537842,28.358869552612],"coordinates":[[[[-16.632895,28.358774],[-16.63287,28.35887],[-16.630383,28.358625],[-16.632856,28.358751],[-16.632895,28.358774]]]],"created":1292526706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/12690192_20101216_5c78e48606.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

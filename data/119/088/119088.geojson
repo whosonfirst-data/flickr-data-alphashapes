@@ -1,0 +1,15 @@
+{
+  "id": 119088,
+  "type": "Feature",
+  "properties": {
+    "name":"El Arenal, Hidalgo, Mexico",
+    "placetype":"locality",
+    "woe:id":119088,
+    "woe:name":"El Arenal, Hidalgo, Mexico",
+    "woe:place_id":"YNePIhGYAJV995g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.915749,20.223141,-98.894119,20.243515],
+  "geometry": {"alpha":0.00015,"bbox":[-98.915748596191,20.223140716553,-98.894119262695,20.243515014648],"coordinates":[[[[-98.900902,20.230871],[-98.912071,20.223141],[-98.915749,20.223703],[-98.911285,20.243515],[-98.894119,20.243193],[-98.900902,20.230871]]]],"created":1292522771,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/119088_20101216_5dd95efd9a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

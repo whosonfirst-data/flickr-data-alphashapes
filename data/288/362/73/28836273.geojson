@@ -1,0 +1,15 @@
+{
+  "id": 28836273,
+  "type": "Feature",
+  "properties": {
+    "name":"Point, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28836273,
+    "woe:name":"Point, Scotland, United Kingdom",
+    "woe:place_id":"kk_y42WbCZQ9z0yerA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.247529,58.213634,-6.230792,58.225658],
+  "geometry": {"alpha":0.00015,"bbox":[-6.2475290298462,58.213634490967,-6.2307920455933,58.225658416748],"coordinates":[[[[-6.247529,58.213634],[-6.246002,58.21933],[-6.230792,58.225658],[-6.235771,58.214947],[-6.247529,58.213634]]]],"created":1292442483,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/28836273_20101215_458f1a8279.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

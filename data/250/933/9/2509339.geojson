@@ -1,0 +1,15 @@
+{
+  "id": 2509339,
+  "type": "Feature",
+  "properties": {
+    "name":"Tyler, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2509339,
+    "woe:name":"Tyler, Minnesota, United States",
+    "woe:place_id":"GDZ563ibBJweUJqF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.142517,44.268181,-96.130325,44.286964],
+  "geometry": {"alpha":0.00015,"bbox":[-96.142517089844,44.268180847168,-96.130325317383,44.286964416504],"coordinates":[[[[-96.130325,44.26836],[-96.132996,44.268181],[-96.138184,44.269466],[-96.142517,44.286964],[-96.135651,44.276531],[-96.134033,44.275734],[-96.130325,44.26836]]]],"created":1292527586,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2509339_20101216_6a2684ac1e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

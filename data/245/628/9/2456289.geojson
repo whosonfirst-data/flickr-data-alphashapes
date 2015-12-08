@@ -1,0 +1,15 @@
+{
+  "id": 2456289,
+  "type": "Feature",
+  "properties": {
+    "name":"Muncaster Manor, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2456289,
+    "woe:name":"Muncaster Manor, Maryland, United States",
+    "woe:place_id":"P1guQSSbBZkZhviT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.14119,39.161678,-77.129181,39.168201],
+  "geometry": {"alpha":0.00015,"bbox":[-77.141189575195,39.161678314209,-77.129180908203,39.168201446533],"coordinates":[[[[-77.129181,39.166801],[-77.132774,39.161678],[-77.14119,39.167492],[-77.140976,39.16766],[-77.135521,39.168201],[-77.129181,39.166801]]]],"created":1292525592,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/2456289_20101216_d6fc5b0a43.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 660003,
+  "type": "Feature",
+  "properties": {
+    "name":"Hiltpoltstein, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":660003,
+    "woe:name":"Hiltpoltstein, Bavaria, Germany",
+    "woe:place_id":"2zdhQxafB5yKCjs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.316347,49.658073,11.323159,49.660393],
+  "geometry": {"alpha":0.00015,"bbox":[11.316347122192,49.658073425293,11.323159217834,49.66039276123],"coordinates":[[[[11.321024,49.660286],[11.323159,49.660393],[11.322752,49.660259],[11.321711,49.660091],[11.316347,49.658073],[11.317656,49.660038],[11.321024,49.660286]]]],"created":1292453613,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/660003_20101215_ce747ddeaa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

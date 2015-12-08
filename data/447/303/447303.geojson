@@ -1,0 +1,15 @@
+{
+  "id": 447303,
+  "type": "Feature",
+  "properties": {
+    "name":"Rio do Sal, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":447303,
+    "woe:name":"Rio do Sal, Bahia, Brazil",
+    "woe:place_id":"ptYbB_ydBZtB6eg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-38.216972,-9.419088,-38.19706,-9.396564],
+  "geometry": {"alpha":0.00015,"bbox":[-38.216972351074,-9.4190883636475,-38.197059631348,-9.3965635299683],"coordinates":[[[[-38.216972,-9.405794],[-38.202724,-9.396564],[-38.19706,-9.419088],[-38.204956,-9.416548],[-38.207359,-9.413923],[-38.216972,-9.405794]]]],"created":1292539522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/447303_20101216_7ac2e7cf36.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

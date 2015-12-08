@@ -1,0 +1,15 @@
+{
+  "id": 685512,
+  "type": "Feature",
+  "properties": {
+    "name":"Polch, Rhineland-Palatinate, Germany",
+    "placetype":"locality",
+    "woe:id":685512,
+    "woe:name":"Polch, Rhineland-Palatinate, Germany",
+    "woe:place_id":"gpifv3efCZluoPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.299728,50.294548,7.320327,50.303703],
+  "geometry": {"alpha":0.00015,"bbox":[7.2997279167175,50.294548034668,7.3203268051147,50.303703308105],"coordinates":[[[[7.317752,50.294548],[7.309598,50.296688],[7.299728,50.299976],[7.312517,50.303703],[7.320327,50.300251],[7.317752,50.294548]]]],"created":1292522903,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/685512_20101216_f8ec197538.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

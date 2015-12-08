@@ -1,0 +1,15 @@
+{
+  "id": 710212,
+  "type": "Feature",
+  "properties": {
+    "name":"Appennino, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":710212,
+    "woe:name":"Appennino, Marche, Italy",
+    "woe:place_id":".ZUh94.eAJwFsAM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.103384,42.971588,13.121452,42.977524],
+  "geometry": {"alpha":0.00015,"bbox":[13.103384017944,42.971588134766,13.121452331543,42.977523803711],"coordinates":[[[[13.116077,42.976582],[13.121452,42.971588],[13.114757,42.975483],[13.103384,42.976803],[13.115358,42.977524],[13.116077,42.976582]]]],"created":1292551615,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/710212_20101217_34bb1c6229.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

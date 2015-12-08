@@ -1,0 +1,15 @@
+{
+  "id": 2503654,
+  "type": "Feature",
+  "properties": {
+    "name":"Talbot, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2503654,
+    "woe:name":"Talbot, Oregon, United States",
+    "woe:place_id":"x5O.SrKbBJy3MH_d",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.093597,44.746735,-123.082184,44.76791],
+  "geometry": {"alpha":0.00015,"bbox":[-123.09359741211,44.746734619141,-123.08218383789,44.767910003662],"coordinates":[[[[-123.082184,44.76791],[-123.0867,44.746735],[-123.093597,44.758156],[-123.093384,44.760796],[-123.082184,44.76791]]]],"created":1292517717,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2503654_20101216_2436a8a544.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

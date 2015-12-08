@@ -1,0 +1,15 @@
+{
+  "id": 23402131,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Audy, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":23402131,
+    "woe:name":"Lake Audy, Manitoba, Canada",
+    "woe:place_id":"MsOEW1ibApg2U0L7JQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.232216,50.702221,-100.227242,50.716244],
+  "geometry": {"alpha":0.00015,"bbox":[-100.23221588135,50.702220916748,-100.22724151611,50.716243743896],"coordinates":[[[[-100.229988,50.712494],[-100.232216,50.702221],[-100.230843,50.713959],[-100.227242,50.716244],[-100.229988,50.712494]]]],"created":1292480888,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/23402131_20101216_3494f9654d.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2392237,
+  "type": "Feature",
+  "properties": {
+    "name":"Discovery, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2392237,
+    "woe:name":"Discovery, Maryland, United States",
+    "woe:place_id":"StKJhc2bApWQxwf.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.364517,39.452888,-77.353874,39.467209],
+  "geometry": {"alpha":0.00015,"bbox":[-77.364517211914,39.45288848877,-77.353874206543,39.467208862305],"coordinates":[[[[-77.353874,39.453358],[-77.355179,39.452888],[-77.355209,39.452911],[-77.364479,39.463985],[-77.364517,39.46566],[-77.359543,39.467209],[-77.353874,39.453358]]]],"created":1292540164,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2392237_20101216_967cdb54ea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

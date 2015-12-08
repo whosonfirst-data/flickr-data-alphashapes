@@ -1,0 +1,15 @@
+{
+  "id": 20092939,
+  "type": "Feature",
+  "properties": {
+    "name":"Seathorne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092939,
+    "woe:name":"Seathorne, England, United Kingdom",
+    "woe:place_id":"0w65iKSbAZzpECc8MQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.340576,53.16692,0.351905,53.180012],
+  "geometry": {"alpha":0.00015,"bbox":[0.34057599306107,53.166919708252,0.35190498828888,53.180011749268],"coordinates":[[[[0.345565,53.167118],[0.340576,53.168694],[0.350189,53.180012],[0.351905,53.168282],[0.35094,53.16692],[0.345565,53.167118]]]],"created":1292517757,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20092939_20101216_040e4c6926.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

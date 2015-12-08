@@ -1,0 +1,15 @@
+{
+  "id": 26000,
+  "type": "Feature",
+  "properties": {
+    "name":"Leckford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26000,
+    "woe:name":"Leckford, England, United Kingdom",
+    "woe:place_id":"K_w_pjubB5yFMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.471481,51.137733,-1.465644,51.144005],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4714809656143,51.137733459473,-1.4656440019608,51.144004821777],"coordinates":[[[[-1.469593,51.137733],[-1.471481,51.138],[-1.470923,51.142849],[-1.469378,51.144005],[-1.465644,51.138378],[-1.469593,51.137733]]]],"created":1292453217,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/26000_20101215_104033b690.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

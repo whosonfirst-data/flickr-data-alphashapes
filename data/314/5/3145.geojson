@@ -1,0 +1,15 @@
+{
+  "id": 3145,
+  "type": "Feature",
+  "properties": {
+    "name":"Cochrane, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3145,
+    "woe:name":"Cochrane, Ontario, Canada",
+    "woe:place_id":"WeVAf4qaAJg0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.037041,49.052834,-81.007027,49.075214],
+  "geometry": {"alpha":0.00015,"bbox":[-81.037040710449,49.052833557129,-81.007026672363,49.075214385986],"coordinates":[[[[-81.030647,49.055786],[-81.037041,49.06023],[-81.03447,49.071392],[-81.025543,49.075214],[-81.007027,49.065472],[-81.015587,49.053059],[-81.015717,49.052834],[-81.024338,49.056206],[-81.030647,49.055786]]]],"created":1292522192,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/3145_20101216_9ef6a8f151.tar.gz"},"points":62,"type":"MultiPolygon"}
+}

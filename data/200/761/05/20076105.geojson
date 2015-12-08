@@ -1,0 +1,15 @@
+{
+  "id": 20076105,
+  "type": "Feature",
+  "properties": {
+    "name":"Lambrugo, Italy",
+    "placetype":"locality",
+    "woe:id":20076105,
+    "woe:name":"Lambrugo, Italy",
+    "woe:place_id":"ASRsOVObAZwQvUua1w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.234609,45.760937,9.241352,45.76944],
+  "geometry": {"alpha":1e-05,"bbox":[9.2346086502075,45.760936737061,9.2413520812988,45.769439697266],"coordinates":[[[[9.239652,45.764889],[9.241352,45.763721],[9.240531,45.760937],[9.240049,45.761707],[9.238026,45.763279],[9.234609,45.767941],[9.237264,45.768688],[9.23933,45.76944],[9.239652,45.764889]]]],"created":1292550816,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/20076105_20101217_435774a824.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

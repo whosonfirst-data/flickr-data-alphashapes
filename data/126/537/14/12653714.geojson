@@ -1,0 +1,15 @@
+{
+  "id": 12653714,
+  "type": "Feature",
+  "properties": {
+    "name":"Torfou, France",
+    "placetype":"locality",
+    "woe:id":12653714,
+    "woe:name":"Torfou, France",
+    "woe:place_id":"NK2D5aWYA5rQVP43hQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.222222,48.534721,2.223055,48.535831],
+  "geometry": {"alpha":1e-05,"bbox":[2.2222220897675,48.534721374512,2.2230548858643,48.535831451416],"coordinates":[[[[2.223055,48.535831],[2.223055,48.535557],[2.2225,48.535],[2.222222,48.534721],[2.222777,48.535557],[2.223055,48.535831]]]],"created":1292528422,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12653714_20101216_558027ccce.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

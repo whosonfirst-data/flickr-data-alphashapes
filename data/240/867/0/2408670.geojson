@@ -1,0 +1,15 @@
+{
+  "id": 2408670,
+  "type": "Feature",
+  "properties": {
+    "name":"Gansevoort, New York, United States",
+    "placetype":"locality",
+    "woe:id":2408670,
+    "woe:name":"Gansevoort, New York, United States",
+    "woe:place_id":"PzEnwy2bBZzXej9c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.661781,43.183586,-73.64888,43.199501],
+  "geometry": {"alpha":0.00015,"bbox":[-73.661781311035,43.183586120605,-73.648880004883,43.199501037598],"coordinates":[[[[-73.653633,43.195789],[-73.64888,43.199501],[-73.649422,43.191536],[-73.651657,43.183586],[-73.661781,43.193035],[-73.653633,43.195789]]]],"created":1292540586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2408670_20101216_5184666d39.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

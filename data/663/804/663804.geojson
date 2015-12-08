@@ -1,0 +1,15 @@
+{
+  "id": 663804,
+  "type": "Feature",
+  "properties": {
+    "name":"Ittlingen, Baden-Wurttemberg, Germany",
+    "placetype":"locality",
+    "woe:id":663804,
+    "woe:name":"Ittlingen, Baden-Wurttemberg, Germany",
+    "woe:place_id":"tx3BoKSfB59XnvU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.924031,49.190006,8.926992,49.193596],
+  "geometry": {"alpha":0.00015,"bbox":[8.9240312576294,49.190006256104,8.9269924163818,49.19359588623],"coordinates":[[[[8.926992,49.191463],[8.926134,49.190006],[8.924031,49.193176],[8.925275,49.193596],[8.926992,49.191463]]]],"created":1234512125,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3488/shapefiles/663804_20090213_9dd7d46563.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

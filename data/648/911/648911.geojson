@@ -1,0 +1,15 @@
+{
+  "id": 648911,
+  "type": "Feature",
+  "properties": {
+    "name":"Ettersburg, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":648911,
+    "woe:name":"Ettersburg, Thuringia, Germany",
+    "woe:place_id":"E0V9QQOfBZQchRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.273281,51.014347,11.282181,51.033058],
+  "geometry": {"alpha":0.00015,"bbox":[11.273281097412,51.014347076416,11.282180786133,51.033058166504],"coordinates":[[[[11.278517,51.015247],[11.27386,51.014347],[11.274826,51.015747],[11.273281,51.032528],[11.278206,51.033058],[11.282181,51.015625],[11.278517,51.015247]]]],"created":1292549023,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/648911_20101217_348872889d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

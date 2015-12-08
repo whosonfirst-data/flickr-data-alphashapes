@@ -1,0 +1,15 @@
+{
+  "id": 12520576,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Vegas Municipal Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520576,
+    "woe:name":"Las Vegas Municipal Airport, United States",
+    "woe:place_id":"fFK66CuYA5lnqJ76VQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.149803,35.648674,-105.144226,35.658798],
+  "geometry": {"alpha":1e-05,"bbox":[-105.14980316162,35.64867401123,-105.14422607422,35.658798217773],"coordinates":[[[[-105.148087,35.65353],[-105.149803,35.658798],[-105.146797,35.657925],[-105.144821,35.655762],[-105.144997,35.651348],[-105.144226,35.648674],[-105.147774,35.651581],[-105.148941,35.652832],[-105.148087,35.65353]]]],"created":1292530025,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12520576_20101216_e3ef3a5e6f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

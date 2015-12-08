@@ -1,0 +1,15 @@
+{
+  "id": 29347283,
+  "type": "Feature",
+  "properties": {
+    "name":"Brendlberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":29347283,
+    "woe:name":"Brendlberg, Bavaria, Germany",
+    "woe:place_id":"wE3Ir2KbCJ.PZehAAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.655747,47.762695,12.655769,47.762707],
+  "geometry": {"alpha":0.00015,"bbox":[12.655747413635,47.7626953125,12.655769348145,47.762706756592],"coordinates":[[[[12.65575,47.762695],[12.655747,47.762699],[12.655769,47.762707],[12.655766,47.762699],[12.655755,47.762695],[12.65575,47.762695]]]],"created":1292395683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/29347283_20101215_6a1a14bdc6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

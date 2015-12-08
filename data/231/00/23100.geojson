@@ -1,0 +1,15 @@
+{
+  "id": 23100,
+  "type": "Feature",
+  "properties": {
+    "name":"Hertingfordbury, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23100,
+    "woe:name":"Hertingfordbury, England, United Kingdom",
+    "woe:place_id":"uASnUH6bAp0hkw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.111279,51.788815,-0.091,51.804371],
+  "geometry": {"alpha":0.00015,"bbox":[-0.11127900332212,51.788814544678,-0.090999998152256,51.804370880127],"coordinates":[[[[-0.104863,51.78928],[-0.105078,51.789398],[-0.110635,51.792267],[-0.111279,51.799458],[-0.111236,51.799698],[-0.104026,51.803944],[-0.101623,51.804371],[-0.098876,51.80267],[-0.097503,51.801823],[-0.091067,51.790966],[-0.091,51.790836],[-0.095833,51.789169],[-0.103114,51.788815],[-0.104863,51.78928]]]],"created":1248301944,"edges":14,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2519/shapefiles/23100_20090722_4d4e3a2f74.tar.gz"},"points":37,"type":"MultiPolygon"}
+}

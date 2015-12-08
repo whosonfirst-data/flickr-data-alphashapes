@@ -1,0 +1,15 @@
+{
+  "id": 12682788,
+  "type": "Feature",
+  "properties": {
+    "name":"Altishofen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682788,
+    "woe:name":"Altishofen, Switzerland",
+    "woe:place_id":"itM_q5mYA5rW8BSkAw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.957642,47.198811,7.961997,47.202747],
+  "geometry": {"alpha":1e-05,"bbox":[7.9576420783997,47.198810577393,7.9619970321655,47.202747344971],"coordinates":[[[[7.961246,47.198952],[7.960206,47.200043],[7.957642,47.202305],[7.96175,47.202747],[7.961997,47.2019],[7.961955,47.198811],[7.961246,47.198952]]]],"created":1292538684,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12682788_20101216_938f0c798c.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

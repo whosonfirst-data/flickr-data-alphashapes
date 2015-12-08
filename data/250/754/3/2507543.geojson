@@ -1,0 +1,15 @@
+{
+  "id": 2507543,
+  "type": "Feature",
+  "properties": {
+    "name":"Tracy, Monroe, NJ, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2507543,
+    "woe:name":"Tracy, Monroe, NJ, US, United States",
+    "woe:place_id":"PlsSGtGbBJz8OwS3",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-74.402115,40.294716,-74.373146,40.311867],
+  "geometry": {"alpha":0.00015,"bbox":[-74.402114868164,40.294715881348,-74.373146057129,40.311866760254],"coordinates":[[[[-74.374542,40.295731],[-74.384995,40.294716],[-74.402115,40.295502],[-74.386368,40.301147],[-74.373146,40.311867],[-74.374542,40.295731]]]],"created":1226545452,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3147/shapefiles/2507543_20081113_146ac24c3c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

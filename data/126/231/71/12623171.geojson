@@ -1,0 +1,15 @@
+{
+  "id": 12623171,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Beuren, Germany",
+    "placetype":"locality",
+    "woe:id":12623171,
+    "woe:name":"Gemeinde Beuren, Germany",
+    "woe:place_id":"1Bcf4ACYA5qr6nixBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.408545,48.576118,9.414253,48.578793],
+  "geometry": {"alpha":1e-05,"bbox":[9.4085445404053,48.576118469238,9.4142532348633,48.578792572021],"coordinates":[[[[9.413223,48.577034],[9.414253,48.578793],[9.413738,48.576946],[9.413658,48.576382],[9.408545,48.576118],[9.413223,48.577034]]]],"created":1292533383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/12623171_20101216_cbe8b60642.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

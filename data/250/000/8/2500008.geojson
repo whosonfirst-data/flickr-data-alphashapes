@@ -1,0 +1,15 @@
+{
+  "id": 2500008,
+  "type": "Feature",
+  "properties": {
+    "name":"Stipp, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2500008,
+    "woe:name":"Stipp, Oregon, United States",
+    "woe:place_id":"hfogInybBJxOBj8J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.924126,44.879276,-122.901886,44.913883],
+  "geometry": {"alpha":0.00015,"bbox":[-122.92412567139,44.879276275635,-122.90188598633,44.913883209229],"coordinates":[[[[-122.916206,44.913883],[-122.915855,44.913845],[-122.901886,44.903374],[-122.90416,44.900799],[-122.911926,44.879276],[-122.919327,44.885639],[-122.924126,44.888046],[-122.920998,44.903999],[-122.916809,44.913651],[-122.916206,44.913883]]]],"created":1292539832,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2500008_20101216_04278006f2.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

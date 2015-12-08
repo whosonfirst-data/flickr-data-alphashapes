@@ -1,0 +1,15 @@
+{
+  "id": 2485815,
+  "type": "Feature",
+  "properties": {
+    "name":"Rural, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2485815,
+    "woe:name":"Rural, Ohio, United States",
+    "woe:place_id":"pyuVmu6bBZRg1FJp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.090042,38.772587,-84.074364,38.781155],
+  "geometry": {"alpha":0.00015,"bbox":[-84.090042114258,38.77258682251,-84.074363708496,38.781154632568],"coordinates":[[[[-84.074471,38.7733],[-84.074364,38.772587],[-84.080429,38.773125],[-84.090042,38.77737],[-84.089783,38.781155],[-84.07959,38.774311],[-84.074471,38.7733]]]],"created":1292544303,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2485815_20101217_cd25004029.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 724753,
+  "type": "Feature",
+  "properties": {
+    "name":"Tavole, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":724753,
+    "woe:name":"Tavole, Liguria, Italy",
+    "woe:place_id":"O8r0FdOeA5hIvww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.901916,43.913845,7.909641,43.931526],
+  "geometry": {"alpha":0.00015,"bbox":[7.9019160270691,43.913845062256,7.909640789032,43.931526184082],"coordinates":[[[[7.906723,43.931526],[7.909641,43.930908],[7.909448,43.92989],[7.908525,43.922565],[7.901916,43.913845],[7.907924,43.928097],[7.906723,43.931526]]]],"created":1292550127,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/724753_20101217_76b935c145.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

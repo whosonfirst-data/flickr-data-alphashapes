@@ -1,0 +1,15 @@
+{
+  "id": 12588464,
+  "type": "Feature",
+  "properties": {
+    "name":"Stanton County, Kansas, United States",
+    "placetype":"county",
+    "woe:id":12588464,
+    "woe:name":"Stanton County, Kansas, United States",
+    "woe:place_id":"NvdCA7KYA5kGGBtbNw",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-101.762085,37.533661,-101.742836,37.594292],
+  "geometry": {"alpha":0.0015,"bbox":[-101.76208496094,37.533660888672,-101.74283599854,37.594291687012],"coordinates":[[[[-101.749771,37.573078],[-101.742836,37.561996],[-101.756439,37.533661],[-101.754509,37.566757],[-101.762085,37.594292],[-101.749771,37.573078]]]],"created":1292527106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12588464_20101216_0139af3410.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

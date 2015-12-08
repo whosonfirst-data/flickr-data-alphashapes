@@ -1,0 +1,15 @@
+{
+  "id": 688639,
+  "type": "Feature",
+  "properties": {
+    "name":"Riemerling, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":688639,
+    "woe:name":"Riemerling, Bavaria, Germany",
+    "woe:place_id":"5C9RzgKfCZSZaSc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.660377,48.053082,11.680666,48.065411],
+  "geometry": {"alpha":0.00015,"bbox":[11.660376548767,48.053081512451,11.680665969849,48.065410614014],"coordinates":[[[[11.669239,48.053082],[11.666396,48.059483],[11.660377,48.065411],[11.66306,48.064255],[11.678906,48.063114],[11.680666,48.062981],[11.669239,48.053082]]]],"created":1292527265,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/688639_20101216_0a1a15057c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20076240,
+  "type": "Feature",
+  "properties": {
+    "name":"Azzano Mella, Italy",
+    "placetype":"locality",
+    "woe:id":20076240,
+    "woe:name":"Azzano Mella, Italy",
+    "woe:place_id":"EjnuIG6bAZzmD5z0HQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.114451,45.493855,10.119709,45.4944],
+  "geometry": {"alpha":1e-05,"bbox":[10.114451408386,45.493854522705,10.119709014893,45.494400024414],"coordinates":[[[[10.119706,45.494019],[10.119707,45.494003],[10.119707,45.493996],[10.119707,45.493988],[10.119709,45.493855],[10.114451,45.4944],[10.119706,45.494019]]]],"created":1292479983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20076240_20101216_f26df0f483.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

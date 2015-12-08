@@ -1,0 +1,15 @@
+{
+  "id": 23397093,
+  "type": "Feature",
+  "properties": {
+    "name":"Cormac, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23397093,
+    "woe:name":"Cormac, Ontario, Canada",
+    "woe:place_id":"nfLX.kybAp_mjPcUaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.295341,45.459286,-77.282463,45.468315],
+  "geometry": {"alpha":0.00015,"bbox":[-77.295341491699,45.459285736084,-77.28246307373,45.468315124512],"coordinates":[[[[-77.293556,45.462688],[-77.295341,45.468315],[-77.282463,45.46302],[-77.285301,45.459286],[-77.293556,45.462688]]]],"created":1292458298,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23397093_20101216_59f33b610c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

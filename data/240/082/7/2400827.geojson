@@ -1,0 +1,15 @@
+{
+  "id": 2400827,
+  "type": "Feature",
+  "properties": {
+    "name":"Evenwood, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2400827,
+    "woe:name":"Evenwood, West Virginia, United States",
+    "woe:place_id":"bWg1AtqbBZz36cUe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.663925,38.892395,-79.64373,38.893303],
+  "geometry": {"alpha":0.00015,"bbox":[-79.663925170898,38.892395019531,-79.643730163574,38.89330291748],"coordinates":[[[[-79.64489,38.893059],[-79.663925,38.893303],[-79.644844,38.893188],[-79.64373,38.892395],[-79.644226,38.892483],[-79.64489,38.893059]]]],"created":1247886005,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3425/shapefiles/2400827_20090718_bf4a052716.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

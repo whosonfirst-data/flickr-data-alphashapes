@@ -1,0 +1,15 @@
+{
+  "id": 2459760,
+  "type": "Feature",
+  "properties": {
+    "name":"Newtown, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2459760,
+    "woe:name":"Newtown, Virginia, United States",
+    "woe:place_id":"w54070CbBZlUh8hK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.357292,38.230694,-78.350105,38.233578],
+  "geometry": {"alpha":0.00015,"bbox":[-78.357292175293,38.230693817139,-78.350105285645,38.233577728271],"coordinates":[[[[-78.357285,38.230934],[-78.356819,38.231113],[-78.350105,38.233578],[-78.356956,38.230694],[-78.357292,38.230869],[-78.357285,38.230934]]]],"created":1292536710,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2459760_20101216_d9deb6a3bf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

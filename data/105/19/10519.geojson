@@ -1,0 +1,15 @@
+{
+  "id": 10519,
+  "type": "Feature",
+  "properties": {
+    "name":"Albrighton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10519,
+    "woe:name":"Albrighton, England, United Kingdom",
+    "woe:place_id":".v5B0VCYAZnwRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.750015,52.753281,-2.739028,52.763824],
+  "geometry": {"alpha":0.00015,"bbox":[-2.7500150203705,52.753280639648,-2.7390279769897,52.763824462891],"coordinates":[[[[-2.749414,52.759243],[-2.750015,52.762581],[-2.746753,52.763824],[-2.739028,52.761436],[-2.74126,52.753281],[-2.749414,52.759243]]]],"created":1292455692,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/10519_20101215_3a4a6f492c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

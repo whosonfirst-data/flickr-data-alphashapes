@@ -1,0 +1,15 @@
+{
+  "id": 25369,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirkby Malzeard, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":25369,
+    "woe:name":"Kirkby Malzeard, England, United Kingdom",
+    "woe:place_id":"jFfM.eqbBJ81vg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.65282,54.163132,-1.640782,54.165798],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6528199911118,54.163131713867,-1.6407819986343,54.165798187256],"coordinates":[[[[-1.647609,54.165009],[-1.640782,54.165798],[-1.642788,54.164551],[-1.645803,54.163132],[-1.65282,54.16349],[-1.647609,54.165009]]]],"created":1292524987,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/25369_20101216_fe7e348da9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2414652,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwich, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2414652,
+    "woe:name":"Greenwich, Pennsylvania, United States",
+    "woe:place_id":"X6ERjDKbBZ1uG9ra",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.87178,40.57378,-75.843925,40.592499],
+  "geometry": {"alpha":0.00015,"bbox":[-75.871780395508,40.573780059814,-75.843925476074,40.592498779297],"coordinates":[[[[-75.87178,40.57378],[-75.867203,40.584122],[-75.857796,40.592499],[-75.856804,40.587784],[-75.843925,40.579426],[-75.861168,40.576164],[-75.87178,40.57378]]]],"created":1292537401,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2414652_20101216_a9e7fc8f27.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2463682,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakleigh, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2463682,
+    "woe:name":"Oakleigh, Maryland, United States",
+    "woe:place_id":"aZevFymbBZohXySq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.559502,39.402,-76.553123,39.408443],
+  "geometry": {"alpha":0.00015,"bbox":[-76.559501647949,39.402000427246,-76.553123474121,39.408443450928],"coordinates":[[[[-76.554237,39.405327],[-76.55883,39.402],[-76.559502,39.402],[-76.558998,39.405876],[-76.553123,39.408443],[-76.554237,39.405327]]]],"created":1292526258,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2463682_20101216_aaacfbff4b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

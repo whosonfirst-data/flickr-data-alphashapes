@@ -1,0 +1,15 @@
+{
+  "id": 55992371,
+  "type": "Feature",
+  "properties": {
+    "name":"East Portland, Portland, OR, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55992371,
+    "woe:name":"East Portland, Portland, OR, US, United States",
+    "woe:place_id":"20m8NmmcBJX1L9ch0Q",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-122.519348,45.522663,-122.517342,45.527374],
+  "geometry": {"alpha":1e-05,"bbox":[-122.51934814453,45.522663116455,-122.51734161377,45.527374267578],"coordinates":[[[[-122.519211,45.526463],[-122.517342,45.522663],[-122.519279,45.526463],[-122.519348,45.527374],[-122.519211,45.526463]]]],"created":1292526633,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/55992371_20101216_acbd86a9da.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

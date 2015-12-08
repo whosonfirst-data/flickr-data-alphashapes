@@ -1,0 +1,15 @@
+{
+  "id": 12670780,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Lizier, France",
+    "placetype":"locality",
+    "woe:id":12670780,
+    "woe:name":"St.-Lizier, France",
+    "woe:place_id":"esmt9m.YA5q8LZM4qA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.134338,43.000755,1.138801,43.003895],
+  "geometry": {"alpha":1e-05,"bbox":[1.1343380212784,43.000755310059,1.1388009786606,43.003894805908],"coordinates":[[[[1.134338,43.001633],[1.135025,43.003895],[1.13614,43.002136],[1.138801,43.000755],[1.135282,43.001099],[1.134338,43.001633]]]],"created":1292513466,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12670780_20101216_df3c9f8332.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

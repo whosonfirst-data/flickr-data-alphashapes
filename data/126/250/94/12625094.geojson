@@ -1,0 +1,15 @@
+{
+  "id": 12625094,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Witterda, Germany",
+    "placetype":"locality",
+    "woe:id":12625094,
+    "woe:name":"Gemeinde Witterda, Germany",
+    "woe:place_id":"NKaoR9uYA5qpaAZyHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.926291,51.020203,10.928971,51.020569],
+  "geometry": {"alpha":1e-05,"bbox":[10.926291465759,51.020202636719,10.928971290588,51.020568847656],"coordinates":[[[[10.927661,51.020496],[10.926291,51.020203],[10.927657,51.0205],[10.927903,51.020569],[10.928971,51.020523],[10.927661,51.020496]]]],"created":1292461204,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12625094_20101216_3074b82ef3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

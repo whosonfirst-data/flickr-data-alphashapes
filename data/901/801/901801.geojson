@@ -1,0 +1,15 @@
+{
+  "id": 901801,
+  "type": "Feature",
+  "properties": {
+    "name":"Pershagen, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":901801,
+    "woe:name":"Pershagen, Stockholm, Sweden",
+    "woe:place_id":"o7XI.AWQAZ0gkjA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.640083,59.144157,17.662668,59.166954],
+  "geometry": {"alpha":0.00015,"bbox":[17.640083312988,59.144157409668,17.662668228149,59.166954040527],"coordinates":[[[[17.657904,59.150257],[17.649965,59.144157],[17.643185,59.144775],[17.640083,59.147781],[17.646463,59.15815],[17.662668,59.166954],[17.661352,59.156902],[17.657904,59.150257]]]],"created":1292535208,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/901801_20101216_1a01f81c0f.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

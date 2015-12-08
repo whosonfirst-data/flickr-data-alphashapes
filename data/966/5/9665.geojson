@@ -1,0 +1,15 @@
+{
+  "id": 9665,
+  "type": "Feature",
+  "properties": {
+    "name":"Avola, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9665,
+    "woe:name":"Avola, British Columbia, Canada",
+    "woe:place_id":"GIvsXuyQB5qi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.325989,51.783134,-119.315422,51.793533],
+  "geometry": {"alpha":0.00015,"bbox":[-119.32598876953,51.783134460449,-119.31542205811,51.793533325195],"coordinates":[[[[-119.325699,51.783813],[-119.315422,51.793533],[-119.318054,51.786667],[-119.322678,51.783134],[-119.325989,51.783531],[-119.325699,51.783813]]]],"created":1292504346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/9665_20101216_97bd1c3b5e.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

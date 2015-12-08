@@ -1,0 +1,15 @@
+{
+  "id": 12682910,
+  "type": "Feature",
+  "properties": {
+    "name":"Kirchberg, Switzerland",
+    "placetype":"locality",
+    "woe:id":12682910,
+    "woe:name":"Kirchberg, Switzerland",
+    "woe:place_id":"zxm0RwiYA5oPxkJZTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.001805,47.395435,9.00275,47.397751],
+  "geometry": {"alpha":1e-05,"bbox":[9.001805305481,47.395435333252,9.0027503967285,47.397750854492],"coordinates":[[[[9.001833,47.397694],[9.001805,47.397751],[9.00275,47.397167],[9.002115,47.395435],[9.001833,47.397694]]]],"created":1292526803,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12682910_20101216_12cdcdbea8.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

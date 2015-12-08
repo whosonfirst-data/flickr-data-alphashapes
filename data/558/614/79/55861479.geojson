@@ -1,0 +1,15 @@
+{
+  "id": 55861479,
+  "type": "Feature",
+  "properties": {
+    "name":"Sector 10, Rochester, NY, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55861479,
+    "woe:name":"Sector 10, Rochester, NY, US, United States",
+    "woe:place_id":"Qn0pYXKcBJQPGgWTAg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-77.600395,43.172607,-77.596352,43.177204],
+  "geometry": {"alpha":1e-05,"bbox":[-77.600395202637,43.172607421875,-77.596351623535,43.17720413208],"coordinates":[[[[-77.596352,43.177204],[-77.597328,43.17461],[-77.600395,43.172607],[-77.599365,43.174103],[-77.596352,43.177204]]]],"created":1292482082,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/55861479_20101216_367ef410c6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

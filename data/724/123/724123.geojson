@@ -1,0 +1,15 @@
+{
+  "id": 724123,
+  "type": "Feature",
+  "properties": {
+    "name":"Sersale, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":724123,
+    "woe:name":"Sersale, Calabria, Italy",
+    "woe:place_id":"w0n1rEKeA5jQxzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.713123,39.003979,16.730289,39.020386],
+  "geometry": {"alpha":0.00015,"bbox":[16.713123321533,39.003978729248,16.730289459229,39.020385742188],"coordinates":[[[[16.730289,39.01218],[16.728745,39.003979],[16.725611,39.008579],[16.713123,39.012249],[16.725998,39.014114],[16.730289,39.020386],[16.730289,39.01218]]]],"created":1292523117,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/724123_20101216_f196320566.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

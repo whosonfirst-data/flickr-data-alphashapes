@@ -1,0 +1,15 @@
+{
+  "id": 584033,
+  "type": "Feature",
+  "properties": {
+    "name":"Chambois, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":584033,
+    "woe:name":"Chambois, Basse-Normandie, France",
+    "woe:place_id":"RMdM_uScCZgxPak",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.10437,48.804462,0.106601,48.806595],
+  "geometry": {"alpha":0.00015,"bbox":[0.10436999797821,48.804462432861,0.10660099983215,48.806594848633],"coordinates":[[[[0.106601,48.805508],[0.106558,48.804462],[0.105099,48.80508],[0.10437,48.805843],[0.105013,48.806595],[0.106601,48.805508]]]],"created":1292527264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/584033_20101216_f56e6c157b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

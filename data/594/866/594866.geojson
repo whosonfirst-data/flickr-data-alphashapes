@@ -1,0 +1,15 @@
+{
+  "id": 594866,
+  "type": "Feature",
+  "properties": {
+    "name":"Hochfelden, Alsace, France",
+    "placetype":"locality",
+    "woe:id":594866,
+    "woe:name":"Hochfelden, Alsace, France",
+    "woe:place_id":"iQzXimCcCJjmsVM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.566919,48.748768,7.579386,48.764095],
+  "geometry": {"alpha":0.00015,"bbox":[7.5669188499451,48.748767852783,7.5793862342834,48.764095306396],"coordinates":[[[[7.570148,48.758816],[7.574472,48.764095],[7.579386,48.760815],[7.579333,48.755165],[7.568705,48.748768],[7.566919,48.757179],[7.570148,48.758816]]]],"created":1292517748,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/594866_20101216_fcde2efa99.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 350323,
+  "type": "Feature",
+  "properties": {
+    "name":"Pinto, Biobio Region, Chile",
+    "placetype":"locality",
+    "woe:id":350323,
+    "woe:name":"Pinto, Biobio Region, Chile",
+    "woe:place_id":"K1x47BSaBJzxbG4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.891098,-36.71109,-71.870499,-36.697468],
+  "geometry": {"alpha":0.00015,"bbox":[-71.891098022461,-36.711090087891,-71.870498657227,-36.697467803955],"coordinates":[[[[-71.888443,-36.702698],[-71.891098,-36.697468],[-71.883888,-36.700356],[-71.870499,-36.71109],[-71.886414,-36.70562],[-71.888443,-36.702698]]]],"created":1292465825,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/350323_20101216_5a4319e413.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

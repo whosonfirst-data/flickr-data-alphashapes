@@ -1,0 +1,15 @@
+{
+  "id": 651810,
+  "type": "Feature",
+  "properties": {
+    "name":"Gehlberg, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":651810,
+    "woe:name":"Gehlberg, Thuringia, Germany",
+    "woe:place_id":"mnnrCzOfBJ1HBNo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.774154,50.672749,10.79338,50.690735],
+  "geometry": {"alpha":0.00015,"bbox":[10.774153709412,50.672748565674,10.79337978363,50.690734863281],"coordinates":[[[[10.79338,50.681274],[10.790548,50.674622],[10.775356,50.672749],[10.774154,50.679928],[10.790011,50.690735],[10.790376,50.689198],[10.79338,50.681274]]]],"created":1292522944,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/651810_20101216_0306d32182.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

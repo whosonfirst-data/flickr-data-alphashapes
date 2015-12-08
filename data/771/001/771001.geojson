@@ -1,0 +1,15 @@
+{
+  "id": 771001,
+  "type": "Feature",
+  "properties": {
+    "name":"Pueyo, Navarre, Spain",
+    "placetype":"locality",
+    "woe:id":771001,
+    "woe:name":"Pueyo, Navarre, Spain",
+    "woe:place_id":"v_RmJ7GeBp3XtNE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.649837,42.560833,-1.646232,42.575806],
+  "geometry": {"alpha":0.00015,"bbox":[-1.6498370170593,42.560832977295,-1.646232008934,42.575805664062],"coordinates":[[[[-1.649837,42.570274],[-1.647477,42.575806],[-1.646232,42.570972],[-1.648786,42.560833],[-1.649494,42.567699],[-1.649837,42.570274]]]],"created":1292511364,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/771001_20101216_bf8d8e7291.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722340,
+  "type": "Feature",
+  "properties": {
+    "name":"San Bellino, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722340,
+    "woe:name":"San Bellino, Veneto, Italy",
+    "woe:place_id":"Py6MFxyeA56LpTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.588827,45.028229,11.590404,45.030075],
+  "geometry": {"alpha":0.00015,"bbox":[11.588827133179,45.028228759766,11.590403556824,45.030075073242],"coordinates":[[[[11.590404,45.030075],[11.590329,45.028713],[11.588827,45.028229],[11.589363,45.028938],[11.590404,45.030075]]]],"created":1229712609,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3255/shapefiles/722340_20081219_0dc7387ea2.tar.gz"},"points":93,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 368393,
+  "type": "Feature",
+  "properties": {
+    "name":"San Jacinto, Bolivar, Colombia",
+    "placetype":"locality",
+    "woe:id":368393,
+    "woe:name":"San Jacinto, Bolivar, Colombia",
+    "woe:place_id":"beNTmUGaB5QYcfc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.141678,9.828661,-75.123138,9.838641],
+  "geometry": {"alpha":0.00015,"bbox":[-75.141677856445,9.8286609649658,-75.123138427734,9.838641166687],"coordinates":[[[[-75.123138,9.834243],[-75.128113,9.831029],[-75.141678,9.828661],[-75.138931,9.833905],[-75.129318,9.838641],[-75.123138,9.834243]]]],"created":1292446886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/368393_20101215_808ff5f760.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

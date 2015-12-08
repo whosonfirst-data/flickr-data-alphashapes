@@ -1,0 +1,15 @@
+{
+  "id": 2350024,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmerston, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":2350024,
+    "woe:name":"Palmerston, Canterbury, New Zealand",
+    "woe:place_id":"hc5HxjqbAplrWtYK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [170.714539,-45.48938,170.745819,-45.474094],
+  "geometry": {"alpha":0.00015,"bbox":[170.71453857422,-45.489379882812,170.7458190918,-45.474094390869],"coordinates":[[[[170.715744,-45.484627],[170.714539,-45.481892],[170.719299,-45.478367],[170.725479,-45.474094],[170.745819,-45.478668],[170.729767,-45.48938],[170.715744,-45.484627]]]],"created":1292545207,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2350024_20101217_97d242883c.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 59930,
+  "type": "Feature",
+  "properties": {
+    "name":"Vuelta de Jorco, San Jose, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59930,
+    "woe:name":"Vuelta de Jorco, San Jose, Costa Rica",
+    "woe:place_id":"L.lu68ScCJU0PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.135872,9.792886,-84.128494,9.805826],
+  "geometry": {"alpha":0.00015,"bbox":[-84.135871887207,9.7928857803345,-84.128494262695,9.8058261871338],"coordinates":[[[[-84.135872,9.804473],[-84.133469,9.804896],[-84.129868,9.805826],[-84.128494,9.792886],[-84.133301,9.802782],[-84.135872,9.804473]]]],"created":1292527083,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/59930_20101216_bfac975a63.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

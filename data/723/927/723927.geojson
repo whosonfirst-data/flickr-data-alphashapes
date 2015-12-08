@@ -1,0 +1,15 @@
+{
+  "id": 723927,
+  "type": "Feature",
+  "properties": {
+    "name":"Scoppieto, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":723927,
+    "woe:name":"Scoppieto, Umbria, Italy",
+    "woe:place_id":"wI3TUXCeA5.bMiE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.28898,42.723827,12.302455,42.734909],
+  "geometry": {"alpha":0.00015,"bbox":[12.288979530334,42.723827362061,12.302454948425,42.734909057617],"coordinates":[[[[12.28928,42.723827],[12.28898,42.725231],[12.292327,42.734909],[12.302455,42.733395],[12.300395,42.728603],[12.291169,42.724442],[12.28928,42.723827]]]],"created":1292456104,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/723927_20101215_e25cc19562.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

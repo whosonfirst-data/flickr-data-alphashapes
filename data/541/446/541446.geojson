@@ -1,0 +1,15 @@
+{
+  "id": 541446,
+  "type": "Feature",
+  "properties": {
+    "name":"Eckartsau, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":541446,
+    "woe:name":"Eckartsau, Lower Austria, Austria",
+    "woe:place_id":"kPQEf5WcBZ2fZ28",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.785736,48.126568,16.805305,48.150051],
+  "geometry": {"alpha":0.00015,"bbox":[16.785736083984,48.126567840576,16.805305480957,48.150051116943],"coordinates":[[[[16.791185,48.137741],[16.785736,48.149593],[16.796722,48.150051],[16.798782,48.14616],[16.805305,48.126568],[16.794426,48.136337],[16.791185,48.137741]]]],"created":1292544570,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/541446_20101217_716a17a35c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

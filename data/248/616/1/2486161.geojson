@@ -1,0 +1,15 @@
+{
+  "id": 2486161,
+  "type": "Feature",
+  "properties": {
+    "name":"Rutledge Heights, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2486161,
+    "woe:name":"Rutledge Heights, Alabama, United States",
+    "woe:place_id":"bqs1LOSbBZSKHKl9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.673172,34.738094,-86.664627,34.748947],
+  "geometry": {"alpha":0.00015,"bbox":[-86.67317199707,34.738094329834,-86.664627075195,34.748947143555],"coordinates":[[[[-86.673172,34.743523],[-86.671936,34.748108],[-86.664627,34.748947],[-86.667023,34.740749],[-86.666794,34.738094],[-86.673172,34.743523]]]],"created":1292544029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2486161_20101217_cbd6ec8f9a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

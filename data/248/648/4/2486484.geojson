@@ -1,0 +1,15 @@
+{
+  "id": 2486484,
+  "type": "Feature",
+  "properties": {
+    "name":"Saffordville, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2486484,
+    "woe:name":"Saffordville, Kansas, United States",
+    "woe:place_id":"PGb_ym.bBZQDq7iv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.413956,38.398678,-96.392136,38.405445],
+  "geometry": {"alpha":0.00015,"bbox":[-96.413955688477,38.398677825928,-96.392135620117,38.405445098877],"coordinates":[[[[-96.400864,38.404976],[-96.392136,38.398678],[-96.40271,38.404102],[-96.413956,38.405445],[-96.400963,38.404961],[-96.400864,38.404976]]]],"created":1292550563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2486484_20101217_4b20ba4584.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

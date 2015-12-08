@@ -1,0 +1,15 @@
+{
+  "id": 2359091,
+  "type": "Feature",
+  "properties": {
+    "name":"Barbecue, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2359091,
+    "woe:name":"Barbecue, North Carolina, United States",
+    "woe:place_id":"Oce4SiGbApniXt0t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.050911,35.307709,-79.034569,35.327038],
+  "geometry": {"alpha":0.00015,"bbox":[-79.050910949707,35.307708740234,-79.034568786621,35.327037811279],"coordinates":[[[[-79.045471,35.322922],[-79.034569,35.307709],[-79.046928,35.315155],[-79.050911,35.327038],[-79.045471,35.322975],[-79.045471,35.322922]]]],"created":1248261857,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2495/shapefiles/2359091_20090722_8b240ee8d5.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

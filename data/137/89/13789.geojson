@@ -1,0 +1,15 @@
+{
+  "id": 13789,
+  "type": "Feature",
+  "properties": {
+    "name":"Bretford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":13789,
+    "woe:name":"Bretford, England, United Kingdom",
+    "woe:place_id":"HUQTWDOYAptoZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.436119,52.383877,-1.353764,52.398674],
+  "geometry": {"alpha":0.000457763671875,"bbox":[-1.4361189603806,52.383876800537,-1.3537640571594,52.39867401123],"coordinates":[[[[-1.416034,52.385502],[-1.413028,52.391956],[-1.373376,52.398674],[-1.355867,52.391369],[-1.353764,52.39082],[-1.373805,52.385082],[-1.413028,52.391956],[-1.432707,52.396683],[-1.435647,52.396423],[-1.436119,52.386391],[-1.431655,52.384087],[-1.423931,52.383877],[-1.416034,52.385502]]]],"created":1248296768,"edges":13,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2520/shapefiles/13789_20090722_dabd1b2efb.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

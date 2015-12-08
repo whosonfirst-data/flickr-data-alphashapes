@@ -1,0 +1,15 @@
+{
+  "id": 728666,
+  "type": "Feature",
+  "properties": {
+    "name":"Oord, Utrecht, Netherlands",
+    "placetype":"locality",
+    "woe:id":728666,
+    "woe:name":"Oord, Utrecht, Netherlands",
+    "woe:place_id":"L15ECtieA5QB1Ws",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.235328,51.971344,5.267944,51.985077],
+  "geometry": {"alpha":0.00015,"bbox":[5.2353281974792,51.971343994141,5.2679438591003,51.985076904297],"coordinates":[[[[5.236444,51.974518],[5.235328,51.974834],[5.236616,51.976765],[5.24949,51.984524],[5.267944,51.971344],[5.249962,51.985077],[5.24949,51.984524],[5.236444,51.974518]]]],"created":1292551399,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/728666_20101217_12ef61c274.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

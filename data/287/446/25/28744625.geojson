@@ -1,0 +1,15 @@
+{
+  "id": 28744625,
+  "type": "Feature",
+  "properties": {
+    "name":"Dickinson, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744625,
+    "woe:name":"Dickinson, New York, United States",
+    "woe:place_id":"1BuUwK2bCZt4PeXG9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.908089,42.12117,-75.902611,42.128571],
+  "geometry": {"alpha":0.00015,"bbox":[-75.908088684082,42.121170043945,-75.902610778809,42.128570556641],"coordinates":[[[[-75.902649,42.126431],[-75.902611,42.126045],[-75.908089,42.12117],[-75.906082,42.128571],[-75.905441,42.128117],[-75.902649,42.126431]]]],"created":1248273601,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2541/shapefiles/28744625_20090722_a773be6ede.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

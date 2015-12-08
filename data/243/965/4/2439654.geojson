@@ -1,0 +1,15 @@
+{
+  "id": 2439654,
+  "type": "Feature",
+  "properties": {
+    "name":"Lindbergh, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2439654,
+    "woe:name":"Lindbergh, Oregon, United States",
+    "woe:place_id":"TOnto_mbBZ_Uw285",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.911049,46.067295,-122.895126,46.089661],
+  "geometry": {"alpha":0.00015,"bbox":[-122.91104888916,46.067295074463,-122.89512634277,46.089660644531],"coordinates":[[[[-122.895126,46.070015],[-122.898689,46.067295],[-122.906883,46.072159],[-122.911049,46.080559],[-122.906456,46.089661],[-122.895126,46.070015]]]],"created":1292448543,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2439654_20101215_e15c9ce512.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

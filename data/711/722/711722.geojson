@@ -1,0 +1,15 @@
+{
+  "id": 711722,
+  "type": "Feature",
+  "properties": {
+    "name":"Caldogno, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":711722,
+    "woe:name":"Caldogno, Veneto, Italy",
+    "woe:place_id":"m0IM152eAJ3aQtM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.501762,45.605991,11.516761,45.629524],
+  "geometry": {"alpha":0.00015,"bbox":[11.501762390137,45.605991363525,11.516760826111,45.629524230957],"coordinates":[[[[11.50423,45.614758],[11.505303,45.621407],[11.516761,45.629524],[11.51188,45.614651],[11.508522,45.605991],[11.501762,45.609592],[11.50423,45.614758]]]],"created":1292549376,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/711722_20101217_1bd073e211.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

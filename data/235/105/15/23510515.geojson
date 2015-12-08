@@ -1,0 +1,15 @@
+{
+  "id": 23510515,
+  "type": "Feature",
+  "properties": {
+    "name":"Bear River, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":23510515,
+    "woe:name":"Bear River, Wyoming, United States",
+    "woe:place_id":"HFqOY9WbAplBcOJx4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.060448,41.403854,-111.039505,41.43037],
+  "geometry": {"alpha":0.00015,"bbox":[-111.06044769287,41.403854370117,-111.03950500488,41.430370330811],"coordinates":[[[[-111.04612,41.412594],[-111.048004,41.41486],[-111.060448,41.43037],[-111.045769,41.415569],[-111.039505,41.403854],[-111.04612,41.412594]]]],"created":1292452505,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/23510515_20101215_cc12d98fc9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

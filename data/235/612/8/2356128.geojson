@@ -1,0 +1,15 @@
+{
+  "id": 2356128,
+  "type": "Feature",
+  "properties": {
+    "name":"Arnold, California, United States",
+    "placetype":"locality",
+    "woe:id":2356128,
+    "woe:name":"Arnold, California, United States",
+    "woe:place_id":"vuijkOGbApk_4N9k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.403168,39.500069,-123.373718,39.511833],
+  "geometry": {"alpha":0.00015,"bbox":[-123.40316772461,39.500068664551,-123.37371826172,39.511833190918],"coordinates":[[[[-123.387001,39.511833],[-123.373718,39.500069],[-123.387169,39.511333],[-123.403168,39.501999],[-123.387169,39.511833],[-123.387001,39.511833]]]],"created":1292500447,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2356128_20101216_46c4b87154.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

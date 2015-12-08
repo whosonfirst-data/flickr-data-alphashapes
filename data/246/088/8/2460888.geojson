@@ -1,0 +1,15 @@
+{
+  "id": 2460888,
+  "type": "Feature",
+  "properties": {
+    "name":"North Dennis, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2460888,
+    "woe:name":"North Dennis, New Jersey, United States",
+    "woe:place_id":"P_DerFqbBZpKr6Mj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.852097,39.179379,-74.848907,39.19009],
+  "geometry": {"alpha":0.00015,"bbox":[-74.852096557617,39.179378509521,-74.848907470703,39.190090179443],"coordinates":[[[[-74.8517,39.179443],[-74.851784,39.179379],[-74.852097,39.18224],[-74.848907,39.19009],[-74.851692,39.179604],[-74.8517,39.179443]]]],"created":1247968323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2456/shapefiles/2460888_20090719_608c953a58.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

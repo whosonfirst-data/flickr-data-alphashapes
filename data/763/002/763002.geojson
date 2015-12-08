@@ -1,0 +1,15 @@
+{
+  "id": 763002,
+  "type": "Feature",
+  "properties": {
+    "name":"La Ametlla, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":763002,
+    "woe:name":"La Ametlla, Catalonia, Spain",
+    "woe:place_id":"U.uB85SeB59iah0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.872096,42.040329,1.875786,42.044128],
+  "geometry": {"alpha":0.00015,"bbox":[1.8720959424973,42.040328979492,1.875785946846,42.044128417969],"coordinates":[[[[1.875786,42.042648],[1.872096,42.040329],[1.873061,42.042282],[1.875057,42.044128],[1.875786,42.042648]]]],"created":1292518361,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/763002_20101216_1786776364.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

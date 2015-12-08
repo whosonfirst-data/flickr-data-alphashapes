@@ -1,0 +1,15 @@
+{
+  "id": 26806417,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires, Lares, Puerto Rico",
+    "placetype":"county",
+    "woe:id":26806417,
+    "woe:name":"Buenos Aires, Lares, Puerto Rico",
+    "woe:place_id":"SGHRv2KbB5RCxnc8IQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-66.856728,18.234629,-66.849068,18.23735],
+  "geometry": {"alpha":0.0015,"bbox":[-66.856727600098,18.234628677368,-66.849067687988,18.237350463867],"coordinates":[[[[-66.856728,18.23625],[-66.856163,18.23735],[-66.852119,18.236158],[-66.849068,18.234629],[-66.853554,18.235674],[-66.856728,18.23625]]]],"created":1292442062,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/26806417_20101215_ccd7bb39d9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

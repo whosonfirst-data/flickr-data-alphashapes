@@ -1,0 +1,15 @@
+{
+  "id": 12677923,
+  "type": "Feature",
+  "properties": {
+    "name":"Isolabona, Italy",
+    "placetype":"locality",
+    "woe:id":12677923,
+    "woe:name":"Isolabona, Italy",
+    "woe:place_id":"l0wwbN2YA5olJ21DbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.639414,43.879089,7.640959,43.883629],
+  "geometry": {"alpha":1e-05,"bbox":[7.6394138336182,43.879089355469,7.6409587860107,43.883628845215],"coordinates":[[[[7.639414,43.879089],[7.639478,43.879753],[7.640197,43.883629],[7.640647,43.880108],[7.640959,43.879761],[7.639414,43.879089]]]],"created":1292541702,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12677923_20101216_5b564d325d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

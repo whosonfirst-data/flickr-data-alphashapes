@@ -1,0 +1,15 @@
+{
+  "id": 32962,
+  "type": "Feature",
+  "properties": {
+    "name":"Raveningham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32962,
+    "woe:name":"Raveningham, England, United Kingdom",
+    "woe:place_id":"Y7WJYJ2aA5WEgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.524138,52.496239,1.55435,52.519875],
+  "geometry": {"alpha":0.0001875,"bbox":[1.5241379737854,52.496238708496,1.5543500185013,52.519874572754],"coordinates":[[[[1.532421,52.513348],[1.524138,52.514969],[1.533279,52.519875],[1.536197,52.512302],[1.55435,52.504047],[1.543407,52.496239],[1.532421,52.513348]]]],"created":1292526063,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/32962_20101216_72045066bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

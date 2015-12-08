@@ -1,0 +1,15 @@
+{
+  "id": 12678230,
+  "type": "Feature",
+  "properties": {
+    "name":"Castelfranco Emilia, Italy",
+    "placetype":"locality",
+    "woe:id":12678230,
+    "woe:name":"Castelfranco Emilia, Italy",
+    "woe:place_id":"TL9XsaGYA5o8Xo8CLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.049724,44.591003,11.056022,44.597679],
+  "geometry": {"alpha":1e-05,"bbox":[11.049723625183,44.591003417969,11.056021690369,44.597679138184],"coordinates":[[[[11.056022,44.595722],[11.054037,44.59206],[11.051301,44.591003],[11.049724,44.595524],[11.053447,44.597679],[11.056022,44.595722]]]],"created":1292530858,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12678230_20101216_3e29651036.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

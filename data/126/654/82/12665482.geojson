@@ -1,0 +1,15 @@
+{
+  "id": 12665482,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Sorlin-de-Conac, France",
+    "placetype":"locality",
+    "woe:id":12665482,
+    "woe:name":"St.-Sorlin-de-Conac, France",
+    "woe:place_id":"CPcKzNWYA5roee6JWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.716342,45.328541,-0.713939,45.329823],
+  "geometry": {"alpha":1e-05,"bbox":[-0.71634197235107,45.328540802002,-0.71393901109695,45.329822540283],"coordinates":[[[[-0.716342,45.328918],[-0.715827,45.329643],[-0.713939,45.329823],[-0.71587,45.328541],[-0.716342,45.328918]]]],"created":1292461504,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12665482_20101216_05905d0ff7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

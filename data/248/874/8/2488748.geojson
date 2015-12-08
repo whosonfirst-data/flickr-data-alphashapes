@@ -1,0 +1,15 @@
+{
+  "id": 2488748,
+  "type": "Feature",
+  "properties": {
+    "name":"Sanford Farms, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2488748,
+    "woe:name":"Sanford Farms, Florida, United States",
+    "woe:place_id":"a1G_qFubBZSPB22Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.350998,28.826496,-81.341446,28.830334],
+  "geometry": {"alpha":0.00015,"bbox":[-81.350997924805,28.826496124268,-81.341445922852,28.830333709717],"coordinates":[[[[-81.341446,28.827988],[-81.342773,28.826628],[-81.345001,28.826496],[-81.350998,28.830334],[-81.343666,28.828501],[-81.341446,28.827988]]]],"created":1292525649,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2488748_20101216_772c32f481.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

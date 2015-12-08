@@ -1,0 +1,15 @@
+{
+  "id": 695903,
+  "type": "Feature",
+  "properties": {
+    "name":"Spradow, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":695903,
+    "woe:name":"Spradow, North Rhine-Westphalia, Germany",
+    "woe:place_id":"7AaM0lmfCJlFL2Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.593196,52.209251,8.6068,52.209877],
+  "geometry": {"alpha":0.00015,"bbox":[8.5931959152222,52.209251403809,8.6068000793457,52.20987701416],"coordinates":[[[[8.601091,52.209251],[8.593196,52.209263],[8.60125,52.209877],[8.602013,52.20982],[8.6068,52.209858],[8.601091,52.209251]]]],"created":1292439662,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/695903_20101215_8135b46479.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

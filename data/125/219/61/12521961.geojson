@@ -1,0 +1,15 @@
+{
+  "id": 12521961,
+  "type": "Feature",
+  "properties": {
+    "name":"St Cloud Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12521961,
+    "woe:name":"St Cloud Regional Airport, United States",
+    "woe:place_id":"8Xwp4fCYA5lJflZaXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.065453,45.546013,-94.058464,45.549038],
+  "geometry": {"alpha":1e-05,"bbox":[-94.065452575684,45.546012878418,-94.058464050293,45.54903793335],"coordinates":[[[[-94.063049,45.549038],[-94.058464,45.546013],[-94.063782,45.548168],[-94.065018,45.54821],[-94.065453,45.548981],[-94.063049,45.549038]]]],"created":1292525120,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12521961_20101216_2df0d77caf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

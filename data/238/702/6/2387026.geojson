@@ -1,0 +1,15 @@
+{
+  "id": 2387026,
+  "type": "Feature",
+  "properties": {
+    "name":"Crescent Valley, Nevada, United States",
+    "placetype":"locality",
+    "woe:id":2387026,
+    "woe:name":"Crescent Valley, Nevada, United States",
+    "woe:place_id":"9KRbgFCbApSoRPcD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.591034,40.411926,-116.575539,40.432133],
+  "geometry": {"alpha":0.00015,"bbox":[-116.59103393555,40.411926269531,-116.57553863525,40.432132720947],"coordinates":[[[[-116.584846,40.41362],[-116.591034,40.411926],[-116.581764,40.42178],[-116.575539,40.432133],[-116.579277,40.414459],[-116.584846,40.41362]]]],"created":1292450706,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2387026_20101215_19fa9de100.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

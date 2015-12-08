@@ -1,0 +1,15 @@
+{
+  "id": 2485049,
+  "type": "Feature",
+  "properties": {
+    "name":"Rossville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2485049,
+    "woe:name":"Rossville, Pennsylvania, United States",
+    "woe:place_id":"P1fntUqbBZQk5XYP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.90181,40.063358,-76.89344,40.073921],
+  "geometry": {"alpha":0.00015,"bbox":[-76.901809692383,40.063358306885,-76.893440246582,40.073921203613],"coordinates":[[[[-76.89344,40.067135],[-76.895973,40.063358],[-76.90181,40.069347],[-76.895882,40.072849],[-76.894821,40.073921],[-76.89344,40.067135]]]],"created":1292549103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2485049_20101217_0357ce5673.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

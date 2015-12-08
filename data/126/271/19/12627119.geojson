@@ -1,0 +1,15 @@
+{
+  "id": 12627119,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Bous, Germany",
+    "placetype":"locality",
+    "woe:id":12627119,
+    "woe:name":"Gemeinde Bous, Germany",
+    "woe:place_id":"vwo.StmYA5q2hgbVgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.791664,49.270782,6.792597,49.276024],
+  "geometry": {"alpha":1e-05,"bbox":[6.7916641235352,49.270782470703,6.7925968170166,49.276023864746],"coordinates":[[[[6.792597,49.276024],[6.792222,49.270973],[6.791975,49.270897],[6.791664,49.270782],[6.792597,49.276024]]]],"created":1292543898,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12627119_20101216_8ba42d7f0c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

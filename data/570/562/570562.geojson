@@ -1,0 +1,15 @@
+{
+  "id": 570562,
+  "type": "Feature",
+  "properties": {
+    "name":"Oittila, Western Finland, Finland",
+    "placetype":"locality",
+    "woe:id":570562,
+    "woe:name":"Oittila, Western Finland, Finland",
+    "woe:place_id":"kTnSn3WcBpxbh2g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.683203,61.950493,25.694458,61.978523],
+  "geometry": {"alpha":0.00015,"bbox":[25.68320274353,61.950492858887,25.694458007812,61.978523254395],"coordinates":[[[[25.68721,61.977142],[25.689983,61.964054],[25.694458,61.950493],[25.686893,61.953754],[25.686207,61.967522],[25.683203,61.978523],[25.68721,61.977142]]]],"created":1292466182,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/570562_20101216_e94d9ee576.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

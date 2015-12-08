@@ -1,0 +1,15 @@
+{
+  "id": 20100805,
+  "type": "Feature",
+  "properties": {
+    "name":"Balexert, Canton of Geneva, Switzerland",
+    "placetype":"locality",
+    "woe:id":20100805,
+    "woe:name":"Balexert, Canton of Geneva, Switzerland",
+    "woe:place_id":"9zxI4i2bAZ2lzi5Prg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.110919,46.217873,6.115211,46.219299],
+  "geometry": {"alpha":0.00015,"bbox":[6.1109189987183,46.217872619629,6.1152110099792,46.219299316406],"coordinates":[[[[6.110919,46.218391],[6.111145,46.218945],[6.115211,46.219299],[6.113017,46.218422],[6.11123,46.217873],[6.110919,46.218391]]]],"created":1292445513,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20100805_20101215_6b379d0f3a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

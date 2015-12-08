@@ -1,0 +1,15 @@
+{
+  "id": 612005,
+  "type": "Feature",
+  "properties": {
+    "name":"Monnaie, Centre, France",
+    "placetype":"locality",
+    "woe:id":612005,
+    "woe:name":"Monnaie, Centre, France",
+    "woe:place_id":"acTAUBufAJ6P9.Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.786895,47.494473,0.807709,47.520214],
+  "geometry": {"alpha":0.00015,"bbox":[0.78689497709274,47.494472503662,0.80770897865295,47.520214080811],"coordinates":[[[[0.796165,47.520214],[0.807709,47.512737],[0.798,47.501999],[0.786895,47.494473],[0.787925,47.497372],[0.798,47.501999],[0.807709,47.512737],[0.796165,47.520214]]]],"created":1292450697,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/612005_20101215_401d229281.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

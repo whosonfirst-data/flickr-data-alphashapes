@@ -1,0 +1,15 @@
+{
+  "id": 591117,
+  "type": "Feature",
+  "properties": {
+    "name":"Fleurat, Limousin, France",
+    "placetype":"locality",
+    "woe:id":591117,
+    "woe:name":"Fleurat, Limousin, France",
+    "woe:place_id":"XV2_XeKcCJ31y7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.67181,46.240326,1.681766,46.252285],
+  "geometry": {"alpha":0.00015,"bbox":[1.6718100309372,46.240325927734,1.6817660331726,46.252285003662],"coordinates":[[[[1.679706,46.242241],[1.678633,46.240326],[1.677989,46.241425],[1.67181,46.252285],[1.677711,46.252087],[1.681766,46.247658],[1.679706,46.242241]]]],"created":1292474823,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/591117_20101216_5cc60e2812.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

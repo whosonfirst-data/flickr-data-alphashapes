@@ -1,0 +1,15 @@
+{
+  "id": 763987,
+  "type": "Feature",
+  "properties": {
+    "name":"La Riera, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":763987,
+    "woe:name":"La Riera, Asturias, Spain",
+    "woe:place_id":"9OdXD1KeB5.SZ2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.079116,43.318684,-5.074911,43.325649],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0791158676147,43.318683624268,-5.0749111175537,43.325649261475],"coordinates":[[[[-5.079116,43.324959],[-5.078945,43.325554],[-5.077486,43.325649],[-5.074911,43.320805],[-5.077571,43.318684],[-5.079116,43.324959]]]],"created":1292539052,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/763987_20101216_46103a0608.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2493420,
+  "type": "Feature",
+  "properties": {
+    "name":"Sierra Chino, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2493420,
+    "woe:name":"Sierra Chino, Texas, United States",
+    "woe:place_id":"WRt1UX2bBZVglXAW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.434265,29.055269,-103.432846,29.057894],
+  "geometry": {"alpha":0.00015,"bbox":[-103.43426513672,29.055269241333,-103.43284606934,29.057893753052],"coordinates":[[[[-103.434219,29.055569],[-103.434265,29.057894],[-103.434235,29.05788],[-103.432976,29.055601],[-103.432846,29.055269],[-103.434219,29.055569]]]],"created":1292478122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2493420_20101216_23e736c1d3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

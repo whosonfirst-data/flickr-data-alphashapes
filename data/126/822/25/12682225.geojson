@@ -1,0 +1,15 @@
+{
+  "id": 12682225,
+  "type": "Feature",
+  "properties": {
+    "name":"Torrebelvicino, Italy",
+    "placetype":"locality",
+    "woe:id":12682225,
+    "woe:name":"Torrebelvicino, Italy",
+    "woe:place_id":"lbkpV0SYA5ogfzR9Ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.285308,45.671402,11.28592,45.672962],
+  "geometry": {"alpha":1e-05,"bbox":[11.285307884216,45.671401977539,11.285920143127,45.672962188721],"coordinates":[[[[11.285308,45.671455],[11.285705,45.672512],[11.28592,45.672962],[11.285748,45.67178],[11.285533,45.671402],[11.285308,45.671455]]]],"created":1292523487,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12682225_20101216_627cd584da.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

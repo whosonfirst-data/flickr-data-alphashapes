@@ -1,0 +1,15 @@
+{
+  "id": 1025,
+  "type": "Feature",
+  "properties": {
+    "name":"Moose Factory, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1025,
+    "woe:name":"Moose Factory, Ontario, Canada",
+    "woe:place_id":"yj2mDcuYAZ5Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.62059,51.251064,-80.590897,51.266964],
+  "geometry": {"alpha":0.00015,"bbox":[-80.620590209961,51.251064300537,-80.590896606445,51.26696395874],"coordinates":[[[[-80.598366,51.257267],[-80.604973,51.254608],[-80.615616,51.251064],[-80.62059,51.266964],[-80.613037,51.261215],[-80.600853,51.26041],[-80.590897,51.264816],[-80.598366,51.257267]]]],"created":1292517430,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/1025_20101216_9f281b1d84.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

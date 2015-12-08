@@ -1,0 +1,15 @@
+{
+  "id": 2481789,
+  "type": "Feature",
+  "properties": {
+    "name":"River Bend, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2481789,
+    "woe:name":"River Bend, North Carolina, United States",
+    "woe:place_id":"tceXW2abBZQZ20a2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.157799,35.075081,-77.139534,35.083481],
+  "geometry": {"alpha":0.00015,"bbox":[-77.15779876709,35.075080871582,-77.139533996582,35.083480834961],"coordinates":[[[[-77.153633,35.078018],[-77.157799,35.083076],[-77.153236,35.083481],[-77.140503,35.076687],[-77.139534,35.075081],[-77.153633,35.078018]]]],"created":1292448700,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2481789_20101215_54b6a56ff5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

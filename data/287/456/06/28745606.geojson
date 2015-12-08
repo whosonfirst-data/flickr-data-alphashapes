@@ -1,0 +1,15 @@
+{
+  "id": 28745606,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745606,
+    "woe:name":"Paradise, Pennsylvania, United States",
+    "woe:place_id":"3cI0rUebCZtwqYCsew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.921272,39.902374,-76.912704,39.905029],
+  "geometry": {"alpha":0.00015,"bbox":[-76.921272277832,39.902374267578,-76.912704467773,39.905029296875],"coordinates":[[[[-76.919533,39.905029],[-76.913094,39.903927],[-76.912704,39.902374],[-76.921272,39.904747],[-76.919533,39.905029]]]],"created":1292463724,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/28745606_20101216_a10a541181.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

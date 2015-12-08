@@ -1,0 +1,15 @@
+{
+  "id": 161363,
+  "type": "Feature",
+  "properties": {
+    "name":"Levittown, Toa Baja, Puerto Rico",
+    "placetype":"locality",
+    "woe:id":161363,
+    "woe:name":"Levittown, Toa Baja, Puerto Rico",
+    "woe:place_id":"IdMNCkKYB519bn4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.179176,18.444397,-66.174858,18.447277],
+  "geometry": {"alpha":0.00015,"bbox":[-66.179176330566,18.444396972656,-66.174858093262,18.447277069092],"coordinates":[[[[-66.176964,18.444481],[-66.179176,18.444397],[-66.17878,18.447277],[-66.174858,18.445578],[-66.176964,18.444481]]]],"created":1292455911,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/161363_20101215_3af55bb8a6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

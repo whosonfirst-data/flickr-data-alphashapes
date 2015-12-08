@@ -1,0 +1,15 @@
+{
+  "id": 12648045,
+  "type": "Feature",
+  "properties": {
+    "name":"Saffres, France",
+    "placetype":"locality",
+    "woe:id":12648045,
+    "woe:name":"Saffres, France",
+    "woe:place_id":"jpbImj2YA5rGZQaPZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.575119,47.367817,4.5825,47.373245],
+  "geometry": {"alpha":1e-05,"bbox":[4.5751190185547,47.367816925049,4.5824999809265,47.373245239258],"coordinates":[[[[4.578756,47.368019],[4.576835,47.369408],[4.575119,47.371735],[4.580097,47.373245],[4.5825,47.371384],[4.579335,47.367817],[4.578756,47.368019]]]],"created":1292521356,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12648045_20101216_2487e0eb28.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

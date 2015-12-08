@@ -1,0 +1,15 @@
+{
+  "id": 12632458,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Hirschhorn, Germany",
+    "placetype":"locality",
+    "woe:id":12632458,
+    "woe:name":"Gemeinde Hirschhorn, Germany",
+    "woe:place_id":"VsbzGTyYA5qcwbjuzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.893218,49.445137,8.899011,49.449532],
+  "geometry": {"alpha":1e-05,"bbox":[8.8932180404663,49.445137023926,8.8990106582642,49.449531555176],"coordinates":[[[[8.897037,49.447704],[8.893218,49.449532],[8.897895,49.449379],[8.899011,49.446056],[8.897981,49.445137],[8.897037,49.447704]]]],"created":1292541203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/12632458_20101216_3c8091c3f7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

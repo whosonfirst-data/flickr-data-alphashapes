@@ -1,0 +1,15 @@
+{
+  "id": 23394370,
+  "type": "Feature",
+  "properties": {
+    "name":"Franquelin, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394370,
+    "woe:name":"Franquelin, Quebec, Canada",
+    "woe:place_id":"VxVWprKbAp9ziG2SMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.948036,49.282589,-67.915245,49.291096],
+  "geometry": {"alpha":0.00015,"bbox":[-67.948036193848,49.28258895874,-67.915245056152,49.291095733643],"coordinates":[[[[-67.936447,49.291096],[-67.915245,49.284576],[-67.931213,49.282589],[-67.937988,49.287392],[-67.948036,49.288132],[-67.936447,49.291096]]]],"created":1292495705,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23394370_20101216_f7f60e46e7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

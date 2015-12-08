@@ -1,0 +1,15 @@
+{
+  "id": 2427555,
+  "type": "Feature",
+  "properties": {
+    "name":"Iron Hill, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2427555,
+    "woe:name":"Iron Hill, Delaware, United States",
+    "woe:place_id":"dDGfIlmbBZ6N1JmM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.758972,39.629665,-75.745628,39.640728],
+  "geometry": {"alpha":0.00015,"bbox":[-75.758972167969,39.629665374756,-75.745628356934,39.640727996826],"coordinates":[[[[-75.757553,39.634464],[-75.758972,39.636761],[-75.757065,39.640728],[-75.754166,39.636101],[-75.745628,39.629665],[-75.757553,39.634464]]]],"created":1292469244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2427555_20101216_cb7f66c7c7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

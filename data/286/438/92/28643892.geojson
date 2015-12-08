@@ -1,0 +1,15 @@
+{
+  "id": 28643892,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Alice, Manawatu Wanganui, New Zealand",
+    "placetype":"locality",
+    "woe:id":28643892,
+    "woe:name":"Lake Alice, Manawatu Wanganui, New Zealand",
+    "woe:place_id":"wdeds42bCZoAIvo5IQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [175.328644,-40.127506,175.337631,-40.122452],
+  "geometry": {"alpha":0.00015,"bbox":[175.32864379883,-40.127506256104,175.33763122559,-40.122451782227],"coordinates":[[[[175.333038,-40.122452],[175.33699,-40.124554],[175.337631,-40.127506],[175.33107,-40.125782],[175.328644,-40.12352],[175.333038,-40.122452]]]],"created":1292481425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/28643892_20101216_42c09111f8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

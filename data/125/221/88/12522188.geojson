@@ -1,0 +1,15 @@
+{
+  "id": 12522188,
+  "type": "Feature",
+  "properties": {
+    "name":"Tri Cities Airport, United States",
+    "placetype":"locality",
+    "woe:id":12522188,
+    "woe:name":"Tri Cities Airport, United States",
+    "woe:place_id":"OhsZWoyYA5k33w4v.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.116966,46.249992,-119.11264,46.250542],
+  "geometry": {"alpha":1e-05,"bbox":[-119.11696624756,46.249992370605,-119.11264038086,46.250541687012],"coordinates":[[[[-119.11602,46.249992],[-119.116966,46.250389],[-119.115852,46.250252],[-119.11264,46.250542],[-119.11602,46.249992]]]],"created":1248314539,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3438/shapefiles/12522188_20090723_2d176cdcb8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

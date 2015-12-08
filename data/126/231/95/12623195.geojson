@@ -1,0 +1,15 @@
+{
+  "id": 12623195,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Owen, Germany",
+    "placetype":"locality",
+    "woe:id":12623195,
+    "woe:name":"Gemeinde Owen, Germany",
+    "woe:place_id":"NhSQom.YA5qN5Nl0GQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.464292,48.589951,9.46824,48.595917],
+  "geometry": {"alpha":1e-05,"bbox":[9.4642915725708,48.589950561523,9.4682397842407,48.595916748047],"coordinates":[[[[9.4647,48.595917],[9.467955,48.594254],[9.46824,48.589951],[9.465579,48.592506],[9.46455,48.593811],[9.464292,48.594093],[9.4647,48.595917]]]],"created":1292507645,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12623195_20101216_ff97f027cd.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

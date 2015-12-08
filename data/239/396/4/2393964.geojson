@@ -1,0 +1,15 @@
+{
+  "id": 2393964,
+  "type": "Feature",
+  "properties": {
+    "name":"Dublin, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2393964,
+    "woe:name":"Dublin, Pennsylvania, United States",
+    "woe:place_id":"q1o01j6bApUG5kbe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.220863,40.361183,-75.190277,40.382111],
+  "geometry": {"alpha":0.00015,"bbox":[-75.220863342285,40.361183166504,-75.190277099609,40.382110595703],"coordinates":[[[[-75.199593,40.378601],[-75.190277,40.37122],[-75.194916,40.365234],[-75.215279,40.361183],[-75.220863,40.382111],[-75.21077,40.375534],[-75.199593,40.378601]]]],"created":1292528605,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2393964_20101216_dfa6104768.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

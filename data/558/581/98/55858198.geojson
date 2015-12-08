@@ -1,0 +1,15 @@
+{
+  "id": 55858198,
+  "type": "Feature",
+  "properties": {
+    "name":"Madison, Bridgeport, CT, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55858198,
+    "woe:name":"Madison, Bridgeport, CT, US, United States",
+    "woe:place_id":"qCf7_GqcBJTHwjTrqA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-73.222328,41.197323,-73.219528,41.199062],
+  "geometry": {"alpha":1e-05,"bbox":[-73.222328186035,41.197322845459,-73.219528198242,41.199062347412],"coordinates":[[[[-73.221008,41.199062],[-73.219627,41.198677],[-73.219528,41.198421],[-73.222328,41.197323],[-73.221008,41.199062]]]],"created":1292526836,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/55858198_20101216_1eafba2a66.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

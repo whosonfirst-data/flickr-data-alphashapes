@@ -1,0 +1,15 @@
+{
+  "id": 712053,
+  "type": "Feature",
+  "properties": {
+    "name":"Cantalice, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":712053,
+    "woe:name":"Cantalice, Lazio, Italy",
+    "woe:place_id":"C3cloyqeAJ4Zye4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.903442,42.465988,12.918634,42.469753],
+  "geometry": {"alpha":0.00015,"bbox":[12.903442382812,42.46598815918,12.918634414673,42.469753265381],"coordinates":[[[[12.904815,42.465988],[12.90359,42.467381],[12.903442,42.469055],[12.914342,42.469753],[12.918634,42.46722],[12.907819,42.467602],[12.904815,42.465988]]]],"created":1292518280,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/712053_20101216_e7426d73cb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

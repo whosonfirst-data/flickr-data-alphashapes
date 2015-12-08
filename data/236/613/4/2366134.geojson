@@ -1,0 +1,15 @@
+{
+  "id": 2366134,
+  "type": "Feature",
+  "properties": {
+    "name":"Blythedale, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2366134,
+    "woe:name":"Blythedale, Maryland, United States",
+    "woe:place_id":"2pidGaibAprLjyGb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.075058,39.58688,-76.054443,39.597469],
+  "geometry": {"alpha":0.00015,"bbox":[-76.075057983398,39.586879730225,-76.054443359375,39.597469329834],"coordinates":[[[[-76.075058,39.587112],[-76.072975,39.588734],[-76.069702,39.590649],[-76.054443,39.597469],[-76.067528,39.58688],[-76.075058,39.587112]]]],"created":1292448230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2366134_20101215_78a90e1f1d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

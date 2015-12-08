@@ -1,0 +1,15 @@
+{
+  "id": 160297,
+  "type": "Feature",
+  "properties": {
+    "name":"Santiago, Veraguas, Panama",
+    "placetype":"locality",
+    "woe:id":160297,
+    "woe:name":"Santiago, Veraguas, Panama",
+    "woe:place_id":"YTmI0h2YB5y999U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.979538,8.09747,-80.970268,8.109196],
+  "geometry": {"alpha":0.00015,"bbox":[-80.979537963867,8.0974702835083,-80.970268249512,8.1091957092285],"coordinates":[[[[-80.971298,8.105117],[-80.970268,8.101463],[-80.970955,8.098574],[-80.979538,8.09747],[-80.979538,8.108516],[-80.972672,8.109196],[-80.971298,8.105117]]]],"created":1248264850,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2527/shapefiles/160297_20090722_9bc452221e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 108415,
+  "type": "Feature",
+  "properties": {
+    "name":"Boston, Portland, Jamaica",
+    "placetype":"locality",
+    "woe:id":108415,
+    "woe:name":"Boston, Portland, Jamaica",
+    "woe:place_id":"UtT2QIiYAZS7_64",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.3591,18.133453,-76.336609,18.160532],
+  "geometry": {"alpha":0.00015,"bbox":[-76.359100341797,18.133453369141,-76.336608886719,18.160531997681],"coordinates":[[[[-76.358238,18.158005],[-76.357552,18.159962],[-76.356522,18.160532],[-76.352921,18.160532],[-76.348457,18.15629],[-76.347343,18.154089],[-76.346909,18.153193],[-76.336609,18.146177],[-76.346741,18.133453],[-76.3591,18.145199],[-76.3591,18.156046],[-76.358238,18.158005]]]],"created":1292501957,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/108415_20101216_a727e68bb7.tar.gz"},"points":41,"type":"MultiPolygon"}
+}

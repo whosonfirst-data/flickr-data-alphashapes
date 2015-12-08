@@ -1,0 +1,15 @@
+{
+  "id": 2447391,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayville, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2447391,
+    "woe:name":"Mayville, North Dakota, United States",
+    "woe:place_id":"crP8ss6bBZgP5oDj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.326721,47.488934,-97.321892,47.504272],
+  "geometry": {"alpha":0.00015,"bbox":[-97.326721191406,47.488933563232,-97.321891784668,47.504272460938],"coordinates":[[[[-97.323822,47.500259],[-97.321892,47.488934],[-97.324501,47.498001],[-97.326721,47.50053],[-97.326591,47.504272],[-97.323822,47.500259]]]],"created":1292545685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2447391_20101217_b6af30313a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

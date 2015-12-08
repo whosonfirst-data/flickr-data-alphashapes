@@ -1,0 +1,15 @@
+{
+  "id": 20071759,
+  "type": "Feature",
+  "properties": {
+    "name":"Liscleary, Ireland",
+    "placetype":"locality",
+    "woe:id":20071759,
+    "woe:name":"Liscleary, Ireland",
+    "woe:place_id":"vRhGtUGbAZwi.ySnuQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.392666,51.81628,-8.391151,51.818165],
+  "geometry": {"alpha":1e-05,"bbox":[-8.3926658630371,51.81628036499,-8.3911514282227,51.818164825439],"coordinates":[[[[-8.392666,51.816418],[-8.391638,51.818165],[-8.391151,51.81628],[-8.392638,51.816303],[-8.392666,51.81636],[-8.392666,51.816418]]]],"created":1292536299,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/20071759_20101216_e61fb0b172.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 667015,
+  "type": "Feature",
+  "properties": {
+    "name":"Kleinliebenau, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":667015,
+    "woe:name":"Kleinliebenau, Saxony, Germany",
+    "woe:place_id":"pdZ5udifB5syUHk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.197341,51.363342,12.219371,51.376602],
+  "geometry": {"alpha":0.00015,"bbox":[12.197340965271,51.363342285156,12.21937084198,51.376602172852],"coordinates":[[[[12.197347,51.370705],[12.197341,51.3708],[12.197463,51.370724],[12.215552,51.376602],[12.219371,51.374565],[12.208115,51.363342],[12.197347,51.370705]]]],"created":1292475064,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/667015_20101216_aa7bf13995.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

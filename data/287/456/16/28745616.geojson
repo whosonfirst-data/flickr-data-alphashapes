@@ -1,0 +1,15 @@
+{
+  "id": 28745616,
+  "type": "Feature",
+  "properties": {
+    "name":"Butler, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745616,
+    "woe:name":"Butler, Pennsylvania, United States",
+    "woe:place_id":"46lUgiibCZt_oKg3aA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.229294,39.879692,-77.223587,39.889652],
+  "geometry": {"alpha":0.00015,"bbox":[-77.229293823242,39.879692077637,-77.223587036133,39.889652252197],"coordinates":[[[[-77.228889,39.879692],[-77.229294,39.882275],[-77.223587,39.889652],[-77.225044,39.880993],[-77.22728,39.880234],[-77.228889,39.879692]]]],"created":1292537735,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/28745616_20101216_28c03cda0b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

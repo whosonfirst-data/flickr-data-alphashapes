@@ -1,0 +1,15 @@
+{
+  "id": 2363990,
+  "type": "Feature",
+  "properties": {
+    "name":"Big Falls, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2363990,
+    "woe:name":"Big Falls, Wisconsin, United States",
+    "woe:place_id":"kucypGibApqT6Jo7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.037331,44.607731,-89.000885,44.623447],
+  "geometry": {"alpha":0.00015,"bbox":[-89.037330627441,44.607730865479,-89.000885009766,44.623447418213],"coordinates":[[[[-89.01445,44.619431],[-89.000885,44.607731],[-89.01445,44.619156],[-89.015793,44.620014],[-89.037331,44.623447],[-89.015434,44.62093],[-89.01445,44.619431]]]],"created":1292500144,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2363990_20101216_744de3d54a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

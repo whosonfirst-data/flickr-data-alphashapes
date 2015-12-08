@@ -1,0 +1,15 @@
+{
+  "id": 2359947,
+  "type": "Feature",
+  "properties": {
+    "name":"Batestown, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2359947,
+    "woe:name":"Batestown, Illinois, United States",
+    "woe:place_id":"jORADH2bApmXmRPu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.727119,40.109177,-87.705582,40.122288],
+  "geometry": {"alpha":0.00015,"bbox":[-87.727119445801,40.109176635742,-87.705581665039,40.122287750244],"coordinates":[[[[-87.727119,40.121387],[-87.725784,40.122288],[-87.715874,40.116085],[-87.705582,40.119484],[-87.714584,40.109177],[-87.727119,40.121387]]]],"created":1292519403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2359947_20101216_e95144d262.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

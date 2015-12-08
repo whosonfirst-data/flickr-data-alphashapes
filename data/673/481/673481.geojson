@@ -1,0 +1,15 @@
+{
+  "id": 673481,
+  "type": "Feature",
+  "properties": {
+    "name":"Maihingen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":673481,
+    "woe:name":"Maihingen, Bavaria, Germany",
+    "woe:place_id":"1GX2W_CfBp9Pn8Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.491245,48.910637,10.500288,48.928802],
+  "geometry": {"alpha":0.00015,"bbox":[10.491245269775,48.910636901855,10.500288009644,48.928802490234],"coordinates":[[[[10.491245,48.928802],[10.497779,48.928589],[10.500288,48.927723],[10.492092,48.910637],[10.493324,48.92469],[10.49126,48.928715],[10.491245,48.928802]]]],"created":1292531378,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/673481_20101216_c19d5d8082.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

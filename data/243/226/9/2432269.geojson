@@ -1,0 +1,15 @@
+{
+  "id": 2432269,
+  "type": "Feature",
+  "properties": {
+    "name":"Kill Buck, New York, United States",
+    "placetype":"locality",
+    "woe:id":2432269,
+    "woe:name":"Kill Buck, New York, United States",
+    "woe:place_id":"FofCWECbBZ.e_eCc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.706909,42.124519,-78.697044,42.12595],
+  "geometry": {"alpha":0.00015,"bbox":[-78.706909179688,42.124519348145,-78.697044372559,42.125949859619],"coordinates":[[[[-78.706909,42.124519],[-78.706032,42.125904],[-78.701363,42.12595],[-78.697044,42.125664],[-78.704018,42.125202],[-78.706909,42.124519]]]],"created":1292518683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2432269_20101216_0a6d7367ce.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

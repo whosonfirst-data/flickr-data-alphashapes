@@ -1,0 +1,15 @@
+{
+  "id": 12686909,
+  "type": "Feature",
+  "properties": {
+    "name":"Wuzhong, China",
+    "placetype":"locality",
+    "woe:id":12686909,
+    "woe:name":"Wuzhong, China",
+    "woe:place_id":"AAGiYP.YA5qqsaiFdA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [106.181808,37.994041,106.183075,37.998657],
+  "geometry": {"alpha":1e-05,"bbox":[106.18180847168,37.994041442871,106.18307495117,37.998657226562],"coordinates":[[[[106.18219,37.998253],[106.182381,37.998341],[106.182465,37.998379],[106.182777,37.998524],[106.183075,37.998657],[106.181808,37.994041],[106.18219,37.998253]]]],"created":1292520124,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12686909_20101216_80b176c2d4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

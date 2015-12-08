@@ -1,0 +1,15 @@
+{
+  "id": 2500356,
+  "type": "Feature",
+  "properties": {
+    "name":"Stones Throw, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2500356,
+    "woe:name":"Stones Throw, Delaware, United States",
+    "woe:place_id":"yV8u6G6bBJypnJP_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.744812,39.630844,-75.730873,39.641388],
+  "geometry": {"alpha":0.00015,"bbox":[-75.744812011719,39.630844116211,-75.73087310791,39.641387939453],"coordinates":[[[[-75.744476,39.630844],[-75.744812,39.630932],[-75.740334,39.637165],[-75.735626,39.641388],[-75.730873,39.638569],[-75.744476,39.630844]]]],"created":1292525671,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2500356_20101216_a2ff2cb2c9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

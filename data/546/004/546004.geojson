@@ -1,0 +1,15 @@
+{
+  "id": 546004,
+  "type": "Feature",
+  "properties": {
+    "name":"Neukirchen, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":546004,
+    "woe:name":"Neukirchen, Upper Austria, Austria",
+    "woe:place_id":"PxQI_dqcBZpI2cA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.534469,48.022999,13.544769,48.041],
+  "geometry": {"alpha":0.00015,"bbox":[13.534468650818,48.022998809814,13.544769287109,48.041000366211],"coordinates":[[[[13.542667,48.029835],[13.544769,48.022999],[13.534469,48.028767],[13.538503,48.041],[13.538932,48.040733],[13.542667,48.029835]]]],"created":1292519503,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/546004_20101216_456889dc7c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

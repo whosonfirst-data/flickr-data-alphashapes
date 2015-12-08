@@ -1,0 +1,15 @@
+{
+  "id": 645225,
+  "type": "Feature",
+  "properties": {
+    "name":"Dorfen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":645225,
+    "woe:name":"Dorfen, Bavaria, Germany",
+    "woe:place_id":"98BZC72fBZldqW8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.136209,48.263767,12.15466,48.281593],
+  "geometry": {"alpha":0.00015,"bbox":[12.136208534241,48.263767242432,12.154660224915,48.281593322754],"coordinates":[[[[12.152767,48.275993],[12.15466,48.27029],[12.152595,48.263767],[12.147102,48.264397],[12.139422,48.27433],[12.136209,48.280857],[12.147874,48.281593],[12.152767,48.275993]]]],"created":1292510823,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/645225_20101216_55c7933cf3.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

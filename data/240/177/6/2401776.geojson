@@ -1,0 +1,15 @@
+{
+  "id": 2401776,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairview, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2401776,
+    "woe:name":"Fairview, Ohio, United States",
+    "woe:place_id":"5ycV0UebBZy0Wff5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.241577,40.056133,-81.220947,40.065659],
+  "geometry": {"alpha":0.00015,"bbox":[-81.241577148438,40.056133270264,-81.220947265625,40.065658569336],"coordinates":[[[[-81.229904,40.056133],[-81.241577,40.05714],[-81.234367,40.065659],[-81.228958,40.059055],[-81.220947,40.056419],[-81.229904,40.056133]]]],"created":1292477526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2401776_20101216_f0e4801b63.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 723058,
+  "type": "Feature",
+  "properties": {
+    "name":"San Polo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":723058,
+    "woe:name":"San Polo, Lombardy, Italy",
+    "woe:place_id":"pvP3I1OeA58f.Is",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.241703,45.505383,10.256123,45.520645],
+  "geometry": {"alpha":0.00015,"bbox":[10.241703033447,45.505382537842,10.256122589111,45.520645141602],"coordinates":[[[[10.244836,45.515198],[10.242691,45.517521],[10.241703,45.518284],[10.243763,45.520645],[10.255308,45.511143],[10.256123,45.506618],[10.25299,45.505383],[10.251617,45.50803],[10.244836,45.515198]]]],"created":1292550083,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/723058_20101217_752106edf8.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

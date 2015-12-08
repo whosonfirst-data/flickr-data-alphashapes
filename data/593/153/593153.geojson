@@ -1,0 +1,15 @@
+{
+  "id": 593153,
+  "type": "Feature",
+  "properties": {
+    "name":"Goos, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":593153,
+    "woe:name":"Goos, Aquitaine, France",
+    "woe:place_id":"2qqc8h2cCJ96qhM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.88898,43.71101,-0.87603,43.717999],
+  "geometry": {"alpha":0.00244140625,"bbox":[-0.88897997140884,43.711009979248,-0.87603002786636,43.717998504639],"coordinates":[[[[-0.87812,43.717018],[-0.87603,43.717999],[-0.87796,43.716969],[-0.88898,43.71101],[-0.88897,43.711029],[-0.87812,43.717018]]]],"created":1292406244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/593153_20101215_a082ba029e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

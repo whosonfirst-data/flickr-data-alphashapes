@@ -1,0 +1,15 @@
+{
+  "id": 12582239,
+  "type": "Feature",
+  "properties": {
+    "name":"Restinga, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":12582239,
+    "woe:name":"Restinga, Sao Paulo, Brazil",
+    "woe:place_id":"N9Saz76YA5miht6geQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-47.470894,-20.615913,-47.438793,-20.591852],
+  "geometry": {"alpha":0.0015,"bbox":[-47.470893859863,-20.615913391113,-47.438793182373,-20.59185218811],"coordinates":[[[[-47.438793,-20.591852],[-47.444168,-20.599167],[-47.470894,-20.615913],[-47.44278,-20.59639],[-47.438793,-20.591852]]]],"created":1292536108,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12582239_20101216_5ddfdc539d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

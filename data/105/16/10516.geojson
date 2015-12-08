@@ -1,0 +1,15 @@
+{
+  "id": 10516,
+  "type": "Feature",
+  "properties": {
+    "name":"Albourne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10516,
+    "woe:name":"Albourne, England, United Kingdom",
+    "woe:place_id":"yo3YPY2YAZkHGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.221443,50.925869,-0.193634,50.939445],
+  "geometry": {"alpha":0.00015,"bbox":[-0.2214429974556,50.925868988037,-0.1936340034008,50.939445495605],"coordinates":[[[[-0.197496,50.935928],[-0.193634,50.930035],[-0.197582,50.925869],[-0.200757,50.933388],[-0.221443,50.939445],[-0.199298,50.936146],[-0.197496,50.935928]]]],"created":1292534304,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/10516_20101216_7824dfcf13.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 132567,
+  "type": "Feature",
+  "properties": {
+    "name":"Luis L. Leon, Chihuahua, Mexico",
+    "placetype":"locality",
+    "woe:id":132567,
+    "woe:name":"Luis L. Leon, Chihuahua, Mexico",
+    "woe:place_id":"cqzlVaSYAp539h8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.299492,28.946871,-105.291077,28.981264],
+  "geometry": {"alpha":0.00015,"bbox":[-105.29949188232,28.946870803833,-105.29107666016,28.98126411438],"coordinates":[[[[-105.297943,28.981264],[-105.291077,28.977434],[-105.295029,28.959038],[-105.299492,28.946871],[-105.297775,28.962641],[-105.297943,28.981264]]]],"created":1292507419,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/132567_20101216_2023673fcc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12625803,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Mittelherwigsdorf, Germany",
+    "placetype":"locality",
+    "woe:id":12625803,
+    "woe:name":"Gemeinde Mittelherwigsdorf, Germany",
+    "woe:place_id":"4dXlwrCYA5qPbEhJeA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.743309,50.919754,14.743824,50.921162],
+  "geometry": {"alpha":1e-05,"bbox":[14.743309020996,50.91975402832,14.743824005127,50.921161651611],"coordinates":[[[[14.743824,50.920242],[14.743824,50.919754],[14.743309,50.920025],[14.743309,50.920837],[14.743309,50.921162],[14.743824,50.920242]]]],"created":1292487425,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12625803_20101216_b250c33afa.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

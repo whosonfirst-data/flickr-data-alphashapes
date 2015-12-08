@@ -1,0 +1,15 @@
+{
+  "id": 20133603,
+  "type": "Feature",
+  "properties": {
+    "name":"Navazzo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20133603,
+    "woe:name":"Navazzo, Lombardy, Italy",
+    "woe:place_id":"cggrrTKbAZ39qufLaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.632362,45.673038,10.638585,45.685947],
+  "geometry": {"alpha":0.00015,"bbox":[10.632362365723,45.673038482666,10.638585090637,45.685947418213],"coordinates":[[[[10.635313,45.682549],[10.638585,45.673038],[10.635227,45.682503],[10.632362,45.684956],[10.632576,45.685947],[10.63425,45.684868],[10.635313,45.682549]]]],"created":1292471469,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20133603_20101216_f881393fd5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

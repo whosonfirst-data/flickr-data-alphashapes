@@ -1,0 +1,15 @@
+{
+  "id": 654341,
+  "type": "Feature",
+  "properties": {
+    "name":"Gronau, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":654341,
+    "woe:name":"Gronau, Hesse, Germany",
+    "woe:place_id":"Um20zeufBJjQTpc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.673963,49.664246,8.699329,49.681458],
+  "geometry": {"alpha":0.00015,"bbox":[8.6739625930786,49.664245605469,8.6993293762207,49.681457519531],"coordinates":[[[[8.699329,49.680641],[8.699268,49.679222],[8.691451,49.664932],[8.689219,49.664246],[8.673963,49.681458],[8.689661,49.67638],[8.699329,49.680641]]]],"created":1292540964,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/654341_20101216_e852644e1e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 329626,
+  "type": "Feature",
+  "properties": {
+    "name":"Altona, Saint Thomas Island, US Virgin Islands",
+    "placetype":"locality",
+    "woe:id":329626,
+    "woe:name":"Altona, Saint Thomas Island, US Virgin Islands",
+    "woe:place_id":"43ckaWGaA5XIPHo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.939209,18.338583,-64.938667,18.339666],
+  "geometry": {"alpha":0.00015,"bbox":[-64.939208984375,18.338582992554,-64.938667297363,18.339666366577],"coordinates":[[[[-64.938721,18.338943],[-64.938667,18.338667],[-64.938789,18.338583],[-64.939209,18.339077],[-64.939163,18.339666],[-64.938721,18.338943]]]],"created":1292534365,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/329626_20101216_21372c6870.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

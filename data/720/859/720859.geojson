@@ -1,0 +1,15 @@
+{
+  "id": 720859,
+  "type": "Feature",
+  "properties": {
+    "name":"Polverigi, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":720859,
+    "woe:name":"Polverigi, Marche, Italy",
+    "woe:place_id":"80pqtFCeA5w8xsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.386669,43.524902,13.409843,43.535519],
+  "geometry": {"alpha":0.00015,"bbox":[13.386669158936,43.52490234375,13.409843444824,43.53551864624],"coordinates":[[[[13.39405,43.524902],[13.386669,43.525589],[13.394479,43.532494],[13.404972,43.535519],[13.409843,43.530441],[13.395612,43.525711],[13.39405,43.524902]]]],"created":1292518322,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/720859_20101216_33c3f80854.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

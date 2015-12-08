@@ -1,0 +1,15 @@
+{
+  "id": 1106865,
+  "type": "Feature",
+  "properties": {
+    "name":"Woombye, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1106865,
+    "woe:name":"Woombye, Queensland, Australia",
+    "woe:place_id":"Q53zsi6YAJw84Hq1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.968826,-26.671083,152.991486,-26.655128],
+  "geometry": {"alpha":0.00015,"bbox":[152.96882629395,-26.671083450317,152.9914855957,-26.655128479004],"coordinates":[[[[152.971222,-26.66955],[152.969162,-26.670469],[152.968826,-26.655128],[152.976028,-26.665562],[152.991486,-26.671083],[152.975693,-26.66885],[152.971222,-26.66955]]]],"created":1292519807,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/1106865_20101216_9f45301a11.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

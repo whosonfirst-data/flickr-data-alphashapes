@@ -1,0 +1,15 @@
+{
+  "id": 12683700,
+  "type": "Feature",
+  "properties": {
+    "name":"Holderbank, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683700,
+    "woe:name":"Holderbank, Switzerland",
+    "woe:place_id":"r.zpacCYA5rvCTjdmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.729911,47.323814,7.73077,47.325619],
+  "geometry": {"alpha":1e-05,"bbox":[7.7299108505249,47.32381439209,7.730770111084,47.325618743896],"coordinates":[[[[7.729911,47.325035],[7.73077,47.325619],[7.730705,47.324337],[7.73077,47.323814],[7.729911,47.325035]]]],"created":1292471047,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12683700_20101216_a8eb84f7ea.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

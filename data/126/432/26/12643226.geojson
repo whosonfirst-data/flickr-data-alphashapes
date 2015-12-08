@@ -1,0 +1,15 @@
+{
+  "id": 12643226,
+  "type": "Feature",
+  "properties": {
+    "name":"Ecquevilly, France",
+    "placetype":"locality",
+    "woe:id":12643226,
+    "woe:name":"Ecquevilly, France",
+    "woe:place_id":"9bMPfAOYA5oD3cjnKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.915278,48.934502,1.918167,48.937202],
+  "geometry": {"alpha":1e-05,"bbox":[1.9152779579163,48.934501647949,1.9181669950485,48.937202453613],"coordinates":[[[[1.915667,48.936169],[1.915278,48.937202],[1.916333,48.936169],[1.918167,48.934666],[1.918167,48.934502],[1.915667,48.936169]]]],"created":1292533842,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12643226_20101216_237b910f63.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

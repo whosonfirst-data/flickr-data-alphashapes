@@ -1,0 +1,15 @@
+{
+  "id": 2515915,
+  "type": "Feature",
+  "properties": {
+    "name":"Webster Crossing, New York, United States",
+    "placetype":"locality",
+    "woe:id":2515915,
+    "woe:name":"Webster Crossing, New York, United States",
+    "woe:place_id":"2kMgQ6abBJ0Gqh69",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.59948,42.668613,-77.587509,42.685001],
+  "geometry": {"alpha":0.00015,"bbox":[-77.599479675293,42.668613433838,-77.587509155273,42.685001373291],"coordinates":[[[[-77.587509,42.677639],[-77.587677,42.675179],[-77.59066,42.672054],[-77.59948,42.668613],[-77.589165,42.685001],[-77.587509,42.677639]]]],"created":1292522259,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2515915_20101216_6734964307.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

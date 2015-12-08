@@ -1,0 +1,15 @@
+{
+  "id": 55885255,
+  "type": "Feature",
+  "properties": {
+    "name":"Morelos, Puebla, PU, MX, Mexico",
+    "placetype":"neighbourhood",
+    "woe:id":55885255,
+    "woe:name":"Morelos, Puebla, PU, MX, Mexico",
+    "woe:place_id":"gfcFGOScBJSHEVgFIw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-98.194344,19.062544,-98.191162,19.064461],
+  "geometry": {"alpha":1e-05,"bbox":[-98.194343566895,19.062543869019,-98.191162109375,19.064460754395],"coordinates":[[[[-98.191162,19.064461],[-98.191727,19.062544],[-98.194344,19.06374],[-98.191757,19.064409],[-98.191162,19.064461]]]],"created":1292532799,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/55885255_20101216_59e7db6204.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

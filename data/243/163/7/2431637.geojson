@@ -1,0 +1,15 @@
+{
+  "id": 2431637,
+  "type": "Feature",
+  "properties": {
+    "name":"Kensington Heights, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2431637,
+    "woe:name":"Kensington Heights, Maryland, United States",
+    "woe:place_id":"1snjisGbBZ8KrKiv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.074509,39.026131,-77.062286,39.03447],
+  "geometry": {"alpha":0.00015,"bbox":[-77.074508666992,39.02613067627,-77.062286376953,39.034469604492],"coordinates":[[[[-77.06411,39.03447],[-77.062286,39.032578],[-77.074509,39.026131],[-77.071281,39.032818],[-77.067657,39.034271],[-77.06411,39.03447]]]],"created":1292512624,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2431637_20101216_f77dbe0469.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

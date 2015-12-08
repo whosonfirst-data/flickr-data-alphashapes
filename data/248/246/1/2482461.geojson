@@ -1,0 +1,15 @@
+{
+  "id": 2482461,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverwood, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2482461,
+    "woe:name":"Riverwood, Oregon, United States",
+    "woe:place_id":"l4YKex.bBZSSU7Gb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.678146,45.440018,-122.664856,45.445168],
+  "geometry": {"alpha":0.00015,"bbox":[-122.6781463623,45.440017700195,-122.66485595703,45.445167541504],"coordinates":[[[[-122.674026,45.440018],[-122.6754,45.441345],[-122.678146,45.443272],[-122.664856,45.445168],[-122.674026,45.440018]]]],"created":1234489565,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3366/shapefiles/2482461_20090213_db64c25103.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 65921,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmira, Cienfuegos, Cuba",
+    "placetype":"locality",
+    "woe:id":65921,
+    "woe:name":"Palmira, Cienfuegos, Cuba",
+    "woe:place_id":"DR9yZyGfBJVeAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.403557,22.228483,-80.389709,22.24498],
+  "geometry": {"alpha":0.00015,"bbox":[-80.40355682373,22.228483200073,-80.389709472656,22.244979858398],"coordinates":[[[[-80.393272,22.241051],[-80.403557,22.228483],[-80.394684,22.244297],[-80.391159,22.24498],[-80.389709,22.242311],[-80.393272,22.241051]]]],"created":1292549113,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/65921_20101217_39ac7aa229.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

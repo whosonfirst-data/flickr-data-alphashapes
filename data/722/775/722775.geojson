@@ -1,0 +1,15 @@
+{
+  "id": 722775,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lugano, Trentino-Alto Adige, Italy",
+    "placetype":"locality",
+    "woe:id":722775,
+    "woe:name":"San Lugano, Trentino-Alto Adige, Italy",
+    "woe:place_id":"RxDjFbqeA56S.rc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.383552,46.306625,11.39294,46.322273],
+  "geometry": {"alpha":0.00015,"bbox":[11.383551597595,46.306625366211,11.392939567566,46.322273254395],"coordinates":[[[[11.38365,46.322262],[11.383715,46.322273],[11.389989,46.31805],[11.39294,46.311325],[11.383552,46.306625],[11.38365,46.322262]]]],"created":1292439827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/722775_20101215_823c109f01.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

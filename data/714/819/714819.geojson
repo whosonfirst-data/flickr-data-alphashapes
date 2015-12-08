@@ -1,0 +1,15 @@
+{
+  "id": 714819,
+  "type": "Feature",
+  "properties": {
+    "name":"Cremolino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":714819,
+    "woe:name":"Cremolino, Piedmont, Italy",
+    "woe:place_id":"7xluqNCeAJhCQqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.584914,44.632908,8.590793,44.636017],
+  "geometry": {"alpha":0.00015,"bbox":[8.5849142074585,44.632907867432,8.5907926559448,44.636016845703],"coordinates":[[[[8.586199,44.63382],[8.584914,44.635956],[8.585107,44.636017],[8.590793,44.632908],[8.588926,44.632992],[8.58621,44.633808],[8.586199,44.63382]]]],"created":1292453660,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/714819_20101215_6624bb692f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

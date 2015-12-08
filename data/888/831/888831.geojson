@@ -1,0 +1,15 @@
+{
+  "id": 888831,
+  "type": "Feature",
+  "properties": {
+    "name":"Eket, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":888831,
+    "woe:name":"Eket, Skane, Sweden",
+    "woe:place_id":"AUFb5MqRCZTuzoE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.168461,56.214104,13.180847,56.243347],
+  "geometry": {"alpha":0.00015,"bbox":[13.168460845947,56.21410369873,13.180847167969,56.243347167969],"coordinates":[[[[13.168461,56.229618],[13.175354,56.243347],[13.179834,56.234921],[13.180418,56.226845],[13.180847,56.214104],[13.170247,56.228443],[13.168461,56.229618]]]],"created":1292536562,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/888831_20101216_a41a33dd77.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

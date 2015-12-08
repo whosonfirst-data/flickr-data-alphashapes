@@ -1,0 +1,15 @@
+{
+  "id": 2440082,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Acre, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2440082,
+    "woe:name":"Little Acre, Indiana, United States",
+    "woe:place_id":"H08_LH6bBZiCg7Zy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.896164,39.033951,-85.892426,39.034851],
+  "geometry": {"alpha":0.00015,"bbox":[-85.89616394043,39.033950805664,-85.892425537109,39.034851074219],"coordinates":[[[[-85.892426,39.034851],[-85.892838,39.034035],[-85.894836,39.033951],[-85.896164,39.034111],[-85.892426,39.034851]]]],"created":1292525584,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2440082_20101216_92ac06b9c3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

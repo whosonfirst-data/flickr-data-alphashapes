@@ -1,0 +1,15 @@
+{
+  "id": 350003,
+  "type": "Feature",
+  "properties": {
+    "name":"Chincolco, Valparaiso Region, Chile",
+    "placetype":"locality",
+    "woe:id":350003,
+    "woe:name":"Chincolco, Valparaiso Region, Chile",
+    "woe:place_id":"p.o.v_CaBJywhsU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.835381,-32.229065,-70.817871,-32.217522],
+  "geometry": {"alpha":0.00015,"bbox":[-70.835380554199,-32.229064941406,-70.81787109375,-32.21752166748],"coordinates":[[[[-70.830399,-32.217522],[-70.817871,-32.220936],[-70.817871,-32.229065],[-70.828384,-32.220974],[-70.835381,-32.221184],[-70.830399,-32.217522]]]],"created":1292548449,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/350003_20101217_8ec95c5cdd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

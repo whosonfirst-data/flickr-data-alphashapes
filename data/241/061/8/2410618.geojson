@@ -1,0 +1,15 @@
+{
+  "id": 2410618,
+  "type": "Feature",
+  "properties": {
+    "name":"Glasgow, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2410618,
+    "woe:name":"Glasgow, Oregon, United States",
+    "woe:place_id":"h1XosHmbBZ20qP1Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.224045,43.423992,-124.207367,43.43895],
+  "geometry": {"alpha":0.00015,"bbox":[-124.2240447998,43.423992156982,-124.20736694336,43.438949584961],"coordinates":[[[[-124.222755,43.431728],[-124.21991,43.43895],[-124.207367,43.432518],[-124.223396,43.423992],[-124.224045,43.427864],[-124.222755,43.431728]]]],"created":1292485865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2410618_20101216_1872f0d7f2.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

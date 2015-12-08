@@ -1,0 +1,15 @@
+{
+  "id": 12635529,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Oberstreu, Germany",
+    "placetype":"locality",
+    "woe:id":12635529,
+    "woe:name":"Gemeinde Oberstreu, Germany",
+    "woe:place_id":"XXI7hxiYA5pIp8K2Fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.285016,50.401325,10.290584,50.405285],
+  "geometry": {"alpha":1e-05,"bbox":[10.285016059875,50.40132522583,10.290583610535,50.405284881592],"coordinates":[[[[10.285788,50.402939],[10.285016,50.405285],[10.286529,50.405029],[10.290584,50.401527],[10.290219,50.401325],[10.285788,50.402939]]]],"created":1247939044,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2504/shapefiles/12635529_20090718_e44eda2448.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

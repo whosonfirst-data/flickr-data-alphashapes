@@ -1,0 +1,15 @@
+{
+  "id": 20163821,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaumarais, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":20163821,
+    "woe:name":"Beaumarais, Saarland, Germany",
+    "woe:place_id":"_5z8mt2bAZ3yYHqw5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.746753,49.311443,6.75436,49.317024],
+  "geometry": {"alpha":0.00015,"bbox":[6.7467532157898,49.311443328857,6.7543601989746,49.317024230957],"coordinates":[[[[6.746753,49.316456],[6.747702,49.316925],[6.748534,49.317024],[6.75436,49.311443],[6.747788,49.315556],[6.746753,49.316456]]]],"created":1292514129,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/20163821_20101216_b97c38c5fc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

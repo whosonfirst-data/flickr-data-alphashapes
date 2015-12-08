@@ -1,0 +1,15 @@
+{
+  "id": 550629,
+  "type": "Feature",
+  "properties": {
+    "name":"Gramais, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550629,
+    "woe:name":"Gramais, Tyrol, Austria",
+    "woe:place_id":"yMZOz2ecBJx21Aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.570993,47.237518,10.588331,47.249058],
+  "geometry": {"alpha":0.00015,"bbox":[10.570993423462,47.237518310547,10.588331222534,47.249057769775],"coordinates":[[[[10.584211,47.246262],[10.588331,47.237518],[10.578203,47.245094],[10.574598,47.245094],[10.570993,47.249058],[10.580263,47.246841],[10.584211,47.246262]]]],"created":1292523441,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/550629_20101216_6a3e9e684a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

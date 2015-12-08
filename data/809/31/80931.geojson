@@ -1,0 +1,15 @@
+{
+  "id": 80931,
+  "type": "Feature",
+  "properties": {
+    "name":"Acatenango, Chimaltenango, Guatemala",
+    "placetype":"locality",
+    "woe:id":80931,
+    "woe:name":"Acatenango, Chimaltenango, Guatemala",
+    "woe:place_id":"rwowJiGRAZW.OA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.951691,14.546367,-90.932465,14.559659],
+  "geometry": {"alpha":0.00015,"bbox":[-90.951690673828,14.546366691589,-90.932464599609,14.559659004211],"coordinates":[[[[-90.950829,14.546367],[-90.951691,14.550687],[-90.946198,14.554863],[-90.932465,14.559659],[-90.936584,14.54969],[-90.950829,14.546367]]]],"created":1292548456,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/80931_20101217_0602e8185b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

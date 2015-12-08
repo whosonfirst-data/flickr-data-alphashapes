@@ -1,0 +1,15 @@
+{
+  "id": 706595,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilhelmsdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":706595,
+    "woe:name":"Wilhelmsdorf, Bavaria, Germany",
+    "woe:place_id":"uLMJMU2eAZpxtGM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.732312,49.562332,10.744028,49.565529],
+  "geometry": {"alpha":0.00015,"bbox":[10.732312202454,49.56233215332,10.744028091431,49.565528869629],"coordinates":[[[[10.738639,49.563431],[10.733833,49.562332],[10.732312,49.565388],[10.736604,49.564766],[10.742654,49.565529],[10.744028,49.564358],[10.738639,49.563431]]]],"created":1292531370,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/706595_20101216_a14b0514a1.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

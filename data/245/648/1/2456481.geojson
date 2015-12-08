@@ -1,0 +1,15 @@
+{
+  "id": 2456481,
+  "type": "Feature",
+  "properties": {
+    "name":"Murray, New York, United States",
+    "placetype":"locality",
+    "woe:id":2456481,
+    "woe:name":"Murray, New York, United States",
+    "woe:place_id":"QnoPIS6bBZnwAu3I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.045555,43.275173,-78.018204,43.284164],
+  "geometry": {"alpha":0.00015,"bbox":[-78.045555114746,43.275173187256,-78.018203735352,43.284164428711],"coordinates":[[[[-78.038055,43.28389],[-78.03611,43.28389],[-78.021111,43.284164],[-78.018204,43.275173],[-78.036392,43.283333],[-78.045555,43.275276],[-78.044998,43.278053],[-78.038055,43.28389]]]],"created":1292548682,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2456481_20101217_7fdf9dbeb7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

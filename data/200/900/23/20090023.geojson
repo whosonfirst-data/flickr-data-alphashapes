@@ -1,0 +1,15 @@
+{
+  "id": 20090023,
+  "type": "Feature",
+  "properties": {
+    "name":"Calder Mains, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20090023,
+    "woe:name":"Calder Mains, Scotland, United Kingdom",
+    "woe:place_id":"cAen9NCbAZws.Ms15A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.592872,58.529827,-3.586692,58.532784],
+  "geometry": {"alpha":0.00015,"bbox":[-3.5928719043732,58.52982711792,-3.5866920948029,58.532783508301],"coordinates":[[[[-3.586692,58.531174],[-3.587036,58.529827],[-3.588066,58.530544],[-3.592872,58.532425],[-3.589096,58.532784],[-3.586692,58.531174]]]],"created":1292457260,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/20090023_20101215_52874f3964.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

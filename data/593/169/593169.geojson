@@ -1,0 +1,15 @@
+{
+  "id": 593169,
+  "type": "Feature",
+  "properties": {
+    "name":"Gorron, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":593169,
+    "woe:name":"Gorron, Pays de la Loire, France",
+    "woe:place_id":"rrK_l96cCJ_uRy4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.81376,48.405216,-0.80595,48.412388],
+  "geometry": {"alpha":0.00015,"bbox":[-0.81375998258591,48.405216217041,-0.80594998598099,48.4123878479],"coordinates":[[[[-0.81376,48.410801],[-0.812966,48.412388],[-0.80595,48.410744],[-0.806207,48.405216],[-0.809956,48.407349],[-0.81376,48.410801]]]],"created":1292491508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/593169_20101216_ba245cde7a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

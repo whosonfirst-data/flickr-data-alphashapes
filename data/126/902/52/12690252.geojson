@@ -1,0 +1,15 @@
+{
+  "id": 12690252,
+  "type": "Feature",
+  "properties": {
+    "name":"Jorquera, Spain",
+    "placetype":"locality",
+    "woe:id":12690252,
+    "woe:name":"Jorquera, Spain",
+    "woe:place_id":"_qqjRLCYA5ot9rI7cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.523859,39.174889,-1.519739,39.175884],
+  "geometry": {"alpha":1e-05,"bbox":[-1.5238590240479,39.17488861084,-1.5197390317917,39.175884246826],"coordinates":[[[[-1.520233,39.175884],[-1.519739,39.175354],[-1.520061,39.175419],[-1.523859,39.174889],[-1.522979,39.175854],[-1.520233,39.175884]]]],"created":1292518985,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12690252_20101216_43f764c023.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

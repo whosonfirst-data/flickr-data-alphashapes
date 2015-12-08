@@ -1,0 +1,15 @@
+{
+  "id": 20075816,
+  "type": "Feature",
+  "properties": {
+    "name":"Treiso, Italy",
+    "placetype":"locality",
+    "woe:id":20075816,
+    "woe:name":"Treiso, Italy",
+    "woe:place_id":"GWYOklibAZz8iE2ymA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.083534,44.689137,8.087707,44.693066],
+  "geometry": {"alpha":1e-05,"bbox":[8.0835342407227,44.689136505127,8.0877065658569,44.693065643311],"coordinates":[[[[8.086903,44.689137],[8.086205,44.689419],[8.084328,44.690136],[8.083534,44.693066],[8.086205,44.689419],[8.087707,44.689564],[8.086903,44.689137]]]],"created":1234778649,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3302/shapefiles/20075816_20090216_42943cca20.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

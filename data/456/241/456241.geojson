@@ -1,0 +1,15 @@
+{
+  "id": 456241,
+  "type": "Feature",
+  "properties": {
+    "name":"Ipia\u00fa, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":456241,
+    "woe:name":"Ipia\u00fa, Bahia, Brazil",
+    "woe:place_id":"T4pF_cudBJpyjdI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-39.731369,-14.130915,-39.725399,-14.128585],
+  "geometry": {"alpha":0.00015,"bbox":[-39.731369018555,-14.13091468811,-39.725399017334,-14.128584861755],"coordinates":[[[[-39.731369,-14.130416],[-39.731197,-14.128585],[-39.726563,-14.128585],[-39.725399,-14.1295],[-39.730682,-14.130915],[-39.731369,-14.130416]]]],"created":1292511673,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/456241_20101216_7fc3f41cdc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

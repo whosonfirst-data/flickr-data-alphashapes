@@ -1,0 +1,15 @@
+{
+  "id": 2409471,
+  "type": "Feature",
+  "properties": {
+    "name":"Genesee Depot, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2409471,
+    "woe:name":"Genesee Depot, Wisconsin, United States",
+    "woe:place_id":"99Q8NBybBZytVYXm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.378311,42.962666,-88.356598,42.974133],
+  "geometry": {"alpha":0.00015,"bbox":[-88.378311157227,42.962665557861,-88.356597900391,42.974132537842],"coordinates":[[[[-88.360291,42.963455],[-88.363503,42.962666],[-88.378311,42.965843],[-88.370987,42.966991],[-88.356598,42.974133],[-88.360291,42.963455]]]],"created":1292529916,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2409471_20101216_2bcbfba038.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

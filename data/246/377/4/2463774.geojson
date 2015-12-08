@@ -1,0 +1,15 @@
+{
+  "id": 2463774,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakridge Place, Utah, United States",
+    "placetype":"locality",
+    "woe:id":2463774,
+    "woe:name":"Oakridge Place, Utah, United States",
+    "woe:place_id":"EbMDRVebBZq_W2FP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.912666,40.998245,-111.905792,41.002026],
+  "geometry": {"alpha":0.00015,"bbox":[-111.9126663208,40.998245239258,-111.90579223633,41.002025604248],"coordinates":[[[[-111.91066,41.001228],[-111.907356,41.002026],[-111.905792,41.001244],[-111.910599,40.998245],[-111.912666,40.999832],[-111.91066,41.001228]]]],"created":1292550180,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2463774_20101217_ba8e487e19.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

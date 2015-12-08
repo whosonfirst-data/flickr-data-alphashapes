@@ -1,0 +1,15 @@
+{
+  "id": 3012,
+  "type": "Feature",
+  "properties": {
+    "name":"Gretna, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3012,
+    "woe:name":"Gretna, Manitoba, Canada",
+    "woe:place_id":"EoT1F_iaAZ2R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.567223,49.001263,-97.556953,49.011063],
+  "geometry": {"alpha":0.00015,"bbox":[-97.567222595215,49.001262664795,-97.556953430176,49.01106262207],"coordinates":[[[[-97.56559,49.007137],[-97.567223,49.008457],[-97.5616,49.011063],[-97.556953,49.001263],[-97.564217,49.005589],[-97.56559,49.007137]]]],"created":1248156140,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3510/shapefiles/3012_20090721_744fb8d6da.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

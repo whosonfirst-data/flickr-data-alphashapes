@@ -1,0 +1,15 @@
+{
+  "id": 12661880,
+  "type": "Feature",
+  "properties": {
+    "name":"Tullins, France",
+    "placetype":"locality",
+    "woe:id":12661880,
+    "woe:name":"Tullins, France",
+    "woe:place_id":"AAeQ6AqYA5oiozy9KA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.482821,45.296234,5.486265,45.302685],
+  "geometry": {"alpha":1e-05,"bbox":[5.4828209877014,45.296234130859,5.4862651824951,45.302684783936],"coordinates":[[[[5.482821,45.297321],[5.485181,45.301937],[5.485428,45.302685],[5.486265,45.300732],[5.483615,45.296234],[5.482821,45.296715],[5.482821,45.297321]]]],"created":1292531116,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12661880_20101216_0cd037a45b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

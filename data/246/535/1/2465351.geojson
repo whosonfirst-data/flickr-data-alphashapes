@@ -1,0 +1,15 @@
+{
+  "id": 2465351,
+  "type": "Feature",
+  "properties": {
+    "name":"Oliver, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2465351,
+    "woe:name":"Oliver, Virginia, United States",
+    "woe:place_id":"GciOowqbBZp_ovoc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.539146,37.851952,-77.532104,37.856178],
+  "geometry": {"alpha":0.00015,"bbox":[-77.53914642334,37.851951599121,-77.532104492188,37.856178283691],"coordinates":[[[[-77.53215,37.855881],[-77.532928,37.855198],[-77.539146,37.851952],[-77.532944,37.855309],[-77.532104,37.856178],[-77.53215,37.855881]]]],"created":1248259562,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2443/shapefiles/2465351_20090722_834a6fc433.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

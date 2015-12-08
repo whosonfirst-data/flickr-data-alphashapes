@@ -1,0 +1,15 @@
+{
+  "id": 734568,
+  "type": "Feature",
+  "properties": {
+    "name":"Wehe, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":734568,
+    "woe:name":"Wehe, Groningen, Netherlands",
+    "woe:place_id":"1neHaTCeApgY40o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.407089,53.355556,6.432151,53.37442],
+  "geometry": {"alpha":0.00015,"bbox":[6.4070892333984,53.355556488037,6.4321508407593,53.374420166016],"coordinates":[[[[6.415715,53.358055],[6.407089,53.361412],[6.41962,53.37442],[6.424255,53.371449],[6.432151,53.361206],[6.425555,53.355556],[6.415715,53.358055]]]],"created":1292518324,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/734568_20101216_ddf6bfcf81.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

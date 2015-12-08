@@ -1,0 +1,15 @@
+{
+  "id": 161991,
+  "type": "Feature",
+  "properties": {
+    "name":"Black Bay, Laborie, St. Lucia",
+    "placetype":"locality",
+    "woe:id":161991,
+    "woe:name":"Black Bay, Laborie, St. Lucia",
+    "woe:place_id":"eFHnMiiYB50a9xk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.986221,13.728212,-60.971203,13.747138],
+  "geometry": {"alpha":0.00015,"bbox":[-60.986221313477,13.728212356567,-60.971202850342,13.747138023376],"coordinates":[[[[-60.983562,13.731714],[-60.986221,13.735383],[-60.971203,13.747138],[-60.978584,13.728212],[-60.980129,13.729713],[-60.983562,13.731714]]]],"created":1292529313,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/161991_20101216_21d41c9f35.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

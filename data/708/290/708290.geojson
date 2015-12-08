@@ -1,0 +1,15 @@
+{
+  "id": 708290,
+  "type": "Feature",
+  "properties": {
+    "name":"Wurzen, Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":708290,
+    "woe:name":"Wurzen, Saxony, Germany",
+    "woe:place_id":"6TKWvjqeAZTw3_s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.730515,51.353291,12.748432,51.379627],
+  "geometry": {"alpha":0.00015,"bbox":[12.730514526367,51.353290557861,12.748432159424,51.379627227783],"coordinates":[[[[12.730515,51.36776],[12.732381,51.379627],[12.734441,51.379013],[12.748432,51.370975],[12.741436,51.368618],[12.737531,51.353291],[12.730515,51.36776]]]],"created":1292526402,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/708290_20101216_94d8d6d9de.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

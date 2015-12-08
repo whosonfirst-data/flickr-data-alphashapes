@@ -1,0 +1,15 @@
+{
+  "id": 124813,
+  "type": "Feature",
+  "properties": {
+    "name":"Hidalgo, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":124813,
+    "woe:name":"Hidalgo, Nuevo Leon, Mexico",
+    "woe:place_id":"M7tybaCYA5g2FaQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.621964,25.836977,-99.619987,25.857601],
+  "geometry": {"alpha":0.00015,"bbox":[-99.621963500977,25.836977005005,-99.619987487793,25.857601165771],"coordinates":[[[[-99.621964,25.852427],[-99.621964,25.853662],[-99.620758,25.857601],[-99.619987,25.850456],[-99.62188,25.836977],[-99.621964,25.852427]]]],"created":1292533011,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/124813_20101216_d2871c7b91.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

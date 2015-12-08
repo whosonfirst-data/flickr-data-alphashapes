@@ -1,0 +1,15 @@
+{
+  "id": 12590882,
+  "type": "Feature",
+  "properties": {
+    "name":"Ylivieska, Finland",
+    "placetype":"locality",
+    "woe:id":12590882,
+    "woe:name":"Ylivieska, Finland",
+    "woe:place_id":"BbSZBuSYA5l4IyBcIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.537621,64.068581,24.54071,64.075127],
+  "geometry": {"alpha":1e-05,"bbox":[24.537620544434,64.068580627441,24.540710449219,64.075126647949],"coordinates":[[[[24.539221,64.071732],[24.537621,64.075127],[24.54071,64.0737],[24.540409,64.072464],[24.540409,64.07122],[24.538006,64.068581],[24.539221,64.071732]]]],"created":1292530030,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12590882_20101216_9da21aeafe.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

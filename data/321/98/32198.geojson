@@ -1,0 +1,15 @@
+{
+  "id": 32198,
+  "type": "Feature",
+  "properties": {
+    "name":"Point, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32198,
+    "woe:name":"Point, England, United Kingdom",
+    "woe:place_id":"QKwg8.GaA52dMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.081176,50.180359,-5.055427,50.212723],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0811758041382,50.180358886719,-5.0554270744324,50.21272277832],"coordinates":[[[[-5.066242,50.208],[-5.059568,50.202312],[-5.055427,50.189098],[-5.055753,50.185032],[-5.064697,50.181953],[-5.073795,50.180359],[-5.073795,50.182724],[-5.077743,50.193935],[-5.080833,50.198879],[-5.081176,50.209812],[-5.068302,50.212723],[-5.066242,50.208]]]],"created":1292545507,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/32198_20101217_ece52d695c.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

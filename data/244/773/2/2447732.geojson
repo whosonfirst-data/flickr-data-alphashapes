@@ -1,0 +1,15 @@
+{
+  "id": 2447732,
+  "type": "Feature",
+  "properties": {
+    "name":"Mccoy, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2447732,
+    "woe:name":"Mccoy, Washington, United States",
+    "woe:place_id":"ODvMhpObBZj1m4Mi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.316765,47.167084,-117.300896,47.187458],
+  "geometry": {"alpha":0.00015,"bbox":[-117.31676483154,47.167083740234,-117.30089569092,47.18745803833],"coordinates":[[[[-117.300896,47.183903],[-117.309456,47.167084],[-117.316353,47.168377],[-117.316765,47.187458],[-117.301865,47.18404],[-117.300896,47.183903]]]],"created":1292456740,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2447732_20101215_3720e3bf64.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

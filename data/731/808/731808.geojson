@@ -1,0 +1,15 @@
+{
+  "id": 731808,
+  "type": "Feature",
+  "properties": {
+    "name":"Mosselaar, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":731808,
+    "woe:name":"Mosselaar, North Brabant, Netherlands",
+    "woe:place_id":"72keabueAp0qkY0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.331544,51.525574,5.346198,51.544254],
+  "geometry": {"alpha":0.00015,"bbox":[5.3315439224243,51.525573730469,5.3461980819702,51.544254302979],"coordinates":[[[[5.343561,51.544254],[5.346198,51.528194],[5.331888,51.525574],[5.331544,51.532188],[5.338153,51.540009],[5.339441,51.54229],[5.343561,51.544254]]]],"created":1292546833,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/731808_20101217_628bed4fc5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

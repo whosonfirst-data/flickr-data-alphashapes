@@ -1,0 +1,15 @@
+{
+  "id": 1116920,
+  "type": "Feature",
+  "properties": {
+    "name":"Aburatsu, Japan",
+    "placetype":"locality",
+    "woe:id":1116920,
+    "woe:name":"Aburatsu, Japan",
+    "woe:place_id":"qbL5djaYAJ2cRR9H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [131.395798,31.573854,131.399231,31.577366],
+  "geometry": {"alpha":1e-05,"bbox":[131.39579772949,31.573854446411,131.39923095703,31.577365875244],"coordinates":[[[[131.397858,31.577072],[131.398712,31.577366],[131.399231,31.573854],[131.395798,31.575756],[131.397858,31.577072]]]],"created":1292451405,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/1116920_20101215_ce6ef0654d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

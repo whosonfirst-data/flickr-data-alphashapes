@@ -1,0 +1,15 @@
+{
+  "id": 2394030,
+  "type": "Feature",
+  "properties": {
+    "name":"Duckettsville, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2394030,
+    "woe:name":"Duckettsville, Maryland, United States",
+    "woe:place_id":"f31lVv6bApXVh3Tu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.82338,39.009766,-76.7966,39.025425],
+  "geometry": {"alpha":0.00015,"bbox":[-76.823379516602,39.009765625,-76.796600341797,39.025424957275],"coordinates":[[[[-76.81678,39.019981],[-76.82338,39.012932],[-76.820427,39.025425],[-76.815033,39.023453],[-76.7966,39.009766],[-76.81678,39.019981]]]],"created":1292545284,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2394030_20101217_ffa9dfc5bd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

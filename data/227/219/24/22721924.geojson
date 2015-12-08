@@ -1,0 +1,15 @@
+{
+  "id": 22721924,
+  "type": "Feature",
+  "properties": {
+    "name":"Harmers Haven, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":22721924,
+    "woe:name":"Harmers Haven, Victoria, Australia",
+    "woe:place_id":"HCpFVpebA5u4iOkE_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.567993,-38.65723,145.587387,-38.634571],
+  "geometry": {"alpha":0.00015,"bbox":[145.56799316406,-38.657230377197,145.58738708496,-38.634571075439],"coordinates":[[[[145.573486,-38.655289],[145.569016,-38.651199],[145.567993,-38.634571],[145.587387,-38.637524],[145.577621,-38.65453],[145.578293,-38.65723],[145.573486,-38.655289]]]],"created":1292545383,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/22721924_20101217_69ea9bdeff.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12684317,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruschein, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684317,
+    "woe:name":"Ruschein, Switzerland",
+    "woe:place_id":"32WwKGuYA5oR0BDdXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.160941,46.830624,9.170322,46.836208],
+  "geometry": {"alpha":1e-05,"bbox":[9.1609411239624,46.830623626709,9.1703224182129,46.836208343506],"coordinates":[[[[9.163153,46.83411],[9.166294,46.836208],[9.170322,46.835419],[9.166877,46.830624],[9.163799,46.833599],[9.160941,46.834225],[9.163153,46.83411]]]],"created":1292532363,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12684317_20101216_6ae9bfdb19.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2458140,
+  "type": "Feature",
+  "properties": {
+    "name":"New Cassel, New York, United States",
+    "placetype":"locality",
+    "woe:id":2458140,
+    "woe:name":"New Cassel, New York, United States",
+    "woe:place_id":"kPGJQzybBZm9NVW.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.585999,40.755985,-73.552475,40.778496],
+  "geometry": {"alpha":0.00015,"bbox":[-73.585998535156,40.75598526001,-73.552474975586,40.778495788574],"coordinates":[[[[-73.560577,40.772762],[-73.552475,40.755985],[-73.567757,40.757156],[-73.571877,40.757984],[-73.585999,40.76564],[-73.567085,40.767838],[-73.560051,40.778496],[-73.560577,40.772762]]]],"created":1292487191,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2458140_20101216_b0d9cdae63.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

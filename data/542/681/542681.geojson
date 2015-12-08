@@ -1,0 +1,15 @@
+{
+  "id": 542681,
+  "type": "Feature",
+  "properties": {
+    "name":"Loosdorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":542681,
+    "woe:name":"Loosdorf, Lower Austria, Austria",
+    "woe:place_id":"qz.rw3mcBZ4tT1c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.387586,48.182568,15.408668,48.213993],
+  "geometry": {"alpha":0.00015,"bbox":[15.387585639954,48.182567596436,15.408667564392,48.21399307251],"coordinates":[[[[15.400171,48.210663],[15.400859,48.20052],[15.408668,48.193668],[15.404891,48.182568],[15.4006,48.200535],[15.387586,48.213993],[15.400171,48.210663]]]],"created":1292504173,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/542681_20101216_30834edf3f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

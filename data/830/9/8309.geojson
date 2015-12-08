@@ -1,0 +1,15 @@
+{
+  "id": 8309,
+  "type": "Feature",
+  "properties": {
+    "name":"North Star, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8309,
+    "woe:name":"North Star, Alberta, Canada",
+    "woe:place_id":"UiKtObyRApyy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.619797,56.854321,-117.597443,56.860855],
+  "geometry": {"alpha":0.00015,"bbox":[-117.61979675293,56.854320526123,-117.59744262695,56.860855102539],"coordinates":[[[[-117.619629,56.855473],[-117.619797,56.855602],[-117.611816,56.854321],[-117.597443,56.860855],[-117.598167,56.857452],[-117.611816,56.854321],[-117.619629,56.855473]]]],"created":1292534305,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/8309_20101216_2996549ac5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

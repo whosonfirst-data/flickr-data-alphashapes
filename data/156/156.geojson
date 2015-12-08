@@ -1,0 +1,15 @@
+{
+  "id": 156,
+  "type": "Feature",
+  "properties": {
+    "name":"Braeside, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":156,
+    "woe:name":"Braeside, Ontario, Canada",
+    "woe:place_id":"VB_FWx6YBJo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.420555,45.447849,-76.372833,45.467834],
+  "geometry": {"alpha":0.00015,"bbox":[-76.420555114746,45.447849273682,-76.372833251953,45.467834472656],"coordinates":[[[[-76.405106,45.46603],[-76.403389,45.464706],[-76.382614,45.458626],[-76.372833,45.447849],[-76.393173,45.450016],[-76.402786,45.454533],[-76.420555,45.448208],[-76.411758,45.463501],[-76.410599,45.467834],[-76.405106,45.46603]]]],"created":1292547780,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/156_20101217_be191a6c75.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15001105,
+  "type": "Feature",
+  "properties": {
+    "name":"La Conversion, Canton of Vaud, Switzerland",
+    "placetype":"locality",
+    "woe:id":15001105,
+    "woe:name":"La Conversion, Canton of Vaud, Switzerland",
+    "woe:place_id":"6FCp0wqYBJwsIyOUIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.665954,46.510208,6.68209,46.516113],
+  "geometry": {"alpha":0.00015,"bbox":[6.6659541130066,46.510208129883,6.682089805603,46.51611328125],"coordinates":[[[[6.675567,46.516113],[6.678743,46.512527],[6.68209,46.510208],[6.668014,46.511623],[6.665954,46.512096],[6.675567,46.516113]]]],"created":1292530082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/15001105_20101216_c3f4e3ae40.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

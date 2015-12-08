@@ -1,0 +1,15 @@
+{
+  "id": 20600,
+  "type": "Feature",
+  "properties": {
+    "name":"Frating, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20600,
+    "woe:name":"Frating, England, United Kingdom",
+    "woe:place_id":"17Oec5SbAZrnTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.005249,51.861176,1.021041,51.869495],
+  "geometry": {"alpha":0.00015,"bbox":[1.0052490234375,51.861175537109,1.0210410356522,51.869495391846],"coordinates":[[[[1.005592,51.86409],[1.005249,51.864407],[1.005935,51.868038],[1.009883,51.869495],[1.014914,51.868633],[1.016235,51.868755],[1.021041,51.861176],[1.005592,51.86409]]]],"created":1292534458,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/20600_20101216_3fdc7b66e3.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

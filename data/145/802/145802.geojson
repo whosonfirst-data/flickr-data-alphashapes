@@ -1,0 +1,15 @@
+{
+  "id": 145802,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Catarina, Baja California Sur, Mexico",
+    "placetype":"locality",
+    "woe:id":145802,
+    "woe:name":"Santa Catarina, Baja California Sur, Mexico",
+    "woe:place_id":"BKAgMkKYBZnfZro",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.716339,23.091576,-109.688354,23.108786],
+  "geometry": {"alpha":0.00015,"bbox":[-109.71633911133,23.091575622559,-109.68835449219,23.108785629272],"coordinates":[[[[-109.688354,23.094654],[-109.68956,23.091576],[-109.699997,23.1],[-109.716339,23.098207],[-109.713249,23.108786],[-109.699997,23.1],[-109.68956,23.091576],[-109.688354,23.094654]]]],"created":1239454922,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3303/shapefiles/145802_20090411_bee9d54ee3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

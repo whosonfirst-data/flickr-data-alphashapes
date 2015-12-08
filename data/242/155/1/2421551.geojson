@@ -1,0 +1,15 @@
+{
+  "id": 2421551,
+  "type": "Feature",
+  "properties": {
+    "name":"Highland Park, Dallas, TX, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2421551,
+    "woe:name":"Highland Park, Dallas, TX, US, United States",
+    "woe:place_id":"kBNkoQubBZ5z44u4",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-96.806717,32.835354,-96.801224,32.838634],
+  "geometry": {"alpha":1e-05,"bbox":[-96.806716918945,32.835353851318,-96.801223754883,32.838634490967],"coordinates":[[[[-96.806183,32.836056],[-96.806717,32.838058],[-96.801224,32.838634],[-96.805016,32.836075],[-96.805634,32.835354],[-96.806183,32.836056]]]],"created":1292533925,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2421551_20101216_789ec49079.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

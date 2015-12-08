@@ -1,0 +1,15 @@
+{
+  "id": 491510,
+  "type": "Feature",
+  "properties": {
+    "name":"Debrzno, Pomeranian, Poland",
+    "placetype":"locality",
+    "woe:id":491510,
+    "woe:name":"Debrzno, Pomeranian, Poland",
+    "woe:place_id":"53tW0JadCJ1b4Rs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.226563,53.534161,17.234459,53.543636],
+  "geometry": {"alpha":0.00015,"bbox":[17.2265625,53.534160614014,17.23445892334,53.543636322021],"coordinates":[[[[17.228451,53.543636],[17.233601,53.539082],[17.234459,53.537605],[17.233814,53.536186],[17.228107,53.534161],[17.226563,53.538471],[17.228451,53.543636]]]],"created":1292545038,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/491510_20101217_1d4cafc772.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

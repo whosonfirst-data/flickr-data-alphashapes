@@ -1,0 +1,15 @@
+{
+  "id": 777565,
+  "type": "Feature",
+  "properties": {
+    "name":"Villabermudo, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":777565,
+    "woe:name":"Villabermudo, Castille and Leon, Spain",
+    "woe:place_id":"10Y_m26eBpsPTr8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.363846,42.61602,-4.358814,42.62952],
+  "geometry": {"alpha":0.00015,"bbox":[-4.3638458251953,42.616020202637,-4.3588137626648,42.62952041626],"coordinates":[[[[-4.358814,42.616608],[-4.358847,42.616402],[-4.359169,42.61602],[-4.359491,42.616985],[-4.363846,42.62952],[-4.358814,42.616608]]]],"created":1292549961,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/777565_20101217_ebcd32427c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

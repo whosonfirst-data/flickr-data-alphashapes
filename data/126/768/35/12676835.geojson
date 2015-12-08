@@ -1,0 +1,15 @@
+{
+  "id": 12676835,
+  "type": "Feature",
+  "properties": {
+    "name":"Canaro, Italy",
+    "placetype":"locality",
+    "woe:id":12676835,
+    "woe:name":"Canaro, Italy",
+    "woe:place_id":"ZPzECaOYA5r82P5j2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.72092,44.939621,11.723045,44.942657],
+  "geometry": {"alpha":1e-05,"bbox":[11.72091960907,44.93962097168,11.723045349121,44.942657470703],"coordinates":[[[[11.723012,44.942657],[11.723045,44.941914],[11.722176,44.94117],[11.7221,44.941105],[11.72092,44.939621],[11.721307,44.940804],[11.723012,44.942657]]]],"created":1292526668,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12676835_20101216_66e1847b72.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

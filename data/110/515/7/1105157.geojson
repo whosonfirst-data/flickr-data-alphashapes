@@ -1,0 +1,15 @@
+{
+  "id": 1105157,
+  "type": "Feature",
+  "properties": {
+    "name":"Powelltown, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105157,
+    "woe:name":"Powelltown, Victoria, Australia",
+    "woe:place_id":"B8dxY2KYAJxnJIbM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.743423,-37.875683,145.760071,-37.859741],
+  "geometry": {"alpha":0.00015,"bbox":[145.74342346191,-37.875682830811,145.76007080078,-37.859741210938],"coordinates":[[[[145.75914,-37.866451],[145.758102,-37.867401],[145.751923,-37.875683],[145.743423,-37.859741],[145.750122,-37.86198],[145.760071,-37.864285],[145.75914,-37.866451]]]],"created":1292539900,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/1105157_20101216_1a1a121990.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

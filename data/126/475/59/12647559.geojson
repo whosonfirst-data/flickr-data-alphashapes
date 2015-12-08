@@ -1,0 +1,15 @@
+{
+  "id": 12647559,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Pin-au-Haras, France",
+    "placetype":"locality",
+    "woe:id":12647559,
+    "woe:name":"Le Pin-au-Haras, France",
+    "woe:place_id":"ZZCGau.YA5oz7quAqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.145826,48.73819,0.147843,48.741077],
+  "geometry": {"alpha":1e-05,"bbox":[0.14582599699497,48.738189697266,0.14784300327301,48.741077423096],"coordinates":[[[[0.147843,48.738705],[0.146942,48.73819],[0.146598,48.738758],[0.146384,48.739662],[0.145826,48.741077],[0.147843,48.738705]]]],"created":1292476689,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12647559_20101216_caca85763c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

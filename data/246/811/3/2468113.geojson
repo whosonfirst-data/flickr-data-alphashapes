@@ -1,0 +1,15 @@
+{
+  "id": 2468113,
+  "type": "Feature",
+  "properties": {
+    "name":"Paradise, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2468113,
+    "woe:name":"Paradise, Kansas, United States",
+    "woe:place_id":"stWhTNKbBZq8ad0K",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.945702,39.074677,-98.932144,39.089268],
+  "geometry": {"alpha":0.00015,"bbox":[-98.945701599121,39.074676513672,-98.932144165039,39.089267730713],"coordinates":[[[[-98.932144,39.0891],[-98.933517,39.088417],[-98.945572,39.074677],[-98.945702,39.076874],[-98.945618,39.089268],[-98.935059,39.089001],[-98.932144,39.0891]]]],"created":1292518739,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2468113_20101216_38a6da4b7e.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

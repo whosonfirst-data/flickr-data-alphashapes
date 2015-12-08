@@ -1,0 +1,15 @@
+{
+  "id": 27608,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Assendon, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27608,
+    "woe:name":"Lower Assendon, England, United Kingdom",
+    "woe:place_id":"CcmyUECbBprAnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.929224,51.549538,-0.921821,51.559624],
+  "geometry": {"alpha":0.00015,"bbox":[-0.92922401428223,51.549537658691,-0.92182099819183,51.559623718262],"coordinates":[[[[-0.92858,51.556606],[-0.92431,51.559624],[-0.923366,51.556904],[-0.921821,51.549538],[-0.929224,51.554466],[-0.92858,51.556606]]]],"created":1292538388,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/27608_20101216_f0e0b4b106.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

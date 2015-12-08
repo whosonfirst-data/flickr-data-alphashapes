@@ -1,0 +1,15 @@
+{
+  "id": 2454551,
+  "type": "Feature",
+  "properties": {
+    "name":"Mosquero, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2454551,
+    "woe:name":"Mosquero, New Mexico, United States",
+    "woe:place_id":"dMLbNpWbBZlE55.G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.96328,35.77552,-103.954697,35.779942],
+  "geometry": {"alpha":0.00015,"bbox":[-103.96327972412,35.775520324707,-103.95469665527,35.779941558838],"coordinates":[[[[-103.955193,35.776409],[-103.956116,35.77552],[-103.961044,35.77821],[-103.96328,35.779942],[-103.954697,35.777435],[-103.955193,35.776409]]]],"created":1292460242,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2454551_20101216_03fddcb859.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2498505,
+  "type": "Feature",
+  "properties": {
+    "name":"Springville, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2498505,
+    "woe:name":"Springville, Iowa, United States",
+    "woe:place_id":".2OXc_WbBZUAgV2Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.450798,42.013462,-91.432213,42.020668],
+  "geometry": {"alpha":0.00015,"bbox":[-91.450798034668,42.01346206665,-91.43221282959,42.020668029785],"coordinates":[[[[-91.450798,42.013462],[-91.450798,42.020668],[-91.448563,42.020477],[-91.446503,42.020603],[-91.432213,42.019798],[-91.450798,42.013462]]]],"created":1292520009,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2498505_20101216_c447bd18c5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

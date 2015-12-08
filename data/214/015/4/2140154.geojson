@@ -1,0 +1,15 @@
+{
+  "id": 2140154,
+  "type": "Feature",
+  "properties": {
+    "name":"Putian, Fujian, China",
+    "placetype":"locality",
+    "woe:id":2140154,
+    "woe:name":"Putian, Fujian, China",
+    "woe:place_id":"pFL4wdCbAJgMJXen",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [119.005966,25.429321,119.019012,25.437695],
+  "geometry": {"alpha":0.00015,"bbox":[119.00596618652,25.429321289062,119.01901245117,25.437694549561],"coordinates":[[[[119.008369,25.433895],[119.005966,25.437695],[119.019012,25.431337],[119.018753,25.429321],[119.008369,25.433895]]]],"created":1234926011,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3229/shapefiles/2140154_20090218_22039ec0e6.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

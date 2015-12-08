@@ -1,0 +1,15 @@
+{
+  "id": 55965596,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Almendros, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":55965596,
+    "woe:name":"Los Almendros, Valencia, Spain",
+    "woe:place_id":"VnMU3w2cBJUNbDujfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.064051,38.649067,0.069833,38.651154],
+  "geometry": {"alpha":0.00015,"bbox":[0.064051002264023,38.649066925049,0.069833002984524,38.651153564453],"coordinates":[[[[0.066411,38.649067],[0.064136,38.649345],[0.064051,38.649555],[0.067065,38.651154],[0.069833,38.649166],[0.066411,38.649067]]]],"created":1292452988,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/55965596_20101215_4927e468da.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 885500,
+  "type": "Feature",
+  "properties": {
+    "name":"Auktsjaur, Norrbotten, Sweden",
+    "placetype":"locality",
+    "woe:id":885500,
+    "woe:name":"Auktsjaur, Norrbotten, Sweden",
+    "woe:place_id":"CGVOfOuRCZmAJbA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.397049,65.753654,19.417133,65.759293],
+  "geometry": {"alpha":0.00015,"bbox":[19.397048950195,65.75365447998,19.417133331299,65.759292602539],"coordinates":[[[[19.400826,65.756439],[19.397049,65.753654],[19.397221,65.757988],[19.399923,65.757607],[19.417133,65.759293],[19.400826,65.756439]]]],"created":1292529848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/885500_20101216_c4ba49a9f8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12664494,
+  "type": "Feature",
+  "properties": {
+    "name":"La Redorte, France",
+    "placetype":"locality",
+    "woe:id":12664494,
+    "woe:name":"La Redorte, France",
+    "woe:place_id":"KaXOibKYA5qhYNfvXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.661995,43.248016,2.668647,43.252384],
+  "geometry": {"alpha":1e-05,"bbox":[2.661994934082,43.248016357422,2.6686470508575,43.252384185791],"coordinates":[[[[2.668208,43.25008],[2.668647,43.249409],[2.66618,43.250431],[2.661995,43.248016],[2.664935,43.251656],[2.666641,43.252384],[2.668208,43.25008]]]],"created":1292470803,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12664494_20101216_d2729eb815.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2456432,
+  "type": "Feature",
+  "properties": {
+    "name":"Murphy, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2456432,
+    "woe:name":"Murphy, Idaho, United States",
+    "woe:place_id":"3jnezk2bBZmZ5KTC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.554642,43.215912,-116.550095,43.217499],
+  "geometry": {"alpha":0.00015,"bbox":[-116.55464172363,43.215911865234,-116.55009460449,43.217498779297],"coordinates":[[[[-116.550476,43.217499],[-116.550095,43.216812],[-116.551018,43.215912],[-116.554642,43.21656],[-116.550476,43.217499]]]],"created":1292528367,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2456432_20101216_f4157cfaac.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

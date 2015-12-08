@@ -1,0 +1,15 @@
+{
+  "id": 20220824,
+  "type": "Feature",
+  "properties": {
+    "name":"Barrio Mar, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20220824,
+    "woe:name":"Barrio Mar, Valencia, Spain",
+    "woe:place_id":"4TwyYsabAZ73FmNBYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.173892,39.745766,-0.171489,39.74818],
+  "geometry": {"alpha":0.00015,"bbox":[-0.17389200627804,39.745765686035,-0.17148900032043,39.748180389404],"coordinates":[[[[-0.172626,39.746124],[-0.173892,39.745766],[-0.173034,39.746674],[-0.171489,39.74818],[-0.172626,39.746124]]]],"created":1292526804,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/20220824_20101216_b49c0049f5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

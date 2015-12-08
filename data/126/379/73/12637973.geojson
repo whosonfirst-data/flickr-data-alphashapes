@@ -1,0 +1,15 @@
+{
+  "id": 12637973,
+  "type": "Feature",
+  "properties": {
+    "name":"Ollainville, France",
+    "placetype":"locality",
+    "woe:id":12637973,
+    "woe:name":"Ollainville, France",
+    "woe:place_id":"0bgr0vGYA5oFAOmyhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.221115,48.620449,2.224829,48.621632],
+  "geometry": {"alpha":1e-05,"bbox":[2.2211151123047,48.620449066162,2.2248289585114,48.621631622314],"coordinates":[[[[2.224829,48.621521],[2.222456,48.620449],[2.221115,48.620533],[2.223572,48.621632],[2.224829,48.621521]]]],"created":1292483347,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12637973_20101216_8a16e249cd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

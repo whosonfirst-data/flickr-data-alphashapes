@@ -1,0 +1,15 @@
+{
+  "id": 628940,
+  "type": "Feature",
+  "properties": {
+    "name":"Tournemire, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":628940,
+    "woe:name":"Tournemire, Auvergne, France",
+    "woe:place_id":"2p.EWkWfA5T6ikw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.479476,45.053272,2.484798,45.056911],
+  "geometry": {"alpha":0.00015,"bbox":[2.4794759750366,45.053272247314,2.4847979545593,45.056911468506],"coordinates":[[[[2.483167,45.053333],[2.479476,45.056],[2.481451,45.056911],[2.484798,45.054726],[2.48454,45.053272],[2.483167,45.053333]]]],"created":1292532188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/628940_20101216_1ae1759b6a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

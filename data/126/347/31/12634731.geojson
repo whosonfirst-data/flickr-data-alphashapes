@@ -1,0 +1,15 @@
+{
+  "id": 12634731,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Dasing, Germany",
+    "placetype":"locality",
+    "woe:id":12634731,
+    "woe:name":"Gemeinde Dasing, Germany",
+    "woe:place_id":"s0osJpeYA5rO0JT3.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.065163,48.39035,11.071643,48.39407],
+  "geometry": {"alpha":1e-05,"bbox":[11.065162658691,48.390350341797,11.071642875671,48.394069671631],"coordinates":[[[[11.066547,48.393379],[11.071643,48.39399],[11.066821,48.39035],[11.066166,48.390499],[11.065163,48.390884],[11.065169,48.39407],[11.066547,48.393379]]]],"created":1292551543,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12634731_20101217_6389699362.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

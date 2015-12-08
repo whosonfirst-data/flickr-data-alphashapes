@@ -1,0 +1,15 @@
+{
+  "id": 3512,
+  "type": "Feature",
+  "properties": {
+    "name":"Laurentides, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3512,
+    "woe:name":"Laurentides, Quebec, Canada",
+    "woe:place_id":"RT469yeaBJ1c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.760834,45.852245,-73.756798,45.866165],
+  "geometry": {"alpha":0.00015,"bbox":[-73.760833740234,45.852245330811,-73.756797790527,45.866165161133],"coordinates":[[[[-73.757347,45.852245],[-73.758087,45.853912],[-73.760834,45.861324],[-73.756798,45.866165],[-73.758087,45.853912],[-73.757431,45.852596],[-73.757347,45.852245]]]],"created":1292537027,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/3512_20101216_bce065cdeb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

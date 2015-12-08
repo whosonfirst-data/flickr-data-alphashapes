@@ -1,0 +1,15 @@
+{
+  "id": 20153452,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartbichl, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20153452,
+    "woe:name":"Hartbichl, Bavaria, Germany",
+    "woe:place_id":"c.jJFlqbAZ2CkyqfxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.263772,47.749676,12.2783,47.759563],
+  "geometry": {"alpha":0.00015,"bbox":[12.263772010803,47.749675750732,12.278300285339,47.759563446045],"coordinates":[[[[12.263944,47.749676],[12.263772,47.750492],[12.276711,47.759563],[12.2783,47.759369],[12.264233,47.749901],[12.263944,47.749676]]]],"created":1292441775,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/20153452_20101215_a0c60b8a9e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

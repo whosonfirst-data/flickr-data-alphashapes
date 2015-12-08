@@ -1,0 +1,15 @@
+{
+  "id": 12512697,
+  "type": "Feature",
+  "properties": {
+    "name":"Luxor Airport, Egypt",
+    "placetype":"locality",
+    "woe:id":12512697,
+    "woe:name":"Luxor Airport, Egypt",
+    "woe:place_id":"ArH8ZGaYA5kddryCFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [32.699333,25.670666,32.708015,25.675102],
+  "geometry": {"alpha":1e-05,"bbox":[32.699333190918,25.670665740967,32.708015441895,25.675102233887],"coordinates":[[[[32.703724,25.673634],[32.701149,25.672783],[32.699333,25.670666],[32.699528,25.674227],[32.699467,25.674463],[32.701836,25.674717],[32.704067,25.675102],[32.705456,25.673758],[32.708015,25.672318],[32.707157,25.672241],[32.703724,25.673634]]]],"created":1292538668,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12512697_20101216_30f8db9df2.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

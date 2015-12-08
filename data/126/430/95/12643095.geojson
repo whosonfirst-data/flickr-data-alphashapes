@@ -1,0 +1,15 @@
+{
+  "id": 12643095,
+  "type": "Feature",
+  "properties": {
+    "name":"Dreux, France",
+    "placetype":"locality",
+    "woe:id":12643095,
+    "woe:name":"Dreux, France",
+    "woe:place_id":"HpsST12YA5pqzcc6IQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.362648,48.732304,1.368366,48.737343],
+  "geometry": {"alpha":1e-05,"bbox":[1.3626480102539,48.732303619385,1.3683660030365,48.737342834473],"coordinates":[[[[1.36695,48.7351],[1.362648,48.737343],[1.367583,48.737171],[1.368366,48.736137],[1.368312,48.73233],[1.368291,48.732304],[1.36695,48.7351]]]],"created":1239417488,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3321/shapefiles/12643095_20090411_fc105fc016.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

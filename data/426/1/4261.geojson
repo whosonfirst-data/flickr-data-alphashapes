@@ -1,0 +1,15 @@
+{
+  "id": 4261,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Good Hope, Northwest Territories, Canada",
+    "placetype":"locality",
+    "woe:id":4261,
+    "woe:name":"Fort Good Hope, Northwest Territories, Canada",
+    "woe:place_id":"W71Ksh.dA5qV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-128.642868,66.253616,-128.633759,66.25946],
+  "geometry": {"alpha":0.00015,"bbox":[-128.64286804199,66.253616333008,-128.63375854492,66.259460449219],"coordinates":[[[[-128.642868,66.254631],[-128.639725,66.256462],[-128.633759,66.25946],[-128.635132,66.258286],[-128.637299,66.256706],[-128.640488,66.253616],[-128.642868,66.254631]]]],"created":1292543467,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/4261_20101216_e8373649ba.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

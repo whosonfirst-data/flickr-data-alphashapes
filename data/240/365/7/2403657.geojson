@@ -1,0 +1,15 @@
+{
+  "id": 2403657,
+  "type": "Feature",
+  "properties": {
+    "name":"Fisherville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2403657,
+    "woe:name":"Fisherville, Pennsylvania, United States",
+    "woe:place_id":"8k5MgCKbBZwvFlbS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.895027,40.493683,-76.877304,40.512672],
+  "geometry": {"alpha":0.00015,"bbox":[-76.895027160645,40.493682861328,-76.877304077148,40.512672424316],"coordinates":[[[[-76.893845,40.499332],[-76.895027,40.50029],[-76.892815,40.505405],[-76.877304,40.512672],[-76.886124,40.495132],[-76.88681,40.493683],[-76.893845,40.499332]]]],"created":1248291362,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2548/shapefiles/2403657_20090722_aa48fd1144.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

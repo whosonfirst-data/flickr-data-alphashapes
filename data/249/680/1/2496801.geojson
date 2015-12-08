@@ -1,0 +1,15 @@
+{
+  "id": 2496801,
+  "type": "Feature",
+  "properties": {
+    "name":"South Sudbury, Massachusetts, United States",
+    "placetype":"locality",
+    "woe:id":2496801,
+    "woe:name":"South Sudbury, Massachusetts, United States",
+    "woe:place_id":"sP9qJMabBZV61KaK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.430801,42.3535,-71.413033,42.366714],
+  "geometry": {"alpha":0.00015,"bbox":[-71.430801391602,42.353500366211,-71.413032531738,42.366714477539],"coordinates":[[[[-71.416885,42.363285],[-71.413033,42.366714],[-71.415573,42.3535],[-71.430801,42.359528],[-71.423149,42.360191],[-71.416885,42.363285]]]],"created":1292517535,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2496801_20101216_d0b6834e51.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

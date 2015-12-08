@@ -1,0 +1,15 @@
+{
+  "id": 2361176,
+  "type": "Feature",
+  "properties": {
+    "name":"Bedford, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2361176,
+    "woe:name":"Bedford, Iowa, United States",
+    "woe:place_id":"kgS5EjCbApr8KYx5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.721504,40.666569,-94.711975,40.671688],
+  "geometry": {"alpha":0.00015,"bbox":[-94.721504211426,40.666568756104,-94.711975097656,40.671688079834],"coordinates":[[[[-94.721504,40.668758],[-94.717941,40.671688],[-94.713638,40.667763],[-94.711975,40.666569],[-94.72023,40.668457],[-94.721504,40.668758]]]],"created":1248194774,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2593/shapefiles/2361176_20090721_2525cd529e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

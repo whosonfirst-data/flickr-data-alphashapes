@@ -1,0 +1,15 @@
+{
+  "id": 900024,
+  "type": "Feature",
+  "properties": {
+    "name":"Norrsunda, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":900024,
+    "woe:name":"Norrsunda, Stockholm, Sweden",
+    "woe:place_id":"ZmfjWNiQAZxT3I4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.875072,59.59169,17.907999,59.60825],
+  "geometry": {"alpha":0.00015,"bbox":[17.875072479248,59.591690063477,17.907999038696,59.608249664307],"coordinates":[[[[17.900333,59.592667],[17.896877,59.59169],[17.893021,59.593697],[17.884529,59.597271],[17.875072,59.601933],[17.895622,59.607971],[17.897957,59.60825],[17.907999,59.600338],[17.900333,59.592667]]]],"created":1292458943,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/900024_20101216_d1c40f9e5a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

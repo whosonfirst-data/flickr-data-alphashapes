@@ -1,0 +1,15 @@
+{
+  "id": 3382,
+  "type": "Feature",
+  "properties": {
+    "name":"Winchester, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3382,
+    "woe:name":"Winchester, Ontario, Canada",
+    "woe:place_id":"YVi4.oCaApTB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.361832,45.087299,-75.342476,45.096882],
+  "geometry": {"alpha":0.00015,"bbox":[-75.361831665039,45.087299346924,-75.342475891113,45.096881866455],"coordinates":[[[[-75.355736,45.095177],[-75.349731,45.094368],[-75.342476,45.096882],[-75.347755,45.090233],[-75.348679,45.087399],[-75.358932,45.087299],[-75.361832,45.089249],[-75.355736,45.095177]]]],"created":1292536250,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/3382_20101216_c601d96042.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

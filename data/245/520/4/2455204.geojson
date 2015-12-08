@@ -1,0 +1,15 @@
+{
+  "id": 2455204,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Olive, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2455204,
+    "woe:name":"Mount Olive, Texas, United States",
+    "woe:place_id":"ieoYjgSbBZkviXnl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.083435,29.389484,-97.077599,29.392267],
+  "geometry": {"alpha":0.00015,"bbox":[-97.083435058594,29.389484405518,-97.077598571777,29.392267227173],"coordinates":[[[[-97.08075,29.392136],[-97.077599,29.389484],[-97.082191,29.39152],[-97.083435,29.391747],[-97.081406,29.392267],[-97.08075,29.392136]]]],"created":1292541873,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2455204_20101216_2184d95d2a.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

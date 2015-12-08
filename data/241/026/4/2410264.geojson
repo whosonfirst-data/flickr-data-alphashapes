@@ -1,0 +1,15 @@
+{
+  "id": 2410264,
+  "type": "Feature",
+  "properties": {
+    "name":"Gillette, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2410264,
+    "woe:name":"Gillette, Florida, United States",
+    "woe:place_id":"qAM5cAubBZ1Y2aXp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.532555,27.571362,-82.508278,27.588327],
+  "geometry": {"alpha":0.00015,"bbox":[-82.532554626465,27.571361541748,-82.508277893066,27.588327407837],"coordinates":[[[[-82.520111,27.571362],[-82.532555,27.587034],[-82.52346,27.588327],[-82.508278,27.587276],[-82.512131,27.575241],[-82.520111,27.571362]]]],"created":1292525346,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2410264_20101216_7acb395f6f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

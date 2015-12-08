@@ -1,0 +1,15 @@
+{
+  "id": 2255163,
+  "type": "Feature",
+  "properties": {
+    "name":"Semnan, Semnan, Iran",
+    "placetype":"locality",
+    "woe:id":2255163,
+    "woe:name":"Semnan, Semnan, Iran",
+    "woe:place_id":"YVyS2jebA5mSqh6G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [53.384628,35.567284,53.401966,35.577473],
+  "geometry": {"alpha":0.00015,"bbox":[53.384628295898,35.567283630371,53.401966094971,35.577472686768],"coordinates":[[[[53.396988,35.575661],[53.401966,35.567284],[53.38789,35.569237],[53.384628,35.574123],[53.394585,35.577473],[53.395615,35.577126],[53.396988,35.575661]]]],"created":1292537345,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2255163_20101216_ef54b20716.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12523448,
+  "type": "Feature",
+  "properties": {
+    "name":"Sydney West Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12523448,
+    "woe:name":"Sydney West Airport, Australia",
+    "woe:place_id":"F5lAWhiYA5ndFouspA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.190933,-33.885239,151.199814,-33.883148],
+  "geometry": {"alpha":1e-05,"bbox":[151.19093322754,-33.885238647461,151.19981384277,-33.883148193359],"coordinates":[[[[151.190933,-33.883526],[151.190933,-33.883724],[151.192963,-33.88438],[151.197586,-33.884296],[151.19841,-33.883739],[151.199249,-33.883423],[151.199814,-33.883911],[151.197754,-33.885239],[151.192963,-33.88438],[151.192795,-33.884209],[151.192032,-33.883148],[151.190979,-33.883472],[151.190933,-33.883526]]]],"created":1292540525,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12523448_20101216_b817b4c7b7.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

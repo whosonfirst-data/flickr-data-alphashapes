@@ -1,0 +1,15 @@
+{
+  "id": 2520904,
+  "type": "Feature",
+  "properties": {
+    "name":"Williamstown, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2520904,
+    "woe:name":"Williamstown, Georgia, United States",
+    "woe:place_id":"s1RxBXubBJ7SJG_O",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.359848,34.97691,-84.343887,34.982929],
+  "geometry": {"alpha":0.00015,"bbox":[-84.359848022461,34.976909637451,-84.343887329102,34.982929229736],"coordinates":[[[[-84.359253,34.97691],[-84.359848,34.977039],[-84.357407,34.980362],[-84.354912,34.982929],[-84.343887,34.977161],[-84.359253,34.97691]]]],"created":1292550220,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2520904_20101217_ee4b5d4c0a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

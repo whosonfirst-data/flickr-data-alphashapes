@@ -1,0 +1,15 @@
+{
+  "id": 26805409,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan de Los Morros, Venezuela",
+    "placetype":"locality",
+    "woe:id":26805409,
+    "woe:name":"San Juan de Los Morros, Venezuela",
+    "woe:place_id":"38KL1vmbB5R85JvHXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.356094,9.911615,-67.351341,9.915673],
+  "geometry": {"alpha":1e-05,"bbox":[-67.356094360352,9.9116153717041,-67.351341247559,9.9156732559204],"coordinates":[[[[-67.351341,9.915673],[-67.353058,9.911615],[-67.354431,9.912714],[-67.356094,9.913745],[-67.351341,9.915673]]]],"created":1292541303,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/26805409_20101216_37ed30932b.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

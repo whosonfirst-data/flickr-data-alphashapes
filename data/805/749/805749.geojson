@@ -1,0 +1,15 @@
+{
+  "id": 805749,
+  "type": "Feature",
+  "properties": {
+    "name":"Egerbakta, Heves, Hungary",
+    "placetype":"locality",
+    "woe:id":805749,
+    "woe:name":"Egerbakta, Heves, Hungary",
+    "woe:place_id":"HHEdUHyRAZn0wVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.298615,47.89632,20.334492,47.918526],
+  "geometry": {"alpha":0.00015,"bbox":[20.298614501953,47.896320343018,20.334491729736,47.918525695801],"coordinates":[[[[20.334492,47.914963],[20.321789,47.903858],[20.313377,47.89632],[20.298615,47.912659],[20.311317,47.918526],[20.317841,47.914963],[20.334492,47.914963]]]],"created":1292545564,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/805749_20101217_4ba26c22af.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

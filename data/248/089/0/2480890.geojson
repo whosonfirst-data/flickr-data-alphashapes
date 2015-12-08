@@ -1,0 +1,15 @@
+{
+  "id": 2480890,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2480890,
+    "woe:name":"Richmond, South Carolina, United States",
+    "woe:place_id":"Mncu4ZCbBZQEnKYn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.888115,33.071404,-79.857559,33.079792],
+  "geometry": {"alpha":0.00015,"bbox":[-79.888114929199,33.071403503418,-79.857559204102,33.079792022705],"coordinates":[[[[-79.888115,33.072987],[-79.880646,33.074352],[-79.876701,33.071404],[-79.857605,33.079792],[-79.857559,33.078686],[-79.876701,33.071404],[-79.888115,33.072987]]]],"created":1234734843,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3495/shapefiles/2480890_20090215_08c6c577b1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

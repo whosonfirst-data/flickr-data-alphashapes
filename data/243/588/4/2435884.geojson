@@ -1,0 +1,15 @@
+{
+  "id": 2435884,
+  "type": "Feature",
+  "properties": {
+    "name":"Lamar Heights, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2435884,
+    "woe:name":"Lamar Heights, Missouri, United States",
+    "woe:place_id":"vaKbR8ibBZ8rVOdt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.300819,37.49308,-94.29557,37.495422],
+  "geometry": {"alpha":0.00015,"bbox":[-94.300819396973,37.49308013916,-94.295570373535,37.495422363281],"coordinates":[[[[-94.297897,37.49308],[-94.29866,37.493317],[-94.300819,37.495422],[-94.29557,37.495087],[-94.296638,37.493759],[-94.297897,37.49308]]]],"created":1292547088,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2435884_20101217_92e71c1c5f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

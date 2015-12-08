@@ -1,0 +1,15 @@
+{
+  "id": 2410925,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Wild, New York, United States",
+    "placetype":"locality",
+    "woe:id":2410925,
+    "woe:name":"Glen Wild, New York, United States",
+    "woe:place_id":"LV7DiCubBZ3I71qE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.599228,41.652992,-74.570511,41.668274],
+  "geometry": {"alpha":0.00015,"bbox":[-74.599227905273,41.652992248535,-74.570510864258,41.668273925781],"coordinates":[[[[-74.587692,41.652992],[-74.599228,41.661465],[-74.587814,41.665924],[-74.570511,41.668274],[-74.586952,41.657555],[-74.587692,41.652992]]]],"created":1292529109,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2410925_20101216_be7a7372bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

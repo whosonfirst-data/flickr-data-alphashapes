@@ -1,0 +1,15 @@
+{
+  "id": 579102,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellegarde, Limousin, France",
+    "placetype":"locality",
+    "woe:id":579102,
+    "woe:name":"Bellegarde, Limousin, France",
+    "woe:place_id":"JuMMtiecBpWF1_M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.173305,45.860966,1.18515,45.873039],
+  "geometry": {"alpha":0.00015,"bbox":[1.1733050346375,45.86096572876,1.1851500272751,45.873039245605],"coordinates":[[[[1.176338,45.861763],[1.173305,45.860966],[1.174077,45.863297],[1.178283,45.873039],[1.18515,45.87035],[1.18309,45.867062],[1.176338,45.861763]]]],"created":1292526156,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/579102_20101216_95bcebfdde.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

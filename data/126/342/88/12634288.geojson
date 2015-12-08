@@ -1,0 +1,15 @@
+{
+  "id": 12634288,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Speinshart, Germany",
+    "placetype":"locality",
+    "woe:id":12634288,
+    "woe:name":"Gemeinde Speinshart, Germany",
+    "woe:place_id":"W4K4qJuYA5rD2GHtkg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.819304,49.785912,11.820216,49.787663],
+  "geometry": {"alpha":1e-05,"bbox":[11.819304466248,49.785911560059,11.820216178894,49.787662506104],"coordinates":[[[[11.819797,49.785912],[11.819304,49.786621],[11.820001,49.787651],[11.820023,49.787663],[11.820216,49.786003],[11.819797,49.785912]]]],"created":1292534697,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12634288_20101216_0718f8604b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

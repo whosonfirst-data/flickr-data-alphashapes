@@ -1,0 +1,15 @@
+{
+  "id": 721626,
+  "type": "Feature",
+  "properties": {
+    "name":"Riale, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":721626,
+    "woe:name":"Riale, Emilia Romagna, Italy",
+    "woe:place_id":"obntzcWeA53uo6s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.23249,44.482735,11.248755,44.494411],
+  "geometry": {"alpha":0.00015,"bbox":[11.232489585876,44.482734680176,11.248755455017,44.494411468506],"coordinates":[[[[11.248068,44.486279],[11.248755,44.485115],[11.247777,44.484722],[11.24015,44.482735],[11.23249,44.494411],[11.247049,44.486664],[11.248068,44.486279]]]],"created":1292506035,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/721626_20101216_8cf477061f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

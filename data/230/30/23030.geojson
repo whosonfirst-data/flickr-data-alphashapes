@@ -1,0 +1,15 @@
+{
+  "id": 23030,
+  "type": "Feature",
+  "properties": {
+    "name":"Henley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23030,
+    "woe:name":"Henley, England, United Kingdom",
+    "woe:place_id":"ydbq4MubApyw4Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.151418,52.11834,1.163434,52.127956],
+  "geometry": {"alpha":0.00015,"bbox":[1.1514179706573,52.118339538574,1.1634340286255,52.127956390381],"coordinates":[[[[1.16219,52.127956],[1.163434,52.124794],[1.161932,52.124176],[1.151418,52.11834],[1.16219,52.127956]]]],"created":1292535663,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/23030_20101216_d459fdc651.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

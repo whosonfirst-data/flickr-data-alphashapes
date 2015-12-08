@@ -1,0 +1,15 @@
+{
+  "id": 20100966,
+  "type": "Feature",
+  "properties": {
+    "name":"Boden, Canton of Berne, Switzerland",
+    "placetype":"locality",
+    "woe:id":20100966,
+    "woe:name":"Boden, Canton of Berne, Switzerland",
+    "woe:place_id":"rc6uybybAZ3xS2NgXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.549667,46.477886,7.559833,46.484921],
+  "geometry": {"alpha":0.00015,"bbox":[7.5496668815613,46.477886199951,7.5598330497742,46.484920501709],"coordinates":[[[[7.559833,46.481834],[7.554817,46.477886],[7.549667,46.484921],[7.558808,46.481846],[7.559833,46.481834]]]],"created":1292487615,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/20100966_20101216_f8902bb936.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

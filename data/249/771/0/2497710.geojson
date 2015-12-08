@@ -1,0 +1,15 @@
+{
+  "id": 2497710,
+  "type": "Feature",
+  "properties": {
+    "name":"Spout Run, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2497710,
+    "woe:name":"Spout Run, Virginia, United States",
+    "woe:place_id":"n33R4jibBZW4JGra",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.885323,39.096378,-77.86161,39.102119],
+  "geometry": {"alpha":0.00015,"bbox":[-77.885322570801,39.096378326416,-77.861610412598,39.102119445801],"coordinates":[[[[-77.88002,39.096378],[-77.885323,39.102119],[-77.874008,39.101124],[-77.86161,39.101357],[-77.876244,39.09906],[-77.88002,39.096378]]]],"created":1292445031,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2497710_20101215_3b57e5112f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23417323,
+  "type": "Feature",
+  "properties": {
+    "name":"Leisureville, Florida, United States",
+    "placetype":"locality",
+    "woe:id":23417323,
+    "woe:name":"Leisureville, Florida, United States",
+    "woe:place_id":"am4lgTqbAph9W_PDZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.129227,26.264015,-80.124451,26.267561],
+  "geometry": {"alpha":0.00015,"bbox":[-80.12922668457,26.264015197754,-80.124450683594,26.267560958862],"coordinates":[[[[-80.129227,26.265276],[-80.128441,26.266171],[-80.127182,26.267561],[-80.124451,26.267115],[-80.126892,26.264015],[-80.129227,26.265276]]]],"created":1292528522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/23417323_20101216_f8cd7f303f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

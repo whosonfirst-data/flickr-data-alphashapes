@@ -1,0 +1,15 @@
+{
+  "id": 534230,
+  "type": "Feature",
+  "properties": {
+    "name":"Grocka, Beograd, Serbia",
+    "placetype":"locality",
+    "woe:id":534230,
+    "woe:name":"Grocka, Beograd, Serbia",
+    "woe:place_id":"IZTlw5.cApgWddA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.716497,44.656445,20.730858,44.674267],
+  "geometry": {"alpha":0.00015,"bbox":[20.716497421265,44.656444549561,20.730857849121,44.674266815186],"coordinates":[[[[20.721588,44.674267],[20.726395,44.673046],[20.730858,44.656445],[20.717468,44.670238],[20.716782,44.670849],[20.716497,44.673531],[20.721588,44.674267]]]],"created":1292538418,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/534230_20101216_8b355f550c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

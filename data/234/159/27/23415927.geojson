@@ -1,0 +1,15 @@
+{
+  "id": 23415927,
+  "type": "Feature",
+  "properties": {
+    "name":"Norton Ash, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23415927,
+    "woe:name":"Norton Ash, England, United Kingdom",
+    "woe:place_id":"5QF97WKbApiyiD6vfw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.824146,51.298985,0.843629,51.306503],
+  "geometry": {"alpha":0.00015,"bbox":[0.82414597272873,51.298984527588,0.84362900257111,51.306503295898],"coordinates":[[[[0.842582,51.306503],[0.843629,51.298985],[0.83432,51.300819],[0.828523,51.299282],[0.824146,51.300674],[0.835132,51.301479],[0.842582,51.306503]]]],"created":1292445785,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/23415927_20101215_55fdfbd89c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

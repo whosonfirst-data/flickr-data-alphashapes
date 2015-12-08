@@ -1,0 +1,15 @@
+{
+  "id": 110900,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodlands, Saint Peter, Montserrat",
+    "placetype":"locality",
+    "woe:id":110900,
+    "woe:name":"Woodlands, Saint Peter, Montserrat",
+    "woe:place_id":"B_e1NqqYAJxNK5U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.232098,16.741756,-62.209396,16.75811],
+  "geometry": {"alpha":0.00015,"bbox":[-62.232097625732,16.741756439209,-62.209396362305,16.758110046387],"coordinates":[[[[-62.221069,16.741756],[-62.22596,16.742157],[-62.232098,16.742393],[-62.228966,16.751207],[-62.219181,16.75811],[-62.209396,16.748823],[-62.221069,16.741756]]]],"created":1292524990,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/110900_20101216_d06acbe74d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

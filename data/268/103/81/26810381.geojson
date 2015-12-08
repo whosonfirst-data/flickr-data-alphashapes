@@ -1,0 +1,15 @@
+{
+  "id": 26810381,
+  "type": "Feature",
+  "properties": {
+    "name":"San Andres, Ecuador",
+    "placetype":"locality",
+    "woe:id":26810381,
+    "woe:name":"San Andres, Ecuador",
+    "woe:place_id":"iLqtNqebB5SCTy6wIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.787163,-1.509803,-78.785606,-1.509253],
+  "geometry": {"alpha":1e-05,"bbox":[-78.787162780762,-1.5098030567169,-78.785606384277,-1.5092530250549],"coordinates":[[[[-78.785606,-1.509559],[-78.785675,-1.509645],[-78.786003,-1.509803],[-78.787163,-1.509253],[-78.785683,-1.509392],[-78.785606,-1.509559]]]],"created":1292527788,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/26810381_20101216_08c6e2327f.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

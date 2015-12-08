@@ -1,0 +1,15 @@
+{
+  "id": 20141880,
+  "type": "Feature",
+  "properties": {
+    "name":"San Regolo, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20141880,
+    "woe:name":"San Regolo, Tuscany, Italy",
+    "woe:place_id":"bUam6wCbAZ1b1W8wDA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.456851,43.407539,11.464662,43.412998],
+  "geometry": {"alpha":0.00015,"bbox":[11.456851005554,43.407539367676,11.464661598206,43.412998199463],"coordinates":[[[[11.456851,43.412281],[11.459555,43.412998],[11.464662,43.411953],[11.45874,43.407539],[11.457023,43.411907],[11.456851,43.412281]]]],"created":1292502122,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20141880_20101216_ecb072ae9b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

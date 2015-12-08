@@ -1,0 +1,15 @@
+{
+  "id": 20173009,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwarzenbach, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20173009,
+    "woe:name":"Schwarzenbach, Bavaria, Germany",
+    "woe:place_id":"C88S52ebAZ0rtgxuaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.897407,47.677433,10.902214,47.683418],
+  "geometry": {"alpha":0.00015,"bbox":[10.897406578064,47.677433013916,10.902214050293,47.683418273926],"coordinates":[[[[10.900497,47.680759],[10.898262,47.677433],[10.897407,47.683418],[10.902214,47.682781],[10.900497,47.680759]]]],"created":1292543220,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/20173009_20101216_29ff40f0e9.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

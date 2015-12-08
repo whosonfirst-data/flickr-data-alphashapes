@@ -1,0 +1,15 @@
+{
+  "id": 661167,
+  "type": "Feature",
+  "properties": {
+    "name":"Hohenfelden, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":661167,
+    "woe:name":"Hohenfelden, Thuringia, Germany",
+    "woe:place_id":"CMMP9XqfB53M..g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.157739,50.874226,11.185798,50.885277],
+  "geometry": {"alpha":0.00015,"bbox":[11.157738685608,50.874225616455,11.185797691345,50.885276794434],"coordinates":[[[[11.179318,50.881119],[11.179704,50.880566],[11.185798,50.874226],[11.175069,50.87466],[11.157739,50.879929],[11.172409,50.885277],[11.179318,50.881119]]]],"created":1292445535,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/661167_20101215_7324ac3263.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

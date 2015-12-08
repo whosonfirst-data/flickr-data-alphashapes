@@ -1,0 +1,15 @@
+{
+  "id": 20130428,
+  "type": "Feature",
+  "properties": {
+    "name":"Maniace, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":20130428,
+    "woe:name":"Maniace, Sicily, Italy",
+    "woe:place_id":"kj0hjWSbAZ0kixM5gA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.807596,37.850883,14.819247,37.869061],
+  "geometry": {"alpha":0.00015,"bbox":[14.807596206665,37.850883483887,14.819247245789,37.869060516357],"coordinates":[[[[14.819247,37.858829],[14.814376,37.850883],[14.809055,37.861774],[14.807609,37.862961],[14.807596,37.869061],[14.816629,37.860287],[14.819247,37.858829]]]],"created":1292539333,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/20130428_20101216_64bdca2670.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

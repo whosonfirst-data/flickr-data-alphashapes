@@ -1,0 +1,15 @@
+{
+  "id": 543101,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberndorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543101,
+    "woe:name":"Oberndorf, Lower Austria, Austria",
+    "woe:place_id":"WL.3JsucBZ84Ov8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.212717,48.060642,15.220184,48.070621],
+  "geometry": {"alpha":0.00015,"bbox":[15.212717056274,48.060642242432,15.220184326172,48.070621490479],"coordinates":[[[[15.218811,48.065575],[15.220184,48.060642],[15.21782,48.064789],[15.216493,48.06612],[15.212717,48.070621],[15.216064,48.067757],[15.218811,48.065575]]]],"created":1292537441,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/543101_20101216_e39ceb7ba4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

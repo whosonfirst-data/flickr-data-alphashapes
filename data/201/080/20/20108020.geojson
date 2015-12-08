@@ -1,0 +1,15 @@
+{
+  "id": 20108020,
+  "type": "Feature",
+  "properties": {
+    "name":"Ronco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20108020,
+    "woe:name":"Ronco, Lombardy, Italy",
+    "woe:place_id":"VFCaAYWbAZ0bAIkIQw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.678611,46.122452,9.698266,46.126778],
+  "geometry": {"alpha":0.00015,"bbox":[9.6786108016968,46.122451782227,9.6982660293579,46.126777648926],"coordinates":[[[[9.689254,46.126778],[9.698266,46.12553],[9.689941,46.124176],[9.678611,46.122452],[9.680929,46.124474],[9.689254,46.126778]]]],"created":1292445506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20108020_20101215_dd3b8c9edb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

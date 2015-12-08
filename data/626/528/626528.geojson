@@ -1,0 +1,15 @@
+{
+  "id": 626528,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Pierre, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":626528,
+    "woe:name":"St-Pierre, Pays de la Loire, France",
+    "woe:place_id":"iqPSfH.fA5pi94o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.394821,48.006233,-0.391387,48.00985],
+  "geometry": {"alpha":0.00015,"bbox":[-0.39482098817825,48.006233215332,-0.39138698577881,48.00984954834],"coordinates":[[[[-0.393276,48.00985],[-0.392246,48.008587],[-0.391387,48.00761],[-0.393447,48.006233],[-0.394821,48.009449],[-0.393276,48.00985]]]],"created":1292537873,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/626528_20101216_44160ed273.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

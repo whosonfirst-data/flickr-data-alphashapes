@@ -1,0 +1,15 @@
+{
+  "id": 12647343,
+  "type": "Feature",
+  "properties": {
+    "name":"Mont-Cauvaire, France",
+    "placetype":"locality",
+    "woe:id":12647343,
+    "woe:name":"Mont-Cauvaire, France",
+    "woe:place_id":"m2_3n6uYA5q0R7bduA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.113224,49.574463,1.11833,49.578503],
+  "geometry": {"alpha":1e-05,"bbox":[1.113224029541,49.574462890625,1.1183300018311,49.578502655029],"coordinates":[[[[1.113224,49.576492],[1.11817,49.578503],[1.118191,49.57579],[1.11833,49.574463],[1.113224,49.576492]]]],"created":1247819281,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2426/shapefiles/12647343_20090717_4f607b3889.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

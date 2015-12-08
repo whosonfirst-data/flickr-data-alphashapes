@@ -1,0 +1,15 @@
+{
+  "id": 28745492,
+  "type": "Feature",
+  "properties": {
+    "name":"Schuylkill, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745492,
+    "woe:name":"Schuylkill, Pennsylvania, United States",
+    "woe:place_id":"FZA3Za.bCZvvgiBjKA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.982178,40.790028,-75.965668,40.801666],
+  "geometry": {"alpha":0.00015,"bbox":[-75.982177734375,40.790027618408,-75.965667724609,40.801666259766],"coordinates":[[[[-75.965668,40.801666],[-75.96711,40.79351],[-75.982178,40.790028],[-75.970543,40.801075],[-75.965668,40.801666]]]],"created":1292550017,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/28745492_20101217_891041c164.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

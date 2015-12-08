@@ -1,0 +1,15 @@
+{
+  "id": 20071574,
+  "type": "Feature",
+  "properties": {
+    "name":"Castlehaven North, Ireland",
+    "placetype":"locality",
+    "woe:id":20071574,
+    "woe:name":"Castlehaven North, Ireland",
+    "woe:place_id":"Aj9HJwWbAZwWuD5vZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.2012,51.509026,-9.19959,51.510109],
+  "geometry": {"alpha":1e-05,"bbox":[-9.2011995315552,51.50902557373,-9.1995897293091,51.510108947754],"coordinates":[[[[-9.200895,51.509026],[-9.2012,51.510109],[-9.19959,51.510025],[-9.199634,51.509731],[-9.200412,51.509335],[-9.200895,51.509026]]]],"created":1292541454,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/20071574_20101216_5242e34c55.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 773270,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pedro, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":773270,
+    "woe:name":"San Pedro, Canary Islands, Spain",
+    "woe:place_id":"WOSWbXueBp8EBxU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-15.679464,28.069405,-15.670559,28.08359],
+  "geometry": {"alpha":0.00015,"bbox":[-15.67946434021,28.069404602051,-15.670558929443,28.083589553833],"coordinates":[[[[-15.670559,28.081545],[-15.675172,28.075615],[-15.679464,28.069405],[-15.678434,28.073647],[-15.678434,28.080385],[-15.673035,28.08359],[-15.67131,28.08243],[-15.670559,28.081545]]]],"created":1292539001,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/773270_20101216_d4e5a4309e.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

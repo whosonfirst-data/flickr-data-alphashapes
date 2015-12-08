@@ -1,0 +1,15 @@
+{
+  "id": 555992,
+  "type": "Feature",
+  "properties": {
+    "name":"Nyby, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555992,
+    "woe:name":"Nyby, Sjaelland, Denmark",
+    "woe:place_id":"Z1X95pKcBJnrHhI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.942272,55.748837,10.945418,55.751896],
+  "geometry": {"alpha":0.00015,"bbox":[10.942272186279,55.748836517334,10.945418357849,55.751895904541],"coordinates":[[[[10.944447,55.751896],[10.945183,55.750999],[10.945418,55.74955],[10.945151,55.748837],[10.942272,55.749386],[10.944447,55.751896]]]],"created":1292522881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/555992_20101216_5cc8aeb598.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

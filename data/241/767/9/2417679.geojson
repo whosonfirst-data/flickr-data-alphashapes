@@ -1,0 +1,15 @@
+{
+  "id": 2417679,
+  "type": "Feature",
+  "properties": {
+    "name":"Harmon, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2417679,
+    "woe:name":"Harmon, Delaware, United States",
+    "woe:place_id":"1c9aXe2bBZ0MxkB9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.212334,38.606228,-75.206612,38.61692],
+  "geometry": {"alpha":0.00015,"bbox":[-75.212333679199,38.606227874756,-75.206611633301,38.616920471191],"coordinates":[[[[-75.208687,38.615707],[-75.207092,38.61692],[-75.206612,38.612209],[-75.212334,38.606228],[-75.209175,38.61377],[-75.208687,38.615707]]]],"created":1247886248,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3485/shapefiles/2417679_20090718_6e2bec39cb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

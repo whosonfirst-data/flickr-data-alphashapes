@@ -1,0 +1,15 @@
+{
+  "id": 784695,
+  "type": "Feature",
+  "properties": {
+    "name":"Wiggen, Canton of Lucerne, Switzerland",
+    "placetype":"locality",
+    "woe:id":784695,
+    "woe:name":"Wiggen, Canton of Lucerne, Switzerland",
+    "woe:place_id":".Fa6V.GeCZiwsMk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.8965,46.887333,7.908333,46.900215],
+  "geometry": {"alpha":0.00015,"bbox":[7.8965001106262,46.88733291626,7.908332824707,46.900215148926],"coordinates":[[[[7.900929,46.900215],[7.901167,46.900002],[7.908333,46.896999],[7.901167,46.887333],[7.901,46.887333],[7.8965,46.889168],[7.900929,46.900215]]]],"created":1292499483,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/784695_20101216_5cbb12c58b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602366,
+  "type": "Feature",
+  "properties": {
+    "name":"Wuustwezel, Belgium",
+    "placetype":"locality",
+    "woe:id":12602366,
+    "woe:name":"Wuustwezel, Belgium",
+    "woe:place_id":"xNiBt0SYA5pDxFFuvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.597,51.377544,4.606457,51.383648],
+  "geometry": {"alpha":1e-05,"bbox":[4.5970001220703,51.377544403076,4.606457233429,51.383647918701],"coordinates":[[[[4.598,51.380001],[4.597,51.380001],[4.597778,51.383648],[4.603271,51.382603],[4.606457,51.377872],[4.602041,51.377544],[4.598,51.380001]]]],"created":1292488518,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12602366_20101216_a3e73ac0eb.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

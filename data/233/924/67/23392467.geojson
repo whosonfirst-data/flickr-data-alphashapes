@@ -1,0 +1,15 @@
+{
+  "id": 23392467,
+  "type": "Feature",
+  "properties": {
+    "name":"Sussex Corner, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23392467,
+    "woe:name":"Sussex Corner, New Brunswick, Canada",
+    "woe:place_id":"Z4UA.l2bAp9BPPBaZA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.485855,45.710495,-65.454956,45.730396],
+  "geometry": {"alpha":0.00015,"bbox":[-65.485855102539,45.710494995117,-65.454956054688,45.730396270752],"coordinates":[[[[-65.480965,45.711094],[-65.485374,45.71352],[-65.485855,45.730396],[-65.476456,45.713371],[-65.455338,45.721088],[-65.454956,45.720234],[-65.472679,45.710495],[-65.480965,45.711094]]]],"created":1292525886,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/23392467_20101216_ceaabfcfdc.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

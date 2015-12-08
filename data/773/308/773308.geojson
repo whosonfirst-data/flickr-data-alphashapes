@@ -1,0 +1,15 @@
+{
+  "id": 773308,
+  "type": "Feature",
+  "properties": {
+    "name":"Paredes, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":773308,
+    "woe:name":"Paredes, Asturias, Spain",
+    "woe:place_id":"ZzSY2j2eBp9I9ZI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.485897,43.45578,-6.481367,43.457485],
+  "geometry": {"alpha":0.00015,"bbox":[-6.485897064209,43.455780029297,-6.4813671112061,43.457485198975],"coordinates":[[[[-6.485176,43.457485],[-6.481367,43.456348],[-6.485849,43.45578],[-6.485897,43.455925],[-6.485712,43.457062],[-6.485176,43.457485]]]],"created":1292528975,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/773308_20101216_eae04e0c1d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

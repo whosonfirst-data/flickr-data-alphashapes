@@ -1,0 +1,15 @@
+{
+  "id": 2369278,
+  "type": "Feature",
+  "properties": {
+    "name":"Brinkleyville, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2369278,
+    "woe:name":"Brinkleyville, North Carolina, United States",
+    "woe:place_id":"ZNaLqiGbApo8LNEk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.889633,36.261162,-77.880188,36.269051],
+  "geometry": {"alpha":0.00015,"bbox":[-77.889633178711,36.261161804199,-77.880187988281,36.269050598145],"coordinates":[[[[-77.882423,36.264896],[-77.88414,36.263374],[-77.889633,36.261162],[-77.888687,36.264896],[-77.880188,36.269051],[-77.882423,36.264896]]]],"created":1292545235,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2369278_20101217_de49d98490.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

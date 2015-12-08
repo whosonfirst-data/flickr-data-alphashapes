@@ -1,0 +1,15 @@
+{
+  "id": 2380500,
+  "type": "Feature",
+  "properties": {
+    "name":"City Farm, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2380500,
+    "woe:name":"City Farm, Virginia, United States",
+    "woe:place_id":"U0xNr6mbApS5WMvv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.202499,37.322666,-79.190208,37.333519],
+  "geometry": {"alpha":0.00015,"bbox":[-79.202499389648,37.322666168213,-79.190208435059,37.333518981934],"coordinates":[[[[-79.20134,37.333073],[-79.200699,37.333519],[-79.190208,37.329983],[-79.190498,37.327332],[-79.19043,37.324181],[-79.201332,37.322666],[-79.202003,37.326832],[-79.202499,37.328125],[-79.20134,37.333073]]]],"created":1292537352,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2380500_20101216_e90a57c365.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

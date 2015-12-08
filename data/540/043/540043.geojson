@@ -1,0 +1,15 @@
+{
+  "id": 540043,
+  "type": "Feature",
+  "properties": {
+    "name":"Neusach, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":540043,
+    "woe:name":"Neusach, Carinthia, Austria",
+    "woe:place_id":"csA5a36cBZxHCjs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.303692,46.71521,13.314743,46.721504],
+  "geometry": {"alpha":0.00015,"bbox":[13.303691864014,46.715209960938,13.314743041992,46.721504211426],"coordinates":[[[[13.314743,46.716091],[13.313112,46.71521],[13.307962,46.715267],[13.304271,46.717033],[13.303692,46.717724],[13.310623,46.721504],[13.314743,46.716091]]]],"created":1248125770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2481/shapefiles/540043_20090720_843d75cf3d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

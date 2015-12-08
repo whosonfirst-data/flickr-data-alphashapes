@@ -1,0 +1,15 @@
+{
+  "id": 12675638,
+  "type": "Feature",
+  "properties": {
+    "name":"Egg, Austria",
+    "placetype":"locality",
+    "woe:id":12675638,
+    "woe:name":"Egg, Austria",
+    "woe:place_id":"RtlCpf.YA5remvFdeQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.980166,47.396,9.985833,47.399502],
+  "geometry": {"alpha":1e-05,"bbox":[9.9801664352417,47.395999908447,9.9858331680298,47.399501800537],"coordinates":[[[[9.9815,47.398998],[9.985166,47.398167],[9.985833,47.396],[9.985,47.396168],[9.9815,47.398666],[9.980166,47.399334],[9.980166,47.399502],[9.9815,47.398998]]]],"created":1292529409,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12675638_20101216_f39316dab2.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

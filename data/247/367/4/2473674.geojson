@@ -1,0 +1,15 @@
+{
+  "id": 2473674,
+  "type": "Feature",
+  "properties": {
+    "name":"Pleasant Farm, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2473674,
+    "woe:name":"Pleasant Farm, South Carolina, United States",
+    "woe:place_id":"kRaZLRebBZte8G33",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.774742,32.410419,-80.771385,32.411392],
+  "geometry": {"alpha":0.00015,"bbox":[-80.774742126465,32.410419464111,-80.771385192871,32.411392211914],"coordinates":[[[[-80.773727,32.410419],[-80.774742,32.410797],[-80.771385,32.411392],[-80.771416,32.411194],[-80.771866,32.410786],[-80.773727,32.410419]]]],"created":1292532589,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2473674_20101216_371b1043c7.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

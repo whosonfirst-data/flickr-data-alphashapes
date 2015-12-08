@@ -1,0 +1,15 @@
+{
+  "id": 33302,
+  "type": "Feature",
+  "properties": {
+    "name":"Ridge Lane, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33302,
+    "woe:name":"Ridge Lane, England, United Kingdom",
+    "woe:place_id":"pplNWfWaAp_Vuw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.581902,52.550709,-1.553964,52.568394],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5819020271301,52.550708770752,-1.5539640188217,52.568393707275],"coordinates":[[[[-1.573791,52.56675],[-1.5701,52.568394],[-1.566367,52.5667],[-1.553964,52.555401],[-1.566359,52.550709],[-1.5748,52.553783],[-1.581667,52.560833],[-1.581902,52.561104],[-1.573791,52.56675]]]],"created":1292549148,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/33302_20101217_4a389394c0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

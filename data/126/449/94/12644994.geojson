@@ -1,0 +1,15 @@
+{
+  "id": 12644994,
+  "type": "Feature",
+  "properties": {
+    "name":"Haguenau, France",
+    "placetype":"locality",
+    "woe:id":12644994,
+    "woe:name":"Haguenau, France",
+    "woe:place_id":"Ptck5H.YA5qkoRjJlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.860159,48.849495,7.861812,48.852406],
+  "geometry": {"alpha":1e-05,"bbox":[7.8601589202881,48.849494934082,7.8618121147156,48.852405548096],"coordinates":[[[[7.860717,48.852406],[7.861812,48.849949],[7.860631,48.849522],[7.860159,48.849495],[7.860717,48.852406]]]],"created":1292522581,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/12644994_20101216_ec0a66963f.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

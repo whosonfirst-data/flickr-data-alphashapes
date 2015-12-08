@@ -1,0 +1,15 @@
+{
+  "id": 724226,
+  "type": "Feature",
+  "properties": {
+    "name":"Sindia, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":724226,
+    "woe:name":"Sindia, Sardinia, Italy",
+    "woe:place_id":"S9ChRwieA5iY0Fo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.649501,40.296051,8.655166,40.298462],
+  "geometry": {"alpha":0.00015,"bbox":[8.6495008468628,40.296051025391,8.6551656723022,40.298461914062],"coordinates":[[[[8.65135,40.296051],[8.649501,40.296352],[8.652248,40.297726],[8.654297,40.298462],[8.655166,40.297005],[8.653106,40.296288],[8.65135,40.296051]]]],"created":1292466962,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/724226_20101216_57fc71cca7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

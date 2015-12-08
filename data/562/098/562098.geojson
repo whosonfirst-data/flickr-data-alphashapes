@@ -1,0 +1,15 @@
+{
+  "id": 562098,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockbrook, Dublin, Ireland",
+    "placetype":"locality",
+    "woe:id":562098,
+    "woe:name":"Rockbrook, Dublin, Ireland",
+    "woe:place_id":"nbzFJZKcB55QuXo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.315765,53.243954,-6.295959,53.263569],
+  "geometry": {"alpha":0.00015,"bbox":[-6.3157649040222,53.243953704834,-6.2959589958191,53.263568878174],"coordinates":[[[[-6.295959,53.245754],[-6.298084,53.243954],[-6.301517,53.2575],[-6.315765,53.263569],[-6.297845,53.261536],[-6.295959,53.245754]]]],"created":1292519545,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/562098_20101216_4f7cc0f3b9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

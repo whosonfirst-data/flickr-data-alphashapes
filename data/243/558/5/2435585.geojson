@@ -1,0 +1,15 @@
+{
+  "id": 2435585,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakeview, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2435585,
+    "woe:name":"Lakeview, Ohio, United States",
+    "woe:place_id":"aGI.oeSbBZ9xnVch",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.434807,39.917637,-81.425682,39.929203],
+  "geometry": {"alpha":0.00015,"bbox":[-81.43480682373,39.917636871338,-81.425682067871,39.929203033447],"coordinates":[[[[-81.434631,39.929203],[-81.425682,39.917637],[-81.432465,39.921333],[-81.434807,39.924103],[-81.434631,39.929203]]]],"created":1234722369,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3356/shapefiles/2435585_20090215_1b77000952.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

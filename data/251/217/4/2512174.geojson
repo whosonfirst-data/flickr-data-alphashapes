@@ -1,0 +1,15 @@
+{
+  "id": 2512174,
+  "type": "Feature",
+  "properties": {
+    "name":"Vienna, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2512174,
+    "woe:name":"Vienna, West Virginia, United States",
+    "woe:place_id":"MKwENw6bBJ184Dve",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.553635,39.300289,-81.529541,39.342194],
+  "geometry": {"alpha":0.00015,"bbox":[-81.553634643555,39.300289154053,-81.529541015625,39.342193603516],"coordinates":[[[[-81.539841,39.341202],[-81.534721,39.342194],[-81.529541,39.335358],[-81.53186,39.323784],[-81.54834,39.324821],[-81.553024,39.312668],[-81.551682,39.307007],[-81.551361,39.300289],[-81.549332,39.303001],[-81.549004,39.305],[-81.549004,39.305031],[-81.553024,39.312668],[-81.553635,39.322472],[-81.55117,39.332172],[-81.539841,39.341202]]]],"created":1292452519,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2512174_20101215_1bb3a1a3ec.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

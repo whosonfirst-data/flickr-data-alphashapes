@@ -1,0 +1,15 @@
+{
+  "id": 649263,
+  "type": "Feature",
+  "properties": {
+    "name":"Falkenfels, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":649263,
+    "woe:name":"Falkenfels, Bavaria, Germany",
+    "woe:place_id":"97iflYKfBZXusyE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.587671,49.003014,12.596061,49.01226],
+  "geometry": {"alpha":0.00015,"bbox":[12.587671279907,49.00301361084,12.596060752869,49.012260437012],"coordinates":[[[[12.596061,49.005363],[12.594022,49.003014],[12.587671,49.01226],[12.590589,49.011078],[12.591705,49.009811],[12.593743,49.00732],[12.596061,49.005363]]]],"created":1292453618,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/649263_20101215_ff098b509f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

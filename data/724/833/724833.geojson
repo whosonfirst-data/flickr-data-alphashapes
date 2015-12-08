@@ -1,0 +1,15 @@
+{
+  "id": 724833,
+  "type": "Feature",
+  "properties": {
+    "name":"Terralba, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":724833,
+    "woe:name":"Terralba, Sardinia, Italy",
+    "woe:place_id":"qJILG.meA5gvIfU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.634567,39.717026,8.647098,39.72937],
+  "geometry": {"alpha":0.00015,"bbox":[8.6345672607422,39.717025756836,8.6470975875854,39.729370117188],"coordinates":[[[[8.635253,39.721977],[8.64212,39.72937],[8.647098,39.728512],[8.643321,39.717552],[8.636627,39.717026],[8.634567,39.720787],[8.635253,39.721977]]]],"created":1292499191,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/724833_20101216_ddaa320e7c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

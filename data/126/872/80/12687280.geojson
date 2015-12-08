@@ -1,0 +1,15 @@
+{
+  "id": 12687280,
+  "type": "Feature",
+  "properties": {
+    "name":"Dawu, China",
+    "placetype":"locality",
+    "woe:id":12687280,
+    "woe:name":"Dawu, China",
+    "woe:place_id":"7j.O5m.YA5riAdChgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [101.131752,30.970055,101.133438,30.972973],
+  "geometry": {"alpha":1e-05,"bbox":[101.13175201416,30.970054626465,101.13343811035,30.972972869873],"coordinates":[[[[101.131752,30.970055],[101.131897,30.970913],[101.132584,30.972973],[101.133438,30.970913],[101.131752,30.970055]]]],"created":1292539910,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12687280_20101216_06c92bb7d1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

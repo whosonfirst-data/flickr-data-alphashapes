@@ -1,0 +1,15 @@
+{
+  "id": 1105294,
+  "type": "Feature",
+  "properties": {
+    "name":"Redhill, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105294,
+    "woe:name":"Redhill, South Australia, Australia",
+    "woe:place_id":"UGoZoECYAJzq3nBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.207855,-33.551777,138.232727,-33.528805],
+  "geometry": {"alpha":0.00015,"bbox":[138.20785522461,-33.551776885986,138.23272705078,-33.528804779053],"coordinates":[[[[138.222366,-33.537628],[138.232727,-33.528805],[138.222763,-33.540691],[138.222549,-33.551777],[138.215912,-33.539307],[138.207855,-33.531197],[138.222366,-33.537628]]]],"created":1292519744,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/1105294_20101216_1108f77a46.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

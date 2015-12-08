@@ -1,0 +1,15 @@
+{
+  "id": 2351573,
+  "type": "Feature",
+  "properties": {
+    "name":"Aberdeen Junction, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2351573,
+    "woe:name":"Aberdeen Junction, Washington, United States",
+    "woe:place_id":"CgYJ2B.bApk7EL5H",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.770599,46.979725,-123.765472,46.981834],
+  "geometry": {"alpha":0.00015,"bbox":[-123.77059936523,46.979724884033,-123.76547241211,46.981834411621],"coordinates":[[[[-123.767853,46.98119],[-123.766396,46.980385],[-123.765472,46.979725],[-123.767998,46.980934],[-123.770599,46.981834],[-123.767853,46.98119]]]],"created":1292448226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2351573_20101215_7293035cb1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

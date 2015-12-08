@@ -1,0 +1,15 @@
+{
+  "id": 2450013,
+  "type": "Feature",
+  "properties": {
+    "name":"Miakka, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2450013,
+    "woe:name":"Miakka, Florida, United States",
+    "woe:place_id":"I1nPl1CbBZmofUaf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.290344,27.318094,-82.265976,27.338779],
+  "geometry": {"alpha":0.00015,"bbox":[-82.290344238281,27.31809425354,-82.265975952148,27.338779449463],"coordinates":[[[[-82.273438,27.334145],[-82.290344,27.318094],[-82.278244,27.337118],[-82.265976,27.338779],[-82.269463,27.333202],[-82.273438,27.334145]]]],"created":1292521202,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2450013_20101216_9ae1b647c5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12679861,
+  "type": "Feature",
+  "properties": {
+    "name":"Landriano, Italy",
+    "placetype":"locality",
+    "woe:id":12679861,
+    "woe:name":"Landriano, Italy",
+    "woe:place_id":"W4pjLbmYA5pZ5qsrfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.285464,45.320679,9.285657,45.320869],
+  "geometry": {"alpha":1e-05,"bbox":[9.2854642868042,45.320678710938,9.2856569290161,45.320869445801],"coordinates":[[[[9.285528,45.320816],[9.285657,45.320683],[9.285593,45.320679],[9.285485,45.320763],[9.285464,45.320869],[9.285528,45.320816]]]],"created":1292449082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/12679861_20101215_c58621f8b0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

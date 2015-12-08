@@ -1,0 +1,15 @@
+{
+  "id": 2406873,
+  "type": "Feature",
+  "properties": {
+    "name":"Frank, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2406873,
+    "woe:name":"Frank, Maryland, United States",
+    "woe:place_id":"n4VimUGbBZz4se4y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.114571,39.622723,-76.099754,39.636826],
+  "geometry": {"alpha":0.00015,"bbox":[-76.114570617676,39.622722625732,-76.099754333496,39.636825561523],"coordinates":[[[[-76.114571,39.624474],[-76.11454,39.624756],[-76.107956,39.636826],[-76.099754,39.633926],[-76.109329,39.626316],[-76.114281,39.622723],[-76.114571,39.624474]]]],"created":1292534562,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2406873_20101216_15833c5668.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

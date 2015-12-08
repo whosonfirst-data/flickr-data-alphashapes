@@ -1,0 +1,15 @@
+{
+  "id": 30606,
+  "type": "Feature",
+  "properties": {
+    "name":"Northbourne, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30606,
+    "woe:name":"Northbourne, England, United Kingdom",
+    "woe:place_id":"O6fCUOSaAZp97g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.338336,51.218361,1.340997,51.222542],
+  "geometry": {"alpha":0.00015,"bbox":[1.3383359909058,51.218360900879,1.3409969806671,51.222541809082],"coordinates":[[[[1.340997,51.221077],[1.338701,51.218731],[1.338336,51.218361],[1.339044,51.221184],[1.34016,51.222542],[1.340889,51.222328],[1.340997,51.221077]]]],"created":1292534228,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/30606_20101216_c31863c35d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

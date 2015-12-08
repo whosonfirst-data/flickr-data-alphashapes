@@ -1,0 +1,15 @@
+{
+  "id": 2511800,
+  "type": "Feature",
+  "properties": {
+    "name":"Vernon, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2511800,
+    "woe:name":"Vernon, Iowa, United States",
+    "woe:place_id":"a_a8G7abBJ19uhvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.862953,40.723061,-91.853943,40.728268],
+  "geometry": {"alpha":0.00015,"bbox":[-91.862953186035,40.72306060791,-91.853942871094,40.728267669678],"coordinates":[[[[-91.854149,40.724316],[-91.854416,40.723476],[-91.854599,40.723061],[-91.862953,40.726833],[-91.859863,40.728268],[-91.853943,40.726967],[-91.854149,40.724316]]]],"created":1292541306,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2511800_20101216_b848ca6017.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

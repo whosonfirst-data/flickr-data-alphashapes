@@ -1,0 +1,15 @@
+{
+  "id": 20100,
+  "type": "Feature",
+  "properties": {
+    "name":"Fernhurst, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20100,
+    "woe:name":"Fernhurst, England, United Kingdom",
+    "woe:place_id":"YB0uw6WbAZ39ig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.722522,51.048195,-0.715742,51.050156],
+  "geometry": {"alpha":0.00015,"bbox":[-0.72252202033997,51.048194885254,-0.71574199199677,51.050155639648],"coordinates":[[[[-0.715742,51.048195],[-0.717887,51.049122],[-0.722522,51.050156],[-0.71748,51.049419],[-0.715742,51.048195]]]],"created":1248022801,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3023/shapefiles/20100_20090719_d5c5f448f1.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

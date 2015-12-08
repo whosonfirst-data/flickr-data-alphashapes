@@ -1,0 +1,15 @@
+{
+  "id": 2385762,
+  "type": "Feature",
+  "properties": {
+    "name":"Country Acres, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2385762,
+    "woe:name":"Country Acres, Georgia, United States",
+    "woe:place_id":"8UZWrMObApSUSmIg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.79081,33.956528,-84.790222,33.957275],
+  "geometry": {"alpha":0.00015,"bbox":[-84.790809631348,33.956527709961,-84.790222167969,33.957275390625],"coordinates":[[[[-84.790222,33.956581],[-84.790321,33.956528],[-84.79081,33.956573],[-84.790672,33.957092],[-84.790298,33.957275],[-84.790222,33.956581]]]],"created":1292448264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2385762_20101215_daff675061.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

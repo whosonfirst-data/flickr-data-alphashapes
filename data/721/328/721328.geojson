@@ -1,0 +1,15 @@
+{
+  "id": 721328,
+  "type": "Feature",
+  "properties": {
+    "name":"Primolano, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":721328,
+    "woe:name":"Primolano, Veneto, Italy",
+    "woe:place_id":"Nb4Sbf6eA52T4YE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.701555,45.964462,11.711897,45.965916],
+  "geometry": {"alpha":0.00015,"bbox":[11.701555252075,45.964462280273,11.711896896362,45.965915679932],"coordinates":[[[[11.701555,45.964931],[11.701834,45.965164],[11.705546,45.965916],[11.711897,45.964462],[11.70987,45.9645],[11.702799,45.964703],[11.701555,45.964931]]]],"created":1292528192,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/721328_20101216_abee29a6f3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

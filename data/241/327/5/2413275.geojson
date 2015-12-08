@@ -1,0 +1,15 @@
+{
+  "id": 2413275,
+  "type": "Feature",
+  "properties": {
+    "name":"Grassland, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2413275,
+    "woe:name":"Grassland, Tennessee, United States",
+    "woe:place_id":"GVvTutGbBZ0eNgvK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.888596,35.993118,-86.88372,36.003284],
+  "geometry": {"alpha":0.00015,"bbox":[-86.888595581055,35.993118286133,-86.883720397949,36.003284454346],"coordinates":[[[[-86.887115,35.996655],[-86.888596,36.002129],[-86.88726,36.003284],[-86.88372,35.99688],[-86.884171,35.993118],[-86.887115,35.996655]]]],"created":1292500505,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2413275_20101216_c7d52b2dbf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

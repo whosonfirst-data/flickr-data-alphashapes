@@ -1,0 +1,15 @@
+{
+  "id": 655,
+  "type": "Feature",
+  "properties": {
+    "name":"Frankville, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":655,
+    "woe:name":"Frankville, Nova Scotia, Canada",
+    "woe:place_id":"daiJhbWfBJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.530674,45.660126,-61.497086,45.683636],
+  "geometry": {"alpha":0.00015,"bbox":[-61.530673980713,45.660125732422,-61.497085571289,45.68363571167],"coordinates":[[[[-61.530674,45.676514],[-61.527039,45.681839],[-61.502838,45.683636],[-61.497086,45.675602],[-61.502838,45.660126],[-61.499001,45.674667],[-61.522976,45.674774],[-61.529316,45.664295],[-61.530674,45.676514]]]],"created":1292490606,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/655_20101216_925ac4564f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

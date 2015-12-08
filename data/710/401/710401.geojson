@@ -1,0 +1,15 @@
+{
+  "id": 710401,
+  "type": "Feature",
+  "properties": {
+    "name":"Asso, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710401,
+    "woe:name":"Asso, Lombardy, Italy",
+    "woe:place_id":"jcZPt8OeAJzEiIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.264392,45.855465,9.273233,45.864792],
+  "geometry": {"alpha":0.00015,"bbox":[9.2643918991089,45.855464935303,9.2732334136963,45.864791870117],"coordinates":[[[[9.267311,45.863358],[9.271087,45.864792],[9.272275,45.864464],[9.273233,45.861668],[9.270014,45.856632],[9.26877,45.855465],[9.266624,45.85714],[9.264392,45.862041],[9.267311,45.863358]]]],"created":1292533764,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/710401_20101216_378cf2810b.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

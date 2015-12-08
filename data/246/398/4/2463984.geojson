@@ -1,0 +1,15 @@
+{
+  "id": 2463984,
+  "type": "Feature",
+  "properties": {
+    "name":"Oatmeal, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2463984,
+    "woe:name":"Oatmeal, Texas, United States",
+    "woe:place_id":"9n.0.PSbBZpEcoY2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.101387,30.688526,-98.089455,30.695644],
+  "geometry": {"alpha":0.00015,"bbox":[-98.101387023926,30.688526153564,-98.089454650879,30.695644378662],"coordinates":[[[[-98.101212,30.694132],[-98.101387,30.695644],[-98.092201,30.695274],[-98.089455,30.688526],[-98.099701,30.693098],[-98.101212,30.694132]]]],"created":1292548320,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2463984_20101217_9f2a57912d.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

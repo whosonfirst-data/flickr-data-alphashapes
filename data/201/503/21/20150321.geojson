@@ -1,0 +1,15 @@
+{
+  "id": 20150321,
+  "type": "Feature",
+  "properties": {
+    "name":"Aeroporto Forlanini, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20150321,
+    "woe:name":"Aeroporto Forlanini, Lombardy, Italy",
+    "woe:place_id":"peOGi1ebAZ0PUfPfJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.227142,45.444324,9.286537,45.466934],
+  "geometry": {"alpha":0.00015,"bbox":[9.2271423339844,45.444324493408,9.2865371704102,45.466934204102],"coordinates":[[[[9.274992,45.444355],[9.274692,45.444324],[9.262847,45.453388],[9.252891,45.453026],[9.251689,45.452785],[9.251582,45.452839],[9.231948,45.463501],[9.227142,45.454712],[9.228515,45.463982],[9.231948,45.463501],[9.254543,45.456314],[9.260787,45.465305],[9.271988,45.461094],[9.283618,45.466934],[9.286537,45.464283],[9.284949,45.457661],[9.280593,45.45174],[9.274992,45.444355]]]],"created":1292550099,"edges":18,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20150321_20101217_ca021f8ebb.tar.gz"},"points":38,"type":"MultiPolygon"}
+}

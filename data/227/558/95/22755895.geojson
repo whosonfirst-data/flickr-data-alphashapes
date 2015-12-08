@@ -1,0 +1,15 @@
+{
+  "id": 22755895,
+  "type": "Feature",
+  "properties": {
+    "name":"Castillon, France",
+    "placetype":"locality",
+    "woe:id":22755895,
+    "woe:name":"Castillon, France",
+    "woe:place_id":"WEPRnsebA5um7JvD_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.458171,43.836399,7.46124,43.84304],
+  "geometry": {"alpha":1e-05,"bbox":[7.4581708908081,43.836399078369,7.4612398147583,43.843040466309],"coordinates":[[[[7.46124,43.839169],[7.459952,43.836399],[7.458333,43.837334],[7.458171,43.841953],[7.461111,43.84304],[7.46124,43.839169]]]],"created":1292534856,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/22755895_20101216_0f201566d0.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

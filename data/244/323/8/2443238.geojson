@@ -1,0 +1,15 @@
+{
+  "id": 2443238,
+  "type": "Feature",
+  "properties": {
+    "name":"Luzon, California, United States",
+    "placetype":"locality",
+    "woe:id":2443238,
+    "woe:name":"Luzon, California, United States",
+    "woe:place_id":"7QyvRxKbBZgno8px",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.257507,38.012798,-122.244827,38.016926],
+  "geometry": {"alpha":0.00015,"bbox":[-122.25750732422,38.012798309326,-122.24482727051,38.016925811768],"coordinates":[[[[-122.244827,38.016926],[-122.247322,38.013409],[-122.253799,38.012798],[-122.257507,38.013256],[-122.252129,38.01368],[-122.244827,38.016926]]]],"created":1292500685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2443238_20101216_fe207489fc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

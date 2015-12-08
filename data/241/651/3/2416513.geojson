@@ -1,0 +1,15 @@
+{
+  "id": 2416513,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamburg, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2416513,
+    "woe:name":"Hamburg, Ohio, United States",
+    "woe:place_id":"p1nAM8ObBZ1tQcBT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.65049,39.638828,-82.639671,39.652176],
+  "geometry": {"alpha":0.00015,"bbox":[-82.650489807129,39.638828277588,-82.639671325684,39.65217590332],"coordinates":[[[[-82.650314,39.638828],[-82.65049,39.639206],[-82.640701,39.652176],[-82.639671,39.649551],[-82.650116,39.638992],[-82.650314,39.638828]]]],"created":1292459944,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2416513_20101216_e46e670017.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

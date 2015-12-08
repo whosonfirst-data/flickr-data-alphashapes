@@ -1,0 +1,15 @@
+{
+  "id": 465982,
+  "type": "Feature",
+  "properties": {
+    "name":"Open Door, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":465982,
+    "woe:name":"Open Door, Buenos Aires, Argentina",
+    "woe:place_id":"LTl5ceCdB5kLX.8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.098217,-34.57761,-59.072456,-34.568775],
+  "geometry": {"alpha":0.00015,"bbox":[-59.098217010498,-34.577610015869,-59.072456359863,-34.568775177002],"coordinates":[[[[-59.098,-34.573608],[-59.098217,-34.570591],[-59.094086,-34.570473],[-59.077606,-34.568775],[-59.072456,-34.57761],[-59.078979,-34.575844],[-59.098,-34.573608]]]],"created":1292538420,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/465982_20101216_0cabab12aa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

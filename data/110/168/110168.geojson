@@ -1,0 +1,15 @@
+{
+  "id": 110168,
+  "type": "Feature",
+  "properties": {
+    "name":"Troy, Trelawny, Jamaica",
+    "placetype":"locality",
+    "woe:id":110168,
+    "woe:name":"Troy, Trelawny, Jamaica",
+    "woe:place_id":"1RCYXcGYAJxFrG0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.630775,18.245932,-77.613602,18.250555],
+  "geometry": {"alpha":0.00015,"bbox":[-77.63077545166,18.245931625366,-77.61360168457,18.250555038452],"coordinates":[[[[-77.63076,18.249258],[-77.630775,18.249283],[-77.629257,18.250555],[-77.613602,18.245932],[-77.63076,18.249258]]]],"created":1292537878,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/110168_20101216_2029d22f63.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8200,
+  "type": "Feature",
+  "properties": {
+    "name":"Gleichen, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8200,
+    "woe:name":"Gleichen, Alberta, Canada",
+    "woe:place_id":"AOkBT0eRA5yL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.055107,50.864281,-113.03627,50.876392],
+  "geometry": {"alpha":0.00015,"bbox":[-113.0551071167,50.864280700684,-113.0362701416,50.876392364502],"coordinates":[[[[-113.055107,50.865807],[-113.053391,50.866539],[-113.03627,50.876392],[-113.051559,50.864281],[-113.054726,50.865643],[-113.055107,50.865807]]]],"created":1292532071,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/8200_20101216_ef6f633eb1.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

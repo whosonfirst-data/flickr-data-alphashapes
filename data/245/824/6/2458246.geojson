@@ -1,0 +1,15 @@
+{
+  "id": 2458246,
+  "type": "Feature",
+  "properties": {
+    "name":"New Elizabethtown, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2458246,
+    "woe:name":"New Elizabethtown, Indiana, United States",
+    "woe:place_id":"zCHXWumbBZnqbIMo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.002586,38.903149,-85.985184,38.915314],
+  "geometry": {"alpha":0.00015,"bbox":[-86.002586364746,38.903148651123,-85.98518371582,38.915313720703],"coordinates":[[[[-86.001961,38.915314],[-85.985184,38.911865],[-85.990807,38.905796],[-85.998917,38.903149],[-86.002586,38.915207],[-86.001961,38.915314]]]],"created":1292517540,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2458246_20101216_edff078f76.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

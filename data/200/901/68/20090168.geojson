@@ -1,0 +1,15 @@
+{
+  "id": 20090168,
+  "type": "Feature",
+  "properties": {
+    "name":"Broughtown, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20090168,
+    "woe:name":"Broughtown, Scotland, United Kingdom",
+    "woe:place_id":"sGfXTDCbAZy7zTUfBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.625303,59.249088,-2.596206,59.26825],
+  "geometry": {"alpha":0.00015,"bbox":[-2.625303030014,59.249088287354,-2.5962059497833,59.268249511719],"coordinates":[[[[-2.609767,59.258511],[-2.596206,59.26825],[-2.597322,59.255131],[-2.601227,59.249088],[-2.611827,59.255814],[-2.625303,59.256054],[-2.617492,59.25816],[-2.609767,59.258511]]]],"created":1234670885,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3512/shapefiles/20090168_20090215_c292bcfc18.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

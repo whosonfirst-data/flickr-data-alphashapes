@@ -1,0 +1,15 @@
+{
+  "id": 2511074,
+  "type": "Feature",
+  "properties": {
+    "name":"Valois, New York, United States",
+    "placetype":"locality",
+    "woe:id":2511074,
+    "woe:name":"Valois, New York, United States",
+    "woe:place_id":"W55hBGqbBJ3zd491",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.879105,42.511841,-76.875374,42.522289],
+  "geometry": {"alpha":0.00015,"bbox":[-76.879104614258,42.511840820312,-76.875373840332,42.522289276123],"coordinates":[[[[-76.877861,42.511841],[-76.878029,42.513042],[-76.879105,42.522289],[-76.875458,42.516712],[-76.875374,42.513268],[-76.877861,42.511841]]]],"created":1292549257,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2511074_20101217_b1acea2b2b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

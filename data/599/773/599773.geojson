@@ -1,0 +1,15 @@
+{
+  "id": 599773,
+  "type": "Feature",
+  "properties": {
+    "name":"La Rochelle, Franche-Comte, France",
+    "placetype":"locality",
+    "woe:id":599773,
+    "woe:name":"La Rochelle, Franche-Comte, France",
+    "woe:place_id":"zfc.iKacCJUzBHY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.730593,47.741566,5.733211,47.746338],
+  "geometry": {"alpha":0.00015,"bbox":[5.7305932044983,47.741565704346,5.7332110404968,47.746337890625],"coordinates":[[[[5.730979,47.746166],[5.731108,47.746105],[5.733211,47.741566],[5.730593,47.746338],[5.730979,47.746166]]]],"created":1292491444,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/599773_20101216_30892e12ce.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

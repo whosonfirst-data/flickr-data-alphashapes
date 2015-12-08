@@ -1,0 +1,15 @@
+{
+  "id": 12635120,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde A\u00dfling, Germany",
+    "placetype":"locality",
+    "woe:id":12635120,
+    "woe:name":"Gemeinde A\u00dfling, Germany",
+    "woe:place_id":"dYiQv_OYA5rRo2zgZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.993057,47.986473,11.994345,47.990086],
+  "geometry": {"alpha":1e-05,"bbox":[11.993057250977,47.986473083496,11.994344711304,47.990085601807],"coordinates":[[[[11.993336,47.990086],[11.994194,47.987968],[11.994345,47.986473],[11.994023,47.987522],[11.993057,47.989979],[11.993336,47.990086]]]],"created":1292461384,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12635120_20101216_6506837e5e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

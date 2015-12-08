@@ -1,0 +1,15 @@
+{
+  "id": 23412500,
+  "type": "Feature",
+  "properties": {
+    "name":"Marinella, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":23412500,
+    "woe:name":"Marinella, Sardinia, Italy",
+    "woe:place_id":"XeobXIObApivOUwXMw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.553985,40.994507,9.57201,41.0135],
+  "geometry": {"alpha":0.00015,"bbox":[9.5539846420288,40.994506835938,9.5720100402832,41.013500213623],"coordinates":[[[[9.566817,41.0135],[9.57201,41.006298],[9.569435,40.994507],[9.562826,41.006199],[9.553985,41.012676],[9.566817,41.0135]]]],"created":1292524683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/23412500_20101216_8cd7926c49.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

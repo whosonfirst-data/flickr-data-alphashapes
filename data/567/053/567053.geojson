@@ -1,0 +1,15 @@
+{
+  "id": 567053,
+  "type": "Feature",
+  "properties": {
+    "name":"Kauhaoja, Western Finland, Finland",
+    "placetype":"locality",
+    "woe:id":567053,
+    "woe:name":"Kauhaoja, Western Finland, Finland",
+    "woe:place_id":"HMlD4XOcB5s.S5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.151064,60.826653,23.152225,60.827347],
+  "geometry": {"alpha":0.00015,"bbox":[23.151063919067,60.826652526855,23.152225494385,60.827346801758],"coordinates":[[[[23.151064,60.826653],[23.151358,60.827217],[23.151745,60.827347],[23.152225,60.827011],[23.151997,60.826931],[23.151211,60.826653],[23.151064,60.826653]]]],"created":1292535723,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/567053_20101216_a478be9067.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

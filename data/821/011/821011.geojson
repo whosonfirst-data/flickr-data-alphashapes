@@ -1,0 +1,15 @@
+{
+  "id": 821011,
+  "type": "Feature",
+  "properties": {
+    "name":"Michalovce, Kosicky, Slovakia",
+    "placetype":"locality",
+    "woe:id":821011,
+    "woe:name":"Michalovce, Kosicky, Slovakia",
+    "woe:place_id":"nhwMc_6RA52glZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.89809,48.735249,21.926823,48.763432],
+  "geometry": {"alpha":0.00015,"bbox":[21.898090362549,48.735248565674,21.926822662354,48.763431549072],"coordinates":[[[[21.89809,48.75169],[21.903992,48.753017],[21.916351,48.763432],[21.926823,48.757942],[21.920128,48.735249],[21.900558,48.746624],[21.89809,48.75169]]]],"created":1292537846,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/821011_20101216_9afc37da74.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 58101,
+  "type": "Feature",
+  "properties": {
+    "name":"Coliblanco, Cartago, Costa Rica",
+    "placetype":"locality",
+    "woe:id":58101,
+    "woe:name":"Coliblanco, Cartago, Costa Rica",
+    "woe:place_id":"caRAYY2cCZ14PA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.835983,9.980347,-83.83152,9.982544],
+  "geometry": {"alpha":0.00015,"bbox":[-83.835983276367,9.9803466796875,-83.831520080566,9.9825439453125],"coordinates":[[[[-83.835983,9.982544],[-83.834816,9.982367],[-83.83152,9.980347],[-83.834267,9.981276],[-83.835983,9.982544]]]],"created":1292530432,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/58101_20101216_178d99587f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

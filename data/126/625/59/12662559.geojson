@@ -1,0 +1,15 @@
+{
+  "id": 12662559,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamel, France",
+    "placetype":"locality",
+    "woe:id":12662559,
+    "woe:name":"Hamel, France",
+    "woe:place_id":"QiCzLhaYA5qUdoIh5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.054306,50.280838,3.056602,50.283352],
+  "geometry": {"alpha":1e-05,"bbox":[3.0543060302734,50.280838012695,3.0566020011902,50.283351898193],"coordinates":[[[[3.056334,50.283352],[3.056602,50.282936],[3.054885,50.280838],[3.054306,50.282745],[3.05437,50.282825],[3.05583,50.283169],[3.056334,50.283352]]]],"created":1292517630,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12662559_20101216_1caf44eca7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 636791,
+  "type": "Feature",
+  "properties": {
+    "name":"Bank, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":636791,
+    "woe:name":"Bank, North Rhine-Westphalia, Germany",
+    "woe:place_id":"BeJTIYOfApq0h.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.07958,50.773842,6.087112,50.778927],
+  "geometry": {"alpha":0.00015,"bbox":[6.0795798301697,50.77384185791,6.0871119499207,50.778926849365],"coordinates":[[[[6.084215,50.776279],[6.087112,50.773842],[6.0837,50.775753],[6.083421,50.775967],[6.07958,50.778194],[6.081075,50.778927],[6.084215,50.776279]]]],"created":1292527248,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/636791_20101216_64c97eb923.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

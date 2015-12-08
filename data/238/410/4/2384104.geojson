@@ -1,0 +1,15 @@
+{
+  "id": 2384104,
+  "type": "Feature",
+  "properties": {
+    "name":"Conesville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2384104,
+    "woe:name":"Conesville, New York, United States",
+    "woe:place_id":"iQIOwzubApRRsSGI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.378387,42.381184,-74.370399,42.391644],
+  "geometry": {"alpha":0.00015,"bbox":[-74.378387451172,42.381183624268,-74.370399475098,42.39164352417],"coordinates":[[[[-74.370659,42.387554],[-74.373833,42.384033],[-74.378258,42.381184],[-74.378387,42.387966],[-74.370399,42.391644],[-74.370659,42.387554]]]],"created":1292522830,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2384104_20101216_3c2fa19cc0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

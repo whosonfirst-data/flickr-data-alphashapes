@@ -1,0 +1,15 @@
+{
+  "id": 23393394,
+  "type": "Feature",
+  "properties": {
+    "name":"Bloomfield, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393394,
+    "woe:name":"Bloomfield, New Brunswick, Canada",
+    "woe:place_id":"41.onlmbAp8JWb5uAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.761421,45.579128,-65.750137,45.590496],
+  "geometry": {"alpha":0.00015,"bbox":[-65.761421203613,45.579128265381,-65.750137329102,45.590496063232],"coordinates":[[[[-65.751801,45.590496],[-65.750137,45.579128],[-65.757187,45.580601],[-65.758858,45.580833],[-65.76049,45.580917],[-65.761421,45.580978],[-65.751801,45.590496]]]],"created":1292445726,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23393394_20101215_65b2043410.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

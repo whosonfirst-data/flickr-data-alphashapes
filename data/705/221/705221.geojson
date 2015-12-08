@@ -1,0 +1,15 @@
+{
+  "id": 705221,
+  "type": "Feature",
+  "properties": {
+    "name":"Wendeburg, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":705221,
+    "woe:name":"Wendeburg, Lower Saxony, Germany",
+    "woe:place_id":"adkHCfieAZndM18",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.390405,52.305565,10.406799,52.335758],
+  "geometry": {"alpha":0.00015,"bbox":[10.390404701233,52.305564880371,10.406799316406,52.335758209229],"coordinates":[[[[10.390405,52.331902],[10.406799,52.335758],[10.403409,52.315273],[10.393881,52.305565],[10.393195,52.326473],[10.390405,52.331902]]]],"created":1292466783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/705221_20101216_35066485e4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

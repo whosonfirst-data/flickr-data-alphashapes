@@ -1,0 +1,15 @@
+{
+  "id": 15002541,
+  "type": "Feature",
+  "properties": {
+    "name":"Skepparkroken, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":15002541,
+    "woe:name":"Skepparkroken, Skane, Sweden",
+    "woe:place_id":"GTymZRKYBJxeRHMsWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.830786,56.27243,12.851772,56.288406],
+  "geometry": {"alpha":0.00015,"bbox":[12.830785751343,56.272430419922,12.85177230835,56.28840637207],"coordinates":[[[[12.845849,56.288406],[12.851772,56.283546],[12.849926,56.283558],[12.832546,56.27243],[12.830786,56.282356],[12.845849,56.288406]]]],"created":1292541167,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/15002541_20101216_048a7c5002.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

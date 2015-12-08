@@ -1,0 +1,15 @@
+{
+  "id": 2499451,
+  "type": "Feature",
+  "properties": {
+    "name":"Steeleville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2499451,
+    "woe:name":"Steeleville, Illinois, United States",
+    "woe:place_id":"BIV0HHCbBZVGqlZ2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.674377,38.004211,-89.656334,38.012001],
+  "geometry": {"alpha":0.00015,"bbox":[-89.674377441406,38.004211425781,-89.65633392334,38.012001037598],"coordinates":[[[[-89.659164,38.008606],[-89.656334,38.004211],[-89.659958,38.00552],[-89.667274,38.005157],[-89.674377,38.012001],[-89.659164,38.008606]]]],"created":1292526087,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2499451_20101216_0960951c28.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

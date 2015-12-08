@@ -1,0 +1,15 @@
+{
+  "id": 55971914,
+  "type": "Feature",
+  "properties": {
+    "name":"Downtown, Whittier, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55971914,
+    "woe:name":"Downtown, Whittier, CA, US, United States",
+    "woe:place_id":"mg0_JNGcBJX5v4X2Sg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-118.046883,33.984989,-118.044365,33.98682],
+  "geometry": {"alpha":1e-05,"bbox":[-118.04688262939,33.98498916626,-118.0443649292,33.986820220947],"coordinates":[[[[-118.04644,33.986744],[-118.044365,33.98682],[-118.046822,33.984989],[-118.046883,33.984997],[-118.04644,33.986744]]]],"created":1292473507,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/55971914_20101216_704d5e805e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

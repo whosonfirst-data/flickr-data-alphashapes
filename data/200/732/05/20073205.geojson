@@ -1,0 +1,15 @@
+{
+  "id": 20073205,
+  "type": "Feature",
+  "properties": {
+    "name":"Glenstal, Ireland",
+    "placetype":"locality",
+    "woe:id":20073205,
+    "woe:name":"Glenstal, Ireland",
+    "woe:place_id":"vvcO5mWbAZyFvKHMZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.388333,52.660999,-8.387667,52.661331],
+  "geometry": {"alpha":1e-05,"bbox":[-8.3883333206177,52.660999298096,-8.3876667022705,52.661331176758],"coordinates":[[[[-8.387833,52.660999],[-8.388333,52.661167],[-8.388167,52.661331],[-8.387667,52.660999],[-8.387833,52.660999]]]],"created":1292540489,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/20073205_20101216_65442bdaaf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

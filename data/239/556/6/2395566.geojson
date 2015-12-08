@@ -1,0 +1,15 @@
+{
+  "id": 2395566,
+  "type": "Feature",
+  "properties": {
+    "name":"East Finley, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2395566,
+    "woe:name":"East Finley, Pennsylvania, United States",
+    "woe:place_id":"oD_HC1qbApVNtWpC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.42086,39.974766,-80.419472,39.975922],
+  "geometry": {"alpha":0.00015,"bbox":[-80.420860290527,39.974765777588,-80.419471740723,39.975921630859],"coordinates":[[[[-80.419472,39.975922],[-80.419487,39.97591],[-80.42086,39.974766],[-80.420212,39.975563],[-80.419487,39.975918],[-80.419472,39.975922]]]],"created":1292524203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2395566_20101216_64f3dfb7ae.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

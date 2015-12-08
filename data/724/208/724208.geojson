@@ -1,0 +1,15 @@
+{
+  "id": 724208,
+  "type": "Feature",
+  "properties": {
+    "name":"Siligo, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":724208,
+    "woe:name":"Siligo, Sardinia, Italy",
+    "woe:place_id":"MNZxegCeA5gKZTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.72466,40.576427,8.731905,40.581978],
+  "geometry": {"alpha":0.00015,"bbox":[8.7246599197388,40.576427459717,8.7319049835205,40.581977844238],"coordinates":[[[[8.72466,40.577499],[8.725719,40.579803],[8.731886,40.58197],[8.731905,40.581978],[8.729823,40.576427],[8.72669,40.5765],[8.72466,40.577499]]]],"created":1292456050,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/724208_20101215_87c6868677.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

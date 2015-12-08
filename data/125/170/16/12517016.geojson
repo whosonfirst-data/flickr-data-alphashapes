@@ -1,0 +1,15 @@
+{
+  "id": 12517016,
+  "type": "Feature",
+  "properties": {
+    "name":"Tolmachevo Airport, Russia",
+    "placetype":"locality",
+    "woe:id":12517016,
+    "woe:name":"Tolmachevo Airport, Russia",
+    "woe:place_id":".lzGVYuYA5knJicg.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [82.661812,55.009743,82.667191,55.01395],
+  "geometry": {"alpha":1e-05,"bbox":[82.661811828613,55.009742736816,82.667190551758,55.0139503479],"coordinates":[[[[82.66568,55.01395],[82.667191,55.012436],[82.667099,55.009743],[82.665192,55.01088],[82.661812,55.010036],[82.664955,55.012558],[82.66568,55.01395]]]],"created":1292528369,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12517016_20101216_f74388711b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

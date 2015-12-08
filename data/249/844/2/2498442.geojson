@@ -1,0 +1,15 @@
+{
+  "id": 2498442,
+  "type": "Feature",
+  "properties": {
+    "name":"Springport, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2498442,
+    "woe:name":"Springport, Michigan, United States",
+    "woe:place_id":"DY6c0MebBZXAGYzm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.315674,44.606113,-83.29834,44.628979],
+  "geometry": {"alpha":0.00015,"bbox":[-83.315673828125,44.606113433838,-83.29833984375,44.628978729248],"coordinates":[[[[-83.307762,44.628929],[-83.307762,44.628979],[-83.29834,44.621754],[-83.29834,44.606113],[-83.315674,44.610329],[-83.307762,44.628929]]]],"created":1292469963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2498442_20101216_a7874867cd.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

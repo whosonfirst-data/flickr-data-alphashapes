@@ -1,0 +1,15 @@
+{
+  "id": 26794400,
+  "type": "Feature",
+  "properties": {
+    "name":"Salinas, Canelones, Uruguay",
+    "placetype":"locality",
+    "woe:id":26794400,
+    "woe:name":"Salinas, Canelones, Uruguay",
+    "woe:place_id":"ZnCwgUmbB5vg13XYJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-55.846252,-34.783878,-55.830746,-34.775402],
+  "geometry": {"alpha":0.00015,"bbox":[-55.846252441406,-34.783878326416,-55.830745697021,-34.775402069092],"coordinates":[[[[-55.830746,-34.783848],[-55.830769,-34.783878],[-55.846252,-34.781521],[-55.839981,-34.775402],[-55.83149,-34.780396],[-55.830746,-34.783848]]]],"created":1292533595,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/26794400_20101216_4477efd7de.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

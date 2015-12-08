@@ -1,0 +1,15 @@
+{
+  "id": 637055,
+  "type": "Feature",
+  "properties": {
+    "name":"Barskamp, Lower Saxony, Germany",
+    "placetype":"locality",
+    "woe:id":637055,
+    "woe:name":"Barskamp, Lower Saxony, Germany",
+    "woe:place_id":"HrWe96OfApsujDY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.774068,53.234299,10.785055,53.245647],
+  "geometry": {"alpha":0.00015,"bbox":[10.774067878723,53.234298706055,10.785055160522,53.24564743042],"coordinates":[[[[10.774068,53.234299],[10.774154,53.234966],[10.781364,53.242771],[10.783252,53.245647],[10.785055,53.242542],[10.774497,53.234913],[10.774068,53.234299]]]],"created":1292458407,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/637055_20101216_e2e239181d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

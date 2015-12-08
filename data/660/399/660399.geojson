@@ -1,0 +1,15 @@
+{
+  "id": 660399,
+  "type": "Feature",
+  "properties": {
+    "name":"Hirschling, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":660399,
+    "woe:name":"Hirschling, Bavaria, Germany",
+    "woe:place_id":"b1spcj.fB5wdFTs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.158839,49.190453,12.165488,49.194309],
+  "geometry": {"alpha":0.00015,"bbox":[12.158839225769,49.190452575684,12.165488243103,49.194309234619],"coordinates":[[[[12.164053,49.194084],[12.165488,49.193256],[12.165175,49.192337],[12.158839,49.190453],[12.162105,49.194309],[12.164053,49.194084]]]],"created":1292466784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/660399_20101216_178722f342.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

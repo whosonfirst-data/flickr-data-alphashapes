@@ -1,0 +1,15 @@
+{
+  "id": 12634345,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neualbenreuth, Germany",
+    "placetype":"locality",
+    "woe:id":12634345,
+    "woe:name":"Gemeinde Neualbenreuth, Germany",
+    "woe:place_id":"hsNeC7SYA5qmbHYr5w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.459611,49.945087,12.461071,49.94635],
+  "geometry": {"alpha":1e-05,"bbox":[12.459610939026,49.945087432861,12.461071014404,49.946350097656],"coordinates":[[[[12.461071,49.946304],[12.46077,49.945087],[12.459611,49.946194],[12.459847,49.94635],[12.461071,49.946304]]]],"created":1292457051,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12634345_20101215_927ee67744.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

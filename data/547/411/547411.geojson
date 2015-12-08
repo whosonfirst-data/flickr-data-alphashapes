@@ -1,0 +1,15 @@
+{
+  "id": 547411,
+  "type": "Feature",
+  "properties": {
+    "name":"Badbruck, Salzburg, Austria",
+    "placetype":"locality",
+    "woe:id":547411,
+    "woe:name":"Badbruck, Salzburg, Austria",
+    "woe:place_id":"9RIcVOycBZvl0is",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.128147,47.118973,13.145366,47.125862],
+  "geometry": {"alpha":0.00015,"bbox":[13.128147125244,47.11897277832,13.145365715027,47.125862121582],"coordinates":[[[[13.132781,47.125511],[13.143939,47.125862],[13.145366,47.124512],[13.128147,47.118973],[13.132781,47.125511]]]],"created":1234664170,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3277/shapefiles/547411_20090215_a03c262e92.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

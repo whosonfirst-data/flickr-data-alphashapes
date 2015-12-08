@@ -1,0 +1,15 @@
+{
+  "id": 2453720,
+  "type": "Feature",
+  "properties": {
+    "name":"Moore, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2453720,
+    "woe:name":"Moore, Arkansas, United States",
+    "woe:place_id":"wsnLS_ObBZnqcpGA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.938339,35.752407,-92.926567,35.768173],
+  "geometry": {"alpha":0.00015,"bbox":[-92.938339233398,35.752407073975,-92.926567077637,35.768173217773],"coordinates":[[[[-92.938232,35.752407],[-92.938339,35.752716],[-92.93718,35.761749],[-92.933861,35.768173],[-92.926567,35.76619],[-92.935669,35.753513],[-92.938232,35.752407]]]],"created":1247999524,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2636/shapefiles/2453720_20090719_be2eccfe61.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

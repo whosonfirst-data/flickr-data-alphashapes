@@ -1,0 +1,15 @@
+{
+  "id": 20075802,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca de' Baldi, Italy",
+    "placetype":"locality",
+    "woe:id":20075802,
+    "woe:name":"Rocca de' Baldi, Italy",
+    "woe:place_id":"plCDMgebAZznzcvbug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.725791,44.419006,7.729139,44.42244],
+  "geometry": {"alpha":1e-05,"bbox":[7.725790977478,44.419006347656,7.7291388511658,44.422439575195],"coordinates":[[[[7.725791,44.419006],[7.726564,44.42244],[7.728109,44.420845],[7.729139,44.41925],[7.725791,44.419006]]]],"created":1292495585,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/20075802_20101216_bf35345405.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

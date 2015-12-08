@@ -1,0 +1,15 @@
+{
+  "id": 23417490,
+  "type": "Feature",
+  "properties": {
+    "name":"Hawaiian Acres, Hawaii, United States",
+    "placetype":"locality",
+    "woe:id":23417490,
+    "woe:name":"Hawaiian Acres, Hawaii, United States",
+    "woe:place_id":"nWlTD6KbApjn9DD4tg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-155.070984,19.523705,-155.051254,19.545313],
+  "geometry": {"alpha":0.00015,"bbox":[-155.07098388672,19.523704528809,-155.05125427246,19.54531288147],"coordinates":[[[[-155.070984,19.530024],[-155.067642,19.545313],[-155.051254,19.537951],[-155.063461,19.523705],[-155.068588,19.525818],[-155.070984,19.530024]]]],"created":1292546858,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/23417490_20101217_41183f2884.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

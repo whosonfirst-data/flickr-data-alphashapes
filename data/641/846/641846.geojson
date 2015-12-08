@@ -1,0 +1,15 @@
+{
+  "id": 641846,
+  "type": "Feature",
+  "properties": {
+    "name":"Bubach, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":641846,
+    "woe:name":"Bubach, Saarland, Germany",
+    "woe:place_id":"ozB8OyOfBZ2Tk8k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.265524,49.466339,7.271286,49.471733],
+  "geometry": {"alpha":0.00015,"bbox":[7.2655239105225,49.466339111328,7.2712860107422,49.471733093262],"coordinates":[[[[7.270631,49.467983],[7.271286,49.467419],[7.269515,49.466339],[7.265524,49.471733],[7.268604,49.469128],[7.270588,49.468014],[7.270631,49.467983]]]],"created":1292536333,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/641846_20101216_ea2749cfc6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

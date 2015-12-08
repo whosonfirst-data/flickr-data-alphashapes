@@ -1,0 +1,15 @@
+{
+  "id": 721290,
+  "type": "Feature",
+  "properties": {
+    "name":"Predosa, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":721290,
+    "woe:name":"Predosa, Piedmont, Italy",
+    "woe:place_id":"CkNm8r6eA53ByjU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.651476,44.73457,8.658084,44.755386],
+  "geometry": {"alpha":0.00015,"bbox":[8.6514759063721,44.734569549561,8.6580839157104,44.755386352539],"coordinates":[[[[8.656561,44.735767],[8.655724,44.73457],[8.654136,44.737434],[8.651476,44.751366],[8.658084,44.755386],[8.655306,44.737293],[8.656561,44.735767]]]],"created":1292525197,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/721290_20101216_3c7728ee85.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 734103,
+  "type": "Feature",
+  "properties": {
+    "name":"Valkeveen, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":734103,
+    "woe:name":"Valkeveen, North Holland, Netherlands",
+    "woe:place_id":"IVVw7kKeApgusIk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.190739,52.302418,5.195009,52.305775],
+  "geometry": {"alpha":0.00015,"bbox":[5.1907391548157,52.302417755127,5.1950092315674,52.305774688721],"coordinates":[[[[5.192191,52.30526],[5.195009,52.302418],[5.194634,52.302589],[5.194253,52.302921],[5.190739,52.305721],[5.19119,52.305775],[5.192191,52.30526]]]],"created":1292527556,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/734103_20101216_6e1945dd77.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2501917,
+  "type": "Feature",
+  "properties": {
+    "name":"Sun Valley, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2501917,
+    "woe:name":"Sun Valley, West Virginia, United States",
+    "woe:place_id":"B4lrA0mbBJyUB9bs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.562012,40.428352,-80.550102,40.441883],
+  "geometry": {"alpha":0.00015,"bbox":[-80.56201171875,40.428352355957,-80.550102233887,40.441883087158],"coordinates":[[[[-80.550102,40.428398],[-80.550301,40.428368],[-80.551292,40.428352],[-80.562012,40.441883],[-80.5504,40.428497],[-80.550102,40.428398]]]],"created":1292550548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2501917_20101217_41cf42d643.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

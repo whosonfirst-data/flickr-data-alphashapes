@@ -1,0 +1,15 @@
+{
+  "id": 2443000,
+  "type": "Feature",
+  "properties": {
+    "name":"Lukarilla, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2443000,
+    "woe:name":"Lukarilla, Oregon, United States",
+    "woe:place_id":"7hYClEibBZiovmo2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.58297,45.822948,-123.576408,45.841],
+  "geometry": {"alpha":0.00015,"bbox":[-123.58296966553,45.822948455811,-123.57640838623,45.840999603271],"coordinates":[[[[-123.576408,45.822948],[-123.578506,45.824833],[-123.58297,45.841],[-123.577606,45.824371],[-123.576408,45.822948]]]],"created":1292529950,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2443000_20101216_65934a27c9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

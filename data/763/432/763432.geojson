@@ -1,0 +1,15 @@
+{
+  "id": 763432,
+  "type": "Feature",
+  "properties": {
+    "name":"Fuliola, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":763432,
+    "woe:name":"Fuliola, Catalonia, Spain",
+    "woe:place_id":"d60.shSeB5_RVss",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.0131,41.712368,1.024131,41.718029],
+  "geometry": {"alpha":0.00015,"bbox":[1.013100028038,41.712368011475,1.0241309404373,41.718029022217],"coordinates":[[[[1.0131,41.717281],[1.013832,41.717815],[1.021385,41.718029],[1.024131,41.715595],[1.017297,41.712368],[1.014003,41.716366],[1.0131,41.717281]]]],"created":1292475602,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/763432_20101216_2bb9fea33b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

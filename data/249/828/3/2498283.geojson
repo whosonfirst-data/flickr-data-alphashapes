@@ -1,0 +1,15 @@
+{
+  "id": 2498283,
+  "type": "Feature",
+  "properties": {
+    "name":"Springfield, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2498283,
+    "woe:name":"Springfield, Nebraska, United States",
+    "woe:place_id":"C1EcSh6bBZUWFB8u",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.137238,41.065525,-96.119286,41.093567],
+  "geometry": {"alpha":0.00015,"bbox":[-96.137237548828,41.065525054932,-96.119285583496,41.093566894531],"coordinates":[[[[-96.125565,41.073696],[-96.125488,41.065899],[-96.125992,41.065525],[-96.127449,41.067963],[-96.137238,41.075211],[-96.128311,41.081985],[-96.119591,41.093567],[-96.119286,41.090172],[-96.119514,41.089153],[-96.122345,41.08498],[-96.125565,41.073696]]]],"created":1248138602,"edges":11,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2520/shapefiles/2498283_20090721_c36b082b64.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2462646,
+  "type": "Feature",
+  "properties": {
+    "name":"O'neil, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2462646,
+    "woe:name":"O'neil, Oregon, United States",
+    "woe:place_id":"9GgyxjWbBZqC8fmu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.151276,44.319511,-121.148438,44.326435],
+  "geometry": {"alpha":0.00015,"bbox":[-121.15127563477,44.319511413574,-121.1484375,44.326435089111],"coordinates":[[[[-121.149361,44.326435],[-121.148834,44.325432],[-121.148438,44.319511],[-121.151276,44.31995],[-121.150543,44.326153],[-121.149361,44.326435]]]],"created":1292493908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2462646_20101216_129366ed29.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

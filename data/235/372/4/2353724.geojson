@@ -1,0 +1,15 @@
+{
+  "id": 2353724,
+  "type": "Feature",
+  "properties": {
+    "name":"Alpine, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2353724,
+    "woe:name":"Alpine, Oregon, United States",
+    "woe:place_id":"4RovXJmbApmRsLIt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.366119,44.329098,-123.359596,44.341743],
+  "geometry": {"alpha":0.00015,"bbox":[-123.36611938477,44.329097747803,-123.35959625244,44.341743469238],"coordinates":[[[[-123.366096,44.332748],[-123.366119,44.333126],[-123.364105,44.335636],[-123.359596,44.341743],[-123.359924,44.329098],[-123.360542,44.32959],[-123.366096,44.332748]]]],"created":1292523426,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2353724_20101216_a002e6bd4a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

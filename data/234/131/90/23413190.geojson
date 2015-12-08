@@ -1,0 +1,15 @@
+{
+  "id": 23413190,
+  "type": "Feature",
+  "properties": {
+    "name":"Insuela, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":23413190,
+    "woe:name":"Insuela, Galicia, Spain",
+    "woe:place_id":"f2xu50ibApjzBnxyuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.965272,42.569389,-8.962612,42.573105],
+  "geometry": {"alpha":0.00015,"bbox":[-8.9652719497681,42.569389343262,-8.9626121520996,42.573104858398],"coordinates":[[[[-8.963084,42.573105],[-8.962869,42.57209],[-8.962612,42.570702],[-8.965272,42.569389],[-8.964328,42.572517],[-8.963084,42.573105]]]],"created":1292522521,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/23413190_20101216_2eb0d8ba14.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

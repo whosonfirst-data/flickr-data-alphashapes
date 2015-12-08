@@ -1,0 +1,15 @@
+{
+  "id": 37110,
+  "type": "Feature",
+  "properties": {
+    "name":"Tendring, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":37110,
+    "woe:name":"Tendring, England, United Kingdom",
+    "woe:place_id":"nHYGXPCaBp0HDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.091026,51.866116,1.125068,51.877285],
+  "geometry": {"alpha":0.0001875,"bbox":[1.0910259485245,51.866115570068,1.125067949295,51.877285003662],"coordinates":[[[[1.111807,51.877285],[1.119232,51.873734],[1.125068,51.87257],[1.12185,51.866116],[1.099147,51.868328],[1.091026,51.873924],[1.111807,51.877285]]]],"created":1292529652,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/37110_20101216_14d5fb12f9.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

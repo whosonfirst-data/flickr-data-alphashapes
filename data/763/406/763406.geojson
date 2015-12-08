@@ -1,0 +1,15 @@
+{
+  "id": 763406,
+  "type": "Feature",
+  "properties": {
+    "name":"La Foz, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":763406,
+    "woe:name":"La Foz, Asturias, Spain",
+    "woe:place_id":"15WezOOeB5_nZ2I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.275497,43.11953,-5.269861,43.146839],
+  "geometry": {"alpha":0.00015,"bbox":[-5.2754969596863,43.119529724121,-5.2698612213135,43.146839141846],"coordinates":[[[[-5.269861,43.132412],[-5.27069,43.11953],[-5.269862,43.132412],[-5.275497,43.146839],[-5.269861,43.132412]]]],"created":1292439840,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/763406_20101215_7df3d2c862.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

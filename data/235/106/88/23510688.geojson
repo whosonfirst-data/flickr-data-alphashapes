@@ -1,0 +1,15 @@
+{
+  "id": 23510688,
+  "type": "Feature",
+  "properties": {
+    "name":"Denver Federal Center, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":23510688,
+    "woe:name":"Denver Federal Center, Colorado, United States",
+    "woe:place_id":"N3aXdxibApmt1YI7Ow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.122505,39.713821,-105.097176,39.74102],
+  "geometry": {"alpha":0.00015,"bbox":[-105.12250518799,39.713821411133,-105.09717559814,39.741020202637],"coordinates":[[[[-105.10807,39.713821],[-105.109215,39.714298],[-105.121117,39.72554],[-105.122505,39.729633],[-105.103279,39.74102],[-105.097176,39.739254],[-105.099594,39.731449],[-105.101349,39.721581],[-105.10807,39.713821]]]],"created":1248042493,"edges":9,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2438/shapefiles/23510688_20090719_5695ca1545.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

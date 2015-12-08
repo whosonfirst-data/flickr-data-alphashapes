@@ -1,0 +1,15 @@
+{
+  "id": 2406526,
+  "type": "Feature",
+  "properties": {
+    "name":"Fox, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2406526,
+    "woe:name":"Fox, Indiana, United States",
+    "woe:place_id":"UOPayWebBZyuydpn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.712868,40.639175,-85.694588,40.656059],
+  "geometry": {"alpha":0.00015,"bbox":[-85.712867736816,40.639175415039,-85.69458770752,40.656059265137],"coordinates":[[[[-85.709106,40.639538],[-85.712868,40.656059],[-85.702286,40.641312],[-85.694588,40.639175],[-85.695633,40.640327],[-85.702286,40.641312],[-85.709106,40.639538]]]],"created":1292529114,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2406526_20101216_b87dfcfa8c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 587618,
+  "type": "Feature",
+  "properties": {
+    "name":"Courville, Centre, France",
+    "placetype":"locality",
+    "woe:id":587618,
+    "woe:name":"Courville, Centre, France",
+    "woe:place_id":"OjiDe2mcCZuwHfs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.230833,48.445473,1.240897,48.456074],
+  "geometry": {"alpha":0.00015,"bbox":[1.2308330535889,48.445472717285,1.2408970594406,48.456073760986],"coordinates":[[[[1.230833,48.448868],[1.23403,48.451893],[1.236476,48.456074],[1.23962,48.450245],[1.240897,48.445473],[1.235833,48.447777],[1.230833,48.448868]]]],"created":1292523909,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/587618_20101216_979f7a8b8c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

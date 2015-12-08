@@ -1,0 +1,15 @@
+{
+  "id": 515,
+  "type": "Feature",
+  "properties": {
+    "name":"Floradale, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":515,
+    "woe:name":"Floradale, Ontario, Canada",
+    "woe:place_id":"Yw9kF8mcAJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.576302,43.622623,-80.549866,43.633308],
+  "geometry": {"alpha":0.00015,"bbox":[-80.576301574707,43.622623443604,-80.549865722656,43.633308410645],"coordinates":[[[[-80.565063,43.630051],[-80.558968,43.630638],[-80.556221,43.631573],[-80.549866,43.62421],[-80.563347,43.622623],[-80.576302,43.629364],[-80.573898,43.633308],[-80.565063,43.630051]]]],"created":1292527925,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/515_20101216_bd8c220269.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 636398,
+  "type": "Feature",
+  "properties": {
+    "name":"Bad Bocklet, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":636398,
+    "woe:name":"Bad Bocklet, Bavaria, Germany",
+    "woe:place_id":"1xLuQT6fApr_vEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.063161,50.253948,10.094718,50.266495],
+  "geometry": {"alpha":0.00015,"bbox":[10.063160896301,50.25394821167,10.094717979431,50.266494750977],"coordinates":[[[[10.094718,50.264874],[10.080747,50.265301],[10.063161,50.253948],[10.074205,50.266495],[10.080747,50.265301],[10.085191,50.261665],[10.094718,50.264874]]]],"created":1292407446,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/636398_20101215_d1f2a6f0ed.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

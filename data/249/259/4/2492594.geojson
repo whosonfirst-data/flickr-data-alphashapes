@@ -1,0 +1,15 @@
+{
+  "id": 2492594,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherwood Forest, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2492594,
+    "woe:name":"Sherwood Forest, Virginia, United States",
+    "woe:place_id":"PDiRBzCbBZWbqtMa",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.023773,37.33308,-77.013527,37.337585],
+  "geometry": {"alpha":0.00015,"bbox":[-77.023773193359,37.333080291748,-77.013526916504,37.337585449219],"coordinates":[[[[-77.019318,37.337585],[-77.013527,37.33308],[-77.019203,37.333519],[-77.023773,37.336998],[-77.019318,37.337585]]]],"created":1292460607,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2492594_20101216_d9fced0558.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

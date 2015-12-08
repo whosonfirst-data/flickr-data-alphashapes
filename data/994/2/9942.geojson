@@ -1,0 +1,15 @@
+{
+  "id": 9942,
+  "type": "Feature",
+  "properties": {
+    "name":"Cascade, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9942,
+    "woe:name":"Cascade, British Columbia, Canada",
+    "woe:place_id":"Xc.jyOiQCJhd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.222977,49.016159,-118.215836,49.022842],
+  "geometry": {"alpha":0.00015,"bbox":[-118.22297668457,49.016159057617,-118.21583557129,49.022842407227],"coordinates":[[[[-118.216881,49.018185],[-118.217567,49.017593],[-118.222977,49.016159],[-118.220573,49.022842],[-118.215836,49.022835],[-118.216164,49.021168],[-118.216881,49.018185]]]],"created":1292527903,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/9942_20101216_ba1881a7e2.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

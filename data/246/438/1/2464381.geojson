@@ -1,0 +1,15 @@
+{
+  "id": 2464381,
+  "type": "Feature",
+  "properties": {
+    "name":"Oglethorpe, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2464381,
+    "woe:name":"Oglethorpe, Georgia, United States",
+    "woe:place_id":".3BfdWmbBZpXa1ns",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.06472,32.288834,-84.046669,32.304798],
+  "geometry": {"alpha":0.00015,"bbox":[-84.064720153809,32.288833618164,-84.046669006348,32.304798126221],"coordinates":[[[[-84.059036,32.294743],[-84.046669,32.288834],[-84.060181,32.293407],[-84.062546,32.294815],[-84.06472,32.304798],[-84.059036,32.294743]]]],"created":1292507171,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2464381_20101216_c4b02b3cde.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

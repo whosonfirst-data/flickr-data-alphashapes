@@ -1,0 +1,15 @@
+{
+  "id": 12675685,
+  "type": "Feature",
+  "properties": {
+    "name":"Wien  9, Austria",
+    "placetype":"locality",
+    "woe:id":12675685,
+    "woe:name":"Wien  9, Austria",
+    "woe:place_id":"gsldbfeYA5p8vo5mEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.362549,48.206207,16.367889,48.212154],
+  "geometry": {"alpha":1e-05,"bbox":[16.362548828125,48.206207275391,16.367889404297,48.212154388428],"coordinates":[[[[16.366924,48.206654],[16.366898,48.206631],[16.36529,48.206825],[16.362549,48.206207],[16.365835,48.208015],[16.367889,48.212154],[16.366009,48.208054],[16.366924,48.206654]]]],"created":1292534730,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12675685_20101216_8395bf260a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

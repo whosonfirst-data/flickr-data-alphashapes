@@ -1,0 +1,15 @@
+{
+  "id": 2467111,
+  "type": "Feature",
+  "properties": {
+    "name":"Owls Head, New York, United States",
+    "placetype":"locality",
+    "woe:id":2467111,
+    "woe:name":"Owls Head, New York, United States",
+    "woe:place_id":"HyxrnUqbBZoSUE5P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.172905,44.707951,-74.163338,44.715939],
+  "geometry": {"alpha":0.00015,"bbox":[-74.172904968262,44.707950592041,-74.16333770752,44.715938568115],"coordinates":[[[[-74.166771,44.715939],[-74.163338,44.710148],[-74.166595,44.707951],[-74.172905,44.709991],[-74.166771,44.715939]]]],"created":1234871415,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3631/shapefiles/2467111_20090217_4cf3c4815f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

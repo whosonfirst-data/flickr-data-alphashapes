@@ -1,0 +1,15 @@
+{
+  "id": 12631230,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Barnin, Germany",
+    "placetype":"locality",
+    "woe:id":12631230,
+    "woe:name":"Gemeinde Barnin, Germany",
+    "woe:place_id":"3H1rPieYA5pUbGhSMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.688841,53.595661,11.695203,53.599464],
+  "geometry": {"alpha":1e-05,"bbox":[11.688840866089,53.59566116333,11.695202827454,53.599464416504],"coordinates":[[[[11.692113,53.595661],[11.688841,53.599464],[11.692816,53.599125],[11.695203,53.596859],[11.693572,53.595966],[11.692113,53.595661]]]],"created":1292524503,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/12631230_20101216_cc84f56129.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

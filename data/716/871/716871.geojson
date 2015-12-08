@@ -1,0 +1,15 @@
+{
+  "id": 716871,
+  "type": "Feature",
+  "properties": {
+    "name":"La Palazzina, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":716871,
+    "woe:name":"La Palazzina, Tuscany, Italy",
+    "woe:place_id":"0l9GddueAJpKZBo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.309295,43.706104,10.333671,43.711193],
+  "geometry": {"alpha":0.00015,"bbox":[10.309294700623,43.706104278564,10.33367061615,43.711193084717],"coordinates":[[[[10.318222,43.711193],[10.32938,43.711193],[10.333671,43.706104],[10.318565,43.708588],[10.314724,43.70702],[10.309295,43.710075],[10.318222,43.711193]]]],"created":1292540256,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/716871_20101216_39a373fb25.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

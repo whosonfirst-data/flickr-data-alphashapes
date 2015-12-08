@@ -1,0 +1,15 @@
+{
+  "id": 2409027,
+  "type": "Feature",
+  "properties": {
+    "name":"Garnet, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2409027,
+    "woe:name":"Garnet, Michigan, United States",
+    "woe:place_id":"NTuPpq6bBZxAxuWI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.317139,46.068943,-85.295105,46.088314],
+  "geometry": {"alpha":0.00015,"bbox":[-85.317138671875,46.068943023682,-85.295104980469,46.088314056396],"coordinates":[[[[-85.317139,46.088314],[-85.307632,46.082043],[-85.297333,46.078529],[-85.295105,46.068943],[-85.307808,46.081802],[-85.317139,46.088314]]]],"created":1292531572,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2409027_20101216_44b09e9d71.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

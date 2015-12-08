@@ -1,0 +1,15 @@
+{
+  "id": 2406743,
+  "type": "Feature",
+  "properties": {
+    "name":"Foxlair Acres, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2406743,
+    "woe:name":"Foxlair Acres, Maryland, United States",
+    "woe:place_id":"k2rsrB6bBZxvPeq4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.204704,39.212238,-77.187965,39.223309],
+  "geometry": {"alpha":0.00015,"bbox":[-77.204704284668,39.212238311768,-77.187965393066,39.223308563232],"coordinates":[[[[-77.193077,39.223309],[-77.187965,39.219265],[-77.189735,39.21246],[-77.204704,39.212238],[-77.194168,39.221519],[-77.193077,39.223309]]]],"created":1292527469,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2406743_20101216_da6eeb177a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

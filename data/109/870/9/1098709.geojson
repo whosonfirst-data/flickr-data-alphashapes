@@ -1,0 +1,15 @@
+{
+  "id": 1098709,
+  "type": "Feature",
+  "properties": {
+    "name":"Strzelecki, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1098709,
+    "woe:name":"Strzelecki, Victoria, Australia",
+    "woe:place_id":"hdJCUkWYAZUsmSsv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.891998,-38.348473,145.904663,-38.332363],
+  "geometry": {"alpha":0.00015,"bbox":[145.89199829102,-38.348472595215,145.90466308594,-38.332363128662],"coordinates":[[[[145.895309,-38.348473],[145.891998,-38.348186],[145.899506,-38.333],[145.904663,-38.332363],[145.901703,-38.346233],[145.898956,-38.34758],[145.895309,-38.348473]]]],"created":1292454004,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/1098709_20101215_7bebe5c523.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

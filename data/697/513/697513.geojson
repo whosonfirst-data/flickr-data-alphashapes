@@ -1,0 +1,15 @@
+{
+  "id": 697513,
+  "type": "Feature",
+  "properties": {
+    "name":"St\u00f6lln, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":697513,
+    "woe:name":"St\u00f6lln, Brandenburg, Germany",
+    "woe:place_id":"fpESH.SfCJturu4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.37251,52.751293,12.377815,52.755829],
+  "geometry": {"alpha":0.00015,"bbox":[12.37250995636,52.751293182373,12.377815246582,52.755828857422],"coordinates":[[[[12.377772,52.753723],[12.377815,52.752865],[12.374339,52.751293],[12.37251,52.754425],[12.374553,52.755829],[12.377343,52.754257],[12.377772,52.753723]]]],"created":1292548011,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/697513_20101217_a376fe6966.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

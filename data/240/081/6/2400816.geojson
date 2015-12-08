@@ -1,0 +1,15 @@
+{
+  "id": 2400816,
+  "type": "Feature",
+  "properties": {
+    "name":"Evelyn, California, United States",
+    "placetype":"locality",
+    "woe:id":2400816,
+    "woe:name":"Evelyn, California, United States",
+    "woe:place_id":"xBGBSYKbBZyWTUO7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.330452,36.159428,-116.321869,36.17696],
+  "geometry": {"alpha":0.00015,"bbox":[-116.33045196533,36.159427642822,-116.32186889648,36.176959991455],"coordinates":[[[[-116.324615,36.172802],[-116.323669,36.164833],[-116.321869,36.159428],[-116.330452,36.167885],[-116.329422,36.17696],[-116.324615,36.172802]]]],"created":1292525525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2400816_20101216_69be64e2ba.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

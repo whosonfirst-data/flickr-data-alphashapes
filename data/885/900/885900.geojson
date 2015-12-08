@@ -1,0 +1,15 @@
+{
+  "id": 885900,
+  "type": "Feature",
+  "properties": {
+    "name":"Barkarby, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":885900,
+    "woe:name":"Barkarby, Stockholm, Sweden",
+    "woe:place_id":"8wyggByRCZnkBk8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.856903,59.396172,17.870464,59.405258],
+  "geometry": {"alpha":0.00015,"bbox":[17.856903076172,59.396171569824,17.870464324951,59.405258178711],"coordinates":[[[[17.870464,59.404877],[17.86377,59.396172],[17.861366,59.397045],[17.856903,59.405258],[17.870464,59.404877]]]],"created":1292467925,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/885900_20101216_3d91637489.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

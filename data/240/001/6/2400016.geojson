@@ -1,0 +1,15 @@
+{
+  "id": 2400016,
+  "type": "Feature",
+  "properties": {
+    "name":"Erdahl, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2400016,
+    "woe:name":"Erdahl, Minnesota, United States",
+    "woe:place_id":"ULSgPpWbBZyZHmwz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.839058,46.020271,-95.817345,46.038624],
+  "geometry": {"alpha":0.00015,"bbox":[-95.839057922363,46.02027130127,-95.817344665527,46.038623809814],"coordinates":[[[[-95.831039,46.035706],[-95.828407,46.034485],[-95.817345,46.020271],[-95.830673,46.032764],[-95.839058,46.038624],[-95.831039,46.035706]]]],"created":1292518574,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2400016_20101216_662e184bac.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

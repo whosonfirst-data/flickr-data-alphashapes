@@ -1,0 +1,15 @@
+{
+  "id": 2372651,
+  "type": "Feature",
+  "properties": {
+    "name":"Butte Falls, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2372651,
+    "woe:name":"Butte Falls, Oregon, United States",
+    "woe:place_id":"fRhq4ySbApunAyvh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.571159,42.537289,-122.552917,42.551815],
+  "geometry": {"alpha":0.00015,"bbox":[-122.57115936279,42.537288665771,-122.55291748047,42.551815032959],"coordinates":[[[[-122.564331,42.537289],[-122.571159,42.543976],[-122.56382,42.551815],[-122.562271,42.545586],[-122.552917,42.53772],[-122.564331,42.537289]]]],"created":1292444581,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2372651_20101215_87f21df0b6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1102004,
+  "type": "Feature",
+  "properties": {
+    "name":"Exeter, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1102004,
+    "woe:name":"Exeter, Tasmania, Australia",
+    "woe:place_id":"x797_eqYAJwja1qo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.843262,-41.317593,146.967026,-41.215046],
+  "geometry": {"alpha":0.5,"bbox":[146.84326171875,-41.31759262085,146.96702575684,-41.215045928955],"coordinates":[[[[146.946259,-41.271095],[146.967026,-41.317593],[146.962738,-41.316498],[146.843262,-41.296898],[146.913986,-41.216694],[146.916092,-41.215046],[146.946259,-41.271095]]]],"created":1247884803,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2584/shapefiles/1102004_20090718_a306869b39.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

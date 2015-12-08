@@ -1,0 +1,15 @@
+{
+  "id": 12677293,
+  "type": "Feature",
+  "properties": {
+    "name":"Calatabiano, Italy",
+    "placetype":"locality",
+    "woe:id":12677293,
+    "woe:name":"Calatabiano, Italy",
+    "woe:place_id":"rPCJLRmYA5oIKTYBfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.241384,37.795708,15.24883,37.800884],
+  "geometry": {"alpha":1e-05,"bbox":[15.241383552551,37.795707702637,15.248829841614,37.800884246826],"coordinates":[[[[15.242757,37.795849],[15.242371,37.795708],[15.241384,37.797169],[15.245997,37.797695],[15.24883,37.800884],[15.246534,37.79744],[15.242757,37.795849]]]],"created":1292551058,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/12677293_20101217_3d135ab5b2.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

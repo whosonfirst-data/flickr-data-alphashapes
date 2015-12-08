@@ -1,0 +1,15 @@
+{
+  "id": 766096,
+  "type": "Feature",
+  "properties": {
+    "name":"S Pedro, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":766096,
+    "woe:name":"S Pedro, Galicia, Spain",
+    "woe:place_id":"U58GCeWeB5p7DIM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.225326,42.744678,-8.212108,42.747555],
+  "geometry": {"alpha":0.00015,"bbox":[-8.2253255844116,42.744678497314,-8.2121076583862,42.747554779053],"coordinates":[[[[-8.212108,42.745556],[-8.212709,42.744678],[-8.225326,42.747555],[-8.21331,42.746761],[-8.212108,42.745556]]]],"created":1292527358,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/766096_20101216_407545b5bd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

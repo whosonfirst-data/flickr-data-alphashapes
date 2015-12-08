@@ -1,0 +1,15 @@
+{
+  "id": 33143,
+  "type": "Feature",
+  "properties": {
+    "name":"Reydon, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33143,
+    "woe:name":"Reydon, England, United Kingdom",
+    "woe:place_id":"cFrq5nGaAp1sDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.652948,52.330723,1.674728,52.345497],
+  "geometry": {"alpha":0.00015,"bbox":[1.6529480218887,52.330722808838,1.6747280359268,52.345497131348],"coordinates":[[[[1.652948,52.345387],[1.654815,52.345497],[1.662969,52.344383],[1.670737,52.339005],[1.674728,52.330723],[1.653442,52.33366],[1.652948,52.345387]]]],"created":1292533747,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/33143_20101216_38a1119cec.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

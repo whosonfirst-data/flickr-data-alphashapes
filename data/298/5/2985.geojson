@@ -1,0 +1,15 @@
+{
+  "id": 2985,
+  "type": "Feature",
+  "properties": {
+    "name":"Richer, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2985,
+    "woe:name":"Richer, Manitoba, Canada",
+    "woe:place_id":"b9h6_H.bCJRe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.465714,49.651291,-96.433868,49.663559],
+  "geometry": {"alpha":0.00015,"bbox":[-96.465713500977,49.651290893555,-96.433868408203,49.663558959961],"coordinates":[[[[-96.456802,49.65638],[-96.463051,49.654793],[-96.465714,49.663506],[-96.459961,49.662292],[-96.444252,49.663559],[-96.433868,49.651291],[-96.456802,49.65638]]]],"created":1292458191,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2985_20101216_6d86dbce49.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2437940,
+  "type": "Feature",
+  "properties": {
+    "name":"Leesville, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2437940,
+    "woe:name":"Leesville, South Carolina, United States",
+    "woe:place_id":"igI89zCbBZ8Qf8jt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.525894,33.911385,-81.508514,33.92424],
+  "geometry": {"alpha":0.00015,"bbox":[-81.525894165039,33.91138458252,-81.508514404297,33.924240112305],"coordinates":[[[[-81.515289,33.914642],[-81.525894,33.911385],[-81.523132,33.921421],[-81.508514,33.92424],[-81.513634,33.91655],[-81.515289,33.914642]]]],"created":1292539200,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2437940_20101216_e639ef5785.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

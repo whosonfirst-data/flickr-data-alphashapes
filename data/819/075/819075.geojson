@@ -1,0 +1,15 @@
+{
+  "id": 819075,
+  "type": "Feature",
+  "properties": {
+    "name":"Dedinky, Kosicky, Slovakia",
+    "placetype":"locality",
+    "woe:id":819075,
+    "woe:name":"Dedinky, Kosicky, Slovakia",
+    "woe:place_id":"qWjfL_eRAJXImXA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [20.375605,48.856274,20.382341,48.867847],
+  "geometry": {"alpha":0.00015,"bbox":[20.375604629517,48.856273651123,20.382341384888,48.867847442627],"coordinates":[[[[20.380669,48.867847],[20.381527,48.867424],[20.382341,48.862343],[20.381184,48.856274],[20.375605,48.859776],[20.380325,48.867596],[20.380669,48.867847]]]],"created":1292530396,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/819075_20101216_376afc6ca7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

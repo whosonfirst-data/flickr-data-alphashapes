@@ -1,0 +1,15 @@
+{
+  "id": 2382555,
+  "type": "Feature",
+  "properties": {
+    "name":"Coffeeville, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2382555,
+    "woe:name":"Coffeeville, Mississippi, United States",
+    "woe:place_id":"UdenZ_abApRt7w1M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.676071,33.976303,-89.672874,33.984505],
+  "geometry": {"alpha":0.00015,"bbox":[-89.676071166992,33.976303100586,-89.672874450684,33.984504699707],"coordinates":[[[[-89.674232,33.976959],[-89.676071,33.984505],[-89.673668,33.977814],[-89.672874,33.976364],[-89.673393,33.976303],[-89.674232,33.976959]]]],"created":1292451668,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2382555_20101215_03933d52a6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2499823,
+  "type": "Feature",
+  "properties": {
+    "name":"Stewart Landing, New York, United States",
+    "placetype":"locality",
+    "woe:id":2499823,
+    "woe:name":"Stewart Landing, New York, United States",
+    "woe:place_id":"2VXxV5abBZVB16TB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.553909,43.155106,-74.5364,43.172886],
+  "geometry": {"alpha":0.00015,"bbox":[-74.553909301758,43.15510559082,-74.536399841309,43.172885894775],"coordinates":[[[[-74.5467,43.169441],[-74.546059,43.171806],[-74.54155,43.172886],[-74.5364,43.162334],[-74.553909,43.155106],[-74.5467,43.169441]]]],"created":1292535712,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2499823_20101216_dc39145324.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2513025,
+  "type": "Feature",
+  "properties": {
+    "name":"Wadstrom, California, United States",
+    "placetype":"locality",
+    "woe:id":2513025,
+    "woe:name":"Wadstrom, California, United States",
+    "woe:place_id":"kAEg67CbBJ3hfakK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.294357,34.305271,-119.284012,34.317211],
+  "geometry": {"alpha":0.00015,"bbox":[-119.2943572998,34.305271148682,-119.28401184082,34.317211151123],"coordinates":[[[[-119.290237,34.317211],[-119.286629,34.31654],[-119.284012,34.305271],[-119.28994,34.311462],[-119.294357,34.3148],[-119.290237,34.317211]]]],"created":1292543408,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2513025_20101216_3dc7e46f6d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

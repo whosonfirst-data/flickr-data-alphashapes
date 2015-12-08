@@ -1,0 +1,15 @@
+{
+  "id": 20070940,
+  "type": "Feature",
+  "properties": {
+    "name":"Rojas, Buenos Aires, Argentina",
+    "placetype":"county",
+    "woe:id":20070940,
+    "woe:name":"Rojas, Buenos Aires, Argentina",
+    "woe:place_id":"RCcYUaibAZxVsqdGCQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-60.737057,-34.201012,-60.727959,-34.19519],
+  "geometry": {"alpha":0.0015,"bbox":[-60.737056732178,-34.201011657715,-60.727958679199,-34.195190429688],"coordinates":[[[[-60.727959,-34.196186],[-60.736198,-34.201012],[-60.737057,-34.199451],[-60.72813,-34.19519],[-60.727959,-34.196186]]]],"created":1292530737,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/20070940_20101216_6a3e05d6ee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

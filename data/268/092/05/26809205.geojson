@@ -1,0 +1,15 @@
+{
+  "id": 26809205,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809205,
+    "woe:name":"San Juan, Costa Rica",
+    "woe:place_id":"yVcrXRObB5Q4PR6O4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.475937,10.094107,-84.46804,10.104754],
+  "geometry": {"alpha":1e-05,"bbox":[-84.475936889648,10.094106674194,-84.468040466309,10.104754447937],"coordinates":[[[[-84.471107,10.096557],[-84.472504,10.098332],[-84.473877,10.100022],[-84.473877,10.104754],[-84.475937,10.100022],[-84.472504,10.098332],[-84.46804,10.099346],[-84.469925,10.09436],[-84.470078,10.094107],[-84.471107,10.096557]]]],"created":1292542737,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/26809205_20101216_b5fcb32b8d.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

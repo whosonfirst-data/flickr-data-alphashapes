@@ -1,0 +1,15 @@
+{
+  "id": 2408564,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallupville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2408564,
+    "woe:name":"Gallupville, New York, United States",
+    "woe:place_id":"S3C5nmibBZzt1dzw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.248611,42.662949,-74.233002,42.669689],
+  "geometry": {"alpha":0.00015,"bbox":[-74.248611450195,42.662948608398,-74.233001708984,42.669689178467],"coordinates":[[[[-74.234444,42.666595],[-74.23307,42.663109],[-74.233002,42.662949],[-74.234962,42.666027],[-74.248611,42.669689],[-74.234444,42.666595]]]],"created":1292522108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2408564_20101216_6639c38b8e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

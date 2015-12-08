@@ -1,0 +1,15 @@
+{
+  "id": 23415723,
+  "type": "Feature",
+  "properties": {
+    "name":"Ardmore, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23415723,
+    "woe:name":"Ardmore, Scotland, United Kingdom",
+    "woe:place_id":"Vk9LKg6bAphDWgsDlQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.021095,58.397453,-5.003585,58.406567],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0210947990417,58.397453308105,-5.0035848617554,58.406566619873],"coordinates":[[[[-5.021095,58.397934],[-5.011053,58.404228],[-5.006675,58.406567],[-5.003585,58.40641],[-5.015752,58.397453],[-5.021095,58.397934]]]],"created":1292546986,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/23415723_20101217_939fac6b6c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

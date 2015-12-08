@@ -1,0 +1,15 @@
+{
+  "id": 2368365,
+  "type": "Feature",
+  "properties": {
+    "name":"Brazos Point, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2368365,
+    "woe:name":"Brazos Point, Texas, United States",
+    "woe:place_id":"QRPQ.DqbApqbb7D3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.625366,32.203533,-97.604256,32.217686],
+  "geometry": {"alpha":0.00015,"bbox":[-97.625366210938,32.203533172607,-97.60425567627,32.217685699463],"coordinates":[[[[-97.605705,32.203533],[-97.60614,32.203941],[-97.625366,32.205685],[-97.604256,32.217686],[-97.60569,32.204128],[-97.605705,32.203533]]]],"created":1292506808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2368365_20101216_1c11d03fa0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

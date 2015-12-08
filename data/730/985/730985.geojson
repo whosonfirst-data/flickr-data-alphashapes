@@ -1,0 +1,15 @@
+{
+  "id": 730985,
+  "type": "Feature",
+  "properties": {
+    "name":"Kronenberg, Limburg, Netherlands",
+    "placetype":"locality",
+    "woe:id":730985,
+    "woe:name":"Kronenberg, Limburg, Netherlands",
+    "woe:place_id":"J7958TmeApyWaJY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.989179,51.413235,6.012697,51.426933],
+  "geometry": {"alpha":0.00015,"bbox":[5.9891791343689,51.413234710693,6.0126972198486,51.426933288574],"coordinates":[[[[6.011838,51.413235],[6.001796,51.419174],[5.989179,51.421959],[5.999135,51.426933],[6.012697,51.425449],[6.012096,51.422493],[6.011838,51.413235]]]],"created":1247831412,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2449/shapefiles/730985_20090717_5e5f27f3a7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

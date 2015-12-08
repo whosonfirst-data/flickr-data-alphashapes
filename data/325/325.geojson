@@ -1,0 +1,15 @@
+{
+  "id": 325,
+  "type": "Feature",
+  "properties": {
+    "name":"Corbyville, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":325,
+    "woe:name":"Corbyville, Ontario, Canada",
+    "woe:place_id":"wXX4EhCaA5k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.389412,44.2178,-77.385056,44.241112],
+  "geometry": {"alpha":0.00015,"bbox":[-77.38941192627,44.217800140381,-77.385055541992,44.241111755371],"coordinates":[[[[-77.387863,44.220661],[-77.385056,44.2178],[-77.38855,44.2202],[-77.389412,44.221706],[-77.385551,44.241112],[-77.387863,44.220661]]]],"created":1292537482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/325_20101216_11398b09a7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

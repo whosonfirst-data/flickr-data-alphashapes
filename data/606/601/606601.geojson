@@ -1,0 +1,15 @@
+{
+  "id": 606601,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Iffs, Brittany, France",
+    "placetype":"locality",
+    "woe:id":606601,
+    "woe:name":"Les Iffs, Brittany, France",
+    "woe:place_id":"51OI.E.fAZp5rTM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.867203,48.288235,-1.862697,48.293072],
+  "geometry": {"alpha":0.00015,"bbox":[-1.8672029972076,48.288234710693,-1.8626970052719,48.293071746826],"coordinates":[[[[-1.867161,48.288334],[-1.867074,48.288475],[-1.862697,48.293072],[-1.866903,48.288418],[-1.867203,48.288235],[-1.867161,48.288334]]]],"created":1292458353,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/606601_20101216_ff89513b98.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

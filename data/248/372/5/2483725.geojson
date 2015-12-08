@@ -1,0 +1,15 @@
+{
+  "id": 2483725,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocky Point, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2483725,
+    "woe:name":"Rocky Point, North Carolina, United States",
+    "woe:place_id":"Xb5q1pybBZSHwM7U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.8965,34.431465,-77.879501,34.440502],
+  "geometry": {"alpha":0.00015,"bbox":[-77.896499633789,34.431465148926,-77.879501342773,34.440502166748],"coordinates":[[[[-77.8965,34.432114],[-77.89444,34.437759],[-77.879501,34.440502],[-77.882072,34.431465],[-77.8965,34.432114]]]],"created":1292448706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2483725_20101215_327dc1d7ab.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

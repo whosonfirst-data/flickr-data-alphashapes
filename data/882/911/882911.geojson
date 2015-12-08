@@ -1,0 +1,15 @@
+{
+  "id": 882911,
+  "type": "Feature",
+  "properties": {
+    "name":"Beldiman, Iasi, Romania",
+    "placetype":"locality",
+    "woe:id":882911,
+    "woe:name":"Beldiman, Iasi, Romania",
+    "woe:place_id":"RKgH55ORCZ77FAo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.499294,47.173264,27.516975,47.178394],
+  "geometry": {"alpha":0.00015,"bbox":[27.499294281006,47.173263549805,27.516975402832,47.178394317627],"coordinates":[[[[27.507925,47.173588],[27.499294,47.178394],[27.506504,47.177696],[27.516975,47.173321],[27.510183,47.173264],[27.510077,47.173271],[27.507925,47.173588]]]],"created":1292550990,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/882911_20101217_2ba5e26f96.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

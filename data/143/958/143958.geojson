@@ -1,0 +1,15 @@
+{
+  "id": 143958,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan Los Cues, Oaxaca, Mexico",
+    "placetype":"locality",
+    "woe:id":143958,
+    "woe:name":"San Juan Los Cues, Oaxaca, Mexico",
+    "woe:place_id":"ceuq4SmYBZ8x3OQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.060432,18.052193,-97.049957,18.062311],
+  "geometry": {"alpha":0.00015,"bbox":[-97.060432434082,18.052192687988,-97.049957275391,18.062311172485],"coordinates":[[[[-97.050133,18.054968],[-97.049957,18.052193],[-97.060432,18.054642],[-97.051849,18.062311],[-97.050133,18.054968]]]],"created":1292483105,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/143958_20101216_949e678c04.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2389332,
+  "type": "Feature",
+  "properties": {
+    "name":"Danville, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2389332,
+    "woe:name":"Danville, Washington, United States",
+    "woe:place_id":"rva_DZ6bApTiAQkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.029694,47.361195,-122.024864,47.365978],
+  "geometry": {"alpha":0.00015,"bbox":[-122.02969360352,47.361194610596,-122.02486419678,47.365978240967],"coordinates":[[[[-122.029694,47.363144],[-122.02858,47.364178],[-122.024864,47.365978],[-122.02549,47.361195],[-122.029694,47.363144]]]],"created":1234781656,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3183/shapefiles/2389332_20090216_6241bae094.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

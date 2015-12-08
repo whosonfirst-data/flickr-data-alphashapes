@@ -1,0 +1,15 @@
+{
+  "id": 604065,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Pizou, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":604065,
+    "woe:name":"Le Pizou, Aquitaine, France",
+    "woe:place_id":"aGSueGSfAZj4D4k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.060338,45.024097,0.067677,45.027634],
+  "geometry": {"alpha":0.00015,"bbox":[0.060338001698256,45.024097442627,0.06767699867487,45.027633666992],"coordinates":[[[[0.062313,45.025009],[0.067677,45.027634],[0.067677,45.027466],[0.064544,45.025009],[0.060338,45.024097],[0.062313,45.025009]]]],"created":1292443561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/604065_20101215_cfcc146552.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

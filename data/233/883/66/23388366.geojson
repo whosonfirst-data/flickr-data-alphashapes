@@ -1,0 +1,15 @@
+{
+  "id": 23388366,
+  "type": "Feature",
+  "properties": {
+    "name":"Shoreham Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23388366,
+    "woe:name":"Shoreham Airport, United Kingdom",
+    "woe:place_id":"L4evmeebAp_JTVjiWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.295944,50.832886,-0.287618,50.835217],
+  "geometry": {"alpha":1e-05,"bbox":[-0.29594400525093,50.832885742188,-0.28761801123619,50.835216522217],"coordinates":[[[[-0.291137,50.832886],[-0.293369,50.832912],[-0.295944,50.834457],[-0.293369,50.834129],[-0.291824,50.834675],[-0.290622,50.835217],[-0.287618,50.834484],[-0.28856,50.833321],[-0.291137,50.832886]]]],"created":1292532817,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/23388366_20101216_29b7e9d59b.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 716103,
+  "type": "Feature",
+  "properties": {
+    "name":"Germagnano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":716103,
+    "woe:name":"Germagnano, Piedmont, Italy",
+    "woe:place_id":"rQSpNyieAJqC1h4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.469651,45.261356,7.480144,45.273693],
+  "geometry": {"alpha":0.00015,"bbox":[7.469651222229,45.26135635376,7.4801440238953,45.273693084717],"coordinates":[[[[7.469801,45.26226],[7.469651,45.262493],[7.471218,45.263523],[7.480144,45.273693],[7.479715,45.267509],[7.476882,45.261356],[7.469801,45.26226]]]],"created":1292439752,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/716103_20101215_7c9804906f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

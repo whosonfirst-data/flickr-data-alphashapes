@@ -1,0 +1,15 @@
+{
+  "id": 2206,
+  "type": "Feature",
+  "properties": {
+    "name":"Tessier, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2206,
+    "woe:name":"Tessier, Saskatchewan, Canada",
+    "woe:place_id":"tizEUsibA5w6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.433372,51.806572,-107.41951,51.818378],
+  "geometry": {"alpha":0.00015,"bbox":[-107.43337249756,51.806571960449,-107.4195098877,51.818378448486],"coordinates":[[[[-107.432724,51.806835],[-107.433372,51.80698],[-107.427963,51.80957],[-107.41951,51.818378],[-107.425087,51.80925],[-107.427513,51.806572],[-107.432724,51.806835]]]],"created":1292537715,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2206_20101216_30c3669915.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

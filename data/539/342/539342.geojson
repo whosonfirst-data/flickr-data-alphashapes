@@ -1,0 +1,15 @@
+{
+  "id": 539342,
+  "type": "Feature",
+  "properties": {
+    "name":"Eberstein, Carinthia, Austria",
+    "placetype":"locality",
+    "woe:id":539342,
+    "woe:name":"Eberstein, Carinthia, Austria",
+    "woe:place_id":"SrSNDIGcApUwnW0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.551477,46.791508,14.561,46.818001],
+  "geometry": {"alpha":0.00015,"bbox":[14.551477432251,46.791507720947,14.5609998703,46.818000793457],"coordinates":[[[[14.558333,46.818001],[14.558666,46.818001],[14.558666,46.817833],[14.561,46.807835],[14.555468,46.791508],[14.551477,46.809166],[14.558333,46.818001]]]],"created":1292483765,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/539342_20101216_bdf6df2528.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

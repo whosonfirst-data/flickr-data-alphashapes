@@ -1,0 +1,15 @@
+{
+  "id": 12674105,
+  "type": "Feature",
+  "properties": {
+    "name":"Hundsheim, Austria",
+    "placetype":"locality",
+    "woe:id":12674105,
+    "woe:name":"Hundsheim, Austria",
+    "woe:place_id":"GgE8wvOYA5rMLKttsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.92963,48.09803,16.932678,48.108292],
+  "geometry": {"alpha":1e-05,"bbox":[16.929630279541,48.098030090332,16.932678222656,48.108291625977],"coordinates":[[[[16.93111,48.1036],[16.931992,48.102844],[16.932678,48.100224],[16.931004,48.09803],[16.930971,48.103611],[16.92963,48.108292],[16.93111,48.1036]]]],"created":1292522928,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12674105_20101216_15d3c8d344.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

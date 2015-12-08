@@ -1,0 +1,15 @@
+{
+  "id": 1095812,
+  "type": "Feature",
+  "properties": {
+    "name":"Flaxley, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1095812,
+    "woe:name":"Flaxley, South Australia, Australia",
+    "woe:place_id":"sis7BiKYAZVeOfmC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.82019,-35.1339,138.824921,-35.120499],
+  "geometry": {"alpha":0.00015,"bbox":[138.82019042969,-35.133899688721,138.8249206543,-35.120498657227],"coordinates":[[[[138.82019,-35.12207],[138.821747,-35.12085],[138.822479,-35.120499],[138.82338,-35.125278],[138.824921,-35.1339],[138.822861,-35.1278],[138.82019,-35.12207]]]],"created":1292415002,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1095812_20101215_8f21cf06b1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20143002,
+  "type": "Feature",
+  "properties": {
+    "name":"Sasso, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20143002,
+    "woe:name":"Sasso, Lombardy, Italy",
+    "woe:place_id":"y.NYJQebAZ2o5TaBmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.649528,45.690231,10.65648,45.696587],
+  "geometry": {"alpha":0.00015,"bbox":[10.649527549744,45.690231323242,10.65647983551,45.696586608887],"coordinates":[[[[10.649528,45.69503],[10.649871,45.695988],[10.652618,45.696587],[10.65648,45.690231],[10.649871,45.69479],[10.649528,45.69503]]]],"created":1292550262,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20143002_20101217_f5dbb15886.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

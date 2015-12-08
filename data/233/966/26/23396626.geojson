@@ -1,0 +1,15 @@
+{
+  "id": 23396626,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellecombe, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23396626,
+    "woe:name":"Bellecombe, Quebec, Canada",
+    "woe:place_id":"h997RfWbAp9dnElgqw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.921745,47.999542,-78.902779,48.011398],
+  "geometry": {"alpha":0.00015,"bbox":[-78.921745300293,47.999542236328,-78.902778625488,48.01139831543],"coordinates":[[[[-78.912865,47.999542],[-78.921745,48.011398],[-78.907753,48.010883],[-78.902779,48.011055],[-78.912865,47.999542]]]],"created":1226504282,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3274/shapefiles/23396626_20081112_acbdccc367.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

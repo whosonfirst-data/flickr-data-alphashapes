@@ -1,0 +1,15 @@
+{
+  "id": 2468266,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2468266,
+    "woe:name":"Paris, Michigan, United States",
+    "woe:place_id":"W.mg_3GbBZqRxTJs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.517578,43.765888,-85.484619,43.794888],
+  "geometry": {"alpha":0.00015,"bbox":[-85.517578125,43.765888214111,-85.484619140625,43.794887542725],"coordinates":[[[[-85.500069,43.783955],[-85.49955,43.777416],[-85.490067,43.765888],[-85.502045,43.776329],[-85.502953,43.776539],[-85.517578,43.779026],[-85.505219,43.792908],[-85.484619,43.794888],[-85.500069,43.783955]]]],"created":1292524270,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2468266_20101216_2f98c8fb31.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

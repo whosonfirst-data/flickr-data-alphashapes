@@ -1,0 +1,15 @@
+{
+  "id": 12694249,
+  "type": "Feature",
+  "properties": {
+    "name":"Poboleda, Spain",
+    "placetype":"locality",
+    "woe:id":12694249,
+    "woe:name":"Poboleda, Spain",
+    "woe:place_id":"ex.YLiKYA5o2_dFToA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.842514,41.232571,0.846161,41.236641],
+  "geometry": {"alpha":1e-05,"bbox":[0.84251397848129,41.232570648193,0.84616100788116,41.236640930176],"coordinates":[[[[0.843547,41.232571],[0.842514,41.236252],[0.842514,41.236641],[0.844874,41.234638],[0.846161,41.234364],[0.843547,41.232571]]]],"created":1292457194,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12694249_20101215_7f7582ef06.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

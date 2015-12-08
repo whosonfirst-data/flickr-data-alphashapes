@@ -1,0 +1,15 @@
+{
+  "id": 24544514,
+  "type": "Feature",
+  "properties": {
+    "name":"Serres, Greece",
+    "placetype":"locality",
+    "woe:id":24544514,
+    "woe:name":"Serres, Greece",
+    "woe:place_id":"IL9EC4abBZnBDyN8bA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.585625,41.101032,23.58572,41.101059],
+  "geometry": {"alpha":1e-05,"bbox":[23.585624694824,41.10103225708,23.585720062256,41.101058959961],"coordinates":[[[[23.58564,41.101059],[23.58572,41.101048],[23.585625,41.101032],[23.585638,41.101059],[23.58564,41.101059]]]],"created":1292467329,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/24544514_20101216_18fa55bb23.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

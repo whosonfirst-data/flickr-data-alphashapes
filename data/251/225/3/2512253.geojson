@@ -1,0 +1,15 @@
+{
+  "id": 2512253,
+  "type": "Feature",
+  "properties": {
+    "name":"Villa Cresta, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2512253,
+    "woe:name":"Villa Cresta, Maryland, United States",
+    "woe:place_id":"W_jKqZCbBJ3XBJR0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.5466,39.374363,-76.54068,39.376194],
+  "geometry": {"alpha":0.00015,"bbox":[-76.546600341797,39.374362945557,-76.540679931641,39.376194000244],"coordinates":[[[[-76.546295,39.375179],[-76.5466,39.375675],[-76.54068,39.376194],[-76.541405,39.374649],[-76.543877,39.374363],[-76.546295,39.375179]]]],"created":1292538651,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2512253_20101216_cb37fee3f2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

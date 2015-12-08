@@ -1,0 +1,15 @@
+{
+  "id": 12654283,
+  "type": "Feature",
+  "properties": {
+    "name":"Villanova, France",
+    "placetype":"locality",
+    "woe:id":12654283,
+    "woe:name":"Villanova, France",
+    "woe:place_id":"hGCoCq.YA5rVxWqSlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.668212,41.990555,8.671194,41.993473],
+  "geometry": {"alpha":1e-05,"bbox":[8.6682119369507,41.99055480957,8.6711940765381,41.993473052979],"coordinates":[[[[8.669472,41.990612],[8.669055,41.991554],[8.668642,41.992161],[8.668212,41.993195],[8.671194,41.993473],[8.669583,41.990555],[8.669472,41.990612]]]],"created":1292547133,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12654283_20101217_7f2fb9854a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2710,
+  "type": "Feature",
+  "properties": {
+    "name":"North West River, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":2710,
+    "woe:name":"North West River, Newfoundland and Labrador, Canada",
+    "woe:place_id":"ltxLu0GbBp0s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.150146,53.51796,-60.136585,53.533779],
+  "geometry": {"alpha":0.00015,"bbox":[-60.150146484375,53.517959594727,-60.136585235596,53.533779144287],"coordinates":[[[[-60.150146,53.530155],[-60.150146,53.530285],[-60.141392,53.533779],[-60.137012,53.524185],[-60.136585,53.51796],[-60.150146,53.530155]]]],"created":1247930891,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2464/shapefiles/2710_20090718_0095b2b131.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

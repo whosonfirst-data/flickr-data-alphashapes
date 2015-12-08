@@ -1,0 +1,15 @@
+{
+  "id": 29341402,
+  "type": "Feature",
+  "properties": {
+    "name":"San Benedetto, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":29341402,
+    "woe:name":"San Benedetto, Veneto, Italy",
+    "woe:place_id":"McJZOrWbCJ933MDiPw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.668692,45.446102,10.671586,45.44677],
+  "geometry": {"alpha":0.00015,"bbox":[10.668691635132,45.446102142334,10.671586036682,45.446769714355],"coordinates":[[[[10.669097,45.446766],[10.671586,45.446102],[10.669509,45.446449],[10.668692,45.44677],[10.669097,45.446766]]]],"created":1292452864,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/29341402_20101215_542d69b81e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

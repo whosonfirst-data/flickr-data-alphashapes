@@ -1,0 +1,15 @@
+{
+  "id": 627538,
+  "type": "Feature",
+  "properties": {
+    "name":"Ste-Foy, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":627538,
+    "woe:name":"Ste-Foy, Aquitaine, France",
+    "woe:place_id":"MaQfoumfA5ujBm0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.20256,44.829288,0.220659,44.84613],
+  "geometry": {"alpha":0.00015,"bbox":[0.20255999267101,44.829288482666,0.22065900266171,44.846130371094],"coordinates":[[[[0.210113,44.838345],[0.20256,44.84589],[0.208482,44.843273],[0.218353,44.84613],[0.220659,44.829288],[0.210113,44.838345]]]],"created":1292543534,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/627538_20101216_1fae7b9f27.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

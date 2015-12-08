@@ -1,0 +1,15 @@
+{
+  "id": 28585056,
+  "type": "Feature",
+  "properties": {
+    "name":"Fernvale, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":28585056,
+    "woe:name":"Fernvale, New South Wales, Australia",
+    "woe:place_id":"He1ul_ObCZndtjOfNQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.403122,-28.369652,153.417206,-28.354395],
+  "geometry": {"alpha":0.00015,"bbox":[153.40312194824,-28.369651794434,153.41720581055,-28.35439491272],"coordinates":[[[[153.403122,-28.354395],[153.412048,-28.357718],[153.417206,-28.369652],[153.410858,-28.367971],[153.403473,-28.36784],[153.40416,-28.359381],[153.403122,-28.354395]]]],"created":1292455288,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/28585056_20101215_554da7e397.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

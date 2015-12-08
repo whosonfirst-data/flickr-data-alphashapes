@@ -1,0 +1,15 @@
+{
+  "id": 23428058,
+  "type": "Feature",
+  "properties": {
+    "name":"Copford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23428058,
+    "woe:name":"Copford, England, United Kingdom",
+    "woe:place_id":"ODe79KubAphXNQYlWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.7905,51.869999,0.80758,51.883602],
+  "geometry": {"alpha":0.00015,"bbox":[0.79049998521805,51.869998931885,0.80757999420166,51.883602142334],"coordinates":[[[[0.7905,51.880001],[0.791015,51.882],[0.796637,51.883602],[0.806872,51.881538],[0.80758,51.869999],[0.799255,51.880333],[0.7905,51.880001]]]],"created":1292537186,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/23428058_20101216_ab055f07e5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

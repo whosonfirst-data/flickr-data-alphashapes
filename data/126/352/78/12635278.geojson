@@ -1,0 +1,15 @@
+{
+  "id": 12635278,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Waischenfeld, Germany",
+    "placetype":"locality",
+    "woe:id":12635278,
+    "woe:name":"Gemeinde Waischenfeld, Germany",
+    "woe:place_id":"cM8rJBKYA5o_xzX7pg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.341967,49.845013,11.348018,49.848442],
+  "geometry": {"alpha":1e-05,"bbox":[11.341966629028,49.845012664795,11.348017692566,49.848442077637],"coordinates":[[[[11.341967,49.845455],[11.344757,49.848442],[11.348018,49.845287],[11.345572,49.845013],[11.34437,49.845585],[11.341967,49.845455]]]],"created":1248035294,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2547/shapefiles/12635278_20090719_7d11af57e6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

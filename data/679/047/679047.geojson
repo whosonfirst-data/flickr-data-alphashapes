@@ -1,0 +1,15 @@
+{
+  "id": 679047,
+  "type": "Feature",
+  "properties": {
+    "name":"Neustadt, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":679047,
+    "woe:name":"Neustadt, Bavaria, Germany",
+    "woe:place_id":"P2CO.gmfBpUywsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.122369,50.323257,11.126189,50.333382],
+  "geometry": {"alpha":0.00015,"bbox":[11.122368812561,50.323257446289,11.126189231873,50.333381652832],"coordinates":[[[[11.122627,50.326599],[11.122831,50.327915],[11.122369,50.333382],[11.122884,50.332806],[11.125588,50.328243],[11.126189,50.323257],[11.122627,50.326599]]]],"created":1292511246,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/679047_20101216_047965df30.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

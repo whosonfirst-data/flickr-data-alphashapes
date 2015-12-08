@@ -1,0 +1,15 @@
+{
+  "id": 2482426,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverview, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2482426,
+    "woe:name":"Riverview, Alabama, United States",
+    "woe:place_id":"eUPo1sSbBZRCIHMo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.073563,31.050074,-87.059082,31.066595],
+  "geometry": {"alpha":0.00015,"bbox":[-87.07356262207,31.050073623657,-87.05908203125,31.066595077515],"coordinates":[[[[-87.060913,31.050074],[-87.073563,31.058821],[-87.061844,31.066595],[-87.059631,31.059874],[-87.059082,31.051477],[-87.060913,31.050074]]]],"created":1292548288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2482426_20101217_8ebab2aefd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

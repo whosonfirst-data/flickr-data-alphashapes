@@ -1,0 +1,15 @@
+{
+  "id": 20123661,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellera, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20123661,
+    "woe:name":"Ellera, Tuscany, Italy",
+    "woe:place_id":"dVR2RYWbAZ2hXJHa4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.36851,43.776306,11.381117,43.786461],
+  "geometry": {"alpha":0.00015,"bbox":[11.368510246277,43.776306152344,11.381116867065,43.786460876465],"coordinates":[[[[11.37248,43.78606],[11.374368,43.786461],[11.379003,43.783737],[11.381117,43.776306],[11.371536,43.776703],[11.36851,43.784046],[11.37248,43.78606]]]],"created":1292543300,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/20123661_20101216_2a568440af.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

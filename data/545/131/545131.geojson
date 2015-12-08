@@ -1,0 +1,15 @@
+{
+  "id": 545131,
+  "type": "Feature",
+  "properties": {
+    "name":"Gallspach, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545131,
+    "woe:name":"Gallspach, Upper Austria, Austria",
+    "woe:place_id":"F_JHceCcBZl2Vwo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.815307,48.207172,13.817367,48.213291],
+  "geometry": {"alpha":0.00015,"bbox":[13.815306663513,48.207172393799,13.817366600037,48.213291168213],"coordinates":[[[[13.816852,48.213219],[13.817067,48.213264],[13.817238,48.213291],[13.817281,48.213249],[13.817367,48.21312],[13.815307,48.207172],[13.816852,48.213219]]]],"created":1292450642,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/545131_20101215_4f82451453.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

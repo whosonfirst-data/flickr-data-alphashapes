@@ -1,0 +1,15 @@
+{
+  "id": 2482017,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverdale, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2482017,
+    "woe:name":"Riverdale, Michigan, United States",
+    "woe:place_id":"_f6hTGGbBZR3hmew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.835739,43.380131,-84.819466,43.389874],
+  "geometry": {"alpha":0.00015,"bbox":[-84.835739135742,43.380130767822,-84.819465637207,43.389873504639],"coordinates":[[[[-84.835526,43.389874],[-84.835503,43.38987],[-84.819466,43.388206],[-84.835564,43.380131],[-84.835739,43.386585],[-84.835526,43.389874]]]],"created":1292536262,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2482017_20101216_cc8b4556c3.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

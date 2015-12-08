@@ -1,0 +1,15 @@
+{
+  "id": 23511378,
+  "type": "Feature",
+  "properties": {
+    "name":"Camp Verde, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23511378,
+    "woe:name":"Camp Verde, Texas, United States",
+    "woe:place_id":"MWPrqGSbApkZJVVWyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.115219,29.891928,-99.104836,29.913876],
+  "geometry": {"alpha":0.00015,"bbox":[-99.115219116211,29.891927719116,-99.104835510254,29.913875579834],"coordinates":[[[[-99.105049,29.894539],[-99.104836,29.893341],[-99.105087,29.891928],[-99.115219,29.891928],[-99.110413,29.913876],[-99.105049,29.894539]]]],"created":1292497638,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/23511378_20101216_05afabc50e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

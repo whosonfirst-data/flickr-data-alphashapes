@@ -1,0 +1,15 @@
+{
+  "id": 7225846,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandstone Point, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":7225846,
+    "woe:name":"Sandstone Point, Queensland, Australia",
+    "woe:place_id":"pIY19wqeA55XxZmI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.130814,-27.070017,153.133881,-27.06678],
+  "geometry": {"alpha":0.00015,"bbox":[153.13081359863,-27.070016860962,153.13388061523,-27.066780090332],"coordinates":[[[[153.130814,-27.068159],[153.131592,-27.06678],[153.132187,-27.066875],[153.133301,-27.06724],[153.133499,-27.067747],[153.133881,-27.070017],[153.130814,-27.068159]]]],"created":1292461501,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/7225846_20101216_6cd469d0f0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

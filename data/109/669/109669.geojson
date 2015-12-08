@@ -1,0 +1,15 @@
+{
+  "id": 109669,
+  "type": "Feature",
+  "properties": {
+    "name":"Pennycooke, Hanover, Jamaica",
+    "placetype":"locality",
+    "woe:id":109669,
+    "woe:name":"Pennycooke, Hanover, Jamaica",
+    "woe:place_id":"wLDaCu.YAZXLloY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.084076,18.350126,-78.079491,18.360065],
+  "geometry": {"alpha":0.00015,"bbox":[-78.084075927734,18.350126266479,-78.079490661621,18.360065460205],"coordinates":[[[[-78.08004,18.354597],[-78.079491,18.350126],[-78.082191,18.35339],[-78.084076,18.35944],[-78.082924,18.360065],[-78.08004,18.354597]]]],"created":1292540809,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/109669_20101216_62d1c8163f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

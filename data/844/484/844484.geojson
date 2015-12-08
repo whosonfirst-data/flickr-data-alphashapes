@@ -1,0 +1,15 @@
+{
+  "id": 844484,
+  "type": "Feature",
+  "properties": {
+    "name":"Padaste, Saare County, Estonia",
+    "placetype":"locality",
+    "woe:id":844484,
+    "woe:name":"Padaste, Saare County, Estonia",
+    "woe:place_id":"Sxi1eTqRBZh_o68",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.27462,58.547386,23.298225,58.551105],
+  "geometry": {"alpha":0.00015,"bbox":[23.274620056152,58.547386169434,23.298225402832,58.551105499268],"coordinates":[[[[23.279858,58.548733],[23.27462,58.551105],[23.277283,58.550522],[23.280279,58.55003],[23.298225,58.547386],[23.281231,58.548283],[23.279858,58.548733]]]],"created":1292532241,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/844484_20101216_b0e91008cf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

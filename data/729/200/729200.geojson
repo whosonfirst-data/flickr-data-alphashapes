@@ -1,0 +1,15 @@
+{
+  "id": 729200,
+  "type": "Feature",
+  "properties": {
+    "name":"Euvelgunne, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":729200,
+    "woe:name":"Euvelgunne, Groningen, Netherlands",
+    "woe:place_id":"hr.VwoKeA5UuZ.g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.600551,53.209282,6.609349,53.220963],
+  "geometry": {"alpha":0.00015,"bbox":[6.6005511283875,53.209281921387,6.6093487739563,53.220962524414],"coordinates":[[[[6.601924,53.217861],[6.600551,53.220963],[6.601989,53.217995],[6.609349,53.209282],[6.601924,53.217861]]]],"created":1292410441,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/729200_20101215_0accbd594a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2393323,
+  "type": "Feature",
+  "properties": {
+    "name":"Dove Cove, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2393323,
+    "woe:name":"Dove Cove, Georgia, United States",
+    "woe:place_id":"ogFGMrubApWp5qDU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.744873,32.606411,-83.74276,32.619171],
+  "geometry": {"alpha":0.00015,"bbox":[-83.744873046875,32.606410980225,-83.74275970459,32.619171142578],"coordinates":[[[[-83.744873,32.617237],[-83.743202,32.619171],[-83.743202,32.617416],[-83.743042,32.615788],[-83.74276,32.606411],[-83.744873,32.617237]]]],"created":1292456605,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2393323_20101215_3863a754ca.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

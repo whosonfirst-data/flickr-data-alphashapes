@@ -1,0 +1,15 @@
+{
+  "id": 12668759,
+  "type": "Feature",
+  "properties": {
+    "name":"Ramonchamp, France",
+    "placetype":"locality",
+    "woe:id":12668759,
+    "woe:name":"Ramonchamp, France",
+    "woe:place_id":"Ys35uW.YA5rHUaXWjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.734275,47.888706,6.737168,47.892578],
+  "geometry": {"alpha":1e-05,"bbox":[6.7342748641968,47.888706207275,6.7371678352356,47.892578125],"coordinates":[[[[6.734437,47.889832],[6.734419,47.889881],[6.734275,47.892578],[6.737168,47.889816],[6.736362,47.888706],[6.734437,47.889832]]]],"created":1248107291,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3509/shapefiles/12668759_20090720_cf12c590ac.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

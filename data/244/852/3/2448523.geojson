@@ -1,0 +1,15 @@
+{
+  "id": 2448523,
+  "type": "Feature",
+  "properties": {
+    "name":"Meadow Farm, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2448523,
+    "woe:name":"Meadow Farm, Ohio, United States",
+    "woe:place_id":"YOr9rhObBZji1y0n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.088127,39.908585,-82.075851,39.913685],
+  "geometry": {"alpha":0.00015,"bbox":[-82.08812713623,39.908584594727,-82.07585144043,39.913684844971],"coordinates":[[[[-82.088127,39.909966],[-82.088127,39.91069],[-82.075851,39.913685],[-82.081947,39.908585],[-82.085083,39.909225],[-82.088127,39.909966]]]],"created":1292469370,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2448523_20101216_de69ee45f9.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

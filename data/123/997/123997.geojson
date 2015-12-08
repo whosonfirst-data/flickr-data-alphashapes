@@ -1,0 +1,15 @@
+{
+  "id": 123997,
+  "type": "Feature",
+  "properties": {
+    "name":"General Zuazua, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":123997,
+    "woe:name":"General Zuazua, Nuevo Leon, Mexico",
+    "woe:place_id":"vMvZVleYA5.z9I0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.120384,25.890423,-100.105705,25.899456],
+  "geometry": {"alpha":0.00015,"bbox":[-100.12038421631,25.890422821045,-100.10570526123,25.89945602417],"coordinates":[[[[-100.120384,25.899456],[-100.113235,25.898762],[-100.105705,25.890423],[-100.109482,25.892584],[-100.114288,25.895674],[-100.120384,25.899456]]]],"created":1292450463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/123997_20101215_61d2e45c62.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

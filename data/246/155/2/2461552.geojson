@@ -1,0 +1,15 @@
+{
+  "id": 2461552,
+  "type": "Feature",
+  "properties": {
+    "name":"North River Forest, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2461552,
+    "woe:name":"North River Forest, Maryland, United States",
+    "woe:place_id":"lGX4tHabBZrCFa7P",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.610069,38.982498,-76.591873,38.986416],
+  "geometry": {"alpha":0.00015,"bbox":[-76.610069274902,38.982498168945,-76.591873168945,38.986415863037],"coordinates":[[[[-76.608986,38.985622],[-76.610069,38.986366],[-76.609467,38.986416],[-76.608696,38.986034],[-76.591873,38.982498],[-76.608986,38.985622]]]],"created":1292460302,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2461552_20101216_6c2d7ba0bb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

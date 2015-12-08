@@ -1,0 +1,15 @@
+{
+  "id": 61821,
+  "type": "Feature",
+  "properties": {
+    "name":"El Caney, Santiago de Cuba, Cuba",
+    "placetype":"locality",
+    "woe:id":61821,
+    "woe:name":"El Caney, Santiago de Cuba, Cuba",
+    "woe:place_id":"ec8CtwafAJTh9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.808411,20.04553,-75.787811,20.065605],
+  "geometry": {"alpha":0.00015,"bbox":[-75.808410644531,20.045530319214,-75.787811279297,20.065605163574],"coordinates":[[[[-75.795532,20.04553],[-75.802963,20.054541],[-75.808411,20.060446],[-75.787811,20.065605],[-75.793304,20.046255],[-75.795532,20.04553]]]],"created":1292528828,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/61821_20101216_d42b101e43.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

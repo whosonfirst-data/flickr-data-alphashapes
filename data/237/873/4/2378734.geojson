@@ -1,0 +1,15 @@
+{
+  "id": 2378734,
+  "type": "Feature",
+  "properties": {
+    "name":"Chautauqua, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2378734,
+    "woe:name":"Chautauqua, Iowa, United States",
+    "woe:place_id":"rcdpQa6bApto9Yhe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.797516,41.276119,-95.785072,41.293285],
+  "geometry": {"alpha":0.00015,"bbox":[-95.797515869141,41.276119232178,-95.78507232666,41.293285369873],"coordinates":[[[[-95.794144,41.276119],[-95.797516,41.277096],[-95.795288,41.279095],[-95.789108,41.293285],[-95.785072,41.27874],[-95.794144,41.276119]]]],"created":1248287405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3496/shapefiles/2378734_20090722_40033e5982.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

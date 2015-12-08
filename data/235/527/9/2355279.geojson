@@ -1,0 +1,15 @@
+{
+  "id": 2355279,
+  "type": "Feature",
+  "properties": {
+    "name":"Apple River, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2355279,
+    "woe:name":"Apple River, Illinois, United States",
+    "woe:place_id":"PsM6UN.bApndljTM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.110825,42.499062,-90.074158,42.515827],
+  "geometry": {"alpha":0.00015,"bbox":[-90.110824584961,42.499061584473,-90.074157714844,42.515827178955],"coordinates":[[[[-90.092697,42.499062],[-90.110825,42.499481],[-90.094765,42.505295],[-90.094589,42.505238],[-90.074158,42.515827],[-90.089592,42.499859],[-90.092697,42.499062]]]],"created":1292551449,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2355279_20101217_636fa3a0f8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

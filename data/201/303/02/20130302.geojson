@@ -1,0 +1,15 @@
+{
+  "id": 20130302,
+  "type": "Feature",
+  "properties": {
+    "name":"Malpaga, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20130302,
+    "woe:name":"Malpaga, Lombardy, Italy",
+    "woe:place_id":"rXhmgrSbAZ0r1egr9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.757533,45.615917,9.761309,45.616726],
+  "geometry": {"alpha":0.00015,"bbox":[9.7575330734253,45.615917205811,9.7613086700439,45.616725921631],"coordinates":[[[[9.758344,45.615917],[9.757533,45.616364],[9.758636,45.616726],[9.761309,45.615959],[9.758344,45.615917]]]],"created":1292522401,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20130302_20101216_f4e65edfd5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

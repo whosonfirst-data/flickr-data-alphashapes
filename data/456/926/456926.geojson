@@ -1,0 +1,15 @@
+{
+  "id": 456926,
+  "type": "Feature",
+  "properties": {
+    "name":"Campina Verde, Minas Gerais, Brazil",
+    "placetype":"locality",
+    "woe:id":456926,
+    "woe:name":"Campina Verde, Minas Gerais, Brazil",
+    "woe:place_id":"uUKQOcmdBJqk93c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-49.495811,-19.536461,-49.48637,-19.525169],
+  "geometry": {"alpha":0.00015,"bbox":[-49.495811462402,-19.536460876465,-49.48637008667,-19.525169372559],"coordinates":[[[[-49.495811,-19.53237],[-49.491692,-19.525169],[-49.49152,-19.52776],[-49.490147,-19.532045],[-49.48637,-19.536461],[-49.495811,-19.53237]]]],"created":1292537434,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/456926_20101216_824df6091d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

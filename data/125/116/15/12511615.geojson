@@ -1,0 +1,15 @@
+{
+  "id": 12511615,
+  "type": "Feature",
+  "properties": {
+    "name":"Churchill Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511615,
+    "woe:name":"Churchill Airport, Canada",
+    "woe:place_id":"us_BaXOYA5l9r6HRng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.080391,58.755203,-94.076668,58.758762],
+  "geometry": {"alpha":1e-05,"bbox":[-94.080390930176,58.75520324707,-94.076667785645,58.758762359619],"coordinates":[[[[-94.077988,58.758762],[-94.076668,58.757694],[-94.079361,58.755646],[-94.080391,58.755203],[-94.077988,58.758762]]]],"created":1292536055,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12511615_20101216_22bb90ceae.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

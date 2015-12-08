@@ -1,0 +1,15 @@
+{
+  "id": 2434703,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2434703,
+    "woe:name":"Lake, Michigan, United States",
+    "woe:place_id":"MMlNBWObBZ8hb2pe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.034363,43.84536,-85.004211,43.857342],
+  "geometry": {"alpha":0.00015,"bbox":[-85.034362792969,43.845359802246,-85.004211425781,43.857341766357],"coordinates":[[[[-85.032814,43.846436],[-85.019676,43.847836],[-85.004211,43.857342],[-85.018433,43.845699],[-85.031654,43.845829],[-85.034042,43.84536],[-85.034363,43.846828],[-85.032814,43.846436]]]],"created":1292541659,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2434703_20101216_41c6d4dcff.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

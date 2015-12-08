@@ -1,0 +1,15 @@
+{
+  "id": 600512,
+  "type": "Feature",
+  "properties": {
+    "name":"La Vraie-Croix, Brittany, France",
+    "placetype":"locality",
+    "woe:id":600512,
+    "woe:name":"La Vraie-Croix, Brittany, France",
+    "woe:place_id":"opi7eBGfAZxAWXI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.552261,47.688747,-2.543013,47.693703],
+  "geometry": {"alpha":0.00015,"bbox":[-2.5522611141205,47.688747406006,-2.5430130958557,47.693702697754],"coordinates":[[[[-2.544708,47.692661],[-2.543013,47.688747],[-2.544011,47.688793],[-2.552261,47.693241],[-2.547283,47.693703],[-2.54563,47.693588],[-2.544708,47.692661]]]],"created":1292510825,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/600512_20101216_a79c659cfb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

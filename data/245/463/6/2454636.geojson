@@ -1,0 +1,15 @@
+{
+  "id": 2454636,
+  "type": "Feature",
+  "properties": {
+    "name":"Motley, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2454636,
+    "woe:name":"Motley, Missouri, United States",
+    "woe:place_id":"6Fx.dQKbBZk5HZ3A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.173042,37.072559,-94.161629,37.080814],
+  "geometry": {"alpha":0.00015,"bbox":[-94.173042297363,37.072559356689,-94.161628723145,37.080814361572],"coordinates":[[[[-94.163162,37.080727],[-94.161629,37.072659],[-94.165306,37.072559],[-94.173042,37.079762],[-94.165749,37.080814],[-94.163162,37.080727]]]],"created":1292493901,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2454636_20101216_24a69b7a62.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

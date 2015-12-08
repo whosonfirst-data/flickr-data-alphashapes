@@ -1,0 +1,15 @@
+{
+  "id": 730415,
+  "type": "Feature",
+  "properties": {
+    "name":"Huigsloot, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":730415,
+    "woe:name":"Huigsloot, North Holland, Netherlands",
+    "woe:place_id":"hrstmgSeApx2xMs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.5935,52.215389,4.600696,52.216999],
+  "geometry": {"alpha":0.00015,"bbox":[4.5935001373291,52.215389251709,4.6006960868835,52.216999053955],"coordinates":[[[[4.600052,52.215706],[4.600696,52.215469],[4.600353,52.215389],[4.597263,52.216034],[4.5935,52.216999],[4.59738,52.216171],[4.600052,52.215706]]]],"created":1292410562,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/730415_20101215_a91e836c4a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

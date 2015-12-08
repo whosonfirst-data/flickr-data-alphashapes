@@ -1,0 +1,15 @@
+{
+  "id": 1100989,
+  "type": "Feature",
+  "properties": {
+    "name":"Cape Clear, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1100989,
+    "woe:name":"Cape Clear, Victoria, Australia",
+    "woe:place_id":"jD4HCriYAJyl9rKX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.625305,-37.769958,143.625473,-37.769878],
+  "geometry": {"alpha":0.00015,"bbox":[143.62530517578,-37.769958496094,143.62547302246,-37.769878387451],"coordinates":[[[[143.62532,-37.769936],[143.625473,-37.769878],[143.625336,-37.769955],[143.625305,-37.769958],[143.62532,-37.769936]]]],"created":1292368805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/1100989_20101214_e39a4dbb26.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

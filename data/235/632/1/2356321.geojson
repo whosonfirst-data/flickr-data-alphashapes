@@ -1,0 +1,15 @@
+{
+  "id": 2356321,
+  "type": "Feature",
+  "properties": {
+    "name":"Arthur, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2356321,
+    "woe:name":"Arthur, Iowa, United States",
+    "woe:place_id":"yWflvaCbApmrlcmy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.347733,42.334717,-95.344162,42.337101],
+  "geometry": {"alpha":0.00015,"bbox":[-95.347732543945,42.334716796875,-95.344161987305,42.337100982666],"coordinates":[[[[-95.347733,42.334717],[-95.347641,42.335606],[-95.347061,42.337101],[-95.344162,42.336277],[-95.347168,42.334984],[-95.347733,42.334717]]]],"created":1292448184,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2356321_20101215_1a5925451b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

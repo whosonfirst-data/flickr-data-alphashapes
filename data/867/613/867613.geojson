@@ -1,0 +1,15 @@
+{
+  "id": 867613,
+  "type": "Feature",
+  "properties": {
+    "name":"Cuhea, Maramures, Romania",
+    "placetype":"locality",
+    "woe:id":867613,
+    "woe:name":"Cuhea, Maramures, Romania",
+    "woe:place_id":"v_ZGtsaRB5vk6ug",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.255753,47.686424,24.276115,47.703754],
+  "geometry": {"alpha":0.00015,"bbox":[24.255752563477,47.686424255371,24.27611541748,47.703754425049],"coordinates":[[[[24.269356,47.700649],[24.276115,47.698174],[24.269829,47.686424],[24.267941,47.690701],[24.255753,47.697746],[24.264677,47.703754],[24.269356,47.700649]]]],"created":1292519775,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/867613_20101216_ea6289300b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

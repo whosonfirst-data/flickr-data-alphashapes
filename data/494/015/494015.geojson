@@ -1,0 +1,15 @@
+{
+  "id": 494015,
+  "type": "Feature",
+  "properties": {
+    "name":"Godziszka, Silesian, Poland",
+    "placetype":"locality",
+    "woe:id":494015,
+    "woe:name":"Godziszka, Silesian, Poland",
+    "woe:place_id":"tCwfOrKdCJikGkY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.089319,49.713428,19.094978,49.714233],
+  "geometry": {"alpha":0.00015,"bbox":[19.089319229126,49.713428497314,19.09497833252,49.714233398438],"coordinates":[[[[19.089319,49.713428],[19.09103,49.713684],[19.094978,49.714233],[19.094849,49.714066],[19.09103,49.713684],[19.089817,49.713699],[19.089319,49.713428]]]],"created":1292522840,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/494015_20101216_1888e5466b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2484244,
+  "type": "Feature",
+  "properties": {
+    "name":"Rome, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2484244,
+    "woe:name":"Rome, Louisiana, United States",
+    "woe:place_id":"w0CaUDKbBZQhx010",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.55378,30.374666,-90.541473,30.380333],
+  "geometry": {"alpha":0.00015,"bbox":[-90.553779602051,30.374666213989,-90.541473388672,30.380332946777],"coordinates":[[[[-90.549393,30.374666],[-90.55378,30.376282],[-90.549316,30.380095],[-90.546745,30.380333],[-90.541473,30.37504],[-90.549393,30.374666]]]],"created":1292549492,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2484244_20101217_a24e87f9bf.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

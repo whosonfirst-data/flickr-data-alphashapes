@@ -1,0 +1,15 @@
+{
+  "id": 2371390,
+  "type": "Feature",
+  "properties": {
+    "name":"Buena Vista, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2371390,
+    "woe:name":"Buena Vista, Pennsylvania, United States",
+    "woe:place_id":"ZUlKv5KbApsImZ.f",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.799324,40.27029,-79.787552,40.282928],
+  "geometry": {"alpha":0.00015,"bbox":[-79.799324035645,40.270290374756,-79.787551879883,40.282928466797],"coordinates":[[[[-79.797394,40.273754],[-79.799324,40.27607],[-79.797646,40.277103],[-79.787552,40.282928],[-79.795074,40.27029],[-79.797394,40.273754]]]],"created":1292440525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2371390_20101215_6b7496f2c1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

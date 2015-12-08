@@ -1,0 +1,15 @@
+{
+  "id": 12680789,
+  "type": "Feature",
+  "properties": {
+    "name":"Oria, Italy",
+    "placetype":"locality",
+    "woe:id":12680789,
+    "woe:name":"Oria, Italy",
+    "woe:place_id":"CDp9DwGYA5ohHXSUqg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.641296,40.496765,17.644623,40.499966],
+  "geometry": {"alpha":1e-05,"bbox":[17.641296386719,40.496765136719,17.644622802734,40.499965667725],"coordinates":[[[[17.644623,40.497948],[17.643442,40.496765],[17.642862,40.497311],[17.641382,40.499588],[17.641296,40.499966],[17.642412,40.498592],[17.644623,40.497948]]]],"created":1292543234,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12680789_20101216_d420460d2a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

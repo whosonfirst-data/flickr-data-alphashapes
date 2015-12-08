@@ -1,0 +1,15 @@
+{
+  "id": 1581245,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmall, Gauteng, South Africa",
+    "placetype":"locality",
+    "woe:id":1581245,
+    "woe:name":"Farmall, Gauteng, South Africa",
+    "woe:place_id":"WLEBBY.YBJRghN65",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.930334,-25.995852,27.933769,-25.99107],
+  "geometry": {"alpha":0.00015,"bbox":[27.930334091187,-25.995851516724,27.933769226074,-25.991069793701],"coordinates":[[[[27.930334,-25.992304],[27.932396,-25.99107],[27.933769,-25.992922],[27.932384,-25.994942],[27.930334,-25.995852],[27.930334,-25.992304]]]],"created":1292549768,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/1581245_20101217_cc9ba2a686.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

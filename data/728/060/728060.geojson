@@ -1,0 +1,15 @@
+{
+  "id": 728060,
+  "type": "Feature",
+  "properties": {
+    "name":"Broekoord, North Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":728060,
+    "woe:name":"Broekoord, North Holland, Netherlands",
+    "woe:place_id":"uWOE7neeA5QRCBM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.163569,52.770325,5.187435,52.789215],
+  "geometry": {"alpha":0.00015,"bbox":[5.1635689735413,52.770324707031,5.1874351501465,52.789215087891],"coordinates":[[[[5.176303,52.775665],[5.171597,52.770332],[5.163569,52.770325],[5.17501,52.775604],[5.18383,52.789215],[5.187435,52.78574],[5.176303,52.775665]]]],"created":1292544250,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/728060_20101217_0472843bd9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

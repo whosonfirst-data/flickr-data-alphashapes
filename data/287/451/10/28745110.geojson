@@ -1,0 +1,15 @@
+{
+  "id": 28745110,
+  "type": "Feature",
+  "properties": {
+    "name":"Cove Point, Maine, United States",
+    "placetype":"locality",
+    "woe:id":28745110,
+    "woe:name":"Cove Point, Maine, United States",
+    "woe:place_id":"UoZn_bKbCZtSwPTYGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.627739,45.468437,-69.608688,45.480053],
+  "geometry": {"alpha":0.00015,"bbox":[-69.627738952637,45.468437194824,-69.608688354492,45.480052947998],"coordinates":[[[[-69.627739,45.469402],[-69.626709,45.480053],[-69.621788,45.475101],[-69.608688,45.472843],[-69.622589,45.468437],[-69.627739,45.469402]]]],"created":1292541127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/28745110_20101216_7165394b3f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

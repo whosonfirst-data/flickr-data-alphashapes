@@ -1,0 +1,15 @@
+{
+  "id": 1098545,
+  "type": "Feature",
+  "properties": {
+    "name":"Smithfield, Sydney, NSW, AU, Australia",
+    "placetype":"neighbourhood",
+    "woe:id":1098545,
+    "woe:name":"Smithfield, Sydney, NSW, AU, Australia",
+    "woe:place_id":"CbjKvfyYAZVkU7sw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [150.938538,-33.85429,150.942474,-33.851845],
+  "geometry": {"alpha":1e-05,"bbox":[150.93853759766,-33.854290008545,150.94247436523,-33.851844787598],"coordinates":[[[[150.941666,-33.854],[150.938538,-33.853558],[150.942474,-33.851845],[150.942169,-33.854168],[150.942123,-33.85429],[150.941666,-33.854]]]],"created":1292519779,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/1098545_20101216_a1500662e8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2922,
+  "type": "Feature",
+  "properties": {
+    "name":"Hartney, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2922,
+    "woe:name":"Hartney, Manitoba, Canada",
+    "woe:place_id":"JZzEXcKbCJ4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.525757,49.479012,-100.521042,49.496117],
+  "geometry": {"alpha":0.00015,"bbox":[-100.52575683594,49.479011535645,-100.52104187012,49.496116638184],"coordinates":[[[[-100.522621,49.479889],[-100.52475,49.479012],[-100.525757,49.496117],[-100.521042,49.48045],[-100.522621,49.479889]]]],"created":1292520526,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2922_20101216_afce44a609.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

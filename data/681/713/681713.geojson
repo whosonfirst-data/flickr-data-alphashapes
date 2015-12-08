@@ -1,0 +1,15 @@
+{
+  "id": 681713,
+  "type": "Feature",
+  "properties": {
+    "name":"Obermaiselstein, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":681713,
+    "woe:name":"Obermaiselstein, Bavaria, Germany",
+    "woe:place_id":"jcDE1vSfCZ0nMmk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.233805,47.444054,10.239429,47.455261],
+  "geometry": {"alpha":0.00015,"bbox":[10.233804702759,47.444053649902,10.239429473877,47.455261230469],"coordinates":[[[[10.235137,47.446548],[10.233805,47.454891],[10.23438,47.455261],[10.238227,47.449799],[10.238399,47.448944],[10.239429,47.444054],[10.235137,47.446548]]]],"created":1292518260,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/681713_20101216_3edba72892.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

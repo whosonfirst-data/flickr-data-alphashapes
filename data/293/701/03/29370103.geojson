@@ -1,0 +1,15 @@
+{
+  "id": 29370103,
+  "type": "Feature",
+  "properties": {
+    "name":"El Tossalet, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":29370103,
+    "woe:name":"El Tossalet, Valencia, Spain",
+    "woe:place_id":"vq.O7TKbCJ_5s7X09g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.192378,38.756393,0.207538,38.764858],
+  "geometry": {"alpha":0.00015,"bbox":[0.19237799942493,38.756393432617,0.20753799378872,38.76485824585],"coordinates":[[[[0.195093,38.756393],[0.192378,38.76189],[0.203247,38.764858],[0.207538,38.762115],[0.197925,38.756695],[0.195093,38.756393]]]],"created":1292531950,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/29370103_20101216_7022d2163c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

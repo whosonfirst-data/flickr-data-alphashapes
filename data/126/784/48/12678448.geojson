@@ -1,0 +1,15 @@
+{
+  "id": 12678448,
+  "type": "Feature",
+  "properties": {
+    "name":"San Casciano dei Bagni, Italy",
+    "placetype":"locality",
+    "woe:id":12678448,
+    "woe:name":"San Casciano dei Bagni, Italy",
+    "woe:place_id":"smPlOsqYA5o2HiR3tg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.874225,42.871056,11.880426,42.874832],
+  "geometry": {"alpha":1e-05,"bbox":[11.874224662781,42.871055603027,11.88042640686,42.87483215332],"coordinates":[[[[11.874804,42.87175],[11.874225,42.872002],[11.876392,42.874832],[11.880426,42.872757],[11.876993,42.871056],[11.874804,42.87175]]]],"created":1292527013,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12678448_20101216_9154601be9.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

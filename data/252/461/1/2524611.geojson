@@ -1,0 +1,15 @@
+{
+  "id": 2524611,
+  "type": "Feature",
+  "properties": {
+    "name":"Yatesville, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2524611,
+    "woe:name":"Yatesville, Georgia, United States",
+    "woe:place_id":"V7f5BTabBJ4qWEOU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.143204,32.91399,-84.14222,32.922916],
+  "geometry": {"alpha":0.00015,"bbox":[-84.143203735352,32.913990020752,-84.142219543457,32.922916412354],"coordinates":[[[[-84.142258,32.922817],[-84.14222,32.922916],[-84.142235,32.922771],[-84.143204,32.91399],[-84.142258,32.922798],[-84.142258,32.922817]]]],"created":1292448734,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2524611_20101215_131de2f8d9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

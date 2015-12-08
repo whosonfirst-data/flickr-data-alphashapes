@@ -1,0 +1,15 @@
+{
+  "id": 646832,
+  "type": "Feature",
+  "properties": {
+    "name":"Ehrenstein, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":646832,
+    "woe:name":"Ehrenstein, Thuringia, Germany",
+    "woe:place_id":"VONSFQGfBZpeGY0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.176944,50.754723,11.177777,50.755001],
+  "geometry": {"alpha":0.00015,"bbox":[11.176943778992,50.754722595215,11.177777290344,50.755001068115],"coordinates":[[[[11.177222,50.755001],[11.177777,50.755001],[11.1775,50.754723],[11.177222,50.754723],[11.176944,50.754723],[11.176944,50.755001],[11.177222,50.755001]]]],"created":1292475062,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/646832_20101216_93fe406d1c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

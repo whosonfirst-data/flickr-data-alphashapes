@@ -1,0 +1,15 @@
+{
+  "id": 57735,
+  "type": "Feature",
+  "properties": {
+    "name":"Argentina, Alajuela, Costa Rica",
+    "placetype":"locality",
+    "woe:id":57735,
+    "woe:name":"Argentina, Alajuela, Costa Rica",
+    "woe:place_id":"6iRruLacBptj9w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.368561,10.030977,-84.348732,10.036475],
+  "geometry": {"alpha":0.00015,"bbox":[-84.368560791016,10.030977249146,-84.348731994629,10.03647518158],"coordinates":[[[[-84.368561,10.03645],[-84.368546,10.036475],[-84.358002,10.032245],[-84.348732,10.034527],[-84.350792,10.0314],[-84.351135,10.030977],[-84.358002,10.032245],[-84.368561,10.03645]]]],"created":1292527933,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/57735_20101216_3712ab45e5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

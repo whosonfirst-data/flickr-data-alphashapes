@@ -1,0 +1,15 @@
+{
+  "id": 759763,
+  "type": "Feature",
+  "properties": {
+    "name":"El Tojo, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":759763,
+    "woe:name":"El Tojo, Cantabria, Spain",
+    "woe:place_id":"bQf1XG6eBJWOTTo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.287843,43.152225,-4.277672,43.15955],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2878432273865,43.152225494385,-4.2776718139648,43.159549713135],"coordinates":[[[[-4.287393,43.157799],[-4.287843,43.15955],[-4.282436,43.158985],[-4.277672,43.156738],[-4.287414,43.152225],[-4.287393,43.157799]]]],"created":1248109460,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2547/shapefiles/759763_20090720_4688478038.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 556033,
+  "type": "Feature",
+  "properties": {
+    "name":"Nysted, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":556033,
+    "woe:name":"Nysted, Sjaelland, Denmark",
+    "woe:place_id":"7TTtClmcBJpRwCM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.723442,54.650795,11.739535,54.674824],
+  "geometry": {"alpha":0.00015,"bbox":[11.723442077637,54.65079498291,11.739535331726,54.674823760986],"coordinates":[[[[11.729364,54.654209],[11.724472,54.665516],[11.723442,54.668468],[11.732368,54.674824],[11.733655,54.665939],[11.733527,54.665318],[11.739535,54.650993],[11.734771,54.650795],[11.729407,54.654171],[11.729364,54.654209]]]],"created":1292531987,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/556033_20101216_2a54073b6c.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

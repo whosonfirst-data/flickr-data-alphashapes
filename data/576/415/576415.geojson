@@ -1,0 +1,15 @@
+{
+  "id": 576415,
+  "type": "Feature",
+  "properties": {
+    "name":"Arc, Franche-Comte, France",
+    "placetype":"locality",
+    "woe:id":576415,
+    "woe:name":"Arc, Franche-Comte, France",
+    "woe:place_id":"5p81H5OcBpqpkbc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.770397,47.02813,5.786832,47.035736],
+  "geometry": {"alpha":0.00015,"bbox":[5.7703971862793,47.028129577637,5.7868318557739,47.035736083984],"coordinates":[[[[5.77692,47.034801],[5.77795,47.035152],[5.781469,47.035736],[5.786832,47.035309],[5.780439,47.02898],[5.780096,47.02813],[5.770397,47.030354],[5.775203,47.033047],[5.77692,47.034801]]]],"created":1292447976,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/576415_20101215_755248a273.tar.gz"},"points":56,"type":"MultiPolygon"}
+}

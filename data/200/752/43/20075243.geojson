@@ -1,0 +1,15 @@
+{
+  "id": 20075243,
+  "type": "Feature",
+  "properties": {
+    "name":"Sens, France",
+    "placetype":"locality",
+    "woe:id":20075243,
+    "woe:name":"Sens, France",
+    "woe:place_id":"ZcdfLHGbAZxqYR4Lrw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.282197,48.195171,3.283817,48.199047],
+  "geometry": {"alpha":1e-05,"bbox":[3.2821969985962,48.195171356201,3.2838170528412,48.199047088623],"coordinates":[[[[3.282508,48.199047],[3.283817,48.197838],[3.282197,48.195171],[3.282337,48.198933],[3.282508,48.199047]]]],"created":1248169323,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2489/shapefiles/20075243_20090721_d6ceab5dfa.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

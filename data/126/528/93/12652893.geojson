@@ -1,0 +1,15 @@
+{
+  "id": 12652893,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Martin-des-Champs, France",
+    "placetype":"locality",
+    "woe:id":12652893,
+    "woe:name":"St.-Martin-des-Champs, France",
+    "woe:place_id":"6mvXc.WYA5r1ZIrNRA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.349002,48.649754,-1.345996,48.653549],
+  "geometry": {"alpha":1e-05,"bbox":[-1.3490020036697,48.649753570557,-1.3459960222244,48.653549194336],"coordinates":[[[[-1.349002,48.653488],[-1.348967,48.653549],[-1.348717,48.653503],[-1.345996,48.649754],[-1.349002,48.653488]]]],"created":1292441355,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12652893_20101215_fb97b3ab25.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

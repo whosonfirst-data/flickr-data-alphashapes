@@ -1,0 +1,15 @@
+{
+  "id": 12683687,
+  "type": "Feature",
+  "properties": {
+    "name":"Wolfhalden, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683687,
+    "woe:name":"Wolfhalden, Switzerland",
+    "woe:place_id":"uG9yQoaYA5qhML4Q0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.542205,47.444618,9.547183,47.448292],
+  "geometry": {"alpha":1e-05,"bbox":[9.5422048568726,47.444618225098,9.5471830368042,47.448291778564],"coordinates":[[[[9.542205,47.444618],[9.542827,47.445736],[9.54566,47.448292],[9.547183,47.446041],[9.5442,47.446056],[9.542999,47.445026],[9.542205,47.444618]]]],"created":1226729416,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3181/shapefiles/12683687_20081115_d45a468b9f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

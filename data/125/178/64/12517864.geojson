@@ -1,0 +1,15 @@
+{
+  "id": 12517864,
+  "type": "Feature",
+  "properties": {
+    "name":"Zarzis Airport, Tunisia",
+    "placetype":"locality",
+    "woe:id":12517864,
+    "woe:name":"Zarzis Airport, Tunisia",
+    "woe:place_id":"bj952ASYA5nTwfeujw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.774669,33.869953,10.779089,33.875259],
+  "geometry": {"alpha":1e-05,"bbox":[10.774668693542,33.869953155518,10.779088973999,33.875259399414],"coordinates":[[[[10.778961,33.872269],[10.775958,33.869953],[10.774669,33.874123],[10.776729,33.875259],[10.778789,33.873623],[10.779089,33.873451],[10.778961,33.872269]]]],"created":1292534044,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/12517864_20101216_f6086c5b79.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

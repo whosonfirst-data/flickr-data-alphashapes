@@ -1,0 +1,15 @@
+{
+  "id": 726015,
+  "type": "Feature",
+  "properties": {
+    "name":"Serio, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":726015,
+    "woe:name":"Serio, Lombardy, Italy",
+    "woe:place_id":"FsrCUzqeA5o4jgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.730625,45.718742,9.75264,45.722656],
+  "geometry": {"alpha":0.00015,"bbox":[9.7306251525879,45.718742370605,9.7526397705078,45.72265625],"coordinates":[[[[9.73365,45.722366],[9.734004,45.722504],[9.734455,45.722656],[9.75264,45.721432],[9.733521,45.718742],[9.730625,45.719631],[9.73365,45.722366]]]],"created":1247965334,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2675/shapefiles/726015_20090719_58dcbc0134.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

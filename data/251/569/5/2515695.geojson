@@ -1,0 +1,15 @@
+{
+  "id": 2515695,
+  "type": "Feature",
+  "properties": {
+    "name":"Wayside, Nebraska, United States",
+    "placetype":"locality",
+    "woe:id":2515695,
+    "woe:name":"Wayside, Nebraska, United States",
+    "woe:place_id":"s.Wy0HubBJ2atJ0u",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.228394,42.999626,-103.22242,43.021843],
+  "geometry": {"alpha":0.00015,"bbox":[-103.22839355469,42.999626159668,-103.22241973877,43.021842956543],"coordinates":[[[[-103.225121,43.001698],[-103.22242,43.000027],[-103.225479,42.999626],[-103.227936,43.001919],[-103.228394,43.021843],[-103.225121,43.001698]]]],"created":1292530868,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2515695_20101216_89a67f13cb.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

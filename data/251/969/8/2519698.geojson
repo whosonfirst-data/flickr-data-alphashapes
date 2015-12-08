@@ -1,0 +1,15 @@
+{
+  "id": 2519698,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitehouse, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2519698,
+    "woe:name":"Whitehouse, Georgia, United States",
+    "woe:place_id":"pwrS_BCbBJ0wkO4e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.171669,33.550835,-84.163597,33.577961],
+  "geometry": {"alpha":0.00015,"bbox":[-84.171669006348,33.550834655762,-84.163597106934,33.577960968018],"coordinates":[[[[-84.171333,33.550835],[-84.171669,33.551167],[-84.170853,33.557419],[-84.164497,33.577961],[-84.163597,33.561192],[-84.171333,33.550835]]]],"created":1292543763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2519698_20101216_0720cfdb5d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

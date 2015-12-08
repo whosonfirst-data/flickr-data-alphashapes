@@ -1,0 +1,15 @@
+{
+  "id": 2466224,
+  "type": "Feature",
+  "properties": {
+    "name":"Orion, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2466224,
+    "woe:name":"Orion, Illinois, United States",
+    "woe:place_id":"FfVQYjqbBZoJKTWd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.387184,41.342014,-90.375938,41.363251],
+  "geometry": {"alpha":0.00015,"bbox":[-90.387184143066,41.342014312744,-90.375938415527,41.363250732422],"coordinates":[[[[-90.384239,41.351509],[-90.387184,41.354328],[-90.379845,41.363251],[-90.375938,41.352329],[-90.377022,41.342014],[-90.384239,41.351509]]]],"created":1292540403,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2466224_20101216_c36b70b517.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

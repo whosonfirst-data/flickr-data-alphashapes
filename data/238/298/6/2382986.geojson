@@ -1,0 +1,15 @@
+{
+  "id": 2382986,
+  "type": "Feature",
+  "properties": {
+    "name":"Colima, California, United States",
+    "placetype":"locality",
+    "woe:id":2382986,
+    "woe:name":"Colima, California, United States",
+    "woe:place_id":"RMXOZGCbApTF8itu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.019814,33.925274,-118.011749,33.945744],
+  "geometry": {"alpha":0.00015,"bbox":[-118.0198135376,33.925273895264,-118.01174926758,33.945743560791],"coordinates":[[[[-118.018974,33.942833],[-118.011749,33.945744],[-118.012131,33.942448],[-118.019814,33.925274],[-118.018723,33.941467],[-118.018974,33.942833]]]],"created":1248036969,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2579/shapefiles/2382986_20090719_38ab786ab7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

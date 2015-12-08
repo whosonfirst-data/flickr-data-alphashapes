@@ -1,0 +1,15 @@
+{
+  "id": 1101415,
+  "type": "Feature",
+  "properties": {
+    "name":"Coward Springs, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1101415,
+    "woe:name":"Coward Springs, South Australia, Australia",
+    "woe:place_id":"JlIivb.YAJyegn6E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [136.854034,-29.456264,136.862808,-29.428835],
+  "geometry": {"alpha":0.00015,"bbox":[136.85403442383,-29.45626449585,136.86280822754,-29.428834915161],"coordinates":[[[[136.858109,-29.447178],[136.855652,-29.455143],[136.854034,-29.456264],[136.856689,-29.445578],[136.857162,-29.428835],[136.862808,-29.438774],[136.858109,-29.447178]]]],"created":1292541013,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/1101415_20101216_fd274201c5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

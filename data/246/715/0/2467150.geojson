@@ -1,0 +1,15 @@
+{
+  "id": 2467150,
+  "type": "Feature",
+  "properties": {
+    "name":"Oxford, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2467150,
+    "woe:name":"Oxford, Colorado, United States",
+    "woe:place_id":"HNpBnAybBZpuMku3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.756653,37.146496,-107.7491,37.169071],
+  "geometry": {"alpha":0.00015,"bbox":[-107.75665283203,37.146495819092,-107.74909973145,37.16907119751],"coordinates":[[[[-107.750244,37.159374],[-107.751762,37.153374],[-107.756653,37.146496],[-107.752617,37.157581],[-107.7491,37.169071],[-107.750244,37.159374]]]],"created":1292539645,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2467150_20101216_ca15a8f70e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

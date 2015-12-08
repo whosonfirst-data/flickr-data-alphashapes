@@ -1,0 +1,15 @@
+{
+  "id": 719439,
+  "type": "Feature",
+  "properties": {
+    "name":"Nureci, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":719439,
+    "woe:name":"Nureci, Sardinia, Italy",
+    "woe:place_id":"9SjWxs6eAJWNiJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.963813,39.815525,8.97716,39.838577],
+  "geometry": {"alpha":0.00015,"bbox":[8.963812828064,39.815525054932,8.9771604537964,39.838577270508],"coordinates":[[[[8.975143,39.828049],[8.97716,39.825397],[8.97171,39.815525],[8.963813,39.819611],[8.96965,39.822247],[8.972396,39.838577],[8.975143,39.828049]]]],"created":1292456145,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/719439_20101215_e4e6265ddf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

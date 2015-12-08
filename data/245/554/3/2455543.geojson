@@ -1,0 +1,15 @@
+{
+  "id": 2455543,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Vernon, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2455543,
+    "woe:name":"Mount Vernon, North Carolina, United States",
+    "woe:place_id":"w17T9r6bBZnWxVQ2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.928009,35.448399,-81.926575,35.451145],
+  "geometry": {"alpha":0.00015,"bbox":[-81.928009033203,35.448398590088,-81.926574707031,35.451145172119],"coordinates":[[[[-81.926933,35.45097],[-81.926788,35.451145],[-81.926575,35.451073],[-81.927383,35.449493],[-81.928009,35.448399],[-81.926933,35.45097]]]],"created":1292534132,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2455543_20101216_4fc1aa8bec.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

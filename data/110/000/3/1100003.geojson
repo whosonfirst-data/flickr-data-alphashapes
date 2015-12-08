@@ -1,0 +1,15 @@
+{
+  "id": 1100003,
+  "type": "Feature",
+  "properties": {
+    "name":"Auburn, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1100003,
+    "woe:name":"Auburn, South Australia, Australia",
+    "woe:place_id":"R7my0DeYAJxmbzWL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.668228,-34.037865,138.699829,-34.000999],
+  "geometry": {"alpha":0.00015,"bbox":[138.66822814941,-34.037864685059,138.69982910156,-34.000999450684],"coordinates":[[[[138.685623,-34.02668],[138.683197,-34.015366],[138.699829,-34.000999],[138.689667,-34.022835],[138.685745,-34.031322],[138.668228,-34.037865],[138.685623,-34.02668]]]],"created":1292444251,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/1100003_20101215_5f51098d4f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

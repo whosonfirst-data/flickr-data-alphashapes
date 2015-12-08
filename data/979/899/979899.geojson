@@ -1,0 +1,15 @@
+{
+  "id": 979899,
+  "type": "Feature",
+  "properties": {
+    "name":"Schengen, Grevenmacher, Luxembourg",
+    "placetype":"locality",
+    "woe:id":979899,
+    "woe:name":"Schengen, Grevenmacher, Luxembourg",
+    "woe:place_id":"u1dHINCQBpXasxc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.342029,49.441662,6.389579,49.487755],
+  "geometry": {"alpha":0.00015,"bbox":[6.342029094696,49.441661834717,6.3895788192749,49.487754821777],"coordinates":[[[[6.36275,49.443501],[6.359925,49.442596],[6.358187,49.441662],[6.355419,49.44458],[6.342029,49.453075],[6.355204,49.449665],[6.362199,49.470242],[6.360354,49.477924],[6.363637,49.480141],[6.364345,49.480839],[6.367918,49.479355],[6.387176,49.487755],[6.389579,49.473255],[6.381168,49.468178],[6.372671,49.458935],[6.36275,49.443501]]]],"created":1248254893,"edges":16,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2458/shapefiles/979899_20090722_87299b958f.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

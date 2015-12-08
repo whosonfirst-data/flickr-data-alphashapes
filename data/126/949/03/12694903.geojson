@@ -1,0 +1,15 @@
+{
+  "id": 12694903,
+  "type": "Feature",
+  "properties": {
+    "name":"Manzaneda, Spain",
+    "placetype":"locality",
+    "woe:id":12694903,
+    "woe:name":"Manzaneda, Spain",
+    "woe:place_id":"w4DwZAeYA5pOLIdBzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.235355,42.309402,-7.228832,42.311337],
+  "geometry": {"alpha":1e-05,"bbox":[-7.2353549003601,42.30940246582,-7.2288317680359,42.311336517334],"coordinates":[[[[-7.233982,42.310387],[-7.228832,42.311337],[-7.233724,42.309402],[-7.235355,42.310387],[-7.233982,42.310387]]]],"created":1226620205,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3155/shapefiles/12694903_20081113_819d5f71db.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 626895,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Sauveur, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":626895,
+    "woe:name":"St-Sauveur, Burgundy, France",
+    "woe:place_id":"bX6MZOKfA5rlBZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.183116,47.607552,3.208522,47.620975],
+  "geometry": {"alpha":0.00015,"bbox":[3.1831159591675,47.607551574707,3.2085220813751,47.620975494385],"coordinates":[[[[3.192558,47.62051],[3.197557,47.616833],[3.208522,47.607552],[3.194789,47.608246],[3.183116,47.620975],[3.192558,47.62051]]]],"created":1292550427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/626895_20101217_4f5b43dacf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

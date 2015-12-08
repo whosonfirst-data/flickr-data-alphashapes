@@ -1,0 +1,15 @@
+{
+  "id": 543299,
+  "type": "Feature",
+  "properties": {
+    "name":"Pillichsdorf, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543299,
+    "woe:name":"Pillichsdorf, Lower Austria, Austria",
+    "woe:place_id":"xxXxm.6cBZ_Iac0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.528931,48.361698,16.544209,48.372044],
+  "geometry": {"alpha":0.00015,"bbox":[16.528930664062,48.361698150635,16.544208526611,48.372043609619],"coordinates":[[[[16.544209,48.368908],[16.539766,48.362301],[16.539663,48.362206],[16.537861,48.361698],[16.528931,48.372044],[16.544052,48.369995],[16.544209,48.368908]]]],"created":1292542849,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/543299_20101216_31a18fd9fe.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2417259,
+  "type": "Feature",
+  "properties": {
+    "name":"Happy Valley, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2417259,
+    "woe:name":"Happy Valley, Washington, United States",
+    "woe:place_id":"0IqhgWabBZ2L9Iq8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.121201,47.956421,-123.098541,47.978367],
+  "geometry": {"alpha":0.00015,"bbox":[-123.12120056152,47.956420898438,-123.09854125977,47.978366851807],"coordinates":[[[[-123.110901,47.963577],[-123.121201,47.969929],[-123.109337,47.978367],[-123.1073,47.968777],[-123.098541,47.956421],[-123.110901,47.963577]]]],"created":1292536032,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2417259_20101216_c6dd5050e5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

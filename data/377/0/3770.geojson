@@ -1,0 +1,15 @@
+{
+  "id": 3770,
+  "type": "Feature",
+  "properties": {
+    "name":"Monastery, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":3770,
+    "woe:name":"Monastery, Nova Scotia, Canada",
+    "woe:place_id":"N.mqUYmaBpvn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.658707,45.598904,-61.598476,45.631985],
+  "geometry": {"alpha":0.5,"bbox":[-61.658706665039,45.598903656006,-61.598476409912,45.631984710693],"coordinates":[[[[-61.658707,45.612118],[-61.655014,45.631985],[-61.598476,45.617008],[-61.616993,45.606773],[-61.64257,45.598904],[-61.658707,45.612118]]]],"created":1248059785,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3487/shapefiles/3770_20090720_b1e231ef5f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

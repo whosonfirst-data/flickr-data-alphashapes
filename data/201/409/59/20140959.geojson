@@ -1,0 +1,15 @@
+{
+  "id": 20140959,
+  "type": "Feature",
+  "properties": {
+    "name":"San Carlo, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20140959,
+    "woe:name":"San Carlo, Tuscany, Italy",
+    "woe:place_id":"FYX8BiebAZ1CZW3PnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.583267,43.078354,10.608072,43.103989],
+  "geometry": {"alpha":0.00015,"bbox":[10.583267211914,43.078353881836,10.608072280884,43.103988647461],"coordinates":[[[[10.606441,43.089825],[10.607493,43.08831],[10.608072,43.085625],[10.605411,43.082619],[10.591678,43.078354],[10.585927,43.099541],[10.583267,43.103989],[10.588073,43.100731],[10.589425,43.098724],[10.606441,43.089825]]]],"created":1292530193,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20140959_20101216_5b3ecea342.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

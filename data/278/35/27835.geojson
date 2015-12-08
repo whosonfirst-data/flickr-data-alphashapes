@@ -1,0 +1,15 @@
+{
+  "id": 27835,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Upnor, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27835,
+    "woe:name":"Lower Upnor, England, United Kingdom",
+    "woe:place_id":"uXuEtIibBpRm3Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.52921,51.411739,0.551138,51.417194],
+  "geometry": {"alpha":0.00015,"bbox":[0.52920997142792,51.411739349365,0.55113798379898,51.417194366455],"coordinates":[[[[0.529832,51.413177],[0.52921,51.415398],[0.536441,51.417194],[0.551138,51.412365],[0.540218,51.413342],[0.530831,51.411739],[0.529832,51.413177]]]],"created":1292540756,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/27835_20101216_12ddb142d3.tar.gz"},"points":31,"type":"MultiPolygon"}
+}

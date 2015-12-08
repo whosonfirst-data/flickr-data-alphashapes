@@ -1,0 +1,15 @@
+{
+  "id": 2371161,
+  "type": "Feature",
+  "properties": {
+    "name":"Buckingham, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2371161,
+    "woe:name":"Buckingham, Pennsylvania, United States",
+    "woe:place_id":"SbpLZZKbAptWjbjz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.065651,40.316208,-75.050613,40.325996],
+  "geometry": {"alpha":0.00015,"bbox":[-75.065650939941,40.316207885742,-75.05061340332,40.325996398926],"coordinates":[[[[-75.062523,40.316208],[-75.065651,40.317799],[-75.064896,40.319088],[-75.061081,40.324364],[-75.057961,40.325996],[-75.050613,40.32497],[-75.062523,40.316208]]]],"created":1239546374,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3305/shapefiles/2371161_20090412_628224f4a9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 709415,
+  "type": "Feature",
+  "properties": {
+    "name":"Amberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":709415,
+    "woe:name":"Amberg, Bavaria, Germany",
+    "woe:place_id":"5B7ljM2eAZUumgk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.683732,48.063396,10.684333,48.065334],
+  "geometry": {"alpha":0.00015,"bbox":[10.683732032776,48.063396453857,10.684332847595,48.065334320068],"coordinates":[[[[10.684333,48.065334],[10.684333,48.065166],[10.683732,48.063396],[10.684,48.065166],[10.684333,48.065334]]]],"created":1292456052,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/709415_20101215_5ef150ef9e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

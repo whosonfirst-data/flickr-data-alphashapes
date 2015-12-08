@@ -1,0 +1,15 @@
+{
+  "id": 55880583,
+  "type": "Feature",
+  "properties": {
+    "name":"Seafield, Eastern Cape, South Africa",
+    "placetype":"locality",
+    "woe:id":55880583,
+    "woe:name":"Seafield, Eastern Cape, South Africa",
+    "woe:place_id":"BITcn1WcBJT5lfv30A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.001648,-33.567715,27.026367,-33.557919],
+  "geometry": {"alpha":0.00015,"bbox":[27.001647949219,-33.567714691162,27.0263671875,-33.557918548584],"coordinates":[[[[27.001648,-33.567715],[27.009888,-33.561996],[27.026367,-33.557919],[27.009888,-33.564857],[27.001648,-33.567715]]]],"created":1292473208,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/55880583_20101216_4008f2b94b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

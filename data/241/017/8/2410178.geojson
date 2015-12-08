@@ -1,0 +1,15 @@
+{
+  "id": 2410178,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilchrist, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2410178,
+    "woe:name":"Gilchrist, Oregon, United States",
+    "woe:place_id":"bVImBfybBZ0BtsBs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.607407,43.612808,-121.587151,43.619968],
+  "geometry": {"alpha":0.00015,"bbox":[-121.60740661621,43.612808227539,-121.58715057373,43.619968414307],"coordinates":[[[[-121.598564,43.612869],[-121.598694,43.612808],[-121.607407,43.619968],[-121.599213,43.614674],[-121.587151,43.61927],[-121.598564,43.612869]]]],"created":1292549050,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2410178_20101217_3c5f0382ed.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

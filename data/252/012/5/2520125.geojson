@@ -1,0 +1,15 @@
+{
+  "id": 2520125,
+  "type": "Feature",
+  "properties": {
+    "name":"Wickett, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2520125,
+    "woe:name":"Wickett, Texas, United States",
+    "woe:place_id":"XnVJBwSbBJ4yiD8N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.007813,31.556011,-102.978683,31.571552],
+  "geometry": {"alpha":0.00015,"bbox":[-103.0078125,31.556011199951,-102.97868347168,31.571552276611],"coordinates":[[[[-103.00206,31.571552],[-102.978683,31.566084],[-102.997986,31.559511],[-103.007813,31.556011],[-103.003693,31.569759],[-103.00206,31.571552]]]],"created":1292470267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2520125_20101216_c274317e25.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

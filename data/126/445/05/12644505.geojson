@@ -1,0 +1,15 @@
+{
+  "id": 12644505,
+  "type": "Feature",
+  "properties": {
+    "name":"Gimouille, France",
+    "placetype":"locality",
+    "woe:id":12644505,
+    "woe:name":"Gimouille, France",
+    "woe:place_id":"jXC1xoGYA5qes5IahA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.066687,46.942471,3.072652,46.947861],
+  "geometry": {"alpha":1e-05,"bbox":[3.0666871070862,46.942470550537,3.0726521015167,46.947860717773],"coordinates":[[[[3.070635,46.946835],[3.0713,46.946587],[3.072652,46.945633],[3.071537,46.945778],[3.066687,46.942471],[3.069219,46.947861],[3.070635,46.946835]]]],"created":1292520062,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12644505_20101216_c1d994b441.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

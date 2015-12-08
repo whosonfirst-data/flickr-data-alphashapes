@@ -1,0 +1,15 @@
+{
+  "id": 2460311,
+  "type": "Feature",
+  "properties": {
+    "name":"Nook, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2460311,
+    "woe:name":"Nook, Pennsylvania, United States",
+    "woe:place_id":"LZL__lubBZoJqP0A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.53537,40.504238,-77.527496,40.50631],
+  "geometry": {"alpha":0.00015,"bbox":[-77.535369873047,40.504238128662,-77.527496337891,40.506309509277],"coordinates":[[[[-77.534515,40.504505],[-77.53537,40.505089],[-77.53479,40.505245],[-77.530128,40.506107],[-77.527496,40.50631],[-77.534073,40.504238],[-77.534515,40.504505]]]],"created":1292521218,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2460311_20101216_9dc948c658.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

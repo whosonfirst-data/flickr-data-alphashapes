@@ -1,0 +1,15 @@
+{
+  "id": 555008,
+  "type": "Feature",
+  "properties": {
+    "name":"Kregome, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555008,
+    "woe:name":"Kregome, Hovedstaden, Denmark",
+    "woe:place_id":"TL2rLU6cBJkEwsc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.040328,55.940109,12.08496,55.954006],
+  "geometry": {"alpha":0.00015,"bbox":[12.040328025818,55.94010925293,12.084959983826,55.954006195068],"coordinates":[[[[12.04668,55.943527],[12.040328,55.948284],[12.041444,55.947903],[12.04786,55.945629],[12.065048,55.954006],[12.08496,55.950737],[12.069894,55.940109],[12.051161,55.94437],[12.04668,55.943527]]]],"created":1292458320,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/555008_20101216_3e2c2030bf.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 748203,
+  "type": "Feature",
+  "properties": {
+    "name":"S. Joao, Aveiro, Portugal",
+    "placetype":"locality",
+    "woe:id":748203,
+    "woe:name":"S. Joao, Aveiro, Portugal",
+    "woe:place_id":"51iQsgeeBZRujhk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.602583,40.791164,-8.589156,40.798615],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6025829315186,40.791164398193,-8.5891561508179,40.798614501953],"coordinates":[[[[-8.589156,40.79171],[-8.5988,40.791164],[-8.602583,40.79858],[-8.601479,40.798615],[-8.592464,40.79665],[-8.589156,40.79171]]]],"created":1292439821,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/748203_20101215_cbe87c2714.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

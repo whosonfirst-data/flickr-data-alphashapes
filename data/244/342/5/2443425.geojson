@@ -1,0 +1,15 @@
+{
+  "id": 2443425,
+  "type": "Feature",
+  "properties": {
+    "name":"Lynn Acres, Birmingham, AL, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2443425,
+    "woe:name":"Lynn Acres, Birmingham, AL, US, United States",
+    "woe:place_id":"alvK9iebBZhZxQBw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-86.714325,33.625298,-86.714027,33.625664],
+  "geometry": {"alpha":1e-05,"bbox":[-86.714324951172,33.625297546387,-86.714027404785,33.625663757324],"coordinates":[[[[-86.714188,33.625381],[-86.714241,33.62532],[-86.714325,33.625298],[-86.714127,33.625576],[-86.714027,33.625664],[-86.714188,33.625381]]]],"created":1292526479,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2443425_20101216_d744c55892.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

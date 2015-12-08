@@ -1,0 +1,15 @@
+{
+  "id": 725930,
+  "type": "Feature",
+  "properties": {
+    "name":"Vignanello, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":725930,
+    "woe:name":"Vignanello, Lazio, Italy",
+    "woe:place_id":"LVZKk26eA5kyG2o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.275848,42.381687,12.281169,42.386063],
+  "geometry": {"alpha":0.00015,"bbox":[12.275848388672,42.381687164307,12.281168937683,42.38606262207],"coordinates":[[[[12.279163,42.383739],[12.275848,42.381687],[12.276363,42.385071],[12.277565,42.386063],[12.281169,42.385334],[12.280198,42.384121],[12.279163,42.383739]]]],"created":1292526249,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/725930_20101216_821d459e8e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

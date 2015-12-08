@@ -1,0 +1,15 @@
+{
+  "id": 2499239,
+  "type": "Feature",
+  "properties": {
+    "name":"Startown, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2499239,
+    "woe:name":"Startown, North Carolina, United States",
+    "woe:place_id":"S_2ykJ2bBZW5Asph",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.269646,35.645332,-81.265121,35.649963],
+  "geometry": {"alpha":0.00015,"bbox":[-81.269645690918,35.645332336426,-81.265121459961,35.649963378906],"coordinates":[[[[-81.269646,35.645996],[-81.268166,35.648998],[-81.265121,35.649963],[-81.267334,35.646667],[-81.268837,35.645332],[-81.269646,35.645996]]]],"created":1292454674,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2499239_20101215_39edb49887.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

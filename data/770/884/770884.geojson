@@ -1,0 +1,15 @@
+{
+  "id": 770884,
+  "type": "Feature",
+  "properties": {
+    "name":"Puelles, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":770884,
+    "woe:name":"Puelles, Asturias, Spain",
+    "woe:place_id":"Fqglj7WeBpwpkVU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.51342,43.425747,-5.511445,43.448307],
+  "geometry": {"alpha":0.00015,"bbox":[-5.5134201049805,43.425746917725,-5.5114450454712,43.448307037354],"coordinates":[[[[-5.511875,43.446064],[-5.511445,43.442795],[-5.511531,43.425747],[-5.512561,43.443508],[-5.51342,43.448307],[-5.511875,43.446064]]]],"created":1292447602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/770884_20101215_e073f7bdff.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

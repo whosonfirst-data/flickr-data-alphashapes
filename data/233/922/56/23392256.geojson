@@ -1,0 +1,15 @@
+{
+  "id": 23392256,
+  "type": "Feature",
+  "properties": {
+    "name":"Scotsville, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":23392256,
+    "woe:name":"Scotsville, Nova Scotia, Canada",
+    "woe:place_id":"S6UhIqObAp8QiD72pw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-61.166382,46.142376,-61.138058,46.169369],
+  "geometry": {"alpha":0.00015,"bbox":[-61.166381835938,46.142375946045,-61.13805770874,46.169368743896],"coordinates":[[[[-61.138573,46.142376],[-61.150791,46.150429],[-61.166382,46.152725],[-61.151276,46.153675],[-61.144409,46.169369],[-61.138058,46.146717],[-61.138573,46.142376]]]],"created":1292523612,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/23392256_20101216_2c95a22e4a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

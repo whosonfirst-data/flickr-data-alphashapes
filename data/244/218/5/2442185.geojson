@@ -1,0 +1,15 @@
+{
+  "id": 2442185,
+  "type": "Feature",
+  "properties": {
+    "name":"Lost Creek, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2442185,
+    "woe:name":"Lost Creek, West Virginia, United States",
+    "woe:place_id":"8osN1YGbBZjlWsiR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.355591,39.159641,-80.343445,39.17289],
+  "geometry": {"alpha":0.00015,"bbox":[-80.355590820312,39.159641265869,-80.343444824219,39.172889709473],"coordinates":[[[[-80.343445,39.160946],[-80.355591,39.159641],[-80.353615,39.160973],[-80.350952,39.163406],[-80.344147,39.17289],[-80.343445,39.160946]]]],"created":1292469370,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2442185_20101216_aea4aca1ed.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

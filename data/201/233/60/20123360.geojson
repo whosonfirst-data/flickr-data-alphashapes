@@ -1,0 +1,15 @@
+{
+  "id": 20123360,
+  "type": "Feature",
+  "properties": {
+    "name":"Evigno, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20123360,
+    "woe:name":"Evigno, Liguria, Italy",
+    "woe:place_id":"pO1qSx2bAZ2TbyJDzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.011779,43.962425,8.040962,43.978733],
+  "geometry": {"alpha":0.00015,"bbox":[8.0117788314819,43.962425231934,8.0409622192383,43.978733062744],"coordinates":[[[[8.032722,43.965637],[8.011779,43.964649],[8.020362,43.978672],[8.023109,43.978733],[8.035168,43.967182],[8.040962,43.962425],[8.032722,43.965637]]]],"created":1292502306,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/20123360_20101216_84015a4bf5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

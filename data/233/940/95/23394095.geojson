@@ -1,0 +1,15 @@
+{
+  "id": 23394095,
+  "type": "Feature",
+  "properties": {
+    "name":"Smiths Creek, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23394095,
+    "woe:name":"Smiths Creek, New Brunswick, Canada",
+    "woe:place_id":"ipUPpV6bAp9o7xraDQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.490273,45.774708,-65.477997,45.797211],
+  "geometry": {"alpha":0.00015,"bbox":[-65.490272521973,45.774707794189,-65.477996826172,45.797210693359],"coordinates":[[[[-65.482803,45.797211],[-65.481773,45.792904],[-65.477997,45.78548],[-65.490273,45.774708],[-65.488899,45.793022],[-65.482803,45.797211]]]],"created":1292445722,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/23394095_20101215_78dcd25d88.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

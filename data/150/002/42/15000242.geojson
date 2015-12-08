@@ -1,0 +1,15 @@
+{
+  "id": 15000242,
+  "type": "Feature",
+  "properties": {
+    "name":"Veglio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000242,
+    "woe:name":"Veglio, Piedmont, Italy",
+    "woe:place_id":"ONGQbuCYBJy73BVtIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.11375,45.639397,8.114991,45.63982],
+  "geometry": {"alpha":0.00015,"bbox":[8.1137504577637,45.63939666748,8.1149911880493,45.639820098877],"coordinates":[[[[8.114976,45.639458],[8.114991,45.639397],[8.11375,45.63982],[8.114776,45.639561],[8.114976,45.639458]]]],"created":1292518944,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/15000242_20101216_f4ce428daa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

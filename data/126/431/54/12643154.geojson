@@ -1,0 +1,15 @@
+{
+  "id": 12643154,
+  "type": "Feature",
+  "properties": {
+    "name":"Eaubonne, France",
+    "placetype":"locality",
+    "woe:id":12643154,
+    "woe:name":"Eaubonne, France",
+    "woe:place_id":"5ayF6XyYA5pzGpID4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.269,48.993771,2.27768,48.997665],
+  "geometry": {"alpha":1e-05,"bbox":[2.2690000534058,48.993770599365,2.2776799201965,48.997665405273],"coordinates":[[[[2.277152,48.993786],[2.273483,48.994225],[2.269,48.997665],[2.273933,48.996471],[2.277495,48.995094],[2.27768,48.993771],[2.277152,48.993786]]]],"created":1292538662,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12643154_20101216_07049e5b7a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

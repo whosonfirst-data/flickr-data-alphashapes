@@ -1,0 +1,15 @@
+{
+  "id": 12623200,
+  "type": "Feature",
+  "properties": {
+    "name":"Weilheim an der Teck, Germany",
+    "placetype":"locality",
+    "woe:id":12623200,
+    "woe:name":"Weilheim an der Teck, Germany",
+    "woe:place_id":"DON4mIWYA5p8QR6w5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.52918,48.598351,9.536476,48.606525],
+  "geometry": {"alpha":1e-05,"bbox":[9.5291795730591,48.598350524902,9.5364761352539,48.606525421143],"coordinates":[[[[9.52918,48.603802],[9.532184,48.606182],[9.536304,48.606525],[9.536476,48.603912],[9.531326,48.603745],[9.534759,48.598522],[9.531583,48.598351],[9.52918,48.603802]]]],"created":1292534698,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12623200_20101216_1d545ca802.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1104937,
+  "type": "Feature",
+  "properties": {
+    "name":"Peak Hill, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1104937,
+    "woe:name":"Peak Hill, New South Wales, Australia",
+    "woe:place_id":"w3iJgfuYAJz8MPAV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.181244,-32.729584,148.198608,-32.713245],
+  "geometry": {"alpha":0.00015,"bbox":[148.18124389648,-32.729583740234,148.19860839844,-32.713245391846],"coordinates":[[[[148.191299,-32.719398],[148.198532,-32.713245],[148.198608,-32.714367],[148.194412,-32.719276],[148.193405,-32.729584],[148.181244,-32.725975],[148.191299,-32.719398]]]],"created":1292517065,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/1104937_20101216_ffbc8aeb4c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

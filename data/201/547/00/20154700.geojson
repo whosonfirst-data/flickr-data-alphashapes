@@ -1,0 +1,15 @@
+{
+  "id": 20154700,
+  "type": "Feature",
+  "properties": {
+    "name":"Hennermais, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20154700,
+    "woe:name":"Hennermais, Bavaria, Germany",
+    "woe:place_id":"P6es5bqbAZ3svwWp3g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.079309,48.635303,13.101089,48.639713],
+  "geometry": {"alpha":0.00015,"bbox":[13.079309463501,48.635303497314,13.101088523865,48.639713287354],"coordinates":[[[[13.100402,48.63715],[13.101089,48.636539],[13.100316,48.635303],[13.099801,48.635647],[13.079309,48.639713],[13.100402,48.63715]]]],"created":1292543211,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/20154700_20101216_b89c1d10d5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

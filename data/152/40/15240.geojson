@@ -1,0 +1,15 @@
+{
+  "id": 15240,
+  "type": "Feature",
+  "properties": {
+    "name":"Carnhell Green, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":15240,
+    "woe:name":"Carnhell Green, England, United Kingdom",
+    "woe:place_id":"RJ_5S9GYBJ5R0A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.346522,50.183094,-5.330522,50.192497],
+  "geometry": {"alpha":0.00015,"bbox":[-5.3465218544006,50.183094024658,-5.3305220603943,50.192497253418],"coordinates":[[[[-5.3355,50.192497],[-5.334667,50.191833],[-5.330522,50.183094],[-5.34002,50.188629],[-5.346522,50.190365],[-5.3355,50.192497]]]],"created":1292497742,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/15240_20101216_e5e824fdd1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

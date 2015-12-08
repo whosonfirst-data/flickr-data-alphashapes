@@ -1,0 +1,15 @@
+{
+  "id": 20700957,
+  "type": "Feature",
+  "properties": {
+    "name":"St Andrew, Channel Islands, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20700957,
+    "woe:name":"St Andrew, Channel Islands, United Kingdom",
+    "woe:place_id":"mTSN6DSbAZvbv7caLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.585542,49.440674,-2.575714,49.44508],
+  "geometry": {"alpha":0.00015,"bbox":[-2.5855419635773,49.440673828125,-2.5757141113281,49.445079803467],"coordinates":[[[[-2.575714,49.442444],[-2.577838,49.440674],[-2.58449,49.441113],[-2.585542,49.442039],[-2.576894,49.44508],[-2.575714,49.442444]]]],"created":1248101413,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2478/shapefiles/20700957_20090720_f30a790436.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

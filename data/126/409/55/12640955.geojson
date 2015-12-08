@@ -1,0 +1,15 @@
+{
+  "id": 12640955,
+  "type": "Feature",
+  "properties": {
+    "name":"Champignolles, France",
+    "placetype":"locality",
+    "woe:id":12640955,
+    "woe:name":"Champignolles, France",
+    "woe:place_id":"d8W6FRmYA5otU2uw0Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.741727,48.93988,0.74383,48.942814],
+  "geometry": {"alpha":1e-05,"bbox":[0.74172699451447,48.939880371094,0.74383002519608,48.942813873291],"coordinates":[[[[0.742285,48.941795],[0.741727,48.942814],[0.743036,48.941784],[0.743744,48.940868],[0.74383,48.93988],[0.742285,48.941795]]]],"created":1247939045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2495/shapefiles/12640955_20090718_87015e0879.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

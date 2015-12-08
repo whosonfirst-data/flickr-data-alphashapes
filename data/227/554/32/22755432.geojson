@@ -1,0 +1,15 @@
+{
+  "id": 22755432,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaujeu, France",
+    "placetype":"locality",
+    "woe:id":22755432,
+    "woe:name":"Beaujeu, France",
+    "woe:place_id":"1CKYkiObA5tHyYhEMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.581899,46.156174,4.585247,46.164616],
+  "geometry": {"alpha":1e-05,"bbox":[4.5818991661072,46.156173706055,4.5852470397949,46.164615631104],"coordinates":[[[[4.583762,46.161831],[4.585247,46.156174],[4.58361,46.161839],[4.581899,46.164616],[4.583759,46.161839],[4.583762,46.161831]]]],"created":1292541314,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/22755432_20101216_ddd087671d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

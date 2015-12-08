@@ -1,0 +1,15 @@
+{
+  "id": 441632,
+  "type": "Feature",
+  "properties": {
+    "name":"Nova Palma, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":441632,
+    "woe:name":"Nova Palma, Rio Grande do Sul, Brazil",
+    "woe:place_id":"10qx1cGdBZ1itmI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.491314,-29.484137,-53.468571,-29.459253],
+  "geometry": {"alpha":0.00015,"bbox":[-53.491313934326,-29.484136581421,-53.468570709229,-29.459253311157],"coordinates":[[[[-53.468571,-29.46994],[-53.471146,-29.484137],[-53.47887,-29.468744],[-53.491314,-29.459253],[-53.47784,-29.460224],[-53.468571,-29.46994]]]],"created":1292474405,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/441632_20101216_23c721e5b4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

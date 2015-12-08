@@ -1,0 +1,15 @@
+{
+  "id": 713215,
+  "type": "Feature",
+  "properties": {
+    "name":"Castel del Piano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":713215,
+    "woe:name":"Castel del Piano, Umbria, Italy",
+    "woe:place_id":"tU7el1SeAJ_eRTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.300018,43.055969,12.310781,43.068085],
+  "geometry": {"alpha":0.00015,"bbox":[12.300018310547,43.055969238281,12.310780525208,43.068084716797],"coordinates":[[[[12.307434,43.055969],[12.301694,43.059246],[12.300018,43.068085],[12.308206,43.066032],[12.308378,43.06591],[12.310781,43.059292],[12.307434,43.055969]]]],"created":1292447370,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/713215_20101215_d66e88150b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2408533,
+  "type": "Feature",
+  "properties": {
+    "name":"Galloway, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2408533,
+    "woe:name":"Galloway, Florida, United States",
+    "woe:place_id":"oqKY3w6bBZwJ2mOX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.012749,28.090458,-81.994385,28.113091],
+  "geometry": {"alpha":0.00015,"bbox":[-82.012748718262,28.09045791626,-81.994384765625,28.113090515137],"coordinates":[[[[-81.997162,28.113091],[-81.994385,28.111],[-82.002808,28.090458],[-82.012749,28.108931],[-81.997986,28.112324],[-81.997162,28.113091]]]],"created":1292517548,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2408533_20101216_de7bd81c7d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

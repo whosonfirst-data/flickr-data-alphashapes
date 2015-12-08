@@ -1,0 +1,15 @@
+{
+  "id": 26808742,
+  "type": "Feature",
+  "properties": {
+    "name":"Tecoluca, San Vicente, El Salvador",
+    "placetype":"county",
+    "woe:id":26808742,
+    "woe:name":"Tecoluca, San Vicente, El Salvador",
+    "woe:place_id":"booOCUibB5S.twWslQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-88.808929,13.271775,-88.738632,13.315462],
+  "geometry": {"alpha":0.0015,"bbox":[-88.808929443359,13.271775245667,-88.738632202148,13.315462112427],"coordinates":[[[[-88.738632,13.29742],[-88.764725,13.273362],[-88.808929,13.271775],[-88.771591,13.315462],[-88.750648,13.311453],[-88.738632,13.29742]]]],"created":1292543972,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/26808742_20101216_6fa6b9a83a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

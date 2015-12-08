@@ -1,0 +1,15 @@
+{
+  "id": 634591,
+  "type": "Feature",
+  "properties": {
+    "name":"Altenstadt, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":634591,
+    "woe:name":"Altenstadt, Hesse, Germany",
+    "woe:place_id":"faby8V.fApjj9V4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.938493,50.283504,8.955745,50.293449],
+  "geometry": {"alpha":0.00015,"bbox":[8.9384927749634,50.283504486084,8.9557447433472,50.293449401855],"coordinates":[[[[8.941369,50.284168],[8.938493,50.287708],[8.943901,50.293449],[8.949007,50.293316],[8.955745,50.286705],[8.943986,50.283504],[8.941369,50.284168]]]],"created":1292548969,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/634591_20101217_3dde135c8b.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

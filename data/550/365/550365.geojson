@@ -1,0 +1,15 @@
+{
+  "id": 550365,
+  "type": "Feature",
+  "properties": {
+    "name":"Wollsdorf, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550365,
+    "woe:name":"Wollsdorf, Styria, Austria",
+    "woe:place_id":"RcS16CCcBJwDoBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.682554,47.13419,15.686963,47.13662],
+  "geometry": {"alpha":0.00015,"bbox":[15.682554244995,47.134189605713,15.68696308136,47.136619567871],"coordinates":[[[[15.686277,47.13662],[15.686631,47.136513],[15.686963,47.136242],[15.683884,47.134811],[15.682554,47.13419],[15.686277,47.13662]]]],"created":1247972647,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2482/shapefiles/550365_20090719_f2eae3717b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

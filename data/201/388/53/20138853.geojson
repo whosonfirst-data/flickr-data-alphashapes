@@ -1,0 +1,15 @@
+{
+  "id": 20138853,
+  "type": "Feature",
+  "properties": {
+    "name":"Raccone, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20138853,
+    "woe:name":"Raccone, Piedmont, Italy",
+    "woe:place_id":"0619VoebAZ3piFvweQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.875652,45.138363,7.889771,45.144623],
+  "geometry": {"alpha":0.00015,"bbox":[7.8756518363953,45.138362884521,7.8897709846497,45.144622802734],"coordinates":[[[[7.887582,45.140278],[7.889771,45.139034],[7.887282,45.138363],[7.875652,45.143608],[7.875652,45.144623],[7.887582,45.140278]]]],"created":1292524720,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/20138853_20101216_a087aa2bc6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

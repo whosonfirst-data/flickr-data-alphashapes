@@ -1,0 +1,15 @@
+{
+  "id": 657970,
+  "type": "Feature",
+  "properties": {
+    "name":"Haus, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":657970,
+    "woe:name":"Haus, Bavaria, Germany",
+    "woe:place_id":"doEJTGCfBJuWNw8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.407869,48.797478,13.418169,48.799797],
+  "geometry": {"alpha":0.00015,"bbox":[13.407869338989,48.797477722168,13.418169021606,48.799797058105],"coordinates":[[[[13.417568,48.799797],[13.418169,48.799232],[13.417568,48.799004],[13.407869,48.797478],[13.410358,48.798946],[13.417568,48.799797]]]],"created":1292450775,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/657970_20101215_0304a105bc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20073426,
+  "type": "Feature",
+  "properties": {
+    "name":"Corraun Achill, Ireland",
+    "placetype":"locality",
+    "woe:id":20073426,
+    "woe:name":"Corraun Achill, Ireland",
+    "woe:place_id":"yFMBOU6bAZwottsaIA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.94812,53.880249,-9.945373,53.885624],
+  "geometry": {"alpha":1e-05,"bbox":[-9.9481201171875,53.880249023438,-9.9453725814819,53.885623931885],"coordinates":[[[[-9.94708,53.880249],[-9.94812,53.881477],[-9.945888,53.885624],[-9.945373,53.883198],[-9.946328,53.880737],[-9.94708,53.880249]]]],"created":1239294751,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3411/shapefiles/20073426_20090409_7123985271.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722808,
+  "type": "Feature",
+  "properties": {
+    "name":"San Marino, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":722808,
+    "woe:name":"San Marino, Emilia Romagna, Italy",
+    "woe:place_id":"1OUtV_meA55QiM4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.407585,44.603943,11.42335,44.607456],
+  "geometry": {"alpha":0.00015,"bbox":[11.407585144043,44.603942871094,11.423350334167,44.607456207275],"coordinates":[[[[11.420288,44.604401],[11.419,44.603943],[11.407585,44.606907],[11.416125,44.607456],[11.42335,44.606899],[11.42327,44.606735],[11.420288,44.604401]]]],"created":1292453664,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/722808_20101215_ab067961af.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

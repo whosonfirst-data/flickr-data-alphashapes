@@ -1,0 +1,15 @@
+{
+  "id": 2408001,
+  "type": "Feature",
+  "properties": {
+    "name":"Frydek, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2408001,
+    "woe:name":"Frydek, Texas, United States",
+    "woe:place_id":"v2Z7W9mbBZwoQ63A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.039688,29.769815,-96.03215,29.77272],
+  "geometry": {"alpha":0.00015,"bbox":[-96.039688110352,29.769815444946,-96.032150268555,29.772720336914],"coordinates":[[[[-96.036469,29.77272],[-96.03215,29.771362],[-96.032784,29.769815],[-96.035439,29.770264],[-96.039688,29.770739],[-96.036469,29.77272]]]],"created":1292525662,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/2408001_20101216_0770d19d34.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 693644,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwarzburg, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":693644,
+    "woe:name":"Schwarzburg, Thuringia, Germany",
+    "woe:place_id":"P3eOWMqfCJ_mvis",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.188759,50.638222,11.197165,50.642876],
+  "geometry": {"alpha":0.00015,"bbox":[11.188758850098,50.638221740723,11.197164535522,50.642875671387],"coordinates":[[[[11.197165,50.64093],[11.197094,50.638802],[11.194252,50.638222],[11.193866,50.638519],[11.188759,50.642876],[11.195025,50.642868],[11.197165,50.64093]]]],"created":1292525231,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/693644_20101216_24728fe628.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8508,
+  "type": "Feature",
+  "properties": {
+    "name":"Hilliard, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8508,
+    "woe:name":"Hilliard, Alberta, Canada",
+    "woe:place_id":"eBTdIouRBJzZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.558899,53.60524,-112.336578,53.692184],
+  "geometry": {"alpha":0.5,"bbox":[-112.55889892578,53.605239868164,-112.33657836914,53.692184448242],"coordinates":[[[[-112.558899,53.614059],[-112.557945,53.628994],[-112.507813,53.650665],[-112.433998,53.678509],[-112.336578,53.692184],[-112.460686,53.60524],[-112.558899,53.614059]]]],"created":1248059788,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3432/shapefiles/8508_20090720_efdb17ef75.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

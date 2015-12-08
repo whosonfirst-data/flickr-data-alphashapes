@@ -1,0 +1,15 @@
+{
+  "id": 20141407,
+  "type": "Feature",
+  "properties": {
+    "name":"San Grisante, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20141407,
+    "woe:name":"San Grisante, Piedmont, Italy",
+    "woe:place_id":"wrs1wVabAZ1h8Jd4Tw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.111557,45.211243,8.11613,45.219032],
+  "geometry": {"alpha":0.00015,"bbox":[8.1115570068359,45.211242675781,8.1161298751831,45.219032287598],"coordinates":[[[[8.114089,45.219032],[8.11613,45.211243],[8.114519,45.213215],[8.111557,45.216782],[8.114089,45.219032]]]],"created":1234661295,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3553/shapefiles/20141407_20090215_efeb265f7a.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

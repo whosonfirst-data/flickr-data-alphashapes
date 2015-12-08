@@ -1,0 +1,15 @@
+{
+  "id": 2465301,
+  "type": "Feature",
+  "properties": {
+    "name":"Olive, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2465301,
+    "woe:name":"Olive, Kentucky, United States",
+    "woe:place_id":"AZNCdaebBZr65nyO",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.227081,36.784668,-88.201157,36.807156],
+  "geometry": {"alpha":0.00015,"bbox":[-88.227081298828,36.78466796875,-88.201156616211,36.807155609131],"coordinates":[[[[-88.202278,36.807156],[-88.201157,36.805573],[-88.214165,36.79044],[-88.227081,36.784668],[-88.217834,36.806602],[-88.202278,36.807156]]]],"created":1292544777,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2465301_20101217_4270f03942.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

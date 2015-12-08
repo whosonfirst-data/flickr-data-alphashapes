@@ -1,0 +1,15 @@
+{
+  "id": 15002658,
+  "type": "Feature",
+  "properties": {
+    "name":"Hooge, Schleswig-Holstein, Germany",
+    "placetype":"locality",
+    "woe:id":15002658,
+    "woe:name":"Hooge, Schleswig-Holstein, Germany",
+    "woe:place_id":"OfUY4pSYBJwFiCIWUA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.543157,54.56609,8.552169,54.569672],
+  "geometry": {"alpha":0.00015,"bbox":[8.5431566238403,54.566089630127,8.5521688461304,54.569671630859],"coordinates":[[[[8.54983,54.566338],[8.548693,54.56609],[8.547813,54.566338],[8.543157,54.567085],[8.552169,54.569672],[8.54983,54.566338]]]],"created":1248282127,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3430/shapefiles/15002658_20090722_b70df06afe.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

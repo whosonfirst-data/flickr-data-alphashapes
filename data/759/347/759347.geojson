@@ -1,0 +1,15 @@
+{
+  "id": 759347,
+  "type": "Feature",
+  "properties": {
+    "name":"El Higueral, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":759347,
+    "woe:name":"El Higueral, Andalusia, Spain",
+    "woe:place_id":"5as69gCeBJU5Hzk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.235492,37.319519,-4.233013,37.335365],
+  "geometry": {"alpha":0.00015,"bbox":[-4.2354922294617,37.319519042969,-4.2330131530762,37.33536529541],"coordinates":[[[[-4.23302,37.319996],[-4.233013,37.319592],[-4.233038,37.319519],[-4.233021,37.319996],[-4.235492,37.335365],[-4.23302,37.319996]]]],"created":1292364603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/759347_20101214_c80559e3ff.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

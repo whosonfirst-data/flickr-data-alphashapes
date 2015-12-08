@@ -1,0 +1,15 @@
+{
+  "id": 635152,
+  "type": "Feature",
+  "properties": {
+    "name":"Angenrod, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":635152,
+    "woe:name":"Angenrod, Hesse, Germany",
+    "woe:place_id":"EZoYgsWfApnLq5M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.205169,50.758179,9.211263,50.773052],
+  "geometry": {"alpha":0.00015,"bbox":[9.2051687240601,50.758178710938,9.2112627029419,50.773052215576],"coordinates":[[[[9.211263,50.761402],[9.207401,50.758179],[9.207401,50.75948],[9.20666,50.763702],[9.205169,50.773052],[9.210233,50.769932],[9.211263,50.761402]]]],"created":1292518242,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/635152_20101216_00b443e557.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

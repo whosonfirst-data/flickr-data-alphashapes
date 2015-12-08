@@ -1,0 +1,15 @@
+{
+  "id": 23394699,
+  "type": "Feature",
+  "properties": {
+    "name":"Fermont, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394699,
+    "woe:name":"Fermont, Quebec, Canada",
+    "woe:place_id":"cxVn.wibAp.mDF2JSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.097626,52.79248,-67.078484,52.802685],
+  "geometry": {"alpha":0.00015,"bbox":[-67.097625732422,52.79248046875,-67.078483581543,52.802684783936],"coordinates":[[[[-67.094452,52.802685],[-67.078484,52.796688],[-67.081078,52.79248],[-67.086464,52.792564],[-67.091492,52.796726],[-67.097626,52.797989],[-67.094452,52.802685]]]],"created":1292525886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/23394699_20101216_49e019dceb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

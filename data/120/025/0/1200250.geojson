@@ -1,0 +1,15 @@
+{
+  "id": 1200250,
+  "type": "Feature",
+  "properties": {
+    "name":"Tha Li, Loei, Thailand",
+    "placetype":"locality",
+    "woe:id":1200250,
+    "woe:name":"Tha Li, Loei, Thailand",
+    "woe:place_id":"oZFwW1mYA5yP8PNr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [101.325294,17.500383,101.348282,17.51457],
+  "geometry": {"alpha":0.00015,"bbox":[101.32529449463,17.500383377075,101.34828186035,17.514570236206],"coordinates":[[[[101.348282,17.508619],[101.348221,17.50857],[101.337204,17.500383],[101.325294,17.507425],[101.344887,17.51457],[101.348282,17.508619]]]],"created":1292537796,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/1200250_20101216_b204ced24e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

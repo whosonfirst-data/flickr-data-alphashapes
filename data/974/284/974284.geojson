@@ -1,0 +1,15 @@
+{
+  "id": 974284,
+  "type": "Feature",
+  "properties": {
+    "name":"Micheroux, Liege, Belgium",
+    "placetype":"locality",
+    "woe:id":974284,
+    "woe:name":"Micheroux, Liege, Belgium",
+    "woe:place_id":"6ZHjYuuQBpiFUn4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.727803,50.627197,5.735257,50.632431],
+  "geometry": {"alpha":0.00015,"bbox":[5.7278032302856,50.627197265625,5.7352571487427,50.632431030273],"coordinates":[[[[5.733525,50.632278],[5.734609,50.632431],[5.735257,50.631397],[5.734157,50.630924],[5.727803,50.627197],[5.72983,50.631378],[5.733525,50.632278]]]],"created":1292444261,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/974284_20101215_72e463ce62.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

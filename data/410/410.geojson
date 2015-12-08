@@ -1,0 +1,15 @@
+{
+  "id": 410,
+  "type": "Feature",
+  "properties": {
+    "name":"Dominion, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":410,
+    "woe:name":"Dominion, Nova Scotia, Canada",
+    "woe:place_id":"WO3DqkqdAJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.042343,46.213696,-60.007111,46.234833],
+  "geometry": {"alpha":0.00015,"bbox":[-60.042343139648,46.213695526123,-60.007110595703,46.234832763672],"coordinates":[[[[-60.028954,46.213696],[-60.030926,46.214882],[-60.035305,46.216484],[-60.039082,46.219395],[-60.042343,46.234833],[-60.038567,46.234001],[-60.029598,46.215626],[-60.02243,46.216129],[-60.007111,46.219513],[-60.021294,46.21413],[-60.028954,46.213696]]]],"created":1292537096,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/410_20101216_a33447aa2a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

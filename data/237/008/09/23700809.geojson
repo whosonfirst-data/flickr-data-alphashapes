@@ -1,0 +1,15 @@
+{
+  "id": 23700809,
+  "type": "Feature",
+  "properties": {
+    "name":"Garadice, Leitrim, Ireland",
+    "placetype":"locality",
+    "woe:id":23700809,
+    "woe:name":"Garadice, Leitrim, Ireland",
+    "woe:place_id":"pDJspNybApv5NO9L8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.72517,54.051083,-7.72362,54.051586],
+  "geometry": {"alpha":0.00015,"bbox":[-7.725170135498,54.051082611084,-7.7236199378967,54.051586151123],"coordinates":[[[[-7.72362,54.051586],[-7.723942,54.051426],[-7.724423,54.0513],[-7.72517,54.051083],[-7.724614,54.051258],[-7.72362,54.051586]]]],"created":1292441943,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/23700809_20101215_801548e557.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

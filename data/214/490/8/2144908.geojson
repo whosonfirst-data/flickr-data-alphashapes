@@ -1,0 +1,15 @@
+{
+  "id": 2144908,
+  "type": "Feature",
+  "properties": {
+    "name":"Lhaze, Tibet, China",
+    "placetype":"locality",
+    "woe:id":2144908,
+    "woe:name":"Lhaze, Tibet, China",
+    "woe:place_id":"T0oZMSqbAJgrJJR_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [87.633644,29.082726,87.659714,29.089233],
+  "geometry": {"alpha":0.00015,"bbox":[87.633644104004,29.082725524902,87.659713745117,29.089233398438],"coordinates":[[[[87.659225,29.082726],[87.63588,29.084375],[87.633644,29.088726],[87.656143,29.089233],[87.656258,29.089174],[87.659714,29.085917],[87.659225,29.082726]]]],"created":1292529090,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2144908_20101216_214be90465.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

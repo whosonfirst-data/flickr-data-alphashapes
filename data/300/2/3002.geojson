@@ -1,0 +1,15 @@
+{
+  "id": 3002,
+  "type": "Feature",
+  "properties": {
+    "name":"Plum Coulee, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3002,
+    "woe:name":"Plum Coulee, Manitoba, Canada",
+    "woe:place_id":"kIPPXUiaAZwh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.778503,49.189442,-97.753807,49.193623],
+  "geometry": {"alpha":0.00015,"bbox":[-97.778503417969,49.189441680908,-97.753807067871,49.193622589111],"coordinates":[[[[-97.761002,49.190231],[-97.767197,49.189442],[-97.778503,49.192665],[-97.761108,49.193623],[-97.753807,49.189976],[-97.758492,49.190147],[-97.759483,49.190105],[-97.761002,49.190231]]]],"created":1292520521,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/3002_20101216_94b889f2db.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 876766,
+  "type": "Feature",
+  "properties": {
+    "name":"Ogradina, Mehedinti, Romania",
+    "placetype":"locality",
+    "woe:id":876766,
+    "woe:name":"Ogradina, Mehedinti, Romania",
+    "woe:place_id":"RHvaYp6RBpowiWE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [22.324219,44.675121,22.349966,44.690624],
+  "geometry": {"alpha":0.00015,"bbox":[22.32421875,44.675121307373,22.349966049194,44.690624237061],"coordinates":[[[[22.349966,44.682812],[22.347317,44.682846],[22.334518,44.675121],[22.324219,44.681103],[22.325592,44.690624],[22.34396,44.685619],[22.349966,44.682812]]]],"created":1292547984,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/876766_20101217_3017049c9a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

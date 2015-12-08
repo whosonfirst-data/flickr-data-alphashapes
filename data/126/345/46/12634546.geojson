@@ -1,0 +1,15 @@
+{
+  "id": 12634546,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Spalt, Germany",
+    "placetype":"locality",
+    "woe:id":12634546,
+    "woe:name":"Gemeinde Spalt, Germany",
+    "woe:place_id":"d_53kn6YA5qmmVizLA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.87914,49.166512,10.886907,49.174389],
+  "geometry": {"alpha":1.25e-05,"bbox":[10.879139900208,49.166511535645,10.88690662384,49.174388885498],"coordinates":[[[[10.881814,49.168114],[10.880341,49.166512],[10.87914,49.168842],[10.884339,49.172249],[10.886907,49.174389],[10.886299,49.171387],[10.881814,49.168114]]]],"created":1292536770,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/12634546_20101216_2fee1a723d.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

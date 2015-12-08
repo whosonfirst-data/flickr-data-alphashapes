@@ -1,0 +1,15 @@
+{
+  "id": 2493481,
+  "type": "Feature",
+  "properties": {
+    "name":"Sigourney, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2493481,
+    "woe:name":"Sigourney, Iowa, United States",
+    "woe:place_id":"gdQ2HJ2bBZX2DDgV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.217178,41.328987,-92.203018,41.348625],
+  "geometry": {"alpha":0.00015,"bbox":[-92.217178344727,41.328987121582,-92.203018188477,41.348625183105],"coordinates":[[[[-92.20517,41.336681],[-92.203018,41.333485],[-92.212097,41.328987],[-92.217178,41.333511],[-92.206238,41.348625],[-92.20517,41.336681]]]],"created":1292523388,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2493481_20101216_e814b9d59c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

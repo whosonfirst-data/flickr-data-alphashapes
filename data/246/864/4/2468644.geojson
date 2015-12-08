@@ -1,0 +1,15 @@
+{
+  "id": 2468644,
+  "type": "Feature",
+  "properties": {
+    "name":"Parkridge, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2468644,
+    "woe:name":"Parkridge, Maryland, United States",
+    "woe:place_id":"7qZskgGbBZoPA.MN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.253326,39.143841,-77.24762,39.146255],
+  "geometry": {"alpha":0.00015,"bbox":[-77.253326416016,39.143840789795,-77.247619628906,39.146255493164],"coordinates":[[[[-77.248306,39.144772],[-77.24762,39.143906],[-77.24897,39.143841],[-77.253326,39.146088],[-77.252899,39.146255],[-77.248306,39.144772]]]],"created":1247991970,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2570/shapefiles/2468644_20090719_d0168ac940.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

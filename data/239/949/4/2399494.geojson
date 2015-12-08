@@ -1,0 +1,15 @@
+{
+  "id": 2399494,
+  "type": "Feature",
+  "properties": {
+    "name":"Emory, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2399494,
+    "woe:name":"Emory, Texas, United States",
+    "woe:place_id":"v9o_4VmbApVCq12A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.770798,32.870892,-95.758209,32.890255],
+  "geometry": {"alpha":0.00015,"bbox":[-95.770797729492,32.870891571045,-95.758209228516,32.890254974365],"coordinates":[[[[-95.764786,32.874649],[-95.764923,32.874477],[-95.770798,32.870892],[-95.768715,32.87664],[-95.758209,32.890255],[-95.764786,32.874649]]]],"created":1248199342,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2672/shapefiles/2399494_20090721_de684044e4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

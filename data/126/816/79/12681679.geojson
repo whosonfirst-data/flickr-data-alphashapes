@@ -1,0 +1,15 @@
+{
+  "id": 12681679,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lucido, Italy",
+    "placetype":"locality",
+    "woe:id":12681679,
+    "woe:name":"San Lucido, Italy",
+    "woe:place_id":"WvrFnxuYA5q8mhJ3Gw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.045446,39.311115,16.045746,39.312222],
+  "geometry": {"alpha":1e-05,"bbox":[16.045446395874,39.311115264893,16.045745849609,39.3122215271],"coordinates":[[[[16.045446,39.312222],[16.045704,39.311756],[16.045746,39.311115],[16.045618,39.311424],[16.045446,39.312222]]]],"created":1292531781,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12681679_20101216_25bc8f083a.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

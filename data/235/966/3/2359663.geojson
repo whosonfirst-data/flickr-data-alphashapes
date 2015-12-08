@@ -1,0 +1,15 @@
+{
+  "id": 2359663,
+  "type": "Feature",
+  "properties": {
+    "name":"Bartlett, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2359663,
+    "woe:name":"Bartlett, Iowa, United States",
+    "woe:place_id":"r2mWBZWbAplv_kKv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.811157,40.872078,-95.790749,40.902691],
+  "geometry": {"alpha":0.00015,"bbox":[-95.811157226562,40.872077941895,-95.790748596191,40.902690887451],"coordinates":[[[[-95.799629,40.902691],[-95.790749,40.886776],[-95.802513,40.872078],[-95.800705,40.88446],[-95.811157,40.901665],[-95.799629,40.902691]]]],"created":1292440515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2359663_20101215_51829ddb58.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

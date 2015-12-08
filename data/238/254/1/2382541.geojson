@@ -1,0 +1,15 @@
+{
+  "id": 2382541,
+  "type": "Feature",
+  "properties": {
+    "name":"Coffee Creek, California, United States",
+    "placetype":"locality",
+    "woe:id":2382541,
+    "woe:name":"Coffee Creek, California, United States",
+    "woe:place_id":"4zxPwA2bApRafwdV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.712395,41.075768,-122.695396,41.090607],
+  "geometry": {"alpha":0.00015,"bbox":[-122.71239471436,41.07576751709,-122.69539642334,41.090606689453],"coordinates":[[[[-122.695396,41.077652],[-122.697006,41.075768],[-122.712395,41.085255],[-122.711708,41.090607],[-122.706123,41.085625],[-122.695396,41.077652]]]],"created":1292539747,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2382541_20101216_d2ac21f86d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

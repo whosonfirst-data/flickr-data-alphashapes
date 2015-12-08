@@ -1,0 +1,15 @@
+{
+  "id": 12641175,
+  "type": "Feature",
+  "properties": {
+    "name":"Charolles, France",
+    "placetype":"locality",
+    "woe:id":12641175,
+    "woe:name":"Charolles, France",
+    "woe:place_id":"x779zBuYA5rY8yw1vQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.273853,46.43301,4.279174,46.435829],
+  "geometry": {"alpha":1e-05,"bbox":[4.2738528251648,46.433010101318,4.2791738510132,46.435829162598],"coordinates":[[[[4.276728,46.434479],[4.273853,46.434307],[4.274303,46.435459],[4.276943,46.435829],[4.277265,46.43515],[4.279174,46.43301],[4.276728,46.434479]]]],"created":1292537925,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12641175_20101216_c7032591d6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

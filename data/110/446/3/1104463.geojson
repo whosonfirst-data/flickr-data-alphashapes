@@ -1,0 +1,15 @@
+{
+  "id": 1104463,
+  "type": "Feature",
+  "properties": {
+    "name":"Nanango, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1104463,
+    "woe:name":"Nanango, Queensland, Australia",
+    "woe:place_id":"vBbCwQOYAJzwke6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.969406,-26.674631,152.002777,-26.670317],
+  "geometry": {"alpha":0.003662109375,"bbox":[151.96940612793,-26.674631118774,152.00277709961,-26.670316696167],"coordinates":[[[[151.969406,-26.674484],[151.969406,-26.674482],[151.979935,-26.671787],[152.002716,-26.670317],[152.002777,-26.672781],[151.969406,-26.674631],[151.969406,-26.674484]]]],"created":1292544741,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/1104463_20101217_c061a02765.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

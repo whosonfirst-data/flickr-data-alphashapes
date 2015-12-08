@@ -1,0 +1,15 @@
+{
+  "id": 461267,
+  "type": "Feature",
+  "properties": {
+    "name":"Sinimbu, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":461267,
+    "woe:name":"Sinimbu, Rio Grande do Sul, Brazil",
+    "woe:place_id":"dq60sI6dB50EqoE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-52.520485,-29.5418,-52.503662,-29.51133],
+  "geometry": {"alpha":0.00015,"bbox":[-52.520484924316,-29.541799545288,-52.503662109375,-29.511329650879],"coordinates":[[[[-52.505379,-29.523876],[-52.503662,-29.5418],[-52.520485,-29.535303],[-52.513275,-29.530451],[-52.517395,-29.51133],[-52.505379,-29.523876]]]],"created":1292522807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/461267_20101216_5d52ac8d6c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

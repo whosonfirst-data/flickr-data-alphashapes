@@ -1,0 +1,15 @@
+{
+  "id": 874234,
+  "type": "Feature",
+  "properties": {
+    "name":"Izvor, Suceava, Romania",
+    "placetype":"locality",
+    "woe:id":874234,
+    "woe:name":"Izvor, Suceava, Romania",
+    "woe:place_id":"IbFGItSRBphSdy8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [25.175171,47.75,25.185471,47.763329],
+  "geometry": {"alpha":0.00015,"bbox":[25.175170898438,47.75,25.185470581055,47.763328552246],"coordinates":[[[[25.183237,47.755253],[25.1833,47.75],[25.179634,47.757504],[25.175171,47.763329],[25.185471,47.761078],[25.183237,47.755253]]]],"created":1292451247,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/874234_20101215_305a0bcf2d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

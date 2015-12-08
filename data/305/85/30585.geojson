@@ -1,0 +1,15 @@
+{
+  "id": 30585,
+  "type": "Feature",
+  "properties": {
+    "name":"North Wheatley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30585,
+    "woe:name":"North Wheatley, England, United Kingdom",
+    "woe:place_id":"J5vsgQyaAZn0RA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.859937,53.366688,-0.858092,53.373215],
+  "geometry": {"alpha":0.00015,"bbox":[-0.85993701219559,53.366687774658,-0.85809201002121,53.37321472168],"coordinates":[[[[-0.859937,53.367558],[-0.859637,53.368427],[-0.859036,53.373215],[-0.858092,53.366688],[-0.859079,53.366993],[-0.859937,53.367558]]]],"created":1292438104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/30585_20101215_c6fd4e64aa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

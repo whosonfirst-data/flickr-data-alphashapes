@@ -1,0 +1,15 @@
+{
+  "id": 700497,
+  "type": "Feature",
+  "properties": {
+    "name":"Ulfen, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":700497,
+    "woe:name":"Ulfen, Hesse, Germany",
+    "woe:place_id":"8SX3_J.eAZzoto4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.01451,51.041164,10.019016,51.044361],
+  "geometry": {"alpha":0.00015,"bbox":[10.014510154724,51.041164398193,10.019016265869,51.044361114502],"coordinates":[[[[10.017471,51.044361],[10.018672,51.043011],[10.019016,51.041447],[10.01451,51.041164],[10.015926,51.043095],[10.016784,51.044361],[10.017471,51.044361]]]],"created":1292447367,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/700497_20101215_f3d2419997.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

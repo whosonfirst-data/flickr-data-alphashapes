@@ -1,0 +1,15 @@
+{
+  "id": 12682116,
+  "type": "Feature",
+  "properties": {
+    "name":"Sulzano, Italy",
+    "placetype":"locality",
+    "woe:id":12682116,
+    "woe:name":"Sulzano, Italy",
+    "woe:place_id":"erBJAO2YA5rb0VXzEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.08665,45.675484,10.092315,45.680309],
+  "geometry": {"alpha":1e-05,"bbox":[10.086649894714,45.675483703613,10.092314720154,45.680309295654],"coordinates":[[[[10.08665,45.678677],[10.087015,45.678902],[10.090556,45.680309],[10.092315,45.675484],[10.087745,45.678478],[10.08665,45.678677]]]],"created":1292543254,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12682116_20101216_947bd79382.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

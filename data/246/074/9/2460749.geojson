@@ -1,0 +1,15 @@
+{
+  "id": 2460749,
+  "type": "Feature",
+  "properties": {
+    "name":"North Caldwell, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2460749,
+    "woe:name":"North Caldwell, New Jersey, United States",
+    "woe:place_id":"2edqlKObBZrPpyyg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.275795,40.857319,-74.245651,40.875587],
+  "geometry": {"alpha":0.00015,"bbox":[-74.27579498291,40.857318878174,-74.245651245117,40.875587463379],"coordinates":[[[[-74.258476,40.865627],[-74.245651,40.868271],[-74.258392,40.857319],[-74.270493,40.862251],[-74.275795,40.875587],[-74.258476,40.865627]]]],"created":1292456739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2460749_20101215_44865c1742.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

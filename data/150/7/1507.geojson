@@ -1,0 +1,15 @@
+{
+  "id": 1507,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Guillaume, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1507,
+    "woe:name":"St.-Guillaume, Quebec, Canada",
+    "woe:place_id":"BUpGGreYBJx0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.768021,45.879868,-72.764336,45.885303],
+  "geometry": {"alpha":0.00015,"bbox":[-72.768020629883,45.879867553711,-72.764335632324,45.885303497314],"coordinates":[[[[-72.764694,45.883427],[-72.764336,45.879868],[-72.768021,45.881607],[-72.76696,45.884228],[-72.764725,45.885303],[-72.764694,45.883427]]]],"created":1292446820,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/1507_20101215_92d07af6ae.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

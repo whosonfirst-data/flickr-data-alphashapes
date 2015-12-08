@@ -1,0 +1,15 @@
+{
+  "id": 12600323,
+  "type": "Feature",
+  "properties": {
+    "name":"Almoloya del Rio, Mexico, Mexico",
+    "placetype":"county",
+    "woe:id":12600323,
+    "woe:name":"Almoloya del Rio, Mexico, Mexico",
+    "woe:place_id":"ilubFJaYA5qhWPs4aA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-99.487892,19.160412,-99.456825,19.189594],
+  "geometry": {"alpha":0.0015,"bbox":[-99.487892150879,19.160411834717,-99.456825256348,19.189594268799],"coordinates":[[[[-99.485146,19.160412],[-99.487892,19.162031],[-99.481888,19.164951],[-99.456825,19.189594],[-99.459915,19.163979],[-99.485146,19.160412]]]],"created":1292507587,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12600323_20101216_7758b49daa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

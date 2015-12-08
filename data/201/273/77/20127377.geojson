@@ -1,0 +1,15 @@
+{
+  "id": 20127377,
+  "type": "Feature",
+  "properties": {
+    "name":"Iano, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20127377,
+    "woe:name":"Iano, Tuscany, Italy",
+    "woe:place_id":"gWX82HGbAZ2SMfhiaw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.875091,43.507664,10.88803,43.513645],
+  "geometry": {"alpha":0.00015,"bbox":[10.87509059906,43.507663726807,10.888030052185,43.513645172119],"coordinates":[[[[10.875434,43.509655],[10.875091,43.512642],[10.87551,43.51292],[10.875778,43.513092],[10.88803,43.513645],[10.881786,43.507664],[10.875434,43.509655]]]],"created":1292525791,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/20127377_20101216_4bedca8142.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

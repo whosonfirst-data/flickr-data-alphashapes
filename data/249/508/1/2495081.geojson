@@ -1,0 +1,15 @@
+{
+  "id": 2495081,
+  "type": "Feature",
+  "properties": {
+    "name":"Smithtown, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2495081,
+    "woe:name":"Smithtown, Tennessee, United States",
+    "woe:place_id":"Pj7fnHSbBZVbNVdp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.740051,35.068832,-85.727692,35.081944],
+  "geometry": {"alpha":0.00015,"bbox":[-85.740051269531,35.068832397461,-85.727691650391,35.081943511963],"coordinates":[[[[-85.732498,35.069443],[-85.734062,35.068832],[-85.740051,35.076649],[-85.736664,35.081944],[-85.727692,35.073841],[-85.732498,35.069443]]]],"created":1292543151,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2495081_20101216_3e326f7a0a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

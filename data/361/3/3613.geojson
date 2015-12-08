@@ -1,0 +1,15 @@
+{
+  "id": 3613,
+  "type": "Feature",
+  "properties": {
+    "name":"Maria, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3613,
+    "woe:name":"Maria, Quebec, Canada",
+    "woe:place_id":"jH9_om.aB50h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.00367,48.161167,-65.979767,48.174328],
+  "geometry": {"alpha":0.0001875,"bbox":[-66.00366973877,48.161167144775,-65.979766845703,48.174327850342],"coordinates":[[[[-65.983887,48.17347],[-65.979767,48.174328],[-65.979767,48.167915],[-65.993111,48.169132],[-66.00367,48.161167],[-65.993668,48.169319],[-65.989532,48.170273],[-65.983887,48.17347]]]],"created":1292538835,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/3613_20101216_dbc0349b6f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

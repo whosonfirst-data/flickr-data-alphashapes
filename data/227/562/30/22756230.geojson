@@ -1,0 +1,15 @@
+{
+  "id": 22756230,
+  "type": "Feature",
+  "properties": {
+    "name":"Forest-St.-Julien, France",
+    "placetype":"locality",
+    "woe:id":22756230,
+    "woe:name":"Forest-St.-Julien, France",
+    "woe:place_id":"DOMA0VubA5syJBcxUw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.155594,44.61998,6.16024,44.622974],
+  "geometry": {"alpha":1e-05,"bbox":[6.1555938720703,44.619979858398,6.1602401733398,44.622974395752],"coordinates":[[[[6.155619,44.61998],[6.155594,44.620014],[6.155747,44.620113],[6.16024,44.622974],[6.155775,44.620007],[6.155619,44.61998]]]],"created":1292524709,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/22756230_20101216_8f66a98e01.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

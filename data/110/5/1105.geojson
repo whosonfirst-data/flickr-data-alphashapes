@@ -1,0 +1,15 @@
+{
+  "id": 1105,
+  "type": "Feature",
+  "properties": {
+    "name":"North West Arm, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1105,
+    "woe:name":"North West Arm, Nova Scotia, Canada",
+    "woe:place_id":"56TVh_.YAJyH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.25568,46.17445,-60.244904,46.187199],
+  "geometry": {"alpha":0.00015,"bbox":[-60.255680084229,46.174449920654,-60.244903564453,46.187198638916],"coordinates":[[[[-60.250099,46.180191],[-60.25568,46.17445],[-60.252773,46.179806],[-60.244904,46.187199],[-60.250099,46.180191]]]],"created":1292443109,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/1105_20101215_45e4efd576.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12684089,
+  "type": "Feature",
+  "properties": {
+    "name":"Niederweningen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684089,
+    "woe:name":"Niederweningen, Switzerland",
+    "woe:place_id":"p4.3EbSYA5rEoqk6.Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.375701,47.501839,8.380551,47.510563],
+  "geometry": {"alpha":1e-05,"bbox":[8.3757009506226,47.501838684082,8.3805513381958,47.510562896729],"coordinates":[[[[8.378866,47.510262],[8.379027,47.510201],[8.380551,47.506359],[8.378512,47.501839],[8.375701,47.505779],[8.376603,47.510563],[8.378866,47.510262]]]],"created":1292532724,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12684089_20101216_ff119eb867.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

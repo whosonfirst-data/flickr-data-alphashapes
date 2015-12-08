@@ -1,0 +1,15 @@
+{
+  "id": 12671995,
+  "type": "Feature",
+  "properties": {
+    "name":"Valezan, France",
+    "placetype":"locality",
+    "woe:id":12671995,
+    "woe:name":"Valezan, France",
+    "woe:place_id":"2D3lzDiYA5rnazm8Jw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.679086,45.588097,6.681404,45.590572],
+  "geometry": {"alpha":1e-05,"bbox":[6.6790862083435,45.588096618652,6.6814041137695,45.590572357178],"coordinates":[[[[6.679987,45.590107],[6.681404,45.589176],[6.681318,45.588097],[6.679086,45.590466],[6.679644,45.590572],[6.679987,45.590107]]]],"created":1292532751,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/12671995_20101216_6be249d5c7.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

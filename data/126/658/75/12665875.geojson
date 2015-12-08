@@ -1,0 +1,15 @@
+{
+  "id": 12665875,
+  "type": "Feature",
+  "properties": {
+    "name":"Louvigny, France",
+    "placetype":"locality",
+    "woe:id":12665875,
+    "woe:name":"Louvigny, France",
+    "woe:place_id":"1wOgjmeYA5r7_zZsow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.178371,48.963146,6.184272,48.969116],
+  "geometry": {"alpha":1e-05,"bbox":[6.1783709526062,48.963146209717,6.184271812439,48.969116210938],"coordinates":[[[[6.181504,48.967457],[6.182609,48.965511],[6.184272,48.963146],[6.178607,48.963223],[6.178371,48.969116],[6.181504,48.967457]]]],"created":1292550205,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/12665875_20101217_d4b1545e47.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

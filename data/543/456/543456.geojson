@@ -1,0 +1,15 @@
+{
+  "id": 543456,
+  "type": "Feature",
+  "properties": {
+    "name":"Rappottenstein, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543456,
+    "woe:name":"Rappottenstein, Lower Austria, Austria",
+    "woe:place_id":"XmtU6DOcBZ.vMzM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.076503,48.512184,15.097017,48.533886],
+  "geometry": {"alpha":0.00015,"bbox":[15.076502799988,48.512184143066,15.097017288208,48.533885955811],"coordinates":[[[[15.086975,48.514679],[15.076503,48.522514],[15.085515,48.525883],[15.097017,48.533886],[15.08809,48.51561],[15.088348,48.512184],[15.086975,48.514679]]]],"created":1292544545,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/543456_20101217_f16814cbd4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

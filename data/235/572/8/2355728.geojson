@@ -1,0 +1,15 @@
+{
+  "id": 2355728,
+  "type": "Feature",
+  "properties": {
+    "name":"Arendtsville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2355728,
+    "woe:name":"Arendtsville, Pennsylvania, United States",
+    "woe:place_id":"e56N5Y6bApn3U9G8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.309845,39.919495,-77.287376,39.927212],
+  "geometry": {"alpha":0.00015,"bbox":[-77.309844970703,39.919494628906,-77.287376403809,39.927211761475],"coordinates":[[[[-77.298859,39.921059],[-77.309845,39.919495],[-77.305466,39.926392],[-77.287376,39.927212],[-77.298859,39.921059]]]],"created":1292541296,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2355728_20101216_0bf011fe39.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

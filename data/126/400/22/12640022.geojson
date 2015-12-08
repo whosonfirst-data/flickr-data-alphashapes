@@ -1,0 +1,15 @@
+{
+  "id": 12640022,
+  "type": "Feature",
+  "properties": {
+    "name":"Chaumont, France",
+    "placetype":"locality",
+    "woe:id":12640022,
+    "woe:name":"Chaumont, France",
+    "woe:place_id":"XBjOJSOYA5q9cHyvCQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.130454,48.105911,5.141129,48.114307],
+  "geometry": {"alpha":1e-05,"bbox":[5.1304540634155,48.105911254883,5.1411290168762,48.114307403564],"coordinates":[[[[5.13688,48.108635],[5.132932,48.109322],[5.130454,48.11182],[5.134134,48.112701],[5.137825,48.111671],[5.141,48.114307],[5.141129,48.110184],[5.138254,48.105911],[5.13688,48.108635]]]],"created":1292528335,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12640022_20101216_ed50da865a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

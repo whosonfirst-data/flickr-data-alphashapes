@@ -1,0 +1,15 @@
+{
+  "id": 28997172,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Montets, Switzerland",
+    "placetype":"locality",
+    "woe:id":28997172,
+    "woe:name":"Les Montets, Switzerland",
+    "woe:place_id":"VlB4RsibCZVBsxQMww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.853065,46.798912,6.857571,46.804291],
+  "geometry": {"alpha":1e-05,"bbox":[6.8530650138855,46.79891204834,6.8575711250305,46.804290771484],"coordinates":[[[[6.855983,46.79903],[6.855554,46.798912],[6.853065,46.79903],[6.854867,46.799236],[6.857571,46.804291],[6.857442,46.799648],[6.855983,46.79903]]]],"created":1292463847,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/28997172_20101216_9b195b27db.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

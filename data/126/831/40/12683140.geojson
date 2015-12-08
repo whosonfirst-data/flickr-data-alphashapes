@@ -1,0 +1,15 @@
+{
+  "id": 12683140,
+  "type": "Feature",
+  "properties": {
+    "name":"Castasegna, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683140,
+    "woe:name":"Castasegna, Switzerland",
+    "woe:place_id":"OZYNe0GYA5paZV72xg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.521799,46.334011,9.525833,46.339344],
+  "geometry": {"alpha":1e-05,"bbox":[9.5217990875244,46.334011077881,9.5258331298828,46.339344024658],"coordinates":[[[[9.52403,46.334187],[9.521799,46.334011],[9.522788,46.337269],[9.525833,46.339344],[9.52403,46.334187]]]],"created":1292501763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12683140_20101216_ab4e0f538b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

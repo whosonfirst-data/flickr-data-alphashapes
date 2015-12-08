@@ -1,0 +1,15 @@
+{
+  "id": 26809221,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablo, Costa Rica",
+    "placetype":"locality",
+    "woe:id":26809221,
+    "woe:name":"San Pablo, Costa Rica",
+    "woe:place_id":"uyNil5ybB5QOCkFqMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.118332,10.036388,-84.115837,10.037222],
+  "geometry": {"alpha":1e-05,"bbox":[-84.11833190918,10.036388397217,-84.115837097168,10.037221908569],"coordinates":[[[[-84.116112,10.037222],[-84.115837,10.037222],[-84.118057,10.036388],[-84.118332,10.036666],[-84.116112,10.037222]]]],"created":1292543404,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/26809221_20101216_27d30d1623.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

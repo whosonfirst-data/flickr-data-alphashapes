@@ -1,0 +1,15 @@
+{
+  "id": 623673,
+  "type": "Feature",
+  "properties": {
+    "name":"St Cyr, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":623673,
+    "woe:name":"St Cyr, Rhone-Alpes, France",
+    "woe:place_id":"cvyAgWCfA582PXM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.853553,45.516693,4.869689,45.525394],
+  "geometry": {"alpha":0.00015,"bbox":[4.8535528182983,45.516693115234,4.8696889877319,45.525394439697],"coordinates":[[[[4.869689,45.522224],[4.869689,45.522102],[4.853553,45.516693],[4.869019,45.525394],[4.869689,45.522224]]]],"created":1292510884,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/623673_20101216_714dd476bf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

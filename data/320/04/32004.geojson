@@ -1,0 +1,15 @@
+{
+  "id": 32004,
+  "type": "Feature",
+  "properties": {
+    "name":"Piddington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":32004,
+    "woe:name":"Piddington, England, United Kingdom",
+    "woe:place_id":"KfKhEjeaA5xdwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.838565,51.637997,-0.825862,51.650352],
+  "geometry": {"alpha":0.00015,"bbox":[-0.83856499195099,51.637996673584,-0.82586199045181,51.650352478027],"coordinates":[[[[-0.830841,51.639221],[-0.833383,51.638973],[-0.838565,51.637997],[-0.8383,51.641602],[-0.825862,51.650352],[-0.830841,51.639221]]]],"created":1292458215,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/32004_20101216_13965d986b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

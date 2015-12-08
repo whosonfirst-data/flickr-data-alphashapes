@@ -1,0 +1,15 @@
+{
+  "id": 12671950,
+  "type": "Feature",
+  "properties": {
+    "name":"Vacheresse, France",
+    "placetype":"locality",
+    "woe:id":12671950,
+    "woe:name":"Vacheresse, France",
+    "woe:place_id":"4Y.S9pmYA5pilbfEsQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.68003,46.323166,6.6845,46.328335],
+  "geometry": {"alpha":1e-05,"bbox":[6.6800298690796,46.323165893555,6.6845002174377,46.32833480835],"coordinates":[[[[6.682666,46.328167],[6.682666,46.328335],[6.682833,46.328167],[6.682833,46.327999],[6.6845,46.323166],[6.68003,46.324898],[6.682666,46.328167]]]],"created":1292457884,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12671950_20101216_39fd1506e4.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

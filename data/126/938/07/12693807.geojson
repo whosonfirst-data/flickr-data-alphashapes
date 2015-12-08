@@ -1,0 +1,15 @@
+{
+  "id": 12693807,
+  "type": "Feature",
+  "properties": {
+    "name":"Peralada, Spain",
+    "placetype":"locality",
+    "woe:id":12693807,
+    "woe:name":"Peralada, Spain",
+    "woe:place_id":"3OxEtK6YA5oaRxWC9Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.010082,42.30788,3.012013,42.311466],
+  "geometry": {"alpha":1e-05,"bbox":[3.0100820064545,42.307880401611,3.0120129585266,42.311466217041],"coordinates":[[[[3.010575,42.307941],[3.010532,42.307983],[3.010082,42.308926],[3.011112,42.311466],[3.012013,42.30788],[3.010575,42.307941]]]],"created":1292530117,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12693807_20101216_0a1277b2f2.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

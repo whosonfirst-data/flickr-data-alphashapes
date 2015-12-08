@@ -1,0 +1,15 @@
+{
+  "id": 9464,
+  "type": "Feature",
+  "properties": {
+    "name":"Atnarko, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9464,
+    "woe:name":"Atnarko, British Columbia, Canada",
+    "woe:place_id":"xn2SquqQBZrt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-125.879028,52.418442,-125.870842,52.439438],
+  "geometry": {"alpha":0.00015,"bbox":[-125.87902832031,52.418441772461,-125.87084197998,52.439437866211],"coordinates":[[[[-125.879028,52.418442],[-125.873962,52.428699],[-125.870842,52.439438],[-125.874306,52.435501],[-125.873962,52.428699],[-125.872879,52.423359],[-125.879028,52.418442]]]],"created":1292453105,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/9464_20101215_5342454c16.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

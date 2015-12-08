@@ -1,0 +1,15 @@
+{
+  "id": 20108328,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20108328,
+    "woe:name":"San Martino, Piedmont, Italy",
+    "woe:place_id":"D98nKE.bAZ0cDbIhGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.814125,45.425083,8.81833,45.435562],
+  "geometry": {"alpha":0.00015,"bbox":[8.8141250610352,45.4250831604,8.8183298110962,45.435562133789],"coordinates":[[[[8.818202,45.429962],[8.81833,45.429661],[8.814468,45.425083],[8.814897,45.430019],[8.814125,45.435562],[8.818202,45.429962]]]],"created":1292457255,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/20108328_20101215_5661f85e89.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

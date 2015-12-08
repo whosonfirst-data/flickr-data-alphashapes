@@ -1,0 +1,15 @@
+{
+  "id": 12683076,
+  "type": "Feature",
+  "properties": {
+    "name":"Buchs, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683076,
+    "woe:name":"Buchs, Switzerland",
+    "woe:place_id":"LNM07ZCYA5rGFgpLKw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.087654,47.384926,8.091602,47.3955],
+  "geometry": {"alpha":1e-05,"bbox":[8.0876541137695,47.384925842285,8.0916023254395,47.395500183105],"coordinates":[[[[8.091602,47.390507],[8.089783,47.384926],[8.087654,47.38847],[8.089714,47.392334],[8.0904,47.3955],[8.091602,47.390507]]]],"created":1292521377,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12683076_20101216_9f6558f1ed.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

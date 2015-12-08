@@ -1,0 +1,15 @@
+{
+  "id": 12677594,
+  "type": "Feature",
+  "properties": {
+    "name":"Cappadocia, Italy",
+    "placetype":"locality",
+    "woe:id":12677594,
+    "woe:name":"Cappadocia, Italy",
+    "woe:place_id":"YoOgan.YA5qcYI8Lvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.266491,42.026581,13.268866,42.029812],
+  "geometry": {"alpha":1e-05,"bbox":[13.266490936279,42.026580810547,13.268865585327,42.029811859131],"coordinates":[[[[13.2685,42.026581],[13.267108,42.028969],[13.266491,42.029812],[13.267133,42.029003],[13.268511,42.027611],[13.268866,42.027374],[13.2685,42.026581]]]],"created":1292546249,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12677594_20101217_6dba213a4b.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

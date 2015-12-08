@@ -1,0 +1,15 @@
+{
+  "id": 1100290,
+  "type": "Feature",
+  "properties": {
+    "name":"Bentley, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100290,
+    "woe:name":"Bentley, New South Wales, Australia",
+    "woe:place_id":"CAFGuoCYAJzEpjs9",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [153.094223,-28.742001,153.101349,-28.738914],
+  "geometry": {"alpha":0.00015,"bbox":[153.09422302246,-28.742000579834,153.10134887695,-28.738914489746],"coordinates":[[[[153.100662,-28.739668],[153.100311,-28.739817],[153.094223,-28.742001],[153.100311,-28.739668],[153.101349,-28.738914],[153.100662,-28.739668]]]],"created":1292520967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/1100290_20101216_ee3ef08fa4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

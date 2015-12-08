@@ -1,0 +1,15 @@
+{
+  "id": 123365,
+  "type": "Feature",
+  "properties": {
+    "name":"Esperanza, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":123365,
+    "woe:name":"Esperanza, Puebla, Mexico",
+    "woe:place_id":"Pn182xmYA59raiM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.397232,18.859362,-97.365814,18.881599],
+  "geometry": {"alpha":0.00015,"bbox":[-97.397232055664,18.85936164856,-97.365814208984,18.88159942627],"coordinates":[[[[-97.37674,18.859362],[-97.397232,18.86503],[-97.39431,18.880301],[-97.386253,18.871113],[-97.366333,18.881599],[-97.365814,18.879002],[-97.370621,18.864706],[-97.37674,18.859362]]]],"created":1292522852,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/123365_20101216_978fa01c2b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

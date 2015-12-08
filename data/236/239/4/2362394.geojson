@@ -1,0 +1,15 @@
+{
+  "id": 2362394,
+  "type": "Feature",
+  "properties": {
+    "name":"Belview, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2362394,
+    "woe:name":"Belview, Minnesota, United States",
+    "woe:place_id":"6S0Inu.bApoKPZCe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.351028,44.598877,-95.326469,44.612492],
+  "geometry": {"alpha":0.00015,"bbox":[-95.351028442383,44.598876953125,-95.326469421387,44.612491607666],"coordinates":[[[[-95.33033,44.607304],[-95.32962,44.612492],[-95.326469,44.605415],[-95.329239,44.598877],[-95.351028,44.600674],[-95.33033,44.607304]]]],"created":1292529076,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2362394_20101216_97779ec3be.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20112048,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonzo, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20112048,
+    "woe:name":"Bonzo, Piedmont, Italy",
+    "woe:place_id":"b7QuyGibAZ2bFJT61w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.303767,45.366497,7.309169,45.376629],
+  "geometry": {"alpha":0.00015,"bbox":[7.3037672042847,45.366497039795,7.3091688156128,45.376628875732],"coordinates":[[[[7.303848,45.366497],[7.303767,45.366817],[7.304363,45.376629],[7.309169,45.369755],[7.3073,45.36787],[7.303848,45.366497]]]],"created":1292495225,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20112048_20101216_593a84841c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

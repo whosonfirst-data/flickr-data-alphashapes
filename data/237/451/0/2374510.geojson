@@ -1,0 +1,15 @@
+{
+  "id": 2374510,
+  "type": "Feature",
+  "properties": {
+    "name":"Canton, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2374510,
+    "woe:name":"Canton, Kansas, United States",
+    "woe:place_id":"0HLXycebApvAmniP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.432251,38.37746,-97.426628,38.397308],
+  "geometry": {"alpha":0.00015,"bbox":[-97.432250976562,38.377460479736,-97.426628112793,38.397308349609],"coordinates":[[[[-97.426628,38.387989],[-97.427269,38.384121],[-97.430878,38.37746],[-97.432251,38.383652],[-97.431221,38.387688],[-97.428215,38.397308],[-97.426628,38.387989]]]],"created":1292533219,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2374510_20101216_d15119545d.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

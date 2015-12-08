@@ -1,0 +1,15 @@
+{
+  "id": 22721520,
+  "type": "Feature",
+  "properties": {
+    "name":"Wights Mountain, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":22721520,
+    "woe:name":"Wights Mountain, Queensland, Australia",
+    "woe:place_id":"3a.YZ3abA5vAKVNJDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.851242,-27.403576,152.860748,-27.386896],
+  "geometry": {"alpha":0.00015,"bbox":[152.85124206543,-27.403575897217,152.86074829102,-27.386896133423],"coordinates":[[[[152.853622,-27.398718],[152.851242,-27.386896],[152.853699,-27.398594],[152.860748,-27.403318],[152.851425,-27.403576],[152.851379,-27.403566],[152.853622,-27.398718]]]],"created":1292495581,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/22721520_20101216_659fd84fda.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

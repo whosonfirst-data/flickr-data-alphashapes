@@ -1,0 +1,15 @@
+{
+  "id": 2512080,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2512080,
+    "woe:name":"Victoria, Virginia, United States",
+    "woe:place_id":"84cOYyqbBJ3s9FdN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.23999,36.986359,-78.216217,37.001183],
+  "geometry": {"alpha":0.00015,"bbox":[-78.239990234375,36.986358642578,-78.216217041016,37.001182556152],"coordinates":[[[[-78.228394,36.989807],[-78.23999,36.986359],[-78.228386,36.99881],[-78.228233,37.001183],[-78.216217,36.998028],[-78.224777,36.99094],[-78.228394,36.989807]]]],"created":1292470264,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2512080_20101216_c887fbce94.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

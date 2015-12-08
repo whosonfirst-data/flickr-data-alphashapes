@@ -1,0 +1,15 @@
+{
+  "id": 9223,
+  "type": "Feature",
+  "properties": {
+    "name":"Porter Landing, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9223,
+    "woe:name":"Porter Landing, British Columbia, Canada",
+    "woe:place_id":"r5_XYG.QA57Z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-130.105164,58.803429,-130.08519,58.818741],
+  "geometry": {"alpha":0.00015,"bbox":[-130.10516357422,58.803428649902,-130.08518981934,58.818740844727],"coordinates":[[[[-130.089111,58.804138],[-130.08519,58.806347],[-130.089447,58.803429],[-130.105164,58.818741],[-130.089111,58.804138]]]],"created":1292490603,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/9223_20101216_779b258176.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

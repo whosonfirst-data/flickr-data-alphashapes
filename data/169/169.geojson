@@ -1,0 +1,15 @@
+{
+  "id": 169,
+  "type": "Feature",
+  "properties": {
+    "name":"Brochet, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":169,
+    "woe:name":"Brochet, Manitoba, Canada",
+    "woe:place_id":"frNmxpWYB5U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.682411,57.877899,-101.665848,57.88821],
+  "geometry": {"alpha":0.00015,"bbox":[-101.68241119385,57.877899169922,-101.66584777832,57.888210296631],"coordinates":[[[[-101.671768,57.878174],[-101.682243,57.887848],[-101.682411,57.88821],[-101.665848,57.88707],[-101.66774,57.877899],[-101.671768,57.878174]]]],"created":1247893932,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2637/shapefiles/169_20090718_7f36aeeb83.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

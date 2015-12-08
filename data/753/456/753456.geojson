@@ -1,0 +1,15 @@
+{
+  "id": 753456,
+  "type": "Feature",
+  "properties": {
+    "name":"Baezuela, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":753456,
+    "woe:name":"Baezuela, Madrid, Spain",
+    "woe:place_id":"Ay_BQXqeBJ.BtMc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.425674,40.446556,-3.402242,40.474766],
+  "geometry": {"alpha":0.00015,"bbox":[-3.4256739616394,40.446556091309,-3.4022419452667,40.474765777588],"coordinates":[[[[-3.402242,40.450409],[-3.407478,40.446556],[-3.418979,40.451256],[-3.425674,40.463013],[-3.423614,40.474766],[-3.410482,40.472187],[-3.402671,40.460987],[-3.402757,40.456539],[-3.402242,40.450409]]]],"created":1292540596,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/753456_20101216_d672d9843e.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

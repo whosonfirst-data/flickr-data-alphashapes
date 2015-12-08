@@ -1,0 +1,15 @@
+{
+  "id": 2490105,
+  "type": "Feature",
+  "properties": {
+    "name":"Scranton, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2490105,
+    "woe:name":"Scranton, Arkansas, United States",
+    "woe:place_id":"GMDP5uabBZWZqriS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.542465,35.360855,-93.528152,35.375336],
+  "geometry": {"alpha":0.00015,"bbox":[-93.542465209961,35.360855102539,-93.52815246582,35.375335693359],"coordinates":[[[[-93.538864,35.360855],[-93.542465,35.361931],[-93.540703,35.361794],[-93.528152,35.375336],[-93.536224,35.361233],[-93.538864,35.360855]]]],"created":1292464090,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2490105_20101216_9d0e0ce63d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

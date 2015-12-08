@@ -1,0 +1,15 @@
+{
+  "id": 2367842,
+  "type": "Feature",
+  "properties": {
+    "name":"Bradford, New York, United States",
+    "placetype":"locality",
+    "woe:id":2367842,
+    "woe:name":"Bradford, New York, United States",
+    "woe:place_id":"kPiSZ56bApqWts85",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.086472,42.391422,-77.086182,42.391991],
+  "geometry": {"alpha":0.00015,"bbox":[-77.086471557617,42.391422271729,-77.086181640625,42.391990661621],"coordinates":[[[[-77.086472,42.391991],[-77.086464,42.391991],[-77.086182,42.391422],[-77.086456,42.391457],[-77.086472,42.391991]]]],"created":1292541020,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2367842_20101216_68695f58b3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

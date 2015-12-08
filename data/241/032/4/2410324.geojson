@@ -1,0 +1,15 @@
+{
+  "id": 2410324,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilman, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2410324,
+    "woe:name":"Gilman, Wisconsin, United States",
+    "woe:place_id":"kzBVUDabBZ1J.1_b",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.822044,45.164852,-90.803032,45.1716],
+  "geometry": {"alpha":0.00015,"bbox":[-90.822044372559,45.164852142334,-90.803031921387,45.171600341797],"coordinates":[[[[-90.814011,45.165859],[-90.822044,45.1716],[-90.810066,45.169029],[-90.803032,45.166],[-90.810822,45.164852],[-90.814011,45.165859]]]],"created":1292523290,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2410324_20101216_5e5cd475b4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

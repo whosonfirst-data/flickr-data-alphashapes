@@ -1,0 +1,15 @@
+{
+  "id": 2505629,
+  "type": "Feature",
+  "properties": {
+    "name":"Thirtymile, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2505629,
+    "woe:name":"Thirtymile, Oregon, United States",
+    "woe:place_id":"5eIy7l.bBJzn2IJc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.208656,45.163036,-120.195496,45.167442],
+  "geometry": {"alpha":0.00015,"bbox":[-120.20865631104,45.163036346436,-120.19549560547,45.167442321777],"coordinates":[[[[-120.208275,45.165493],[-120.208656,45.166328],[-120.205666,45.167442],[-120.195496,45.163036],[-120.208275,45.165493]]]],"created":1292460848,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2505629_20101216_b3a75dd5b1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

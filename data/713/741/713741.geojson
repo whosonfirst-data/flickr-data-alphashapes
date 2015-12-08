@@ -1,0 +1,15 @@
+{
+  "id": 713741,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceraino, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":713741,
+    "woe:name":"Ceraino, Veneto, Italy",
+    "woe:place_id":"L_.wDQueAJ_JQJI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.819323,45.567909,10.82621,45.57259],
+  "geometry": {"alpha":0.00015,"bbox":[10.81932258606,45.567909240723,10.826210021973,45.572589874268],"coordinates":[[[[10.826202,45.57217],[10.82621,45.567909],[10.822155,45.568012],[10.819323,45.569035],[10.82397,45.571568],[10.825172,45.57259],[10.826202,45.57217]]]],"created":1292533090,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/713741_20101216_6a9f5c39ba.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

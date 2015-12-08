@@ -1,0 +1,15 @@
+{
+  "id": 779250,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant Salvador, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":779250,
+    "woe:name":"Sant Salvador, Catalonia, Spain",
+    "woe:place_id":"IZccJGGeBpU92w0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.531562,41.181625,1.540682,41.188732],
+  "geometry": {"alpha":0.00015,"bbox":[1.5315619707108,41.181625366211,1.5406819581985,41.188732147217],"coordinates":[[[[1.53823,41.182598],[1.536111,41.182045],[1.531562,41.181625],[1.532807,41.184597],[1.536026,41.18689],[1.540145,41.188732],[1.540682,41.183208],[1.53823,41.182598]]]],"created":1292533303,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/779250_20101216_68ab70abdb.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 3901,
+  "type": "Feature",
+  "properties": {
+    "name":"South Branch, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":3901,
+    "woe:name":"South Branch, Newfoundland and Labrador, Canada",
+    "woe:place_id":"B01NS5yaCJyj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-59.025677,47.912315,-59.017437,47.922497],
+  "geometry": {"alpha":0.00015,"bbox":[-59.025676727295,47.912315368652,-59.017436981201,47.922496795654],"coordinates":[[[[-59.024818,47.922497],[-59.017437,47.919849],[-59.022503,47.912315],[-59.025677,47.918587],[-59.024818,47.922497]]]],"created":1292519374,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/3901_20101216_711217ebc9.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

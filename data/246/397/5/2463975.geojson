@@ -1,0 +1,15 @@
+{
+  "id": 2463975,
+  "type": "Feature",
+  "properties": {
+    "name":"Oasis, California, United States",
+    "placetype":"locality",
+    "woe:id":2463975,
+    "woe:name":"Oasis, California, United States",
+    "woe:place_id":"GRS_ElybBZp8m9kJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.103683,33.454643,-116.088669,33.46954],
+  "geometry": {"alpha":0.00015,"bbox":[-116.10368347168,33.454643249512,-116.08866882324,33.469539642334],"coordinates":[[[[-116.091125,33.464493],[-116.088669,33.461521],[-116.091492,33.454643],[-116.100937,33.466301],[-116.102142,33.467106],[-116.103683,33.46954],[-116.091125,33.464493]]]],"created":1292524117,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2463975_20101216_9643117fc9.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

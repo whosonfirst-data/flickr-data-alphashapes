@@ -1,0 +1,15 @@
+{
+  "id": 456268,
+  "type": "Feature",
+  "properties": {
+    "name":"Itaqui, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":456268,
+    "woe:name":"Itaqui, Rio Grande do Sul, Brazil",
+    "woe:place_id":"3yNMP2CdBJpKA8M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-56.558647,-29.137018,-56.544743,-29.121122],
+  "geometry": {"alpha":0.00015,"bbox":[-56.558647155762,-29.137018203735,-56.544742584229,-29.121122360229],"coordinates":[[[[-56.558647,-29.137018],[-56.554184,-29.121122],[-56.548004,-29.127348],[-56.544743,-29.13567],[-56.558647,-29.137018]]]],"created":1229414161,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3035/shapefiles/456268_20081216_41df0ec4bb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

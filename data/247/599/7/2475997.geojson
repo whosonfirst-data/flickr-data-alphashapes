@@ -1,0 +1,15 @@
+{
+  "id": 2475997,
+  "type": "Feature",
+  "properties": {
+    "name":"Pottstown, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2475997,
+    "woe:name":"Pottstown, Illinois, United States",
+    "woe:place_id":"u7hPBxSbBZuwRJN3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.663025,40.711094,-89.647575,40.723557],
+  "geometry": {"alpha":0.00015,"bbox":[-89.663024902344,40.711093902588,-89.647575378418,40.723556518555],"coordinates":[[[[-89.660347,40.714439],[-89.663025,40.723557],[-89.647575,40.713467],[-89.656631,40.711094],[-89.65947,40.713142],[-89.660347,40.714439]]]],"created":1292494207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2475997_20101216_ba7ab888a3.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

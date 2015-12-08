@@ -1,0 +1,15 @@
+{
+  "id": 2485600,
+  "type": "Feature",
+  "properties": {
+    "name":"Ruby City, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2485600,
+    "woe:name":"Ruby City, North Carolina, United States",
+    "woe:place_id":"enS8PL.bBZSrvk1v",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.134041,35.353146,-83.11467,35.380333],
+  "geometry": {"alpha":0.00015,"bbox":[-83.13404083252,35.353145599365,-83.114669799805,35.380332946777],"coordinates":[[[[-83.122665,35.378334],[-83.116501,35.380333],[-83.11467,35.378166],[-83.122986,35.373985],[-83.134041,35.353146],[-83.129669,35.374168],[-83.122665,35.378334]]]],"created":1292550788,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2485600_20101217_403efe2f3b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

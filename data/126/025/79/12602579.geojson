@@ -1,0 +1,15 @@
+{
+  "id": 12602579,
+  "type": "Feature",
+  "properties": {
+    "name":"Kluisbergen, Belgium",
+    "placetype":"locality",
+    "woe:id":12602579,
+    "woe:name":"Kluisbergen, Belgium",
+    "woe:place_id":"aPSyLq2YA5qMdATzFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.524862,50.77224,3.529333,50.776665],
+  "geometry": {"alpha":1e-05,"bbox":[3.5248620510101,50.772239685059,3.529333114624,50.776664733887],"coordinates":[[[[3.525667,50.776443],[3.529333,50.776665],[3.529166,50.775997],[3.528242,50.77224],[3.524862,50.775902],[3.525667,50.776443]]]],"created":1292550198,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12602579_20101217_ec5fde8743.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

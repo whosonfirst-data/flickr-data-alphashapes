@@ -1,0 +1,15 @@
+{
+  "id": 2522026,
+  "type": "Feature",
+  "properties": {
+    "name":"Winesburg, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2522026,
+    "woe:name":"Winesburg, Ohio, United States",
+    "woe:place_id":"bMuNsYKbBJ5ya9iW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.712433,40.608868,-81.689743,40.617863],
+  "geometry": {"alpha":0.00015,"bbox":[-81.712432861328,40.608867645264,-81.689743041992,40.617862701416],"coordinates":[[[[-81.697166,40.617863],[-81.693695,40.616707],[-81.689743,40.613228],[-81.697029,40.615131],[-81.712433,40.608868],[-81.697166,40.617863]]]],"created":1292524392,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2522026_20101216_d81130f8ef.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

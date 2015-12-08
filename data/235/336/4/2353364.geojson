@@ -1,0 +1,15 @@
+{
+  "id": 2353364,
+  "type": "Feature",
+  "properties": {
+    "name":"Allens Fresh, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2353364,
+    "woe:name":"Allens Fresh, Maryland, United States",
+    "woe:place_id":"WTf8xO6bApmq5niY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.953476,38.405861,-76.944977,38.410961],
+  "geometry": {"alpha":0.00015,"bbox":[-76.953475952148,38.405860900879,-76.944976806641,38.410961151123],"coordinates":[[[[-76.953476,38.408451],[-76.946442,38.410744],[-76.944977,38.410961],[-76.952782,38.405861],[-76.95282,38.406082],[-76.953476,38.408451]]]],"created":1292371923,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2353364_20101215_318cb7fa81.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

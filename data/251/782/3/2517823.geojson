@@ -1,0 +1,15 @@
+{
+  "id": 2517823,
+  "type": "Feature",
+  "properties": {
+    "name":"West Topsham, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2517823,
+    "woe:name":"West Topsham, Vermont, United States",
+    "woe:place_id":"Wlpf1UibBJ30Elwz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.318108,44.100845,-72.309052,44.133404],
+  "geometry": {"alpha":0.00015,"bbox":[-72.31810760498,44.100845336914,-72.309051513672,44.133403778076],"coordinates":[[[[-72.311562,44.116161],[-72.309052,44.107925],[-72.318108,44.100845],[-72.313087,44.115906],[-72.314529,44.133404],[-72.311562,44.116161]]]],"created":1292547699,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2517823_20101217_5583180752.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

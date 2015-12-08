@@ -1,0 +1,15 @@
+{
+  "id": 2418992,
+  "type": "Feature",
+  "properties": {
+    "name":"Hayden, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2418992,
+    "woe:name":"Hayden, Maryland, United States",
+    "woe:place_id":"4RUmtkabBZ1a6opR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.971832,39.090282,-75.959129,39.098026],
+  "geometry": {"alpha":0.00015,"bbox":[-75.971832275391,39.090282440186,-75.959129333496,39.098026275635],"coordinates":[[[[-75.96048,39.098026],[-75.959129,39.095898],[-75.96666,39.090282],[-75.971832,39.093033],[-75.961922,39.097584],[-75.96048,39.098026]]]],"created":1234590608,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3339/shapefiles/2418992_20090214_cd20902a88.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 719633,
+  "type": "Feature",
+  "properties": {
+    "name":"Orvinio, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":719633,
+    "woe:name":"Orvinio, Lazio, Italy",
+    "woe:place_id":"yBL2h2GeAJUJD8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.933418,42.129688,12.955638,42.137108],
+  "geometry": {"alpha":0.00015,"bbox":[12.933418273926,42.129688262939,12.955637931824,42.137107849121],"coordinates":[[[[12.938125,42.132046],[12.955638,42.137108],[12.938332,42.129688],[12.933558,42.131062],[12.933418,42.13121],[12.937,42.132],[12.938125,42.132046]]]],"created":1292548212,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/719633_20101217_482e5a3212.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

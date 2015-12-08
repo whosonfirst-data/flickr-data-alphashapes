@@ -1,0 +1,15 @@
+{
+  "id": 2492231,
+  "type": "Feature",
+  "properties": {
+    "name":"Shellsford, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2492231,
+    "woe:name":"Shellsford, Tennessee, United States",
+    "woe:place_id":"rsxAgnKbBZVnzC.U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.68383,35.663155,-85.669411,35.669254],
+  "geometry": {"alpha":0.00015,"bbox":[-85.68383026123,35.663154602051,-85.669410705566,35.669254302979],"coordinates":[[[[-85.681686,35.667831],[-85.68383,35.668766],[-85.683105,35.669064],[-85.681168,35.669254],[-85.669411,35.663155],[-85.681686,35.667831]]]],"created":1292542775,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2492231_20101216_f031af498f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2365905,
+  "type": "Feature",
+  "properties": {
+    "name":"Blue Rock, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2365905,
+    "woe:name":"Blue Rock, Ohio, United States",
+    "woe:place_id":"JSJY4eybApqu7Pi0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.857155,39.799206,-81.843849,39.828823],
+  "geometry": {"alpha":0.00015,"bbox":[-81.857154846191,39.799205780029,-81.843849182129,39.8288230896],"coordinates":[[[[-81.849777,39.816116],[-81.851105,39.817863],[-81.857155,39.828823],[-81.845207,39.818176],[-81.843849,39.815674],[-81.851517,39.799206],[-81.849777,39.816116]]]],"created":1292543284,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2365905_20101216_fa21f89512.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

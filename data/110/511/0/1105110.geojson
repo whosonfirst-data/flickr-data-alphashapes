@@ -1,0 +1,15 @@
+{
+  "id": 1105110,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Albert, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1105110,
+    "woe:name":"Port Albert, Victoria, Australia",
+    "woe:place_id":"0yv21TyYAJy5eKpb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.684647,-38.680149,146.699814,-38.66869],
+  "geometry": {"alpha":0.00015,"bbox":[146.68464660645,-38.680149078369,146.69981384277,-38.668689727783],"coordinates":[[[[146.690475,-38.66869],[146.699814,-38.668701],[146.699753,-38.674252],[146.699753,-38.678539],[146.695633,-38.680149],[146.692886,-38.680149],[146.684647,-38.678005],[146.687042,-38.67271],[146.690475,-38.66869]]]],"created":1292539678,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/1105110_20101216_0a25f0591c.tar.gz"},"points":48,"type":"MultiPolygon"}
+}

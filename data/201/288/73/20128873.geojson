@@ -1,0 +1,15 @@
+{
+  "id": 20128873,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Maschere, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20128873,
+    "woe:name":"Le Maschere, Tuscany, Italy",
+    "woe:place_id":"LlNIHhibAZ1H97dmAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.268024,43.992012,11.269912,43.998062],
+  "geometry": {"alpha":0.00015,"bbox":[11.26802444458,43.992012023926,11.269911766052,43.998062133789],"coordinates":[[[[11.269397,43.995529],[11.269912,43.994049],[11.269833,43.992168],[11.268024,43.992012],[11.26811,43.995888],[11.268453,43.998062],[11.269397,43.995529]]]],"created":1292525792,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20128873_20101216_1147625711.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

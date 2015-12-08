@@ -1,0 +1,15 @@
+{
+  "id": 20076131,
+  "type": "Feature",
+  "properties": {
+    "name":"Valmorea, Italy",
+    "placetype":"locality",
+    "woe:id":20076131,
+    "woe:name":"Valmorea, Italy",
+    "woe:place_id":"2ELCBn2bAZxwGJO0Ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.917679,45.807728,8.923645,45.812782],
+  "geometry": {"alpha":1e-05,"bbox":[8.9176788330078,45.807727813721,8.9236450195312,45.812782287598],"coordinates":[[[[8.920469,45.810642],[8.917679,45.811691],[8.921627,45.812782],[8.923645,45.812603],[8.921241,45.807728],[8.920469,45.810642]]]],"created":1292518939,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/20076131_20101216_562d77257d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

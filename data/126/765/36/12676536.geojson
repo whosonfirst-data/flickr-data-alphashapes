@@ -1,0 +1,15 @@
+{
+  "id": 12676536,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceppaloni, Italy",
+    "placetype":"locality",
+    "woe:id":12676536,
+    "woe:name":"Ceppaloni, Italy",
+    "woe:place_id":"SUcXAvyYA5oeEOhZBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.758586,41.042347,14.761655,41.047535],
+  "geometry": {"alpha":1e-05,"bbox":[14.758585929871,41.042346954346,14.761654853821,41.047534942627],"coordinates":[[[[14.760174,41.04607],[14.759101,41.044857],[14.758715,41.042347],[14.758586,41.044792],[14.759037,41.046848],[14.761655,41.047535],[14.760174,41.04607]]]],"created":1292461563,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12676536_20101216_bb9011bb48.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

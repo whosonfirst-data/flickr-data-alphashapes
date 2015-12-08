@@ -1,0 +1,15 @@
+{
+  "id": 23395544,
+  "type": "Feature",
+  "properties": {
+    "name":"Ladysmith, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395544,
+    "woe:name":"Ladysmith, Quebec, Canada",
+    "woe:place_id":"AGfeVEebAp.diP4YJQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.392914,45.760876,-76.379723,45.775845],
+  "geometry": {"alpha":0.00015,"bbox":[-76.392913818359,45.760875701904,-76.379722595215,45.775844573975],"coordinates":[[[[-76.386864,45.761475],[-76.390297,45.760876],[-76.39064,45.762791],[-76.392914,45.775845],[-76.379723,45.774212],[-76.386864,45.761475]]]],"created":1292518085,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/23395544_20101216_595c5a532b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105337,
+  "type": "Feature",
+  "properties": {
+    "name":"Riverton, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105337,
+    "woe:name":"Riverton, South Australia, Australia",
+    "woe:place_id":"wttJUJuYAJx36tXK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.745651,-34.164089,138.751968,-34.154377],
+  "geometry": {"alpha":0.00015,"bbox":[138.74565124512,-34.164089202881,138.75196838379,-34.154376983643],"coordinates":[[[[138.747025,-34.155567],[138.748398,-34.15443],[138.751968,-34.154377],[138.746078,-34.164089],[138.745819,-34.164055],[138.745651,-34.157841],[138.747025,-34.155567]]]],"created":1292521335,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/1105337_20101216_d9ab98f6ec.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 837301,
+  "type": "Feature",
+  "properties": {
+    "name":"Kosharitsa, Burgas, Bulgaria",
+    "placetype":"locality",
+    "woe:id":837301,
+    "woe:name":"Kosharitsa, Burgas, Bulgaria",
+    "woe:place_id":"xsf.LvuRApsnnXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.682114,42.71574,27.711639,42.739971],
+  "geometry": {"alpha":0.00015,"bbox":[27.682113647461,42.715740203857,27.711639404297,42.739971160889],"coordinates":[[[[27.69795,42.739971],[27.711639,42.737934],[27.705244,42.734783],[27.696533,42.724316],[27.68692,42.71574],[27.682114,42.731377],[27.69795,42.739971]]]],"created":1292444076,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/837301_20101215_7fc9a1c200.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

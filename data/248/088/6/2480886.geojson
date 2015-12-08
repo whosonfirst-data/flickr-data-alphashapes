@@ -1,0 +1,15 @@
+{
+  "id": 2480886,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Bangor, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2480886,
+    "woe:name":"Richmond, Bangor, PA, US, United States",
+    "woe:place_id":"Rhpzp5ebBZRtP072",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.155602,40.842903,-75.136826,40.853165],
+  "geometry": {"alpha":0.00015,"bbox":[-75.155601501465,40.842903137207,-75.136825561523,40.853164672852],"coordinates":[[[[-75.136826,40.848293],[-75.140991,40.842903],[-75.143288,40.84396],[-75.155602,40.843323],[-75.148544,40.853165],[-75.136826,40.848293]]]],"created":1247816529,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2598/shapefiles/2480886_20090717_33cdc155df.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

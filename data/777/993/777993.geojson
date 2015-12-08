@@ -1,0 +1,15 @@
+{
+  "id": 777993,
+  "type": "Feature",
+  "properties": {
+    "name":"Villamorey, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":777993,
+    "woe:name":"Villamorey, Asturias, Spain",
+    "woe:place_id":"GRylPyCeBpuxsCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.467929,43.216209,-5.467071,43.216999],
+  "geometry": {"alpha":0.00015,"bbox":[-5.4679288864136,43.216209411621,-5.467071056366,43.216999053955],"coordinates":[[[[-5.46764,43.216225],[-5.467929,43.216873],[-5.467414,43.216999],[-5.467071,43.216373],[-5.467114,43.216209],[-5.46764,43.216225]]]],"created":1292475727,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/777993_20101216_50d23d795f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

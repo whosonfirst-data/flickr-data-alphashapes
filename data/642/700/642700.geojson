@@ -1,0 +1,15 @@
+{
+  "id": 642700,
+  "type": "Feature",
+  "properties": {
+    "name":"Burkersdorf, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":642700,
+    "woe:name":"Burkersdorf, Thuringia, Germany",
+    "woe:place_id":"I154hXWfBZ5ArqM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.222362,50.627357,11.235151,50.635117],
+  "geometry": {"alpha":0.00015,"bbox":[11.222361564636,50.62735748291,11.235151290894,50.635116577148],"coordinates":[[[[11.223478,50.633457],[11.231675,50.634888],[11.235151,50.635117],[11.223821,50.627357],[11.222362,50.633621],[11.223478,50.633457]]]],"created":1292439064,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/642700_20101215_ce8f408ce8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

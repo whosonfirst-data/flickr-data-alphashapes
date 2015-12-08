@@ -1,0 +1,15 @@
+{
+  "id": 721752,
+  "type": "Feature",
+  "properties": {
+    "name":"Rivalta, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721752,
+    "woe:name":"Rivalta, Lombardy, Italy",
+    "woe:place_id":"0N7Vn9aeA52xzVE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.67712,45.178768,10.682895,45.186874],
+  "geometry": {"alpha":0.00015,"bbox":[10.67712020874,45.178768157959,10.682894706726,45.186874389648],"coordinates":[[[[10.682895,45.178928],[10.682659,45.178768],[10.682315,45.178768],[10.67712,45.179138],[10.67768,45.184032],[10.68077,45.186874],[10.682895,45.178928]]]],"created":1292538992,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/721752_20101216_f66861b886.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12672250,
+  "type": "Feature",
+  "properties": {
+    "name":"Vermelles, France",
+    "placetype":"locality",
+    "woe:id":12672250,
+    "woe:name":"Vermelles, France",
+    "woe:place_id":"K6Xmt.KYA5phpJEU_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.740311,50.48605,2.744007,50.486565],
+  "geometry": {"alpha":1e-05,"bbox":[2.7403109073639,50.4860496521,2.7440071105957,50.48656463623],"coordinates":[[[[2.740815,50.48605],[2.740311,50.486137],[2.740729,50.486095],[2.744007,50.486565],[2.740815,50.48605]]]],"created":1234595046,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3312/shapefiles/12672250_20090214_80d11fc5f6.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23418362,
+  "type": "Feature",
+  "properties": {
+    "name":"Washam, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":23418362,
+    "woe:name":"Washam, Wyoming, United States",
+    "woe:place_id":"8U_D.MebApjXhNK9aA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.773994,40.977928,-109.766754,40.98344],
+  "geometry": {"alpha":0.00015,"bbox":[-109.7739944458,40.977928161621,-109.76675415039,40.98344039917],"coordinates":[[[[-109.77224,40.978142],[-109.773994,40.977928],[-109.773033,40.982578],[-109.766754,40.98344],[-109.771027,40.978554],[-109.77224,40.978142]]]],"created":1292520230,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/23418362_20101216_d2ac04baaf.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

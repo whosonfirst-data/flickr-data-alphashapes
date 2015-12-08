@@ -1,0 +1,15 @@
+{
+  "id": 12663530,
+  "type": "Feature",
+  "properties": {
+    "name":"La Chevallerais, France",
+    "placetype":"locality",
+    "woe:id":12663530,
+    "woe:name":"La Chevallerais, France",
+    "woe:place_id":"Rd4T6yKYA5qviemvWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.679766,47.466354,-1.679758,47.466389],
+  "geometry": {"alpha":1e-05,"bbox":[-1.6797660589218,47.466354370117,-1.6797579526901,47.466388702393],"coordinates":[[[[-1.679758,47.466366],[-1.679759,47.466354],[-1.679766,47.466389],[-1.679762,47.466381],[-1.679759,47.466373],[-1.679758,47.46637],[-1.679758,47.466366]]]],"created":1292449137,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12663530_20101215_81d769afdf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

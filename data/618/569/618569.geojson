@@ -1,0 +1,15 @@
+{
+  "id": 618569,
+  "type": "Feature",
+  "properties": {
+    "name":"Quetteville, Basse-Normandie, France",
+    "placetype":"locality",
+    "woe:id":618569,
+    "woe:name":"Quetteville, Basse-Normandie, France",
+    "woe:place_id":"X2P7UXGfAJSDobU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.306444,49.322842,0.31929,49.337547],
+  "geometry": {"alpha":0.00015,"bbox":[0.30644398927689,49.322841644287,0.3192900121212,49.337547302246],"coordinates":[[[[0.306844,49.322842],[0.306444,49.32299],[0.310163,49.337547],[0.31036,49.337238],[0.31929,49.328255],[0.306844,49.322842]]]],"created":1292535726,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/618569_20101216_c8e2384316.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20071215,
+  "type": "Feature",
+  "properties": {
+    "name":"Johnstown, Ireland",
+    "placetype":"locality",
+    "woe:id":20071215,
+    "woe:name":"Johnstown, Ireland",
+    "woe:place_id":"Eys_RDmbAZxwQHjs8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.816673,52.856228,-6.812334,52.858234],
+  "geometry": {"alpha":1e-05,"bbox":[-6.8166728019714,52.856227874756,-6.8123340606689,52.858234405518],"coordinates":[[[[-6.814881,52.856758],[-6.816673,52.856407],[-6.815557,52.856228],[-6.814098,52.857082],[-6.812725,52.858234],[-6.812334,52.857166],[-6.814098,52.857082],[-6.814881,52.856758]]]],"created":1292549208,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20071215_20101217_7942d986dc.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

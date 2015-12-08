@@ -1,0 +1,15 @@
+{
+  "id": 2393661,
+  "type": "Feature",
+  "properties": {
+    "name":"Dresden Center, New York, United States",
+    "placetype":"locality",
+    "woe:id":2393661,
+    "woe:name":"Dresden Center, New York, United States",
+    "woe:place_id":"y5DvZk6bApUzPQMp",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.482658,43.608349,-73.473473,43.61433],
+  "geometry": {"alpha":0.00015,"bbox":[-73.48265838623,43.608348846436,-73.473472595215,43.614330291748],"coordinates":[[[[-73.480835,43.608349],[-73.482658,43.609997],[-73.473473,43.61433],[-73.479607,43.608425],[-73.480835,43.608349]]]],"created":1292485744,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2393661_20101216_08fa631b7d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 8269,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Paul, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8269,
+    "woe:name":"St. Paul, Alberta, Canada",
+    "woe:place_id":"F1AWph6RA5px",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.306068,53.984863,-111.265236,53.991146],
+  "geometry": {"alpha":0.00015,"bbox":[-111.30606842041,53.98486328125,-111.26523590088,53.991146087646],"coordinates":[[[[-111.305771,53.991146],[-111.30146,53.991119],[-111.284637,53.991146],[-111.281891,53.990009],[-111.265236,53.990807],[-111.282578,53.984863],[-111.30146,53.991119],[-111.305511,53.991055],[-111.306068,53.991096],[-111.305771,53.991146]]]],"created":1292533692,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/8269_20101216_8174990bbf.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

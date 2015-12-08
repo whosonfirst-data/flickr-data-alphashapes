@@ -1,0 +1,15 @@
+{
+  "id": 2357518,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2357518,
+    "woe:name":"Austin, Missouri, United States",
+    "woe:place_id":"1iRtyHKbApkHuMz5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.294365,38.46357,-94.288612,38.471333],
+  "geometry": {"alpha":0.00015,"bbox":[-94.294364929199,38.463569641113,-94.288612365723,38.471332550049],"coordinates":[[[[-94.288612,38.468777],[-94.289642,38.468105],[-94.294365,38.46357],[-94.289642,38.471333],[-94.288612,38.468777]]]],"created":1292518576,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2357518_20101216_6e48ea1037.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

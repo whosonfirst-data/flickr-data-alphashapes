@@ -1,0 +1,15 @@
+{
+  "id": 2143695,
+  "type": "Feature",
+  "properties": {
+    "name":"Hami, Xinjiang, China",
+    "placetype":"locality",
+    "woe:id":2143695,
+    "woe:name":"Hami, Xinjiang, China",
+    "woe:place_id":"3MXlWdibAJic.BlE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [93.497772,42.8246,93.517731,42.846439],
+  "geometry": {"alpha":0.00015,"bbox":[93.497772216797,42.824600219727,93.517730712891,42.846439361572],"coordinates":[[[[93.513565,42.837708],[93.517731,42.8246],[93.503265,42.82663],[93.497772,42.833679],[93.507652,42.846439],[93.510475,42.840351],[93.513565,42.837708]]]],"created":1292543668,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2143695_20101216_0fd9ed0bbb.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 56071673,
+  "type": "Feature",
+  "properties": {
+    "name":"Oulu, Finland",
+    "placetype":"locality",
+    "woe:id":56071673,
+    "woe:name":"Oulu, Finland",
+    "woe:place_id":"c7TzdDmcB5wz2Zj3mA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.296354,65.028023,26.296934,65.02816],
+  "geometry": {"alpha":1e-05,"bbox":[26.296354293823,65.028022766113,26.296934127808,65.028160095215],"coordinates":[[[[26.29657,65.028152],[26.296934,65.028046],[26.296354,65.028023],[26.296549,65.02816],[26.29657,65.028152]]]],"created":1292497565,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/56071673_20101216_95110c738c.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

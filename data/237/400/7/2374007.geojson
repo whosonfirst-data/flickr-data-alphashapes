@@ -1,0 +1,15 @@
+{
+  "id": 2374007,
+  "type": "Feature",
+  "properties": {
+    "name":"Campbell, New York, United States",
+    "placetype":"locality",
+    "woe:id":2374007,
+    "woe:name":"Campbell, New York, United States",
+    "woe:place_id":"FhFB1ySbAptfibsF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.198769,42.225174,-77.18399,42.243587],
+  "geometry": {"alpha":0.00015,"bbox":[-77.198768615723,42.225173950195,-77.183990478516,42.243587493896],"coordinates":[[[[-77.185822,42.233601],[-77.18399,42.225174],[-77.189079,42.229218],[-77.197342,42.232643],[-77.198769,42.243587],[-77.185822,42.233601]]]],"created":1292519867,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2374007_20101216_3582895628.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

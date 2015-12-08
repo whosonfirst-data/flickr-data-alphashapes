@@ -1,0 +1,15 @@
+{
+  "id": 2396975,
+  "type": "Feature",
+  "properties": {
+    "name":"Eden, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2396975,
+    "woe:name":"Eden, Maryland, United States",
+    "woe:place_id":"6eWwGKWbApX6tLad",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.674706,38.250465,-75.658752,38.270966],
+  "geometry": {"alpha":0.00015,"bbox":[-75.674705505371,38.250465393066,-75.658752441406,38.270965576172],"coordinates":[[[[-75.666534,38.26104],[-75.658752,38.270966],[-75.664902,38.256245],[-75.670952,38.25425],[-75.674706,38.250465],[-75.672401,38.253407],[-75.666534,38.26104]]]],"created":1292477343,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2396975_20101216_47580220f9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

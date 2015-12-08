@@ -1,0 +1,15 @@
+{
+  "id": 2449120,
+  "type": "Feature",
+  "properties": {
+    "name":"Melcroft, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2449120,
+    "woe:name":"Melcroft, Pennsylvania, United States",
+    "woe:place_id":"94wrrOWbBZiTrMKk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.408859,40.049229,-79.401314,40.053703],
+  "geometry": {"alpha":0.00015,"bbox":[-79.40885925293,40.049228668213,-79.401313781738,40.053703308105],"coordinates":[[[[-79.40596,40.049229],[-79.406998,40.049404],[-79.408859,40.053703],[-79.403076,40.053219],[-79.401314,40.049896],[-79.40596,40.049229]]]],"created":1229420412,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3257/shapefiles/2449120_20081216_6e289f167d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2454326,
+  "type": "Feature",
+  "properties": {
+    "name":"Morristown, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2454326,
+    "woe:name":"Morristown, Indiana, United States",
+    "woe:place_id":"pPHxJKubBZnw6Aws",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.718925,39.62867,-85.718399,39.628815],
+  "geometry": {"alpha":0.00015,"bbox":[-85.718925476074,39.62866973877,-85.718399047852,39.628814697266],"coordinates":[[[[-85.718613,39.628689],[-85.718925,39.628719],[-85.718864,39.628815],[-85.718399,39.62867],[-85.718613,39.628689]]]],"created":1292493904,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2454326_20101216_5eef99fea6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

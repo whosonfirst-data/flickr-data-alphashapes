@@ -1,0 +1,15 @@
+{
+  "id": 20075706,
+  "type": "Feature",
+  "properties": {
+    "name":"Boca, Italy",
+    "placetype":"locality",
+    "woe:id":20075706,
+    "woe:name":"Boca, Italy",
+    "woe:place_id":"Rhj5b3ObAZyKxIYDkA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.406944,45.679798,8.408339,45.680519],
+  "geometry": {"alpha":1e-05,"bbox":[8.4069442749023,45.679798126221,8.4083385467529,45.680519104004],"coordinates":[[[[8.40763,45.680519],[8.408339,45.679798],[8.407974,45.67992],[8.406944,45.680401],[8.40763,45.680519]]]],"created":1292525793,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/20075706_20101216_feb5095d76.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 9609,
+  "type": "Feature",
+  "properties": {
+    "name":"Little Fort, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9609,
+    "woe:name":"Little Fort, British Columbia, Canada",
+    "woe:place_id":"OGzerMmQB5zH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.208282,51.405201,-120.189743,51.428005],
+  "geometry": {"alpha":0.00015,"bbox":[-120.2082824707,51.405200958252,-120.18974304199,51.428005218506],"coordinates":[[[[-120.204674,51.421799],[-120.189743,51.405201],[-120.208221,51.405716],[-120.208282,51.421692],[-120.207939,51.428005],[-120.203865,51.427525],[-120.204674,51.421799]]]],"created":1292540227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/9609_20101216_7c23b4eb3b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 724215,
+  "type": "Feature",
+  "properties": {
+    "name":"Silvano, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":724215,
+    "woe:name":"Silvano, Piedmont, Italy",
+    "woe:place_id":"IT3KAzyeA5iE878",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.657655,44.679211,8.674478,44.701385],
+  "geometry": {"alpha":0.00015,"bbox":[8.6576547622681,44.679210662842,8.6744775772095,44.701385498047],"coordinates":[[[[8.657655,44.679211],[8.658771,44.681347],[8.661882,44.686314],[8.667311,44.701385],[8.674478,44.682552],[8.658202,44.679848],[8.657655,44.679211]]]],"created":1292492165,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/724215_20101216_43de636a42.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 710139,
+  "type": "Feature",
+  "properties": {
+    "name":"Andrate, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":710139,
+    "woe:name":"Andrate, Piedmont, Italy",
+    "woe:place_id":"utw5u8yeAJzJsFw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.868099,45.525593,7.876588,45.530373],
+  "geometry": {"alpha":0.00015,"bbox":[7.8680992126465,45.525592803955,7.8765878677368,45.530372619629],"coordinates":[[[[7.876381,45.527847],[7.876588,45.527363],[7.876583,45.527344],[7.872047,45.525593],[7.868099,45.530041],[7.874321,45.530373],[7.876381,45.527847]]]],"created":1292543353,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/710139_20101216_0718df8aa5.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

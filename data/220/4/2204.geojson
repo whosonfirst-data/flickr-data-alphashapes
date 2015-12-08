@@ -1,0 +1,15 @@
+{
+  "id": 2204,
+  "type": "Feature",
+  "properties": {
+    "name":"Lanigan, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2204,
+    "woe:name":"Lanigan, Saskatchewan, Canada",
+    "woe:place_id":"A8vZaLKbA5yc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.041656,51.843174,-105.025093,51.851101],
+  "geometry": {"alpha":0.00015,"bbox":[-105.04165649414,51.843173980713,-105.02509307861,51.851100921631],"coordinates":[[[[-105.027924,51.851101],[-105.025093,51.843174],[-105.034256,51.845207],[-105.036148,51.845798],[-105.041656,51.846382],[-105.027924,51.851101]]]],"created":1292438029,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2204_20101215_b107aa9e21.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

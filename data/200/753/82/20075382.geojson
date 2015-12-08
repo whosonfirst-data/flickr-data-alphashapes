@@ -1,0 +1,15 @@
+{
+  "id": 20075382,
+  "type": "Feature",
+  "properties": {
+    "name":"Diemerswil, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075382,
+    "woe:name":"Diemerswil, Switzerland",
+    "woe:place_id":"usH8.OKbAZxwZ90xfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.42425,47.012218,7.425036,47.015553],
+  "geometry": {"alpha":1e-05,"bbox":[7.424250125885,47.012218475342,7.4250359535217,47.015552520752],"coordinates":[[[[7.4245,47.014832],[7.424963,47.015553],[7.424857,47.015308],[7.425036,47.012218],[7.424469,47.013454],[7.42425,47.014374],[7.4245,47.014832]]]],"created":1292457197,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/20075382_20101215_f2116695a3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

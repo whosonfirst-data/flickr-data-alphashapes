@@ -1,0 +1,15 @@
+{
+  "id": 12636893,
+  "type": "Feature",
+  "properties": {
+    "name":"Algolsheim, France",
+    "placetype":"locality",
+    "woe:id":12636893,
+    "woe:name":"Algolsheim, France",
+    "woe:place_id":"SYYiz4CYA5o5Lm8UyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.535591,47.995895,7.537994,47.997044],
+  "geometry": {"alpha":1e-05,"bbox":[7.5355911254883,47.995895385742,7.5379939079285,47.997043609619],"coordinates":[[[[7.535591,47.995895],[7.535591,47.996586],[7.535591,47.997044],[7.536621,47.996353],[7.537994,47.995895],[7.535591,47.995895]]]],"created":1292527660,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12636893_20101216_20318880ff.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

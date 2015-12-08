@@ -1,0 +1,15 @@
+{
+  "id": 2361683,
+  "type": "Feature",
+  "properties": {
+    "name":"Bell, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2361683,
+    "woe:name":"Bell, Michigan, United States",
+    "woe:place_id":"X9K54WKbApr1Z9SY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.454361,45.243954,-83.419815,45.26075],
+  "geometry": {"alpha":0.00015,"bbox":[-83.454360961914,45.243953704834,-83.419815063477,45.260749816895],"coordinates":[[[[-83.438416,45.26075],[-83.419815,45.248585],[-83.438416,45.243954],[-83.452148,45.243954],[-83.454361,45.25621],[-83.446655,45.259422],[-83.438416,45.26075]]]],"created":1292444009,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2361683_20101215_8ee964d073.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

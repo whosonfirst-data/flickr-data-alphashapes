@@ -1,0 +1,15 @@
+{
+  "id": 12648067,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Mureaux, France",
+    "placetype":"locality",
+    "woe:id":12648067,
+    "woe:name":"Les Mureaux, France",
+    "woe:place_id":"p5.mvMqYA5q8I1k7_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.906642,48.982147,1.908573,48.986553],
+  "geometry": {"alpha":1e-05,"bbox":[1.906641960144,48.982147216797,1.9085730314255,48.986553192139],"coordinates":[[[[1.908295,48.982693],[1.906642,48.986553],[1.908368,48.982872],[1.908573,48.982147],[1.908295,48.982693]]]],"created":1292542072,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12648067_20101216_36edeed5aa.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

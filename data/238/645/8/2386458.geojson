@@ -1,0 +1,15 @@
+{
+  "id": 2386458,
+  "type": "Feature",
+  "properties": {
+    "name":"Coyote Springs, Wyoming, United States",
+    "placetype":"locality",
+    "woe:id":2386458,
+    "woe:name":"Coyote Springs, Wyoming, United States",
+    "woe:place_id":"2V_UEiGbApSB5kYW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.786835,41.739334,-106.766327,41.752361],
+  "geometry": {"alpha":0.00015,"bbox":[-106.7868347168,41.739334106445,-106.7663269043,41.752361297607],"coordinates":[[[[-106.77887,41.752361],[-106.766327,41.742348],[-106.771706,41.743317],[-106.773514,41.743137],[-106.786835,41.739334],[-106.77887,41.752361]]]],"created":1292454266,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2386458_20101215_e93b92fc2a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

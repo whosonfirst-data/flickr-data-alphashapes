@@ -1,0 +1,15 @@
+{
+  "id": 903644,
+  "type": "Feature",
+  "properties": {
+    "name":"Segmon, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":903644,
+    "woe:name":"Segmon, Varmland, Sweden",
+    "woe:place_id":"SsvBAwSQAZ8D.6w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.02641,59.269215,13.059654,59.300602],
+  "geometry": {"alpha":0.00015,"bbox":[13.026410102844,59.269214630127,13.05965423584,59.300601959229],"coordinates":[[[[13.036193,59.300076],[13.027267,59.300602],[13.035507,59.299202],[13.046436,59.287018],[13.046607,59.269215],[13.02641,59.276142],[13.046436,59.287018],[13.059654,59.293152],[13.046436,59.288506],[13.036193,59.300076]]]],"created":1292456287,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/903644_20101215_8e01cd5bcd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

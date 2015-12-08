@@ -1,0 +1,15 @@
+{
+  "id": 375935,
+  "type": "Feature",
+  "properties": {
+    "name":"Ayora, Pichincha, Ecuador",
+    "placetype":"locality",
+    "woe:id":375935,
+    "woe:name":"Ayora, Pichincha, Ecuador",
+    "woe:place_id":"fgkIIouaBpnivwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.147812,0.064201,-78.123779,0.07862],
+  "geometry": {"alpha":0.00015,"bbox":[-78.147811889648,0.0642009973526,-78.123779296875,0.078620001673698],"coordinates":[[[[-78.147812,0.065917],[-78.143692,0.07862],[-78.123779,0.077934],[-78.136482,0.073127],[-78.143951,0.064201],[-78.147812,0.065917]]]],"created":1292532622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/375935_20101216_ba4b8fa67d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

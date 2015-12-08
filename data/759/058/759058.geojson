@@ -1,0 +1,15 @@
+{
+  "id": 759058,
+  "type": "Feature",
+  "properties": {
+    "name":"El Calabacino, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":759058,
+    "woe:name":"El Calabacino, Andalusia, Spain",
+    "woe:place_id":"XO0uEIieBJW5NjU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.677984,37.874561,-6.668014,37.875427],
+  "geometry": {"alpha":0.00015,"bbox":[-6.6779842376709,37.874561309814,-6.66801404953,37.875427246094],"coordinates":[[[[-6.677012,37.875114],[-6.675948,37.875427],[-6.668014,37.87458],[-6.677537,37.874649],[-6.677984,37.874561],[-6.677012,37.875114]]]],"created":1292467265,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/759058_20101216_cbe6e4cb21.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

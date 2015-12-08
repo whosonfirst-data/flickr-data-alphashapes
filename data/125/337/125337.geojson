@@ -1,0 +1,15 @@
+{
+  "id": 125337,
+  "type": "Feature",
+  "properties": {
+    "name":"Icamole, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":125337,
+    "woe:name":"Icamole, Nuevo Leon, Mexico",
+    "woe:place_id":"VJx.0naYA5mw4XY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-100.694077,25.946314,-100.662834,25.963369],
+  "geometry": {"alpha":0.00015,"bbox":[-100.69407653809,25.946313858032,-100.66283416748,25.963369369507],"coordinates":[[[[-100.669441,25.946314],[-100.670731,25.949169],[-100.694077,25.955112],[-100.670815,25.952719],[-100.662834,25.963369],[-100.669441,25.946314]]]],"created":1292458263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/125337_20101216_04a6d36695.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

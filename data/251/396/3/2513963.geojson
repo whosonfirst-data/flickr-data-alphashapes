@@ -1,0 +1,15 @@
+{
+  "id": 2513963,
+  "type": "Feature",
+  "properties": {
+    "name":"Walters, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2513963,
+    "woe:name":"Walters, Virginia, United States",
+    "woe:place_id":"TYo_AjGbBJ3MpCrN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.863068,36.803993,-76.858604,36.809017],
+  "geometry": {"alpha":0.00015,"bbox":[-76.863067626953,36.803993225098,-76.858604431152,36.809017181396],"coordinates":[[[[-76.862633,36.803993],[-76.863068,36.807968],[-76.858681,36.809017],[-76.858604,36.80838],[-76.861275,36.804314],[-76.862633,36.803993]]]],"created":1292546449,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2513963_20101217_10dd2a585d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

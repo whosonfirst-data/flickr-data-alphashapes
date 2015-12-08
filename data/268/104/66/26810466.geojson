@@ -1,0 +1,15 @@
+{
+  "id": 26810466,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablo, Ecuador",
+    "placetype":"locality",
+    "woe:id":26810466,
+    "woe:name":"San Pablo, Ecuador",
+    "woe:place_id":"GYVV_LWbB5S_w1uLqA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.187241,0.190366,-78.186577,0.191724],
+  "geometry": {"alpha":1e-05,"bbox":[-78.187240600586,0.19036599993706,-78.186576843262,0.1917240023613],"coordinates":[[[[-78.187096,0.191641],[-78.186707,0.191724],[-78.186577,0.191588],[-78.186691,0.191422],[-78.187241,0.190366],[-78.18721,0.191497],[-78.187096,0.191641]]]],"created":1292545836,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/26810466_20101217_737bc87f0c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

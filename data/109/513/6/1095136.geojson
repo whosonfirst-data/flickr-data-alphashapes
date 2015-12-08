@@ -1,0 +1,15 @@
+{
+  "id": 1095136,
+  "type": "Feature",
+  "properties": {
+    "name":"Colebrook, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1095136,
+    "woe:name":"Colebrook, Tasmania, Australia",
+    "woe:place_id":"oQZUdDuYAZXdfkUn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.287689,-42.555534,147.307495,-42.544796],
+  "geometry": {"alpha":0.00015,"bbox":[147.28768920898,-42.555534362793,147.30749511719,-42.54479598999],"coordinates":[[[[147.30748,-42.547832],[147.306961,-42.555534],[147.29155,-42.549728],[147.287689,-42.544796],[147.305023,-42.547707],[147.307495,-42.546974],[147.30748,-42.547832]]]],"created":1292528444,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/1095136_20101216_4ab91cd78b.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

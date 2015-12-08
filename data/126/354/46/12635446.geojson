@@ -1,0 +1,15 @@
+{
+  "id": 12635446,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Kist, Germany",
+    "placetype":"locality",
+    "woe:id":12635446,
+    "woe:name":"Gemeinde Kist, Germany",
+    "woe:place_id":"ckC1P2.YA5p0U6kmPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.835677,49.738335,9.839619,49.746334],
+  "geometry": {"alpha":1e-05,"bbox":[9.8356771469116,49.738334655762,9.8396186828613,49.746334075928],"coordinates":[[[[9.835677,49.742199],[9.837,49.744167],[9.838166,49.746334],[9.839619,49.7411],[9.836388,49.738335],[9.835677,49.742199]]]],"created":1292518268,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12635446_20101216_5f05cfe709.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

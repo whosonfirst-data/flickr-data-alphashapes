@@ -1,0 +1,15 @@
+{
+  "id": 2468259,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris, California, United States",
+    "placetype":"locality",
+    "woe:id":2468259,
+    "woe:name":"Paris, California, United States",
+    "woe:place_id":"XoQ12yWbBZo.xEJN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-118.183105,34.470901,-118.173218,34.487415],
+  "geometry": {"alpha":0.00015,"bbox":[-118.18310546875,34.470901489258,-118.17321777344,34.487415313721],"coordinates":[[[[-118.183105,34.475246],[-118.173218,34.487415],[-118.180161,34.471939],[-118.180618,34.470901],[-118.183105,34.475246]]]],"created":1292539206,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/2468259_20101216_cb889886e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

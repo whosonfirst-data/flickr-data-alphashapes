@@ -1,0 +1,15 @@
+{
+  "id": 2443265,
+  "type": "Feature",
+  "properties": {
+    "name":"Lyerly, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2443265,
+    "woe:name":"Lyerly, Georgia, United States",
+    "woe:place_id":"kgAwF9qbBZgoWEFT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.419777,34.430027,-85.414848,34.431812],
+  "geometry": {"alpha":0.00015,"bbox":[-85.419776916504,34.430027008057,-85.414848327637,34.431812286377],"coordinates":[[[[-85.417496,34.431812],[-85.415398,34.431763],[-85.414848,34.431404],[-85.419777,34.430027],[-85.419388,34.430672],[-85.417496,34.431812]]]],"created":1292540417,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2443265_20101216_0eac829fe7.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

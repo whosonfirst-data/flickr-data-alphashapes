@@ -1,0 +1,15 @@
+{
+  "id": 12661872,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Martin-de-Londres, France",
+    "placetype":"locality",
+    "woe:id":12661872,
+    "woe:name":"St.-Martin-de-Londres, France",
+    "woe:place_id":"A_UG5HGYA5rClgCptA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.729107,43.791126,3.732347,43.798607],
+  "geometry": {"alpha":1e-05,"bbox":[3.7291069030762,43.791126251221,3.7323470115662,43.798606872559],"coordinates":[[[[3.732347,43.793774],[3.731188,43.791172],[3.731081,43.791126],[3.729107,43.796776],[3.730201,43.798607],[3.732347,43.793774]]]],"created":1292535436,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12661872_20101216_b44de65910.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

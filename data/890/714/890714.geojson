@@ -1,0 +1,15 @@
+{
+  "id": 890714,
+  "type": "Feature",
+  "properties": {
+    "name":"Gladsax, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":890714,
+    "woe:name":"Gladsax, Skane, Sweden",
+    "woe:place_id":"uQDi_aqRCJzhJgg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.281497,55.552769,14.289093,55.562283],
+  "geometry": {"alpha":0.00015,"bbox":[14.281497001648,55.552768707275,14.289093017578,55.562282562256],"coordinates":[[[[14.286003,55.562283],[14.289093,55.560486],[14.283599,55.556602],[14.281497,55.552769],[14.283469,55.556534],[14.284114,55.562183],[14.286003,55.562283]]]],"created":1292537886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/890714_20101216_fc42c03e0c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

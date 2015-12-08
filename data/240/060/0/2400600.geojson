@@ -1,0 +1,15 @@
+{
+  "id": 2400600,
+  "type": "Feature",
+  "properties": {
+    "name":"Eureka, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2400600,
+    "woe:name":"Eureka, West Virginia, United States",
+    "woe:place_id":"cexoJrybBZza.sfb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.282524,39.372849,-81.277023,39.386673],
+  "geometry": {"alpha":0.00015,"bbox":[-81.282524108887,39.372848510742,-81.27702331543,39.386672973633],"coordinates":[[[[-81.277306,39.386673],[-81.277023,39.385529],[-81.278053,39.377518],[-81.282524,39.372849],[-81.277283,39.385521],[-81.277306,39.386673]]]],"created":1292444690,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2400600_20101215_c8baf45224.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

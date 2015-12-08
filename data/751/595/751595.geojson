@@ -1,0 +1,15 @@
+{
+  "id": 751595,
+  "type": "Feature",
+  "properties": {
+    "name":"Ajo, Cantabria, Spain",
+    "placetype":"locality",
+    "woe:id":751595,
+    "woe:name":"Ajo, Cantabria, Spain",
+    "woe:place_id":"jxl9DJmeBJ2t5Mw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.619995,43.497391,-3.610564,43.499134],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6199951171875,43.49739074707,-3.610563993454,43.499134063721],"coordinates":[[[[-3.610564,43.498501],[-3.612442,43.497391],[-3.615188,43.498199],[-3.619995,43.498512],[-3.617454,43.499134],[-3.610564,43.498501]]]],"created":1292410921,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/751595_20101215_65aafcaf14.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

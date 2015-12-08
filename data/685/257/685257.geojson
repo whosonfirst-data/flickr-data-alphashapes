@@ -1,0 +1,15 @@
+{
+  "id": 685257,
+  "type": "Feature",
+  "properties": {
+    "name":"Plankstetten, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":685257,
+    "woe:name":"Plankstetten, Bavaria, Germany",
+    "woe:place_id":"duAOa_CfCZkLcdQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.452131,49.06813,11.458568,49.071743],
+  "geometry": {"alpha":0.00015,"bbox":[11.452131271362,49.068130493164,11.458567619324,49.071743011475],"coordinates":[[[[11.457388,49.071743],[11.458568,49.069733],[11.457173,49.06813],[11.453933,49.068474],[11.453053,49.068947],[11.452131,49.071308],[11.457388,49.071743]]]],"created":1292475189,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/685257_20101216_4554b3989c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

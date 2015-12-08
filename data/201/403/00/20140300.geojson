@@ -1,0 +1,15 @@
+{
+  "id": 20140300,
+  "type": "Feature",
+  "properties": {
+    "name":"Rovescala, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20140300,
+    "woe:name":"Rovescala, Lombardy, Italy",
+    "woe:place_id":"PhIJvx2bAZ3sNZBO2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.345773,45.010448,9.350223,45.017868],
+  "geometry": {"alpha":0.00015,"bbox":[9.3457727432251,45.010448455811,9.3502225875854,45.017868041992],"coordinates":[[[[9.347305,45.01239],[9.345773,45.017151],[9.348845,45.017868],[9.350223,45.010448],[9.348764,45.010948],[9.347305,45.01239]]]],"created":1292386682,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/20140300_20101215_7819d7819d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

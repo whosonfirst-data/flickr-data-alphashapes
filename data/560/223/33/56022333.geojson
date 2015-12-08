@@ -1,0 +1,15 @@
+{
+  "id": 56022333,
+  "type": "Feature",
+  "properties": {
+    "name":"Downtown Dover, Dover, OH, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":56022333,
+    "woe:name":"Downtown Dover, Dover, OH, US, United States",
+    "woe:place_id":"EoahoEGcB5ziljGj5g",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.488167,40.524837,-81.483002,40.527164],
+  "geometry": {"alpha":1e-05,"bbox":[-81.488166809082,40.524837493896,-81.483001708984,40.527164459229],"coordinates":[[[[-81.488167,40.525661],[-81.486855,40.525677],[-81.483002,40.527164],[-81.484901,40.524837],[-81.487549,40.52533],[-81.488167,40.525661]]]],"created":1292435827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/56022333_20101215_6eb9ebb099.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2372519,
+  "type": "Feature",
+  "properties": {
+    "name":"Bushville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2372519,
+    "woe:name":"Bushville, New York, United States",
+    "woe:place_id":"aKhfudabApuQ8L61",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.263039,43.021423,-78.261665,43.021931],
+  "geometry": {"alpha":0.00015,"bbox":[-78.263038635254,43.021423339844,-78.261665344238,43.02193069458],"coordinates":[[[[-78.263008,43.021423],[-78.263039,43.021931],[-78.262955,43.021931],[-78.261665,43.021515],[-78.263008,43.021423]]]],"created":1292477225,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2372519_20101216_e6516d8b9e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

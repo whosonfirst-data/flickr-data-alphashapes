@@ -1,0 +1,15 @@
+{
+  "id": 2488774,
+  "type": "Feature",
+  "properties": {
+    "name":"Sankertown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2488774,
+    "woe:name":"Sankertown, Pennsylvania, United States",
+    "woe:place_id":"yEFz5TWbBZSSao2i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.602371,40.469803,-78.578598,40.479271],
+  "geometry": {"alpha":0.00015,"bbox":[-78.60237121582,40.469802856445,-78.578598022461,40.479270935059],"coordinates":[[[[-78.578598,40.479271],[-78.579475,40.474915],[-78.587891,40.469803],[-78.602371,40.475452],[-78.580566,40.47731],[-78.578598,40.479271]]]],"created":1292460784,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/2488774_20101216_b998e360fc.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

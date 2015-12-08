@@ -1,0 +1,15 @@
+{
+  "id": 2377563,
+  "type": "Feature",
+  "properties": {
+    "name":"Central City, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2377563,
+    "woe:name":"Central City, Iowa, United States",
+    "woe:place_id":"VjfCZU2bApss2id4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.547867,42.193424,-91.519814,42.219299],
+  "geometry": {"alpha":0.00015,"bbox":[-91.547866821289,42.193424224854,-91.519813537598,42.219299316406],"coordinates":[[[[-91.535355,42.205151],[-91.531929,42.203243],[-91.519814,42.20079],[-91.527145,42.195286],[-91.539459,42.193424],[-91.543503,42.21172],[-91.547867,42.219299],[-91.542793,42.214699],[-91.535355,42.205151]]]],"created":1292525794,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2377563_20101216_3b713891e2.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

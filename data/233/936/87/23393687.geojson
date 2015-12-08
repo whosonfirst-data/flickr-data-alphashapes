@@ -1,0 +1,15 @@
+{
+  "id": 23393687,
+  "type": "Feature",
+  "properties": {
+    "name":"Hoyt, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393687,
+    "woe:name":"Hoyt, New Brunswick, Canada",
+    "woe:place_id":"CHD8CzWbAp84O9Jduw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.549683,45.573196,-66.542816,45.581532],
+  "geometry": {"alpha":0.00015,"bbox":[-66.549682617188,45.573196411133,-66.542816162109,45.581531524658],"coordinates":[[[[-66.545647,45.578259],[-66.542816,45.573196],[-66.548996,45.577042],[-66.549683,45.578606],[-66.549042,45.581532],[-66.545647,45.578259]]]],"created":1292550066,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/23393687_20101217_4547f37410.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

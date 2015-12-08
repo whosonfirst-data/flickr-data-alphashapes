@@ -1,0 +1,15 @@
+{
+  "id": 20152428,
+  "type": "Feature",
+  "properties": {
+    "name":"Ried, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20152428,
+    "woe:name":"Ried, Bavaria, Germany",
+    "woe:place_id":"LYR5UJ2bAZ1lfFPeWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.84693,48.182297,11.865963,48.191998],
+  "geometry": {"alpha":0.00015,"bbox":[11.846929550171,48.18229675293,11.865962982178,48.191997528076],"coordinates":[[[[11.86002,48.191998],[11.865963,48.182541],[11.864891,48.183056],[11.84693,48.182297],[11.853647,48.190002],[11.86002,48.191998]]]],"created":1292539949,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/20152428_20101216_84fc992b24.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

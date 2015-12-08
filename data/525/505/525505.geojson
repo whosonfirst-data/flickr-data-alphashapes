@@ -1,0 +1,15 @@
+{
+  "id": 525505,
+  "type": "Feature",
+  "properties": {
+    "name":"Wojtal, Pomeranian, Poland",
+    "placetype":"locality",
+    "woe:id":525505,
+    "woe:name":"Wojtal, Pomeranian, Poland",
+    "woe:place_id":"02Ax9DicA5n5Yf8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.992163,53.897636,17.994783,53.899883],
+  "geometry": {"alpha":0.00015,"bbox":[17.992162704468,53.897636413574,17.994783401489,53.899883270264],"coordinates":[[[[17.994608,53.899883],[17.994783,53.899727],[17.994717,53.897636],[17.99292,53.898178],[17.992163,53.898537],[17.99313,53.899025],[17.994608,53.899883]]]],"created":1292446951,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/525505_20101215_f3cd5d6894.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

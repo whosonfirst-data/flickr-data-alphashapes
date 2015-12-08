@@ -1,0 +1,15 @@
+{
+  "id": 12631495,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Melsdorf, Germany",
+    "placetype":"locality",
+    "woe:id":12631495,
+    "woe:name":"Gemeinde Melsdorf, Germany",
+    "woe:place_id":"rpR27DKYA5qDtvaUcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.050816,54.321266,10.055515,54.324547],
+  "geometry": {"alpha":1e-05,"bbox":[10.050815582275,54.321266174316,10.055515289307,54.324546813965],"coordinates":[[[[10.054893,54.324356],[10.055515,54.322731],[10.053992,54.32246],[10.050816,54.321266],[10.052533,54.324547],[10.054893,54.324356]]]],"created":1292454745,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12631495_20101215_7f7a0f9cb4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

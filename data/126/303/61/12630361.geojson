@@ -1,0 +1,15 @@
+{
+  "id": 12630361,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Seesen, Germany",
+    "placetype":"locality",
+    "woe:id":12630361,
+    "woe:name":"Gemeinde Seesen, Germany",
+    "woe:place_id":"Ymx51BOYA5paMDSMIQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.182266,51.909225,10.187244,51.913132],
+  "geometry": {"alpha":1e-05,"bbox":[10.182266235352,51.909225463867,10.187244415283,51.913131713867],"coordinates":[[[[10.185527,51.912403],[10.187244,51.913132],[10.185441,51.911739],[10.183725,51.910999],[10.182266,51.909225],[10.183639,51.911873],[10.185527,51.912403]]]],"created":1292452724,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/12630361_20101215_8bc6f43a44.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105152,
+  "type": "Feature",
+  "properties": {
+    "name":"Portland Roads, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1105152,
+    "woe:name":"Portland Roads, Queensland, Australia",
+    "woe:place_id":"ULJv0quYAJz2QhXu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.406937,-12.602396,143.412094,-12.594438],
+  "geometry": {"alpha":0.00015,"bbox":[143.40693664551,-12.602396011353,143.41209411621,-12.594437599182],"coordinates":[[[[143.406937,-12.59871],[143.408997,-12.594438],[143.412094,-12.596951],[143.409439,-12.602396],[143.406937,-12.59871]]]],"created":1292541564,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/1105152_20101216_b8a2f11dfa.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20076875,
+  "type": "Feature",
+  "properties": {
+    "name":"Trivigliano, Italy",
+    "placetype":"locality",
+    "woe:id":20076875,
+    "woe:name":"Trivigliano, Italy",
+    "woe:place_id":"Y4BeIu2bAZxfP2Hf2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.247623,41.750954,13.252944,41.755051],
+  "geometry": {"alpha":1e-05,"bbox":[13.247623443604,41.750953674316,13.252943992615,41.75505065918],"coordinates":[[[[13.249855,41.750954],[13.247623,41.752296],[13.248825,41.755051],[13.252944,41.753025],[13.249855,41.750954]]]],"created":1292541695,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20076875_20101216_bfb24da28b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

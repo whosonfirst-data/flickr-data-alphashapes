@@ -1,0 +1,15 @@
+{
+  "id": 2430761,
+  "type": "Feature",
+  "properties": {
+    "name":"Karns City, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2430761,
+    "woe:name":"Karns City, Pennsylvania, United States",
+    "woe:place_id":"cNvlcHGbBZ9lNmlb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.731041,40.98547,-79.72625,40.99379],
+  "geometry": {"alpha":0.00015,"bbox":[-79.73104095459,40.985469818115,-79.726249694824,40.993789672852],"coordinates":[[[[-79.731041,40.98547],[-79.730957,40.986862],[-79.72625,40.99379],[-79.727371,40.988937],[-79.729927,40.985729],[-79.731041,40.98547]]]],"created":1292440742,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2430761_20101215_2d560d9ed9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

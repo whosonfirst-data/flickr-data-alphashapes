@@ -1,0 +1,15 @@
+{
+  "id": 12644098,
+  "type": "Feature",
+  "properties": {
+    "name":"Orly, France",
+    "placetype":"locality",
+    "woe:id":12644098,
+    "woe:name":"Orly, France",
+    "woe:place_id":"njk80vSYA5pT7Z.3lQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.408833,48.740501,2.413167,48.743332],
+  "geometry": {"alpha":1e-05,"bbox":[2.408833026886,48.740501403809,2.4131669998169,48.74333190918],"coordinates":[[[[2.411167,48.741833],[2.413167,48.740501],[2.411,48.741833],[2.408833,48.743332],[2.411167,48.741833]]]],"created":1292543279,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12644098_20101216_92d2c0e14b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

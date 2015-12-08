@@ -1,0 +1,15 @@
+{
+  "id": 2360500,
+  "type": "Feature",
+  "properties": {
+    "name":"Beach City, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2360500,
+    "woe:name":"Beach City, Texas, United States",
+    "woe:place_id":"4dYq3t2bAppC0T4g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.930748,29.661802,-94.895096,29.680473],
+  "geometry": {"alpha":0.00015,"bbox":[-94.93074798584,29.66180229187,-94.895095825195,29.680473327637],"coordinates":[[[[-94.927025,29.679813],[-94.912994,29.673922],[-94.895096,29.661802],[-94.913506,29.66721],[-94.921875,29.670155],[-94.930748,29.680473],[-94.928741,29.680298],[-94.927261,29.680046],[-94.927025,29.679813]]]],"created":1292525470,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/2360500_20101216_5304d8982e.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

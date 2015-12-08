@@ -1,0 +1,15 @@
+{
+  "id": 12582020,
+  "type": "Feature",
+  "properties": {
+    "name":"Indiana, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":12582020,
+    "woe:name":"Indiana, Sao Paulo, Brazil",
+    "woe:place_id":"lzK4cdmYA5keHGTtDA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-51.292419,-22.185101,-51.253452,-22.132715],
+  "geometry": {"alpha":0.0015,"bbox":[-51.292419433594,-22.18510055542,-51.253452301025,-22.13271522522],"coordinates":[[[[-51.260147,-22.185101],[-51.292419,-22.132715],[-51.255039,-22.14801],[-51.253452,-22.174847],[-51.260147,-22.185101]]]],"created":1292380203,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/12582020_20101215_c973ec420c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

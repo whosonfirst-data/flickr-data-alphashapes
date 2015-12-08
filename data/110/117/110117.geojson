@@ -1,0 +1,15 @@
+{
+  "id": 110117,
+  "type": "Feature",
+  "properties": {
+    "name":"The Rock, Trelawny, Jamaica",
+    "placetype":"locality",
+    "woe:id":110117,
+    "woe:name":"The Rock, Trelawny, Jamaica",
+    "woe:place_id":"7xS9A76YAJwtI.Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.640381,18.481073,-77.627083,18.495155],
+  "geometry": {"alpha":0.00015,"bbox":[-77.640380859375,18.481073379517,-77.627082824707,18.495155334473],"coordinates":[[[[-77.62838,18.482901],[-77.630424,18.481073],[-77.635742,18.483923],[-77.640381,18.490028],[-77.633171,18.495155],[-77.627083,18.485367],[-77.62838,18.482901]]]],"created":1292504469,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/110117_20101216_253c2b31b7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

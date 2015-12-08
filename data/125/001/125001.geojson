@@ -1,0 +1,15 @@
+{
+  "id": 125001,
+  "type": "Feature",
+  "properties": {
+    "name":"Hualahuises, Nuevo Leon, Mexico",
+    "placetype":"locality",
+    "woe:id":125001,
+    "woe:name":"Hualahuises, Nuevo Leon, Mexico",
+    "woe:place_id":"LvRC2niYA5lch_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.678268,24.879702,-99.6717,24.886436],
+  "geometry": {"alpha":0.00015,"bbox":[-99.678268432617,24.87970161438,-99.671699523926,24.886436462402],"coordinates":[[[[-99.6717,24.883896],[-99.671944,24.882221],[-99.674316,24.879702],[-99.678268,24.880831],[-99.676895,24.886436],[-99.6717,24.883896]]]],"created":1292520586,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/125001_20101216_e121956a03.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

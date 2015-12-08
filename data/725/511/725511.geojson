@@ -1,0 +1,15 @@
+{
+  "id": 725511,
+  "type": "Feature",
+  "properties": {
+    "name":"Valgioie, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":725511,
+    "woe:name":"Valgioie, Piedmont, Italy",
+    "woe:place_id":"MOTL8ZqeA5lWeFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.338523,45.075001,7.341613,45.077156],
+  "geometry": {"alpha":0.00015,"bbox":[7.3385229110718,45.075000762939,7.3416128158569,45.077156066895],"coordinates":[[[[7.34127,45.075947],[7.341613,45.07552],[7.341,45.075001],[7.340755,45.075096],[7.340412,45.075459],[7.338523,45.077156],[7.34127,45.075947]]]],"created":1292521844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/725511_20101216_ea28e32e66.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

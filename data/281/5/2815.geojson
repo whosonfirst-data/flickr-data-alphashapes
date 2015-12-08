@@ -1,0 +1,15 @@
+{
+  "id": 2815,
+  "type": "Feature",
+  "properties": {
+    "name":"Gravelbourg, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2815,
+    "woe:name":"Gravelbourg, Saskatchewan, Canada",
+    "woe:place_id":"vTS90xqbCZ04",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.559769,49.87019,-106.540344,49.879192],
+  "geometry": {"alpha":0.00015,"bbox":[-106.55976867676,49.870189666748,-106.54034423828,49.879192352295],"coordinates":[[[[-106.556786,49.878979],[-106.552803,49.879192],[-106.540344,49.87019],[-106.548157,49.87207],[-106.557503,49.871696],[-106.559769,49.871059],[-106.556786,49.878979]]]],"created":1292522703,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2815_20101216_4c624cb023.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

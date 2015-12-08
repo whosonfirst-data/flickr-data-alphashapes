@@ -1,0 +1,15 @@
+{
+  "id": 2401762,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairview, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2401762,
+    "woe:name":"Fairview, New Mexico, United States",
+    "woe:place_id":"bX.3WRybBZzWBcFZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.070595,36.008663,-106.065704,36.016617],
+  "geometry": {"alpha":0.00015,"bbox":[-106.0705947876,36.00866317749,-106.0657043457,36.016616821289],"coordinates":[[[[-106.070595,36.014671],[-106.068535,36.016617],[-106.065788,36.012032],[-106.065704,36.008663],[-106.070595,36.014671]]]],"created":1247870882,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2454/shapefiles/2401762_20090717_0b3bf09aca.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

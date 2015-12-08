@@ -1,0 +1,15 @@
+{
+  "id": 36010,
+  "type": "Feature",
+  "properties": {
+    "name":"Starston, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":36010,
+    "woe:name":"Starston, England, United Kingdom",
+    "woe:place_id":"nCHb9EmaB5yCMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.283783,52.40929,1.286849,52.411346],
+  "geometry": {"alpha":0.00015,"bbox":[1.2837829589844,52.409290313721,1.2868490219116,52.411346435547],"coordinates":[[[[1.283855,52.411346],[1.286773,52.41111],[1.286849,52.41069],[1.285977,52.410095],[1.283847,52.40929],[1.283783,52.409515],[1.283855,52.411346]]]],"created":1292515563,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/36010_20101216_63642f7605.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12680472,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte San Vito, Italy",
+    "placetype":"locality",
+    "woe:id":12680472,
+    "woe:name":"Monte San Vito, Italy",
+    "woe:place_id":"MYZ8BAiYA5rsHqI.8w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.26966,43.5998,13.270508,43.60165],
+  "geometry": {"alpha":1e-05,"bbox":[13.269659996033,43.599800109863,13.2705078125,43.601650238037],"coordinates":[[[[13.270508,43.600559],[13.269681,43.5998],[13.269778,43.60096],[13.26966,43.60165],[13.270508,43.600559]]]],"created":1247969886,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2652/shapefiles/12680472_20090719_7dc8483968.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

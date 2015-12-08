@@ -1,0 +1,15 @@
+{
+  "id": 12624345,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lindlar, Germany",
+    "placetype":"locality",
+    "woe:id":12624345,
+    "woe:name":"Gemeinde Lindlar, Germany",
+    "woe:place_id":"Mb71LwaYA5oOwwldSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.348823,51.010353,7.354316,51.019196],
+  "geometry": {"alpha":1e-05,"bbox":[7.3488230705261,51.010353088379,7.3543162345886,51.019195556641],"coordinates":[[[[7.351055,51.010406],[7.349231,51.014198],[7.348823,51.014942],[7.351398,51.019196],[7.353239,51.013554],[7.354316,51.012249],[7.353415,51.010906],[7.35157,51.010353],[7.351055,51.010406]]]],"created":1292526759,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12624345_20101216_8e111052b8.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

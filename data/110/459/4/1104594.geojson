@@ -1,0 +1,15 @@
+{
+  "id": 1104594,
+  "type": "Feature",
+  "properties": {
+    "name":"Newlyn, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1104594,
+    "woe:name":"Newlyn, Victoria, Australia",
+    "woe:place_id":"2Bz6B06YAJw42Nvz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.966904,-37.422253,143.995743,-37.397438],
+  "geometry": {"alpha":0.00015,"bbox":[143.96690368652,-37.422252655029,143.99574279785,-37.397438049316],"coordinates":[[[[143.984406,-37.406712],[143.995743,-37.422253],[143.981659,-37.409435],[143.975555,-37.410381],[143.966904,-37.397438],[143.984406,-37.406712]]]],"created":1292531488,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/1104594_20101216_15064d53fa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

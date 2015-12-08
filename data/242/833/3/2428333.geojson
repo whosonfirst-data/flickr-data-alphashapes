@@ -1,0 +1,15 @@
+{
+  "id": 2428333,
+  "type": "Feature",
+  "properties": {
+    "name":"Jacksonville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2428333,
+    "woe:name":"Jacksonville, Ohio, United States",
+    "woe:place_id":"YLIIR.mbBZ4YHwTF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.619049,40.359772,-80.606476,40.380585],
+  "geometry": {"alpha":0.00015,"bbox":[-80.619049072266,40.359771728516,-80.606475830078,40.380584716797],"coordinates":[[[[-80.610634,40.380585],[-80.606476,40.377102],[-80.609047,40.364662],[-80.613823,40.359772],[-80.619049,40.367409],[-80.610634,40.380585]]]],"created":1292529130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2428333_20101216_a9f1eb8606.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

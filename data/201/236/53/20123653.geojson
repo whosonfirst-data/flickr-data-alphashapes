@@ -1,0 +1,15 @@
+{
+  "id": 20123653,
+  "type": "Feature",
+  "properties": {
+    "name":"Egro, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20123653,
+    "woe:name":"Egro, Piedmont, Italy",
+    "woe:place_id":"jCE3UYKbAZ2EApibEQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.381366,45.812531,8.386001,45.813786],
+  "geometry": {"alpha":0.00015,"bbox":[8.381365776062,45.812530517578,8.3860006332397,45.813785552979],"coordinates":[[[[8.381538,45.812531],[8.381366,45.812649],[8.382225,45.813786],[8.382568,45.813725],[8.386001,45.813248],[8.381538,45.812531]]]],"created":1292449206,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20123653_20101215_d49dacec1e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

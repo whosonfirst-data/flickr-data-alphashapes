@@ -1,0 +1,15 @@
+{
+  "id": 12629613,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Brackel, Germany",
+    "placetype":"locality",
+    "woe:id":12629613,
+    "woe:name":"Gemeinde Brackel, Germany",
+    "woe:place_id":"lxsarSCYA5qrXED1pQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.05676,53.301876,10.060107,53.303532],
+  "geometry": {"alpha":1e-05,"bbox":[10.05675983429,53.301876068115,10.06010723114,53.303531646729],"coordinates":[[[[10.059163,53.303532],[10.060107,53.303291],[10.059442,53.302273],[10.05676,53.301876],[10.058648,53.303131],[10.059163,53.303532]]]],"created":1292527184,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/12629613_20101216_908db89a19.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

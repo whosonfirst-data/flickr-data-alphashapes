@@ -1,0 +1,15 @@
+{
+  "id": 55999181,
+  "type": "Feature",
+  "properties": {
+    "name":"Mimico, Etobicoke, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":55999181,
+    "woe:name":"Mimico, Etobicoke, ON, CA, Canada",
+    "woe:place_id":"LRTAEbmcBJVgES1jfg",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.498184,43.608551,-79.494835,43.614151],
+  "geometry": {"alpha":1e-05,"bbox":[-79.498184204102,43.608551025391,-79.494834899902,43.614151000977],"coordinates":[[[[-79.4981,43.611443],[-79.49749,43.614151],[-79.494835,43.611668],[-79.498184,43.608551],[-79.4981,43.611443]]]],"created":1292545057,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/55999181_20101217_427ba1470e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

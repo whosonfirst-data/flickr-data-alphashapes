@@ -1,0 +1,15 @@
+{
+  "id": 12610199,
+  "type": "Feature",
+  "properties": {
+    "name":"Svatava, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12610199,
+    "woe:name":"Svatava, Czech Republic",
+    "woe:place_id":"wsy0WsCYA5qCN_x4rQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.603148,50.177227,12.623848,50.202606],
+  "geometry": {"alpha":0.000244140625,"bbox":[12.603148460388,50.177227020264,12.623847961426,50.202606201172],"coordinates":[[[[12.617084,50.202091],[12.616984,50.201782],[12.623848,50.177227],[12.604249,50.19698],[12.603148,50.197109],[12.605468,50.197662],[12.605863,50.197681],[12.61661,50.202606],[12.61711,50.202194],[12.617084,50.202091]]]],"created":1292546685,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/12610199_20101217_25038f0fcd.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

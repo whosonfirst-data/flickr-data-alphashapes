@@ -1,0 +1,15 @@
+{
+  "id": 12645115,
+  "type": "Feature",
+  "properties": {
+    "name":"Heiligenstein, France",
+    "placetype":"locality",
+    "woe:id":12645115,
+    "woe:name":"Heiligenstein, France",
+    "woe:place_id":"WjIkhY6YA5oz8O7Wew",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.424526,48.408352,7.428013,48.418102],
+  "geometry": {"alpha":1e-05,"bbox":[7.4245262145996,48.408351898193,7.4280128479004,48.418102264404],"coordinates":[[[[7.428013,48.418102],[7.427573,48.413708],[7.426757,48.408352],[7.424526,48.413593],[7.428013,48.418102]]]],"created":1292533462,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/12645115_20101216_b676e549b8.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

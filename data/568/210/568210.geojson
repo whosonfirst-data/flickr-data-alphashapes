@@ -1,0 +1,15 @@
+{
+  "id": 568210,
+  "type": "Feature",
+  "properties": {
+    "name":"Kukonoja, Southern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":568210,
+    "woe:name":"Kukonoja, Southern Finland, Finland",
+    "woe:place_id":"kSl8EIWcB5RmxKk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.448597,60.832802,26.457224,60.839611],
+  "geometry": {"alpha":0.00015,"bbox":[26.448596954346,60.832801818848,26.457223892212,60.839611053467],"coordinates":[[[[26.452332,60.832802],[26.448597,60.834232],[26.44894,60.839611],[26.450701,60.838406],[26.457224,60.834332],[26.452631,60.832813],[26.452332,60.832802]]]],"created":1292526240,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/568210_20101216_bfda0981b1.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

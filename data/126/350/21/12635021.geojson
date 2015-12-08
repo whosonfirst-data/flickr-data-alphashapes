@@ -1,0 +1,15 @@
+{
+  "id": 12635021,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wemding, Germany",
+    "placetype":"locality",
+    "woe:id":12635021,
+    "woe:name":"Gemeinde Wemding, Germany",
+    "woe:place_id":"nDI2aeeYA5oeWOiEFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.705919,48.879166,10.706888,48.879307],
+  "geometry": {"alpha":1e-05,"bbox":[10.705919265747,48.879165649414,10.706888198853,48.879306793213],"coordinates":[[[[10.706886,48.879204],[10.705919,48.879166],[10.706422,48.879307],[10.706888,48.879208],[10.706886,48.879204]]]],"created":1292536215,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/12635021_20101216_f8ed874afd.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2523257,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodland Hills, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2523257,
+    "woe:name":"Woodland Hills, North Carolina, United States",
+    "woe:place_id":"mSDEyHSbBJ4fwf5J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.553757,35.370468,-82.532448,35.377468],
+  "geometry": {"alpha":0.00015,"bbox":[-82.553756713867,35.370468139648,-82.532447814941,35.377468109131],"coordinates":[[[[-82.53968,35.374809],[-82.53923,35.374313],[-82.532448,35.370468],[-82.539207,35.374271],[-82.553757,35.377468],[-82.53968,35.374809]]]],"created":1292478602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2523257_20101216_fd21d3e0c0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

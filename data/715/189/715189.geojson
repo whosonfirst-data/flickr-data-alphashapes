@@ -1,0 +1,15 @@
+{
+  "id": 715189,
+  "type": "Feature",
+  "properties": {
+    "name":"Erli, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":715189,
+    "woe:name":"Erli, Liguria, Italy",
+    "woe:place_id":"JhRbhUeeAJkwgwk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.101779,44.136501,8.103344,44.138538],
+  "geometry": {"alpha":0.00015,"bbox":[8.1017789840698,44.136501312256,8.103343963623,44.138538360596],"coordinates":[[[[8.103338,44.136501],[8.10278,44.136936],[8.102755,44.136978],[8.101779,44.138538],[8.103288,44.1367],[8.103344,44.136509],[8.103338,44.136501]]]],"created":1292523967,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/715189_20101216_ed10187d98.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

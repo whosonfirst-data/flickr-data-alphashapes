@@ -1,0 +1,15 @@
+{
+  "id": 695145,
+  "type": "Feature",
+  "properties": {
+    "name":"Sindersdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":695145,
+    "woe:name":"Sindersdorf, Bavaria, Germany",
+    "woe:place_id":"8U7Lb1yfCJnbcn4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.261844,49.161053,11.270288,49.170483],
+  "geometry": {"alpha":0.00015,"bbox":[11.261843681335,49.161052703857,11.270288467407,49.170482635498],"coordinates":[[[[11.270288,49.163433],[11.27028,49.163425],[11.26296,49.161053],[11.262016,49.161331],[11.261844,49.170483],[11.270288,49.163433]]]],"created":1292505427,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/695145_20101216_9d20dd5aff.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

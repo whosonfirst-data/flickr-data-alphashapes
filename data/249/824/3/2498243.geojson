@@ -1,0 +1,15 @@
+{
+  "id": 2498243,
+  "type": "Feature",
+  "properties": {
+    "name":"Springdell, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2498243,
+    "woe:name":"Springdell, South Carolina, United States",
+    "woe:place_id":"ThtTgaWbBZU30rrP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.884178,34.791233,-80.879112,34.794563],
+  "geometry": {"alpha":0.00015,"bbox":[-80.884178161621,34.791233062744,-80.879112243652,34.794563293457],"coordinates":[[[[-80.881134,34.791233],[-80.884178,34.793575],[-80.882721,34.794563],[-80.879112,34.792309],[-80.879669,34.791603],[-80.881134,34.791233]]]],"created":1292478603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2498243_20101216_87f4f10170.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

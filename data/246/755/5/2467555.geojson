@@ -1,0 +1,15 @@
+{
+  "id": 2467555,
+  "type": "Feature",
+  "properties": {
+    "name":"Pajarito, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2467555,
+    "woe:name":"Pajarito, New Mexico, United States",
+    "woe:place_id":"0FoRCoObBZrqHeih",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.119965,35.922073,-106.108276,35.93605],
+  "geometry": {"alpha":0.00015,"bbox":[-106.11996459961,35.922073364258,-106.10827636719,35.936050415039],"coordinates":[[[[-106.108276,35.922073],[-106.11969,35.926414],[-106.119965,35.930923],[-106.119667,35.932335],[-106.118912,35.93605],[-106.108276,35.922073]]]],"created":1292454552,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2467555_20101215_1676179c93.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

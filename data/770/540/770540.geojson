@@ -1,0 +1,15 @@
+{
+  "id": 770540,
+  "type": "Feature",
+  "properties": {
+    "name":"Portell de Morella, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":770540,
+    "woe:name":"Portell de Morella, Valencia, Spain",
+    "woe:place_id":"0FCd5PSeBpw9Dyo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.280194,40.520489,-0.269122,40.530045],
+  "geometry": {"alpha":0.00015,"bbox":[-0.28019401431084,40.520488739014,-0.26912200450897,40.530044555664],"coordinates":[[[[-0.275645,40.528934],[-0.270838,40.529915],[-0.269122,40.530045],[-0.276246,40.522869],[-0.280194,40.520489],[-0.275645,40.528934]]]],"created":1292511372,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/770540_20101216_d783d2ac4f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

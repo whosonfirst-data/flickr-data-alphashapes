@@ -1,0 +1,15 @@
+{
+  "id": 2403789,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Forks, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2403789,
+    "woe:name":"Five Forks, Maryland, United States",
+    "woe:place_id":"yW_EaX.bBZyZ4HzK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.499275,39.554287,-77.488289,39.565998],
+  "geometry": {"alpha":0.00015,"bbox":[-77.49927520752,39.554286956787,-77.488288879395,39.565998077393],"coordinates":[[[[-77.496269,39.562592],[-77.492577,39.565998],[-77.488289,39.554287],[-77.489189,39.554642],[-77.499275,39.558456],[-77.496269,39.562592]]]],"created":1292528269,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2403789_20101216_4baf18265c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

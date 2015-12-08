@@ -1,0 +1,15 @@
+{
+  "id": 2436329,
+  "type": "Feature",
+  "properties": {
+    "name":"Langeloth, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2436329,
+    "woe:name":"Langeloth, Pennsylvania, United States",
+    "woe:place_id":"hdIITJCbBZ8rv8XT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.412003,40.362137,-80.401009,40.364792],
+  "geometry": {"alpha":0.00015,"bbox":[-80.412002563477,40.36213684082,-80.401008605957,40.364791870117],"coordinates":[[[[-80.40535,40.36454],[-80.401009,40.363804],[-80.40332,40.362137],[-80.412003,40.363503],[-80.41124,40.364792],[-80.40535,40.36454]]]],"created":1292456708,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2436329_20101215_5fafe2c978.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

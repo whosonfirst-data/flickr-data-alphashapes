@@ -1,0 +1,15 @@
+{
+  "id": 2410322,
+  "type": "Feature",
+  "properties": {
+    "name":"Gilman, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2410322,
+    "woe:name":"Gilman, Virginia, United States",
+    "woe:place_id":"c6Jb8tebBZ12lIYE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.541138,37.779671,-77.540215,37.781044],
+  "geometry": {"alpha":0.00015,"bbox":[-77.541137695312,37.779670715332,-77.540214538574,37.781044006348],"coordinates":[[[[-77.540833,37.780998],[-77.540733,37.780956],[-77.540497,37.780666],[-77.540215,37.779671],[-77.541138,37.781044],[-77.540833,37.780998]]]],"created":1292542070,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2410322_20101216_b80d72445d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

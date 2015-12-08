@@ -1,0 +1,15 @@
+{
+  "id": 20114710,
+  "type": "Feature",
+  "properties": {
+    "name":"Campo, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20114710,
+    "woe:name":"Campo, Tuscany, Italy",
+    "woe:place_id":"BkfrP_GbAZ2Qoxq_Fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.472717,43.696175,10.489883,43.715534],
+  "geometry": {"alpha":0.00015,"bbox":[10.472717285156,43.696174621582,10.489883422852,43.715534210205],"coordinates":[[[[10.47718,43.713303],[10.478038,43.713425],[10.489883,43.715534],[10.482716,43.711254],[10.472717,43.696175],[10.473403,43.713177],[10.47718,43.713303]]]],"created":1292449792,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20114710_20101215_1366744619.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

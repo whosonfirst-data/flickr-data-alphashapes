@@ -1,0 +1,15 @@
+{
+  "id": 20070231,
+  "type": "Feature",
+  "properties": {
+    "name":"Ganca, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070231,
+    "woe:name":"Ganca, AZ, Azerbaijan",
+    "woe:place_id":"jUfZ4EKbAZxHGJRXMg",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [46.312866,40.668335,46.40831,40.705627],
+  "geometry": {"alpha":0.03,"bbox":[46.312866210938,40.668334960938,46.408309936523,40.705627441406],"coordinates":[[[[46.348572,40.668335],[46.312866,40.69223],[46.340332,40.705627],[46.40831,40.70042],[46.397495,40.687145],[46.384277,40.680637],[46.348572,40.668335]]]],"created":1292528766,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/20070231_20101216_375c67237f.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

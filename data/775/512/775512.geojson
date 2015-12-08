@@ -1,0 +1,15 @@
+{
+  "id": 775512,
+  "type": "Feature",
+  "properties": {
+    "name":"Tol, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":775512,
+    "woe:name":"Tol, Asturias, Spain",
+    "woe:place_id":"LvPsct6eBpkQ7AI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.958723,43.527267,-6.950054,43.531883],
+  "geometry": {"alpha":0.00015,"bbox":[-6.9587230682373,43.527267456055,-6.9500541687012,43.531883239746],"coordinates":[[[[-6.955461,43.531811],[-6.953101,43.531376],[-6.950054,43.527267],[-6.958723,43.529259],[-6.957038,43.531883],[-6.955461,43.531811]]]],"created":1292535218,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/775512_20101216_626489176a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

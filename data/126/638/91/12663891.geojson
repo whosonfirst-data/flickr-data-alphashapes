@@ -1,0 +1,15 @@
+{
+  "id": 12663891,
+  "type": "Feature",
+  "properties": {
+    "name":"Vibraye, France",
+    "placetype":"locality",
+    "woe:id":12663891,
+    "woe:name":"Vibraye, France",
+    "woe:place_id":"NSQtYBuYA5oqRJDBuA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.753293,48.036217,0.758485,48.039097],
+  "geometry": {"alpha":1e-05,"bbox":[0.75329297780991,48.03621673584,0.758485019207,48.039096832275],"coordinates":[[[[0.757884,48.036217],[0.754709,48.036617],[0.753293,48.039097],[0.756554,48.037552],[0.757498,48.037231],[0.758485,48.036674],[0.757884,48.036217]]]],"created":1292527528,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/12663891_20101216_90dda36901.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

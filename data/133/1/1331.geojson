@@ -1,0 +1,15 @@
+{
+  "id": 1331,
+  "type": "Feature",
+  "properties": {
+    "name":"Richardson, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":1331,
+    "woe:name":"Richardson, New Brunswick, Canada",
+    "woe:place_id":"qPLk68aYAp_S",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.955444,44.989571,-66.92691,45.008991],
+  "geometry": {"alpha":0.00015,"bbox":[-66.955444335938,44.989570617676,-66.926910400391,45.008991241455],"coordinates":[[[[-66.953773,45.004379],[-66.952789,45.00526],[-66.948624,45.008991],[-66.948883,45.002346],[-66.946587,44.995731],[-66.92691,44.989693],[-66.947937,44.989571],[-66.955444,44.996078],[-66.953773,45.004379]]]],"created":1292520516,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/1331_20101216_0813ccde78.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

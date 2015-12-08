@@ -1,0 +1,15 @@
+{
+  "id": 20129258,
+  "type": "Feature",
+  "properties": {
+    "name":"Lisiera, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20129258,
+    "woe:name":"Lisiera, Veneto, Italy",
+    "woe:place_id":"VEgTJUabAZ2iFWFUEw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.609287,45.579308,11.614093,45.579895],
+  "geometry": {"alpha":0.00015,"bbox":[11.609287261963,45.579307556152,11.614092826843,45.579895019531],"coordinates":[[[[11.609368,45.579403],[11.609287,45.579895],[11.610617,45.579777],[11.614093,45.579323],[11.609851,45.579308],[11.609368,45.579403]]]],"created":1292385602,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/20129258_20101215_943b888251.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

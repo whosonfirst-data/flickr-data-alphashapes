@@ -1,0 +1,15 @@
+{
+  "id": 1101625,
+  "type": "Feature",
+  "properties": {
+    "name":"Deepwater, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1101625,
+    "woe:name":"Deepwater, New South Wales, Australia",
+    "woe:place_id":"srMR1kmYAJybPoNl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.843414,-29.449987,151.852249,-29.440868],
+  "geometry": {"alpha":0.00015,"bbox":[151.84341430664,-29.449987411499,151.85224914551,-29.440868377686],"coordinates":[[[[151.843414,-29.445278],[151.845444,-29.444347],[151.852249,-29.440868],[151.849503,-29.449987],[151.844528,-29.447071],[151.843414,-29.445278]]]],"created":1292485267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/1101625_20101216_eab14cbfe0.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

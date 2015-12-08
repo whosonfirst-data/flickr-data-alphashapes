@@ -1,0 +1,15 @@
+{
+  "id": 3527,
+  "type": "Feature",
+  "properties": {
+    "name":"Acton Vale, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3527,
+    "woe:name":"Acton Vale, Quebec, Canada",
+    "woe:place_id":"8PF1NqaaBJ7u",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.595169,45.645847,-72.563622,45.657082],
+  "geometry": {"alpha":0.0001875,"bbox":[-72.595169067383,45.645847320557,-72.563621520996,45.657081604004],"coordinates":[[[[-72.595169,45.656834],[-72.595001,45.657001],[-72.594666,45.657001],[-72.569565,45.657082],[-72.563622,45.651745],[-72.564117,45.648457],[-72.564438,45.647274],[-72.565849,45.646992],[-72.592163,45.645847],[-72.595169,45.656834]]]],"created":1292520111,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/3527_20101216_d2387999ca.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

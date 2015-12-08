@@ -1,0 +1,15 @@
+{
+  "id": 12654769,
+  "type": "Feature",
+  "properties": {
+    "name":"Wittelsheim, France",
+    "placetype":"locality",
+    "woe:id":12654769,
+    "woe:name":"Wittelsheim, France",
+    "woe:place_id":"CBehpI.YA5r7YIfDkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.224738,47.780231,7.229948,47.785046],
+  "geometry": {"alpha":1e-05,"bbox":[7.2247381210327,47.78023147583,7.2299480438232,47.785045623779],"coordinates":[[[[7.227458,47.781097],[7.224938,47.780811],[7.224738,47.780991],[7.227448,47.781532],[7.229948,47.785046],[7.229261,47.780231],[7.227458,47.781097]]]],"created":1292523420,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12654769_20101216_e62f6e0927.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

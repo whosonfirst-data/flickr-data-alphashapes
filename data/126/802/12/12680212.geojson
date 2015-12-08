@@ -1,0 +1,15 @@
+{
+  "id": 12680212,
+  "type": "Feature",
+  "properties": {
+    "name":"Sennori, Italy",
+    "placetype":"locality",
+    "woe:id":12680212,
+    "woe:name":"Sennori, Italy",
+    "woe:place_id":"KNKfSGWYA5o_rTiWEg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.590455,40.785912,8.592853,40.792191],
+  "geometry": {"alpha":1e-05,"bbox":[8.5904550552368,40.785911560059,8.5928525924683,40.792190551758],"coordinates":[[[[8.592853,40.790615],[8.590455,40.785912],[8.591136,40.791878],[8.591244,40.792191],[8.592853,40.790615]]]],"created":1226495522,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3027/shapefiles/12680212_20081112_c0820b4617.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 22754930,
+  "type": "Feature",
+  "properties": {
+    "name":"Polignac, France",
+    "placetype":"locality",
+    "woe:id":22754930,
+    "woe:name":"Polignac, France",
+    "woe:place_id":"Yw.nwpybA5uN9B.AJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.856115,45.065128,3.860836,45.071579],
+  "geometry": {"alpha":1e-05,"bbox":[3.8561151027679,45.065128326416,3.8608360290527,45.071578979492],"coordinates":[[[[3.860149,45.068714],[3.858604,45.065823],[3.856115,45.065128],[3.857059,45.06958],[3.856201,45.070972],[3.860149,45.071579],[3.860836,45.069397],[3.860363,45.068851],[3.860149,45.068714]]]],"created":1292548166,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/22754930_20101217_a194dfed7d.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12642672,
+  "type": "Feature",
+  "properties": {
+    "name":"Culan, France",
+    "placetype":"locality",
+    "woe:id":12642672,
+    "woe:name":"Culan, France",
+    "woe:place_id":"ZK0rnfSYA5oRf5YJfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.3491,46.539574,2.353177,46.548119],
+  "geometry": {"alpha":1e-05,"bbox":[2.349100112915,46.539573669434,2.3531770706177,46.548118591309],"coordinates":[[[[2.353177,46.546619],[2.352715,46.545567],[2.351202,46.539574],[2.351911,46.545551],[2.350366,46.546421],[2.3491,46.548119],[2.353177,46.546619]]]],"created":1292541702,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/12642672_20101216_4a5fcf1e2e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

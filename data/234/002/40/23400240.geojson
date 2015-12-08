@@ -1,0 +1,15 @@
+{
+  "id": 23400240,
+  "type": "Feature",
+  "properties": {
+    "name":"Clarendon Station, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23400240,
+    "woe:name":"Clarendon Station, Ontario, Canada",
+    "woe:place_id":"OYFajoObAph7tkLioQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.699471,44.86478,-76.685471,44.875759],
+  "geometry": {"alpha":0.00015,"bbox":[-76.69947052002,44.864780426025,-76.685470581055,44.875759124756],"coordinates":[[[[-76.698921,44.875759],[-76.691353,44.868797],[-76.685471,44.86478],[-76.696503,44.866455],[-76.699471,44.873383],[-76.698921,44.875759]]]],"created":1292452455,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/23400240_20101215_c836dd36b4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

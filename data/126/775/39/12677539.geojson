@@ -1,0 +1,15 @@
+{
+  "id": 12677539,
+  "type": "Feature",
+  "properties": {
+    "name":"Melilli, Italy",
+    "placetype":"locality",
+    "woe:id":12677539,
+    "woe:name":"Melilli, Italy",
+    "woe:place_id":"5MWHrACYA5phDqYkMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.061923,37.200596,15.066547,37.207638],
+  "geometry": {"alpha":1e-05,"bbox":[15.061923027039,37.200595855713,15.066547393799,37.207637786865],"coordinates":[[[[15.065936,37.20343],[15.066451,37.202782],[15.066397,37.200596],[15.062599,37.202919],[15.061923,37.203533],[15.066547,37.207638],[15.065936,37.20343]]]],"created":1292541685,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12677539_20101216_191b978ee8.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

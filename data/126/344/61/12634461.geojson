@@ -1,0 +1,15 @@
+{
+  "id": 12634461,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Spardorf, Germany",
+    "placetype":"locality",
+    "woe:id":12634461,
+    "woe:name":"Gemeinde Spardorf, Germany",
+    "woe:place_id":"LhqZDAWYA5rpXicDrQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.049027,49.605564,11.051044,49.61087],
+  "geometry": {"alpha":1e-05,"bbox":[11.049027442932,49.605564117432,11.051044464111,49.610870361328],"coordinates":[[[[11.051044,49.608555],[11.049027,49.605564],[11.049628,49.608807],[11.049306,49.61087],[11.051044,49.608555]]]],"created":1292545821,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12634461_20101217_eda0e2293c.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

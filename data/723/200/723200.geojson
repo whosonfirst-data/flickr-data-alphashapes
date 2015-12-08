@@ -1,0 +1,15 @@
+{
+  "id": 723200,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vito, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":723200,
+    "woe:name":"San Vito, Umbria, Italy",
+    "woe:place_id":"t1avDKyeA5.wCHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.421138,42.426151,12.443129,42.44154],
+  "geometry": {"alpha":0.00015,"bbox":[12.421137809753,42.426151275635,12.443128585815,42.441539764404],"coordinates":[[[[12.443129,42.44154],[12.433583,42.426151],[12.431675,42.428253],[12.421138,42.435699],[12.443129,42.44154]]]],"created":1292439788,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/723200_20101215_d39b65e099.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

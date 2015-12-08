@@ -1,0 +1,15 @@
+{
+  "id": 607218,
+  "type": "Feature",
+  "properties": {
+    "name":"Les Pradeaux, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":607218,
+    "woe:name":"Les Pradeaux, Auvergne, France",
+    "woe:place_id":"aU9JcPqfAZvjmCM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.280683,45.495975,3.294868,45.511822],
+  "geometry": {"alpha":0.00015,"bbox":[3.2806830406189,45.495975494385,3.2948679924011,45.511821746826],"coordinates":[[[[3.285805,45.508602],[3.280683,45.495975],[3.281998,45.510799],[3.293924,45.511822],[3.294868,45.5117],[3.285805,45.508602]]]],"created":1292533177,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/607218_20101216_5f97cdfae6.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

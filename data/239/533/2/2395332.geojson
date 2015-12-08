@@ -1,0 +1,15 @@
+{
+  "id": 2395332,
+  "type": "Feature",
+  "properties": {
+    "name":"East Berlin, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2395332,
+    "woe:name":"East Berlin, Pennsylvania, United States",
+    "woe:place_id":"0FPFvgWbApWbXnVm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.989868,39.915497,-76.968765,39.948528],
+  "geometry": {"alpha":0.00015,"bbox":[-76.989868164062,39.915496826172,-76.968765258789,39.948528289795],"coordinates":[[[[-76.981987,39.948528],[-76.971634,39.934387],[-76.968765,39.921268],[-76.987938,39.915497],[-76.989868,39.939693],[-76.981987,39.948528]]]],"created":1292548267,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2395332_20101217_a730a6848c.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2358124,
+  "type": "Feature",
+  "properties": {
+    "name":"Back Bay, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2358124,
+    "woe:name":"Back Bay, Maryland, United States",
+    "woe:place_id":"bbvOaCGbApnDzLGv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.544945,38.829987,-76.542152,38.831257],
+  "geometry": {"alpha":0.00015,"bbox":[-76.544944763184,38.829986572266,-76.542152404785,38.831256866455],"coordinates":[[[[-76.542824,38.831257],[-76.542152,38.830948],[-76.543739,38.829987],[-76.544945,38.8312],[-76.542824,38.831257]]]],"created":1292525913,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2358124_20101216_af2ed10762.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

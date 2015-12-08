@@ -1,0 +1,15 @@
+{
+  "id": 2423236,
+  "type": "Feature",
+  "properties": {
+    "name":"Hollowayville, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2423236,
+    "woe:name":"Hollowayville, Illinois, United States",
+    "woe:place_id":"l3l1ZYibBZ5VPebV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.318062,41.363705,-89.3032,41.367218],
+  "geometry": {"alpha":0.00015,"bbox":[-89.318061828613,41.363704681396,-89.303199768066,41.367218017578],"coordinates":[[[[-89.312111,41.367218],[-89.3032,41.363705],[-89.307556,41.363945],[-89.312508,41.363953],[-89.318062,41.363941],[-89.312111,41.367218]]]],"created":1292542573,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2423236_20101216_aa902c3dbf.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

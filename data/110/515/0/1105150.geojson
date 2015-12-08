@@ -1,0 +1,15 @@
+{
+  "id": 1105150,
+  "type": "Feature",
+  "properties": {
+    "name":"Portland, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1105150,
+    "woe:name":"Portland, New South Wales, Australia",
+    "woe:place_id":"_cH0YDyYAJxp8.gH",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [149.957886,-33.364227,149.984665,-33.345802],
+  "geometry": {"alpha":0.00015,"bbox":[149.95788574219,-33.364227294922,149.98466491699,-33.345802307129],"coordinates":[[[[149.980194,-33.357056],[149.957886,-33.364227],[149.977798,-33.352612],[149.98201,-33.345802],[149.984665,-33.35548],[149.981918,-33.358204],[149.980194,-33.357056]]]],"created":1292532307,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/1105150_20101216_80a50de708.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

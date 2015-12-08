@@ -1,0 +1,15 @@
+{
+  "id": 625802,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Maugan, Brittany, France",
+    "placetype":"locality",
+    "woe:id":625802,
+    "woe:name":"St.-Maugan, Brittany, France",
+    "woe:place_id":"urKGQPyfA5mN5mQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.083625,48.135017,-2.069017,48.144028],
+  "geometry": {"alpha":0.00015,"bbox":[-2.0836250782013,48.13501739502,-2.0690169334412,48.144027709961],"coordinates":[[[[-2.083282,48.135017],[-2.083625,48.135391],[-2.081769,48.135441],[-2.069017,48.144028],[-2.081394,48.135391],[-2.083282,48.135017]]]],"created":1292450762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/625802_20101215_39812d8377.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

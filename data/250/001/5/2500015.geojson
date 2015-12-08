@@ -1,0 +1,15 @@
+{
+  "id": 2500015,
+  "type": "Feature",
+  "properties": {
+    "name":"Stirling City, California, United States",
+    "placetype":"locality",
+    "woe:id":2500015,
+    "woe:name":"Stirling City, California, United States",
+    "woe:place_id":"nuOTT2KbBJyHz1TP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.530113,39.902,-121.514626,39.916058],
+  "geometry": {"alpha":0.00015,"bbox":[-121.53011322021,39.902000427246,-121.51462554932,39.91605758667],"coordinates":[[[[-121.522995,39.902016],[-121.523918,39.902],[-121.530113,39.903267],[-121.529625,39.906689],[-121.529518,39.908089],[-121.514626,39.916058],[-121.51754,39.911182],[-121.522995,39.902016]]]],"created":1292536721,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2500015_20101216_b289dc7a0f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 35173,
+  "type": "Feature",
+  "properties": {
+    "name":"South Ascot, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35173,
+    "woe:name":"South Ascot, England, United Kingdom",
+    "woe:place_id":"r_uuN.OaBJ0h9A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.675005,51.401455,-0.667591,51.406048],
+  "geometry": {"alpha":0.00015,"bbox":[-0.67500501871109,51.401454925537,-0.66759097576141,51.406047821045],"coordinates":[[[[-0.674983,51.406006],[-0.675005,51.406048],[-0.675002,51.406048],[-0.667591,51.4044],[-0.672569,51.401455],[-0.674983,51.406006]]]],"created":1248077410,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3449/shapefiles/35173_20090720_76a8a1a4b8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

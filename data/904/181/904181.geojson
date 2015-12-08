@@ -1,0 +1,15 @@
+{
+  "id": 904181,
+  "type": "Feature",
+  "properties": {
+    "name":"Skaraborg, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":904181,
+    "woe:name":"Skaraborg, Dalarna, Sweden",
+    "woe:place_id":"R_.77hSQAZjraTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.373756,60.307652,15.385966,60.315304],
+  "geometry": {"alpha":0.00015,"bbox":[15.373756408691,60.307651519775,15.385966300964,60.31530380249],"coordinates":[[[[15.374679,60.315304],[15.385966,60.309692],[15.385494,60.307652],[15.373756,60.310902],[15.374679,60.315304]]]],"created":1292521039,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/904181_20101216_4139bf5e2a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

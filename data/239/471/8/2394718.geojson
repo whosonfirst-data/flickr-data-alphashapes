@@ -1,0 +1,15 @@
+{
+  "id": 2394718,
+  "type": "Feature",
+  "properties": {
+    "name":"Durham, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2394718,
+    "woe:name":"Durham, Indiana, United States",
+    "woe:place_id":"Vc8lIpubApVo3yYA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.831131,41.592625,-86.819458,41.616982],
+  "geometry": {"alpha":0.00015,"bbox":[-86.831130981445,41.592624664307,-86.819458007812,41.616981506348],"coordinates":[[[[-86.829758,41.592659],[-86.831131,41.592625],[-86.829582,41.593044],[-86.821907,41.5993],[-86.819458,41.616982],[-86.81974,41.59935],[-86.829758,41.592659]]]],"created":1292540524,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2394718_20101216_4309386061.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

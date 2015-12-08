@@ -1,0 +1,15 @@
+{
+  "id": 12521187,
+  "type": "Feature",
+  "properties": {
+    "name":"Ocala Regional Airport, United States",
+    "placetype":"locality",
+    "woe:id":12521187,
+    "woe:name":"Ocala Regional Airport, United States",
+    "woe:place_id":"XrFbhP6YA5kgJqI1og",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.223335,29.171499,-82.220169,29.177141],
+  "geometry": {"alpha":1e-05,"bbox":[-82.223335266113,29.171499252319,-82.220169067383,29.177141189575],"coordinates":[[[[-82.220497,29.175333],[-82.220169,29.175165],[-82.223335,29.171499],[-82.222046,29.177141],[-82.220497,29.175333]]]],"created":1292526457,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12521187_20101216_94acc6809b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

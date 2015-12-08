@@ -1,0 +1,15 @@
+{
+  "id": 8483,
+  "type": "Feature",
+  "properties": {
+    "name":"Glendon, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8483,
+    "woe:name":"Glendon, Alberta, Canada",
+    "woe:place_id":"31tzb56RBZTb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-111.158295,54.247189,-111.153511,54.253967],
+  "geometry": {"alpha":0.00015,"bbox":[-111.15829467773,54.247188568115,-111.15351104736,54.253967285156],"coordinates":[[[[-111.156059,54.252991],[-111.154175,54.253967],[-111.154221,54.252678],[-111.154175,54.250786],[-111.153511,54.247223],[-111.153831,54.247189],[-111.158295,54.250683],[-111.158295,54.250786],[-111.156059,54.252991]]]],"created":1292528758,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/8483_20101216_dac2874c37.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

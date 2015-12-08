@@ -1,0 +1,15 @@
+{
+  "id": 12676654,
+  "type": "Feature",
+  "properties": {
+    "name":"Beinasco, Italy",
+    "placetype":"locality",
+    "woe:id":12676654,
+    "woe:name":"Beinasco, Italy",
+    "woe:place_id":"B1Gk0cuYA5pce5QaHw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.564221,45.011208,7.568399,45.014542],
+  "geometry": {"alpha":1e-05,"bbox":[7.564220905304,45.011207580566,7.5683989524841,45.014541625977],"coordinates":[[[[7.566576,45.01144],[7.564221,45.013382],[7.568399,45.014542],[7.568356,45.01424],[7.567874,45.011578],[7.567101,45.011208],[7.566576,45.01144]]]],"created":1248111123,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3478/shapefiles/12676654_20090720_88d991e417.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

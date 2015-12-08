@@ -1,0 +1,15 @@
+{
+  "id": 705132,
+  "type": "Feature",
+  "properties": {
+    "name":"Wellheim, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":705132,
+    "woe:name":"Wellheim, Bavaria, Germany",
+    "woe:place_id":"6D3TAASeAZmMYiY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.079111,48.818844,11.091337,48.830147],
+  "geometry": {"alpha":0.00015,"bbox":[11.079111099243,48.818843841553,11.091337203979,48.830146789551],"coordinates":[[[[11.079238,48.820583],[11.079111,48.830147],[11.082241,48.829967],[11.091337,48.828098],[11.088466,48.820087],[11.082158,48.818844],[11.079787,48.820087],[11.079238,48.820583]]]],"created":1292494923,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/705132_20101216_bda39593fc.tar.gz"},"points":107,"type":"MultiPolygon"}
+}

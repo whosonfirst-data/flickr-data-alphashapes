@@ -1,0 +1,15 @@
+{
+  "id": 895143,
+  "type": "Feature",
+  "properties": {
+    "name":"Katrineberg, Gavleborg, Sweden",
+    "placetype":"locality",
+    "woe:id":895143,
+    "woe:name":"Katrineberg, Gavleborg, Sweden",
+    "woe:place_id":"GfJ1PFqRCJkKyqY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.3225,61.105148,16.325064,61.110718],
+  "geometry": {"alpha":0.00015,"bbox":[16.322500228882,61.10514831543,16.325063705444,61.110717773438],"coordinates":[[[[16.325064,61.110622],[16.323118,61.105148],[16.3225,61.110001],[16.324308,61.110718],[16.325064,61.110622]]]],"created":1292519943,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/895143_20101216_036d8572cf.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

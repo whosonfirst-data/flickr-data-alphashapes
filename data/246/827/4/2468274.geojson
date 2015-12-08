@@ -1,0 +1,15 @@
+{
+  "id": 2468274,
+  "type": "Feature",
+  "properties": {
+    "name":"Paris, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2468274,
+    "woe:name":"Paris, Oregon, United States",
+    "woe:place_id":"xH5KBwybBZqEPUmo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.773331,44.23819,-123.769623,44.252483],
+  "geometry": {"alpha":0.00015,"bbox":[-123.77333068848,44.238189697266,-123.76962280273,44.25248336792],"coordinates":[[[[-123.772552,44.23819],[-123.773331,44.238499],[-123.76963,44.252483],[-123.769623,44.252483],[-123.769707,44.24028],[-123.769707,44.240276],[-123.769707,44.240273],[-123.772552,44.23819]]]],"created":1292540824,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/2468274_20101216_818e3ea6ec.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

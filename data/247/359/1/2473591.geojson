@@ -1,0 +1,15 @@
+{
+  "id": 2473591,
+  "type": "Feature",
+  "properties": {
+    "name":"Platte Colony, South Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2473591,
+    "woe:name":"Platte Colony, South Dakota, United States",
+    "woe:place_id":"pZwi.NebBZvG8rbM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.103043,43.478203,-99.062164,43.485447],
+  "geometry": {"alpha":0.00015,"bbox":[-99.103042602539,43.478202819824,-99.062164306641,43.485446929932],"coordinates":[[[[-99.102699,43.480663],[-99.103043,43.485447],[-99.084145,43.482944],[-99.062164,43.478203],[-99.084145,43.482384],[-99.102699,43.480663]]]],"created":1292377203,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/2473591_20101215_273c2fbaba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

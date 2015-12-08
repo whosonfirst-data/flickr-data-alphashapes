@@ -1,0 +1,15 @@
+{
+  "id": 612874,
+  "type": "Feature",
+  "properties": {
+    "name":"Montlouis, Centre, France",
+    "placetype":"locality",
+    "woe:id":612874,
+    "woe:name":"Montlouis, Centre, France",
+    "woe:place_id":"v792RHGfAJ5LhvE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.821785,47.375858,0.844616,47.391842],
+  "geometry": {"alpha":0.00015,"bbox":[0.82178497314453,47.375858306885,0.84461599588394,47.391841888428],"coordinates":[[[[0.825347,47.391842],[0.827236,47.390446],[0.839764,47.390057],[0.844616,47.391579],[0.838694,47.375858],[0.821785,47.377899],[0.825347,47.391842]]]],"created":1248207845,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3045/shapefiles/612874_20090721_65e945e8f6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

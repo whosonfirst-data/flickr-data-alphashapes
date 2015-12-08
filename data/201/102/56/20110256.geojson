@@ -1,0 +1,15 @@
+{
+  "id": 20110256,
+  "type": "Feature",
+  "properties": {
+    "name":"Aurogna, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20110256,
+    "woe:name":"Aurogna, Lombardy, Italy",
+    "woe:place_id":"InSU9LCbAZ0omxIlSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.343829,46.159161,9.354686,46.1702],
+  "geometry": {"alpha":0.00015,"bbox":[9.3438291549683,46.159160614014,9.3546857833862,46.1702003479],"coordinates":[[[[9.354686,46.167824],[9.354676,46.167496],[9.343829,46.159161],[9.346275,46.167465],[9.351253,46.1702],[9.354686,46.167824]]]],"created":1292547169,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/20110256_20101217_89713616d0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

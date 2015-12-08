@@ -1,0 +1,15 @@
+{
+  "id": 770558,
+  "type": "Feature",
+  "properties": {
+    "name":"Porto, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":770558,
+    "woe:name":"Porto, Galicia, Spain",
+    "woe:place_id":"paapO7meBpzhte4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.174836,43.414089,-8.162884,43.428669],
+  "geometry": {"alpha":0.00015,"bbox":[-8.1748361587524,43.414089202881,-8.1628837585449,43.42866897583],"coordinates":[[[[-8.174836,43.428326],[-8.174021,43.428669],[-8.162884,43.414089],[-8.17224,43.417953],[-8.174836,43.428326]]]],"created":1292411761,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/770558_20101215_76f45435c0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

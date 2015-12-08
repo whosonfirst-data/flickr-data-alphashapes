@@ -1,0 +1,15 @@
+{
+  "id": 20076937,
+  "type": "Feature",
+  "properties": {
+    "name":"San Vitaliano, Italy",
+    "placetype":"locality",
+    "woe:id":20076937,
+    "woe:name":"San Vitaliano, Italy",
+    "woe:place_id":"07zdOQybAZxPFBV58A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.486781,40.949623,14.488563,40.951866],
+  "geometry": {"alpha":1e-05,"bbox":[14.4867811203,40.94962310791,14.488562583923,40.951866149902],"coordinates":[[[[14.488375,40.949623],[14.486781,40.950024],[14.486997,40.950661],[14.488177,40.951866],[14.488563,40.950699],[14.488375,40.949623]]]],"created":1292542658,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/20076937_20101216_fa836aa203.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

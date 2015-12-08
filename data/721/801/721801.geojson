@@ -1,0 +1,15 @@
+{
+  "id": 721801,
+  "type": "Feature",
+  "properties": {
+    "name":"Robecco, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":721801,
+    "woe:name":"Robecco, Lombardy, Italy",
+    "woe:place_id":"xYiMRJWeA53z7sk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.075492,45.255646,10.079054,45.266487],
+  "geometry": {"alpha":0.00015,"bbox":[10.075491905212,45.255645751953,10.079053878784,45.266487121582],"coordinates":[[[[10.075546,45.255646],[10.075492,45.255726],[10.077,45.259998],[10.07869,45.266323],[10.079054,45.266487],[10.077,45.259998],[10.075546,45.255646]]]],"created":1292447395,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/721801_20101215_98c792b0fd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

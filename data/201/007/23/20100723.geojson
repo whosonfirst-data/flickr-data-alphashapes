@@ -1,0 +1,15 @@
+{
+  "id": 20100723,
+  "type": "Feature",
+  "properties": {
+    "name":"Annunziata, Canton of Graubunden, Switzerland",
+    "placetype":"locality",
+    "woe:id":20100723,
+    "woe:name":"Annunziata, Canton of Graubunden, Switzerland",
+    "woe:place_id":"716zecSbAZ2ZszC2Ng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.067821,46.302116,10.071201,46.304985],
+  "geometry": {"alpha":0.00015,"bbox":[10.067820549011,46.302116394043,10.071201324463,46.304985046387],"coordinates":[[[[10.068454,46.304134],[10.067821,46.304985],[10.069586,46.304504],[10.070447,46.304203],[10.071201,46.302116],[10.068454,46.304134]]]],"created":1292445430,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20100723_20101215_69652dcf07.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

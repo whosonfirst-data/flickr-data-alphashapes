@@ -1,0 +1,15 @@
+{
+  "id": 151680,
+  "type": "Feature",
+  "properties": {
+    "name":"Zaragosa, Puebla, Mexico",
+    "placetype":"locality",
+    "woe:id":151680,
+    "woe:name":"Zaragosa, Puebla, Mexico",
+    "woe:place_id":"U2GavdyYBJ2zVfc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.572151,19.759596,-97.551552,19.770742],
+  "geometry": {"alpha":0.00015,"bbox":[-97.572151184082,19.759595870972,-97.551551818848,19.770742416382],"coordinates":[[[[-97.555161,19.759596],[-97.572151,19.761372],[-97.551727,19.770742],[-97.551552,19.770258],[-97.555161,19.759596]]]],"created":1292529710,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/151680_20101216_7fb1afdc10.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

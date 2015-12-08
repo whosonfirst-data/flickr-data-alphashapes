@@ -1,0 +1,15 @@
+{
+  "id": 2369964,
+  "type": "Feature",
+  "properties": {
+    "name":"Brooklyn, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2369964,
+    "woe:name":"Brooklyn, Washington, United States",
+    "woe:place_id":"1GK1rWabApoKUkAW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.564819,46.777294,-123.542137,46.785751],
+  "geometry": {"alpha":0.00015,"bbox":[-123.56481933594,46.777294158936,-123.542137146,46.785751342773],"coordinates":[[[[-123.552933,46.777294],[-123.564819,46.783958],[-123.544884,46.785404],[-123.542137,46.785751],[-123.552933,46.777294]]]],"created":1292528227,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2369964_20101216_9563faabb7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

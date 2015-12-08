@@ -1,0 +1,15 @@
+{
+  "id": 3001,
+  "type": "Feature",
+  "properties": {
+    "name":"Moose Lake, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":3001,
+    "woe:name":"Moose Lake, Manitoba, Canada",
+    "woe:place_id":"2AmfGMiaAZxS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.334358,49.194942,-95.316696,49.216869],
+  "geometry": {"alpha":0.00015,"bbox":[-95.334358215332,49.194942474365,-95.316696166992,49.216869354248],"coordinates":[[[[-95.316696,49.216869],[-95.322876,49.212215],[-95.329567,49.194942],[-95.334358,49.205135],[-95.326157,49.212868],[-95.316696,49.216869]]]],"created":1292520485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/3001_20101216_cd1bbc26d6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2354458,
+  "type": "Feature",
+  "properties": {
+    "name":"Anandale, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2354458,
+    "woe:name":"Anandale, Louisiana, United States",
+    "woe:place_id":"aeNQ_ASbApkojbVF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.480553,31.254723,-92.456345,31.265989],
+  "geometry": {"alpha":0.00015,"bbox":[-92.48055267334,31.254722595215,-92.456344604492,31.265989303589],"coordinates":[[[[-92.463112,31.265989],[-92.456345,31.264633],[-92.468681,31.259439],[-92.480553,31.254723],[-92.475357,31.263218],[-92.463112,31.265989]]]],"created":1292500148,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2354458_20101216_521d6230c7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

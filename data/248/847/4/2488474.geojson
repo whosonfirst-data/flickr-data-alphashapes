@@ -1,0 +1,15 @@
+{
+  "id": 2488474,
+  "type": "Feature",
+  "properties": {
+    "name":"Sandlewood, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2488474,
+    "woe:name":"Sandlewood, South Carolina, United States",
+    "woe:place_id":"ZnDr_FObBZTbADkG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.901581,33.546261,-81.897652,33.548145],
+  "geometry": {"alpha":0.00015,"bbox":[-81.901580810547,33.54626083374,-81.897651672363,33.548145294189],"coordinates":[[[[-81.897797,33.546421],[-81.897751,33.546383],[-81.897697,33.546318],[-81.897652,33.546261],[-81.901581,33.548145],[-81.897797,33.546421]]]],"created":1292545287,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2488474_20101217_19c1b847f4.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

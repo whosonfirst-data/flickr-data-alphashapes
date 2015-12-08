@@ -1,0 +1,15 @@
+{
+  "id": 12627552,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Eschbach, Germany",
+    "placetype":"locality",
+    "woe:id":12627552,
+    "woe:name":"Gemeinde Eschbach, Germany",
+    "woe:place_id":".rBQYpiYA5qOMEgb8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.010063,49.169697,8.012616,49.171547],
+  "geometry": {"alpha":1e-05,"bbox":[8.0100631713867,49.169696807861,8.0126161575317,49.171546936035],"coordinates":[[[[8.010063,49.169697],[8.010578,49.170033],[8.011693,49.171547],[8.012616,49.171505],[8.010864,49.169834],[8.010063,49.169697]]]],"created":1234927325,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3480/shapefiles/12627552_20090218_56451a8572.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

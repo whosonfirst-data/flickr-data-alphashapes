@@ -1,0 +1,15 @@
+{
+  "id": 1099249,
+  "type": "Feature",
+  "properties": {
+    "name":"Wamuran, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1099249,
+    "woe:name":"Wamuran, Queensland, Australia",
+    "woe:place_id":"pdceGpqYAZVNhQoC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.839386,-27.052628,152.870972,-27.021551],
+  "geometry": {"alpha":0.00015,"bbox":[152.83938598633,-27.052627563477,152.87097167969,-27.021551132202],"coordinates":[[[[152.860825,-27.0401],[152.870972,-27.021551],[152.869308,-27.037607],[152.859772,-27.052628],[152.855362,-27.052017],[152.839386,-27.03948],[152.860825,-27.0401]]]],"created":1292522351,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/1099249_20101216_2a02db454c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

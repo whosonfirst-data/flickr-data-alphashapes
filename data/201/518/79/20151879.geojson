@@ -1,0 +1,15 @@
+{
+  "id": 20151879,
+  "type": "Feature",
+  "properties": {
+    "name":"Vreten, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":20151879,
+    "woe:name":"Vreten, Stockholm, Sweden",
+    "woe:place_id":"u.o1eg6bAZ3zr76NiQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.575359,59.225719,18.585949,59.259518],
+  "geometry": {"alpha":0.00015,"bbox":[18.575359344482,59.225719451904,18.585948944092,59.259517669678],"coordinates":[[[[18.575359,59.252739],[18.57935,59.259518],[18.585432,59.245522],[18.585949,59.225719],[18.584061,59.24482],[18.575359,59.252739]]]],"created":1292441776,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20151879_20101215_dcb5dfb2e7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

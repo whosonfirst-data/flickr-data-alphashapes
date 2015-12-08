@@ -1,0 +1,15 @@
+{
+  "id": 20093157,
+  "type": "Feature",
+  "properties": {
+    "name":"Chipping Hill, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20093157,
+    "woe:name":"Chipping Hill, England, United Kingdom",
+    "woe:place_id":"f.fEE9mbAZxJi1zBdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.629167,51.802326,0.641938,51.813],
+  "geometry": {"alpha":0.00015,"bbox":[0.62916702032089,51.802326202393,0.64193797111511,51.812999725342],"coordinates":[[[[0.631833,51.813],[0.63888,51.808865],[0.641938,51.8055],[0.635704,51.802326],[0.629167,51.806667],[0.631667,51.812332],[0.631833,51.813]]]],"created":1292545750,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20093157_20101217_81696fe536.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

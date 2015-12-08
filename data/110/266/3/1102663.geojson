@@ -1,0 +1,15 @@
+{
+  "id": 1102663,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillston, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1102663,
+    "woe:name":"Hillston, New South Wales, Australia",
+    "woe:place_id":"Y4hAxkKYAJz40CYK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.531464,-33.485405,145.536179,-33.474121],
+  "geometry": {"alpha":0.00015,"bbox":[145.53146362305,-33.485404968262,145.53617858887,-33.47412109375],"coordinates":[[[[145.531464,-33.485397],[145.533829,-33.4772],[145.535294,-33.474121],[145.536179,-33.481522],[145.535202,-33.483856],[145.531464,-33.485405],[145.531464,-33.485397]]]],"created":1292458961,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/1102663_20101216_3606bbf78d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

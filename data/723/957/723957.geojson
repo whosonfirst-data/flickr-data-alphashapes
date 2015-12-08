@@ -1,0 +1,15 @@
+{
+  "id": 723957,
+  "type": "Feature",
+  "properties": {
+    "name":"Secchiano, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":723957,
+    "woe:name":"Secchiano, Marche, Italy",
+    "woe:place_id":"kpCbUdaeA58fwCM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.605481,43.545795,12.612004,43.547302],
+  "geometry": {"alpha":0.00015,"bbox":[12.605481147766,43.545795440674,12.61200428009,43.547302246094],"coordinates":[[[[12.605481,43.545795],[12.605721,43.546135],[12.607927,43.546276],[12.611618,43.547302],[12.612004,43.547115],[12.607927,43.546276],[12.605481,43.545795]]]],"created":1292410084,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/723957_20101215_111c9892a9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2404276,
+  "type": "Feature",
+  "properties": {
+    "name":"Fleming, New York, United States",
+    "placetype":"locality",
+    "woe:id":2404276,
+    "woe:name":"Fleming, New York, United States",
+    "woe:place_id":"538fCrebBZyVIm_N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.564621,42.892704,-76.550331,42.911671],
+  "geometry": {"alpha":0.0001875,"bbox":[-76.56462097168,42.89270401001,-76.550331115723,42.911670684814],"coordinates":[[[[-76.550331,42.894833],[-76.55117,42.894665],[-76.564095,42.892704],[-76.564156,42.893234],[-76.564621,42.911423],[-76.564606,42.911671],[-76.561485,42.906212],[-76.550522,42.899044],[-76.550362,42.898876],[-76.550331,42.894833]]]],"created":1292551209,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2404276_20101217_c494605bcf.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2434880,
+  "type": "Feature",
+  "properties": {
+    "name":"Lake Forest, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2434880,
+    "woe:name":"Lake Forest, Texas, United States",
+    "woe:place_id":"cBzgQ0SbBZ.cbVZz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.520416,32.943012,-97.511642,32.962948],
+  "geometry": {"alpha":0.00015,"bbox":[-97.520416259766,32.943012237549,-97.511642456055,32.962947845459],"coordinates":[[[[-97.516846,32.962902],[-97.511642,32.962948],[-97.519669,32.943012],[-97.520416,32.943058],[-97.516861,32.9627],[-97.516846,32.962902]]]],"created":1292534642,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2434880_20101216_ce265cb04d.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

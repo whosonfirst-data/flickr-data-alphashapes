@@ -1,0 +1,15 @@
+{
+  "id": 772465,
+  "type": "Feature",
+  "properties": {
+    "name":"Salem, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":772465,
+    "woe:name":"Salem, Valencia, Spain",
+    "woe:place_id":"6MoisGmeBp682PQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.393619,38.843674,-0.373921,38.853031],
+  "geometry": {"alpha":0.00015,"bbox":[-0.39361900091171,38.843673706055,-0.37392100691795,38.853031158447],"coordinates":[[[[-0.374264,38.846779],[-0.373921,38.844955],[-0.391198,38.843674],[-0.391762,38.846954],[-0.393619,38.852543],[-0.381209,38.853031],[-0.374264,38.846779]]]],"created":1292458744,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/772465_20101216_c23f9910c8.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

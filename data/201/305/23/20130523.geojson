@@ -1,0 +1,15 @@
+{
+  "id": 20130523,
+  "type": "Feature",
+  "properties": {
+    "name":"Marceddi, Sardinia, Italy",
+    "placetype":"locality",
+    "woe:id":20130523,
+    "woe:name":"Marceddi, Sardinia, Italy",
+    "woe:place_id":"VG.K8JmbAZ2moTM4hQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.499444,39.712566,8.520584,39.744156],
+  "geometry": {"alpha":0.00015,"bbox":[8.4994440078735,39.712566375732,8.5205841064453,39.744155883789],"coordinates":[[[[8.504104,39.724617],[8.499444,39.731945],[8.499444,39.733334],[8.519382,39.744156],[8.520584,39.72224],[8.51715,39.718281],[8.502216,39.712566],[8.504104,39.724617]]]],"created":1292548191,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20130523_20101217_03bd20214e.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

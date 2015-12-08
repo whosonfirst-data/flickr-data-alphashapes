@@ -1,0 +1,15 @@
+{
+  "id": 141646,
+  "type": "Feature",
+  "properties": {
+    "name":"San Antonio, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":141646,
+    "woe:name":"San Antonio, San Luis Potosi, Mexico",
+    "woe:place_id":"TQRiEQOYBZ335X8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.015999,21.36532,-98.995552,21.389387],
+  "geometry": {"alpha":0.00015,"bbox":[-99.015998840332,21.365320205688,-98.995552062988,21.389387130737],"coordinates":[[[[-98.997803,21.388027],[-98.995552,21.38616],[-98.997971,21.380276],[-99.006157,21.36532],[-99.015999,21.372522],[-99.005356,21.383074],[-98.999344,21.389387],[-98.997803,21.388027]]]],"created":1292545338,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/141646_20101217_78629a6b0d.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

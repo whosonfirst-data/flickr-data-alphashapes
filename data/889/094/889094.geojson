@@ -1,0 +1,15 @@
+{
+  "id": 889094,
+  "type": "Feature",
+  "properties": {
+    "name":"Estuna, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":889094,
+    "woe:name":"Estuna, Stockholm, Sweden",
+    "woe:place_id":"imJX6m2RCZVwWlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.647694,59.800602,18.664227,59.819626],
+  "geometry": {"alpha":0.00015,"bbox":[18.647693634033,59.800601959229,18.664226531982,59.819625854492],"coordinates":[[[[18.653669,59.819626],[18.664227,59.808533],[18.647694,59.800602],[18.653069,59.818287],[18.653669,59.819626]]]],"created":1292458952,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/889094_20101216_2d7073ea54.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

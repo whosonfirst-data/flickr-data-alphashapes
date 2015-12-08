@@ -1,0 +1,15 @@
+{
+  "id": 3555,
+  "type": "Feature",
+  "properties": {
+    "name":"Beauharnois, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3555,
+    "woe:name":"Beauharnois, Quebec, Canada",
+    "woe:place_id":"ajTIWAyaBJnV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.90065,45.307407,-73.818619,45.334297],
+  "geometry": {"alpha":0.000234375,"bbox":[-73.900650024414,45.30740737915,-73.818618774414,45.334297180176],"coordinates":[[[[-73.818642,45.334297],[-73.818619,45.334259],[-73.837219,45.321163],[-73.855804,45.327408],[-73.865875,45.307407],[-73.881386,45.310406],[-73.90033,45.315632],[-73.90065,45.316246],[-73.89782,45.31884],[-73.87722,45.317875],[-73.874214,45.318176],[-73.855804,45.327408],[-73.841835,45.328602],[-73.818642,45.334297]]]],"created":1292523402,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/3555_20101216_79ab6daaf1.tar.gz"},"points":37,"type":"MultiPolygon"}
+}

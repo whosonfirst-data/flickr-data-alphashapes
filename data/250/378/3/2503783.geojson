@@ -1,0 +1,15 @@
+{
+  "id": 2503783,
+  "type": "Feature",
+  "properties": {
+    "name":"Talmage, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2503783,
+    "woe:name":"Talmage, Kansas, United States",
+    "woe:place_id":"eC1o6j2bBJwBTPgw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.261101,39.026619,-97.259094,39.027184],
+  "geometry": {"alpha":0.00015,"bbox":[-97.261100769043,39.02661895752,-97.259094238281,39.027183532715],"coordinates":[[[[-97.259911,39.026649],[-97.260292,39.026718],[-97.261101,39.027184],[-97.259369,39.026703],[-97.259094,39.026619],[-97.259911,39.026649]]]],"created":1292448739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2503783_20101215_c20f293b1a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

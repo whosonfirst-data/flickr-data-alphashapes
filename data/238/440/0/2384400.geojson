@@ -1,0 +1,15 @@
+{
+  "id": 2384400,
+  "type": "Feature",
+  "properties": {
+    "name":"Conway, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2384400,
+    "woe:name":"Conway, Pennsylvania, United States",
+    "woe:place_id":"N6CBaLObApTORASn",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.24852,40.648441,-80.209877,40.675343],
+  "geometry": {"alpha":0.00015,"bbox":[-80.248519897461,40.648441314697,-80.20987701416,40.675342559814],"coordinates":[[[[-80.233742,40.655769],[-80.234009,40.650558],[-80.233841,40.648441],[-80.237244,40.655857],[-80.239937,40.65963],[-80.240227,40.660015],[-80.242935,40.663193],[-80.248123,40.667259],[-80.24852,40.670216],[-80.246201,40.672565],[-80.231308,40.669636],[-80.209877,40.675343],[-80.225868,40.665012],[-80.233742,40.655769]]]],"created":1292529595,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2384400_20101216_7f9569e31e.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

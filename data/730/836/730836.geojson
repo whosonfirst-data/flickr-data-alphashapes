@@ -1,0 +1,15 @@
+{
+  "id": 730836,
+  "type": "Feature",
+  "properties": {
+    "name":"Knegsel, North Brabant, Netherlands",
+    "placetype":"locality",
+    "woe:id":730836,
+    "woe:name":"Knegsel, North Brabant, Netherlands",
+    "woe:place_id":"XpzcLwyeApwURRk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.340385,51.395725,5.353346,51.414036],
+  "geometry": {"alpha":0.00015,"bbox":[5.3403849601746,51.395725250244,5.3533458709717,51.414035797119],"coordinates":[[[[5.348496,51.395725],[5.346221,51.398884],[5.340385,51.405846],[5.345706,51.414036],[5.353346,51.407558],[5.350599,51.399311],[5.348496,51.395725]]]],"created":1292540490,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/730836_20101216_fe158a3467.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

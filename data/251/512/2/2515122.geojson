@@ -1,0 +1,15 @@
+{
+  "id": 2515122,
+  "type": "Feature",
+  "properties": {
+    "name":"Waterloo, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2515122,
+    "woe:name":"Waterloo, Kentucky, United States",
+    "woe:place_id":"Mn6QgqebBJ062xlK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.800331,38.949848,-84.784538,38.95924],
+  "geometry": {"alpha":0.00015,"bbox":[-84.800331115723,38.949848175049,-84.784538269043,38.959239959717],"coordinates":[[[[-84.799088,38.954735],[-84.800331,38.955898],[-84.799988,38.95924],[-84.796913,38.956779],[-84.784538,38.949848],[-84.799088,38.954735]]]],"created":1292448725,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2515122_20101215_2009cc14ac.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

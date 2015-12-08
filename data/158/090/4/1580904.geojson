@@ -1,0 +1,15 @@
+{
+  "id": 1580904,
+  "type": "Feature",
+  "properties": {
+    "name":"Dundee, Kwazulu Natal, South Africa",
+    "placetype":"locality",
+    "woe:id":1580904,
+    "woe:name":"Dundee, Kwazulu Natal, South Africa",
+    "woe:place_id":"pmIABS2YBJSMwree",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [30.23064,-28.166529,30.25963,-28.1555],
+  "geometry": {"alpha":0.00015,"bbox":[30.230640411377,-28.166528701782,30.259630203247,-28.155500411987],"coordinates":[[[[30.23064,-28.166529],[30.243601,-28.15757],[30.25963,-28.1555],[30.259556,-28.155766],[30.245018,-28.159189],[30.23064,-28.166529]]]],"created":1292529104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/1580904_20101216_3d66381e37.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

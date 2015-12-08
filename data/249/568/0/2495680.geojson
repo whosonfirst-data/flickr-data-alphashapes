@@ -1,0 +1,15 @@
+{
+  "id": 2495680,
+  "type": "Feature",
+  "properties": {
+    "name":"Somerset, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2495680,
+    "woe:name":"Somerset, Maryland, United States",
+    "woe:place_id":"PFxq1iybBZWmpksL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.037506,39.517483,-77.02317,39.537743],
+  "geometry": {"alpha":0.00015,"bbox":[-77.037506103516,39.517482757568,-77.023170471191,39.537742614746],"coordinates":[[[[-77.026001,39.537743],[-77.02317,39.527],[-77.023499,39.527],[-77.037163,39.517483],[-77.037506,39.523109],[-77.026001,39.537743]]]],"created":1292454563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2495680_20101215_f329f9f9f4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

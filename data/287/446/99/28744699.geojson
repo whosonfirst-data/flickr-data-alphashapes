@@ -1,0 +1,15 @@
+{
+  "id": 28744699,
+  "type": "Feature",
+  "properties": {
+    "name":"Richland, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744699,
+    "woe:name":"Richland, Pennsylvania, United States",
+    "woe:place_id":"4rWQidybCZt1WRxxhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.655266,41.234383,-79.649536,41.238419],
+  "geometry": {"alpha":0.00015,"bbox":[-79.655265808105,41.234382629395,-79.649536132812,41.238418579102],"coordinates":[[[[-79.654289,41.23822],[-79.650879,41.236561],[-79.649536,41.234383],[-79.655266,41.238419],[-79.654289,41.23822]]]],"created":1292521467,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/28744699_20101216_0f21c384b0.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

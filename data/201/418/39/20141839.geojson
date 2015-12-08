@@ -1,0 +1,15 @@
+{
+  "id": 20141839,
+  "type": "Feature",
+  "properties": {
+    "name":"San Polo, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":20141839,
+    "woe:name":"San Polo, Emilia Romagna, Italy",
+    "woe:place_id":"u.uaS4KbAZ3OD8nIjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.354785,44.875687,10.365936,44.891193],
+  "geometry": {"alpha":0.00015,"bbox":[10.354784965515,44.875686645508,10.365936279297,44.891193389893],"coordinates":[[[[10.362258,44.891174],[10.365936,44.890808],[10.36251,44.885498],[10.359292,44.875687],[10.354785,44.891193],[10.362258,44.891174]]]],"created":1292441661,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/20141839_20101215_fc0ca3e46b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 464880,
+  "type": "Feature",
+  "properties": {
+    "name":"Camet, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":464880,
+    "woe:name":"Camet, Buenos Aires, Argentina",
+    "woe:place_id":"Bv7gZ_mdB5iJffA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-57.502441,-37.838665,-57.491627,-37.827278],
+  "geometry": {"alpha":0.00015,"bbox":[-57.50244140625,-37.838665008545,-57.491626739502,-37.827278137207],"coordinates":[[[[-57.491627,-37.827278],[-57.493,-37.831684],[-57.498322,-37.838665],[-57.502441,-37.834057],[-57.491627,-37.827278]]]],"created":1247908927,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3468/shapefiles/464880_20090718_938b472625.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

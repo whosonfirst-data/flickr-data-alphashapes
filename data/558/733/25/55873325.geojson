@@ -1,0 +1,15 @@
+{
+  "id": 55873325,
+  "type": "Feature",
+  "properties": {
+    "name":"Hamnviken, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":55873325,
+    "woe:name":"Hamnviken, Stockholm, Sweden",
+    "woe:place_id":"yK0HkZucBJTa0ODjDw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.830137,59.59293,18.847389,59.609615],
+  "geometry": {"alpha":0.00015,"bbox":[18.830137252808,59.592929840088,18.847389221191,59.609615325928],"coordinates":[[[[18.844643,59.59293],[18.844299,59.594929],[18.830137,59.609615],[18.847389,59.597012],[18.844643,59.59293]]]],"created":1292457903,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/55873325_20101216_5b8e38fe6c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

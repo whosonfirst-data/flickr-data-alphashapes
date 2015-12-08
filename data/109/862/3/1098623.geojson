@@ -1,0 +1,15 @@
+{
+  "id": 1098623,
+  "type": "Feature",
+  "properties": {
+    "name":"St Andrews, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1098623,
+    "woe:name":"St Andrews, Victoria, Australia",
+    "woe:place_id":"R1EQv0OYAZXJ9LJD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.259857,-37.613415,145.30159,-37.581589],
+  "geometry": {"alpha":0.00015,"bbox":[145.25985717773,-37.613414764404,145.30158996582,-37.581588745117],"coordinates":[[[[145.266037,-37.602127],[145.259857,-37.581589],[145.280457,-37.590294],[145.274963,-37.597912],[145.284576,-37.613144],[145.294525,-37.613415],[145.30159,-37.603065],[145.284576,-37.613144],[145.272736,-37.608826],[145.266373,-37.608723],[145.266037,-37.602127]]]],"created":1292548618,"edges":11,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/1098623_20101217_1459d81e93.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

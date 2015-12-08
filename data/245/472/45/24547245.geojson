@@ -1,0 +1,15 @@
+{
+  "id": 24547245,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Friesack, Germany",
+    "placetype":"locality",
+    "woe:id":24547245,
+    "woe:name":"Gemeinde Friesack, Germany",
+    "woe:place_id":"eN2RpMybBZnVKmuURA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.5875,52.760666,12.587833,52.760834],
+  "geometry": {"alpha":1e-05,"bbox":[12.58749961853,52.760665893555,12.587833404541,52.760833740234],"coordinates":[[[[12.587527,52.760666],[12.5875,52.760834],[12.587833,52.760834],[12.587833,52.760666],[12.587527,52.760666]]]],"created":1292542706,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/24547245_20101216_bd3aa3c174.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

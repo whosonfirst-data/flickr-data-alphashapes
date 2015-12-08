@@ -1,0 +1,15 @@
+{
+  "id": 22739345,
+  "type": "Feature",
+  "properties": {
+    "name":"Hastings, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":22739345,
+    "woe:name":"Hastings, Tasmania, Australia",
+    "woe:place_id":"0Et7Ry2bA5tqyfv8cw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.840454,-43.399059,146.851151,-43.379646],
+  "geometry": {"alpha":0.00015,"bbox":[146.84045410156,-43.399059295654,146.8511505127,-43.37964630127],"coordinates":[[[[146.840454,-43.383015],[146.84494,-43.379913],[146.845779,-43.379646],[146.851151,-43.399059],[146.84137,-43.383217],[146.840637,-43.38311],[146.840454,-43.383015]]]],"created":1248142087,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3494/shapefiles/22739345_20090721_8492448834.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

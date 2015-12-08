@@ -1,0 +1,15 @@
+{
+  "id": 23418234,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Corners, Washington, United States",
+    "placetype":"locality",
+    "woe:id":23418234,
+    "woe:name":"Five Corners, Washington, United States",
+    "woe:place_id":"yvKkit.bApjnkpMgAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.572258,45.683041,-122.558228,45.702927],
+  "geometry": {"alpha":0.00015,"bbox":[-122.57225799561,45.683040618896,-122.55822753906,45.702926635742],"coordinates":[[[[-122.568077,45.702927],[-122.558228,45.688599],[-122.562851,45.687271],[-122.572258,45.683041],[-122.568077,45.702927]]]],"created":1239472929,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3385/shapefiles/23418234_20090411_c9a6f3a5c0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

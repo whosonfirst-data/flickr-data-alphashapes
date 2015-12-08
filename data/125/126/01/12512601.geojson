@@ -1,0 +1,15 @@
+{
+  "id": 12512601,
+  "type": "Feature",
+  "properties": {
+    "name":"Sonderborg Airport, Denmark",
+    "placetype":"locality",
+    "woe:id":12512601,
+    "woe:name":"Sonderborg Airport, Denmark",
+    "woe:place_id":"in3J7YiYA5lRzu3LDg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.786049,54.961948,9.793753,54.965828],
+  "geometry": {"alpha":1e-05,"bbox":[9.7860488891602,54.961948394775,9.7937526702881,54.965827941895],"coordinates":[[[[9.789569,54.962463],[9.787841,54.963146],[9.786049,54.964027],[9.788037,54.965828],[9.790071,54.964367],[9.790512,54.964127],[9.790674,54.963997],[9.793753,54.963547],[9.791489,54.961948],[9.789569,54.962463]]]],"created":1292536414,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12512601_20101216_b7a5b03387.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

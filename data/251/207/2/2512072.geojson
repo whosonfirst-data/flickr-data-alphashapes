@@ -1,0 +1,15 @@
+{
+  "id": 2512072,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2512072,
+    "woe:name":"Victoria, Maryland, United States",
+    "woe:place_id":"s0PC12.bBJ3i96ms",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.033669,38.559166,-76.010666,38.576218],
+  "geometry": {"alpha":0.00015,"bbox":[-76.033668518066,38.55916595459,-76.010665893555,38.576217651367],"coordinates":[[[[-76.013336,38.568169],[-76.013,38.567665],[-76.010666,38.559166],[-76.024338,38.566387],[-76.033669,38.572166],[-76.021698,38.576218],[-76.013336,38.568169]]]],"created":1292531665,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2512072_20101216_8b392733d8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12624448,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Grevenbroich, Germany",
+    "placetype":"locality",
+    "woe:id":12624448,
+    "woe:name":"Gemeinde Grevenbroich, Germany",
+    "woe:place_id":"mi_9bPyYA5rP1p33AA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.587333,51.088215,6.592655,51.094574],
+  "geometry": {"alpha":1e-05,"bbox":[6.5873332023621,51.088214874268,6.5926551818848,51.094573974609],"coordinates":[[[[6.588492,51.09053],[6.589565,51.094574],[6.592655,51.091988],[6.590423,51.090046],[6.587333,51.088215],[6.588492,51.09053]]]],"created":1292477897,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12624448_20101216_4f56cabf0c.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

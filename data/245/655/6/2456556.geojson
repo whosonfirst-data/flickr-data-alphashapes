@@ -1,0 +1,15 @@
+{
+  "id": 2456556,
+  "type": "Feature",
+  "properties": {
+    "name":"Murry, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2456556,
+    "woe:name":"Murry, Wisconsin, United States",
+    "woe:place_id":"sfJwbmCbBZlYgX92",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.196777,45.637634,-91.190178,45.640926],
+  "geometry": {"alpha":0.00015,"bbox":[-91.19677734375,45.637634277344,-91.19017791748,45.640926361084],"coordinates":[[[[-91.19149,45.637897],[-91.196777,45.640926],[-91.191406,45.638828],[-91.190178,45.637737],[-91.190453,45.637634],[-91.19149,45.637897]]]],"created":1247792043,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3493/shapefiles/2456556_20090717_46da50c59f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

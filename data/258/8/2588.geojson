@@ -1,0 +1,15 @@
+{
+  "id": 2588,
+  "type": "Feature",
+  "properties": {
+    "name":"Petersfield, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":2588,
+    "woe:name":"Petersfield, Manitoba, Canada",
+    "woe:place_id":"swz4XQmbBJQj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.976486,50.281593,-96.956146,50.305019],
+  "geometry": {"alpha":0.00015,"bbox":[-96.976486206055,50.281593322754,-96.956146240234,50.305019378662],"coordinates":[[[[-96.976486,50.294933],[-96.976234,50.305019],[-96.956146,50.294933],[-96.976234,50.281593],[-96.976486,50.294933]]]],"created":1292518132,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2588_20101216_055bccc620.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

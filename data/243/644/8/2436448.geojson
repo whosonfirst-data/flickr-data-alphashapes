@@ -1,0 +1,15 @@
+{
+  "id": 2436448,
+  "type": "Feature",
+  "properties": {
+    "name":"Lansing, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2436448,
+    "woe:name":"Lansing, North Carolina, United States",
+    "woe:place_id":"gVeTXsSbBZ.XiVwF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.511948,36.491974,-81.504395,36.503288],
+  "geometry": {"alpha":0.00015,"bbox":[-81.511947631836,36.491973876953,-81.50439453125,36.503288269043],"coordinates":[[[[-81.511734,36.499771],[-81.511948,36.500286],[-81.509628,36.500942],[-81.504395,36.503288],[-81.506111,36.491974],[-81.511734,36.499771]]]],"created":1292521181,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2436448_20101216_3f8a4c6a08.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

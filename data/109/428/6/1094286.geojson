@@ -1,0 +1,15 @@
+{
+  "id": 1094286,
+  "type": "Feature",
+  "properties": {
+    "name":"Batesford, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1094286,
+    "woe:name":"Batesford, Victoria, Australia",
+    "woe:place_id":"4sgnDWuYAZXKECHe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.267487,-38.098091,144.277008,-38.090561],
+  "geometry": {"alpha":0.00015,"bbox":[144.26748657227,-38.098091125488,144.27700805664,-38.090560913086],"coordinates":[[[[144.275375,-38.098091],[144.267487,-38.095413],[144.267715,-38.094765],[144.272614,-38.090561],[144.274521,-38.091946],[144.277008,-38.094444],[144.275375,-38.098091]]]],"created":1292521038,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/1094286_20101216_0295d06ef6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

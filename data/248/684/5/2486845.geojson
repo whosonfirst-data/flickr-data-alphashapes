@@ -1,0 +1,15 @@
+{
+  "id": 2486845,
+  "type": "Feature",
+  "properties": {
+    "name":"St. James Plantation, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2486845,
+    "woe:name":"St. James Plantation, Louisiana, United States",
+    "woe:place_id":"LCKYDCubBZRUB3m2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.76046,30.001328,-90.753593,30.005266],
+  "geometry": {"alpha":0.00015,"bbox":[-90.760459899902,30.001327514648,-90.753593444824,30.005266189575],"coordinates":[[[[-90.753937,30.003632],[-90.753593,30.001328],[-90.754967,30.002218],[-90.76046,30.005266],[-90.754623,30.004457],[-90.753937,30.003632]]]],"created":1292469727,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/2486845_20101216_d67b94eca0.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

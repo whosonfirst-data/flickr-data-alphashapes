@@ -1,0 +1,15 @@
+{
+  "id": 12683092,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberdorf, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683092,
+    "woe:name":"Oberdorf, Switzerland",
+    "woe:place_id":"H7_GuMiYA5qy4tRk5g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.426188,46.941833,8.431166,46.945667],
+  "geometry": {"alpha":1e-05,"bbox":[8.4261884689331,46.941833496094,8.4311656951904,46.945667266846],"coordinates":[[[[8.428666,46.945667],[8.429425,46.944805],[8.431166,46.941833],[8.426188,46.942589],[8.428622,46.945557],[8.428666,46.945667]]]],"created":1292540243,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12683092_20101216_41fdb5a0d1.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

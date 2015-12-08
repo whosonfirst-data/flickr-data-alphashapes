@@ -1,0 +1,15 @@
+{
+  "id": 368265,
+  "type": "Feature",
+  "properties": {
+    "name":"Baranoa, Atlantico, Colombia",
+    "placetype":"locality",
+    "woe:id":368265,
+    "woe:name":"Baranoa, Atlantico, Colombia",
+    "woe:place_id":"787_SqCaB5QI1m8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.921089,10.797054,-74.912254,10.805401],
+  "geometry": {"alpha":0.00015,"bbox":[-74.921089172363,10.797054290771,-74.912254333496,10.805400848389],"coordinates":[[[[-74.912254,10.802281],[-74.912766,10.798824],[-74.921089,10.797054],[-74.918861,10.803883],[-74.914398,10.805401],[-74.912254,10.802281]]]],"created":1292545494,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/368265_20101217_699cf1f99a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

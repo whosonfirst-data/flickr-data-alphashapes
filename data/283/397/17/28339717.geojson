@@ -1,0 +1,15 @@
+{
+  "id": 28339717,
+  "type": "Feature",
+  "properties": {
+    "name":"Cabinhill, New York, United States",
+    "placetype":"locality",
+    "woe:id":28339717,
+    "woe:name":"Cabinhill, New York, United States",
+    "woe:place_id":"PHeBCpGbCZ91KkMzrw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.880409,42.142159,-74.869736,42.146988],
+  "geometry": {"alpha":0.00015,"bbox":[-74.880409240723,42.142158508301,-74.869735717773,42.146987915039],"coordinates":[[[[-74.878746,42.142944],[-74.869736,42.146988],[-74.878319,42.142159],[-74.880409,42.142849],[-74.879585,42.142967],[-74.878746,42.142944]]]],"created":1292530854,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/28339717_20101216_e0eb3f7848.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

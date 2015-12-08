@@ -1,0 +1,15 @@
+{
+  "id": 18375,
+  "type": "Feature",
+  "properties": {
+    "name":"Dounreay, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":18375,
+    "woe:name":"Dounreay, Scotland, United Kingdom",
+    "woe:place_id":"M81N6bqYCZ9U7g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.745479,58.571609,-3.733806,58.580379],
+  "geometry": {"alpha":0.00015,"bbox":[-3.7454791069031,58.57160949707,-3.7338058948517,58.580379486084],"coordinates":[[[[-3.738784,58.572369],[-3.741016,58.571609],[-3.745479,58.580379],[-3.733806,58.575146],[-3.73493,58.57328],[-3.738784,58.572369]]]],"created":1292465223,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/18375_20101216_5335f00dc9.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

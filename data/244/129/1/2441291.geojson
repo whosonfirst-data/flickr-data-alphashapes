@@ -1,0 +1,15 @@
+{
+  "id": 2441291,
+  "type": "Feature",
+  "properties": {
+    "name":"London, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2441291,
+    "woe:name":"London, Texas, United States",
+    "woe:place_id":"0FaQ65ibBZgXeVQX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.577972,30.672726,-99.575485,30.680279],
+  "geometry": {"alpha":0.00015,"bbox":[-99.577972412109,30.67272567749,-99.575485229492,30.680278778076],"coordinates":[[[[-99.577675,30.678926],[-99.575485,30.680279],[-99.576729,30.676527],[-99.577972,30.672726],[-99.577675,30.678926]]]],"created":1292444891,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2441291_20101215_a1d6539de8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

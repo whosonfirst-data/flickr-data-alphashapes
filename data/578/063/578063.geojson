@@ -1,0 +1,15 @@
+{
+  "id": 578063,
+  "type": "Feature",
+  "properties": {
+    "name":"Bar, Champagne-Ardenne, France",
+    "placetype":"locality",
+    "woe:id":578063,
+    "woe:name":"Bar, Champagne-Ardenne, France",
+    "woe:place_id":"BzEFYLecBpS0_tM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.939727,49.429173,4.959812,49.449993],
+  "geometry": {"alpha":0.00015,"bbox":[4.9397268295288,49.429172515869,4.9598121643066,49.449993133545],"coordinates":[[[[4.948997,49.444244],[4.959812,49.449993],[4.949684,49.434311],[4.939727,49.429173],[4.948997,49.444244]]]],"created":1234583890,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3302/shapefiles/578063_20090214_0b12bf2232.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

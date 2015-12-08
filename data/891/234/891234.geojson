@@ -1,0 +1,15 @@
+{
+  "id": 891234,
+  "type": "Feature",
+  "properties": {
+    "name":"Gripsholm, Sodermanland, Sweden",
+    "placetype":"locality",
+    "woe:id":891234,
+    "woe:name":"Gripsholm, Sodermanland, Sweden",
+    "woe:place_id":"sYZP5eqRCJ18WM0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.179956,59.244678,17.220383,59.256668],
+  "geometry": {"alpha":0.00015,"bbox":[17.179956436157,59.244678497314,17.22038269043,59.25666809082],"coordinates":[[[[17.219427,59.256065],[17.219782,59.255394],[17.220383,59.248592],[17.200809,59.244678],[17.179956,59.247013],[17.198668,59.256668],[17.2118,59.253487],[17.219341,59.256123],[17.219427,59.256065]]]],"created":1292518410,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/891234_20101216_ae49647ae4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

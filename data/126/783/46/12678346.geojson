@@ -1,0 +1,15 @@
+{
+  "id": 12678346,
+  "type": "Feature",
+  "properties": {
+    "name":"Cinigiano, Italy",
+    "placetype":"locality",
+    "woe:id":12678346,
+    "woe:name":"Cinigiano, Italy",
+    "woe:place_id":"eMCux4WYA5okAVeAxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.418228,42.966694,11.419987,42.970051],
+  "geometry": {"alpha":1e-05,"bbox":[11.418228149414,42.966693878174,11.419986724854,42.970050811768],"coordinates":[[[[11.418743,42.970051],[11.419987,42.966694],[11.419816,42.966694],[11.418228,42.967476],[11.418743,42.970051]]]],"created":1292533234,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12678346_20101216_e2958738c8.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12511780,
+  "type": "Feature",
+  "properties": {
+    "name":"Rockcliffe Airport, Canada",
+    "placetype":"locality",
+    "woe:id":12511780,
+    "woe:name":"Rockcliffe Airport, Canada",
+    "woe:place_id":"12cW2GSYA5kUBnp4qw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.643997,45.455555,-75.63958,45.462166],
+  "geometry": {"alpha":1e-05,"bbox":[-75.643997192383,45.455554962158,-75.639579772949,45.46216583252],"coordinates":[[[[-75.641167,45.462166],[-75.63958,45.460552],[-75.642929,45.455555],[-75.643997,45.458595],[-75.641167,45.462166]]]],"created":1292531932,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12511780_20101216_0d6a7c9d66.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

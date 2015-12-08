@@ -1,0 +1,15 @@
+{
+  "id": 12679948,
+  "type": "Feature",
+  "properties": {
+    "name":"Torricella, Italy",
+    "placetype":"locality",
+    "woe:id":12679948,
+    "woe:name":"Torricella, Italy",
+    "woe:place_id":"C7RzQ8KYA5qFFF2dFA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.500555,40.299671,17.504192,40.304928],
+  "geometry": {"alpha":1e-05,"bbox":[17.500555038452,40.299671173096,17.504192352295,40.304927825928],"coordinates":[[[[17.502937,40.302963],[17.500555,40.304672],[17.503967,40.304928],[17.503601,40.302605],[17.504192,40.299671],[17.502937,40.302963]]]],"created":1292534123,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12679948_20101216_f266e20bde.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

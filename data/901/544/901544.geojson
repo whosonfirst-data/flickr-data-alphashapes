@@ -1,0 +1,15 @@
+{
+  "id": 901544,
+  "type": "Feature",
+  "properties": {
+    "name":"Ovesholm, Skane, Sweden",
+    "placetype":"locality",
+    "woe:id":901544,
+    "woe:name":"Ovesholm, Skane, Sweden",
+    "woe:place_id":"GQu7_fmQAZ2wX.I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.032974,55.99736,14.036396,55.997898],
+  "geometry": {"alpha":0.00015,"bbox":[14.032974243164,55.997360229492,14.036396026611,55.997898101807],"coordinates":[[[[14.036321,55.997456],[14.03557,55.99736],[14.032974,55.997517],[14.035291,55.997898],[14.035999,55.997746],[14.036396,55.997498],[14.036321,55.997456]]]],"created":1292522651,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/901544_20101216_9567299af6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

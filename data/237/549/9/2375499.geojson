@@ -1,0 +1,15 @@
+{
+  "id": 2375499,
+  "type": "Feature",
+  "properties": {
+    "name":"Carroll Fields, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2375499,
+    "woe:name":"Carroll Fields, Maryland, United States",
+    "woe:place_id":"eRTS5uWbAptrjVif",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.977165,39.358589,-76.967148,39.366344],
+  "geometry": {"alpha":0.00015,"bbox":[-76.977165222168,39.358589172363,-76.967147827148,39.366344451904],"coordinates":[[[[-76.969063,39.364223],[-76.976051,39.358589],[-76.977165,39.364628],[-76.970512,39.366096],[-76.969505,39.366344],[-76.967148,39.364979],[-76.969063,39.364223]]]],"created":1292468823,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2375499_20101216_353868919f.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

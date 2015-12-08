@@ -1,0 +1,15 @@
+{
+  "id": 12682263,
+  "type": "Feature",
+  "properties": {
+    "name":"Trevi nel Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":12682263,
+    "woe:name":"Trevi nel Lazio, Italy",
+    "woe:place_id":"9XMJoMSYA5r42ONYgg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.199034,41.861755,13.199701,41.862282],
+  "geometry": {"alpha":1e-05,"bbox":[13.199033737183,41.861755371094,13.199701309204,41.862281799316],"coordinates":[[[[13.199034,41.862267],[13.199087,41.862282],[13.199701,41.861755],[13.199238,41.861858],[13.199045,41.862217],[13.199034,41.862267]]]],"created":1234838766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3646/shapefiles/12682263_20090217_2b97470837.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

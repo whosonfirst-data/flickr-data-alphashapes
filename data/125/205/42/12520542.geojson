@@ -1,0 +1,15 @@
+{
+  "id": 12520542,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakefront Airport, United States",
+    "placetype":"locality",
+    "woe:id":12520542,
+    "woe:name":"Lakefront Airport, United States",
+    "woe:place_id":"cqtl4jmYA5nSj7bFMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-90.027496,30.032024,-90.020844,30.04051],
+  "geometry": {"alpha":1e-05,"bbox":[-90.027496337891,30.032024383545,-90.020843505859,30.040510177612],"coordinates":[[[[-90.023926,30.036295],[-90.02317,30.035921],[-90.020844,30.032024],[-90.026321,30.034241],[-90.027496,30.035],[-90.026093,30.038931],[-90.025681,30.04051],[-90.023926,30.036295]]]],"created":1292539250,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/12520542_20101216_06b52fb474.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

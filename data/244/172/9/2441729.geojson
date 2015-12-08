@@ -1,0 +1,15 @@
+{
+  "id": 2441729,
+  "type": "Feature",
+  "properties": {
+    "name":"Longtown, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2441729,
+    "woe:name":"Longtown, Oklahoma, United States",
+    "woe:place_id":"5lNlJFSbBZg3n2F8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.574272,35.228031,-95.554832,35.243183],
+  "geometry": {"alpha":0.00015,"bbox":[-95.574272155762,35.228031158447,-95.554832458496,35.243183135986],"coordinates":[[[[-95.554832,35.239536],[-95.554916,35.239536],[-95.573822,35.228031],[-95.574272,35.228794],[-95.561012,35.243183],[-95.554832,35.239536]]]],"created":1292534652,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2441729_20101216_efc9e23388.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

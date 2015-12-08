@@ -1,0 +1,15 @@
+{
+  "id": 2499745,
+  "type": "Feature",
+  "properties": {
+    "name":"Stevens Forest, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2499745,
+    "woe:name":"Stevens Forest, Georgia, United States",
+    "woe:place_id":"mNHzXuSbBZWv1rDY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.568001,33.404644,-84.561722,33.4095],
+  "geometry": {"alpha":0.00015,"bbox":[-84.568000793457,33.404644012451,-84.561721801758,33.40950012207],"coordinates":[[[[-84.568001,33.408501],[-84.567001,33.4095],[-84.561722,33.408855],[-84.563965,33.404644],[-84.565178,33.405293],[-84.568001,33.408501]]]],"created":1292544330,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/2499745_20101217_63feda5a78.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

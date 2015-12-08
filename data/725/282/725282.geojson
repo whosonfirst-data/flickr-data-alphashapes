@@ -1,0 +1,15 @@
+{
+  "id": 725282,
+  "type": "Feature",
+  "properties": {
+    "name":"Trevico, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":725282,
+    "woe:name":"Trevico, Campania, Italy",
+    "woe:place_id":"AFWnSIueA5ncMUk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.222587,41.041298,15.237693,41.052269],
+  "geometry": {"alpha":0.00015,"bbox":[15.222586631775,41.041297912598,15.237692832947,41.052268981934],"coordinates":[[[[15.233573,41.041298],[15.222587,41.041553],[15.23117,41.047253],[15.235633,41.052269],[15.237693,41.042072],[15.233788,41.041321],[15.233573,41.041298]]]],"created":1292456048,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/725282_20101215_7f726bf4e2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

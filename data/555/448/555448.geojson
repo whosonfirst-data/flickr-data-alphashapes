@@ -1,0 +1,15 @@
+{
+  "id": 555448,
+  "type": "Feature",
+  "properties": {
+    "name":"Lystrup, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555448,
+    "woe:name":"Lystrup, Hovedstaden, Denmark",
+    "woe:place_id":"MblXASScBJlPNM4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.19242,55.852039,12.205531,55.861862],
+  "geometry": {"alpha":0.00015,"bbox":[12.192420005798,55.852039337158,12.2055311203,55.861862182617],"coordinates":[[[[12.204008,55.858429],[12.203385,55.852039],[12.19242,55.859272],[12.205531,55.861862],[12.204008,55.858429]]]],"created":1247780887,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2645/shapefiles/555448_20090716_947cbd9004.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

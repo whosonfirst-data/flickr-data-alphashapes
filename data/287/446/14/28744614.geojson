@@ -1,0 +1,15 @@
+{
+  "id": 28744614,
+  "type": "Feature",
+  "properties": {
+    "name":"Richhill, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28744614,
+    "woe:name":"Richhill, Pennsylvania, United States",
+    "woe:place_id":"QMRIOkKbCZsH2CAXHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.446419,39.959244,-80.437553,39.9786],
+  "geometry": {"alpha":0.00015,"bbox":[-80.446418762207,39.959243774414,-80.437553405762,39.97859954834],"coordinates":[[[[-80.446419,39.978001],[-80.446274,39.9786],[-80.446022,39.97776],[-80.437553,39.959244],[-80.446358,39.977184],[-80.446419,39.978001]]]],"created":1292524744,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/28744614_20101216_3c1bb2b15f.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

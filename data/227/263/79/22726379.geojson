@@ -1,0 +1,15 @@
+{
+  "id": 22726379,
+  "type": "Feature",
+  "properties": {
+    "name":"Golden Gate, Wellington, New Zealand",
+    "placetype":"locality",
+    "woe:id":22726379,
+    "woe:name":"Golden Gate, Wellington, New Zealand",
+    "woe:place_id":"J4yj48CbA5vL1ioNlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [174.875656,-41.107761,174.883682,-41.099663],
+  "geometry": {"alpha":0.00015,"bbox":[174.87565612793,-41.107761383057,174.88368225098,-41.099662780762],"coordinates":[[[[174.883682,-41.107761],[174.877792,-41.107391],[174.875656,-41.104321],[174.880066,-41.100117],[174.881836,-41.099663],[174.883682,-41.107761]]]],"created":1292522526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/22726379_20101216_7ee06f5bc5.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

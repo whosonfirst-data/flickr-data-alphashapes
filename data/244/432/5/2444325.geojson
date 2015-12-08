@@ -1,0 +1,15 @@
+{
+  "id": 2444325,
+  "type": "Feature",
+  "properties": {
+    "name":"Maine, New York, United States",
+    "placetype":"locality",
+    "woe:id":2444325,
+    "woe:name":"Maine, New York, United States",
+    "woe:place_id":"qKROk02bBZj75OoC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.076118,42.182236,-76.0578,42.200127],
+  "geometry": {"alpha":0.00015,"bbox":[-76.076118469238,42.182235717773,-76.057800292969,42.200126647949],"coordinates":[[[[-76.075439,42.182236],[-76.076118,42.18372],[-76.060753,42.197876],[-76.0578,42.200127],[-76.060242,42.195541],[-76.075439,42.182236]]]],"created":1292543515,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2444325_20101216_c54d19edeb.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

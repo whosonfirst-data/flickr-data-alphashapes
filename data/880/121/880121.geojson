@@ -1,0 +1,15 @@
+{
+  "id": 880121,
+  "type": "Feature",
+  "properties": {
+    "name":"Schellenberg, Sibiu, Romania",
+    "placetype":"locality",
+    "woe:id":880121,
+    "woe:name":"Schellenberg, Sibiu, Romania",
+    "woe:place_id":"V5MjrdSRCZz_j88",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.181595,45.752193,24.205799,45.7589],
+  "geometry": {"alpha":0.00015,"bbox":[24.181594848633,45.752193450928,24.205799102783,45.758899688721],"coordinates":[[[[24.196358,45.7589],[24.205799,45.758301],[24.19816,45.752193],[24.181595,45.752193],[24.196358,45.7589]]]],"created":1239404411,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3321/shapefiles/880121_20090410_3fcb87cc75.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2362173,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellvue, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2362173,
+    "woe:name":"Bellvue, Virginia, United States",
+    "woe:place_id":"YWVDu.SbAprwQCOZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.501595,38.255032,-77.492455,38.25687],
+  "geometry": {"alpha":0.00015,"bbox":[-77.501594543457,38.255031585693,-77.492454528809,38.256870269775],"coordinates":[[[[-77.501595,38.25515],[-77.497528,38.25687],[-77.492455,38.255939],[-77.498589,38.255032],[-77.501595,38.25515]]]],"created":1229570403,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3196/shapefiles/2362173_20081218_6178dacd89.tar.gz"},"points":28,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2398349,
+  "type": "Feature",
+  "properties": {
+    "name":"Elizabethtown, New York, United States",
+    "placetype":"locality",
+    "woe:id":2398349,
+    "woe:name":"Elizabethtown, New York, United States",
+    "woe:place_id":"fxvI3vybApUzf2ax",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.598442,44.212818,-73.584709,44.218876],
+  "geometry": {"alpha":0.00015,"bbox":[-73.598442077637,44.212818145752,-73.58470916748,44.21887588501],"coordinates":[[[[-73.593422,44.21505],[-73.598442,44.218876],[-73.590805,44.218323],[-73.584709,44.216171],[-73.590355,44.212818],[-73.593422,44.21505]]]],"created":1292545683,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2398349_20101217_3b8b1cff60.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2400601,
+  "type": "Feature",
+  "properties": {
+    "name":"Eureka, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2400601,
+    "woe:name":"Eureka, Wisconsin, United States",
+    "woe:place_id":"Aq4Hf6.bBZyl.qg7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.678131,44.024422,-89.672859,44.026123],
+  "geometry": {"alpha":0.00015,"bbox":[-89.678131103516,44.024421691895,-89.672859191895,44.026123046875],"coordinates":[[[[-89.674431,44.024426],[-89.674446,44.024422],[-89.678131,44.026123],[-89.672859,44.025085],[-89.674431,44.024426]]]],"created":1292527466,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2400601_20101216_65168fd1ef.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23388457,
+  "type": "Feature",
+  "properties": {
+    "name":"Edelstal, Austria",
+    "placetype":"locality",
+    "woe:id":23388457,
+    "woe:name":"Edelstal, Austria",
+    "woe:place_id":"uVMpVZubAp9.Ggkx4A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.981483,48.087017,16.984451,48.087723],
+  "geometry": {"alpha":1e-05,"bbox":[16.981483459473,48.087017059326,16.984451293945,48.08772277832],"coordinates":[[[[16.981483,48.087017],[16.981516,48.087196],[16.981892,48.087612],[16.982502,48.087677],[16.984451,48.087723],[16.98436,48.087551],[16.981483,48.087017]]]],"created":1292471886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/23388457_20101216_e7681e75f0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

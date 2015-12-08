@@ -1,0 +1,15 @@
+{
+  "id": 28747555,
+  "type": "Feature",
+  "properties": {
+    "name":"Clear Creek, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":28747555,
+    "woe:name":"Clear Creek, Idaho, United States",
+    "woe:place_id":"G.LMgmGbCZsJ3cCXrw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-113.194542,41.995476,-113.177383,42.001854],
+  "geometry": {"alpha":0.00015,"bbox":[-113.19454193115,41.995475769043,-113.17738342285,42.001853942871],"coordinates":[[[[-113.192482,41.996243],[-113.194542,42.001854],[-113.177383,41.996841],[-113.191322,41.995861],[-113.191963,41.995476],[-113.192482,41.996243]]]],"created":1292452803,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/28747555_20101215_007a048b62.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

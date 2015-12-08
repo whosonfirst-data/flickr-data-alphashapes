@@ -1,0 +1,15 @@
+{
+  "id": 646174,
+  "type": "Feature",
+  "properties": {
+    "name":"Ebenhausen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":646174,
+    "woe:name":"Ebenhausen, Bavaria, Germany",
+    "woe:place_id":"1hMqKVCfBZrfRqs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.449105,47.969818,11.477794,47.982231],
+  "geometry": {"alpha":0.00015,"bbox":[11.449105262756,47.969818115234,11.477793693542,47.982231140137],"coordinates":[[[[11.459941,47.975559],[11.454666,47.973331],[11.449105,47.969818],[11.453847,47.977512],[11.460182,47.982231],[11.477794,47.973087],[11.459941,47.975559]]]],"created":1292549705,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/646174_20101217_a882f9cd3c.tar.gz"},"points":37,"type":"MultiPolygon"}
+}

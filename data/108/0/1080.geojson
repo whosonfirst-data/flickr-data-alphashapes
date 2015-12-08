@@ -1,0 +1,15 @@
+{
+  "id": 1080,
+  "type": "Feature",
+  "properties": {
+    "name":"Newport Corner, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1080,
+    "woe:name":"Newport Corner, Nova Scotia, Canada",
+    "woe:place_id":"O5mGlQ.YAZT5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-63.985146,44.956417,-63.957939,45.017776],
+  "geometry": {"alpha":0.000234375,"bbox":[-63.985145568848,44.95641708374,-63.957939147949,45.017776489258],"coordinates":[[[[-63.970001,45.011112],[-63.970001,45.017776],[-63.960835,45.014721],[-63.959656,45.013966],[-63.968887,45.009167],[-63.975792,44.998554],[-63.9818,44.972145],[-63.957939,44.966377],[-63.963001,44.956417],[-63.979309,44.962307],[-63.985146,44.961441],[-63.9818,44.972145],[-63.982143,44.997215],[-63.970001,45.011112]]]],"created":1292546452,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/1080_20101217_c71d28fa49.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

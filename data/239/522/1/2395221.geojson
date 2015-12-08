@@ -1,0 +1,15 @@
+{
+  "id": 2395221,
+  "type": "Feature",
+  "properties": {
+    "name":"Early, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2395221,
+    "woe:name":"Early, Oregon, United States",
+    "woe:place_id":"C7ol5hKbApWcPtA.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-120.55555,45.700184,-120.542336,45.721237],
+  "geometry": {"alpha":0.00015,"bbox":[-120.55554962158,45.700183868408,-120.54233551025,45.721237182617],"coordinates":[[[[-120.548721,45.721237],[-120.547379,45.719719],[-120.542336,45.71265],[-120.545082,45.700184],[-120.547653,45.715889],[-120.55555,45.721043],[-120.548721,45.721237]]]],"created":1292535902,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2395221_20101216_ba5ac38ab6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

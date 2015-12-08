@@ -1,0 +1,15 @@
+{
+  "id": 2445753,
+  "type": "Feature",
+  "properties": {
+    "name":"Marion, New York, United States",
+    "placetype":"locality",
+    "woe:id":2445753,
+    "woe:name":"Marion, New York, United States",
+    "woe:place_id":"SYDdcLSbBZhSYwK6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.214836,43.141876,-77.185478,43.176334],
+  "geometry": {"alpha":0.00015,"bbox":[-77.214836120605,43.141876220703,-77.185478210449,43.176334381104],"coordinates":[[[[-77.210167,43.176334],[-77.209999,43.175835],[-77.206848,43.165966],[-77.199554,43.157326],[-77.185478,43.147339],[-77.186562,43.14315],[-77.18679,43.141876],[-77.189651,43.142597],[-77.199211,43.144764],[-77.208824,43.155701],[-77.214836,43.160831],[-77.210503,43.176334],[-77.210167,43.176334]]]],"created":1292527035,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2445753_20101216_f59e7d1a1f.tar.gz"},"points":44,"type":"MultiPolygon"}
+}

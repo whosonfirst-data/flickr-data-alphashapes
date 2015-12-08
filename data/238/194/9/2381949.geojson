@@ -1,0 +1,15 @@
+{
+  "id": 2381949,
+  "type": "Feature",
+  "properties": {
+    "name":"Clover Flat, California, United States",
+    "placetype":"locality",
+    "woe:id":2381949,
+    "woe:name":"Clover Flat, California, United States",
+    "woe:place_id":"XgSVCRObApRnylSl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.383003,32.647034,-116.366158,32.650665],
+  "geometry": {"alpha":0.00015,"bbox":[-116.38300323486,32.647033691406,-116.36615753174,32.650665283203],"coordinates":[[[[-116.374565,32.65065],[-116.366158,32.647034],[-116.375252,32.647903],[-116.378906,32.649647],[-116.383003,32.650665],[-116.374565,32.65065]]]],"created":1292541210,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2381949_20101216_0c95f23c31.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

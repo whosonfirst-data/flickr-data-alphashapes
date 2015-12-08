@@ -1,0 +1,15 @@
+{
+  "id": 2432230,
+  "type": "Feature",
+  "properties": {
+    "name":"Kilbourne, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2432230,
+    "woe:name":"Kilbourne, Illinois, United States",
+    "woe:place_id":"oJXdGHabBZ.Aml.R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.933304,40.161465,-89.93325,40.161533],
+  "geometry": {"alpha":0.00015,"bbox":[-89.933303833008,40.161464691162,-89.933250427246,40.161533355713],"coordinates":[[[[-89.933296,40.161533],[-89.93325,40.161465],[-89.933258,40.161465],[-89.933281,40.161472],[-89.933304,40.161484],[-89.933296,40.161533]]]],"created":1292526514,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2432230_20101216_395b944322.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 558169,
+  "type": "Feature",
+  "properties": {
+    "name":"Torsted, Nordjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":558169,
+    "woe:name":"Torsted, Nordjylland, Denmark",
+    "woe:place_id":"MIo.4M2cBJTNmuY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.615169,56.973167,8.617,56.973499],
+  "geometry": {"alpha":0.00015,"bbox":[8.6151685714722,56.973167419434,8.6169996261597,56.973499298096],"coordinates":[[[[8.616167,56.973499],[8.616333,56.973499],[8.616654,56.973473],[8.617,56.973167],[8.616,56.973331],[8.615169,56.973473],[8.616167,56.973499]]]],"created":1292453520,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/558169_20101215_f3ebe78477.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

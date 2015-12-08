@@ -1,0 +1,15 @@
+{
+  "id": 2430932,
+  "type": "Feature",
+  "properties": {
+    "name":"Kearney, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2430932,
+    "woe:name":"Kearney, Pennsylvania, United States",
+    "woe:place_id":"BstCPWCbBZ8TikrG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.017395,40.080173,-75.010529,40.087002],
+  "geometry": {"alpha":0.00015,"bbox":[-75.017395019531,40.080173492432,-75.010528564453,40.087001800537],"coordinates":[[[[-75.012589,40.081749],[-75.017395,40.080173],[-75.013275,40.08625],[-75.010529,40.087002],[-75.012589,40.081749]]]],"created":1234522562,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3536/shapefiles/2430932_20090213_0a554b3d89.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12581765,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Rosa do Sul, Santa Catarina, Brazil",
+    "placetype":"county",
+    "woe:id":12581765,
+    "woe:name":"Santa Rosa do Sul, Santa Catarina, Brazil",
+    "woe:place_id":".df8eyOYA5ndFVLeEA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-49.724369,-29.148211,-49.698715,-29.086176],
+  "geometry": {"alpha":0.0015,"bbox":[-49.724369049072,-29.148210525513,-49.698715209961,-29.086175918579],"coordinates":[[[[-49.698715,-29.128771],[-49.704208,-29.135069],[-49.724369,-29.148211],[-49.721569,-29.14414],[-49.711075,-29.086176],[-49.698715,-29.128771]]]],"created":1292478724,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12581765_20101216_fbfde5767a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

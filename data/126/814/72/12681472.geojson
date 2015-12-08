@@ -1,0 +1,15 @@
+{
+  "id": 12681472,
+  "type": "Feature",
+  "properties": {
+    "name":"Romeno, Italy",
+    "placetype":"locality",
+    "woe:id":12681472,
+    "woe:name":"Romeno, Italy",
+    "woe:place_id":"IOt89TuYA5puYrtRFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.106491,46.368851,11.108808,46.375122],
+  "geometry": {"alpha":1e-05,"bbox":[11.106491088867,46.368850708008,11.108807563782,46.375122070312],"coordinates":[[[[11.107006,46.368851],[11.107177,46.370621],[11.106491,46.375122],[11.107113,46.374817],[11.108808,46.369942],[11.107006,46.368851]]]],"created":1292470863,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/12681472_20101216_b52610639b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

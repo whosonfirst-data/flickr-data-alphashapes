@@ -1,0 +1,15 @@
+{
+  "id": 20076896,
+  "type": "Feature",
+  "properties": {
+    "name":"Petacciato, Italy",
+    "placetype":"locality",
+    "woe:id":20076896,
+    "woe:name":"Petacciato, Italy",
+    "woe:place_id":"HA8d_zybAZzVptjayQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.859593,42.012367,14.859888,42.014771],
+  "geometry": {"alpha":1e-05,"bbox":[14.859593391418,42.012367248535,14.859888076782,42.014770507812],"coordinates":[[[[14.859716,42.012478],[14.859593,42.014721],[14.859888,42.014771],[14.85977,42.012367],[14.859716,42.012478]]]],"created":1248207259,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2651/shapefiles/20076896_20090721_b339417eb4.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 81,
+  "type": "Feature",
+  "properties": {
+    "name":"Bear River, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":81,
+    "woe:name":"Bear River, Nova Scotia, Canada",
+    "woe:place_id":"C2lUM.qRAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.659271,44.562588,-65.634727,44.598167],
+  "geometry": {"alpha":0.00015,"bbox":[-65.659271240234,44.562587738037,-65.634727478027,44.598167419434],"coordinates":[[[[-65.64608,44.582748],[-65.659271,44.598167],[-65.642502,44.591599],[-65.634727,44.587166],[-65.636444,44.576099],[-65.635582,44.57225],[-65.635414,44.562588],[-65.642021,44.57127],[-65.643135,44.571789],[-65.646828,44.572678],[-65.65078,44.573563],[-65.64608,44.582748]]]],"created":1292538584,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/81_20101216_e7eabbdd2f.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12602283,
+  "type": "Feature",
+  "properties": {
+    "name":"Messancy, Belgium",
+    "placetype":"locality",
+    "woe:id":12602283,
+    "woe:name":"Messancy, Belgium",
+    "woe:place_id":"w7NmUVSYA5rNUS19RQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.828129,49.642452,5.832002,49.644157],
+  "geometry": {"alpha":1e-05,"bbox":[5.8281288146973,49.64245223999,5.8320021629333,49.644157409668],"coordinates":[[[[5.832002,49.642735],[5.831787,49.642601],[5.829555,49.642452],[5.828129,49.644157],[5.830478,49.643166],[5.832002,49.642735]]]],"created":1292519678,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12602283_20101216_7ec0a30347.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

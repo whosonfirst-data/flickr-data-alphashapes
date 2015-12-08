@@ -1,0 +1,15 @@
+{
+  "id": 12653333,
+  "type": "Feature",
+  "properties": {
+    "name":"Ste.-Adresse, France",
+    "placetype":"locality",
+    "woe:id":12653333,
+    "woe:name":"Ste.-Adresse, France",
+    "woe:place_id":"fl4xSeuYA5qcrQgaHA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.065402,49.504978,0.083084,49.512836],
+  "geometry": {"alpha":1e-05,"bbox":[0.065402001142502,49.504978179932,0.083084002137184,49.512836456299],"coordinates":[[[[0.07169,49.505844],[0.069887,49.506317],[0.068686,49.508553],[0.066196,49.51033],[0.065402,49.512836],[0.06919,49.512321],[0.073642,49.508156],[0.078277,49.507153],[0.079135,49.508102],[0.083084,49.508266],[0.079693,49.506207],[0.077247,49.504978],[0.073117,49.505573],[0.07169,49.505844]]]],"created":1292550531,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/12653333_20101217_b1e3de9c77.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

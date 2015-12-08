@@ -1,0 +1,15 @@
+{
+  "id": 2418973,
+  "type": "Feature",
+  "properties": {
+    "name":"Haxtun, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2418973,
+    "woe:name":"Haxtun, Colorado, United States",
+    "woe:place_id":"C3.bxB.bBZ0zzFQy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.638184,40.638168,-102.622925,40.645905],
+  "geometry": {"alpha":0.00015,"bbox":[-102.63818359375,40.638168334961,-102.62292480469,40.645904541016],"coordinates":[[[[-102.622925,40.645905],[-102.627815,40.638168],[-102.637192,40.640335],[-102.638184,40.641556],[-102.624634,40.64579],[-102.622925,40.645905]]]],"created":1292525507,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2418973_20101216_54e96ee72f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

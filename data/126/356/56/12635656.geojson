@@ -1,0 +1,15 @@
+{
+  "id": 12635656,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Neuried, Germany",
+    "placetype":"locality",
+    "woe:id":12635656,
+    "woe:name":"Gemeinde Neuried, Germany",
+    "woe:place_id":"mPqiAGeYA5pPfYTWMQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.458769,48.08242,11.458794,48.082481],
+  "geometry": {"alpha":1e-05,"bbox":[11.458768844604,48.082420349121,11.458793640137,48.082481384277],"coordinates":[[[[11.458794,48.082432],[11.458794,48.08242],[11.458788,48.082432],[11.458769,48.082481],[11.458794,48.082432]]]],"created":1292536760,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/12635656_20101216_dc0ca32e0a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2465364,
+  "type": "Feature",
+  "properties": {
+    "name":"Oliverea, New York, United States",
+    "placetype":"locality",
+    "woe:id":2465364,
+    "woe:name":"Oliverea, New York, United States",
+    "woe:place_id":"54tKSc.bBZq7Z8sJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.448677,42.038971,-74.440758,42.042282],
+  "geometry": {"alpha":0.00015,"bbox":[-74.448677062988,42.038970947266,-74.440757751465,42.042282104492],"coordinates":[[[[-74.440765,42.039238],[-74.440758,42.039101],[-74.441002,42.038971],[-74.441345,42.039101],[-74.448677,42.042282],[-74.440765,42.039238]]]],"created":1292451266,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/2465364_20101215_756c63b735.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

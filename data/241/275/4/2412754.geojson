@@ -1,0 +1,15 @@
+{
+  "id": 2412754,
+  "type": "Feature",
+  "properties": {
+    "name":"Granby Woods, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2412754,
+    "woe:name":"Granby Woods, Maryland, United States",
+    "woe:place_id":".0ynKa.bBZ2gLNKy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.116837,39.156456,-77.096313,39.168903],
+  "geometry": {"alpha":0.00015,"bbox":[-77.116836547852,39.156455993652,-77.096313476562,39.16890335083],"coordinates":[[[[-77.104843,39.168873],[-77.104675,39.168903],[-77.096313,39.15934],[-77.099297,39.156456],[-77.116837,39.157082],[-77.104843,39.168873]]]],"created":1292500563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2412754_20101216_e93ebe2e90.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

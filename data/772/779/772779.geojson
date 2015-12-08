@@ -1,0 +1,15 @@
+{
+  "id": 772779,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant Dalmai, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":772779,
+    "woe:name":"Sant Dalmai, Catalonia, Spain",
+    "woe:place_id":"bt9cgmGeBp4uPi8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.728488,41.913406,2.736223,41.917927],
+  "geometry": {"alpha":0.00015,"bbox":[2.7284879684448,41.91340637207,2.7362229824066,41.91792678833],"coordinates":[[[[2.736105,41.915787],[2.736223,41.915554],[2.735509,41.913406],[2.732849,41.914028],[2.728488,41.915283],[2.734651,41.917927],[2.736105,41.915787]]]],"created":1292516584,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/772779_20101216_c876fc8df4.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

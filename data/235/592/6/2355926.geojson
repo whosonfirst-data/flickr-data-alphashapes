@@ -1,0 +1,15 @@
+{
+  "id": 2355926,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2355926,
+    "woe:name":"Arlington, Virginia, United States",
+    "woe:place_id":"bQsvakibApmdKBD7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.012512,37.204937,-76.000992,37.236649],
+  "geometry": {"alpha":0.00015,"bbox":[-76.012512207031,37.204936981201,-76.000991821289,37.23664855957],"coordinates":[[[[-76.011009,37.236649],[-76.006165,37.226639],[-76.000992,37.219978],[-76.008736,37.204937],[-76.012512,37.223904],[-76.010513,37.230789],[-76.011009,37.236649]]]],"created":1292468466,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2355926_20101216_60e1f6973f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

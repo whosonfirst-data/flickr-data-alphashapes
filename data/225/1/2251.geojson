@@ -1,0 +1,15 @@
+{
+  "id": 2251,
+  "type": "Feature",
+  "properties": {
+    "name":"Madison, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2251,
+    "woe:name":"Madison, Saskatchewan, Canada",
+    "woe:place_id":"nWfF4y.bA5k_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.027557,51.216667,-109.023674,51.219879],
+  "geometry": {"alpha":0.00015,"bbox":[-109.02755737305,51.216667175293,-109.02367401123,51.219879150391],"coordinates":[[[[-109.023888,51.216667],[-109.027557,51.219566],[-109.027527,51.219879],[-109.024063,51.217911],[-109.023674,51.217373],[-109.023888,51.216667]]]],"created":1292450190,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2251_20101215_989f9d5c75.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

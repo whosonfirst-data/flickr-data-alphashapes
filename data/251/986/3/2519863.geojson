@@ -1,0 +1,15 @@
+{
+  "id": 2519863,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitewater, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2519863,
+    "woe:name":"Whitewater, Kansas, United States",
+    "woe:place_id":"lkq4KkqbBJ3IOk61",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.152016,37.957531,-97.138039,37.965153],
+  "geometry": {"alpha":0.00015,"bbox":[-97.152015686035,37.957530975342,-97.138038635254,37.965152740479],"coordinates":[[[[-97.147392,37.962605],[-97.152016,37.957531],[-97.148834,37.9645],[-97.138512,37.965153],[-97.138039,37.964539],[-97.147392,37.962605]]]],"created":1292466673,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2519863_20101216_a3955b0d5a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

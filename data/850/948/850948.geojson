@@ -1,0 +1,15 @@
+{
+  "id": 850948,
+  "type": "Feature",
+  "properties": {
+    "name":"Vinkuran, Istarska, Croatia",
+    "placetype":"locality",
+    "woe:id":850948,
+    "woe:name":"Vinkuran, Istarska, Croatia",
+    "woe:place_id":"6b6E6zmRBJwudUo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.857101,44.824074,13.865329,44.835907],
+  "geometry": {"alpha":0.00015,"bbox":[13.85710144043,44.824073791504,13.865328788757,44.835906982422],"coordinates":[[[[13.857101,44.835762],[13.862686,44.835907],[13.865329,44.83548],[13.863967,44.824074],[13.859802,44.824074],[13.859081,44.832043],[13.857101,44.835762]]]],"created":1292537277,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/850948_20101216_036724c15b.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

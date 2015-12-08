@@ -1,0 +1,15 @@
+{
+  "id": 2445004,
+  "type": "Feature",
+  "properties": {
+    "name":"Mansfield Hall, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445004,
+    "woe:name":"Mansfield Hall, Virginia, United States",
+    "woe:place_id":"z3ztfuSbBZgUYh5t",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.43103,38.255974,-77.41851,38.26659],
+  "geometry": {"alpha":0.00015,"bbox":[-77.431030273438,38.255973815918,-77.418510437012,38.266590118408],"coordinates":[[[[-77.429665,38.255974],[-77.43103,38.256653],[-77.430954,38.260017],[-77.426659,38.265747],[-77.41851,38.26659],[-77.429665,38.255974]]]],"created":1292533383,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2445004_20101216_e0d28bd9a3.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

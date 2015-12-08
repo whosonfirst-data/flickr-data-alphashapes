@@ -1,0 +1,15 @@
+{
+  "id": 23413459,
+  "type": "Feature",
+  "properties": {
+    "name":"Brazal, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":23413459,
+    "woe:name":"Brazal, Galicia, Spain",
+    "woe:place_id":"aIasxUubApg9HxsT2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.067175,42.962955,-9.057328,42.97514],
+  "geometry": {"alpha":0.00015,"bbox":[-9.067174911499,42.962955474854,-9.0573282241821,42.97513961792],"coordinates":[[[[-9.05857,42.969803],[-9.057328,42.967537],[-9.066467,42.962955],[-9.067175,42.97308],[-9.064493,42.97514],[-9.05857,42.969803]]]],"created":1292455106,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/23413459_20101215_ab9b4bd2a8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

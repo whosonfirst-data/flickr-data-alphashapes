@@ -1,0 +1,15 @@
+{
+  "id": 2407132,
+  "type": "Feature",
+  "properties": {
+    "name":"Frederic, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2407132,
+    "woe:name":"Frederic, Michigan, United States",
+    "woe:place_id":"t4H_0GqbBZylJgQ1",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.690994,44.784595,-84.690018,44.785435],
+  "geometry": {"alpha":0.00015,"bbox":[-84.690994262695,44.784595489502,-84.690017700195,44.7854347229],"coordinates":[[[[-84.690018,44.784599],[-84.690041,44.784595],[-84.690994,44.784996],[-84.690353,44.785435],[-84.690155,44.7854],[-84.690018,44.784599]]]],"created":1292536642,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2407132_20101216_4c621c74cc.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2500373,
+  "type": "Feature",
+  "properties": {
+    "name":"Stonewall, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2500373,
+    "woe:name":"Stonewall, Alabama, United States",
+    "woe:place_id":"jYuemW2bBJxTYrA2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.520592,32.688046,-85.500504,32.701168],
+  "geometry": {"alpha":0.00015,"bbox":[-85.52059173584,32.688045501709,-85.500503540039,32.701168060303],"coordinates":[[[[-85.508553,32.691906],[-85.520592,32.688046],[-85.505836,32.701168],[-85.500504,32.694168],[-85.503502,32.692501],[-85.508553,32.691906]]]],"created":1292500987,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/2500373_20101216_4145b79a6c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

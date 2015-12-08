@@ -1,0 +1,15 @@
+{
+  "id": 20092030,
+  "type": "Feature",
+  "properties": {
+    "name":"Bings Heath, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092030,
+    "woe:name":"Bings Heath, England, United Kingdom",
+    "woe:place_id":"5CCnSzebAZzJSRQFcA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.690148,52.761021,-2.674484,52.776535],
+  "geometry": {"alpha":0.00015,"bbox":[-2.6901481151581,52.7610206604,-2.6744840145111,52.77653503418],"coordinates":[[[[-2.680878,52.776535],[-2.675685,52.77499],[-2.674484,52.772655],[-2.688882,52.761021],[-2.690148,52.761604],[-2.680878,52.776535]]]],"created":1292549526,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/20092030_20101217_1bcf75850d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12680528,
+  "type": "Feature",
+  "properties": {
+    "name":"Montemagno, Italy",
+    "placetype":"locality",
+    "woe:id":12680528,
+    "woe:name":"Montemagno, Italy",
+    "woe:place_id":"OM75ikCYA5p9vaDNdg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.319654,44.982468,8.324595,44.988781],
+  "geometry": {"alpha":1e-05,"bbox":[8.3196544647217,44.982467651367,8.324595451355,44.988780975342],"coordinates":[[[[8.324595,44.98341],[8.323087,44.982468],[8.321939,44.985851],[8.320126,44.988659],[8.319654,44.988781],[8.321939,44.985851],[8.324595,44.98341]]]],"created":1292382963,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12680528_20101215_c22d9bccba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12680487,
+  "type": "Feature",
+  "properties": {
+    "name":"Sant'Angelo in Lizzola, Italy",
+    "placetype":"locality",
+    "woe:id":12680487,
+    "woe:name":"Sant'Angelo in Lizzola, Italy",
+    "woe:place_id":"TW8S1P.YA5qLn6SUeg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.755983,43.849567,12.760941,43.854923],
+  "geometry": {"alpha":1e-05,"bbox":[12.755983352661,43.84956741333,12.760940551758,43.854923248291],"coordinates":[[[[12.756016,43.850567],[12.755983,43.85075],[12.75916,43.854923],[12.760941,43.853786],[12.75685,43.849567],[12.756016,43.850567]]]],"created":1292537503,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/12680487_20101216_51dd0f76ec.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

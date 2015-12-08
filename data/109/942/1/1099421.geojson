@@ -1,0 +1,15 @@
+{
+  "id": 1099421,
+  "type": "Feature",
+  "properties": {
+    "name":"Westerway, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1099421,
+    "woe:name":"Westerway, Tasmania, Australia",
+    "woe:place_id":"ACQeZj.YAZUQmmnq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.754684,-42.683949,146.788849,-42.67234],
+  "geometry": {"alpha":0.00015,"bbox":[146.75468444824,-42.683948516846,146.78884887695,-42.672340393066],"coordinates":[[[[146.767731,-42.67234],[146.788849,-42.675224],[146.784424,-42.682121],[146.76944,-42.677891],[146.766403,-42.679214],[146.754684,-42.683949],[146.767731,-42.67234]]]],"created":1292524149,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/1099421_20101216_afc6e85d43.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

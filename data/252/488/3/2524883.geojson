@@ -1,0 +1,15 @@
+{
+  "id": 2524883,
+  "type": "Feature",
+  "properties": {
+    "name":"Yorkleigh, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2524883,
+    "woe:name":"Yorkleigh, Maryland, United States",
+    "woe:place_id":"Q5MhjECbBJ7FSy_D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.612045,39.387012,-76.605301,39.392246],
+  "geometry": {"alpha":0.00015,"bbox":[-76.612045288086,39.387012481689,-76.60530090332,39.392246246338],"coordinates":[[[[-76.605301,39.389408],[-76.605843,39.387012],[-76.610802,39.388348],[-76.612045,39.388546],[-76.605431,39.392246],[-76.605301,39.389408]]]],"created":1292540117,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2524883_20101216_b25fb42e2c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 62619,
+  "type": "Feature",
+  "properties": {
+    "name":"Florida, Camaguey, Cuba",
+    "placetype":"locality",
+    "woe:id":62619,
+    "woe:name":"Florida, Camaguey, Cuba",
+    "woe:place_id":"n8xFBe.fA5rGhQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.232635,21.520487,-78.216393,21.537737],
+  "geometry": {"alpha":0.00015,"bbox":[-78.232635498047,21.520486831665,-78.21639251709,21.5377368927],"coordinates":[[[[-78.222313,21.528139],[-78.216393,21.520487],[-78.217278,21.520966],[-78.222191,21.523451],[-78.231926,21.532612],[-78.232635,21.537737],[-78.222313,21.528139]]]],"created":1292491087,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/62619_20101216_771cbee434.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

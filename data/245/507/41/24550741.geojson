@@ -1,0 +1,15 @@
+{
+  "id": 24550741,
+  "type": "Feature",
+  "properties": {
+    "name":"Khowst, AF, Afghanistan",
+    "placetype":"region",
+    "woe:id":24550741,
+    "woe:name":"Khowst, AF, Afghanistan",
+    "woe:place_id":"KyPdB.SbBZkVoUHctg",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [69.822235,33.277733,70.127792,33.361572],
+  "geometry": {"alpha":0.03,"bbox":[69.822235107422,33.277732849121,70.127792358398,33.361572265625],"coordinates":[[[[69.901886,33.352978],[69.957504,33.361572],[70.127792,33.303703],[70.122986,33.277733],[69.927979,33.323643],[69.822235,33.358063],[69.901886,33.352978]]]],"created":1292534289,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/24550741_20101216_2d032649a7.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

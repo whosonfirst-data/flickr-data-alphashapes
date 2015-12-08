@@ -1,0 +1,15 @@
+{
+  "id": 767774,
+  "type": "Feature",
+  "properties": {
+    "name":"Moratalla, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":767774,
+    "woe:name":"Moratalla, Andalusia, Spain",
+    "woe:place_id":"SqGPdHqeB5tUEuo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.207176,37.774658,-5.197219,37.790184],
+  "geometry": {"alpha":0.00015,"bbox":[-5.2071762084961,37.774658203125,-5.1972188949585,37.790184020996],"coordinates":[[[[-5.206747,37.774658],[-5.207176,37.777225],[-5.203399,37.790184],[-5.197219,37.785912],[-5.202476,37.777927],[-5.206747,37.774658]]]],"created":1292453739,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/767774_20101215_6a9b3f097b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2453104,
+  "type": "Feature",
+  "properties": {
+    "name":"Montague, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2453104,
+    "woe:name":"Montague, Florida, United States",
+    "woe:place_id":"p50KN9SbBZnubYzl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.067825,29.122322,-82.038689,29.142715],
+  "geometry": {"alpha":0.00015,"bbox":[-82.067825317383,29.12232208252,-82.038688659668,29.142715454102],"coordinates":[[[[-82.051735,29.142715],[-82.052681,29.136606],[-82.038689,29.122322],[-82.060661,29.12339],[-82.063385,29.136137],[-82.067825,29.140579],[-82.051735,29.142715]]]],"created":1292549848,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2453104_20101217_549cc371b0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

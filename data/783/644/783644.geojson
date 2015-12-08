@@ -1,0 +1,15 @@
+{
+  "id": 783644,
+  "type": "Feature",
+  "properties": {
+    "name":"Oey, Canton of Berne, Switzerland",
+    "placetype":"locality",
+    "woe:id":783644,
+    "woe:name":"Oey, Canton of Berne, Switzerland",
+    "woe:place_id":"oTSF12.eCZ_P86Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.575922,46.656464,7.578125,46.66087],
+  "geometry": {"alpha":0.00015,"bbox":[7.5759220123291,46.656463623047,7.578125,46.660869598389],"coordinates":[[[[7.578114,46.659874],[7.575922,46.656464],[7.576221,46.657951],[7.577169,46.659599],[7.577709,46.66087],[7.578125,46.659893],[7.578114,46.659874]]]],"created":1292529795,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/783644_20101216_117b891476.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

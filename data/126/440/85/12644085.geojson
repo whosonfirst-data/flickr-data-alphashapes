@@ -1,0 +1,15 @@
+{
+  "id": 12644085,
+  "type": "Feature",
+  "properties": {
+    "name":"Gouesnou, France",
+    "placetype":"locality",
+    "woe:id":12644085,
+    "woe:name":"Gouesnou, France",
+    "woe:place_id":"aKuBJZ.YA5pqsBgW1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.452424,48.453663,-4.45164,48.454189],
+  "geometry": {"alpha":1e-05,"bbox":[-4.4524240493774,48.453662872314,-4.4516401290894,48.454189300537],"coordinates":[[[[-4.452263,48.454189],[-4.45164,48.453663],[-4.452043,48.453835],[-4.452375,48.453953],[-4.452424,48.454159],[-4.452263,48.454189]]]],"created":1292543595,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/12644085_20101216_64f618f532.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

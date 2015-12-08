@@ -1,0 +1,15 @@
+{
+  "id": 2434046,
+  "type": "Feature",
+  "properties": {
+    "name":"Kurtz Beach, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2434046,
+    "woe:name":"Kurtz Beach, Maryland, United States",
+    "woe:place_id":"ohpdk7ubBZ8Db5L5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.462524,39.147678,-76.46051,39.153111],
+  "geometry": {"alpha":0.00015,"bbox":[-76.462524414062,39.147678375244,-76.460510253906,39.15311050415],"coordinates":[[[[-76.46051,39.148384],[-76.460617,39.148045],[-76.461639,39.147678],[-76.462524,39.147934],[-76.460533,39.153111],[-76.46051,39.148384]]]],"created":1292505967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2434046_20101216_f167c7af03.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

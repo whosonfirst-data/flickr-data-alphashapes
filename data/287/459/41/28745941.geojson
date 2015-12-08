@@ -1,0 +1,15 @@
+{
+  "id": 28745941,
+  "type": "Feature",
+  "properties": {
+    "name":"Laurelville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745941,
+    "woe:name":"Laurelville, Pennsylvania, United States",
+    "woe:place_id":"wLJezQybCZutV6piOQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.084648,40.065495,-76.070366,40.081905],
+  "geometry": {"alpha":0.00015,"bbox":[-76.084648132324,40.065494537354,-76.070365905762,40.08190536499],"coordinates":[[[[-76.076698,40.065495],[-76.084648,40.081905],[-76.074173,40.075527],[-76.070366,40.068874],[-76.076698,40.065495]]]],"created":1292514668,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/28745941_20101216_662476ca1c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26822030,
+  "type": "Feature",
+  "properties": {
+    "name":"Stadtteil Innenstadt, Germany",
+    "placetype":"locality",
+    "woe:id":26822030,
+    "woe:name":"Stadtteil Innenstadt, Germany",
+    "woe:place_id":"j3yWkvebB5S29gQy.w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.523829,52.26432,10.523915,52.264572],
+  "geometry": {"alpha":1e-05,"bbox":[10.523829460144,52.264320373535,10.523915290833,52.264572143555],"coordinates":[[[[10.523829,52.264336],[10.523829,52.264351],[10.523893,52.264572],[10.523915,52.26432],[10.52385,52.26432],[10.523829,52.264336]]]],"created":1292442108,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/26822030_20101215_64676a3b61.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

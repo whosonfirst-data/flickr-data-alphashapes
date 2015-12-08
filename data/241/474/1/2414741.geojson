@@ -1,0 +1,15 @@
+{
+  "id": 2414741,
+  "type": "Feature",
+  "properties": {
+    "name":"Greenwood, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2414741,
+    "woe:name":"Greenwood, Virginia, United States",
+    "woe:place_id":"B3rj4UKbBZ1fR5_c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.480392,37.658615,-77.455154,37.677029],
+  "geometry": {"alpha":0.00015,"bbox":[-77.480392456055,37.658615112305,-77.455154418945,37.677028656006],"coordinates":[[[[-77.457993,37.673935],[-77.455154,37.658615],[-77.46476,37.665199],[-77.480392,37.677029],[-77.461914,37.674225],[-77.457993,37.673935]]]],"created":1292530012,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2414741_20101216_c956704baa.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

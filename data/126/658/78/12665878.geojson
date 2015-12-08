@@ -1,0 +1,15 @@
+{
+  "id": 12665878,
+  "type": "Feature",
+  "properties": {
+    "name":"Lovagny, France",
+    "placetype":"locality",
+    "woe:id":12665878,
+    "woe:name":"Lovagny, France",
+    "woe:place_id":"8wuheaWYA5rFu8Lcvw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.028661,45.899059,6.03545,45.904552],
+  "geometry": {"alpha":1e-05,"bbox":[6.028660774231,45.899059295654,6.0354499816895,45.904552459717],"coordinates":[[[[6.032931,45.902493],[6.03545,45.899059],[6.031837,45.899624],[6.028661,45.903866],[6.031193,45.904552],[6.031322,45.904522],[6.032931,45.902493]]]],"created":1292530735,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/12665878_20101216_22daae5a8e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

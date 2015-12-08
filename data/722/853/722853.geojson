@@ -1,0 +1,15 @@
+{
+  "id": 722853,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino in Campo, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":722853,
+    "woe:name":"San Martino in Campo, Umbria, Italy",
+    "woe:place_id":"D_iBx5CeA54gruI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.398644,43.034893,12.412662,43.039104],
+  "geometry": {"alpha":0.00015,"bbox":[12.398644447327,43.034893035889,12.412661552429,43.03910446167],"coordinates":[[[[12.3989,43.038883],[12.405303,43.039104],[12.412662,43.034893],[12.401247,43.03838],[12.398644,43.038612],[12.3989,43.038883]]]],"created":1292526290,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/722853_20101216_d96db395d0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

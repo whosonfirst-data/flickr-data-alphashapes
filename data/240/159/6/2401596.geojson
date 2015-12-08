@@ -1,0 +1,15 @@
+{
+  "id": 2401596,
+  "type": "Feature",
+  "properties": {
+    "name":"Fairmount, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2401596,
+    "woe:name":"Fairmount, Illinois, United States",
+    "woe:place_id":"sWvrRYibBZw3mLX7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.833504,40.039524,-87.810608,40.048893],
+  "geometry": {"alpha":0.00015,"bbox":[-87.833503723145,40.039524078369,-87.810607910156,40.048892974854],"coordinates":[[[[-87.830841,40.046986],[-87.827843,40.04726],[-87.810608,40.048893],[-87.829338,40.039524],[-87.833504,40.046623],[-87.830841,40.046986]]]],"created":1292549098,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2401596_20101217_514362e905.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

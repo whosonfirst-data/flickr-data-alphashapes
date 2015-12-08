@@ -1,0 +1,15 @@
+{
+  "id": 632500,
+  "type": "Feature",
+  "properties": {
+    "name":"Vittefleur, Haute-Normandie, France",
+    "placetype":"locality",
+    "woe:id":632500,
+    "woe:name":"Vittefleur, Haute-Normandie, France",
+    "woe:place_id":"P5LfwQafAp7nsEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.62931,49.819931,0.636638,49.826576],
+  "geometry": {"alpha":0.00015,"bbox":[0.62931001186371,49.819931030273,0.63663798570633,49.82657623291],"coordinates":[[[[0.62931,49.823643],[0.633859,49.826576],[0.634857,49.825253],[0.636638,49.82288],[0.634975,49.819931],[0.62931,49.823643]]]],"created":1292438885,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/632500_20101215_6d80c3601f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

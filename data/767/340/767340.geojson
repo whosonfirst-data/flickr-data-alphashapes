@@ -1,0 +1,15 @@
+{
+  "id": 767340,
+  "type": "Feature",
+  "properties": {
+    "name":"Moja, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":767340,
+    "woe:name":"Moja, Catalonia, Spain",
+    "woe:place_id":"c0hiAIaeB5vWn80",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.680103,41.314579,1.700906,41.333401],
+  "geometry": {"alpha":0.00015,"bbox":[1.6801029443741,41.31457901001,1.7009060382843,41.333400726318],"coordinates":[[[[1.685714,41.319397],[1.680103,41.332344],[1.69169,41.333385],[1.692023,41.333401],[1.700906,41.321846],[1.688375,41.314579],[1.685714,41.319397]]]],"created":1292532401,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/767340_20101216_cb1aa8356a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

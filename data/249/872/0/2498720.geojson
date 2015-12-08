@@ -1,0 +1,15 @@
+{
+  "id": 2498720,
+  "type": "Feature",
+  "properties": {
+    "name":"Stacy, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2498720,
+    "woe:name":"Stacy, Minnesota, United States",
+    "woe:place_id":"3Wgb96ibBZU4R1hS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.996735,45.388325,-92.983704,45.399715],
+  "geometry": {"alpha":0.00015,"bbox":[-92.996734619141,45.388324737549,-92.983703613281,45.399715423584],"coordinates":[[[[-92.983704,45.39481],[-92.985962,45.388325],[-92.996735,45.394337],[-92.99221,45.399715],[-92.986046,45.397724],[-92.983704,45.39481]]]],"created":1292550541,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2498720_20101217_fdbe88df98.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

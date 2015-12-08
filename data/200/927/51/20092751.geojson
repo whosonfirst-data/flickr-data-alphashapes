@@ -1,0 +1,15 @@
+{
+  "id": 20092751,
+  "type": "Feature",
+  "properties": {
+    "name":"Latchford, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092751,
+    "woe:name":"Latchford, England, United Kingdom",
+    "woe:place_id":"oj9FMhSbAZznuIBHHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.019569,51.873001,0.0215,51.874695],
+  "geometry": {"alpha":0.00015,"bbox":[0.019569000229239,51.873001098633,0.021500000730157,51.874694824219],"coordinates":[[[[0.020921,51.873058],[0.019912,51.873402],[0.019569,51.874695],[0.0215,51.874165],[0.021333,51.873001],[0.020921,51.873058]]]],"created":1292550510,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/20092751_20101217_a8e10780d5.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

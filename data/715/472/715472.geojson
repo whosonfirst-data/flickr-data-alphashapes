@@ -1,0 +1,15 @@
+{
+  "id": 715472,
+  "type": "Feature",
+  "properties": {
+    "name":"Filignano, Molise, Italy",
+    "placetype":"locality",
+    "woe:id":715472,
+    "woe:name":"Filignano, Molise, Italy",
+    "woe:place_id":"Rx4osdieAJnRgbI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.045162,41.543919,14.059066,41.548157],
+  "geometry": {"alpha":0.00015,"bbox":[14.045162200928,41.543918609619,14.059065818787,41.548156738281],"coordinates":[[[[14.057071,41.54549],[14.059066,41.543919],[14.057089,41.544411],[14.054275,41.545086],[14.045162,41.548157],[14.05426,41.545685],[14.057071,41.54549]]]],"created":1292475301,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/715472_20101216_58185d328e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

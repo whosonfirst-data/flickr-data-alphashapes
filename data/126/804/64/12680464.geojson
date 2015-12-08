@@ -1,0 +1,15 @@
+{
+  "id": 12680464,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca di Papa, Italy",
+    "placetype":"locality",
+    "woe:id":12680464,
+    "woe:name":"Rocca di Papa, Italy",
+    "woe:place_id":"AKFzxxKYA5rcRFj_Bg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.706117,41.759914,12.711095,41.762604],
+  "geometry": {"alpha":1e-05,"bbox":[12.706116676331,41.759914398193,12.711094856262,41.762603759766],"coordinates":[[[[12.709357,41.761494],[12.711095,41.762604],[12.710484,41.760242],[12.709304,41.759937],[12.706117,41.759914],[12.706224,41.762428],[12.709357,41.761494]]]],"created":1292530152,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/12680464_20101216_08f1fe1b59.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

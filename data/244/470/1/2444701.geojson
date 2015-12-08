@@ -1,0 +1,15 @@
+{
+  "id": 2444701,
+  "type": "Feature",
+  "properties": {
+    "name":"Manda, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2444701,
+    "woe:name":"Manda, Texas, United States",
+    "woe:place_id":"m.v4P.mbBZjlgg0J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.46933,30.377613,-97.449074,30.401602],
+  "geometry": {"alpha":0.00015,"bbox":[-97.469329833984,30.377613067627,-97.449073791504,30.401601791382],"coordinates":[[[[-97.449074,30.39753],[-97.452591,30.377613],[-97.454865,30.393606],[-97.46933,30.401602],[-97.449074,30.39753]]]],"created":1239602656,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3410/shapefiles/2444701_20090413_49923aff36.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2373654,
+  "type": "Feature",
+  "properties": {
+    "name":"Camelot, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2373654,
+    "woe:name":"Camelot, North Carolina, United States",
+    "woe:place_id":"WVNNYzWbApvOKnl7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.571243,35.3508,-82.54303,35.360809],
+  "geometry": {"alpha":0.00015,"bbox":[-82.571243286133,35.350799560547,-82.543029785156,35.360809326172],"coordinates":[[[[-82.558975,35.360809],[-82.555252,35.360031],[-82.54303,35.358257],[-82.555649,35.353531],[-82.571243,35.3508],[-82.558975,35.360809]]]],"created":1292522981,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2373654_20101216_866f582b91.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

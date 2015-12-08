@@ -1,0 +1,15 @@
+{
+  "id": 1098625,
+  "type": "Feature",
+  "properties": {
+    "name":"St Arnaud, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1098625,
+    "woe:name":"St Arnaud, Victoria, Australia",
+    "woe:place_id":"zbmO2HqYAZV1OCLg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [143.249359,-36.625931,143.266861,-36.612633],
+  "geometry": {"alpha":0.00015,"bbox":[143.24935913086,-36.625930786133,143.26686096191,-36.612632751465],"coordinates":[[[[143.249359,-36.613873],[143.254166,-36.613667],[143.263611,-36.612633],[143.266861,-36.625931],[143.252014,-36.619247],[143.249359,-36.613873]]]],"created":1292527416,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/1098625_20101216_b1c19430f8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

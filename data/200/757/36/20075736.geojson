@@ -1,0 +1,15 @@
+{
+  "id": 20075736,
+  "type": "Feature",
+  "properties": {
+    "name":"Bergolo, Italy",
+    "placetype":"locality",
+    "woe:id":20075736,
+    "woe:name":"Bergolo, Italy",
+    "woe:place_id":"YJk4YBebAZx2i0n.QQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.180694,44.547745,8.185415,44.550724],
+  "geometry": {"alpha":1e-05,"bbox":[8.1806936264038,44.547744750977,8.1854152679443,44.550724029541],"coordinates":[[[[8.181209,44.549622],[8.180694,44.549866],[8.181896,44.549683],[8.182668,44.54953],[8.185415,44.550724],[8.183225,44.547745],[8.181209,44.549622]]]],"created":1292529292,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/20075736_20101216_c36c1971d8.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

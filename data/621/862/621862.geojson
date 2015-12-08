@@ -1,0 +1,15 @@
+{
+  "id": 621862,
+  "type": "Feature",
+  "properties": {
+    "name":"Sergeac, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":621862,
+    "woe:name":"Sergeac, Aquitaine, France",
+    "woe:place_id":"WNiL7mCfA51hMuU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.101111,45.000305,1.109533,45.010265],
+  "geometry": {"alpha":0.00015,"bbox":[1.1011110544205,45.000305175781,1.1095329523087,45.010265350342],"coordinates":[[[[1.103782,45.000305],[1.101111,45.00058],[1.104426,45.003696],[1.109533,45.010265],[1.108846,45.003773],[1.106915,45.002769],[1.103782,45.000305]]]],"created":1292505126,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/621862_20101216_a93ab8df6d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

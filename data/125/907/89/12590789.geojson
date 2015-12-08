@@ -1,0 +1,15 @@
+{
+  "id": 12590789,
+  "type": "Feature",
+  "properties": {
+    "name":"Pello, Finland",
+    "placetype":"locality",
+    "woe:id":12590789,
+    "woe:name":"Pello, Finland",
+    "woe:place_id":"3IzMGrGYA5k1UunIOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.985235,66.799461,23.990145,66.801407],
+  "geometry": {"alpha":1e-05,"bbox":[23.985235214233,66.799461364746,23.990144729614,66.801406860352],"coordinates":[[[[23.986759,66.799614],[23.985235,66.801407],[23.988991,66.799751],[23.990145,66.800034],[23.989677,66.799461],[23.988991,66.799751],[23.985235,66.801407],[23.986759,66.799614]]]],"created":1292472191,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/12590789_20101216_803c80b7b6.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

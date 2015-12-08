@@ -1,0 +1,15 @@
+{
+  "id": 3049,
+  "type": "Feature",
+  "properties": {
+    "name":"Eagle River, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":3049,
+    "woe:name":"Eagle River, Ontario, Canada",
+    "woe:place_id":"ByRykaCaAZgS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.338295,49.748833,-93.321648,49.766243],
+  "geometry": {"alpha":0.00015,"bbox":[-93.33829498291,49.748832702637,-93.321647644043,49.766242980957],"coordinates":[[[[-93.321648,49.766075],[-93.323364,49.748833],[-93.338295,49.753765],[-93.324905,49.766243],[-93.321648,49.766075]]]],"created":1234653608,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3532/shapefiles/3049_20090214_2bc6fdbfa3.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

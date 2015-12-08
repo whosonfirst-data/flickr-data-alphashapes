@@ -1,0 +1,15 @@
+{
+  "id": 20222567,
+  "type": "Feature",
+  "properties": {
+    "name":"El Ges, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20222567,
+    "woe:name":"El Ges, Catalonia, Spain",
+    "woe:place_id":"t_3QGySbAZ61PPUuPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.493711,42.315208,1.496721,42.319389],
+  "geometry": {"alpha":0.00015,"bbox":[1.4937109947205,42.315208435059,1.4967210292816,42.319389343262],"coordinates":[[[[1.496695,42.316502],[1.496638,42.316471],[1.493711,42.315208],[1.496721,42.319389],[1.496695,42.316555],[1.496695,42.316502]]]],"created":1292441883,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/20222567_20101215_d023a06892.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

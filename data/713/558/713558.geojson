@@ -1,0 +1,15 @@
+{
+  "id": 713558,
+  "type": "Feature",
+  "properties": {
+    "name":"Castrocielo, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":713558,
+    "woe:name":"Castrocielo, Lazio, Italy",
+    "woe:place_id":"JgcO69meAJ_zwS8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.692162,41.522717,13.699264,41.53167],
+  "geometry": {"alpha":0.00015,"bbox":[13.692161560059,41.522716522217,13.699263572693,41.531669616699],"coordinates":[[[[13.694458,41.531261],[13.696485,41.53167],[13.699264,41.522717],[13.694286,41.522972],[13.693771,41.523037],[13.692162,41.530411],[13.694458,41.531261]]]],"created":1292518282,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/713558_20101216_7b72bfe301.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

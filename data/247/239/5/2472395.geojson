@@ -1,0 +1,15 @@
+{
+  "id": 2472395,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Shore Lakes, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2472395,
+    "woe:name":"Pine Shore Lakes, North Carolina, United States",
+    "woe:place_id":"QEcDEFmbBZt64k1T",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.73735,35.139511,-82.732887,35.142265],
+  "geometry": {"alpha":0.00015,"bbox":[-82.737350463867,35.139511108398,-82.732887268066,35.142265319824],"coordinates":[[[[-82.735802,35.142265],[-82.735138,35.141556],[-82.732887,35.139511],[-82.735291,35.139843],[-82.73735,35.14151],[-82.735802,35.142265]]]],"created":1292545293,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2472395_20101217_1e18455b1f.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

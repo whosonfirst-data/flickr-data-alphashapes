@@ -1,0 +1,15 @@
+{
+  "id": 12677817,
+  "type": "Feature",
+  "properties": {
+    "name":"Pollenza, Italy",
+    "placetype":"locality",
+    "woe:id":12677817,
+    "woe:name":"Pollenza, Italy",
+    "woe:place_id":"s.TKIaGYA5pfvQIn_Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.346639,43.26733,13.349075,43.269684],
+  "geometry": {"alpha":1e-05,"bbox":[13.346638679504,43.267330169678,13.349075317383,43.269683837891],"coordinates":[[[[13.34679,43.26918],[13.346983,43.269684],[13.348817,43.26881],[13.349075,43.26733],[13.347262,43.268425],[13.346639,43.268852],[13.34679,43.26918]]]],"created":1292517686,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12677817_20101216_14dbe5a6f9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

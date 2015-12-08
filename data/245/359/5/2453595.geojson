@@ -1,0 +1,15 @@
+{
+  "id": 2453595,
+  "type": "Feature",
+  "properties": {
+    "name":"Montville, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2453595,
+    "woe:name":"Montville, Ohio, United States",
+    "woe:place_id":"lhKMhEubBZnQBzkt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.074394,41.591721,-81.046677,41.628338],
+  "geometry": {"alpha":0.00029296875,"bbox":[-81.074394226074,41.591720581055,-81.046676635742,41.628337860107],"coordinates":[[[[-81.060333,41.613239],[-81.0485,41.628338],[-81.046677,41.602989],[-81.074394,41.591721],[-81.061646,41.611809],[-81.060333,41.613239]]]],"created":1292534650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2453595_20101216_9f0fdcc7c3.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000130,
+  "type": "Feature",
+  "properties": {
+    "name":"Partaharju, Eastern Finland, Finland",
+    "placetype":"locality",
+    "woe:id":15000130,
+    "woe:name":"Partaharju, Eastern Finland, Finland",
+    "woe:place_id":"2CDZbyOYBJzmfphYPQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.208208,62.343491,27.219294,62.345604],
+  "geometry": {"alpha":0.00015,"bbox":[27.208208084106,62.343490600586,27.21929359436,62.345603942871],"coordinates":[[[[27.219294,62.345333],[27.219046,62.345303],[27.208208,62.343491],[27.21809,62.345604],[27.219294,62.345333]]]],"created":1292546852,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/15000130_20101217_c9d798dedb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

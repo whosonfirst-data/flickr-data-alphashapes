@@ -1,0 +1,15 @@
+{
+  "id": 2424751,
+  "type": "Feature",
+  "properties": {
+    "name":"Houston, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2424751,
+    "woe:name":"Houston, Florida, United States",
+    "woe:place_id":"oDZcbWabBZ5zEAeR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.919228,30.244831,-82.902122,30.258696],
+  "geometry": {"alpha":0.00015,"bbox":[-82.919227600098,30.244831085205,-82.902122497559,30.258695602417],"coordinates":[[[[-82.90918,30.244831],[-82.914803,30.245462],[-82.919228,30.258696],[-82.904633,30.25017],[-82.902122,30.250633],[-82.90918,30.244831]]]],"created":1292535013,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2424751_20101216_6a2cca3b4c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

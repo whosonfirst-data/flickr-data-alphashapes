@@ -1,0 +1,15 @@
+{
+  "id": 12678139,
+  "type": "Feature",
+  "properties": {
+    "name":"Cassano delle Murge, Italy",
+    "placetype":"locality",
+    "woe:id":12678139,
+    "woe:name":"Cassano delle Murge, Italy",
+    "woe:place_id":"P2iGJDiYA5pt_t0bgQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.751747,40.886524,16.757797,40.891968],
+  "geometry": {"alpha":1e-05,"bbox":[16.751747131348,40.886524200439,16.757797241211,40.891967773438],"coordinates":[[[[16.75355,40.886963],[16.752068,40.886524],[16.751747,40.889477],[16.753893,40.891968],[16.757797,40.890839],[16.756403,40.890537],[16.75355,40.886963]]]],"created":1292517978,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/12678139_20101216_ec31361684.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

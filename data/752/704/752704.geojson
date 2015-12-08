@@ -1,0 +1,15 @@
+{
+  "id": 752704,
+  "type": "Feature",
+  "properties": {
+    "name":"Areallana, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":752704,
+    "woe:name":"Areallana, Asturias, Spain",
+    "woe:place_id":"TiFsNoWeBJ4E0YQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.3104,43.519768,-6.307826,43.520454],
+  "geometry": {"alpha":0.00015,"bbox":[-6.3104000091553,43.51976776123,-6.3078260421753,43.520454406738],"coordinates":[[[[-6.310186,43.520344],[-6.3104,43.520454],[-6.310057,43.520424],[-6.309456,43.520237],[-6.307826,43.519768],[-6.310186,43.520344]]]],"created":1292456101,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/752704_20101215_a995e31086.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

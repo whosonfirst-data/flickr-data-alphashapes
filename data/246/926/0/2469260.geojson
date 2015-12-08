@@ -1,0 +1,15 @@
+{
+  "id": 2469260,
+  "type": "Feature",
+  "properties": {
+    "name":"Pattonsville, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2469260,
+    "woe:name":"Pattonsville, Virginia, United States",
+    "woe:place_id":"IFAMQ_mbBZoSzxpf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.874947,36.691849,-82.862236,36.711536],
+  "geometry": {"alpha":0.00015,"bbox":[-82.874946594238,36.691848754883,-82.862236022949,36.711536407471],"coordinates":[[[[-82.874947,36.710487],[-82.873169,36.710667],[-82.870903,36.711021],[-82.862236,36.711536],[-82.868057,36.691849],[-82.874947,36.710487]]]],"created":1292525624,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2469260_20101216_86a597dd37.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

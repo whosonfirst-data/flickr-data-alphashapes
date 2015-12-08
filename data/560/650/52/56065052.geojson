@@ -1,0 +1,15 @@
+{
+  "id": 56065052,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Flores, Andalusia, Spain",
+    "placetype":"locality",
+    "woe:id":56065052,
+    "woe:name":"Las Flores, Andalusia, Spain",
+    "woe:place_id":"YwERdv6cB5yanT_TOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.950614,36.733856,-3.945604,36.74033],
+  "geometry": {"alpha":0.00015,"bbox":[-3.9506139755249,36.733856201172,-3.9456040859222,36.740329742432],"coordinates":[[[[-3.947542,36.733856],[-3.950614,36.734207],[-3.945604,36.74033],[-3.947485,36.733856],[-3.947541,36.733856],[-3.947542,36.733856]]]],"created":1292510046,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/56065052_20101216_612883149b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

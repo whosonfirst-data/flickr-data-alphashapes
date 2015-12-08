@@ -1,0 +1,15 @@
+{
+  "id": 1098190,
+  "type": "Feature",
+  "properties": {
+    "name":"Pretty Beach, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1098190,
+    "woe:name":"Pretty Beach, New South Wales, Australia",
+    "woe:place_id":"3uhRHWuYAZVBP8Hv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [151.347321,-33.527233,151.353348,-33.521309],
+  "geometry": {"alpha":0.00015,"bbox":[151.34732055664,-33.527233123779,151.35334777832,-33.521308898926],"coordinates":[[[[151.347321,-33.527233],[151.348175,-33.523842],[151.353348,-33.521309],[151.349716,-33.525482],[151.347321,-33.527233]]]],"created":1234516802,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3450/shapefiles/1098190_20090213_e2431daf45.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

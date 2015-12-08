@@ -1,0 +1,15 @@
+{
+  "id": 1094180,
+  "type": "Feature",
+  "properties": {
+    "name":"Bailieston, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1094180,
+    "woe:name":"Bailieston, Victoria, Australia",
+    "woe:place_id":"f5yrZdyYAZWVnH3J",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.123428,-36.791981,145.133606,-36.784267],
+  "geometry": {"alpha":0.00015,"bbox":[145.12342834473,-36.791980743408,145.13360595703,-36.784267425537],"coordinates":[[[[145.133606,-36.78516],[145.131241,-36.791981],[145.123428,-36.788612],[145.126389,-36.78706],[145.132309,-36.784267],[145.133606,-36.78516]]]],"created":1292499783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/1094180_20101216_2b2036713e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 15000425,
+  "type": "Feature",
+  "properties": {
+    "name":"Rometta, Sicily, Italy",
+    "placetype":"locality",
+    "woe:id":15000425,
+    "woe:name":"Rometta, Sicily, Italy",
+    "woe:place_id":"tSX3JY6YBJw4HqjsmQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.413818,38.167023,15.415878,38.173973],
+  "geometry": {"alpha":0.00015,"bbox":[15.413818359375,38.167022705078,15.415878295898,38.173973083496],"coordinates":[[[[15.415878,38.173122],[15.415706,38.167023],[15.415213,38.16972],[15.414676,38.171814],[15.413818,38.173973],[15.415844,38.173141],[15.415878,38.173122]]]],"created":1292508305,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/15000425_20101216_0a990ed9b5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

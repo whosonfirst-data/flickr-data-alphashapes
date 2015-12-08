@@ -1,0 +1,15 @@
+{
+  "id": 27017,
+  "type": "Feature",
+  "properties": {
+    "name":"Llanharan, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27017,
+    "woe:name":"Llanharan, Wales, United Kingdom",
+    "woe:place_id":"8VoG1NGbBpz3Uw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.44982,51.534752,-3.439235,51.553112],
+  "geometry": {"alpha":0.00015,"bbox":[-3.4498200416565,51.53475189209,-3.4392349720001,51.553112030029],"coordinates":[[[[-3.440147,51.538784],[-3.440941,51.536423],[-3.444932,51.534752],[-3.446413,51.535316],[-3.44982,51.541458],[-3.439235,51.553112],[-3.440147,51.538784]]]],"created":1292519470,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/27017_20101216_2e1e3b08c6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

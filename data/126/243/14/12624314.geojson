@@ -1,0 +1,15 @@
+{
+  "id": 12624314,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Mettingen, Germany",
+    "placetype":"locality",
+    "woe:id":12624314,
+    "woe:name":"Gemeinde Mettingen, Germany",
+    "woe:place_id":"8CzyuiiYA5qxfswNBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.762238,52.313164,7.763879,52.313641],
+  "geometry": {"alpha":1e-05,"bbox":[7.7622380256653,52.313163757324,7.7638788223267,52.313640594482],"coordinates":[[[[7.763665,52.313164],[7.763654,52.313164],[7.762914,52.313271],[7.762238,52.313351],[7.763879,52.313641],[7.763665,52.313164]]]],"created":1292548785,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12624314_20101217_e0d0ab4bb2.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

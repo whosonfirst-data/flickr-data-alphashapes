@@ -1,0 +1,15 @@
+{
+  "id": 2269039,
+  "type": "Feature",
+  "properties": {
+    "name":"Lele, Central, Nepal",
+    "placetype":"locality",
+    "woe:id":2269039,
+    "woe:name":"Lele, Central, Nepal",
+    "woe:place_id":"nSbSw_mbA5qiI8YS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [85.320068,27.572823,85.328606,27.586807],
+  "geometry": {"alpha":0.00015,"bbox":[85.320068359375,27.572822570801,85.328605651855,27.586807250977],"coordinates":[[[[85.327812,27.573067],[85.320076,27.586773],[85.320068,27.586807],[85.32016,27.586798],[85.328606,27.572823],[85.327812,27.573051],[85.327812,27.573067]]]],"created":1292454143,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2269039_20101215_237369c3d7.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

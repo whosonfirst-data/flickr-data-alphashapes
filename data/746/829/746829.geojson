@@ -1,0 +1,15 @@
+{
+  "id": 746829,
+  "type": "Feature",
+  "properties": {
+    "name":"Quintas, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":746829,
+    "woe:name":"Quintas, Lisbon, Portugal",
+    "woe:place_id":"QStJdkaeBZobL3o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.283962,38.909405,-9.26348,38.922523],
+  "geometry": {"alpha":0.00015,"bbox":[-9.2839622497559,38.909404754639,-9.2634801864624,38.922523498535],"coordinates":[[[[-9.276318,38.909405],[-9.283962,38.916145],[-9.278984,38.922523],[-9.267343,38.914623],[-9.26348,38.910519],[-9.266399,38.9109],[-9.276318,38.909405]]]],"created":1292491983,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/746829_20101216_eb9998454e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

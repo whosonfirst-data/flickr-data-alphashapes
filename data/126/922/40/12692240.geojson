@@ -1,0 +1,15 @@
+{
+  "id": 12692240,
+  "type": "Feature",
+  "properties": {
+    "name":"El Cerro, Spain",
+    "placetype":"locality",
+    "woe:id":12692240,
+    "woe:name":"El Cerro, Spain",
+    "woe:place_id":"NJapmqSYA5pBJcyjrg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.91794,40.324642,-5.908713,40.330612],
+  "geometry": {"alpha":1e-05,"bbox":[-5.9179401397705,40.324642181396,-5.9087128639221,40.330612182617],"coordinates":[[[[-5.91221,40.330612],[-5.908713,40.32914],[-5.913476,40.328495],[-5.916223,40.327374],[-5.917854,40.326],[-5.91794,40.324642],[-5.916223,40.327374],[-5.913906,40.329517],[-5.91221,40.330612]]]],"created":1292530972,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/12692240_20101216_62e60571cb.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

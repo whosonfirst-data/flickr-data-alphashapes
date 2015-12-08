@@ -1,0 +1,15 @@
+{
+  "id": 753678,
+  "type": "Feature",
+  "properties": {
+    "name":"Barca, Castille and Leon, Spain",
+    "placetype":"locality",
+    "woe:id":753678,
+    "woe:name":"Barca, Castille and Leon, Spain",
+    "woe:place_id":"1rDxmWueBJ8Z8ZE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.624144,41.455189,-2.620925,41.459709],
+  "geometry": {"alpha":0.00015,"bbox":[-2.624144077301,41.455188751221,-2.620924949646,41.45970916748],"coordinates":[[[[-2.622985,41.457134],[-2.620925,41.459709],[-2.621526,41.455921],[-2.622792,41.455189],[-2.624144,41.455303],[-2.622985,41.457134]]]],"created":1292533869,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/753678_20101216_6594998be2.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

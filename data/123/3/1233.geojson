@@ -1,0 +1,15 @@
+{
+  "id": 1233,
+  "type": "Feature",
+  "properties": {
+    "name":"Pont-Viau, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":1233,
+    "woe:name":"Pont-Viau, Quebec, Canada",
+    "woe:place_id":"qLH.JeSYA5_w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.720055,45.557602,-73.664635,45.591881],
+  "geometry": {"alpha":0.00015,"bbox":[-73.720054626465,45.557601928711,-73.66463470459,45.59188079834],"coordinates":[[[[-73.699036,45.577816],[-73.693092,45.588116],[-73.691139,45.591881],[-73.675217,45.583576],[-73.664635,45.573586],[-73.673927,45.572304],[-73.682854,45.561329],[-73.703201,45.557602],[-73.720055,45.558964],[-73.719078,45.56012],[-73.716469,45.573475],[-73.706505,45.573376],[-73.699036,45.577816]]]],"created":1292457863,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/1233_20101216_1a77d5dabd.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722261,
+  "type": "Feature",
+  "properties": {
+    "name":"Salionze, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":722261,
+    "woe:name":"Salionze, Veneto, Italy",
+    "woe:place_id":"8J5zk0GeA56M0ts",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.711486,45.398006,10.724029,45.418213],
+  "geometry": {"alpha":0.00015,"bbox":[10.711485862732,45.398006439209,10.724028587341,45.418212890625],"coordinates":[[[[10.722656,45.407127],[10.724029,45.402988],[10.720469,45.398006],[10.718193,45.406647],[10.711486,45.418213],[10.722656,45.407127]]]],"created":1292453650,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/722261_20101215_7fddde8e0c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

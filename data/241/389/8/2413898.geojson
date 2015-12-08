@@ -1,0 +1,15 @@
+{
+  "id": 2413898,
+  "type": "Feature",
+  "properties": {
+    "name":"Green Landing, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2413898,
+    "woe:name":"Green Landing, Maryland, United States",
+    "woe:place_id":"hWH6.8GbBZ0OYB87",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.711777,38.801659,-76.703537,38.811363],
+  "geometry": {"alpha":0.00015,"bbox":[-76.711776733398,38.801658630371,-76.703536987305,38.811363220215],"coordinates":[[[[-76.706375,38.804089],[-76.711746,38.810879],[-76.711777,38.811363],[-76.703926,38.809483],[-76.703537,38.801659],[-76.706375,38.804089]]]],"created":1292525582,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2413898_20101216_8e6656eaee.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12518082,
+  "type": "Feature",
+  "properties": {
+    "name":"Elvington Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12518082,
+    "woe:name":"Elvington Airport, United Kingdom",
+    "woe:place_id":"u_AQv8SYA5m_lbwnnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.971302,53.920387,-0.968513,53.925774],
+  "geometry": {"alpha":1e-05,"bbox":[-0.97130197286606,53.920387268066,-0.96851301193237,53.925773620605],"coordinates":[[[[-0.970401,53.920387],[-0.971302,53.920517],[-0.970401,53.925064],[-0.968513,53.925774],[-0.970401,53.920387]]]],"created":1292549540,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/12518082_20101217_d64f1f2642.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

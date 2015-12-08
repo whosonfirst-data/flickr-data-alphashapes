@@ -1,0 +1,15 @@
+{
+  "id": 23399441,
+  "type": "Feature",
+  "properties": {
+    "name":"Bayshore, Barrie, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":23399441,
+    "woe:name":"Bayshore, Barrie, ON, CA, Canada",
+    "woe:place_id":"fFokXqabAp9yCwRqdw",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-79.582436,44.379097,-79.581528,44.380711],
+  "geometry": {"alpha":1e-05,"bbox":[-79.58243560791,44.379096984863,-79.581527709961,44.380710601807],"coordinates":[[[[-79.581657,44.380394],[-79.581696,44.380325],[-79.582436,44.379097],[-79.581963,44.38063],[-79.581528,44.380711],[-79.581657,44.380394]]]],"created":1292548790,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/23399441_20101217_be7e192284.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

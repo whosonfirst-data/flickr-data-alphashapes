@@ -1,0 +1,15 @@
+{
+  "id": 23403385,
+  "type": "Feature",
+  "properties": {
+    "name":"Glen Elm, Regina, SK, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":23403385,
+    "woe:name":"Glen Elm, Regina, SK, CA, Canada",
+    "woe:place_id":"eWhyZRGbApitpOPWng",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-104.572334,50.446899,-104.565948,50.453953],
+  "geometry": {"alpha":1e-05,"bbox":[-104.57233428955,50.446899414062,-104.56594848633,50.453952789307],"coordinates":[[[[-104.569931,50.446899],[-104.572334,50.451382],[-104.568665,50.453953],[-104.568169,50.448166],[-104.565948,50.447105],[-104.569931,50.446899]]]],"created":1292525833,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/23403385_20101216_319836a748.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

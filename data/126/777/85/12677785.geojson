@@ -1,0 +1,15 @@
+{
+  "id": 12677785,
+  "type": "Feature",
+  "properties": {
+    "name":"Soliera, Italy",
+    "placetype":"locality",
+    "woe:id":12677785,
+    "woe:name":"Soliera, Italy",
+    "woe:place_id":"FOR0RVmYA5qWPQ1Z1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.91938,44.760815,10.925903,44.764774],
+  "geometry": {"alpha":1e-05,"bbox":[10.919380187988,44.760814666748,10.925903320312,44.76477432251],"coordinates":[[[[10.925903,44.764774],[10.925345,44.760815],[10.91938,44.761848],[10.924358,44.763466],[10.925903,44.764774]]]],"created":1248247091,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3491/shapefiles/12677785_20090722_44a344361f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

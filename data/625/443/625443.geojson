@@ -1,0 +1,15 @@
+{
+  "id": 625443,
+  "type": "Feature",
+  "properties": {
+    "name":"Saint Marcel, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":625443,
+    "woe:name":"Saint Marcel, Rhone-Alpes, France",
+    "woe:place_id":"7Rof8x.fA5mO9kg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.235167,45.647221,5.237141,45.647415],
+  "geometry": {"alpha":0.00015,"bbox":[5.2351670265198,45.647220611572,5.2371411323547,45.647415161133],"coordinates":[[[[5.235167,45.647221],[5.236047,45.647308],[5.237077,45.647415],[5.237141,45.647408],[5.236068,45.64724],[5.235167,45.647221]]]],"created":1292360762,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/625443_20101214_4542b9dcd5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

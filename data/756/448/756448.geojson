@@ -1,0 +1,15 @@
+{
+  "id": 756448,
+  "type": "Feature",
+  "properties": {
+    "name":"Casas Altas, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":756448,
+    "woe:name":"Casas Altas, Valencia, Spain",
+    "woe:place_id":"D11Lp7SeBJp_rbM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.264178,40.023735,-1.258685,40.042751],
+  "geometry": {"alpha":0.00015,"bbox":[-1.2641780376434,40.023735046387,-1.2586849927902,40.042751312256],"coordinates":[[[[-1.264178,40.042751],[-1.263127,40.042236],[-1.258685,40.040314],[-1.261024,40.023735],[-1.264114,40.038868],[-1.264178,40.042751]]]],"created":1292467084,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/756448_20101216_4c284a0eea.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722860,
+  "type": "Feature",
+  "properties": {
+    "name":"San Martino in Pensilis, Molise, Italy",
+    "placetype":"locality",
+    "woe:id":722860,
+    "woe:name":"San Martino in Pensilis, Molise, Italy",
+    "woe:place_id":"FV.7t_yeA56VYsE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.00595,41.870728,15.015563,41.885921],
+  "geometry": {"alpha":0.00015,"bbox":[15.00594997406,41.870727539062,15.015563011169,41.885921478271],"coordinates":[[[[15.015563,41.871349],[15.011175,41.870728],[15.00595,41.885921],[15.011444,41.883366],[15.014877,41.874672],[15.015563,41.871349]]]],"created":1292518322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/722860_20101216_60437b31e7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

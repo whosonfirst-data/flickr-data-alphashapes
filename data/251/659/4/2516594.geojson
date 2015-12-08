@@ -1,0 +1,15 @@
+{
+  "id": 2516594,
+  "type": "Feature",
+  "properties": {
+    "name":"West Addison, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":2516594,
+    "woe:name":"West Addison, Vermont, United States",
+    "woe:place_id":"JVHPau2bBJ1K3cYV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.353569,44.069382,-73.347603,44.076626],
+  "geometry": {"alpha":0.00015,"bbox":[-73.353569030762,44.069381713867,-73.347602844238,44.076625823975],"coordinates":[[[[-73.347603,44.075085],[-73.350044,44.072971],[-73.353569,44.069382],[-73.350777,44.076626],[-73.349449,44.075932],[-73.347603,44.075085]]]],"created":1247915045,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2581/shapefiles/2516594_20090718_9c7d24aeb6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

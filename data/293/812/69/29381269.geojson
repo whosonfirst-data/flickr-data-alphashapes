@@ -1,0 +1,15 @@
+{
+  "id": 29381269,
+  "type": "Feature",
+  "properties": {
+    "name":"Agudela, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":29381269,
+    "woe:name":"Agudela, Porto, Portugal",
+    "woe:place_id":"vOX3YWabCJ_bksKacw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.727951,41.241367,-8.719743,41.245998],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7279510498047,41.241367340088,-8.7197427749634,41.245998382568],"coordinates":[[[[-8.727264,41.242577],[-8.727951,41.24387],[-8.726062,41.245998],[-8.719743,41.245224],[-8.726491,41.241367],[-8.727264,41.242577]]]],"created":1292526909,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/29381269_20101216_3a6cbed845.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

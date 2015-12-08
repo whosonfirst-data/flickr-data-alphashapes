@@ -1,0 +1,15 @@
+{
+  "id": 12693940,
+  "type": "Feature",
+  "properties": {
+    "name":"Balaguer, Spain",
+    "placetype":"locality",
+    "woe:id":12693940,
+    "woe:name":"Balaguer, Spain",
+    "woe:place_id":"UkAtwtmYA5qnxCoKPg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.802688,41.790447,0.809211,41.796398],
+  "geometry": {"alpha":1e-05,"bbox":[0.80268800258636,41.790447235107,0.80921101570129,41.796398162842],"coordinates":[[[[0.808128,41.79372],[0.809211,41.792175],[0.806722,41.790447],[0.803471,41.791794],[0.802688,41.796398],[0.806636,41.794609],[0.808128,41.79372]]]],"created":1292550548,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12693940_20101217_368644f91f.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

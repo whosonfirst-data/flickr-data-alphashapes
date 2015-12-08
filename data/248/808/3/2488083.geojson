@@ -1,0 +1,15 @@
+{
+  "id": 2488083,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2488083,
+    "woe:name":"San Juan, New Mexico, United States",
+    "woe:place_id":"GuE5Z0ObBZQkopmI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-107.907158,32.758659,-107.902176,32.763008],
+  "geometry": {"alpha":0.00015,"bbox":[-107.90715789795,32.758659362793,-107.90217590332,32.763008117676],"coordinates":[[[[-107.905701,32.763008],[-107.902176,32.758659],[-107.907158,32.761692],[-107.905785,32.762936],[-107.905701,32.763008]]]],"created":1292441029,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2488083_20101215_618f204e44.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

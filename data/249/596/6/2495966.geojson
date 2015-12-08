@@ -1,0 +1,15 @@
+{
+  "id": 2495966,
+  "type": "Feature",
+  "properties": {
+    "name":"South Bend, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2495966,
+    "woe:name":"South Bend, Texas, United States",
+    "woe:place_id":"8B9I87ubBZVF8zmi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.669434,32.985493,-98.664673,33.004948],
+  "geometry": {"alpha":0.00015,"bbox":[-98.66943359375,32.985492706299,-98.664672851562,33.004947662354],"coordinates":[[[[-98.668617,33.004948],[-98.666412,33.004848],[-98.664673,32.985493],[-98.666176,32.985931],[-98.669434,33.004597],[-98.668617,33.004948]]]],"created":1292451898,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/2495966_20101215_fd3c7b0078.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

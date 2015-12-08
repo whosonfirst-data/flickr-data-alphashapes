@@ -1,0 +1,15 @@
+{
+  "id": 2357530,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2357530,
+    "woe:name":"Austin, Washington, United States",
+    "woe:place_id":"2JfLFi6bApm2GDwT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.165123,47.699219,-117.155624,47.700123],
+  "geometry": {"alpha":0.00015,"bbox":[-117.16512298584,47.69921875,-117.15562438965,47.700122833252],"coordinates":[[[[-117.164597,47.699219],[-117.165123,47.699726],[-117.164444,47.700123],[-117.155624,47.699596],[-117.16391,47.699333],[-117.164597,47.699219]]]],"created":1292444485,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/2357530_20101215_c98ce45f9e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

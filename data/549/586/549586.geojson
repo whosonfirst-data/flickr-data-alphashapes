@@ -1,0 +1,15 @@
+{
+  "id": 549586,
+  "type": "Feature",
+  "properties": {
+    "name":"Pruggern, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":549586,
+    "woe:name":"Pruggern, Styria, Austria",
+    "woe:place_id":"XzqAwLOcBZXf12Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.860197,47.419258,13.879852,47.437435],
+  "geometry": {"alpha":0.00015,"bbox":[13.860197067261,47.419258117676,13.879852294922,47.437435150146],"coordinates":[[[[13.8735,47.426346],[13.875217,47.429771],[13.876676,47.437435],[13.879852,47.434708],[13.876762,47.419258],[13.860197,47.420654],[13.8735,47.426346]]]],"created":1292528608,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/549586_20101216_cae82d39df.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

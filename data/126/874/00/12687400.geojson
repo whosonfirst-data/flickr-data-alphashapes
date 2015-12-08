@@ -1,0 +1,15 @@
+{
+  "id": 12687400,
+  "type": "Feature",
+  "properties": {
+    "name":"Songpan, China",
+    "placetype":"locality",
+    "woe:id":12687400,
+    "woe:name":"Songpan, China",
+    "woe:place_id":"HIqxMIuYA5prmzadlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [103.586311,32.620506,103.590775,32.626652],
+  "geometry": {"alpha":1e-05,"bbox":[103.58631134033,32.620506286621,103.59077453613,32.626651763916],"coordinates":[[[[103.590256,32.623402],[103.586311,32.620506],[103.586823,32.625786],[103.587341,32.625931],[103.590775,32.626652],[103.590256,32.623402]]]],"created":1292520213,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12687400_20101216_dff67e3c46.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

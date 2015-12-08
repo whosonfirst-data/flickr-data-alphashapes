@@ -1,0 +1,15 @@
+{
+  "id": 844188,
+  "type": "Feature",
+  "properties": {
+    "name":"Naage, Harju County, Estonia",
+    "placetype":"locality",
+    "woe:id":844188,
+    "woe:name":"Naage, Harju County, Estonia",
+    "woe:place_id":"_AXv8xuRBZiBmK4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [24.329567,59.406898,24.3575,59.425728],
+  "geometry": {"alpha":0.00015,"bbox":[24.329566955566,59.406898498535,24.357500076294,59.425727844238],"coordinates":[[[[24.339437,59.422859],[24.339352,59.422813],[24.329567,59.422379],[24.339781,59.425083],[24.3419,59.425728],[24.3575,59.406898],[24.339437,59.422859]]]],"created":1292549953,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/844188_20101217_7b8a407f99.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

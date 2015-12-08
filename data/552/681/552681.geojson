@@ -1,0 +1,15 @@
+{
+  "id": 552681,
+  "type": "Feature",
+  "properties": {
+    "name":"Brorfelde, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":552681,
+    "woe:name":"Brorfelde, Sjaelland, Denmark",
+    "woe:place_id":"39EFse.cBJ6FZSU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.67783,55.624756,11.681044,55.625465],
+  "geometry": {"alpha":0.00015,"bbox":[11.677829742432,55.624755859375,11.681043624878,55.625465393066],"coordinates":[[[[11.67863,55.625465],[11.681044,55.624863],[11.680905,55.624756],[11.680894,55.624756],[11.67783,55.625248],[11.67863,55.625465]]]],"created":1292446986,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/552681_20101215_35d3341b1a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

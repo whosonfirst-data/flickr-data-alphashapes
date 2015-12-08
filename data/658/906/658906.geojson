@@ -1,0 +1,15 @@
+{
+  "id": 658906,
+  "type": "Feature",
+  "properties": {
+    "name":"Helmbrechts, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":658906,
+    "woe:name":"Helmbrechts, Bavaria, Germany",
+    "woe:place_id":"Vb9C0BmfBJQ3FSs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.711769,50.227825,11.731563,50.248302],
+  "geometry": {"alpha":0.00015,"bbox":[11.711769104004,50.227825164795,11.731562614441,50.248302459717],"coordinates":[[[[11.717262,50.235676],[11.714826,50.236656],[11.711769,50.242374],[11.716575,50.248302],[11.731563,50.23885],[11.730737,50.227825],[11.717262,50.235676]]]],"created":1292457991,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/658906_20101216_53b211f344.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

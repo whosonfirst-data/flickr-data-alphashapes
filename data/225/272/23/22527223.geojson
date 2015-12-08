@@ -1,0 +1,15 @@
+{
+  "id": 22527223,
+  "type": "Feature",
+  "properties": {
+    "name":"Norrbyn, Gavleborg, Sweden",
+    "placetype":"locality",
+    "woe:id":22527223,
+    "woe:name":"Norrbyn, Gavleborg, Sweden",
+    "woe:place_id":"4OXQINGbA5kEwVhvgg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.529016,61.255779,16.534479,61.259502],
+  "geometry": {"alpha":0.00015,"bbox":[16.529016494751,61.255779266357,16.534479141235,61.259502410889],"coordinates":[[[[16.531797,61.255779],[16.529016,61.259502],[16.534422,61.256466],[16.534479,61.256435],[16.533775,61.256012],[16.531797,61.255779]]]],"created":1292542345,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/22527223_20101216_9ab39500c6.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

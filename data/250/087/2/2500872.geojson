@@ -1,0 +1,15 @@
+{
+  "id": 2500872,
+  "type": "Feature",
+  "properties": {
+    "name":"Strelna, Alaska, United States",
+    "placetype":"locality",
+    "woe:id":2500872,
+    "woe:name":"Strelna, Alaska, United States",
+    "woe:place_id":"38FQh5abBJyXT52z",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-144.026291,61.48748,-144.015305,61.49567],
+  "geometry": {"alpha":0.00015,"bbox":[-144.02629089355,61.487480163574,-144.01530456543,61.495670318604],"coordinates":[[[[-144.016815,61.48748],[-144.01683,61.487484],[-144.026291,61.49567],[-144.018051,61.490677],[-144.015305,61.489117],[-144.016815,61.48748]]]],"created":1292501103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/2500872_20101216_3010d175eb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2355174,
+  "type": "Feature",
+  "properties": {
+    "name":"Antrim Center, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2355174,
+    "woe:name":"Antrim Center, Michigan, United States",
+    "woe:place_id":"z3igfUGbApm42tCh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.12973,42.805935,-84.113281,42.813725],
+  "geometry": {"alpha":0.00015,"bbox":[-84.129730224609,42.805934906006,-84.11328125,42.813724517822],"coordinates":[[[[-84.127388,42.805935],[-84.12973,42.806187],[-84.128716,42.813393],[-84.118507,42.813725],[-84.113281,42.813236],[-84.127388,42.805935]]]],"created":1292500264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2355174_20101216_2e467732dd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

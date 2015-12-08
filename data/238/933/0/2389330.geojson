@@ -1,0 +1,15 @@
+{
+  "id": 2389330,
+  "type": "Feature",
+  "properties": {
+    "name":"Danville, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2389330,
+    "woe:name":"Danville, Texas, United States",
+    "woe:place_id":"dHGKzjabApQAP8WP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.828629,32.395485,-94.826477,32.397938],
+  "geometry": {"alpha":0.00015,"bbox":[-94.828628540039,32.395484924316,-94.826477050781,32.397937774658],"coordinates":[[[[-94.828522,32.397938],[-94.826477,32.395992],[-94.827644,32.395485],[-94.828629,32.397877],[-94.828522,32.397938]]]],"created":1292512445,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2389330_20101216_a52e090571.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

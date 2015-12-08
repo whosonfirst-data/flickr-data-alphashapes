@@ -1,0 +1,15 @@
+{
+  "id": 24000,
+  "type": "Feature",
+  "properties": {
+    "name":"Houghton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":24000,
+    "woe:name":"Houghton, England, United Kingdom",
+    "woe:place_id":"8SjBkRibBZxIYQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.624461,52.81044,0.669479,52.833366],
+  "geometry": {"alpha":0.00015,"bbox":[0.6244609951973,52.810440063477,0.66947901248932,52.833366394043],"coordinates":[[[[0.65735,52.827702],[0.669479,52.833366],[0.668127,52.819843],[0.669479,52.813866],[0.654544,52.812672],[0.651626,52.811272],[0.637378,52.81044],[0.625834,52.812618],[0.624461,52.815834],[0.624675,52.817703],[0.625236,52.827751],[0.625288,52.827744],[0.635318,52.829994],[0.650939,52.829632],[0.65735,52.827702]]]],"created":1292519889,"edges":15,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/24000_20101216_f29545daf7.tar.gz"},"points":73,"type":"MultiPolygon"}
+}

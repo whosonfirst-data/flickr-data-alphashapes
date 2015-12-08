@@ -1,0 +1,15 @@
+{
+  "id": 20113835,
+  "type": "Feature",
+  "properties": {
+    "name":"Ca' Nova, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20113835,
+    "woe:name":"Ca' Nova, Lombardy, Italy",
+    "woe:place_id":"2og1LuubAZ1ZdsVMMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.581352,45.745995,8.608324,45.761505],
+  "geometry": {"alpha":0.00015,"bbox":[8.5813522338867,45.745994567871,8.6083240509033,45.761505126953],"coordinates":[[[[8.581352,45.745995],[8.583841,45.754856],[8.586759,45.754589],[8.608324,45.761505],[8.593282,45.748718],[8.581352,45.745995]]]],"created":1292539302,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/20113835_20101216_f934768246.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

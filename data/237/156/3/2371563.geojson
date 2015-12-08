@@ -1,0 +1,15 @@
+{
+  "id": 2371563,
+  "type": "Feature",
+  "properties": {
+    "name":"Buffington, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2371563,
+    "woe:name":"Buffington, Georgia, United States",
+    "woe:place_id":"FWMQrw6bAptRWwSG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.423683,34.226547,-84.417511,34.249401],
+  "geometry": {"alpha":0.00015,"bbox":[-84.423683166504,34.226547241211,-84.417510986328,34.249401092529],"coordinates":[[[[-84.423065,34.243309],[-84.423302,34.249401],[-84.417511,34.241219],[-84.419289,34.226547],[-84.423683,34.241257],[-84.423065,34.243309]]]],"created":1292519862,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/2371563_20101216_ebd57c6a9d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

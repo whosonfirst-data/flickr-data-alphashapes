@@ -1,0 +1,15 @@
+{
+  "id": 20074021,
+  "type": "Feature",
+  "properties": {
+    "name":"Golden, Ireland",
+    "placetype":"locality",
+    "woe:id":20074021,
+    "woe:name":"Golden, Ireland",
+    "woe:place_id":"sm3q48ebAZxYvhJA2Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.981996,52.486019,-7.976256,52.490776],
+  "geometry": {"alpha":1e-05,"bbox":[-7.9819960594177,52.486019134521,-7.9762558937073,52.490776062012],"coordinates":[[[[-7.980365,52.490723],[-7.976256,52.487461],[-7.980022,52.486019],[-7.981996,52.490776],[-7.980365,52.490723]]]],"created":1248107654,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2584/shapefiles/20074021_20090720_a9264117cb.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

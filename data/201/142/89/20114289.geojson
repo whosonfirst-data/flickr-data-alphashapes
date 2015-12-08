@@ -1,0 +1,15 @@
+{
+  "id": 20114289,
+  "type": "Feature",
+  "properties": {
+    "name":"Calea, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20114289,
+    "woe:name":"Calea, Piedmont, Italy",
+    "woe:place_id":"Fj0ZbQybAZ14NuLfsA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.819519,45.487877,7.841491,45.510315],
+  "geometry": {"alpha":0.00015,"bbox":[7.8195190429688,45.48787689209,7.8414912223816,45.510314941406],"coordinates":[[[[7.822265,45.495758],[7.819519,45.510315],[7.828445,45.500751],[7.841491,45.487877],[7.82418,45.493778],[7.822265,45.495758]]]],"created":1292543928,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/20114289_20101216_172f37d0ac.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2495852,
+  "type": "Feature",
+  "properties": {
+    "name":"Sotterley, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2495852,
+    "woe:name":"Sotterley, Maryland, United States",
+    "woe:place_id":"5ms9YY2bBZUc5sAe",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.557861,38.363194,-76.525055,38.380421],
+  "geometry": {"alpha":0.00015,"bbox":[-76.557861328125,38.363193511963,-76.525054931641,38.380420684814],"coordinates":[[[[-76.542183,38.375446],[-76.557861,38.374886],[-76.540115,38.380421],[-76.525055,38.368713],[-76.526985,38.363194],[-76.542183,38.375446]]]],"created":1292539678,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2495852_20101216_f0e02de21f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

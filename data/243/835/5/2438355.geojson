@@ -1,0 +1,15 @@
+{
+  "id": 2438355,
+  "type": "Feature",
+  "properties": {
+    "name":"Leo, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2438355,
+    "woe:name":"Leo, Indiana, United States",
+    "woe:place_id":"wyj3T76bBZ9zS5PF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.023476,41.21048,-85.010094,41.223343],
+  "geometry": {"alpha":0.00015,"bbox":[-85.023475646973,41.210479736328,-85.010093688965,41.223342895508],"coordinates":[[[[-85.010094,41.223045],[-85.011169,41.222832],[-85.020546,41.21048],[-85.023476,41.214237],[-85.02079,41.217178],[-85.011177,41.223343],[-85.010094,41.223045]]]],"created":1292523140,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/2438355_20101216_5192151e77.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

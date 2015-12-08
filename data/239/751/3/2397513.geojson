@@ -1,0 +1,15 @@
+{
+  "id": 2397513,
+  "type": "Feature",
+  "properties": {
+    "name":"Edwards, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2397513,
+    "woe:name":"Edwards, Minnesota, United States",
+    "woe:place_id":"XqlJMTabApVxMvHm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.971672,46.517399,-95.940941,46.533478],
+  "geometry": {"alpha":0.00015,"bbox":[-95.971672058105,46.517398834229,-95.940940856934,46.533477783203],"coordinates":[[[[-95.949097,46.533478],[-95.943649,46.525784],[-95.940941,46.517399],[-95.95047,46.518948],[-95.971672,46.525654],[-95.94957,46.532207],[-95.949097,46.533478]]]],"created":1292549826,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2397513_20101217_1a1fc1acc3.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1627,
+  "type": "Feature",
+  "properties": {
+    "name":"St Vital, Winnipeg, MB, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":1627,
+    "woe:name":"St Vital, Winnipeg, MB, CA, Canada",
+    "woe:place_id":"31URFqGYB55i",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-97.100082,49.805077,-97.095596,49.808815],
+  "geometry": {"alpha":1e-05,"bbox":[-97.100082397461,49.805076599121,-97.095596313477,49.808815002441],"coordinates":[[[[-97.100082,49.808815],[-97.095596,49.807999],[-97.095604,49.807899],[-97.095856,49.805077],[-97.100082,49.808815]]]],"created":1239642621,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3336/shapefiles/1627_20090413_e63735cc45.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

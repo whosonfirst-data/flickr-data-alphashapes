@@ -1,0 +1,15 @@
+{
+  "id": 726841,
+  "type": "Feature",
+  "properties": {
+    "name":"Fornoli, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":726841,
+    "woe:name":"Fornoli, Tuscany, Italy",
+    "woe:place_id":"52BYZe2eA5rsw5Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.540351,44.002197,10.562238,44.018642],
+  "geometry": {"alpha":0.5,"bbox":[10.540350914001,44.002197265625,10.562237739563,44.018642425537],"coordinates":[[[[10.550651,44.004299],[10.541896,44.016243],[10.540351,44.018642],[10.559749,44.007877],[10.562238,44.00629],[10.552368,44.002197],[10.550651,44.004299]]]],"created":1248060844,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3429/shapefiles/726841_20090720_c6fe93c4ff.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

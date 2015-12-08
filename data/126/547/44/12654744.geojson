@@ -1,0 +1,15 @@
+{
+  "id": 12654744,
+  "type": "Feature",
+  "properties": {
+    "name":"Wettolsheim, France",
+    "placetype":"locality",
+    "woe:id":12654744,
+    "woe:name":"Wettolsheim, France",
+    "woe:place_id":"iGSoqBuYA5rwQmlmyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.304363,48.04538,7.314834,48.052128],
+  "geometry": {"alpha":1e-05,"bbox":[7.3043627738953,48.045379638672,7.3148341178894,48.052127838135],"coordinates":[[[[7.306938,48.047447],[7.308826,48.049168],[7.310813,48.052128],[7.312088,48.051003],[7.314834,48.045956],[7.312946,48.04538],[7.308654,48.045727],[7.307796,48.045555],[7.304363,48.045555],[7.306938,48.047447]]]],"created":1292525707,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/12654744_20101216_f7c85d887b.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

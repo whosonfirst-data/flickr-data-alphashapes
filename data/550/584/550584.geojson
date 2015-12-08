@@ -1,0 +1,15 @@
+{
+  "id": 550584,
+  "type": "Feature",
+  "properties": {
+    "name":"Flaurling, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":550584,
+    "woe:name":"Flaurling, Tyrol, Austria",
+    "woe:place_id":"NqiGDF6cBJxSi1M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.11782,47.288662,11.13351,47.311508],
+  "geometry": {"alpha":0.00015,"bbox":[11.117819786072,47.288661956787,11.133509635925,47.311508178711],"coordinates":[[[[11.11782,47.300186],[11.122079,47.305225],[11.125116,47.311508],[11.126146,47.298019],[11.13351,47.288662],[11.12234,47.292355],[11.11782,47.300186]]]],"created":1292453498,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/550584_20101215_50fdc6cfe6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

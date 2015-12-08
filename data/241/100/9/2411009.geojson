@@ -1,0 +1,15 @@
+{
+  "id": 2411009,
+  "type": "Feature",
+  "properties": {
+    "name":"Glendale, California, United States",
+    "placetype":"locality",
+    "woe:id":2411009,
+    "woe:name":"Glendale, California, United States",
+    "woe:place_id":"XsPGliubBZ0kwFIj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.033066,40.883148,-124.010063,40.900932],
+  "geometry": {"alpha":0.00015,"bbox":[-124.0330657959,40.883148193359,-124.01006317139,40.900932312012],"coordinates":[[[[-124.023941,40.900932],[-124.021439,40.900311],[-124.017265,40.899658],[-124.010063,40.886978],[-124.033066,40.883148],[-124.023941,40.900932]]]],"created":1292542563,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2411009_20101216_c6270f787c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

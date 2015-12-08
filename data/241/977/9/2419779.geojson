@@ -1,0 +1,15 @@
+{
+  "id": 2419779,
+  "type": "Feature",
+  "properties": {
+    "name":"Helfrichsville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2419779,
+    "woe:name":"Helfrichsville, Pennsylvania, United States",
+    "woe:place_id":"wCV48JKbBZ3uDIsk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.691734,40.577774,-75.677834,40.581059],
+  "geometry": {"alpha":0.00015,"bbox":[-75.691734313965,40.577774047852,-75.677833557129,40.581058502197],"coordinates":[[[[-75.684006,40.581059],[-75.677834,40.577774],[-75.68438,40.578724],[-75.688225,40.578823],[-75.691734,40.578915],[-75.684006,40.581059]]]],"created":1292451728,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2419779_20101215_41794b8eb0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

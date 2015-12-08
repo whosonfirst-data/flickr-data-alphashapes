@@ -1,0 +1,15 @@
+{
+  "id": 2502800,
+  "type": "Feature",
+  "properties": {
+    "name":"Suttons Corner, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2502800,
+    "woe:name":"Suttons Corner, North Carolina, United States",
+    "woe:place_id":"BrI4M62bBJxKxEAz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.577644,34.62532,-78.576202,34.626076],
+  "geometry": {"alpha":0.00015,"bbox":[-78.577644348145,34.62532043457,-78.576202392578,34.626075744629],"coordinates":[[[[-78.576813,34.625931],[-78.576202,34.625648],[-78.576965,34.62532],[-78.577522,34.625816],[-78.577644,34.626076],[-78.576813,34.625931]]]],"created":1292525623,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2502800_20101216_8264295c0c.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

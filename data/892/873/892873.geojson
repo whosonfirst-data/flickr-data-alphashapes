@@ -1,0 +1,15 @@
+{
+  "id": 892873,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemus, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":892873,
+    "woe:name":"Hemus, Dalarna, Sweden",
+    "woe:place_id":"jY5m9cGRCJ6aavc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.518003,61.007362,14.525922,61.011066],
+  "geometry": {"alpha":0.00015,"bbox":[14.518003463745,61.007362365723,14.525921821594,61.011066436768],"coordinates":[[[[14.525299,61.011066],[14.525922,61.010685],[14.525299,61.009193],[14.518003,61.007362],[14.519376,61.008602],[14.521136,61.009548],[14.525299,61.011066]]]],"created":1292528171,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/892873_20101216_b6d538df05.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

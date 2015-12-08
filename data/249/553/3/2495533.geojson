@@ -1,0 +1,15 @@
+{
+  "id": 2495533,
+  "type": "Feature",
+  "properties": {
+    "name":"Soderville, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2495533,
+    "woe:name":"Soderville, Minnesota, United States",
+    "woe:place_id":"Q3uVGjqbBZU1sYR7",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.239594,45.288151,-93.233566,45.308086],
+  "geometry": {"alpha":0.00015,"bbox":[-93.239593505859,45.288150787354,-93.23356628418,45.308086395264],"coordinates":[[[[-93.233566,45.289745],[-93.234474,45.288151],[-93.239594,45.288898],[-93.234894,45.308086],[-93.233948,45.290936],[-93.233566,45.289745]]]],"created":1292451904,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/2495533_20101215_f6a08f7d34.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

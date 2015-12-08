@@ -1,0 +1,15 @@
+{
+  "id": 20130486,
+  "type": "Feature",
+  "properties": {
+    "name":"Marana, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20130486,
+    "woe:name":"Marana, Veneto, Italy",
+    "woe:place_id":".I4FerebAZ3.B3511w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.209402,45.634995,11.220871,45.656647],
+  "geometry": {"alpha":0.00015,"bbox":[11.209402084351,45.634994506836,11.22087097168,45.656646728516],"coordinates":[[[[11.220871,45.636555],[11.219336,45.634995],[11.212277,45.639126],[11.209402,45.656647],[11.22013,45.642128],[11.220871,45.636555]]]],"created":1292538244,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/20130486_20101216_66f716a9e0.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

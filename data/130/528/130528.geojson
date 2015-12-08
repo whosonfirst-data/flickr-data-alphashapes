@@ -1,0 +1,15 @@
+{
+  "id": 130528,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Lagunas, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":130528,
+    "woe:name":"Las Lagunas, Jalisco, Mexico",
+    "woe:place_id":"M1P9TNiYApxUsv4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.945915,21.356216,-101.923599,21.373001],
+  "geometry": {"alpha":0.00015,"bbox":[-101.94591522217,21.356216430664,-101.92359924316,21.373001098633],"coordinates":[[[[-101.929947,21.372602],[-101.923599,21.373001],[-101.923767,21.364849],[-101.934845,21.361252],[-101.945915,21.356216],[-101.93853,21.363171],[-101.930382,21.371803],[-101.929947,21.372602]]]],"created":1292540700,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/130528_20101216_ab8e5f1cb2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28744811,
+  "type": "Feature",
+  "properties": {
+    "name":"Seneca, New York, United States",
+    "placetype":"locality",
+    "woe:id":28744811,
+    "woe:name":"Seneca, New York, United States",
+    "woe:place_id":"goO9p8.bCZtQNEOu7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.077156,42.859001,-77.068001,42.860832],
+  "geometry": {"alpha":0.00015,"bbox":[-77.077156066895,42.859001159668,-77.068000793457,42.860832214355],"coordinates":[[[[-77.077156,42.860771],[-77.074837,42.860832],[-77.068001,42.859001],[-77.077072,42.860458],[-77.077156,42.860771]]]],"created":1292531118,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/28744811_20101216_932c6bae55.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

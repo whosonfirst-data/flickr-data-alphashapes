@@ -1,0 +1,15 @@
+{
+  "id": 20146770,
+  "type": "Feature",
+  "properties": {
+    "name":"Ussel, Valle d'Aosta, Italy",
+    "placetype":"locality",
+    "woe:id":20146770,
+    "woe:name":"Ussel, Valle d'Aosta, Italy",
+    "woe:place_id":"4ROxWMWbAZ3m419F7w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.626914,45.737598,7.630691,45.740215],
+  "geometry": {"alpha":0.00015,"bbox":[7.626914024353,45.737598419189,7.6306910514832,45.740215301514],"coordinates":[[[[7.627172,45.740154],[7.628288,45.739796],[7.630691,45.737598],[7.627429,45.739136],[7.626914,45.740215],[7.627172,45.740154]]]],"created":1239523579,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3330/shapefiles/20146770_20090412_3a4d8f774e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

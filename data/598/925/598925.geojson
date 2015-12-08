@@ -1,0 +1,15 @@
+{
+  "id": 598925,
+  "type": "Feature",
+  "properties": {
+    "name":"La Machine, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":598925,
+    "woe:name":"La Machine, Burgundy, France",
+    "woe:place_id":"qeSmzXicCJTK8tE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.455972,46.886177,3.469877,46.90123],
+  "geometry": {"alpha":0.00015,"bbox":[3.4559719562531,46.886177062988,3.4698770046234,46.901229858398],"coordinates":[[[[3.469877,46.88765],[3.468402,46.886177],[3.458805,46.888794],[3.457517,46.895802],[3.455972,46.90123],[3.466508,46.889893],[3.469877,46.88765]]]],"created":1292537825,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/598925_20101216_f05fb4abe4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

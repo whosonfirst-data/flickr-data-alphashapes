@@ -1,0 +1,15 @@
+{
+  "id": 123256,
+  "type": "Feature",
+  "properties": {
+    "name":"Ensenada de Los Muertos, Baja California Sur, Mexico",
+    "placetype":"locality",
+    "woe:id":123256,
+    "woe:name":"Ensenada de Los Muertos, Baja California Sur, Mexico",
+    "woe:place_id":"mV.wP8.YA5_mmaM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.838562,23.974333,-109.804741,24.009808],
+  "geometry": {"alpha":0.00015,"bbox":[-109.83856201172,23.974332809448,-109.80474090576,24.00980758667],"coordinates":[[[[-109.836426,23.987125],[-109.836998,23.986258],[-109.838562,23.974333],[-109.835159,23.983864],[-109.825684,23.993286],[-109.810066,24.009808],[-109.806976,24.005228],[-109.804741,23.996132],[-109.825684,23.993286],[-109.830582,23.994564],[-109.833412,23.989702],[-109.836426,23.987125]]]],"created":1292534587,"edges":12,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/123256_20101216_44701635b5.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

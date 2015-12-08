@@ -1,0 +1,15 @@
+{
+  "id": 23510864,
+  "type": "Feature",
+  "properties": {
+    "name":"Mayfair, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":23510864,
+    "woe:name":"Mayfair, Illinois, United States",
+    "woe:place_id":"xsQaUjqbApmlGLP1Pg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.418663,40.613834,-89.417999,40.614166],
+  "geometry": {"alpha":0.00015,"bbox":[-89.418663024902,40.613834381104,-89.417999267578,40.614166259766],"coordinates":[[[[-89.418663,40.613834],[-89.418663,40.613998],[-89.418663,40.614166],[-89.417999,40.613834],[-89.418335,40.613834],[-89.418663,40.613834]]]],"created":1292449399,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/23510864_20101215_f237107fdb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

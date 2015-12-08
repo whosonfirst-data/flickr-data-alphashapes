@@ -1,0 +1,15 @@
+{
+  "id": 20151322,
+  "type": "Feature",
+  "properties": {
+    "name":"Lindskogen, Vastra Gotaland, Sweden",
+    "placetype":"locality",
+    "woe:id":20151322,
+    "woe:name":"Lindskogen, Vastra Gotaland, Sweden",
+    "woe:place_id":"VJCNXyGbAZ00njp55Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.384649,57.793552,12.394123,57.813103],
+  "geometry": {"alpha":0.00015,"bbox":[12.384649276733,57.793552398682,12.394123077393,57.813102722168],"coordinates":[[[[12.394123,57.813103],[12.393887,57.793552],[12.393457,57.793644],[12.384649,57.807564],[12.394123,57.813103]]]],"created":1234626728,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3432/shapefiles/20151322_20090214_ceac351e74.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

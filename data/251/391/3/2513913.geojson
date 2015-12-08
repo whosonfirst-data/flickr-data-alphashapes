@@ -1,0 +1,15 @@
+{
+  "id": 2513913,
+  "type": "Feature",
+  "properties": {
+    "name":"Walnutport, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2513913,
+    "woe:name":"Walnutport, Pennsylvania, United States",
+    "woe:place_id":"oIwsNOabBJ0AhkHE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.602287,40.7435,-75.59111,40.75639],
+  "geometry": {"alpha":0.00015,"bbox":[-75.60228729248,40.743499755859,-75.591110229492,40.75638961792],"coordinates":[[[[-75.59935,40.750385],[-75.602287,40.754524],[-75.595551,40.75639],[-75.591194,40.750702],[-75.59111,40.7435],[-75.59935,40.750385]]]],"created":1292549044,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2513913_20101217_337360d46c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

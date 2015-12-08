@@ -1,0 +1,15 @@
+{
+  "id": 2522688,
+  "type": "Feature",
+  "properties": {
+    "name":"Wolflake, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2522688,
+    "woe:name":"Wolflake, Indiana, United States",
+    "woe:place_id":"QgFOCNqbBJ7QkqP.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.507706,41.322556,-85.500404,41.337906],
+  "geometry": {"alpha":0.00015,"bbox":[-85.507705688477,41.322555541992,-85.50040435791,41.337905883789],"coordinates":[[[[-85.504143,41.322556],[-85.507477,41.323254],[-85.507706,41.323563],[-85.500404,41.337906],[-85.503372,41.322861],[-85.504143,41.322556]]]],"created":1292541904,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2522688_20101216_7d16f67e8d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

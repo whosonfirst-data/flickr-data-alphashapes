@@ -1,0 +1,15 @@
+{
+  "id": 12695345,
+  "type": "Feature",
+  "properties": {
+    "name":"Xalo, Spain",
+    "placetype":"locality",
+    "woe:id":12695345,
+    "woe:name":"Xalo, Spain",
+    "woe:place_id":"Fw9NmQyYA5r9kAvkbA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.014119,38.740696,-0.008239,38.743172],
+  "geometry": {"alpha":1e-05,"bbox":[-0.014119000174105,38.740695953369,-0.0082390001043677,38.743171691895],"coordinates":[[[[-0.008239,38.743172],[-0.011072,38.740696],[-0.014119,38.743038],[-0.011844,38.742302],[-0.008239,38.743172]]]],"created":1292543863,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/12695345_20101216_709cb225b2.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

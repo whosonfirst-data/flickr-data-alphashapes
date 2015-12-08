@@ -1,0 +1,15 @@
+{
+  "id": 29381865,
+  "type": "Feature",
+  "properties": {
+    "name":"Aldeia Nova, Porto, Portugal",
+    "placetype":"locality",
+    "woe:id":29381865,
+    "woe:name":"Aldeia Nova, Porto, Portugal",
+    "woe:place_id":"bC9v7wibCJ96iMzs6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.715505,41.219566,-8.712844,41.221535],
+  "geometry": {"alpha":0.00015,"bbox":[-8.7155046463013,41.219566345215,-8.7128438949585,41.221534729004],"coordinates":[[[[-8.712844,41.219975],[-8.71499,41.219566],[-8.715376,41.22047],[-8.715505,41.221535],[-8.712844,41.219975]]]],"created":1292524796,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5043/shapefiles/29381865_20101216_117408bef7.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

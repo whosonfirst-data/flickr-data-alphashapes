@@ -1,0 +1,15 @@
+{
+  "id": 56064291,
+  "type": "Feature",
+  "properties": {
+    "name":"El Pato, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":56064291,
+    "woe:name":"El Pato, Buenos Aires, Argentina",
+    "woe:place_id":"tz.c8E2cB5w3GvwKRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-58.16959,-34.91087,-58.153351,-34.896671],
+  "geometry": {"alpha":0.00015,"bbox":[-58.169589996338,-34.910869598389,-58.153350830078,-34.896671295166],"coordinates":[[[[-58.165119,-34.906834],[-58.16959,-34.896671],[-58.164734,-34.906467],[-58.153351,-34.91087],[-58.165119,-34.906834]]]],"created":1292544012,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/56064291_20101217_e10d2e5cbd.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

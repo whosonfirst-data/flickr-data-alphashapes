@@ -1,0 +1,15 @@
+{
+  "id": 12593637,
+  "type": "Feature",
+  "properties": {
+    "name":"Tura, Pest, Hungary",
+    "placetype":"county",
+    "woe:id":12593637,
+    "woe:name":"Tura, Pest, Hungary",
+    "woe:place_id":"CKtzWOyYA5lVRbd_Eg",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [19.572487,47.572819,19.611797,47.63023],
+  "geometry": {"alpha":0.0015,"bbox":[19.572486877441,47.572818756104,19.611797332764,47.630229949951],"coordinates":[[[[19.607061,47.60878],[19.598923,47.572819],[19.575598,47.599251],[19.572487,47.63023],[19.607098,47.624474],[19.611797,47.618866],[19.607061,47.60878]]]],"created":1292534103,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/12593637_20101216_01e75bed3c.tar.gz"},"points":50,"type":"MultiPolygon"}
+}

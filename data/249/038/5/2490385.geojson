@@ -1,0 +1,15 @@
+{
+  "id": 2490385,
+  "type": "Feature",
+  "properties": {
+    "name":"Seattle Bar, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2490385,
+    "woe:name":"Seattle Bar, Oregon, United States",
+    "woe:place_id":"2EbKUSKbBZWGq04i",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.163948,41.998875,-123.146568,42.028088],
+  "geometry": {"alpha":0.00015,"bbox":[-123.16394805908,41.998874664307,-123.14656829834,42.028087615967],"coordinates":[[[[-123.154732,42.008991],[-123.163948,42.021881],[-123.148888,42.028088],[-123.146568,42.006542],[-123.160629,41.998875],[-123.154732,42.008991]]]],"created":1292536669,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2490385_20101216_9d8864047f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

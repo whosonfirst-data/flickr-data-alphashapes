@@ -1,0 +1,15 @@
+{
+  "id": 555076,
+  "type": "Feature",
+  "properties": {
+    "name":"Kyndby, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555076,
+    "woe:name":"Kyndby, Hovedstaden, Denmark",
+    "woe:place_id":"3GW_qyGcBJlREDY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.915531,55.788544,11.930122,55.806248],
+  "geometry": {"alpha":0.00015,"bbox":[11.915531158447,55.788543701172,11.930122375488,55.806247711182],"coordinates":[[[[11.91847,55.794479],[11.915531,55.806248],[11.930122,55.802677],[11.929779,55.798771],[11.924285,55.788544],[11.91847,55.794479]]]],"created":1292358121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/555076_20101214_12406f753c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

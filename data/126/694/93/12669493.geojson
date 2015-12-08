@@ -1,0 +1,15 @@
+{
+  "id": 12669493,
+  "type": "Feature",
+  "properties": {
+    "name":"Saubens, France",
+    "placetype":"locality",
+    "woe:id":12669493,
+    "woe:name":"Saubens, France",
+    "woe:place_id":"anl1u.CYA5r7hfQZGQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.333135,43.481174,1.335363,43.486938],
+  "geometry": {"alpha":1e-05,"bbox":[1.333135008812,43.481174468994,1.3353630304337,43.486938476562],"coordinates":[[[[1.335176,43.481174],[1.334314,43.485767],[1.333135,43.486938],[1.335363,43.485455],[1.335176,43.481174]]]],"created":1292541189,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/12669493_20101216_68f967a3eb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

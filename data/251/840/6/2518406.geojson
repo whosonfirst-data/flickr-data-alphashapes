@@ -1,0 +1,15 @@
+{
+  "id": 2518406,
+  "type": "Feature",
+  "properties": {
+    "name":"Weston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2518406,
+    "woe:name":"Weston, Pennsylvania, United States",
+    "woe:place_id":"SIsnqP2bBJ2.WrxG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.123154,40.929111,-76.104546,40.941158],
+  "geometry": {"alpha":0.00015,"bbox":[-76.123153686523,40.929111480713,-76.104545593262,40.941158294678],"coordinates":[[[[-76.117226,40.929531],[-76.123154,40.929111],[-76.114227,40.937668],[-76.104546,40.941158],[-76.116501,40.931087],[-76.117226,40.929531]]]],"created":1292538228,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/2518406_20101216_312ca1f2e1.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

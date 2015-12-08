@@ -1,0 +1,15 @@
+{
+  "id": 20254,
+  "type": "Feature",
+  "properties": {
+    "name":"Fitzhead, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20254,
+    "woe:name":"Fitzhead, England, United Kingdom",
+    "woe:place_id":"s7VoWJ6bAZ4UmA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.259677,51.044792,-3.24809,51.055531],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2596769332886,51.044792175293,-3.2480900287628,51.055530548096],"coordinates":[[[[-3.259162,51.048386],[-3.259677,51.055531],[-3.254399,51.049541],[-3.24809,51.044792],[-3.252167,51.045631],[-3.259162,51.048386]]]],"created":1292539735,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/20254_20101216_40173b644e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

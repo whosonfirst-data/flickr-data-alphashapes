@@ -1,0 +1,15 @@
+{
+  "id": 20070279,
+  "type": "Feature",
+  "properties": {
+    "name":"Davaci, AZ, Azerbaijan",
+    "placetype":"region",
+    "woe:id":20070279,
+    "woe:name":"Davaci, AZ, Azerbaijan",
+    "woe:place_id":"j9g17U.bAZxj8ZwM2Q",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [48.933105,41.098629,49.027176,41.311661],
+  "geometry": {"alpha":0.03,"bbox":[48.93310546875,41.098628997803,49.02717590332,41.311660766602],"coordinates":[[[[49.027176,41.174129],[48.956795,41.098629],[48.956795,41.130573],[48.933105,41.245804],[48.9398,41.311661],[49.011555,41.184856],[49.027176,41.174129]]]],"created":1292461982,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20070279_20101216_f482db9e96.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

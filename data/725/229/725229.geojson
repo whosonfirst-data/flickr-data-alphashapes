@@ -1,0 +1,15 @@
+{
+  "id": 725229,
+  "type": "Feature",
+  "properties": {
+    "name":"Trebbiantico, Marche, Italy",
+    "placetype":"locality",
+    "woe:id":725229,
+    "woe:name":"Trebbiantico, Marche, Italy",
+    "woe:place_id":"rgviRB.eA5liNCk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.930929,43.869148,12.948825,43.884701],
+  "geometry": {"alpha":0.00015,"bbox":[12.93092918396,43.869148254395,12.948824882507,43.884700775146],"coordinates":[[[[12.941894,43.87151],[12.933654,43.870426],[12.933654,43.87228],[12.930929,43.884701],[12.948632,43.884121],[12.948825,43.869148],[12.941894,43.87151]]]],"created":1292522677,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/725229_20101216_af02951146.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23396980,
+  "type": "Feature",
+  "properties": {
+    "name":"Delta, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":23396980,
+    "woe:name":"Delta, Ontario, Canada",
+    "woe:place_id":"I3E7slGbAp8Smk5CQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.128998,44.604,-76.113411,44.614452],
+  "geometry": {"alpha":0.00015,"bbox":[-76.128997802734,44.604000091553,-76.113410949707,44.614452362061],"coordinates":[[[[-76.122467,44.609764],[-76.128998,44.604],[-76.123024,44.611855],[-76.113411,44.614452],[-76.119461,44.611488],[-76.122467,44.609764]]]],"created":1292529119,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/23396980_20101216_6ac2708b58.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1102072,
+  "type": "Feature",
+  "properties": {
+    "name":"Flowerdale, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1102072,
+    "woe:name":"Flowerdale, Victoria, Australia",
+    "woe:place_id":"4t07x8uYAJweXQTS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.292084,-37.341946,145.302307,-37.30357],
+  "geometry": {"alpha":0.00015,"bbox":[145.29208374023,-37.341945648193,145.30230712891,-37.303569793701],"coordinates":[[[[145.298172,-37.320019],[145.292084,-37.317455],[145.292694,-37.30357],[145.300247,-37.31995],[145.302307,-37.322136],[145.297501,-37.341946],[145.298172,-37.320019]]]],"created":1292550302,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/1102072_20101217_2e5ebf8a0c.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

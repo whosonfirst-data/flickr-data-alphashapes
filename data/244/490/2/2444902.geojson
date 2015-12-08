@@ -1,0 +1,15 @@
+{
+  "id": 2444902,
+  "type": "Feature",
+  "properties": {
+    "name":"Manns Corner, New York, United States",
+    "placetype":"locality",
+    "woe:id":2444902,
+    "woe:name":"Manns Corner, New York, United States",
+    "woe:place_id":"FL5X6HybBZjCG5HY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.669281,43.006001,-77.653336,43.020649],
+  "geometry": {"alpha":0.00015,"bbox":[-77.669281005859,43.006000518799,-77.653335571289,43.020648956299],"coordinates":[[[[-77.669281,43.020386],[-77.667633,43.020649],[-77.653336,43.011665],[-77.664177,43.006001],[-77.666985,43.014774],[-77.669281,43.020386]]]],"created":1292444890,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2444902_20101215_765cc2bf10.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

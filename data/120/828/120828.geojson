@@ -1,0 +1,15 @@
+{
+  "id": 120828,
+  "type": "Feature",
+  "properties": {
+    "name":"El Meco, San Luis Potosi, Mexico",
+    "placetype":"locality",
+    "woe:id":120828,
+    "woe:name":"El Meco, San Luis Potosi, Mexico",
+    "woe:place_id":"AScut8GYA5xJGt4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.358459,22.564878,-99.348679,22.566265],
+  "geometry": {"alpha":0.00015,"bbox":[-99.358459472656,22.564878463745,-99.348678588867,22.566265106201],"coordinates":[[[[-99.355545,22.565828],[-99.348679,22.566265],[-99.356148,22.564878],[-99.358459,22.565273],[-99.355545,22.565828]]]],"created":1292522770,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/120828_20101216_f335dfb2b8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

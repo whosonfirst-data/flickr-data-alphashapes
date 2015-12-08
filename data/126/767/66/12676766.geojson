@@ -1,0 +1,15 @@
+{
+  "id": 12676766,
+  "type": "Feature",
+  "properties": {
+    "name":"Bezzecca, Italy",
+    "placetype":"locality",
+    "woe:id":12676766,
+    "woe:name":"Bezzecca, Italy",
+    "woe:place_id":"egspbkSYA5pzRefpkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.696735,45.885555,10.704803,45.891918],
+  "geometry": {"alpha":1e-05,"bbox":[10.69673538208,45.885555267334,10.704803466797,45.891918182373],"coordinates":[[[[10.704803,45.890965],[10.698795,45.891323],[10.698816,45.885555],[10.696735,45.890606],[10.698795,45.891323],[10.704631,45.891918],[10.704803,45.890965]]]],"created":1292462227,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12676766_20101216_f98a33e24c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 711323,
+  "type": "Feature",
+  "properties": {
+    "name":"Bossolasco, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":711323,
+    "woe:name":"Bossolasco, Piedmont, Italy",
+    "woe:place_id":"tepcQfieAJ3hU50",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.04697,44.526741,8.067505,44.539101],
+  "geometry": {"alpha":0.00015,"bbox":[8.0469703674316,44.526741027832,8.0675048828125,44.539100646973],"coordinates":[[[[8.050274,44.527798],[8.04868,44.52985],[8.04697,44.532001],[8.067505,44.539101],[8.057012,44.526741],[8.050886,44.526962],[8.050274,44.527798]]]],"created":1292524032,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/711323_20101216_9ccb816305.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

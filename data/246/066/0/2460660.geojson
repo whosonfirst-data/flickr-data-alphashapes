@@ -1,0 +1,15 @@
+{
+  "id": 2460660,
+  "type": "Feature",
+  "properties": {
+    "name":"North Bend, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2460660,
+    "woe:name":"North Bend, West Virginia, United States",
+    "woe:place_id":"QXMqTDObBZpZAWKV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.441711,38.231808,-80.434914,38.250134],
+  "geometry": {"alpha":0.00015,"bbox":[-80.441711425781,38.23180770874,-80.434913635254,38.250133514404],"coordinates":[[[[-80.434914,38.249149],[-80.434944,38.248932],[-80.441711,38.231808],[-80.436699,38.249496],[-80.435539,38.250134],[-80.434914,38.249149]]]],"created":1292507282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2460660_20101216_33e4137274.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

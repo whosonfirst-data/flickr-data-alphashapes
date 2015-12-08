@@ -1,0 +1,15 @@
+{
+  "id": 578725,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaumont, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":578725,
+    "woe:name":"Beaumont, Poitou-Charentes, France",
+    "woe:place_id":".19umiCcBpReLKs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.426836,46.724628,0.445357,46.737743],
+  "geometry": {"alpha":0.00015,"bbox":[0.42683601379395,46.724628448486,0.44535699486732,46.737743377686],"coordinates":[[[[0.427044,46.724628],[0.426836,46.7248],[0.429818,46.736977],[0.437393,46.737743],[0.445357,46.733261],[0.427044,46.724628]]]],"created":1292455875,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5122/shapefiles/578725_20101215_5f7066e259.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

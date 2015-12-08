@@ -1,0 +1,15 @@
+{
+  "id": 710231,
+  "type": "Feature",
+  "properties": {
+    "name":"Aquilea, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":710231,
+    "woe:name":"Aquilea, Tuscany, Italy",
+    "woe:place_id":"8rlXmQCeAJzvXC0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.502028,43.9091,10.521297,43.925037],
+  "geometry": {"alpha":0.00015,"bbox":[10.502028465271,43.909099578857,10.521297454834,43.925037384033],"coordinates":[[[[10.505729,43.919876],[10.510911,43.923119],[10.521297,43.925037],[10.519271,43.916988],[10.502028,43.9091],[10.504989,43.918995],[10.505729,43.919876]]]],"created":1292527268,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/710231_20101216_0420d8c664.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

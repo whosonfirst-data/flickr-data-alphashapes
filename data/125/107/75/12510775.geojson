@@ -1,0 +1,15 @@
+{
+  "id": 12510775,
+  "type": "Feature",
+  "properties": {
+    "name":"Rottnest Island Aerodrome, Australia",
+    "placetype":"locality",
+    "woe:id":12510775,
+    "woe:name":"Rottnest Island Aerodrome, Australia",
+    "woe:place_id":"jnm0VKCYA5n30ooObA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.519096,-31.992867,115.524673,-31.990025],
+  "geometry": {"alpha":1e-05,"bbox":[115.51909637451,-31.992866516113,115.52467346191,-31.99002456665],"coordinates":[[[[115.52121,-31.992867],[115.519096,-31.991936],[115.51918,-31.991335],[115.524673,-31.990025],[115.52121,-31.992867]]]],"created":1292547098,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/12510775_20101217_fbd3e8b254.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

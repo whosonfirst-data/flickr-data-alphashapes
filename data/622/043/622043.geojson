@@ -1,0 +1,15 @@
+{
+  "id": 622043,
+  "type": "Feature",
+  "properties": {
+    "name":"Seurre, Burgundy, France",
+    "placetype":"locality",
+    "woe:id":622043,
+    "woe:name":"Seurre, Burgundy, France",
+    "woe:place_id":"lvXEss2fA57eU8A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.137116,46.991348,5.152502,47.002926],
+  "geometry": {"alpha":0.00015,"bbox":[5.1371159553528,46.991348266602,5.1525020599365,47.002925872803],"coordinates":[[[[5.147094,47.001213],[5.152502,46.997463],[5.147008,46.991348],[5.137481,46.996822],[5.137116,47.002926],[5.142631,47.001797],[5.147094,47.001213]]]],"created":1292550657,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/622043_20101217_5a78e623ab.tar.gz"},"points":33,"type":"MultiPolygon"}
+}

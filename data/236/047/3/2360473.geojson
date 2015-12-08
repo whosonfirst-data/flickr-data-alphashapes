@@ -1,0 +1,15 @@
+{
+  "id": 2360473,
+  "type": "Feature",
+  "properties": {
+    "name":"Bayville, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2360473,
+    "woe:name":"Bayville, Delaware, United States",
+    "woe:place_id":"EUcQFM6bAppYnE7n",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.091125,38.465607,-75.085007,38.473335],
+  "geometry": {"alpha":0.00015,"bbox":[-75.091125488281,38.465606689453,-75.085006713867,38.473335266113],"coordinates":[[[[-75.08963,38.468319],[-75.091125,38.47234],[-75.090919,38.473335],[-75.085007,38.466702],[-75.08551,38.465607],[-75.08963,38.468319]]]],"created":1292522046,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/2360473_20101216_f666c22e0d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

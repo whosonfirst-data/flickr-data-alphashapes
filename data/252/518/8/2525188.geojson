@@ -1,0 +1,15 @@
+{
+  "id": 2525188,
+  "type": "Feature",
+  "properties": {
+    "name":"Zanesville, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2525188,
+    "woe:name":"Zanesville, Indiana, United States",
+    "woe:place_id":"UqAJRs6bBJ5dM5Qd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.282402,40.907082,-85.261246,40.928314],
+  "geometry": {"alpha":0.00015,"bbox":[-85.282402038574,40.907081604004,-85.261245727539,40.928314208984],"coordinates":[[[[-85.280792,40.924438],[-85.270645,40.928314],[-85.261246,40.907082],[-85.280334,40.917103],[-85.282402,40.917145],[-85.280792,40.924438]]]],"created":1292541236,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2525188_20101216_972997b652.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

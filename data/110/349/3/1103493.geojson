@@ -1,0 +1,15 @@
+{
+  "id": 1103493,
+  "type": "Feature",
+  "properties": {
+    "name":"Lockwood, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1103493,
+    "woe:name":"Lockwood, Victoria, Australia",
+    "woe:place_id":"HGvkYx2YAJxa1GZs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.208771,-36.777805,144.212631,-36.775055],
+  "geometry": {"alpha":0.00015,"bbox":[144.20877075195,-36.777805328369,144.21263122559,-36.775054931641],"coordinates":[[[[144.209808,-36.77533],[144.210831,-36.775055],[144.210922,-36.775055],[144.212631,-36.777805],[144.209625,-36.777531],[144.208771,-36.777531],[144.209808,-36.77533]]]],"created":1292493244,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/1103493_20101216_cf5d4fb66d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

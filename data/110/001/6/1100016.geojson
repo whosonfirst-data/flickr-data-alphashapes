@@ -1,0 +1,15 @@
+{
+  "id": 1100016,
+  "type": "Feature",
+  "properties": {
+    "name":"Avenel, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1100016,
+    "woe:name":"Avenel, Victoria, Australia",
+    "woe:place_id":"8TaUQgKYAJxSeqyX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.22818,-36.913013,145.237259,-36.892284],
+  "geometry": {"alpha":0.00015,"bbox":[145.22817993164,-36.913013458252,145.23725891113,-36.892284393311],"coordinates":[[[[145.23082,-36.892593],[145.237259,-36.908894],[145.237228,-36.908905],[145.22818,-36.913013],[145.229889,-36.892284],[145.23082,-36.892593]]]],"created":1292476264,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/1100016_20101216_992266c715.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

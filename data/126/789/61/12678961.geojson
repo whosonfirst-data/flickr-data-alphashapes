@@ -1,0 +1,15 @@
+{
+  "id": 12678961,
+  "type": "Feature",
+  "properties": {
+    "name":"Costa di Mezzate, Italy",
+    "placetype":"locality",
+    "woe:id":12678961,
+    "woe:name":"Costa di Mezzate, Italy",
+    "woe:place_id":"6UdIA3GYA5pYyTCZGg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.804611,45.661087,9.806327,45.663845],
+  "geometry": {"alpha":1e-05,"bbox":[9.8046112060547,45.661087036133,9.8063268661499,45.663845062256],"coordinates":[[[[9.805297,45.661446],[9.804611,45.661087],[9.804954,45.663006],[9.806327,45.663845],[9.805297,45.661446]]]],"created":1292457124,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12678961_20101215_7583697eac.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20201317,
+  "type": "Feature",
+  "properties": {
+    "name":"L'Espinasse, Poitou-Charentes, France",
+    "placetype":"locality",
+    "woe:id":20201317,
+    "woe:name":"L'Espinasse, Poitou-Charentes, France",
+    "woe:place_id":"99RGqrCbAZ5vLp6wYw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.708644,46.558056,0.712241,46.558826],
+  "geometry": {"alpha":0.00015,"bbox":[0.70864397287369,46.558055877686,0.71224099397659,46.558826446533],"coordinates":[[[[0.709555,46.558056],[0.709136,46.55806],[0.709011,46.558064],[0.708644,46.558083],[0.712241,46.558826],[0.709555,46.558056]]]],"created":1292445617,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20201317_20101215_f5c4801bda.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 456444,
+  "type": "Feature",
+  "properties": {
+    "name":"Porto Nacional, Tocantins, Brazil",
+    "placetype":"locality",
+    "woe:id":456444,
+    "woe:name":"Porto Nacional, Tocantins, Brazil",
+    "woe:place_id":"p0ummwCdBJpsatw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-48.4231,-10.728079,-48.41074,-10.698984],
+  "geometry": {"alpha":0.00015,"bbox":[-48.423099517822,-10.728078842163,-48.410739898682,-10.698984146118],"coordinates":[[[[-48.412113,-10.701674],[-48.41074,-10.712984],[-48.414173,-10.728079],[-48.412285,-10.712225],[-48.4231,-10.698984],[-48.413315,-10.699743],[-48.412113,-10.701674]]]],"created":1292545949,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/456444_20101217_50ddda1978.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

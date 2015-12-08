@@ -1,0 +1,15 @@
+{
+  "id": 55875405,
+  "type": "Feature",
+  "properties": {
+    "name":"Alekseevskiy, Moskva, Russia",
+    "placetype":"locality",
+    "woe:id":55875405,
+    "woe:name":"Alekseevskiy, Moskva, Russia",
+    "woe:place_id":"FdeCQV6cBJR9.i3gVw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [37.662022,55.810947,37.679325,55.818832],
+  "geometry": {"alpha":0.00015,"bbox":[37.662021636963,55.810947418213,37.67932510376,55.818832397461],"coordinates":[[[[37.671219,55.813423],[37.665058,55.810947],[37.662022,55.811581],[37.672333,55.818832],[37.679325,55.817112],[37.671219,55.813423]]]],"created":1292526030,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/55875405_20101216_3f952a7390.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

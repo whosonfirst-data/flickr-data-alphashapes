@@ -1,0 +1,15 @@
+{
+  "id": 2489919,
+  "type": "Feature",
+  "properties": {
+    "name":"Scotland, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2489919,
+    "woe:name":"Scotland, Ohio, United States",
+    "woe:place_id":"F4Pwe5GbBZScjU4q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.375923,41.540916,-81.375778,41.544369],
+  "geometry": {"alpha":0.00015,"bbox":[-81.375923156738,41.540916442871,-81.375778198242,41.544368743896],"coordinates":[[[[-81.37587,41.540916],[-81.375923,41.54105],[-81.375778,41.544369],[-81.375809,41.541161],[-81.375824,41.540962],[-81.37587,41.540916]]]],"created":1292547938,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/2489919_20101217_5ae1fc1d3b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

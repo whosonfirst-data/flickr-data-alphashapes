@@ -1,0 +1,15 @@
+{
+  "id": 2509105,
+  "type": "Feature",
+  "properties": {
+    "name":"Twin Falls, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2509105,
+    "woe:name":"Twin Falls, Arizona, United States",
+    "woe:place_id":"sFTl8YqbBJxoE715",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.04686,36.872097,-109.044975,36.874813],
+  "geometry": {"alpha":0.00015,"bbox":[-109.04685974121,36.872097015381,-109.04497528076,36.874813079834],"coordinates":[[[[-109.045296,36.872097],[-109.046089,36.873474],[-109.04686,36.874813],[-109.04599,36.874374],[-109.044975,36.872204],[-109.045296,36.872097]]]],"created":1292494263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/2509105_20101216_37807fd84f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 548358,
+  "type": "Feature",
+  "properties": {
+    "name":"Fernitz, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548358,
+    "woe:name":"Fernitz, Styria, Austria",
+    "woe:place_id":"bJ1CkPmcBZTw3EM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.485057,46.969124,15.507631,46.974628],
+  "geometry": {"alpha":0.00015,"bbox":[15.485056877136,46.969123840332,15.50763130188,46.974628448486],"coordinates":[[[[15.499444,46.9725],[15.488834,46.969124],[15.485057,46.974628],[15.498189,46.973457],[15.500711,46.973446],[15.507631,46.973518],[15.499444,46.9725]]]],"created":1292526220,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/548358_20101216_3ca072a34d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

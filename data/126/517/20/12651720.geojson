@@ -1,0 +1,15 @@
+{
+  "id": 12651720,
+  "type": "Feature",
+  "properties": {
+    "name":"Sausheim, France",
+    "placetype":"locality",
+    "woe:id":12651720,
+    "woe:name":"Sausheim, France",
+    "woe:place_id":"Z.iYCxqYA5rEUZGpnA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.385535,47.771645,7.389335,47.772289],
+  "geometry": {"alpha":1e-05,"bbox":[7.3855347633362,47.771644592285,7.3893351554871,47.772289276123],"coordinates":[[[[7.389335,47.771858],[7.389206,47.771645],[7.385535,47.771912],[7.388949,47.772289],[7.389228,47.772106],[7.389335,47.771858]]]],"created":1292470681,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/12651720_20101216_00dc36ea19.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 55806100,
+  "type": "Feature",
+  "properties": {
+    "name":"Polar Rock, Atlanta, GA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55806100,
+    "woe:name":"Polar Rock, Atlanta, GA, US, United States",
+    "woe:place_id":"bkSzECKcBJRUedF0bA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-84.409996,33.681381,-84.398735,33.705166],
+  "geometry": {"alpha":1.25e-05,"bbox":[-84.409996032715,33.681381225586,-84.398735046387,33.705165863037],"coordinates":[[[[-84.407166,33.683498],[-84.407333,33.684502],[-84.408859,33.687317],[-84.408813,33.692173],[-84.409248,33.698456],[-84.409996,33.701073],[-84.40435,33.704025],[-84.401833,33.705166],[-84.39917,33.703335],[-84.400459,33.697502],[-84.40036,33.697144],[-84.402519,33.691719],[-84.401093,33.689812],[-84.399139,33.685192],[-84.398735,33.681454],[-84.403053,33.681381],[-84.407166,33.683498]]]],"created":1292540650,"edges":17,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/55806100_20101216_dee4340cbb.tar.gz"},"points":40,"type":"MultiPolygon"}
+}

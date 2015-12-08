@@ -1,0 +1,15 @@
+{
+  "id": 20221257,
+  "type": "Feature",
+  "properties": {
+    "name":"Canet de Fals, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":20221257,
+    "woe:name":"Canet de Fals, Catalonia, Spain",
+    "woe:place_id":"RVNuQEObAZ6ihuAHMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.730604,41.746212,1.741333,41.756458],
+  "geometry": {"alpha":0.00015,"bbox":[1.7306040525436,41.746212005615,1.7413330078125,41.756458282471],"coordinates":[[[[1.741333,41.756458],[1.737213,41.754795],[1.73069,41.746212],[1.730604,41.756393],[1.735324,41.756138],[1.741333,41.756458]]]],"created":1292517808,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/20221257_20101216_fd2ca79234.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

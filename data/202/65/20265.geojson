@@ -1,0 +1,15 @@
+{
+  "id": 20265,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Oaks, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20265,
+    "woe:name":"Five Oaks, England, United Kingdom",
+    "woe:place_id":"bkLJw4ebAZ6GTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.44074,51.044823,-0.433444,51.047813],
+  "geometry": {"alpha":0.00015,"bbox":[-0.4407399892807,51.044822692871,-0.43344399333,51.047813415527],"coordinates":[[[[-0.433444,51.047058],[-0.434367,51.044895],[-0.435314,51.044823],[-0.44074,51.045765],[-0.437908,51.047813],[-0.433444,51.047058]]]],"created":1292526052,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/20265_20101216_b1cae58e77.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

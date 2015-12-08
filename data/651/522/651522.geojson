@@ -1,0 +1,15 @@
+{
+  "id": 651522,
+  "type": "Feature",
+  "properties": {
+    "name":"Garching, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":651522,
+    "woe:name":"Garching, Bavaria, Germany",
+    "woe:place_id":"pVnX8R2fBJ0vaFY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.572994,48.111526,12.58335,48.13459],
+  "geometry": {"alpha":0.00015,"bbox":[12.572994232178,48.111526489258,12.58335018158,48.134590148926],"coordinates":[[[[12.583,48.13184],[12.58313,48.131271],[12.58335,48.128521],[12.574195,48.111526],[12.572994,48.13459],[12.583,48.13184]]]],"created":1292538978,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/651522_20101216_44fc1b0812.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

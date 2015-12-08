@@ -1,0 +1,15 @@
+{
+  "id": 560663,
+  "type": "Feature",
+  "properties": {
+    "name":"Doon, Limerick, Ireland",
+    "placetype":"locality",
+    "woe:id":560663,
+    "woe:name":"Doon, Limerick, Ireland",
+    "woe:place_id":"RUWCfbCcB5yitwE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.293208,52.596165,-8.2925,52.596664],
+  "geometry": {"alpha":0.00015,"bbox":[-8.2932081222534,52.596164703369,-8.2924995422363,52.596664428711],"coordinates":[[[[-8.293,52.596165],[-8.29313,52.596237],[-8.293208,52.596405],[-8.2925,52.596664],[-8.292846,52.596313],[-8.293,52.596165]]]],"created":1292529733,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/560663_20101216_e305f612d0.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 24632,
+  "type": "Feature",
+  "properties": {
+    "name":"Jersey Marine, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":24632,
+    "woe:name":"Jersey Marine, Wales, United Kingdom",
+    "woe:place_id":"1c1RN1KbBZp88w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.862895,51.628765,-3.853111,51.63504],
+  "geometry": {"alpha":0.00015,"bbox":[-3.8628950119019,51.628765106201,-3.8531110286713,51.635040283203],"coordinates":[[[[-3.860664,51.629314],[-3.862895,51.628765],[-3.861179,51.63504],[-3.853111,51.632565],[-3.853261,51.632011],[-3.856952,51.630669],[-3.860664,51.629314]]]],"created":1292551348,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/24632_20101217_df292bc1cb.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

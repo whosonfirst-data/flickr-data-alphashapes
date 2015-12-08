@@ -1,0 +1,15 @@
+{
+  "id": 704953,
+  "type": "Feature",
+  "properties": {
+    "name":"Weissenburg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":704953,
+    "woe:name":"Weissenburg, Bavaria, Germany",
+    "woe:place_id":"KQ77oc6eAZinxGw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.957789,49.015976,10.990018,49.04068],
+  "geometry": {"alpha":0.00015,"bbox":[10.957789421082,49.015975952148,10.99001789093,49.040679931641],"coordinates":[[[[10.967447,49.027473],[10.958304,49.030258],[10.957789,49.031258],[10.968217,49.04068],[10.981245,49.035686],[10.983817,49.03215],[10.990018,49.025227],[10.979118,49.015976],[10.967447,49.027473]]]],"created":1292530394,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/704953_20101216_34d065ecac.tar.gz"},"points":53,"type":"MultiPolygon"}
+}

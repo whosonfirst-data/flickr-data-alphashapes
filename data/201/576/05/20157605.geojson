@@ -1,0 +1,15 @@
+{
+  "id": 20157605,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilser, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20157605,
+    "woe:name":"Vilser, Bavaria, Germany",
+    "woe:place_id":"yDMhZSObAZ3xB6IJTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.665761,47.605499,10.669181,47.608826],
+  "geometry": {"alpha":0.00015,"bbox":[10.665760993958,47.605499267578,10.669180870056,47.608825683594],"coordinates":[[[[10.665765,47.605499],[10.665761,47.605526],[10.666522,47.608189],[10.667982,47.608826],[10.669181,47.607342],[10.665788,47.605499],[10.665765,47.605499]]]],"created":1292480285,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/20157605_20101216_17c30d8e31.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

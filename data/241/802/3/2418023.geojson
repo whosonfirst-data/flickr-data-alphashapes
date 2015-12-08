@@ -1,0 +1,15 @@
+{
+  "id": 2418023,
+  "type": "Feature",
+  "properties": {
+    "name":"Harrisburg, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2418023,
+    "woe:name":"Harrisburg, Michigan, United States",
+    "woe:place_id":"iKdOEZ6bBZ3FD_L3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.868843,43.166435,-85.847069,43.175732],
+  "geometry": {"alpha":0.00015,"bbox":[-85.868843078613,43.166435241699,-85.847068786621,43.175731658936],"coordinates":[[[[-85.847404,43.174809],[-85.847069,43.173752],[-85.849228,43.166435],[-85.868843,43.173737],[-85.847725,43.175732],[-85.847404,43.174809]]]],"created":1292540121,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2418023_20101216_c149ab6c7e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

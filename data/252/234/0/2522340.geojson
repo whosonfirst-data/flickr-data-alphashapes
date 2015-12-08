@@ -1,0 +1,15 @@
+{
+  "id": 2522340,
+  "type": "Feature",
+  "properties": {
+    "name":"Winterpock, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2522340,
+    "woe:name":"Winterpock, Virginia, United States",
+    "woe:place_id":"bmpupoSbBJ7oJx.l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.707329,37.37944,-77.675278,37.397743],
+  "geometry": {"alpha":0.00015,"bbox":[-77.707328796387,37.379440307617,-77.675277709961,37.397743225098],"coordinates":[[[[-77.69648,37.391052],[-77.707329,37.393143],[-77.699432,37.394299],[-77.679649,37.397743],[-77.675278,37.37944],[-77.69648,37.391052]]]],"created":1292544939,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2522340_20101217_62d26aafd7.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

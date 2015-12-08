@@ -1,0 +1,15 @@
+{
+  "id": 2385588,
+  "type": "Feature",
+  "properties": {
+    "name":"Cotton Valley, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2385588,
+    "woe:name":"Cotton Valley, Louisiana, United States",
+    "woe:place_id":"s9chhQqbApSDFllf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.432625,32.80751,-93.414131,32.822407],
+  "geometry": {"alpha":0.00015,"bbox":[-93.432624816895,32.807510375977,-93.414131164551,32.822406768799],"coordinates":[[[[-93.414131,32.819344],[-93.417305,32.80751],[-93.425331,32.810432],[-93.432625,32.821289],[-93.422066,32.822407],[-93.418831,32.822388],[-93.414131,32.819344]]]],"created":1292519612,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/2385588_20101216_549f82f190.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

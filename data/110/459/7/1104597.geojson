@@ -1,0 +1,15 @@
+{
+  "id": 1104597,
+  "type": "Feature",
+  "properties": {
+    "name":"Newry, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1104597,
+    "woe:name":"Newry, Victoria, Australia",
+    "woe:place_id":"B8EHa5uYAJyOhRd2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.873474,-37.919064,146.893539,-37.913258],
+  "geometry": {"alpha":0.00015,"bbox":[146.87347412109,-37.919063568115,146.89353942871,-37.913257598877],"coordinates":[[[[146.877594,-37.913258],[146.893539,-37.918629],[146.893097,-37.919064],[146.873474,-37.916168],[146.877594,-37.913258]]]],"created":1292538573,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/1104597_20101216_d882729f24.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

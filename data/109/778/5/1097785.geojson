@@ -1,0 +1,15 @@
+{
+  "id": 1097785,
+  "type": "Feature",
+  "properties": {
+    "name":"Nile, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":1097785,
+    "woe:name":"Nile, Tasmania, Australia",
+    "woe:place_id":"USGeyp2YAZVo1Wkx",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [147.323059,-41.672653,147.33078,-41.651878],
+  "geometry": {"alpha":0.00015,"bbox":[147.32305908203,-41.672653198242,147.3307800293,-41.651878356934],"coordinates":[[[[147.328033,-41.654827],[147.328033,-41.670345],[147.323059,-41.672653],[147.327347,-41.654572],[147.327347,-41.651878],[147.33078,-41.651878],[147.328033,-41.654827]]]],"created":1247947209,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2466/shapefiles/1097785_20090718_0c6a99f894.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

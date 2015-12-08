@@ -1,0 +1,15 @@
+{
+  "id": 619351,
+  "type": "Feature",
+  "properties": {
+    "name":"Ribemont, Picardie, France",
+    "placetype":"locality",
+    "woe:id":619351,
+    "woe:name":"Ribemont, Picardie, France",
+    "woe:place_id":"MjkAjqKfAJVQyMU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.458531,49.79401,3.462869,49.798561],
+  "geometry": {"alpha":0.00015,"bbox":[3.4585309028625,49.794010162354,3.4628689289093,49.798561096191],"coordinates":[[[[3.458531,49.79575],[3.458585,49.795841],[3.462869,49.798561],[3.462066,49.79401],[3.459228,49.795174],[3.458531,49.79575]]]],"created":1292438822,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/619351_20101215_f8e4e56762.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

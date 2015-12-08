@@ -1,0 +1,15 @@
+{
+  "id": 26793561,
+  "type": "Feature",
+  "properties": {
+    "name":"La Laguna, Panama",
+    "placetype":"locality",
+    "woe:id":26793561,
+    "woe:name":"La Laguna, Panama",
+    "woe:place_id":"N2ZH5vabB5t8Ata_5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.052818,8.621813,-80.050072,8.626086],
+  "geometry": {"alpha":1e-05,"bbox":[-80.05281829834,8.6218128204346,-80.050071716309,8.6260862350464],"coordinates":[[[[-80.050179,8.624827],[-80.052818,8.621813],[-80.052597,8.626086],[-80.050072,8.625027],[-80.050163,8.624836],[-80.050179,8.624827]]]],"created":1292542347,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/26793561_20101216_0282225243.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

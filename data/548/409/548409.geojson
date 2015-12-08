@@ -1,0 +1,15 @@
+{
+  "id": 548409,
+  "type": "Feature",
+  "properties": {
+    "name":"Friedberg, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548409,
+    "woe:name":"Friedberg, Styria, Austria",
+    "woe:place_id":"pPQ4VB2cBZTIEc0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.043987,47.431808,16.058685,47.441673],
+  "geometry": {"alpha":0.00015,"bbox":[16.04398727417,47.43180847168,16.058685302734,47.441673278809],"coordinates":[[[[16.054115,47.441673],[16.05806,47.441582],[16.058685,47.434196],[16.049706,47.433029],[16.049513,47.432961],[16.043987,47.431808],[16.054115,47.441673]]]],"created":1292542849,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/548409_20101216_256218157d.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

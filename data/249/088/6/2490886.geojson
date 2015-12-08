@@ -1,0 +1,15 @@
+{
+  "id": 2490886,
+  "type": "Feature",
+  "properties": {
+    "name":"Sequoyah Hills, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2490886,
+    "woe:name":"Sequoyah Hills, Tennessee, United States",
+    "woe:place_id":"KdERt0GbBZXvW7rr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.158699,35.206501,-85.148994,35.221958],
+  "geometry": {"alpha":0.00015,"bbox":[-85.158699035645,35.20650100708,-85.148994445801,35.2219581604],"coordinates":[[[[-85.158669,35.206501],[-85.158699,35.2071],[-85.158669,35.207169],[-85.148994,35.221958],[-85.15567,35.206669],[-85.158669,35.206501]]]],"created":1292451900,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/2490886_20101215_a803fc5646.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

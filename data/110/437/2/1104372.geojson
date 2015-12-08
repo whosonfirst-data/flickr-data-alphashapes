@@ -1,0 +1,15 @@
+{
+  "id": 1104372,
+  "type": "Feature",
+  "properties": {
+    "name":"Murchison East, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1104372,
+    "woe:name":"Murchison East, Victoria, Australia",
+    "woe:place_id":"4JZOOBKYAJw2Q8xT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.240173,-36.616905,145.253326,-36.615269],
+  "geometry": {"alpha":0.00015,"bbox":[145.24017333984,-36.616905212402,145.25332641602,-36.615268707275],"coordinates":[[[[145.241791,-36.616493],[145.240173,-36.615269],[145.242172,-36.616283],[145.253326,-36.616905],[145.241791,-36.616493]]]],"created":1292546508,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/1104372_20101217_7fe8f930ff.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

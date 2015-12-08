@@ -1,0 +1,15 @@
+{
+  "id": 530791,
+  "type": "Feature",
+  "properties": {
+    "name":"Martinje, Murska Sobota, Slovenia",
+    "placetype":"locality",
+    "woe:id":530791,
+    "woe:name":"Martinje, Murska Sobota, Slovenia",
+    "woe:place_id":"ZlesIpScApxFxeY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.106539,46.867649,16.118488,46.873203],
+  "geometry": {"alpha":0.00015,"bbox":[16.106538772583,46.867649078369,16.118488311768,46.873203277588],"coordinates":[[[[16.115368,46.867649],[16.110653,46.869091],[16.106539,46.873203],[16.108088,46.872341],[16.114119,46.869202],[16.118488,46.868935],[16.115368,46.867649]]]],"created":1292455869,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/530791_20101215_f024868a2a.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

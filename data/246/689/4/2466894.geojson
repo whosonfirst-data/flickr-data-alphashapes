@@ -1,0 +1,15 @@
+{
+  "id": 2466894,
+  "type": "Feature",
+  "properties": {
+    "name":"Outwood, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2466894,
+    "woe:name":"Outwood, Pennsylvania, United States",
+    "woe:place_id":"p_ZpkzGbBZqLFfHY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.494629,40.514595,-76.483536,40.544266],
+  "geometry": {"alpha":0.00015,"bbox":[-76.49462890625,40.514595031738,-76.483535766602,40.54426574707],"coordinates":[[[[-76.493507,40.525738],[-76.494629,40.544266],[-76.483536,40.53368],[-76.484924,40.523975],[-76.488747,40.514595],[-76.493507,40.525738]]]],"created":1292519945,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2466894_20101216_f5dd62b896.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

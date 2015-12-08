@@ -1,0 +1,15 @@
+{
+  "id": 2418640,
+  "type": "Feature",
+  "properties": {
+    "name":"Hatfield, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2418640,
+    "woe:name":"Hatfield, Oregon, United States",
+    "woe:place_id":"WbPW3GmbBZ0zJPtL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.253319,43.157623,-123.22673,43.174419],
+  "geometry": {"alpha":0.00015,"bbox":[-123.25331878662,43.157623291016,-123.22673034668,43.174419403076],"coordinates":[[[[-123.253319,43.16293],[-123.245956,43.164513],[-123.22673,43.174419],[-123.241241,43.157623],[-123.241455,43.157829],[-123.253319,43.16293]]]],"created":1292493788,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2418640_20101216_16ba9a966c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

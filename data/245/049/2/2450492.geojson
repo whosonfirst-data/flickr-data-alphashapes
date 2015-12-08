@@ -1,0 +1,15 @@
+{
+  "id": 2450492,
+  "type": "Feature",
+  "properties": {
+    "name":"Midland City, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2450492,
+    "woe:name":"Midland City, Alabama, United States",
+    "woe:place_id":"9cT_XI2bBZlCzFvW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.512428,31.307747,-85.494507,31.31896],
+  "geometry": {"alpha":0.00015,"bbox":[-85.512428283691,31.307746887207,-85.494506835938,31.318960189819],"coordinates":[[[[-85.495949,31.31896],[-85.494507,31.318264],[-85.494713,31.307747],[-85.512428,31.313389],[-85.501228,31.318594],[-85.495949,31.31896]]]],"created":1292528288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/2450492_20101216_7d48a7a543.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

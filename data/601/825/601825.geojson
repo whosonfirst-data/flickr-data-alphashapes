@@ -1,0 +1,15 @@
+{
+  "id": 601825,
+  "type": "Feature",
+  "properties": {
+    "name":"Lavardin, Centre, France",
+    "placetype":"locality",
+    "woe:id":601825,
+    "woe:name":"Lavardin, Centre, France",
+    "woe:place_id":"E.JOM4SfAZ1U6X0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.883787,47.741699,0.88795,47.743248],
+  "geometry": {"alpha":0.00015,"bbox":[0.88378697633743,47.74169921875,0.88795000314713,47.74324798584],"coordinates":[[[[0.88795,47.742352],[0.887575,47.742027],[0.883787,47.741699],[0.885686,47.742901],[0.886802,47.743248],[0.887746,47.743248],[0.88795,47.742352]]]],"created":1292543812,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/601825_20101216_d411b94d02.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

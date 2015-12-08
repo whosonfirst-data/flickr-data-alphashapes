@@ -1,0 +1,15 @@
+{
+  "id": 2353843,
+  "type": "Feature",
+  "properties": {
+    "name":"Alta Vista, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2353843,
+    "woe:name":"Alta Vista, New Mexico, United States",
+    "woe:place_id":"yqjZHqSbApkSGzZg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-104.767212,35.549168,-104.765167,35.557186],
+  "geometry": {"alpha":0.00015,"bbox":[-104.76721191406,35.549167633057,-104.76516723633,35.557186126709],"coordinates":[[[[-104.766991,35.557137],[-104.766777,35.555641],[-104.765167,35.549168],[-104.766785,35.555641],[-104.767212,35.557186],[-104.766991,35.557137]]]],"created":1292451665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2353843_20101215_33c98f36c6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

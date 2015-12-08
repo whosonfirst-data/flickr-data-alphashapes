@@ -1,0 +1,15 @@
+{
+  "id": 2360174,
+  "type": "Feature",
+  "properties": {
+    "name":"Bay City, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2360174,
+    "woe:name":"Bay City, Washington, United States",
+    "woe:place_id":"CiYs5TebAppafXZT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-124.113663,46.849899,-124.113647,46.849949],
+  "geometry": {"alpha":0.00015,"bbox":[-124.11366271973,46.849899291992,-124.11364746094,46.849948883057],"coordinates":[[[[-124.113663,46.849918],[-124.113647,46.849949],[-124.113647,46.849918],[-124.113647,46.849911],[-124.113663,46.849899],[-124.113663,46.849918]]]],"created":1234733881,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3472/shapefiles/2360174_20090215_57a26afe57.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

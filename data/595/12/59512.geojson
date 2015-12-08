@@ -1,0 +1,15 @@
+{
+  "id": 59512,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pablo, Heredia, Costa Rica",
+    "placetype":"locality",
+    "woe:id":59512,
+    "woe:name":"San Pablo, Heredia, Costa Rica",
+    "woe:place_id":"G6yMJZucCJknwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.106567,9.993602,-84.087013,10.005632],
+  "geometry": {"alpha":0.00015,"bbox":[-84.106567382812,9.9936017990112,-84.087013244629,10.005632400513],"coordinates":[[[[-84.100746,10.003941],[-84.09742,10.005632],[-84.087013,10.002224],[-84.088379,9.993602],[-84.093475,9.995224],[-84.102783,9.996175],[-84.106567,9.996349],[-84.100746,10.003941]]]],"created":1292526486,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/59512_20101216_dd1c67f24b.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

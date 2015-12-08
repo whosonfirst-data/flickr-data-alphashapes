@@ -1,0 +1,15 @@
+{
+  "id": 20108133,
+  "type": "Feature",
+  "properties": {
+    "name":"San Damiano, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":20108133,
+    "woe:name":"San Damiano, Umbria, Italy",
+    "woe:place_id":"aXBCMVqbAZ3CiVDekg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.617368,43.059666,12.621917,43.067509],
+  "geometry": {"alpha":0.00015,"bbox":[12.617367744446,43.059665679932,12.621916770935,43.06750869751],"coordinates":[[[[12.620887,43.067509],[12.621917,43.066879],[12.620468,43.062988],[12.620158,43.059666],[12.617368,43.061897],[12.61821,43.066612],[12.620887,43.067509]]]],"created":1292513762,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/20108133_20101216_1d33009bbb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

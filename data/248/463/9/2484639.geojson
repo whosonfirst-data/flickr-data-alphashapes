@@ -1,0 +1,15 @@
+{
+  "id": 2484639,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosecroft, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2484639,
+    "woe:name":"Rosecroft, Maryland, United States",
+    "woe:place_id":"LepngmibBZSAVyQX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.448532,38.141773,-76.434631,38.176266],
+  "geometry": {"alpha":0.00015,"bbox":[-76.448532104492,38.141773223877,-76.434631347656,38.176265716553],"coordinates":[[[[-76.434631,38.160221],[-76.435295,38.141773],[-76.438126,38.159866],[-76.448532,38.176266],[-76.437401,38.160275],[-76.434631,38.160221]]]],"created":1292454590,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2484639_20101215_5e9daa8b18.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

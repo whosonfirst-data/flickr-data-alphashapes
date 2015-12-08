@@ -1,0 +1,15 @@
+{
+  "id": 2405991,
+  "type": "Feature",
+  "properties": {
+    "name":"Fort Tule, Arizona, United States",
+    "placetype":"locality",
+    "woe:id":2405991,
+    "woe:name":"Fort Tule, Arizona, United States",
+    "woe:place_id":"1IkpDnibBZzMMrEv",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.229507,34.027233,-112.222221,34.036373],
+  "geometry": {"alpha":0.00015,"bbox":[-112.22950744629,34.027233123779,-112.22222137451,34.036373138428],"coordinates":[[[[-112.225143,34.027233],[-112.226997,34.027695],[-112.229507,34.036373],[-112.222221,34.028713],[-112.223618,34.027863],[-112.225143,34.027233]]]],"created":1292539773,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/2405991_20101216_d5fce99e1e.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

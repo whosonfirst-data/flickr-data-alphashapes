@@ -1,0 +1,15 @@
+{
+  "id": 644173,
+  "type": "Feature",
+  "properties": {
+    "name":"Denstedt, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":644173,
+    "woe:name":"Denstedt, Thuringia, Germany",
+    "woe:place_id":"53YC3COfBZikfuE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.387844,50.994717,11.393614,51.003059],
+  "geometry": {"alpha":0.00015,"bbox":[11.387844085693,50.994716644287,11.393613815308,51.003059387207],"coordinates":[[[[11.393209,50.994717],[11.387844,51.003059],[11.393525,50.994961],[11.393563,50.994907],[11.393614,50.994835],[11.393209,50.994717]]]],"created":1239474848,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3588/shapefiles/644173_20090411_e5578209f5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

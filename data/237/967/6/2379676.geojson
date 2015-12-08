@@ -1,0 +1,15 @@
+{
+  "id": 2379676,
+  "type": "Feature",
+  "properties": {
+    "name":"Chico, Montana, United States",
+    "placetype":"locality",
+    "woe:id":2379676,
+    "woe:name":"Chico, Montana, United States",
+    "woe:place_id":"6u0B5y6bAptyLyHj",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-110.786057,45.318951,-110.760689,45.332932],
+  "geometry": {"alpha":0.00015,"bbox":[-110.78605651855,45.318950653076,-110.76068878174,45.332931518555],"coordinates":[[[[-110.767548,45.332932],[-110.760689,45.318951],[-110.77639,45.323669],[-110.786057,45.326118],[-110.77021,45.330757],[-110.767548,45.332932]]]],"created":1292444656,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/2379676_20101215_429baa2b09.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

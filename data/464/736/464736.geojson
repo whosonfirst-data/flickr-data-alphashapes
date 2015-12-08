@@ -1,0 +1,15 @@
+{
+  "id": 464736,
+  "type": "Feature",
+  "properties": {
+    "name":"Bajos Hondos, San Luis, Argentina",
+    "placetype":"locality",
+    "woe:id":464736,
+    "woe:name":"Bajos Hondos, San Luis, Argentina",
+    "woe:place_id":"64_oaTmdB5hsO1c",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.323944,-33.178078,-66.307465,-33.162628],
+  "geometry": {"alpha":0.00015,"bbox":[-66.323944091797,-33.178077697754,-66.307464599609,-33.162628173828],"coordinates":[[[[-66.307465,-33.172832],[-66.310898,-33.178078],[-66.312271,-33.173046],[-66.323944,-33.162628],[-66.308495,-33.171684],[-66.307465,-33.172832]]]],"created":1292453406,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/464736_20101215_9ea923bf65.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

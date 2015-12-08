@@ -1,0 +1,15 @@
+{
+  "id": 1106828,
+  "type": "Feature",
+  "properties": {
+    "name":"Woodside Beach, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1106828,
+    "woe:name":"Woodside Beach, Victoria, Australia",
+    "woe:place_id":"toWC2COYAJyeomAL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.975403,-38.552013,146.983078,-38.546017],
+  "geometry": {"alpha":0.00015,"bbox":[146.97540283203,-38.552013397217,146.98307800293,-38.546016693115],"coordinates":[[[[146.978195,-38.552013],[146.977493,-38.551788],[146.975403,-38.549019],[146.979904,-38.546017],[146.983078,-38.547428],[146.982819,-38.55085],[146.978195,-38.552013]]]],"created":1292529863,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/1106828_20101216_21c1897841.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

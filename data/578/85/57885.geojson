@@ -1,0 +1,15 @@
+{
+  "id": 57885,
+  "type": "Feature",
+  "properties": {
+    "name":"Buenos Aires, Puntarenas, Costa Rica",
+    "placetype":"locality",
+    "woe:id":57885,
+    "woe:name":"Buenos Aires, Puntarenas, Costa Rica",
+    "woe:place_id":"KY8j4jycBpQmaA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.342285,9.156332,-83.315849,9.176329],
+  "geometry": {"alpha":0.00015,"bbox":[-83.34228515625,9.1563320159912,-83.315849304199,9.1763286590576],"coordinates":[[[[-83.315849,9.17294],[-83.319283,9.159383],[-83.333359,9.156332],[-83.334557,9.157603],[-83.336105,9.161586],[-83.338165,9.166839],[-83.342285,9.174759],[-83.334732,9.176329],[-83.316704,9.173872],[-83.315849,9.174126],[-83.315849,9.173449],[-83.315849,9.173279],[-83.315849,9.17294]]]],"created":1292543319,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/57885_20101216_404ea1f2db.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

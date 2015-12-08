@@ -1,0 +1,15 @@
+{
+  "id": 23418053,
+  "type": "Feature",
+  "properties": {
+    "name":"Pecan Acres, Texas, United States",
+    "placetype":"locality",
+    "woe:id":23418053,
+    "woe:name":"Pecan Acres, Texas, United States",
+    "woe:place_id":"HmCEMdKbApiRdtu.yQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.496384,32.949036,-97.485222,32.980469],
+  "geometry": {"alpha":0.00015,"bbox":[-97.496383666992,32.949035644531,-97.485221862793,32.98046875],"coordinates":[[[[-97.48806,32.949036],[-97.496384,32.960659],[-97.485382,32.980469],[-97.4925,32.960102],[-97.485222,32.951778],[-97.48806,32.949036]]]],"created":1292548968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/23418053_20101217_7cd390496a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

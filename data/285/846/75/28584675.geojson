@@ -1,0 +1,15 @@
+{
+  "id": 28584675,
+  "type": "Feature",
+  "properties": {
+    "name":"Cox Bight, Tasmania, Australia",
+    "placetype":"locality",
+    "woe:id":28584675,
+    "woe:name":"Cox Bight, Tasmania, Australia",
+    "woe:place_id":"SPvloi6bCZmp4xfhgA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.155411,-43.422726,146.165161,-43.416519],
+  "geometry": {"alpha":0.00015,"bbox":[146.1554107666,-43.42272567749,146.16516113281,-43.416519165039],"coordinates":[[[[146.158676,-43.422005],[146.155411,-43.419262],[146.157303,-43.416519],[146.161255,-43.418201],[146.164291,-43.420105],[146.165161,-43.422726],[146.158676,-43.422005]]]],"created":1292541787,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/28584675_20101216_081360a9dc.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12651671,
+  "type": "Feature",
+  "properties": {
+    "name":"Sartrouville, France",
+    "placetype":"locality",
+    "woe:id":12651671,
+    "woe:name":"Sartrouville, France",
+    "woe:place_id":"OF73TR6YA5qE2AUQSg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.185206,48.940388,2.193317,48.946728],
+  "geometry": {"alpha":1e-05,"bbox":[2.1852059364319,48.94038772583,2.1933169364929,48.946727752686],"coordinates":[[[[2.189666,48.946667],[2.190347,48.946728],[2.189056,48.942074],[2.192909,48.940388],[2.193317,48.940739],[2.189056,48.942074],[2.185206,48.944496],[2.1895,48.946667],[2.189666,48.946667]]]],"created":1292486649,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12651671_20101216_978193076a.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

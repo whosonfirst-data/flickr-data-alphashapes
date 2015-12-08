@@ -1,0 +1,15 @@
+{
+  "id": 2521231,
+  "type": "Feature",
+  "properties": {
+    "name":"Willow Wind, Georgia, United States",
+    "placetype":"locality",
+    "woe:id":2521231,
+    "woe:name":"Willow Wind, Georgia, United States",
+    "woe:place_id":"bsYWHuKbBJ6luZvD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.923355,33.880295,-83.908653,33.886127],
+  "geometry": {"alpha":0.00015,"bbox":[-83.923355102539,33.880294799805,-83.908653259277,33.886127471924],"coordinates":[[[[-83.921127,33.880295],[-83.921295,33.880367],[-83.923294,33.88131],[-83.923355,33.886127],[-83.908653,33.883762],[-83.921127,33.880295]]]],"created":1292542269,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2521231_20101216_a8d024db32.tar.gz"},"points":46,"type":"MultiPolygon"}
+}

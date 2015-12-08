@@ -1,0 +1,15 @@
+{
+  "id": 2474598,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Marion, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2474598,
+    "woe:name":"Point Marion, Pennsylvania, United States",
+    "woe:place_id":"SEWGCAqbBZuJKzQf",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.909615,39.727455,-79.897293,39.738548],
+  "geometry": {"alpha":0.00015,"bbox":[-79.909614562988,39.72745513916,-79.89729309082,39.738548278809],"coordinates":[[[[-79.898918,39.738548],[-79.897293,39.736916],[-79.909615,39.727455],[-79.899742,39.737438],[-79.898918,39.738548]]]],"created":1292528358,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/2474598_20101216_1349d00f05.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

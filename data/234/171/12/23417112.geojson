@@ -1,0 +1,15 @@
+{
+  "id": 23417112,
+  "type": "Feature",
+  "properties": {
+    "name":"Mesa Vista, California, United States",
+    "placetype":"locality",
+    "woe:id":23417112,
+    "woe:name":"Mesa Vista, California, United States",
+    "woe:place_id":"Hrcxx5WbApiMFOATbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-119.804535,38.792091,-119.795609,38.803513],
+  "geometry": {"alpha":0.00015,"bbox":[-119.80453491211,38.792091369629,-119.79560852051,38.803512573242],"coordinates":[[[[-119.802979,38.803513],[-119.795609,38.797443],[-119.800415,38.795437],[-119.804535,38.792091],[-119.80423,38.792831],[-119.802979,38.803513]]]],"created":1292545826,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/23417112_20101217_4c2bc8799b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

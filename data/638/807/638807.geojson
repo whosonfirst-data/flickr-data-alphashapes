@@ -1,0 +1,15 @@
+{
+  "id": 638807,
+  "type": "Feature",
+  "properties": {
+    "name":"Bielen, Thuringia, Germany",
+    "placetype":"locality",
+    "woe:id":638807,
+    "woe:name":"Bielen, Thuringia, Germany",
+    "woe:place_id":"UjX1wHefApTpO7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.821104,51.472294,10.842701,51.494759],
+  "geometry": {"alpha":0.00015,"bbox":[10.821104049683,51.47229385376,10.842700958252,51.494758605957],"coordinates":[[[[10.842132,51.472721],[10.841445,51.472294],[10.835223,51.474098],[10.821104,51.479458],[10.822058,51.494759],[10.842701,51.485382],[10.842132,51.472721]]]],"created":1292475125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/638807_20101216_8fd6bbfa86.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 949261,
+  "type": "Feature",
+  "properties": {
+    "name":"Eremopoli, Kriti, Greece",
+    "placetype":"locality",
+    "woe:id":949261,
+    "woe:name":"Eremopoli, Kriti, Greece",
+    "woe:place_id":"j95lKs.QBZUMrtc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.251402,35.254871,26.266766,35.272739],
+  "geometry": {"alpha":0.00015,"bbox":[26.251401901245,35.254871368408,26.266765594482,35.2727394104],"coordinates":[[[[26.261272,35.264263],[26.251402,35.272739],[26.263353,35.267818],[26.266766,35.264542],[26.266251,35.256973],[26.265518,35.254871],[26.261272,35.264263]]]],"created":1292545676,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/949261_20101217_5927df7ba0.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

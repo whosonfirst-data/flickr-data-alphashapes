@@ -1,0 +1,15 @@
+{
+  "id": 543345,
+  "type": "Feature",
+  "properties": {
+    "name":"Pottenstein, Lower Austria, Austria",
+    "placetype":"locality",
+    "woe:id":543345,
+    "woe:name":"Pottenstein, Lower Austria, Austria",
+    "woe:place_id":"wzAggxKcBZ.gTd0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.093597,47.95372,16.102524,47.975586],
+  "geometry": {"alpha":0.00015,"bbox":[16.093597412109,47.953720092773,16.102523803711,47.9755859375],"coordinates":[[[[16.10218,47.95372],[16.098875,47.958374],[16.093597,47.96188],[16.100292,47.975586],[16.102524,47.958202],[16.10218,47.95372]]]],"created":1247965453,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3456/shapefiles/543345_20090719_fb678e58e0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

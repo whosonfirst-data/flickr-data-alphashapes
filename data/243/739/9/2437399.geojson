@@ -1,0 +1,15 @@
+{
+  "id": 2437399,
+  "type": "Feature",
+  "properties": {
+    "name":"Layhill, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2437399,
+    "woe:name":"Layhill, Maryland, United States",
+    "woe:place_id":"J.SsEZ2bBZ.awUzd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.049019,39.086052,-77.028534,39.097958],
+  "geometry": {"alpha":0.00015,"bbox":[-77.049018859863,39.086051940918,-77.028533935547,39.097957611084],"coordinates":[[[[-77.047508,39.091305],[-77.045128,39.091892],[-77.028534,39.097958],[-77.035667,39.091148],[-77.049019,39.086052],[-77.047508,39.091305]]]],"created":1292543102,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2437399_20101216_cfac9d9c8c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

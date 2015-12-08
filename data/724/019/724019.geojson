@@ -1,0 +1,15 @@
+{
+  "id": 724019,
+  "type": "Feature",
+  "properties": {
+    "name":"Semorile, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":724019,
+    "woe:name":"Semorile, Liguria, Italy",
+    "woe:place_id":"SEoaSeWeA5jq.W8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.275207,44.35033,9.293205,44.359821],
+  "geometry": {"alpha":0.00015,"bbox":[9.2752065658569,44.350330352783,9.2932052612305,44.35982131958],"coordinates":[[[[9.27902,44.35033],[9.275722,44.350338],[9.275207,44.352333],[9.289283,44.358349],[9.293205,44.359821],[9.286193,44.352821],[9.27902,44.35033]]]],"created":1292528097,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/724019_20101216_bc4dabbbd4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

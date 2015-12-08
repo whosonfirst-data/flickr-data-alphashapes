@@ -1,0 +1,15 @@
+{
+  "id": 23511235,
+  "type": "Feature",
+  "properties": {
+    "name":"Guffin Bay, New York, United States",
+    "placetype":"locality",
+    "woe:id":23511235,
+    "woe:name":"Guffin Bay, New York, United States",
+    "woe:place_id":"WJ4Cey2bApmCb37MyQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.158173,44.03117,-76.152847,44.043827],
+  "geometry": {"alpha":0.00015,"bbox":[-76.158172607422,44.031169891357,-76.152847290039,44.043827056885],"coordinates":[[[[-76.158073,44.040623],[-76.158173,44.041328],[-76.158165,44.042377],[-76.152847,44.043827],[-76.15313,44.03117],[-76.158073,44.040623]]]],"created":1292542174,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23511235_20101216_4cc4f4fdd4.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

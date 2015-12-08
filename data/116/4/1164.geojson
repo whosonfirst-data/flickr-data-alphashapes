@@ -1,0 +1,15 @@
+{
+  "id": 1164,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmerston, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1164,
+    "woe:name":"Palmerston, Ontario, Canada",
+    "woe:place_id":"SGdvuC6YAJrE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.857658,43.831635,-80.843536,43.839108],
+  "geometry": {"alpha":0.00015,"bbox":[-80.85765838623,43.831634521484,-80.843536376953,43.839107513428],"coordinates":[[[[-80.848175,43.832161],[-80.848595,43.831635],[-80.857658,43.833427],[-80.843536,43.839108],[-80.843987,43.836849],[-80.848175,43.832161]]]],"created":1292550711,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/1164_20101217_c8653926fe.tar.gz"},"points":27,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 908933,
+  "type": "Feature",
+  "properties": {
+    "name":"Stubberud, Varmland, Sweden",
+    "placetype":"locality",
+    "woe:id":908933,
+    "woe:name":"Stubberud, Varmland, Sweden",
+    "woe:place_id":"ojcGZfaQAZStNB8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.386454,59.509861,13.39287,59.51326],
+  "geometry": {"alpha":0.00015,"bbox":[13.38645362854,59.509860992432,13.392869949341,59.513259887695],"coordinates":[[[[13.386669,59.511818],[13.390209,59.513195],[13.390853,59.51326],[13.39287,59.512569],[13.387613,59.509861],[13.386454,59.511398],[13.386669,59.511818]]]],"created":1292506141,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/908933_20101216_769a711e63.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

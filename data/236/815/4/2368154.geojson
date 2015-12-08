@@ -1,0 +1,15 @@
+{
+  "id": 2368154,
+  "type": "Feature",
+  "properties": {
+    "name":"Brandon, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2368154,
+    "woe:name":"Brandon, Michigan, United States",
+    "woe:place_id":"rp7xrWWbAprYSMHu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.395363,42.800564,-83.378548,42.808193],
+  "geometry": {"alpha":0.00015,"bbox":[-83.395362854004,42.800563812256,-83.378547668457,42.808193206787],"coordinates":[[[[-83.395325,42.807766],[-83.394844,42.808193],[-83.378548,42.800564],[-83.393616,42.800835],[-83.39389,42.800835],[-83.395363,42.807529],[-83.395325,42.807766]]]],"created":1292532271,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2368154_20101216_465350035b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

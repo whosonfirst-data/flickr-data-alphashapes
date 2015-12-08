@@ -1,0 +1,15 @@
+{
+  "id": 2505073,
+  "type": "Feature",
+  "properties": {
+    "name":"Thanksgiving, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2505073,
+    "woe:name":"Thanksgiving, Maryland, United States",
+    "woe:place_id":"jyuuwSubBJypeTS0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.165565,38.744308,-76.14225,38.759972],
+  "geometry": {"alpha":0.00015,"bbox":[-76.165565490723,38.74430847168,-76.142250061035,38.759971618652],"coordinates":[[[[-76.163231,38.754116],[-76.165565,38.756214],[-76.153748,38.756851],[-76.149246,38.759972],[-76.14225,38.744308],[-76.159943,38.754723],[-76.163231,38.754116]]]],"created":1292423043,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2505073_20101215_cb7ea82d41.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

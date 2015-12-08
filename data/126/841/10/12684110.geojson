@@ -1,0 +1,15 @@
+{
+  "id": 12684110,
+  "type": "Feature",
+  "properties": {
+    "name":"Oberstammheim, Switzerland",
+    "placetype":"locality",
+    "woe:id":12684110,
+    "woe:name":"Oberstammheim, Switzerland",
+    "woe:place_id":"pwnD3aOYA5oygtuj.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.792066,47.633568,8.795047,47.636276],
+  "geometry": {"alpha":1e-05,"bbox":[8.7920656204224,47.633567810059,8.7950468063354,47.636276245117],"coordinates":[[[[8.794969,47.633568],[8.794927,47.633591],[8.792066,47.636276],[8.79495,47.633625],[8.795047,47.633583],[8.794969,47.633568]]]],"created":1292479804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/12684110_20101216_ce2afcf7aa.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

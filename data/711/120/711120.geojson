@@ -1,0 +1,15 @@
+{
+  "id": 711120,
+  "type": "Feature",
+  "properties": {
+    "name":"Bonizzo, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":711120,
+    "woe:name":"Bonizzo, Lombardy, Italy",
+    "woe:place_id":"aD0wZIeeAJ1KVBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.180305,45.044479,11.186056,45.050056],
+  "geometry": {"alpha":0.00015,"bbox":[11.180304527283,45.044479370117,11.186056137085,45.05005645752],"coordinates":[[[[11.180648,45.045509],[11.180305,45.045994],[11.186056,45.050056],[11.181678,45.044479],[11.180648,45.045509]]]],"created":1292484127,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/711120_20101216_6d7d803d92.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

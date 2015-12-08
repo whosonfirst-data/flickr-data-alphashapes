@@ -1,0 +1,15 @@
+{
+  "id": 646,
+  "type": "Feature",
+  "properties": {
+    "name":"Harvey, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":646,
+    "woe:name":"Harvey, New Brunswick, Canada",
+    "woe:place_id":"R3ae9XufBZo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-67.016602,45.727715,-67.004433,45.731827],
+  "geometry": {"alpha":0.00015,"bbox":[-67.0166015625,45.727714538574,-67.004432678223,45.731826782227],"coordinates":[[[[-67.004929,45.728474],[-67.008133,45.727715],[-67.016602,45.72871],[-67.009392,45.731827],[-67.004433,45.730404],[-67.004929,45.728474]]]],"created":1292535585,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/646_20101216_a1dd37645a.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

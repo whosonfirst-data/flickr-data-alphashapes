@@ -1,0 +1,15 @@
+{
+  "id": 2517314,
+  "type": "Feature",
+  "properties": {
+    "name":"West Lebanon, New York, United States",
+    "placetype":"locality",
+    "woe:id":2517314,
+    "woe:name":"West Lebanon, New York, United States",
+    "woe:place_id":"v45pr_qbBJ02HMpD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.487473,42.485233,-73.470879,42.494377],
+  "geometry": {"alpha":0.00015,"bbox":[-73.48747253418,42.485233306885,-73.470878601074,42.49437713623],"coordinates":[[[[-73.48719,42.491909],[-73.482056,42.494377],[-73.470879,42.485233],[-73.48452,42.490715],[-73.487473,42.490139],[-73.48719,42.491909]]]],"created":1292534039,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2517314_20101216_475ce2db8e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

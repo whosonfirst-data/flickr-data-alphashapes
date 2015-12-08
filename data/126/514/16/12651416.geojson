@@ -1,0 +1,15 @@
+{
+  "id": 12651416,
+  "type": "Feature",
+  "properties": {
+    "name":"Rosheim, France",
+    "placetype":"locality",
+    "woe:id":12651416,
+    "woe:name":"Rosheim, France",
+    "woe:place_id":"fVuy6bqYA5rOXvzQWA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.468214,48.49622,7.469801,48.49818],
+  "geometry": {"alpha":1e-05,"bbox":[7.4682140350342,48.49621963501,7.4698009490967,48.498180389404],"coordinates":[[[[7.469049,48.49622],[7.468214,48.497383],[7.468557,48.49818],[7.469801,48.496716],[7.469049,48.49622]]]],"created":1292548744,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/12651416_20101217_582771d728.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

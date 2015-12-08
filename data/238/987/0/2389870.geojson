@@ -1,0 +1,15 @@
+{
+  "id": 2389870,
+  "type": "Feature",
+  "properties": {
+    "name":"Dayton, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2389870,
+    "woe:name":"Dayton, Pennsylvania, United States",
+    "woe:place_id":"6_R29XmbApSfv.6G",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.246101,40.87822,-79.233055,40.892105],
+  "geometry": {"alpha":0.00015,"bbox":[-79.246101379395,40.878219604492,-79.233055114746,40.892105102539],"coordinates":[[[[-79.240952,40.87822],[-79.246101,40.878345],[-79.245071,40.882889],[-79.233055,40.892105],[-79.239838,40.882385],[-79.240952,40.87822]]]],"created":1292535246,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2389870_20101216_0a1930f57c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 800,
+  "type": "Feature",
+  "properties": {
+    "name":"Lafleche, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":800,
+    "woe:name":"Lafleche, Saskatchewan, Canada",
+    "woe:place_id":"MtaXwSaRAZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.574936,49.698971,-106.571571,49.705524],
+  "geometry": {"alpha":0.00015,"bbox":[-106.57493591309,49.698970794678,-106.5715713501,49.70552444458],"coordinates":[[[[-106.574593,49.704006],[-106.573669,49.705132],[-106.573387,49.705524],[-106.571571,49.698971],[-106.574936,49.700279],[-106.574593,49.704006]]]],"created":1292550509,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/800_20101217_133c53d60a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

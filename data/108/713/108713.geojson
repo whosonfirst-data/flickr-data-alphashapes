@@ -1,0 +1,15 @@
+{
+  "id": 108713,
+  "type": "Feature",
+  "properties": {
+    "name":"Culloden, Westmoreland, Jamaica",
+    "placetype":"locality",
+    "woe:id":108713,
+    "woe:name":"Culloden, Westmoreland, Jamaica",
+    "woe:place_id":"VY_ITDSYAZTjbTY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.97924,18.094542,-77.964302,18.101242],
+  "geometry": {"alpha":0.00015,"bbox":[-77.97924041748,18.094541549683,-77.964302062988,18.10124206543],"coordinates":[[[[-77.964302,18.09601],[-77.971001,18.094542],[-77.97924,18.101231],[-77.978592,18.101242],[-77.972458,18.097397],[-77.964302,18.09601]]]],"created":1292457130,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/108713_20101215_25fc9fac5b.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

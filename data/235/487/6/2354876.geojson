@@ -1,0 +1,15 @@
+{
+  "id": 2354876,
+  "type": "Feature",
+  "properties": {
+    "name":"Annapolis, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2354876,
+    "woe:name":"Annapolis, Washington, United States",
+    "woe:place_id":"JS1HrcabApne7ArZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.62886,47.540333,-122.616394,47.553474],
+  "geometry": {"alpha":0.00015,"bbox":[-122.62886047363,47.540332794189,-122.61639404297,47.55347442627],"coordinates":[[[[-122.626114,47.540333],[-122.62886,47.543423],[-122.623985,47.553474],[-122.616394,47.547829],[-122.626114,47.540333]]]],"created":1292529870,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/2354876_20101216_b2823e4543.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

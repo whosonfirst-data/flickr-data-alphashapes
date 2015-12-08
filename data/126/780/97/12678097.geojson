@@ -1,0 +1,15 @@
+{
+  "id": 12678097,
+  "type": "Feature",
+  "properties": {
+    "name":"La Valle Agordina, Italy",
+    "placetype":"locality",
+    "woe:id":12678097,
+    "woe:name":"La Valle Agordina, Italy",
+    "woe:place_id":"7ZbKS7iYA5qQCbpWfA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.080855,46.300213,12.082815,46.302593],
+  "geometry": {"alpha":1e-05,"bbox":[12.080855369568,46.300212860107,12.082815170288,46.302593231201],"coordinates":[[[[12.081077,46.300301],[12.080991,46.300266],[12.080855,46.300213],[12.082815,46.302593],[12.081077,46.300301]]]],"created":1292530449,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/12678097_20101216_fd06756bf9.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

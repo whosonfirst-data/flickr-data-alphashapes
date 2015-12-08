@@ -1,0 +1,15 @@
+{
+  "id": 1963,
+  "type": "Feature",
+  "properties": {
+    "name":"Wyebridge, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":1963,
+    "woe:name":"Wyebridge, Ontario, Canada",
+    "woe:place_id":"ipCxCD6YCJqZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.888458,44.691559,-79.874725,44.703861],
+  "geometry": {"alpha":0.00015,"bbox":[-79.888458251953,44.691558837891,-79.874725341797,44.703861236572],"coordinates":[[[[-79.884529,44.695549],[-79.884636,44.695625],[-79.887253,44.697227],[-79.888458,44.703861],[-79.874725,44.701164],[-79.87558,44.691601],[-79.878235,44.691559],[-79.884361,44.695457],[-79.884529,44.695549]]]],"created":1292540476,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/1963_20101216_9df97b322a.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

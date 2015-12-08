@@ -1,0 +1,15 @@
+{
+  "id": 55873328,
+  "type": "Feature",
+  "properties": {
+    "name":"Getryggen, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":55873328,
+    "woe:name":"Getryggen, Stockholm, Sweden",
+    "woe:place_id":"OsvpWkucBJRDdtyMxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.640009,59.096252,17.656187,59.129848],
+  "geometry": {"alpha":0.00015,"bbox":[17.640008926392,59.096252441406,17.656187057495,59.129848480225],"coordinates":[[[[17.642647,59.110786],[17.643135,59.1119],[17.640009,59.129848],[17.64315,59.111897],[17.656187,59.096252],[17.642647,59.110786]]]],"created":1292446461,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/55873328_20101215_8e9da70426.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

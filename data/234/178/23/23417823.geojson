@@ -1,0 +1,15 @@
+{
+  "id": 23417823,
+  "type": "Feature",
+  "properties": {
+    "name":"Brices Creek, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":23417823,
+    "woe:name":"Brices Creek, North Carolina, United States",
+    "woe:place_id":"SbTZ3mmbApjldKvJ.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.066429,35.027466,-77.053123,35.045704],
+  "geometry": {"alpha":0.00015,"bbox":[-77.066429138184,35.027465820312,-77.053123474121,35.045703887939],"coordinates":[[[[-77.064629,35.045704],[-77.053123,35.04166],[-77.055786,35.027466],[-77.065315,35.040817],[-77.066429,35.04377],[-77.064629,35.045704]]]],"created":1292433125,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/23417823_20101215_70c768d3e6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

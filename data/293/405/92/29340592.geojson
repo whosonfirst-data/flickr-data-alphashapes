@@ -1,0 +1,15 @@
+{
+  "id": 29340592,
+  "type": "Feature",
+  "properties": {
+    "name":"San Lorenzo, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":29340592,
+    "woe:name":"San Lorenzo, Campania, Italy",
+    "woe:place_id":"XvK_bfmbCJ9tW.KK_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.599027,40.648197,14.606666,40.652058],
+  "geometry": {"alpha":0.00015,"bbox":[14.599026679993,40.648197174072,14.606665611267,40.652057647705],"coordinates":[[[[14.604949,40.648865],[14.601216,40.648197],[14.599027,40.648281],[14.60289,40.650951],[14.606065,40.652058],[14.606666,40.648994],[14.604949,40.648865]]]],"created":1248068315,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2552/shapefiles/29340592_20090720_b698c58285.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

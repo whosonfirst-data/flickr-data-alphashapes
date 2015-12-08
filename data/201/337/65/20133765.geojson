@@ -1,0 +1,15 @@
+{
+  "id": 20133765,
+  "type": "Feature",
+  "properties": {
+    "name":"Noceto, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20133765,
+    "woe:name":"Noceto, Tuscany, Italy",
+    "woe:place_id":"fUCGy3KbAZ3.P6SNwg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.067296,44.102695,10.077936,44.10825],
+  "geometry": {"alpha":0.00015,"bbox":[10.067296028137,44.102695465088,10.077936172485,44.108249664307],"coordinates":[[[[10.077936,44.103523],[10.077936,44.102753],[10.077872,44.102695],[10.067296,44.106506],[10.07487,44.10825],[10.077936,44.103523]]]],"created":1292449179,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5088/shapefiles/20133765_20101215_7ef7b8de7a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

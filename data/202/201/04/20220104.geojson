@@ -1,0 +1,15 @@
+{
+  "id": 20220104,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad de Asis, Alacant, Valencia, ES, Spain",
+    "placetype":"neighbourhood",
+    "woe:id":20220104,
+    "woe:name":"Ciudad de Asis, Alacant, Valencia, ES, Spain",
+    "woe:place_id":"KBad35ObAZ7M.cVg3w",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-0.513997,38.345116,-0.509169,38.353519],
+  "geometry": {"alpha":1e-05,"bbox":[-0.51399701833725,38.345115661621,-0.5091689825058,38.353519439697],"coordinates":[[[[-0.512816,38.353519],[-0.512194,38.352402],[-0.511153,38.348911],[-0.509169,38.347237],[-0.513997,38.345116],[-0.511153,38.348911],[-0.513997,38.352299],[-0.512816,38.353519]]]],"created":1247891762,"edges":8,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3492/shapefiles/20220104_20090718_9c3cc2bea8.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

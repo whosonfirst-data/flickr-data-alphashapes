@@ -1,0 +1,15 @@
+{
+  "id": 621322,
+  "type": "Feature",
+  "properties": {
+    "name":"Sauveterre, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":621322,
+    "woe:name":"Sauveterre, Aquitaine, France",
+    "woe:place_id":"dYdK46qfA51gH7U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.706363,44.155392,0.709666,44.156834],
+  "geometry": {"alpha":0.00015,"bbox":[0.70636302232742,44.155391693115,0.70966601371765,44.156833648682],"coordinates":[[[[0.706375,44.155392],[0.706369,44.155392],[0.706363,44.155399],[0.709666,44.156834],[0.709666,44.155834],[0.706375,44.155392]]]],"created":1292443622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/621322_20101215_b64d3e435a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

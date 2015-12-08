@@ -1,0 +1,15 @@
+{
+  "id": 770544,
+  "type": "Feature",
+  "properties": {
+    "name":"Portezuelo, Extremadura, Spain",
+    "placetype":"locality",
+    "woe:id":770544,
+    "woe:name":"Portezuelo, Extremadura, Spain",
+    "woe:place_id":"HhYOVhaeBpwZlL8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.476097,39.795017,-6.465711,39.817436],
+  "geometry": {"alpha":0.00015,"bbox":[-6.4760971069336,39.795017242432,-6.4657111167908,39.817436218262],"coordinates":[[[[-6.476097,39.806557],[-6.474702,39.812664],[-6.473264,39.817436],[-6.473865,39.808899],[-6.465711,39.795017],[-6.476097,39.806557]]]],"created":1292447609,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/770544_20101215_ae9cec1af4.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

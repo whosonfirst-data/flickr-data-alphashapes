@@ -1,0 +1,15 @@
+{
+  "id": 2408754,
+  "type": "Feature",
+  "properties": {
+    "name":"Garden City, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2408754,
+    "woe:name":"Garden City, Texas, United States",
+    "woe:place_id":"QfZTUgKbBZyS2XgS",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.4832,31.862833,-101.478889,31.865313],
+  "geometry": {"alpha":0.00015,"bbox":[-101.48320007324,31.862833023071,-101.47888946533,31.865312576294],"coordinates":[[[[-101.480026,31.86338],[-101.48037,31.863342],[-101.4832,31.862833],[-101.481659,31.865313],[-101.478889,31.864309],[-101.480026,31.86338]]]],"created":1292546482,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/2408754_20101217_9c639f7cdf.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

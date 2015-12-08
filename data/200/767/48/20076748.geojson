@@ -1,0 +1,15 @@
+{
+  "id": 20076748,
+  "type": "Feature",
+  "properties": {
+    "name":"Ostellato, Italy",
+    "placetype":"locality",
+    "woe:id":20076748,
+    "woe:name":"Ostellato, Italy",
+    "woe:place_id":"86.ikAmbAZyry.nwfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.966643,44.74094,11.975097,44.745087],
+  "geometry": {"alpha":1e-05,"bbox":[11.966643333435,44.740940093994,11.975096702576,44.745086669922],"coordinates":[[[[11.970119,44.742344],[11.974582,44.745087],[11.975097,44.744293],[11.970462,44.74094],[11.966643,44.742832],[11.970119,44.742344]]]],"created":1292536922,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/20076748_20101216_24082afa87.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

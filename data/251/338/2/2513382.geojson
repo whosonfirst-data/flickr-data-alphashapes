@@ -1,0 +1,15 @@
+{
+  "id": 2513382,
+  "type": "Feature",
+  "properties": {
+    "name":"Waldo, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2513382,
+    "woe:name":"Waldo, Alabama, United States",
+    "woe:place_id":"DOc4xgWbBJ03AO7W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.038162,33.377007,-86.02877,33.393066],
+  "geometry": {"alpha":0.00015,"bbox":[-86.038162231445,33.377006530762,-86.028770446777,33.39306640625],"coordinates":[[[[-86.02877,33.379253],[-86.029533,33.377007],[-86.030312,33.378468],[-86.038162,33.393066],[-86.02877,33.379253]]]],"created":1292537505,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2513382_20101216_db2f4e0dda.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

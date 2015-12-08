@@ -1,0 +1,15 @@
+{
+  "id": 627253,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Vincent, Auvergne, France",
+    "placetype":"locality",
+    "woe:id":627253,
+    "woe:name":"St.-Vincent, Auvergne, France",
+    "woe:place_id":"XBQ9ZRmfA5vfMTE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.119087,45.547478,3.142261,45.550961],
+  "geometry": {"alpha":0.00015,"bbox":[3.1190869808197,45.547477722168,3.1422610282898,45.550960540771],"coordinates":[[[[3.131618,45.550617],[3.142261,45.547478],[3.131661,45.550407],[3.119087,45.550961],[3.131618,45.550617]]]],"created":1229543536,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3103/shapefiles/627253_20081217_2e16fc97aa.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

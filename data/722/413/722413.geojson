@@ -1,0 +1,15 @@
+{
+  "id": 722413,
+  "type": "Feature",
+  "properties": {
+    "name":"San Cesareo, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":722413,
+    "woe:name":"San Cesareo, Lazio, Italy",
+    "woe:place_id":"JQi6rwKeA54e6Tg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.798042,41.80817,12.823448,41.823494],
+  "geometry": {"alpha":0.00015,"bbox":[12.798042297363,41.808170318604,12.823448181152,41.82349395752],"coordinates":[[[[12.800399,41.822559],[12.802376,41.823494],[12.823448,41.818089],[12.812805,41.80817],[12.804855,41.814262],[12.798042,41.818153],[12.800399,41.822559]]]],"created":1292521845,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/722413_20101216_cc5555f021.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

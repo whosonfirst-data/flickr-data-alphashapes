@@ -1,0 +1,15 @@
+{
+  "id": 751832,
+  "type": "Feature",
+  "properties": {
+    "name":"Alcoletge, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":751832,
+    "woe:name":"Alcoletge, Catalonia, Spain",
+    "woe:place_id":"53WHr1aeBJ1D998",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.689907,41.637695,0.699144,41.650749],
+  "geometry": {"alpha":0.00015,"bbox":[0.68990701436996,41.6376953125,0.69914400577545,41.650749206543],"coordinates":[[[[0.692996,41.650749],[0.693737,41.648777],[0.694531,41.646717],[0.699144,41.637695],[0.692524,41.645271],[0.689907,41.650532],[0.692996,41.650749]]]],"created":1248098532,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2461/shapefiles/751832_20090720_5cd0872d5f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

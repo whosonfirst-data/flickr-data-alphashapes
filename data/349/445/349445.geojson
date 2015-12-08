@@ -1,0 +1,15 @@
+{
+  "id": 349445,
+  "type": "Feature",
+  "properties": {
+    "name":"San Juan, Los Lagos Region, Chile",
+    "placetype":"locality",
+    "woe:id":349445,
+    "woe:name":"San Juan, Los Lagos Region, Chile",
+    "woe:place_id":"v7BRJvCaBZWegR0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.517075,-42.334564,-73.5,-42.32251],
+  "geometry": {"alpha":0.00015,"bbox":[-73.517074584961,-42.334564208984,-73.5,-42.322509765625],"coordinates":[[[[-73.503342,-42.330631],[-73.5,-42.333302],[-73.502823,-42.334564],[-73.511406,-42.334248],[-73.514671,-42.329979],[-73.517075,-42.32251],[-73.509521,-42.326187],[-73.503342,-42.330631]]]],"created":1292522765,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/349445_20101216_c35fa0e3b4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

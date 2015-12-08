@@ -1,0 +1,15 @@
+{
+  "id": 12510584,
+  "type": "Feature",
+  "properties": {
+    "name":"Alice Springs Airport, Australia",
+    "placetype":"locality",
+    "woe:id":12510584,
+    "woe:name":"Alice Springs Airport, Australia",
+    "woe:place_id":"_R0BFk.YA5lXBNxcjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [133.90126,-23.802896,133.904449,-23.80109],
+  "geometry": {"alpha":1e-05,"bbox":[133.90126037598,-23.802896499634,133.90444946289,-23.801090240479],"coordinates":[[[[133.902603,-23.802462],[133.90126,-23.80109],[133.901886,-23.801249],[133.904449,-23.801914],[133.903076,-23.802896],[133.902603,-23.802462]]]],"created":1292524506,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12510584_20101216_a62f38a443.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2507502,
+  "type": "Feature",
+  "properties": {
+    "name":"Townsville, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2507502,
+    "woe:name":"Townsville, North Carolina, United States",
+    "woe:place_id":"st3x7fubBJx2fW.F",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.470879,36.534676,-78.456802,36.551361],
+  "geometry": {"alpha":0.00015,"bbox":[-78.470878601074,36.534675598145,-78.456802368164,36.551361083984],"coordinates":[[[[-78.456802,36.539089],[-78.458603,36.534676],[-78.467102,36.540398],[-78.470879,36.551361],[-78.456802,36.539089]]]],"created":1292456814,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2507502_20101215_08604ff318.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

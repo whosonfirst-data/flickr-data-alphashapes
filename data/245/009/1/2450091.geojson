@@ -1,0 +1,15 @@
+{
+  "id": 2450091,
+  "type": "Feature",
+  "properties": {
+    "name":"Miami Shores, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2450091,
+    "woe:name":"Miami Shores, Ohio, United States",
+    "woe:place_id":"wqsK7NSbBZkf2n_x",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.246315,39.685856,-84.229645,39.700344],
+  "geometry": {"alpha":0.00015,"bbox":[-84.246315002441,39.685855865479,-84.229644775391,39.700344085693],"coordinates":[[[[-84.239212,39.700344],[-84.229645,39.696705],[-84.231804,39.694897],[-84.245438,39.685856],[-84.246315,39.686821],[-84.239212,39.700344]]]],"created":1292544367,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/2450091_20101217_e783abbe32.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

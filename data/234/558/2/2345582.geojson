@@ -1,0 +1,15 @@
+{
+  "id": 2345582,
+  "type": "Feature",
+  "properties": {
+    "name":"Faranah, Faranah, Guinea",
+    "placetype":"county",
+    "woe:id":2345582,
+    "woe:name":"Faranah, Faranah, Guinea",
+    "woe:place_id":"rygMHsSbApjW7hew",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-10.772094,9.64542,-10.371093,10.063515],
+  "geometry": {"alpha":0.03,"bbox":[-10.772093772888,9.6454200744629,-10.371092796326,10.063514709473],"coordinates":[[[[-10.535888,9.925565],[-10.371093,9.817329],[-10.55151,9.64542],[-10.535888,9.903921],[-10.772094,10.063515],[-10.535888,9.925565]]]],"created":1239346687,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3349/shapefiles/2345582_20090410_d3c4483a34.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

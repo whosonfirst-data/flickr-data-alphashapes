@@ -1,0 +1,15 @@
+{
+  "id": 23510834,
+  "type": "Feature",
+  "properties": {
+    "name":"Candlewick Lake, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":23510834,
+    "woe:name":"Candlewick Lake, Illinois, United States",
+    "woe:place_id":"dnFziASbApkqXkvU0g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.887131,42.34267,-88.860092,42.355778],
+  "geometry": {"alpha":0.00015,"bbox":[-88.887130737305,42.342670440674,-88.860092163086,42.355777740479],"coordinates":[[[[-88.875832,42.355148],[-88.860092,42.355778],[-88.875938,42.34267],[-88.887131,42.352894],[-88.886627,42.353191],[-88.875832,42.355148]]]],"created":1292549528,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/23510834_20101217_ceb3072eb5.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

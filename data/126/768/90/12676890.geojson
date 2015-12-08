@@ -1,0 +1,15 @@
+{
+  "id": 12676890,
+  "type": "Feature",
+  "properties": {
+    "name":"Porto Tolle, Italy",
+    "placetype":"locality",
+    "woe:id":12676890,
+    "woe:name":"Porto Tolle, Italy",
+    "woe:place_id":"gASpHm6YA5odwRey7Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.463645,44.846252,12.466821,44.850758],
+  "geometry": {"alpha":1e-05,"bbox":[12.463644981384,44.846252441406,12.466820716858,44.850757598877],"coordinates":[[[[12.465877,44.848446],[12.466821,44.850758],[12.466049,44.847897],[12.463645,44.846252],[12.465877,44.848446]]]],"created":1292549822,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12676890_20101217_b28ca98624.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

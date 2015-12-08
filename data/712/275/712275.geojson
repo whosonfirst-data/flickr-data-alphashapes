@@ -1,0 +1,15 @@
+{
+  "id": 712275,
+  "type": "Feature",
+  "properties": {
+    "name":"Carinola, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":712275,
+    "woe:name":"Carinola, Campania, Italy",
+    "woe:place_id":"9a.lZKWeAJ6p8b4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.963376,41.188053,13.97787,41.192638],
+  "geometry": {"alpha":0.00015,"bbox":[13.963376045227,41.188053131104,13.977869987488,41.192638397217],"coordinates":[[[[13.976991,41.189152],[13.97787,41.188354],[13.976175,41.188053],[13.963467,41.1894],[13.963376,41.190441],[13.970317,41.192638],[13.976991,41.189152]]]],"created":1292538485,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/712275_20101216_d938794b0c.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

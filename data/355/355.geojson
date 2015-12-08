@@ -1,0 +1,15 @@
+{
+  "id": 355,
+  "type": "Feature",
+  "properties": {
+    "name":"Crystal Falls, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":355,
+    "woe:name":"Crystal Falls, Ontario, Canada",
+    "woe:place_id":"ykvMLhSaBJk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.901161,46.461823,-79.892921,46.464703],
+  "geometry": {"alpha":0.00015,"bbox":[-79.901161193848,46.461822509766,-79.892921447754,46.464702606201],"coordinates":[[[[-79.899338,46.461823],[-79.899834,46.462101],[-79.901161,46.463047],[-79.892921,46.464703],[-79.899338,46.461823]]]],"created":1234690212,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3560/shapefiles/355_20090215_f4abf8e920.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 461685,
+  "type": "Feature",
+  "properties": {
+    "name":"Vista Alegre, Rio Grande do Sul, Brazil",
+    "placetype":"locality",
+    "woe:id":461685,
+    "woe:name":"Vista Alegre, Rio Grande do Sul, Brazil",
+    "woe:place_id":"i9gahSudB50pKSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.49778,-27.378889,-53.483055,-27.369722],
+  "geometry": {"alpha":0.00015,"bbox":[-53.497779846191,-27.378889083862,-53.483055114746,-27.369722366333],"coordinates":[[[[-53.4925,-27.369722],[-53.484444,-27.376389],[-53.483055,-27.378889],[-53.49778,-27.372499],[-53.493332,-27.370277],[-53.4925,-27.369722]]]],"created":1292404082,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/461685_20101215_38594e743a.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

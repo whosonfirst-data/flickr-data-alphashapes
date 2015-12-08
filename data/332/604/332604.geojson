@@ -1,0 +1,15 @@
+{
+  "id": 332604,
+  "type": "Feature",
+  "properties": {
+    "name":"La Paz, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":332604,
+    "woe:name":"La Paz, Cordoba, Argentina",
+    "woe:place_id":"a4X3BH2aAp4n24k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-65.045753,-32.232407,-65.034599,-32.221588],
+  "geometry": {"alpha":0.00015,"bbox":[-65.045753479004,-32.232406616211,-65.034599304199,-32.221588134766],"coordinates":[[[[-65.045753,-32.226452],[-65.043694,-32.221588],[-65.034599,-32.231533],[-65.037514,-32.232407],[-65.045753,-32.226452]]]],"created":1292535118,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/332604_20101216_4d71b36e62.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

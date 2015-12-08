@@ -1,0 +1,15 @@
+{
+  "id": 2418524,
+  "type": "Feature",
+  "properties": {
+    "name":"Haskell, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2418524,
+    "woe:name":"Haskell, Oklahoma, United States",
+    "woe:place_id":"O_SLV.WbBZ04x3kh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.686371,35.811626,-95.669518,35.830624],
+  "geometry": {"alpha":0.00015,"bbox":[-95.686370849609,35.811626434326,-95.66951751709,35.830623626709],"coordinates":[[[[-95.672935,35.819172],[-95.675186,35.811626],[-95.686371,35.822128],[-95.676971,35.823521],[-95.669518,35.830624],[-95.672935,35.819172]]]],"created":1292525561,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2418524_20101216_55815e085d.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

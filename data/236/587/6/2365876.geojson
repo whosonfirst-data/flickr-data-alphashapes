@@ -1,0 +1,15 @@
+{
+  "id": 2365876,
+  "type": "Feature",
+  "properties": {
+    "name":"Blue Ridge Acres, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2365876,
+    "woe:name":"Blue Ridge Acres, Virginia, United States",
+    "woe:place_id":"voOFzR2bApoNXKGD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.802101,38.029228,-78.790512,38.044914],
+  "geometry": {"alpha":0.00015,"bbox":[-78.802101135254,38.029228210449,-78.790512084961,38.044914245605],"coordinates":[[[[-78.791824,38.044914],[-78.790512,38.042343],[-78.802101,38.029228],[-78.792831,38.044518],[-78.791824,38.044914]]]],"created":1234518846,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3307/shapefiles/2365876_20090213_fcd9d9ae69.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

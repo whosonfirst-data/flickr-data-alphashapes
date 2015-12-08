@@ -1,0 +1,15 @@
+{
+  "id": 714071,
+  "type": "Feature",
+  "properties": {
+    "name":"Cicerale, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":714071,
+    "woe:name":"Cicerale, Campania, Italy",
+    "woe:place_id":"Pk4fwTSeAJgYeMA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.110063,40.339085,15.136263,40.350224],
+  "geometry": {"alpha":0.00015,"bbox":[15.110062599182,40.339084625244,15.136262893677,40.35022354126],"coordinates":[[[[15.127283,40.345928],[15.133538,40.350224],[15.136263,40.339085],[15.131987,40.342121],[15.126307,40.344059],[15.110063,40.350075],[15.127283,40.345928]]]],"created":1292542514,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/714071_20101216_359c8701d5.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

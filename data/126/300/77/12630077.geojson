@@ -1,0 +1,15 @@
+{
+  "id": 12630077,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Lembruch, Germany",
+    "placetype":"locality",
+    "woe:id":12630077,
+    "woe:name":"Gemeinde Lembruch, Germany",
+    "woe:place_id":"LotnUq2YA5pMVotmpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.358449,52.52322,8.358879,52.525307],
+  "geometry": {"alpha":1e-05,"bbox":[8.3584489822388,52.523220062256,8.3588790893555,52.52530670166],"coordinates":[[[[8.358879,52.52322],[8.358836,52.523232],[8.358836,52.523258],[8.358449,52.525307],[8.358879,52.523247],[8.358879,52.52322]]]],"created":1292529250,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/12630077_20101216_1d69400b5a.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

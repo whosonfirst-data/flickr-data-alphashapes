@@ -1,0 +1,15 @@
+{
+  "id": 2389651,
+  "type": "Feature",
+  "properties": {
+    "name":"Davis Beach, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2389651,
+    "woe:name":"Davis Beach, Florida, United States",
+    "woe:place_id":"Mnkf9YSbApRE3iXk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.469513,29.954849,-85.4487,29.958206],
+  "geometry": {"alpha":0.00015,"bbox":[-85.469512939453,29.954849243164,-85.448699951172,29.958206176758],"coordinates":[[[[-85.458183,29.958206],[-85.4487,29.954849],[-85.456635,29.956718],[-85.459686,29.956718],[-85.469513,29.957129],[-85.458183,29.958206]]]],"created":1292541889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2389651_20101216_f93e0b40d8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

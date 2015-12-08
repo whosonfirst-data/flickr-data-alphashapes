@@ -1,0 +1,15 @@
+{
+  "id": 531870,
+  "type": "Feature",
+  "properties": {
+    "name":"Temnica, Nova Gorica, Slovenia",
+    "placetype":"locality",
+    "woe:id":531870,
+    "woe:name":"Temnica, Nova Gorica, Slovenia",
+    "woe:place_id":"w4m8x8qcAp1ykKg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.674207,45.843746,13.680322,45.847462],
+  "geometry": {"alpha":0.00015,"bbox":[13.674206733704,45.843746185303,13.68032169342,45.847461700439],"coordinates":[[[[13.675746,45.844467],[13.675054,45.843746],[13.674207,45.844891],[13.675285,45.845684],[13.677206,45.847038],[13.680322,45.847462],[13.675746,45.844467]]]],"created":1292522666,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/531870_20101216_6997382994.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

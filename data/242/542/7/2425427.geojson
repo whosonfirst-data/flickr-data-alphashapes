@@ -1,0 +1,15 @@
+{
+  "id": 2425427,
+  "type": "Feature",
+  "properties": {
+    "name":"Hugoton, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2425427,
+    "woe:name":"Hugoton, Kansas, United States",
+    "woe:place_id":"8Lb9AK.bBZ4pNxb_",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-101.355354,37.163395,-101.345718,37.179684],
+  "geometry": {"alpha":0.00015,"bbox":[-101.35535430908,37.163394927979,-101.34571838379,37.179683685303],"coordinates":[[[[-101.34845,37.179684],[-101.345718,37.177738],[-101.352997,37.163395],[-101.355354,37.169697],[-101.34967,37.177757],[-101.34845,37.179684]]]],"created":1239518537,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3315/shapefiles/2425427_20090412_771b7e416f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

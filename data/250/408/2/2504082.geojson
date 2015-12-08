@@ -1,0 +1,15 @@
+{
+  "id": 2504082,
+  "type": "Feature",
+  "properties": {
+    "name":"Tara, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2504082,
+    "woe:name":"Tara, Maryland, United States",
+    "woe:place_id":"iVz5YNKbBJyM0K.5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.791565,39.694954,-75.768326,39.710949],
+  "geometry": {"alpha":0.00015,"bbox":[-75.791564941406,39.694953918457,-75.768325805664,39.710948944092],"coordinates":[[[[-75.77639,39.709721],[-75.768326,39.710949],[-75.775787,39.70583],[-75.787735,39.694954],[-75.791565,39.701447],[-75.77639,39.709721]]]],"created":1292549509,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/2504082_20101217_bc3dd7e1ba.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

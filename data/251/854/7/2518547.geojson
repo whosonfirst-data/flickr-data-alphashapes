@@ -1,0 +1,15 @@
+{
+  "id": 2518547,
+  "type": "Feature",
+  "properties": {
+    "name":"Westtown, New York, United States",
+    "placetype":"locality",
+    "woe:id":2518547,
+    "woe:name":"Westtown, New York, United States",
+    "woe:place_id":"UfQsNuWbBJ2UWWO8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.545761,41.334599,-74.538155,41.3452],
+  "geometry": {"alpha":0.00015,"bbox":[-74.545761108398,41.33459854126,-74.538154602051,41.345199584961],"coordinates":[[[[-74.539024,41.335785],[-74.542732,41.334599],[-74.545761,41.3452],[-74.538155,41.339039],[-74.539024,41.335785]]]],"created":1292470383,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2518547_20101216_de772c901b.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

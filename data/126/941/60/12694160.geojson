@@ -1,0 +1,15 @@
+{
+  "id": 12694160,
+  "type": "Feature",
+  "properties": {
+    "name":"Batea, Spain",
+    "placetype":"locality",
+    "woe:id":12694160,
+    "woe:name":"Batea, Spain",
+    "woe:place_id":"OBC0a2iYA5oWw.h2_g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.311501,41.094276,0.311715,41.09444],
+  "geometry": {"alpha":1e-05,"bbox":[0.31150099635124,41.094276428223,0.31171500682831,41.094440460205],"coordinates":[[[[0.311672,41.094353],[0.311715,41.094288],[0.311715,41.094276],[0.311608,41.094276],[0.311501,41.094326],[0.311543,41.09444],[0.311672,41.094353]]]],"created":1292520179,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12694160_20101216_d5d3654bcf.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

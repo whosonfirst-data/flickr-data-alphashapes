@@ -1,0 +1,15 @@
+{
+  "id": 2512637,
+  "type": "Feature",
+  "properties": {
+    "name":"Virginia City, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2512637,
+    "woe:name":"Virginia City, New Mexico, United States",
+    "woe:place_id":"TxaVYy.bBJ1SCbz3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.224747,36.536392,-105.210526,36.539845],
+  "geometry": {"alpha":0.00015,"bbox":[-105.2247467041,36.536392211914,-105.2105255127,36.539844512939],"coordinates":[[[[-105.210526,36.539845],[-105.21833,36.538185],[-105.224747,36.536392],[-105.217072,36.539742],[-105.210526,36.539845]]]],"created":1248042855,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2654/shapefiles/2512637_20090719_69001abe5d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

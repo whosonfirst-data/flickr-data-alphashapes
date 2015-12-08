@@ -1,0 +1,15 @@
+{
+  "id": 2407125,
+  "type": "Feature",
+  "properties": {
+    "name":"Fred, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2407125,
+    "woe:name":"Fred, Texas, United States",
+    "woe:place_id":"xjt_8XibBZxmfSm8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.180298,30.554167,-94.177002,30.562555],
+  "geometry": {"alpha":0.00015,"bbox":[-94.180297851562,30.554166793823,-94.177001953125,30.56255531311],"coordinates":[[[[-94.180298,30.562555],[-94.177002,30.554167],[-94.17717,30.554167],[-94.179832,30.554667],[-94.180298,30.562555]]]],"created":1292454304,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2407125_20101215_d3cb122d16.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

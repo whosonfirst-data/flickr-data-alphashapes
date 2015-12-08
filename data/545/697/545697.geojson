@@ -1,0 +1,15 @@
+{
+  "id": 545697,
+  "type": "Feature",
+  "properties": {
+    "name":"Kronstorf, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":545697,
+    "woe:name":"Kronstorf, Upper Austria, Austria",
+    "woe:place_id":"XvFaEq6cBZkrYWE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.460089,48.135052,14.474154,48.148666],
+  "geometry": {"alpha":0.00015,"bbox":[14.460088729858,48.135051727295,14.474154472351,48.148666381836],"coordinates":[[[[14.460089,48.14069],[14.460089,48.140804],[14.463333,48.148666],[14.474154,48.140358],[14.473114,48.139156],[14.468836,48.135052],[14.460089,48.14069]]]],"created":1292534467,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/545697_20101216_8e2edbcf34.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

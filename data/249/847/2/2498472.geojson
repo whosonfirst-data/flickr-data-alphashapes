@@ -1,0 +1,15 @@
+{
+  "id": 2498472,
+  "type": "Feature",
+  "properties": {
+    "name":"Springtown, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2498472,
+    "woe:name":"Springtown, Pennsylvania, United States",
+    "woe:place_id":"A3MYrUmbBZXUyUYB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.313599,40.137775,-75.305527,40.142509],
+  "geometry": {"alpha":0.00015,"bbox":[-75.313598632812,40.137775421143,-75.305526733398,40.142509460449],"coordinates":[[[[-75.31218,40.138203],[-75.313599,40.137775],[-75.312698,40.142509],[-75.307632,40.13966],[-75.305527,40.138168],[-75.31218,40.138203]]]],"created":1292545721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2498472_20101217_2da0954c7c.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

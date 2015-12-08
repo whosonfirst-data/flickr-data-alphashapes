@@ -1,0 +1,15 @@
+{
+  "id": 20211200,
+  "type": "Feature",
+  "properties": {
+    "name":"La Clusaz, Rhone-Alpes, France",
+    "placetype":"locality",
+    "woe:id":20211200,
+    "woe:name":"La Clusaz, Rhone-Alpes, France",
+    "woe:place_id":"mb2EAA.bAZ6awNREVQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.533088,46.224205,6.5527,46.232769],
+  "geometry": {"alpha":0.00015,"bbox":[6.5330882072449,46.22420501709,6.5527000427246,46.232769012451],"coordinates":[[[[6.537208,46.2286],[6.550469,46.232769],[6.5527,46.232147],[6.537455,46.224205],[6.536216,46.226143],[6.533088,46.229557],[6.537208,46.2286]]]],"created":1292527301,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/20211200_20101216_be0df44ff7.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

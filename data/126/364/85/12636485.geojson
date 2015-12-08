@@ -1,0 +1,15 @@
+{
+  "id": 12636485,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Pretzschendorf, Germany",
+    "placetype":"locality",
+    "woe:id":12636485,
+    "woe:name":"Gemeinde Pretzschendorf, Germany",
+    "woe:place_id":"r.Ndju2YA5ozPPi72g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.531937,50.902706,13.533825,50.90601],
+  "geometry": {"alpha":1e-05,"bbox":[13.531936645508,50.90270614624,13.533824920654,50.906009674072],"coordinates":[[[[13.532967,50.902706],[13.532302,50.903282],[13.531937,50.90601],[13.532946,50.905613],[13.533825,50.90337],[13.532967,50.902706]]]],"created":1292537638,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12636485_20101216_2552dbcb25.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

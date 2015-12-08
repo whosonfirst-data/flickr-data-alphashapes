@@ -1,0 +1,15 @@
+{
+  "id": 12678001,
+  "type": "Feature",
+  "properties": {
+    "name":"Uggiano la Chiesa, Italy",
+    "placetype":"locality",
+    "woe:id":12678001,
+    "woe:name":"Uggiano la Chiesa, Italy",
+    "woe:place_id":"fy3mTsmYA5qtrCDJLQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.48234,40.080765,18.485355,40.083061],
+  "geometry": {"alpha":1e-05,"bbox":[18.482339859009,40.080764770508,18.485355377197,40.083061218262],"coordinates":[[[[18.483944,40.081554],[18.482952,40.080765],[18.48234,40.081451],[18.48278,40.083061],[18.485355,40.08234],[18.483944,40.081554]]]],"created":1292542286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12678001_20101216_ce3ff759c3.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

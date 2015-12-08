@@ -1,0 +1,15 @@
+{
+  "id": 280,
+  "type": "Feature",
+  "properties": {
+    "name":"Chesley, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":280,
+    "woe:name":"Chesley, Ontario, Canada",
+    "woe:place_id":"2k3MIM6bCZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.103394,44.276546,-81.07206,44.321758],
+  "geometry": {"alpha":0.00015,"bbox":[-81.103393554688,44.276546478271,-81.072059631348,44.321758270264],"coordinates":[[[[-81.075386,44.305424],[-81.077751,44.287128],[-81.07206,44.276546],[-81.09185,44.286385],[-81.092247,44.287651],[-81.103394,44.298115],[-81.099449,44.311779],[-81.093521,44.321758],[-81.076958,44.306404],[-81.075386,44.305424]]]],"created":1292535665,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/280_20101216_ecd8a4228f.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

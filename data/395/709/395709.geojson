@@ -1,0 +1,15 @@
+{
+  "id": 395709,
+  "type": "Feature",
+  "properties": {
+    "name":"Piedras Negras, Falcon, Venezuela",
+    "placetype":"locality",
+    "woe:id":395709,
+    "woe:name":"Piedras Negras, Falcon, Venezuela",
+    "woe:place_id":"4fHC_duaCJk9_ag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-69.906693,12.105123,-69.888496,12.124833],
+  "geometry": {"alpha":0.00015,"bbox":[-69.906692504883,12.105122566223,-69.888496398926,12.124833106995],"coordinates":[[[[-69.906693,12.122287],[-69.901886,12.122578],[-69.888496,12.124833],[-69.894844,12.105123],[-69.897766,12.116536],[-69.906693,12.122287]]]],"created":1292403723,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/395709_20101215_7ddab35ce9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

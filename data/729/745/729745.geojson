@@ -1,0 +1,15 @@
+{
+  "id": 729745,
+  "type": "Feature",
+  "properties": {
+    "name":"Harpel, Groningen, Netherlands",
+    "placetype":"locality",
+    "woe:id":729745,
+    "woe:name":"Harpel, Groningen, Netherlands",
+    "woe:place_id":"NjuFWFOeA5Wy32o",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.080452,52.998669,7.089958,53.011673],
+  "geometry": {"alpha":0.00015,"bbox":[7.080451965332,52.998668670654,7.089958190918,53.011672973633],"coordinates":[[[[7.081418,53.005615],[7.080452,53.011673],[7.088069,53.007668],[7.089958,52.998669],[7.084422,53.003281],[7.081418,53.005615]]]],"created":1292547996,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/729745_20101217_c9c888b222.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

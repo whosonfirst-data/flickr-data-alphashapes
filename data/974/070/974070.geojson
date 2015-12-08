@@ -1,0 +1,15 @@
+{
+  "id": 974070,
+  "type": "Feature",
+  "properties": {
+    "name":"Mazy, Namur, Belgium",
+    "placetype":"locality",
+    "woe:id":974070,
+    "woe:name":"Mazy, Namur, Belgium",
+    "woe:place_id":"pe8DjuaQBpiWk1E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.658889,50.492619,4.688413,50.510078],
+  "geometry": {"alpha":0.00015,"bbox":[4.6588888168335,50.492618560791,4.688413143158,50.510078430176],"coordinates":[[[[4.669775,50.497635],[4.658889,50.492901],[4.669838,50.498695],[4.675936,50.510078],[4.676069,50.509918],[4.688413,50.492619],[4.669775,50.497635]]]],"created":1292493001,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/974070_20101216_2e1b8aac38.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

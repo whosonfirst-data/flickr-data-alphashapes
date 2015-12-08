@@ -1,0 +1,15 @@
+{
+  "id": 12636988,
+  "type": "Feature",
+  "properties": {
+    "name":"Ambert, France",
+    "placetype":"locality",
+    "woe:id":12636988,
+    "woe:name":"Ambert, France",
+    "woe:place_id":"SRL69JuYA5qrs2iGag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.739128,45.549038,3.741874,45.551201],
+  "geometry": {"alpha":1e-05,"bbox":[3.739128112793,45.54903793335,3.7418739795685,45.551200866699],"coordinates":[[[[3.740501,45.551201],[3.741874,45.55024],[3.740501,45.549038],[3.739128,45.550301],[3.740501,45.551201]]]],"created":1292452083,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12636988_20101215_4a7ffff62b.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

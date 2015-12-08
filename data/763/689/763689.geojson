@@ -1,0 +1,15 @@
+{
+  "id": 763689,
+  "type": "Feature",
+  "properties": {
+    "name":"La Merca, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":763689,
+    "woe:name":"La Merca, Galicia, Spain",
+    "woe:place_id":"O2iGc_OeB5.61TY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.910585,42.218697,-7.888526,42.230804],
+  "geometry": {"alpha":0.00015,"bbox":[-7.9105849266052,42.218696594238,-7.8885259628296,42.230804443359],"coordinates":[[[[-7.908353,42.218697],[-7.910585,42.230553],[-7.899084,42.230804],[-7.888526,42.222351],[-7.904663,42.221653],[-7.908353,42.218697]]]],"created":1292523065,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/763689_20101216_d96fd26445.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

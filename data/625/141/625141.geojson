@@ -1,0 +1,15 @@
+{
+  "id": 625141,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Laurent, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":625141,
+    "woe:name":"St-Laurent, Pays de la Loire, France",
+    "woe:place_id":"2BGUuNmfA5nYptA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.205,47.288502,-1.201833,47.289501],
+  "geometry": {"alpha":0.00015,"bbox":[-1.2050000429153,47.288501739502,-1.2018330097198,47.289501190186],"coordinates":[[[[-1.203,47.289001],[-1.205,47.288502],[-1.203,47.289165],[-1.201833,47.289501],[-1.202,47.289333],[-1.203,47.289001]]]],"created":1292455916,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/625141_20101215_7b5fb4d5d0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

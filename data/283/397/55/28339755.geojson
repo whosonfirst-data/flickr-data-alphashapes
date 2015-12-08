@@ -1,0 +1,15 @@
+{
+  "id": 28339755,
+  "type": "Feature",
+  "properties": {
+    "name":"Radisson, New York, United States",
+    "placetype":"locality",
+    "woe:id":28339755,
+    "woe:name":"Radisson, New York, United States",
+    "woe:place_id":"UQNFpX2bCZ.19BZZhg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.351204,43.156303,-76.327728,43.169685],
+  "geometry": {"alpha":0.00015,"bbox":[-76.351203918457,43.156303405762,-76.327728271484,43.16968536377],"coordinates":[[[[-76.327728,43.159908],[-76.332687,43.156303],[-76.351204,43.169685],[-76.331398,43.16013],[-76.327728,43.159908]]]],"created":1292529541,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/28339755_20101216_73057028ee.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

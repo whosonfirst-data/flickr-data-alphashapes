@@ -1,0 +1,15 @@
+{
+  "id": 551101,
+  "type": "Feature",
+  "properties": {
+    "name":"Ranalt, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":551101,
+    "woe:name":"Ranalt, Tyrol, Austria",
+    "woe:place_id":"c5TlKqacBJ2sNtw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.211805,47.011513,11.227169,47.039364],
+  "geometry": {"alpha":0.00015,"bbox":[11.211805343628,47.011512756348,11.227169036865,47.039363861084],"coordinates":[[[[11.222877,47.03281],[11.227169,47.011513],[11.211805,47.023216],[11.2191,47.034683],[11.224079,47.039364],[11.224594,47.036964],[11.222877,47.03281]]]],"created":1292532618,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/551101_20101216_d352ec379f.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

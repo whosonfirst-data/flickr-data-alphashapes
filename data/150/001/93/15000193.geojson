@@ -1,0 +1,15 @@
+{
+  "id": 15000193,
+  "type": "Feature",
+  "properties": {
+    "name":"Cerbara, Umbria, Italy",
+    "placetype":"locality",
+    "woe:id":15000193,
+    "woe:name":"Cerbara, Umbria, Italy",
+    "woe:place_id":"ouIz.weYBJwVTZE..A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.201347,43.493198,12.216721,43.505669],
+  "geometry": {"alpha":0.00015,"bbox":[12.201347351074,43.493198394775,12.216720581055,43.505668640137],"coordinates":[[[[12.201347,43.505669],[12.208364,43.505619],[12.216721,43.493198],[12.205272,43.494801],[12.204437,43.500504],[12.201347,43.505669]]]],"created":1292530117,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/15000193_20101216_ac12474c4c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

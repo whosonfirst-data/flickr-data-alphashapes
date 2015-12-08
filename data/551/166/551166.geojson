@@ -1,0 +1,15 @@
+{
+  "id": 551166,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Leonhard, Tyrol, Austria",
+    "placetype":"locality",
+    "woe:id":551166,
+    "woe:name":"St. Leonhard, Tyrol, Austria",
+    "woe:place_id":"J7.pwpScBJ20.fw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.356615,46.914303,12.359619,46.915974],
+  "geometry": {"alpha":0.00015,"bbox":[12.356615066528,46.914302825928,12.359619140625,46.91597366333],"coordinates":[[[[12.359447,46.915974],[12.359619,46.915329],[12.356615,46.914303],[12.357816,46.915302],[12.359447,46.915974]]]],"created":1292405405,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/551166_20101215_44979af69e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

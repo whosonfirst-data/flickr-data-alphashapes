@@ -1,0 +1,15 @@
+{
+  "id": 12602720,
+  "type": "Feature",
+  "properties": {
+    "name":"Zingem, Belgium",
+    "placetype":"locality",
+    "woe:id":12602720,
+    "woe:name":"Zingem, Belgium",
+    "woe:place_id":"jzSIAFiYA5qa7JeDQA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.626219,50.930401,3.628671,50.932491],
+  "geometry": {"alpha":1e-05,"bbox":[3.6262190341949,50.930400848389,3.6286709308624,50.93249130249],"coordinates":[[[[3.628092,50.930973],[3.627866,50.930401],[3.626219,50.930733],[3.628671,50.932491],[3.628318,50.931545],[3.628092,50.930973]]]],"created":1234746972,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3588/shapefiles/12602720_20090216_451cca5b3b.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

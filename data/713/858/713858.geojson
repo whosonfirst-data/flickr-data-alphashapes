@@ -1,0 +1,15 @@
+{
+  "id": 713858,
+  "type": "Feature",
+  "properties": {
+    "name":"Cervinara, Campania, Italy",
+    "placetype":"locality",
+    "woe:id":713858,
+    "woe:name":"Cervinara, Campania, Italy",
+    "woe:place_id":"yYQi5eSeAJ_lxow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.607696,41.008919,14.618918,41.027054],
+  "geometry": {"alpha":0.00015,"bbox":[14.607695579529,41.008918762207,14.618918418884,41.027053833008],"coordinates":[[[[14.608919,41.022163],[14.607868,41.024075],[14.607696,41.027054],[14.609069,41.027054],[14.618918,41.018173],[14.611816,41.008919],[14.608919,41.022163]]]],"created":1292547287,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/713858_20101217_dc6d2957b8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

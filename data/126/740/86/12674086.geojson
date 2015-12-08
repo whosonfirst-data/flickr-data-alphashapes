@@ -1,0 +1,15 @@
+{
+  "id": 12674086,
+  "type": "Feature",
+  "properties": {
+    "name":"Tullnerbach, Austria",
+    "placetype":"locality",
+    "woe:id":12674086,
+    "woe:name":"Tullnerbach, Austria",
+    "woe:place_id":"i5YtPPaYA5oALmB9zw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.082064,48.218437,16.08555,48.219296],
+  "geometry": {"alpha":1e-05,"bbox":[16.082063674927,48.218437194824,16.085550308228,48.219295501709],"coordinates":[[[[16.082911,48.218437],[16.082064,48.218613],[16.082884,48.218704],[16.083363,48.218712],[16.08555,48.219296],[16.085068,48.218624],[16.082911,48.218437]]]],"created":1248315013,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2676/shapefiles/12674086_20090723_2541c6ce19.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

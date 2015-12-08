@@ -1,0 +1,15 @@
+{
+  "id": 2402290,
+  "type": "Feature",
+  "properties": {
+    "name":"Fargo, Oklahoma, United States",
+    "placetype":"locality",
+    "woe:id":2402290,
+    "woe:name":"Fargo, Oklahoma, United States",
+    "woe:place_id":"wR6t3DubBZxIQF4l",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.625053,36.373699,-99.622131,36.379002],
+  "geometry": {"alpha":0.00015,"bbox":[-99.625053405762,36.373699188232,-99.622131347656,36.379001617432],"coordinates":[[[[-99.622131,36.378551],[-99.623291,36.373699],[-99.623764,36.376022],[-99.625053,36.379002],[-99.622131,36.378551]]]],"created":1292519896,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2402290_20101216_65f15329ca.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 973820,
+  "type": "Feature",
+  "properties": {
+    "name":"Maboge, Luxemburg, Belgium",
+    "placetype":"locality",
+    "woe:id":973820,
+    "woe:name":"Maboge, Luxemburg, Belgium",
+    "woe:place_id":"Q_Mp5TCQBp9Nlv8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.625686,50.157543,5.630166,50.169861],
+  "geometry": {"alpha":0.00015,"bbox":[5.6256861686707,50.157543182373,5.630166053772,50.169860839844],"coordinates":[[[[5.625833,50.167332],[5.626,50.167667],[5.628261,50.169861],[5.630166,50.169666],[5.628776,50.163155],[5.625686,50.157543],[5.625833,50.167332]]]],"created":1292454761,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5283/shapefiles/973820_20101215_07acc7a312.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

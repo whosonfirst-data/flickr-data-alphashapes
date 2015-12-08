@@ -1,0 +1,15 @@
+{
+  "id": 20228588,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Marina, La Rioja, Spain",
+    "placetype":"locality",
+    "woe:id":20228588,
+    "woe:name":"Santa Marina, La Rioja, Spain",
+    "woe:place_id":"JWFKaqubAZ55ybqyjQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.359356,42.245483,-2.35815,42.246387],
+  "geometry": {"alpha":0.00015,"bbox":[-2.3593559265137,42.245483398438,-2.3581500053406,42.246387481689],"coordinates":[[[[-2.358713,42.246025],[-2.35815,42.245579],[-2.358155,42.245506],[-2.358798,42.245483],[-2.359356,42.246387],[-2.358713,42.246025]]]],"created":1292520226,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20228588_20101216_9e99922dbc.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

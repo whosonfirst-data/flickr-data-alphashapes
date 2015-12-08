@@ -1,0 +1,15 @@
+{
+  "id": 2400035,
+  "type": "Feature",
+  "properties": {
+    "name":"Ericsburg, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2400035,
+    "woe:name":"Ericsburg, Minnesota, United States",
+    "woe:place_id":"KkqqhSKbBZy9uCkG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.372803,48.493801,-93.360184,48.51228],
+  "geometry": {"alpha":0.00015,"bbox":[-93.372802734375,48.493801116943,-93.36018371582,48.512279510498],"coordinates":[[[[-93.372208,48.512192],[-93.372093,48.51228],[-93.371689,48.510719],[-93.360184,48.493801],[-93.372803,48.51001],[-93.372208,48.512192]]]],"created":1292440624,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2400035_20101215_c37fbff984.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

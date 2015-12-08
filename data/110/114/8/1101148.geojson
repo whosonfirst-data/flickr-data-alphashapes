@@ -1,0 +1,15 @@
+{
+  "id": 1101148,
+  "type": "Feature",
+  "properties": {
+    "name":"Churchill, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":1101148,
+    "woe:name":"Churchill, Victoria, Australia",
+    "woe:place_id":"18K80NWYAJx4nZy.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.411087,-38.313999,146.422501,-38.296658],
+  "geometry": {"alpha":0.00015,"bbox":[146.41108703613,-38.313999176025,146.42250061035,-38.296657562256],"coordinates":[[[[146.420288,-38.305565],[146.420746,-38.307369],[146.422501,-38.313999],[146.411087,-38.310909],[146.41188,-38.304756],[146.411926,-38.30212],[146.415482,-38.296658],[146.420288,-38.305565]]]],"created":1292456349,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/1101148_20101215_9b6cd98f5f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

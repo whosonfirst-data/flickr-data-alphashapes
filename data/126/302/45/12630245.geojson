@@ -1,0 +1,15 @@
+{
+  "id": 12630245,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Sandbostel, Germany",
+    "placetype":"locality",
+    "woe:id":12630245,
+    "woe:name":"Gemeinde Sandbostel, Germany",
+    "woe:place_id":"0gu5msaYA5qAJeU7LQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.107451,53.399868,9.110766,53.401154],
+  "geometry": {"alpha":1e-05,"bbox":[9.1074514389038,53.399868011475,9.1107664108276,53.401153564453],"coordinates":[[[[9.109114,53.399879],[9.107451,53.400227],[9.107537,53.401154],[9.109318,53.400791],[9.110766,53.399868],[9.109114,53.399879]]]],"created":1292530064,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12630245_20101216_6b9f5eec99.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

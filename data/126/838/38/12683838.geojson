@@ -1,0 +1,15 @@
+{
+  "id": 12683838,
+  "type": "Feature",
+  "properties": {
+    "name":"Laufen, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683838,
+    "woe:name":"Laufen, Switzerland",
+    "woe:place_id":"zduw4VSYA5phKTFh5A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.497482,47.420158,7.500636,47.424255],
+  "geometry": {"alpha":1e-05,"bbox":[7.4974818229675,47.42015838623,7.500636100769,47.424255371094],"coordinates":[[[[7.500636,47.42157],[7.500593,47.420864],[7.500529,47.420753],[7.499971,47.420158],[7.497482,47.424255],[7.500529,47.422253],[7.500636,47.42157]]]],"created":1292479626,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/12683838_20101216_f3d9e1ceae.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

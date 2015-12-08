@@ -1,0 +1,15 @@
+{
+  "id": 2373624,
+  "type": "Feature",
+  "properties": {
+    "name":"Camden, Alabama, United States",
+    "placetype":"locality",
+    "woe:id":2373624,
+    "woe:name":"Camden, Alabama, United States",
+    "woe:place_id":"7aQXjRqbApucPI6R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.312172,31.991035,-87.288353,32.004818],
+  "geometry": {"alpha":0.00015,"bbox":[-87.312171936035,31.991035461426,-87.288352966309,32.004817962646],"coordinates":[[[[-87.289284,31.991035],[-87.289757,31.991362],[-87.294121,31.994656],[-87.312172,32.004818],[-87.29361,31.995829],[-87.290489,31.993],[-87.288696,31.991917],[-87.288666,31.991844],[-87.288353,31.991089],[-87.289284,31.991035]]]],"created":1292548268,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5244/shapefiles/2373624_20101217_ffe6d5430c.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

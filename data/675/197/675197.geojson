@@ -1,0 +1,15 @@
+{
+  "id": 675197,
+  "type": "Feature",
+  "properties": {
+    "name":"Michldorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":675197,
+    "woe:name":"Michldorf, Bavaria, Germany",
+    "woe:place_id":"cU_cbIufBplTJwo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.239348,49.608276,12.244563,49.610374],
+  "geometry": {"alpha":0.00015,"bbox":[12.23934841156,49.608276367188,12.244563102722,49.610374450684],"coordinates":[[[[12.240163,49.608276],[12.239348,49.609764],[12.244563,49.610374],[12.244541,49.610352],[12.240163,49.608276]]]],"created":1292362081,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/675197_20101214_22ed154584.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

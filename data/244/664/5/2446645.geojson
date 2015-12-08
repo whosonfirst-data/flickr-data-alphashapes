@@ -1,0 +1,15 @@
+{
+  "id": 2446645,
+  "type": "Feature",
+  "properties": {
+    "name":"Mason, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2446645,
+    "woe:name":"Mason, Tennessee, United States",
+    "woe:place_id":"jUw.oxSbBZj8NavP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.540733,35.409184,-89.534882,35.419392],
+  "geometry": {"alpha":0.00015,"bbox":[-89.540733337402,35.409183502197,-89.534881591797,35.41939163208],"coordinates":[[[[-89.540115,35.409515],[-89.540733,35.409184],[-89.539948,35.417873],[-89.539726,35.41917],[-89.539215,35.419392],[-89.534882,35.411785],[-89.540115,35.409515]]]],"created":1292525590,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/2446645_20101216_41de5c6149.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

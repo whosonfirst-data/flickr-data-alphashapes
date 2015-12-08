@@ -1,0 +1,15 @@
+{
+  "id": 2402459,
+  "type": "Feature",
+  "properties": {
+    "name":"Farmington, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2402459,
+    "woe:name":"Farmington, Wisconsin, United States",
+    "woe:place_id":"nH5zxdmbBZyI0sK.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-88.724503,43.065422,-88.683525,43.086098],
+  "geometry": {"alpha":0.00015,"bbox":[-88.724502563477,43.065422058105,-88.683525085449,43.086097717285],"coordinates":[[[[-88.705933,43.073215],[-88.707649,43.065422],[-88.712883,43.069263],[-88.724503,43.086098],[-88.719231,43.085789],[-88.70224,43.085438],[-88.683525,43.081928],[-88.705933,43.073215]]]],"created":1292500502,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/2402459_20101216_d0bf75bb33.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

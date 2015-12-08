@@ -1,0 +1,15 @@
+{
+  "id": 2363034,
+  "type": "Feature",
+  "properties": {
+    "name":"Berlin Center, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2363034,
+    "woe:name":"Berlin Center, Michigan, United States",
+    "woe:place_id":"5vqmR_abApr5fcMX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.145676,42.87999,-85.116577,42.886688],
+  "geometry": {"alpha":0.00015,"bbox":[-85.14567565918,42.879989624023,-85.116577148438,42.886688232422],"coordinates":[[[[-85.14267,42.886532],[-85.128563,42.886688],[-85.116577,42.87999],[-85.135803,42.880493],[-85.145676,42.882252],[-85.14267,42.886532]]]],"created":1292521101,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2363034_20101216_771997ddfd.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

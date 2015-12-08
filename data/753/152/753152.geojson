@@ -1,0 +1,15 @@
+{
+  "id": 753152,
+  "type": "Feature",
+  "properties": {
+    "name":"Artaiz, Navarre, Spain",
+    "placetype":"locality",
+    "woe:id":753152,
+    "woe:name":"Artaiz, Navarre, Spain",
+    "woe:place_id":"4YYMF6CeBJ9BfpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.473197,42.745625,-1.468563,42.75029],
+  "geometry": {"alpha":0.00015,"bbox":[-1.4731969833374,42.745624542236,-1.4685629606247,42.750289916992],"coordinates":[[[[-1.469556,42.748604],[-1.468563,42.747955],[-1.468638,42.747513],[-1.470451,42.745625],[-1.473197,42.75029],[-1.469556,42.748604]]]],"created":1292520827,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/753152_20101216_4acb32db74.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

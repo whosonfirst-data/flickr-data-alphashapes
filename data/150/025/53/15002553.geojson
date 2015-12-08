@@ -1,0 +1,15 @@
+{
+  "id": 15002553,
+  "type": "Feature",
+  "properties": {
+    "name":"Torsang, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":15002553,
+    "woe:name":"Torsang, Dalarna, Sweden",
+    "woe:place_id":"IN2ylLuYBJyCqs2vVg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.567111,60.461575,15.577926,60.469997],
+  "geometry": {"alpha":0.00015,"bbox":[15.56711101532,60.461574554443,15.577925682068,60.469997406006],"coordinates":[[[[15.568914,60.461575],[15.567111,60.468811],[15.577926,60.469997],[15.576982,60.466908],[15.574235,60.464157],[15.568914,60.461575]]]],"created":1234625763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3058/shapefiles/15002553_20090214_bf6b4213fc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

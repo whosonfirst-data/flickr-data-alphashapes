@@ -1,0 +1,15 @@
+{
+  "id": 33340,
+  "type": "Feature",
+  "properties": {
+    "name":"Ringley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":33340,
+    "woe:name":"Ringley, England, United Kingdom",
+    "woe:place_id":"npZ02XaaAp_36Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.359206,53.534748,-2.343349,53.550049],
+  "geometry": {"alpha":0.00015,"bbox":[-2.3592059612274,53.534748077393,-2.34334897995,53.550048828125],"coordinates":[[[[-2.358584,53.543674],[-2.359131,53.543831],[-2.359206,53.545265],[-2.356309,53.550049],[-2.343349,53.534748],[-2.357597,53.543751],[-2.358584,53.543674]]]],"created":1292482867,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/33340_20101216_14abd16dd1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

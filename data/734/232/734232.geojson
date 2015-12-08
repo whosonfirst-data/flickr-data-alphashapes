@@ -1,0 +1,15 @@
+{
+  "id": 734232,
+  "type": "Feature",
+  "properties": {
+    "name":"Vethuizen, Gelderland, Netherlands",
+    "placetype":"locality",
+    "woe:id":734232,
+    "woe:name":"Vethuizen, Gelderland, Netherlands",
+    "woe:place_id":"EICVVzqeApgg5S4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.279866,51.900436,6.298427,51.915623],
+  "geometry": {"alpha":0.00015,"bbox":[6.2798662185669,51.900436401367,6.29842710495,51.915622711182],"coordinates":[[[[6.298427,51.908588],[6.297397,51.907768],[6.289758,51.900436],[6.279866,51.906452],[6.283235,51.907169],[6.294046,51.915623],[6.298427,51.908588]]]],"created":1292527360,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/734232_20101216_0c9116f650.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12679323,
+  "type": "Feature",
+  "properties": {
+    "name":"Montella, Italy",
+    "placetype":"locality",
+    "woe:id":12679323,
+    "woe:name":"Montella, Italy",
+    "woe:place_id":"WdzUb2qYA5pSyGn0dQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.029211,40.825348,15.030369,40.829075],
+  "geometry": {"alpha":1e-05,"bbox":[15.029211044312,40.825347900391,15.030368804932,40.829074859619],"coordinates":[[[[15.029211,40.82563],[15.029334,40.825867],[15.030369,40.829075],[15.029667,40.826008],[15.029511,40.825363],[15.029296,40.825348],[15.029211,40.82563]]]],"created":1292487782,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12679323_20101216_52d228a277.tar.gz"},"points":32,"type":"MultiPolygon"}
+}

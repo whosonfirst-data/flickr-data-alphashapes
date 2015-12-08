@@ -1,0 +1,15 @@
+{
+  "id": 698281,
+  "type": "Feature",
+  "properties": {
+    "name":"Sulzbach, Saarland, Germany",
+    "placetype":"locality",
+    "woe:id":698281,
+    "woe:name":"Sulzbach, Saarland, Germany",
+    "woe:place_id":"poSkseKfCJSFLDc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.058029,49.300182,7.074894,49.306656],
+  "geometry": {"alpha":0.00015,"bbox":[7.0580291748047,49.300182342529,7.074893951416,49.306655883789],"coordinates":[[[[7.072448,49.306656],[7.074894,49.305096],[7.066054,49.301395],[7.058029,49.300182],[7.068308,49.30468],[7.068483,49.304737],[7.072448,49.306656]]]],"created":1248211939,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2628/shapefiles/698281_20090721_1844cd3476.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

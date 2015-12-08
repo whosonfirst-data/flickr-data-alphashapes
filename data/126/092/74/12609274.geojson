@@ -1,0 +1,15 @@
+{
+  "id": 12609274,
+  "type": "Feature",
+  "properties": {
+    "name":"Nemojov, Czech Republic",
+    "placetype":"locality",
+    "woe:id":12609274,
+    "woe:name":"Nemojov, Czech Republic",
+    "woe:place_id":"ic390FiYA5pZVqc6HA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.766324,50.457603,15.768127,50.459423],
+  "geometry": {"alpha":1e-05,"bbox":[15.766324043274,50.45760345459,15.768127441406,50.459423065186],"coordinates":[[[[15.767687,50.458035],[15.767513,50.457851],[15.767204,50.457825],[15.766324,50.457603],[15.767054,50.459423],[15.768127,50.459198],[15.767687,50.458035]]]],"created":1292507647,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12609274_20101216_43dc877d0b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

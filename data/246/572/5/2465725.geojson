@@ -1,0 +1,15 @@
+{
+  "id": 2465725,
+  "type": "Feature",
+  "properties": {
+    "name":"Ontelaunee, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2465725,
+    "woe:name":"Ontelaunee, Pennsylvania, United States",
+    "woe:place_id":"kYJc3pubBZpqih0e",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.946877,40.41214,-75.936226,40.418446],
+  "geometry": {"alpha":0.00015,"bbox":[-75.946876525879,40.412139892578,-75.936225891113,40.418445587158],"coordinates":[[[[-75.936409,40.413227],[-75.936226,40.41312],[-75.936317,40.413052],[-75.937515,40.41214],[-75.946877,40.418446],[-75.936409,40.413227]]]],"created":1239230318,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3406/shapefiles/2465725_20090408_afba05ed32.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

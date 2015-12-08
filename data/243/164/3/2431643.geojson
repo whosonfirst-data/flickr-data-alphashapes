@@ -1,0 +1,15 @@
+{
+  "id": 2431643,
+  "type": "Feature",
+  "properties": {
+    "name":"Kensington View, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2431643,
+    "woe:name":"Kensington View, Maryland, United States",
+    "woe:place_id":"QUs84YubBZ_SrHOV",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.065659,39.035721,-77.042397,39.043453],
+  "geometry": {"alpha":0.00015,"bbox":[-77.065658569336,39.035720825195,-77.04239654541,39.043453216553],"coordinates":[[[[-77.056732,39.036251],[-77.062569,39.035721],[-77.065659,39.043453],[-77.05555,39.038734],[-77.042397,39.039501],[-77.056732,39.036251]]]],"created":1292533285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2431643_20101216_98350af884.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

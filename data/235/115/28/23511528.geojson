@@ -1,0 +1,15 @@
+{
+  "id": 23511528,
+  "type": "Feature",
+  "properties": {
+    "name":"Summit, Vermont, United States",
+    "placetype":"locality",
+    "woe:id":23511528,
+    "woe:name":"Summit, Vermont, United States",
+    "woe:place_id":"KoZuN8ubApmTGK5nXg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-72.762367,43.470364,-72.750626,43.476467],
+  "geometry": {"alpha":0.00015,"bbox":[-72.762367248535,43.470363616943,-72.750625610352,43.476467132568],"coordinates":[[[[-72.761932,43.473663],[-72.753349,43.476467],[-72.750626,43.472168],[-72.753395,43.472324],[-72.760651,43.470364],[-72.762367,43.47086],[-72.761932,43.473663]]]],"created":1292540614,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/23511528_20101216_279c72a8a7.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

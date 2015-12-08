@@ -1,0 +1,15 @@
+{
+  "id": 2375725,
+  "type": "Feature",
+  "properties": {
+    "name":"Carthage, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2375725,
+    "woe:name":"Carthage, Mississippi, United States",
+    "woe:place_id":"I1fKxgObApuFqipG",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.549561,32.733574,-89.532997,32.742168],
+  "geometry": {"alpha":0.00015,"bbox":[-89.549560546875,32.733573913574,-89.532997131348,32.742168426514],"coordinates":[[[[-89.534187,32.736851],[-89.535828,32.733574],[-89.549561,32.74036],[-89.532997,32.742168],[-89.533119,32.741596],[-89.534187,32.736851]]]],"created":1292525508,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/2375725_20101216_e778f0f8f2.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

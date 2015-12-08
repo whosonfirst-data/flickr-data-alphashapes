@@ -1,0 +1,15 @@
+{
+  "id": 20110247,
+  "type": "Feature",
+  "properties": {
+    "name":"Aune, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20110247,
+    "woe:name":"Aune, Veneto, Italy",
+    "woe:place_id":"0nx3wWSbAZ1FMrDlcQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.818113,46.068882,11.82764,46.080853],
+  "geometry": {"alpha":0.00015,"bbox":[11.818113327026,46.068881988525,11.827639579773,46.080852508545],"coordinates":[[[[11.821546,46.070969],[11.818113,46.068882],[11.82352,46.074539],[11.82764,46.080853],[11.824808,46.073765],[11.821546,46.070969]]]],"created":1292471462,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20110247_20101216_3453c27502.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20071141,
+  "type": "Feature",
+  "properties": {
+    "name":"Jiaozuo, China",
+    "placetype":"locality",
+    "woe:id":20071141,
+    "woe:name":"Jiaozuo, China",
+    "woe:place_id":"ahpUDtebAZyk1ZNsXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [113.268654,35.208809,113.275223,35.212666],
+  "geometry": {"alpha":1e-05,"bbox":[113.26865386963,35.208808898926,113.27522277832,35.212665557861],"coordinates":[[[[113.27346,35.211475],[113.268654,35.208809],[113.27282,35.212246],[113.274879,35.212524],[113.275223,35.212666],[113.274536,35.210876],[113.27346,35.211475]]]],"created":1292527810,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/20071141_20101216_0ea6362850.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2440988,
+  "type": "Feature",
+  "properties": {
+    "name":"Locust Valley, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2440988,
+    "woe:name":"Locust Valley, Maryland, United States",
+    "woe:place_id":"G9FYVBybBZjwNXpl",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.646523,39.410118,-77.637115,39.436192],
+  "geometry": {"alpha":0.00015,"bbox":[-77.646522521973,39.410118103027,-77.637115478516,39.436191558838],"coordinates":[[[[-77.63916,39.410927],[-77.646523,39.410118],[-77.637566,39.412506],[-77.640381,39.436192],[-77.637115,39.412533],[-77.63916,39.410927]]]],"created":1292519924,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2440988_20101216_cc08b8df51.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

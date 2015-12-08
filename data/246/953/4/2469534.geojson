@@ -1,0 +1,15 @@
+{
+  "id": 2469534,
+  "type": "Feature",
+  "properties": {
+    "name":"Pea Ridge, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2469534,
+    "woe:name":"Pea Ridge, North Carolina, United States",
+    "woe:place_id":"2xDUtWubBZpHY0WK",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.057281,35.310905,-82.056755,35.311527],
+  "geometry": {"alpha":0.00015,"bbox":[-82.057281494141,35.310905456543,-82.056755065918,35.311527252197],"coordinates":[[[[-82.057182,35.311455],[-82.057053,35.311527],[-82.056755,35.311432],[-82.057228,35.310905],[-82.057281,35.311363],[-82.057182,35.311455]]]],"created":1292517520,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2469534_20101216_e5fb01a49e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

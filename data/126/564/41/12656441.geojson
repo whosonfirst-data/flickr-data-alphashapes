@@ -1,0 +1,15 @@
+{
+  "id": 12656441,
+  "type": "Feature",
+  "properties": {
+    "name":"Beaucaire, France",
+    "placetype":"locality",
+    "woe:id":12656441,
+    "woe:name":"Beaucaire, France",
+    "woe:place_id":"MaiXkf6YA5q_kJqA2A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.639148,43.805576,4.644684,43.809757],
+  "geometry": {"alpha":1e-05,"bbox":[4.639148235321,43.805576324463,4.6446838378906,43.809757232666],"coordinates":[[[[4.639921,43.807465],[4.639148,43.807713],[4.64138,43.808208],[4.644684,43.809757],[4.644277,43.805576],[4.642131,43.806103],[4.639921,43.807465]]]],"created":1292546230,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/12656441_20101217_00f6470813.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

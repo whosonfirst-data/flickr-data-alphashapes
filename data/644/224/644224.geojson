@@ -1,0 +1,15 @@
+{
+  "id": 644224,
+  "type": "Feature",
+  "properties": {
+    "name":"Derndorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":644224,
+    "woe:name":"Derndorf, Bavaria, Germany",
+    "woe:place_id":"jof4BDOfBZiWVBk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.470099,48.183887,10.472996,48.185253],
+  "geometry": {"alpha":0.00015,"bbox":[10.470099449158,48.183887481689,10.472995758057,48.185253143311],"coordinates":[[[[10.470142,48.184292],[10.470099,48.184315],[10.470099,48.18457],[10.472352,48.185253],[10.472996,48.183887],[10.470399,48.184185],[10.470142,48.184292]]]],"created":1292443638,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/644224_20101215_d058faeb01.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

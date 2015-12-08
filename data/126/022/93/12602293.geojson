@@ -1,0 +1,15 @@
+{
+  "id": 12602293,
+  "type": "Feature",
+  "properties": {
+    "name":"Peer, Belgium",
+    "placetype":"locality",
+    "woe:id":12602293,
+    "woe:name":"Peer, Belgium",
+    "woe:place_id":"DaErgbaYA5q5ud_RAg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.501783,51.125652,5.505652,51.133801],
+  "geometry": {"alpha":1e-05,"bbox":[5.5017828941345,51.125652313232,5.5056519508362,51.133800506592],"coordinates":[[[[5.502766,51.126347],[5.501783,51.130714],[5.503163,51.133801],[5.504407,51.129868],[5.505652,51.126717],[5.503538,51.125652],[5.502766,51.126347]]]],"created":1292455057,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12602293_20101215_cd742a621f.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

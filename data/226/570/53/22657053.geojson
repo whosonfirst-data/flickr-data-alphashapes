@@ -1,0 +1,15 @@
+{
+  "id": 22657053,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Jean, Brittany, France",
+    "placetype":"locality",
+    "woe:id":22657053,
+    "woe:name":"St.-Jean, Brittany, France",
+    "woe:place_id":"Ea1ilt.bA5q2zdJ4LQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.355456,48.402054,-4.352388,48.415573],
+  "geometry": {"alpha":0.00015,"bbox":[-4.3554558753967,48.402053833008,-4.3523879051208,48.415573120117],"coordinates":[[[[-4.35389,48.40258],[-4.355456,48.403236],[-4.355188,48.415573],[-4.35316,48.403393],[-4.352388,48.402054],[-4.35389,48.40258]]]],"created":1292454968,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/22657053_20101215_b1dd9ac772.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2501911,
+  "type": "Feature",
+  "properties": {
+    "name":"Sun Valley, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2501911,
+    "woe:name":"Sun Valley, New Mexico, United States",
+    "woe:place_id":"oZc82EibBJwVCGHi",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.680321,33.405903,-105.666931,33.41938],
+  "geometry": {"alpha":0.00015,"bbox":[-105.68032073975,33.405902862549,-105.66693115234,33.419380187988],"coordinates":[[[[-105.671394,33.413174],[-105.670204,33.41938],[-105.666931,33.407696],[-105.674728,33.407532],[-105.680321,33.405903],[-105.671394,33.413174]]]],"created":1292531104,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5249/shapefiles/2501911_20101216_45397e6045.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

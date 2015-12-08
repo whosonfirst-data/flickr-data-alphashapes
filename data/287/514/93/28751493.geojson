@@ -1,0 +1,15 @@
+{
+  "id": 28751493,
+  "type": "Feature",
+  "properties": {
+    "name":"South Union, Houston, TX, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":28751493,
+    "woe:name":"South Union, Houston, TX, US, United States",
+    "woe:place_id":"P496Y0ebCZt9PRCTPA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-95.364418,29.696701,-95.359779,29.699833],
+  "geometry": {"alpha":1e-05,"bbox":[-95.364418029785,29.696701049805,-95.35977935791,29.69983291626],"coordinates":[[[[-95.364243,29.697001],[-95.364243,29.696701],[-95.364418,29.69685],[-95.364418,29.697672],[-95.359779,29.699833],[-95.364243,29.697001]]]],"created":1292538782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/28751493_20101216_e167ce04a9.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

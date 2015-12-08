@@ -1,0 +1,15 @@
+{
+  "id": 23249,
+  "type": "Feature",
+  "properties": {
+    "name":"High Marnham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":23249,
+    "woe:name":"High Marnham, England, United Kingdom",
+    "woe:place_id":"WFvDzh2bAp5dxQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.796508,53.222965,-0.78226,53.231316],
+  "geometry": {"alpha":0.00015,"bbox":[-0.79650801420212,53.222965240479,-0.78226000070572,53.231315612793],"coordinates":[[[[-0.786144,53.223713],[-0.796508,53.225769],[-0.79359,53.231316],[-0.783587,53.224876],[-0.78226,53.222965],[-0.786144,53.223713]]]],"created":1292478426,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/23249_20101216_e90e450930.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

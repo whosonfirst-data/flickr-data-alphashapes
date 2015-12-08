@@ -1,0 +1,15 @@
+{
+  "id": 625125,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Laurent, Languedoc-Roussillon, France",
+    "placetype":"locality",
+    "woe:id":625125,
+    "woe:name":"St-Laurent, Languedoc-Roussillon, France",
+    "woe:place_id":"9BguZC6fA5mFUmE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.695019,43.081802,2.698108,43.086254],
+  "geometry": {"alpha":0.00015,"bbox":[2.6950190067291,43.081802368164,2.69810795784,43.086254119873],"coordinates":[[[[2.695196,43.081802],[2.695019,43.082897],[2.697401,43.086254],[2.698108,43.084705],[2.695196,43.081802]]]],"created":1292538119,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/625125_20101216_ede68ddc4a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

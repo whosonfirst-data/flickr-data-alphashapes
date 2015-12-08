@@ -1,0 +1,15 @@
+{
+  "id": 21465,
+  "type": "Feature",
+  "properties": {
+    "name":"Graigfechan, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21465,
+    "woe:name":"Graigfechan, Wales, United Kingdom",
+    "woe:place_id":"vBUap3WbAJjlVw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.27753,53.077732,-3.268588,53.080978],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2775299549103,53.077732086182,-3.2685880661011,53.080978393555],"coordinates":[[[[-3.27453,53.080978],[-3.271865,53.080929],[-3.268588,53.078026],[-3.273067,53.077732],[-3.27753,53.080673],[-3.27453,53.080978]]]],"created":1292538128,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/21465_20101216_609b3df709.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

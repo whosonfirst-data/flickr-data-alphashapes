@@ -1,0 +1,15 @@
+{
+  "id": 2465103,
+  "type": "Feature",
+  "properties": {
+    "name":"Old Town, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2465103,
+    "woe:name":"Old Town, Iowa, United States",
+    "woe:place_id":"2d2EVUObBZo6MeUF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.208092,43.300564,-95.197044,43.301853],
+  "geometry": {"alpha":0.00015,"bbox":[-95.20809173584,43.300563812256,-95.197044372559,43.301853179932],"coordinates":[[[[-95.205536,43.301796],[-95.197281,43.301853],[-95.197044,43.300705],[-95.208092,43.300564],[-95.20607,43.301826],[-95.20575,43.301811],[-95.205536,43.301796]]]],"created":1248042368,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3093/shapefiles/2465103_20090719_4d67bc403e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

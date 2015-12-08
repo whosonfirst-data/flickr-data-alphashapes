@@ -1,0 +1,15 @@
+{
+  "id": 555164,
+  "type": "Feature",
+  "properties": {
+    "name":"Lellinge, Sjaelland, Denmark",
+    "placetype":"locality",
+    "woe:id":555164,
+    "woe:name":"Lellinge, Sjaelland, Denmark",
+    "woe:place_id":"spezkSOcBJlu7kE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.080603,55.470501,12.082833,55.470665],
+  "geometry": {"alpha":0.00015,"bbox":[12.080602645874,55.470500946045,12.0828332901,55.470664978027],"coordinates":[[[[12.082833,55.470665],[12.082166,55.470501],[12.081639,55.470512],[12.080603,55.470581],[12.082833,55.470665]]]],"created":1292544459,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/555164_20101217_5e810eb796.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

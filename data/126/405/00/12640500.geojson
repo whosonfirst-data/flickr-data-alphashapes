@@ -1,0 +1,15 @@
+{
+  "id": 12640500,
+  "type": "Feature",
+  "properties": {
+    "name":"Valojoulx, France",
+    "placetype":"locality",
+    "woe:id":12640500,
+    "woe:name":"Valojoulx, France",
+    "woe:place_id":"kEJJeSiYA5oik1VeHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.129317,45.027813,1.13069,45.029686],
+  "geometry": {"alpha":1e-05,"bbox":[1.1293170452118,45.027812957764,1.1306899785995,45.029685974121],"coordinates":[[[[1.129746,45.02845],[1.129317,45.029469],[1.129904,45.029686],[1.13069,45.027813],[1.129746,45.02845]]]],"created":1292542726,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/12640500_20101216_58bdac3aae.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

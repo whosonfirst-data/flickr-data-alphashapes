@@ -1,0 +1,15 @@
+{
+  "id": 23393723,
+  "type": "Feature",
+  "properties": {
+    "name":"Killarney Road, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":23393723,
+    "woe:name":"Killarney Road, New Brunswick, Canada",
+    "woe:place_id":"T48QyXubAp9H8XbD9g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.630104,46.014797,-66.624695,46.022465],
+  "geometry": {"alpha":0.00015,"bbox":[-66.630104064941,46.014797210693,-66.624694824219,46.022464752197],"coordinates":[[[[-66.630104,46.014797],[-66.628708,46.022465],[-66.62693,46.021641],[-66.624695,46.019733],[-66.625404,46.015724],[-66.630104,46.014797]]]],"created":1292546853,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/23393723_20101217_cc904c118b.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

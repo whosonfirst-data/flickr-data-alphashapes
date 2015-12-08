@@ -1,0 +1,15 @@
+{
+  "id": 617245,
+  "type": "Feature",
+  "properties": {
+    "name":"Pompignac, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":617245,
+    "woe:name":"Pompignac, Aquitaine, France",
+    "woe:place_id":"QmAzA4KfAJsTEbU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.436191,44.838345,-0.421943,44.852825],
+  "geometry": {"alpha":0.00015,"bbox":[-0.43619099259377,44.838344573975,-0.42194300889969,44.852825164795],"coordinates":[[[[-0.423488,44.850086],[-0.421943,44.839741],[-0.42411,44.838764],[-0.435676,44.838345],[-0.436191,44.852825],[-0.423488,44.850086]]]],"created":1292525211,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/617245_20101216_60c922fae9.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

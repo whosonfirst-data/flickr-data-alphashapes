@@ -1,0 +1,15 @@
+{
+  "id": 20103973,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Maurice, Canton of Geneva, Switzerland",
+    "placetype":"locality",
+    "woe:id":20103973,
+    "woe:name":"St. Maurice, Canton of Geneva, Switzerland",
+    "woe:place_id":"fzn8_FibAZ0kbcaOjw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.216191,46.253265,6.217006,46.254261],
+  "geometry": {"alpha":0.00015,"bbox":[6.2161908149719,46.253265380859,6.2170062065125,46.254261016846],"coordinates":[[[[6.216309,46.253551],[6.216491,46.253826],[6.217006,46.254261],[6.216748,46.253407],[6.216191,46.253265],[6.216309,46.253551]]]],"created":1292452198,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/20103973_20101215_06de551375.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

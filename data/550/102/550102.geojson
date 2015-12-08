@@ -1,0 +1,15 @@
+{
+  "id": 550102,
+  "type": "Feature",
+  "properties": {
+    "name":"Trieben, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":550102,
+    "woe:name":"Trieben, Styria, Austria",
+    "woe:place_id":"6dQ_j2ScBJyAE84",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.479873,47.485813,14.494056,47.499386],
+  "geometry": {"alpha":0.00015,"bbox":[14.479872703552,47.485813140869,14.494055747986,47.49938583374],"coordinates":[[[[14.485221,47.485813],[14.479873,47.49028],[14.483242,47.499386],[14.49028,47.497719],[14.49088,47.494907],[14.494056,47.487976],[14.485221,47.485813]]]],"created":1292520700,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/550102_20101216_24294f5c72.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

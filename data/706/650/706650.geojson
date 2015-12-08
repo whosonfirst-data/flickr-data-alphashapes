@@ -1,0 +1,15 @@
+{
+  "id": 706650,
+  "type": "Feature",
+  "properties": {
+    "name":"Wilhermsdorf, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":706650,
+    "woe:name":"Wilhermsdorf, Bavaria, Germany",
+    "woe:place_id":"mh2U7w6eAZpTDWw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.708837,49.481171,10.723493,49.489594],
+  "geometry": {"alpha":0.00015,"bbox":[10.708836555481,49.481170654297,10.723492622375,49.489593505859],"coordinates":[[[[10.723493,49.482517],[10.72089,49.481171],[10.717484,49.482346],[10.708837,49.489594],[10.720671,49.482578],[10.723493,49.482517]]]],"created":1292530590,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/706650_20101216_93f008efd9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

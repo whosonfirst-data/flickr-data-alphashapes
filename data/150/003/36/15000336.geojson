@@ -1,0 +1,15 @@
+{
+  "id": 15000336,
+  "type": "Feature",
+  "properties": {
+    "name":"Toceno, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":15000336,
+    "woe:name":"Toceno, Piedmont, Italy",
+    "woe:place_id":"OTBP1ZGYBJyH9d4oww",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.455009,46.143063,8.46651,46.150581],
+  "geometry": {"alpha":0.00015,"bbox":[8.4550094604492,46.143062591553,8.4665098190308,46.150581359863],"coordinates":[[[[8.465824,46.143063],[8.461223,46.146374],[8.455009,46.150581],[8.461532,46.147491],[8.46651,46.145351],[8.465824,46.143063]]]],"created":1247969521,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3526/shapefiles/15000336_20090719_4a52e8c54c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

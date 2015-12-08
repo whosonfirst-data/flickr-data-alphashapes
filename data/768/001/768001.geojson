@@ -1,0 +1,15 @@
+{
+  "id": 768001,
+  "type": "Feature",
+  "properties": {
+    "name":"Muniesa, Aragon, Spain",
+    "placetype":"locality",
+    "woe:id":768001,
+    "woe:name":"Muniesa, Aragon, Spain",
+    "woe:place_id":"4WaIM9KeB5RnNdI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.818167,41.026501,-0.809726,41.033527],
+  "geometry": {"alpha":0.00015,"bbox":[-0.81816697120667,41.026500701904,-0.80972599983215,41.033527374268],"coordinates":[[[[-0.810037,41.031776],[-0.809726,41.026665],[-0.818167,41.026501],[-0.816421,41.033527],[-0.809898,41.033173],[-0.810037,41.031776]]]],"created":1292451103,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5209/shapefiles/768001_20101215_54d5d02e65.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

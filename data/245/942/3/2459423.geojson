@@ -1,0 +1,15 @@
+{
+  "id": 2459423,
+  "type": "Feature",
+  "properties": {
+    "name":"Newell Station, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2459423,
+    "woe:name":"Newell Station, Tennessee, United States",
+    "woe:place_id":"HDEwHJubBZlYS3jJ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.74929,35.862621,-83.741737,35.878063],
+  "geometry": {"alpha":0.00015,"bbox":[-83.749290466309,35.862621307373,-83.741737365723,35.878063201904],"coordinates":[[[[-83.741737,35.87347],[-83.74929,35.862621],[-83.749123,35.873055],[-83.745689,35.878063],[-83.743637,35.875507],[-83.741737,35.87347]]]],"created":1292526550,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5288/shapefiles/2459423_20101216_59e83ed033.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

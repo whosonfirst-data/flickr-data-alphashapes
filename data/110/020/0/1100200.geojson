@@ -1,0 +1,15 @@
+{
+  "id": 1100200,
+  "type": "Feature",
+  "properties": {
+    "name":"Beagle Bay Mission, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1100200,
+    "woe:name":"Beagle Bay Mission, Western Australia, Australia",
+    "woe:place_id":"8.3T4h6YAJx6Uqpr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [122.665611,-16.98333,122.669044,-16.977503],
+  "geometry": {"alpha":0.00015,"bbox":[122.66561126709,-16.983329772949,122.66904449463,-16.977502822876],"coordinates":[[[[122.665611,-16.980375],[122.669044,-16.977503],[122.666298,-16.98333],[122.665649,-16.981064],[122.665611,-16.980375]]]],"created":1292467928,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/1100200_20101216_32b5a4e762.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

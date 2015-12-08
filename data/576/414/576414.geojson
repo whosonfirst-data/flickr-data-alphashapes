@@ -1,0 +1,15 @@
+{
+  "id": 576414,
+  "type": "Feature",
+  "properties": {
+    "name":"Arc, Champagne-Ardenne, France",
+    "placetype":"locality",
+    "woe:id":576414,
+    "woe:name":"Arc, Champagne-Ardenne, France",
+    "woe:place_id":"DWDvS3CcBpq0LfE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.004802,47.946976,5.010097,47.948765],
+  "geometry": {"alpha":0.00015,"bbox":[5.0048022270203,47.946975708008,5.010097026825,47.948764801025],"coordinates":[[[[5.005989,47.947746],[5.004802,47.948692],[5.006418,47.948765],[5.008359,47.948639],[5.010097,47.946976],[5.005989,47.947746]]]],"created":1292474889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/576414_20101216_3d77a22d2e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

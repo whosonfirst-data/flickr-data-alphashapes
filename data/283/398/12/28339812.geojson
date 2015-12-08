@@ -1,0 +1,15 @@
+{
+  "id": 28339812,
+  "type": "Feature",
+  "properties": {
+    "name":"Anderson, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":28339812,
+    "woe:name":"Anderson, Ohio, United States",
+    "woe:place_id":"1VFd0hmbCZ9TXJ9cUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.282692,39.069412,-84.257751,39.084064],
+  "geometry": {"alpha":0.00015,"bbox":[-84.282691955566,39.069412231445,-84.257751464844,39.084064483643],"coordinates":[[[[-84.273811,39.084064],[-84.257751,39.075909],[-84.270287,39.070995],[-84.282692,39.069412],[-84.279205,39.078671],[-84.273811,39.084064]]]],"created":1292545421,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/28339812_20101217_33e579cf8e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

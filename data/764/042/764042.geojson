@@ -1,0 +1,15 @@
+{
+  "id": 764042,
+  "type": "Feature",
+  "properties": {
+    "name":"La Secuita, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":764042,
+    "woe:name":"La Secuita, Catalonia, Spain",
+    "woe:place_id":"z0P76OSeB5hW0DE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.272525,41.189831,1.293066,41.204552],
+  "geometry": {"alpha":0.00015,"bbox":[1.2725249528885,41.189830780029,1.2930660247803,41.204551696777],"coordinates":[[[[1.285604,41.204552],[1.293066,41.191849],[1.28231,41.189831],[1.272525,41.192478],[1.27951,41.202339],[1.285604,41.204552]]]],"created":1292467263,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/764042_20101216_3d709ba500.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

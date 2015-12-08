@@ -1,0 +1,15 @@
+{
+  "id": 2440633,
+  "type": "Feature",
+  "properties": {
+    "name":"Llano, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2440633,
+    "woe:name":"Llano, New Mexico, United States",
+    "woe:place_id":"g8s_KaSbBZgeTDkD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-105.68367,36.136383,-105.676857,36.147877],
+  "geometry": {"alpha":0.00015,"bbox":[-105.68367004395,36.136383056641,-105.67685699463,36.147876739502],"coordinates":[[[[-105.676857,36.147671],[-105.679207,36.136383],[-105.681992,36.139427],[-105.68367,36.141792],[-105.677071,36.147877],[-105.676857,36.147671]]]],"created":1292444993,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2440633_20101215_48cf264470.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 706505,
+  "type": "Feature",
+  "properties": {
+    "name":"Wildenbruch, Brandenburg, Germany",
+    "placetype":"locality",
+    "woe:id":706505,
+    "woe:name":"Wildenbruch, Brandenburg, Germany",
+    "woe:place_id":"e6tk5T6eAZp3BxU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.061241,52.282021,13.062812,52.283871],
+  "geometry": {"alpha":0.00015,"bbox":[13.061241149902,52.282020568848,13.062811851501,52.283870697021],"coordinates":[[[[13.061244,52.283871],[13.061586,52.283756],[13.062019,52.283607],[13.062812,52.282021],[13.061547,52.283291],[13.061241,52.283871],[13.061244,52.283871]]]],"created":1292540946,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/706505_20101216_e620bf394e.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

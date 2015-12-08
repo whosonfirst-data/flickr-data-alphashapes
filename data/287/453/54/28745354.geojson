@@ -1,0 +1,15 @@
+{
+  "id": 28745354,
+  "type": "Feature",
+  "properties": {
+    "name":"Harris, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745354,
+    "woe:name":"Harris, Pennsylvania, United States",
+    "woe:place_id":"lOcOE.SbCZvpH92F6g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.793877,40.775894,-77.778694,40.785351],
+  "geometry": {"alpha":0.00015,"bbox":[-77.793876647949,40.775894165039,-77.778694152832,40.785350799561],"coordinates":[[[[-77.780853,40.777412],[-77.782341,40.775894],[-77.793877,40.779938],[-77.778694,40.785351],[-77.780853,40.777412]]]],"created":1292538592,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/28745354_20101216_6d38d46600.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

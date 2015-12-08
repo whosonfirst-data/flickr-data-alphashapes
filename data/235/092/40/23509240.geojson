@@ -1,0 +1,15 @@
+{
+  "id": 23509240,
+  "type": "Feature",
+  "properties": {
+    "name":"Sinnamahoning, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":23509240,
+    "woe:name":"Sinnamahoning, Pennsylvania, United States",
+    "woe:place_id":"Pbz_M3ybApk2SAo5vw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.071251,41.360359,-78.056847,41.383377],
+  "geometry": {"alpha":0.00015,"bbox":[-78.071250915527,41.360359191895,-78.056846618652,41.383377075195],"coordinates":[[[[-78.062492,41.371914],[-78.071251,41.383377],[-78.066101,41.380417],[-78.056847,41.375877],[-78.06076,41.360359],[-78.062492,41.371914]]]],"created":1292508908,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/23509240_20101216_5bf481358f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

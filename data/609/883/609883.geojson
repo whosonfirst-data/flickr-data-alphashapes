@@ -1,0 +1,15 @@
+{
+  "id": 609883,
+  "type": "Feature",
+  "properties": {
+    "name":"Marcilly, Centre, France",
+    "placetype":"locality",
+    "woe:id":609883,
+    "woe:name":"Marcilly, Centre, France",
+    "woe:place_id":"wrsjpQ2fAZXwyX4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.540733,47.043297,0.549606,47.051388],
+  "geometry": {"alpha":0.00015,"bbox":[0.54073297977448,47.043296813965,0.54960602521896,47.051387786865],"coordinates":[[[[0.548619,47.051319],[0.549606,47.051388],[0.548565,47.049263],[0.540733,47.043297],[0.5426,47.049988],[0.546258,47.05061],[0.548619,47.051319]]]],"created":1239542170,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3359/shapefiles/609883_20090412_c916082848.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

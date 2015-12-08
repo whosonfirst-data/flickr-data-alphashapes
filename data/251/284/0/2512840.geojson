@@ -1,0 +1,15 @@
+{
+  "id": 2512840,
+  "type": "Feature",
+  "properties": {
+    "name":"Voss Resort, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2512840,
+    "woe:name":"Voss Resort, Washington, United States",
+    "woe:place_id":"7Piz57.bBJ2dSxzW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.27182,46.9198,-122.264999,46.923069],
+  "geometry": {"alpha":0.00015,"bbox":[-122.27182006836,46.919799804688,-122.26499938965,46.923069000244],"coordinates":[[[[-122.27182,46.922249],[-122.271309,46.923069],[-122.267273,46.922012],[-122.264999,46.9198],[-122.271095,46.921516],[-122.27182,46.922249]]]],"created":1292531756,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2512840_20101216_a8afb316fa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

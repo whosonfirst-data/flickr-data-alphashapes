@@ -1,0 +1,15 @@
+{
+  "id": 2429441,
+  "type": "Feature",
+  "properties": {
+    "name":"John, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2429441,
+    "woe:name":"John, Virginia, United States",
+    "woe:place_id":"t10.eLKbBZ4wYrD0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.297256,36.958836,-82.293839,36.973011],
+  "geometry": {"alpha":0.00015,"bbox":[-82.297256469727,36.958835601807,-82.293838500977,36.973011016846],"coordinates":[[[[-82.295258,36.96032],[-82.29541,36.96125],[-82.297256,36.973011],[-82.295197,36.972683],[-82.295212,36.969662],[-82.293839,36.958836],[-82.295258,36.96032]]]],"created":1292469245,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/2429441_20101216_c8af48d67e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

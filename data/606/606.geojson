@@ -1,0 +1,15 @@
+{
+  "id": 606,
+  "type": "Feature",
+  "properties": {
+    "name":"Grenville, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":606,
+    "woe:name":"Grenville, Quebec, Canada",
+    "woe:place_id":"DEHEPbCfAZo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.619614,45.606678,-74.559402,45.645969],
+  "geometry": {"alpha":0.00015,"bbox":[-74.619613647461,45.606678009033,-74.55940246582,45.645969390869],"coordinates":[[[[-74.602234,45.615356],[-74.619614,45.626495],[-74.61013,45.645969],[-74.608353,45.633739],[-74.586525,45.640926],[-74.581848,45.639908],[-74.559402,45.638527],[-74.563393,45.622978],[-74.572449,45.630844],[-74.593994,45.620941],[-74.581619,45.606678],[-74.599205,45.614418],[-74.600945,45.614937],[-74.602234,45.615356]]]],"created":1292458343,"edges":14,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/606_20101216_d38347ce18.tar.gz"},"points":39,"type":"MultiPolygon"}
+}

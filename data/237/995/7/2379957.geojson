@@ -1,0 +1,15 @@
+{
+  "id": 2379957,
+  "type": "Feature",
+  "properties": {
+    "name":"Chittamo, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2379957,
+    "woe:name":"Chittamo, Wisconsin, United States",
+    "woe:place_id":"2YwWTlObApvvbfyM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.711716,46.09639,-91.711494,46.096584],
+  "geometry": {"alpha":0.00015,"bbox":[-91.711715698242,46.096389770508,-91.711494445801,46.096584320068],"coordinates":[[[[-91.71154,46.096436],[-91.711494,46.09639],[-91.711578,46.096443],[-91.711716,46.096581],[-91.711716,46.096584],[-91.71154,46.096436]]]],"created":1292477168,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/2379957_20101216_5536c24bae.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

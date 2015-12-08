@@ -1,0 +1,15 @@
+{
+  "id": 570,
+  "type": "Feature",
+  "properties": {
+    "name":"Gjoa Haven, Nunavut, Canada",
+    "placetype":"locality",
+    "woe:id":570,
+    "woe:name":"Gjoa Haven, Nunavut, Canada",
+    "woe:place_id":"4OlARfScBpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.887985,68.622726,-95.870842,68.630302],
+  "geometry": {"alpha":0.00015,"bbox":[-95.887985229492,68.62272644043,-95.87084197998,68.630302429199],"coordinates":[[[[-95.870842,68.622963],[-95.874763,68.622726],[-95.887985,68.628174],[-95.881203,68.630302],[-95.879059,68.629547],[-95.874252,68.625793],[-95.870842,68.622963]]]],"created":1292543546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5287/shapefiles/570_20101216_8e18fb4ce0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

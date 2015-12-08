@@ -1,0 +1,15 @@
+{
+  "id": 1185,
+  "type": "Feature",
+  "properties": {
+    "name":"Pennfield, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":1185,
+    "woe:name":"Pennfield, New Brunswick, Canada",
+    "woe:place_id":"HgVXZQyYAJS6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.807861,45.046146,-66.806595,45.050724],
+  "geometry": {"alpha":0.00015,"bbox":[-66.807861328125,45.046146392822,-66.806594848633,45.050724029541],"coordinates":[[[[-66.807175,45.047451],[-66.807861,45.050724],[-66.806931,45.04776],[-66.806595,45.046146],[-66.807175,45.047451]]]],"created":1248098285,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2435/shapefiles/1185_20090720_e9f04fd594.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

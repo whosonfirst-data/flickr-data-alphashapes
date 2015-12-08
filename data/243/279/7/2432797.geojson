@@ -1,0 +1,15 @@
+{
+  "id": 2432797,
+  "type": "Feature",
+  "properties": {
+    "name":"Kingston, Wisconsin, United States",
+    "placetype":"locality",
+    "woe:id":2432797,
+    "woe:name":"Kingston, Wisconsin, United States",
+    "woe:place_id":"fSCOHU2bBZ_eGSG5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.123795,43.658775,-89.110191,43.676533],
+  "geometry": {"alpha":0.00015,"bbox":[-89.123794555664,43.65877532959,-89.110191345215,43.676532745361],"coordinates":[[[[-89.113327,43.676533],[-89.112167,43.662037],[-89.110191,43.658775],[-89.116455,43.664268],[-89.123795,43.676361],[-89.113327,43.676533]]]],"created":1292533984,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/2432797_20101216_183c1efdce.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

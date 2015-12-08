@@ -1,0 +1,15 @@
+{
+  "id": 21582,
+  "type": "Feature",
+  "properties": {
+    "name":"Great Brickhill, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21582,
+    "woe:name":"Great Brickhill, England, United Kingdom",
+    "woe:place_id":"H5jvcDubAJkiXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.690765,51.958229,-0.685109,51.968861],
+  "geometry": {"alpha":0.00015,"bbox":[-0.69076502323151,51.958229064941,-0.68510901927948,51.968860626221],"coordinates":[[[[-0.685109,51.9673],[-0.685624,51.9632],[-0.687675,51.959976],[-0.69025,51.958229],[-0.690765,51.968861],[-0.685109,51.9673]]]],"created":1292465342,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/21582_20101216_e0d091f6d5.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

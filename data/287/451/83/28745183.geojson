@@ -1,0 +1,15 @@
+{
+  "id": 28745183,
+  "type": "Feature",
+  "properties": {
+    "name":"Dennis, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":28745183,
+    "woe:name":"Dennis, New Jersey, United States",
+    "woe:place_id":"XjMDBZ6bCZvO4k5wMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.771057,39.141144,-74.765312,39.146172],
+  "geometry": {"alpha":0.00015,"bbox":[-74.771057128906,39.141143798828,-74.765312194824,39.146171569824],"coordinates":[[[[-74.766083,39.144405],[-74.765312,39.144089],[-74.771057,39.141144],[-74.7696,39.145405],[-74.769341,39.146172],[-74.766083,39.144405]]]],"created":1292525574,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/28745183_20101216_9f1031c2b7.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

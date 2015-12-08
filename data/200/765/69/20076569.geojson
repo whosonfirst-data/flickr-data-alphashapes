@@ -1,0 +1,15 @@
+{
+  "id": 20076569,
+  "type": "Feature",
+  "properties": {
+    "name":"Roncello, Italy",
+    "placetype":"locality",
+    "woe:id":20076569,
+    "woe:name":"Roncello, Italy",
+    "woe:place_id":"8ys7GRebAZyUH5hOkQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.453113,45.597775,9.456954,45.601585],
+  "geometry": {"alpha":1e-05,"bbox":[9.4531126022339,45.597774505615,9.4569540023804,45.601585388184],"coordinates":[[[[9.456567,45.598366],[9.456578,45.597927],[9.456578,45.597851],[9.456578,45.597775],[9.456052,45.598156],[9.453373,45.598728],[9.453113,45.600357],[9.456889,45.601585],[9.456954,45.601437],[9.456567,45.598366]]]],"created":1292551415,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/20076569_20101217_2b14acae75.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

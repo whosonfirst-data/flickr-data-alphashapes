@@ -1,0 +1,15 @@
+{
+  "id": 456573,
+  "type": "Feature",
+  "properties": {
+    "name":"Trairi, Ceara, Brazil",
+    "placetype":"locality",
+    "woe:id":456573,
+    "woe:name":"Trairi, Ceara, Brazil",
+    "woe:place_id":"yk0U7S2dBJpP8oc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-39.269772,-3.278486,-39.219303,-3.218244],
+  "geometry": {"alpha":0.5,"bbox":[-39.269771575928,-3.2784860134125,-39.219303131104,-3.2182440757751],"coordinates":[[[[-39.245911,-3.220044],[-39.234238,-3.239068],[-39.219303,-3.262805],[-39.250889,-3.278486],[-39.269772,-3.218244],[-39.245911,-3.220044]]]],"created":1248056522,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3446/shapefiles/456573_20090720_7f15bfafa0.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

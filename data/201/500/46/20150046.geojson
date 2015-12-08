@@ -1,0 +1,15 @@
+{
+  "id": 20150046,
+  "type": "Feature",
+  "properties": {
+    "name":"Borgo San Pietro, Lazio, Italy",
+    "placetype":"locality",
+    "woe:id":20150046,
+    "woe:name":"Borgo San Pietro, Lazio, Italy",
+    "woe:place_id":"Uzf3fUebAZ2W7LypWQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.058967,42.269768,13.06343,42.273434],
+  "geometry": {"alpha":0.00015,"bbox":[13.058966636658,42.26976776123,13.063429832458,42.273433685303],"coordinates":[[[[13.060684,42.270451],[13.058967,42.269768],[13.058983,42.270454],[13.06034,42.272228],[13.06343,42.273434],[13.060684,42.270451]]]],"created":1292544877,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20150046_20101217_6387bd6570.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

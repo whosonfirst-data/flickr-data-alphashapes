@@ -1,0 +1,15 @@
+{
+  "id": 2435729,
+  "type": "Feature",
+  "properties": {
+    "name":"Lakewood, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2435729,
+    "woe:name":"Lakewood, Florida, United States",
+    "woe:place_id":"UiGAGkmbBZ_IK3Le",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-86.285492,30.985979,-86.280846,30.991989],
+  "geometry": {"alpha":0.00015,"bbox":[-86.285491943359,30.9859790802,-86.28084564209,30.991989135742],"coordinates":[[[[-86.281517,30.986273],[-86.282761,30.987909],[-86.285492,30.991989],[-86.281944,30.988333],[-86.280846,30.986292],[-86.281212,30.985979],[-86.281517,30.986273]]]],"created":1292546865,"edges":7,"is_donuthole":0,"link":{"href":"http://farm2.static.flickr.com/1389/shapefiles/2435729_20101217_200af3ef98.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

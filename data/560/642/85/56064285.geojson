@@ -1,0 +1,15 @@
+{
+  "id": 56064285,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Gaviotas, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":56064285,
+    "woe:name":"Las Gaviotas, Buenos Aires, Argentina",
+    "woe:place_id":"pT7vXvOcB5zTYXczOA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-57.02681,-37.342117,-57.02282,-37.331814],
+  "geometry": {"alpha":0.00015,"bbox":[-57.026809692383,-37.34211730957,-57.022819519043,-37.331813812256],"coordinates":[[[[-57.026081,-37.342117],[-57.02681,-37.340405],[-57.025051,-37.337749],[-57.02282,-37.331814],[-57.024624,-37.340992],[-57.026081,-37.342117]]]],"created":1292440839,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/56064285_20101215_32dd527327.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

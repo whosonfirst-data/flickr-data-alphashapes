@@ -1,0 +1,15 @@
+{
+  "id": 1105525,
+  "type": "Feature",
+  "properties": {
+    "name":"Sellicks Beach, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105525,
+    "woe:name":"Sellicks Beach, South Australia, Australia",
+    "woe:place_id":"HaHcsiuYAJyPZnbt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [138.431854,-35.346214,138.457779,-35.328362],
+  "geometry": {"alpha":0.00015,"bbox":[138.43185424805,-35.346214294434,138.45777893066,-35.32836151123],"coordinates":[[[[138.442841,-35.346214],[138.431854,-35.339775],[138.442154,-35.330997],[138.448334,-35.328362],[138.457779,-35.329071],[138.443359,-35.343975],[138.442841,-35.346214]]]],"created":1292539074,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/1105525_20101216_2544e0f239.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

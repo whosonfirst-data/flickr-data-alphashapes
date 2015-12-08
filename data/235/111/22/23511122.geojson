@@ -1,0 +1,15 @@
+{
+  "id": 23511122,
+  "type": "Feature",
+  "properties": {
+    "name":"Adams, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":23511122,
+    "woe:name":"Adams, North Carolina, United States",
+    "woe:place_id":"3utCQzmbAplxB5C_AQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.718262,36.22887,-81.714989,36.240585],
+  "geometry": {"alpha":0.00015,"bbox":[-81.71826171875,36.228870391846,-81.714988708496,36.240585327148],"coordinates":[[[[-81.714989,36.230667],[-81.716133,36.22887],[-81.718262,36.230755],[-81.716972,36.240585],[-81.714989,36.230667]]]],"created":1247928607,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2549/shapefiles/23511122_20090718_dd49fc3482.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

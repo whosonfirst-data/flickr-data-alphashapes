@@ -1,0 +1,15 @@
+{
+  "id": 23417004,
+  "type": "Feature",
+  "properties": {
+    "name":"Beela, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":23417004,
+    "woe:name":"Beela, Western Australia, Australia",
+    "woe:place_id":"xwmX1uCbAphTUUSnyA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [115.941811,-33.252041,115.95108,-33.241703],
+  "geometry": {"alpha":0.00015,"bbox":[115.94181060791,-33.252040863037,115.95108032227,-33.241703033447],"coordinates":[[[[115.949364,-33.252041],[115.945587,-33.251179],[115.941811,-33.251034],[115.949707,-33.242565],[115.95108,-33.241703],[115.949364,-33.251751],[115.949364,-33.252041]]]],"created":1292463006,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/23417004_20101216_3767f467d3.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

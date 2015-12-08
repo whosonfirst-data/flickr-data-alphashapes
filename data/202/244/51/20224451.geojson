@@ -1,0 +1,15 @@
+{
+  "id": 20224451,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Vives, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20224451,
+    "woe:name":"Los Vives, Valencia, Spain",
+    "woe:place_id":"HohYbzubAZ59Tdewng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.980358,38.200314,-0.969527,38.221996],
+  "geometry": {"alpha":0.00015,"bbox":[-0.98035800457001,38.200313568115,-0.96952700614929,38.221996307373],"coordinates":[[[[-0.970809,38.218964],[-0.97126,38.217415],[-0.969527,38.200314],[-0.978126,38.220177],[-0.980358,38.221996],[-0.970809,38.218964]]]],"created":1292445622,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/20224451_20101215_4794da3b3e.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

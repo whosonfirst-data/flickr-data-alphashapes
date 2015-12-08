@@ -1,0 +1,15 @@
+{
+  "id": 781790,
+  "type": "Feature",
+  "properties": {
+    "name":"Bernex, Canton of Geneva, Switzerland",
+    "placetype":"locality",
+    "woe:id":781790,
+    "woe:name":"Bernex, Canton of Geneva, Switzerland",
+    "woe:place_id":"P.CvbO6eCZ2psMI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.059432,46.159058,6.076169,46.186546],
+  "geometry": {"alpha":0.00015,"bbox":[6.0594320297241,46.159057617188,6.0761690139771,46.186546325684],"coordinates":[[[[6.060626,46.163696],[6.059432,46.180611],[6.06707,46.186546],[6.074409,46.178165],[6.076169,46.166309],[6.063251,46.159058],[6.060626,46.163696]]]],"created":1239469452,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3404/shapefiles/781790_20090411_71eb091318.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

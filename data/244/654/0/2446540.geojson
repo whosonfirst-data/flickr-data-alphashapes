@@ -1,0 +1,15 @@
+{
+  "id": 2446540,
+  "type": "Feature",
+  "properties": {
+    "name":"Maryland Point, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2446540,
+    "woe:name":"Maryland Point, Maryland, United States",
+    "woe:place_id":"sH8ZYTGbBZhnjBpk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.185013,38.391312,-77.17762,38.397099],
+  "geometry": {"alpha":0.00015,"bbox":[-77.185012817383,38.391311645508,-77.177619934082,38.39709854126],"coordinates":[[[[-77.17762,38.391312],[-77.183411,38.392548],[-77.185013,38.393524],[-77.183235,38.394615],[-77.180168,38.397099],[-77.17762,38.391312]]]],"created":1292526477,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2446540_20101216_4667c67c0e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

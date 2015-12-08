@@ -1,0 +1,15 @@
+{
+  "id": 727410,
+  "type": "Feature",
+  "properties": {
+    "name":"Baanhoek, South Holland, Netherlands",
+    "placetype":"locality",
+    "woe:id":727410,
+    "woe:name":"Baanhoek, South Holland, Netherlands",
+    "woe:place_id":"28k7ZgKeA5v3CDE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.731619,51.835274,4.754891,51.850418],
+  "geometry": {"alpha":0.00015,"bbox":[4.7316188812256,51.835273742676,4.7548909187317,51.85041809082],"coordinates":[[[[4.73618,51.846981],[4.754891,51.835274],[4.734935,51.845798],[4.731619,51.846176],[4.733397,51.850418],[4.735794,51.848503],[4.73618,51.846981]]]],"created":1292451002,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/727410_20101215_895cf418c5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

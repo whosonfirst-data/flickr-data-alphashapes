@@ -1,0 +1,15 @@
+{
+  "id": 546621,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Aegidi, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":546621,
+    "woe:name":"St. Aegidi, Upper Austria, Austria",
+    "woe:place_id":"jrx.qUmcBZpn5AI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.760444,48.470654,13.773722,48.481739],
+  "geometry": {"alpha":0.00015,"bbox":[13.760443687439,48.470653533936,13.773721694946,48.481739044189],"coordinates":[[[[13.77193,48.472466],[13.760444,48.481739],[13.772735,48.478069],[13.773722,48.471107],[13.773057,48.470654],[13.772435,48.471306],[13.77193,48.472466]]]],"created":1292520713,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/546621_20101216_9ed53ed838.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

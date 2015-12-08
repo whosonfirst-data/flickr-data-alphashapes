@@ -1,0 +1,15 @@
+{
+  "id": 34,
+  "type": "Feature",
+  "properties": {
+    "name":"Austin, Manitoba, Canada",
+    "placetype":"locality",
+    "woe:id":34,
+    "woe:name":"Austin, Manitoba, Canada",
+    "woe:place_id":"q.yAc3WaBQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.948967,49.941196,-98.929222,49.954548],
+  "geometry": {"alpha":0.00015,"bbox":[-98.94896697998,49.94119644165,-98.929222106934,49.95454788208],"coordinates":[[[[-98.935509,49.941196],[-98.948967,49.950142],[-98.937889,49.950005],[-98.929222,49.954548],[-98.935509,49.941196]]]],"created":1292531013,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/34_20101216_fb08b848de.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

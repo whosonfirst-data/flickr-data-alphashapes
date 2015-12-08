@@ -1,0 +1,15 @@
+{
+  "id": 2143596,
+  "type": "Feature",
+  "properties": {
+    "name":"Tekes, Xinjiang, China",
+    "placetype":"locality",
+    "woe:id":2143596,
+    "woe:name":"Tekes, Xinjiang, China",
+    "woe:place_id":"tEzXq8abAJgPI4P8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [81.822052,43.213333,81.834167,43.227695],
+  "geometry": {"alpha":0.00015,"bbox":[81.822052001953,43.213333129883,81.834167480469,43.227695465088],"coordinates":[[[[81.834167,43.213886],[81.833611,43.213612],[81.831108,43.213333],[81.82943,43.214558],[81.822052,43.227695],[81.832222,43.218056],[81.834167,43.213886]]]],"created":1292517183,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2143596_20101216_cf5f4bc635.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2486923,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Joseph, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2486923,
+    "woe:name":"St. Joseph, Indiana, United States",
+    "woe:place_id":"k_bwYd.bBZRDQpoz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.647896,38.04641,-87.62915,38.083614],
+  "geometry": {"alpha":0.00015,"bbox":[-87.647895812988,38.046409606934,-87.629150390625,38.083614349365],"coordinates":[[[[-87.63826,38.04641],[-87.647896,38.066135],[-87.636169,38.062164],[-87.62915,38.083614],[-87.6315,38.061832],[-87.63826,38.04641]]]],"created":1292548331,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2486923_20101217_d3a8d261cd.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

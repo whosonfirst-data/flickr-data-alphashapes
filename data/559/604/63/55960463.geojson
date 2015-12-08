@@ -1,0 +1,15 @@
+{
+  "id": 55960463,
+  "type": "Feature",
+  "properties": {
+    "name":"Oakhurst, Florida, United States",
+    "placetype":"locality",
+    "woe:id":55960463,
+    "woe:name":"Oakhurst, Florida, United States",
+    "woe:place_id":"TCXaCb2cBJXd5S5y_w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-82.810623,27.834787,-82.798759,27.839943],
+  "geometry": {"alpha":0.00015,"bbox":[-82.810623168945,27.834787368774,-82.798759460449,27.839942932129],"coordinates":[[[[-82.808136,27.834787],[-82.810623,27.839943],[-82.801201,27.839399],[-82.799858,27.838108],[-82.798759,27.836021],[-82.808136,27.834787]]]],"created":1292490188,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/55960463_20101216_9f425a0895.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 28745599,
+  "type": "Feature",
+  "properties": {
+    "name":"Huston, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745599,
+    "woe:name":"Huston, Pennsylvania, United States",
+    "woe:place_id":"cUhXfN2bCZsKi9j5vw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.012466,40.822269,-77.998978,40.830372],
+  "geometry": {"alpha":0.00015,"bbox":[-78.012466430664,40.822269439697,-77.998977661133,40.830371856689],"coordinates":[[[[-78.008125,40.822269],[-78.012466,40.82745],[-77.998978,40.830372],[-77.999313,40.825115],[-78.008125,40.822269]]]],"created":1292536469,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/28745599_20101216_60066967e9.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

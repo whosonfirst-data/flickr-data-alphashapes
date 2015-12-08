@@ -1,0 +1,15 @@
+{
+  "id": 2363823,
+  "type": "Feature",
+  "properties": {
+    "name":"Bevil Oaks, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2363823,
+    "woe:name":"Bevil Oaks, Texas, United States",
+    "woe:place_id":"6zn2TTCbAppMgF2h",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-94.275978,30.132397,-94.253479,30.156309],
+  "geometry": {"alpha":0.00015,"bbox":[-94.275978088379,30.132396697998,-94.253479003906,30.156309127808],"coordinates":[[[[-94.275696,30.156134],[-94.26963,30.150213],[-94.253479,30.132397],[-94.272476,30.145126],[-94.275978,30.156309],[-94.275696,30.156134]]]],"created":1292546479,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/2363823_20101217_b70cfa9453.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

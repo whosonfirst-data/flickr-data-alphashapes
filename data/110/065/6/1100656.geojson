@@ -1,0 +1,15 @@
+{
+  "id": 1100656,
+  "type": "Feature",
+  "properties": {
+    "name":"Brindabella, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1100656,
+    "woe:name":"Brindabella, New South Wales, Australia",
+    "woe:place_id":"CPSZV4KYAJzXVBEL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [148.723083,-35.408081,148.748184,-35.385551],
+  "geometry": {"alpha":0.00015,"bbox":[148.72308349609,-35.408081054688,148.7481842041,-35.385551452637],"coordinates":[[[[148.745361,-35.398705],[148.738235,-35.408081],[148.723083,-35.392429],[148.743896,-35.385551],[148.748184,-35.390728],[148.745361,-35.398705]]]],"created":1292542963,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/1100656_20101216_a271dda26c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

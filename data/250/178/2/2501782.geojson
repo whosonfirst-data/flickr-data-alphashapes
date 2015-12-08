@@ -1,0 +1,15 @@
+{
+  "id": 2501782,
+  "type": "Feature",
+  "properties": {
+    "name":"Summit Crossing, New York, United States",
+    "placetype":"locality",
+    "woe:id":2501782,
+    "woe:name":"Summit Crossing, New York, United States",
+    "woe:place_id":"BkLDu4ibBJzWrDOy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.022835,42.681667,-75.01902,42.686066],
+  "geometry": {"alpha":0.00015,"bbox":[-75.022834777832,42.681667327881,-75.019020080566,42.686065673828],"coordinates":[[[[-75.021004,42.681667],[-75.022835,42.681831],[-75.022331,42.682499],[-75.020226,42.685055],[-75.019516,42.685654],[-75.01902,42.686066],[-75.020836,42.681831],[-75.021004,42.681667]]]],"created":1292501107,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5290/shapefiles/2501782_20101216_fc23a08f64.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

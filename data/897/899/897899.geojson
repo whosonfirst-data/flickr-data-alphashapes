@@ -1,0 +1,15 @@
+{
+  "id": 897899,
+  "type": "Feature",
+  "properties": {
+    "name":"Lurudden, Stockholm, Sweden",
+    "placetype":"locality",
+    "woe:id":897899,
+    "woe:name":"Lurudden, Stockholm, Sweden",
+    "woe:place_id":".ZqQp6qRCJvI340",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.690134,59.232571,17.712193,59.252144],
+  "geometry": {"alpha":0.00015,"bbox":[17.690134048462,59.232570648193,17.7121925354,59.252143859863],"coordinates":[[[[17.712193,59.23595],[17.710026,59.234268],[17.705593,59.232571],[17.690134,59.249752],[17.693804,59.252144],[17.711935,59.243324],[17.712193,59.23595]]]],"created":1292506329,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/897899_20101216_6c2f2dd5a0.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

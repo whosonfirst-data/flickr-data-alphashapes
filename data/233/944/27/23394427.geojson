@@ -1,0 +1,15 @@
+{
+  "id": 23394427,
+  "type": "Feature",
+  "properties": {
+    "name":"Milan, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23394427,
+    "woe:name":"Milan, Quebec, Canada",
+    "woe:place_id":"ayfFPRubAp.khSoveA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-71.185562,45.592361,-71.183258,45.594044],
+  "geometry": {"alpha":0.00015,"bbox":[-71.185562133789,45.592361450195,-71.183258056641,45.594043731689],"coordinates":[[[[-71.183258,45.592361],[-71.185562,45.593945],[-71.185234,45.594009],[-71.18499,45.594044],[-71.183258,45.592361]]]],"created":1292544490,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/23394427_20101217_6ac0e0075a.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

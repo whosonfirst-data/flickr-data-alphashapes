@@ -1,0 +1,15 @@
+{
+  "id": 12689635,
+  "type": "Feature",
+  "properties": {
+    "name":"Berge, Spain",
+    "placetype":"locality",
+    "woe:id":12689635,
+    "woe:name":"Berge, Spain",
+    "woe:place_id":"SIZgsfGYA5pxdyWRhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.420516,40.843201,-0.418599,40.843815],
+  "geometry": {"alpha":1.5625e-05,"bbox":[-0.42051601409912,40.843200683594,-0.41859900951385,40.843814849854],"coordinates":[[[[-0.41995,40.843533],[-0.41915,40.843815],[-0.418966,40.8438],[-0.418599,40.843765],[-0.420516,40.843201],[-0.41995,40.843533]]]],"created":1292457195,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12689635_20101215_72d75093ea.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

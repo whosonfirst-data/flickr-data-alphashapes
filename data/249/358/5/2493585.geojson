@@ -1,0 +1,15 @@
+{
+  "id": 2493585,
+  "type": "Feature",
+  "properties": {
+    "name":"Silver, Arkansas, United States",
+    "placetype":"locality",
+    "woe:id":2493585,
+    "woe:name":"Silver, Arkansas, United States",
+    "woe:place_id":"bwr2bK.bBZVaofQs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-93.495667,34.549564,-93.479523,34.553326],
+  "geometry": {"alpha":0.00015,"bbox":[-93.495666503906,34.549564361572,-93.479522705078,34.553325653076],"coordinates":[[[[-93.492882,34.552643],[-93.485329,34.551941],[-93.479523,34.553326],[-93.485321,34.551891],[-93.495667,34.549564],[-93.495285,34.552322],[-93.492882,34.552643]]]],"created":1292536030,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/2493585_20101216_e88ce256da.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

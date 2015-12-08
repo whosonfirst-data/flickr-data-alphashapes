@@ -1,0 +1,15 @@
+{
+  "id": 20141111,
+  "type": "Feature",
+  "properties": {
+    "name":"San Felice, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":20141111,
+    "woe:name":"San Felice, Piedmont, Italy",
+    "woe:place_id":"WIN4H1WbAZ3VPqsepA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.777633,45.005077,7.795658,45.018333],
+  "geometry": {"alpha":0.00015,"bbox":[7.777633190155,45.005077362061,7.7956581115723,45.018333435059],"coordinates":[[[[7.795658,45.013935],[7.795486,45.011173],[7.791345,45.005077],[7.777633,45.016819],[7.794,45.018333],[7.795658,45.013935]]]],"created":1292518948,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/20141111_20101216_1205757b2d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

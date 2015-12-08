@@ -1,0 +1,15 @@
+{
+  "id": 12655488,
+  "type": "Feature",
+  "properties": {
+    "name":"Boutx, France",
+    "placetype":"locality",
+    "woe:id":12655488,
+    "woe:name":"Boutx, France",
+    "woe:place_id":"By2EoEaYA5rpRJHmig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.754194,42.917965,0.761961,42.920982],
+  "geometry": {"alpha":1e-05,"bbox":[0.75419402122498,42.917964935303,0.76196098327637,42.92098236084],"coordinates":[[[[0.761961,42.918972],[0.759429,42.917965],[0.754194,42.920856],[0.758914,42.920982],[0.761017,42.920086],[0.761961,42.919224],[0.761961,42.918972]]]],"created":1292452130,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/12655488_20101215_f1d58ac270.tar.gz"},"points":29,"type":"MultiPolygon"}
+}

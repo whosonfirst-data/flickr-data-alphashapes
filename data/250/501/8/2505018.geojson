@@ -1,0 +1,15 @@
+{
+  "id": 2505018,
+  "type": "Feature",
+  "properties": {
+    "name":"Texas, Ohio, United States",
+    "placetype":"locality",
+    "woe:id":2505018,
+    "woe:name":"Texas, Ohio, United States",
+    "woe:place_id":"6b6des.bBJxL7yR3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.956123,41.421474,-83.94091,41.429214],
+  "geometry": {"alpha":0.00015,"bbox":[-83.956123352051,41.421474456787,-83.940910339355,41.429214477539],"coordinates":[[[[-83.94091,41.424698],[-83.948746,41.421474],[-83.956123,41.423599],[-83.945847,41.429214],[-83.945374,41.42886],[-83.94091,41.424698]]]],"created":1292527981,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2505018_20101216_441b34f6aa.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

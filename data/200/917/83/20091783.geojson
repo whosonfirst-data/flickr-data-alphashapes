@@ -1,0 +1,15 @@
+{
+  "id": 20091783,
+  "type": "Feature",
+  "properties": {
+    "name":"Low Thornley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20091783,
+    "woe:name":"Low Thornley, England, United Kingdom",
+    "woe:place_id":"CVZHrHibAZwiI3qnlA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.735839,54.936214,-1.727085,54.940914],
+  "geometry": {"alpha":0.00015,"bbox":[-1.735839009285,54.936214447021,-1.7270849943161,54.940914154053],"coordinates":[[[[-1.735839,54.936214],[-1.735582,54.938385],[-1.732664,54.939568],[-1.729708,54.940914],[-1.727085,54.940529],[-1.735839,54.936214]]]],"created":1292454905,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/20091783_20101215_0a26d0a674.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

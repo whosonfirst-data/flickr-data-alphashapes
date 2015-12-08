@@ -1,0 +1,15 @@
+{
+  "id": 1064283,
+  "type": "Feature",
+  "properties": {
+    "name":"Adamstown, Pitcairn Islands",
+    "placetype":"locality",
+    "woe:id":1064283,
+    "woe:name":"Adamstown, Pitcairn Islands",
+    "woe:place_id":"AS4fgu6YAZp6Z3EE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-130.115036,-25.07193,-130.096359,-25.064453],
+  "geometry": {"alpha":0.00015,"bbox":[-130.11503601074,-25.071929931641,-130.09635925293,-25.064453125],"coordinates":[[[[-130.098587,-25.06716],[-130.096359,-25.068747],[-130.100754,-25.07193],[-130.115036,-25.064453],[-130.104858,-25.065447],[-130.098587,-25.06716]]]],"created":1292451362,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/1064283_20101215_55cefb852c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12381,
+  "type": "Feature",
+  "properties": {
+    "name":"Bentley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12381,
+    "woe:name":"Bentley, England, United Kingdom",
+    "woe:place_id":"g5M55hCYA59Nmw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.461254,53.78553,-0.449109,53.804134],
+  "geometry": {"alpha":0.00015,"bbox":[-0.46125400066376,53.785530090332,-0.44910898804665,53.804134368896],"coordinates":[[[[-0.450954,53.786808],[-0.449945,53.786568],[-0.449109,53.786182],[-0.452392,53.78553],[-0.461254,53.804111],[-0.460739,53.804134],[-0.450954,53.786808]]]],"created":1292443116,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/12381_20101215_e8b103d3ee.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

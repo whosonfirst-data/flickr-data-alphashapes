@@ -1,0 +1,15 @@
+{
+  "id": 944957,
+  "type": "Feature",
+  "properties": {
+    "name":"Agnandia, Thessalia, Greece",
+    "placetype":"locality",
+    "woe:id":944957,
+    "woe:name":"Agnandia, Thessalia, Greece",
+    "woe:place_id":"AoAC9vaQBZjd.m0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [21.455183,39.859352,21.475353,39.876545],
+  "geometry": {"alpha":0.00015,"bbox":[21.455183029175,39.859352111816,21.475353240967,39.876544952393],"coordinates":[[[[21.459818,39.85955],[21.455183,39.866993],[21.460161,39.875626],[21.462908,39.876545],[21.475353,39.876545],[21.465654,39.859352],[21.459818,39.85955]]]],"created":1292444163,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/944957_20101215_00581427d8.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

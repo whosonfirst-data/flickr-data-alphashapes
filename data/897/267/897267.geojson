@@ -1,0 +1,15 @@
+{
+  "id": 897267,
+  "type": "Feature",
+  "properties": {
+    "name":"Lima, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":897267,
+    "woe:name":"Lima, Dalarna, Sweden",
+    "woe:place_id":"ffb3.lSRCJtWfQg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.335771,60.971008,13.341296,60.984619],
+  "geometry": {"alpha":0.00015,"bbox":[13.335770606995,60.971008300781,13.341296195984,60.984619140625],"coordinates":[[[[13.341007,60.972023],[13.341296,60.971008],[13.338561,60.971127],[13.335771,60.984619],[13.337831,60.98233],[13.340479,60.975029],[13.341007,60.972023]]]],"created":1292542114,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/897267_20101216_5ed151194e.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

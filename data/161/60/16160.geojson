@@ -1,0 +1,15 @@
+{
+  "id": 16160,
+  "type": "Feature",
+  "properties": {
+    "name":"Clapton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":16160,
+    "woe:name":"Clapton, England, United Kingdom",
+    "woe:place_id":"k9ealvKYB53tUQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.835845,50.854507,-2.828979,50.856594],
+  "geometry": {"alpha":0.00015,"bbox":[-2.8358449935913,50.854507446289,-2.8289790153503,50.856594085693],"coordinates":[[[[-2.834472,50.854725],[-2.835845,50.855591],[-2.835159,50.856461],[-2.832069,50.856594],[-2.828979,50.854507],[-2.834472,50.854725]]]],"created":1292465344,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5166/shapefiles/16160_20101216_c6b585821e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1100339,
+  "type": "Feature",
+  "properties": {
+    "name":"Biggenden, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":1100339,
+    "woe:name":"Biggenden, Queensland, Australia",
+    "woe:place_id":"wiNhI2qYAJykwVNb",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [152.040817,-25.517036,152.049744,-25.510221],
+  "geometry": {"alpha":0.00015,"bbox":[152.04081726074,-25.517036437988,152.04974365234,-25.510221481323],"coordinates":[[[[152.043396,-25.51177],[152.049744,-25.510221],[152.047867,-25.513369],[152.043915,-25.517036],[152.040817,-25.51425],[152.043396,-25.51177]]]],"created":1292542124,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/1100339_20101216_49ef01ba37.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

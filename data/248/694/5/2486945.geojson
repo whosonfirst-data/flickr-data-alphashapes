@@ -1,0 +1,15 @@
+{
+  "id": 2486945,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Josephs, Florida, United States",
+    "placetype":"locality",
+    "woe:id":2486945,
+    "woe:name":"St. Josephs, Florida, United States",
+    "woe:place_id":"I.ZW5iCbBZStKaf2",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.333672,28.805656,-81.317375,28.814905],
+  "geometry": {"alpha":0.00015,"bbox":[-81.333671569824,28.805656433105,-81.317375183105,28.814905166626],"coordinates":[[[[-81.325218,28.814905],[-81.321144,28.813995],[-81.317375,28.805656],[-81.330414,28.809387],[-81.333672,28.809633],[-81.325218,28.814905]]]],"created":1292518707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2486945_20101216_eb3b780cd3.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

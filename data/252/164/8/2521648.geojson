@@ -1,0 +1,15 @@
+{
+  "id": 2521648,
+  "type": "Feature",
+  "properties": {
+    "name":"Wimsattville, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2521648,
+    "woe:name":"Wimsattville, New Mexico, United States",
+    "woe:place_id":"4o76UC6bBJ5xfOON",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.07663,32.799397,-108.05648,32.816601],
+  "geometry": {"alpha":0.00015,"bbox":[-108.07662963867,32.799396514893,-108.05648040771,32.816600799561],"coordinates":[[[[-108.073021,32.806843],[-108.05648,32.816601],[-108.062553,32.804588],[-108.07196,32.799397],[-108.07663,32.808632],[-108.073021,32.806843]]]],"created":1292520054,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/2521648_20101216_e3ca792b34.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

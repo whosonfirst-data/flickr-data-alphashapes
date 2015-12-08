@@ -1,0 +1,15 @@
+{
+  "id": 29390552,
+  "type": "Feature",
+  "properties": {
+    "name":"Mamak, Ankara, Turkey",
+    "placetype":"county",
+    "woe:id":29390552,
+    "woe:name":"Mamak, Ankara, Turkey",
+    "woe:place_id":"rBhds4CbCJ_XQf4EOQ",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [32.909546,39.892879,33.041382,39.957123],
+  "geometry": {"alpha":0.0015,"bbox":[32.909545898438,39.892879486084,33.041381835938,39.957122802734],"coordinates":[[[[33.041382,39.947319],[33.016663,39.892879],[32.980785,39.931656],[32.942505,39.957123],[32.909546,39.935013],[32.980785,39.931656],[33.041382,39.947319]]]],"created":1292549586,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/29390552_20101217_df0d582150.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

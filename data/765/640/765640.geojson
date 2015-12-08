@@ -1,0 +1,15 @@
+{
+  "id": 765640,
+  "type": "Feature",
+  "properties": {
+    "name":"Los Callejos, Asturias, Spain",
+    "placetype":"locality",
+    "woe:id":765640,
+    "woe:name":"Los Callejos, Asturias, Spain",
+    "woe:place_id":"Zqmu68GeB5lWBXc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.927196,43.392513,-4.91508,43.401867],
+  "geometry": {"alpha":0.00015,"bbox":[-4.9271960258484,43.392513275146,-4.9150800704956,43.401866912842],"coordinates":[[[[-4.918613,43.392513],[-4.927196,43.399433],[-4.917411,43.401867],[-4.91508,43.40155],[-4.918613,43.392513]]]],"created":1292439903,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/765640_20101215_cbafd8031f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

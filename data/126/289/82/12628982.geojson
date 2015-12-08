@@ -1,0 +1,15 @@
+{
+  "id": 12628982,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wittlich, Germany",
+    "placetype":"locality",
+    "woe:id":12628982,
+    "woe:name":"Gemeinde Wittlich, Germany",
+    "woe:place_id":"20TQlduYA5oLAE23Aw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.886711,49.985172,6.890584,49.988537],
+  "geometry": {"alpha":1e-05,"bbox":[6.8867111206055,49.985172271729,6.8905839920044,49.988536834717],"coordinates":[[[[6.886721,49.986172],[6.886711,49.988537],[6.890584,49.986683],[6.888771,49.986111],[6.887869,49.985172],[6.886721,49.986172]]]],"created":1239495741,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3307/shapefiles/12628982_20090412_6cf9ea1420.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

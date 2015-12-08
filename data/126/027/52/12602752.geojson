@@ -1,0 +1,15 @@
+{
+  "id": 12602752,
+  "type": "Feature",
+  "properties": {
+    "name":"Ham, Belgium",
+    "placetype":"locality",
+    "woe:id":12602752,
+    "woe:name":"Ham, Belgium",
+    "woe:place_id":"t1I0sSiYA5pdh0cZPA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.145077,51.127201,5.149884,51.130295],
+  "geometry": {"alpha":1e-05,"bbox":[5.1450772285461,51.127201080322,5.149884223938,51.130294799805],"coordinates":[[[[5.146901,51.129803],[5.147405,51.130295],[5.149433,51.129627],[5.149884,51.12949],[5.148124,51.127769],[5.145292,51.127201],[5.145077,51.128723],[5.14674,51.129646],[5.146901,51.129803]]]],"created":1292519430,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/12602752_20101216_fd6fb03b30.tar.gz"},"points":46,"type":"MultiPolygon"}
+}

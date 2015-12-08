@@ -1,0 +1,15 @@
+{
+  "id": 20070817,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Caseros, Corrientes, Argentina",
+    "placetype":"county",
+    "woe:id":20070817,
+    "woe:name":"Monte Caseros, Corrientes, Argentina",
+    "woe:place_id":"870okO6bAZywNyMbDA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-57.648727,-30.250614,-57.631187,-30.212793],
+  "geometry": {"alpha":0.0015,"bbox":[-57.648727416992,-30.25061416626,-57.631187438965,-30.21279335022],"coordinates":[[[[-57.631187,-30.250614],[-57.647839,-30.249132],[-57.648727,-30.245836],[-57.631531,-30.212793],[-57.631187,-30.250614]]]],"created":1292517689,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20070817_20101216_31cb331990.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

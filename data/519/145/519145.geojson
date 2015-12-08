@@ -1,0 +1,15 @@
+{
+  "id": 519145,
+  "type": "Feature",
+  "properties": {
+    "name":"Sobota, Lodz, Poland",
+    "placetype":"locality",
+    "woe:id":519145,
+    "woe:name":"Sobota, Lodz, Poland",
+    "woe:place_id":"rPQO9LKcAJXAglk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [19.6845,52.114666,19.685165,52.114834],
+  "geometry": {"alpha":0.00015,"bbox":[19.684499740601,52.114665985107,19.685165405273,52.114833831787],"coordinates":[[[[19.6845,52.114666],[19.6845,52.114834],[19.684666,52.114834],[19.685165,52.114666],[19.684999,52.114666],[19.6845,52.114666]]]],"created":1292404804,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/519145_20101215_4a0317d8f5.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

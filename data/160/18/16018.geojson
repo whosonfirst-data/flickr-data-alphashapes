@@ -1,0 +1,15 @@
+{
+  "id": 16018,
+  "type": "Feature",
+  "properties": {
+    "name":"Christchurch, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":16018,
+    "woe:name":"Christchurch, England, United Kingdom",
+    "woe:place_id":"L5KXFveYB5yRoQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.638263,51.811783,-2.627449,51.816574],
+  "geometry": {"alpha":0.00015,"bbox":[-2.6382629871368,51.811782836914,-2.6274490356445,51.81657409668],"coordinates":[[[[-2.631011,51.811932],[-2.638263,51.816097],[-2.637062,51.816574],[-2.627449,51.813072],[-2.627964,51.812767],[-2.629373,51.811783],[-2.631011,51.811932]]]],"created":1292521657,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/16018_20101216_050641cecf.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

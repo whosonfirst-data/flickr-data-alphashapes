@@ -1,0 +1,15 @@
+{
+  "id": 466235,
+  "type": "Feature",
+  "properties": {
+    "name":"Puerto Belgrano, Buenos Aires, Argentina",
+    "placetype":"locality",
+    "woe:id":466235,
+    "woe:name":"Puerto Belgrano, Buenos Aires, Argentina",
+    "woe:place_id":"iYLx7p.dB5oubnc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-62.103996,-38.886288,-62.099361,-38.883949],
+  "geometry": {"alpha":0.00015,"bbox":[-62.103996276855,-38.886287689209,-62.099361419678,-38.883949279785],"coordinates":[[[[-62.099533,-38.884151],[-62.099361,-38.885021],[-62.103653,-38.886288],[-62.103996,-38.884083],[-62.101421,-38.883949],[-62.10022,-38.884018],[-62.099533,-38.884151]]]],"created":1292504643,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/466235_20101216_a12ff9669e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

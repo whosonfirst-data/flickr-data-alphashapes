@@ -1,0 +1,15 @@
+{
+  "id": 552474,
+  "type": "Feature",
+  "properties": {
+    "name":"Borbjerg, Midtjylland, Denmark",
+    "placetype":"locality",
+    "woe:id":552474,
+    "woe:name":"Borbjerg, Midtjylland, Denmark",
+    "woe:place_id":"p5b06kacBJ4g45I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.757004,56.406776,8.76224,56.410255],
+  "geometry": {"alpha":0.00015,"bbox":[8.7570037841797,56.406776428223,8.7622404098511,56.410255432129],"coordinates":[[[[8.76136,56.409271],[8.76224,56.408855],[8.761103,56.406776],[8.759193,56.40799],[8.757004,56.410255],[8.76136,56.409271]]]],"created":1292498530,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5161/shapefiles/552474_20101216_b3a01f79d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

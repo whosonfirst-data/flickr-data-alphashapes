@@ -1,0 +1,15 @@
+{
+  "id": 2419007,
+  "type": "Feature",
+  "properties": {
+    "name":"Hayden Landing, Maine, United States",
+    "placetype":"locality",
+    "woe:id":2419007,
+    "woe:name":"Hayden Landing, Maine, United States",
+    "woe:place_id":"h_Aa39CbBZ2wOe08",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.096718,45.284065,-70.079727,45.304958],
+  "geometry": {"alpha":0.00015,"bbox":[-70.096717834473,45.284065246582,-70.079727172852,45.304958343506],"coordinates":[[[[-70.08445,45.293789],[-70.079727,45.285999],[-70.088478,45.284065],[-70.091568,45.290165],[-70.096718,45.304958],[-70.08445,45.293789]]]],"created":1248031444,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2587/shapefiles/2419007_20090719_7f6b738a74.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

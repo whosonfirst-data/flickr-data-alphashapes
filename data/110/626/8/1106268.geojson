@@ -1,0 +1,15 @@
+{
+  "id": 1106268,
+  "type": "Feature",
+  "properties": {
+    "name":"Urana, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":1106268,
+    "woe:name":"Urana, New South Wales, Australia",
+    "woe:place_id":"VgnsDTiYAJxE3bUC",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [146.259262,-35.338093,146.273514,-35.322826],
+  "geometry": {"alpha":0.00015,"bbox":[146.25926208496,-35.338092803955,146.27351379395,-35.322826385498],"coordinates":[[[[146.27243,-35.337402],[146.269394,-35.338093],[146.259262,-35.329342],[146.260895,-35.322826],[146.267853,-35.329269],[146.273514,-35.334454],[146.27243,-35.337402]]]],"created":1292523125,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/1106268_20101216_ca7c444bb9.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

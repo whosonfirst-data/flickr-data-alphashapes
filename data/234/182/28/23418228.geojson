@@ -1,0 +1,15 @@
+{
+  "id": 23418228,
+  "type": "Feature",
+  "properties": {
+    "name":"Port Angeles East, Washington, United States",
+    "placetype":"locality",
+    "woe:id":23418228,
+    "woe:name":"Port Angeles East, Washington, United States",
+    "woe:place_id":"OBrAj12bApj9ApMogg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.399811,48.10577,-123.394318,48.114162],
+  "geometry": {"alpha":0.00015,"bbox":[-123.39981079102,48.105770111084,-123.39431762695,48.114162445068],"coordinates":[[[[-123.395264,48.106113],[-123.399811,48.10577],[-123.397621,48.114162],[-123.394318,48.111557],[-123.395264,48.106113]]]],"created":1292523654,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/23418228_20101216_0a9398a768.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

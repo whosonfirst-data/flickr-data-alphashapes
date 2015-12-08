@@ -1,0 +1,15 @@
+{
+  "id": 23388462,
+  "type": "Feature",
+  "properties": {
+    "name":"Gaubitsch, Austria",
+    "placetype":"locality",
+    "woe:id":23388462,
+    "woe:name":"Gaubitsch, Austria",
+    "woe:place_id":"xrUkstGbAp8.JdkBfQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.384369,48.647743,16.385118,48.648346],
+  "geometry": {"alpha":1e-05,"bbox":[16.384368896484,48.647743225098,16.385118484497,48.648345947266],"coordinates":[[[[16.384443,48.648087],[16.384369,48.648224],[16.384649,48.648346],[16.38471,48.648327],[16.384836,48.64827],[16.385118,48.647743],[16.384443,48.648087]]]],"created":1292432644,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/23388462_20101215_b09b83f846.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

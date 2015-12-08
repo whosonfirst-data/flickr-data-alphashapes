@@ -1,0 +1,15 @@
+{
+  "id": 561680,
+  "type": "Feature",
+  "properties": {
+    "name":"Merrion, Dublin, Ireland",
+    "placetype":"locality",
+    "woe:id":561680,
+    "woe:name":"Merrion, Dublin, Ireland",
+    "woe:place_id":"ATDJSdOcB50FlhU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-6.259331,53.334152,-6.245845,53.341976],
+  "geometry": {"alpha":0.00015,"bbox":[-6.2593312263489,53.33415222168,-6.2458448410034,53.341976165771],"coordinates":[[[[-6.25087,53.341003],[-6.245845,53.340378],[-6.24695,53.335564],[-6.251606,53.334152],[-6.259331,53.339581],[-6.253623,53.341976],[-6.25087,53.341003]]]],"created":1292524658,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5206/shapefiles/561680_20101216_6c28c3301b.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

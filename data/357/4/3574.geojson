@@ -1,0 +1,15 @@
+{
+  "id": 3574,
+  "type": "Feature",
+  "properties": {
+    "name":"Lacolle, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":3574,
+    "woe:name":"Lacolle, Quebec, Canada",
+    "woe:place_id":"Uxo9aA6aBJtq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.386871,45.072613,-73.366226,45.090794],
+  "geometry": {"alpha":0.00015,"bbox":[-73.386871337891,45.072612762451,-73.366226196289,45.090793609619],"coordinates":[[[[-73.366226,45.082794],[-73.366959,45.072613],[-73.376823,45.073338],[-73.386871,45.085945],[-73.373138,45.090794],[-73.366226,45.082794]]]],"created":1292528715,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/3574_20101216_e2ae153969.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

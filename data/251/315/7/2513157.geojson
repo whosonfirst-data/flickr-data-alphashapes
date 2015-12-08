@@ -1,0 +1,15 @@
+{
+  "id": 2513157,
+  "type": "Feature",
+  "properties": {
+    "name":"Waihou, Hawaii, United States",
+    "placetype":"locality",
+    "woe:id":2513157,
+    "woe:name":"Waihou, Hawaii, United States",
+    "woe:place_id":".NYqls2bBJ3L9YAU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-155.967453,19.560139,-155.961624,19.579067],
+  "geometry": {"alpha":0.00015,"bbox":[-155.96745300293,19.560138702393,-155.96162414551,19.579067230225],"coordinates":[[[[-155.967453,19.579067],[-155.961624,19.561527],[-155.96228,19.56126],[-155.964767,19.560305],[-155.965378,19.560139],[-155.967453,19.579067]]]],"created":1292494323,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/2513157_20101216_cf5bd1c8cf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

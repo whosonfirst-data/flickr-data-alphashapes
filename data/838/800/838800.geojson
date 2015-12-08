@@ -1,0 +1,15 @@
+{
+  "id": 838800,
+  "type": "Feature",
+  "properties": {
+    "name":"Pliska, Shumen, Bulgaria",
+    "placetype":"locality",
+    "woe:id":838800,
+    "woe:name":"Pliska, Shumen, Bulgaria",
+    "woe:place_id":"Fv8YdIiRApRGHmw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [27.113571,43.361382,27.14035,43.375107],
+  "geometry": {"alpha":0.00015,"bbox":[27.113571166992,43.361381530762,27.140350341797,43.375106811523],"coordinates":[[[[27.120094,43.368618],[27.123528,43.369244],[27.14035,43.375107],[27.125244,43.362881],[27.113914,43.361382],[27.113571,43.366123],[27.120094,43.368618]]]],"created":1292516703,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/838800_20101216_5c017b0f0a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

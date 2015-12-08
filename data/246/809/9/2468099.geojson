@@ -1,0 +1,15 @@
+{
+  "id": 2468099,
+  "type": "Feature",
+  "properties": {
+    "name":"Papineau, Illinois, United States",
+    "placetype":"locality",
+    "woe:id":2468099,
+    "woe:name":"Papineau, Illinois, United States",
+    "woe:place_id":"FGd_oYmbBZo0uZuz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-87.717705,40.967754,-87.7164,40.970581],
+  "geometry": {"alpha":0.00015,"bbox":[-87.717704772949,40.967754364014,-87.716400146484,40.970581054688],"coordinates":[[[[-87.7164,40.969723],[-87.71653,40.968697],[-87.717171,40.967754],[-87.717705,40.970573],[-87.7164,40.970581],[-87.7164,40.969723]]]],"created":1292460606,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2468099_20101216_d03eb718d2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

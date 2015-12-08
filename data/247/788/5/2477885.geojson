@@ -1,0 +1,15 @@
+{
+  "id": 2477885,
+  "type": "Feature",
+  "properties": {
+    "name":"Quines Creek, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2477885,
+    "woe:name":"Quines Creek, Oregon, United States",
+    "woe:place_id":".5EoKBSbBZttJOUX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.276604,42.778881,-123.262871,42.785576],
+  "geometry": {"alpha":0.00015,"bbox":[-123.27660369873,42.778881072998,-123.26287078857,42.785575866699],"coordinates":[[[[-123.276405,42.778881],[-123.276604,42.779118],[-123.273125,42.78532],[-123.271538,42.785576],[-123.262871,42.780834],[-123.276405,42.778881]]]],"created":1292448721,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/2477885_20101215_9dbcc94a85.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

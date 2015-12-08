@@ -1,0 +1,15 @@
+{
+  "id": 27811,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Stoke, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":27811,
+    "woe:name":"Lower Stoke, England, United Kingdom",
+    "woe:place_id":"f0J0nz6bBpR2nw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.646476,51.449993,0.664801,51.45628],
+  "geometry": {"alpha":0.00015,"bbox":[0.64647597074509,51.449993133545,0.66480100154877,51.456279754639],"coordinates":[[[[0.64888,51.452938],[0.646476,51.4547],[0.651111,51.455448],[0.659737,51.45628],[0.664801,51.455132],[0.65978,51.449993],[0.64888,51.452938]]]],"created":1292446824,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5002/shapefiles/27811_20101215_3a7ef38362.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

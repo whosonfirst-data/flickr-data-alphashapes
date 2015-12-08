@@ -1,0 +1,15 @@
+{
+  "id": 768765,
+  "type": "Feature",
+  "properties": {
+    "name":"Olost, Catalonia, Spain",
+    "placetype":"locality",
+    "woe:id":768765,
+    "woe:name":"Olost, Catalonia, Spain",
+    "woe:place_id":"LGrCexueB5Svq3I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.082595,41.982334,2.097358,41.988205],
+  "geometry": {"alpha":0.00015,"bbox":[2.0825951099396,41.982334136963,2.0973579883575,41.988204956055],"coordinates":[[[[2.094107,41.985069],[2.082595,41.982334],[2.090835,41.987312],[2.095985,41.988205],[2.097358,41.98629],[2.096779,41.985588],[2.094107,41.985069]]]],"created":1292544036,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/768765_20101217_4116823903.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 651540,
+  "type": "Feature",
+  "properties": {
+    "name":"Garkofen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":651540,
+    "woe:name":"Garkofen, Bavaria, Germany",
+    "woe:place_id":"ZpvN2JKfBJ2vqXo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.827243,48.164669,11.837008,48.176334],
+  "geometry": {"alpha":0.00015,"bbox":[11.827242851257,48.164669036865,11.837008476257,48.176334381104],"coordinates":[[[[11.827983,48.16468],[11.827243,48.164669],[11.827286,48.165134],[11.830708,48.17384],[11.835833,48.176334],[11.837008,48.172352],[11.827983,48.16468]]]],"created":1292525225,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/651540_20101216_612abdf6e5.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

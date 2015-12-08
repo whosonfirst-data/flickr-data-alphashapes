@@ -1,0 +1,15 @@
+{
+  "id": 20154173,
+  "type": "Feature",
+  "properties": {
+    "name":"Frauenberg, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":20154173,
+    "woe:name":"Frauenberg, Bavaria, Germany",
+    "woe:place_id":"IjMQTtabAZ0z3iArsg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.744166,48.782333,13.763637,48.787979],
+  "geometry": {"alpha":0.00015,"bbox":[13.744166374207,48.782333374023,13.76363658905,48.787979125977],"coordinates":[[[[13.7445,48.785332],[13.744166,48.7855],[13.744333,48.7855],[13.7445,48.7855],[13.763637,48.787979],[13.748833,48.782333],[13.7445,48.785332]]]],"created":1292480285,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/20154173_20101216_dedd64eede.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

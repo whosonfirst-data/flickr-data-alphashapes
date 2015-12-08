@@ -1,0 +1,15 @@
+{
+  "id": 112001,
+  "type": "Feature",
+  "properties": {
+    "name":"Amacueca, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":112001,
+    "woe:name":"Amacueca, Jalisco, Mexico",
+    "woe:place_id":"nEBmQzKYAJ5_FCs",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.611885,19.989803,-103.586823,20.023193],
+  "geometry": {"alpha":0.00015,"bbox":[-103.6118850708,19.989803314209,-103.58682250977,20.023193359375],"coordinates":[[[[-103.598152,20.012306],[-103.595749,20.023193],[-103.592659,20.015694],[-103.586823,20.006741],[-103.592941,19.998442],[-103.594032,19.989803],[-103.611885,20.004644],[-103.598152,20.012306]]]],"created":1292537773,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/112001_20101216_b48610aa53.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

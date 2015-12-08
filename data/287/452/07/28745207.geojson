@@ -1,0 +1,15 @@
+{
+  "id": 28745207,
+  "type": "Feature",
+  "properties": {
+    "name":"Lower Salford, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745207,
+    "woe:name":"Lower Salford, Pennsylvania, United States",
+    "woe:place_id":"93aAp62bCZsLA_ubBg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.400711,40.278149,-75.392601,40.283779],
+  "geometry": {"alpha":0.00015,"bbox":[-75.40071105957,40.278148651123,-75.392601013184,40.283779144287],"coordinates":[[[[-75.392601,40.283779],[-75.393913,40.281639],[-75.395042,40.281128],[-75.399857,40.278149],[-75.400711,40.27879],[-75.392601,40.283779]]]],"created":1292441385,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/28745207_20101215_a4923dc35c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

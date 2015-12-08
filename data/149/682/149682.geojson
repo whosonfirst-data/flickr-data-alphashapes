@@ -1,0 +1,15 @@
+{
+  "id": 149682,
+  "type": "Feature",
+  "properties": {
+    "name":"Tlaxco, Tlaxcala, Mexico",
+    "placetype":"locality",
+    "woe:id":149682,
+    "woe:name":"Tlaxco, Tlaxcala, Mexico",
+    "woe:place_id":"bHCE9deYBZVxkuU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-98.12542,19.605022,-98.111664,19.623671],
+  "geometry": {"alpha":0.00015,"bbox":[-98.125419616699,19.60502243042,-98.111663818359,19.623670578003],"coordinates":[[[[-98.12516,19.623671],[-98.120216,19.620319],[-98.111664,19.612522],[-98.124115,19.605022],[-98.12542,19.623589],[-98.12516,19.623671]]]],"created":1292539011,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/149682_20101216_e8866c3d64.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681354,
+  "type": "Feature",
+  "properties": {
+    "name":"Revello, Italy",
+    "placetype":"locality",
+    "woe:id":12681354,
+    "woe:name":"Revello, Italy",
+    "woe:place_id":"UwGZrdyYA5rhmLbs2w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.435855,44.720909,7.437518,44.721367],
+  "geometry": {"alpha":1e-05,"bbox":[7.4358549118042,44.720909118652,7.437518119812,44.721366882324],"coordinates":[[[[7.4368,44.720909],[7.436719,44.720909],[7.436558,44.720985],[7.435855,44.721367],[7.436027,44.721352],[7.437518,44.721024],[7.4368,44.720909]]]],"created":1292523638,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/12681354_20101216_56b10e691f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

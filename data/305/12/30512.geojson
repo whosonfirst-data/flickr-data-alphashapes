@@ -1,0 +1,15 @@
+{
+  "id": 30512,
+  "type": "Feature",
+  "properties": {
+    "name":"North Middleton, Scotland, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30512,
+    "woe:name":"North Middleton, Scotland, United Kingdom",
+    "woe:place_id":"G8ac5fiaAZn41w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.036947,55.81691,-3.020381,55.821247],
+  "geometry": {"alpha":0.00015,"bbox":[-3.0369470119476,55.816909790039,-3.0203809738159,55.82124710083],"coordinates":[[[[-3.020381,55.821247],[-3.02227,55.819366],[-3.031089,55.81691],[-3.036947,55.819321],[-3.025242,55.820831],[-3.020381,55.821247]]]],"created":1292450419,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/30512_20101215_426a14dc33.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

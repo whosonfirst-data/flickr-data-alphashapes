@@ -1,0 +1,15 @@
+{
+  "id": 20124654,
+  "type": "Feature",
+  "properties": {
+    "name":"Fontana, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":20124654,
+    "woe:name":"Fontana, Tuscany, Italy",
+    "woe:place_id":"ftzSSk.bAZ26TQmP.A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.156117,43.39436,11.173252,43.419216],
+  "geometry": {"alpha":0.00015,"bbox":[11.15611743927,43.394359588623,11.173252105713,43.419216156006],"coordinates":[[[[11.173252,43.408787],[11.171078,43.39436],[11.169061,43.404301],[11.156117,43.414928],[11.16168,43.418964],[11.163128,43.419216],[11.173252,43.408787]]]],"created":1292445546,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/20124654_20101215_59be65281c.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

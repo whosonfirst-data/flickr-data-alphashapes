@@ -1,0 +1,15 @@
+{
+  "id": 2384920,
+  "type": "Feature",
+  "properties": {
+    "name":"Corbettsville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2384920,
+    "woe:name":"Corbettsville, New York, United States",
+    "woe:place_id":"wCNn0h.bApQoNP86",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.798622,42.019451,-75.779236,42.025833],
+  "geometry": {"alpha":0.00015,"bbox":[-75.798622131348,42.019451141357,-75.779235839844,42.025833129883],"coordinates":[[[[-75.780167,42.019833],[-75.783424,42.022057],[-75.798622,42.023483],[-75.781837,42.025833],[-75.779236,42.019451],[-75.780167,42.019833]]]],"created":1292538098,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/2384920_20101216_0663e0ba78.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

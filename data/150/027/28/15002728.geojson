@@ -1,0 +1,15 @@
+{
+  "id": 15002728,
+  "type": "Feature",
+  "properties": {
+    "name":"Niddatal, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":15002728,
+    "woe:name":"Niddatal, Hesse, Germany",
+    "woe:place_id":"MrB.DAaYBJzApTrvCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.801336,50.289284,8.822333,50.304665],
+  "geometry": {"alpha":0.00015,"bbox":[8.8013362884521,50.289283752441,8.8223333358765,50.304664611816],"coordinates":[[[[8.822333,50.2995],[8.820166,50.293999],[8.816356,50.294712],[8.801336,50.289284],[8.812833,50.304665],[8.822333,50.2995]]]],"created":1292536179,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/15002728_20101216_b1074e6a3c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

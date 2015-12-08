@@ -1,0 +1,15 @@
+{
+  "id": 12680210,
+  "type": "Feature",
+  "properties": {
+    "name":"Pachino, Italy",
+    "placetype":"locality",
+    "woe:id":12680210,
+    "woe:name":"Pachino, Italy",
+    "woe:place_id":"7Duei5SYA5reqTs57Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.072555,36.651299,15.077458,36.654648],
+  "geometry": {"alpha":1e-05,"bbox":[15.072554588318,36.651298522949,15.077458381653,36.654647827148],"coordinates":[[[[15.077458,36.651299],[15.076503,36.651859],[15.072555,36.653545],[15.076675,36.654648],[15.077458,36.651299]]]],"created":1292551538,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/12680210_20101217_ed2db294f6.tar.gz"},"points":20,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20170623,
+  "type": "Feature",
+  "properties": {
+    "name":"Labbeck, North Rhine-Westphalia, Germany",
+    "placetype":"locality",
+    "woe:id":20170623,
+    "woe:name":"Labbeck, North Rhine-Westphalia, Germany",
+    "woe:place_id":"7NUeEyObAZ3X4yErTQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.36589,51.643589,6.380996,51.648384],
+  "geometry": {"alpha":0.00015,"bbox":[6.3658900260925,51.643589019775,6.3809962272644,51.648384094238],"coordinates":[[[[6.38002,51.644348],[6.373958,51.643589],[6.36589,51.648384],[6.371726,51.646465],[6.380996,51.645401],[6.38002,51.644348]]]],"created":1292449211,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/20170623_20101215_898c68d533.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

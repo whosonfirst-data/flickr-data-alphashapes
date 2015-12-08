@@ -1,0 +1,15 @@
+{
+  "id": 188,
+  "type": "Feature",
+  "properties": {
+    "name":"Burnside, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":188,
+    "woe:name":"Burnside, Newfoundland and Labrador, Canada",
+    "woe:place_id":"1U6NrpGYCZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-53.789833,48.704838,-53.782883,48.718376],
+  "geometry": {"alpha":0.00015,"bbox":[-53.789833068848,48.704837799072,-53.78288269043,48.718376159668],"coordinates":[[[[-53.785114,48.718376],[-53.782883,48.715855],[-53.789833,48.704838],[-53.788033,48.717751],[-53.785114,48.718376]]]],"created":1292497987,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/188_20101216_d688992058.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

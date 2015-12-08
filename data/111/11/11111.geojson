@@ -1,0 +1,15 @@
+{
+  "id": 11111,
+  "type": "Feature",
+  "properties": {
+    "name":"Ash Priors, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":11111,
+    "woe:name":"Ash Priors, England, United Kingdom",
+    "woe:place_id":".D_r06WYAJ1Q0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.22174,51.052113,-3.206291,51.061546],
+  "geometry": {"alpha":0.00015,"bbox":[-3.2217400074005,51.052112579346,-3.2062909603119,51.061546325684],"coordinates":[[[[-3.206977,51.061546],[-3.206377,51.061356],[-3.206291,51.058983],[-3.211441,51.055046],[-3.213157,51.052113],[-3.22174,51.05661],[-3.213329,51.059525],[-3.206977,51.061546]]]],"created":1292528782,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5048/shapefiles/11111_20101216_51e070f080.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

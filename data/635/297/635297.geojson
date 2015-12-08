@@ -1,0 +1,15 @@
+{
+  "id": 635297,
+  "type": "Feature",
+  "properties": {
+    "name":"Anzing, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":635297,
+    "woe:name":"Anzing, Bavaria, Germany",
+    "woe:place_id":"W1_3QimfApmAkIo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.851666,48.143475,11.857761,48.155579],
+  "geometry": {"alpha":0.00015,"bbox":[11.8516664505,48.143474578857,11.857761383057,48.155578613281],"coordinates":[[[[11.853405,48.15501],[11.857278,48.14637],[11.857761,48.143475],[11.8531,48.152031],[11.851666,48.155334],[11.853293,48.155579],[11.853405,48.15501]]]],"created":1292541955,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/635297_20101216_92a1c062c1.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

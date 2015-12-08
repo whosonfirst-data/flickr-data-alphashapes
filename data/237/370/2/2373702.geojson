@@ -1,0 +1,15 @@
+{
+  "id": 2373702,
+  "type": "Feature",
+  "properties": {
+    "name":"Cameron, North Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2373702,
+    "woe:name":"Cameron, North Carolina, United States",
+    "woe:place_id":"bRphBZObApsgv6b.",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.266602,35.314171,-79.250069,35.329834],
+  "geometry": {"alpha":0.00015,"bbox":[-79.2666015625,35.314170837402,-79.250068664551,35.329833984375],"coordinates":[[[[-79.253288,35.325733],[-79.266602,35.314171],[-79.260864,35.328011],[-79.257835,35.329834],[-79.252411,35.326836],[-79.250069,35.325306],[-79.253288,35.325733]]]],"created":1292527329,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2373702_20101216_d94771ae1b.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

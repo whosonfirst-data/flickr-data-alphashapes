@@ -1,0 +1,15 @@
+{
+  "id": 20101442,
+  "type": "Feature",
+  "properties": {
+    "name":"Daro, Canton of Ticino, Switzerland",
+    "placetype":"locality",
+    "woe:id":20101442,
+    "woe:name":"Daro, Canton of Ticino, Switzerland",
+    "woe:place_id":"RPEhfZebAZ0FtgdArg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.025011,46.192249,9.030847,46.197803],
+  "geometry": {"alpha":0.00015,"bbox":[9.0250110626221,46.192249298096,9.0308465957642,46.197803497314],"coordinates":[[[[9.029259,46.197803],[9.030847,46.194714],[9.025011,46.192249],[9.025654,46.197239],[9.029259,46.197803]]]],"created":1229695941,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3109/shapefiles/20101442_20081219_49c66443cd.tar.gz"},"points":188,"type":"MultiPolygon"}
+}

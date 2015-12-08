@@ -1,0 +1,15 @@
+{
+  "id": 12669935,
+  "type": "Feature",
+  "properties": {
+    "name":"Soumont, France",
+    "placetype":"locality",
+    "woe:id":12669935,
+    "woe:name":"Soumont, France",
+    "woe:place_id":"j9H18KGYA5rg39dk4w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.367167,43.731998,3.371809,43.734329],
+  "geometry": {"alpha":1e-05,"bbox":[3.3671669960022,43.731998443604,3.3718090057373,43.734329223633],"coordinates":[[[[3.3675,43.732334],[3.368129,43.733318],[3.369112,43.734329],[3.371809,43.733452],[3.3675,43.732166],[3.367167,43.731998],[3.3675,43.732334]]]],"created":1292523456,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12669935_20101216_3eea7f53ed.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12678495,
+  "type": "Feature",
+  "properties": {
+    "name":"Ceres, Italy",
+    "placetype":"locality",
+    "woe:id":12678495,
+    "woe:name":"Ceres, Italy",
+    "woe:place_id":"2068NwqYA5r2v6o2Wg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.387378,45.311356,7.389593,45.314495],
+  "geometry": {"alpha":1e-05,"bbox":[7.3873782157898,45.31135559082,7.3895931243896,45.31449508667],"coordinates":[[[[7.387962,45.314011],[7.38779,45.314133],[7.387378,45.314423],[7.388134,45.314495],[7.389593,45.311356],[7.387962,45.314011]]]],"created":1292501824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/12678495_20101216_775ef4debf.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

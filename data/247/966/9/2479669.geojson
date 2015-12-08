@@ -1,0 +1,15 @@
+{
+  "id": 2479669,
+  "type": "Feature",
+  "properties": {
+    "name":"Redrock, New Mexico, United States",
+    "placetype":"locality",
+    "woe:id":2479669,
+    "woe:name":"Redrock, New Mexico, United States",
+    "woe:place_id":"AHQiN8GbBZs_PFMq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-108.74765,32.677528,-108.732979,32.695587],
+  "geometry": {"alpha":0.00015,"bbox":[-108.74765014648,32.677528381348,-108.7329788208,32.695587158203],"coordinates":[[[[-108.74765,32.695587],[-108.732979,32.694359],[-108.733147,32.69389],[-108.745247,32.677528],[-108.74482,32.687569],[-108.74765,32.695587]]]],"created":1292512807,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/2479669_20101216_8b537f5b68.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

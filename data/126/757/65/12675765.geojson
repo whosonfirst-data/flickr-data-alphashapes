@@ -1,0 +1,15 @@
+{
+  "id": 12675765,
+  "type": "Feature",
+  "properties": {
+    "name":"Rocca Santa Maria, Italy",
+    "placetype":"locality",
+    "woe:id":12675765,
+    "woe:name":"Rocca Santa Maria, Italy",
+    "woe:place_id":"009LKeeYA5o2IxfD8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.46117,42.663944,13.464088,42.667446],
+  "geometry": {"alpha":1e-05,"bbox":[13.461170196533,42.663944244385,13.464088439941,42.667446136475],"coordinates":[[[[13.461685,42.66666],[13.46117,42.667103],[13.464088,42.667446],[13.463058,42.663944],[13.461685,42.66666]]]],"created":1248014170,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2482/shapefiles/12675765_20090719_93a3b5d50f.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

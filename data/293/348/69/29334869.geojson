@@ -1,0 +1,15 @@
+{
+  "id": 29334869,
+  "type": "Feature",
+  "properties": {
+    "name":"San Pietro, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":29334869,
+    "woe:name":"San Pietro, Liguria, Italy",
+    "woe:place_id":"Bdv8XbGbCJ8k1x1RAQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.735032,44.485226,8.749666,44.48584],
+  "geometry": {"alpha":0.00015,"bbox":[8.735032081604,44.48522567749,8.7496662139893,44.48583984375],"coordinates":[[[[8.735186,44.485249],[8.735032,44.485439],[8.73523,44.48584],[8.749666,44.485394],[8.735358,44.485226],[8.735186,44.485249]]]],"created":1292436282,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/29334869_20101215_efe90cef52.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

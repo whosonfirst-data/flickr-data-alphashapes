@@ -1,0 +1,15 @@
+{
+  "id": 2455424,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount St. Francis, Indiana, United States",
+    "placetype":"locality",
+    "woe:id":2455424,
+    "woe:name":"Mount St. Francis, Indiana, United States",
+    "woe:place_id":"e__xXpmbBZnXqpRc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.906387,38.333054,-85.903519,38.336575],
+  "geometry": {"alpha":0.00015,"bbox":[-85.906387329102,38.333053588867,-85.903518676758,38.336574554443],"coordinates":[[[[-85.904289,38.336575],[-85.903519,38.336262],[-85.90506,38.333054],[-85.906387,38.333157],[-85.904854,38.33614],[-85.904289,38.336575]]]],"created":1292527511,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2455424_20101216_2e41b0870e.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

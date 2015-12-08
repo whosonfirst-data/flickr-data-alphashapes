@@ -1,0 +1,15 @@
+{
+  "id": 28745448,
+  "type": "Feature",
+  "properties": {
+    "name":"Cooper, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":28745448,
+    "woe:name":"Cooper, Pennsylvania, United States",
+    "woe:place_id":"J2BwCD.bCZszU9AoXw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.544624,40.961769,-76.522202,40.968506],
+  "geometry": {"alpha":0.00015,"bbox":[-76.544624328613,40.961769104004,-76.522201538086,40.968505859375],"coordinates":[[[[-76.523636,40.967327],[-76.522202,40.966877],[-76.522308,40.966614],[-76.535721,40.961769],[-76.544624,40.968506],[-76.523636,40.967327]]]],"created":1292526853,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/28745448_20101216_034c6ca4c2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

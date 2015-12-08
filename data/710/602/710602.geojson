@@ -1,0 +1,15 @@
+{
+  "id": 710602,
+  "type": "Feature",
+  "properties": {
+    "name":"Baio Dora, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":710602,
+    "woe:name":"Baio Dora, Piedmont, Italy",
+    "woe:place_id":"VnhS2iqeAJzGI04",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.827876,45.508125,7.831406,45.509289],
+  "geometry": {"alpha":0.00015,"bbox":[7.8278760910034,45.508125305176,7.8314061164856,45.509288787842],"coordinates":[[[[7.827876,45.508125],[7.828786,45.509289],[7.831406,45.508751],[7.831106,45.508511],[7.829217,45.508152],[7.827876,45.508125]]]],"created":1292409844,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/710602_20101215_b000bf9716.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1103643,
+  "type": "Feature",
+  "properties": {
+    "name":"Mandorah, Northern Territory, Australia",
+    "placetype":"locality",
+    "woe:id":1103643,
+    "woe:name":"Mandorah, Northern Territory, Australia",
+    "woe:place_id":"wA8sfkeYAJwJF23M",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [130.751038,-12.457362,130.77533,-12.441102],
+  "geometry": {"alpha":0.00015,"bbox":[130.75103759766,-12.457362174988,130.77532958984,-12.441102027893],"coordinates":[[[[130.766144,-12.444119],[130.766479,-12.441102],[130.77533,-12.446089],[130.766312,-12.447975],[130.751038,-12.457362],[130.765884,-12.446047],[130.766144,-12.444119]]]],"created":1292551013,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/1103643_20101217_07a0160f0f.tar.gz"},"points":21,"type":"MultiPolygon"}
+}

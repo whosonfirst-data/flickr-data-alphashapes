@@ -1,0 +1,15 @@
+{
+  "id": 2471983,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Cove, California, United States",
+    "placetype":"locality",
+    "woe:id":2471983,
+    "woe:name":"Pine Cove, California, United States",
+    "woe:place_id":"zWBCjgWbBZsmWWHX",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-116.748619,33.746464,-116.737228,33.762077],
+  "geometry": {"alpha":0.00015,"bbox":[-116.74861907959,33.746463775635,-116.73722839355,33.762077331543],"coordinates":[[[[-116.744797,33.761917],[-116.737717,33.762077],[-116.737228,33.753914],[-116.744019,33.746464],[-116.748619,33.752533],[-116.744797,33.761917]]]],"created":1292486289,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/2471983_20101216_65675272ed.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

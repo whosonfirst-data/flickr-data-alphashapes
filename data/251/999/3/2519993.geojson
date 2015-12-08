@@ -1,0 +1,15 @@
+{
+  "id": 2519993,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitneyville, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2519993,
+    "woe:name":"Whitneyville, Pennsylvania, United States",
+    "woe:place_id":"6q.2HtWbBJ0fVlwL",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.206718,41.767887,-77.203682,41.769726],
+  "geometry": {"alpha":0.00015,"bbox":[-77.206718444824,41.767887115479,-77.203681945801,41.769725799561],"coordinates":[[[[-77.206718,41.769726],[-77.206375,41.76955],[-77.203682,41.768059],[-77.204697,41.767887],[-77.206291,41.768974],[-77.206718,41.769726]]]],"created":1292530992,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5164/shapefiles/2519993_20101216_e79351314f.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

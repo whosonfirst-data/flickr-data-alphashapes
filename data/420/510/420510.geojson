@@ -1,0 +1,15 @@
+{
+  "id": 420510,
+  "type": "Feature",
+  "properties": {
+    "name":"Salinas, Lima, Peru",
+    "placetype":"locality",
+    "woe:id":420510,
+    "woe:name":"Salinas, Lima, Peru",
+    "woe:place_id":"eQgmihedA5x7OdI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.741905,-12.54719,-76.721344,-12.515687],
+  "geometry": {"alpha":0.00015,"bbox":[-76.741905212402,-12.547189712524,-76.721343994141,-12.515686988831],"coordinates":[[[[-76.732635,-12.54719],[-76.723282,-12.529512],[-76.741905,-12.518703],[-76.741219,-12.515687],[-76.723282,-12.529512],[-76.721344,-12.533322],[-76.732635,-12.54719]]]],"created":1292549970,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5241/shapefiles/420510_20101217_9c28a24983.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

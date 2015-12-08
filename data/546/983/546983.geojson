@@ -1,0 +1,15 @@
+{
+  "id": 546983,
+  "type": "Feature",
+  "properties": {
+    "name":"Ulrichsberg, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":546983,
+    "woe:name":"Ulrichsberg, Upper Austria, Austria",
+    "woe:place_id":"3H8DHICcBZqsV1E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.897705,48.663017,13.921977,48.695496],
+  "geometry": {"alpha":0.00015,"bbox":[13.897705078125,48.663017272949,13.921977043152,48.695495605469],"coordinates":[[[[13.912468,48.672714],[13.897705,48.663017],[13.904154,48.676296],[13.908777,48.6777],[13.921977,48.695496],[13.912854,48.673847],[13.912468,48.672714]]]],"created":1292474526,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/546983_20101216_880bd4d9e7.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

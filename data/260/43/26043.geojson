@@ -1,0 +1,15 @@
+{
+  "id": 26043,
+  "type": "Feature",
+  "properties": {
+    "name":"Leeds, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":26043,
+    "woe:name":"Leeds, England, United Kingdom",
+    "woe:place_id":"vGBpbUybB5yrfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.601973,51.243,0.632379,51.267895],
+  "geometry": {"alpha":0.00015,"bbox":[0.60197299718857,51.243000030518,0.63237899541855,51.267894744873],"coordinates":[[[[0.630726,51.249634],[0.632379,51.248444],[0.632314,51.248135],[0.631799,51.246552],[0.629224,51.243862],[0.624246,51.245209],[0.616607,51.245583],[0.611,51.243],[0.608539,51.248753],[0.607595,51.249989],[0.604248,51.258583],[0.601973,51.261646],[0.615513,51.267895],[0.621864,51.259705],[0.627014,51.253883],[0.630726,51.249634]]]],"created":1292440722,"edges":16,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/26043_20101215_430f0ee0e9.tar.gz"},"points":192,"type":"MultiPolygon"}
+}

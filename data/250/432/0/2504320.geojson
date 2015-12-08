@@ -1,0 +1,15 @@
+{
+  "id": 2504320,
+  "type": "Feature",
+  "properties": {
+    "name":"Taylor, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":2504320,
+    "woe:name":"Taylor, Mississippi, United States",
+    "woe:place_id":"2LIXVAKbBJwqUtb6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.590073,34.269264,-89.576164,34.275944],
+  "geometry": {"alpha":0.00015,"bbox":[-89.590072631836,34.269264221191,-89.576164245605,34.275943756104],"coordinates":[[[[-89.58857,34.273247],[-89.576164,34.275944],[-89.583549,34.271118],[-89.587799,34.269264],[-89.590073,34.269794],[-89.58857,34.273247]]]],"created":1292525670,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2504320_20101216_72f557bcdb.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

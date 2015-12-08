@@ -1,0 +1,15 @@
+{
+  "id": 35732,
+  "type": "Feature",
+  "properties": {
+    "name":"St. Mawgan, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":35732,
+    "woe:name":"St. Mawgan, England, United Kingdom",
+    "woe:place_id":"gVAmS0WaBJtzKQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.00101,50.452694,-4.992084,50.460945],
+  "geometry": {"alpha":0.00015,"bbox":[-5.0010099411011,50.452693939209,-4.9920840263367,50.460945129395],"coordinates":[[[[-4.998006,50.455563],[-4.998285,50.455086],[-5.00101,50.452694],[-4.99895,50.458706],[-4.992084,50.460945],[-4.998006,50.455563]]]],"created":1292547390,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/35732_20101217_b3da9e8e71.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

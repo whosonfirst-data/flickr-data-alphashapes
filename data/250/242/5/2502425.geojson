@@ -1,0 +1,15 @@
+{
+  "id": 2502425,
+  "type": "Feature",
+  "properties": {
+    "name":"Sunset Beach, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2502425,
+    "woe:name":"Sunset Beach, Oregon, United States",
+    "woe:place_id":"U9qHXIybBJyGo4_D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.944061,46.097073,-123.939339,46.100735],
+  "geometry": {"alpha":0.00015,"bbox":[-123.9440612793,46.097072601318,-123.93933868408,46.100734710693],"coordinates":[[[[-123.940842,46.097073],[-123.944061,46.099945],[-123.943718,46.100735],[-123.94059,46.09877],[-123.939339,46.097904],[-123.940842,46.097073]]]],"created":1247925844,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3428/shapefiles/2502425_20090718_bca89988bd.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

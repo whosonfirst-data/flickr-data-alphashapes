@@ -1,0 +1,15 @@
+{
+  "id": 725,
+  "type": "Feature",
+  "properties": {
+    "name":"Ituna, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":725,
+    "woe:name":"Ituna, Saskatchewan, Canada",
+    "woe:place_id":"yne2RkGeA5k",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.506851,51.170197,-103.497047,51.193901],
+  "geometry": {"alpha":0.00015,"bbox":[-103.50685119629,51.170196533203,-103.49704742432,51.193901062012],"coordinates":[[[[-103.50235,51.172878],[-103.506851,51.193901],[-103.497047,51.172615],[-103.497734,51.170197],[-103.50235,51.172878]]]],"created":1292526042,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/725_20101216_eeb6d478db.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12681705,
+  "type": "Feature",
+  "properties": {
+    "name":"San Massimo, Italy",
+    "placetype":"locality",
+    "woe:id":12681705,
+    "woe:name":"San Massimo, Italy",
+    "woe:place_id":"GClVG.eYA5pCtTAOrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.391746,41.456108,14.39575,41.461349],
+  "geometry": {"alpha":1e-05,"bbox":[14.391745567322,41.456108093262,14.395750045776,41.461349487305],"coordinates":[[[[14.393291,41.456108],[14.391746,41.460224],[14.39575,41.461349],[14.394493,41.459839],[14.393291,41.456108]]]],"created":1292479621,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/12681705_20101216_e08f6360ff.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2445390,
+  "type": "Feature",
+  "properties": {
+    "name":"Maplewood, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2445390,
+    "woe:name":"Maplewood, Virginia, United States",
+    "woe:place_id":"RGaFFeabBZhVMnMB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-78.024559,37.32885,-78.020683,37.341026],
+  "geometry": {"alpha":0.00015,"bbox":[-78.024559020996,37.32884979248,-78.020683288574,37.341026306152],"coordinates":[[[[-78.024559,37.328892],[-78.024551,37.328911],[-78.020683,37.341026],[-78.024391,37.328892],[-78.024544,37.32885],[-78.024559,37.328892]]]],"created":1292456760,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5167/shapefiles/2445390_20101215_99de9b721b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

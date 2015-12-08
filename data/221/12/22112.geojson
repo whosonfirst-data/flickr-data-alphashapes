@@ -1,0 +1,15 @@
+{
+  "id": 22112,
+  "type": "Feature",
+  "properties": {
+    "name":"Hadley, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22112,
+    "woe:name":"Hadley, England, United Kingdom",
+    "woe:place_id":".G53LAibA50ixA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.479749,52.700108,-2.471923,52.705299],
+  "geometry": {"alpha":0.00015,"bbox":[-2.4797489643097,52.700107574463,-2.4719231128693,52.705299377441],"coordinates":[[[[-2.475271,52.700108],[-2.479749,52.703674],[-2.476,52.705299],[-2.471923,52.703018],[-2.475271,52.700108]]]],"created":1292527928,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5006/shapefiles/22112_20101216_677b95b10c.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

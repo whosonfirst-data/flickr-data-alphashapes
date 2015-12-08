@@ -1,0 +1,15 @@
+{
+  "id": 2352130,
+  "type": "Feature",
+  "properties": {
+    "name":"Adrian, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2352130,
+    "woe:name":"Adrian, Pennsylvania, United States",
+    "woe:place_id":"FuVFBBCbApnjesUy",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.478401,40.893986,-79.476471,40.895203],
+  "geometry": {"alpha":0.00015,"bbox":[-79.478401184082,40.893985748291,-79.476470947266,40.895202636719],"coordinates":[[[[-79.476471,40.894539],[-79.476639,40.89415],[-79.478058,40.893986],[-79.478401,40.894001],[-79.477547,40.895203],[-79.476471,40.894539]]]],"created":1292417641,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/2352130_20101215_c56dc033c6.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

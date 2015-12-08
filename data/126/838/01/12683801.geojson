@@ -1,0 +1,15 @@
+{
+  "id": 12683801,
+  "type": "Feature",
+  "properties": {
+    "name":"La Chaux-des-Breuleux, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683801,
+    "woe:name":"La Chaux-des-Breuleux, Switzerland",
+    "woe:place_id":"wGDq3hGYA5pjCbrJxg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.025477,47.219509,7.031061,47.222862],
+  "geometry": {"alpha":1e-05,"bbox":[7.0254769325256,47.219509124756,7.0310611724854,47.222862243652],"coordinates":[[[[7.02703,47.220161],[7.025477,47.220612],[7.026991,47.222851],[7.026997,47.222862],[7.031061,47.219509],[7.02703,47.220161]]]],"created":1292479866,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/12683801_20101216_541855e8e3.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

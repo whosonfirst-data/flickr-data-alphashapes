@@ -1,0 +1,15 @@
+{
+  "id": 14030,
+  "type": "Feature",
+  "properties": {
+    "name":"Broadstone, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":14030,
+    "woe:name":"Broadstone, England, United Kingdom",
+    "woe:place_id":"lbanUfmYBZyXCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.679548,52.520817,-2.662253,52.536011],
+  "geometry": {"alpha":0.00015,"bbox":[-2.6795480251312,52.520816802979,-2.6622529029846,52.536010742188],"coordinates":[[[[-2.670879,52.533348],[-2.668476,52.535282],[-2.662253,52.536011],[-2.665557,52.528126],[-2.67517,52.520817],[-2.679548,52.528961],[-2.670879,52.533348]]]],"created":1292550510,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/14030_20101217_65c411997c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

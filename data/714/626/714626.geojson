@@ -1,0 +1,15 @@
+{
+  "id": 714626,
+  "type": "Feature",
+  "properties": {
+    "name":"Corio, Piedmont, Italy",
+    "placetype":"locality",
+    "woe:id":714626,
+    "woe:name":"Corio, Piedmont, Italy",
+    "woe:place_id":"VU_0u8KeAJhdU1Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.522972,45.310825,7.539367,45.316944],
+  "geometry": {"alpha":0.00015,"bbox":[7.5229721069336,45.3108253479,7.5393671989441,45.316944122314],"coordinates":[[[[7.530548,45.314602],[7.539367,45.316944],[7.535451,45.310841],[7.535355,45.310825],[7.528038,45.314072],[7.522972,45.316086],[7.530548,45.314602]]]],"created":1292450954,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/714626_20101215_d66656bbba.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

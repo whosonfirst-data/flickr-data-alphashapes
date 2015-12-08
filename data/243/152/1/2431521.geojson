@@ -1,0 +1,15 @@
+{
+  "id": 2431521,
+  "type": "Feature",
+  "properties": {
+    "name":"Kennedy, Minnesota, United States",
+    "placetype":"locality",
+    "woe:id":2431521,
+    "woe:name":"Kennedy, Minnesota, United States",
+    "woe:place_id":"JO5_VK6bBZ_Aw_Aq",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.915123,48.635715,-96.90834,48.643192],
+  "geometry": {"alpha":0.00015,"bbox":[-96.91512298584,48.635715484619,-96.908340454102,48.64319229126],"coordinates":[[[[-96.915123,48.642666],[-96.911652,48.643192],[-96.91098,48.642868],[-96.908997,48.641899],[-96.90834,48.635715],[-96.915123,48.642666]]]],"created":1292512629,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/2431521_20101216_cc87f937e6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

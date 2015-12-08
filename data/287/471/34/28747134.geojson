@@ -1,0 +1,15 @@
+{
+  "id": 28747134,
+  "type": "Feature",
+  "properties": {
+    "name":"Midway, Texas, United States",
+    "placetype":"locality",
+    "woe:id":28747134,
+    "woe:name":"Midway, Texas, United States",
+    "woe:place_id":"mzzNtGWbCZsXmGadpw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-95.284119,30.306131,-95.268761,30.324411],
+  "geometry": {"alpha":0.00015,"bbox":[-95.284118652344,30.306131362915,-95.268760681152,30.324411392212],"coordinates":[[[[-95.278069,30.310652],[-95.282875,30.317654],[-95.284119,30.324411],[-95.268761,30.314783],[-95.273567,30.306131],[-95.278069,30.310652]]]],"created":1292457750,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/28747134_20101216_e3383627a5.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

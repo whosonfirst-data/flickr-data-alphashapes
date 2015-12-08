@@ -1,0 +1,15 @@
+{
+  "id": 12640941,
+  "type": "Feature",
+  "properties": {
+    "name":"Champfleury, France",
+    "placetype":"locality",
+    "woe:id":12640941,
+    "woe:name":"Champfleury, France",
+    "woe:place_id":"0Wh8uL.YA5oyo6qmZQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.018174,49.206867,4.026285,49.20969],
+  "geometry": {"alpha":1e-05,"bbox":[4.0181741714478,49.206867218018,4.0262851715088,49.209690093994],"coordinates":[[[[4.023646,49.20969],[4.026285,49.20834],[4.026017,49.207729],[4.02356,49.206867],[4.018174,49.208794],[4.023646,49.20969]]]],"created":1292544357,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/12640941_20101217_bacd2b2439.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

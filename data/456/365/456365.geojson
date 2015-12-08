@@ -1,0 +1,15 @@
+{
+  "id": 456365,
+  "type": "Feature",
+  "properties": {
+    "name":"Nova Soure, Bahia, Brazil",
+    "placetype":"locality",
+    "woe:id":456365,
+    "woe:name":"Nova Soure, Bahia, Brazil",
+    "woe:place_id":"mu8tV2idBJowolM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-38.464508,-11.27808,-38.457642,-11.27175],
+  "geometry": {"alpha":0.00015,"bbox":[-38.464508056641,-11.278079986572,-38.457641601562,-11.271750450134],"coordinates":[[[[-38.462173,-11.27175],[-38.460575,-11.272558],[-38.4589,-11.27499],[-38.457642,-11.27808],[-38.462173,-11.27377],[-38.464508,-11.272019],[-38.462173,-11.27175]]]],"created":1292526404,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/456365_20101216_34680298a9.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

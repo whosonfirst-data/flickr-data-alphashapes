@@ -1,0 +1,15 @@
+{
+  "id": 28835722,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Murray, Isle of Man, United Kingdom",
+    "placetype":"locality",
+    "woe:id":28835722,
+    "woe:name":"Mount Murray, Isle of Man, United Kingdom",
+    "woe:place_id":"FagRV4WbCZRAAlKhcg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.564819,54.134834,-4.554691,54.13755],
+  "geometry": {"alpha":0.00015,"bbox":[-4.5648188591003,54.134834289551,-4.5546908378601,54.137550354004],"coordinates":[[[[-4.560656,54.134834],[-4.564819,54.13625],[-4.563446,54.13755],[-4.558273,54.13678],[-4.554691,54.137424],[-4.560656,54.134834]]]],"created":1292544910,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5124/shapefiles/28835722_20101217_8a4e74945c.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

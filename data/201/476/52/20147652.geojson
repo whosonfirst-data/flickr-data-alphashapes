@@ -1,0 +1,15 @@
+{
+  "id": 20147652,
+  "type": "Feature",
+  "properties": {
+    "name":"Vaticano, Emilia Romagna, Italy",
+    "placetype":"locality",
+    "woe:id":20147652,
+    "woe:name":"Vaticano, Emilia Romagna, Italy",
+    "woe:place_id":"VTjc2mWbAZ0E9PSmpA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.76914,44.471458,11.770648,44.473846],
+  "geometry": {"alpha":0.00015,"bbox":[11.76914024353,44.471458435059,11.770648002625,44.473846435547],"coordinates":[[[[11.76914,44.471458],[11.770648,44.473846],[11.769597,44.471859],[11.769511,44.47171],[11.769149,44.471458],[11.76914,44.471458]]]],"created":1292488324,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/20147652_20101216_525cde6fba.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2453116,
+  "type": "Feature",
+  "properties": {
+    "name":"Montague, Texas, United States",
+    "placetype":"locality",
+    "woe:id":2453116,
+    "woe:name":"Montague, Texas, United States",
+    "woe:place_id":"hCo.z6CbBZnlhf4W",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-97.729782,33.651299,-97.719772,33.666069],
+  "geometry": {"alpha":0.00015,"bbox":[-97.729782104492,33.651298522949,-97.719772338867,33.666069030762],"coordinates":[[[[-97.719772,33.664333],[-97.720306,33.659779],[-97.729782,33.651299],[-97.729225,33.666069],[-97.720215,33.664745],[-97.719772,33.664333]]]],"created":1292548322,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/2453116_20101217_1287f879db.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

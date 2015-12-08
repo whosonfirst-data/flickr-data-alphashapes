@@ -1,0 +1,15 @@
+{
+  "id": 20092302,
+  "type": "Feature",
+  "properties": {
+    "name":"Whitchurch, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":20092302,
+    "woe:name":"Whitchurch, Wales, United Kingdom",
+    "woe:place_id":"8fzbeXCbAZxC10qGhA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-5.212014,51.879326,-5.197691,51.887009],
+  "geometry": {"alpha":0.00015,"bbox":[-5.2120141983032,51.879325866699,-5.1976909637451,51.887008666992],"coordinates":[[[[-5.202873,51.879326],[-5.203185,51.879761],[-5.212014,51.887009],[-5.204354,51.883293],[-5.197691,51.88343],[-5.202873,51.879326]]]],"created":1248075967,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2533/shapefiles/20092302_20090720_15217d6868.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

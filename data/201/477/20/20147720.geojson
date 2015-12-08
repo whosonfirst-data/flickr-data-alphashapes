@@ -1,0 +1,15 @@
+{
+  "id": 20147720,
+  "type": "Feature",
+  "properties": {
+    "name":"Vello, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20147720,
+    "woe:name":"Vello, Lombardy, Italy",
+    "woe:place_id":"RHL5kJ.bAZ3HajHicA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.079612,45.753002,10.083303,45.755726],
+  "geometry": {"alpha":0.00015,"bbox":[10.079611778259,45.753002166748,10.083303451538,45.755725860596],"coordinates":[[[[10.081501,45.755367],[10.082187,45.754379],[10.083303,45.753002],[10.079612,45.755726],[10.081501,45.755367]]]],"created":1292462642,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/20147720_20101216_cd47b997c4.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

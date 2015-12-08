@@ -1,0 +1,15 @@
+{
+  "id": 56065451,
+  "type": "Feature",
+  "properties": {
+    "name":"La Mata, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":56065451,
+    "woe:name":"La Mata, Canary Islands, Spain",
+    "woe:place_id":"M1EpdRCcB5zKe0dXag",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.909903,28.804735,-17.902987,28.81251],
+  "geometry": {"alpha":0.00015,"bbox":[-17.909902572632,28.804735183716,-17.902986526489,28.812509536743],"coordinates":[[[[-17.907696,28.81251],[-17.90757,28.812376],[-17.902987,28.808531],[-17.908127,28.804735],[-17.909903,28.804932],[-17.907696,28.81251]]]],"created":1292490603,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/56065451_20101216_6501faf66f.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

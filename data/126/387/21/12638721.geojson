@@ -1,0 +1,15 @@
+{
+  "id": 12638721,
+  "type": "Feature",
+  "properties": {
+    "name":"Paluel, France",
+    "placetype":"locality",
+    "woe:id":12638721,
+    "woe:name":"Paluel, France",
+    "woe:place_id":"jsapi0qYA5qFW1ORMg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.62489,49.831406,0.629048,49.834717],
+  "geometry": {"alpha":1e-05,"bbox":[0.62489002943039,49.831405639648,0.62904798984528,49.834716796875],"coordinates":[[[[0.629048,49.83255],[0.629042,49.832531],[0.628037,49.831406],[0.62489,49.834717],[0.629048,49.83255]]]],"created":1292523075,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5285/shapefiles/12638721_20101216_55c54838d8.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

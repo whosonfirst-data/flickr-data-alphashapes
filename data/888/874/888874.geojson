@@ -1,0 +1,15 @@
+{
+  "id": 888874,
+  "type": "Feature",
+  "properties": {
+    "name":"Eksta, Gotland, Sweden",
+    "placetype":"locality",
+    "woe:id":888874,
+    "woe:name":"Eksta, Gotland, Sweden",
+    "woe:place_id":"C0BsGE6RCZSwDIY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [18.093624,57.245251,18.233871,57.295742],
+  "geometry": {"alpha":0.5,"bbox":[18.09362411499,57.245250701904,18.233871459961,57.295742034912],"coordinates":[[[[18.103752,57.257507],[18.093624,57.267906],[18.094139,57.269947],[18.150787,57.295742],[18.233871,57.255093],[18.153534,57.245251],[18.103752,57.257507]]]],"created":1247884089,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3429/shapefiles/888874_20090718_499100c93e.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

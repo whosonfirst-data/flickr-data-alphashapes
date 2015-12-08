@@ -1,0 +1,15 @@
+{
+  "id": 1497,
+  "type": "Feature",
+  "properties": {
+    "name":"St. George, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":1497,
+    "woe:name":"St. George, New Brunswick, Canada",
+    "woe:place_id":"HUBis8GYBZVW",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.844681,45.126617,-66.800308,45.138039],
+  "geometry": {"alpha":0.00015,"bbox":[-66.844680786133,45.126617431641,-66.800308227539,45.138038635254],"coordinates":[[[[-66.827187,45.126617],[-66.844681,45.131073],[-66.828972,45.130466],[-66.822044,45.138039],[-66.817474,45.133072],[-66.800308,45.133617],[-66.817474,45.129017],[-66.827187,45.126617]]]],"created":1292541403,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/1497_20101216_9215b08ff4.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

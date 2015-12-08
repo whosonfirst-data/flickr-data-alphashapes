@@ -1,0 +1,15 @@
+{
+  "id": 23395669,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Georges-Est, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":23395669,
+    "woe:name":"St.-Georges-Est, Quebec, Canada",
+    "woe:place_id":"5VUOZPybAp8Y.w8GNg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-70.674622,46.114063,-70.664665,46.122005],
+  "geometry": {"alpha":0.00015,"bbox":[-70.674621582031,46.114063262939,-70.664665222168,46.122005462646],"coordinates":[[[[-70.674019,46.117893],[-70.674622,46.122005],[-70.665436,46.116352],[-70.664665,46.114063],[-70.674019,46.117893]]]],"created":1292502546,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/23395669_20101216_dd9fc25939.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

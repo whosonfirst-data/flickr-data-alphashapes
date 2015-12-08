@@ -1,0 +1,15 @@
+{
+  "id": 2460518,
+  "type": "Feature",
+  "properties": {
+    "name":"Norris, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2460518,
+    "woe:name":"Norris, Tennessee, United States",
+    "woe:place_id":"57Xz99abBZpf.4GZ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-81.931679,36.277458,-81.920242,36.285381],
+  "geometry": {"alpha":0.00015,"bbox":[-81.931678771973,36.277458190918,-81.92024230957,36.285381317139],"coordinates":[[[[-81.9217,36.284134],[-81.930496,36.277458],[-81.931679,36.283424],[-81.920242,36.285381],[-81.9217,36.284134]]]],"created":1234571762,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3452/shapefiles/2460518_20090214_50591b05eb.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

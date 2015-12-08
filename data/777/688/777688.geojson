@@ -1,0 +1,15 @@
+{
+  "id": 777688,
+  "type": "Feature",
+  "properties": {
+    "name":"Vilafiz, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":777688,
+    "woe:name":"Vilafiz, Galicia, Spain",
+    "woe:place_id":"R6oKdDGeBpv8LLo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-7.439838,42.842987,-7.438413,42.849628],
+  "geometry": {"alpha":0.00015,"bbox":[-7.4398379325867,42.842987060547,-7.438413143158,42.849628448486],"coordinates":[[[[-7.439655,42.842991],[-7.439838,42.842987],[-7.439727,42.846382],[-7.438413,42.849628],[-7.438983,42.84325],[-7.439655,42.842991]]]],"created":1292532248,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/777688_20101216_a2e33a626e.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

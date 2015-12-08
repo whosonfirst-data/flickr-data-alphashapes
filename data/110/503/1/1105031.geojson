@@ -1,0 +1,15 @@
+{
+  "id": 1105031,
+  "type": "Feature",
+  "properties": {
+    "name":"Pine Point, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105031,
+    "woe:name":"Pine Point, South Australia, Australia",
+    "woe:place_id":"IQecU0CYAJxcA1Pg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [137.879013,-34.570118,137.884079,-34.563404],
+  "geometry": {"alpha":0.00015,"bbox":[137.87901306152,-34.570117950439,137.88407897949,-34.563404083252],"coordinates":[[[[137.882797,-34.563404],[137.884079,-34.566936],[137.883133,-34.570118],[137.879013,-34.567009],[137.882797,-34.563404]]]],"created":1248120486,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2460/shapefiles/1105031_20090720_8499cdb654.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 969340,
+  "type": "Feature",
+  "properties": {
+    "name":"Ellicum, Limburg, Belgium",
+    "placetype":"locality",
+    "woe:id":969340,
+    "woe:name":"Ellicum, Limburg, Belgium",
+    "woe:place_id":"PkEpWNmQB5XiDyc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [5.501783,51.123081,5.522174,51.130714],
+  "geometry": {"alpha":0.00015,"bbox":[5.5017828941345,51.123081207275,5.5221738815308,51.130714416504],"coordinates":[[[[5.505437,51.125477],[5.501783,51.130714],[5.509008,51.127811],[5.5207,51.127701],[5.522174,51.123081],[5.511833,51.126499],[5.505437,51.125477]]]],"created":1292527309,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/969340_20101216_7963b100c6.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

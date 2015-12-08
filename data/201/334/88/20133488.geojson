@@ -1,0 +1,15 @@
+{
+  "id": 20133488,
+  "type": "Feature",
+  "properties": {
+    "name":"Murta, Liguria, Italy",
+    "placetype":"locality",
+    "woe:id":20133488,
+    "woe:name":"Murta, Liguria, Italy",
+    "woe:place_id":"r2NAdZabAZ1EI4.vng",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.887413,44.459209,8.900513,44.472538],
+  "geometry": {"alpha":0.00015,"bbox":[8.8874130249023,44.459209442139,8.9005126953125,44.472537994385],"coordinates":[[[[8.887413,44.463974],[8.892574,44.472538],[8.900513,44.466667],[8.890514,44.459209],[8.887456,44.463909],[8.887413,44.463974]]]],"created":1292548025,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/20133488_20101217_cc09760d2e.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

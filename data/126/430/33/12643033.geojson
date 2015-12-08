@@ -1,0 +1,15 @@
+{
+  "id": 12643033,
+  "type": "Feature",
+  "properties": {
+    "name":"Dorlisheim, France",
+    "placetype":"locality",
+    "woe:id":12643033,
+    "woe:name":"Dorlisheim, France",
+    "woe:place_id":"L1AIOQiYA5q2ahfepQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.483,48.516998,7.484333,48.517834],
+  "geometry": {"alpha":1e-05,"bbox":[7.4829998016357,48.516998291016,7.4843330383301,48.517833709717],"coordinates":[[[[7.484166,48.517502],[7.484333,48.517334],[7.484333,48.516998],[7.483833,48.516998],[7.483,48.517502],[7.483,48.517834],[7.484166,48.517502]]]],"created":1292547489,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/12643033_20101217_de4fb8b589.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12648207,
+  "type": "Feature",
+  "properties": {
+    "name":"Lichtenberg, France",
+    "placetype":"locality",
+    "woe:id":12648207,
+    "woe:name":"Lichtenberg, France",
+    "woe:place_id":"vqd.mlOYA5ppoJoqJA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.48214,48.919224,7.487804,48.921513],
+  "geometry": {"alpha":1e-05,"bbox":[7.4821400642395,48.9192237854,7.4878039360046,48.92151260376],"coordinates":[[[[7.486603,48.921513],[7.487096,48.921146],[7.487804,48.919224],[7.486099,48.920876],[7.48214,48.920891],[7.48538,48.921406],[7.486603,48.921513]]]],"created":1292545258,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12648207_20101217_be948a090d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

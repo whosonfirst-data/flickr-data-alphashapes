@@ -1,0 +1,15 @@
+{
+  "id": 737857,
+  "type": "Feature",
+  "properties": {
+    "name":"Cadriceira, Lisbon, Portugal",
+    "placetype":"locality",
+    "woe:id":737857,
+    "woe:name":"Cadriceira, Lisbon, Portugal",
+    "woe:place_id":"z_9zRMSeApvzGek",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.243106,39.030811,-9.225092,39.037052],
+  "geometry": {"alpha":0.00015,"bbox":[-9.2431058883667,39.030811309814,-9.2250919342041,39.037052154541],"coordinates":[[[[-9.230439,39.034737],[-9.225092,39.030811],[-9.235682,39.030918],[-9.242763,39.034302],[-9.243106,39.037052],[-9.230439,39.034737]]]],"created":1292525221,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/737857_20101216_cb81c474bf.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

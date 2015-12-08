@@ -1,0 +1,15 @@
+{
+  "id": 2397275,
+  "type": "Feature",
+  "properties": {
+    "name":"Edgewood, Pennsylvania, United States",
+    "placetype":"locality",
+    "woe:id":2397275,
+    "woe:name":"Edgewood, Pennsylvania, United States",
+    "woe:place_id":"fCbkR1abApWvwH_N",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.889389,40.430164,-79.877983,40.435074],
+  "geometry": {"alpha":0.00015,"bbox":[-79.889389038086,40.430164337158,-79.877983093262,40.435073852539],"coordinates":[[[[-79.882042,40.435074],[-79.877983,40.433681],[-79.880913,40.430164],[-79.882225,40.430553],[-79.889389,40.433899],[-79.882042,40.435074]]]],"created":1292543288,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2397275_20101216_009c420f9f.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

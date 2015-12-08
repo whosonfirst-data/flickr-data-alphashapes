@@ -1,0 +1,15 @@
+{
+  "id": 28583902,
+  "type": "Feature",
+  "properties": {
+    "name":"Ashbourne, Victoria, Australia",
+    "placetype":"locality",
+    "woe:id":28583902,
+    "woe:name":"Ashbourne, Victoria, Australia",
+    "woe:place_id":"FviVIr6bCZkLgLfWnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [144.476166,-37.420555,144.491943,-37.409637],
+  "geometry": {"alpha":0.00015,"bbox":[144.47616577148,-37.420555114746,144.49194335938,-37.409637451172],"coordinates":[[[[144.484283,-37.418606],[144.476257,-37.412636],[144.476166,-37.409637],[144.490829,-37.412224],[144.491943,-37.420555],[144.484283,-37.418606]]]],"created":1292530233,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/28583902_20101216_3e74b52ffd.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

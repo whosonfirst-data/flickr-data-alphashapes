@@ -1,0 +1,15 @@
+{
+  "id": 178,
+  "type": "Feature",
+  "properties": {
+    "name":"Bruce Mines, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":178,
+    "woe:name":"Bruce Mines, Ontario, Canada",
+    "woe:place_id":"xwBUN.WYBpQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.807404,46.280052,-83.780235,46.304371],
+  "geometry": {"alpha":0.00015,"bbox":[-83.807403564453,46.280052185059,-83.780235290527,46.304370880127],"coordinates":[[[[-83.794098,46.303776],[-83.789803,46.29871],[-83.784012,46.295238],[-83.780235,46.28112],[-83.784309,46.280052],[-83.804482,46.28664],[-83.807404,46.304371],[-83.805298,46.303776],[-83.794952,46.303776],[-83.794098,46.303776]]]],"created":1292451205,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/178_20101215_713d43c17c.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

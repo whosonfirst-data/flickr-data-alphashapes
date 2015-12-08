@@ -1,0 +1,15 @@
+{
+  "id": 710728,
+  "type": "Feature",
+  "properties": {
+    "name":"Barlassina, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":710728,
+    "woe:name":"Barlassina, Lombardy, Italy",
+    "woe:place_id":"Q_3KmpKeAJwCc10",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.124402,45.655746,9.140422,45.661026],
+  "geometry": {"alpha":0.00015,"bbox":[9.1244020462036,45.655746459961,9.1404218673706,45.661026000977],"coordinates":[[[[9.124402,45.661026],[9.140422,45.660244],[9.130534,45.65609],[9.12922,45.655899],[9.126548,45.655746],[9.124402,45.661026]]]],"created":1292453645,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/710728_20101215_a0894742dc.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

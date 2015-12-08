@@ -1,0 +1,15 @@
+{
+  "id": 109817,
+  "type": "Feature",
+  "properties": {
+    "name":"Richmond, Saint Ann, Jamaica",
+    "placetype":"locality",
+    "woe:id":109817,
+    "woe:name":"Richmond, Saint Ann, Jamaica",
+    "woe:place_id":"YOsdPtaYAZVgWt0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.257225,18.441559,-77.242126,18.462025],
+  "geometry": {"alpha":0.00015,"bbox":[-77.257225036621,18.441558837891,-77.242126464844,18.462024688721],"coordinates":[[[[-77.242126,18.452906],[-77.257225,18.441559],[-77.255859,18.454697],[-77.251907,18.462025],[-77.244957,18.454788],[-77.242126,18.452906]]]],"created":1292548915,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/109817_20101217_a073b64b74.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

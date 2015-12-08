@@ -1,0 +1,15 @@
+{
+  "id": 2399252,
+  "type": "Feature",
+  "properties": {
+    "name":"Ely, Iowa, United States",
+    "placetype":"locality",
+    "woe:id":2399252,
+    "woe:name":"Ely, Iowa, United States",
+    "woe:place_id":"WU88nBCbApXKVIuB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.589508,41.855709,-91.574478,41.876423],
+  "geometry": {"alpha":0.00015,"bbox":[-91.589508056641,41.855709075928,-91.574478149414,41.87642288208],"coordinates":[[[[-91.582634,41.874672],[-91.577271,41.876423],[-91.574478,41.861523],[-91.589508,41.855709],[-91.589371,41.874874],[-91.582634,41.874672]]]],"created":1292549078,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2399252_20101217_3d421e8d26.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

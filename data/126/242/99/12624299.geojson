@@ -1,0 +1,15 @@
+{
+  "id": 12624299,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Rosendahl, Germany",
+    "placetype":"locality",
+    "woe:id":12624299,
+    "woe:name":"Gemeinde Rosendahl, Germany",
+    "woe:place_id":"wIOW4MaYA5rg3UFkbw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.203083,52.025169,7.20452,52.025616],
+  "geometry": {"alpha":1e-05,"bbox":[7.2030830383301,52.025169372559,7.2045202255249,52.025615692139],"coordinates":[[[[7.203147,52.02549],[7.203083,52.025532],[7.203169,52.025597],[7.203598,52.025616],[7.20452,52.025169],[7.203147,52.02549]]]],"created":1292538685,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12624299_20101216_ec20762535.tar.gz"},"points":24,"type":"MultiPolygon"}
+}

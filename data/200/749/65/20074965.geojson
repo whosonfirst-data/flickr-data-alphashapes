@@ -1,0 +1,15 @@
+{
+  "id": 20074965,
+  "type": "Feature",
+  "properties": {
+    "name":"Lacrouzette, France",
+    "placetype":"locality",
+    "woe:id":20074965,
+    "woe:name":"Lacrouzette, France",
+    "woe:place_id":"sOlhHC.bAZwZuGfCCA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.385696,43.644539,2.387574,43.646511],
+  "geometry": {"alpha":1e-05,"bbox":[2.3856959342957,43.644538879395,2.3875739574432,43.646511077881],"coordinates":[[[[2.386264,43.646385],[2.387466,43.646511],[2.387574,43.644539],[2.386436,43.644772],[2.385696,43.645317],[2.386264,43.646385]]]],"created":1292532770,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/20074965_20101216_c26ea72942.tar.gz"},"points":23,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 540,
+  "type": "Feature",
+  "properties": {
+    "name":"Foymount, Ontario, Canada",
+    "placetype":"locality",
+    "woe:id":540,
+    "woe:name":"Foymount, Ontario, Canada",
+    "woe:place_id":"0_fmUy6cBZw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.315254,45.429539,-77.279205,45.437309],
+  "geometry": {"alpha":0.00015,"bbox":[-77.315254211426,45.429538726807,-77.279205322266,45.437309265137],"coordinates":[[[[-77.301521,45.433453],[-77.279205,45.429539],[-77.301521,45.433151],[-77.304169,45.432499],[-77.307442,45.43478],[-77.315254,45.437309],[-77.305466,45.436829],[-77.301521,45.433453]]]],"created":1292548141,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/540_20101217_936643d095.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

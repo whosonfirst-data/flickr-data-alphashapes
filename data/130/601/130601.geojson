@@ -1,0 +1,15 @@
+{
+  "id": 130601,
+  "type": "Feature",
+  "properties": {
+    "name":"Las Margaritas, Chiapas, Mexico",
+    "placetype":"locality",
+    "woe:id":130601,
+    "woe:name":"Las Margaritas, Chiapas, Mexico",
+    "woe:place_id":"yjRhYRCYApzJr_Y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.944061,16.284964,-91.928444,16.299709],
+  "geometry": {"alpha":0.00015,"bbox":[-91.944061279297,16.284963607788,-91.928443908691,16.299709320068],"coordinates":[[[[-91.928444,16.294931],[-91.93428,16.284964],[-91.944061,16.299709],[-91.939598,16.298227],[-91.928444,16.294931]]]],"created":1292458212,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/130601_20101216_27be03c613.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

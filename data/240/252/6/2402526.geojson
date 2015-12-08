@@ -1,0 +1,15 @@
+{
+  "id": 2402526,
+  "type": "Feature",
+  "properties": {
+    "name":"Farnhurst, Delaware, United States",
+    "placetype":"locality",
+    "woe:id":2402526,
+    "woe:name":"Farnhurst, Delaware, United States",
+    "woe:place_id":"SO5G9MGbBZx1Vs9y",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.580254,39.692261,-75.579025,39.693153],
+  "geometry": {"alpha":0.00015,"bbox":[-75.580253601074,39.692260742188,-75.579025268555,39.693153381348],"coordinates":[[[[-75.580154,39.692261],[-75.580185,39.692272],[-75.580254,39.692734],[-75.579926,39.692966],[-75.579025,39.693153],[-75.580154,39.692261]]]],"created":1292440686,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2402526_20101215_5702a95874.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

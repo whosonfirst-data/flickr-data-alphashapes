@@ -1,0 +1,15 @@
+{
+  "id": 2432422,
+  "type": "Feature",
+  "properties": {
+    "name":"Kimwood, Oregon, United States",
+    "placetype":"locality",
+    "woe:id":2432422,
+    "woe:name":"Kimwood, Oregon, United States",
+    "woe:place_id":"wzZQPmybBZ9r8kjI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-123.092705,43.758091,-123.077438,43.767097],
+  "geometry": {"alpha":0.00015,"bbox":[-123.09270477295,43.7580909729,-123.07743835449,43.767097473145],"coordinates":[[[[-123.081078,43.767097],[-123.077438,43.76355],[-123.081291,43.762348],[-123.086357,43.759441],[-123.092285,43.758091],[-123.092705,43.758324],[-123.081078,43.767097]]]],"created":1292456705,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/2432422_20101215_5e96980231.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

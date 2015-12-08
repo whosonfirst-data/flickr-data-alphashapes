@@ -1,0 +1,15 @@
+{
+  "id": 22244,
+  "type": "Feature",
+  "properties": {
+    "name":"Ham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":22244,
+    "woe:name":"Ham, England, United Kingdom",
+    "woe:place_id":"WrYpXTCbA5675w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.529502,51.364681,-1.52577,51.382401],
+  "geometry": {"alpha":0.00015,"bbox":[-1.5295020341873,51.364681243896,-1.5257699489594,51.382400512695],"coordinates":[[[[-1.52577,51.365894],[-1.528215,51.364681],[-1.528816,51.364681],[-1.529502,51.368458],[-1.528983,51.382401],[-1.52577,51.365894]]]],"created":1292455704,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5045/shapefiles/22244_20101215_1c98b25e4b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

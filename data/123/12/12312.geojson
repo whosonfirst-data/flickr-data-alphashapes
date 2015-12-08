@@ -1,0 +1,15 @@
+{
+  "id": 12312,
+  "type": "Feature",
+  "properties": {
+    "name":"Bellingham, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12312,
+    "woe:name":"Bellingham, England, United Kingdom",
+    "woe:place_id":".1i5HqyYA59iTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.266101,55.143574,-2.247562,55.157444],
+  "geometry": {"alpha":0.00015,"bbox":[-2.2661008834839,55.143573760986,-2.2475619316101,55.157444000244],"coordinates":[[[[-2.266101,55.144447],[-2.264878,55.145134],[-2.251939,55.15514],[-2.250137,55.157444],[-2.247562,55.153912],[-2.247905,55.150433],[-2.249021,55.146801],[-2.255011,55.143574],[-2.266101,55.144447]]]],"created":1239651962,"edges":9,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3340/shapefiles/12312_20090413_620bba1069.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

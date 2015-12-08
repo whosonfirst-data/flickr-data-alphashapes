@@ -1,0 +1,15 @@
+{
+  "id": 647909,
+  "type": "Feature",
+  "properties": {
+    "name":"Emskirchen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":647909,
+    "woe:name":"Emskirchen, Bavaria, Germany",
+    "woe:place_id":"K5j7iCefBZtMUec",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.712333,49.53373,10.726604,49.55328],
+  "geometry": {"alpha":0.00015,"bbox":[10.712332725525,49.533729553223,10.72660446167,49.553279876709],"coordinates":[[[[10.712333,49.548832],[10.71904,49.55328],[10.719029,49.552235],[10.726604,49.539135],[10.721626,49.53373],[10.712833,49.548668],[10.712333,49.548832]]]],"created":1292447224,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/647909_20101215_2e6a570f34.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

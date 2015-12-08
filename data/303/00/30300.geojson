@@ -1,0 +1,15 @@
+{
+  "id": 30300,
+  "type": "Feature",
+  "properties": {
+    "name":"Newtown, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30300,
+    "woe:name":"Newtown, England, United Kingdom",
+    "woe:place_id":"xPmDJJGaAZ_NwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.790012,54.953594,-2.763576,54.966972],
+  "geometry": {"alpha":0.00015,"bbox":[-2.790011882782,54.953594207764,-2.7635760307312,54.966972351074],"coordinates":[[[[-2.783433,54.956566],[-2.789559,54.953594],[-2.790012,54.953667],[-2.784004,54.966972],[-2.771108,54.965103],[-2.763576,54.954121],[-2.772689,54.956024],[-2.783433,54.956566]]]],"created":1292522808,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/30300_20101216_8525ac66b1.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

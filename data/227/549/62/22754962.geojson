@@ -1,0 +1,15 @@
+{
+  "id": 22754962,
+  "type": "Feature",
+  "properties": {
+    "name":"Puy-en-Velay, France",
+    "placetype":"locality",
+    "woe:id":22754962,
+    "woe:name":"Puy-en-Velay, France",
+    "woe:place_id":"wz2RnnabA5sMkgPicw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [3.882492,45.041969,3.889846,45.045891],
+  "geometry": {"alpha":1e-05,"bbox":[3.8824920654297,45.041969299316,3.8898460865021,45.045890808105],"coordinates":[[[[3.88328,45.042019],[3.882492,45.041969],[3.884793,45.045891],[3.889846,45.044903],[3.886756,45.041992],[3.88328,45.042019]]]],"created":1292547410,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5210/shapefiles/22754962_20101217_ea50c1e19f.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

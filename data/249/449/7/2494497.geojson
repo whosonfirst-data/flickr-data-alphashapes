@@ -1,0 +1,15 @@
+{
+  "id": 2494497,
+  "type": "Feature",
+  "properties": {
+    "name":"Slab City, New York, United States",
+    "placetype":"locality",
+    "woe:id":2494497,
+    "woe:name":"Slab City, New York, United States",
+    "woe:place_id":"62jvJmibBZVq8ywR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.148247,44.653225,-75.129379,44.66312],
+  "geometry": {"alpha":0.00015,"bbox":[-75.148246765137,44.653224945068,-75.129379272461,44.663120269775],"coordinates":[[[[-75.136856,44.653225],[-75.148247,44.653831],[-75.132179,44.66312],[-75.131638,44.662739],[-75.129379,44.660515],[-75.136856,44.653225]]]],"created":1292422443,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2494497_20101215_53ec0ce94c.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12519169,
+  "type": "Feature",
+  "properties": {
+    "name":"Chesapeake Municipal Airport, United States",
+    "placetype":"locality",
+    "woe:id":12519169,
+    "woe:name":"Chesapeake Municipal Airport, United States",
+    "woe:place_id":"HLw9ioeYA5lW30t9ig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.324898,36.661041,-76.321831,36.665867],
+  "geometry": {"alpha":1e-05,"bbox":[-76.324897766113,36.661041259766,-76.321830749512,36.665866851807],"coordinates":[[[[-76.324638,36.66547],[-76.324402,36.665867],[-76.321831,36.664349],[-76.324898,36.661041],[-76.324638,36.66547]]]],"created":1292461263,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/12519169_20101216_0b6a229822.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

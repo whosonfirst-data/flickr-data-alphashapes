@@ -1,0 +1,15 @@
+{
+  "id": 15001090,
+  "type": "Feature",
+  "properties": {
+    "name":"Davesco, Canton of Ticino, Switzerland",
+    "placetype":"locality",
+    "woe:id":15001090,
+    "woe:name":"Davesco, Canton of Ticino, Switzerland",
+    "woe:place_id":"3JBBHYSYBJylzIBhOg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.973426,46.028034,8.997631,46.041721],
+  "geometry": {"alpha":0.00015,"bbox":[8.9734258651733,46.028034210205,8.997631072998,46.041721343994],"coordinates":[[[[8.975476,46.028034],[8.973426,46.041721],[8.982288,46.036659],[8.997631,46.035706],[8.981215,46.030579],[8.975476,46.028034]]]],"created":1292454834,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/15001090_20101215_32f822c040.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

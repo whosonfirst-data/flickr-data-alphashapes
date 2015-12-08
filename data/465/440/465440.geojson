@@ -1,0 +1,15 @@
+{
+  "id": 465440,
+  "type": "Feature",
+  "properties": {
+    "name":"General Alvear, Entre Rios, Argentina",
+    "placetype":"locality",
+    "woe:id":465440,
+    "woe:name":"General Alvear, Entre Rios, Argentina",
+    "woe:place_id":"fxWbXuKdB5nyUuk",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-60.687618,-31.950777,-60.67028,-31.944078],
+  "geometry": {"alpha":0.00015,"bbox":[-60.687618255615,-31.950777053833,-60.670280456543,-31.944078445435],"coordinates":[[[[-60.680237,-31.944078],[-60.67028,-31.95005],[-60.673027,-31.950777],[-60.687618,-31.947063],[-60.686417,-31.946335],[-60.680237,-31.944078]]]],"created":1292534463,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5081/shapefiles/465440_20101216_a18c3eef45.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

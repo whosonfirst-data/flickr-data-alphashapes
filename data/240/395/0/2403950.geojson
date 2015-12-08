@@ -1,0 +1,15 @@
+{
+  "id": 2403950,
+  "type": "Feature",
+  "properties": {
+    "name":"Five Points, New Hope, PA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2403950,
+    "woe:name":"Five Points, New Hope, PA, US, United States",
+    "woe:place_id":"CkGmWAKbBZwBLRxQ",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-75.016792,40.337547,-75.014259,40.337875],
+  "geometry": {"alpha":1e-05,"bbox":[-75.016792297363,40.337547302246,-75.014259338379,40.337875366211],"coordinates":[[[[-75.014259,40.337875],[-75.014275,40.337547],[-75.014816,40.337566],[-75.016792,40.337582],[-75.014259,40.337875]]]],"created":1292451805,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2403950_20101215_3f8486311a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

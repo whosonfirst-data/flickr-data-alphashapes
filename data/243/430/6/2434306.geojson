@@ -1,0 +1,15 @@
+{
+  "id": 2434306,
+  "type": "Feature",
+  "properties": {
+    "name":"La Plata, Missouri, United States",
+    "placetype":"locality",
+    "woe:id":2434306,
+    "woe:name":"La Plata, Missouri, United States",
+    "woe:place_id":"z2XbMEabBZ8hm9Uh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-92.4981,40.019859,-92.480247,40.036682],
+  "geometry": {"alpha":0.00015,"bbox":[-92.498100280762,40.019859313965,-92.480247497559,40.036682128906],"coordinates":[[[[-92.487991,40.021011],[-92.489838,40.019859],[-92.4981,40.027836],[-92.4897,40.034569],[-92.480247,40.036682],[-92.487991,40.021011]]]],"created":1292519903,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5130/shapefiles/2434306_20101216_baa23c3e4a.tar.gz"},"points":15,"type":"MultiPolygon"}
+}

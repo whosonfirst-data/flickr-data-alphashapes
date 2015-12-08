@@ -1,0 +1,15 @@
+{
+  "id": 12680688,
+  "type": "Feature",
+  "properties": {
+    "name":"Noci, Italy",
+    "placetype":"locality",
+    "woe:id":12680688,
+    "woe:name":"Noci, Italy",
+    "woe:place_id":"dbNcRD6YA5qC47x4dA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [17.11937,40.795551,17.123222,40.797844],
+  "geometry": {"alpha":1e-05,"bbox":[17.119369506836,40.795551300049,17.123222351074,40.797843933105],"coordinates":[[[[17.123051,40.796917],[17.123222,40.795551],[17.122021,40.795616],[17.11937,40.797844],[17.123051,40.796917]]]],"created":1292524662,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/12680688_20101216_c7030bbb00.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

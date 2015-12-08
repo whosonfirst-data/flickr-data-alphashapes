@@ -1,0 +1,15 @@
+{
+  "id": 546770,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwanenstadt, Upper Austria, Austria",
+    "placetype":"locality",
+    "woe:id":546770,
+    "woe:name":"Schwanenstadt, Upper Austria, Austria",
+    "woe:place_id":"9cRgaEicBZoTvwQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.729262,48.057774,13.734283,48.060127],
+  "geometry": {"alpha":0.0003662109375,"bbox":[13.72926235199,48.057773590088,13.734283447266,48.060127258301],"coordinates":[[[[13.730506,48.060127],[13.73188,48.059494],[13.734283,48.057774],[13.733596,48.057888],[13.729262,48.058823],[13.730506,48.060127]]]],"created":1292520763,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/546770_20101216_c300b969e7.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

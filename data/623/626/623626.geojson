@@ -1,0 +1,15 @@
+{
+  "id": 623626,
+  "type": "Feature",
+  "properties": {
+    "name":"St-Cricq, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":623626,
+    "woe:name":"St-Cricq, Aquitaine, France",
+    "woe:place_id":"ShttVPGfA58GsZM",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.011385,43.531818,-1.001172,43.539646],
+  "geometry": {"alpha":0.00015,"bbox":[-1.0113849639893,43.531818389893,-1.0011719465256,43.539646148682],"coordinates":[[[[-1.011385,43.535233],[-1.010699,43.538063],[-1.009315,43.539646],[-1.001172,43.532101],[-1.004927,43.531818],[-1.011385,43.535233]]]],"created":1292535723,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5085/shapefiles/623626_20101216_1b4460fd4e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

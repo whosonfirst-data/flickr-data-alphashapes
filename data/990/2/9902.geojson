@@ -1,0 +1,15 @@
+{
+  "id": 9902,
+  "type": "Feature",
+  "properties": {
+    "name":"Ymir, British Columbia, Canada",
+    "placetype":"locality",
+    "woe:id":9902,
+    "woe:name":"Ymir, British Columbia, Canada",
+    "woe:place_id":"76zSLBCQCJwR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-117.215195,49.283119,-117.214424,49.283932],
+  "geometry": {"alpha":0.00015,"bbox":[-117.21519470215,49.28311920166,-117.2144241333,49.283931732178],"coordinates":[[[[-117.214592,49.28326],[-117.214851,49.283119],[-117.215195,49.283932],[-117.214424,49.283707],[-117.214592,49.28326]]]],"created":1292518204,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/9902_20101216_f5b3feacd6.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

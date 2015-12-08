@@ -1,0 +1,15 @@
+{
+  "id": 1340,
+  "type": "Feature",
+  "properties": {
+    "name":"River Hebert, Nova Scotia, Canada",
+    "placetype":"locality",
+    "woe:id":1340,
+    "woe:name":"River Hebert, Nova Scotia, Canada",
+    "woe:place_id":"BwJgwHKYApi6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.452408,45.696468,-64.449234,45.699226],
+  "geometry": {"alpha":0.00015,"bbox":[-64.452407836914,45.696468353271,-64.449234008789,45.699226379395],"coordinates":[[[[-64.449234,45.699226],[-64.450432,45.698086],[-64.452408,45.696468],[-64.45192,45.697006],[-64.450607,45.698029],[-64.449234,45.699226]]]],"created":1292546911,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5126/shapefiles/1340_20101217_0e81f9fa38.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

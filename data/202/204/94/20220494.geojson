@@ -1,0 +1,15 @@
+{
+  "id": 20220494,
+  "type": "Feature",
+  "properties": {
+    "name":"Algodon, Madrid, Spain",
+    "placetype":"locality",
+    "woe:id":20220494,
+    "woe:name":"Algodon, Madrid, Spain",
+    "woe:place_id":"AwJB6pybAZ66RXtMcQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.880362,39.913605,-3.858432,39.925987],
+  "geometry": {"alpha":0.00015,"bbox":[-3.880362033844,39.913604736328,-3.8584320545197,39.925987243652],"coordinates":[[[[-3.859977,39.915924],[-3.858432,39.914738],[-3.861179,39.914082],[-3.864612,39.913605],[-3.864612,39.913883],[-3.880362,39.925987],[-3.862552,39.915264],[-3.859977,39.915924]]]],"created":1292539328,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/20220494_20101216_e131c194cf.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

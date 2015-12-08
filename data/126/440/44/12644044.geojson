@@ -1,0 +1,15 @@
+{
+  "id": 12644044,
+  "type": "Feature",
+  "properties": {
+    "name":"Foucarville, France",
+    "placetype":"locality",
+    "woe:id":12644044,
+    "woe:name":"Foucarville, France",
+    "woe:place_id":"33EMpHCYA5qMEY1xOw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.259136,49.441238,-1.255316,49.444302],
+  "geometry": {"alpha":1e-05,"bbox":[-1.2591359615326,49.44123840332,-1.2553160190582,49.444301605225],"coordinates":[[[[-1.256582,49.443855],[-1.255316,49.442307],[-1.25686,49.441238],[-1.259136,49.443352],[-1.258363,49.444302],[-1.256582,49.443855]]]],"created":1292452059,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/12644044_20101215_26ff74c02e.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

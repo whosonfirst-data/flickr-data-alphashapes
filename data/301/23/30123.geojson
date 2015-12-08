@@ -1,0 +1,15 @@
+{
+  "id": 30123,
+  "type": "Feature",
+  "properties": {
+    "name":"Newington, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":30123,
+    "woe:name":"Newington, England, United Kingdom",
+    "woe:place_id":"isQZRtWaAZ0qUg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.106529,51.087944,1.132879,51.096298],
+  "geometry": {"alpha":0.00015,"bbox":[1.1065289974213,51.087944030762,1.1328790187836,51.096298217773],"coordinates":[[[[1.121779,51.093903],[1.124103,51.092686],[1.132879,51.087944],[1.121892,51.092419],[1.114597,51.09177],[1.111078,51.093494],[1.106529,51.09425],[1.115627,51.096298],[1.121779,51.093903]]]],"created":1292544142,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/30123_20101217_e181fefa22.tar.gz"},"points":26,"type":"MultiPolygon"}
+}

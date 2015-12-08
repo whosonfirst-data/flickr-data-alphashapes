@@ -1,0 +1,15 @@
+{
+  "id": 12635439,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Wipfeld, Germany",
+    "placetype":"locality",
+    "woe:id":12635439,
+    "woe:name":"Gemeinde Wipfeld, Germany",
+    "woe:place_id":"xAdzOlaYA5rhfDb.1w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.177609,49.920979,10.179476,49.926029],
+  "geometry": {"alpha":1e-05,"bbox":[10.177609443665,49.920978546143,10.179475784302,49.926029205322],"coordinates":[[[[10.179133,49.921818],[10.178596,49.92123],[10.177609,49.920979],[10.178146,49.922714],[10.179176,49.926029],[10.179476,49.922119],[10.179133,49.921818]]]],"created":1292445259,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12635439_20101215_d294943fb6.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

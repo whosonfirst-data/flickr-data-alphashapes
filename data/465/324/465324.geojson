@@ -1,0 +1,15 @@
+{
+  "id": 465324,
+  "type": "Feature",
+  "properties": {
+    "name":"Dumesnil, Cordoba, Argentina",
+    "placetype":"locality",
+    "woe:id":465324,
+    "woe:name":"Dumesnil, Cordoba, Argentina",
+    "woe:place_id":"gNl7zGudB5k7TlY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-64.336868,-31.33746,-64.330399,-31.3204],
+  "geometry": {"alpha":0.00015,"bbox":[-64.336868286133,-31.337459564209,-64.33039855957,-31.320400238037],"coordinates":[[[[-64.330902,-31.321861],[-64.330399,-31.323563],[-64.336868,-31.33746],[-64.334061,-31.3204],[-64.330902,-31.321861]]]],"created":1292498648,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5084/shapefiles/465324_20101216_1454a62c3a.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

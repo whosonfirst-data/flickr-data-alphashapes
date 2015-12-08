@@ -1,0 +1,15 @@
+{
+  "id": 2372355,
+  "type": "Feature",
+  "properties": {
+    "name":"Burrus Landing, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2372355,
+    "woe:name":"Burrus Landing, Tennessee, United States",
+    "woe:place_id":"o2wHl8WbApuEQUgc",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.508018,36.364902,-89.504669,36.377483],
+  "geometry": {"alpha":0.00015,"bbox":[-89.508018493652,36.364902496338,-89.504669189453,36.37748336792],"coordinates":[[[[-89.508018,36.364902],[-89.507675,36.377483],[-89.504669,36.368931],[-89.504776,36.368118],[-89.504845,36.36697],[-89.508018,36.364902]]]],"created":1292468581,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2372355_20101216_59b5d4227f.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

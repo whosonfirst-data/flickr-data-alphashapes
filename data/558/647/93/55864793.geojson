@@ -1,0 +1,15 @@
+{
+  "id": 55864793,
+  "type": "Feature",
+  "properties": {
+    "name":"University, Mississippi, United States",
+    "placetype":"locality",
+    "woe:id":55864793,
+    "woe:name":"University, Mississippi, United States",
+    "woe:place_id":"v7U7LkqcBJRLCB7FrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.539177,34.362549,-89.530014,34.369968],
+  "geometry": {"alpha":0.00015,"bbox":[-89.539176940918,34.362548828125,-89.530014038086,34.369968414307],"coordinates":[[[[-89.534882,34.362549],[-89.536682,34.363617],[-89.539177,34.365726],[-89.530197,34.369968],[-89.530014,34.363735],[-89.534882,34.362549]]]],"created":1292436782,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/55864793_20101215_e78755eeea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

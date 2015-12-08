@@ -1,0 +1,15 @@
+{
+  "id": 616300,
+  "type": "Feature",
+  "properties": {
+    "name":"Petit-Mars, Pays de la Loire, France",
+    "placetype":"locality",
+    "woe:id":616300,
+    "woe:name":"Petit-Mars, Pays de la Loire, France",
+    "woe:place_id":"1mm0DbWfAJrjhzw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-1.45116,47.38768,-1.431162,47.39983],
+  "geometry": {"alpha":0.00015,"bbox":[-1.451159954071,47.387680053711,-1.4311619997025,47.399829864502],"coordinates":[[[[-1.45116,47.398735],[-1.450071,47.39983],[-1.445077,47.39315],[-1.431162,47.38768],[-1.445024,47.392719],[-1.45116,47.398735]]]],"created":1292457511,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/616300_20101215_9950df6cd6.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

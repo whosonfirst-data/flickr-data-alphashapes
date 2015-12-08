@@ -1,0 +1,15 @@
+{
+  "id": 142565,
+  "type": "Feature",
+  "properties": {
+    "name":"San Francisco, Guerrero, Mexico",
+    "placetype":"locality",
+    "woe:id":142565,
+    "woe:name":"San Francisco, Guerrero, Mexico",
+    "woe:place_id":"6NVJRWyYBZ5EOmo",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-102.145897,17.963221,-102.125984,17.977835],
+  "geometry": {"alpha":0.00015,"bbox":[-102.14589691162,17.963220596313,-102.12598419189,17.977834701538],"coordinates":[[[[-102.14521,17.966324],[-102.145897,17.969589],[-102.138863,17.976692],[-102.125984,17.977835],[-102.137314,17.96665],[-102.137657,17.963221],[-102.14521,17.966324]]]],"created":1292446886,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/142565_20101215_9237257803.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

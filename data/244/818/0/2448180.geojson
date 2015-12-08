@@ -1,0 +1,15 @@
+{
+  "id": 2448180,
+  "type": "Feature",
+  "properties": {
+    "name":"Mckinleyville, West Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2448180,
+    "woe:name":"Mckinleyville, West Virginia, United States",
+    "woe:place_id":"KtFJqTybBZiCJGeF",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.605484,40.258568,-80.603767,40.259026],
+  "geometry": {"alpha":0.00015,"bbox":[-80.605484008789,40.258567810059,-80.60376739502,40.25902557373],"coordinates":[[[[-80.605141,40.258633],[-80.605484,40.258831],[-80.605484,40.259026],[-80.603767,40.258766],[-80.60463,40.258568],[-80.605141,40.258633]]]],"created":1292451853,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5286/shapefiles/2448180_20101215_d45c195f57.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

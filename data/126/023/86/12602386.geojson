@@ -1,0 +1,15 @@
+{
+  "id": 12602386,
+  "type": "Feature",
+  "properties": {
+    "name":"Gembloux, Belgium",
+    "placetype":"locality",
+    "woe:id":12602386,
+    "woe:name":"Gembloux, Belgium",
+    "woe:place_id":"W6gtV_6YA5pwUoNQzg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.689445,50.560902,4.697642,50.565247],
+  "geometry": {"alpha":1e-05,"bbox":[4.6894450187683,50.560901641846,4.6976418495178,50.565246582031],"coordinates":[[[[4.693887,50.561295],[4.693222,50.560902],[4.689445,50.565247],[4.693458,50.562946],[4.69718,50.562195],[4.697642,50.561829],[4.693887,50.561295]]]],"created":1248261021,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2566/shapefiles/12602386_20090722_43506d16f4.tar.gz"},"points":18,"type":"MultiPolygon"}
+}

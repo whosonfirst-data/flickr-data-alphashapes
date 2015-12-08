@@ -1,0 +1,15 @@
+{
+  "id": 22721469,
+  "type": "Feature",
+  "properties": {
+    "name":"Wollongong, New South Wales, Australia",
+    "placetype":"locality",
+    "woe:id":22721469,
+    "woe:name":"Wollongong, New South Wales, Australia",
+    "woe:place_id":"ThYMAOGbA5vmPClFHg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [150.889664,-34.305973,150.905167,-34.30204],
+  "geometry": {"alpha":0.00015,"bbox":[150.88966369629,-34.305973052979,150.90516662598,-34.302040100098],"coordinates":[[[[150.905167,-34.305958],[150.905167,-34.305962],[150.905167,-34.305969],[150.905167,-34.305973],[150.889664,-34.30204],[150.905167,-34.305958]]]],"created":1247822525,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2544/shapefiles/22721469_20090717_8b8a6bbde4.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

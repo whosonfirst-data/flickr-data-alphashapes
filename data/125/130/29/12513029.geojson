@@ -1,0 +1,15 @@
+{
+  "id": 12513029,
+  "type": "Feature",
+  "properties": {
+    "name":"Guernsey Airport, United Kingdom",
+    "placetype":"locality",
+    "woe:id":12513029,
+    "woe:name":"Guernsey Airport, United Kingdom",
+    "woe:place_id":"aBfuRW6YA5k.fByXJg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.602128,49.432224,-2.595348,49.435539],
+  "geometry": {"alpha":1e-05,"bbox":[-2.6021280288696,49.432224273682,-2.5953478813171,49.435539245605],"coordinates":[[[[-2.598094,49.435539],[-2.595348,49.433582],[-2.596238,49.432224],[-2.602128,49.432705],[-2.59984,49.434921],[-2.598094,49.435539]]]],"created":1292456918,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5083/shapefiles/12513029_20101215_8f6905b42b.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

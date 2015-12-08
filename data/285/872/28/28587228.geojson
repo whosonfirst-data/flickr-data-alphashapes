@@ -1,0 +1,15 @@
+{
+  "id": 28587228,
+  "type": "Feature",
+  "properties": {
+    "name":"Smithfield, Queensland, Australia",
+    "placetype":"locality",
+    "woe:id":28587228,
+    "woe:name":"Smithfield, Queensland, Australia",
+    "woe:place_id":"qrc_M_.bCZntdafYrA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [145.685883,-16.847261,145.704803,-16.810703],
+  "geometry": {"alpha":0.00015,"bbox":[145.68588256836,-16.847261428833,145.7048034668,-16.810703277588],"coordinates":[[[[145.685883,-16.817583],[145.687637,-16.810703],[145.70343,-16.818672],[145.704803,-16.839046],[145.704117,-16.847261],[145.691925,-16.833954],[145.685883,-16.817583]]]],"created":1292524767,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/28587228_20101216_412a32e136.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 2345126,
+  "type": "Feature",
+  "properties": {
+    "name":"Ribeira Grande, CV, Cape Verde",
+    "placetype":"region",
+    "woe:id":2345126,
+    "woe:name":"Ribeira Grande, CV, Cape Verde",
+    "woe:place_id":"GY2j9LabApjTy_7C",
+    "woe:placetype":"region",
+    "woe:placetype_id":8
+},
+  "bbox": [-25.241261,16.956978,-24.807129,17.23525],
+  "geometry": {"alpha":0.03,"bbox":[-25.241260528564,16.956977844238,-24.80712890625,17.235250473022],"coordinates":[[[[-25.092516,17.205818],[-25.031319,17.181057],[-24.807129,17.211639],[-24.992929,17.101776],[-25.032349,16.999008],[-25.048828,16.977995],[-25.065308,16.956978],[-25.154852,16.996216],[-25.241261,16.988337],[-25.213623,17.147678],[-25.202637,17.23525],[-25.109253,17.209017],[-25.092516,17.205818]]]],"created":1292442822,"edges":13,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5046/shapefiles/2345126_20101215_fc5e331ce1.tar.gz"},"points":485,"type":"MultiPolygon"}
+}

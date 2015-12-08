@@ -1,0 +1,15 @@
+{
+  "id": 12675360,
+  "type": "Feature",
+  "properties": {
+    "name":"Steeg, Austria",
+    "placetype":"locality",
+    "woe:id":12675360,
+    "woe:name":"Steeg, Austria",
+    "woe:place_id":"sIq4.PWYA5qS4EBsIw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.229473,47.268513,10.235574,47.273495],
+  "geometry": {"alpha":1e-05,"bbox":[10.229473114014,47.26851272583,10.235573768616,47.273494720459],"coordinates":[[[[10.232397,47.270611],[10.229473,47.268513],[10.230941,47.270882],[10.231897,47.271671],[10.233163,47.272564],[10.235574,47.273495],[10.232397,47.270611]]]],"created":1292539056,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5245/shapefiles/12675360_20101216_b9a7b6afe8.tar.gz"},"points":34,"type":"MultiPolygon"}
+}

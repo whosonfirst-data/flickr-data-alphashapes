@@ -1,0 +1,15 @@
+{
+  "id": 8199,
+  "type": "Feature",
+  "properties": {
+    "name":"Gem, Alberta, Canada",
+    "placetype":"locality",
+    "woe:id":8199,
+    "woe:name":"Gem, Alberta, Canada",
+    "woe:place_id":"LbnTt22RAJUt",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.177879,50.93214,-112.168839,50.957993],
+  "geometry": {"alpha":0.00015,"bbox":[-112.1778793335,50.932140350342,-112.16883850098,50.957992553711],"coordinates":[[[[-112.170235,50.941879],[-112.168839,50.93214],[-112.171242,50.94236],[-112.177879,50.951508],[-112.172638,50.957993],[-112.170235,50.941879]]]],"created":1292446766,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/8199_20101215_cd5b4b5ef1.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

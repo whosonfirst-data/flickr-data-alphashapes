@@ -1,0 +1,15 @@
+{
+  "id": 12601603,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Ana, Sonora, Mexico",
+    "placetype":"county",
+    "woe:id":12601603,
+    "woe:name":"Santa Ana, Sonora, Mexico",
+    "woe:place_id":"d_rF.byYA5qU_lS.Ug",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-111.154175,30.518793,-111.107994,30.556051],
+  "geometry": {"alpha":0.0015,"bbox":[-111.15417480469,30.518793106079,-111.10799407959,30.556051254272],"coordinates":[[[[-111.109543,30.546886],[-111.107994,30.518793],[-111.154175,30.531509],[-111.151794,30.556051],[-111.13031,30.554131],[-111.109543,30.546886]]]],"created":1292542641,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5127/shapefiles/12601603_20101216_735b90f2f2.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

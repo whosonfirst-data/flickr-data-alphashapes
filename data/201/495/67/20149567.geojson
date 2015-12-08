@@ -1,0 +1,15 @@
+{
+  "id": 20149567,
+  "type": "Feature",
+  "properties": {
+    "name":"Ca Vecchia, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":20149567,
+    "woe:name":"Ca Vecchia, Veneto, Italy",
+    "woe:place_id":"Jc2CHTCbAZ2LYW18FA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.999406,45.231319,11.016712,45.259354],
+  "geometry": {"alpha":0.00015,"bbox":[10.999405860901,45.23131942749,11.016712188721,45.259353637695],"coordinates":[[[[11.000919,45.248787],[10.999406,45.259354],[11.002721,45.256233],[11.016712,45.252594],[11.00564,45.231319],[11.000919,45.248787]]]],"created":1292480285,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/20149567_20101216_79e55a1803.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

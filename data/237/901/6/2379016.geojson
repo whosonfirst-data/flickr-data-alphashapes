@@ -1,0 +1,15 @@
+{
+  "id": 2379016,
+  "type": "Feature",
+  "properties": {
+    "name":"Cherry Creek, New York, United States",
+    "placetype":"locality",
+    "woe:id":2379016,
+    "woe:name":"Cherry Creek, New York, United States",
+    "woe:place_id":"B0ygMDObApuU.n43",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.131256,42.280373,-79.106674,42.302288],
+  "geometry": {"alpha":0.00015,"bbox":[-79.131256103516,42.280372619629,-79.106674194336,42.30228805542],"coordinates":[[[[-79.12867,42.299],[-79.131256,42.302288],[-79.128502,42.298668],[-79.106674,42.296127],[-79.114845,42.280373],[-79.128502,42.298668],[-79.12867,42.299]]]],"created":1292551080,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2379016_20101217_2afd7581bb.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

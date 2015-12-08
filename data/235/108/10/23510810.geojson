@@ -1,0 +1,15 @@
+{
+  "id": 23510810,
+  "type": "Feature",
+  "properties": {
+    "name":"Argora, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":23510810,
+    "woe:name":"Argora, Idaho, United States",
+    "woe:place_id":"pScUS1mbApkxvu2DbQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-112.565399,44.360245,-112.564079,44.360821],
+  "geometry": {"alpha":0.00015,"bbox":[-112.56539916992,44.360244750977,-112.56407928467,44.360820770264],"coordinates":[[[[-112.565399,44.360245],[-112.565125,44.360409],[-112.564079,44.360821],[-112.564674,44.3605],[-112.565399,44.360245]]]],"created":1292445812,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5246/shapefiles/23510810_20101215_d78ee8ae91.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

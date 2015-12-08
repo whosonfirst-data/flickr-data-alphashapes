@@ -1,0 +1,15 @@
+{
+  "id": 12643981,
+  "type": "Feature",
+  "properties": {
+    "name":"Fontenay, France",
+    "placetype":"locality",
+    "woe:id":12643981,
+    "woe:name":"Fontenay, France",
+    "woe:place_id":"FGnqQP.YA5rXqAKRlg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.294624,46.476143,4.29634,46.477589],
+  "geometry": {"alpha":1e-05,"bbox":[4.2946238517761,46.476142883301,4.2963399887085,46.477588653564],"coordinates":[[[[4.29634,46.476616],[4.295954,46.476143],[4.295482,46.476765],[4.294624,46.477589],[4.29634,46.476616]]]],"created":1292479206,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/12643981_20101216_a1acb7839d.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

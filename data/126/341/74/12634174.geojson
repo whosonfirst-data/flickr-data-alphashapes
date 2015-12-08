@@ -1,0 +1,15 @@
+{
+  "id": 12634174,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Templin, Germany",
+    "placetype":"locality",
+    "woe:id":12634174,
+    "woe:name":"Gemeinde Templin, Germany",
+    "woe:place_id":"lHNVLKiYA5plq1TeRQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.494815,53.118137,13.504761,53.12236],
+  "geometry": {"alpha":1e-05,"bbox":[13.494814872742,53.118137359619,13.504760742188,53.122360229492],"coordinates":[[[[13.498077,53.118137],[13.494815,53.12236],[13.498871,53.12085],[13.504761,53.120224],[13.503656,53.118191],[13.498077,53.118137]]]],"created":1292537247,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/12634174_20101216_da02e4b6a7.tar.gz"},"points":35,"type":"MultiPolygon"}
+}

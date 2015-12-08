@@ -1,0 +1,15 @@
+{
+  "id": 577203,
+  "type": "Feature",
+  "properties": {
+    "name":"Augignac, Aquitaine, France",
+    "placetype":"locality",
+    "woe:id":577203,
+    "woe:name":"Augignac, Aquitaine, France",
+    "woe:place_id":"Wo4d62KcBpv4yfg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [0.676646,45.591999,0.696172,45.593498],
+  "geometry": {"alpha":0.00015,"bbox":[0.6766459941864,45.591999053955,0.69617199897766,45.59349822998],"coordinates":[[[[0.676774,45.592037],[0.676646,45.592209],[0.677375,45.593498],[0.696172,45.591999],[0.676774,45.592037]]]],"created":1292533047,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/577203_20101216_80050582aa.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

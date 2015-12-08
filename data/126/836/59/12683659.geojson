@@ -1,0 +1,15 @@
+{
+  "id": 12683659,
+  "type": "Feature",
+  "properties": {
+    "name":"Hemberg, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683659,
+    "woe:name":"Hemberg, Switzerland",
+    "woe:place_id":"c9CUa_mYA5qjrG6OwA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.174581,47.295471,9.179763,47.301411],
+  "geometry": {"alpha":1e-05,"bbox":[9.1745805740356,47.295471191406,9.179762840271,47.301410675049],"coordinates":[[[[9.179763,47.299721],[9.179077,47.295471],[9.175987,47.297508],[9.175347,47.299061],[9.174581,47.301411],[9.179763,47.299721]]]],"created":1292542340,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5250/shapefiles/12683659_20101216_298e433f94.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 108532,
+  "type": "Feature",
+  "properties": {
+    "name":"Carlton, Saint James, Jamaica",
+    "placetype":"locality",
+    "woe:id":108532,
+    "woe:name":"Carlton, Saint James, Jamaica",
+    "woe:place_id":"YiGnsz2YAZScr6A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.751892,18.500772,-77.738396,18.513308],
+  "geometry": {"alpha":0.00015,"bbox":[-77.751892089844,18.500772476196,-77.738395690918,18.513307571411],"coordinates":[[[[-77.741272,18.511707],[-77.739426,18.509726],[-77.738396,18.507772],[-77.738571,18.500772],[-77.751892,18.512037],[-77.746292,18.513308],[-77.741272,18.511707]]]],"created":1292538870,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/108532_20101216_7998f32079.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

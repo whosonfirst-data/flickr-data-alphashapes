@@ -1,0 +1,15 @@
+{
+  "id": 29371544,
+  "type": "Feature",
+  "properties": {
+    "name":"O Paraiso, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":29371544,
+    "woe:name":"O Paraiso, Galicia, Spain",
+    "woe:place_id":"j7o88_ubCJ8TAnpy0w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.375272,43.322273,-8.358584,43.329079],
+  "geometry": {"alpha":0.00015,"bbox":[-8.3752717971802,43.322273254395,-8.3585844039917,43.329078674316],"coordinates":[[[[-8.36333,43.32822],[-8.362698,43.327877],[-8.358584,43.322273],[-8.36493,43.325684],[-8.375272,43.329079],[-8.36333,43.32822]]]],"created":1248002894,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2547/shapefiles/29371544_20090719_ea10899133.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

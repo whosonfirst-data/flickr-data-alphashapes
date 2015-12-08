@@ -1,0 +1,15 @@
+{
+  "id": 144216,
+  "type": "Feature",
+  "properties": {
+    "name":"San Luis, Coahuila de Zaragoza, Mexico",
+    "placetype":"locality",
+    "woe:id":144216,
+    "woe:name":"San Luis, Coahuila de Zaragoza, Mexico",
+    "woe:place_id":"qBCgO1OYBZgarJw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.370758,25.532471,-103.357613,25.552601],
+  "geometry": {"alpha":0.00015,"bbox":[-103.37075805664,25.532470703125,-103.35761260986,25.552600860596],"coordinates":[[[[-103.365784,25.532471],[-103.370758,25.54007],[-103.366852,25.552601],[-103.357613,25.533611],[-103.365784,25.532471]]]],"created":1229578808,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3269/shapefiles/144216_20081218_bca746e78a.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

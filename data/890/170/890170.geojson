@@ -1,0 +1,15 @@
+{
+  "id": 890170,
+  "type": "Feature",
+  "properties": {
+    "name":"Furudal, Dalarna, Sweden",
+    "placetype":"locality",
+    "woe:id":890170,
+    "woe:name":"Furudal, Dalarna, Sweden",
+    "woe:place_id":"fq54Y5uRCJwaeCI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.133538,61.164219,15.165317,61.184383],
+  "geometry": {"alpha":0.00015,"bbox":[15.133538246155,61.164218902588,15.165316581726,61.184383392334],"coordinates":[[[[15.134053,61.170006],[15.147314,61.184383],[15.165317,61.170624],[15.152699,61.164219],[15.13504,61.169239],[15.133538,61.16991],[15.134053,61.170006]]]],"created":1292492415,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/890170_20101216_ca9b609839.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

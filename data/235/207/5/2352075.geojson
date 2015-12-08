@@ -1,0 +1,15 @@
+{
+  "id": 2352075,
+  "type": "Feature",
+  "properties": {
+    "name":"Aden, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2352075,
+    "woe:name":"Aden, Virginia, United States",
+    "woe:place_id":"MBz5FRWbApkx9whd",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.540558,38.644665,-77.521416,38.659164],
+  "geometry": {"alpha":0.00015,"bbox":[-77.540557861328,38.644664764404,-77.521415710449,38.659164428711],"coordinates":[[[[-77.540558,38.659164],[-77.535767,38.658634],[-77.521416,38.650059],[-77.535332,38.644665],[-77.536942,38.65522],[-77.540558,38.659164]]]],"created":1292469793,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2352075_20101216_3ce5764d06.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

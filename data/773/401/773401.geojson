@@ -1,0 +1,15 @@
+{
+  "id": 773401,
+  "type": "Feature",
+  "properties": {
+    "name":"San Salvador, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":773401,
+    "woe:name":"San Salvador, Galicia, Spain",
+    "woe:place_id":"gN9c7C6eBp9zsJ8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.648922,42.012123,-8.640918,42.027237],
+  "geometry": {"alpha":0.00015,"bbox":[-8.6489219665527,42.01212310791,-8.6409177780151,42.027236938477],"coordinates":[[[[-8.643,42.026966],[-8.642292,42.027237],[-8.641777,42.027203],[-8.641315,42.026711],[-8.640918,42.012123],[-8.648922,42.026405],[-8.643,42.026966]]]],"created":1292524062,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5170/shapefiles/773401_20101216_468ce8b326.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

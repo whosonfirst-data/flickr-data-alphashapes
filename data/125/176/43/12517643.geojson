@@ -1,0 +1,15 @@
+{
+  "id": 12517643,
+  "type": "Feature",
+  "properties": {
+    "name":"Jonkoping Airport, Sweden",
+    "placetype":"locality",
+    "woe:id":12517643,
+    "woe:name":"Jonkoping Airport, Sweden",
+    "woe:place_id":"JXGRpxSYA5mNJrzmCw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [14.066559,57.750984,14.072553,57.754284],
+  "geometry": {"alpha":1e-05,"bbox":[14.066558837891,57.750984191895,14.072552680969,57.754283905029],"coordinates":[[[[14.066559,57.754284],[14.068357,57.752628],[14.072553,57.75116],[14.069795,57.750984],[14.068357,57.752628],[14.066675,57.75391],[14.066559,57.754284]]]],"created":1234659846,"edges":7,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3338/shapefiles/12517643_20090215_3c9ce8059a.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

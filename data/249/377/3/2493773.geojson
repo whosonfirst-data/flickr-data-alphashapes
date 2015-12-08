@@ -1,0 +1,15 @@
+{
+  "id": 2493773,
+  "type": "Feature",
+  "properties": {
+    "name":"Silver Spring Station, Maryland, United States",
+    "placetype":"locality",
+    "woe:id":2493773,
+    "woe:name":"Silver Spring Station, Maryland, United States",
+    "woe:place_id":"cwODD5.bBZX8D2Ss",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-76.483498,39.390556,-76.47686,39.397667],
+  "geometry": {"alpha":0.00015,"bbox":[-76.483497619629,39.390556335449,-76.476860046387,39.397666931152],"coordinates":[[[[-76.477791,39.396942],[-76.47686,39.396275],[-76.482224,39.390556],[-76.483498,39.397667],[-76.481377,39.397285],[-76.477791,39.396942]]]],"created":1292460783,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5042/shapefiles/2493773_20101216_83f27536bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

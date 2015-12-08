@@ -1,0 +1,15 @@
+{
+  "id": 710588,
+  "type": "Feature",
+  "properties": {
+    "name":"Bagnone, Tuscany, Italy",
+    "placetype":"locality",
+    "woe:id":710588,
+    "woe:name":"Bagnone, Tuscany, Italy",
+    "woe:place_id":"NKp0UOmeAJzuTA4",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.992151,44.314205,9.998695,44.316357],
+  "geometry": {"alpha":0.00015,"bbox":[9.992151260376,44.314205169678,9.9986953735352,44.316356658936],"coordinates":[[[[9.994736,44.314693],[9.992151,44.314636],[9.993438,44.316235],[9.994812,44.316357],[9.998416,44.315495],[9.998695,44.314205],[9.994736,44.314693]]]],"created":1292532213,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/710588_20101216_a156b7fefb.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

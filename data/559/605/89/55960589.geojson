@@ -1,0 +1,15 @@
+{
+  "id": 55960589,
+  "type": "Feature",
+  "properties": {
+    "name":"St.-Gabriel, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":55960589,
+    "woe:name":"St.-Gabriel, Quebec, Canada",
+    "woe:place_id":"2hqUHBqcBJWXuiZX_A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-73.425514,46.317768,-73.405319,46.328957],
+  "geometry": {"alpha":0.00015,"bbox":[-73.425514221191,46.317768096924,-73.405319213867,46.328956604004],"coordinates":[[[[-73.423691,46.328957],[-73.405319,46.317768],[-73.423386,46.324963],[-73.425514,46.3279],[-73.423691,46.328957]]]],"created":1292473508,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/55960589_20101216_f1d9598e44.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

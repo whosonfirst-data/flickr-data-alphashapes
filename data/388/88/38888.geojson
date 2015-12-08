@@ -1,0 +1,15 @@
+{
+  "id": 38888,
+  "type": "Feature",
+  "properties": {
+    "name":"Victoria, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":38888,
+    "woe:name":"Victoria, England, United Kingdom",
+    "woe:place_id":"bU0EtrGaCZS08g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-4.846687,50.414642,-4.818834,50.425251],
+  "geometry": {"alpha":0.00015,"bbox":[-4.8466868400574,50.414642333984,-4.8188338279724,50.42525100708],"coordinates":[[[[-4.832782,50.414642],[-4.839305,50.416393],[-4.846472,50.416927],[-4.846687,50.425251],[-4.829961,50.420956],[-4.821968,50.425144],[-4.818834,50.417667],[-4.832782,50.414642]]]],"created":1292534465,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/38888_20101216_6fdaaa8e8e.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

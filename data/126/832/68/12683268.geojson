@@ -1,0 +1,15 @@
+{
+  "id": 12683268,
+  "type": "Feature",
+  "properties": {
+    "name":"Cressier, Switzerland",
+    "placetype":"locality",
+    "woe:id":12683268,
+    "woe:name":"Cressier, Switzerland",
+    "woe:place_id":"cik3IM6YA5pQiKQOQQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.127208,46.895996,7.128019,46.899616],
+  "geometry": {"alpha":1e-05,"bbox":[7.1272082328796,46.89599609375,7.1280188560486,46.899616241455],"coordinates":[[[[7.127786,46.896011],[7.127777,46.896027],[7.127208,46.899616],[7.128019,46.896099],[7.127819,46.895996],[7.127786,46.896011]]]],"created":1292470865,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5203/shapefiles/12683268_20101216_23eb839caa.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

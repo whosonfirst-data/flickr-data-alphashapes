@@ -1,0 +1,15 @@
+{
+  "id": 2482891,
+  "type": "Feature",
+  "properties": {
+    "name":"Robles del Rio, California, United States",
+    "placetype":"locality",
+    "woe:id":2482891,
+    "woe:name":"Robles del Rio, California, United States",
+    "woe:place_id":"9JQ34dabBZT_R0BQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-121.735382,36.468647,-121.721474,36.479069],
+  "geometry": {"alpha":0.00015,"bbox":[-121.73538208008,36.468647003174,-121.72147369385,36.479068756104],"coordinates":[[[[-121.722015,36.475395],[-121.721474,36.468647],[-121.735382,36.46899],[-121.728683,36.479069],[-121.724937,36.476555],[-121.722015,36.475395]]]],"created":1292542331,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5004/shapefiles/2482891_20101216_bf846a41a6.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

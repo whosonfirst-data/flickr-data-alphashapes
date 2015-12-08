@@ -1,0 +1,15 @@
+{
+  "id": 12624638,
+  "type": "Feature",
+  "properties": {
+    "name":"Gemeinde Suhl, Germany",
+    "placetype":"locality",
+    "woe:id":12624638,
+    "woe:name":"Gemeinde Suhl, Germany",
+    "woe:place_id":"S87vzUGYA5rRQgsVEA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [10.706878,50.611069,10.710918,50.616848],
+  "geometry": {"alpha":1e-05,"bbox":[10.706877708435,50.611068725586,10.710918426514,50.616847991943],"coordinates":[[[[10.710811,50.613216],[10.710918,50.61314],[10.709202,50.611069],[10.706878,50.616848],[10.710811,50.613216]]]],"created":1292458527,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/12624638_20101216_2d2dfd860d.tar.gz"},"points":25,"type":"MultiPolygon"}
+}

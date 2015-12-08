@@ -1,0 +1,15 @@
+{
+  "id": 2383641,
+  "type": "Feature",
+  "properties": {
+    "name":"Columbus, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2383641,
+    "woe:name":"Columbus, Kentucky, United States",
+    "woe:place_id":"P.PhrN2bApTLRtrm",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-89.116371,36.754704,-89.102722,36.774712],
+  "geometry": {"alpha":0.00015,"bbox":[-89.116371154785,36.754703521729,-89.102722167969,36.774711608887],"coordinates":[[[[-89.112213,36.767071],[-89.108543,36.764801],[-89.102722,36.760548],[-89.103584,36.754704],[-89.116112,36.758965],[-89.116371,36.774712],[-89.112213,36.767071]]]],"created":1292541505,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/2383641_20101216_0926062ac4.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12693557,
+  "type": "Feature",
+  "properties": {
+    "name":"La Quar, Spain",
+    "placetype":"locality",
+    "woe:id":12693557,
+    "woe:name":"La Quar, Spain",
+    "woe:place_id":"iQGB6aKYA5p57XJZiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [1.977195,42.093128,1.979641,42.09679],
+  "geometry": {"alpha":1e-05,"bbox":[1.9771950244904,42.093128204346,1.9796409606934,42.096790313721],"coordinates":[[[[1.978054,42.096184],[1.978569,42.0965],[1.979641,42.09679],[1.979084,42.095928],[1.978225,42.093128],[1.977195,42.094975],[1.978054,42.096184]]]],"created":1292530966,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12693557_20101216_6581056be9.tar.gz"},"points":17,"type":"MultiPolygon"}
+}

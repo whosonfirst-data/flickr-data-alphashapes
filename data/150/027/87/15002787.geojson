@@ -1,0 +1,15 @@
+{
+  "id": 15002787,
+  "type": "Feature",
+  "properties": {
+    "name":"Schwaigen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":15002787,
+    "woe:name":"Schwaigen, Bavaria, Germany",
+    "woe:place_id":"Z8r44xWYBJxSqiIW1A",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.127433,47.639816,11.140565,47.657047],
+  "geometry": {"alpha":0.00015,"bbox":[11.127432823181,47.63981628418,11.140564918518,47.657047271729],"coordinates":[[[[11.140565,47.654316],[11.129236,47.639816],[11.127433,47.640064],[11.128463,47.656021],[11.137862,47.657047],[11.140565,47.654316]]]],"created":1292534151,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/15002787_20101216_2c03222446.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

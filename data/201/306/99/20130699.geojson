@@ -1,0 +1,15 @@
+{
+  "id": 20130699,
+  "type": "Feature",
+  "properties": {
+    "name":"Marinella, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":20130699,
+    "woe:name":"Marinella, Calabria, Italy",
+    "woe:place_id":"MyFRxLGbAZ2I0BQk8Q",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.108704,37.985882,16.123981,37.999275],
+  "geometry": {"alpha":0.00015,"bbox":[16.108703613281,37.98588180542,16.12398147583,37.99927520752],"coordinates":[[[[16.118143,37.988449],[16.108704,37.985882],[16.121063,37.99535],[16.123981,37.999275],[16.12014,37.99057],[16.118143,37.988449]]]],"created":1292441661,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5005/shapefiles/20130699_20101215_667d1c3556.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 12582131,
+  "type": "Feature",
+  "properties": {
+    "name":"Monte Mor, Sao Paulo, Brazil",
+    "placetype":"county",
+    "woe:id":12582131,
+    "woe:name":"Monte Mor, Sao Paulo, Brazil",
+    "woe:place_id":"VwJPMZiYA5nl01.UsA",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-47.353821,-22.961948,-47.257088,-22.891199],
+  "geometry": {"alpha":0.0015,"bbox":[-47.353820800781,-22.961948394775,-47.25708770752,-22.891199111938],"coordinates":[[[[-47.322407,-22.954678],[-47.352791,-22.945511],[-47.353821,-22.93816],[-47.331848,-22.91223],[-47.301292,-22.891199],[-47.257088,-22.921953],[-47.2869,-22.950331],[-47.301464,-22.961948],[-47.322407,-22.954678]]]],"created":1292544341,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/12582131_20101217_b6f76c8477.tar.gz"},"points":22,"type":"MultiPolygon"}
+}

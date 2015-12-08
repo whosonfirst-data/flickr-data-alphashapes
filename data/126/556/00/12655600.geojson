@@ -1,0 +1,15 @@
+{
+  "id": 12655600,
+  "type": "Feature",
+  "properties": {
+    "name":"Artigues, France",
+    "placetype":"locality",
+    "woe:id":12655600,
+    "woe:name":"Artigues, France",
+    "woe:place_id":"YAj3nLSYA5rU1UZ_Sg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.220096,42.785133,2.223873,42.790382],
+  "geometry": {"alpha":1e-05,"bbox":[2.2200961112976,42.785133361816,2.2238729000092,42.790382385254],"coordinates":[[[[2.22207,42.785133],[2.220096,42.786583],[2.221813,42.790382],[2.223873,42.786961],[2.22207,42.785133]]]],"created":1292523716,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5242/shapefiles/12655600_20101216_d845d7dcc2.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

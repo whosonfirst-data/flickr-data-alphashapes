@@ -1,0 +1,15 @@
+{
+  "id": 29000604,
+  "type": "Feature",
+  "properties": {
+    "name":"Udaysing, West Bengal, India",
+    "placetype":"locality",
+    "woe:id":29000604,
+    "woe:name":"Udaysing, West Bengal, India",
+    "woe:place_id":"tUeBcsmbCJytG.haSw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [88.395821,26.736105,88.418655,26.750515],
+  "geometry": {"alpha":0.00015,"bbox":[88.395820617676,26.73610496521,88.418655395508,26.750514984131],"coordinates":[[[[88.41127,26.750515],[88.418655,26.74423],[88.415268,26.742161],[88.405609,26.736105],[88.395821,26.742161],[88.405609,26.750515],[88.41127,26.750515]]]],"created":1292503328,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/29000604_20101216_c42fd1ff03.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

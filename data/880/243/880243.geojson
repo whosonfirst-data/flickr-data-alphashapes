@@ -1,0 +1,15 @@
+{
+  "id": 880243,
+  "type": "Feature",
+  "properties": {
+    "name":"Szek, Cluj, Romania",
+    "placetype":"locality",
+    "woe:id":880243,
+    "woe:name":"Szek, Cluj, Romania",
+    "woe:place_id":"qNDMD3eRCZxzp4I",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [23.875351,46.914684,23.905907,46.945339],
+  "geometry": {"alpha":0.00015,"bbox":[23.875350952148,46.914684295654,23.905906677246,46.945339202881],"coordinates":[[[[23.879299,46.930923],[23.877754,46.929867],[23.877411,46.930336],[23.875351,46.934792],[23.887024,46.945339],[23.8983,46.931599],[23.898972,46.928967],[23.905907,46.914684],[23.898354,46.923889],[23.879299,46.930923]]]],"created":1292542522,"edges":10,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/880243_20101216_97434bd7a7.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

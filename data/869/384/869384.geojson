@@ -1,0 +1,15 @@
+{
+  "id": 869384,
+  "type": "Feature",
+  "properties": {
+    "name":"Chitil, Bucuresti, Romania",
+    "placetype":"locality",
+    "woe:id":869384,
+    "woe:name":"Chitil, Bucuresti, Romania",
+    "woe:place_id":"6jpp3h.RB5WZ9Ig",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [26.027567,44.469315,26.039528,44.482666],
+  "geometry": {"alpha":0.00015,"bbox":[26.02756690979,44.469314575195,26.039527893066,44.482666015625],"coordinates":[[[[26.032104,44.47691],[26.027567,44.479851],[26.030045,44.482666],[26.033197,44.480938],[26.036079,44.475269],[26.039528,44.469315],[26.032104,44.47691]]]],"created":1292526290,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5281/shapefiles/869384_20101216_568da28f53.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 722334,
+  "type": "Feature",
+  "properties": {
+    "name":"San Basile, Calabria, Italy",
+    "placetype":"locality",
+    "woe:id":722334,
+    "woe:name":"San Basile, Calabria, Italy",
+    "woe:place_id":"rmXKV7ueA56LX9U",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [16.155052,39.803986,16.173248,39.816711],
+  "geometry": {"alpha":0.00015,"bbox":[16.155052185059,39.803985595703,16.173248291016,39.816711425781],"coordinates":[[[[16.162863,39.809689],[16.163292,39.809509],[16.173248,39.808899],[16.16312,39.803986],[16.158764,39.809738],[16.155052,39.816711],[16.162863,39.809689]]]],"created":1292491989,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5243/shapefiles/722334_20101216_bc4296b63f.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

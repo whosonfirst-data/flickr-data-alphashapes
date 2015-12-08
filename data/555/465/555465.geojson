@@ -1,0 +1,15 @@
+{
+  "id": 555465,
+  "type": "Feature",
+  "properties": {
+    "name":"Maglebylille, Hovedstaden, Denmark",
+    "placetype":"locality",
+    "woe:id":555465,
+    "woe:name":"Maglebylille, Hovedstaden, Denmark",
+    "woe:place_id":"JNN9e56cBJnknDE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [12.643547,55.615005,12.653503,55.61927],
+  "geometry": {"alpha":0.00015,"bbox":[12.643547058105,55.615005493164,12.653503417969,55.619270324707],"coordinates":[[[[12.649726,55.61927],[12.649984,55.619225],[12.653503,55.615005],[12.643547,55.616982],[12.645606,55.618885],[12.649726,55.61927]]]],"created":1247806927,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2476/shapefiles/555465_20090717_a912be625a.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

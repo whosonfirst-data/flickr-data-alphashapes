@@ -1,0 +1,15 @@
+{
+  "id": 2474578,
+  "type": "Feature",
+  "properties": {
+    "name":"Point Harbor, Tennessee, United States",
+    "placetype":"locality",
+    "woe:id":2474578,
+    "woe:name":"Point Harbor, Tennessee, United States",
+    "woe:place_id":"KeZ1N1SbBZuYS1z5",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-84.228828,35.782394,-84.204926,35.801422],
+  "geometry": {"alpha":0.00015,"bbox":[-84.228828430176,35.78239440918,-84.204925537109,35.801422119141],"coordinates":[[[[-84.211624,35.801422],[-84.204926,35.783649],[-84.212181,35.782394],[-84.228828,35.785027],[-84.219048,35.800777],[-84.211624,35.801422]]]],"created":1292546286,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5128/shapefiles/2474578_20101217_0e791fb37a.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

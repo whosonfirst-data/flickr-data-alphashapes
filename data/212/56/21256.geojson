@@ -1,0 +1,15 @@
+{
+  "id": 21256,
+  "type": "Feature",
+  "properties": {
+    "name":"Glynneath, Wales, United Kingdom",
+    "placetype":"locality",
+    "woe:id":21256,
+    "woe:name":"Glynneath, Wales, United Kingdom",
+    "woe:place_id":"7RuFYN.bAJ7fvA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-3.639435,51.740635,-3.614501,51.758625],
+  "geometry": {"alpha":0.00015,"bbox":[-3.6394350528717,51.740634918213,-3.6145009994507,51.758625030518],"coordinates":[[[[-3.617591,51.749405],[-3.614501,51.740635],[-3.628768,51.744003],[-3.639435,51.74345],[-3.62535,51.758625],[-3.617591,51.749405]]]],"created":1292546553,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5208/shapefiles/21256_20101217_e4ff0db232.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

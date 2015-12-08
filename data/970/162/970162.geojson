@@ -1,0 +1,15 @@
+{
+  "id": 970162,
+  "type": "Feature",
+  "properties": {
+    "name":"Goor, Antwerp, Belgium",
+    "placetype":"locality",
+    "woe:id":970162,
+    "woe:name":"Goor, Antwerp, Belgium",
+    "woe:place_id":"zS0qPxSQBpxqrT8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [4.94965,51.22422,4.950172,51.226463],
+  "geometry": {"alpha":0.00015,"bbox":[4.949649810791,51.224220275879,4.9501719474792,51.226463317871],"coordinates":[[[[4.950172,51.224983],[4.950034,51.224258],[4.950012,51.22422],[4.949755,51.225555],[4.94965,51.226017],[4.950005,51.226463],[4.950172,51.224983]]]],"created":1247982612,"edges":7,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2625/shapefiles/970162_20090719_5e86ebfae0.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

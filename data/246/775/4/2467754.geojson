@@ -1,0 +1,15 @@
+{
+  "id": 2467754,
+  "type": "Feature",
+  "properties": {
+    "name":"Palmer Heights, Murfreesboro, TN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2467754,
+    "woe:name":"Palmer Heights, Murfreesboro, TN, US, United States",
+    "woe:place_id":"4gAoFS6bBZqorwRl",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-86.384422,35.902027,-86.383385,35.904346],
+  "geometry": {"alpha":1e-05,"bbox":[-86.384422302246,35.902027130127,-86.38338470459,35.904346466064],"coordinates":[[[[-86.383385,35.902222],[-86.383385,35.902027],[-86.383415,35.902107],[-86.384422,35.904346],[-86.383385,35.902222]]]],"created":1248192491,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2628/shapefiles/2467754_20090721_fefdcecf59.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

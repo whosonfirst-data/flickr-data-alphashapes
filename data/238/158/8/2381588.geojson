@@ -1,0 +1,15 @@
+{
+  "id": 2381588,
+  "type": "Feature",
+  "properties": {
+    "name":"Cliffview, Virginia, United States",
+    "placetype":"locality",
+    "woe:id":2381588,
+    "woe:name":"Cliffview, Virginia, United States",
+    "woe:place_id":".yyPtuWbApQc2K5D",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-80.037674,37.267563,-80.024239,37.274734],
+  "geometry": {"alpha":0.00015,"bbox":[-80.037673950195,37.267562866211,-80.024238586426,37.27473449707],"coordinates":[[[[-80.03669,37.268009],[-80.037674,37.268616],[-80.037376,37.272106],[-80.024239,37.274734],[-80.03553,37.267563],[-80.03669,37.268009]]]],"created":1292538447,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5008/shapefiles/2381588_20101216_4b1f2da607.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

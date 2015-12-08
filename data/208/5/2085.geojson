@@ -1,0 +1,15 @@
+{
+  "id": 2085,
+  "type": "Feature",
+  "properties": {
+    "name":"Hillmond, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2085,
+    "woe:name":"Hillmond, Saskatchewan, Canada",
+    "woe:place_id":"qCcMHR.bAZQN",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-109.67411,53.483345,-109.658661,53.487942],
+  "geometry": {"alpha":0.00015,"bbox":[-109.6741104126,53.483345031738,-109.65866088867,53.487941741943],"coordinates":[[[[-109.666382,53.487637],[-109.663979,53.48774],[-109.658661,53.487942],[-109.661064,53.484573],[-109.662094,53.483345],[-109.67411,53.484367],[-109.666382,53.487637]]]],"created":1292527906,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5047/shapefiles/2085_20101216_86d8099685.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

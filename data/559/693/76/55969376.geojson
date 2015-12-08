@@ -1,0 +1,15 @@
+{
+  "id": 55969376,
+  "type": "Feature",
+  "properties": {
+    "name":"Phoenix Place, Davis, CA, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":55969376,
+    "woe:name":"Phoenix Place, Davis, CA, US, United States",
+    "woe:place_id":"BzRG6SycBJW9WgK3wA",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-121.75248,38.557594,-121.747444,38.561001],
+  "geometry": {"alpha":1e-05,"bbox":[-121.75247955322,38.557594299316,-121.74744415283,38.561000823975],"coordinates":[[[[-121.748322,38.559147],[-121.747444,38.557594],[-121.748459,38.559101],[-121.75248,38.560932],[-121.75,38.561001],[-121.748322,38.559147]]]],"created":1292509862,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/55969376_20101216_7ffb271965.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

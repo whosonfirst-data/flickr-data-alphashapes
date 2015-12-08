@@ -1,0 +1,15 @@
+{
+  "id": 231,
+  "type": "Feature",
+  "properties": {
+    "name":"Caplin Cove, Newfoundland and Labrador, Canada",
+    "placetype":"locality",
+    "woe:id":231,
+    "woe:name":"Caplin Cove, Newfoundland and Labrador, Canada",
+    "woe:place_id":"04HUHAabAp0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-52.988949,48.033791,-52.975903,48.043404],
+  "geometry": {"alpha":0.00015,"bbox":[-52.988948822021,48.033790588379,-52.975902557373,48.043403625488],"coordinates":[[[[-52.979893,48.043404],[-52.975903,48.04039],[-52.977962,48.033791],[-52.987232,48.035854],[-52.988949,48.038265],[-52.979893,48.043404]]]],"created":1292465162,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5050/shapefiles/231_20101216_277e8af529.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

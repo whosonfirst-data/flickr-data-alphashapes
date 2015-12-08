@@ -1,0 +1,15 @@
+{
+  "id": 2443662,
+  "type": "Feature",
+  "properties": {
+    "name":"Mace, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2443662,
+    "woe:name":"Mace, Idaho, United States",
+    "woe:place_id":"bX8tBGabBZgcCJwh",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.817528,47.500038,-115.813751,47.521942],
+  "geometry": {"alpha":0.00015,"bbox":[-115.817527771,47.500038146973,-115.8137512207,47.521942138672],"coordinates":[[[[-115.816666,47.521667],[-115.81472,47.521942],[-115.813751,47.500038],[-115.817528,47.520302],[-115.817032,47.521084],[-115.816666,47.521667]]]],"created":1292460182,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5163/shapefiles/2443662_20101216_b30e67cbda.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

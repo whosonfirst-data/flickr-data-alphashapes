@@ -1,0 +1,15 @@
+{
+  "id": 645001,
+  "type": "Feature",
+  "properties": {
+    "name":"Dodenau, Hesse, Germany",
+    "placetype":"locality",
+    "woe:id":645001,
+    "woe:name":"Dodenau, Hesse, Germany",
+    "woe:place_id":"2Xv0IwKfBZn3RkI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.599852,51.023262,8.600372,51.023846],
+  "geometry": {"alpha":0.00015,"bbox":[8.5998516082764,51.023262023926,8.6003723144531,51.023845672607],"coordinates":[[[[8.599852,51.023811],[8.59988,51.023846],[8.600372,51.023262],[8.600008,51.02343],[8.599852,51.023811]]]],"created":1292407923,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5003/shapefiles/645001_20101215_71b8e38539.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

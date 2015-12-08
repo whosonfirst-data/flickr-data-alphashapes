@@ -1,0 +1,15 @@
+{
+  "id": 713876,
+  "type": "Feature",
+  "properties": {
+    "name":"Cesarolo, Veneto, Italy",
+    "placetype":"locality",
+    "woe:id":713876,
+    "woe:name":"Cesarolo, Veneto, Italy",
+    "woe:place_id":"R1LV0TieAJ9yf8E",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [13.008499,45.717983,13.012447,45.723679],
+  "geometry": {"alpha":0.00015,"bbox":[13.008499145508,45.71798324585,13.012447357178,45.723678588867],"coordinates":[[[[13.012447,45.718338],[13.011631,45.717983],[13.008499,45.718044],[13.009185,45.721279],[13.010215,45.723679],[13.010902,45.721401],[13.012447,45.718338]]]],"created":1292505665,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5205/shapefiles/713876_20101216_476b638f99.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

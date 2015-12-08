@@ -1,0 +1,15 @@
+{
+  "id": 2485540,
+  "type": "Feature",
+  "properties": {
+    "name":"Rozel, Kansas, United States",
+    "placetype":"locality",
+    "woe:id":2485540,
+    "woe:name":"Rozel, Kansas, United States",
+    "woe:place_id":"gyWH7kqbBZRTnx7R",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-99.414848,38.189922,-99.400131,38.197449],
+  "geometry": {"alpha":0.00015,"bbox":[-99.414848327637,38.189922332764,-99.400131225586,38.197448730469],"coordinates":[[[[-99.401123,38.195255],[-99.400131,38.194145],[-99.401505,38.190552],[-99.414848,38.189922],[-99.40567,38.197449],[-99.401123,38.195255]]]],"created":1292440983,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5201/shapefiles/2485540_20101215_7c671df5a2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

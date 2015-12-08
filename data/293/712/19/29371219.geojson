@@ -1,0 +1,15 @@
+{
+  "id": 29371219,
+  "type": "Feature",
+  "properties": {
+    "name":"Dena, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":29371219,
+    "woe:name":"Dena, Galicia, Spain",
+    "woe:place_id":"kfMU._KbCJ8khNtz_w",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.812623,42.450283,-8.811369,42.453861],
+  "geometry": {"alpha":0.00015,"bbox":[-8.8126230239868,42.450283050537,-8.8113689422607,42.453861236572],"coordinates":[[[[-8.811378,42.453861],[-8.811369,42.453018],[-8.811764,42.450283],[-8.812623,42.450497],[-8.811721,42.453735],[-8.811378,42.453861]]]],"created":1292541802,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/29371219_20101216_afd1d923a2.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 624323,
+  "type": "Feature",
+  "properties": {
+    "name":"St Germain, Centre, France",
+    "placetype":"locality",
+    "woe:id":624323,
+    "woe:name":"St Germain, Centre, France",
+    "woe:place_id":"0Sg0zbCfA5gRg7s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.484111,47.08823,2.489959,47.092915],
+  "geometry": {"alpha":0.00015,"bbox":[2.4841110706329,47.088230133057,2.4899590015411,47.092914581299],"coordinates":[[[[2.489959,47.088394],[2.489663,47.088264],[2.489095,47.08823],[2.484111,47.092915],[2.489551,47.088943],[2.489959,47.088394]]]],"created":1292489824,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5007/shapefiles/624323_20101216_f374788948.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

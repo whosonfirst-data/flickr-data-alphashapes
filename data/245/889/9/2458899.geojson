@@ -1,0 +1,15 @@
+{
+  "id": 2458899,
+  "type": "Feature",
+  "properties": {
+    "name":"New Raymer, Colorado, United States",
+    "placetype":"locality",
+    "woe:id":2458899,
+    "woe:name":"New Raymer, Colorado, United States",
+    "woe:place_id":"O5O8qRabBZntyjFz",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.84655,40.606491,-103.819427,40.618916],
+  "geometry": {"alpha":0.00015,"bbox":[-103.84654998779,40.606491088867,-103.81942749023,40.618915557861],"coordinates":[[[[-103.841759,40.606491],[-103.84655,40.610695],[-103.83886,40.618916],[-103.819427,40.611019],[-103.840073,40.606834],[-103.841759,40.606491]]]],"created":1292500997,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5049/shapefiles/2458899_20101216_fcbc4f4feb.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

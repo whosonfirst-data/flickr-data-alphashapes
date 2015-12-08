@@ -1,0 +1,15 @@
+{
+  "id": 827,
+  "type": "Feature",
+  "properties": {
+    "name":"La Sarre, Quebec, Canada",
+    "placetype":"locality",
+    "woe:id":827,
+    "woe:name":"La Sarre, Quebec, Canada",
+    "woe:place_id":"sr85Dv2RA5s",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.226189,48.786961,-79.200699,48.809784],
+  "geometry": {"alpha":0.00015,"bbox":[-79.226188659668,48.786960601807,-79.200698852539,48.809783935547],"coordinates":[[[[-79.203354,48.808334],[-79.200699,48.801495],[-79.201813,48.800529],[-79.207993,48.786961],[-79.205246,48.804714],[-79.226189,48.802059],[-79.209572,48.809784],[-79.203873,48.809574],[-79.203354,48.808334]]]],"created":1292538658,"edges":9,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5123/shapefiles/827_20101216_7717f39058.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

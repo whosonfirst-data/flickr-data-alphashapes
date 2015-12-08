@@ -1,0 +1,15 @@
+{
+  "id": 28586933,
+  "type": "Feature",
+  "properties": {
+    "name":"Preston Settlement, Western Australia, Australia",
+    "placetype":"locality",
+    "woe:id":28586933,
+    "woe:name":"Preston Settlement, Western Australia, Australia",
+    "woe:place_id":"HOADV_GbCZmjxM3oTg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [116.142479,-33.418835,116.162567,-33.386875],
+  "geometry": {"alpha":0.00015,"bbox":[116.14247894287,-33.418834686279,116.16256713867,-33.386875152588],"coordinates":[[[[116.160332,-33.386875],[116.162567,-33.400707],[116.162567,-33.418045],[116.151405,-33.418835],[116.155525,-33.396481],[116.142479,-33.389458],[116.160332,-33.386875]]]],"created":1292503323,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5089/shapefiles/28586933_20101216_5596bfbc06.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 26808681,
+  "type": "Feature",
+  "properties": {
+    "name":"Ciudad Barrios, San Miguel, El Salvador",
+    "placetype":"county",
+    "woe:id":26808681,
+    "woe:name":"Ciudad Barrios, San Miguel, El Salvador",
+    "woe:place_id":"GrxcA9ObB5RgjwmT9w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-88.330078,13.742053,-88.251114,13.779401],
+  "geometry": {"alpha":0.0015,"bbox":[-88.330078125,13.742053031921,-88.251113891602,13.7794008255],"coordinates":[[[[-88.273773,13.779401],[-88.251114,13.768064],[-88.258926,13.752724],[-88.330078,13.742053],[-88.273773,13.779401]]]],"created":1234672206,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3627/shapefiles/26808681_20090215_b34c1a0d32.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

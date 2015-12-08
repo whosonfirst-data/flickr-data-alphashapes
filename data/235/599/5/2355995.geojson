@@ -1,0 +1,15 @@
+{
+  "id": 2355995,
+  "type": "Feature",
+  "properties": {
+    "name":"Arlington Junction, Washington, United States",
+    "placetype":"locality",
+    "woe:id":2355995,
+    "woe:name":"Arlington Junction, Washington, United States",
+    "woe:place_id":"ymyh5g.bApmya9Wr",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-122.133636,48.203259,-122.128227,48.210945],
+  "geometry": {"alpha":0.00015,"bbox":[-122.13363647461,48.203258514404,-122.12822723389,48.210945129395],"coordinates":[[[[-122.128311,48.203781],[-122.128227,48.203621],[-122.128983,48.203259],[-122.129387,48.203739],[-122.133636,48.210945],[-122.128311,48.203781]]]],"created":1292468465,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5001/shapefiles/2355995_20101216_dc45423a53.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

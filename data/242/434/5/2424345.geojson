@@ -1,0 +1,15 @@
+{
+  "id": 2424345,
+  "type": "Feature",
+  "properties": {
+    "name":"Hopkins Crossing, Waverly, TN, US, United States",
+    "placetype":"neighbourhood",
+    "woe:id":2424345,
+    "woe:name":"Hopkins Crossing, Waverly, TN, US, United States",
+    "woe:place_id":"rj8ebb2bBZ5u2wEb",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-87.775269,36.084274,-87.772736,36.087639],
+  "geometry": {"alpha":1e-05,"bbox":[-87.775268554688,36.084274291992,-87.772735595703,36.08763885498],"coordinates":[[[[-87.775139,36.087639],[-87.772736,36.084274],[-87.774155,36.084846],[-87.775269,36.085262],[-87.775139,36.087639]]]],"created":1292522075,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/2424345_20101216_f6a1967b47.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

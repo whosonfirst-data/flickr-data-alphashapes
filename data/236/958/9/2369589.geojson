@@ -1,0 +1,15 @@
+{
+  "id": 2369589,
+  "type": "Feature",
+  "properties": {
+    "name":"Broadway, New Jersey, United States",
+    "placetype":"locality",
+    "woe:id":2369589,
+    "woe:name":"Broadway, New Jersey, United States",
+    "woe:place_id":"pwMMXkGbAppyninD",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.054298,40.717842,-75.040939,40.733601],
+  "geometry": {"alpha":0.00015,"bbox":[-75.054298400879,40.717842102051,-75.040939331055,40.733600616455],"coordinates":[[[[-75.052071,40.732922],[-75.050865,40.732506],[-75.040939,40.717842],[-75.051392,40.732311],[-75.054298,40.733601],[-75.052071,40.732922]]]],"created":1292527447,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5284/shapefiles/2369589_20101216_2fe9f0e481.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

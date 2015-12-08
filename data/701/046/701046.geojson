@@ -1,0 +1,15 @@
+{
+  "id": 701046,
+  "type": "Feature",
+  "properties": {
+    "name":"Unterhausen, Bavaria, Germany",
+    "placetype":"locality",
+    "woe:id":701046,
+    "woe:name":"Unterhausen, Bavaria, Germany",
+    "woe:place_id":"RRjvwfieAZ0GDzQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [11.082973,48.733322,11.096706,48.745861],
+  "geometry": {"alpha":0.00015,"bbox":[11.08297252655,48.733322143555,11.096706390381,48.745861053467],"coordinates":[[[[11.087694,48.733604],[11.082973,48.736267],[11.096706,48.745861],[11.089153,48.733322],[11.087694,48.733604]]]],"created":1247974209,"edges":5,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2650/shapefiles/701046_20090719_eacdbce4de.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 20201785,
+  "type": "Feature",
+  "properties": {
+    "name":"Esigna, Corsica, France",
+    "placetype":"locality",
+    "woe:id":20201785,
+    "woe:name":"Esigna, Corsica, France",
+    "woe:place_id":"blcVktSbAZ5QHajy8g",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [8.705463,42.099876,8.709754,42.103573],
+  "geometry": {"alpha":0.00015,"bbox":[8.7054634094238,42.099876403809,8.7097539901733,42.103572845459],"coordinates":[[[[8.707716,42.100563],[8.706493,42.10231],[8.705463,42.103573],[8.70615,42.102882],[8.709754,42.099876],[8.707716,42.100563]]]],"created":1292530143,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20201785_20101216_b0a0a4db26.tar.gz"},"points":12,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 23400302,
+  "type": "Feature",
+  "properties": {
+    "name":"Crumlin, London, ON, CA, Canada",
+    "placetype":"neighbourhood",
+    "woe:id":23400302,
+    "woe:name":"Crumlin, London, ON, CA, Canada",
+    "woe:place_id":"Jm4M0ISbApg4EevWow",
+    "woe:placetype":"neighbourhood",
+    "woe:placetype_id":22
+},
+  "bbox": [-81.147324,42.988796,-81.140724,42.991825],
+  "geometry": {"alpha":1e-05,"bbox":[-81.147323608398,42.988796234131,-81.140724182129,42.99182510376],"coordinates":[[[[-81.147324,42.98888],[-81.146133,42.991825],[-81.140724,42.991463],[-81.144592,42.988796],[-81.147324,42.98888]]]],"created":1292538885,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5204/shapefiles/23400302_20101216_ba29a1a967.tar.gz"},"points":14,"type":"MultiPolygon"}
+}

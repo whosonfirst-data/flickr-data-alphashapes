@@ -1,0 +1,15 @@
+{
+  "id": 20075628,
+  "type": "Feature",
+  "properties": {
+    "name":"Vich, Switzerland",
+    "placetype":"locality",
+    "woe:id":20075628,
+    "woe:name":"Vich, Switzerland",
+    "woe:place_id":"7aN4WNmbAZxi5fymiA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [6.234,46.431831,6.239167,46.435501],
+  "geometry": {"alpha":1e-05,"bbox":[6.2340002059937,46.431831359863,6.2391672134399,46.435501098633],"coordinates":[[[[6.234333,46.434502],[6.234,46.435165],[6.237667,46.435501],[6.239167,46.431831],[6.2375,46.431831],[6.237167,46.431999],[6.234333,46.434502]]]],"created":1292449135,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5129/shapefiles/20075628_20101215_18d0767c8d.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

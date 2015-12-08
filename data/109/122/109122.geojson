@@ -1,0 +1,15 @@
+{
+  "id": 109122,
+  "type": "Feature",
+  "properties": {
+    "name":"Hill Top, Saint Elizabeth, Jamaica",
+    "placetype":"locality",
+    "woe:id":109122,
+    "woe:name":"Hill Top, Saint Elizabeth, Jamaica",
+    "woe:place_id":"Ab_KSO2YAZVgmKE",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-77.858902,17.928516,-77.826118,17.957994],
+  "geometry": {"alpha":0.00015,"bbox":[-77.858901977539,17.928516387939,-77.826118469238,17.95799446106],"coordinates":[[[[-77.838135,17.949829],[-77.837105,17.928516],[-77.842255,17.948605],[-77.858902,17.954077],[-77.846375,17.957994],[-77.826118,17.952932],[-77.838135,17.949829]]]],"created":1292535425,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5247/shapefiles/109122_20101216_f9f1ea3169.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

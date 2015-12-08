@@ -1,0 +1,15 @@
+{
+  "id": 1573806,
+  "type": "Feature",
+  "properties": {
+    "name":"Roma, Lusaka, Zambia",
+    "placetype":"locality",
+    "woe:id":1573806,
+    "woe:name":"Roma, Lusaka, Zambia",
+    "woe:place_id":"PaL9ypaYBJs4b5vu",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [28.38031,-15.37595,28.384949,-15.367461],
+  "geometry": {"alpha":0.00015,"bbox":[28.380310058594,-15.375949859619,28.384948730469,-15.367461204529],"coordinates":[[[[28.383287,-15.367519],[28.38332,-15.367461],[28.384949,-15.367462],[28.38031,-15.37595],[28.383226,-15.367641],[28.383287,-15.367519]]]],"created":1292551436,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/1573806_20101217_a6821d2256.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

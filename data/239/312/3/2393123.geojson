@@ -1,0 +1,15 @@
+{
+  "id": 2393123,
+  "type": "Feature",
+  "properties": {
+    "name":"Dothan, South Carolina, United States",
+    "placetype":"locality",
+    "woe:id":2393123,
+    "woe:name":"Dothan, South Carolina, United States",
+    "woe:place_id":"p.5oeLubApWPpIe0",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-79.425385,34.409973,-79.41201,34.419334],
+  "geometry": {"alpha":0.00015,"bbox":[-79.425384521484,34.409973144531,-79.412010192871,34.419334411621],"coordinates":[[[[-79.415573,34.419334],[-79.41201,34.417583],[-79.4133,34.41399],[-79.425385,34.409973],[-79.415573,34.419334]]]],"created":1292523267,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5044/shapefiles/2393123_20101216_8b7fdf5e29.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

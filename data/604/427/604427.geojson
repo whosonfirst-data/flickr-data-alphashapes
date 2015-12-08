@@ -1,0 +1,15 @@
+{
+  "id": 604427,
+  "type": "Feature",
+  "properties": {
+    "name":"Le Rieux, Limousin, France",
+    "placetype":"locality",
+    "woe:id":604427,
+    "woe:name":"Le Rieux, Limousin, France",
+    "woe:place_id":"5MU.9qKfAZiIehI",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.028007,45.16346,2.035732,45.170662],
+  "geometry": {"alpha":0.00015,"bbox":[2.0280070304871,45.163459777832,2.0357320308685,45.17066192627],"coordinates":[[[[2.029638,45.166939],[2.028436,45.169483],[2.028007,45.170662],[2.035732,45.16346],[2.030067,45.166183],[2.029638,45.166939]]]],"created":1248137408,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3448/shapefiles/604427_20090721_4560652e6d.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

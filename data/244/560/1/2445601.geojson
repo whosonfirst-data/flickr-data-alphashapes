@@ -1,0 +1,15 @@
+{
+  "id": 2445601,
+  "type": "Feature",
+  "properties": {
+    "name":"Margaretville, New York, United States",
+    "placetype":"locality",
+    "woe:id":2445601,
+    "woe:name":"Margaretville, New York, United States",
+    "woe:place_id":"M8XLCwGbBZgBjHu3",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-74.661453,42.138969,-74.635933,42.161907],
+  "geometry": {"alpha":0.00015,"bbox":[-74.66145324707,42.138969421387,-74.635932922363,42.161907196045],"coordinates":[[[[-74.650589,42.147598],[-74.661453,42.161907],[-74.637863,42.159225],[-74.635933,42.146362],[-74.646606,42.138969],[-74.650589,42.147598]]]],"created":1248234369,"edges":6,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3455/shapefiles/2445601_20090722_7108870233.tar.gz"},"points":30,"type":"MultiPolygon"}
+}

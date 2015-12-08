@@ -1,0 +1,15 @@
+{
+  "id": 2403313,
+  "type": "Feature",
+  "properties": {
+    "name":"Fife, North Dakota, United States",
+    "placetype":"locality",
+    "woe:id":2403313,
+    "woe:name":"Fife, North Dakota, United States",
+    "woe:place_id":"XeKVQoObBZxzmwCT",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-96.932907,46.87355,-96.928253,46.878029],
+  "geometry": {"alpha":0.00015,"bbox":[-96.932907104492,46.873550415039,-96.928253173828,46.878028869629],"coordinates":[[[[-96.932907,46.87542],[-96.931992,46.877331],[-96.928253,46.878029],[-96.928513,46.874771],[-96.930275,46.87355],[-96.932907,46.87542]]]],"created":1292548260,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/2403313_20101217_cfdec6cba8.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

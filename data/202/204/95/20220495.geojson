@@ -1,0 +1,15 @@
+{
+  "id": 20220495,
+  "type": "Feature",
+  "properties": {
+    "name":"Algars, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":20220495,
+    "woe:name":"Algars, Valencia, Spain",
+    "woe:place_id":"otOBmsqbAZ6rPTsrmg",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.453636,38.713463,-0.451317,38.716396],
+  "geometry": {"alpha":0.00015,"bbox":[-0.45363599061966,38.71346282959,-0.45131701231003,38.716396331787],"coordinates":[[[[-0.4516,38.716286],[-0.451533,38.715225],[-0.451317,38.713463],[-0.4515,38.713665],[-0.453636,38.716396],[-0.4516,38.716286]]]],"created":1292452297,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5168/shapefiles/20220495_20101215_2f836da9ba.tar.gz"},"points":8,"type":"MultiPolygon"}
+}

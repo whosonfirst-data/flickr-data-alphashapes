@@ -1,0 +1,15 @@
+{
+  "id": 20110951,
+  "type": "Feature",
+  "properties": {
+    "name":"Basiglio, Lombardy, Italy",
+    "placetype":"locality",
+    "woe:id":20110951,
+    "woe:name":"Basiglio, Lombardy, Italy",
+    "woe:place_id":"Cn3kbhGbAZ2PR1.UBw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [9.156847,45.345631,9.169635,45.358418],
+  "geometry": {"alpha":0.00015,"bbox":[9.1568470001221,45.345630645752,9.1696348190308,45.358417510986],"coordinates":[[[[9.167404,45.351902],[9.169635,45.347198],[9.168262,45.345631],[9.162303,45.349773],[9.156847,45.358418],[9.167404,45.351902]]]],"created":1292452207,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5162/shapefiles/20110951_20101215_7dfe213978.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

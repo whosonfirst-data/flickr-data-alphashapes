@@ -1,0 +1,15 @@
+{
+  "id": 548363,
+  "type": "Feature",
+  "properties": {
+    "name":"Fischbach, Styria, Austria",
+    "placetype":"locality",
+    "woe:id":548363,
+    "woe:name":"Fischbach, Styria, Austria",
+    "woe:place_id":"1AbgxnmcBZRRFjA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [15.642814,47.441425,15.651365,47.453892],
+  "geometry": {"alpha":0.00015,"bbox":[15.642813682556,47.441425323486,15.651365280151,47.45389175415],"coordinates":[[[[15.649166,47.443993],[15.642814,47.453892],[15.649681,47.444923],[15.650539,47.443413],[15.651365,47.441425],[15.649166,47.443993]]]],"created":1292481065,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/548363_20101216_d01631b6d2.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

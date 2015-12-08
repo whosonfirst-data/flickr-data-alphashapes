@@ -1,0 +1,15 @@
+{
+  "id": 12666732,
+  "type": "Feature",
+  "properties": {
+    "name":"Mirepeisset, France",
+    "placetype":"locality",
+    "woe:id":12666732,
+    "woe:name":"Mirepeisset, France",
+    "woe:place_id":"eyTHBvKYA5oMOkdNnQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.903308,43.265266,2.906398,43.266636],
+  "geometry": {"alpha":1e-05,"bbox":[2.9033079147339,43.265266418457,2.9063980579376,43.266635894775],"coordinates":[[[[2.904016,43.265965],[2.903308,43.266636],[2.903823,43.266582],[2.904853,43.266582],[2.906398,43.265266],[2.904016,43.265965]]]],"created":1248192853,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2636/shapefiles/12666732_20090721_16acd61838.tar.gz"},"points":10,"type":"MultiPolygon"}
+}

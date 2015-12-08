@@ -1,0 +1,15 @@
+{
+  "id": 2437911,
+  "type": "Feature",
+  "properties": {
+    "name":"Leesburg, Louisiana, United States",
+    "placetype":"locality",
+    "woe:id":2437911,
+    "woe:name":"Leesburg, Louisiana, United States",
+    "woe:place_id":"5QXkOI6bBZ9vw8YP",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-91.824074,29.999163,-91.815514,30.0058],
+  "geometry": {"alpha":0.00015,"bbox":[-91.824073791504,29.99916267395,-91.81551361084,30.005800247192],"coordinates":[[[[-91.815514,30.004393],[-91.817032,30.002813],[-91.819435,29.999163],[-91.824074,30.004894],[-91.822762,30.0058],[-91.815514,30.004393]]]],"created":1292451843,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5041/shapefiles/2437911_20101215_601c85cb2d.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

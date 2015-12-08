@@ -1,0 +1,15 @@
+{
+  "id": 2357238,
+  "type": "Feature",
+  "properties": {
+    "name":"Au Sable, Michigan, United States",
+    "placetype":"locality",
+    "woe:id":2357238,
+    "woe:name":"Au Sable, Michigan, United States",
+    "woe:place_id":"rjkn8ZSbApkA4sc6",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-83.336792,44.34951,-83.333359,44.35675],
+  "geometry": {"alpha":0.00015,"bbox":[-83.336791992188,44.349510192871,-83.333358764648,44.356750488281],"coordinates":[[[[-83.335419,44.35675],[-83.33503,44.35675],[-83.333359,44.35577],[-83.334305,44.34951],[-83.336792,44.354542],[-83.335419,44.35675]]]],"created":1292529417,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5121/shapefiles/2357238_20101216_2e9d3d218b.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

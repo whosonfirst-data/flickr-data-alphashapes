@@ -1,0 +1,15 @@
+{
+  "id": 20073486,
+  "type": "Feature",
+  "properties": {
+    "name":"Mount Falcon, Ireland",
+    "placetype":"locality",
+    "woe:id":20073486,
+    "woe:name":"Mount Falcon, Ireland",
+    "woe:place_id":"Y6BwOpCbAZyz3HIsXQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-9.2286,54.039791,-9.218301,54.043152],
+  "geometry": {"alpha":1e-05,"bbox":[-9.2285995483398,54.039791107178,-9.218300819397,54.043151855469],"coordinates":[[[[-9.22362,54.040051],[-9.218301,54.040691],[-9.22367,54.039928],[-9.22403,54.039791],[-9.2286,54.043152],[-9.22362,54.040051]]]],"created":1292541166,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5082/shapefiles/20073486_20101216_e8d52f739f.tar.gz"},"points":19,"type":"MultiPolygon"}
+}

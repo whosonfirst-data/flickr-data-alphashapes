@@ -1,0 +1,15 @@
+{
+  "id": 2123,
+  "type": "Feature",
+  "properties": {
+    "name":"Marcelin, Saskatchewan, Canada",
+    "placetype":"locality",
+    "woe:id":2123,
+    "woe:name":"Marcelin, Saskatchewan, Canada",
+    "woe:place_id":"Eps_FG.bAJ7m",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-106.794357,52.925167,-106.788483,52.932083],
+  "geometry": {"alpha":0.00015,"bbox":[-106.7943572998,52.92516708374,-106.78848266602,52.932083129883],"coordinates":[[[[-106.793327,52.926228],[-106.794357,52.927284],[-106.794319,52.928463],[-106.788483,52.932083],[-106.791168,52.925167],[-106.793327,52.926228]]]],"created":1292542926,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5125/shapefiles/2123_20101216_4b35c7d9c2.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

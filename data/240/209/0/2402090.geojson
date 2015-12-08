@@ -1,0 +1,15 @@
+{
+  "id": 2402090,
+  "type": "Feature",
+  "properties": {
+    "name":"Fall Creek, Idaho, United States",
+    "placetype":"locality",
+    "woe:id":2402090,
+    "woe:name":"Fall Creek, Idaho, United States",
+    "woe:place_id":"Nj1eTuqbBZyCcsIR",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-115.652733,45.811394,-115.632164,45.822704],
+  "geometry": {"alpha":0.00015,"bbox":[-115.65273284912,45.811393737793,-115.63216400146,45.822704315186],"coordinates":[[[[-115.632164,45.813667],[-115.632416,45.813393],[-115.632668,45.813332],[-115.652733,45.811394],[-115.634987,45.822704],[-115.632164,45.813667]]]],"created":1292500448,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5202/shapefiles/2402090_20101216_45c23a0e02.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

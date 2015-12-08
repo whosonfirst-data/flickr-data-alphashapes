@@ -1,0 +1,15 @@
+{
+  "id": 22661105,
+  "type": "Feature",
+  "properties": {
+    "name":"La Caleta, Canary Islands, Spain",
+    "placetype":"locality",
+    "woe:id":22661105,
+    "woe:name":"La Caleta, Canary Islands, Spain",
+    "woe:place_id":"aP2NiqCbA5pJIambzA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-17.889559,27.791553,-17.869047,27.802805],
+  "geometry": {"alpha":0.00015,"bbox":[-17.889558792114,27.791553497314,-17.869047164917,27.802804946899],"coordinates":[[[[-17.887264,27.800722],[-17.888006,27.800726],[-17.889559,27.801119],[-17.886318,27.802805],[-17.869047,27.791553],[-17.887264,27.800722]]]],"created":1292495886,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5248/shapefiles/22661105_20101216_53f7421073.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

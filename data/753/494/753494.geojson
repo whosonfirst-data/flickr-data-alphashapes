@@ -1,0 +1,15 @@
+{
+  "id": 753494,
+  "type": "Feature",
+  "properties": {
+    "name":"Balboa, Galicia, Spain",
+    "placetype":"locality",
+    "woe:id":753494,
+    "woe:name":"Balboa, Galicia, Spain",
+    "woe:place_id":"VpRSXvueBJ.4nKU",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-8.409047,42.751759,-8.399176,42.762115],
+  "geometry": {"alpha":0.00015,"bbox":[-8.40904712677,42.751758575439,-8.3991756439209,42.762115478516],"coordinates":[[[[-8.404122,42.751759],[-8.404229,42.751766],[-8.409047,42.75412],[-8.399176,42.762115],[-8.40247,42.752274],[-8.404122,42.751759]]]],"created":1247867889,"edges":6,"is_donuthole":0,"link":{"href":"http://farm3.static.flickr.com/2469/shapefiles/753494_20090717_7d44d8526f.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

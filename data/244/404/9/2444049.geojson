@@ -1,0 +1,15 @@
+{
+  "id": 2444049,
+  "type": "Feature",
+  "properties": {
+    "name":"Madrid, New York, United States",
+    "placetype":"locality",
+    "woe:id":2444049,
+    "woe:name":"Madrid, New York, United States",
+    "woe:place_id":"BpCVTBGbBZiv7NbY",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-75.145195,44.736126,-75.117088,44.75526],
+  "geometry": {"alpha":0.00015,"bbox":[-75.145195007324,44.736125946045,-75.117088317871,44.755260467529],"coordinates":[[[[-75.126907,44.75526],[-75.117088,44.753048],[-75.124939,44.74585],[-75.130775,44.747097],[-75.145195,44.736126],[-75.135086,44.748413],[-75.134209,44.748684],[-75.126907,44.75526]]]],"created":1292538731,"edges":8,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5090/shapefiles/2444049_20101216_7951fce37d.tar.gz"},"points":16,"type":"MultiPolygon"}
+}

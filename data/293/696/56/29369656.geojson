@@ -1,0 +1,15 @@
+{
+  "id": 29369656,
+  "type": "Feature",
+  "properties": {
+    "name":"El Plantio, Valencia, Spain",
+    "placetype":"locality",
+    "woe:id":29369656,
+    "woe:name":"El Plantio, Valencia, Spain",
+    "woe:place_id":"1qN6S9KbCJ9mglB.FQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-0.4955,39.534298,-0.484771,39.543499],
+  "geometry": {"alpha":0.00015,"bbox":[-0.49549999833107,39.534297943115,-0.48477101325989,39.54349899292],"coordinates":[[[[-0.48563,39.534298],[-0.4955,39.541546],[-0.49447,39.542706],[-0.485286,39.543499],[-0.484771,39.537411],[-0.48563,39.534298]]]],"created":1292541707,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5086/shapefiles/29369656_20101216_15b227a2ea.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

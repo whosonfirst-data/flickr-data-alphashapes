@@ -1,0 +1,15 @@
+{
+  "id": 28642875,
+  "type": "Feature",
+  "properties": {
+    "name":"Conway Flat, Canterbury, New Zealand",
+    "placetype":"locality",
+    "woe:id":28642875,
+    "woe:name":"Conway Flat, Canterbury, New Zealand",
+    "woe:place_id":"IRXTEgGbCZo8U9W1AA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [173.445618,-42.636147,173.465027,-42.616276],
+  "geometry": {"alpha":0.00015,"bbox":[173.44561767578,-42.63614654541,173.46502685547,-42.616275787354],"coordinates":[[[[173.463821,-42.616276],[173.463989,-42.61956],[173.465027,-42.624866],[173.463821,-42.624107],[173.445618,-42.636147],[173.458496,-42.617031],[173.463821,-42.616276]]]],"created":1292533596,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5207/shapefiles/28642875_20101216_0504fb15cc.tar.gz"},"points":13,"type":"MultiPolygon"}
+}

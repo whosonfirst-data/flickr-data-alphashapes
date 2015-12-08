@@ -1,0 +1,15 @@
+{
+  "id": 12602712,
+  "type": "Feature",
+  "properties": {
+    "name":"Lo-Reninge, Belgium",
+    "placetype":"locality",
+    "woe:id":12602712,
+    "woe:name":"Lo-Reninge, Belgium",
+    "woe:place_id":"ZFn2pbyYA5rD5bNzFQ",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [2.7453,50.979698,2.7494,50.981998],
+  "geometry": {"alpha":1e-05,"bbox":[2.7453000545502,50.979698181152,2.7493999004364,50.981998443604],"coordinates":[[[[2.747536,50.980579],[2.7453,50.980202],[2.7483,50.981998],[2.7491,50.980499],[2.7494,50.979698],[2.747536,50.980579]]]],"created":1292518801,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5289/shapefiles/12602712_20101216_b9cf445be6.tar.gz"},"points":11,"type":"MultiPolygon"}
+}

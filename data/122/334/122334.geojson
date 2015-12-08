@@ -1,0 +1,15 @@
+{
+  "id": 122334,
+  "type": "Feature",
+  "properties": {
+    "name":"El Salto, Jalisco, Mexico",
+    "placetype":"locality",
+    "woe:id":122334,
+    "woe:name":"El Salto, Jalisco, Mexico",
+    "woe:place_id":"Xq7BL.qYA55tHTA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-103.183296,20.513012,-103.167458,20.533468],
+  "geometry": {"alpha":0.00015,"bbox":[-103.18329620361,20.513011932373,-103.16745758057,20.53346824646],"coordinates":[[[[-103.175568,20.513012],[-103.179924,20.515736],[-103.180397,20.520571],[-103.183296,20.5333],[-103.167458,20.533468],[-103.175568,20.513052],[-103.175568,20.513012]]]],"created":1292453343,"edges":7,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5165/shapefiles/122334_20101215_5bdac921bc.tar.gz"},"points":9,"type":"MultiPolygon"}
+}

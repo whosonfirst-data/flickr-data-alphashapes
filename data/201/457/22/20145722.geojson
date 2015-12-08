@@ -1,0 +1,15 @@
+{
+  "id": 20145722,
+  "type": "Feature",
+  "properties": {
+    "name":"Tilly, Valle d'Aosta, Italy",
+    "placetype":"locality",
+    "woe:id":20145722,
+    "woe:name":"Tilly, Valle d'Aosta, Italy",
+    "woe:place_id":"Ju8dwlqbAZ3AisyyAA",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [7.732175,45.706699,7.734782,45.707287],
+  "geometry": {"alpha":0.00015,"bbox":[7.7321748733521,45.706699371338,7.7347822189331,45.707286834717],"coordinates":[[[[7.732175,45.706699],[7.732357,45.706989],[7.733259,45.707218],[7.734782,45.707287],[7.734042,45.707146],[7.732175,45.706699]]]],"created":1292452266,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5009/shapefiles/20145722_20101215_6be25f7190.tar.gz"},"points":7,"type":"MultiPolygon"}
+}

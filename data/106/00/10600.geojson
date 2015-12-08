@@ -1,0 +1,15 @@
+{
+  "id": 10600,
+  "type": "Feature",
+  "properties": {
+    "name":"Alhampton, England, United Kingdom",
+    "placetype":"locality",
+    "woe:id":10600,
+    "woe:name":"Alhampton, England, United Kingdom",
+    "woe:place_id":"czCApIKYAZpKcw",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-2.546896,51.105946,-2.517242,51.117603],
+  "geometry": {"alpha":0.00015,"bbox":[-2.546895980835,51.105945587158,-2.5172419548035,51.117603302002],"coordinates":[[[[-2.532628,51.117603],[-2.517242,51.116669],[-2.52575,51.105946],[-2.538957,51.109718],[-2.546896,51.1119],[-2.532628,51.117603]]]],"created":1292497989,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5010/shapefiles/10600_20101216_25c4dd359b.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

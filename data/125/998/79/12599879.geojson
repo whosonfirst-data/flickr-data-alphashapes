@@ -1,0 +1,15 @@
+{
+  "id": 12599879,
+  "type": "Feature",
+  "properties": {
+    "name":"Santa Barbara, Chihuahua, Mexico",
+    "placetype":"county",
+    "woe:id":12599879,
+    "woe:name":"Santa Barbara, Chihuahua, Mexico",
+    "woe:place_id":"Mc88c5mYA5nta3PA1w",
+    "woe:placetype":"county",
+    "woe:placetype_id":9
+},
+  "bbox": [-105.819542,26.801088,-105.812584,26.811794],
+  "geometry": {"alpha":0.0015,"bbox":[-105.81954193115,26.80108833313,-105.81258392334,26.811794281006],"coordinates":[[[[-105.812584,26.803234],[-105.813789,26.801088],[-105.819542,26.80492],[-105.815506,26.811794],[-105.812584,26.803234]]]],"created":1292478902,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5282/shapefiles/12599879_20101216_9477550fef.tar.gz"},"points":5,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 29374453,
+  "type": "Feature",
+  "properties": {
+    "name":"Cambridge, New Brunswick, Canada",
+    "placetype":"locality",
+    "woe:id":29374453,
+    "woe:name":"Cambridge, New Brunswick, Canada",
+    "woe:place_id":"CM8hXLqbCJ978PDEow",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-66.105934,45.870888,-66.086884,45.87513],
+  "geometry": {"alpha":0.00015,"bbox":[-66.105934143066,45.870887756348,-66.086883544922,45.875129699707],"coordinates":[[[[-66.105934,45.870888],[-66.103706,45.872917],[-66.086884,45.87513],[-66.102676,45.871605],[-66.105934,45.870888]]]],"created":1292457798,"edges":5,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5087/shapefiles/29374453_20101216_4daa00b0cb.tar.gz"},"points":6,"type":"MultiPolygon"}
+}

@@ -1,0 +1,15 @@
+{
+  "id": 1105555,
+  "type": "Feature",
+  "properties": {
+    "name":"Sherlock, South Australia, Australia",
+    "placetype":"locality",
+    "woe:id":1105555,
+    "woe:name":"Sherlock, South Australia, Australia",
+    "woe:place_id":"tasAJViYAJzCKnUB",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [139.800827,-35.32,139.807007,-35.318169],
+  "geometry": {"alpha":0.00015,"bbox":[139.80082702637,-35.319999694824,139.80700683594,-35.318168640137],"coordinates":[[[[139.807007,-35.319168],[139.802338,-35.32],[139.80217,-35.319836],[139.800827,-35.318169],[139.807007,-35.319168]]]],"created":1234481763,"edges":5,"is_donuthole":0,"link":{"href":"http://farm4.static.flickr.com/3313/shapefiles/1105555_20090212_cc5ce756d9.tar.gz"},"points":4,"type":"MultiPolygon"}
+}

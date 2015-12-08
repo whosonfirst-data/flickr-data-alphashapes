@@ -1,0 +1,15 @@
+{
+  "id": 2412196,
+  "type": "Feature",
+  "properties": {
+    "name":"Goose Creek, Kentucky, United States",
+    "placetype":"locality",
+    "woe:id":2412196,
+    "woe:name":"Goose Creek, Kentucky, United States",
+    "woe:place_id":"Vi6kgtabBZ0Qw_Z8",
+    "woe:placetype":"locality",
+    "woe:placetype_id":7
+},
+  "bbox": [-85.589844,38.28653,-85.577629,38.291592],
+  "geometry": {"alpha":0.00015,"bbox":[-85.58984375,38.286529541016,-85.577629089355,38.291591644287],"coordinates":[[[[-85.589638,38.291359],[-85.589844,38.291576],[-85.589828,38.291592],[-85.589508,38.291534],[-85.577629,38.28653],[-85.589638,38.291359]]]],"created":1292456665,"edges":6,"is_donuthole":0,"link":{"href":"http://farm6.static.flickr.com/5169/shapefiles/2412196_20101215_8cbc1fd460.tar.gz"},"points":10,"type":"MultiPolygon"}
+}
